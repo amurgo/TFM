@@ -1,5 +1,6 @@
 #!/bin/bash
 
+conda init zsh
 # Virtual environment 
 conda env list
 conda activate tfm
