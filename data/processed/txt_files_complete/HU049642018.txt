@@ -1,0 +1,1565 @@
+
+                                    [pic]
+IAC-FH-CK-V1
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: HU/04964/2018
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Held at Field House                  |Decision & Reasons Promulgated       |
+|On the 16th August 2021              |On the 11th October 2021             |
+|                                     |                                     |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE KEITH
+
+
+                                   Between
+
+                                    'IM'
+                    (ANONYMITY DIRECTIONS ARE CONTINUED)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Ms D Revill, instructed by Chambers Solicitors
+For the Respondent:    Ms S Cunha, Senior Home Office Presenting Officer
+
+
+                            DECISION AND REASONS
+
+These are the reasons for the decision which I reserved following the
+hearing on 16th August 2021.  I am remaking of the decision concerning
+appellant's appeal against the respondent's refusal, on 9th February 2018,
+to allow him to remain on human rights (Article 8 ECHR) grounds.  On the
+same date, the respondent issued a notice of her to deport the appellant.
+Ms Revill helpfully set out the appellant's immigration history in her
+skeleton argument, which Ms Cunha accepted was correct.  I set out this
+history below.
+
+The appellant's immigration history
+
+
+
+    |Date               |Event                                             |
+|10th July 1961     |Appellant, a Bangladeshi national, is born in     |
+|                   |Bangladesh.                                       |
+|4th January 1974   |RB (appellant's future wife) born in Bangladesh.  |
+|1982               |RB moves to the UK.                               |
+|30th December 1992 |Appellant enters UK as a visitor.                 |
+|3rd March 1993     |RB and the appellant marry in the UK.             |
+|10th March 1994    |First of the couple's eight children are born.    |
+|                   |The last of the appellant's eight children and the|
+|                   |only one who remains a minor was born on 11th July|
+|                   |2005.                                             |
+|11th May 1994      |The appellant applies for leave to remain as RB's |
+|                   |spouse.  This is initially refused but the        |
+|                   |appellant's appeal is later allowed.              |
+|11th June 1996     |The respondent grants the appellant indefinite    |
+|                   |leave to remain.                                  |
+|7th March 2008     |The appellant is sentenced to six months'         |
+|                   |imprisonment for assault of RB occasioning ABH and|
+|                   |three months' imprisonment for each of two counts |
+|                   |of harassment, served consecutively.              |
+|11th June 2008     |The appellant is notified of liability to         |
+|                   |deportation.                                      |
+|7th July 2008      |The respondent issues a decision to deport the    |
+|                   |appellant.                                        |
+|15th October 2008  |The appellant is released from prison.            |
+|27th February 2009 |The appellant's initial statutory appeal is       |
+|                   |dismissed.  The appellant makes further           |
+|                   |submissions which are refused and the appellant's |
+|                   |appeal is dismissed.  The First-tier Tribunal's   |
+|                   |decision is found to contain a material error of  |
+|                   |law and is set aside.                             |
+|15th April 2010    |FtT Judge Wilson allows the appellant's appeal    |
+|                   |under Article 8 ECHR, due to outstanding family   |
+|                   |proceedings.                                      |
+|8th April 2012     |Appellant applies for a No Time Limit ('NTL')     |
+|                   |stamp for his visa.                               |
+|9th September 2013 |The respondent invites the appellant to give      |
+|                   |reasons why he should not be deported.            |
+|18th September 2013|RB obtains a non-molestation order against the    |
+|                   |appellant.                                        |
+|5th February 2014  |Respondent issues a new decision to deport the    |
+|                   |appellant.  The appellant subsequently appeals    |
+|                   |that decision.                                    |
+|March 2014         |The appellant suffers a heart attack and returns  |
+|                   |to the family home.                               |
+|25th September 2014|The First-tier Tribunal dismisses the appellant's |
+|                   |appeal but this is set aside, on the basis of an  |
+|                   |error of law, in 2015.                            |
+|31st August 2016   |The appellant's children are referred to Social   |
+|                   |Services by the respondent.                       |
+|7th October 2016   |RB naturalised as a British citizen.              |
+|31st October 2016  |The appellant's children's Social Services cases  |
+|                   |are closed with no safeguarding concerns.         |
+|9th February 2018  |The respondent makes a decision to refuse the     |
+|                   |appellant's human rights claim and his NTL        |
+|                   |application.  The appellant subsequently appeals. |
+|21st August 2019   |First-tier Tribunal Judge Herlihy allows the      |
+|                   |appellant's appeal.                               |
+|18th March 2020    |Upper Tribunal Judge Keki? sets aside Judge       |
+|                   |Herlihy's decision, with preserved findings.      |
+|21st December 2020 |The remaking of the appellant's appeal is heard by|
+|                   |Upper Tribunal Judge O'Callaghan, who dismisses   |
+|                   |the appellant's appeal on 7th January 2021.       |
+|19th January 2021  |The appellant applies for permission to appeal to |
+|                   |the Court of Appeal.                              |
+|28th April 2021    |Upper Tribunal Judge O'Callaghan directs that his |
+|                   |decision should be set aside unless               |
+|                   |representations against that course are filed.    |
+|27th May 2021      |No representations are received within the        |
+|                   |timeframe and the 7th January 2021 decision is    |
+|                   |automatically set aside, albeit with preserved    |
+|                   |findings.                                         |
+
+
+The preserved findings
+
+In his decision dated 28th April 2021, in which he confirmed that his
+earlier decision of 7th January 2021 was set aside, at �19, Upper Tribunal
+Judge O'Callaghan stated:
+
+"19. As there is no challenge by the applicant to the findings of fact made
+in the January decision, such findings are preserved in their entirety.
+Also preserved are the findings of fact made by Judge Herlihy at ��29 to 33
+and 36 to 37 of her decision, as per the decision of Judge Keki? at �20."
+
+In summary, Upper Tribunal Judge O'Callaghan's findings were preserved, but
+his analysis of "very compelling circumstances" over and above Exceptions 1
+and 2 for the purposes of Section 117C(6) of the Nationality, Immigration
+and Asylum Act 2002, was, he agreed, flawed as he had taken into account
+claimed domestic violence of which the appellant had not been convicted and
+which was not relied on in the decision to make a deportation order, as
+increasing the public interest in deportation.  In particular, the
+respondent had relied at the hearing upon a lengthy history of violence
+aimed towards RB and their children and reliance was placed upon the non-
+molestation order.  However, noting the Court of Appeal's decision in OH
+(Algeria) v SSHD [2019] EWCA Civ 1763, because the sole basis for the
+deportation order had been the convictions in 2008, Judge O'Callaghan's
+analysis was accordingly flawed.
+
+The preserved findings of Judge O'Callaghan are extensive and are included
+in the Annex to this decision.  The appellant has subsequently adduced
+additional evidence since Judge O'Callaghan's decision which I will set out
+below, together with a very brief summary of Judge O'Callaghan's findings.
+These include extracts from Ms Revill's skeleton argument which also
+helpfully set out a number of points that are undisputed.  The following
+facts are undisputed:
+
+      1. The appellant has a genuine and subsisting parental relationship
+         with his children, the youngest of whom is a minor, aged 16;
+
+      2. the appellant's children are British citizens;
+
+      3. it would be unduly harsh for those children to live in Bangladesh;
+
+      4. the appellant has a genuine and subsisting relationship with RB,
+         who is a British citizen, and it would also be unduly harsh for her
+         to live in Bangladesh.
+
+Judge O'Callaghan dealt with the nature of the appellant's offences against
+RB for which he was convicted at ��19 to 20 of his decision, as including
+wrapping a cable around the neck of RB in anger and pulling it tight, in
+front of his own children.  The appellant also stood trial for, but was
+acquitted of, raping RB in 2013 (�24) but RB secured a non-molestation
+order running for 12 months in 2013.  The appellant did not apply to set
+aside that order but underwent heart surgery and subsequently returned to
+the family home in 2014.
+
+At �33, Judge O'Callaghan noted that Judge Herlihy did not accept that the
+appellant was caring for his wife in any meaningful way and that her
+primary carer was likely to be an older child supported by adult children
+in the family.  Moreover, Judge Herlihy did not accept the evidence that
+the appellant had no family connections in Bangladesh.  Judge Herlihy did
+not regard the "stay" scenario, of the appellant being removed to
+Bangladesh, whilst RB and her children remained in the UK, as unduly harsh.
+ She noted that the appellant's children would continue to live with their
+family members in the UK with whom they had lived all of their lives, in
+the family home, attending the same schools, and continuing to see their
+older siblings.  There was no evidence that RB had ever worked. RB relied
+on state benefits, which she would continue to receive.  RB would also be
+able to rely upon the support of her adult children, who were very
+protective and supportive of her.  Judge Herlihy went on to conclude that
+the appellant had downplayed his connections in Bangladesh and that he
+would not be destitute, as claimed, because of his extended family members
+there.   The appellant's health condition was not a bar to the appellant's
+integration into Bangladesh.
+
+Judge O'Callaghan considered and assessed the appellant's renewed claims
+that he was primary carer for his children and also cared for RB, who had
+suffered a stroke which affected the right side of her body. The appellant
+claimed to care for RB, with that care including massaging her shoulders,
+arms and feet as well as making lunch; and helping RB to wash, dry, and
+change herself.  RB had given evidence that was corroborative of the
+appellant's role in supporting her.  RB described the appellant as her
+"backbone".  Judge O'Callaghan also assessed evidence from the appellant's
+son, who was supportive of the appellant remaining in the UK. The son gave
+evidence that the appellant played a crucial role in supporting the family
+and there was evidence from four of the appellant's seven other children as
+to the appellant's changed ways, but no witness statement from the minor
+child.
+
+Judge O'Callaghan was highly critical of the witnesses' credibility and
+truthfulness for very different reasons.  At ��84 and 85 he explained why
+different witnesses might be prepared not to be truthful and described the
+appellant as being generally a "stranger to the truth" and a "most
+unimpressive witness".  At �92, Judge O'Callaghan concluded that the
+appellant had been engaged in long-term physical violence towards RB and
+their children over many years, accompanied by emotional abuse.  By using
+violence he adopted coercive and dominating behaviour to the personal
+detriment of RB and their children.  The regularity of that violence was
+observed by all of the appellant's children.  The appellant's assertion
+that he had always supported his wife emotionally and physically was
+described by Judge O'Callaghan at �98 as a "blatant lie" and that the
+appellant's answers were rooted in self-absorption, exhibiting concern only
+as to his own position.  He similarly lacked insight into his behaviour
+(see ��99 to 102).  The appellant exhibited no understanding that his
+behaviour towards RB and their children was wrong.  Nevertheless, at �103,
+Judge O'Callaghan was satisfied that social services would have acted upon
+any further complaint of domestic violence after their assessment in
+October 2016.  The facts that the appellant's son, had in recent years,
+physically reached a size and maturity, coupled with the deterioration in
+the appellant's health, meant that the son was now able to protect RB and
+his siblings from any violence directed to them by the appellant.   Judge
+O'Callaghan did not accept, and regarded as outright lies, the appellant's
+evidence as to his role in the family home and supporting or caring for RB
+in any meaningful way.  Whilst the appellant enjoyed his self-identified
+role as head of the household and expected his family to meet his genuine
+and perceived care needs, he lacked sufficient empathy to provide care for
+others (�115).
+
+The hearing
+
+In his review decision, Judge O'Callaghan had directed that the respondent
+had leave to file an addendum decision letter, addressing all issues on
+which she wished to rely in respect of very compelling circumstances.  The
+appellant also had the opportunity to adduce further evidence if he wished,
+provided he gave relevant notification.
+
+In response, the appellant provided a further supplementary bundle
+including new witness statements of the appellant, RB and one of their
+older daughters, TB, together with correspondence from the minor child's
+school; the local Children's Mental Health Services; and a social worker.
+The respondent did not file any addendum decision letter.  Ms Cunha
+confirmed that the respondent was content to rely upon the original
+decision which, in terms of the appellant's treatment of RB, focussed
+solely upon his 2008 conviction, but was nevertheless sufficient, she
+asserted, for the purposes of the public interest in the appellant's
+deportation.
+
+The appellant, RB and TB gave oral evidence in addition to their brief
+written witness statements.  The appellant and RB gave evidence with the
+benefit of a Bangladeshi (Sylheti) interpreter whilst TB gave evidence in
+English.  All three gave evidence in respect of a new matter, namely the
+minor child's history of obsessive compulsive disorder, or OCD, which had
+worsened from January 2021.  Whilst Judge O'Callaghan had been highly
+critical of the witnesses' credibility and I bear this in mind when I
+considered the witnesses' new evidence, there was nevertheless objective
+evidence from third parties which confirmed the minor daughter's condition
+and its severity.
+
+The written witness statements
+
+I summarise the written witness statements of the appellant, RB and TB.  In
+summary, the appellant described his youngest daughter as becoming obsessed
+with hygiene, constantly cleaning herself.  She regularly locked herself in
+the bathroom for 12 to 18 hours at a time and as the OCD took over she
+could not touch anything in the bathroom. She refused to use the toilet as
+she said it was dirty and instead defecated in the bath.  She would require
+assistance having showers as she would not touch soap, shower or shampoo.
+She would start shouting or crying and banging her head if her needs were
+not met.  The emergency services were called to the family home on at least
+one occasion during January 2021 and the appellant and RB accompanied their
+youngest daughter to hospital.
+
+The appellant described needing to repair his boiler, which had broken down
+because of the excessive use of hot water.  There was also an occasion when
+the daughter had panicked, grabbed a knife and this had resulted in the
+couple having to remove all sharp objects but nevertheless the youngest
+daughter had managed to cut her arms several times.  Fortunately the knife
+had been blunt and she was unable to harm herself significantly but this
+was another incidence of the need to call emergency services.
+
+The appellant described RB needing to assist their youngest child with
+showers, which had had a worsening effect on her health, and he gave as an
+example the fact that RB had had to clean the youngest child's excrement
+from the middle of the bath as the daughter would not use the toilet for
+fear of touching anything.
+
+The appellant reiterated his previous assertions of supporting RB
+throughout, including massaging oil into her leg and providing her constant
+support.  The appellant described mopping and disinfecting the floor, which
+could be twice in one day, calming down his daughter, preparing meals and
+cleaning up after everybody; taking his daughter to hospital as RB was too
+unwell to travel; and making sure that the daughter had taken her
+medication twice a day. He also described washing clothes, sometimes as
+many as four to five times in one day.  He would also take his daughter
+outside the family home, with family members, on picnics.
+
+RB's and TB's witness statements were in broadly in similar terms to the
+appellants.
+
+The appellant's oral evidence
+
+The appellant clarified, when challenged, as to how he had taken his
+youngest daughter to hospital, that sometimes one of his daughters who had
+a car would help and sometimes his son would also accompany him.  He would
+also sometimes take a cab.  In relation to whether he did the washing for
+everyone, he indicated that his children would help as well, but they also
+were busy with their homework.  He confirmed that the youngest daughter had
+access to therapy via Zoom calls and also by telephone and that there had
+been two or three visits to the house by social services and from the
+school.  When asked, however, whether he had been spoken to directly about
+the daughter's prognosis specifically, the appellant was unable to add
+anything more than he had been told to do everything with his daughter.  He
+asserted that he had a close relationship with her and was responsible for
+ensuring she had taken her medicine.  However, he was unable to confirm how
+many tablets she was required to take each day and in fact confirmed that
+she had not recently taken her medication, because she did not believe that
+it worked.  This was in contrast to the TB's oral evidence that as far as
+she was aware (and she was aware of the precise number of tablets that her
+sister was prescribed to take) her sister was compliant in taking her
+medicine.
+
+When asked about the specific professional advice he had been given to
+support his daughter, the appellant said he had been told to do things
+slowly with her and not rush tasks, for example, in showering.  He said
+that "we" had contacted social services and the hospital when his daughter
+had self-harmed, although when asked to clarify who was "we", he said that
+sometimes he was the one to make contact; and sometimes RB or their
+children.  He accepted that RB and their daughters helped the youngest
+daughter with showering but asserted that he was able to ensure her
+compliance with medication by offering her gifts such as food or a mobile
+telephone.  He disputed that she was prompted to comply with taking
+medication because she was afraid of him.  She was stronger mentally than
+her siblings and no-one could force her to take medicine.
+
+When challenged as to whether he massaged or cared for RB in other ways,
+when there were a number of RB's adult children living at home, he said
+that because they were all grown up, he had to care for RB.  He was asked
+about the youngest daughter's exams; her recent GCSE results and her school
+attendance.  In his oral evidence, he was vague as to when the daughter had
+restarted physical school attendance, following her illness.  He added that
+she had not attended school in the period just before her GCSE exams,
+because of coronavirus.  He was also vague about whether she would continue
+her studies by attending a sixth-form college, having completed her GCSEs.
+This lack of knowledge was despite this hearing being held in August, so
+not far off the start of the new educational year.  He was unable to name
+any sixth-form college that his daughter might wish to attend. He suggested
+that the daughter might not pursue further studies, as she had not
+submitted an application form. The family had had discussions with social
+services, but he was unclear on the outcome of those discussions.
+
+RB's evidence
+
+RB was noticeably clearer in oral evidence than the appellant about the
+practical impact of her youngest daughter's condition.  The daughter had
+attended school for around two weeks just before her GCSE exams.  RB had
+not been able to help her daughter with her school work, as the daughter
+was reluctant to pick up books because of her phobia about hygiene.  The
+appellant had been unable to help the daughter because he had no education.
+
+
+The youngest daughter had had assistance from her school, as well as a
+counsellor.  RB was also able to give specific evidence about their
+daughter's condition.  The daughter suffered from OCD.  The strategy for
+trying to help her included trying to encourage her to wash less
+frequently, for a shorter period.  RB intervened by asking her to come out,
+and stay out, of the bathroom, which the daughter would sometimes challenge
+and become angry.
+
+RB suggested that it was the appellant who ensured that their daughter took
+her medicine, but in contrast to the appellant, she was aware of the
+prescription detail, namely a single tablet, twice a day, the effect of
+which was to relax the daughter.
+
+The appellant helped with the family cooking, albeit helped by TB.  When
+asked whether external agencies could help the family in the event of the
+appellant's removal, RB confirmed that social services were helping the
+family. They were willing to make daytime home visits, but there was the
+problem at night-time, for example, with the daughter soiling the bath.
+
+RB was aware of the youngest daughter's exam results in very broad terms
+(once again, with a level of detail which contrasted to the appellant's
+evidence). RB was aware that the daughter had GCSE passes including in
+maths and English, wanted to study health and social care at sixth-form
+college in September and wanted to become a teacher.  RB, the appellant and
+children had all discussed the potential sixth-firm course together, as a
+family.  The daughter has a place at college, which RB was able to name
+(the appellant was not even certain that the daughter was enrolled at a
+college, let alone name it).
+
+RB was aware that the youngest daughter was currently refusing to take her
+medicine because she felt that the medication was not working for her.
+
+TB's evidence
+
+TB was now an adult, having been born on 23rd February 1997.  She was now
+married, but due to COVID she had not yet had a civil wedding and so she
+continued to live at home with the appellant, RB and her six siblings, but
+she also visited her husband's family regularly.  TB described at �13 of
+her witness statement that she and two of her sisters would help RB in
+helping the youngest daughter, who could be anxious about who she would
+allow into the bathroom.  TB asserted that it was the appellant who
+supported and cared for RB and ensured the smooth running of the family
+home.
+
+TB reiterated that it was the appellant who ensured that her younger sister
+took her medicine and as far as she was aware, her sister was compliant,
+even as recently as the day before this hearing.
+
+TB did her fair share of helping with the household chores and both of her
+parents cooked.  The appellant alone took her younger sister to hospital,
+but TB clarified that her brother also attended hospital, by way of moral
+support.  TB explained that her father had limited English, so he might
+make call the hospital in broken English and further information would be
+provided by family members.
+
+In terms of her sister's school attendance, she had missed the majority of
+her recent schooling.   She would go to school for one day, feel better but
+then not go in for a number of days.  Her school attendance since April
+2021 was not consistent, but she had passed her GCSE exams and the family
+had discussed her potential college course. TB confirmed that her sister
+was considering studying the same course as she had, in health and social
+care. TB had helped her sister with schoolwork and everybody in the family
+played a different part in supporting her sister.
+
+Findings
+
+I share Judge O'Callaghan's concerns about the appellant's honesty in his
+evidence and RB's and TB's motives in exaggerating the role that he plays
+in supporting the youngest daughter.  In particular, whilst all three have
+emphasised the appellant's role in ensuring that the youngest daughter
+takes her medication, to the extent that TB gave evidence that her sister
+was compliant in taking her medication, I am not satisfied that he plays
+such a role.  Notably, he is not even aware of the dose of medication, in
+contrast to RB and TB.  Whilst the appellant may self-identify as head of
+the household and regards himself as intervening to ensure his daughter
+takes her medication (even convincing her to do so with the promise of
+gifts such as a mobile phone), I find this assertion is unreliable, given
+his basic lack of knowledge about her medication regime.  Moreover, his
+assertion about the pivotal role he plays in her other life choices, for
+example her choice of college, is belied by the fact that he is unaware of
+whether she has a place at college, in contrast to RB's awareness.
+
+Even on the appellant's own account, he is not involved in assisting the
+youngest child in her washing herself, although I accept that he has had
+some role possibly in cleaning, albeit not exclusively, and taking the
+youngest child to hospital.
+
+Were it not for the objective external evidence, I would have significant
+doubts that the appellant plays any meaningful role in supporting his
+daughter at all.  However, there are three important documents that were
+also adduced.
+
+The first, at page [E1] of the supplementary bundle, is a letter from the
+youngest daughter's school dated 14th June 2021.  The letter confirms that
+in March 2020 both parents had come to the school as they were concerned
+about the daughter's behaviour and she had been displaying signs of OCD at
+home.  They had both taken her to the GP, who suggested counselling, and
+this was before the first national lockdown and the child had been classed
+as vulnerable.  The school had taken advice from the Child and Adolescent
+Mental Health Service (CAMHS) education outreach worker and agreed with the
+family to make a referral for the daughter to CAMHS for their services.  It
+was difficult for the child to engage with the school safeguarding officer,
+but the officer discussed and agreed arrangements with both RB and the
+appellant.  RB had explained to the safeguarding officer about the strain
+it was putting on her and needing support from the appellant.  On a
+positive note, the school correspondence referred to the child attending
+school on 19th April 2021, completing all of her internal assessments and
+coping well at school during this time, albeit not always compliant with
+her medication.  The letter concluded:
+
+"I feel that if the appellant is deported this will have a detrimental
+effect on the family as [RB] is unable to manage [the child's]
+behaviour/mental health alone due to her own health problems.  I'm sure it
+will also have a huge negative impact on [the child's] mental health."
+
+Of note, the correspondence is not simply from a general teacher but from a
+safeguarding officer at the school.  It is also consistent with the second
+piece of evidence, a letter from CAMHS dated 14th July 2021, at pages [F1]
+to [F3].  That letter confirmed that the youngest child had been seen by
+CAMHS in June 2020, following referral by her GP and school and that the
+child's symptoms had become progressively worse.  There was a diagnosis of
+OCD in the form of repeated washing, which had progressed to showering for
+hours at a time, multiple times each day, food restriction and not using
+the toilet, because of a repulsion of toilets.
+
+The letter confirmed the child's medication, sertraline, an antidepressant.
+In a passage headed "risk assessment", the letter described the child as
+expressing the view that sometimes she would feel better if she were dead.
+She had, in the past, taken an overdose of prescribed medication, for which
+she had had to be hospitalised. She had taken a knife from the home kitchen
+and threatened to harm herself with it.  Her parents had ensured that all
+sharps in the home had been removed and there was someone with her at all
+times.  They had been able to make use of the crisis line and attend
+hospital when the child was unwell.
+
+The letter also described the impact on family life. As of July 2021, the
+child's condition meant that either her mother or her father needed to be
+with her constantly.  RB had to wash her, sometimes up to 10 times a day.
+The bathroom had to be cleaned with bleach before the child would use it.
+RB had had a stroke, which meant that she herself was often exhausted and
+in pain, but continued to support her daughter.  The appellant was
+described as an essential support both to RB and children, ensuring that
+food and chores were completed,  and an essential part of his daughter's
+safety plan, albeit in oral evidence, the appellant was vague as to hat the
+safety plan was.  The letter nevertheless concluded that the child was also
+close to her father and it was likely that his deportation would lead to a
+further deterioration in her symptoms.  Due to the child's current risk on
+presentation, history of overdosing and self-harming, social services are
+involved in the family.
+
+From the assessments that had been carried out it, the view of CAMHS was
+clear that in spite of both parents supporting their daughter, more support
+was needed.  If the appellant were deported, it was likely that more
+intensive social care support would be needed, as RB would not be able to
+cope with the child's issues, as she had her own significant disabilities.
+
+The final letter was from the local authority social worker, who was
+allocated to the youngest child.  She confirmed, in correspondence dated
+16th July 2021, that the Council's intervention team had received a
+referral in November 2020 highlighting concerns of the risk of harm to the
+youngest daughter because of diagnosis of the OCD and that they were
+working with the family as having a "child in need".  The child was
+reported as improving, but with fluctuations and this meant that the child
+was carrying out certain rituals in order to ensure cleanliness and that
+leaving the home could be difficult.  Whilst the letter acknowledged that
+there was an extensive history of domestic violence between RB and the
+appellant (more properly described as the appellant perpetrating violence
+on RB), but there had been no further disclosures of domestic violence
+since 2013.  The local authority's view was that any significant change to
+the family dynamic would impact the family, particularly as the youngest
+child would not otherwise then have the care and support of the appellant,
+which would have a significant impact on her mental and emotional
+wellbeing.
+
+It is in the context of the powerful evidence from these three sources, all
+consistent with one another, that despite the witness evidence of the
+appellant, RB and TB overstating the precise practical support that the
+appellant might play (for example being unaware of whether his youngest
+daughter was in fact enrolled in college and unaware of her medication
+regime), I am prepared to accept that the appellant has played and
+currently plays an important role in providing emotional support to his
+youngest daughter in her battle with OCD.  This is notwithstanding the
+prolonged period of domestic violence to which he has subjected RB and
+which their youngest daughter may have witnessed.  The views of the
+assigned social worker and CAMHS are unequivocal, that there is a real risk
+of a deterioration in the health of a minor child who, on any view, is
+acutely unwell, highly vulnerable, and is at real risk of harm from
+herself.  The improvements in the child's health are fragile, to say the
+least, with the child currently not taking her medication and improvements
+often only being described as sporadic.  The same agencies support the view
+that the appellant's removal would take away an important source of support
+for the minor daughter, and that this has implications for management of
+her condition, in circumstances where she needs someone with her at all
+times.
+
+In these circumstances, in light of this new evidence, I am prepared to
+find that the appellant's removal from the UK would have a significant
+material impact on his youngest child's health and indeed could positively
+harm her.  I am satisfied that even with the intervention of CAMHS and the
+support from the child's siblings in supporting RB as a lone mother, that
+on the current facts, the effect of deportation could cause real harm to
+the child, in terms of risk to her.
+
+Discussion and conclusions
+
+I do not recite the law that was already referred to by Judge O'Callaghan
+in his decision, except to say that first, I note, without gloss, the
+statutory provisions of sections of sections 117A to D of the Nationality,
+Immigration and Asylum Act 2002. The appellant is a foreign criminal, by
+virtue of an offence that has caused serious harm, and I start from the
+presumption that deportation is in the public interest.
+
+I also take into account that for the purposes of the appellant's family
+life, there is a preserved finding that the effect of the "stay" scenario
+(i.e. the appellant being removed to Bangladesh while RB and their children
+remain in the UK), for the purposes of Exception 2, under section 117C(5),
+was found not to be unduly harsh, and Ms Revill does not seek to disturb
+that previous decision.  Instead, she argues that I should nevertheless
+consider, afresh, the circumstances as now known in relation to the
+youngest daughter for the purposes of "very compelling circumstances, over
+and above Exception 2".  In doing so, I adopt a "balance-sheet" approach
+(see: Hesham Ali v SSHD [2016] UKSC 60).
+
+Second, when  undertaking the holistic proportionality exercise, I do not
+count against the appellant the allegations of, as opposed to convictions
+for, violence over a sustained period, when the respondent had relied
+solely on the appellant's conviction on 7th March 2008 of 3 counts (ABH and
+two counts of putting persons in fear of violence), as opposed to any wider
+alleged offending, when reaching her decision on 9th February 2018 to
+refuse his human rights claim.
+
+Continuing the balance sheet assessment in terms of right to respect for
+the appellant's family life (for none of the new evidence is relevant to
+private life), I conclude that on the basis of the minor child's medical
+condition as it remains currently, it is in her bests interests that she
+resides with RB and the appellant, which Ms Cunha rightly accepted.  That
+is consistent with the advice from the child's school, CAMHS and the local
+authority. The appellant has been a continuous presence in the family home
+since he returned to it following the expiry of the non-molestation order
+in December 2014 and no further safeguarding issues have been identified in
+the 2016 review.
+
+Moreover, in considering whether there are very compelling circumstances, I
+am conscious that the child is highly vulnerable because of her OCD. The
+objective evidence from three sources, untainted by the appellant's lack of
+truthfulness, is consistent that the appellant's physical presence in the
+child's life plays an important part in mitigating the risk of a
+deterioration in her health, even if his practical assistance is
+overstated, and TB and her siblings can and will continue to provide much
+help to RB.   Also, in the appellant's favour, the sole offending on which
+the respondent has relied in her decision is the 2008 conviction.  She has
+been given the opportunity to issue a fresh decision taking into account
+any other wider pattern of behaviour and has chosen not to do so.  The
+appellant is unlikely to re-offend, for the practical reasons of his ill-
+health and the ability of his son to protect RB and the son's other
+siblings, now that he is older.
+
+Taking the starting point of the public interest in deportation; the
+serious harm caused by the offences for the appellant was convicted in 2008
+and his lack of any insight or remorse on the one hand; and the
+overstatement of the practical help he provides to his daughter; and on the
+other hand, his lack of further offending since 2008 on which there is
+reliance; the low likelihood of further offending; and the important effect
+his physical presence has in mitigating the risks to his daughter, whose
+condition is so serious; and who is currently at so fragile a stage in her
+recovery, this is one of the rare cases where there are, in my view,  very
+compelling circumstances over and above even the high standard of unduly
+harsh effects of the appellant's deportation.
+
+My decision has been a finely balanced one and might otherwise have been
+different, had the respondent issued an addendum decision based on wider
+circumstances of behaviour, or if the daughter were in a more sustained
+period of recovery.  However, I must consider the circumstances on the
+basis of the respondent's decision before me and the circumstances as they
+currently exist.
+
+For the above reasons, the appellant's appeal against the respondent's
+refusal of his application for leave to remain on the basis of human rights
+succeeds.
+
+
+
+Notice of Decision
+
+The appeal is allowed on human rights grounds.
+
+
+
+Direction Regarding Anonymity - Rule 14 of  the  Tribunal  Procedure  (Upper
+Tribunal) Rules 2008
+
+Unless and until a Tribunal or court directs  otherwise,  the  appellant  is
+granted anonymity.   No  report  of  these  proceedings  shall  directly  or
+indirectly identify him  or  any  member  of  his  family.   This  direction
+applies both to the appellant and to  the  respondent.   Failure  to  comply
+with this direction could lead to contempt of court proceedings.
+
+
+
+Signed   J Keith                        Date     6th September 2021
+
+Upper Tribunal Judge Keith
+
+
+
+TO THE RESPONDENT
+FEE AWARD
+
+As I have allowed the appeal, I have decided to make a whole  fee  award  of
+�140.
+
+
+
+Signed        J Keith                   Date     6th September 2021
+
+Upper Tribunal Judge Keith
+
+
+ANNEX - PRESERVED  FINDINGS  FROM  THE  DECISION  OF  UPPER  TRIBUNAL  JUDGE
+O'CALLAGHAN PROMULGATED ON 7TH JANUARY 2021
+
+"Background
+
+15. The appellant entered the United Kingdom in 1992 and married  his  wife
+    in 1993. She enjoyed settled status at the time  of  marriage  and  was
+    naturalised as a British citizen in October 2016.
+
+16. The appellant was subsequently granted leave to remain in this  country
+    as a spouse and secured indefinite leave to remain on 11 June 1996.
+
+17. The couple have eight children, all of whom are British  citizens,  and
+    only the last child is presently a minor. At the date of this  decision
+    the children are aged: 26, 24, 23, 22, 20, 19, 18 and 15.
+
+Criminal caution
+
+18. The appellant has a caution in respect of common assault upon his wife,
+    which pre-dates the conviction detailed below.
+
+Criminal convictions
+
+19. The appellant was convicted at a Crown Court in 2008 on  one  count  of
+    assault occasioning actual bodily harm and two counts of putting people
+    in fear of violence.  He  was  sentenced  to  a  total  of  12  months'
+    imprisonment, with 6 months imposed for the ABH conviction and  2  x  3
+    months' imprisonment consecutive in  relation  to  the  two  counts  of
+    putting people in fear of violence.
+
+20. By means of her sentencing remarks, the  Crown  Court  Judge  observed,
+    inter alia:
+
+         'The fact that [the assault] was committed in a domestic  situation
+         in the context of an unhappy marriage makes  the  offence  no  less
+         serious. In fact, the aggravating features of this offence are that
+         it was the culmination of  a  disagreement  between  you  and  [the
+         appellant's  wife]  during  the  afternoon,  and  what   makes   it
+         particularly bad is that it occurred in the presence of your  young
+         family. They saw you wrap a cable round the neck of  your  wife  in
+         anger and pull it tight. That must have been a horrifying  incident
+         for children so young to witness, happening to  their  mother,  and
+         indeed it must have been a very  frightening  experience  for  [the
+         appellant's wife] as she was choking before she was  released  from
+         the constraint.
+
+         This is not the first time you have come to the  attention  of  the
+         police in a  domestic  violence  situation.  You  have  a  previous
+         caution in respect of a common assault upon her. The fact that your
+         anger is  prompted  by  money  worries  and  stress  is  no  excuse
+         whatsoever.
+
+         ...
+
+         However, these offences, these two offences, were committed  whilst
+         on bail in respect of the assault on  [the  appellant's  wife]  and
+         arise out of that matter. I granted you  conditional  bail,  and  I
+         rather recollect  that  it  was  made  clear  to  you  about  those
+         conditions, and not contacting  [the  appellant's  wife]  or  going
+         around to her address. Yet, in flagrant breach of those conditions,
+         you did go round to her address and you threatened the children  in
+         her presence, or you threatened to hurt the children, and you  also
+         threatened to kill her uncle, and in the context  of  the  violence
+         you had already shown to her back in October, no doubt that  was  a
+         very frightening experience for her.
+
+         Not satisfied with that, later that afternoon, you  telephoned  her
+         uncle and you threatened to kill him and kidnap his children.  Then
+         an hour and 40 minutes later you threatened him again in  the  same
+         terms. As I say these are very serious matters and  you  knew  full
+         well, or you certainly should have done, what you  were  doing  was
+         totally contrary to the bail  you  had  been  given,  and,  in  the
+         context  of  the  previous  assault,  as  I  say,  a  very  serious
+         interference by way of harassment of your wife and her cousin.'
+
+Deportation proceedings
+
+21. On 7 July 2008 the respondent issued a 'reasons for deportation' letter
+    and a decision to make a deportation order. The appellant appealed  and
+    his appeal was allowed by  the  Upper  Tribunal  (DIJ  Wilson)  to  the
+    limited extent that the respondent was to  reconsider  the  appellant's
+    case following the conclusion of Family Court proceedings. The decision
+    of DIJ Wilson was dated 21 April 2010.
+
+22. During the course of those proceedings  (IA/24119/2009)  the  appellant
+    and his wife gave evidence that they were in  communication  with  each
+    following the appellant's release from prison and were reconciled.  The
+    appellant had returned to  the  family  home  in  August  2009.  Social
+    services subsequently directed that he leave the property in  September
+    2009 and he acted upon such instruction.
+
+23. DIJ Wilson noted at [19]-[20]:
+
+         '19. In oral evidence he told me that it  was  due  to  frustration
+             resulting from gambling problems. He then went on to state, 'I
+             didn't threaten my uncle. I just went there. My root cause was
+             gambling. I have got rid of that.  I will be able to  save.  I
+             have not gambled  since  I  have  left  the  prison'.  In  re-
+             examination the  point  was  revisited,  the  Appellant  again
+             confirming he did  not  threaten  his  uncle.  He  was  gently
+             reminded that he had pleaded guilty  to  two  counts,  one  of
+             which was violence, to which he replied, 'Yes sir,  I  pleaded
+             guilty actually in our culture it is different  so  I  pleaded
+             guilty to these offences. I said that if you do  that  I  will
+             kill you but I  didn't  mean  that'.  The  judge's  sentencing
+             remarks were then read out to him that I have set  out  above,
+             the Appellant then stating 'What it is if your uncle  does  it
+             to me I think I will kill him, I meant  that',  the  Appellant
+             then accepted he did threaten his wife and uncle, going on  to
+             say why he had earlier said he  had  not  threated,  'Actually
+             when I was speaking it came out of my mouth now I'm  saying  I
+             am pleading guilty I accept that'.
+
+         20.  I find on the evidence before me the Appellant  has  developed
+             little if  any  awareness  of  the  impact  of  his  violence,
+             primarily directed at his wife, had either on his children  or
+             on his children's uncle.'
+
+Trial in 2013
+
+24. The appellant stood trial in early 2013 having been  charged  with  two
+    counts of raping his wife. The prosecution called as witnesses  to  the
+    events two of the appellant's children who were aged around 14  and  13
+    at the time of the trial. The Crown Court Judge accepted there  was  no
+    case to answer at the conclusion of the prosecution case on the  ground
+    that the evidence of the witnesses was so contradictory and  unreliable
+    that it would not be safe to  leave  it  to  a  jury  to  consider  the
+    verdict. A direction was made that the  jury  find  the  appellant  not
+    guilty on both counts.
+
+Non-molestation order
+
+25. In the late summer  of  2013,  the  appellant's  wife  secured  a  non-
+    molestation order under section 42 of the Family Law Act  1996  from  a
+    County Court that ran for 12 months. The appellant was forbidden, inter
+    alia, from using or threatening any unlawful violence towards his  wife
+    and going within 100 metres of the family home.
+
+26. The appellant did not apply to set aside this order.
+
+Heart surgery
+
+27. The appellant underwent heart surgery in 2014.
+
+Deportation proceedings (continuing)
+
+28. Further to the decision of DIJ Wilson the respondent was not made aware
+    by the appellant as to  the  conclusion  of  Family  Court  proceedings
+    despite a number of requests seeking information. A fresh liability  to
+    deport notice was served on the appellant on 7 June 2013. The appellant
+    exercised his statutory right of appeal and by a decision dated 30 July
+    2015 the First-tier Tribunal (JFtT Meah)  allowed  his  appeal  to  the
+    limited  extent  that  his  matter  was  to  be  reconsidered  by   the
+    respondent:  (DA/00322/2014).  By  means  of  these   proceedings   the
+    appellant confirmed that he had been reconciled with his wife  and  had
+    returned to the family home.
+
+29. The appellant submitted representations to  the  respondent  on  6  May
+    2015, 3 September 2015, 25 January 2016, 21 December 2016 and  10  July
+    2017.
+
+30. The respondent refused the appellant's human rights representations  on
+    9 February 2018 and issued the appellant with a notice to deport  under
+    section 5(1) of the Immigration Act 1971.
+
+31. It was accepted by the respondent that the appellant enjoyed a  genuine
+    and subsisting relationship with his wife. It was further accepted that
+    it would be unduly harsh  for  the  appellant's  wife  to  relocate  to
+    Bangladesh as she was caring for their,  then,  three  minor  children.
+    However, it was decided that it would  not  be  unduly  harsh  for  the
+    appellant's wife and minor children to remain in this  country  in  the
+    absence of the appellant.
+
+32. The appellant exercised his statutory right of  appeal,  which  is  now
+    before this Tribunal.
+
+Preserved findings of fact
+
+33. UTJ Kekic set aside the decision of  the  First-tier  Tribunal  to  the
+    extent that a finding is to be  made  as  to  whether  very  compelling
+    circumstances  arise  in  this  matter.  She  preserved  the  following
+    findings of fact made by JFtT Herlihy:
+
+         '29. In considering the evidence before me I did  not  accept  that
+             the appellant is caring for his wife in any meaningful way and
+             I find that her primary carer is likely to be [an older child]
+             supported by the other adult children in the family.  I  found
+             that the appellant's claim that he is his wife's carer not  to
+             be supported by the medical evidence relating to the award  of
+             Personal Independence Payment to him which  was  made  on  the
+             basis that he needed aids  or  supervision  in  providing  and
+             preparing food, washing and bathing, managing his toilet needs
+             and dressing and undressing. If the appellant is restricted to
+             the extent disclosed in the  PIP  award,  I  do  not  find  it
+             credible that he can be providing care  to  his  wife  to  the
+             extent which he claims.
+
+         30.  Further I did not find the evidence of the appellant  and  his
+             brother credible  to  the  claim  that  they  have  no  family
+             connections in Bangladesh. The evidence that  the  appellant's
+             mother is not living in Bangladesh was clearly contradicted by
+             the evidence of the appellant's wife. There appeared to  be  a
+             contradiction between the evidence of the  appellant  and  his
+             brother as to who the appellant's mother was  living  with  in
+             Saudi Arabia. I do not find it credible that  the  appellant's
+             brother would have visited Bangladesh on two occasions in  the
+             last 5 years for a holiday to be credible and I find it likely
+             that the appellant's mother does live in Bangladesh  and  that
+             there are  extended  family  members  also  living  there.  My
+             findings  are  supported  by  the  evidence  of  the   wedding
+             invitation at [page] 11 of the appeal bundle relating to  [an]
+             invitation to the wedding of the appellant's [named child] (to
+             take place on 21 August  2019)  which  contains  addresses  in
+             Bangladesh both for the bride and groom. It  is  not  credible
+             that [the] wedding invitation  would  contain  an  address  in
+             Bangladesh which is different  from  [the  intended  spouse's]
+             address in Bangladesh if the [...] family had no connection in
+             terms of extended family in Bangladesh.
+
+         31.  In considering the claim that the deportation of the appellant
+             would be unduly harsh for his minor children  and  wife,  both
+             representatives referred to the decision in  KO  (Nigeria)  v.
+             SSHD [2018] UKSC 53 and it was submitted by  the  respondent's
+             representative that this was concerned solely with the  effect
+             on individuals affected by [a] decision to deport and  not  on
+             the appellant and that it  went  beyond  more  than  harshness
+             caused by  separation.  In  KO  (Nigeria)  it  was  also  Lord
+             Carnwath's view that it does not suffice that the  outcome  is
+             'severe' or 'bleak' and the  adverb  'unduly'  must  be  given
+             proper effect and so the position is quite  distant  from  the
+             test of 'unreasonableness' set out in section 117B(6)(b).
+
+         32.  In examining the totality of the evidence it is clear that the
+             appellant's minor children have lived apart from the appellant
+             on two separate occasions and each time remained in  the  care
+             of their mother and have at all times lived with their  mother
+             and siblings and I note that the social workers report  refers
+             to the reliance which the  children  have  upon  one  another.
+             There was no evidence before me that the  two  minor  children
+             suffered any  educational  difficulties  or  had  any  medical
+             conditions such that removing  the  appellant  from  the  home
+             would give rise  to  unduly  harsh  consequences.  The  social
+             worker found that the children were independent and  supported
+             one another.
+
+         33.  If the appellant were deported, life for the appellant's  wife
+             and minor children would change and they  would  clearly  miss
+             their father, but I find it would however be  far  from  being
+             unduly harsh. The appellant's wife and children would continue
+             to live with their family members (the  older  siblings)  with
+             whom they have lived  all  their  lives,  they  will  continue
+             living in the family home and attending the same  schools  and
+             will continue to see their older siblings who have  left  home
+             and who already provide assistance and who can be expected  to
+             help  the  appellant's  wife  with  the  consequences  of  the
+             appellant's  removal.  There  was  no  evidence   that   [the]
+             appellant's wife worked, and it appears that she is  supported
+             by the State and has recourse to benefits, that would not be a
+             matter that will cause or contribute to undue  harshness.  The
+             appellant's wife will be able  to  continue  to  rely  on  the
+             support of her adult children following her recent stroke  and
+             the support of the health authorities and social  services.  I
+             note that the social worker  in  the  report  found  that  the
+             children were very protective and supportive of their  mother.
+             I do accept that reliance upon modern means of  communication,
+             such as Skype, is no substitute for physical presence and face-
+             to-face contact. However, in the event  of  deportation,  such
+             face-to-face contact would be possible. The  appellant's  wife
+             has made visits to Bangladesh in the past as  have  the  three
+             oldest adult children and the appellant's minor children  have
+             grown up in a home with both parents who  are  of  Bangladeshi
+             origin and I find they  are  not  estranged  from  Bangladeshi
+             culture. There is no suggestion that  the  family's  financial
+             circumstances were markedly better than they are at present or
+             would likely be in the  future  given  the  appellant  is  not
+             working due to ill health.
+
+         34.  I find it would be possible for the Appellant to see both  his
+             wife and children in Bangladesh and find that Exception 2 does
+             not apply ...
+
+         ...
+
+         36.  I did not accept the appellant was without family  connections
+             in Bangladesh but I  do  accept  that  he  has  not  lived  in
+             Bangladesh since 1992 and his links to that country are likely
+             to have diminished over time. I accept that the appellant  has
+             clearly attempted to downplay his  connections  to  Bangladesh
+             having initially said that his brother  had  not  visited  for
+             many years when clearly his brother had visited twice  in  the
+             last 5 years and he denied having a mother in Bangladesh which
+             was contradicted by the evidence of his wife. I did  not  find
+             the appellant was acting as a carer for his wife as the  claim
+             clearly conflicts with the evidence  of  the  PIP  award.  The
+             appellant says that he relies on financial  support  from  his
+             children and I see no reason why this would not continue if he
+             were to return to Bangladesh. I  do  not  find  the  appellant
+             would in any event be destitute in Bangladesh as he is  likely
+             to have extended family connections for the  reasons  which  I
+             have given.
+
+         37.  With regard to the appellant's health there  was  no  evidence
+             that treatment for his diabetes and heart condition would  not
+             be possible in Bangladesh  nor  would  his  health  conditions
+             prevent his integration into that country. The appellant would
+             be returning to Bangladesh at the age of 58, to a  country  he
+             left at the age of 31 and would be returning with some  health
+             problems. It is apparent that he  is  clearly  able  to  speak
+             Bengali and his evidence is that he has worked in  the  United
+             Kingdom for very many years but  says  that  he  is  currently
+             unable to work due to  his  health  problems.  The  respondent
+             noted that the award of PIP was not  indefinite,  and  I  note
+             that the award was at the standard rate rather than the higher
+             rate and is due to expire in August 2021.'
+
+84. This matter has required me to consider the various and differing forms
+    of a 'lie' or 'untruth'; a statement made by one who does  not  believe
+    it with the intention that someone else shall be led to believe it. The
+    scope of a 'lie' is wide. It can  range  from  a  harmless  or  trivial
+    untruth, told to avoid hurting someone's feelings, to a bold-faced lie.
+    It can encompass a half-truth, a deceptive statement that includes some
+    element of truth. A lie can be the consequence of  minimization,  where
+    denial is coupled with rationalization  in  situations  where  complete
+    denial is implausible. I also observe a blue lie, a falsehood, told  on
+    behalf of a group, promoted to strengthen bonds among  the  members  of
+    that group. Lies can be brazen or told to protect others. They  can  be
+    the result of fear and coercion or offered to protect another.  In  the
+    evidence before me, I am satisfied that I have  been  faced  with  many
+    lies, covering the range identified above. They have mainly been  crude
+    in form, unable to sustain even gentle forensic examination.  The  task
+    for me has been in identifying their form,  and  the  rationale  behind
+    them.
+
+85. For the reasons  given  below,  and  observing  the  findings  of  JFtT
+    Herlihy, I am satisfied that the appellant is generally a  stranger  to
+    the truth.  His  evidence  is  often  riddled  with  lies  that  cannot
+    withstand even gentle scrutiny. He is a most unimpressive witness.
+
+86. I observe at this juncture that the telling of a lie  or  a  series  of
+    lies, whatever their underlying rationale, does  not  necessarily  mean
+    that very compelling circumstances cannot arise to  reduce  the  public
+    interest in the deportation of foreign criminal.
+
+Preserved findings of fact
+
+88. I return to the preserved findings  of  fact.  The  appellant  and  his
+    brother were found incredible as to their assertion that they  have  no
+    family  connections  in  Bangladesh.  JFtT   Herlihy   observed   clear
+    contradictions in the evidence presented, including  the  fact  that  a
+    wedding invite for one of the appellant's United Kingdom-based children
+    detailed  an  address  for  them  in  Bangladesh.  This  was   strongly
+    suggestive of relatives residing at that address. It is apparent to  me
+    that the evidence provided by the brothers was a crude effort  to  hide
+    the true position as  to  close  familial  links  in  Bangladesh.  Both
+    brothers decided to lie to the Tribunal.
+
+89. As to the impact of deportation upon the three  younger  children,  who
+    were minors at the  time  of  the  hearing  before  her,  JFtT  Herlihy
+    concluded that all of the siblings were able to secure support from one
+    another. She observed that the children had been separated  from  their
+    father  on  two  separate  occasions:  for  several  months  after  his
+    conviction in 2008 and for between five to six months whilst on  remand
+    from 2012 to 2013. Consequent to consideration of the  evidence  placed
+    before me it is possible to be clearer as to  the  time  the  appellant
+    spent away from the family home. The first  period  of  separation  ran
+    from the time of his arrest, in  October  2007,  to  some  unidentified
+    point  in  2010  as  confirmed  by  the  children  in  various  witness
+    statements, with a short period of time  when  the  appellant  returned
+    home between August and September 2009. The appellant's wife secured  a
+    non-molestation order for some period of this time. The  second  period
+    of separation ran from a time in the late summer/early autumn  of  2012
+    to 14 December 2014 and again  the  appellant's  wife  secured  a  non-
+    molestation order for a period of this time.
+
+90. Throughout the time that the appellant was absent from the family home,
+    several of the children remained in the care of  their  mother,  whilst
+    others lived elsewhere. Over time, seven of the  eight  children  again
+    resided together at the family home.
+
+91. JFtT Herlihy determined that whilst  the  children  will  clearly  miss
+    their father upon his being deported the circumstances  were  far  from
+    establishing the required undue harshness. I conclude that such finding
+    is unimpeachable. She futhrt found that the appellant's health concerns
+    could properly be treated in Bangladesh and that the appellant will  be
+    able to integrate upon his return as he resided in Bangladesh until the
+    age of 31 and speaks Bengali.
+
+Domestic violence
+
+92. I find that contrary to the appellant's evidence he was engaged in long-
+    term physical violence towards his wife and children over  many  years,
+    accompanied by emotional abuse. By using violence, he adopted  coercive
+    and dominating behaviour to the personal  detriment  of  his  wife  and
+    children.
+
+93. The appellant was married in 1993 and I am satisfied that it was not  a
+    happy marriage from its early days. Social services have  a  record  of
+    concerns as to domestic violence arising in the marriage going back  to
+    1997. The severity of the violence in April 1997 was such as to require
+    the appellant's wife to flee the family home accompanied by a two-month-
+    old baby, a thirteen-month-old toddler and  her  three-year-old  eldest
+    child. I find that it is more likely than not that  such  violence  was
+    being inflicted by the appellant upon his wife from  an  earlier  date,
+    with the incident in April 1997  being  a  crisis  point  on  her  part
+    arising from real fears  as  to  her  safety  and  the  safety  of  her
+    children.
+
+94. I accept the evidence of the appellant's son that his father engaged in
+    repetitive  domestic  violence  against  his  mother   throughout   his
+    childhood and that it was common for him to watch his father  beat  his
+    mother. I note that often physical  abuse  in  a  relationship  is  not
+    simply confined to inflicting pain but also  a  means  of  establishing
+    dominance. I am satisfied  that  the  appellant  intended  the  use  of
+    violence towards his wife not only to exude  dominance  over  her,  but
+    also upon the children whom he regularly ensured were witnesses to  his
+    acts. The appellant was exercising coercive control.
+
+95. I find, on balance, that the son has grown up in a household where  the
+    appellant was regularly violent to his wife.  I  am  further  satisfied
+    that as such violence was observed by all of the appellant's  children,
+    they  themselves  would  have  regularly  felt  fear  and  intimidation
+    consequent to such observation. I take judicial  notice  that  children
+    who observe domestic violence whilst school-aged regularly feel  guilty
+    about such abuse and blame themselves. Such self-blame  is  evident  in
+    the statement of one of the  children,  who  seeks  to  diminish  their
+    father's actions by  criticizing  their  own  behaviour  observing,  'I
+    realise I also hurt my father in the past  because  I  was  resentful'.
+    This is evidence from one of the three children  who  left  the  family
+    home consequent to physical assaults upon them by the appellant.
+
+96. I also note that the  self-esteem  of  children  who  witness  domestic
+    violence may be adversely impacted, and their school grades may  suffer
+    and they may get into trouble. I observe that by  2002,  when  the  two
+    elder children were aged approximately 6 and 7,  they  informed  school
+    authorities, no doubt as articulately as they could, that their  mother
+    was being subjected to high  levels  of  domestic  violence,  including
+    possible rape. I further observe that at later times the  three  eldest
+    children would fail to return home when teenagers, two of the  children
+    were shoplifting at the age of 13 and 12, and several of  the  children
+    had a poor history of school attendance and were considered not to have
+    achieved their full potential. The personal histories of  the  children
+    corroborate a dysfunctional family home.
+
+97. As to the levels of domestic abuse inflicted within the family unit  by
+    the appellant, I find that it was of a significant level  and  directed
+    toward both his wife and his children. I observe  four  instances  that
+    evidence  this  significant  level  of  violence.  Firstly,  when   the
+    appellant's wife  fled  the  family  home  in  1997  with  three  young
+    children. She was clearly fearful of her personal safety. Secondly,  in
+    2008 when the appellant tied a cable around the  throat  of  his  wife,
+    tightened it and sought to choke  her.  This  was  a  serious  assault.
+    Thirdly, when the appellant attended the family home contrary  to  bail
+    conditions and a court order and proceeded to threatened  to  kill  his
+    wife. I find that the appellant's attendance and  accompanying  threats
+    placed his wife in significant personal fear. Fourthly,  in  2009  when
+    three of his children disclosed that they  had  been  subject  to  such
+    physical violence that they were placed by social  services  away  from
+    the family home. The  appellant  is  identified  as  using  significant
+    violence in 1997, 2008 and 2009 and I am satisfied that as confirmed by
+    the appellant's son these were not rare  occasions.  I  find  that  the
+    appellant consistently used  significant  violence  within  the  family
+    home. I further find that such violence was  accompanied  by  emotional
+    abuse and coercive control.
+
+98. I find the appellant's assertion, identified at �11 of his  March  2020
+    statement that he has been his wife's' backbone' throughout  the  years
+    they have lived  together,  'always'  supporting  her  emotionally  and
+    physically, to be a blatant lie as evidenced by his  regular  bouts  of
+    domestic violence. I am satisfied that he was fully aware that this was
+    a lie when he signed his  statement.  When  asked  at  the  hearing  to
+    explain what he meant by such assertion I am satisfied that his answer,
+    detailed above, clearly established that he had no insight into  how  a
+    loving husband would  emotionally  and  physically  support  his  wife.
+    Rather, the reply made brief reference to his always looking after  his
+    family before veering into concern for his own position. I observe  how
+    regularly the appellant's  answers  before  me  were  rooted  in  self-
+    absorption, exhibiting concern only as to his own position. I find that
+    at �11 of his statement the appellant engaged in a brazen lie, one that
+    is easily identifiable not only by reference to social services records
+    but also by his conviction and caution.
+
+Does the appellant possess insight into his behaviour?
+
+99. In the CYPS assessment the appellant is recorded  as  stating  that  he
+    learned so much from counselling that he undertook for a year and  that
+    he is a changed man.  No  further  details  are  provided  as  to  such
+    counselling.
+
+100. I observe that there is no reference in the CYPS assessment as  to  the
+    appellant exhibiting an understanding  as  to  why  he  acts  violently
+    towards  others.  There  is  no  express  understanding  that  domestic
+    violence often flows from a desire to dominate a partner, to keep fixed
+    an imbalance of power. There is no identification that  he  appreciates
+    the coercive control  that  is  exercised  through  domestic  violence,
+    seeking to promote sexual inequality, such as by consigning his wife to
+    the default position of undertaking housework,  child-care  and  sexual
+    service. He took no steps in his evidence to identify how he  presently
+    manages and controls his temper, when I have found that he  was  unable
+    to do from early on in his marriage in 1993 to at least 2013, a  period
+    of two decades. Rather, the appellant simply informed the assessor that
+    he had not hit or abused his wife for three or four years. I note  that
+    he lived apart from his wife for approximately two of these  years  and
+    was subject to a non-molestation order, so for periods of that time his
+    wife was not living with him.
+
+101. Upon considering the appellant's evidence  presented  over  the  years,
+    before various tribunals, by means of witness  statements  and  in  his
+    oral evidence before me I  find  to  the  requisite  standard  that  he
+    exhibits no true insight into both the nature of his violent  behaviour
+    towards both his wife and his children  and  the  significance  of  the
+    adverse impact such violence has upon them. There is  very  little,  if
+    any, contrition to be observed in the evidence  before  me.  Throughout
+    his evidence to me he spoke with no warmth towards his  wife.  He  only
+    expressed concern  when  ruminating  upon  his  own  position  and  the
+    possibility of his returning to live in Bangladesh.
+
+102. His silence on the issue of domestic  violence  in  all  three  witness
+    statements is stark, as is his constant refrain that it is  unjust  for
+    the respondent to  be  pursuing  his  deportation.  Such  self-absorbed
+    complaint wholly fails to engage with his having been  sentenced  to  a
+    term of imprisonment for a serious assault upon his wife. I  find  that
+    the  appellant  significantly  underplays  his  history  of  inflicting
+    violence upon his family. Such  minimization  is  identifiable  by  the
+    reference in his 2015 statement that, 'We have had problems  just  like
+    any other family'. I find that this  is  strongly  suggestive  that  he
+    perceives others to be responsible for problems within the family  home
+    and that his violent response is acceptable in society. His  identified
+    concerns  before  me  were  predicated  upon  his  personal  situation,
+    primarily his desire to be cared for whilst  suffering  ill  health  in
+    addition  to  a  real  concern  as  to  deportation.  He  exhibits   no
+    understanding that his behaviour towards  his  wife  and  children  was
+    wrong.
+
+Ongoing violence and emotional abuse?
+
+103. I am satisfied that physical violence no longer plays  a  part  in  the
+    appellant's relationship with his wife and children. I  find  both  the
+    appellant and his wife not to be truthful as to when such violence came
+    to an end, the appellant  suggesting  2012  and  the  appellant's  wife
+    struggling to coherently identify a time between 2008 and 2013. I  find
+    that there was sufficient evidence as to ongoing domestic violence  and
+    intimidation to satisfy a District Judge in September 2013 that it  was
+    appropriate to issue a non-molestation order. However, I  am  satisfied
+    that social services would have acted upon  any  further  complaint  of
+    domestic violence after the assessment conducted in October 2016. There
+    were concerns expressed in the CYPS assessment as to the wife  becoming
+    reconciled to the appellant and though no  safeguarding  concerns  were
+    identified at the time, I am satisfied that social services would  have
+    acted quickly thereafter if such concerns were raised.
+
+104. I also find that the appellant's son who attended the  hearing  has  in
+    recent years physically reached a size and maturity, coupled  with  the
+    deterioration in the appellant's health, that he is now able to protect
+    his mother and siblings from any  violence  directed  to  them  by  the
+    appellant, and the appellant is aware of this.
+
+105. Whilst the CYPS notes the children's observations  as  to  there  being
+    less shouting and fewer fights between their parents in 2016, they  did
+    not state that it had ceased. Being mindful that the appellant  is  not
+    being honest as to how he conducts himself toward his wife, the limited
+    engagement with his anger problems in his evidence before the Tribunal,
+    and his lack of understanding as to his behaviour I am  satisfied  that
+    he continues to have anger issues. I find  that  expressions  of  anger
+    would place those living with  him,  particularly  his  wife,  in  fear
+    consequent to historic memories  of  his  anger  being  accompanied  by
+    violence.
+
+Is the appellant providing care to his wife?
+
+106. The appellant's evidence as to his role in the family home was  tainted
+    by exaggeration and outright lies.
+
+107. The appellant was not found by JFtT Herlihy to be credible  as  to  his
+    providing care for his wife in any meaningful way. His  wife's  primary
+    carer was established, on balance, to be an identified child, supported
+    by other adult children. Clear and cogent reasons were given  for  such
+    finding. As observed by JFtT Herlihy, the appellant's  evidence  as  to
+    how he supports his wife was significantly at odds with the evidence of
+    his PIP award. The award  of  August  2017  that  was  filed  with  the
+    Tribunal identified standard rate payments for both  daily  living  and
+    mobility needs. The assessor recorded the information provided  by  the
+    applicant for the assessment as follows, inter alia:
+
+         'You said you have difficulties preparing food,  taking  nutrition,
+         washing and bathing, managing  toilet  needs  or  incontinence  and
+         dressing and undressing. I decided you need an aid  to  prepare  or
+         cook a simple meal, eat and drink,  wash  and  bathe,  manage  your
+         toilet needs or incontinence, and dress and undress. I decided  you
+         can plan and follow the route of a journey unaided.  You  said  you
+         have difficulty moving around. I decided that  you  can  stand  and
+         then move unaided more than 20 metres but no more than 50 metres.
+
+108.  The  appellant  has  filed  no  subsequent  award  decision  detailing
+    amendments to the assessment for daily living needs and mobility needs.
+    There is no evidence before me that his health has improved.
+
+109. A letter from his GP, dated 12 February  2020,  details  the  appellant
+    presenting with shortness of breath when walking and having  restricted
+    movement in his shoulders.
+
+110. I observe the finding of JFtT Herlihy that  the  appellant's  wife  was
+    able to  rely  upon  the  continuing  support  of  her  adult  children
+    following her stroke as well as the support of the  health  authorities
+    and social services.
+
+111. Though the judicial finding of fact as to the appellant  not  providing
+    care for his wife in any meaningful way was preserved by UTJ  Kekic  in
+    her decision of March 2020, both  the  appellant  and  his  wife  again
+    addressed this issue in their supplementary witness statements. I  have
+    read the statements carefully on this issue. I am  satisfied  that  the
+    assertion that the appellant cares for his wife in any  meaningful  way
+    is false. The appellant has subjected both his wife and his children to
+    violence  over  many  years  and  has  shown  no  indication  that   he
+    understands the effect of his actions. I am satisfied that his  primary
+    purpose upon returning to the family home in 2014  was  to  resume  his
+    position as head of the household and to secure the care from his  wife
+    and family he believes he is  entitled  to.  I  find  that  he  is  not
+    providing loving care to his wife, leaving  others  in  the  family  to
+    undertake  that  role.  His  evidence  as  to  his  actions  is  wholly
+    inconsistent with his  physical  capability  as  detailed  to  his  PIP
+    assessor. I am satisfied that his wife's  supportive  evidence  results
+    from  the  coercive  environment  in  which   she   resides.   In   the
+    circumstances, I find that the appellant is lying as to his  being  the
+    primary carer for his wife following her stroke and he has pursued this
+    false assertion because he believes it the best way  of  defeating  the
+    respondent's intention to deport him to Bangladesh.
+
+Role in the house
+
+112. I find that the appellant is not being truthful in his evidence  as  to
+    his purported role in the family home. I find  that  family  meals  are
+    prepared by the appellant's wife and elder children with little  or  no
+    involvement from the appellant, who has been assessed  in  relation  to
+    PIP as requiring aid in preparing a simple meal, let  alone  meals  for
+    the eight people who reside in the family home. I find that he does not
+    massage his wife two times a day. The appellant is  too  self-absorbed,
+    coupled with a clear lack of empathy for his wife,  to  undertake  this
+    task, which I find is undertaken by elder children.  I  find  that  the
+    appellant is untruthful as to his aiding  his  wife  when  she  suffers
+    anxiety and panic attacks. I conclude that her mental  health  concerns
+    are more likely than not deeply rooted in her suffering  at  his  hands
+    and not caused by the present deportation proceedings, which  commenced
+    over a decade ago and have been a constant for the family ever since. I
+    find that his wife turns to her elder children  for  support  when  she
+    experiences anxiety and panic attacks.
+
+113. The appellant's evidence as to his undertaking  the  grocery  shopping,
+    usually on his own but on occasion with his son is contradicted by  his
+    son's evidence that they shop together.  This  is  an  example  of  the
+    appellant seeking to exaggerate his positive actions within the  family
+    unit.
+
+114. I further find the appellant's son to be truthful when confirming  that
+    his mother undertakes a greater role in aiding his minor  sibling  with
+    their homework than the appellant.
+
+115. I conclude that the appellant enjoys his self-identified role  as  head
+    of the household and expects  his  family  to  meet  his  genuine,  and
+    perceived, care needs. He lacks sufficient empathy to provide such care
+    to others. His evidence as to his acts within the house is riddled with
+    inconsistency and consists of a mixture of exaggeration  and  barefaced
+    lies.
+
+Evidence of the wife and children
+
+116. I am mindful that the appellant's wife  and  children  support  him  in
+    these proceedings. I  have  taken  their  evidence  into  account  when
+    considering the issues above. I observe  that  the  respondent  accepts
+    that  the  appellant  and  his  wife  are  in  a  genuine,   subsisting
+    relationship. I further find that several of the children  were  active
+    in encouraging the appellant's return to the family  home  in  December
+    2014.
+
+117. However, there are clear concerns as to the evidence presented  by  the
+    appellant's wife and children. I am satisfied that they are  not  being
+    truthful on several aspects of  their  lives  with  the  appellant.  In
+    seeking to support their husband and father, a number  of  'blue  lies'
+    have been advanced in this matter. The children are  untruthful  as  to
+    the extent of their personal experiences of their father  because  they
+    are united in having identified as a common goal that he  be  permitted
+    to remain in this country.  I  am  satisfied  that  their  reasons  for
+    adopting such approach are complex.
+
+118. I find that the children are not  truthful  in  their  assertions  that
+    they are emotionally and physically dependent upon  their  father.  The
+    children have lived apart from their father on two occasions, amounting
+    to close to five years. During  some  of  this  time  certain  children
+    resided away from the family home consequent to their father's acts  of
+    violence upon them. Other children were affected by the consequences of
+    such violence upon their mother's ability to care for  them,  resulting
+    in neglect. As found above, all of the children have experienced, or at
+    the very least observed, their father's violence. All of  the  children
+    have relied upon their mother at various parts of their lives, some for
+    the majority of their lives, and as found by  JFtT  Herlihy  they  have
+    established reliance between themselves as they have grown older. Seven
+    of the eight children  are  now  adults.  I  find  that  the  years  of
+    emotional and physical abuse have not been forgotten  by  the  children
+    and whilst they may be content for their father to recover  his  health
+    at home, they are not dependent upon him emotionally. The children  are
+    not financially dependent upon their father. He has  not  worked  since
+    his heart surgery in 2014 and is in receipt of PIP. As  found  by  JFtT
+    Herlihy, the appellant relies upon  financial  contributions  from  his
+    children.
+
+119. I am satisfied that several of the children were concerned as to  their
+    father's health following his heart  surgery  and  wished  for  him  to
+    return to the family home. I conclude, as referenced by a number of the
+    children in their statements, that they were horrified to  see  him  in
+    hospital and that knowledge of his condition aroused their  compassion.
+    However, such compassion does not by itself establish deep and enduring
+    love and affection between a father and his children. I find  that  the
+    children were not being honest when referring to their  father  as  the
+    'backbone' of their lives, that they are 'proud' of him, that he  is  a
+    'friend' to them and that they would be 'heartbroken' if he were to  be
+    deported. I  am  satisfied  that  the  appellant's  son  exhibited  the
+    emotional scars that continue to affect him as to  his  father's  long-
+    term violence when he gave evidence before  me.  His  honesty  on  this
+    issue was clearly observable and I find that all of  his  siblings  are
+    more likely than not to have  similar  emotional  scars  consequent  to
+    their personal experiences at the hands of their father.
+
+120. I observe that the appellant's son sought to exaggerate  the  role  the
+    appellant occupies within the family home, though when  gently  pressed
+    he proved willing to be honest as to the true situation. An example  is
+    his initial observation that his father  was  engaged  in  helping  his
+    minor  sibling  with  homework,  and  that  his  mother   only   helped
+    'sometimes'. He quickly accepted in answer to a question from Ms. Cunha
+    that the true position was that his mother helps his sibling more  than
+    this father. The initial approach adopted was consistent with the 'blue
+    lies' advanced by the children as part of a common approach in  seeking
+    to aid their father with his appeal.
+
+121. There are instances of deflection and half-truths in  the  evidence  of
+    the children. One child refers in their witness  statement  to  leaving
+    the family home for five years because of the 'situation  at  home  and
+    arguments amongst the family'. Nothing more is said as to why they left
+    home at the age of 11 and remained away until aged  16.  This  evidence
+    suggests that both mother and father  had  a  responsibility  in  their
+    departure. I have been required to  consider  the  CYPS  assessment  to
+    establish that  they  left  the  family  home  consequent  to  violence
+    inflicted upon them by the appellant and that they were  the  recipient
+    of several local authority/court interventions before  returning  home.
+    The true position was not referenced in the relevant witness statement.
+    I am satisfied that this was because the child sought, for  the  common
+    good, to aid their father with his appeal and consequently  sought  not
+    to provide the full picture as to their father's role in their life.
+
+122. Another child who gave evidence  against  the  appellant  in  the  rape
+    trial makes no reference to such action. Rather,  reference  is  simply
+    made to the appellant being wrongly accused and 'remanded due  to  some
+    allegations my mother  made'  and  'the  charges  were  unfounded'.  No
+    explanation is given as to why they were willing  to  present  evidence
+    against their father at  a  criminal  trial.  Again,  a  half-truth  is
+    utilized in evidence so as to aid the appellant.
+
+123. I further find that the children are not being truthful when  asserting
+    that the decision of the respondent to seek to deport their  father  is
+    'unjust'. They are mature enough to understand  that  the  attack  upon
+    their mother in 2008 was serious. I find that they are simply repeating
+    their  father's  personal  view  in  support  of  his  claim,   without
+    considering the requirement that they provide truthful evidence to this
+    Tribunal.
+
+124. The most significant use of deflection and half-truth  in  the  hearing
+    before me was that all of the witnesses glossed  over  the  2013  trial
+    save for a consistent reference to the charges being unfounded and  the
+    appellant being found not  guilty.  The  charges  themselves  were  not
+    referred to. During pre-hearing reading, I noted reference  within  the
+    COYS assessment to an incident where the appellant forced himself  upon
+    his wife, leading to a trial where the appellant was released  but  not
+    permitted to return home. It was not made clear as to whether the trial
+    concerned an allegation of assault. As detailed above,  I  only  became
+    aware that the appellant has stood trial in relation to two  counts  of
+    marital rape during Ms. Revill's examination of the appellant.
+
+125. The representatives addressed this matter in examination which  led  to
+    the appellant informing me that the Crown Court judge was 'angry'  with
+    his wife at the conclusion of the  no  case  to  answer  decision.  His
+    wife's evidence was that she had no recall of the trial, not  even  the
+    charges, nor as to which of her children attended to give  evidence  in
+    support of her. I find that it would be very unusual for a Crown  Court
+    judge to express annoyance at a  rape  complainant.  The  very  limited
+    documentary evidence before me as to the trial itself, provided by  Ms.
+    Revill upon its receipt from  her  instructing  solicitors  during  the
+    course of the hearing, establishes that the no case to answer  decision
+    was reached consequent to contradictory and  unreliable  evidence,  not
+    upon the allegation being clearly false from the outset.  I  find  that
+    the Crown Court Judge did not  direct  anger  towards  the  appellant's
+    wife. This is an example of the appellant's disparaging attitude to his
+    wife. He is perfectly happy to lie in order to denigrate his wife at  a
+    time when she is supporting him in his appeal.
+
+126. I am satisfied that  the  family  members,  including  the  appellant's
+    wife, intentionally decided to avoid giving relevant  details  on  this
+    issue in their witness statements and in their oral  evidence.  I  have
+    considered  whether  the  decision  was  underpinned   by   shame   and
+    embarrassment, though I observe that the trial  was  addressed  in  the
+    COYS assessment and both parents spoke to the assessor about  it.  Upon
+    careful consideration I find that the appellant, his wife and the  five
+    children who prepared witness statements decided to seek to present the
+    appellant in as good a  light  as  possible  for  the  purpose  of  his
+    deportation appeal and in doing so were prepared  to  engage  in  half-
+    truths and deflection.
+
+127. A combined decision by members of the family not to  present  the  true
+    situation is further evidenced by the silence as to the non-molestation
+    order secured by the appellant's wife in September 2013, several months
+    after the trial. The appellant claims even now not to  know  the  basis
+    upon which his wife sought the order. I find that he is fully aware  as
+    to the basis on which it was  secured.  I  am  satisfied  that  he  has
+    presented half-truths as to having moved into  a  relative's  house  in
+    London in January 2014 and having lived there until  returning  to  the
+    family home in December 2014. He has done so to avoid having to  engage
+    with his wife securing the non-molestation order in September  2013.  I
+    find that he deliberately failed to detail within his evidence the fact
+    that he resided with a relative in Leeds  following  his  release  from
+    custody early in 2013. He was deliberately vague as to his movements at
+    this time before me, as he sought to establish that he was not aware as
+    to the reasons upon which the non-molestation order was granted. I find
+    that his wife knew where he was living when the order was  applied  for
+    and the order was served  upon  him  at  the  correct  address.  He  is
+    untruthful as to such events. I find therefore that he was aware of the
+    nature and contents of the order very soon after it was issued, and  he
+    has been untruthful on this matter before me.  He  seeks  to  hide  the
+    reasons as to why the order was granted in favour of his wife.
+
+128. The appellant's wife has  presented  herself  as  having  virtually  no
+    recollection of seeking and securing the order, beyond her reference to
+    their 'there having been an argument with the children'. This suggests,
+    but no more, that  the  appellant's  anger  was  directed  towards  his
+    children. However, she is named in the  order  and  the  appellant  was
+    prohibited by the order against using or threatening  violence  towards
+    her. Being mindful that she  pursued  the  application  and  instructed
+    legal representation, I find that she is not truthful as to now  having
+    no recollection of the grounds on which the non-molestation  order  was
+    sought and secured. The order was issued  some  eight  or  nine  months
+    after the conclusion of the rape trial and the County Court  must  have
+    been satisfied as to the existence of a risk of significant harm to the
+    appellant's wife, attributable to the conduct of the appellant, if  the
+    order was not made immediately. I am satisfied that by the end of  2013
+    there continued to be  a  real  threat  of  violence,  whether  through
+    threats or harassment, even though the appellant was not residing  with
+    his family. I conclude that the appellant's wife has  lied  as  to  her
+    recollection of events in order to support  the  appellant.  Both  have
+    sought to prevent me from understanding the reason for the order  being
+    sought and the evidence presented to the County Court.
+
+129. I find that the family's witness statements are an effort to  whitewash
+    the years of domestic violence and emotional abuse, the  fracturing  of
+    the family unit for several years and the appellant's continuing anger.
+    They  read  as  hagiographies,  with  no  engagement  with   the   true
+    circumstances.
+
+130. I am satisfied that both the appellant's wife  and  the  children  have
+    decided to act as best as they can to keep the family unit together and
+    to prevent the appellant's deportation. However, I bear  in  mind  that
+    members of the family have experienced  considerable  violence  at  the
+    hands of the appellant. The social  services  records  make  unpleasant
+    reading as to the fractured nature of the family unit. In  addition  to
+    the long-term domestic violence endured by the appellant's wife,  which
+    the  children  observed,  the  appellant  subjected  his  children   to
+    significant violence. This led to minor  instances  of  criminality  by
+    some of the children, and occasions when at least three of the children
+    were reported missing from home. Interim care  orders  were  issued  in
+    respect of three  children  and  interim  supervision  orders  made  in
+    respect of  the  others.  The  local  authority  involvement  with  the
+    children occurred over several years. During such  time  concerns  were
+    raised as to the  neglect  of  the  children  by  their  mother.  I  am
+    satisfied that her son before me accurately identified that his  mother
+    was suffering mental health concerns because of  the  regular  violence
+    inflicted upon her by the appellant. I am satisfied  to  the  requisite
+    standard that the  appellant's  wife  and  children,  having  seen  and
+    experienced violence at his hands, being aware  of  his  ongoing  anger
+    issues, seek to aid the appellant in preventing his deportation, as  it
+    brings short-term benefit to their own well-being in the family home."
