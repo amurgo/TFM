@@ -1,0 +1,697 @@
+
+[pic]
+
+
+|Upper Tribunal                       |                                     |
+|(Immigration and Asylum Chamber)     |Appeal numbers: IA/36308/2014        |
+|                                     |& IA/38168/2014                      |
+|the immigration Acts                                                        |
+|Heard at: Field House               |Decision promulgated                  |
+|On 14 July 2016                     |On 2 August 2016                      |
+|Before                                                                      |
+|Upper Tribunal Judge Gill                                                   |
+|                                                                            |
+|Between                                                                     |
+|                                                                            |
+|           |The Secretary of State for the Home Department    |Appellant    |
+|                                                                            |
+|And                                                                         |
+|                                                                            |
+|           |S.O.                                              |             |
+|           |J.D.                                              |Respondents  |
+|           |(ANONYMITY ORDER MADE)                            |             |
+
+
+    ANONYMITY ORDER
+
+
+    Pursuant to Rule 14 of the Tribunal Procedure  (Upper  Tribunal)  Rules
+    2008 (SI 2008/269) and given that these  proceedings  involve  a  minor
+    child, I make an anonymity order. Unless the Upper Tribunal or a  Court
+    directs otherwise, no report  of  these  proceedings  or  any  form  of
+    publication  thereof  shall  directly  or   indirectly   identify   the
+    Respondents, referred to in the body of this decision as the claimants.
+
+Representation:
+
+For the  appellant:          Mr  E  Tufan,  Senior  Home  Office  Presenting
+                 Officer.
+For the respondent:     Mr  J  H  Trumpington,  of  Counsel,  instructed  by
+                  Immigration & Legal Advisory Services
+
+
+                           Decision and Directions
+
+
+ 1. The Secretary of State  has  been  granted  permission  to  appeal  the
+    decision of Judge of the First-tier  Tribunal  I  M  Scott  who,  in  a
+    decision promulgated on 7  December  2015  following  a  hearing  on  6
+    October 2015, allowed the appeals of Ms S.O. (hereafter "Ms O) and  her
+    son, Master J.D. (hereafter "JD") (together the  "claimants"),  against
+    decisions of the respondent of 31 August 2014 to remove them  from  the
+    United Kingdom made under s.10 of the Immigration and Asylum  Act  1999
+    (the "1999 Act").
+
+ 2. The claimants are nationals of Nigeria. Ms O was born on [ ] 1978.  She
+    arrived in the United Kingdom as a visitor on 25 December 2005  at  the
+    age of 27 years and overstayed.  JD was born in the United Kingdom on [
+    ] 2007. On 10th March 2014, Ms O applied for leave to remain  on  human
+    rights grounds with JD as her dependant.  The application  was  refused
+    on 1st April 2014 with no right of appeal.  Judicial review proceedings
+    were commenced. The proceedings were resolved on  the  basis  that  the
+    Secretary of State would reconsider the application  and,  if  it  were
+    decided to maintain the refusal decision, would also issue a notice  to
+    remove the claimants, thereby giving rise to a right of appeal.  On  13
+    August 2014, the Secretary of State decided  to  maintain  the  refusal
+    decision and gave directions for the claimants' removal from the United
+    Kingdom.  The reasons for refusal are set out in a letter of  the  same
+    date.
+
+The legal framework
+
+ 3. Before turning to the judge's decision, it is appropriate  to  set  out
+    the provisions of s.117A and s.117B of the Nationality, Immigration and
+    Asylum Act 2002 (the "2002 Act") and para 276ADE of  the  Statement  of
+    Changes in the Immigration Rules HC 395 (as amended) (the "Rules").
+
+ 4. Section 117A and s.117B of the 2002 Act provide:
+
+
+        117A Application of this Part
+
+
+        (1)  This Part applies where a court or  tribunal  is  required  to
+              determine whether a decision made under the Immigration Acts-
+
+
+         (a) breaches a person's right to respect for  private  and  family
+              life under Article 8, and
+         (b) as a result would be unlawful under section  6  of  the  Human
+              Rights Act 1998.
+
+
+        (2)  In considering the public  interest  question,  the  court  or
+              tribunal must (in particular) have regard-
+         (a) in all cases, to the considerations listed  in  section  117B,
+              and
+         (b) in cases concerning the deportation of foreign  criminals,  to
+                   the considerations listed in section 117C.
+        (3)  In subsection (2), "the public interest  question"  means  the
+              question of whether an interference with a person's right  to
+              respect for  private  and  family  life  is  justified  under
+              Article 8(2).
+
+
+        117B Article 8: public interest considerations  applicable  in  all
+              cases
+
+
+        (1)  The maintenance of effective immigration controls  is  in  the
+              public interest.
+
+
+        (2)  It is in  the  public  interest,  and  in  particular  in  the
+              interests of the economic well-being of the  United  Kingdom,
+              that persons who seek  to  enter  or  remain  in  the  United
+              Kingdom are able to speak English, because  persons  who  can
+              speak English-
+
+
+         (a) are less of a burden on taxpayers, and
+         (b) are better able to integrate into society.
+
+
+        (3)  It is in  the  public  interest,  and  in  particular  in  the
+              interests of the economic well-being of the  United  Kingdom,
+              that persons who seek  to  enter  or  remain  in  the  United
+              Kingdom are financially independent, because such persons-
+
+
+         (a) are not a burden on taxpayers, and
+         (b) are better able to integrate into society.
+
+
+        (4)  Little weight should be given to-
+
+
+         (a) a private life, or
+         (b) a relationship formed with  a  qualifying  partner,   that  is
+              established by a person at a time when the person is  in  the
+              United Kingdom unlawfully.
+
+
+        (5)  Little weight should be given to a private life established by
+              a person at a time when the person's  immigration  status  is
+              precarious.
+
+
+        (6)  In the case of a person who is not liable to deportation,  the
+              public interest does not require the person's removal where-
+
+
+         (a) the person has a genuine and subsisting parental  relationship
+                   with a qualifying child, and
+         (b) it would not be reasonable to expect the child  to  leave  the
+              United Kingdom.
+
+ 5. The version of para 276ADE(1) that was in force as at the date  of  the
+    decision and the date of the hearing before the judge provided, insofar
+    as relevant, as follows:
+
+
+        276ADE (1). The requirements to be met by an applicant for leave to
+        remain on the grounds of private life in the UK  are  that  at  the
+        date of application, the applicant:
+
+
+     (i)  does not fall for refusal under any of the grounds in  Section  S-
+             LTR 1.2 to S-LTR 2.3. and S-LTR.3.1. in Appendix FM; and
+
+
+     (ii) has made a valid application for leave to remain on the grounds of
+             private life in the UK; and
+
+
+     (iii)    ...; or
+
+
+     (iv) is under the age of 18 years and has lived continuously in the  UK
+             for at least 7 years (discounting any period of  imprisonment)
+             and it would not be reasonable  to  expect  the  applicant  to
+             leave the UK; or
+
+
+     (v)  ...; or
+
+
+     (vi) subject to sub-paragraph (2), is aged 18 years or above, has lived
+             continuously in the UK for less than 20 years (discounting any
+             period of imprisonment) but there would  be  very  significant
+             obstacles to the applicant's integration into the  country  to
+             which he would have to go if required to leave the UK
+
+The judge's decision
+
+ 6. It was not suggested before the judge that the claimants satisfied  the
+    requirements of Appendix FM or that Ms O satisfied the requirements  of
+    para 276ADE(1).
+
+ 7. Before the judge, reliance was placed upon the  position  of  JD  under
+    para 276ADE(1)(iv), i.e. that he was under the age  of  18  years,  had
+    lived in the UK for 7 years and it would be unreasonable to expect  him
+    to leave the UK.
+
+ 8. Before the judge, JD's private life  claim  included  his  relationship
+    with his two cousins. Ms O and JD lived with  Ms  O's  sister  and  her
+    daughter, "S". Ms O's younger brother also lived in  the  UK  with  his
+    wife and two children, aged 5 years and 6 years.
+
+ 9. The judge heard oral evidence from Ms O and her  sister  who  he  found
+    credible. The evidence was that Ms O and JD see Ms O's brother and  his
+    family at least twice a week. The four cousins (i.e. including JD) have
+    all grown up together. Ms O and JD are supported by Ms O's siblings. Ms
+    O's parents still live in Lagos  but  she  has  no  contact  with  them
+    because they disapprove of her divorce from JD's father, for  religious
+    reasons. The judge heard evidence that Ms O did not  work  in  Nigeria.
+    She would not be able to provide for herself and JD in  Nigeria.  There
+    is no one to help them. Ms O is estranged from her  parents  and  would
+    have no home or accommodation in Nigeria.
+
+10. The judge considered whether it would be reasonable  to  expect  JD  to
+    leave the UK at paras 25-31 of his decision. He found that it would not
+    be reasonable to expect JD to  leave  the  UK  and  therefore  that  JD
+    satisfied the requirements of para 276ADE(1)(iv). Paras 24-31  read  as
+    follows:
+
+
+         24. Instead, reliance was placed upon the position of  [JD]  under
+             paragraph 276ADE (1) (iv).  As noted, he is under the  age  of
+             18 years and had resided in the United  Kingdom  for  7  years
+             before the date of application.  The question,  therefore,  is
+             whether it would be reasonable to  expect  him  to  leave  the
+             United Kingdom.
+
+
+         25. In answering that question, regard must be had, as  a  primary
+             consideration,  to  the  best  interests,  not  just  of  [JD]
+             himself, but also of his cousin [S], as required by section 55
+             of the 2009 Act.
+
+
+         26. I find that it is in [JD]'s best interests to  remain  in  the
+             care of his mother, the appellant, as he is only  eight  years
+             old, has been cared for by her since birth and has no  contact
+             with his father.  It is also in his best interests  to  remain
+             in the family unit which he and his mother  have  formed  with
+             his aunt and his cousin [S], and to continue his education  in
+             the United Kingdom.  I accept that [JD] and [S] have formed  a
+             particularly strong bond, having been brought up together  for
+             the last eight years, virtually  the  whole  of  [JD]'s  life.
+             Their relationship is essentially that of brother and  sister.
+             They share the same interests and attend the same school where
+             they are getting on well.
+
+
+         27. It is also relevant that [JD] has spent his entire life in the
+             United Kingdom and has never left the country. In  particular,
+             he has never been to Nigeria and has no connection  with  that
+             country apart from his nationality.
+
+
+         28. On the other side of the balance, it must  be  borne  in  mind
+             that [JD] and his mother are not  British  citizens  and  that
+             neither of them has had any leave to  remain  here  since  the
+             appellant's visit visa expired.  That, however, is not  [JD]'s
+             fault.  He had no choice in the matter and is not to be blamed
+             for  his  birth,  and  subsequent  residence,  in  the  United
+             Kingdom.
+
+
+         29. The respondent's decision means that [JD] and his mother would
+             be removed together.   The respondent points out that there is
+             a functioning education system in Nigeria, that English is the
+             official language there and that the appellant lived  in  that
+             country until the age of 27 so that she would be able to  help
+             [JD] adjust to the different culture and customs.
+
+
+         30.  The respondent also says that the appellant would be able  to
+             provide for their maintenance and accommodation  but,  on  the
+             evidence,  the  reality  is  that  they  face  destitution  in
+             Nigeria.  The appellant has never worked there and has no job.
+              They would have  no  accommodation  and  no  obvious  way  of
+             securing any.  The only family members left in Nigeria are the
+             appellant's parents, but they have disowned her because of her
+             divorce so that there is no-one in Nigeria to help or  support
+             them.   On the evidence, I find that the prospects for  [JD]'s
+             future in Nigeria are bleak.
+
+
+         31. Balancing all these factors, I have  come  to  the  conclusion
+             that it would not be reasonable to expect [JD]  to  leave  the
+             United  Kingdom,  with  the  result  that  he  satisfies   the
+             requirements of paragraph 276ADE (1) (iv).
+
+11. The judge then considered the position of Ms O outside the Rules, under
+    Article 8, at paras 32-38. At para 37, he applied s.117B(1)-(6) of  the
+    2002 Act. I now quote paras 32-38 of the judge's  decision  insofar  as
+    relevant:
+
+
+        Article 8 ECHR
+
+
+        32.  It  is  appropriate  now  to  consider  the  position  of  the
+              appellant under Article 8 of the ECHR outside the Immigration
+              Rules because a possible result of  my  finding  that  Jayden
+              satisfies paragraph 276ADE (1) (iv) is that  mother  and  son
+              will be separated by her  removal  from  the  United  Kingdom
+              while he is entitled to remain.
+
+
+        33.  There  is  no  doubt  that  family  life  exists  between  the
+              appellant and Jayden and that  the  appellant  has  a  strong
+              private life with her sister, with whom they  both  live,  as
+              well as with her brother and his family.
+
+
+        34.  In considering Article 8, I adopt the approach set out in  the
+              House of Lords case of Razgar [2004] UKHL 27  in  which  Lord
+              Bingham, at paragraph 17, posed five questions which have  to
+              be addressed:
+         ...
+
+
+        35.  I have no difficulty in finding that  the  first  four  Razgar
+              questions fall  to  be  answered  in  the  affirmative.   The
+              remaining question concerns proportionality,  in  considering
+              which I must balance the public interest against the  private
+              rights  of  the  appellant  and  the  other  family   members
+              concerned.
+
+
+        36.  Public  interest  considerations  which  must  be  taken  into
+              account are set out  in  section  117B  of  the  Nationality,
+              Immigration and Asylum Act 2002 (as amended) which is in  the
+              following terms:-
+
+
+             (1)  ...
+
+
+             (2)  ...
+
+
+             (3)  ...
+
+
+             (4)  ...
+
+
+             (5)  ...
+
+
+             (6)  ...
+
+
+        37.  As regards those considerations:-
+
+
+         (1) As well as noting the public interest in maintaining effective
+                    immigration controls, I remind myself that the State has
+                    the right to control entry to  its  territory  and  that
+                    Article 8 does  not  confer  a  right  to  choose  where
+                    private and family life is to be established.
+
+
+         (2) The appellant speaks English.
+
+
+         (3) The appellant is financially independent.  As  well  as  being
+                    accommodated by her sister, she is supported by her  and
+                    by their younger brother.
+
+
+         (4) The private life upon which the appellant seeks to  rely  with
+                    her sister and other  family  members  can  be  accorded
+                    little weight because it has been established since 2007
+                    by which time the appellant no  longer  had  any  lawful
+                    basis for being in the United Kingdom.  No question of a
+                    relationship with a qualifying partner arises.
+
+
+         (5) This does not apply because the appellant's  presence  in  the
+                    United Kingdom is unlawful and not merely precarious.
+
+
+         (6) This consideration goes to the heart of the matter.  There  is
+                    no doubt that the appellant has a genuine and subsisting
+                    parental relationship with Jayden, who is a  "qualifying
+                    child" in terms of section 117D  (1)  (b),  and  I  have
+                    found that it would not be reasonable to expect  him  to
+                    leave the United Kingdom.  It follows  that  the  public
+                    interest does not require the appellant's removal.
+
+
+        38.  The result is that the appellant's right to  respect  for  her
+              family life under Article 8 of the ECHR is not outweighed  by
+              the public interest and,  therefore,  that  the  respondent's
+              decision is disproportionate.
+
+12. The judge therefore allowed JD's appeal under the Immigration Rules and
+    Ms O's appeal on human rights grounds (Article 8).
+
+The Secretary of State's grounds
+
+13. The Secretary of State's grounds may be summarised as follows:
+
+    i.   The judge's finding that it would be unreasonable for JD to  leave
+         the UK was irrational or wrong in law and inadequately reasoned.
+
+    ii.  The judge failed to make any finding as to why Ms O was unable  to
+         secure herself employment or find employment in Nigeria. There  was
+         no evidence that she was unfit to work. In any  event,  no  reasons
+         were put forward as to why the financial  support  that  was  being
+         provided by Ms O's siblings could not  continue  if  the  claimants
+         were to return to Nigeria.
+
+    iii. The judge's finding that it would be unreasonable to expect JD  to
+         leave the UK infected his assessment of  Ms  O's  Article  8  claim
+         outside the Rules.
+
+Submissions
+
+14. Upon commencing my list on the hearing day,  I  drew  Mr  Trumpington's
+    attention to  the  recent  judgment  of  the  Court  of  Appeal  in  MA
+    (Pakistan) [2016] EWCA  Civ  705,  to  the  effect  that  wider  public
+    interest considerations must be taken into account  when  applying  the
+    reasonableness criterion in para 276ADE(1)(iv).
+
+15. Mr Trumpington submitted that the judge  had  taken  into  account  the
+    various public interest considerations in s.117B(1)-(6) at paras 28 and
+    36 of the  decision.   He  submitted  that  no  other  public  interest
+    considerations other than those considered by the judge at para 28 were
+    relevant or material because: (i) Ms O had never committed any criminal
+    offences; (ii) she has never worked; and (iii) she has  been  supported
+    by her siblings. He submitted that the most  powerful  aspect  of  this
+    case was the fact that JD and his cousin, S, daughter of Ms O's sister,
+    have lived together all of their lives in one family unit.
+
+16. Mr Trumpington informed me that there was little information about  the
+    precise financial support provided by Ms O's siblings to  her.  If  the
+    claimants were to be removed to Nigeria, the rent paid by  Ms  O's  for
+    her accommodation would remain the same. Her utility bills would not be
+    halved. Any savings in the form of pocket money provided to Ms O  would
+    not be sufficient to support her and JD in Nigeria. Ms O's sister would
+    have to pay for childcare.
+
+17. Mr Trumpington accepted that it was for the claimant to establish  that
+    financial support to them in the UK could  not  continue.  However,  he
+    submitted that the judge dealt with the issue of reasonableness on such
+    evidence as was before him. He had evidence  that  the  claimants  were
+    being accommodated and maintained in a two-bedroom flat and that  Ms  O
+    was proving child care for her sister. Thus, he must have assumed  that
+    any savings would not be substantial. The judge found that Ms O and  JD
+    would be destitute in  Nigeria.  It  was  therefore  implicit  that  he
+    accepted that there would not be sufficient financial support available
+    to the claimants from Ms O's siblings.
+
+18. I referred Mr Trumpington to para (6) of the head note in  AM  (2.117B)
+    Malawi [2015] UKUT 0260 (IAC) and paras 58 and 60 of  EV  (Philippines)
+    and others v SSHD [2014] EWCA Civ 874.
+
+19. Mr Trumpington accepted that the judge erred  when  he  said  that  the
+    claimants were financially independent. In making this finding, he must
+    have been referring to the fact that they were not  claiming  benefits.
+    He submitted that, as the judge was aware that JD was  accessing  state
+    education, he must have taken into account that  he  was  doing  so  at
+    public expense. He implicit took this into account at paras 36  and  37
+    of the decision.
+
+Assessment
+
+20. The Court of Appeal recently delivered its judgment in  MA  (Pakistan).
+    The judge did not have the benefit of the judgment  in  MA  (Pakistan).
+    However,  it  is  clear  from  MA  (Pakistan)  that   public   interest
+    considerations must be taken into account when assessing whether it  is
+    reasonable for a child to leave the  UK  under  para  276ADE(1)(iv)  of
+    Appendix FM. It was therefore necessary for  the  judge  to  take  into
+    account public interest considerations,  including  those  set  out  at
+    s.117B of the 2002 Act in reaching his finding that it was unreasonable
+    for JD to leave the UK.
+
+21. I reject Mr Trumpington's submission that the  judge  had  nevertheless
+    taken into account the relevant public interest considerations at paras
+    28, 36 and 37, for the following reasons:
+
+    i)   At para 28, the judge referred to the fact that neither Ms  O  and
+         JD had leave to remain since Ms O's visa expired.  However,  it  is
+         clear from the second and third sentences of para 28 that the judge
+         effectively proceeded to exclude  this  factor  his  assessment  of
+         reasonableness. He therefore left out of  account  the  immigration
+         background in reaching his finding on reasonableness.
+
+    ii)  At paras 36 and 37, the judge considered the Article 8 claim of Ms
+         O outside the Rules, having already reached his  finding,  at  para
+         31, that it would not be reasonable to expect JD to leave  the  UK.
+         This is plain not only from the structure of the  judge's  decision
+         but also his reasoning at paras 24-31 in relation to JD  and  paras
+         32-38 in relation to Ms O. Indeed, there is nothing at all  in  his
+         application, at para 37,  of  the  public  interest  considerations
+         listed in s.117B which he set  out  in  the  immediately  preceding
+         paragraph (para 36) that shows that he took into account any public
+         interest considerations in relation to JD. To the contrary,  it  is
+         plain from, for example, from paras 37(2)-(4) in  particular,  that
+         he focused on assessing the  public  interest  considerations  only
+         insofar as they were relevant in relation to Ms O's Article 8 claim
+         outside the Rules. Paras 37(2)-(4) simply cannot  be  read  in  any
+         other way.
+
+22. I do not accept  Mr  Trumpington's  submission  that  no  other  public
+    interest considerations other than those considered  by  the  judge  at
+    para 28 were relevant. In the first place, as I have said  above,  para
+    28 shows that  the  judge  did  not  in  fact  take  into  account  the
+    immigration background. This is because he effectively  discounted  the
+    immigration background  because  he  considered  that  the  immigration
+    status of Ms O and JD was  not  JD's  fault  and  that  he  should  not
+    therefore be blamed for his birth and subsequent residence in  the  UK.
+    Of course, there is no question of any blame being apportioned  to  JD.
+    Nevertheless, MA (Pakistan) establishes that the fact that Ms  O's  and
+    JD's residence has been unlawful, save for the period covered by Ms O's
+    visit visa, is a relevant consideration when  assessing  reasonableness
+    under para 276ADE(1)(iv).
+
+23. At first sight, it may seem harsh that a young child  who  has  had  no
+    control over the place of his birth or where he is brought up  and  who
+    has accessed state education at public expense not by  his  own  choice
+    but because his parent or parents have put him in the position of doing
+    so should have the fact that he is accessing state education at  public
+    expense taken into account in reaching a decision as to whether  it  is
+    reasonable to expect him  to  leave  the  UK.  However,  prior  to  the
+    amendment of the Rules on 9 July 2012  and  the  introduction  of  para
+    276ADE, judges reached a view as to whether  it  is  reasonable  for  a
+    child to leave the UK without taking account of the public interest but
+    it was then necessary to proceed  to  perform  the  balancing  exercise
+    taking proper account of the public  interest  to  decide  whether  the
+    decision was disproportionate. The only  difference  now  is  that  the
+    balancing exercise forms part of the assessment of  reasonableness;  it
+    is no longer a separate step in the analysis. Whilst it may be counter-
+    intuitive to take account of public interest considerations in deciding
+    whether it is reasonable for a child to leave the UK, there is no  real
+    difference.  Whereas previously the  public  interest  was  taken  into
+    account to decide whether a decision is disproportionate having made  a
+    finding on reasonableness, it is now taken  into  account  in  deciding
+    whether it is reasonable for a child to leave the UK. If  it  were  not
+    so, the public interest would be left out of account  completely.  This
+    would be contrary to the previous approach,  contrary  to  s.117A(2)(a)
+    and cannot have been intended by Parliament.
+
+24. I am satisfied that the judge did fail to take account of the fact that
+    JD is accessing state education  at  public  expense  in  reaching  his
+    finding that it would not be reasonable for him to  leave  the  UK.  In
+    doing so, he failed to take into account a material consideration.
+
+25. Furthermore, it is also  clear  from  MA  (Pakistan)  that  the  public
+    interest considerations in s.117B(4) should also have been  taken  into
+    account in assessing the reasonableness of  JD  leaving  the  UK.  This
+    means that the judge should have attached little weight to any  private
+    life established by JD since it was established whilst his  status  was
+    unlawful. The judge did not  do  so.  Although  s.117B(4)  states  that
+    "little weight" is to be given to such private  life,  this  is  not  a
+    fixity. There is some room, albeit limited, to calibrate the amount  of
+    weight that is given to JD's private life to take account of  the  fact
+    that JD established his private life in the UK through no fault of  his
+    own. To do so would not  amount  to  discounting  the  public  interest
+    considerations  in  JD's  case,  as  the  judge  effectively  did,  but
+    calibrating the application of s.117B(4) according  to  the  individual
+    circumstances provided that overall little weight given to his  private
+    life.  However, the judge did not take that approach. It is plain  that
+    he  made  a  positive  decision  not  to  weigh  any  public   interest
+    considerations against JD's circumstances in order to reach his finding
+    that it would not be reasonable to expect JD to leave the UK.
+
+26. In summary, therefore, I am satisfied that the judge erred  in  law  in
+    reaching his finding that it would not be reasonable to  expect  JD  to
+    leave the UK by failing to take into account relevant  public  interest
+    considerations. He failed to assess the strength of the public interest
+    on account of the following considerations and weigh them in  assessing
+    the reasonableness criterion:
+
+    (i)  JD's immigration background.
+
+    (ii) The fact that JD is accessing education at state expense and  will
+         continue to do so if allowed to remain.
+
+    (iii)    That JD's private life was established whilst his  immigration
+         status was unlawful (s.117B(4))
+
+27. Each of these  errors  is  material.  Although  I  recognise  that  the
+    strength of the instant case is that JD and his cousin, S,  have  grown
+    up together in one family unit, it cannot be said, in my judgment, that
+    it is clear that, on the  materials  before  the  judge,  any  rational
+    Tribunal must have come to the same conclusion if each  of  the  errors
+    had not been made. In the  alternative,  the  combined  effect  of  the
+    errors is material.
+
+28. Mr Trumpington submitted that Ms O has  never  committed  any  criminal
+    convictions or worked in the UK. These facts cannot  render  immaterial
+    the errors made by the judge by failing to  take  into  account  public
+    interest considerations described  above  in  assessing  reasonableness
+    under para 276ADE(1)(iv).
+
+29. Accordingly, the judge's decision that JD  satisfied  the  criteria  in
+    para 276ADE(1) falls to be set aside.
+
+30. It is plain from para 37(6) of the judge's decision that he relied upon
+    his finding that it would not be reasonable to expect JD to  leave  the
+    UK in order to reach his finding, in assessing Ms O's Article  8  claim
+    outside the Rules, that the decision to remove her is disproportionate.
+    It is plain that this was material to his decision  on  her  Article  8
+    claim outside the Rules.
+
+31. In my judgment, the judge also made two other errors of law,  which  of
+    which were material, in assessing Ms O's Article 8  claim  outside  the
+    Rules, as follows:
+
+    (i)  As Mr Trumpington accepted, the judge erred when he found that  Ms
+         O was financially independent. There was simply no  evidence  about
+         her financial circumstances  at  all  before  him.  Mr  Trumpington
+         submitted that the judge must have been referring to the fact  that
+         the claimants did not claim benefits. However, the mere  fact  that
+         the claimants were not receiving benefits does not mean  that  they
+         were financially independent if, for example, the  result  is  that
+         they are living below a minimum threshold.
+
+    (ii) The judge considered Ms O's Article  8  claim  outside  the  Rules
+         without taking into account the fact that she did not  qualify  for
+         leave on the basis of her private life  under  para  276ADE(1).  In
+         other words, he failed to consider her claim "through the  lens  of
+         the Rules": paras 39 and 40 of the judgment of Sales LJ in  SSHD  v
+         AJ (Angola) [2014] EWCA Civ 1636.
+
+32. I am therefore satisfied that the judge made three  errors  of  law  in
+    assessing Ms O's Article 8 claim outside the Rules, as described above.
+    I am further satisfied that each of these errors  is  material.  Again,
+    although I recognise that the strength of the instant case is  that  JD
+    and S have grown up together in one family unit, it cannot be said,  in
+    my judgment, that it is clear that, on the materials before the  judge,
+    any rational Tribunal must have come to the same conclusion if each  of
+    the errors had not been made. In the alternative, the  combined  effect
+    of the three errors is material.
+
+33. For all of the above reasons, I set aside the decision of  Judge  Scott
+    to allow JD's appeal under the Rules and  Ms  O's  appeal  outside  the
+    Rules on the basis of Article 8. His summary of the evidence he  heard,
+    at paras 16-20 of his decision, shall stand as a record of the evidence
+    given to the First-tier Tribunal.
+
+34. In the majority of cases, the Upper Tribunal  when  setting  aside  the
+    decision  will  be  able  to  re-make  the  relevant  decision  itself.
+    However, the Practice Statement for the Immigration and Asylum  Chamber
+    of the Upper Tribunal at  para  7.2  recognises  that  it  may  not  be
+    possible for the Upper Tribunal to proceed to re-make the decision when
+    it is satisfied that:
+
+         "(a) the effect of the error has been to deprive a party before the
+             First-tier Tribunal of a fair hearing or other opportunity for
+             that party's case to be put to and considered  by  the  First-
+             tier Tribunal; or
+
+         (b)  the nature or extent of any judicial  fact  finding  which  is
+             necessary in order for the decision in the appeal  to  be  re-
+             made is such that, having regard to the  overriding  objective
+             in rule 2, it is appropriate to remit the case to  the  First-
+             tier Tribunal."
+
+35. In my judgment, this case falls within para 7.(b). In  addition,  given
+    that the claimants won their appeals before the First-tier Tribunal and
+    having regard to the Court of Appeal's judgment in JD (Congo) &  Others
+    [2012] EWCA Civ 327, I am of the view that a remittal to the First-tier
+    Tribunal is the right course of action.
+
+36. Given that the main aspect of JD's case is his  relationship  with  his
+    cousin, S, the judge considering JD's appeal under para  276ADE  should
+    do so by considering (amongst other matters) whether  his  relationship
+    with S amounts to family life because this will  inform  the  balancing
+    exercise that  must  be  performed  in  weighing  the  public  interest
+    considerations against JD's circumstances to  reach  a  finding  as  to
+    whether it is reasonable to expect JD to leave the UK. In addition, the
+    claimants  should  be  ready  to  address  the   issue   of   financial
+    independence beyond JD accessing state education, for  example,  access
+    to the health services,  as  well  as  the  availability  of  financial
+    support for the claimants from Ms O's sister and brother either for the
+    foreseeable future or until Ms O obtains employment.
+
+Notice of Decision
+
+The decision of the First-tier Tribunal involved the  making  of  errors  on
+points of law such that the decision to allow JD's appeal  under  the  Rules
+and Ms O's appeal outside the Rules is set aside. This appeals are  remitted
+to the First-tier Tribunal for the decision to be re-made on the  merits  on
+all issues by a judge other than  Judge  of  the  First-tier  Tribunal  I  M
+Scott.
+
+
+[pic]
+Signed                                  Date: 31 July 2016
+Upper Tribunal Judge Gill

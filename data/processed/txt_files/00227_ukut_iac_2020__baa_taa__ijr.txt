@@ -1,0 +1,3256 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+R (on the application of BAA and Another) v Secretary of State for the Home
+Department (Dublin III: judicial review; SoS's duties) [2020] UKUT 00227
+(IAC)
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House by Skype for Business    |Judgment promulgated          |
+|On 21 and 22 May 2020                         |                              |
+|                                              |..............................|
+|                                              |.........                     |
+
+                                   Before
+
+                     THE HON. MR JUSTICE LANE, PRESIDENT
+
+                                   Between
+
+                       The Queen on the application of
+                 BAA (a child by his litigation friend, taa)
+                                     TAA
+                         (ANONYMITY DIRECTION MADE)
+                                                                  Applicants
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+Representation:
+
+For the Applicants:    Ms M Knorr, Counsel, instructed by Bhatt Murphy
+Solicitors
+For the Respondent:    Ms H Masood, Counsel, instructed by the Government
+                  Legal Department
+
+(1) Article 17(2) of Regulation 604/2013 of the European Parliament  and  of
+the Council ("Dublin III")  confers  a  discretion  on  a  Member  State  to
+examine an application for  international  protection  "in  order  to  bring
+together any family relations, on humanitarian grounds, based on  family  or
+cultural considerations".  Although  the  discretion  is  wide,  it  is  not
+untrammelled: R (HA & others) (Dublin III; Articles 9 and 17.2) [2018]  UKUT
+297 (IAC). As in the case of any other discretionary power of the  Secretary
+of State in the immigration field, Article 17(2) must  be  exercised  in  an
+individual's favour, where to do otherwise  would  breach  the  individual's
+human rights (or those of some other person), contrary to section 6  of  the
+Human Rights Act 1998.
+
+(2) The Secretary of State's Article  17(2)  decisions  are  susceptible  to
+"ordinary"  or  "conventional"  judicial  review  principles,  of  the  kind
+described by Beatson  LJ  in  ZT  (Syria)  v  SSHD  [2016]  1  WLR  4894  as
+"propriety  of  purpose,  relevancy  of  considerations  and  the   longstop
+Wednesbury unreasonableness category" (para 85).
+
+(3) Where a judicial review challenge involves an  allegation  of  violation
+of an ECHR right, such as Article 8, it is now an established  principle  of
+domestic United Kingdom law that the court or tribunal  must  make  its  own
+assessment of the lawfulness of the decision, in human rights terms. If,  in
+order to make that assessment, the court or tribunal needs to make  findings
+of fact, it must do so.
+
+(4)  Nothing in paragraphs (1) to (3) above is  dependent  upon  Article  27
+(remedies) of Dublin III applying to the facts of  the  case.  Nevertheless,
+what the Upper Tribunal held in R (MS) (Dublin  III;  duty  to  investigate)
+[2019] UKUT 9 (IAC) regarding  the  scope  of  Article  27  is  correct  and
+nothing in the Court  of  Appeal  judgments  in  MS  [2019]  EWCA  Civ  1340
+suggests otherwise. The reference to a "transfer  decision"  in  Article  27
+encompasses a refusal to  take  charge  of  a  Dublin  III  applicant.  That
+includes a refusal to take charge under Article 17(2).
+
+(5)  It would be  remarkable  if  the  Secretary  of  State's  investigatory
+responsibilities were materially narrower in an  Article  17(2)  case  which
+concerns an unaccompanied minor and his or her  best  interests,  than  they
+would be in respect of any  other  take-charge  request  under  Dublin  III.
+Where the  request  under  Article  17(2)  raises  issues  that  involve  an
+asserted family life within Article 8  ECHR/Article  7  of  the  Charter  of
+Fundamental Rights, then, in the normal course of events, the  Secretary  of
+State's  degree  of  engagement  with  the  relevant  United  Kingdom  local
+authority should be no less than in the  case  of  any  other  unaccompanied
+minor, where the take-charge request is made under Article 8 of  Dublin  III
+on the basis that the relation in the United  Kingdom  is  a  sibling  or  a
+"family member" or "relative" as defined.
+
+(6) Even in Article 17(2) cases, the principles of procedural  fairness  may
+mean that the Secretary of State may be required to  provide  an  indication
+or gist to an applicant or his alleged United Kingdom relation,  of  matters
+of concern that may lead to a refusal to take charge of the applicant:  R  v
+SSHD ex parte Fayed [1998] 1 WLR 763; R (Balajigari) v  SSHD  [2019]  1  WLR
+4647. This is, however, an area where one cannot  lay  down  hard  and  fast
+rules. Even where Article 8 ECHR  is  in  play,  there  may  be  exceptions.
+Furthermore, the process must not become so elaborate as to defeat  the  aim
+of expeditious decision-making, particularly where  the  best  interests  of
+minors are concerned.
+
+(7) The references  to  "exceptional  circumstances"  in  the  Secretary  of
+State's Dublin III Guidance (18 April  2019)  do  not  render  the  Guidance
+unlawful. Those working in the  immigration  field  know  that  the  use  of
+"exceptional" in the context of Article 8 ECHR is not to be used as  setting
+a particular (high) threshold but, rather, as predictive of the  outcome  of
+the application of the principles of  proportionality  to  the  facts  of  a
+particular case. Nothing in the Guidance  suggests  its  author  is  telling
+caseworkers to do anything other than follow the settled law on this topic.
+
+
+
+
+
+                                  JUDGMENT
+
+   Covid-19: This judgment was handed down remotely by circulation to the
+ parties' representatives by email, release to BAILII and publication on the
+ Courts and Tribunals Judiciary website. The date and time for hand-down is
+               deemed to be 10.30 a.m. on Tuesday 23 June 2020
+
+
+
+A.  INTRODUCTION
+
+ 1. The first applicant, BAA  ("A1")  is  an  unaccompanied  asylum-seeking
+    child (now aged 17).  He left Syria, the country  of  his  nationality,
+    making his way to Greece, where he currently resides in a hostel.
+
+ 2. A1 claimed asylum in Greece.  He told the authorities there that he had
+    been forcibly recruited at the age of 13 to fight with the Kurdish Army
+    against ISIS.  A1 said he was ill-treated by the Kurdish Forces.
+
+ 3. On 7 October 2019, Greece requested the United Kingdom to  take  charge
+    of A1's asylum claim, pursuant to Article 17(2) of Regulation  604/2013
+    of  the  European  Parliament  and  of  the  Council  (the  Dublin  III
+    Regulation).  The request stated that A1's cousin, TAA  ("A2")  resides
+    in the United Kingdom and that A1 wished to be reunited with him.
+
+ 4. The respondent refused Greece's request on  5  November  2019.   Greece
+    asked the respondent to reconsider.  Having  done  so,  the  respondent
+    again refused on 16 January 2020  to  exercise  her  discretion  under
+    Article 17(2).  Greece made a further request for reconsideration.  The
+    respondent considered that this request was  not  formally  within  the
+    scope of the Dublin  III  Regime.  The  respondent  told  Greece  "your
+    request for re-examination is an invalid request. Nonetheless,  the  UK
+    has taken this opportunity to consider the evidence provided to her and
+    reassess her previous decisions to date in the form of a  supplementary
+    response". The outcome was, however, that the respondent refused  again
+    to take responsibility pursuant to Article 17(2) for the  consideration
+    of A1's asylum claim and, thus, for A1 to be transferred to the  United
+    Kingdom for that purpose.
+
+ 5. On 3 February 2020, the applicants filed an  application  for  judicial
+    review of the respondent's decisions of November 2019 and January 2020.
+     Permission to bring judicial review proceedings  was  granted  by  the
+    Upper  Tribunal  on  18  March  2020.   By  consent,  the  grounds   of
+    application were subsequently amended in order to encompass a challenge
+    to the respondent's decision of April 2020.
+
+ 6. Certain other elements of the amended grounds were not  agreed  by  the
+    respondent but, by order dated  4  May  2020,  I  gave  the  applicants
+    permission to rely upon the amended grounds, as submitted.
+
+B.  THE HEARING
+
+ 7. The hearing took place on 21 and 22 May 2020, by  means  of  Skype  for
+    Business. I conducted the hearing from court 4 at Field House. Counsel,
+    A2 and members of the public  attended  remotely  via  video.  Although
+    there were some intermittent issues  regarding  sound  on  21  May,  no
+    substantial technical problems were encountered during the hearing  and
+    I am satisfied counsel were able to make their respective cases by  the
+    chosen means. I am grateful  to  Ms  Knorr  and  Ms  Masood  for  their
+    detailed and clear oral and written submissions.
+
+ 8. At the hearing, Ms Knorr, on behalf  of  the  applicants,  applied  for
+    permission to adduce  a  witness  statement  of  A2  (who  had  already
+    produced two such statements).  This latest statement seeks to  address
+    two matters: the contention in Ms Masood's skeleton  argument  that  A2
+    had met A1 for the first time in Greece in June 2019; and that  A1  was
+    recorded by the Greek authorities as saying that A1  was  2  years  old
+    when A2 left Syria.
+
+ 9. For the respondent, Ms Masood objected  to  the  introduction  of  A2's
+    third statement.  I decided de bene esse to admit this statement and to
+    rule later on its admissibility.
+
+10. Ms Masood applied for permission  to  adduce  a  supplementary  witness
+    statement of Ms Julia Farman of the European Intake Unit, UK Visas  and
+    Immigration, in which Ms Farman seeks to explain the policy of the EIU,
+    with regard to requests under Article 17(2) on whether and, if so, when
+    the EIU would  request  a  family  assessment  from  a  relevant  local
+    authority in the United Kingdom.  Although Ms Knorr  did  not  formally
+    object to the admission  of  Ms  Farman's  supplementary  statement,  I
+    decided to treat it in the same way as the third witness  statement  of
+    A2.
+
+11. In the event I decided to admit both statements.  Whilst  cognisant  of
+    the need to maintain the  requisite  degree  of  procedural  rigour  in
+    judicial review proceedings, I decided to admit the statements, in  the
+    light of my conclusion that Article 27 of Dublin III applies, so as  to
+    ensure that the requirements of EU Law for the proceedings  to  provide
+    an "effective remedy" for proper compliance with Dublin III; but  that,
+    in any event, the proceedings involve the determination of human rights
+    within the ambit  of  ECHR  Article  8/Charter  of  Fundamental  Rights
+    Article 7.  I concluded that neither the applicants nor the  respondent
+    were, thereby, placed at any procedural disadvantage.
+
+C.  LEGISLATION AND GUIDANCE
+
+12. The Annex to this judgment sets out  the  relevant  provisions  of  the
+    Dublin III Regulation, the two Implementing Regulations  and  the  Home
+    Office Guidance on Dublin III.
+
+D.  LEGAL ISSUES
+
+13. Before embarking  upon  an  examination  of  the  detailed  grounds  of
+    challenge to each of the three  decisions  of  the  respondent,  it  is
+    necessary to address a number of general issues.
+
+(1) The nature of Article 17(2) and its place within the Dublin III system
+
+14. Article 7 of Dublin III establishes a hierarchy of  criteria.   At  the
+    top of that hierarchy sit unaccompanied  minors.   Article  8  provides
+    that where a family member or a sibling of the unaccompanied  minor  is
+    legally present in a Member State, it is that Member State which  shall
+    be responsible for examining the minor's application for  international
+    protection.  "Family members" are  defined  by  Article  2.  Article  8
+    provides that it must be in the best interests of the minor to have his
+    or her claim examined by the Member State in which such a family member
+    or sibling is legally present.
+
+15.  Article  8(2)  places  responsibility  (again,  subject  to  the  best
+    interests of the minor) on the State in which  a  relative  is  legally
+    present, where that relative can take care of  the  minor.   Article  2
+    defines  "relative"  as  the  applicant's  adult  aunt  or   uncle   or
+    grandparent (subject to certain procedural requirements).
+
+16. The effect of Article 8(4) is that, in the absence of a family  member,
+    sibling or relative, the Member State responsible for  the  examination
+    of the minor's application for international protection  shall  be  the
+    one where the unaccompanied minor has lodged their application;  again,
+    provided that is in the best interests of the minor.
+
+17. Importantly, as Ms Knorr points out, Article 8(4) departs significantly
+    from the mechanism of Dublin III, as it applies to adults, in  that  an
+    unaccompanied minor who has been present in  Member  State  A  but  who
+    travels to Member State B  and  makes  an  application  there,  is  not
+    subject to any general requirement to return to Member State A in order
+    to have the application considered.
+
+18. Article 17(2) concerns a request by one Member  State  to  another  for
+    that other Member State  to  exercise  its  discretion  to  examine  an
+    application for international protection, whether made by  a  minor  or
+    adult,  "in  order  to  bring  together  any   family   relations,   on
+    humanitarian  grounds  based  in  particular  on  family  or   cultural
+    considerations".   This  judicial  review   is   concerned   with   the
+    respondent's decision-making under Article 17(2).
+
+19. The expression "family relations" is undefined in Dublin  III.   It  is
+    clearly wider than "family members" and "relative".  It does,  however,
+    require there to be some relationship that is of a "family", as opposed
+    to merely a social, nature.  This is so, even though Article 17(2) goes
+    on to speak about the humanitarian grounds for  bringing  together  the
+    family relations being based on "family or cultural considerations".
+
+20. The words "even where that other Member State is not responsible  under
+    ... Articles 8 to 11 and 16"  make  it  plain  that,  although  "family
+    relations" can include "family members" and "relatives", Article  17(2)
+    is not to be invoked in their cases, since  they  are  covered  in  the
+    hierarchy set out in those other Articles.
+
+21. Unlike Articles 8 to 11 and 16, where, subject to  the  best  interests
+    requirement, the presence in an EU  State  of  "family  members"  or  a
+    "relative" is legally  determinative  of  that  State's  obligation  to
+    examine an asylum claim, in the case of Article 17(2),  the  obligation
+    of examination does not arise unless and until the EU State decides  to
+    exercise its discretion and become responsible.
+
+22. What this means is that the other provisions  of  Dublin  III  and  the
+    Implementing Regulations are relevant in an Article 17(2) case, only to
+    the extent that those provisions  do  not  concern  the  mechanism  for
+    establishing pre-existing responsibility.  As a result, the  provisions
+    which deal with the identification, etc of family members, siblings  or
+    relatives have no application to Article 17(2).
+
+23. Thus, contrary to  Ms  Knorr's  submission,  Article  3  of  the  First
+    Implementing Regulation has no  bearing  on  Article  17(2);  nor  does
+    Article 5.  Although Article 13(2) and  (3)  of  that  Regulation  were
+    relevant, in relation to Dublin II, they have now been subsumed  within
+    Article 17(2) of Dublin  III  itself  and  do  not  call  for  separate
+    consideration.   So  far  as  the  Second  Implementing  Regulation  is
+    concerned, the provisions added by  it  to  Article  12  of  the  First
+    Implementing Regulation are to do  with  family  members,  siblings  or
+    relatives, none of whom are relevant in the case of Article 17(2).
+
+24. Ms Masood submitted that, read correctly  in  its  own  terms,  Article
+    17(2) contains a very broad discretion.  In support, she pointed to the
+    judgment  of  the  First  Chamber  of  the  CJEU  in  MA  &  Others   v
+    International  Protection  Appeals  Tribunal  &  Others  (C-661/17  (23
+    January 2019)).  Albeit speaking about Article 17(1), the Court said as
+    follows:-
+
+         "58. It is clear from the wording of Article 17(1)  of  the  Dublin
+             III Regulation that that provision is optional in  so  far  it
+             leaves it to the discretion of each Member State to decide  to
+             examine an application  for  international  protection  lodged
+             with it, even if that examination is  not  its  responsibility
+             under the criteria defined by that regulation for  determining
+             the Member State responsible.  The exercise of that option  is
+             not, moreover, subject to any particular  condition  (see,  to
+             that  effect,  judgment  of  30  May  2013,  Halaf,  C-528/11,
+             EU:C:2013:342, paragraph 36).   That  option  is  intended  to
+             allow each Member State to decide, in its absolute discretion,
+             on  the  basis  of  political,   humanitarian   or   practical
+             considerations, to agree to examine an asylum application even
+             if it is not responsible under the criteria laid down in  that
+             regulation  (judgment  of  4  October  2018,  Fathi,  C-56/17,
+             EU:C:2018:803, paragraph 53).
+
+         59.  In the light of the extent of the discretion thus conferred on
+             the Member States, it is for the  Member  State  concerned  to
+             determine the circumstances in which  it  wishes  to  use  the
+             option conferred  by  the  discretionary  clause  set  out  in
+             Article 17(1) of the Dublin III Regulation and to agree itself
+             to examine an application  for  international  protection  for
+             which it is not responsible under the criteria defined by that
+             regulation.
+
+         60.  That finding is also consistent, first, with the  case-law  of
+             the Court relating to optional provisions, according to  which
+             such provisions afford wide discretionary power to the  Member
+             States (judgment of 10  December  2013,  Abdullahi,  C-394/12,
+             EU:C:2013:813, paragraph  57  and  the  case-law  cited)  and,
+             second,  with  the  objective  of  Article  17(1),  namely  to
+             maintain the prerogatives of the Member States in the exercise
+             of the right to grant international protection (judgment of  5
+             July 2018, X, C-213/17, EU:C:2018:538, paragraph  61  and  the
+             case-law cited).
+
+         61.  In the light of all the foregoing considerations,  the  answer
+             to the first question is that Article 17(1) of the Dublin  III
+             Regulation must be interpreted as meaning that the fact that a
+             Member State, designated as 'responsible' within  the  meaning
+             of that regulation, has notified  its  intention  to  withdraw
+             from the European Union in accordance  with  Article  50  TEU,
+             does  not  oblige  the  determining  Member  State  to  itself
+             examine, under the discretionary clause  set  out  in  Article
+             17(1), the application for protection at issue."
+
+25. It is, however, in my view plain that the discretion afforded to an  EU
+    State by Article 17(2) is not as wide as the respondent contends in the
+    present proceedings.  Unlike Article 17(1), Article 17(2) involves  two
+    Member States. Member State A triggers the mechanism by  asking  Member
+    State B to take  responsibility  for  an  applicant  for  international
+    protection.  If Member State B refuses the request, it must "state  the
+    reasons on which the refusal is based".  No practical purpose would  be
+    served by the  requirement  to  give  reasons,  if  the  Article  17(2)
+    discretion were so wide as to be unchallengeable.
+
+26. Furthermore, Recital (39)  to  Dublin  III  makes  it  plain  that  the
+    Regulation respects fundamental rights, as set out in  the  Charter  of
+    Fundamental Rights of the European Union.   Recital  (39)  specifically
+    mentions Article 7 of the CFR (Respect for Private  and  Family  Life),
+    which parallels Article 8 of the ECHR. It  also  mentions  Article  24,
+    which provides that in "all actions relating to children, whether taken
+    by  public  authorities  or  private  institutions,  the  child's  best
+    interests must be a primary consideration".
+
+27. In R (on the application of HA & Others) v Secretary of State  for  the
+    Home Department (Dublin III; Articles 9 and  17.2)  [2018]  UKUT  00297
+    (IAC), the Upper Tribunal (UTJ Rintoul  and  UTJ  Rimington)  concluded
+    that,  whilst  the  Article  17(2)  discretion  is  wide,  it  is   not
+    untrammelled.  It was, the Tribunal found,  necessary  to  consider  an
+    Article 17(2) application "through the lens of  Article  7  CFR  and/or
+    Article 8 ECHR, taking account of the best interests of  a  child".   I
+    respectfully concur.
+
+(2) Does Article 27 apply to Article 17(2)?
+
+28. Article 27 (Remedies) provides that  the  applicant  for  international
+    protection shall have the right to an effective remedy, in the form  of
+    an appeal or review, in fact and in law, against a  transfer  decision,
+    before a court or tribunal.  Given its position within Dublin  III,  it
+    is hard to see why Article 27 does not encompass appeals or reviews  of
+    negative decisions under Article 17(2).   It  would,  for  example,  be
+    remarkable if a negative decision under Article 17(2),  which  gave  as
+    its reason that the refusing State declined to exercise its  discretion
+    in favour of a particular racial group, could avoid legal challenge, on
+    the basis that Article 27 does not apply to it.
+
+29. Once that point is accepted,  as  I  consider  it  must  be,  then  the
+    principle of effective remedy is established as regards Article  17(2).
+    As we shall see, this will be relevant when we come to examine Ground 2
+    of the applicants' challenge  to  the  respondent's  decisions  in  the
+    present case, which concerns Article 7 CFR/Article 8 ECHR.  However, as
+    we shall also see, it is not essential for the applicants that  Article
+    27 applies, in order for them to rely upon and make good that ground.
+
+
+
+
+
+
+
+(3) The scope of judicial review of Dublin III decisions
+
+30. Before me, there was no issue between Ms Knorr and Ms Masood that, like
+    any other public law decision, a decision of the respondent  to  refuse
+    an Article 17(2) request is susceptible to challenge on ordinary United
+    Kingdom public law grounds.
+
+31. In R (ZT (Syria)) v Home Secretary [2016] 1  WLR  4894,  the  Court  of
+    Appeal rejected the respondent's suggestion that Article 17  of  Dublin
+    III might not be subject to challenge on such grounds:-
+
+         "85. A further reason for rejecting Mr Eadie's  submission  in  its
+             absolutist form is Article 17 of the  Dublin  III  Regulation.
+             Since the relevant officials in the second member  state  have
+             power  to  assume  responsibility  in  a  case  in  which  the
+             Regulation assigns it to another member state,  it  cannot  be
+             said that it is never open to an individual  to  request  that
+             state to do that.   Mr  Eadie  suggested,  or  came  close  to
+             suggesting, during the course of the hearing that a refusal to
+             exercise the power  under  article  17  was  not  justiciable.
+             That, in my judgment, is unsound in principle and  also  finds
+             no support in  the  authorities.   Abdullahi  v  Bundesasylamt
+             (Case C-394/12) [2014] 1 WLR 1895  recognised  only  that  the
+             second member  state  has  a  wide  margin  of  discretion  in
+             deciding whether to  assume  responsibility  pursuant  to  the
+             provision in the Dublin II Regulation that is  the  equivalent
+             of article 17.  In a context in which the  exercise  of  power
+             relates to relations between  two  member  states  as  to  the
+             operation  of  a  treaty  arranging  for  the  allocation   of
+             responsibility for examining applications for  asylum  between
+             member states, this is clearly correct.  There will be a  wide
+             range of relevant considerations  for  the  decision-maker  to
+             take into account: see all the factors that the UT stated were
+             relevant to the assessment of proportionality.  But subject to
+             the effective scope of judicial review being narrower for this
+             reason,  the  exercise  by  the  Secretary  of  State  of  her
+             discretion is subject to the ordinary public law principles of
+             propriety of purpose, relevancy  of  considerations,  and  the
+             longstop  Wednesbury  unreasonableness  category   (Associated
+             Provincial Picture Houses Ltd v Wednesbury Corpn [1948]  1  KB
+             223) and, because of  the  engagement  of  article  8  of  the
+             European  Convention,  the  intensity  of  review   which   is
+             appropriate in the assessment of the  proportionality  of  any
+             interference with article 8 rights."  (Beatson LJ)
+
+32. The applicants contend that the respondent's decisions are, for various
+    reasons, infected by public law errors of the kind described by Beatson
+    LJ. Ground 2 is, however, of a different nature. It  alleges  that  the
+    decisions are incompatible with  A1  and  A2's  protected  family  life
+    rights under Article 7 CFR/Article 8 ECHR. In  order  to  determine  if
+    this is so, Ground 2 submits that the Upper Tribunal "must  assess  for
+    itself whether the ongoing interference with the applicants'  right  to
+    family life under the CFR/ECHR is proportionate,  if  necessary  taking
+    into account evidence that was not before the decision-maker".
+
+33. As I understand her, Ms Masood's submission regarding Ground 2 is  that
+    the nature of the challenge articulated in Ground 2 remains  rooted  in
+    Beatson LJ's "ordinary public or principles of  propriety  of  purpose,
+    relevancy   of   considerations,   and    the    longstop    Wednesbury
+    unreasonableness category", albeit acknowledging what he  describes  as
+    the "intensity of review demanded in the human  rights  context".   The
+    logic of this submission means it  is  not  limited  to  challenges  to
+    Article 17(2) discretionary decisions.  It applies to all challenges to
+    Dublin III decisions of the respondent.
+
+34. In order to address this issue, it is necessary to  examine  in  detail
+    the judgment of the Upper Tribunal (UTJ Grubb and UTJ Blum)  in  R  (on
+    the application of MS)  (a  child  by  his  litigation  friend  MAS)  v
+    Secretary of State  for  the  Home  Department  (Dublin  III;  duty  to
+    investigate) [2019] UKUT 00009 (IAC).  The Upper Tribunal's judgment in
+    MS was appealed to the Court of Appeal: [2019] EWCA Civ 1340.  Although
+    the respondent's appeal was dismissed on the ground that the  challenge
+    to the relevant part of the Upper Tribunal's judgment was academic, and
+    did not satisfy the criteria for the Court to engage substantively with
+    the matter, the judgments of Hickinbottom LJ  and  the  Master  of  the
+    Rolls will nevertheless need to be examined.
+
+35. The applicant in MS claimed  asylum  in  France,  which  requested  the
+    United Kingdom to take charge of the examination of his claim,  on  the
+    basis that MS  had  an  older  brother  in  the  United  Kingdom.   The
+    respondent did not consider MS and  the  individual  in  question  were
+    brothers.  It therefore rejected the request, in a number of decisions,
+    which were challenged by way of judicial review in the Upper  Tribunal.
+
+
+
+36. The Upper Tribunal found what I shall describe as  conventional  public
+    law errors in each of  the  three  decisions  of  the  respondent;  and
+    quashed them.  At paragraph 171 of  its  judgment,  the  Tribunal  then
+    engaged with another ground of challenge, based on the submission of MS
+    that the Tribunal "should, for itself, decide  whether  the  'criteria'
+    for  determining  responsibility  in  Article  8  of  the  Dublin   III
+    Regulation are met on the facts".
+
+37. As advanced by Ms Kilroy, MS's case was predicated  on  Article  27  of
+    Dublin III requiring there to be an effective remedy, in fact and  law,
+    in respect of the respondent's decisions  in  MS's  case.   Before  the
+    Upper Tribunal,  the  respondent  took  the  stance  that  a  "transfer
+    decision" in Article 27 did not include the rejection of a take  charge
+    request.
+
+38.  The  Upper  Tribunal  rejected  the  respondent's  submission  that  a
+    "transfer decision" did not include  a  refusal  to  take  charge.   At
+    paragraph 187, the Upper Tribunal noted that Recital (19) to Dublin III
+    recognises the need for an "effective remedy in  respect  of  decisions
+    regarding transfers ..."  (Upper  Tribunal's  emphasis).   Furthermore,
+    the decisions of the Grand Chamber in Ghezelbash v Staatssecretaris van
+    Veiligheid en Justite (Case C-63/15) and Mengestead  v  Bundersrepublik
+    Deutschland (Case C-670/16) acknowledged both the  breadth  of  Recital
+    (19) and the judicial  remedy  envisaged  in  Article  27.   The  Upper
+    Tribunal was in "no  doubt  that  the  Grand  Chamber  contemplated  an
+    individual being entitled to challenge the correctness  in  application
+    of the "criteria" to determine which Member State is responsible  under
+    the Dublin III Regulation whether the effect of the decision led to the
+    individual's transfer to another Member State or, as in this case, left
+    him or her in the Member  State  in  which  he  or  she  currently  was
+    present" (paragraph 188).
+
+39. At paragraph 190, the Upper Tribunal noted  that,  in  Ghezelbash,  the
+    Grand Chamber had affirmed that the effective remedy covered  questions
+    of both fact and law.  There was no suggestion that a court or tribunal
+    determining whether  the  Dublin  III  Regulation  had  been  correctly
+    applied was limited to determining the legality of the  decision  based
+    upon public law principles.  On the other hand, the Advocate General in
+    Ghezelbash, in her opinion at paragraphs 90 and 91, had  found  it  was
+    for the national court's procedural rules to govern  the  intensity  of
+    the review process and its outcome.  The effectiveness  of  a  judicial
+    review guaranteed by Article 47 nevertheless required an assessment  of
+    whether there was a "sufficiently solid factual basis" for the transfer
+    decision.
+
+40. At paragraph 193, the  Upper  Tribunal,  whilst  finding  the  Advocate
+    General's opinion to be "far  from  an  unambiguous  statement  of  the
+    approach that Ms Kilroy invites us to take", held that it provided some
+    support for the view that a challenge was not  restricted  to  legality
+    alone,  as  regards  the  requirement  for  the  decision  to  have   a
+    "sufficiently solid factual basis".  The Upper Tribunal concluded  that
+    the application of Article 27 meant that an individual "must  have  the
+    ability to challenge the  application  of  the  criteria  not  only  as
+    legally wrong, but also as factually wrong" (paragraph 193).
+
+41. The Upper Tribunal, however, was at some pains to point  out  that  its
+    conclusion on Article 27 was compatible with domestic public  law.   At
+    paragraph 194, citing cases from Edwards v Bairstow [1956] AC 14  to  R
+    (Al-Sweady & Others) v Secretary of State for Defence [2009] EWHC  2387
+    (Admin), by way of Anisminic v Foreign Compensation Commission [1969] 2
+    AC 147, the Upper Tribunal observed  that,  whilst  fact-finding  in  a
+    judicial review, including by reference to post-decision evidence,  was
+    rarely  undertaken,  it  was  not  unknown;  and  that  there  was  "no
+    insurmountable  procedure  or  obstacle  to  a  factual  enquiry  being
+    undertaken in judicial review proceedings" (paragraph 195).  Indeed, in
+    some cases involving "precedent fact", the judicial review  proceedings
+    inevitably had to take this form: R v SSHD, ex parte Khawaja [1984]  AC
+    74 and R (A) v Croydon LBC [2009] UKSC 8.
+
+42. All this led the Upper Tribunal to the following conclusion:-
+
+         "200.    In our judgment, the approach in the Croydon case provides
+                a strong, and indeed  compelling,  basis  for  the  approach
+                taken by the CJEU in respect of Art 27  of  the  Dublin  III
+                Regulation and which we analysed above. The  application  of
+                the hierarchy criteria in  the  Dublin  III  Regulation,  in
+                particular in this case whether MAS and MS are brothers,  is
+                a 'hard-edged' fact.  As  the  CJEU  jurisprudence  signals,
+                whether  those  criteria  have  been  correctly  applied  is
+                intended ultimately to be a factual issue  for  a  court  or
+                tribunal to be determine.
+         201. Although we were invited  to  treat  the  application  of  the
+                hierarchy criteria as being a 'precedent' or 'jurisdictional
+                fact', it is unnecessary for us to decide that  issue  given
+                our view, based upon the CJEU's jurisprudence of  the  scope
+                of Art 27.  Suffice it to say, that  there  may  not  be  an
+                altogether easy  analogy  between  cases  where  the  "fact"
+                arises prior to, and in order to  give  jurisdiction  to,  a
+                decision-maker to exercise the power or duty vested in  that
+                decision-maker and cases involving  the  hierarchy  criteria
+                under the Dublin  III  Regulation  where  the  criteria,  in
+                effect, are likely to occupy  the  whole  of  the  decision-
+                making required of the relevant State,  here  the  requested
+                State in accepting a TCR.  But, as we say, it is unnecessary
+                for us to decide this issue and we do not."
+43. Crucially for our  purpose,  beginning  at  paragraph  202,  the  Upper
+    Tribunal engaged with the  proposition,  advanced  by  MS,  that  where
+    Article 8 of the ECHR and/or Article 7 of the  CFR  is  in  issue,  the
+    nature of any judicial review is  different  from  the  situation  that
+    pertains when those or any other human or fundamental rights are not in
+    play:-
+
+         "202.    Ms Kilroy also prayed in  aid  of  her  argument  that  we
+             should decide the factual issue of the relationship between MS
+             and MAS, the case law concerning a court or tribunal's role in
+             determining whether a decision has  breached  an  individual's
+             human rights.  She, of course, placed reliance upon Art  8  of
+             the ECHR and  Art  7  of  the  CFR,  in  particular  (but  not
+             exclusively)  the  procedural/fairness  dimension   of   those
+             provisions.  She reminded us that  Art  47  of  the  CFR  also
+             creates an obligation to provide  "an  effective  remedy"  for
+             breaches of the CFR.
+
+         203. It  is  now  well-recognised  that  an  "intense"  review  or,
+             arguably, merits assessment arises in cases where the judicial
+             review claim is that the decision in determining  whether  the
+             challenged decisions are contrary to section 6  of  the  Human
+             Rights Act 1998 (see, e.g., R (Nasseri v SSHD [2009] UKHL  23,
+             Bank Mellat v HM Treasury (no. 2) [2013] UKSC 38 and 39 ,  and
+             R (Lord Carlile of Berriew) v SSHD  [2014]  UKSC  60)  .   The
+             court or tribunal must, for itself, determine whether a breach
+             of the relevant Convention right has occurred.
+
+         204. The principle was encapsulated by Underhill LJ in R(Caroopen &
+             Myrie) v SSHD [2016] EWCA Civ 1307, where he  stated  at  [73]
+             that:
+                    "...  where  the  issue  raised  by  a  judicial  review
+                  challenge is whether there has been a breach of Convention
+                  rights, the Court cannot confine itself to asking  whether
+                  the decision-making process was defective but must  decide
+                  whether the decision was right."
+         205. That language - whether the decision was "right" - echoes  the
+             approach of the  CJEU  to  scope  of  the  'effective  remedy'
+             required by Art 27 of the Dublin III Regulation.
+         206. In Belfast City Council v Miss Behavin' Ltd    [2007]  UKHL 19
+             Lady Hale said, at [31]:
+                  "The role of the court in  human  rights  adjudication  is
+                  quite different from the role of the court in an  ordinary
+                  judicial review of administrative action. In human  rights
+                  adjudication, the court  is  concerned  with  whether  the
+                  human rights of the claimant have in fact been  infringed,
+                  not  with  whether   the   administrative   decision-maker
+                  properly took them into account."
+         207. Consequently, where a breach of Art 8 is  alleged,  the  court
+             must for itself determine whether the challenged decision is a
+             proportionate interference with the individual's art 8 rights.
+              It is not constrained only to determine whether it  has  been
+             lawfully applied (see, e.g. Miss Behavin' Ltd  and  R  (SB)  v
+             Governors of Denbigh High School [2006] UKHL 15).  It was this
+             approach which was adopted by the UT in the HA case (at  [53]-
+             [56]).
+         208. We do not consider that this approach is limited to the  issue
+             of proportionality under Art  8.2.   It  must  also  apply  to
+             establishing that the right, upon which reliance is placed, is
+             actually engaged.  We accept this approach must be applied  to
+             Art  8,  whether  relied  upon  for  its  procedural/fairness'
+             dimension or substantively.  It was not  suggested  before  us
+             that any different approach should be applied  in  respect  of
+             Art 7 of the CFR.   Whether,  therefore,  family  life  exists
+             between MAS and MS based upon their  claimed  relationship  as
+             brothers is also a matter  which  a  court  or  tribunal  must
+             determine for itself.  We reject  Mr  Lewis'  submission  that
+             this, in effect, puts the 'cart before the  horse'.   Only  if
+             the right is engaged can the court indulge in a merits review.
+              To say otherwise would effectively remove from the  court  or
+             tribunal in cases where 'engagement' was the,  or  an,  issue,
+             determination of a vital part of the individual's  claim  that
+             his Art 8 right was breached.  We see no basis in the case law
+             for it.  Indeed, in the Al-Sweady case, a strongly constituted
+             Divisional Court (Scott Baker LJ and Silber  and  Sweeney  JJ)
+             made plain that the factual enquiry extended in that  case  to
+             the underlying facts of one individual's claim  under  Arts  2
+             and 3, namely whether he had been killed on  the  battle-field
+             or, as he alleged, in a camp  under  the  control  of  British
+             forces in Iraq (see [16]).  The  Court  accepted  that  cross-
+             examination of witnesses was necessary in order for the  Court
+             to resolve that 'hard-edged' factual issue.  Mutatis  mutandis
+             , we conclude, so it was in this case for us  to  resolve  the
+             'hard-edged' issue of fact of whether MAS and MS  are  related
+             as claimed as an aspect of their reliance upon Art  8  of  the
+             ECHR (and Art 7, CFR)."
+44. At paragraph 210, the Upper Tribunal therefore decided "Issue IV in the
+    applicant's favour".
+
+45.  In view of what transpired when MS reached the Court of Appeal, it  is
+    necessary to see what Issue IV comprised and its relationship with  the
+    three previous issues.  At paragraph 86, the Upper Tribunal  summarised
+    the principal legal issues as follows:-
+
+         "86. We can summarise the principal legal  issues  raised  in  this
+             case as follows:
+             I.   Is the Secretary of State under a duty to investigate the
+                  relevant circumstances when considering a  TCR  under  the
+                  Dublin III Regulation?
+             II.  If there is such a duty, what is the proper scope of that
+                  duty?  Does any duty include a duty to  facilitate  and/or
+                  secure the obtaining of a DNA sample from an individual in
+                  the requesting state?
+             III. If there is such a duty, does that duty continue once the
+                  Dublin III Regulation process is concluded?
+             IV.  How should a court or tribunal approach  a  challenge  in
+                  judicial review proceedings to a refusal to accept a  TCR?
+                  Is it restricted to considering  a  challenge  based  upon
+                  public law principles or is  it  required  to  decide  for
+                  itself whether the criteria for determining responsibility
+                  under  the  Dublin  III  Regulation  have  been  correctly
+                  applied?"
+46. The Upper Tribunal determined Issues I, II and III  in  favour  of  the
+    applicant.  Having done so, it applied its findings in those issues  to
+    the facts and circumstances of the  three  decisions  under  challenge.
+    The Upper Tribunal found that those decisions fell  to  be  quashed  on
+    conventional public law principles.   It  was  at  this  point  in  its
+    judgment that the Upper Tribunal turned to examine Issue  IV.   In  the
+    light of its conclusion on that matter, it made findings  of  fact,  by
+    reference to evidence adduced at the hearing (including oral evidence),
+    upon which it held, on the balance of probabilities, that  MS  was  the
+    brother of the individual present in the United Kingdom.
+
+47. We can now look at what happened in the Court of  Appeal.  Hickinbottom
+    LJ introduced the case as follows:-
+
+         "5.  The tribunal gave the Secretary of State permission to appeal
+             to this court on two grounds, as follows.
+
+
+             i)   The tribunal erred in holding that, for the  purposes  of
+                  article 27 of Dublin III, "transfer decision" includes the
+                  rejection of a take  charge  request,  which  involves  no
+                  transfer.  Therefore, it is submitted that the requirement
+                  of article 27, that an asylum applicant should  have  "the
+                  right to an effective remedy, in the form of an appeal  or
+                  a review, in fact and law, against  a  transfer  decision,
+                  before a court or tribunal", does not apply in  this  case
+                  where there has been no decision to transfer MS.
+
+             ii)  Even if "transfer decision" does include a rejection of a
+                  take charge request, the tribunal erred in  proceeding  on
+                  the basis that the tribunal itself must  determine,  as  a
+                  matter of preliminary fact, whether  the  relevant  Dublin
+                  III criteria (including  any  required  relationship)  are
+                  met.
+         I will call these "Ground 1" and "Ground 2" respectively."
+48. By the time the matter came before the Court of Appeal, a DNA test  had
+    established that MS and the other individual were, indeed, brothers and
+    the Secretary of State accepted that fact. MS therefore contended that,
+    although the Upper Tribunal had been right  to  hold  that  Article  27
+    applied, the matter was academic  and  the  Court  should  dismiss  the
+    appeal on that basis.
+
+49. At paragraph 13, Hickinbottom LJ described Ground 1 as "narrow, turning
+    upon the proper construction of Article  27".   Hickinbottom  LJ  noted
+    that Ground 2 was "effectively conceded by the Secretary  of  State  in
+    the course of the hearing before us".  The Secretary of State  accepted
+    that, if Article 27 of Dublin III applies, the domestic  Court,  "which
+    is conducting the Article 27 review of  the  transfer  decision  should
+    (i.e. is able  to  and  required  to)  determine  whether  there  is  a
+    'sufficiently solid factual basis' for it, the  quotation  coming  from
+    the opinion of Advocate General Sharpston in [Ghezelbash]".  Therefore,
+    if the Secretary of State failed on Ground  1  "he  therefore  conceded
+    Ground 2 by accepting that the Tribunal did not err in its approach  to
+    the factual question  of  whether  the  relevant  Dublin  III  criteria
+    (including any required relationship) had been met".
+
+50. At paragraph 40 of his judgment, Hickinbottom LJ observed that,  before
+    the Upper Tribunal, "the core issue with regard to lawfulness  was  the
+    extent to which the Secretary of  State  had  an  'investigative  duty'
+    which extended to facilitating and securing  the  provision  of  a  DNA
+    sample from an asylum applicant in France".  He then noted the  reasons
+    why the Upper Tribunal had quashed the three decisions of the Secretary
+    of State.  At paragraph 41, Hickinbottom LJ said this:-
+
+         "41. The tribunal therefore found the three decisions unlawful  and
+             quashed them without reference to article 27  of  Dublin  III.
+             No reference to that provision was made until, having  quashed
+             the decisions, the tribunal dealt with the  submission  by  Ms
+             Kilroy (who also appeared below) that article  27,  read  with
+             article 47 of the  Charter,  applied  to  a  decision  of  the
+             Secretary of State to reject a take  charge  request;  and  it
+             required the tribunal to determine for itself whether  MS  met
+             the relevant criteria in Dublin III notably that he  is  MAS's
+             brother."
+
+51. Hickinbottom LJ proceeded to set out  the  competing  arguments  of  Ms
+    Giovannetti (for the Secretary of State) and Ms Kilroy (for MS) on  the
+    Article 27 issue.  At paragraph 53, he said that "I see the force in Ms
+    Kilroy's submission on the substantive issue  of  the  construction  of
+    article 27 in Ground 1".  However, because he found that the matter was
+    "now entirely academic as between the parties,  I  would  exercise  the
+    court's discretion not to determine it".
+
+52. Sir Terence Etherton MR gave a short judgment, with which both  of  the
+    members of the Court agreed.  He did so in order "to add  ...  a  short
+    amplification of the place of  article  8  of  the  ECHR  and  ordinary
+    domestic law principles of judicial review in the proceedings below and
+    on this appeal" (paragraph 59).
+
+53. At paragraph 60, the Master of the Rolls noted  that  MS's  grounds  of
+    judicial review:-
+
+         "... stated that the Secretary of State owed a domestic duty to act
+         compatibly with article 8 of the ECHR pursuant to section 6 of  the
+         Human Rights Act 1998, and those duties  existed  alongside  Dublin
+         III and were not subsumed or replaced by it".
+
+54. At paragraph 62, the Master  of  the  Rolls  noted  Ms  Giovannetti  as
+    accepting "that there could be judicial review under ordinary  domestic
+    law principles even if the alleged unlawfulness arose under Dublin  III
+    itself".
+
+55. The remainder of the judgment needs to be set out in full:-
+
+         "63. It is apparent from the judgment  of  the  tribunal  that  its
+             decision to quash the Secretary of State's refusal  to  accept
+             France's take charge requests was made on that basis (see  the
+             way the tribunal summarises MS's case  in  paragraphs  44  and
+             45).  The issue of article 27 arose only in the context of the
+             subsequent  question  whether,  having  concluded   that   the
+             decisions of the Secretary of State  should  be  quashed,  the
+             tribunal should decide for itself  whether  the  criteria  for
+             determining responsibility under article 8 of Dublin III  were
+             met on the facts.
+
+         64.  Hickinbottom LJ has set out  in  paragraph  5  above  the  two
+             grounds of appeal.  In her arguments for dismissing the appeal
+             on the footing that it is  academic  Ms  Kilroy  relied  upon,
+             among other things, the right to  challenge  refusals  by  the
+             Secretary of State of take charge requests as infringements of
+             article 8 of the ECHR, irrespective of rights and  obligations
+             under Dublin III,  applying  ordinary  domestic  law  judicial
+             review principles and also bearing in mind  the  Secretary  of
+             State's acceptance on the appeal that (1)  there  is  residual
+             power in judicial review proceedings to make findings of fact,
+             and (2) when called upon  to  determine  whether  there  is  a
+             breach of article 8 of the  ECHR,  the  court  has  to  decide
+             proportionality for itself, and it may be required to  resolve
+             issues of disputed fact.
+
+         65.  ZT (Syria) and RSM (Eritrea), cited in the Grounds of  Defence
+             and in the arguments before us on the appeal, are not relevant
+             to that line of argument and are  plainly  distinguishable  on
+             their facts as cases in which the applicants were  seeking  to
+             bypass or override express procedures under the Dublin process
+             which would otherwise have applied.
+
+         66.  Ms Giovannetti, perhaps rather surprisingly in view of the way
+             matters proceeded in the tribunal below and the concession  by
+             the Secretary of State on Ground 2 of the appeal, urged us  to
+             express no view about the application of ordinary domestic law
+             principles of judicial review in a case such  as  the  present
+             one as, she emphasised, that is not the subject of the  notice
+             of appeal.  It is  sufficient,  therefore,  to  conclude  this
+             description of the way the issue arose in this case and on the
+             appeal by recording that nothing was said to  us  to  indicate
+             that the tribunal was wrong to approach the case as it did, by
+             reviewing the Secretary of State's decision on  the  basis  of
+             ordinary judicial review principles."
+
+56. As can be seen from the above recitation of the judgment of  the  Upper
+    Tribunal in MS, it is by no means  apparent  that  the  Upper  Tribunal
+    determined Issue IV in the applicant's favour  and  embarked  upon  the
+    resulting fact-finding exercise to establish whether he and his alleged
+    sibling were, indeed, brothers, only because  the  Upper  Tribunal  had
+    decided, for other reasons, to quash the challenged decisions.  As  the
+    Master of the Rolls observed, that was certainly not the way  in  which
+    MS had put the challenge in his  judicial  review  grounds,  where  the
+    Article  8  ECHR/section  6  HRA  duties  were  described  as  existing
+    "alongside Dublin III".
+
+57. The fact that the Upper Tribunal chose to address Issue IV  only  after
+    it had addressed the  other  grounds  of  challenge  that  led  to  the
+    quashing of the decisions is explicable in terms of  the  structure  of
+    the judgment. But that does not mean the Upper Tribunal regarded  Issue
+    IV as relevant only because it  had  quashed  the  decisions  on  other
+    grounds.  There is no statement in the judgment  that  even  begins  to
+    suggest this. On the contrary, as we have seen, the Upper Tribunal  was
+    concerned to justify its  conclusions  on  Issue  IV  by  reference  to
+    domestic case law including, importantly, the House of Lords  judgments
+    in Denbigh High School and Miss Behavin' as well  as  the  judgment  of
+    Underhill LJ in Caroopen.  There would have been no  point  in  such  a
+    justification if Issue IV were not regarded by the Upper Tribunal as  a
+    free-standing ground of challenge.
+
+58. As I read the judgment of the Master of the Rolls, he was concerned  to
+    make the point, so far as he was able to do so in the light of the  way
+    in which matters unfolded in  the  Court  of  Appeal,  that  the  Upper
+    Tribunal in MS was not wrong to approach the case in the way it did "on
+    the basis of ordinary judicial review principles".  It  is  plain  from
+    paragraph 64 of his judgment that the  Master  of  the  Rolls  regarded
+    those principles as encompassing the determination by the  Tribunal  of
+    issues of proportionality, wherein  "it  may  be  required  to  resolve
+    issues of disputed fact".
+
+59. The principle that issues of disputed fact may require to be decided in
+    judicial  review  proceedings  involving  a  human  rights  ground   of
+    challenge has been emphatically confirmed by the judgment of  Underhill
+    LJ in R (Balajigari) v Home Secretary [2019] 1 WLR  4647;  [2019]  EWCA
+    Civ 673.  The case involved the nature of a judicial review  against  a
+    decision of the respondent that an individual had acted dishonestly  in
+    respect  of  financial  information  provided,  respectively,  to   the
+    respondent and to Her Majesty's Revenue and Customs.  Where  Article  8
+    was in  play,  and  the  issue  involves  the  proportionality  of  the
+    respondent's decision, Underhill LJ was in no doubt that the allegation
+    (of dishonesty) had to be determined by the Tribunal, by means  of  its
+    own factual investigation:-
+
+         "104.    If such an article 8 challenge  does  proceed  by  way  of
+             judicial review in the UT, and the claimant's article 8 rights
+             are found to have been engaged, the tribunal will, as  already
+             noted,  have  to  consider  for  itself  whether  the  alleged
+             dishonesty on the part of the claimant  has  been  proved  and
+             whether removal is  proportionate,  which  in  most  cases  is
+             likely to be determined by the  question  of  dishonesty.   It
+             will not be confined, as would usually be the case and  as  in
+             these proceedings thus far, to reviewing the facts only on the
+             ground of irrationality. This is because, where  a  claim  for
+             judicial review includes a pleaded ground that  the  Secretary
+             of State's decision either does or would  violate  article  8,
+             that amounts to an allegation that there has been or  will  be
+             unlawful conduct contrary to section 6 of the 1998 Act.   That
+             allegation has to  be  adjudicated  by  the  tribunal  on  its
+             merits: it is an argument based on illegality and  not  simply
+             irrationality.  For a recent summary of the law in this regard
+             see R (Caroopen) v Secretary of State for the Home  Department
+             [2017] 1 WLR 2339, paras 68-83, per Underhill LJ."
+
+60. At paragraphs 68 to 83 of Caroopen, Underhill LJ undertook an  analysis
+    of the case law, including Denbigh High School, Naseri, Bank Mellat  No
+    2, Miss Behavin' and Lord Carlile's case, similar to that undertaken by
+    the Upper Tribunal in MS. Indeed, as we have seen, at paragraph 204  of
+    its judgment, the Upper Tribunal cited the passage at paragraph  73  of
+    Caroopen, where Underhill LJ held that, in  challenges  of  this  kind,
+    "the Court cannot confine itself to asking whether the  decision-making
+    process was defective but must decide whether the decision was right".
+
+61.  It  is,  therefore,  established  that  in  a  judicial  review  which
+    challenges a decision on the ground that  it  actually  or  potentially
+    violates a person's protected human right, the court or  tribunal  must
+    determine that  issue  for  itself  (albeit  ascribing  weight  to  the
+    decision-maker's expertise and statutory or other relevant  functions).
+    Where there is  a  dispute  as  to  the  primary  facts  that  must  be
+    ascertained before that issue can be determined, the court or  tribunal
+    must resolve that dispute.
+
+62. The legal principle I have just stated is part of our domestic  law  of
+    judicial review. It has been reached by the  domestic  courts  applying
+    section 6 of the Human  Rights  Act  1998,  which  prohibits  a  public
+    authority from acting incompatibly with an ECHR right.  Where  an  ECHR
+    right is in play, this legal principle is not dependent on  Article  27
+    of Dublin III or, indeed, any other piece of EU  legislation  regarding
+    the availability of an effective  remedy,  even  where  the  challenged
+    decision is made under EU law. Nor  is  the  principle  dependent  upon
+    there being some other public law error in the impugned decision.
+
+63. The fact that a decision of the respondent,  which  is  otherwise  free
+    from public law error, may fall to be quashed, as a result of  a  fact-
+    finding exercise of the kind undertaken in MS  and  the  present  case,
+    needs to be seen in context. In most instances, there is unlikely to be
+    any dispute as to the primary facts.  The  issue  in  contention  will,
+    rather, be about what weight should be ascribed to  particular  factual
+    elements in order to strike the proportionality  balance.   A  decision
+    which is free from public law error, where the  evidence  available  to
+    the respondent does not disclose a reason why the decision might be  in
+    breach of section 6 of the Human Rights Act 1998, will not get past the
+    "permission" stage on judicial  review.  Although  there  is  no  legal
+    requirement for there to be an independent public law error, a  genuine
+    dispute as to primary facts is likely to arise only where there has, in
+    practice, been some such error, such as a breach of procedural fairness
+    (as in Balajigari).
+
+64. Before attempting a summary of the position, it is necessary to  return
+    to what the Upper Tribunal said at paragraph 208 of MS.   Although  the
+    issue of whether a decision is contrary to section 6 of  the  1998  Act
+    will usually arise in  the  context  of  whether  the  decision  was  a
+    proportionate interference with a right that is accepted to exist,  the
+    primary fact-finding which may be necessary is not limited to the issue
+    of proportionality but must, as the Upper Tribunal  held  in  paragraph
+    208, "also apply to establishing that the right, upon which reliance is
+    placed, is actually engaged".  In that case, the issue was  whether  MS
+    and the alleged sibling were brothers.  If they were not, then  Article
+    8(1) would not have been engaged.  If they  were,  then  not  only  was
+    Article 8 engaged; on  the  facts  of  the  case  the  refusal  of  the
+    respondent to take charge was plainly  unlawful  in  terms  of  Article
+    8(2).
+
+65. In the present case, as we shall see, a similar approach  is  required.
+    A1 must show, on balance, that he enjoys a family life with  A2.   That
+    does not merely require  showing  that  A1  and  A2  have  the  alleged
+    relationship of  cousins.   It  also  involves  demonstrating  that  an
+    Article 8(1) family life exists between them.  The factors that will be
+    relevant in determining that question, whilst closely related to issues
+    of proportionality under Article 8(2), are, nevertheless,  conceptually
+    distinct.
+
+66. It is time to draw these threads together:
+
+    (1)  Although Article 17(2) of Dublin III confers a wide discretion  on
+    the respondent, it is not untrammelled.
+
+    (2) As is the case with any other discretionary power of the respondent
+    in the immigration  field,  Article  17(2)  must  be  exercised  in  an
+    individual's  favour,  where  to  do   otherwise   would   breach   the
+    individual's human rights (or those of some other person), contrary  to
+    section 6 of the Human Rights Act 1998.
+
+    (3)   An  Article  17(2)  decision  is  susceptible  to  "ordinary"  or
+    "conventional" judicial review principles, of  the  kind  described  by
+    Beatson LJ in paragraph 85 of ZT  (Syria)  as  "propriety  of  purpose,
+    relevancy   of   considerations,   and    the    longstop    Wednesbury
+    unreasonableness category".
+
+    (4) Where the judicial  review  challenge  involves  an  allegation  of
+    violation of an ECHR right, such as Article 8, it is now an established
+    principle of domestic United Kingdom law that  the  court  or  tribunal
+    must make its own assessment of the  lawfulness  of  the  decision,  in
+    human rights terms.
+
+    (5) If, in order to make that assessment, the court or  tribunal  needs
+    to make findings of fact, it must do so.
+
+    (6)  None of the above is dependent  upon  Article  27  of  Dublin  III
+    applying to the facts of the case.
+
+    (7)  Nevertheless, what the Upper Tribunal held  in  MS  regarding  the
+    scope of Article 27 is correct and  nothing  in  the  Court  of  Appeal
+    judgments in that case suggests otherwise. The reference to a "transfer
+    decision" in Article 27 encompasses a  refusal  to  take  charge  of  a
+    Dublin III applicant. That includes a  refusal  to  take  charge  under
+    Article 17(2).
+
+(4) The legality of the Secretary of State's Dublin III Regulation  Guidance
+(18 April 2019)
+
+67. The applicants contend that the respondent's Guidance to Caseworkers is
+    unlawful.  Ms Knorr  submitted  that  the  references  to  "exceptional
+    circumstances", and to it being "rare and on an exceptional basis" that
+    a regulation 17(2) request would be accepted, involved the  setting  of
+    an unlawful threshold.
+
+68. I do not accept this criticism.  Since Huang v Secretary of  State  for
+    the Home Department [2007] UKHL 11, those working  in  the  immigration
+    field have known that the  use  of  "exceptional"  in  the  context  of
+    Article 8 ECHR is not  to  be  used  as  setting  a  particular  (high)
+    threshold but, rather, as predictive of the outcome of the  application
+    of the principles of proportionality to the facts of a particular case.
+     There is, in my view, nothing in the Guidance that suggests its author
+    is telling the respondent's  caseworkers  to  do  anything  other  than
+    follow the settled law on this topic.  My conclusion is  reinforced  by
+    the statement in the Guidance that the situations  where  it  would  be
+    appropriate to exercise discretion will be "rare".   The  juxtaposition
+    of  "rare"  and  "exceptional"  within  the  sentence  containing  that
+    statement makes plain the correct approach is being applied.
+
+69. It is also necessary to make the  following  point.   Although  Article
+    17(2) relates to the bringing together of "family relations", the  fact
+    that this may be "on humanitarian grounds based  ...  on  ...  cultural
+    considerations"  makes  it  clear  that  the  ambit  of  Article  17(2)
+    encompasses cases that may elicit a  favourable  response,  even  where
+    Article 8 ECHR/Article 7  CFR  is  not  engaged.   Just  as  Ms  Masood
+    correctly points out that the Guidance covers applicants who may not be
+    children (whether or not accompanied), the fact that it extends  beyond
+    the classic Article 8 scenarios must be borne in mind, when reading it.
+
+70. As can be seen from the extensive extracts from the Guidance set out in
+    the  Annex  to  this  judgment,  it  does,  contrary  to   Ms   Knorr's
+    submissions, appropriately reference the best interests of children.  I
+    therefore  reject  the  challenge  to  its  validity,  insofar  as  the
+    applicants allege a deficiency in this regard.
+
+71. I do not accept  that  the  Guidance  errs  in  law  in  requiring  the
+    requesting EU State to demonstrate what the  exceptional  circumstances
+    or compassionate factors are said to be.  I agree with Ms Masood it  is
+    plain from Article 17(2) that the requesting State needs  to  cite  the
+    humanitarian grounds upon which it relies and provide "all the material
+    in the possession of the requesting Member State to allow the requested
+    Member  State  to  assess  the  situation".   That   is   clearly   not
+    incompatible with the requirement in Article 17(2)  for  the  requested
+    Member State then to carry out "any necessary  checks  to  examine  the
+    humanitarian grounds cited".
+
+72. Although, as I have earlier held, Article 12 of the First  Implementing
+    Regulation (as amended by the Second Implementing Regulation) does  not
+    formally apply to a request under Article 17(2) of Dublin  III,  it  is
+    clear that the relevant local authority in the United Kingdom, in whose
+    area the alleged relation resides, still needs to be  involved  in  the
+    process; not least in  order  to  determine  whether  an  unaccompanied
+    minor's best interests would be served by reuniting the minor with that
+    individual.  For the respondent, Ms Masood accepts as much.
+
+73. Ms Knorr took issue with the reference in the Guidance  to  caseworkers
+    in Article 17(2) cases acting "consistently with the immigration  rules
+    and policies on family  members,  for  example  the  Immigration  rules
+    Appendix FM  -  Family  Members".   I  see  no  problem  here.   Acting
+    consistently with the immigration rules,  in  particular  Appendix  FM,
+    entails being aware of  the  elements  of  those  provisions  that  are
+    intended to ensure compliance with  the  United  Kingdom's  obligations
+    under the ECHR.  It also entails being aware of the fact that,  as  was
+    finally settled by the Supreme Court in Hesham Ali v Secretary of State
+    for the Home Department [2016] UKSC  60,  the  respondent's  caseworker
+    must still conduct an Article 8 exercise outside the rules,  to  ensure
+    that, on the particular facts,  section  6  of  the  1998  Act  is  not
+    breached.
+
+74.  In  considering  the  challenge  brought  by  the  applicants  to  the
+    respondent's Guidance, I have had regard to their criticisms of the way
+    in which the respondent's caseworkers reached the  decisions  that  are
+    challenged in these proceedings.  Although, as I shall explain, I agree
+    with the criticisms levelled at those decisions, I  do  not  find  that
+    they are indicative of any failing in the Guidance itself.
+
+75. For these reasons, I reject the applicants' challenge to the Guidance.
+
+(5) Duty of investigation; involvement of relevant local authority
+
+76. In MS, the Upper Tribunal  followed  the  judgment  in  R  (MK,  IK)  v
+    Secretary  of  State  for  the  Home  Department  (Calais:  Dublin  III
+    Regulation - investigative duty) (IJR) [2016] UKUT 00231, holding  that
+    an EU State considering a take-charge request under Dublin  III  has  a
+    duty to investigate the basis  upon  which  the  request  is  made  and
+    whether the requirements of Dublin III are met.  I have  no  hesitation
+    in endorsing that conclusion, insofar as it applies to  Article  17(2).
+    There is, in my view, no principled reason why it should not; and I did
+    not understand Ms Masood to argue to the contrary.
+
+77. Although Article 17(2) lacks some of  the  formal  requirements  as  to
+    verification etc, which derive from the  Implementing  Regulations,  it
+    would be remarkable if the respondent's investigatory  responsibilities
+    were materially narrower in an Article 17(2)  case  which  concerns  an
+    unaccompanied minor and his or her best interests, than they  would  be
+    in respect of any other take-charge request.
+
+78. But this is not to say that the precise  nature  of  the  investigatory
+    obligation bears no relationship with the nature of the request to take
+    charge made under  Article  17(2),  and  the  information  supplied  in
+    connection with it.  Given the breadth of Article 17(2), there may well
+    be some cases in which what  the  respondent  and,  by  extension,  the
+    relevant local authority, are expected to do  would  be  less  than  in
+    other  cases.   Where,  however,  the  request   in   respect   of   an
+    unaccompanied minor raises issues that involve an asserted family  life
+    within Article 8/Article 7, then, in the normal course of  events,  the
+    respondent's degree of engagement with  the  relevant  local  authority
+    should be no less than in the case of  any  other  unaccompanied  minor
+    where the take-charge request is made under Article 8 of Dublin III  on
+    the basis that the relation in the United Kingdom is  a  sibling  or  a
+    "family member" or "relative", as defined.  Unless  the  respondent  is
+    satisfied that the relevant  local  authority's  assessment  could  not
+    possibly  cast  any  relevant  light  on  whether  the  alleged  family
+    relationship exists,  or  upon  the  alleged  humanitarian  grounds,  I
+    consider that, in an  Article  8/Article  7  case  of  this  kind,  the
+    respondent should seek an assessment from the relevant local authority.
+
+79. Ms Julia Farman, of the European Intake Unit, UK Visas and Immigration,
+    has filed two statements in the current proceedings.  She is  the  Head
+    of the EIU, a position she has held  since  2016,  when  the  Unit  was
+    created.   Ms  Farman  says  in  her  first  statement  that  a  family
+    assessment is requested from the local authority only "once the  family
+    link has been established", since the purpose of the assessment "is  to
+    ascertain the ability of an individual in the UK  to  take  care  of  a
+    minor and, if necessary, to  source  appropriate  accommodation  should
+    they qualify under the terms of the Dublin  III  Regulation".   In  her
+    supplementary witness statement, which I decided  to  admit,  she  says
+    that, in the context of Article 17(2), the EIU will  request  a  family
+    assessment  "only  once  we  are  satisfied  that  the  claimed  family
+    relationship has been established and the requirements of Article 17(2)
+    have been met (i.e. it has been  decided  to  exercise  the  discretion
+    under Article 17(2) on the basis of  the  humanitarian  grounds  and/or
+    cultural considerations".  The purpose of the assessment is, therefore,
+    to address whether there would  be  "any  overarching  safeguarding  or
+    security concerns that would mean the transfer  would  not  be  in  the
+    child's best interests".
+
+80. As will be  apparent,  I  do  not  consider  these  statements  of  the
+    respondent's practice to be compatible with the requirements of  Dublin
+    III, as they bear on the issue of Article 7 CFR/Article 8  ECHR,  where
+    the best interests of an unaccompanied minor are at issue.   There  are
+    likely to be circumstances in which information from the relevant local
+    authority, deriving from direct engagement  with  the  asserted  United
+    Kingdom relation, will inform the making of the respondent's  decision,
+    both as to the existence of the claimed relationship and as to the  way
+    in which the Article 17(2) discretion should be exercised.
+
+81. Although I  have  rejected  the  specific  challenges  brought  by  the
+    applicants to the respondent's Guidance,  it  may  be  useful  for  the
+    respondent to consider adding  a  provision  to  that  Guidance,  which
+    reflects what I have held at paragraph 78 above.
+
+
+
+
+(6) "Minded to refuse" communications
+
+82. In MS, the  Upper  Tribunal  held  that  the  respondent's  public  law
+    obligation to act fairly may  require  that  an  individual  knows  the
+    "gist" of what is being said against him or her, so as to  be  able  to
+    make representations and/or adduce evidence, before the actual decision
+    is taken.  The Upper Tribunal cited, in this regard,  the  judgment  of
+    Lord Phillips MR in R (Q & Others) v Secretary of State  for  the  Home
+    Department [2004] QB 36.   The  Upper  Tribunal  considered  that  this
+    domestic obligation was not  inconsistent  with  Dublin  III.   On  the
+    contrary, it was "patently focussed on  enhancing  or  maintaining  the
+    integrity of the system  in  reaching  lawful  and  correct  decisions"
+    (paragraph 124).
+
+83. Ms Masood points out that "what fairness demands is  dependent  on  the
+    context of the decision, and this is to be taken into  account  in  all
+    its aspects" (R Doody) v Secretary of State  for  the  Home  Department
+    [1994] 1 AC 531, per Lord Mustill.  Thus, Ms Masood submits, the  Upper
+    Tribunal's decision in MS, which was that the applicant  in  that  case
+    should have been informed  of  the  respondent's  concerns  before  the
+    refusal decision was issued, cannot  and  should  not  bind  the  Upper
+    Tribunal in this case.  On the contrary, Ms Masood submits that in this
+    Article 17(2) case, neither common law fairness nor Dublin III required
+    the respondent to inform A1 or A2  of  the  reasons  why  she  was  not
+    satisfied that  there  were  no  humanitarian  grounds  for  exercising
+    discretion in A1's favour.
+
+84. In Balajigari, Underhill LJ undertook a  comprehensive  review  of  the
+    case law regarding procedural fairness, as it bears on the question  of
+    whether a person is entitled to some form of  advance  notification  of
+    the decision-maker's adverse thinking.  At paragraph 45,  Underhill  LJ
+    referred to the judgment of Singh LJ in R (Citizens UK) v Secretary  of
+    State for the Home Department [2018] 4 WLR 123.
+
+85. In that judgment, Singh LJ derived from Doody the principles  that  the
+    standards of fairness are not immutable and that what fairness  demands
+    is dependent on the context.  Nevertheless, fairness "will  very  often
+    require that a person who may be adversely  affected  by  the  decision
+    will have an opportunity to make  representations  on  its  own  behalf
+    either before the  decision  is  taken  with  a  view  to  producing  a
+    favourable result; or after it is taken, with a view to  procuring  its
+    modification; or both".  Since the person affected  usually  could  not
+    make worthwhile representations without knowing what factors may  weigh
+    against his interests, "fairness will very often  require  that  he  is
+    informed of the gist of the case which he has to answer" (paragraph  69
+    of Citizens UK).
+
+86. At paragraph 48, Underhill LJ cited R v Secretary of State for the Home
+    Department ex parte  Fayed  [1998]  1  WLR  763.   That  case  involved
+    applications for naturalisation  by  brothers  settled  in  the  United
+    Kingdom, which were refused on the basis of concerns about  their  good
+    character. Those concerns were not, however, raised with the applicants
+    or even disclosed at the time of the decisions.  Underhill LJ  regarded
+    the judgment in ex parte Fayed as  instructive,  in  the  context  with
+    which the court was concerned in Balajigari.   The  applicants  had  no
+    legal entitlement to a favourable decision; nor any pre-existing right,
+    which was adversely affected by a public decision.  Although  they  had
+    applied for a discretionary benefit to be conferred upon them, this did
+    not prevent the Court of Appeal in ex parte Fayed  from  holding  that,
+    where the Secretary of State had concerns, these needed to  be  put  to
+    the applicant before a concluded  decision  was  taken  to  refuse  the
+    application.
+
+87. At paragraph 51, Underhill LJ noted the seriousness of  the  allegation
+    made against Mr Balajigari; namely, that he had  acted  dishonestly  in
+    relation to financial matters.  The consequences of refusal  were  also
+    likely to be very serious (paragraph 53).
+
+88. At paragraph 55, Underhill LJ concluded that, where  the  Secretary  of
+    State was minded to refuse indefinite leave to remain on the  basis  of
+    an applicant's dishonesty or other reprehensible conduct, the Secretary
+    of State was required as a matter of procedural  fairness  to  indicate
+    clearly to the applicant that he had that suspicion; and  to  give  the
+    applicant an opportunity to respond, both as regards the conduct itself
+    and as regards any other reasons relied on as regards "undesirability".
+     Any  response  had  to  be  taken  into  account  before  drawing  the
+    conclusion that there had been such reprehensible conduct.
+
+89. At paragraph 60, Underhill LJ held that, unless the circumstances of  a
+    particular  case  made  it   impracticable,   the   ability   to   make
+    representations only after a decision had been taken "will  usually  be
+    insufficient to satisfy the demands of common law procedural fairness".
+     The rationale for this result lay in the fact that it is conducive  to
+    better decision-making because it ensures the decision-maker  is  fully
+    informed at the point when a decision is still at  a  formative  stage.
+    It also shows respect for the individual whose interests are  affected.
+    Furthermore, "human nature being  what  it  is,  a  decision-maker  may
+    unconsciously and in good faith tend to be defensive over the  decision
+    to which he or she has previously come".
+
+90. At paragraph 61, Underhill LJ held that "more fundamentally,  it  is  a
+    central feature of the administrative review procedure  [which  applied
+    in Mr Balajigari's case] ... that the reviewer will  not  consider  any
+    evidence that was not before  the  original  decision-maker  except  in
+    certain specified cases".  That meant the applicant would normally only
+    be able to assert that he or she had been dishonest but  would  not  be
+    permitted to adduce evidence in support of that  assertion.   Underhill
+    LJ considered that this  limited  type  of  legal  review  "is  clearly
+    inadequate here" (paragraph 61).
+
+91. I do not accept Ms Masood's submission that, in  Article  17(2)  cases,
+    domestic common law fairness principles mean the  respondent  is  never
+    required to provide an indication or  gist,  to  an  applicant  or  his
+    alleged United Kingdom relation, of matters of concern that may lead to
+    a refusal to take charge of the applicant.   No  principled  basis  has
+    been advanced for this proposition.  Like Underhill LJ in Balajigari, I
+    find ex parte Fayed is instructive.  The power to refuse naturalisation
+    is no less wide than the power conferred by Article 17(2).  The present
+    case also shares similarities with the position of Mr  Balajigari.   As
+    we shall see, the consequences of  refusal  could  well  have  profound
+    consequences for A1.
+
+92. Even more importantly, like Mr Balajigari, A1's Article 8  ECHR  rights
+    are potentially  at  issue.   In  an  Article  17(2)  case,  where  the
+    requesting State has advanced a case that raises the issue of Article 8
+    and,  if  established,  the  prospect  of  serious   (and   potentially
+    disproportionate) consequences if family reunion  is  not  effected,  I
+    find that the respondent is potentially under a  duty  to  provide  the
+    requesting  State  and  the  applicant  with  an  indication   of   the
+    respondent's concerns.  Whilst the ability of the requesting  State  to
+    seek reconsideration from the requested State  of  an  initial  adverse
+    decision may diminish or  even  remove  the   potential  obligation  in
+    respect of the initial decision, as a general matter there is likely to
+    be an actual obligation to give the necessary indication,  prior  to  a
+    second refusal, where the concerns harboured by the requested State are
+    not ones that have been ventilated by it.
+
+93. It must be emphasised that this is an area where one  cannot  lay  down
+    hard and fast rules.  Even in a case in which  Article  8  ECHR  is  in
+    play, there may be  exceptions.   Furthermore,  the  process  must  not
+    become so elaborate as to  defeat  the  aim  of  expeditious  decision-
+    making, particularly where the best interests of minors are  concerned.
+    I agree with Ms Masood that one is not necessarily looking for the sort
+    of detail one might find in,  for  example,  a  "Reasons  for  Refusal"
+    letter accompanying a decision of the respondent  to  refuse  leave  to
+    remain or to refuse a human rights claim.  On the  other  hand,  it  is
+    difficult to see what legitimate purpose is served where the respondent
+    has a specific concern that the requesting State or relevant individual
+    may be able to address but which - because no forewarning  is  given  -
+    has to be addressed  in  judicial  review  proceedings,  with  all  the
+    expense and effort these entail.
+
+94. I do not consider that Ms Masood  can  distinguish  Balajigari  on  the
+    basis that the reconsideration process  referred  to  by  Underhill  LJ
+    prevents additional evidence from being put forward, after the decision
+    is made.  On the contrary, the logic of this submission seems to be  to
+    favour judicial review as the  forum  for  resolving  matters,  when  a
+    relatively simple administrative step could have done so.
+
+E.  THE RESPONDENT'S DECISIONS
+
+95. I now address each of the three decisions of the respondent.
+
+(1) Decision of 5 November 2019
+
+  96.   The initial take-charge request  from  Greece  included  the  United
+      Kingdom residence permit of  A2  (who  lives  in  Glasgow),  his  bank
+      statements and tenancy agreement, photographs of A1  and  A2  together
+      when A2 went to visit A1 in Greece, evidence of A2's  travel  to  that
+      country and A1's consent to the request.
+
+  97.   The request described how, during an examination with  A1,  he  said
+      that his cousin, A2, resided in the United  Kingdom  as  a  recognised
+      refugee.  A1 said his father was dead and his mother and two  siblings
+      were in Syria.  Three more siblings were in Lebanon and two more  were
+      missing.  The caseworker, Ms Tsaknaki, drew attention to the  findings
+      in the best interests assessment report, that A1 had suffered from the
+      kidnapping and death of his father and had himself been  a  victim  of
+      physical violence.  A2 had helped  him  resettle  in  Greece  and  had
+      visited him there, as well as keeping in daily contact with  him.   A2
+      was willing and able to take A1 under  his  care.   Ms  Tsaknaki  drew
+      attention to the importance of the best interests  of  the  child,  as
+      articulated in Dublin III.
+
+  98.   Greece supplied the following further information.  Before the  loss
+      of A1's father, the family was living in a place  in  Syria  and  A1's
+      uncle had a house next door.  After the  death  of  A1's  father,  the
+      family moved to another place.  The whole family of A1 was taken  care
+      of by his paternal uncle, the father of A2.
+
+  99.   A1 himself described being conscripted into what he described as the
+      army.  After going on leave, he burnt his military clothes and he  and
+      his family left for the home of his  maternal  uncle.   He  then  left
+      Syria.  A1 described escaping from  the  army  many  times  and  being
+      beaten, after his family had been  threatened  and  beaten  to  reveal
+      where A1 was.  The assessor noted that life  was  extremely  difficult
+      for A1 as a child.  He seemed to have suffered  a  lot  in  the  past.
+      After the loss of his father, his maternal uncle  initially  took  the
+      role of a father figure, followed by A2.
+
+ 100.   Asked about his relationship with A2 while in Syria, A1 was recorded
+      as saying that:
+
+          "our relationship in Syria was very good, although  he  [A2]  left
+         when I was about 2 years old.  It was a long time ago but  we  were
+         family, and we were talking on the phone with every chance.   After
+         my compulsory military conscription, we lost contact, I had no  way
+         to communicate with him.  When I got to Turkey we talked again.  He
+         advised me through my travel and was expecting me to come to Greece
+         to visit me".
+
+ 101.  A1 described that when he arrived in Athens he called  A2  and  after
+      ten days A2 appeared in  front  of  him.   A2  stayed  in  Athens  for
+      fourteen days.  He found A1 an apartment and paid for everything.   He
+      also organised meetings with a lawyer and a social worker  and  bought
+      A1 clothes and shoes.  With A2's help, A1 got an asylum card.
+
+ 102.  Asked about his current relationship with A2,  A1  said  "he  is  the
+      person who protects me and he helps me with everything I need ...   He
+      is like a father to me".  A2 repeated that last phrase in section 4 of
+      the form.
+
+ 103.   A2 was recorded in the form as saying that A1:
+
+          "is like a son for me.  Since he left Syria I am trying  to  help.
+         I promised to his mother that I will protect him and do  everything
+         to keep him safe.  From the first moment he reached Greece,  I  was
+         here to help him, find a house for him and do  everything  to  make
+         him happy".
+
+ 104.   A2 said that coming with him to the United  Kingdom  "would  be  the
+      best thing for him, he is a  young  boy  without  family,  how  is  it
+      possible for him to live without his family?".
+
+ 105.    The  form  included  an  assessment  by  Othon   Christophilis,   a
+      psychologist.  He described in detail the problems faced by A1  whilst
+      in Syria.  Although A1 had witnessed death and other traumatic events,
+      he was not able to talk openly about these yet.  The psychologist said
+      that A1 was "focussed on his education" in Greece.   However,  A1  had
+      shown "signs of cognitive and memory difficulties".  These had not yet
+      been assessed.  Overall, the psychologist deemed it necessary  and  in
+      A1's best interests "to live in a  safe,  secure,  loving  and  caring
+      environment that  would  help  him  fully  reintegrate  into  society,
+      develop the skills that would help him cope with the traumatic  events
+      that he had experienced and acquire all the necessary knowledge he did
+      not have an opportunity to learn".  The recommendation was that A1  be
+      reunited with A2 in the United Kingdom, since A2 "seems to be the only
+      person that can provide [A1] with such an environment".
+
+ 106.  The Greek assessor concurred.  The assessor described the  cousin  as
+      being extremely cooperative in having responded to  anything  that  A1
+      requested.  A1 "refers to his cousin by defining  him  as  his  family
+      now, and emphasising how important the family is to any human  being".
+      The assessor considered that staying in a home with a  family  member,
+      A2, who had been a  role  model  for  A1  would  be  "the  appropriate
+      environment for the child, to deal with the  traumatic  stress  he  is
+      suffering from and will also help him to evolve  his  social  skills".
+      In summary, it was considered that it would be in A1's best  interests
+      to move to the United Kingdom with his relative who would provide  him
+      "with the most  appropriate  environment  to  begin  his  life  as  an
+      [adolescent]".
+
+ 107.   The EIU notified Glasgow City Council of the "transfer notification"
+      from Greece.  Glasgow City Council Social Work Department  replied  on
+      29 October 2019 to ask if the EIU would:
+
+          "process via the referral process by going to Social Care direct".
+          The same day, the EIU responded to say that "the case has not been
+         allocated to a  caseworker  yet,  however,  we  have  forwarded  an
+         initial  notification  to  yourself  for  your  information   only.
+         Therefore the actual referral process will be dealt at another time
+         when the family link has been established.  If  you  feel  that  we
+         should contact the Social Care direct, I will be  grateful  if  you
+         would forward their contact email and telephone number for  further
+         communication".
+
+ 108.   The EIU documents sent to Glasgow City Council stated:-
+
+             "The Home Office is NOT  requesting  completion  of  a  Family
+             Assessment at this time.
+
+             However should you hold any evidence to  assist  in  verifying
+             the claimed family link or possess any other information  that
+             you  believe  should  be  considered   when   assessing   this
+             application, please do forward this within 14 days.  ...
+
+             The European Intake Unit will contact you further should it be
+             satisfied that the claimed family link has been  demonstrated.
+             At  this  point  we  will  request  completion  of  a   Family
+             Assessment on the UK relative which will assist with the  best
+             interests consideration and the decision on this application."
+
+109. Also on 28 October, A2 was sent a letter by the  EIU,  stating  that  a
+    request had been made by Greece  for  A1  to  join  A2  in  the  United
+    Kingdom.  A2 was sent with the letter a questionnaire, in which he  was
+    asked to provide as much detail as possible, and return it to  the  EIU
+    no later than 11 November 2019.
+
+110. It is common ground that A2 completed and returned  the  questionnaire.
+    It is dated 29 October 2019.  It appears to have been received  by  the
+    EIU no later than 11 November 2019.  In it, A2 set out  a  family  tree
+    showing that A2's father was the brother of A1's father.   A2  gave  an
+    undertaking, as  requested,  to  care  for  A1.   He  gave  details  of
+    communications between them.  He also gave details of the name, address
+    and telephone number of A1's mother.  A2 described his income  (derived
+    from state benefits).
+
+111. Disclosed in connection with the present proceedings is an email  of  4
+    November 2019 from the EIU caseworker to the  senior  caseworker.   The
+    caseworker described how the Home Office interview record  for  A2  had
+    been viewed "and there was no mention of either applicant's parents  as
+    the sibling [sic]  to  claimed  cousins.   Therefore  relationship  not
+    established.  Furthermore, the family tree anagram  provided  with  BIA
+    from Greece does not mention his claimed UK relative to be  a  paternal
+    or maternal relative".
+
+112. The decision of 5 November 2019 stated that A2 was  not  considered  to
+    fall under the category of "relative" as  described  in  Article  8  of
+    Dublin III.  Reference was then made to Article 17(2).  Although it was
+    noted that Greece had said the best interests of A1 would  be  to  join
+    A2, the decision said: "However no evidence  has  been  provided  which
+    would support the assertion that  their  relationship  would  have  the
+    strength to compare to that of a  sibling  relationship".   The  letter
+    ended by saying that "additionally, the applicant's claim and  evidence
+    provided do not have merit to warrant discretion of the criteria needed
+    in the exceptional case  of  a  17.2  application".   Accordingly,  the
+    request was refused.
+
+Discussion
+
+113. I have no hesitation in finding that the decision of  5  November  2019
+    is legally flawed.  The alleged requirement to  show  that  the  family
+    relationship for the purposes of Article 17(2) should be of a  strength
+    to compare with that of siblings finds no support in Dublin III, or any
+    published  Guidance  to  which  my  attention  has  been   drawn.    On
+    examination, the reasoning of the decision letter is simply incoherent.
+     If what was meant was that the relationship of cousins is not the same
+    as the relationship between siblings, that  is  plainly  obvious.   The
+    relationships are different.  If, however,  what  was  meant  was  that
+    cousins cannot have a bond that  is  as  strong  as  the  bond  between
+    siblings then that is, again, wrong.  Many siblings have  strained  or,
+    indeed, non-existent bonds.  By contrast, it is far from  inconceivable
+    that cousins who have, for instance, grown up  together  might  have  a
+    relationship of real strength.
+
+114. The final part of the letter, referring to the claim and  evidence  not
+    having merit to warrant discretion, takes the respondent no further.
+
+115. The respondent cannot rely on the GCID email of  4  November.   On  the
+    contrary, this makes the mistake that one of  the  applicant's  parents
+    should be the sibling of A2.  It was, of course, A2's  father  who  was
+    the sibling of A1's father, making them first cousins.
+
+116. The grounds contend that the decision of 5 November  2019  is  unlawful
+    because  it  was  made  without  the  benefit  of  a  local   authority
+    assessment.  As I have found, in  Article  17(2)  cases  there  may  be
+    circumstances in which a  lawful  decision  might  be  reached  without
+    calling for such an assessment.
+
+117.  That  is  not,  however,  the  position  here.   Leaving   aside   the
+    respondent's apparent confusion about what familial  relationship  was,
+    in fact, in issue, the  materials  from  Greece  that  accompanied  the
+    initial take-charge request,  although  somewhat  sparse,  nevertheless
+    raised the issue of there being an Article 8 family life between A1 and
+    A2, as cousins, by reference to the emotional and  material  dependency
+    of A1 upon A2.  Given that there is no  question  but  that  A1  is  an
+    unaccompanied minor, there was no reason for the respondent  to  depart
+    from her normal policy, as set out in the Guidance,  of  requesting  an
+    assessment.  As I have already held, I consider that  the  practice  of
+    the respondent in Article 17(2) cases,  as  disclosed  in  Ms  Farman's
+    statements, is incompatible with  the  respondent's  obligations  under
+    Dublin III, the ECHR and the CFR.  Such an assessment could  have  shed
+    light on the relevant issues in this case.
+
+118. The decision is irrational, takes account of irrelevant matters,  fails
+    to  take  account  of  relevant  ones,  was  reached   without   proper
+    investigation and was contrary to the respondent's policy.
+
+119.  I quash the decision of 5 November 2019.
+
+
+
+
+(2) Decision of 16 January 2020
+
+120. Following the communication to Greece of the respondent's  decision  of
+    5 November 2019, Greece  supplied  two  further  reports,  respectively
+    dated 15 and 18 November 2019  from,  respectively,  Ms  Makrynioti,  a
+    social worker, and Mr Christofilis, the psychologist who had opined  in
+    the earlier submissions.
+
+
+121. Ms Makrynioti's report noted that A1 had been forced to  join  the  PKK
+    Party of Kurdistan.  He had tried to escape and  disobey  their  orders
+    but had been ill-treated, as had his family.  Initially homeless  after
+    his arrival in Greece, A2 had arrived and  supported  him  as  much  as
+    possible.  Ms Makrynioti described A2's interest as "pure and real  and
+    I can vouch that he care as deeply about his  nephew  (sic)  because  I
+    have met him in person".  A1 was said  to  need  support  "in  all  the
+    factors of his life".  His experiences had left him "an irresolute  and
+    weak person.  He is very frightened and isolated.  He is unable to take
+    care of himself and it is not easy for him to trust anyone  apart  from
+    members of his family".
+
+
+122. Ms Makrynioti described A1 as  being  "calm  and  peaceful  around  his
+    cousin and this is something I witnessed with my own  eyes".   Overall,
+    she strongly recommended their unification as the best option for  A1's
+    well-being and prosperity.
+
+
+123. Mr Christofilis's report described A1's clinical presentation as  being
+    "very preoccupying for the psychosocial team".  A1 had  "absolutely  no
+    interaction with  other  beneficiaries  of  the  shelter".   He  showed
+    "serious cognitive difficulties and memory issues".   Specifically,  A1
+    was "unable to process and retain new  information".   Mr  Christofilis
+    said that it was not possible to tell if these problems pre-existed  or
+    were the result of his three-year captivity  in  the  Kurdish  military
+    camp.  Whenever they touch on the sensitive issue during  sessions,  A1
+    became "overwhelmed by his emotions  and  presents  a  physical  stress
+    response".
+
+
+124. Mr Christofilis deemed it necessary that A1 "lives in a  safe,  secure,
+    loving and caring environment which will  help  him  fully  reintegrate
+    into society, develop skills that will help him cope with the traumatic
+    events he has experienced and acquire all the  necessary  knowledge  he
+    did not the opportunity to learn".  According to Mr Christofilis,  this
+    necessitated reunification with A2 "who seems to  be  the  only  person
+    that can provide [A1] with such an environment".
+
+
+125. The GCID notes contain a note of 8 January 2020 from an EIU  caseworker
+    to the senior caseworker.  Having noted that Greece had requested a re-
+    examination of A1's case, the caseworker said that  it  "falls  outside
+    the family relationships as defined in  the  Regulation".   The  senior
+    caseworker replied by email to say: "This is approved".
+
+
+126. The decision of 16 January 2020 noted the reports of the social  worker
+    and  the  psychologist,  stating  that  these  had  been   taken   into
+    consideration.  The letter then said:-
+
+         ".   We have considered  the  social  worker's  and  psychologist's
+             report but we note they do not comment on the health situation
+             of the applicant from their arrival in Greece, to show that he
+             was not entitled to healthcare or it was not available.
+
+         .    Although the report states that  [A1]  is  exhibiting  serious
+             cognitive  difficulties  and  memory  issues  that  cannot  be
+             attributed only to the lack of knowledge and  skills  acquired
+             at a young age, it also states that  it  is  not  possible  to
+             establish if this is a pre-existing condition.  Even with  the
+             psychological report  itself,  this  does  not  amount  to  an
+             exceptional case or humanitarian grounds to  apply  discretion
+             and  accept  your  Take  Charge   re-examination.    Also   as
+             previously stated, the UK relative is a cousin.  A cousin does
+             not meet the relatives' definition of the Regulation.
+
+         .    It is noted the psychologist report does not  evidence  why  a
+             change of Member State will improve the current situation  for
+             the applicant.
+
+         .    It is our position that electing to be transferred to  another
+             Member State is in itself not a humanitarian ground."
+
+
+
+Discussion
+
+
+127. As with the previous decision, Ms Masood did  her  formidable  best  to
+    defend the decision of 16  January.   I  nevertheless  find  myself  in
+    agreement with Ms Knorr that the letter of  16  January  is  profoundly
+    problematic.
+
+
+128. The question of whether A1 was entitled  to  healthcare  in  Greece  is
+    entirely beside the point.  The clear thrust of the  reports  was  that
+    A1's cognitive and behavioural problems made it particularly  important
+    for him to enjoy the supportive  relationship  which  his  cousin,  A2,
+    could offer on more than  the  intermittent  basis  that  was  possible
+    whilst A1 remained in Greece.
+
+
+129. It is, I find, difficult to understand what  is  meant  by  the  bullet
+    point that refers to  it  not  being  possible  to  establish  if  A1's
+    difficulties are the result of a pre-existing condition.  The focus  of
+    attention should have been on A1's best interests,  taking  account  of
+    his documented difficulties, whether they were "pre-existing" or not.
+
+
+130. So far as the reference to a cousin is concerned, I do not accept  that
+    this can be explained by reference to the caseworker's attempt to deal,
+    not only with Article 17(2) but also Article 8(2).  Either the maker of
+    the 16 January 2020 decision was of the view  that  a  relationship  of
+    cousins was not a family relationship that came within  Article  17(2),
+    or she failed to turn her mind  to  whether  such  a  relationship  was
+    within the scope of that provision.  Either way, the resulting decision
+    is legally flawed.  The email exchange of 8 January  2020  leaves  both
+    possibilities open.  Once again,  the  exchange  does  not  assist  the
+    respondent.
+
+
+131. The penultimate bullet point suffers from the defect,  just  described,
+    wherein the respondent takes no proper account of what the  authors  of
+    the reports were actually saying.  The final bullet point is  true,  so
+    far as it goes, but that is not far enough to save the decision.
+
+
+132. The decision is irrational, takes account  of  irrelevant  matters  and
+    fails to consider those that were relevant.
+
+
+133. I quash the decision of 16 January 2020.
+
+(3) Decision of 20 April 2020
+
+
+134. As I have previously  mentioned,  this  decision  was  made  after  the
+    commencement of the judicial review  proceedings  challenging  the  two
+    earlier decisions.  The respondent, rightly in my view, chose to engage
+    with the submissions from Greece, which led  to  this  third  decision,
+    rather than treating those  submissions  as  invalid.   Such  a  course
+    would, in the circumstances, merely have resulted in  Greece  making  a
+    new Article 17(2) request.  The respondent, in effect, makes  her  main
+    stand in these proceedings on the basis of the 20 April decision.
+
+
+135.  A  significant  amount  of  further  evidence  was  supplied  to   the
+    respondent, following the second refusal.  There  was  a  report  by  a
+    child psychiatrist, Dr Vasiliki, dated 17 January 2020.  This confirmed
+    the psychologist's assessment of A1's problems.  Dr Vasiliki identified
+    depressed  mood,  anxiousness  and  avoidance  of  discussing  specific
+    matters in A1's past.  A1 also had difficulties recalling details and a
+    generally  low  level  of  mental  capacity,   together   with   memory
+    difficulties and a low level of learning capacity.  Her conclusion  was
+    that it was "necessary for [A1's] well-being to be taken care [of] by a
+    family member due to serious medical care [sic]".
+
+
+136. In addition, A2 had sent, by email to A1's shelter in  Greece,  a  copy
+    of A1's grandfather's family book, which showed the grandfather's first
+    child was A2's father and the second child was A1's father.  Also  sent
+    was A2's father's passport and ID, pointing  out  his  name;  and  also
+    extracts from the family book of A1's father, along with  the  father's
+    ID and copy of military service book.
+
+
+137. Both A2 and A2's  brother,  IAA,  provided  witness  statements.   A2's
+    witness statement gave details  of  how  A1  was  related  to  A2.   It
+    described their family history, including that the families of  A1  and
+    A2 grew up together and that  both  families  were  supported  by  A2's
+    father, after A1's father died.  A2 had taken IAA to live with  him  in
+    Glasgow when IAA arrived in the United Kingdom in 2016.  IAA lived with
+    A2 until IAA turned 19, when he moved to a flat of his own, one  minute
+    away from A2.  A2's other  brothers  live  in  Glasgow,  about  ten  to
+    fifteen minutes away.  The statement continued:-
+
+         "We are a very tight family unit and I  love  my  brothers  dearly.
+         They all very much want [A1] to  join  us  in  the  UK.   [IAA]  is
+         particularly close to [A1] and they call each other  via  WhatsApp.
+         I think they have a kinship because they are quite close in age and
+         lived next door to each other for so many years."
+
+
+138. A2 described visiting A1 in Athens in June 2019  and  the  arrangements
+    he made for A1's welfare whilst A2 was there:-
+
+         "It was very difficult to leave [A1] and he cried when I left  him.
+         He told me that he felt like a stranger in  a  country  he  doesn't
+         know.  I have always thought of [A1] as vulnerable because  of  his
+         traumatic experiences in the army and because of  his  difficulties
+         with reading and writing; however in that moment when I left him in
+         Athens he seemed particularly vulnerable.  He is only a  child  and
+         can't look after himself."
+
+
+139.  A2  described  A1's  reaction  to  the  respondent's  second   refusal
+    decision.  It came to A1 as a tremendous shock and he "was devastated".
+     He "cried and said something like 'I am lost I am done it's over'".
+
+
+140. A2 said that he feels "a huge responsibility  towards"  [A1].   He  had
+    promised A1's mother that he would look after him and felt  it  is  his
+    duty to do so.  A1 was in poor health and was quite a na�ve child.   A2
+    wants to keep him safe.  A2 considered that his brothers and  he  could
+    provide A1 with the family that he desperately needs.  A2 has  a  spare
+    bedroom in his flat that A1 could use.  Social Services in Glasgow  had
+    already confirmed that A2 was capable of  looking  after  his  brother,
+    IAA.
+
+
+141. IAA's statement describes how, when they were  all  young,  his  family
+    and that of A1 lived close to each other in Syria.  A1 and IAA were  of
+    similar ages and grew up together.  They would play  together  everyday
+    and do everything together.  A1 was like "a brother to me.  The  family
+    had to separate in later years due to the conflict in Syria.  [A1]  was
+    forced to join the army and suffered terribly.  [A1] and I did not  see
+    or speak to each other very much during those years".
+
+
+142. IAA described in his statement the  family  situation  in  Glasgow,  in
+    terms similar to those employed by A2.  IAA is studying at college  and
+    hopes to go to university to study engineering.  IAA and  his  brothers
+    "are all here waiting for  [A1]  and  want  to  offer  him  safety  and
+    security.  In my view [A1] needs this very much ...  I  think  I  could
+    help him and think it is important that we, as a family,  support  each
+    other".
+
+
+143. Ms Olivia Anness of Bhatt Murphy Solicitors  provided  a  statement  in
+    which she described her telephone conversation with A1,  regarding  the
+    respondent's second refusal.  A1 told Ms Anness that he  had  been  "so
+    worried that he had not eaten anything since he  heard  the  news.   He
+    said it was the worst news he had  ever  received".   The  prospect  of
+    living his life alone without A2 felt meaningless to him.
+
+
+144. The respondent's decision letter  of  20  April  2020  is  considerably
+    longer and more detailed than its predecessors.  It makes it clear that
+    the decision is concerned only with Article 17(2).
+
+
+145. The letter states that "some documentary evidence has been provided  to
+    evidence the claimed link of first cousins".  The letter then, however,
+    goes on to note that the name of the father of  A1,  described  in  the
+    statement of A2, does not appear from the translated information in the
+    family book and ID documents.  Accordingly "it has not been possible to
+    verify the familial relationship between [A1] and  [A2]".   The  letter
+    states that the respondent would request "that further translations  of
+    all the documents be provided in order for us to  fully  consider  this
+    evidence".  As matters stood, however, "[this] time  it  has  not  been
+    possible to verify the claimed family link from the evidence provided".
+
+
+
+
+146. Because the family link was not established to the satisfaction of  the
+    respondent, the accompanying reports did not, according  to  her,  take
+    matters any further.
+
+
+147. The letter continued, however, that "regardless of the above  position"
+    the respondent had, in fact, considered the  evidence  and  information
+    submitted but concluded that "even if it was in fact corroborated  that
+    the two parties were related as claimed as  first  cousins,  discretion
+    would not be exercised in the applicant's  favour  given  the  specific
+    facts of the case".
+
+
+148.  The  first  reason  for  reaching  that  conclusion   was   that   the
+    psychological conditions of A1 were "historic.  The  evidence  has  not
+    established a clear causal link between the applicant's conditions  and
+    his separation from the UK sponsor".
+
+
+149. The pedopsychiatric report, which did not make "a  confirmed  diagnosis
+    of PTSD or epilepsy", concluded that  A1  needed  to  transfer  to  the
+    United Kingdom; but the reports did not elaborate on how  the  sponsor,
+    A2, would be able to respond to the serious needs or  indeed  what  the
+    needs were.
+
+
+150. The letter noted that it was not explained how A2 would be in a  better
+    position than professionals in Greece to provide for the care needs  of
+    A1.
+
+
+151. Even if the respondent were  to  accept  that  A1  and  A2  were  first
+    cousins, the letter stated that it was not accepted they shared  family
+    life within the meaning of Article 8.  In order for such family life to
+    exist, there needed to be "elements of dependency involving  more  than
+    the 'normal emotional ties' as outlined in Kugathas".
+
+
+152. On the issue of dependency and,  hence,  whether  Article  8(1)  family
+    life exists between A1 and A2, the letter had this to say:-
+
+         "Whilst it is accepted that there may be some degree  of  emotional
+         ties, a natural concern and affection between a minor and his adult
+         cousin, it is not accepted that there is evidence in this  case  of
+         elements of dependency involving more  than  the  normal  emotional
+         ties.
+
+         The UK sponsor has been residing in the UK since  2013.   The  best
+         interests assessment submitted in support of a take charge  request
+         detailed that the UK sponsor left Syria when  the  above  applicant
+         was aged just 2.  The ties built in this period are not  likely  to
+         have been significant given the age of the applicant.
+
+         The best interests assessment suggests  that  after  the  UK  based
+         sponsor left Syria, the applicant and UK based sponsor spoke on the
+         phone.  But there is no evidence of  dependency  on  the  UK  based
+         sponsor during this period involving more than the normal emotional
+         ties between family members.
+
+         After the applicant left Syria, and arrived in  Turkey,  and  later
+         Greece, again they have maintained contact by phone.  We note  that
+         the UK based sponsor visited the applicant in Athens in June  2019,
+         helped him  find  accommodation  and  provided  him  with  material
+         assistance,  including  money.   It  is  not  accepted  that   this
+         establishes dependency involving more than normal  emotional  ties,
+         even when considered in the context of the issues described in  the
+         pedopsychiatric report and psychological report.
+
+         Given it is not accepted that there is family life between the  two
+         parties the rejection of the take charge request does not result in
+         a breach of the applicant's  Article  7  CFR  and  Article  8  ECHR
+         rights."
+
+153. Before examining the legality of the decision of 20 April 2020,  it  is
+    convenient to describe further evidential material, adduced after  that
+    decision.  WAA made a witness statement.  He is the brother of  A2  and
+    IAA.  He lives in Glasgow, having  been  granted  refugee  status,  and
+    works as a self-employed delivery driver.  As well  as  confirming  the
+    family relationship, WAA  describes  his  family  as  living  with  and
+    helping A1's family.  This included sharing their crops and money.  IAA
+    was close to A1 and they would play together.  When  the  family  heard
+    that A1 was in Athens, they raised money to pay for A2  to  visit  him.
+    WAA  described  how  he  and  his  brothers  feel  that  A1   "is   our
+    responsibility, so we were all very upset and worried  for  [A1]  after
+    the refusals".  The brothers would "all support [A1] as much as we  can
+    if he were able to come to the UK.  We would help him to develop skills
+    so that he can study and find a job and build a life  here.   We  would
+    look after him just like we looked him in Syria after his father died -
+    we would do exactly the same.  We are family".
+
+154. A similar witness statement was filed by RAA, another brother of A2.
+
+155. Ms Anness provided a further statement dated 28 April  2020,  in  which
+    she explained that translations of the family  books  could  have  been
+    provided,  so  as  to  satisfy  the  respondent  of  the  first  cousin
+    relationship between A1 and A2, had the applicants known that they were
+    required by the respondent.
+
+156. Finally, there is a report from Peter Horrocks, an  independent  social
+    worker, produced on 9 May 2020.   He  conducted  interviews  by  remote
+    video means with A1,  A2,  RAA,  WAA  and  IAA,  as  well  as  with  Mr
+    Christofilis.
+
+157. Mr Horrocks's interview with A2 is  significant,  in  that  it  touches
+    upon the issue of whether A1 was only 2 years old when A2  left  Syria.
+    According to Mr Horrocks's report, A2 said that A1 would have been aged
+    about 9 or 10 when A2 left Syria: "In  the  best  interests  assessment
+    [A1] states he was aged about 2 years old when [A2] left  and  that  is
+    clearly incorrect".  A1 would play with IAA all the time and they would
+    spend most of their time playing together.  A2 would see A1  every  day
+    during this period and sometimes A1 would sleep over in their house  or
+    vice versa.  The houses of the two families were isolated from the rest
+    of the village by about a kilometre.  A2 said that,  because  of  their
+    family background, the Kurds saw the  families  as  Arabs,  whilst  the
+    Arabs  saw  them  as  Kurds.   The  result  of  this  was  that   their
+    interactions were with "extended families as  opposed  to  other  local
+    residents and this was relevant in terms of the children's playmates as
+    well".
+
+158. Mr Horrocks's interview with A1 was problematic.  A1 was in  tears  and
+    very distressed.  A1 told Mr Horrocks that he could not live  where  he
+    was.  The other young  people  swore  at  him  and  beat  him  up.   A1
+    emphasised that he wanted to be with his family.
+
+159. Mr Horrocks concluded  that  A1  and  A2  were  paternal  cousins.   He
+    further concluded that there "is a big difference in the importance and
+    meaning of the family between the UK and Syria and  they  have  a  very
+    different concept whereby in Syria, the  extended  family  has  a  much
+    greater  importance".   Asked  to  comment  on  the  strength  of   the
+    relationship/level of dependency between A1 and A2, Mr Horrocks  stated
+    that the evidence he had gathered "underpins the  important  nature  of
+    [A1's] relationship and level of  dependency  on  his  extended  family
+    members".  A1 was "desperate to be reunited with his family members  in
+    the UK.  He considers [A2] to be like a father and his other cousins to
+    be his brothers and they see him in the same way".   A1  had  grown  up
+    alongside his cousins "almost  in  a  large  family  unit  and  from  a
+    historical, social,  cultural  and  family  perspective  they  are  his
+    brothers".
+
+160. Mr Horrocks considered that the experiences of IAA,  when  he  came  to
+    live with A2, were "a first-hand account of [A2's]  abilities  to  meet
+    all aspects of [A1's]  practical  and  emotional  care  needs.   In  Mr
+    Horrocks's professional  opinion,  A2  "has  both  the  experience  and
+    knowledge to care for [A1] and to meet all aspects of his practical and
+    emotional care needs".  A1 will be treated by his cousins in the United
+    Kingdom as his brothers.
+
+161. So far as best interests were concerned, Mr Horrocks found that A1  "is
+    a very vulnerable and damaged young person, whose current situation  is
+    contributing to a deterioration in his mental health,  because  of  the
+    refusal of his application for unification with his family in the  UK".
+    A  contributing  factor  was  A1's  "fixation   on   the   outcome   of
+    reunification and his refusal to make  any  efforts  to  integrate  and
+    interact with other residents and staff in the  hostel".   Mr  Horrocks
+    considered that this fixation  had  some  form  of  cognitive/emotional
+    element, whereby A1 was unable to accept any alternative outcome.  This
+    meant that further refusal  would  lead  to  a  deterioration  of  A1's
+    emotional situation and would compound his mental health  difficulties.
+    Overall, Mr Horrocks shared the findings of the reports from the  Greek
+    professional that it was "strongly  in  [A1's]  best  interests  to  be
+    reunited with  [A2]".  A1  faced  "most  certainly  the  likelihood  of
+    suffering harm to his emotional,  his  physical,  his  social  and  his
+    educational development and a very high risk that  this  harm  will  be
+    long term and permanent".
+
+162. I have referred to the third witness statement  of  A2,  filed  at  the
+    hearing, which I have decided to admit  into  evidence.   In  this,  A2
+    clarifies what is indicated in Mr Horrocks's report;  namely,  that  A1
+    was not 2 when A2 left Syria, but, rather, around 9 or 10 years old.
+
+Discussion
+
+163. I find the letter of 20 April 2020 suffers  from  the  defect  that  it
+    raises, for the first time in the  respondent's  decisions,  the  issue
+    that Greece has not shown that A1 and A2 are  first  cousins.   The  20
+    April decision does so on a narrow basis, which could readily have been
+    addressed, had the respondent seen fit to raise it with  Greece  and/or
+    the  applicants.   This  is  demonstrated  by  the  fact  that  it  was
+    satisfactorily dealt with by the subsequent material, as Ms Masood very
+    properly acknowledged.  Indeed, she told me  on  instruction  that  the
+    familial relationship was now accepted by the respondent.
+
+164. I consider that this  is  a  paradigm  example  of  a  situation  where
+    procedural fairness required the respondent  to  alert  the  applicants
+    and/or Greece to her concerns, before proceeding to  make  a  decision.
+    In so finding, I am aware of the fact that the respondent  is  entitled
+    to  expect  evidence  accompanying  an  Article  17(2)  request  to  be
+    "coherent, verifiable and detailed", as described in the  Guidance.   I
+    am further aware that it is not for the respondent  to  assume  general
+    responsibility  for  the  translation  of   documents.    Nevertheless,
+    particularly in the light  of  the  history  of  this  matter  and  the
+    narrowness of the point in issue, it  was  plainly  necessary  for  the
+    respondent to give an advance indication  of  her  thinking.   This  is
+    particularly so, given that this thinking had markedly changed so that,
+    for the first time, the existence of the cousin relationship was  being
+    called into question.
+
+165. This error will not, however, be material if there is  nothing  legally
+    wrong with the alternative finding in the letter of 20  April,  on  the
+    basis that A1 and A2 are related as claimed.
+
+166.  The  respondent's  treatment  of  the  pedopsychiatric  report  is,  I
+    consider, legally flawed.  It  suffers  from  similar  deficiencies  to
+    those contained in the earlier decisions, in that it adopts  the  wrong
+    focus, thereby leading the respondent to consider  what  is  irrelevant
+    and ignore what is relevant.  The question is not  whether  or  how  A2
+    would clinically address the psychiatric and cognitive conditions, from
+    which A1 suffers.  Rather, given  those  conditions,  the  question  is
+    whether it would be in A1's best interests to be living with a  person,
+    A2, whom he trusts and regards as a father figure, alongside the  other
+    cousins, who regard him as  members  of  their  family.   Although  the
+    evidence in that regard has further developed since  the  date  of  the
+    decision, even on the evidence available to the decision-maker in April
+    2020, the treatment of the reports is so deficient  as  to  be  legally
+    flawed.
+
+167. This brings me to the final element of the 20 April  decision;  namely,
+    the conclusion that Article 8(1) family life does not exist between  A1
+    and A2.  As we have seen, the writer of the  decision  alights  on  the
+    statement in the original material submitted by Greece, that A1 said he
+    was 2 years old when A2 left Syria.  If that were right, there might be
+    legitimate cause for questioning the existence of family life, in terms
+    of Article 8(1)/Article 7, as between the cousins.  In  particular,  it
+    would be hard in such a scenario  to  see  how  A1  could  legitimately
+    regard A2 as a father figure, and equally hard  to  see  how  A2  could
+    legitimately see himself in that role.  If, on the other hand,  A2  had
+    left A1's orbit when the latter was 9 or 10 years old, the position  is
+    likely to be very different.  In particular, there  would  be  a  ready
+    explanation  for  A2's  high  level  of  communications  with  A1  and,
+    especially, for A2's decision to go to Athens and spend  his  own  time
+    and the family's money helping A1.
+
+168. The problem for the respondent is that the  issue  regarding  A1's  age
+    has been raised by her in a decision that was generated only after  the
+    commencement of judicial review  proceedings.  This  matter  could  and
+    should have been raised by her much earlier. In all likelihood it would
+    have been, but for the serious errors of approach contained in the  two
+    earlier decisions. In particular, in the light of  what  I  have  found
+    regarding the failure of the respondent to ask for  a  local  authority
+    assessment before taking the 5 November 2019 decision, it is  a  matter
+    which is highly likely to have been dealt with in such  an  assessment.
+    The respondent's alternative  finding  is,  therefore,  itself  legally
+    erroneous.
+
+169. For these reasons, I quash the decision of 20 April 2020.
+
+(4) Ground 2
+
+170. Irrespective of the public law errors I have identified  in  the  three
+    decisions of the  respondent,  I  need  to  consider  whether,  on  the
+    totality of the evidence before me in these proceedings, including  the
+    witness statements that post-date the third decision and the report  of
+    Mr Horrocks, (i) whether Article 8(1) ECHR/Article 7  CFR  family  life
+    has been shown to exist, on the balance of  probabilities,  between  A1
+    and  A2;  and,  if  so,  (ii)  whether  the   decisions   represent   a
+    disproportionate interference with Article 8 rights.  For the reasons I
+    have given, Ground 2 is not dependent upon my having found  independent
+    legal errors in the decisions, of a "conventional" public  law  nature,
+    which led me to quash those decisions.  As the Upper Tribunal concluded
+    in MS, in deciding Ground 2  I  am  not  confined  to  looking  at  the
+    evidence which was before the respondent when she  made  the  decisions
+    that are under challenge.
+
+171. I see no reason to give Mr Horrocks's report only limited weight.   The
+    fact that he undertook his interviews by remote video means is not,  in
+    the circumstances, a reason to discount or diminish his  findings.   Mr
+    Horrocks  is  well-versed  in  the  advantages  and  disadvantages   of
+    conducting interviews by these means. There is nothing  in  his  report
+    that suggests he was materially impaired in reaching his conclusions by
+    speaking with A1 and the others only by video link.
+
+172. Mr Horrocks, in his interview with A2, explained the age  at  which  A1
+    would have been when A2 left Syria.  A2 also told Mr  Horrocks  details
+    about the situation of the families in Syria  which  strongly  supports
+    the earlier evidence.  The fact that  the  families  were  regarded  as
+    neither Kurdish nor Arab by the local community,  and  so  drew  in  on
+    themselves in what might be described as a  small  compound  comprising
+    their two houses, isolated from the rest of the village,  has  much  to
+    say about the claimed relationship between A1 and A2 and  the  latter's
+    brothers.  It provides a clear rationale for A1's current view of,  and
+    relationship with, A2 and his brothers; and vice versa.
+
+173. I find, on the totality  of  the  evidence,  that  family  life  exists
+    between A1 and A2, for the purposes of Article 8(1)/Article 7.
+
+174. Each of the decisions is, therefore, legally  flawed,  being  based  on
+    the incorrect factual assumption that such protected family  life  does
+    not exist.
+
+175. As I have earlier explained, although the existence of family  life  is
+    conceptually separate from whether there has  been  a  disproportionate
+    interference with the right to respect for it,  on  the  facts  of  the
+    present case the two are closely intertwined.   The  extreme  emotional
+    dependency that A1 has on A2 is not only a factor that helps  establish
+    the existence of family  life  between  them.   It  also  goes  to  the
+    question of whether the respondent's decisions,  refusing  to  exercise
+    discretion  under   Article   17(2),   represent   a   disproportionate
+    interference with that family life.
+
+176. I find that each of the decisions, including that  of  20  April  2020,
+    constitutes  such  a  disproportionate  interference.   The  first  two
+    decisions do not begin to address the balancing exercise inherent in  a
+    proportionality exercise.  The third decision likewise  fails  in  this
+    regard, because it  wrongly  assumes  that  no  protected  family  life
+    exists. The totality of the evidence shows, on balance, that A1 and  A2
+    have a very close bond; that A2 occupies the position of  father-figure
+    for A1; and that A1 needs the support of A2 and the latter's  siblings.
+    To deny reunion in those circumstances would amount to  an  unjustified
+    interference with the Article 8/Article 7 rights of A1  and  A2.  I  so
+    find, having full regard to the provisions of the immigration rules  on
+    which the respondent relies and, more generally, to the  importance  of
+    maintaining the system of immigration controls.
+
+177. I have assessed the proportionality of the interference  on  the  basis
+    that A1's admission to the United Kingdom pursuant to Dublin III is not
+    for the purpose of settlement, or  even  as  a  possible  precursor  to
+    settlement, but for the purpose of having A1's  asylum  claim  examined
+    and decided by the respondent. Each of  the  parties  alights  on  that
+    point as an argument in their favour. I consider that  the  applicants'
+    argument is to be preferred. It is a commonplace  of  human  experience
+    that a person's need for the support of their family is  likely  to  be
+    greatest at times of challenge for that person. Being in  a  supportive
+    environment, of the kind that A2 and his siblings would provide,  while
+    A1 undergoes the application process is, on the facts of this case,  of
+    extreme  importance  to  A1's  wellbeing.   To   deny   him   this   is
+    disproportionate.
+
+178. Each of the decisions, accordingly, falls to be quashed on Ground 2.
+
+F.  REMEDY
+
+179. The final matter to address is the issue of remedy.  Ms  Knorr  submits
+    that mandatory relief is appropriate, since the only  rational  way  in
+    which the respondent could react to the evidence now before her, is  to
+    exercise her discretion under Article 17(2) in favour of A1's admission
+    to this country in order to be united  with  A2.   This  is,  in  other
+    words, a case where human rights considerations turn  the  respondent's
+    discretionary power into a duty.
+
+180. I note that, at paragraph 84 of its judgment,  the  Tribunal  in  HA  &
+    Others cited Padfield v Minister of  Agriculture,  Fisheries  and  Food
+    [1968] AC 997 as authority for the proposition that "a court should not
+    compel any authority to do more than consider the exercise of  a  power
+    which is merely permissive and does not impose an obligation  to  act".
+    Padfield was, however, a case decided well before the enactment of  the
+    Human Rights Act 1998.  In the field of  human  rights,  there  may  be
+    circumstances in which a court or tribunal will be fully satisfied that
+    an administrative discretion cannot  be  lawfully  exercised  otherwise
+    than in a particular way.  I do not, therefore, consider  the  Padfield
+    doctrine to stand in the way of Ms Knorr's submission.
+
+181. It is, however, necessary for  me  to  consider  whether,  despite  the
+    findings I have made on the evidence before me, it would be appropriate
+    to deprive  the  respondent  of  the  ability,  acting  in  the  public
+    interest, to  check  whether  there  is,  as  matters  now  stand,  any
+    circumstance that may affect the exercise  of  Article  17(2)  in  A1's
+    favour.  I remind myself, in particular, of the need to give effect  to
+    the best interests of A1.  I am also aware, of course, that  the  local
+    authority has not had the opportunity of confirming,  from  its  expert
+    standpoint, A2's ability to take charge of and care for A1.   The  fact
+    that we are without such an assessment is  due  to  the  fault  of  the
+    respondent is nothing to the point, save that it means there is  now  a
+    pressing need to act with extreme expedition, given A1's  circumstances
+    in Greece.
+
+182. Accordingly, I decline to make a mandatory order. However, as  well  as
+    quashing the decisions, I consider it appropriate to make a declaration
+    that each of the decisions was unlawful as it breached A1's  Article  8
+    ECHR/Article 7 CFR rights.
+
+183. I will hear counsel on the form of the order, if  the  same  cannot  be
+    agreed.
+
+184. Likewise, I invite submissions on the issue of damages.
+
+
+Direction Regarding Anonymity - rule 14 of  the  Tribunal  Procedure  (Upper
+Tribunal) rules 2008
+
+Unless and until a tribunal or court directs otherwise, the  applicants  are
+granted anonymity.   No  report  of  these  proceedings  shall  directly  or
+indirectly identify them or any member  of  their  family.   This  direction
+applies both to the applicants and to the  respondent.   Failure  to  comply
+with this direction could lead to contempt of court proceedings.
+
+                      Signed: Mr Justice Lane             Date: 23 June
+                      2020
+
+
+                      The Hon. Mr Justice Lane
+                      President of the Upper Tribunal
+                      Immigration and Asylum Chamber
+                                    ANNEX
+
+
+    Dublin III Regulation
+
+    Recitals
+
+    "(13)    In accordance with the 1989 United Nations Convention  on  the
+         Rights of the Child and with the Charter of Fundamental  Rights  of
+         the European Union, the best interests of the  child  should  be  a
+         primary  consideration  of  Member  States   when   applying   this
+         Regulation.  In assessing the best interests of the  child,  Member
+         States should, in particular, take due account of the minor's well-
+         being and social development, safety  and  security  considerations
+         and the views of the minor in accordance with his or  her  age  and
+         maturity, including his or her background.  In  addition,  specific
+         procedural guarantees for unaccompanied minors should be laid  down
+         on account of their particular vulnerability.
+
+    (14) In accordance with the European Convention for the  Protection  of
+         Human Rights and Fundamental  Freedoms  and  with  the  Charter  of
+         Fundamental Rights of the European Union, respect for  family  life
+         should be a primary consideration of Member  States  when  applying
+         this Regulation.
+
+    (15) The processing together  of  the  applications  for  international
+         protection of the members of one family by a  single  Member  State
+         makes it possible to ensure  that  the  applications  are  examined
+         thoroughly, the decisions taken in respect of them  are  consistent
+         and the members of one family are not separated.
+
+    ...
+
+    (17)  Any  Member  State  should  be  able   to   derogate   from   the
+         responsibility  criteria,  in  particular   on   humanitarian   and
+         compassionate grounds, in order to bring together  family  members,
+         relatives or any other family relations and examine an  application
+         for international protection lodged with it or with another  Member
+         State, even if such examination is not its responsibility under the
+         binding criteria laid down in this Regulation.
+
+    ...
+
+    39.  This Regulation respects the fundamental rights and  observes  the
+         principles which are acknowledged, in particular, in the Charter of
+         Fundamental Rights of the  European  Union.   In  particular,  this
+         Regulation seeks to ensure full observance of the right  to  asylum
+         guaranteed by Article 18 of the  Charter  as  well  as  the  rights
+         recognised under Articles  1,  4,  7,  24  and  47  thereof.   This
+         Regulation should therefore be applied accordingly.
+
+    (40) Since the objective of this Regulation, namely  the  establishment
+         of  criteria  and  mechanisms  for  determining  the  Member  State
+         responsible  for  examining  an   application   for   international
+         protection lodged in one of the Member States  by  a  third-country
+         national or a stateless person, cannot be sufficiently achieved  by
+         the Member States and can therefore, by reason  of  the  scale  and
+         effects of this Regulation, be better achieved at Union level,  the
+         Union may adopt  measures  in  accordance  with  the  principle  of
+         subsidiarity as set out in Article 5  of  the  Treaty  on  European
+         Union (TEU). In accordance with the principle  of  proportionality,
+         as set out in that Article, this Regulation does not go beyond what
+         is necessary in order to achieve that objective.
+
+                                 Article 2 -
+                                 Definitions
+
+    For the purposes of this Regulation -
+
+         "...
+
+         (g)  family members' means, insofar as the family  already  existed
+             in the  country  of  origin,  the  following  members  of  the
+             applicant's family who are present on  the  territory  of  the
+             Member States:
+
+             -    the spouse of the  applicant  or  his  or  her  unmarried
+                partner in a stable relationship, where the law or  practice
+                of the Member State concerned treats unmarried couples in  a
+                way comparable to married couples under its law relating  to
+                third-country nationals,
+
+             -    the minor children of couples referred to  in  the  first
+                indent or of the  applicant,  on  condition  that  they  are
+                unmarried and regardless of whether they were born in or out
+                of wedlock or adopted as defined under national law,
+
+             -    when the applicant is a minor and unmarried, the  father,
+                mother or  another  adult  responsible  for  the  applicant,
+                whether by law or by the practice of the Member State  where
+                the adult is present,
+
+             -    when the beneficiary of  international  protection  is  a
+                minor and unmarried, the father,  mother  or  another  adult
+                responsible for him or her whether by law or by the practice
+                of the Member State where the beneficiary is present;
+
+         (h)  'relative' means  the  applicant's  adult  aunt  or  uncle  or
+             grandparent who is present in the territory of a Member State,
+             regardless of whether the applicant was  born  in  or  out  of
+             wedlock or adopted as defined under national law;
+
+         (i)  'minor' means a third-country national or a  stateless  person
+             below the age of 18 years;
+
+         (j)  'unaccompanied  minor'  means  a  minor  who  arrives  on  the
+             territory of the  Member  States  unaccompanied  by  an  adult
+             responsible for him or her, whether by law or by the  practice
+             of the Member State concerned, and for as long as he or she is
+             not effectively taken into the  care  of  such  an  adult;  it
+             includes a minor who is left unaccompanied after he or she has
+             entered the territory of Member States;
+
+         ...
+
+
+
+
+
+
+
+                                  Article 3
+   Access to the procedure for examining an application for international
+                                 protection
+
+         "1.  Member States shall examine any application for  international
+             protection by a third-country national or a  stateless  person
+             who applies on the territory of any one of them, including  at
+             the border or in the transit zones.  The application shall  be
+             examined by a single Member State,  which  shall  be  the  one
+             which  the  criteria  set  out  in  Chapter  III  indicate  is
+             responsible.
+
+         2.   Where no Member State responsible can  be  designated  on  the
+             basis of the criteria listed in  this  Regulation,  the  first
+             Member  State  in  which  the  application  for  international
+             protection was lodged shall be responsible for examining it.
+
+             Where it is impossible to transfer an applicant to the  Member
+             State primarily designated as responsible  because  there  are
+             substantial grounds for  believing  that  there  are  systemic
+             flaws in the asylum procedure and in the reception  conditions
+             for applicants in that Member State, resulting in  a  risk  of
+             inhuman or degrading treatment within the meaning of Article 4
+             of the Charter of Fundamental Rights of  the  European  Union,
+             the determining Member State shall  continue  to  examine  the
+             criteria set out in Chapter III in order to establish  whether
+             another Member State can be designated as responsible.
+
+             Where the transfer cannot be made pursuant to  this  paragraph
+             to any Member State designated on the basis  of  the  criteria
+             set out in Chapter III or to the first Member State with which
+             the application was lodged, the determining Member State shall
+             become the Member State responsible.
+
+         ...
+
+                                  Article 6
+                            Guarantees for minors
+
+         1.    The  best  interests  of  the  child  shall  be   a   primary
+             consideration for Member States with respect to all procedures
+             provided for in this Regulation.
+
+         2.   Member States shall ensure that  a  representative  represents
+             and/or assists an unaccompanied  minor  with  respect  to  all
+             procedures   provided   for   in   this    Regulation.     The
+             representative shall have the qualifications and expertise  to
+             ensure that the best interests of the  minor  are  taken  into
+             consideration during the procedures  carried  out  under  this
+             Regulation.  Such representative  shall  have  access  to  the
+             content of the relevant  documents  in  the  applicant's  file
+             including the specific leaflet for unaccompanied minors.
+
+             This paragraph shall be  without  prejudice  to  the  relevant
+             provisions in Article 25 of Directive 2013/32/EU.
+
+         3.   In assessing the best interests of the  child,  Member  States
+             shall  closely  cooperate  with  each  other  and  shall,   in
+             particular, take due account of the following factors:
+
+             (a)  family reunification possibilities;
+
+             (b)  the minor's well-being and social development;
+
+             (c)  safety and security considerations, in  particular  where
+                  there is a risk of the  minor  being  a  victim  of  human
+                  trafficking;
+
+             (d)  the views of the minor, in accordance with his or her age
+                  and maturity.
+
+         4.   For the purpose of applying Article 8, the Member State  where
+             the   unaccompanied   minor   lodged   an   application    for
+             international protection shall,  as  soon  as  possible,  take
+             appropriate action to identify the family members, siblings or
+             relatives of the  unaccompanied  minor  on  the  territory  of
+             Member States, whilst protecting the  best  interests  of  the
+             child.
+
+         ...
+
+                                  Article 7
+                            Hierarchy of criteria
+
+         1.   The criteria for  determining  the  Member  State  responsible
+             shall be applied in the order in which they  are  set  out  in
+             this Chapter.
+
+         ...
+
+                                  Article 8
+                                   Minors
+
+         1.   Where the applicant is  an  unaccompanied  minor,  the  Member
+             State responsible shall be that where a  family  member  or  a
+             sibling  of  the  unaccompanied  minor  is  legally   present,
+             provided that it is in the best interests of the minor.  Where
+             the applicant is a married minor whose spouse is  not  legally
+             present on the territory of  the  Member  States,  the  Member
+             State responsible shall be the Member State where the  father,
+             mother or other adult responsible for the  minor,  whether  by
+             law or by the practice of that Member  State,  or  sibling  is
+             legally present.
+
+         2.   Where the applicant  is  an  unaccompanied  minor  who  has  a
+             relative who is legally present in another  Member  State  and
+             where it is established, based on an  individual  examination,
+             that the relative can take care of him  or  her,  that  Member
+             State shall unite the minor with his or her relative and shall
+             be the Member State responsible, provided that it  is  in  the
+             best interests of the minor.
+
+         ...
+
+         4.   In the absence of a family member, a sibling or a relative  as
+             referred  to  in  paragraphs  1  and  2,  the   Member   State
+             responsible shall be that where the  unaccompanied  minor  has
+             lodged his or her application  for  international  protection,
+             provided that it is in the best interests of the minor.
+
+         ...
+
+                                 Article 17
+                            Discretionary clauses
+
+         1.   By way of derogation from Article 3(1), each Member State  may
+             decide to examine an application for international  protection
+             lodged with it by a  third-country  national  or  a  stateless
+             person, even if such examination  is  not  its  responsibility
+             under the criteria laid down in this Regulation.
+
+             The Member State which decides to examine an  application  for
+             international protection  pursuant  to  this  paragraph  shall
+             become the Member  State  responsible  and  shall  assume  the
+             obligations  associated  with   that   responsibility.   Where
+             applicable, it shall inform, using the  'DubliNet'  electronic
+             communication network set up under Article  18  of  Regulation
+             (EC) No 1560/2003, the Member  State  previously  responsible,
+             the Member State conducting a procedure  for  determining  the
+             Member State responsible or the Member State  which  has  been
+             requested to take charge of, or to take back, the applicant.
+
+             ...
+
+         2.   The Member State in which  an  application  for  international
+             protection is made and which is carrying out  the  process  of
+             determining the Member State responsible, or the Member  State
+             responsible,  may,  at  any  time  before  a  first   decision
+             regarding the substance is taken, request another Member State
+             to take charge of an applicant in order to bring together  any
+             family relations, on humanitarian grounds based in  particular
+             on family or cultural considerations, even  where  that  other
+             Member State is not responsible under the criteria  laid  down
+             in Articles 8 to 11 and 16. The persons concerned must express
+             their consent in writing.
+
+             The request to take charge shall contain all the  material  in
+             the possession of the requesting Member  State  to  allow  the
+             requested Member State to assess the situation.
+
+             The requested Member  State  shall  carry  out  any  necessary
+             checks to examine the humanitarian grounds  cited,  and  shall
+             reply to the requesting Member  State  within  two  months  of
+             receipt  of  the  request  using  the  'DubliNet'   electronic
+             communication network set up under Article  18  of  Regulation
+             (EC) No 1560/2003.  A reply refusing the request  shall  state
+             the reasons on which the refusal is based.
+
+             Where  the  requested  Member  State  accepts   the   request,
+             responsibility  for  examining  the   application   shall   be
+             transferred to it.
+
+         ...
+
+                                 Article 22
+                      Replying to a take charge request
+
+         1.   The requested Member State shall make  the  necessary  checks,
+             and shall give a decision on the request to take charge of  an
+             applicant within two months of receipt of the request.
+
+         2.   In the procedure for determining the Member State  responsible
+             elements of proof and circumstantial evidence shall be used.
+
+         ...
+
+         4.   The requirement of proof should not exceed what  is  necessary
+             for the proper application of this Regulation.
+
+         5.   If there is no formal proof, the requested Member State  shall
+             acknowledge its responsibility if the circumstantial  evidence
+             is coherent, verifiable and sufficiently detailed to establish
+             responsibility.
+
+         ...
+
+                                 Article 27
+                                  Remedies
+
+         1.   The applicant or another person  as  referred  to  in  Article
+             18(1)(c) or (d) shall have the right to an  effective  remedy,
+             in the form of an appeal or a review,  in  fact  and  in  law,
+             against a transfer decision, before a court or tribunal.
+
+         ..."
+
+    Commission  Regulation  (EC   (1560/2003)   (The   first   Implementing
+    Regulation)
+
+    ...
+
+                                 "Article 3
+                    Processing requests for taking charge
+
+         1.   The arguments in law and in fact set out in the request  shall
+             be examined in the light of the provisions of Regulation  (EC)
+             No 343/2003 and the lists of proof and circumstantial evidence
+             which are set out in Annex II to the present Regulation.
+
+         2.   Whatever the criteria and provisions  of  Regulation  (EC)  No
+             343/2003 that are relied on, the requested Member State shall,
+             within the time allowed by  Article  18(1)  and  (6)  of  that
+             Regulation, check exhaustively and objectively, on  the  basis
+             of all information directly or  indirectly  available  to  it,
+             whether its responsibility for examining the  application  for
+             asylum is established.  If the checks by the requested  Member
+             State reveal that it is responsible under at least one of  the
+             criteria  of  that  Regulation,  it  shall   acknowledge   its
+             responsibility.
+
+         ...
+
+                                  Article 5
+                               Negative reply
+
+         1.   Where, after checks are  carried  out,  the  requested  Member
+             State considers that the evidence submitted does not establish
+             its  responsibility,  the  negative  reply  it  sends  to  the
+             requesting Member State shall state full and detailed  reasons
+             for its refusal.
+
+         2.   Where the requesting Member State feels that such a refusal is
+             based on a misappraisal, or where it has  additional  evidence
+             to put forward, it may ask for its request to be  re-examined.
+             This option must be exercised  within  three  weeks  following
+             receipt of the negative  reply.  The  requested  Member  State
+             shall endeavour to reply within two weeks. In any event,  this
+             additional procedure shall not extend  the  time  limits  laid
+             down  in  Article  18(1)  and  (6)  and  Article  20(1)(b)  of
+             Regulation (EC) No 343/2003.
+
+         ...
+
+                                 Article 12
+                            Unaccompanied minors
+
+         1.   Where the decision to entrust the  care  of  an  unaccompanied
+             minor to a relative other than the  mother,  father  or  legal
+             guardian  is  likely   to   cause   particular   difficulties,
+             particularly where the adult  concerned  resides  outside  the
+             jurisdiction of the  Member  State  in  which  the  minor  has
+             applied  for  asylum,  cooperation   between   the   competent
+             authorities  in  the  Member   States,   in   particular   the
+             authorities  or  courts  responsible  for  the  protection  of
+             minors, shall be facilitated and the necessary steps taken  to
+             ensure that those authorities can decide, with full  knowledge
+             of the facts, on the ability of the adult or adults  concerned
+             to take charge of the minor in a way  which  serves  his  best
+             interests.
+
+             Options now available in the field of cooperation on  judicial
+             and  civil  matters  shall  be  taken  account  of   in   this
+             connection.
+
+         2.   The fact that the duration of procedures for placing  a  minor
+             may lead to a failure  to  observe  the  time  limits  set  in
+             Article 18(1) and (6) and Article 19(4) of Regulation (EC)  No
+             343/2003 shall not necessarily be an  obstacle  to  continuing
+             the procedure for determining the Member State responsible  or
+             carrying out a transfer.
+
+                                 Article 13
+                                 Procedures
+
+         1.   The initiative of requesting  another  Member  State  to  take
+             charge of an asylum seeker on  the  basis  of  Article  15  of
+             Regulation (EC) No. 343/2003 shall  be  taken  either  by  the
+             Member State where the application for  asylum  was  made  and
+             which is carrying out a  procedure  to  determine  the  Member
+             State responsible, or by the Member State responsible.
+
+         2.   The request to take charge shall contain all the  material  in
+             the possession of the requesting Member  State  to  allow  the
+             requested Member State to assess the situation.
+
+         3.   The requested Member  State  shall  carry  out  the  necessary
+             checks to establish, where applicable,  humanitarian  reasons,
+             particularly of a family or  cultural  nature,  the  level  of
+             dependency  of  the  person  concerned  or  the  ability   and
+             commitment of  the  other  person  concerned  to  provide  the
+             assistance desired.
+
+         ..."
+
+
+
+
+
+
+
+    Commission implementing  Regulation  (EU)  No.  118/2014  ("The  second
+    Implementing Regulation")
+
+         "...
+
+                                  Article 1
+                  Amendments to Regulation EC No. 1560/2003
+
+         Regulation (EC) No. 1560/2003 is amended as follows:
+
+         ...
+
+         (7)  In Article 12, the following paragraphs are added:
+
+             '3.  With a view to facilitating  the  appropriate  action  to
+                  identify the family members, siblings or relatives  of  an
+                  unaccompanied  minor,  the  Member  State  with  which  an
+                  application for international protection was lodged by  an
+                  unaccompanied minor  shall,  after  holding  the  personal
+                  interview pursuant to Article  5  of  Regulation  (EU)  No
+                  604/2013 in the presence of the representative referred to
+                  in Article 6(2) of that Regulation, search for and/or take
+                  into account any information  provided  by  the  minor  or
+                  coming from any other credible source  familiar  with  the
+                  personal situation or the route followed by the minor or a
+                  member of his or her family, sibling or relative.
+
+                  The authorities carrying out the process  of  establishing
+                  the Member State responsible for examining the application
+                  of an unaccompanied minor shall involve the representative
+                  referred to in Article 6(2) of Regulation (EU) No 604/2013
+                  in this process to the greatest extent possible.
+
+             4.   Where in the application  of  the  obligations  resulting
+                  from Article 8 of Regulation (EU) No 604/2013, the  Member
+                  State carrying out the process of establishing the  Member
+                  State responsible for  examining  the  application  of  an
+                  unaccompanied minor is in possession of  information  that
+                  makes it possible to start identifying and/or  locating  a
+                  member of the family, sibling  or  relative,  that  Member
+                  State shall consult other Member States,  as  appropriate,
+                  and exchange information, in order to:
+
+                  (a)  identify family members, siblings or relatives of the
+                      unaccompanied minor, present on the territory of  the
+                      Member States;
+
+                  (b)  establish the existence of proven family links;
+
+                  (c)  assess the capacity of a relative to take care of the
+                      unaccompanied minor, including where family  members,
+                      siblings or relatives of the unaccompanied minor stay
+                      in more than one Member State.
+
+             5.    Where  the  exchange  of  information  referred  to   in
+                  paragraph 4 indicates that more family  members,  siblings
+                  or relatives  are  present  in  another  Member  State  or
+                  States, the Member State where the unaccompanied minor  is
+                  present shall cooperate with the relevant Member State  or
+                  States, to determine the most appropriate person  to  whom
+                  the minor  is  to  be  entrusted,  and  in  particular  to
+                  establish:
+
+                  (a)  The strength of the family links  between  the  minor
+                      and  the  different   persons   identified   on   the
+                      territories of the Member States;
+
+                  (b)   the  capacity  and  availability  of   the   persons
+                      concerned to take care of the minor;
+
+                  (c)  the best interests of the minor in each case.
+
+             6.   In  order  to  carry  out  the  exchange  of  information
+                  referred to in paragraph 4, the standard form set  out  in
+                  Annex VIII to this Regulation shall be used.
+
+                  The requested Member State shall endeavour to reply within
+                  four  weeks  from  the  receipt  of  the  request.   Where
+                  compelling evidence indicates that further  investigations
+                  would lead to more  relevant  information,  the  requested
+                  Member State will inform the requesting Member State  that
+                  two additional weeks are needed.
+
+                  ...
+
+    Home Office: Dublin III Regulation  Version  2.0:  Transferring  asylum
+    applicants into and out of the UK where responsibility for examining an
+    asylum claim lies with the UK  or  with  another  EU  Member  State  or
+    Associated State (18 April 2019)
+
+                                 "Background
+
+         ...
+
+         The Dublin III Regulation  is  consistent  with  the  principle  of
+         family unity in accordance with the  European  Convention  for  the
+         Protection of Human Rights, the Charter of Fundamental  Rights  and
+         the best interests of the child.  The provisions  on  family  unity
+         and the best interests of  the  child  are  primary  considerations
+         which may result in the State responsible for examining the  asylum
+         claim being the State where an asylum claimant's family members  or
+         relatives, as defined in the Dublin  III  Regulation,  are  legally
+         present or resident (depending on the circumstances of  the  case).
+         The determination of responsibility for examining an  asylum  claim
+         based on family links  does  not  anticipate  the  outcome  of  the
+         examination of the claim, only that the merits of that  claim  will
+         be examined by the responsible Dublin State.
+
+         The criteria determining  responsibility  also  reflect  the  basic
+         principle that the State which played  the  greatest  part  in  the
+         applicant's presence in the area to which the Dublin III Regulation
+         applies should normally be responsible for  examining  his  or  her
+         asylum claim.
+
+         The  Dublin  III  Regulation  gives  Dublin  States  discretion  to
+         derogate from the responsibility criteria.  It does so through  the
+         'discretionary clauses', which permit a Dublin State to examine  an
+         asylum claim lodged with it, or when asked  to  do  so  by  another
+         Dublin State, even if such examination is  not  its  responsibility
+         under the Regulation's responsibility criteria. A Dublin State  may
+         ask another Dublin State to accept  responsibility  for  an  asylum
+         claim to bring together family relations  on  humanitarian  grounds
+         based in particular on family or cultural considerations  in  cases
+         where the strict application of  the  Regulation  would  keep  them
+         apart.
+
+         ...
+
+
+
+
+                              Policy intention
+
+         The policy intention is to deliver a fair and effective Dublin  III
+         Regulation transfer process both into and  out  of  the  UK,  which
+         supports the principles enshrined within the Dublin III  Regulation
+         by:
+
+         .    applying its criteria and mechanisms so that an  asylum  claim
+             is examined by a single responsible State
+
+         .    reinforcing the principle that asylum seekers should claim  in
+             the first safe country and as soon as they enter the territory
+             of the Dublin States
+
+         .     ensuring  fair,  objective  criteria  are  applied   in   the
+             determination of responsibility for examining asylum claims
+
+         .    ensuring consideration of the principles of  family  unity  in
+             respect  of  determining  the  Dublin  State  responsible  for
+             examining an asylum claim
+
+         .    ensuring respect for family life and the best  interest  of  a
+             child are a primary consideration when applying the Dublin III
+             Regulation
+
+         ...
+
+         .    allowing for derogation from the responsibility  criteria,  on
+             humanitarian  grounds,  in  order  to  bring  together  family
+             relations and examine a claim  for  international  protection,
+             even if such examination is not the responsibility  under  the
+             binding criteria laid down in the Dublin III Regulation
+
+         .    ensuring that the fundamental human rights of  those  who  are
+             subject to  the  Dublin  III  Regulation  procedures  are  not
+             breached
+
+         .    ensuring cases are dealt with as  expeditiously  as  possible,
+             particularly in cases involving unaccompanied children
+
+                     Application in respect of children
+
+         Section 55 of the Borders, Citizenship  and  Immigration  Act  2009
+         requires the Secretary of State to make arrangements  for  ensuring
+         that immigration, asylum and nationality functions  are  discharged
+         having regard to the need to safeguard and promote the  welfare  of
+         children who are in the UK.
+
+         Although section 55 does not apply to children outside the  UK  the
+         statutory guidance, Every  Child  Matters:   Change  for  Children,
+         clarifies the approach to be taken by requiring staff to take  into
+         account the spirit of the duty and to abide by any international or
+         local agreements that are in place.  The application of the  spirit
+         of the duty means that when a claim or request  has  been  received
+         that requires a response you must be alert to any indications  that
+         the child may be in need of assistance, support or protection  from
+         harm that may be best provided by the authorities  in  the  country
+         where the child is present.  If  this  is  the  case  and  wherever
+         possible the normal providers of relevant services to  children  in
+         that country should be informed where  there  are  safeguarding  or
+         welfare needs that require attention.
+
+         The requirement to abide by any international or  local  agreements
+         in place means just that.  When considering a 'take charge' request
+         under the Dublin III Regulation, the presumption must be that those
+         making the request are doing  so  having  taken  into  account  the
+         safety and welfare needs,  and  well-being  in  the  form  of  best
+         interests of the child who is the subject of the request.  However,
+         acting in a way that takes account of these interests is  a  shared
+         responsibility at this point and you must carefully consider all of
+         the information and evidence provided as to how  a  child  will  be
+         affected by a decision and this must be  addressed  when  assessing
+         whether  an  applicant  meets  the  criteria  in  the  Dublin   III
+         Regulation.  In addition, you must demonstrate  that  all  relevant
+         information and evidence provided about the  best  interests  of  a
+         child, such as a sibling or other relative, in  the  UK  have  been
+         considered.  This is required  as  a  particular  obligation  under
+         section 55 as well as by the more general provisions of the  Dublin
+         III Regulation.  You must  carefully  assess  the  quality  of  any
+         evidence provided. Original documentary evidence from  official  or
+         independent sources must be given  more  weight  in  the  decision-
+         making process than unsubstantiated statements about a child's best
+         interests.
+
+         ...
+
+             Charter of Fundamental Rights of the European Union
+
+         Article 24 of the Charter concerns children.  It reads:
+
+             'Children shall have the right to such protection and care  as
+             is necessary for their well-being.   They  may  express  their
+             views freely.  Such views shall be taken into consideration on
+             matters which concern them in accordance with  their  age  and
+             maturity.  In all actions relating to children, whether  taken
+             by public authorities or  private  institutions,  the  child's
+             best interests must be a primary consideration.   Every  child
+             shall have the right to maintain on a regular basis a personal
+             relationship and direct contact with both his or her  parents,
+             unless that is contrary to his or her interests.'
+
+                     European Convention on Human Rights
+
+         Not all  Dublin  State  human  rights  obligations  are  explicitly
+         covered by the responsibility criteria set out in  the  Dublin  III
+         Regulation, but these broader human rights obligations  must  still
+         be taken into account when applying the Dublin III Regulation.  The
+         European Convention on Human Rights (ECHR) provides  the  framework
+         for ensuring the rights and fundamental freedoms of individuals  in
+         European signatory states.
+
+         ...
+
+
+
+
+
+
+
+                     Article 17 - Discretionary clauses
+
+         Article 17(1) is known as the 'sovereignty clause'.  It  permits  a
+         Dublin State  to  decide  to  examine  a  claim  for  international
+         protection lodged with it even if it is  not  responsible  for  any
+         other reason laid down in the  Dublin  III  Regulation.   In  other
+         words, this provision concerns a situation where,  for  example,  a
+         claimant is in the UK and has lodged a  claim  here  and,  although
+         another Dublin State is responsible for examining the claim,  there
+         are exceptional compassionate  circumstances,  such  as  individual
+         human  rights  considerations,  that  justify   the   exercise   of
+         discretion to examine the asylum claim in the UK.
+
+         ...
+
+         Article 17(2) also concerns the  exercise  of  discretion,  but  in
+         different  circumstances.   It  makes  specific  reference  to  the
+         situation where either a Dublin State carrying out the procedure to
+         determine responsibility or the  responsible  Dublin  State  itself
+         may, at any time before a first decision on the  substance  of  the
+         protection claim is made, request another  Dublin  State  to  bring
+         together any family relations  on  humanitarian  grounds  based  in
+         particular on family or cultural considerations.  For  this  reason
+         this provision is sometimes  known  as  the  'humanitarian  clause'
+         (compared to the 'sovereignty clause', above).
+
+         Unlike  the  terms  'family  member'  and  'relative',   the   term
+         'relations' is not defined  in  the  Dublin  III  Regulation.   The
+         reference to family and cultural considerations  in  Article  17(2)
+         allows Dublin States to exercise their discretion to bring together
+         individuals who are part of an extended family group recognised  in
+         other cultures.  The persons concerned must consent in writing.
+
+         In all Article 17 cases - either the sovereignty clause in 17(1) or
+         the humanitarian clause in 17(2) - the evidence submitted with  the
+         request to exercise discretion must  be  coherent,  verifiable  and
+         detailed.  Situations in which it would be appropriate to  exercise
+         discretion to examine the claim(s) in the UK when  the  UK  is  not
+         otherwise responsible will be rare and  on  an  exceptional  basis.
+         Any decisions to exercise discretion must be agreed  by  a  manager
+         (minimum SEO).
+
+         ...
+
+                           Unaccompanied children
+
+         Unaccompanied children may lodge an  asylum  claim  in  one  Dublin
+         State when they have family in another Dublin State.  In such cases
+         the Dublin III Regulation provides that the State  responsible  for
+         examining the asylum claim will be that where  the  family  member,
+         sibling or relative (as defined in the Dublin  III  Regulation)  is
+         legally present, provided this is in  the  best  interests  of  the
+         child (and that in cases involving relatives, that the relative  is
+         able to take care of the child).  The purpose of  the  transfer  is
+         for the asylum claim to be examined on  its  merits  and  does  not
+         anticipate the outcome of the consideration of the asylum claim  or
+         permission to remain in that State.
+
+         In 2013 the Court of Justice of the European Union (CJEU) ruled  in
+         MA and others v Secretary of State for the Home Department C-648/11
+         that where an unaccompanied child with no  family  members  legally
+         present in the territory of a Dublin State  has  lodged  an  asylum
+         claim in more than one Dublin  State,  the  Dublin  III  Regulation
+         should be interpreted so that responsible State  is  the  State  in
+         which the most recent claim for asylum is lodged and this is in the
+         best interests of the child.  Although there is provision  for  the
+         transfer of unaccompanied children  this  is  only  appropriate  in
+         family related circumstances where the  bringing  together  of  the
+         child with his  or  her  family  member,  sibling  or  relative  is
+         considered to be in the best interests of the child. Any case where
+         there is evidence that it may  be  in  the  best  interests  of  an
+         unaccompanied asylum-seeking child to request that  another  Dublin
+         State accept responsibility for examining his or her  asylum  claim
+         on family grounds must be discussed with  a  senior  caseworker  in
+         TCU, who may then wish to seek further advice from Asylum Policy.
+
+         ...
+
+        Family tracing: special provisions for unaccompanied children
+
+         Article 6 of the Dublin III Regulation  concerning  guarantees  for
+         minors (children) provides that for the purposes  of  applying  the
+         provisions relating to responsibility for examining an asylum claim
+         the Member State where the unaccompanied child has  lodged  his  or
+         her claim shall take appropriate action to identify family members,
+         siblings or relatives on the territory of the Dublin  States.   The
+         Commission Implementing Regulation includes  a  specific  form  for
+         this purpose.  The aim of  the  standardised  information  exchange
+         related to unaccompanied children is, in line with the child's best
+         interest as a primary consideration, to identify the child's family
+         members, siblings or relatives present  on  the  territory  of  the
+         Dublin States, establish  the  existence  of  proven  family  links
+         between them, to assess the capacity of a relative to take care  of
+         the child and where relevant, determine the most appropriate person
+         to whom the child is to be entrusted.
+
+         ...
+
+                              Rejected requests
+
+         In the event of a negative reply to a  take  charge  or  take  back
+         request, it is open  to  the  requesting  State  to  challenge  the
+         refusal if it feels that the refusal was based on  a  misappraisal,
+         or when it has additional evidence to put forward, by  asking  that
+         its formal request be re-examined.  This  must  be  done  within  3
+         weeks of the receipt of the negative reply.  The  requested  Dublin
+         State shall strive to reply to a re-examination  request  within  2
+         weeks.  However, a lack of an answer within 2 weeks is not the same
+         as accepting the request as acceptance by default is  not  possible
+         at this stage in the procedure.  Further information on this can be
+         found in Article 5(2) of the Implementing Regulation  1560/2003  as
+         amended by Implementing Regulation 118/2014.
+
+         ...
+
+              Dublin process: requests for transfer into the UK
+
+         ...
+
+         Both Articles 8(1) and 8(2) require the transfer to be in the  best
+         interests of the child. The best interests of the child must always
+         be a primary consideration when applying the Regulation  in  family
+         unity cases.  When  assessing  a  child's  best  interests,  Dublin
+         States should cooperate with  each  other  taking  due  account  of
+         factors such as family  reunification  possibilities,  the  child's
+         well-being   and   social   development,   safety   and    security
+         considerations and the views of the child in accordance with  their
+         age and maturity, and background.
+
+         The European Intake Unit (EIU) will work with the  local  authority
+         in which the family member, sibling or relative  of  the  child  is
+         residing.  Local authorities will  be  requested  to  undertake  an
+         assessment with the family or relative(s) once the family link  has
+         been established, in addition to  the  checks  undertaken  by  EIU,
+         which will inform a recommendation to EIU as to whether the request
+         should be accepted or rejected.  The checks and  assessment  to  be
+         undertaken  by  the  local  authority  will  be  outlined  in   the
+         Department for Education's forthcoming Friends and Family Guidance.
+          All decisions on whether to accept a request to take charge  of  a
+         child's asylum application (and so accept the transfer of  a  child
+         to the UK) will be the responsibility of the Home Office;  however,
+         these  decisions  will  be   informed   by   the   assessment   and
+         recommendation provided by local authorities.
+
+         ...
+
+      Unaccompanied children: notifying local authorities and or social
+                                  services
+
+         You must ensure that both local authority  children's  social  care
+         services at the child's point of entry and where the child's family
+         member, sibling or relative reside are  notified  of  the  transfer
+         request under the Dublin III Regulation.  This must be done as soon
+         as possible after the formal request to  take  charge  is  received
+         from the requesting State.
+
+         You must engage local authorities'  children's  social  care  teams
+         throughout the process, seeking their advice in  every  case.   You
+         must keep accurate records of what information is relayed,  who  is
+         spoken to, when and  by  whom.   Article  12  of  the  Implementing
+         Regulation  1560/2003,  as  amended  by   Implementing   Regulation
+         118/2014 refers to the role  of  authorities  responsible  for  the
+         protection of children  having  full  knowledge  of  the  facts  to
+         consider the ability of the  adult  or  adults  concerned  to  take
+         charge of the child in a way which serves their best interests.
+
+         Article 12 also acknowledges that there may be cases  where  family
+         members, siblings, or relatives stay in more than one Dublin State,
+         in which case  the  State  in  which  the  child  is  present  must
+         cooperate with the State(s) concerned to determine:
+
+         .    the strength of the family links between  the  child  and  the
+             different persons identified across the Dublin States
+
+         .    the capacity and availability of the persons concerned to take
+             case of the child
+
+         .    the best interests of the child in each case
+
+         ...
+
+         When considering a request to transfer an  unaccompanied  child  to
+         the UK under the Dublin III Regulation,  you  must  adhere  to  the
+         spirit of the section 55 duty and  careful  consideration  must  be
+         given to their safeguarding and welfare needs  in  assessing  their
+         best  interests.   You  must  work  with  local   statutory   child
+         safeguarding agencies in the UK in order  to  develop  arrangements
+         that protect children  and  reduce  the  risk  of  trafficking  and
+         exploitation.
+
+         The re-establishment of family links would normally be regarded  as
+         being in accordance with the section 55  duty,  but  this  may  not
+         always  be  the  case.   Whilst  a  non-exhaustive  list,  the  re-
+         establishment of family links  would  not  be  in  accordance  with
+         section 55, for example, if it is identified that:
+
+         .    the safety of the child or their family will be jeopardised
+
+         .    the child has a well founded fear of relevant family members
+
+         .     the  relevant  family  members  are  the  alleged  actors  of
+             persecution within the claim for asylum which has not yet been
+             finally determined
+
+         .    the child is a recognised or potential victim  of  trafficking
+             in which the family were knowingly complicit
+
+         .    the child has shown  to  have  been  previously  exploited  or
+             abused or neglected by their family, or claims  to  have  been
+             previously exploited or abused or neglected  by  their  family
+             and this has not been conclusively discounted
+
+         ...
+
+      Sponsorship undertaking in cases involving unaccompanied children
+                  (Article 8 of the Dublin III Regulation)
+
+         A sponsorship undertaking form must be sent to their family  member
+         or relative in the UK and  representative  (where  notification  is
+         given) as soon as a transfer request  is  received.   Five  working
+         days must be given to complete and return the form.  If it  is  not
+         returned  within  this  time  limit  you  must  pursue  return   by
+         telephone, if a number is available, or by sending a further letter
+         requesting a response.
+
+         Whilst not a legal requirement of  the  Dublin  III  Regulation  or
+         Implementing Regulation,  the  sponsorship  undertaking  form  will
+         require the family to state clearly whether they  are  willing  and
+         able to receive the child.  It will bring to the attention  of  the
+         UK   family   member   or   relative,   their    obligations    and
+         responsibilities, and it will provide them the opportunity to raise
+         any issues or questions about their obligations or responsibilities
+         prior to a child's arrival.
+
+       Confirming the status of the family member, sibling or relative
+
+         Under Article 8 of the Dublin III Regulation you must be  satisfied
+         when considering a transfer request that the parties are related as
+         claimed and that the claimant's family member, sibling or  relative
+         is legally present in the UK.  Where the subject of the request  is
+         an unaccompanied child in addition to the family member, sibling or
+         relative's legal status  in  the  UK  having  been  confirmed,  the
+         transfer must also be in the child's best interests.
+
+         ...
+
+
+
+
+                   Dependency and discretionary provisions
+
+         ...
+
+         Article 17 is a discretionary clause which sits outside of  Chapter
+         III of the  hierarchy  criteria.   It  allows  a  Dublin  State  to
+         exercise discretion and examine an asylum claim even if it  is  not
+         its responsibility under the criteria laid out in  the  Dublin  III
+         Regulation. Article 17(2) is relevant to family unity  cases  where
+         an applicant for asylum is in another Dublin State (a formal asylum
+         claim must have been lodged) and there are family relations in  the
+         UK.  Article 17(2) can only be applied if all  persons  give  their
+         consent and a formal request by  the  Dublin  State  in  which  the
+         applicant is present/the responsible State, must be made  before  a
+         first decision on the claim for asylum is taken.
+
+         Article 17(2) provides that a Dublin State may (at any time  before
+         a first decision regarding the substance is taken) request  another
+         to take charge of an applicant  in  order  to  bring  together  any
+         family relations  on  humanitarian  grounds.   Written  consent  is
+         required from the persons concerned in Article 17(2) as part of the
+         request.
+
+         Where an Article 17(2) request  is  received  from  another  Dublin
+         State,  caseworkers  should  consider   whether   there   are   any
+         exceptional  circumstances  or  compassionate  factors  which   may
+         justify the UK exercising discretion and  accepting  responsibility
+         for the claim, notwithstanding that the UK is not bound  to  do  so
+         under  the  Dublin  III  Regulation.   There  may  be   exceptional
+         circumstances raised by the evidence  submitted  with  the  request
+         from the other Dublin State which  would  result  in  unjustifiably
+         harsh consequences for the applicant or their family relations.  It
+         is  for  the  requesting  Dublin  State  to  demonstrate  what  the
+         exceptional circumstances or compassionate  factors  are  in  their
+         case:  the  evidence  submitted  with  the  request   to   exercise
+         discretion must be coherent, verifiable and detailed in  line  with
+         the Dublin III Regulation's general provisions on evidence.
+
+         Each request must be decided on its individual  merits  .  However,
+         situations in which it would be appropriate to exercise  discretion
+         will be rare and on an exceptional basis.  In  considering  whether
+         or not to exercise discretion caseworkers should  act  consistently
+         with the Immigration Rules and  policies  on  family  members,  for
+         example the Immigration Rules Appendix FM - Family Members.
+
+         Caseworkers must discuss with a senior caseworker  any  case  where
+         the exercise of discretion under Article 17(2) may  be  appropriate
+         before accepting a request.
+
+                         Confirming the relationship
+
+         ...
+
+         The onus is on the applicant and their  qualifying  family  member,
+         sibling, relative or relations in line with the relevant provisions
+         in the Dublin III Regulation (Articles 8-11, 16  and  17(2)  Dublin
+         Regulation (EU) No. 604/2013) in the UK to prove their relationship
+         and satisfy you that they are related as claimed.
+
+         ...
+
+         In addition  to  elements  of  proof,  circumstantial  evidence  or
+         indicative evidence may also be submitted with a transfer  request,
+         such as:
+
+         .    verifiable information from the applicant:
+
+             O    any documents an applicant wishes to rely upon should  be
+                  provided   in   English,   or   accompanied   by   English
+                  translations
+
+             O    the onus is on the requesting Dublin State to provide the
+                  translation, however you have the  discretion  to  arrange
+                  for an untranslated document  to  be  translated  at  Home
+                  Office expense where this is justifiable in the individual
+                  circumstances of the case - the expectation is  that  this
+                  will be justified only in rare, exceptional cases and only
+                  after consultation with a senior caseworker
+
+         .    statements from the family members concerned
+
+         .     statements  or  information   from   the   authorities   with
+             responsibility for the child in the requesting Dublin State
+
+         .    reports or confirmation of the information by an international
+             organisation such as UNHCR, International Committee of the Red
+             Cross or Save the Children
+
+         ...
+
+         As above, you must be  satisfied  that  the  applicant  and  family
+         member, sibling, relative or relations in the  UK  are  related  as
+         claimed  if  the  UK  is  to  accept  a  request   to   acknowledge
+         responsibility for examining an  asylum  claim  lodged  in  another
+         State. The applicant and their UK-based qualifying  family  member,
+         sibling or relation should provide  sufficient  evidence  to  prove
+         their relationship  and  satisfy  you  that  they  are  related  as
+         claimed.   You  must  consider  whether,   on   the   'balance   of
+         probabilities'(the  civil  law  standard),  there   is   sufficient
+         information to accept that the parties are related as claimed.   In
+         other words, you must decide whether,  after  looking  at  all  the
+         evidence, it is more likely than not that  the  applicant  and  the
+         person in the UK are related as claimed.
+
+         ...
+
+         You  must,  having  considered  the  evidence  submitted   by   the
+         requesting State  (proof  or  circumstantial  evidence,  as  above,
+         including information provided  on  standard  forms  which  aim  to
+         establish the proven family link and the  dependency  link  between
+         the applicant and his or her child, sibling or parent, as  well  as
+         to establish the capacity of the person concerned to take  care  of
+         the dependent person), information contained in Home Office records
+         and evidence submitted by the person in the UK, be  satisfied  that
+         the parties are related as claimed.
+
+
+
+         You must be mindful of the difficulties that  people  may  face  in
+         providing  documentary  evidence  of  their  relationship.    Those
+         fleeing conflict zones or dangerous situations may not have time to
+         collect supporting documents  and  may  not  realise  they  may  be
+         required.  However, depending on the circumstances and  country  of
+         origin it may well be possible for documents to be  sent  by  post,
+         faxed or emailed.
+
+         ..."
+

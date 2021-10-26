@@ -1,0 +1,1871 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number: PA/10984/2019
+
+
+                            THE IMMIGRATION ACTS
+
+
+
+|Heard on: 7th January 2021           |Decision & Reasons Promulgated       |
+|At: Field House                      |On: 26th February 2021               |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE BRUCE
+
+
+                                   Between
+
+                                     FH
+                         (anonymity direction made)
+                                                                   Appellant
+                                     and
+
+                 Secretary of State for the Home Department
+                                                                  Respondent
+
+
+For the Appellant:     Ms Fitzsimons, Counsel instructed by Duncan Lewis &
+                    Co Solicitors
+For the Respondent:    Mr Lindsay, Senior Home Office Presenting Officer
+
+
+                            DECISION AND REASONS
+
+ 1. The Appellant is a national of Afghanistan born in 1997.  He appeals to
+    this Tribunal, on protection and  human  rights  grounds,  against  the
+    Secretary of State's decision to refuse to grant him leave to remain.
+
+
+ 2. The Appellant has lived in this country since he was 12 years  old.  He
+    arrived in October 2009 having made the  journey  from  Afghanistan  by
+    land and sea and sought protection.  Although asylum was refused he was
+    between  2010  and  2013  granted  a  period  of  Discretionary  Leave,
+    subsequently extended by virtue of s3C of the Immigration Act 1971. The
+    Appellant has however been without any leave to remain in this  country
+    since he became 'appeal rights exhausted' on the 20th April  2016,  his
+    appeal against the refusal of asylum having been dismissed by the First-
+    tier Tribunal (Judge Bennett).
+
+ 3. The history of the present proceedings  is  as  follows.  On  the  25th
+    October  2016  the  Appellant  made  further  representations  to   the
+    Secretary of State.  By  her  letter  of  the  18th  October  2019  the
+    Secretary of State agreed to treat those representations  as  a  'fresh
+    claim' on both protection and human rights grounds; she was not however
+    prepared to grant leave.  The  Appellant  appealed  to  the  First-tier
+    Tribunal. On the 12th  December  2019  the  matter  came  before  Judge
+    Minhas, who by his decision of  the  9th  January  2020  dismissed  the
+    appeal on all grounds. On the 6th  February  2020  First-tier  Tribunal
+    Gumsley granted the Appellant permission to appeal  to  this  Tribunal.
+    The matter was unfortunately then adjourned  because  of  the  Covid-19
+    pandemic. It was not heard until the  15th  September  2020,  when  the
+    'error of law' hearing was conducted via  remote  means.  On  the  28th
+    October 2020 I handed down a decision setting  the  decision  of  Judge
+    Minhas aside on all grounds. That decision  is  appended.   I  directed
+    that the matter would be brought back before me for a  further  hearing
+    in order that I could 're-make' the decision in the Appellant's appeal.
+      In order to best facilitate the giving of live evidence this  was  to
+    be a 'face to face'  hearing.   On  the  3rd  January  2021  the  Prime
+    Minister announced that from Monday the 4th January the  country  would
+    once again go into 'lockdown'.  I contacted the parties to see if  they
+    wished to go ahead with a hearing at this time, particularly  since  it
+    required travel into central London. The Appellant's solicitor informed
+    me that both Counsel and the Appellant wished the appeal to  go  ahead,
+    and Mr Lindsey for the Secretary of State similarly had no objection.
+
+
+
+
+    Preliminary Issues
+
+
+ 4. At the outset of the hearing Mr Lindsey raised two preliminary issues.
+
+
+ 5. The first was that he did not consider it appropriate for the matter to
+    proceed without the parties, or Tribunal, having had sight of the  2016
+    decision  of  First-tier  Tribunal  Judge  Bennett.  This  decision  is
+    referred to in the Secretary of State's  refusal  letter,  and  in  the
+    decision of Judge Minhas, but was not on the court file.    I  entirely
+    agree. This issue was resolved by Ms Fitzsimons who was able to provide
+    me with an electronic copy, and a hard copy to Mr Lindsey, who was then
+    given time to read the decision.
+
+ 6. The second concerned a report in  the  Appellant's  bundle  dated  31st
+    December 2020 by  Consultant  Psychiatrist  Dr  Nuwan  Galathappie.  At
+    paragraph 10 there is a list  of  documents  that  Dr  Galathappie  had
+    before him when he made his assessment.  The list does not include  the
+    Secretary of State's reasons for refusal letter.   Mr Lindsey submitted
+    that this was contrary to part 10.1 of the Practice Direction[1]:
+
+         10.1. A party who  instructs  an  expert  must  provide  clear  and
+         precise instructions to the  expert,  together  with  all  relevant
+         information  concerning  the  nature  of  the   appellant's   case,
+         including the appellant's immigration history, the reasons why  the
+         appellant's claim or application has been refused by the respondent
+         and copies of any relevant previous reports prepared in respect  of
+         the appellant.
+
+    Given the apparent failure of the Appellant's solicitors to provide  Dr
+    Galathappie with a copy of the refusal letter, he  submitted  that  his
+    expert report should be excluded from the evidence.
+
+ 7. I have had regard to The Tribunal Procedure (Upper Tribunal) Rules 2008
+    Rule 15(2):
+
+
+         (2) The Upper Tribunal may-
+
+         (a) admit evidence whether or not-
+
+           (i) the evidence would be admissible in a civil trial in the
+           United Kingdom; or
+
+           (ii) the evidence was available to a previous decision maker; or
+
+         (b) exclude evidence that would otherwise be admissible where-
+
+           (i) the evidence was not provided within the time allowed by a
+           direction or a practice direction;
+
+           (ii) the evidence was otherwise provided in a manner that did
+           not comply with a direction or a practice direction; or
+
+           (iii) it would otherwise be unfair to admit the evidence.
+
+
+ 8. I accept that if there was indeed a failure to give the refusal  letter
+    to Dr Galathappie this could potentially be contrary  to  the  Practice
+    Direction. I am however mindful that Dr Galathappie was well  aware  of
+    the why the Appellant has been refused asylum. That is because  he  was
+    supplied with both of the decisions of the First-tier Tribunal, wherein
+    extensive negative credibility findings are made, largely  echoing  the
+    Respondent's position on  the  historical  narrative  advanced  by  the
+    Appellant.  The Practice Direction requires that  the  expert  is  made
+    aware of the "reasons why the appellant's claim or application has been
+    refused by the respondent":  given  the  clear  terms  in  which  Judge
+    Bennett in  particular  expressed  himself,  I  am  satisfied  that  Dr
+    Galathappie was so aware.  For that reason, I do not consider it to  be
+    in the interests of justice to exclude the  report  of  the  Consultant
+    Psychiatrist.  I add for the sake of completeness that  Ms  Fitzsimons'
+    instructions are that contrary to the face of the report, the  'reasons
+    for refusal 'letter was included in the papers sent to the  doctor:  it
+    is omitted from his list in error.
+
+
+ 9. Ms Fitzsimons raised a preliminary  issue  of  her  own.  She  made  an
+    application for the Appellant to be treated as a vulnerable witness for
+    the purpose of the Joint Presidential Practice Note No  2  of  2010.  I
+    accept, in light of the medical evidence, that the Appellant should  be
+    so treated.
+
+
+
+
+    Matters in Issue
+
+10. The Appellant maintains that he should be given further leave to remain
+    on protection and human rights grounds.  Notwithstanding that there  is
+    already a significant finding  in  the  Appellant's  favour  on  a  key
+    protection issue [see �15 below] Ms Fitzsimons pursued the  Appellant's
+    case on all available grounds[2]. That was of course a matter for  her,
+    but that litigation strategy has resulted in this  decision  being  the
+    length that it is, and in taking the time that it  has  to  make:  both
+    parties have my apologies for any ensuing delay.  Here I summarise  the
+    matters in issue, which I will discuss and resolve under  the  thematic
+    headings below.
+
+
+    The Refugee Claim
+
+
+11. Notwithstanding the conclusions reached to the contrary  by  First-tier
+    Tribunal Judge Bennett in  2016,  the  Appellant  asserts  that  he  is
+    entitled to protection as a refugee. He  has  a  well-founded  fear  of
+    persecution for reasons of his membership of a particular social group,
+    namely a member of his own  family.  The  Appellant  asserts  that  his
+    parents were killed in 2008 and that he would be at risk from the  same
+    people who killed them.  This is a  matter  in  issue.  The  Respondent
+    rejects the historical narrative about  what  happened  in  Afghanistan
+    before the Appellant left as not  credible.   In  the  alternative  the
+    Respondent submits that any risk that might have existed in 2008 is now
+    negligible.
+
+
+12. Alternatively, the Appellant submits that if he  returned  to  Nangahar
+    today he would face a  real  risk  of  persecution  for  his  perceived
+    political opinion, because he would be seen as 'westernized'. This  too
+    is a matter in issue. The  Respondent  relies  on  the  extant  country
+    guidance to submit that no such objective risk arises.
+
+13. Finally, it is submitted that as an orphaned young  man  the  Appellant
+    would be particularly vulnerable to forced recruitment by armed  groups
+    operating in Nangahar, including  the  Taliban  and  Islamic  State  in
+    Khurasan (ISIK or Daesh).
+
+14. Each of these limbs require the Appellant to demonstrate that it  would
+    be 'unduly harsh' to expect him to  internally  relocate.  This  is  in
+    issue between the parties.  The submissions on this point were confined
+    to the situation in Kabul: it is not  suggested  that  he  go  anywhere
+    else.
+
+
+    The Humanitarian Protection Claim
+
+15.  Having  had  regard  to  the  Respondent's  policy  published  in  the
+    Afghanistan CPIN Security and Humanitarian Situation  (July  2019)  the
+    First-tier Tribunal accepted that the Appellant could not  be  returned
+    to Nangahar because there exists there an internal armed conflict  such
+    that he would face a real  risk  of  indiscriminate  violence.  At  the
+    'error of law' hearing on the 15th  September  2020  Senior  Presenting
+    Officer Mr McVeety indicated that this was the  Respondent's  position,
+    and before  me  Mr  Lindsay  accepted  that  this  concession  set  the
+    parameters of my enquiry.
+
+
+16. The issue between the parties is whether it would be  unduly  harsh  to
+    expect the Appellant to relocate within Afghanistan in order  to  avoid
+    serious harm/indiscriminate violence.  As above, my enquiry is confined
+    to the situation in Kabul.
+
+    Paragraph 276ADE(1)(vi) of the Rules
+
+17. The Appellant asserts that he should be given leave to  remain  because
+    there  are  "very  significant  obstacles"  to   his   integration   in
+    Afghanistan generally, but in particular Kabul.
+
+
+18. The Secretary of State does not accept that such obstacles exist.
+
+    The Article 8 Claim
+
+19. Beyond paragraph 276ADE(1)(vi) the Appellant asserts that  his  removal
+    from the United  Kingdom  today  would  amount  to  a  disproportionate
+    interference with the family/private life that he has established  here
+    in the past twelve years and so a breach of Article 8 ECHR.
+
+
+20. The Respondent accepts that the Appellant  has  established  a  private
+    life in the time that he has spent in the United Kingdom, but not  that
+    the refusal to grant any further leave amounts  to  a  disproportionate
+    interference, given the public  interest  considerations  expressed  in
+    Part 5A of the Nationality, Immigration and Asylum Act 2002.
+
+
+
+
+    The Evidence
+
+
+21. The evidence falls into three parts.
+
+
+22. First there is the Appellant's own evidence, supported to  some  degree
+    by  the  written  evidence  of  his  cousin,  about  what  happened  in
+    Afghanistan and why he left.
+
+23. The second is subjective evidence about the Appellant's long residence,
+    life and relationships in the United Kingdom.   This includes not  only
+    the Appellant's own evidence,  but  the  compelling  and  helpful  oral
+    testimony of his (former) foster mother, Mrs Din.    There are  also  a
+    number of medico-legal reports that I have taken into account.
+
+
+24. Finally, there is the  evidence  relating  to  the  Appellant's  likely
+    circumstances should he be returned  to  Kabul.  I  must  consider  the
+    'objective' country background material, the expert opinions  provided,
+    and the more subjective evidence pertinent to how the  Appellant  might
+    fare.
+
+25. I have read, and have taken into account, all of  the  evidence  before
+    me,   carefully   and   helpfully   presented   by   the    Appellant's
+    representatives into a composite bundle. I have also had regard to  the
+    2016 decision of First-tier Tribunal Judge Bennett, which I must  treat
+    as my starting point.
+
+
+
+    The Refugee Claim
+
+26. The Appellant arrived in the United Kingdom in October 2009. There does
+    not appear to have been any dispute about his age at the time, since he
+    was placed in suitable  care  and  subsequently  granted  Discretionary
+    Leave to Remain: he was then 12 years old.
+
+
+27. He was interviewed on the 1st February 2010 with the  assistance  of  a
+    Pushto interpreter.  He told officers he was  from  a  village  in  the
+    Shershai  district  of  Nangahar:  he  was  able  to  name  surrounding
+    localities and so that was accepted to be true.  He said  that  he  had
+    left Afghanistan because he was afraid of the people who had killed his
+    parents. Who they were, he did not know.
+
+28. The Appellant was then questioned about  the  detail  of  his  parents'
+    deaths for approximately two and  a  half  hours,  with  a  five-minute
+    break. He was asked to describe the details of their injuries, how  the
+    people who gathered in the aftermath came to be  there,  where  he  had
+    been at the time, where he was going, how long it took him to get  back
+    to the house and  who  he  thinks  might  have  done  it.  The  officer
+    revisited areas of questioning and pressed  the  Appellant  on  certain
+    matters, such as whether there had been signs of  "forced  entry  "into
+    his house, and exactly how many bullet  wounds  he  could  see  on  the
+    bodies of his dead parents.  I interpolate that this  kind  of  lengthy
+    and intense questioning of a 12 year-old would, or  should,  not  occur
+    today.  I have not however been asked to exclude that interview record,
+    and what emerges from it is this.
+
+29. The Appellant explained that on the day in question he was on  his  way
+    to the mosque in order to attend midday prayers  when  he  met  with  a
+    friend, who was also on  his  way  to  mosque.  This  friend  told  the
+    Appellant that gunshots had been heard near to his  house.  The  friend
+    carried on his way, but the Appellant was  curious  to  know  what  the
+    shots might have been, so cautiously made his way  back  to  his  home.
+    When he arrived, he saw that a crowd  of  people  had  gathered  there,
+    including his maternal uncle. The Appellant went  inside  and  saw  the
+    body of his father lying on the floor of the 'guestroom' (I  understand
+    this to be a reference to the baytak, a  room  traditionally  found  in
+    Pukhtun homes where the men of the house can receive  outside  visitors
+    without them entering the main house itself). His mother's body was  in
+    the kitchen. He was unable  to  say  whether  there  had  been  "forced
+    entry".   Asked who he thought might have done this, he was  unable  to
+    say.  In response to the officer's questions the  Appellant  said  that
+    his father used to receive regular visits from men with  "long  beards"
+    but he never heard the conversation as he was playing in the courtyard.
+      In the aftermath of the killings his uncle  took  the  decision,  and
+    made the appropriate  arrangements,  to  send  the  Appellant  and  his
+    brother away.  They stayed with this uncle for some weeks before  being
+    sent on their way to Europe.
+
+
+30. As Tim Foxley[3] notes in his report of the 19th February 2016, all  of
+    this was entirely unremarkable. Nangahar was at  the  material  time  a
+    Taliban stronghold, and the group has been responsible for  the  deaths
+    of thousands of civilians.  The account was therefore plausible in  the
+    context of the background material.  Mr Foxley further comments that it
+    was plausible in light of his knowledge of Afghani society: it would in
+    his view be unlikely that the Appellant would be able to give any  more
+    information than he did about the men with long beards,  or  what  they
+    might have been discussing with his father.  Similarly  he  would  have
+    been expected to follow his uncle's instructions without question.
+
+31. The Appellant's claim was not however free of difficulties.
+
+32. Prior to the interview he had completed an 'Statement of Evidence Form'
+    (SEF) with his then representative. This had said that he was  actually
+    in the mosque  when  he  received  the  news.  At  the  interview  this
+    discrepancy had been put to him and he had said that the statement  was
+    wrong - this was a mistake.  The Respondent, and  then  Judge  Bennett,
+    found this discrepancy to weigh against him. In his decision of the 5th
+    April 2016 Judge Bennett found "a boy of  twelve  might  ordinarily  be
+    expected to have no difficulty in remembering  where  he  was  when  an
+    event occurred that saw the start  of  a  very  significant  series  of
+    events in his life...".
+
+33. A second matter found by Judge Bennett to weigh against  the  Appellant
+    arose from the claimed actions of his  uncle  after  the  killing.  The
+    Appellant had said that his uncle  had  taken  the  Appellant  and  his
+    brother back to his house, and told  them  to  stay  indoors,  but  had
+    himself gone somewhere because he was afraid. Judge Bennett found  this
+    to make little sense: if the uncle believed his home to  be  a  target,
+    why would he leave his nephews there?
+
+34. The decision makers who have gone before have  further  had  regard  to
+    other material not available to me. I note from the decision  of  Judge
+    Bennett that the original refusal letter had identified  a  discrepancy
+    between the Appellant's account, and that given by his brother who also
+    claimed asylum in the UK.  It appears that one of them (it is not clear
+    to me which) described their destination that day as the madrassa,  the
+    other said it was the mosque. One thought that it took half an hour  to
+    walk from there to their home, the other thought it was  one  and  half
+    hours.   The brother's appeal had been dismissed by a Judge  Broe,  who
+    had found that the claim lacked credibility, as I understand it because
+    the brother had produced a 'death card' indicating that his mother  had
+    died of her injuries in hospital:  when  it  was  pointed  out  to  the
+    brother that this was inconsistent with his account he had changed  his
+    story, a development which as Judge Bennett put it, "sowed the seeds of
+    his own destruction",  at  least  insofar  as  his  asylum  appeal  was
+    concerned.  There was confusion over how the boys' uncle came to arrive
+    at the house that day.  A further discrepancy  arose  between  the  two
+    claims in that the Appellant did not think that they had ever known the
+    telephone number of that maternal uncle; his brother  claimed  to  have
+    had the number, tried it twice, but then it had gone dead.  All of this
+    led Judge Bennett to conclude that  the  account  was  not  capable  of
+    discharging the burden of proof and the appeal was dismissed.
+
+
+35. In evaluating the  narrative  today  my  starting  point  must  be  the
+    findings of Judge Bennett which stand as an authoritative determination
+    of the claim as it was presented on the 5th April  2016:  Devaseelan  v
+    Secretary of State for the  Home  Department  [2002]  UKIAT  00702.   I
+    should only depart from those findings if there is some  reason  to  do
+    so.
+
+
+36. Ms Fitzsimons asked me to do so on the basis of the new evidence  which
+    had led the Secretary of State to accept the further  submissions  made
+    on behalf of the Appellant as a 'fresh claim' under  paragraph  353  of
+    the Immigration Rules.
+
+37. The first item was an updated report by Mr Foxley dated 6th July  2017.
+    I have not derived any real assistance from this report. Although I  do
+    not in any way doubt Mr Foxley's expertise, its contents -  insofar  as
+    they relate to the  plausibility  of  the  Appellant's  account  -  add
+    nothing to the report already prepared by Mr Foxley and  placed  before
+    Judge Bennett in 2016.    That the account was plausible in the context
+    of the background material does not appear to have ever been in doubt.
+
+38. The second item  was  a  statement  dated  4th  December  2019  by  the
+    Appellant's cousin Ajmal Ali,  who  provided  a  copy  of  his  British
+    passport as evidence of identity. There are two matters that limit  the
+    weight that I can attach to this evidence. The first is  that  although
+    Mr Ali did attend the hearing before Judge  Minhas  in  the  First-tier
+    Tribunal, he did not attend the hearing before me, and so  I  have  not
+    seen his evidence tested.  The second is  that  Mr  Ali  is  unable  to
+    confirm any specific detail of the Appellant's account, since he was in
+    the UK at all material times. I note however that he is able to confirm
+    was that it is his belief that both of  the  Appellant's  parents  were
+    killed in Afghanistan in 2009.  He states that he  does  not  know  who
+    killed his uncle and his wife, but the family believe it to  have  been
+    the Taliban.
+
+39. The third tranche of evidence relates to the Appellant's mental health.
+    I am provided with a report from Consultant Psychiatrist Dr Galathappie
+    dated the 31st December 2020,  and  a  report  by  Consultant  Clinical
+    Psychologist Dr  Rachel  Thomas  dated  the  4th  December  2019.   The
+    headline conclusion of both of these well  qualified  professionals  is
+    that the Appellant is suffering from  severe  depression,  anxiety  and
+    post-traumatic  stress  disorder  (PTSD).  Much  was  said  about  both
+    advocates before me about the weight  that  I  could  attach  to  these
+    diagnoses when I consider whether to depart from the findings of  Judge
+    Bennett.
+
+40. Ms Fitzsimons pointed to Dr Galathappie's  view  that  the  Appellant's
+    account of events  in  Afghanistan  is  consistent  with  his  reported
+    symptoms which  include  flashbacks,  nightmares,  low  mood,  anxiety,
+    tearfulness, poor concentration,  intrusive  distressing  memories  and
+    fearfulness.  In his opinion the trauma  of  losing  his  parents,  and
+    seeing their dead bodies, "would have directly  caused  his  PTSD"  [at
+    �87].  Dr Thomas reaches similar conclusions. Ms Fitzsimons accordingly
+    asks me to place considerable weight on these reports in my  Devaseelan
+    analysis of whether the account advanced by the Appellant  can  now  be
+    accepted to be true.
+
+41. In his submissions Mr Lindsay reiterated his complaint about a  failure
+    to comply with the Practice Direction, which I have already dealt  with
+    [see above at my �6-8]. He further suggested that  neither  doctor  had
+    addressed what might be called the countervailing factors - namely  the
+    discrepancies identified by Judge Bennett. That failure,  submitted  Mr
+    Lindsay, mean that Dr Galathappie's views should "not  carry  any  real
+    weight at all".  Insofar as both doctors had, in  compliance  with  the
+    Istanbul Protocol and the caselaw of this Tribunal, directed themselves
+    to consider whether  the  Appellant  could  be  feigning  symptoms,  Mr
+    Lindsay asked me to  reject  their  professional  evaluations  on  this
+    matter as "wholly  unsustainable",  because  neither  had  referred  to
+    academic  sources.  Dr  Thomas  had  not,  for  instance,  offered  any
+    objective support for her view that many of the  symptoms  reported  by
+    the Appellant,  such  as  appetite  disturbance,  are  not  immediately
+    obvious to the layperson as being symptoms of psychiatric disorder.
+
+42. I am satisfied that both doctors are suitably qualified and  that  they
+    have generally presented fair reports in compliance with their  Ikarian
+    Reefer duties to this Tribunal. They both make a point of  saying  that
+    they have assessed that the Appellant is not exaggerating  or  feigning
+    symptoms, and as experienced professionals, that is a matter for  them.
+    I found nothing inappropriate in the comments made by  Dr  Thomas,  who
+    noted that the Appellant presented a "considered and balanced  view  of
+    his psychiatric symptoms", and that this would  be  "most  unusual  for
+    someone attempting to fabricate  psychiatric  disorder"  who  would  be
+    expected to exaggerate. She also recorded her own observations  of  the
+    Appellant's low mood and  "markedly  flattened  emotional  affect".   I
+    entirely reject Mr Lindsay's  submission  that  these  comments  should
+    attract  no  weight  because  they  were  not  supported  by   academic
+    reference: Dr Thomas is the expert. She is  a  Consultant  Psychologist
+    with 18 years PQE and long experience in assessing survivors of trauma.
+     She need not footnote every comment or observation in her report.
+
+43. That said, I must accept the criticism made by Mr Lindsay that  neither
+    Dr Thomas  or  Dr  Galathappie  appears  to  have  weighed  into  their
+    evaluation the evidence that the Appellant  reported  being  happy  and
+    settled with Mrs Din and her late  husband  in  the  years  immediately
+    following his arrival.   In her evidence Mrs Din reported that  at  the
+    time the Appellant had told a social worker that  he  was  "in  heaven"
+    living in her home, and Mr Lindsay is entitled  to  wonder  whether  Dr
+    Galathappie would have drawn such a direct  line  between  the  claimed
+    murder of the Appellant's parents and his PTSD, had he  been  aware  of
+    that evidence, relating as it does to a period more proximate  in  time
+    to the claimed events than today.  I further accept that Dr Galathappie
+    has not expressly considered whether  the  Appellant's  symptoms  might
+    have  other  causes.  He  refers,  for  instance,  to  the  Appellant's
+    detention in an Immigration Removal Centre, and is plainly  aware  that
+    he traversed Asia and Europe as a young child, but  does  not  squarely
+    address the very real possibility that either or both of this matters -
+    what Dr Thomas summarises as "cumulatively  traumatic  life  events"  -
+    could have given  rise  to  the  mental  health  issues  faced  by  the
+    Appellant today.
+
+
+44. I do not however think  for  one  moment  that  any  of  the  diagnoses
+    presented in these reports, and produced  by  clinical  assessment,  is
+    wrong. The Appellant arrived in this country on his own, aged  12.  The
+    Respondent has never challenged the evidence that in order to get  here
+    the Appellant spent many  months  in  the  company  of  violent  people
+    traffickers. Implicit in that is an acceptance that whatever the  truth
+    might be about why he left Afghanistan, the  Appellant  was  dislocated
+    from his immediate family at a young age and has never seen them again.
+    Although he found happiness and some measure of security in the home of
+    his foster family the Dins, it is  hard  to  imagine  that  these  life
+    events would not take their toll  on  the  Appellant's  mental  health.
+    Add to this the incessant insecurity that he has experienced since  his
+    last grant of leave expired in 2013, including a period in  immigration
+    detention, and it is clear to see, even for the layperson, why he might
+    be  suffering  from  depression,  anxiety  and  post-traumatic   stress
+    disorder.   It is for that reason that the general diagnoses  made  add
+    little to my Devaseelan enquiry.  Had they been known to Judge  Bennett
+    in 2016 they would have been of the same probative value  as  they  are
+    today: limited.  Whilst they are wholly  consistent  with  his  claimed
+    history, there are many other possible causes.   The  Appellant's  PTSD
+    cannot in these circumstances logically establish that his parents were
+    killed in the manner he describes.
+
+
+45. There is however one specific point arising from  the  medical  reports
+    which does merit considerably more weight in my evaluation. That is the
+    evidence  of  Dr  Thomas  that  such  narrative  discrepancies  as  are
+    identified by the Respondent (and Judge Bennett) could be explained  by
+    reference to the Appellant's conditions. She writes [from her �66] that
+    the Appellant:
+
+         "....is  showing  considerable  cognitive  impairment  and  slowing
+         consequent  on  a  severe  depressive  disorder  and  I   consider,
+         therefore, that psychiatric  factors  are  of  real  importance  in
+         relation to inconsistency  of  narrative  and  if  these  have  not
+         previously been considered in  determining  credibility  then  this
+         needs to be undertaken.
+
+
+         There are also factors relating to age and developmental trauma and
+         its impact on memory that may well have impacted on the information
+         [the Appellant] is able to recall from his time in Afghanistan.  He
+         instructs that he was 12 years old when his  parents  were  killed,
+         that he saw their dead  bodies  and  that  he  was  made  to  leave
+         Afghanistan rapidly thereafter with an agent and endure a long  and
+         arduous journey as an unaccompanied minor to the UK. It can readily
+         be seen how the cumulatively traumatic nature of these  experiences
+         at a very young age will have contributed to [the Appellant]  being
+         liable to forget details of this time.
+
+
+         Indeed, [he] stated at interview, as described above, that  he  has
+         blocked out memories of his time in Afghanistan in a form of  post-
+         traumatic avoidance because these have been so traumatic to him"
+
+
+46. That expert opinion was not available to Judge Bennett in 2016. Nor,  I
+    note, was the decision of the Court of Appeal  in  AM  (Afghanistan)  v
+    Secretary of State for the Home Department [2017] EWCA Civ 1123,  which
+    was handed down the  following  year.  Given  the  terms  in  which  he
+    expressed himself, I cannot be satisfied that Judge Bennett's  decision
+    would have been as it was, had the medical evidence, and  the  decision
+    in AM, been before him. Had the procedural fairness issues canvassed in
+    AM been raised here, the Appellant would undoubtedly have been  treated
+    as a vulnerable witness, and his evidence assessed accordingly.   Judge
+    Bennett's formulation "a boy of twelve might ordinarily be expected  to
+    have no difficulty in remembering..." is now, in light  of  Dr  Thomas'
+    evidence, obviously problematic.   As her report makes clear, it is not
+    in fact in the case that a boy of twelve would ordinarily  be  able  to
+    accurately recall all the details of a deeply traumatic event:  to  the
+    contrary the human brain will deliberately block  memories  or  certain
+    details as a  self-protection  mechanism.  This  phenomena,  of  "post-
+    traumatic avoidance", could be one explanation  for  the  matters  that
+    troubled Judge Bennett.  Another  could  be  the  Appellant's  personal
+    characteristics:  he  is  found,  on  clinical  assessment,   to   have
+    "considerable cognitive impairment".
+
+
+47. I have given consideration to the countervailing factors identified  by
+    the Respondent and by Judge Bennett.   As I wrote in my 'error of  law'
+    decision I attach no weight  at  all  to  the  Appellant's  fluctuating
+    evidence on how long it might have taken him to walk from A to B on the
+    day in question.  It may be reasonable to expect an  adult  witness  to
+    accurately state the time span of  a  journey  taken  with  regularity,
+    since the time that such a  journey  will  take  will  inevitably  have
+    significance in the ordering of that  adult's  daily  life.  I  am  not
+    however prepared to accept that a 12 year  old  wandering  through  the
+    Afghan countryside with his brother could  accurately  be  expected  to
+    recount journey times, particularly on a day where, if the  account  is
+    true,  he  suffered  the  greatest  trauma  of  his  life.  As  to  his
+    inconsistent evidence on the point, I bear in mind  that  children  are
+    apt to say whatever comes into their head  rather  than  simply  saying
+    that they do not know.   For the same reason I attach minimal weight to
+    the Appellant's flustered attempts to say how  and  when  his  maternal
+    uncle arrived on the scene. Mr Foxley rightly notes that  it  would  be
+    culturally inappropriate for an Afghan  child  to  question  his  uncle
+    about decisions pertaining directly to him: it seems very unlikely that
+    the Appellant would then have cross-examined his  uncle  about  how  he
+    came to have arrived at the murder scene so quickly.
+
+
+48. As to where the Appellant was when he was told about  the  gunshots,  I
+    recognise the difference in the accounts given, but read that  them  in
+    light of the expert opinion of Dr Thomas  about  the  unreliability  of
+    memory in such circumstances.
+
+49. Weighing in the Appellant's favour are the following matters. That  the
+    account has been, at its core, consistent over many retellings over  an
+    eleven-year period. It is an account wholly consonant with the  country
+    background material: as Mr Foxley explains, Nangahar, and in particular
+    the rural areas,  were  in  2009  firmly  in  the  grip  of  a  Taliban
+    insurgency which claimed many thousands of  civilian  lives.  The  very
+    young age of the Appellant when he embarked on his journey  would  tend
+    to indicate that there was some  pressing  reason  for  him  to  leave.
+    Although there is a limit to the weight that I can place  on  Mr  Ali's
+    evidence, I have taken into account  the  fact  that  he  attended  the
+    hearing before the First-tier Tribunal to confirm his belief  that  his
+    uncle and aunt were  indeed  shot  dead.  Some  small  weight  is  also
+    attracted by the Appellant's mental health sequalae of trauma. Applying
+    the lower standard of proof and bearing in mind the  Appellant's  youth
+    at the time that the account was originally given, I am satisfied  that
+    it is reasonably likely that the account given is at its core  true.  I
+    accept that the Appellant's parents were killed by  unknown  assailants
+    and that an uncle made arrangements for him to leave the country.
+
+
+50. That does not mean, however, that he has made out a real  risk  arising
+    from these facts today. These events took place  11  years  ago.    The
+    Appellant has no real idea of who might have  killed  his  parents,  or
+    why. Nor, according to Mr Ali, does anyone else in the family, who  can
+    only speculate that  it  was  the  Taliban.   Whilst  that  supposition
+    accords with the  background  material,  which  demonstrates  that  the
+    Taliban take brutal reprisals against those  they  perceive  to  oppose
+    them, there is no indication in the evidence that this was in fact  the
+    case. The fact that men with beards visited the family home to sit  and
+    talk with the Appellant's father takes  the  analysis  nowhere.  I  was
+    taken to no evidence supporting the notion that the Taliban in Nangahar
+    would seek to kill the son of a family who got in their  way  11  years
+    ago, particularly since that son was a young boy  at  the  time.   Even
+    applying the lower standard of proof, and the Demirkaya presumption  in
+    paragraph 339K of the Immigration Rules, I am unable to accept that the
+    Appellant faces a real risk of harm from his parents' murderers today.
+
+51. It  is  no  doubt  because  of  that  difficulty  that  Ms  Fitzsimons'
+    submissions on the Refugee Convention were in the  alternative  put  on
+    two other bases.
+
+52. The first was that the  Appellant  would  attract  the  enmity  of  the
+    Taliban, or possibly the new threat in the area, Islamic State, because
+    he is "westernized".  A considerable amount of energy  is  expended  in
+    the Appellant's statement on this topic, but I am unable to do any more
+    than point to the fact  that  the  Upper  Tribunal  has  recently,  and
+    categorically, rejected the assertion  that  "westernised"  individuals
+    face a real risk of harm in Afghanistan for that reason. This  was  the
+    finding of the Tribunal in AS (Safety of Kabul) Afghanistan CG  [2018]
+    UKUT 118 (IAC) at [�187]:
+
+
+         We do not find a person on return  to  Kabul,  or  more  widely  to
+         Afghanistan, to be at risk on the basis of 'Westernisation'.  There
+         is simply a lack of any cogent or consistent evidence of  incidents
+         of such harm on which it could be concluded that there was  a  real
+         risk to a person who has spent time in the west being targeted  for
+         that reason, either because  of  appearance,  perceived  or  actual
+         attitudes of such a person.  At most, there is some evidence  of  a
+         possible adverse social impact or suspicion  affecting  social  and
+         family interactions, and evidence from a very small number of  fear
+         based on 'Westernisation', but we find that the evidence before  us
+         falls far short of establishing and objective fear  of  persecution
+         on this basis for the purposes of the Refugee Convention.
+
+53. This finding was not challenged to  the  Court  of  Appeal  and  so  is
+    expressly upheld in AS (Safety of Kabul) Afghanistan CG [2020] UKUT 130
+    (IAC) at �7.  I should say that it is not entirely clear to me on what
+    basis the Tribunal extended the scope of its enquiry to "more widely in
+    Afghanistan": as far as I can tell the evidence and submissions in  the
+    appeal before it related solely  to  Kabul.    Ms  Fitzsimons  did  not
+    however ask me to depart from that country guidance, and so by  law  am
+    bound to apply it.
+
+54. The final basis upon which refugee protection is sought is that  as  an
+    unattached young man - that is to say exposed by his lack of  family  -
+    the Appellant would today face a real risk  of  forced  recruitment  or
+    exploitation by armed groups operating in his home area of Nangahar.
+
+
+55. I am unable to draw any assistance from AS on  this  point.   It  would
+    appear that the last time this  risk  was  considered,  albeit  in  the
+    context of children, was in HK  and  others  (minors  -  indiscriminate
+    violence - forced recruitment by Taliban - contact with family members)
+    Afghanistan CG [2010] UKUT 378 (IAC) where the guidance given was this:
+
+
+          While forcible recruitment by the Taliban cannot be discounted  as
+         a risk, particularly in areas of high militant activity or militant
+         control, evidence is required to show that it is a  real  risk  for
+         the particular child concerned and not a mere possibility.
+
+56. Nothing in the evidence produced before me suggests that this situation
+    has changed.
+
+
+57. In his report of the 19th February 2016 Mr Foxley writes that "coercion
+    is not the Taliban's  preferred  method  of  recruitment.  The  Taliban
+    generally prefer to appeal - with some success,  given  that  they  are
+    maintaining a strong insurgency force in its 11th year -  to  potential
+    recruits' sense of pride, xenophobia, nationalism or Islam" [at  Foxley
+    �51].   In  his  second  report,  of  the  6th  July  2017,  Mr  Foxley
+    acknowledges that it is possible that the  Appellant  could  fall  into
+    that group of "vulnerable, suggestible and immature Pushtun youth"  [at
+    �56], but I find it to be clear from the evidence that this is not  so:
+    the Appellant makes clear that he regards himself as "westernized" with
+    no political or religious leaning towards extremism. It is in  my  view
+    extremely unlikely that he would fall under the sway of the Taliban  in
+    the manner outlined by Mr Foxley, and if he did, as a man of  23  years
+    old, that is a matter for which he would be responsible.
+
+58. I am therefore not satisfied that the Appellant has made  out  a  claim
+    under the Refugee Convention for any of the three reasons  advanced  by
+    his representatives.
+
+
+
+    Humanitarian Protection
+
+59. Notwithstanding the  United  Kingdom's  withdrawal  from  the  European
+    Union,  the  'minimum  standards'  of  protection  set   out   in   the
+    Qualification Directive continue to find expression in the  Immigration
+    Rules:
+
+         339C. A person will be granted humanitarian protection in the
+         United Kingdom if the Secretary of State is satisfied that:
+
+
+           (i) they are in the United Kingdom or have arrived at a port of
+           entry in the United Kingdom;
+           (ii) they do not qualify as a refugee as defined in regulation 2
+           of The Refugee or Person in Need of International Protection
+           (Qualification) Regulations 2006;
+           (iii) substantial grounds have been shown for believing that the
+           person concerned, if returned to the country of return, would
+           face a real risk of suffering serious harm and is unable, or,
+           owing to such risk, unwilling to avail themselves of the
+           protection of that country; and
+           (iv) they are not excluded from a grant of humanitarian
+         protection.
+
+
+         339CA. For the purposes of paragraph 339C, serious harm consists
+         of:
+
+
+           (i) the death penalty or execution;
+           (ii) unlawful killing;
+           (iii) torture or inhuman or degrading treatment or punishment of
+           a person in the country of return; or
+           (iv) serious and individual threat to a civilian's life or
+           person by reason of indiscriminate violence in situations of
+           international or internal armed conflict.
+
+
+60. The First-tier  Tribunal  found,  in  unchallenged  findings,  that  in
+    Nangahar the Appellant would face a serious and  individual  threat  to
+    his life or person by reason of indiscriminate violence in a  situation
+    of internal armed conflict.  The question remains whether it  would  be
+    reasonable to expect the Appellant to avoid such  harms  by  internally
+    relocating to Kabul.
+
+
+61. In my assessment of whether it would be 'unduly harsh'  to  expect  the
+    Appellant to live in Kabul Ms Fitzsimons asks me to have regard to  the
+    following factors:
+
+
+              i) The Appellant has never lived in Kabul  and  has  no  known
+                 connection to the city
+
+
+             ii) He has never lived in Afghanistan as an adult  and  so  has
+                 little to no understanding of how things 'work' in terms of
+                 the job market, obtaining housing etc
+
+            iii)  Although  falling  short  of  Article  15(c)   conditions,
+                 security and crime remain significant problems in Kabul
+
+             iv) The Appellant  is  already  suffering  from  mental  health
+                 difficulties and returning him to  the  country  where  his
+                 trauma occurred would likely exacerbate those problems
+
+              v) The objective evidence indicates that he would be  unlikely
+                 to be able to access meaningful mental health treatment  or
+                 support
+
+             vi) His mental illness will make him stand out, and render  him
+                 vulnerable
+
+            vii) He would face societal hostility (albeit falling  short  of
+                 persecution) because he will be perceived as 'westernized'
+
+           viii) As  an  internally  displaced  person  (IDP)  he  would  be
+                 particularly vulnerable to Covid-19
+
+             ix) The pandemic should further be considered in  that  it  has
+                 placed  a  considerable  burden  on  the  already  strained
+                 resources available to IDPs in Kabul
+
+
+62. For his part Mr Lindsay asked me to take  into  account  the  following
+    submissions:
+
+
+              i) The Appellant is a physically healthy adult male
+
+
+             ii) The extent of his mental health issues is exaggerated
+
+
+            iii) The Appellant said  in  oral  evidence  that  he  would  be
+                 prepared to work as a builder if he could find a  job,  and
+                 he has had some vocational training in construction work
+
+             iv) He speaks Pushto, and to the extent that he may  have  lost
+                 familiarity with it through a lack of daily use,  it  would
+                 not take him long to recover it
+
+              v) Mrs Din could  provide  him  with  some  financial  support
+                 whilst he 'got on his feet'
+
+             vi) Although he may not be a devout Muslim he has  demonstrated
+                 his ability to 'fit in' by the evidence of how  he  manages
+                 to meet the expectations of Mrs Din in this regard
+
+
+63. My starting point is the recent country guidance in AS [2020]:
+
+
+         Having regard to the security and humanitarian situation  in  Kabul
+         as well as the difficulties faced by the  population  living  there
+         (primarily the urban poor but also IDPs and other returnees,  which
+         are not dissimilar to the conditions faced  throughout  many  other
+         parts of Afghanistan) it will not, in general, be  unreasonable  or
+         unduly harsh for a single adult male in good health to relocate  to
+         Kabul even if he does not have any specific connections or  support
+         network in Kabul and even if he does not have a Tazkera.
+
+
+         However, the particular circumstances of  an  individual  applicant
+         must be taken into account in the  context  of  conditions  in  the
+         place of relocation, including a person's age, nature  and  quality
+         of  support  network/connections  with   Kabul/Afghanistan,   their
+         physical and mental  health,  and  their  language,  education  and
+         vocational skills when determining whether a  person  falls  within
+         the general position set out above. Given the limited  options  for
+         employment, capability to undertake manual work may be relevant.
+
+
+         A person with a support network or specific connections in Kabul is
+         likely to be in a more advantageous position on return,  which  may
+         counter a particular vulnerability of an individual  on  return.  A
+         person without a network may  be  able  to  develop  one  following
+         return. A person's familiarity with the cultural and societal norms
+         of Afghanistan (which may be affected by the age at which  he  left
+         the country and his length of absence) will be relevant to whether,
+         and if so how quickly and successfully, he will be able to build  a
+         network.
+
+
+64. Having regard to that guidance I  note  that  it  is  not  in  general,
+    unreasonable to expect a returnee to settle in Kabul.  I  must  however
+    examine, cumulatively, each of  the  specific  factors  raised  by  the
+    representatives as being relevant to the Appellant. I  begin  with  the
+    external, that is to say the social, economic and security situation in
+    which the Appellant will find himself.
+
+
+65. The security situation in Kabul is poor.  Although the Tribunal  in  AS
+    rejected the submission that conditions in the city  have  deteriorated
+    to the extent that Article 15(c) is engaged,  its  clear  findings  are
+    that it can still be a dangerous place:
+
+
+         201. Kabul (both the city and province) is  significantly  affected
+         by widespread and longstanding conflict-related  violence  and  has
+         been - at a relatively consistent level - since at least 2016. Some
+         of the violence is targeted (e.g. at police,  embassies  or  ethnic
+         groups) but  much  of  it  is  indiscriminate.  Even  the  targeted
+         violence affects civilians in an indiscriminate way, because people
+         can be killed or injured as bystanders. There is also a significant
+         problem of violent crime.
+
+
+66. In respect of political violence, the Tribunal found that the  risk  to
+    the civilian depended on behaviour: someone who stays at home  all  the
+    time is at far lower risk than someone who is economically  active  and
+    must be out on the streets looking for work in crowded places.  Further
+    "someone who has an understanding of the culture and  society  will  be
+    more adept at  avoiding  violence  than  someone  who  is  ignorant  of
+    societal norms" [�202].  In respect of crime,  the  Tribunal  cite  the
+    2019 findings of the Asia Foundation Survey which reported that 15%  of
+    the population were affected by crime during the year.
+
+
+67.  The  city  itself  is  one  of  the  fastest  growing  in  the  world.
+    Approximately 8% of the population are IDPs. The Tribunal  acknowledges
+    the concern expressed by the UNCHR and human rights organisations  that
+    the "influx of IDPs and refugees has  put  a  huge  strain  on  Kabul's
+    infrastructure, and that the city is, or is  close  to  being,  at  the
+    limits of its capacity to absorb any further  people"  [�220].   It  is
+    against that background,  the  panel  finds,  that  the  socio-economic
+    situation conditions are extremely challenging:
+
+            224. The Panel in the 2018  UT  decision  found  that  much  of
+            Kabul's population lives in inadequate  informal  housing  with
+            limited access to basic services such as sanitation and potable
+            water. They noted that healthcare provision, although poor,  is
+            better in Kabul than elsewhere.
+
+
+
+
+            225. The evidence before us  indicates  that  the  position  is
+            unchanged. As was the case when the Panel made its findings  in
+            the 2018 UT decision, most of Kabul's population is poor, lives
+            in inadequate housing with inadequate sanitation, lacks  access
+            to potable water, and struggles to earn  sufficient  income  to
+            sustain itself in a society without any safety net.
+
+
+68. Ms Fitzsimons asked me to note that these findings were  based  on  the
+    evidence as it stood in 2019. She points to the evidence of  Dr  Ayesha
+    Ahmad to submit that during the course of the past year the  impact  of
+    the Covid-19 pandemic has made a bad situation  for  IDPs  considerably
+    worse.  Before I consider Dr Ahmad's evidence  on  this  point,  it  is
+    appropriate that I comment generally on the evidence she has  given  in
+    her two reports, dated 4th December 2019 and the 4th January 2021.
+
+
+69. Dr Ahmad lectures at St  Georges,  and  at  the  Institute  for  Global
+    Health, both part of the University of London.    Her expertise  is  in
+    global health and she was, at the date  of  writing,  involved  in  two
+    projects examining  the  mental  health  sequalae  of  trauma,  with  a
+    particular focus on Afghanistan.  She has published numerous  articles,
+    edited books and is a contributor to The Lancet.    She  describes  her
+    areas of expertise as psychological trauma  and  mental  health  during
+    post-conflict, disability, gender-based violence,  gender  in  conflict
+    and extreme settings, mental health,  and  the  impact  of  culture  on
+    mental illness.   Insofar as Dr Ahmad's  reports  address  sociological
+    issues relating to mental health, and health generally, in Afghanistan,
+    I wholly accept her expertise. This is  her  area  of  study,  and  her
+    reports are well referenced; she has drawn on a wide variety of sources
+    and brought her own expertise to  bear  on  the  raw  data  to  provide
+    helpful analysis.
+
+70. What is less clear is why Dr Ahmad has been asked to comment on matters
+    such as the current security situation in Nangahar, and  whether  there
+    is a 'sufficiency of protection' provided by the state.  I do not doubt
+    that Dr Ahmad has a general familiarity with the security background to
+    her work, but she is not an expert on  these  matters,  as  her  report
+    illustrates: in  response  to  these  instructions  she  can  offer  no
+    meaningful contribution other than to cite other reports, all of  which
+    are available to the Tribunal, and in many cases already dealt with  in
+    the country guidance.   This is a case where the Appellant's solicitors
+    had, at the point that they instructed Dr Ahmad, already  obtained  two
+    country reports by Mr Foxley. Mr Foxley is, as the Secretary  of  State
+    has repeatedly accepted before this  Tribunal,  an  eminent  expert  on
+    security matters in Afghanistan. There was no point at all in asking Dr
+    Ahmad to re-cover this ground. She is not, and does not claim to be, an
+    expert on matters such as "the current risk to civilians in  Nangahar",
+    and  her  instructions  should  not  have  included  such  questions  -
+    particularly since, in the case of the most recent report,  that was  a
+    matter already settled by the findings of the  First-tier  Tribunal.  I
+    make no criticism of Dr Ahmad for attempting to set her work in context
+    by answering the questions put to her, but those instructing  Dr  Ahmad
+    may wish to reflect on the utility of obtaining, and paying  for,  such
+    extraneous evidence.
+
+
+71. I return to Dr Ahmad's work on healthcare below, but in the context  of
+    the humanitarian situation generally I note her January  2021  evidence
+    that the significant challenges and  obstacles  already  faced  by  the
+    population have been magnified by the pandemic.  She reports  that  the
+    Assessment Capabilities Project Taskforce estimate that over the winter
+    of 2020-21 there will be a significant increase in the number of people
+    facing 'crisis' or 'high' levels of food insecurity in Afghanistan,  up
+    from 11.1 million to 13.1 million.  The risk of humanitarian crisis  is
+    very high with Afghanistan scoring 8/10 on the  INFORM  risk  scale[4].
+    I accept that the effects of the pandemic, bad everywhere,  are  likely
+    to be severe in a country such  as  Afghanistan,  and  that  this  will
+    necessarily exacerbate the socio-economic challenges already  found  to
+    exist at the time of AS.
+
+72. As to the ability of individual returnees to  survive  economically  in
+    such challenging circumstances, the Tribunal in AS found that family or
+    other  social  networks  are  an  important  advantage,  but  are   not
+    essential. A lone male may be able, in time, to build his own  network.
+    At [�229] the Tribunal further noted: "even a person who is  unable  to
+    form any such connections, and who must survive without the benefit  of
+    a network, will ordinarily be able to find inexpensive accommodation in
+    a 'chai khana' and (depending on physical abilities, health  and  other
+    individual characteristics) be able work  as  a  day  labourer  in  the
+    informal labour market in Kabul".  The reality of  a  'chai  khana'  is
+    described as involving "sharing a (dirty and unlocked) room and washing
+    facilities- and would lack privacy"; having regard  to  the  conditions
+    generally in Kabul the Tribunal  found  that  for  a  single  man  such
+    readily  available  and  cheap   accommodation   would   be   adequate.
+    Returnees are on arrival provided with sufficient funds - approximately
+    �125 - to pay for a few weeks of such accommodation.
+
+73. In  respect  of  the  attitude  of  the  population  generally  towards
+    returnees the Tribunal in AS was  referred  to  a  German  study  which
+    concluded that they can face violence  and  hostility.  At  [�246]  the
+    Tribunal accepted that "some people in  Kabul  are  suspicious  of  and
+    hostile towards returnees. However, the evidence before us,  considered
+    together and  as  a  whole,  points  to  returnees  facing  challenging
+    circumstances not because they have returned from the west  (risk  from
+    westernisation was categorically rejected in the 2018 UT  decision  (at
+    para. 187) and this finding was not appealed), but primarily because of
+    poverty,  lack  of  accommodation  and  the   absence   of   employment
+    opportunities, as well as the security situation.
+
+74. I now turn to the evidence on mental health. In its 2018 decision in AS
+    (Safety of Kabul) Afghanistan CG [2018] UKUT  118  (IAC)  the  Tribunal
+    made the following undisturbed finding:
+
+          142.  In terms of mental  health  care,  the  same  EASO  Report
+         recorded very high levels of mental health problems in  Afghanistan
+         (particularly depression, anxiety and  PTSD)  creating  significant
+         needs  but  that  there  was  a  lack  of   trained   professionals
+         (psychiatrists, social workers, psychologists)  and  an  inadequate
+         infrastructure.  Although the Public Health Minister reported  that
+         psychological services were available at some 1,500 health  centres
+         around the country with 300 dedicated mental health clinics;  there
+         was only one dedicated mental health hospital in Kabul  and  Samual
+         Hall's study in 2016 referred to there  being  only  three  trained
+         psychiatrists and ten psychologists in the whole of Afghanistan.
+
+
+75. To that bleak picture Dr Ahmad adds that mental  health  provision  has
+    suffered disproportionately because of  the  poor  security  situation.
+    Targeted attacks against healthcare facilities "are  a  further  reason
+    why mental  health  fails  to  be  prioritized  because  accessing  any
+    healthcare treatment has to be balanced against the risk of  travelling
+    and attending to treatment clinics".  In June  2019  the  World  Health
+    Organisation published statistics to the effect that 1 in 5  people  in
+    post-conflict settings are suffering from  "depression,  anxiety,  post
+    traumatic stress disorder, bipolar  disorder  or  schizophrenia":  this
+    needs to be contrasted with the figure  of  1  in  14  for  the  global
+    population at large.   This is the context in which the lack of  mental
+    health provision in Afghanistan needs to be seen: 40 years of  conflict
+    has left behind a "mental health epidemic".
+
+
+76. That prevalence notwithstanding, the literature review conducted by  Dr
+    Ahmad demonstrates that mental health issues continue to be stigmatized
+    and misunderstood. In the absence  of  formal  or  effective  treatment
+    Afghanis tend to characterise mental distress  either  in  non-clinical
+    terms - just being 'sad' -  or,  as  the  possession  of  the  body  by
+    malevolent  spirits.    A  2016  study  (Ahmad  and  Dein)  found   the
+    stigmatisation of poor mental health in  Afghanistan  arises  from  the
+    individual being perceived as having a weak faith, or having  committed
+    a morally wrongful act, such a spiritual deficiency allowing  the  jinn
+    to take over.  Once an individual is perceived to be so possessed -  to
+    be in a state of peryan - the obvious solution is  simply  to  turn  to
+    prayer. Dr Ahmad reports on the harrowing  practice  of  the  seriously
+    mentally ill being chained in shrines for 40 days, the length  of  time
+    considered to be required for a person to heal  from  jinn  possession.
+    During such confinement they are provided with  a  particular  diet  of
+    bread, water and black pepper, which must be eaten near to the grave of
+    a saint  or  pir.   Efforts  by  the  Afghan  government  to  implement
+    'western' style mental health treatments  such  as  talking  therapies,
+    have been stymied  by  such  beliefs:  talking  openly  about  personal
+    matters in counselling is not considered culturally  appropriate.  That
+    these attitudes are widely held, Dr Ahmad writes,  is  one  reason  why
+    services  continue  to  be  so  lacking  and  under-prioritized:    WHO
+    reported in 2019 that care providers in both the  formal  and  informal
+    sectors found themselves subject to stigma and human rights  violations
+    because they undertake that work.  Dr Ahmad cites a 2017 academic study
+    (Wildt et al) to summarise the situation on the ground:
+
+
+         "primary care physicians and primary health care workers often have
+         little or no training in mental health, may  not  recognise  mental
+         disorders, have limited access to psychiatric  medicine,  and  have
+         few outside mental health agencies to whom they can refer".
+
+
+77. Against that background I consider the personal characteristics of  the
+    Appellant.
+
+78. The Appellant grew up speaking Pushto  and  has  by  his  own  evidence
+    continued to speak that  language  with  friends,  and  family  members
+    living in the United Kingdom. Although he says that he  has  lost  some
+    proficiency in it, I agree with Mr Lindsay that this is something  that
+    he could remedy within a short time after arriving back in the country.
+
+79. He is physically healthy and told me frankly that he would be able  and
+    willing to undertake construction work were it available.
+
+80. I accept that on the evidence before me there is no indication  at  all
+    that the Appellant has any connection to Kabul. He has never been there
+    and has no family there. Nor, on my own  findings,  does  he  have  any
+    immediate family to whom he could turn in his home province.   Even  if
+    he has more distant relatives  living  somewhere  in  the  country,  it
+    appears doubtful, given the level of extreme  poverty  in  Afghanistan,
+    that they would be willing  or  able  to  offer  financial  support  to
+    someone who has just come back from the West, after the family spent  a
+    considerable amount of money getting him out. That would simply be good
+    money after bad.  I note in this regard that Dr  Ahmad  cites  academic
+    research indicating  that  there  is  significant  stigma  attached  to
+    'failed migration'.  He would however receive  �125  on  arrival  which
+    would provide a short-term cushion, and Mrs  Din  acknowledged  in  her
+    evidence that she would help in some way if she could.
+
+
+81. Applying the country guidance I have  rejected  'westernisation'  as  a
+    risk factor, but I accept that its flip side - a  lack  of  familiarity
+    with Afghan culture and norms - is relevant to the 'reasonableness'  of
+    internal relocation.  It is perhaps  self-evident  that  the  practical
+    challenges set out above - work, food, accommodation,  creating  social
+    networks - would all be  far  easier  to  navigate  for  an  individual
+    familiar with those norms. Mr Lindsay placed great emphasis on the fact
+    that the Appellant lived in Afghanistan until he was 12,  and  that  he
+    has not been entirely divorced from Afghan culture since his arrival in
+    the United Kingdom,  having  had  contact,  if  sporadic,  with  family
+    members here.  The  Appellant  confesses  that  he  no  longer  regards
+    himself as  a  practising  Muslim.  He  describes  his  own  lifestyle,
+    behaviour and values as being 'Western'. He no longer  fasts  or  prays
+    regularly - when he does it is out of respect for Mrs Din, who is  very
+    traditional and devout.
+
+82. I have taken those matters into account.  I  find  that  the  Appellant
+    would not be a fish completely out of the water in Kabul. He knows  how
+    to pray,  and  how  to  behave  as  if  he  is  observant.  As  he  has
+    demonstrated in his behaviour under Mrs Din's roof, he is  prepared  to
+    do that in order to comply with social expectations. He speaks  Pushto,
+    and will, I accept, have retained  some  understanding  of  how  people
+    carry themselves, and behave, in Afghan society.  That said, I consider
+    it likely that it would be evident to any close observer  that  he  was
+    not a native Kabuli. Experience of life as a boy in a village does  not
+    necessarily equate to life as a man in the city. This will mark him out
+    as different.  Dr Ahmad also  emphasises  that  the  relevance  of  the
+    Appellant's decade long absence from Afghanistan is  not  just  in  how
+    others perceive him, but in how he is  likely  to  feel  himself.   She
+    cites research documenting how  those  returned  to  Afghanistan  after
+    migrating as children experience common difficulties in "reconnecting".
+
+83. In his statement the  Appellant  states  that  he  is  very  afraid  of
+    returning to Afghanistan. Having accepted that his parents were  killed
+    in the manner he describes, I have no reason to doubt that that is  the
+    case.   Dr Ahmad writes that current academic  literature  has  shifted
+    from previous narrow definitions of conflict  related  stressors  (such
+    as, as I understand her, trauma arising from  a  particular  event)  to
+    understanding the impact on mental health as a "continued process",  in
+    which  stressful  social  and  material  conditions  will  continue  to
+    contribute to mental distress.  As Dr Ahmad puts it, the Appellant will
+    bear the "dual burden of reintegration plus war exposure".  He  further
+    lives with the psychological consequences of "migratory stressors":  in
+    his case such stressors have included not just the  long,  arduous  and
+    dangerous journey he made as a child, but the period of insecurity  and
+    instability he has experienced in the years  he  has  spent  trying  to
+    regularise his position in the United Kingdom.
+
+84. It is against this evidential background that  I  assess  Mr  Lindsay's
+    submission that  the  Appellant  was  exaggerating  his  mental  health
+    issues. I have already rejected the suggestion that he is feigning them
+    entirely. For the reasons I set out  above  [�44]  common  sense  would
+    dictate that a young child dislocated from his family and  tasked  with
+    making a 6000km journey by land and sea would  likely  to  suffer  some
+    psychological consequences. What  Dr  Ahmad  refers  to  as  "migratory
+    stressors" must also be taken into account. Mr Lindsay's submission  is
+    that the conclusions  of  Dr  Galathappie  and  Dr  Thomas  are  to  be
+    contrasted with the  evidence  of  Mrs  Din  that  as  a  teenager  the
+    Appellant reported that he was "in heaven" living in her home, and that
+    he did not apparently seek help from  his  GP  for  any  mental  health
+    concerns until approximately 2018.
+
+85. I have given careful consideration to those submissions, and I have re-
+    read the medico-legal reports before  me  in  the  context  of  the  GP
+    records, and the evidence of Mrs Din.
+
+86. The evidence of Mrs Din was - I return to this below in greater  detail
+    - wholly credible and compelling. The Appellant came to live  with  Mrs
+    Din and her husband in 2012. As registered foster carers he was not the
+    first Afghan boy they had looked after: although  Mrs  Din  is  herself
+    from East Africa, her late husband was from Peshawar and spoke  Pushto.
+    They had therefore considerable experience in  looking  after  troubled
+    boys, and in making them feel secure. The Appellant immediately  bonded
+    with Mr and Mrs Din. He was extremely happy in their home and no doubt,
+    relieved to have found some measure of security. Mrs Din describes  him
+    as being "kind and content", and in her oral evidence proudly  recalled
+    him telling a visiting social worker that he felt he had come  to  live
+    "in heaven" in their house.  Unfortunately, Mr Din died  very  suddenly
+    in 2013. Mrs Din described this as a "terrible blow"  to  her  and  the
+    Appellant.  Presumably because she did not have Pushto, social services
+    subsequently tried to remove the Appellant from her care - a move  that
+    she and the Appellant  fiercely  resisted.  The  Appellant  desperately
+    wanted to remain with her and they fought the proposed  transfer  until
+    they won out.   During this period the  Appellant  had  an  outstanding
+    application with the Home Office for further leave to  remain.  It  was
+    when that was refused in 2015 that Mrs Din really started to notice the
+    Appellant exhibiting signs of depression.  He eventually went to the GP
+    in 2018 upon her insistence.
+
+
+87. So, in the period closest to his childhood trauma the Appellant appears
+    contented and happy, and it is only later, when faced with the prospect
+    of removal from the United Kingdom, that the Appellant begins  to  show
+    symptoms of depression. It is possible, as Mr  Lindsay  suggests,  that
+    the visit to the GP in 2018 was part of a strategy on the part  of  the
+    Appellant to create the evidence necessary to prevent  his  removal,  a
+    strategy that has culminated in him giving fabricated evidence  to  Drs
+    Galathappie and Thomas. It is possible. But  I  do  not  regard  it  as
+    likely.   It seems to me that  there  is  nothing  remarkable  about  a
+    traumatised child appearing happy because he has  found  a  secure  and
+    loving home, nor in that child facing the sequalae of his trauma  later
+    in life, when challenge piles upon challenge. Nor is there anything out
+    of the ordinary in there being a delay between the onset  of  symptoms,
+    as described by Mrs Din, and the Appellant seeking  help.   I  conclude
+    that Mr Lindsay is correct to describe this evidence as  contradictory:
+    in other words, it's just like real life.
+
+88. For reasons I have already set out  above,  I  am  satisfied  that  the
+    conclusions reached by  Dr  Galathappie  and  Dr  Thomas  are  entirely
+    consistent with the sad and troubled life history of the Appellant.  He
+    has lost his parents in a brutal murder, been  trafficked  across  Asia
+    and Europe, become dislocated from the few family  members  he  has  in
+    this country, suffered the sudden loss of Mr Din, had to fight  removal
+    from Mrs Din's home, and has ever since had the threat of removal  from
+    the  United  Kingdom  hanging  over  his  head.     Both  doctors  have
+    considered, and discounted,  the  possibility  that  the  Appellant  is
+    feigning his reported symptoms which include recurrent and  distressing
+    memories, flashbacks, fearfulness, auditory hallucination, feeling that
+    the room around him is spinning, tension, feeling 'jumpy', being unable
+    to eat or sleep properly. He shakes and sweats when  he  feels  anxious
+    and has experienced heart palpitations. All of that is consistent  with
+    what is recorded by the GP, and the Brent mental care team to whom  the
+    Appellant was referred.  Mrs  Din,  the  person  best  placed  to  have
+    observed the Appellant over a long period of time, has credibly told me
+    about how withdrawn and listless he is, and how worried  she  is  about
+    him. He is demonstrably, and visibly, suffering from mental ill health.
+
+
+
+
+89. The formal conclusion of Consultant Psychiatrist Dr Galathappie,  which
+    I accept, is that the Appellant is suffering  from  severe  depression,
+    severe generalised anxiety disorder and PTSD.  He  requires  continuing
+    medication (he is already on Mirtazapine), psychological  therapy,  and
+    crucially, stability in order to recover. In Dr  Galathappie's  opinion
+    the ongoing uncertainty over the Appellant's status here is  having  an
+    adverse impact on his mental health, and  the  efficacy  of  treatments
+    that he is being offered.  If he is permitted to remain in  the  United
+    Kingdom, and continues to access treatment,  Dr  Galathappie  considers
+    that the Appellant could make a meaningful recovery (although he  notes
+    that the extent of the Appellant's difficulties  mean  that  this  will
+    likely take several years).  Should  he  be  removed  from  the  United
+    Kingdom,  and  from  his  support  networks  including  Mrs   Din,   Dr
+    Galathappie writes that this will:
+
+          "...significantly worsen his mental  health.  In  my  opinion  his
+         mental health is likely to deteriorate if returned  to  Afghanistan
+         and  he  is  likely  to  find   being   returned   to   Afghanistan
+         traumatising.  His  depression  would  impair  his  problem-solving
+         skills and lower his self-confidence. His anxiety  and  PTSD  would
+         make him anxious and fearful such that he would lack the confidence
+         and ability to trust others and would  therefore  not  be  able  to
+         build supportive networks within Afghanistan with family, community
+         members or professionals".
+
+90. Drawing all of this together I conclude as follows. The  Tribunal  held
+    in AS that it is not in general unreasonable to expect a  single  adult
+    male in good health to settle in Kabul.  The Appellant is not  such  an
+    individual. His life experiences thus far have left him  in  very  poor
+    mental health. He is currently living with a kind and  supportive  lady
+    whom he loves and trusts, but he is still very unwell. He  has  a  roof
+    over his head and medical treatment for his conditions, but he is still
+    very unwell.    It is perhaps self-evident - and this is  the  view  of
+    both Dr Thomas and Dr  Galathappie  -  that  should  that  security  be
+    removed, the Appellant's condition will significantly deteriorate.
+
+
+91. What that means on the ground in Kabul is easy to  see.  The  Appellant
+    will on arrival have to go to a 'chai khana' where he will be  required
+    to share a dirty and unlocked room and washing facilities. His lack  of
+    familiarity about life in Kabul, his nightmares and anxiety  will  mark
+    him out to fellow residents. The stigma attached to mental  health,  to
+    'failed migration' and the societal hostility  towards  returnees  will
+    make it very hard to make friends, to build  a  network.  This  coupled
+    with his terror of return, the sudden dislocation  from  Mrs  Din,  and
+    from the country that he has grown  up  in,  is  likely  to  drive  the
+    Appellant into a downward spiral.  He may, on a good day,  be  able  to
+    find some labouring work. Mrs Din might be able to send him  a  bit  of
+    cash where she can. But the reality is that the Appellant's  life  will
+    be far from normal. It will in the  short  term  be  lonely,  isolated,
+    deeply distressing and wretched.  In the longer  term  it  is  unlikely
+    that the Appellant will be able to access any effective  treatment  for
+    his mental illnesses, and I find it unlikely that he will  be  able  to
+    build for himself a meaningful  private  or  family  life.  On  a  more
+    practical level the Appellant knows nothing about Kabul, about  places,
+    areas or people to avoid. His behaviour and  isolation  will  make  him
+    easy prey to criminals.  Although I accept that the  bar  for  what  is
+    'normal' in Kabul is set fairly low - insecurity, poor  sanitation  and
+    unremittingly dire poverty have all been held to be quite  'reasonable'
+    -  the  Appellant's  particular  characteristics  are  such  that   his
+    suffering is likely to be far worse than that  endured  by  most  other
+    residents of the city. Taking into account all of the  factors  I  have
+    set out above, I find that it would  be  unduly  harsh  to  expect  the
+    Appellant to avoid the violence in Nangahar by relocating to Kabul.
+
+
+92. The appeal is therefore allowed on protection (humanitarian protection)
+    grounds.
+
+
+    Article 8
+
+93. Given my findings above I can here be brief.
+
+
+94. My starting point  is  the  Immigration  Rules.  Paragraph  276ADE  (1)
+    provides that leave to remain will be granted on private  life  grounds
+    where the claimant can demonstrate that one or more of four alternative
+    criteria are met:
+
+         276ADE (1). The requirements to be met by an applicant for leave to
+         remain on the grounds of private life in the UK are that at the
+         date of application, the applicant:
+
+
+         (i) does not fall for refusal under any of the grounds in Section S-
+         LTR 1.1 to S-LTR 2.2. and S-LTR.3.1. to S-LTR.4.5. in Appendix FM;
+         and
+         (ii) has made a valid application for leave to remain on the
+         grounds of private life in the UK; and
+         (iii) has lived continuously in the UK for at least 20 years
+         (discounting any period of imprisonment); or
+         (iv) is under the age of 18 years and has lived continuously in the
+         UK for at least 7 years (discounting any period of imprisonment)
+         and it would not be reasonable to expect the applicant to leave the
+         UK; or
+         (v) is aged 18 years or above and under 25 years and has spent at
+         least half of his life living continuously in the UK (discounting
+         any period of imprisonment); or
+         (vi) subject to sub-paragraph (2), is aged 18 years or above, has
+         lived continuously in the UK for less than 20 years (discounting
+         any period of imprisonment) but there would be very significant
+         obstacles to the applicant's integration into the country to which
+         he would have to go if required to leave the UK.
+
+95. The Appellant cannot qualify under sub-paragraph (iii) because  he  has
+    not lived here for 20 years.  He  has  never  been  able  to  meet  the
+    requirements at (iv) because he is today over the age of 18 and reached
+    that point  shortly  before  he  had  accrued  seven  years  continuous
+    residence.   There is similar 'near miss' in  respect  of  (v)  because
+    although the Appellant has, on a rough calculus, spent  half  his  life
+    here, under the exacting terms of the rule he will not  in  fact  reach
+    that point until a few weeks after  his  25th  birthday.   That  leaves
+    (vi). The test of "very  significant  obstacles"  is  a  high  one.  It
+    requires the claimant to demonstrate not just that he  faces  practical
+    difficulties in re-establishing himself in his country  of  origin  but
+    that there are there obstacles to him in time  rebuilding  the  private
+    life that he has lost in the United Kingdom. For the reasons I have set
+    out above, in my consideration of internal flight, I find that  on  the
+    particular facts here that high test is met.  The appeal  is  therefore
+    allowed on Article 8 (private life) grounds.
+96. I wish to add this. Mrs Din told me that she came to  this  country  in
+    the 1970s as part of the exodus of persons of South Asian descent  from
+    East Africa.  She met and married her Pakistani husband and they had  a
+    very happy marriage but never had children of their own. Although  they
+    both worked full time - Mrs  Din  continues  to  do  so  as  a  science
+    technician in a school - they decided to open their  home  to  children
+    who needed it, and to take on the very challenging  task  of  providing
+    those troubled young people with  support  and  stability.    Over  the
+    years they  fostered  a  great  number  of  children,  including  other
+    unaccompanied minors seeking protection.   In her evidence she movingly
+    described how devastated she and the Appellant were at the loss of  her
+    husband, and how she and the Appellant came to lean on each  other  for
+    support:
+
+
+         "[The Appellant] is very helpful to me around the house.  He  helps
+         with the shopping, cleaning, cooking  etc.  He  has  been  my  only
+         family since my husband passed away in 2013. He has been  the  only
+         consistent person in my life  since  I  lost  my  husband...I  have
+         family but they are busy with their  own  lives.  I  consider  [the
+         Appellant] to be my immediate family member. Sometimes  people  ask
+         me how I cope without my husband as I do not have  children  of  my
+         own, but I always say that I have my foster children. I  have  [the
+         Appellant]. Without [the Appellant] my life would be very different
+         and lonely. I have meaning in my life when  he  is  around.  He  is
+         there when I come home from work. He is  someone  to  talk  to,  to
+         share stories with, to have dinner with. Fostering means a  lot  to
+         me. My husband died of cancer, but I  have  heard  that  loneliness
+         kills people more than cancer. Without  [the  Appellant],  my  life
+         would be very lonely".
+
+
+97. From the Appellant's  perspective  the  relationship  is  described  in
+    similarly warm terms. Having explained in detail how he avoids  hurting
+    her feelings by shielding her from behaviour that she might  regard  as
+    'un-Islamic' the Appellant says this:
+
+
+         "She is like a mother to  me.  I  call  her  'auntie'  and  I  have
+         continued to live with her since 2012 even though I have become  an
+         adult. She is always there for me and supports and  encourages  me.
+         She knows when I am feeling down and depressed and will always help
+         keep my spirits up - just like a mother would do.... My auntie  has
+         provided a loving and happy home to me all these years, and I  will
+         always be grateful to her. She lost her husband,  and  this  was  a
+         difficult time for her, but we supported each other like a  family.
+         She treats me as her son..."
+
+
+98. Judge  Bennett  did  not  apparently  give  any  consideration  to  the
+    possibility that what the Appellant shared with Mrs Din might be called
+    'family life'. On the evidence before me I am quite satisfied that this
+    is what it is. The Appellant might now be an adult but he continues  to
+    live in a house with this woman who has cared for him since  he  was  a
+    child, and I am wholly satisfied that they were both telling the  truth
+    about their relationship.  They have both suffered  terrible  loss  but
+    found support and solace in  each  other.   I  am  satisfied  that  the
+    refusal to grant the Appellant any further leave, a decision  with  the
+    consequence that he is required to leave the United Kingdom, will be an
+    interference with that family life.
+
+
+99. Whilst I am satisfied  that  the  decision  is  in  law  one  that  the
+    Secretary of State is empowered to take, I must consider whether it  is
+    in all the circumstances proportionate.
+
+100. I have taken account of the public  interest  as  it  is  expressed  at
+    s117B of Nationality, Immigration and Asylum Act 2002.
+
+101. The maintenance of immigration control is in the  public  interest.   I
+    note in this regard that the Appellant has not have leave to remain  in
+    this country for a number of years, and that his status has always been
+    precarious: these are matters that weigh against  him    I  also  note,
+    however, that the account which I have today accepted would likely,  if
+    accepted back in 2009, have resulted in the Appellant then being placed
+    on a path to settlement by a grant of refugee status.
+
+102. It is in the public interest that those  who  wish  to  settle  in  the
+    United Kingdom speak English. The Appellant does speak English.
+
+103. It is in the public interest that those  who  wish  to  settle  in  the
+    United Kingdom are  financially  independent.  Although  there  was  no
+    evidence before me to indicate that the  Appellant  is  in  receipt  of
+    public funds, I find that he is not financially independent.   This  is
+    therefore a matter that weighs against him.
+
+104. In the context of this exercise I exclude my own findings under  276ADE
+    (1)  and  acknowledge  that  the  Appellant's  private  life  has  been
+    established when his status has been precarious.
+
+105. In the Appellant's favour weighs the  following  factors.  He  came  to
+    this country as a young child seeking protection.  I  am  satisfied  in
+    retrospect that had his account been accepted  at  the  time,  that  he
+    would have been granted refugee status, but even if I  am  wrong  about
+    that, the point is that his journey here was for a lawful purpose under
+    international law.   He is a former child migrant who is suffering from
+    serious mental health issues, who has grown up  here  and  regards  the
+    United Kingdom as his home.  The consequences for  him  of  dislocation
+    from this country, and for Mrs Din, would be tragic and severe.
+
+106. The family life that he shares with Mrs Din means  a  lot  to  both  of
+    them. I accept her evidence that her life without the  Appellant  would
+    be "very different and lonely" and find that she would be devastated if
+    he were to leave the United Kingdom. Having  come  here  herself  as  a
+    young woman (in a situation of forced migration)  Mrs  Din  has  worked
+    hard to 'give back' to this country. She has been  employed  over  many
+    years in a state school and told me how much she enjoys that work.  She
+    has moreover done what many, if  not  all,  members  of  society  would
+    regard as something incredible. She has opened her home to children  in
+    the care system, children who are by definition those who  others  have
+    let down, and who are left with the physical and mental trauma of those
+    failures.  Although with her pleasant nature Mrs Din betrayed  none  of
+    this, it cannot always have been easy. She and her  husband  must  have
+    encountered  some  tough  and  challenging  situations.  Now  that  her
+    fostering days are over, the legacy of that work is her warm and loving
+    relationship with the Appellant, who she looks forward to  coming  home
+    to at the end of the working day. After all these  years  it  does  not
+    seem to me that it  can  today  be  rationally  said  that  the  public
+    interest requires an interference with this family  life.    It  rather
+    seems to me that society in general would wish to recognise the debt of
+    gratitude that we owe to Mrs Din, (and others  like  her).   For  those
+    reasons I would, in the alternative, allow this  appeal  on  Article  8
+    (family life) grounds.
+
+
+    Anonymity Order
+
+
+107. The Appellant is entitled to protection. Having had regard to  Rule  14
+    of  the  Tribunal  Procedure  (Upper  Tribunal)  Rules  2008  and   the
+    Presidential Guidance Note No 1 of 2013: Anonymity Orders  I  therefore
+    consider it appropriate to make an order in the following terms:
+
+
+        "Unless and until  a  tribunal  or  court  directs  otherwise,  the
+        Appellant is granted anonymity.  No  report  of  these  proceedings
+        shall directly or indirectly identify him.  This direction  applies
+        to, amongst others, both the Appellant and the Respondent.  Failure
+        to comply with this direction  could  lead  to  contempt  of  court
+        proceedings"
+
+
+
+    Decision and Directions
+
+
+108. The appeal is dismissed on protection (Refugee Convention) grounds.
+
+
+109. The appeal is allowed on protection (humanitarian protection) grounds.
+
+110. The appeal is allowed on human rights (Article 8) grounds.
+
+111. There is an order for anonymity.
+
+
+
+
+                                                  Upper Tribunal Judge Bruce
+
+                               13th February 2021
+
+
+                       APPENDIX A: ERROR OF LAW DECISION
+
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number: PA/10984/2019
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard on: 15th September 2020                 |Decision Promulgated         |
+|At: Civil Justice Centre (remote hearing)     |                             |
+|                                              |.............................|
+|                                              |..........                   |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE BRUCE
+
+
+                                   Between
+
+                                     FH
+                         (anonymity direction made)
+                                                                   Appellant
+                                     and
+
+
+                 Secretary of State for the Home Department
+                                                                  Respondent
+
+
+For the Appellant:     Ms Fitzsimons, Counsel instructed by Duncan Lewis &
+                       Co Solicitors
+For the Respondent:    Mr McVeety, Senior Home Office Presenting Officer
+
+
+                           'ERROR OF LAW' DECISION
+                             DECISION TO ADJOURN
+
+   1. The Appellant is a national of Afghanistan born in  1997.  He  appeals
+      with permission against the decision of the First-tier Tribunal (Judge
+      N. Minhas) to dismiss  his  appeal  on  protection  and  human  rights
+      grounds.
+
+
+ 2. The short history of this appeal is as follows. The  Appellant  arrived
+    in the United Kingdom in 2009 when he  was  12  years  old.  He  sought
+    international protection and although this was refused he  was  between
+    2010 and 2016 granted Discretionary Leave. As he reached adulthood  the
+    Respondent decided that his circumstances had changed and  that  he  no
+    longer required leave to remain in the United  Kingdom.  The  Appellant
+    made a 'fresh claim' for asylum and leave on human rights grounds,  and
+    following a successfully judicial review the matter  came  back  before
+    the First-tier Tribunal in  the  shape  of  a  protection/human  rights
+    appeal.
+
+ 3.  Before  the  First-tier  Tribunal  there  were  three  limbs  to   the
+    Appellant's case:
+
+              i) Notwithstanding the conclusions reached to the contrary  by
+                 the First-tier Tribunal in 2016 (First-tier Tribunal  Judge
+                 Bennett), he was entitled to protection as  a  refugee.  He
+                 has a well-founded fear of persecution for reasons  of  his
+                 membership of a particular social group, namely a member of
+                 his own family. The Appellant asserts that his parents were
+                 killed in 2008 and that he would be at risk from  the  same
+                 people who killed them.  In the alternative:
+
+
+             ii) He could not be expected to return  to  his  home  area  of
+                 Nangahar, because the  security  situation  was  such  that
+                 simply by virtue of his presence there he would be at  risk
+                 of indiscriminate violence. Accordingly he  submitted  that
+                 Article  15(c)  of  the  Qualification   Directive[5]   was
+                 engaged.   Further he submitted that protection  could  not
+                 be withheld with reference to Article 8 of the QD, since it
+                 would, having regard to his  personal  characteristics  and
+                 the many years that he has been absent from Afghanistan, be
+                 unreasonable to  expect  him  to  live  elsewhere  in  that
+                 country. Further and in the alternative:
+
+
+            iii) His removal from the United Kingdom today would amount to a
+                 disproportionate interference with the private life that he
+                 has established here in the past  twelve  years  and  so  a
+                 breach of  Article  8  ECHR.  That  this  is  so  could  be
+                 illustrated  inter  alia  with   reference   to   paragraph
+                 276ADE(1) of the Immigration Rules which stipulates that he
+                 should be granted leave  if  there  are  "very  significant
+                 obstacles to his integration" in Afghanistan.
+
+ 4. The Tribunal found against him on all three limbs and  the  appeal  was
+    dismissed.  Permission to appeal was sought and granted  by  First-tier
+    Tribunal Judge Gumsley on the 6th February 2020.
+
+
+
+
+    Error of Law: Discussion and Findings
+
+
+ 5. Mark Twain famously said that it takes a long time  to  write  a  short
+    letter but the same principle does not apply to grounds of appeal.   As
+    became apparent at the hearing before me the  8  grounds  committed  to
+    writing by Ms Fitzsimons (in pleadings as long as the decision  itself)
+    were completely unnecessary and in fact boiled down to just  3  points.
+    It is almost invariably the case that  errors  of  the  magnitude  that
+    warrant interference by this Tribunal  can  be  stated  succinctly.  By
+    contrast very lengthy argument in the  grounds  gives  the  unfortunate
+    impression that there is not really any error  at  all,  and  that  the
+    writer is simply disagreeing with the outcome of the appeal.
+
+
+ 6. As it happens that is not the case here. The decision of the First-tier
+    Tribunal is flawed for error of law in respect  of  all  three  of  the
+    limbs of the Appellant's claim.
+
+
+    The Asylum Claim: Credibility
+
+ 7. In respect of the Appellant's asylum claim the  Judge,  and  apparently
+    the Judge who preceded him in 2016[6],  draws  the  rather  astonishing
+    conclusion that this protection claim can be safely  dismissed  on  the
+    ground that the Appellant cannot clearly remember how long it took  him
+    to walk home on a day 12 years ago, when he was 12 years old and on his
+    account his parents had both just been shot dead. On  one  telling  the
+    Appellant thought it had taken him 15 minutes; in another he thought it
+    was 30 minutes.  I am satisfied that it  is  wholly  perverse  to  draw
+    adverse inference from such a discrepancy. A great  many  12  year-olds
+    would find it difficult to give an exact time for the length of a  walk
+    they did last week, never mind a  decade  ago  in  extremely  traumatic
+    circumstances. There is little wonder that  the  Appellant  is  unclear
+    about events that day.
+
+ 8. I am also satisfied that Judge Minhas erred  in  his  approach  to  the
+    evidence of a supporting witness, the Appellant's cousin. At  paragraph
+    17 of the decision the Judge says:
+
+
+         "I place little weight on the evidence of the  Appellant's  cousin,
+         he was already in the United Kingdom at the time of the Appellant's
+         parents' alleged killing and cannot provide reliable evidence as to
+         how the Appellant's parents died or who killed them".
+
+
+    I am satisfied that this reasoning is flawed for two reasons: a failure
+    of logic and a failure to take material evidence into account. It is no
+    doubt correct to say that this man could not say  who  had  killed  his
+    uncle and aunt, but that was not  why  he  was  being  called:  he  was
+    obviously able to speak to his belief that his uncle and  aunt  had  in
+    fact been killed in Nangahar in 2008 and absent  any  reason  to  doubt
+    that it was his genuinely held belief that they had, that was  evidence
+    which lent support to the Appellant's claim.
+
+ 9. It follows that I need not dwell  on  the  complaint  articulated  over
+    another 14 paragraphs of the grounds, namely that in its assessment the
+    Tribunal failed to have regard to the expert evidence of two additional
+    witnesses. The first was a  doctor  who  opined  that  the  Appellant's
+    memory of these  events  would  be  hazy.  The  second  was  a  country
+    background specialist who points out that an uneducated Afghan child is
+    unlikely to have a firm grasp of dates, and that in view  of  the  fact
+    that Nangahar was at all material  times  in  the  grip  of  a  Taliban
+    insurgency which cost the lives of many civilians,  there  was  nothing
+    implausible in the  account  given.   I  intend  no  criticism  of  the
+    Appellant's representatives, who have obviously  prepared  this  appeal
+    with great diligence and have sought to ensure that  the  Tribunal  had
+    before it the best  evidence  possible,   and  I  certainly  intend  no
+    respect to the experts concerned, but this evidence  simply  served  to
+    confirm what should have been obvious to any reasonable decision maker.
+       It is with that in mind that I accept that it was an  error  of  law
+    for the First-tier Tribunal to fail to weigh these  expert  reports  in
+    the balance when  assessing  the  credibility  of  the  claim,  and  in
+    particular, applying the Devaseelan principles[7],  whether  there  was
+    reason to depart from the findings of Judge Bennett.
+
+
+10. Mr McVeety submitted that notwithstanding any error in the approach  to
+    credibility a real risk could not, after so long, be made out: even  if
+    the historical  narrative  is  accepted  the  Appellant  is  unable  to
+    articulate who he is afraid of  and  why.  In  the  final  analysis  Mr
+    McVeety's  submission  may  be  proved  correct.  It  is  however   not
+    satisfactory for a risk assessment to be built  on  shaky  foundations,
+    and even if a current risk is not proven, the question of what happened
+    to this Appellant's family remains relevant to the question of internal
+    relocation, to which I now turn.
+
+
+    Humanitarian Protection: Internal Flight
+
+
+11. The First-tier Tribunal  accepted  that  the  Appellant  could  not  be
+    returned to Nangahar because  there  exists  there  an  internal  armed
+    conflict such  that  he  would  face  a  real  risk  of  indiscriminate
+    violence. Although the Presenting Officer did not concede  that  to  be
+    so, the First-tier Tribunal properly had  regard  to  the  Respondent's
+    published policy which made  that  very  concession:  Afghanistan  CPIN
+    Security and Humanitarian Situation July 2019.  Before  me  Mr  McVeety
+    agreed that this was the Respondent's position.
+
+
+12. The only matter left to  be  determined,  therefore,  was  whether  the
+    Appellant could reasonably be expected to relocate within Afghanistan.
+
+13. Mr McVeety accepted that the Tribunal did not expressly  direct  itself
+    to consider either of the acceptable  formulations  -  'reasonable'  or
+    'unduly harsh' -  to be applied in this context: Ms  Fitzsimons'  first
+    complaint.  He further accepted her second, namely that the  Tribunal's
+    conclusion that the Appellant would not be at risk of serious  harm  in
+    Kabul could not be determinative of the issue of internal  flight.   It
+    is also right to say, as articulated under the  heading  of  ground  1,
+    that the Tribunal appeared to view the Appellant's mental health issues
+    exclusively through the prism of Article 3 when  that  was  beside  the
+    point.   All of these  arguments  are  made  out.  In  the  context  of
+    internal flight  claimants are under no obligation to  show  that  they
+    would suffer serious harm in the area of relocation.  The  question  is
+    whether in all the circumstances, it is reasonable to  expect  them  to
+    live there. The Tribunal  failed  to  ask  itself  that  question,  and
+    perhaps for that reason failed  to  take  all  relevant  evidence  into
+    account. That evidence included the extensive medical  opinion  offered
+    on the Appellant's precarious mental health. In this country  he  feels
+    stable, safe and supported. He has mental health professionals to  whom
+    he can turn; family members and indeed his former  foster  carer  rally
+    around him.  He has a private life in the true sense of the term  under
+    the Convention: he enjoys meaningful  relationships  with  other  human
+    beings.  In Kabul, it is submitted, he will have none of that.  He may,
+    as the First-tier Tribunal finds, be able to eat, and (even  though  he
+    has absolutely no life experience  of  value  in  that  country)  could
+    conceivably hustle his way into receiving some form  of  mental  health
+    support, but those matters are not the only relevant considerations. It
+    was incumbent on the Tribunal to consider whether there was a real risk
+    that this very vulnerable young  man  would  not  be  able  to  lead  a
+    "relatively normal life" if returned to Kabul. That it did not do,  and
+    so its reasoning on internal flight must  be  set  aside  for,  amongst
+    other things,  misdirection.
+
+
+    Private Life: Very Significant Obstacles
+
+
+14. As I have already alluded to at my �12 above, in this  case  there  was
+    considerable  overlap  between  the  Article  8  considerations   under
+    paragraph 276ADE(1)(vi) of the Rules and the internal flight  analysis.
+    As above, I am satisfied that in its  assessment  of  this  matter  the
+    Tribunal erred.  I further find that in its assessment of private  life
+    'outside of the rules' the Tribunal manifestly failed to  have  regard,
+    at all, to the 11 years that the Appellant has spent in  this  country.
+    Its consideration of this  aspect  of  the  claim  is  confined  to  an
+    iteration of the public interest as  expressed  at  s117B  Nationality,
+    Immigration and Asylum Act 2002.   That was an important  part  of  its
+    assessment,  but  to  only  weigh  one  side  of  the  scale   in   the
+    proportionality balancing exercise was a serious error.
+
+
+
+
+    Anonymity Order
+
+
+15. The Appellant seeks international protection. Having had regard to Rule
+    14 of the Tribunal  Procedure  (Upper  Tribunal)  Rules  2008  and  the
+    Presidential Guidance Note No 1 of 2013: Anonymity Orders  I  therefore
+    consider it appropriate to make an order in the following terms:
+
+
+        "Unless and until  a  tribunal  or  court  directs  otherwise,  the
+        Appellant is granted anonymity.  No  report  of  these  proceedings
+        shall directly or indirectly identify her  or  any  member  of  her
+        family.  This  direction  applies  to,  amongst  others,  both  the
+        Appellant  and  the  Respondent.   Failure  to  comply  with   this
+        direction could lead to contempt of court proceedings"
+
+
+
+    Decision and Directions
+
+
+16. The decision of the First-tier Tribunal is flawed for material error of
+    law and it is set aside.
+
+
+17. The decision in the appeal will be remade following a  further  hearing
+    in the Upper Tribunal.
+
+
+18. There is an order for anonymity.
+
+
+
+
+
+
+
+
+                                                  Upper Tribunal Judge Bruce
+
+                              15th September 2020
+
+
+                           -----------------------
+[1] Practice Directions of the Immigration and Asylum Chambers of the First-
+tier Tribunal and the Upper Tribunal
+[2] I note that in her 96 paragraph 'skeleton' argument Ms Fitzsimons has,
+in addition to the matters addressed in this decision, submitted that the
+Appellant has a discrete Article 3 claim based on a risk of suicide.
+Although that skeleton is dated the 11th December 2019, and has therefore
+been taken over by events, I was asked to take its contents into account.
+Given that neither party made any submissions on such an Article 3 claim I
+have assumed that it is no longer pursued and have not addressed it in this
+decision.
+[3] Mr Tim Foxley MBE has prepared two reports for the purposes of this
+appeal. He is a political and military expert who has specialised on
+Afghanistan for twenty years. He served in the British Army in Afghanistan
+and has latterly been employed by the Ministry of Defence.  His expertise
+is accepted by this Tribunal, and uncontested by the Secretary of State.
+[4] INFORM is a multi-stakeholder forum for developing shared, quantitative
+analysis relevant to humanitarian crises and disasters. INFORM includes
+organisations from across the multilateral system, including the
+humanitarian and development sector, donors, and technical partners. The
+Joint Research Centre of European Commission is the scientific lead for
+INFORM.
+[5]COUNCIL DIRECTIVE 2004/83/Entry Clearance Officer of 29 April 2004 on
+minimum standards for the qualification and status of third country
+nationals or stateless persons as refugees or as persons who otherwise need
+international protection and the content of the protection granted
+[6] Although that decision was not available to me at the date of writing -
+I am drawing here on paragraph 16 of Judge Minhas' decision.
+[7] Devaseelan (Second Appeals - ECHR - Extra-Territorial Effect) Sri Lanka
+* [2002] UKIAT 00702
+

@@ -1,0 +1,455 @@
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Ali (s. 76 - "liable to deportation") Pakistan [2011] UKUT 00250 (IAC)
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Birmingham (Sheldon Court)           |Determination Promulgated    |
+|On 22 March 2011                              |                             |
+|                                              |24 May 2011                  |
+
+
+                                   Before
+
+                      Mr C M G Ockelton, Vice President
+                    Designated Immigration Judge McCarthy
+
+                                   Between
+
+                                 mr amir ali
+                                                                   Appellant
+                                     and
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr A Muman, instructed by J M Wilson Solicitors
+For the Respondent:    Mrs Cantrell, Home Office Presenting Officer
+
+The phrase "liable to deportation" in s 3(5) of  the  Immigration  Act  1971
+includes, in the case of a person  within  s  3(5)(a),  the  notion  of  the
+Secretary of State's deeming deportation  to  be  conducive  to  the  public
+good.  The provision of s 32(4) of the UK Borders Act 2007,  that  a  person
+subject to automatic deportation is a person whose deportation is  conducive
+to the public  good,  is  not  identical.   Such  a  person  is  "liable  to
+deportation" within the meaning of s3(5), so becoming a person  whose  leave
+may be revoked under s 76(1) of the Nationality, Immigration and Asylum  Act
+2002, only if the Secretary of  State  has  deemed  his  deportation  to  be
+conducive to the public good.
+
+
+
+                          DETERMINATION AND REASONS
+
+   Introduction
+
+   1. Section 76  of  the  Nationality,  Immigration  and  Asylum  Act  2002
+      empowers the Secretary of State  to  revoke  indefinite  leave.  Under
+      certain circumstances, one of the conditions of the  exercise  of  the
+      discretion to do so is that the person  "is  liable  to  deportation".
+      What precisely does that phrase mean, particularly when the person  is
+      a "foreign criminal" within the meaning of s 32 of the UK Borders  Act
+      2007?
+
+   2. There are, we are told, no decided cases on the  question.  Permission
+      to appeal to the Upper Tribunal was granted in this case so  that  the
+      matter could be decided at this level. In these  circumstances  it  is
+      particularly unfortunate that the Home Office Presenting  Officer  was
+      not prepared to make any detailed submission on  the  wording  of  the
+      relevant statutory provisions. With the help of the  parties  we  are,
+      however, reasonably confident that we have been able to identify them.
+      Although the journey through them is slightly convoluted,  it  appears
+      to us that the answer is clear.
+
+   The Law
+
+   3. It is convenient to  begin  by  setting  out  the  relevant  statutory
+      provisions.
+
+   4. In the Nationality, Immigration and Asylum Act 2002, s 76 is,  so  far
+      as relevant, as follows:
+
+         "76      Revocation of leave to enter or remain
+         (1)      The Secretary of State may revoke  a  person's  indefinite
+             leave to enter or remain in the United Kingdom if the person-
+             (a) is liable to deportation, but
+             (b) cannot be deported for legal reasons.
+         (2)      The Secretary of State may revoke  a  person's  indefinite
+             leave to enter or remain in the United Kingdom if-
+             (a) the leave was obtained by deception,
+             (b) the person would be  liable  to  removal  because  of  the
+                  deception, but
+                  (c)  the person cannot be removed for legal  or  practical
+                      reasons.
+
+         (3)      [allows the revocation of leave granted to  a  person  who
+         has ceased to be a refugee]
+
+         (4)      In this section-
+             "indefinite leave" has the meaning given by section  33(1)  of
+             the Immigration Act 1971 (c. 77) (interpretation),
+             "liable to deportation" has the meaning given by section  3(5)
+             and (6) of that Act (deportation),
+             "refugee" has the meaning given by the Convention relating  to
+             the Status of Refugees done at Geneva on 28th  July  1951  and
+             its Protocol, and
+             "removed" means removed from the United Kingdom under-
+             (a) paragraph 9 or 10 of Schedule 2  to  the  Immigration  Act
+                  1971 (control of entry: directions for removal), or
+             (b) section 10(1)(b) of the Immigration and  Asylum  Act  1999
+                  (c. 33) (removal of persons unlawfully in United  Kingdom:
+                  deception).
+         ...
+
+         (5)      A power under subsection (1) or (2) to revoke leave may be
+         exercised-
+             (a) in respect of leave granted before this section comes into
+                  force;
+             (b) in reliance on anything done  before  this  section  comes
+                  into force.
+         ..."
+
+   5. We do not need to set out the provision defining  "indefinite  leave",
+      but s 3  of  the  Immigration  Act  1971  is  clearly  of  importance.
+      Subsections (5) and (6) are as follows:
+
+         "(5)     A person who  is  not  a  British  citizen  is  liable  to
+             deportation from the United Kingdom if-
+             (a) the  Secretary  of  State  deems  his  deportation  to  be
+                  conducive to the public good; or
+             (b) another person to whose family he belongs is or  has  been
+                  ordered to be deported.
+
+         (6)      Without prejudice  to  the  operation  of  subsection  (5)
+             above, a person who is not a British  citizen  shall  also  be
+             liable to deportation from the United Kingdom if, after he has
+             attained the age of seventeen, he is convicted of  an  offence
+             for which he  is  punishable  with  imprisonment  and  on  his
+             conviction is recommended for deportation by a court empowered
+             by this Act to do so."
+
+   6. The UK Borders Act 2007 introduced a process of automatic  deportation
+      of "foreign criminals" as defined. By s 32, a "foreign criminal" is  a
+      person who is not a British citizen and is  convicted  in  the  United
+      Kingdom  of  an  offence,  and  either  is  sentenced  to  a  term  of
+      imprisonment of  over  12  months,  or  is  sentenced  to  a  term  of
+      imprisonment on conviction of a specified offence.
+
+   7. Subsections (4) and (5) are as follows:
+
+         "32    (4)    For the purpose of section 3(5)(a) of the Immigration
+                  Act 1971 (c. 77), the deportation of a foreign criminal is
+                  conducive to the public good."
+
+             (5) The Secretary of State must make a  deportation  order  in
+                  respect of a foreign criminal (subject to section 33)."
+
+   8. Section 33 is headed "Exceptions".  The  relevant  provisions  are  as
+      follows:
+
+         "33    (1)    Section 32(4) and (5)-
+                  (a)  do not apply  where  an  exception  in  this  section
+                      applies (subject to subsection (7) below), and
+                  (b)  are subject to sections 7 and 8  of  the  Immigration
+                      Act 1971 (Commonwealth citizens, Irish citizens, crew
+                      and other exemptions).
+
+             (2) Exception 1 is where removal of the  foreign  criminal  in
+                  pursuance of the deportation order would breach-
+                  (a)  a person's Convention rights, or
+                  (b)  the United Kingdom's obligations  under  the  Refugee
+                  Convention.
+
+             (3) Exception 2 is where the Secretary of  State  thinks  that
+                  the foreign criminal was under the age of 18 on  the  date
+                  of conviction.
+
+             (4) Exception 3 is where the removal of the  foreign  criminal
+                  from the United Kingdom  in  pursuance  of  a  deportation
+                  order would breach rights of the  foreign  criminal  under
+                  the Community treaties.
+
+             (5) Exception 4 is where the foreign criminal [is  subject  to
+                  extradition or similar proceedings].
+
+             (6)  Exception  5  is  where  [a  hospital  order  or  similar
+                  provisions] has effect in respect of the foreign criminal.
+
+              (7)      The application of an exception-
+                  (a)  does not prevent the making of a deportation order;
+                  (b)  results in it being assumed neither that  deportation
+                      of the person concerned is conducive  to  the  public
+                      good nor that it is not conducive to the public good;
+                  but section  32(4)  applies  despite  the  application  of
+                      Exception 1 or 4."
+
+   The Appellant
+
+   9. The appellant is a national  of  Pakistan.  He  came  to  the  United
+      Kingdom in 2004 with his mother: he was then aged 14.  They  came  to
+      join his father, who was settled  here.  The  appellant  was  granted
+      indefinite leave to remain, with his mother and other siblings, on 31
+      May 2006.
+
+  10. In November 2008 he was convicted on counts of robbery  and  handling
+      stolen goods. He received concurrent sentences, the longest being  of
+      21 months detention in a young offenders' institution.  There  is  no
+      doubt that he is a "foreign criminal" within the meaning of the  2007
+      Act.
+
+  11. The appellant was invited to submit any reasons why he should not  be
+      subject  to  automatic  deportation.  He  gave  written  reasons  and
+      attended  an  interview  conducted  by  a   representative   of   the
+      respondent. He observed that he had been in the  United  Kingdom  for
+      nearly 15 years, that he had indefinite leave to remain, and that his
+      siblings were British citizens.
+
+  12. The Secretary of State's response was a letter dated 1 October  2009,
+      reading, so far as relevant, as follows:
+
+         "...I am writing to inform you that  the  Secretary  of  State  has
+         taken note of your conviction... at Wolverhampton Crown  Court  for
+         Robbery and Handling Stolen Goods. The Secretary of State  takes  a
+         serious view of your conduct and, in the light of  your  conviction
+         he has given careful consideration to your immigration  status  and
+         the question of your liability to deportation...
+
+         In all the circumstances,  however,  the  Secretary  of  State  has
+         decided not to take any action against you on this occasion but you
+         should clearly understand that, notwithstanding the fact that there
+         are no conditions attached to your stay here, the provisions of the
+         Immigration Act 1971 as amended by the Immigration and  Asylum  Act
+         1999 relating to deportation continue to apply to you. Under  these
+         provisions a person who does not have the right of abode is  liable
+         to deportation if the Secretary of State deems his  deportation  to
+         be conducive to the public good or if he is convicted of an offence
+         and recommended for deportation by a court.
+
+         I should warn you therefore that if  you  should  come  to  adverse
+         notice in the future, the Secretary of State  will  be  obliged  to
+         give further consideration to the question of whether you should be
+         deported. If you commit a further offence, the Secretary  of  State
+         would also need to consider the automatic deportation provisions of
+         the UK Borders Act 2007.  You  should  be  aware  that  under  such
+         circumstances, the Secretary of State may  be  legally  obliged  to
+         make a deportation order against you..."
+
+  13. A further  letter  was  sent  on  20  November  2009,  informing  the
+      appellant of  the  Secretary  of  State's  intention  to  revoke  his
+      Indefinite Leave to Remain. The relevant parts of that letter are  as
+      follows:
+
+         "...The UK Border Agency is proposing  to  revoke  your  indefinite
+         leave to remain under section 76 of  the  Nationality,  Immigration
+         and Asylum Act 2002. Section 76(1) gives the Secretary of State the
+         power to revoke indefinite leave to enter or remain in  the  United
+         Kingdom where 'the person is liable to deportation  but  cannot  be
+         deported for legal reasons.'
+
+         ...It is noted that you claim to have first arrived in  the  United
+         Kingdom in 1995. Records show  that  you  were  granted  indefinite
+         leave to remain in line with your mother and  siblings  on  31  May
+         1996. Your rights under the European  Convention  on  Human  Rights
+         have been carefully considered.  It  has  been  decided  that  your
+         removal at this time may place the  United  Kingdom  in  breach  of
+         Article 8 of the European Convention on Human Rights...
+
+         As you remain  liable  to  deportation  because  of  your  criminal
+         convictions, but cannot be  deported  for  legal  reasons,  section
+         76(1) is applicable and enables the Secretary of  State  to  revoke
+         your indefinite leave to remain.
+
+         ...As part of the assessment  of  your  continuing  entitlement  to
+         Indefinite Leave to Remain status, I  am  providing  you  with  the
+         opportunity to respond to the points made in this  letter.  If  you
+         wish to make any comments on the proposal to revoke your indefinite
+         leave  to  remain  and  replace  it  with  a  limited   period   of
+         Discretionary Leave you should forward them as below...
+
+         Any comments you  wish  to  make  should  be  sent...  by  December
+         2009..."
+
+  14. The appellant made no further comments. The decision  to  revoke  his
+      indefinite leave to remain was made on 29 December 2009, by Notice of
+      Decision  and  accompanying  letter  both   with   that   date.   The
+      accompanying letter sets out a summary of  the  appellant's  relevant
+      history and of s76. It continues as follows:
+
+         "As detailed above, you have been convicted of crimes in the United
+         Kingdom which render  you  liable  to  deportation.  However,  your
+         rights and those of your family members have been considered  under
+         Article 8 of the ECHR. It has been concluded that at present,  your
+         deportation would bring about a disproportionate interference  with
+         your private and family life under Article 8 of the ECHR. In  other
+         words, you cannot presently be deported for legal reasons.
+
+         In light  of  the  above,  it  has  been  decided  to  revoke  your
+         Indefinite Leave in view of the fact  that  Section  76(1)  of  the
+         Nationality, Immigration and Asylum Act 2002 applies to you."
+
+  15. The letter goes on to indicate  that  there  is  a  right  of  appeal
+      against that decision, but that the appellant  should  surrender  the
+      letter granting him indefinite leave to remain.
+
+  16. The Notice of Decision is in the following terms:
+
+         On 31 May 1996 you were granted indefinite leave to remain  in  the
+         United Kingdom on the grounds of settlement.
+
+         However, the decision has been made to revoke your indefinite leave
+         on 29 December 2009 and to replace it with  a  grant  of  3  years'
+         Discretionary Leave. This is in recognition of  the  fact  that  we
+         cannot deport you at present because there  are  ECHR  barriers  to
+         removal. However we will keep your position under regular review.
+
+         Consequently,  I  have  decided  that  you  no  longer   meet   the
+         requirements of the immigration rules under which you were  granted
+         leave to remain in the United Kingdom on the basis of  your  length
+         of residence and, therefore, I  am  giving  you  notice  that  your
+         indefinite leave to remain in the United Kingdom has  been  revoked
+         under section 76(1) of the Nationality, Immigration and Asylum  Act
+         2002. Full details for this decision are provided in  the  attached
+         letter.
+
+         This revocation of indefinite leave to enter or  remain  will  take
+         effect at the end of the period when you can appeal  under  section
+         82(1) of the Nationality, Immigration and Asylum Act 2002, or  when
+         an  appeal  brought  under  that  section  is  finally  determined,
+         withdrawn or abandoned (or when it lapses under section 99 of  that
+         Act).
+
+  17. The appellant  appealed  to  the  Asylum  and  Immigration  Tribunal.
+      Following the abolition of that Tribunal, his appeal took  effect  as
+      an appeal to the Immigration and Asylum  Chamber  of  the  First-tier
+      Tribunal. Following a hearing on 12 July 2010, Immigration Judge Meah
+      dismissed his appeal, concluding  that  the  power  under  s  76  was
+      exercisable in his case. The Immigration Judge also clearly took  the
+      view that it was rightly exercised.  Permission  to  appeal  to  this
+      Tribunal was refused by the First-tier Tribunal, but granted  on  re-
+      application to the Upper  Tribunal.  Senior  Immigration  Judge  Warr
+      noted that the ambit of s 76 was "new territory" and said that it was
+      right to grant permission to appeal to consider  the  appellant's  as
+      yet untested arguments.
+
+   Discussion
+
+  18. As we remarked at the hearing, it seems odd to describe a person  who
+      cannot be deported as "liable to deportation". It is, however,  clear
+      that the statutory provisions rule out a  conclusion  based  on  that
+      simple observation. "Liable to deportation" has, as s 76(4) provides,
+      the meaning given by subsections (5) and (6) of s 3 of the 1971  Act.
+      It would appear to follow from that that liability to deportation for
+      the purposes of s 76 can arise in three ways. They are the  ways  set
+      out in  those  subsections,  and  are,  first,  the  deeming  by  the
+      Secretary of State that the person's deportation is conducive to  the
+      public good (s 3(5)(a)); secondly, the making of a deportation  order
+      against another person to whose family the person in question belongs
+      (s  3(5)(b));  and  thirdly,  the  recommendation  of  the   person's
+      deportation by a court under s3(6).
+
+  19. None of those has happened in this case. Mrs Cantrell  was  clear  in
+      her acceptance that the Secretary of State has not indicated that she
+      deems this appellant's deportation to  be  conducive  to  the  public
+      good; there is no scope  for  the  application  of  s  3(5)(b);  and,
+      although the appellant has been convicted of an offence  in  relation
+      to which the court could have recommended his deportation, it did not
+      do so.
+
+  20. So far, therefore, the  appellant  is  not  "liable  to  deportation"
+      within the meaning of s 76. The question, then, is whether ss 32  and
+      33 of the 2007 Act make any difference.
+
+  21. As we have said, there can be  no  doubt  that  the  appellant  is  a
+      "foreign criminal" within the meaning of s 32. But s 32(5), requiring
+      the Secretary of State to make a deportation order, is subject  to  s
+      33, and it is clear that the Secretary of State took the view  (which
+      is, of course, not contested)  that  the  appellant's  removal  would
+      breach  rights  under  the  European  Convention  on  Human   Rights.
+      Exception 1 in s 33(2), therefore, applies  to  this  appellant.  The
+      clear consequence of that is that s 32(5)  does  not  apply  to  him:
+      there is no obligation to make a deportation order against  him.  The
+      position in relation to s 32(4) is a  little  more  obscure.  Section
+      33(1) says that it does not apply, but that is subject to  subsection
+      (7). And subsection (7) provides that s 32(4) does, after all,  apply
+      "despite the application of Exception  1  or  4".  The  provision  of
+      subsection (7)(b), leaving open the question of  whether  deportation
+      is conducive to the public good, therefore applies only to the  other
+      Exceptions.
+
+  22. Thus the journey through s 33 takes us  back  to  where  we  started,
+      which is at s 32(4). For the purpose of s 3(5)(a) of  the  1971  Act,
+      the deportation of the appellant "is conducive to the public good".
+
+  23. That provision is clearly relevant to liability to deportation  under
+      s 3(5)(a), but it is not the whole story.  Liability  to  deportation
+      under s 3(5)(a) arises only if the  Secretary  of  State  deems  that
+      person's deportation to be conducive to the public good.  The  effect
+      of s 32(4) of the 2007 Act is that, by statute,  his  deportation  is
+      conducive to the public good; so that, if the Secretary of State does
+      (also) deem it to be conducive to the public good, there  can  be  no
+      argument about the basis for the  Secretary  of  State's  conclusion.
+      But, as we see it, under s 3(5)(a) of the 1971 Act, the  decision  of
+      the Secretary of State (or an officer) is a crucial requirement. That
+      paragraph cannot possibly be read as if it  provided  merely  that  a
+      person is liable to deportation if his deportation  is  conducive  to
+      the public good.
+
+  24. As we have said, the Presenting Officer before us accepted  that  the
+      Secretary of State has reached no  such  conclusion  in  the  present
+      case.  It  follows  that,  although  the  effect  of  the   statutory
+      provisions is that his deportation is conducive to the  public  good,
+      he is not "liable to deportation" because the Secretary of State  has
+      not deemed his deportation to be conducive to the public good. She is
+      presumably at  liberty  to  do  so:  but,  until  she  does  so,  the
+      provisions of s 3(5)(a) of the 1971 Act do not apply to him, and,  in
+      consequence, those of s 76 of the 2002 do not either.
+
+  25. That is sufficient to dispose of this appeal. As a  result,  we  have
+      not needed to consider whether it is right to describe a person whose
+      Convention rights prohibit his removal as a  person  who  "cannot  be
+      deported for legal reasons". Mr Muman's submission  would  have  been
+      that it is not. He did not need to expand on his skeleton argument on
+      the issue before us, and we reach no concluded view on this. In  case
+      the  matter  arises  in  some  other  case,  however,  the  following
+      observations may be apposite. First, any interpretation of the phrase
+      "for legal reasons" in s 76(1) needs to be able to take into  account
+      the contrast with the phrase "for legal or practical reasons" closing
+      subsection 76(2). Secondly, as  the  Secretary  of  State's  decision
+      letters in the present case indicate, a right under Article 8 is  not
+      necessarily a permanent right. A Convention right prohibiting removal
+      may reduce or vanish in the course of time or by reason of subsequent
+      events. Thirdly, it is not easy to see why a  person  who  cannot  be
+      deported because of a right that he has, that is protected by the law
+      of the United Kingdom should not be regarded as a person who  "cannot
+      be deported for legal reasons". We say no more than that.
+
+  26. Mr Muman was also prepared to argue that  it  was  a  breach  of  the
+      appellant's human rights to replace a grant of  indefinite  leave  to
+      remain by a grant of three years' discretionary leave. We have  noted
+      what is said in his skeleton argument. We think it is  unlikely  that
+      it would have persuaded us to allow his appeal.
+
+  27. The position is simply that, for  the  reasons  we  have  given,  the
+      Secretary of State could not in  the  present  case  exercise  powers
+      under s 76, and that her decision was accordingly not a  lawful  one.
+      The Immigration Judge erred in concluding that it was. We  allow  the
+      appellant's appeal.
+
+
+
+
+                                                              C M G OCKELTON
+                                       VICE PRESIDENT OF THE UPPER TRIBUNAL,
+                                              IMMIGRATION AND ASYLUM CHAMBER
+
+
+
+

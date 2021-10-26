@@ -1,0 +1,592 @@
+
+                                    [pic]
+
+Upper Tier Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: EA/07875/2018
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                 |Decision & Reasons Promulgated       |
+|On 25 November 2019                  |On 3 December 2019                   |
+|                                     |                                     |
+
+                                   Before
+
+                       Upper Tribunal Judge Kopieczek
+                         Upper Tribunal Judge Pickup
+
+
+                                   Between
+
+                            Nataliia Golichnikova
+                        [No anonymity direction made]
+                                                                   Appellant
+                                     and
+
+                 Secretary of State for the Home Department
+                                                                  Respondent
+
+
+Representation:
+For the appellant:     Mr A Pipe, instructed by Arlington Crown Solicitors
+For the respondent:    Ms A Everett, Senior Home Office Presenting Officer
+
+
+                            DECISION AND REASONS
+
+ 1. The appellant appeals the decision of First-tier Tribunal Judge  Burns,
+    promulgated 29.3.19, dismissing her appeal against the decision of  the
+    respondent, dated 22.11.18, to refuse her application made  on  20.9.18
+    for an EEA Residence Card as the direct  family  member  of  a  British
+    citizen who has previously exercised his Treaty  rights  in  other  EEA
+    member states, pursuant to regulations 7 and 9 of the Immigration (EEA)
+    Regulations 2016, as amended (the Regulations).
+
+ 2. First-tier Tribunal  Judge  Parker  refused  permission  to  appeal  on
+    8.5.19. However, on renewal of the application to the  Upper  Tribunal,
+    Upper Tribunal Judge Smith granted permission to appeal on 29.7.19.
+
+ 3. Upper Tribunal Judge Smith granted permission finding it arguable  that
+    the First-tier Tribunal misinterpreted the Regulations in circumstances
+    where the sponsor's wife has already  been  recognised  as  his  family
+    member and the sponsor has been 'recognised as an EEA national' for the
+    purposes of the Regulations. Judge Smith also  considered  it  arguable
+    that  if  the  respondent's  and  the   First-tier   Tribunal   Judge's
+    interpretation of  regulation  9  is  correct,  it  would  violate  the
+    principle of equivalence.
+
+ 4. The matter was previously listed before Judge Pickup on 3.9.19. At  the
+    outset of the error of law hearing, there was a  discussion  with  both
+    representatives as to the principles and  law  involved.  Mr  Pipe  had
+    produced a skeleton argument  and  asserted  that  the  issue  had  not
+    previously been considered by the Upper Tribunal or any superior court.
+    Acting for the Secretary of State, Ms Everett was in some  difficulties
+    in obtaining instructions on the points raised by Mr Pipe, but did  not
+    make an adjournment application.
+
+ 5. Considering that the issues in the appeal were not straightforward  and
+    requiring a more careful consideration, particularly on the part of the
+    respondent, Judge Pickup concluded that the appropriate course  was  to
+    adjourn the hearing with directions enabling the issues to be addressed
+    by both sides in skeleton arguments supplemented by case authority.
+
+ 6. The appeal came back before the tribunal  on  25.11.19,  listed  before
+    ourselves sitting as a panel of the Upper Tribunal.
+
+ 7. The Upper Tribunal  has  received  the  respondent's  undated  skeleton
+    argument. The appellant continues to rely on Mr Pipe' skeleton argument
+    of 29.8.19. In addition,  the  appellant  has  submitted  a  bundle  of
+    authorities comprising 36 pages, for which we  are  grateful.  Together
+    with the oral submissions we have  carefully  considered  all  relevant
+    material and taken into account the arguments advanced on both sides.
+
+EU Law
+
+ 8. Article 21(1) of the Treaty on the Functioning of  the  European  Union
+    (TFEU) provides:
+
+         'Every citizen of the Union shall have the right to move and reside
+         freely within the territory of the Member States,  subject  to  the
+         limitations and conditions laid down in the  Treaties  and  by  the
+         measures adopted to give them effect.'
+
+ 9. Recitals 6 of Directive 2004/38 (the Directive) states:
+
+         '(6)      In order to maintain the unity of the family in a broader
+         sense and without prejudice to the prohibition of discrimination on
+         grounds of nationality, the situation of those persons who are  not
+         included in the definition of family members under this  Directive,
+         and who therefore do not enjoy an  automatic  right  of  entry  and
+         residence in the host Member State, should be examined by the  host
+         Member State on the basis of its own national legislation, in order
+         to decide whether entry and residence  could  be  granted  to  such
+         persons, taking into  consideration  their  relationship  with  the
+         Union citizen or any other circumstances, such as  their  financial
+         or physical dependence on the Union citizen.'
+
+10. Article 2 of the Directive defines family member as including a  spouse
+    or registered  partner  and  the  dependent  direct  relatives  in  the
+    ascending line and those of the spouse or partner.
+
+11. Article 3 of the Directive states:
+
+         '1.      This Directive shall apply to all Union citizens who  move
+         to or reside in a Member State other than that of which they are  a
+         national, and to their family members as  defined  in  point  2  of
+         Article 2 who accompany or join them.
+
+         2.      Without  prejudice  to  any  right  to  free  movement  and
+         residence the persons concerned may have in their  own  right,  the
+         host  Member  State  shall,  in  accordance   with   its   national
+         legislation, facilitate  entry  and  residence  for  the  following
+         persons:
+
+             (a)      any  other  family  members,  irrespective  of  their
+             nationality, not falling under the definition in  point  2  of
+             Article 2 who, in the country from which they have  come,  are
+             dependants or members of the household of  the  Union  citizen
+             having the primary right of residence, or where serious health
+             grounds strictly require  the  personal  care  of  the  family
+             member by the Union citizen;
+
+             (b)      the partner with whom the Union citizen has a durable
+             relationship, duly attested.'
+
+The Relevant Regulations
+
+12. The Directive was transposed into UK law by the  Immigration  (European
+    Economic Area) Regulations 2006. The current applicable regulations are
+    those from 2016, as amended.
+
+13. The regulations relevant to this case are set out below. The  words  in
+    square brackets are as amended by by The Immigration (European Economic
+    Area Nationals) (EU Exit) Regulations 2019 (S.I. 2019/468), which  came
+    into force on 28.3.19, the day before the decision  of  the  First-tier
+    Tribunal was promulgated. The amendments extended regulations 7  and  9
+    to an Extended Family Member (EFM) of a British citizen.
+
+         "Family member"
+
+         7.-  (1) In these Regulations, "family member" means,  in  relation
+             to a person ("A")-
+
+                  (a)  A's spouse or civil partner;
+
+                  (b)  A's direct descendants, or the direct descendants  of
+                  A's spouse or civil partner who are either-
+
+                      (i)  aged under 21; or
+
+                      (ii) dependants of A,  or  of  A's  spouse  or  civil
+                      partner;
+
+                  (c)  dependent direct relatives in A's ascending line,  or
+                  in that of A's spouse or civil partner.
+
+             (2)  Where A is a  student  residing  in  the  United  Kingdom
+             otherwise  than  under  regulation  13   (initial   right   of
+             residence), a person  is  not  a  family  member  of  A  under
+             paragraph (1)(b) or (c) unless-
+
+                  (a)  in the case of paragraph (1)(b), the  person  is  the
+                  dependent child of A or of A's spouse or civil partner; or
+
+                  (b)  A also falls within one of the  other  categories  of
+                  qualified person mentioned in regulation 6(1).
+
+             (3)  A person ("B") who is an extended family member  and  has
+             been  issued  with  an  EEA  family  permit,  a   registration
+             certificate or a residence card must be treated  as  a  family
+             member of A, provided-
+
+                  (a)  B continues to satisfy the conditions  in  regulation
+                  8(2), (3), (4) or (5); and
+
+                  (b)  the EEA family permit,  registration  certificate  or
+                  residence card remains in force.
+
+             (4)  A must be an EEA national  unless  regulation  9  applies
+             (family members  [and  extended  family  members]  of  British
+             citizens).
+
+         Family members [and extended family members] of British citizens
+
+         9.-  (1) If the conditions in paragraph (2)  are  satisfied,  these
+             Regulations apply to a person who is the family  member  ("F")
+             of a British citizen ("BC") as  though  the  BC  were  an  EEA
+             national.
+
+             [(1A)    These Regulations  apply  to  a  person  who  is  the
+             extended family member ("EFM") of a BC as though the  BC  were
+             an EEA national if-
+
+                  (a)the conditions in paragraph (2) are satisfied; and
+
+                  (b)the EFM was lawfully resident in the EEA State referred
+                  to in paragraph (2)(a)(i).]
+
+             (2)  The conditions are that-
+
+                  (a)  BC-
+
+                      (i)  is residing in an EEA State as a  worker,  self-
+                      employed person, self-sufficient person or a student,
+                      or so resided immediately  before  returning  to  the
+                      United Kingdom; or
+
+                      (ii) has acquired the right of permanent residence in
+                      an EEA State;
+
+                  (b)  F [or EFM] and BC resided together in the EEA  State;
+                  F16...
+
+                  (c)  F [or EFM] and BC's residence in the  EEA  State  was
+                  genuine.
+
+                  [(d) F was a family member of BC [or EFM was  an  extended
+                  family member of BC] during all or  part  of  their  joint
+                  residence in the EEA State; and
+
+                  (e)  genuine  family  life  was  created  or  strengthened
+                  during [F or EFM and BC's]  joint  residence  in  the  EEA
+                  State]
+
+             (3)  Factors relevant to whether residence in the EEA State is
+             or was genuine include-
+
+                  (a)  whether the centre of BC's life  transferred  to  the
+                  EEA State;
+
+                  (b)  the length of F [or EFM] and BC's joint residence  in
+                  the EEA State;
+
+                  (c)  the nature and quality of the F  [or  EFM]  and  BC's
+                  accommodation in the EEA State, and whether it is  or  was
+                  BC's principal residence;
+
+                  (d)  the degree of F [or EFM] and BC's integration in  the
+                  EEA State;
+
+                  (e)  whether F's [or EFM's] first lawful residence in  the
+                  EU with BC was in the EEA State.
+
+             (4)  This regulation does not apply-
+
+                  (a)  where the purpose of the residence in the  EEA  State
+                  was as a means  for  circumventing  any  immigration  laws
+                  applying to non-EEA nationals to which F  [or  EFM]  would
+                  otherwise be subject (such as any  applicable  requirement
+                  under the 1971 Act to have leave to enter or remain in the
+                  United Kingdom);...
+
+                  (b)  ...
+
+             (5)  Where these Regulations apply to F [or EFM], BC is to  be
+             treated as holding a valid passport issued by an EEA State for
+             the purposes of the application of these Regulations to F  [or
+             EFM].
+
+             (6)  In paragraph (2)(a)(ii), BC is  only  to  be  treated  as
+             having acquired the right of permanent residence  in  the  EEA
+             State if such residence would have led to the  acquisition  of
+             that right under regulation 15, had  it  taken  place  in  the
+             United Kingdom.
+
+             (7)  For the purposes of determining  whether,  when  treating
+             the  BC  as  an  EEA  national  under  these  Regulations   in
+             accordance with paragraph (1), BC would be a qualified person-
+
+                  (a)   any  requirement  to  have  comprehensive   sickness
+                  insurance cover in the United Kingdom still applies,  save
+                  that it does not require the cover to extend to BC;
+
+                  (b)  in assessing whether BC can continue to be treated as
+                  a worker under  regulation  6(2)(b)  or  (c),  BC  is  not
+                  required to satisfy condition A;
+
+                  (c)  in assessing whether BC can be treated as a jobseeker
+                  as defined in regulation  6(1),  BC  is  not  required  to
+                  satisfy conditions A and,  where  it  would  otherwise  be
+                  relevant, condition C.
+
+Factual Background
+
+14. The essential facts are not in dispute. The appellant is the mother-in-
+    law of the sponsor, a  British  citizen  who  genuinely  exercised  his
+    Treaty rights in the EU Member States of Norway and Greece, accompanied
+    by his Russian citizen wife, daughter of the  appellant.  Both  husband
+    and wife then returned to live in the UK. The  daughter  holds  an  EEA
+    Residence Card as a family member (spouse) of the sponsor.  It  is  not
+    disputed that the appellant is a direct relative in the ascending  line
+    of the spouse, living with  and  presently  dependent  on  the  British
+    citizen sponsor and his wife in the UK.
+
+15. It is important to note that the appellant never lived with the sponsor
+    and his wife whilst  he  was  exercising  his  Treaty  rights  of  free
+    movement in any other EU Member State, although is is asserted that she
+    was nevertheless dependent on them.
+
+16. The application was refused and the subsequent appeal dismissed on  the
+    basis that the appellant cannot meet the requirements of Regulation  9,
+    which applies the Regulations to a family member of a  British  citizen
+    but only on certain conditions.
+
+17. It is common ground that the first  of  those  conditions,  that  under
+    regulation 9(2)(a)(i), is met in that the sponsor resided in a host  EU
+    Member State as a  worker  immediately  before  returning  to  the  UK.
+    However, to meet the condition under regulation 9(2)(b), the  appellant
+    must have genuinely resided together with the sponsor in the  other  EU
+    Member State before he returned to the UK. Before us, Mr Pipe  conceded
+    that the appellant cannot bring herself  within  regulation  9  as  she
+    cannot meet the 'resided together' requirement.
+
+18. In summary, the argument as advanced by Mr Pipe is that  the  appellant
+    does not need to bring herself within regulation 9 at all but qualifies
+    directly as a family member under regulation 7(1)(c) as  the  dependent
+    direct relative in the ascending line of her  daughter,  the  sponsor's
+    spouse, in the specific circumstances where that daughter  has  herself
+    been recognised as a family  member  pursuant  to  the  Surinder  Singh
+    principle of equivalence enshrined in regulation 9. In the alternative,
+    it is submitted that if regulation 9 does apply  to  the  appellant  it
+    must be interpreted in the light of EU law, including the Directive and
+    the Surinder Singh principle, and  that  to  adopt  the  interpretation
+    contended  for  by  the  respondent  to  exclude  the  appellant   from
+    entitlement to a Residence Card as the family  member  of  the  British
+    citizen sponsor is inconsistent with EU law.
+
+Family Member under Regulation 7
+
+19. Regulation 7 defines 'family member' as someone in relation to a person
+    'A'. Regulation 7(4) provides that 'A must be an  EEA  national  unless
+    regulation 9 applies (family members and  extended  family  members  of
+    British citizens).'
+
+20. The appellant's primary argument is that as  the  daughter  was  issued
+    with  a  Residence  Card  pursuant  to  regulation  9,  this  satisfies
+    regulation 7(4). As noted above and in Ms Everett's skeleton  argument,
+    the respondent concedes the relationship referred to is met with regard
+    to both the  family  relationship  and  dependence  elements.  Mr  Pipe
+    accepted that regulation 7(4) must be met before the appellant  can  be
+    regarded as a family member for the purpose of  the  Regulations.  Even
+    though regulation 7(4) specifically refers to family members  (or  EFM)
+    of a British citizen, Mr Pipe submitted that it  is  possible  to  read
+    regulation 7(4) consistently with his argument that  once  the  British
+    citizen sponsor's wife  was  recognised  as  his  family  member  under
+    regulation 9, then regulation 9 'applies'.
+
+21. After due consideration of the arguments of both Mr Pipe and Ms Everett
+    we  find  we  cannot  accept  the  interpretation  of  regulation  7(4)
+    contended for by Mr Pipe.
+
+22. We first note that Article 3(1) of the Directive provides that it shall
+    apply 'to all Union citizens who move to or reside in  a  Member  State
+    other than that of which they are  a  national,  and  to  their  family
+    members as defined in point 2 of Article 2 who accompany or join them,'
+    (emphasis added). The Directive limits its application to those  family
+    members who accompany or join a EU Member State national exercising his
+    Treaty rights to work in a host Member State. It is those persons  who,
+    pursuant to subsequent  case-law,  including  R  v  Immigration  Appeal
+    Tribunal et Surinder Singh, ex parte  SSHD  (freedom  of  movement  for
+    persons) [1992] EUECJ C-370/90, are to have the right to join the Union
+    citizen who returns to live in the  Member  State  of  which  he  is  a
+    national.
+
+23. In Surinder Singh, the ECJ held that the Treaty  and  Directive  73/148
+    must be construed "as requiring a Member State to grant leave to  enter
+    and reside in its territory to the spouse, of whatever nationality,  of
+    a national of that State who has gone, with  that  spouse,  to  another
+    Member State in order  to  work  there....  and  returns  to  establish
+    himself or herself....in the territory of the State of which he or  she
+    is a national. The spouse must enjoy at least the same rights as  would
+    be granted to him or her under Community  law  if  his  or  her  spouse
+    entered or resided in the territory of another Member State." Again, it
+    is clear that the extension of rights is limited to those who accompany
+    or have joined the national of a EU  Member  State  in  a  host  Member
+    State.
+
+24. The appellant also relies on SSHD v Banger (Citizenship of the European
+    Union - Right of Union citizens to move and reside  freely  within  the
+    territory of the European  Union  -  Judgment)  [2018]  EUECJ  C-89/17.
+    However, unlike the appellant in this case, that case concerned the non-
+    EEA national partner of a British citizen who had lived with him in the
+    Netherlands before returning to the UK. As she was an  EFM  and  not  a
+    family member, Regulation 9 in the form  in  which  it  then  appeared,
+    could not apply to her. In consequence, the Secretary of State  refused
+    to issue her with an EEA Residence Card. The  Upper  Tribunal  referred
+    the issue to the ECJ for  a  preliminary  ruling  on  the  question  of
+    whether the Surinder Singh principle operates so as to require a Member
+    State to issue or facilitate the provision of  residence  authorisation
+    to the non-Union  unmarried  partner  of  an  EU  citizen  who,  having
+    exercised his Treaty right of freedom of movement to work in  a  second
+    Member State accompanied by his partner, returns with such  partner  to
+    the Member State of his nationality.
+
+25. In Banger, the ECJ noted that the purpose of Directive 2004/38  was  to
+    facilitate the exercise of the primary and individual right to move and
+    reside freely within the territory  of  the  Member  States,  which  is
+    conferred on citizens of the Union by Article 21(1).  Article  3(1)  of
+    the Directive provides that the Directive is  to  apply  to  all  Union
+    citizens who move to or reside in a Member State  other  than  that  of
+    which they are a national, and, according the  ECJ,  "to  their  family
+    members as defined in Article 2(2) of that directive who  accompany  or
+    join them."
+
+26. At [23] the ECJ pointed out  that  it  had  previously  held  that  the
+    Directive "governs only the  conditions  determining  whether  a  Union
+    citizen can enter and reside in Member States other than that of  which
+    he is a national and does not confer a derived right  of  residence  on
+    third-country nationals, who are family members of a Union citizen,  in
+    the Member State of which that citizen is a national." However, it  was
+    acknowledged at [27] that in "certain cases" a  third-country  national
+    family member who could not qualify under the Directive for  a  derived
+    right of residence could, nevertheless, be accorded such a right on the
+    basis of Article 21(1). At [28] it was stated that this  was  based  on
+    "settled case-law," according to which, in essence, if no such  derived
+    right of residence were granted to such a person, a Union citizen would
+    be discouraged from leaving his Member State to exercise Treaty  rights
+    in another Member State "because he is uncertain  whether  he  will  be
+    able to continue in his Member State of origin a family life which  has
+    been created or strengthened, with that third-country national, in  the
+    host Member State, during a  genuine  residence,"(emphasis  added).  In
+    such circumstances, the conditions under which  the  derived  right  of
+    residence is provided should not, in principle, be stricter than  those
+    provided for under the Directive and should be applied by  analogy.  At
+    [32]-[34] the ECJ agreed that this should also apply to a partner in  a
+    durable relationship with a Union citizen and rejected the Secretary of
+    State's argument that such a derivative right should be confined solely
+    to third-country nationals who are a 'family member'.
+
+27. However, whilst Banger extended the Surinder  Singh  principle  from  a
+    spouse to a partner, none of the reasoning  of  the  ECJ  supports  the
+    argument advanced by Mr Pipe. In both Banger and Surinder Singh, the EU
+    Member State  national  was  returning  to  the  Member  State  of  his
+    nationality after exercising his Treaty rights in a host Member  State,
+    accompanied or joined by his family member. That is  not  analogous  to
+    the facts of the present case where the British citizen sponsor did not
+    have any family life  with  his  third-country  national  mother-in-law
+    appellant in a host Member State before returning to the UK.
+
+28. Turning to the Regulations, it is to be noted that  regulation  7  does
+    not itself grant any rights but defines the term  'family  member'  for
+    the purpose of the Regulations. It does so with reference to  a  person
+    'A' and defines whether another person is a family member  of  'A',  in
+    distinction to a relative who is an extended family  member  (EFM)  and
+    other relatives who are neither. As stated above, it  is  not  disputed
+    that the appellant is the dependent direct relative  in  the  ascending
+    line of her daughter, the  sponsor's  wife.  However,  regulation  7(4)
+    specifically limits the ambit of its application by the condition  that
+    'A'  must  be  an  EEA  national,  unless  regulation  9  applies.  The
+    parentheses immediately following that  condition  refers  directly  to
+    family members or EFMs of British citizens and  requires  consideration
+    of the conditions of regulation 9.
+
+29. In his submissions, Mr Pipe conceded that the appellant does  not  meet
+    the requirements to be a EFM and confirmed that we need not address the
+    definition of an EFM within regulation 8, or consider the ambit of EFMs
+    as referred to within in the provisions of regulations 7 and 9.
+
+30. The wording of 7(4) includes the phrase, 'unless regulation  9  applies
+    (family members and extended  family  members  of  British  citizens),'
+    (emphasis added). Regulation 9 (1) provides that if the  conditions  in
+    regulation 9(2) are satisfied, "these Regulations apply to a person who
+    is a family member ('F') of a British citizen ('BC') as though  the  BC
+    were an EEA national,' (emphasis added). It is  clear  that  the  words
+    'applies' and 'apply' specifically relate to the family member, not  to
+    the British citizen. For the reasons stated above, the appellant cannot
+    meet regulation 9(1). Given the concession by Mr Pipe, neither can  the
+    appellant meet regulation 9(1A) in relation  to  being  the  EFM  of  a
+    British citizen. It follows that in  relation  to  the  claimed  family
+    member, the appellant, regulation 9 does not and cannot  apply  in  the
+    sense intended by regulation 7(4).
+
+31. Whilst the appellant's daughter qualified  in  her  own  right  as  the
+    family member of her British citizen spouse under  regulation  9,  that
+    does not assist the appellant's argument. Neither the  Regulations  nor
+    the ECJ case-law relied on by Mr  Pipe  are  authority  to  extend  the
+    Surinder Singh principle to what,  effectively,  would  be  the  family
+    member of a family member of a British citizen. On the  facts  of  this
+    case, where the appellant never lived with the British citizen  sponsor
+    in either of the host Member States in which he lived  and  worked,  we
+    consider the relationship too remote from the Surinder Singh principle.
+    The appellant coming to live with the British citizen and his  wife  in
+    the UK has nothing to do with the exercise of his Treaty rights in host
+    Member States.
+
+32. We acknowledge, as did Ms Everett in  her  submissions,  that  had  the
+    appellant gone to live with her British citizen  son-in-law  whilst  he
+    was working in either Greece or Norway, she would have qualified  as  a
+    family member under regulation 7 on the basis of being dependent on him
+    in the UK and under regulation 9 on the basis of meeting  the  'resided
+    together' condition.  Similarly, to apply the analogy  deployed  by  Mr
+    Pipe in his submissions, had the sponsor living  in  the  UK  been  not
+    British but, say, Greek, there would be no difficulty for the appellant
+    in being recognised as the family member of his spouse for the  purpose
+    of the Regulations. However, both such situations would  arguably  meet
+    the Surinder Singh principle because in each case the sponsor would  be
+    exercising his Treaty rights. Further, not to permit the entry  of  his
+    family members or those of his wife, provided all other conditions such
+    as dependency are met, could potentially deter him from exercising  his
+    Treaty rights in a host EU Member State.
+
+33. Neither does it assist the appellant to consider whether she  can  rely
+    on her daughter's recognition of being a family member,  which  derived
+    from her British citizen husband's work in a host Member  State.  As  a
+    Russian citizen, the daughter is neither  a  British  citizen  nor  the
+    citizen of any other EEA state, so regulation 7(4) cannot be  met  even
+    if the daughter is regarded as person 'A'.
+
+34. Having considered the arguments carefully, we find  no  support  in  EU
+    law, including the case-law relied on by Mr Pipe, for  the  proposition
+    that once regulation 9 has been applied to a family member of a British
+    citizen who returns to the UK after working in a host EU Member  State,
+    he becomes for all purposes thereafter in effect a different  class  of
+    EU national whose relatives, or those  of  his  spouse,  who  meet  the
+    relationship and dependency elements of regulation 7 are also  entitled
+    to be recognised as family members for the purposes of the Regulations.
+    We conclude that it  would  be  stretching  the  meaning,  purpose  and
+    interpretation of regulation 7(4) beyond all  sense  to  conclude  that
+    because regulation 9 was applied to the daughter to  bring  her  within
+    the definition of family member within regulation 7, then regulation  9
+    'applies' to the appellant.  As stated above, for the appellant to be a
+    'family member' she must meet regulation 7(4), which in  turn  requires
+    her to meet the 'resided together' condition of regulation 9. We  must,
+    therefore, reject Mr Pipe's argument that the appellant can succeed  on
+    the  basis  of  regulation  7  alone,  or  on  any   variant   of   the
+    interpretation of regulation 7(4) advanced by Mr Pipe.
+
+35. For the reasons set out above, neither do we  find  that  the  decision
+    refusing the appellant a Residence Card on the basis  that  she  cannot
+    meet the conditions of regulation 9 infringes the equivalence principle
+    of Surinder Singh. As stated above, it is clear that the  ECJ  case-law
+    relied on by Mr Pipe is restricted on the facts to family  members  who
+    have accompanied or joined the EU  Member  State  national  in  a  host
+    Member State before he returns to the Member State of his  nationality.
+    On the facts  of  this  case,  the  extension  of  the  Surinder  Singh
+    principle to  the  appellant,  or  someone  in  her  position,  is  not
+    justified by any consideration of whether a national of a Member  State
+    might be deterred from exercising his Treaty rights  by  working  in  a
+    host Member State.
+
+36. In the circumstances, we are driven to the clear conclusion that  there
+    was no error of law in the decision of the First-tier Tribunal.
+
+Decision
+
+         The making of the decision  of  the  First-tier  Tribunal  did  not
+         involve an error of law.
+
+         The decision of the  First-tier  Tribunal  stands  and  the  appeal
+         remains dismissed.
+
+
+
+     Signed   DMW Pickup
+
+         Upper Tribunal Judge Pickup
+
+     Dated    1 December 2019
+
+
+
+Anonymity
+
+We have considered  whether  any  parties  require  the  protection  of  any
+anonymity direction. No submissions were made on the issue.  The  First-tier
+Tribunal did not make an order  pursuant  to  rule  13(1)  of  the  Tribunal
+Procedure Rules 2014. In the circumstances, we make no anonymity order.
+
+
+     Signed   DMW Pickup
+
+         Upper Tribunal Judge Pickup
+
+     Dated    1 December 2019
+
+                           -----------------------
+                                    Draft
+
+
+
+

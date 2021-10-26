@@ -1,0 +1,785 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+MM (section 117B(6) - EU citizen child) Iran [2020] UKUT 00224 (IAC)
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House                          |Decision & Reasons Promulgated|
+|On 26 February 2020                           |                              |
+|                                              |..............................|
+|                                              |.........                     |
+
+                                   Before
+
+                     UPPER TRIBUNAL JUDGE STEPHEN SMITH
+
+                                   Between
+
+                                     MM
+                         (ANONYMITY DIRECTION made)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+Representation:
+
+For the Appellant:     Mr T Bahja, Counsel, instructed by Solomon
+Solicitors
+For the Respondent:    Mr N. Bramble, Senior Home Office Presenting Officer
+
+
+
+   1. The definition of "qualifying child" contained in section  117D(1)  of
+      the Nationality, Immigration and Asylum Act 2002 does not  include  an
+      EU citizen child resident in the United Kingdom for  less  than  seven
+      years.
+
+
+   2. The non-inclusion of EU citizen children resident for less than  seven
+      years in the definition of "qualifying child" does not breach  the  EU
+      law prohibition against discrimination on grounds of nationality.
+
+                            DECISION AND REASONS
+
+ 1. This  appeal  concerns  whether  EU  law  requires  the  definition  of
+    "qualifying child" in section 117D(1) of the  Nationality,  Immigration
+    and Asylum Act 2002 ("the 2002 Act") to be applied as though it extends
+    to children who are EU citizens, even if the child has not lived in the
+    United Kingdom for a continuous period of seven years or more.
+
+ 2. The appellant is a citizen of Iran, born in  March  1998.   He  appeals
+    against a decision of First-tier Tribunal Judge Fox promulgated  on  30
+    October 2019 dismissing his appeal against a decision of the respondent
+    dated 18 July 2019 to refuse his asylum and human rights claim.   Judge
+    Fox dismissed the protection element of the appeal,  finding  that  the
+    claim had been fabricated.  There is no challenge to that finding.  The
+    focus of this appeal is the Article 8 limb of the judge's decision.
+
+ 3. The appellant has a three year old Polish daughter with whom he is in a
+    genuine and subsisting  relationship.   He  submits  that  the  judge's
+    assessment of her best interests was flawed.  He also contends that  if
+    his EU citizen daughter were British, she would engage section  117B(6)
+    of the 2002 Act.  The public interest would not require the appellant's
+    removal if it would not be reasonable to expect the child to leave  the
+    United Kingdom.  However, as the child is Polish and does not otherwise
+    satisfy the "qualifying child"  criteria,  section  117B(6)  is  of  no
+    application to the appellant.  The central issue  is  whether  that  is
+    nationality discrimination contrary to EU law.
+
+Factual background
+
+ 4. The judge accepted that the  appellant  enjoyed  family  life  for  the
+    purposes of Article 8  of  the  European  Convention  on  Human  Rights
+    ("ECHR") with his Polish partner and their daughter.  The appellant and
+    his partner's relationship began in 2015.  They  are  not  married  but
+    live together.  Their daughter was born in October 2016.
+
+ 5. The judge addressed the best interests of the daughter in these  terms,
+    at [116]:
+
+         "I now consider Article 8 in conjunction with section  55  [of  the
+         Borders, Citizenship and Immigration  Act  1999];  Zoumbas  [[2013]
+         UKSC 74] applied. There is no dispute that family life exist  [sic]
+         between the appellant, partner and child. However, for the  reasons
+         stated above it is reasonable to  conclude  that  the  partner  has
+         conspired  with  the  appellant  to  pursue  an  unmeritorious  and
+         opportunistic asylum claim."
+
+ 6. The judge found that the appellant and his  partner  had  always  known
+    that the  appellant's  immigration  status  was  precarious,  and  that
+    separation was a possibility [117].  Pursuant to section  117B  of  the
+    2002 Act, their family life attracted little weight,  the  judge  said.
+    There was no suggestion that the child would be required to  leave  the
+    United Kingdom if the appellant were removed: see [118].
+
+ 7. The judge found that the appellant  "cannot  satisfy  the  respondent's
+    definition of Article 8  ECHR".   There  would  be  no  "insurmountable
+    obstacles" [sic] to the appellant's removal to Iran [121].  There  were
+    no exceptional circumstances such that the appellant's removal would be
+    unjustifiably harsh.
+
+ 8. The judge considered that he did not enjoy the jurisdiction to consider
+    whether the appellant could  succeed  on  any  other  basis  under  the
+    Immigration  (European  Economic  Area)  Regulations  2016  ("the  2016
+    Regulations").  That would have been  a  "new  matter"  for  which  the
+    respondent had not  provided  her  consent  ([125]).   The  judge  made
+    findings on the point in any event.  There was no  "reliable"  evidence
+    to demonstrate whether  the  appellant's  partner's  claimed  part-time
+    employment at Pizza Hut was  genuine  and  effective  or  marginal  and
+    ancillary: see [126].
+
+ 9. Permission to appeal was granted by Upper Tribunal  Judge  Mandalia  on
+    the basis that the judge erred in assessing Article 8 in the context of
+    the best interests of the partner's child.
+
+Submissions
+
+10. First, the grounds contend that the judge erred by holding against  the
+    child the misconduct of the appellant  and  his  partner,  the  child's
+    mother.
+
+11. Secondly, the grounds contend that the judge was wrong not to treat the
+    child as a "qualifying child" for the purposes of  section  117D(1)  of
+    the  2002  Act.   This  is  because  Parliament's  exclusion   of   the
+    appellant's daughter from the  definition  of  "qualifying  child"  was
+    nationality-based discrimination in breach of Article 18 of the  Treaty
+    on the Functioning of the European Union ("TFEU").  Further,  it  would
+    not be reasonable to expect the child to leave the United Kingdom.
+
+12. Mr Bajha focused primarily on his second ground of appeal, relying upon
+    Nouazli v Secretary of State for the Home Department [2016] UKSC 16  at
+    [51].   He  submits  that  nationality-based  discrimination  is   only
+    permitted where it can  be  justified  objectively,  on  public  policy
+    grounds, relying on Nicolas Bressol and Others and C�line Chaverot  and
+    Others v Gouvernement de la Communaut� fran�aise Case  C-73/08.   There
+    is no legitimate public interest to justify the difference in treatment
+    between British citizen children under section 117D(1) and  EU  citizen
+    children, he submits.  Accordingly, the judge failed properly  to  deal
+    with the application and import of section 117B(6), as he was  required
+    by EU law to do.  Mr Bajha accepts that this was  not  a  point  raised
+    before the judge below, but submits that it was "Robinson obvious", and
+    should have been considered by the judge of his own motion.
+
+13. Mr Bramble submitted that the appellant had not  applied  to  have  his
+    position as the father of an EEA national child  determined  under  the
+    2016 Regulations.  In any  event,  he  submitted,  the  child  had  not
+    started education, was under three at the time; there was no suggestion
+    that her best interests were such as to override the  cumulative  force
+    of the reasons in favour of removing the appellant.
+
+The law
+
+14. Article 18 of TFEU provides, where relevant:
+
+         "Within the scope of  application  of  the  Treaties,  and  without
+         prejudice  to  any  special  provisions  contained   therein,   any
+         discrimination on grounds of nationality shall be prohibited."
+
+15. Article 24(1) of Directive 2004/38/EC of the European Parliament and of
+    the Council dated 29 April 2004, on the right of citizens of the  Union
+    and their family members to move and reside freely within the territory
+    of the Member States provides:
+
+         "Subject to such specific provisions as are expressly provided  for
+         in the Treaty and secondary law, all Union citizens residing on the
+         basis of this Directive in the territory of the host  Member  State
+         shall enjoy equal treatment with the nationals of that Member State
+         within the scope of the Treaty. The benefit of this right shall  be
+         extended to family members who are not nationals of a Member  State
+         and who have the right of residence or permanent residence."
+
+16. Section 117B(6) of the 2002 Act provides:
+
+         "(6) In the case of a person who is not liable to deportation,  the
+         public interest does not require the person's removal where-
+
+             (a)  the  person  has  a  genuine  and   subsisting   parental
+             relationship with a qualifying child, and
+
+             (b) it would not be reasonable to expect the  child  to  leave
+             the United Kingdom."
+
+17. The term "qualifying child" is defined  in  section  117D(1)  in  these
+    terms:
+
+         "'qualifying child' means a person who is under the age of  18  and
+         who -
+
+             (a) is a British citizen, or
+
+             (b) has lived in the United Kingdom for a continuous period of
+             seven years or more..."
+
+Discussion
+
+Best interests of the child
+
+18. A child must not be blamed for matters for  which  he  or  she  is  not
+    responsible, such as the conduct of a parent: see Zoumbas  v  Secretary
+    of State for the Home Department [2013] UKSC 74 at [10] per Lord Hodge.
+     There must be a full consideration of all relevant factors.
+
+19. The Court of Appeal developed the context for  any  assessment  of  the
+    best interests of a child in EV (Philippines) v Secretary of State  for
+    the Home Department [2014] EWCA Civ 874 in these terms, at [58]:
+
+         "...the assessment of the best interests of the  children  must  be
+         made on the basis that the facts are as they are in the real world.
+         If one parent has no right to remain, but the  other  parent  does,
+         that is the background against which the assessment  is  conducted.
+         If neither parent has  the  right  to  remain,  then  that  is  the
+         background against which the  assessment  is  conducted.  Thus  the
+         ultimate question will be: is it reasonable to expect the child  to
+         follow the parent with  no  right  to  remain  to  the  country  of
+         origin?"
+
+      The "real world" context test was endorsed by the Supreme Court in  KO
+    (Nigeria) v Secretary of State for the Home Department [2018]  UKSC  53
+    at [19].
+
+20. I find that the  judge  failed  to  apply  the  above  principles  when
+    addressing the best interests of the appellant's  daughter.   The  only
+    operative analysis the judge engaged in concerning the  best  interests
+    of the appellant's daughter was to  highlight  his  findings  that  the
+    appellant and his partner had "conspired"  to  bring  an  unmeritorious
+    asylum claim: see [116], quoted at paragraph  5,  above.   The  adverse
+    findings made by the judge against the appellant and his  partner  were
+    of no relevance  to  his  assessment  of  the  best  interests  of  the
+    appellant's daughter.  Yet he appeared to hold the parents'  misconduct
+    against the daughter.  Nor did he address  the  "real  world"  context.
+    These were errors of law.
+
+21. I must address the second ground of appeal to determine the materiality
+    of the above errors.
+
+The definition of "qualifying child" and EU citizen children
+
+22. Mr Bahja is correct to highlight the fact that section 117B(6)  of  the
+    2002 Act is not engaged by an EU citizen child in the same way as it is
+    by a British citizen child.  A British citizen child is  a  "qualifying
+    child" automatically.  By contrast, an EU citizen child (like any other
+    non-British child) will only be  a  "qualifying  child"  if  they  have
+    resided here for a continuous period of seven years or more.
+
+23. I should note that Mr Bahja did not submit that the distinction between
+    EU  and  British  children  contravenes   other   international   legal
+    obligations of the United Kingdom (for example,  Article  14  ECHR)  or
+    domestic anti-discrimination law, such as the Equality Act  2010.   The
+    sole focus of his case was that section 117B(6) contravenes Article  18
+    TFEU.
+
+24. Mr Bahja contends that section 117B(6) must be "read down"  to  include
+    EU citizen children, to avoid direct, nationality-based  discrimination
+    in contravention of EU law.
+
+25. Two preliminary observations are necessary.
+
+26. First, the submission was not raised before  the  First-tier  Tribunal.
+    It will not usually be an error of law for the First-tier Tribunal  not
+    to address a submission it was not invited to consider.  See  Hickey  v
+    Secretary of State for Work and Pensions [2018] EWCA Civ 851  at  [52],
+    per Coulson LJ.
+
+27. The submission is not, as Mr Bahja contends, "Robinson obvious".  If it
+    had been, it would have been an error of the judge not to consider  the
+    point, even though the parties had not raised it.   "Robinson  obvious"
+    has its origins in R v Secretary of State for The Home  Department,  Ex
+    parte Robinson [1998] Q.B.  929,  referring  to  the  obligation  on  a
+    tribunal to consider an "obvious" point of refugee law not raised by an
+    appellant.  At 946, Lord Woolf MR said, "[w]hen we refer to an  obvious
+    point we mean a point which has a strong prospect of success if  it  is
+    argued."
+
+28. The high threshold for a Robinson-obvious point was underlined recently
+    in AZ (error of law: jurisdiction; PTA practice) Iran [2018]  UKUT  245
+    (IAC) at [61]  to  [74],  and  in  Durueke  (PTA:  AZ  applied,  proper
+    approach) [2019] UKUT 197 (IAC).
+
+29. The appellant's submissions in the  present  matter  are  in  different
+    territory.  It is not "obvious"  that  the  definition  of  "qualifying
+    child" should be read so as to encompass an EU citizen  child  resident
+    for fewer than seven years.   For  the  reasons  set  out  below,  that
+    submission is without merit.
+
+30. Secondly, the jurisdiction of the First-tier Tribunal was, in  relation
+    to the Article 8 limb of the case, to  consider  whether  the  decision
+    would be unlawful under section 6 of the Human Rights Act 1998: see the
+    ground of appeal contained in section 84(1)(c) of  the  2002  Act.   By
+    contrast, the primary thrust of  Mr  Bahja's  submission  is  that  the
+    approach taken by Parliament in section 117D(1) of  the  2002  Act  was
+    such that the EU law rights of the appellant's daughter were  breached.
+    That is an entirely different argument, advanced pursuant to a separate
+    legal framework that sits within a different international legal  order
+    (the EU Treaties, rather than the European Convention on Human Rights),
+    relating primarily to the EU law rights enjoyed not by  the  appellant,
+    but by his daughter.
+
+31. While it is possible to raise, within the confines of an appeal  before
+    the First-tier Tribunal under the 2002 Act, a point of  law  concerning
+    the EU Treaties, that process was not followed before the judge  below.
+    An appellant may raise an EU law point in response to a  notice  served
+    under section 120 of the 2002 Act, or  as  a  "new  matter",  with  the
+    consent of the Secretary of  State:  see  Schedule  2(2)  to  the  2016
+    Regulations and Oksuzoglu (EEA appeal - "new matter") [2018]  UKUT  385
+    (IAC).
+
+32. Given the appellant did not seek to raise the novel  EU  law  point  on
+    which he now relies previously, either in response to the Secretary  of
+    State's notice issued to him under section 120 of the 2002  Act  on  15
+    January 2015, or as a "new matter" before the First-tier  Tribunal,  it
+    follows  that  the  First-tier  Tribunal  lacked  the  jurisdiction  to
+    consider whether the EU  ground  of  appeal  now  relied  upon  by  the
+    appellant was made out.  The prospect of the appellant enjoying a right
+    to reside on an unspecified EU  law  basis  was  canvassed  before  the
+    judge, but he  lacked  the  jurisdiction  to  consider  it.   The  same
+    restriction is not engaged in the Upper Tribunal, as a  superior  court
+    of record: see Birch (Precariousness and mistake; new  matters)  [2020]
+    UKUT 86 (IAC).
+
+33.  It  follows  that  the  judge's  purported  findings  concerning   the
+    appellant's partner's work and whether she  was  a  "qualified  person"
+    under regulation  6  of  the  2016  Regulations  were  reached  without
+    jurisdiction.  That was an error of law.
+
+Nationality discrimination under EU law
+
+34. Turning to the substantive submission under the second  ground,  it  is
+    necessary to recall that the appellant is not an  EU  citizen.   He  is
+    Iranian.  The rights conferred by  the  EU  Treaties  on  EU  citizens,
+    including  the  protection  against  nationality-based   discrimination
+    enjoyed by EU citizens under Article  18  TFEU  and  Article  24(1)  of
+    Directive 2004/38/EC are not  conferred  upon,  or  enjoyed  by,  third
+    country nationals who are outside the scope of EU law.
+
+35. Although the appellant relies on Nouazli in order to  substantiate  his
+    claim of discrimination, it is of no assistance.  The issue in  Nouazli
+    was whether Mr Nouazli, an  Algerian  citizen  with  EU  free  movement
+    rights in the United Kingdom acquired by marriage to his  French  wife,
+    suffered discrimination contrary to Article 18 TFEU on account  of  his
+    detention under the Immigration (European  Economic  Area  Regulations)
+    2006 in circumstances where no equivalent power of detention would have
+    been available had he been a  person  subject  to  immigration  control
+    under the Immigration Act 1971.  The power in question was to detain on
+    an anticipatory basis, pending a full deportation decision being taken.
+     There was no power of so-called  "anticipatory  detention"  under  the
+    1971 Act for third country nationals subject  to  immigration  control.
+    Mr Nouazli argued that he was subject to  a  more  draconian  detention
+    regime as a result of his  EU  law  rights  than  other  third  country
+    nationals subject  to  immigration  control  would  face,  contrary  to
+    Article 18 TFEU.
+
+36. The Supreme Court held that Article 18 TFEU  was  only  concerned  with
+    discrimination between EU citizens and  citizens  of  the  host  Member
+    State.  The EU law prohibition against nationality-based discrimination
+    did not apply in relation to rights enjoyed by  EU  citizens  (and,  by
+    extension under Article 24(1)  of  Directive  2004/38/EC,  their  third
+    country family members residing under the directive) when compared with
+    those wholly outside the EU regime.  At [43], Lord Clarke noted that in
+    Vatsouras v Arbeitsgemeinschaft (AGRE) N�rnberg 900  (Joined  Cases  C-
+    22/08 and C-23/08) [2009] All ER (EC) 747, the Court of Justice of  the
+    European Union ("the CJEU") held at [52] that what is  now  Article  18
+    TFEU:
+
+         "concerns situations coming within the scope of  Community  law  in
+         which  a  national  of  one  Member  State  suffers  discriminatory
+         treatment in relation to nationals of another Member  State  solely
+         on the basis of his nationality and is not  intended  to  apply  to
+         cases of a possible difference in treatment  between  nationals  of
+         Member States and nationals of non-member countries."
+
+    Vatsouras concerned whether it was discriminatory for a Member State to
+    confer social benefits on certain third country nationals but not on EU
+    citizens residing there.  The case was not confined to its facts,  held
+    Lord Clarke.  It was setting out  general  principles:  see  [43].   It
+    remains good EU law; see, for example, Opinion 1/15 Re CETA  Investment
+    Court System (Belgium and others) at [169], handed down by the CJEU  on
+    30 April 2019.
+
+37. Against that background, at [51], Lord Clarke highlighted  the  limited
+    scope of Article 24(1) of Directive 2004/38/EC.  Lord Clarke said  that
+    Article 24(1):
+
+         "...makes clear that the relevant comparators for the  purposes  of
+         the Directive are the nationals of the host member state  but  [it]
+         does not include  and  is  not  concerned  with  discrimination  as
+         regards third country nationals who fall entirely outside the scope
+         of EU law."
+
+38. Thus, it was not open to Mr Nouazli to seek to compare his liability to
+    anticipatory detention with the absence of  a  corresponding  power  of
+    detention for those subject to immigration control under the 1971  Act.
+    Such persons were not relevant comparators for the purposes of EU anti-
+    discrimination law; they were wholly  outside  the  scope  of  EU  law.
+    Pursuant to the way the Advocate General  summarised  the  position  in
+    Vatsouras at [AG66]:
+
+           "[Article 18] TFEU seeks  to  eliminate  discrimination  between
+           Community citizens and nationals of the host  member  state  but
+           does not offer guidelines  for  eliminating  the  discrimination
+           complained of by the referring court."
+
+39. It follows that the issue at the heart of Nouazli's anti-discrimination
+    claim is of no assistance to the appellant;  it  concerns  a  different
+    form of alleged discrimination which, in the event, was held not to  be
+    discrimination contrary to the EU Treaties at all.
+
+40. The appellant's complaint must therefore be analysed on the basis  that
+    he contends that it is his  Polish  daughter  who  suffers  nationality
+    discrimination when compared to  the  hypothetical  British  qualifying
+    child.  Put this way, submits Mr Bahja, the daughter is potentially  at
+    risk of her father being removed, even if it would  not  be  reasonable
+    for her to leave the country, in circumstances in which the removal  of
+    a person in a genuine  and  subsisting  parental  relationship  with  a
+    British citizen child would be regarded as  not  being  in  the  public
+    interest, if it were not reasonable to expect the child to leave.
+
+41. For the reasons set out below, this submission is without merit.
+
+Discrimination on grounds of nationality: scope of EU law?
+
+42. The EU law prohibition against nationality discrimination  arises  only
+    in relation to situations that are within the scope of EU law.  So much
+    is clear from Article 18 TFEU itself: "Within the scope of  application
+    of the Treaties... any discrimination on grounds of  nationality  shall
+    be prohibited" (emphasis added).
+
+43. Article 24(1) of  Directive  2004/38/EC  gives  expression  to  the  EU
+    prohibition against nationality-based discrimination  in  the  specific
+    context of the free  movement  of  persons.   It  provides  that  Union
+    citizens and their "family members" residing in the host  Member  State
+    pursuant to  the  residence  rights  it  confers,  "shall  enjoy  equal
+    treatment with the nationals of that Member State within the  scope  of
+    the  Treaty".   The  emphasis  added  demonstrates  the  scope  of  the
+    principle, which is limited to those areas covered by the EU  Treaties,
+    reflecting the delineation of competences between EU Member States  and
+    the EU.   The context for the above provision is  provided  by  Recital
+    (20) to the Directive, again with emphasis added:
+
+         "In accordance with the prohibition of discrimination on grounds of
+         nationality, all Union citizens and their family  members  residing
+         in a Member State on the basis of this Directive should  enjoy,  in
+         that Member State, equal treatment with nationals in areas  covered
+         by the Treaty, subject to such specific provisions as are expressly
+         provided for in the Treaty and secondary law."
+
+44. In the free movement of persons context, the CJEU  has  underlined  the
+    limitation of EU rules in this area to situations within the  scope  of
+    EU law.  The court noted in McCarthy v Secretary of State for the  Home
+    Department Case C-434/09 at [45] that:
+
+         "...it is settled case law that the Treaty rules governing  freedom
+         of movement for persons and the measures adopted to implement  them
+         cannot be applied to situations which have no factor  linking  them
+         with any of the  situations  governed  by  EU  law  and  which  are
+         confined in all relevant respects  within  a  single  Member  State
+         (see, to that effect, Government of the French Community v Flemish
+         Government (C-216/06) [2008] E.C.R. I-1683; [2008] 2 C.M.L.R. 31 at
+         [33], and Metock [2008] 3 C.M.L.R. 39 at [77])."
+
+45. The primary question  for  consideration,  therefore,  is  whether  the
+    appellant's daughter's relationship with him is  a  situation  that  is
+    "within the scope" of the EU Treaties?  Or, by contrast, is  there  "no
+    factor" linking the appellant's relationship with his daughter "to  any
+    of the situations governed by EU law"  meaning  that  it  is  "confined
+    [from the EU law perspective] in all relevant respects within a  single
+    Member State"?  The term  the  CJEU  often  uses  to  describe  such  a
+    scenario is a "wholly internal  situation"  (see,  for  example,  KA  v
+    Belgium Case C-82/16 and the authorities cited at [30]).
+
+46. The appellant's daughter's residence will, at all material times,  have
+    been governed by Directive 2004/38/EC and the EU Treaties.    Directive
+    2004/38/EC does not classify the appellant as a "family member" of  his
+    daughter.  Although ordinarily a broad  term,  "family  member"  has  a
+    limited scope as defined by the directive.  Article  2(2)  defines  the
+    term "family member" to include spouses,  registered  partners,  direct
+    descendants under the age of 21, and dependent direct relatives in  the
+    ascending line.  The appellant is not, under that definition, a "family
+    member" of his daughter, and his relationship with her is  not  "within
+    the scope of the Treaties" on that basis.
+
+47. The appellant has not been recognised by the Secretary of  State  as  a
+    "durable partner" of his Polish partner, under  Article  3(2)(b).   Nor
+    was he married to his partner or in a registered  partnership,  meaning
+    he cannot be a "family  member"  on  that  account.   Accordingly,  the
+    appellant's family life situation is not within the scope of  Directive
+    2004/38/EC, and cannot be within the scope  of  the  Treaties  on  that
+    basis.
+
+48. There are, of course, situations when  a  third  country  national  may
+    enjoy a right to reside conferred directly by the EU Treaties, in order
+    to ensure an EU citizen is  not  deprived  of  the  benefits  of  Union
+    citizenship: see the doctrine established  by  Zambrano  Case  C-34/09.
+    The underlying rationale was described as  the  "effective  citizenship
+    principle" by Lady  Justice  Arden  (as  she  then  was)  in  Sanneh  v
+    Secretary of State for Work and Pensions [2015] EWCA Civ 49 at [4].  At
+    [5], she said:
+
+         "The effective citizenship principle means that member  states  may
+         not indirectly remove the benefits of a person's status  as  an  EU
+         citizen."
+
+49.  Chavez-Vilchez  and  others  v  Raad  van  bestuur  van   de   Sociale
+    verzekeringsbank and others Case C-133/15 was  a  continuation  of  the
+    Zambrano line of authority.  The CJEU confirmed that the  residence  of
+    third country nationals falls  within  the  competence  of  the  Member
+    States, save for those situations  where  a  third  country  national's
+    continued presence is necessary to secure the  continued  enjoyment  of
+    Union citizenship rights of  an  EU  citizen.   The  court  held,  with
+    emphasis added:
+
+         "63.  In this connection, the court has already held that there are
+         very specific situations in which...  a  right  of  residence  must
+         nevertheless be granted to a third-country national who is a family
+         member of that Union citizen,  since  the  effectiveness  of  Union
+         citizenship would otherwise be undermined, if, as a consequence  of
+         refusal of such a right, that citizen would be obliged in  practice
+         to leave the territory of the  European  Union  as  a  whole,  thus
+         depriving him of the genuine enjoyment  of  the  substance  of  the
+         rights conferred by that status: Ruiz Zambrano's case, paras 43-44;
+         Dereci's case, paras 66-67; Rend�n Mar�n's case, para 74  and  S  v
+         Secretary of State for the Home Department, para 29.
+
+         64.  The situations referred to in the preceding paragraph have the
+         common feature that, although  they  are  governed  by  legislation
+         which falls, a priori, within the competence of the member  states,
+         namely legislation on the right of entry and  residence  of  third-
+         country nationals outside the scope of provisions of  EU  secondary
+         legislation, which provide for the grant  of  such  a  right  under
+         certain  conditions,  those  situations  none  the  less  have   an
+         intrinsic connection with the freedom of movement and residence  of
+         a Union citizen, which precludes the right of entry  and  residence
+         from being refused to  those  nationals  in  the  member  state  of
+         residence of that citizen, in order to avoid interference with that
+         freedom: Rend�n Mar�n's case, para 75 and S v  Secretary  of  State
+         for the Home Department, para 30 and the case law cited."
+
+50. Two propositions are clear from the above extract.
+
+51. First, residence rights of third country nationals outside the scope of
+    EU secondary legislation (for example, Directive 2004/38/EC) ordinarily
+    fall within the competence of the Member States and therefore will  not
+    be within the scope of the Treaties.  As a consequence,  Member  States
+    are free to enact domestic legislation in such areas, provided in doing
+    so they have regard to situations covered by EU law  upon  which  there
+    may be an impact (see Rottman  v  Freistaat  Bayern  Case  C-135/08  at
+    [41]).
+
+52. Secondly, it is only where a national measure would have the effect  of
+    depriving a Union citizen of the genuine enjoyment of the substance  of
+    the rights concerned by the virtue of their  status  that  a  right  to
+    reside must be conferred on the  third  country  national.   The  third
+    country national's continued presence in the host Member State must  be
+    required to avoid an interference  with  the  substance  of  the  Union
+    citizenship rights of the EU citizen in question.  Rights to reside  on
+    this basis are often termed "derivative" rights, as the  third  country
+    national's right to reside derives from that of a  Union  citizen.   In
+    the case  of  minors,  the  assessment  of  the  required  presence  of
+    dependency must be based on an assessment of the best interests of  the
+    child, including the child's age, physical and  emotional  development,
+    the emotional ties to each parent, and the risks which separation  from
+    the third  country  national  parent  might  entail  for  that  child's
+    equilibrium.  See the third unnumbered bullet point of paragraph [2] of
+    the operative part of the judgment of the CJEU  in  KA  v  Belgium,  as
+    applied by the Supreme Court in Patel v Secretary of State for the Home
+    Department [2019] UKSC 59 at [28] to [30], drawing on Chavez-Vilchez at
+    [71].
+
+53. Applying the above considerations to the present matter, I recall  that
+    the appellant is a third country national with no leave  to  remain  in
+    the United Kingdom.  He  is  not  a  "family  member"  under  Directive
+    2004/38/EC.  The mere fact that  the  appellant's  daughter  is  an  EU
+    citizen who may be residing in the United Kingdom on the  basis  of  EU
+    law is not a sufficient nexus with EU law to extend to bring the family
+    life situation of the appellant within the scope of the Treaties, given
+    the non-inclusion of the appellant as a "family member" of his daughter
+    in Directive 2004/38/EC, and the fact that his continued residence  has
+    not been recognised on a derivative rights basis.   Mr  Bahja  did  not
+    take me to any EU legislation concerning family  unification  or  third
+    country residence rights in relation to which the  United  Kingdom  has
+    exercised its ability to opt-in,  or  that  otherwise  applies  to  the
+    United Kingdom, which is engaged in relation  to  the  appellant.   The
+    appellant's  family  life  with  his  daughter  is  a  wholly  internal
+    situation.
+
+54. The fact that (an entirely separate) EU avenue is potentially  open  to
+    the appellant highlights the futility of his nationality discrimination
+    submissions and underlines the difficulties inherent in  comparing  the
+    EU residence regime to the domestic immigration control equivalent.
+
+55. If the appellant is successful in gaining recognition of any claimed EU
+    law-based derivative right to reside, that will  of  course  bring  his
+    situation "within the scope of the Treaties", potentially removing  the
+    barrier he  currently  faces  to  relying  on  his  daughter's  claimed
+    discrimination contrary to Article 18 TFEU.  However, by definition, if
+    such a derivative  (or  other)  right  to  reside  is  recognised,  his
+    daughter will not face a discriminatory situation when compared with  a
+    hypothetical  British  qualifying  child.    The   discrimination   the
+    appellant  complains  that  his  daughter  currently  faces  will  have
+    vanished.  The appellant  would  enjoy  a  right  to  reside,  and  his
+    daughter would be able to enjoy his continued presence in this country.
+
+
+
+56. In those circumstances, far from experiencing less favourable treatment
+    than  the  hypothetical  British  qualifying  child,  the   appellant's
+    daughter would enjoy more  favourable  treatment.   The  engagement  of
+    section 117B(6) only arises where  a  person  faces  possible  removal,
+    which would not be a risk for her father,  who  would  have  secured  a
+    right to reside.  The hypothetical British child who enjoys the benefit
+    of section 117B(6) merely enjoys the ability for their parent not to be
+    removed if it would not be reasonable to expect the child to leave  the
+    United Kingdom.  By contrast,  no  such  reasonableness  considerations
+    would arise under EU law once the appellant had secured recognition  of
+    a derivative right to reside.
+
+57. By contrast, if the appellant is unsuccessful in  securing  recognition
+    of a derivative or other EU-based right to  reside,  it  would  confirm
+    that  his  situation  is  not  "within  the  scope  of  the  Treaties",
+    preventing him from relying  on  his  daughter's  putative  nationality
+    discrimination by proxy.  The position as at the date  of  the  hearing
+    below, of course, was that the appellant  had  not  even  attempted  to
+    secure recognition of any form of derivative right  to  reside  through
+    his daughter, and jurisdictionally it was not the role of the judge  to
+    consider the issue.
+
+58. Accordingly, whether the appellant is  successful  or  unsuccessful  in
+    gaining recognition of any claimed derivative right to reside, the fact
+    that EU law makes provision for him to attempt to  do  so  demonstrates
+    that the discrimination he claims his daughter faces in  breach  of  EU
+    law is incapable of being established within the confines of this human
+    rights appeal.
+
+59. It follows that the difference in the application of section 117B(6) to
+    the appellant's Polish daughter and a hypothetical  British  qualifying
+    child is  not  within  the  scope  of  the  Treaties,  and,  therefore,
+    incapable of amounting to nationality  discrimination  contrary  to  EU
+    law.  This is fatal to Mr Bahja's submission.  Accordingly,  the  judge
+    did not fall into error through his non-application of section  117B(6)
+    to the Article 8 ECHR proportionality assessment.
+
+Postscript: Bressol
+
+60. Mr  Bahja's  reliance  on  Bressol  is  misplaced.   Bressol  concerned
+    indirect discrimination on grounds of nationality, and the need for  an
+    objective justification for that form of discrimination.  By  contrast,
+    the  appellant  submits  that  his  daughter  is  a  victim  of  direct
+    discrimination, which can never be justified.  Although  Mr  Bahja  did
+    not  pursue  a  fall-back   indirect   discrimination   argument,   the
+    prohibition is only engaged in relation to comparator  situations  that
+    are within the scope  of  the  Treaties.   There  can  be  no  indirect
+    discrimination within the scope of the Treaties here, for  the  reasons
+    set out above.
+
+Application to the present matter
+
+61. The decision of Judge Fox involved the making of an  error  of  law  in
+    assessing  the  appellant's  daughter's  best  interests  and  reaching
+    findings beyond the Tribunal's jurisdiction on whether his partner  was
+    a "qualified  person".   I  set  aside  his  decision,  preserving  his
+    unchallenged asylum and related findings of fact, and the  findings  of
+    fact which went to the Article 8 analysis.  I will remake the  decision
+    insofar as it relates to the best interests of the appellant's daughter
+    and the proportionality of the appellant's removal under Article 8.
+
+62. The central issue  is  whether  it  would  be  proportionate,  for  the
+    purposes of Article  8(2)  ECHR,  for  the  appellant  to  be  removed,
+    treating the best interests of his daughter as a primary consideration.
+
+63. The "real world" context of the appellant's family  unit  is  that  his
+    partner and daughter are Polish.  Mother and daughter  do  not  require
+    leave to remain and  claim  to  enjoy  a  right  to  reside  under  the
+    relatively favourable regime established by the 2016 Regulations.  Both
+    will be eligible to apply for pre-settled or settled status  under  the
+    EU Settlement  Scheme,  subject  to  a  detailed  assessment  of  their
+    circumstances.  The appellant is Iranian; relocation of the family unit
+    to Iran is likely to present considerable difficulties; the  judge  did
+    not countenance the possibility of the family unit relocating to  Iran,
+    and there is nothing to suggest that it would be possible.  Mr  Bramble
+    did not suggest relocation to Iran would be reasonable.  The judge  did
+    find that the  couple  were  free  to  explore  relocation  to  Poland,
+    pursuant to the domestic arrangements there for the appellant's partner
+    to sponsor his residence.  The appellant's daughter is now three  years
+    old.  The judge found that  she  speaks  English  and  Polish,  and  is
+    involved in the Catholic faith, albeit in a limited manner (see [118]).
+     No safeguarding concerns have been presented.  The "ultimate question"
+    of whether it is reasonable to expect the  child  to  relocate  to  the
+    "country of  origin"  (EV  (Philippines)  at  [58])),  in  the  current
+    context, is whether it is reasonable to expect the child to follow  the
+    appellant to Iran.  Plainly it would not be. The child's best interests
+    are to remain living with  the  family  unit,  whether  in  the  United
+    Kingdom or Poland.
+
+64. Factors in favour of the removal of the appellant include:
+
+        a. The public interest in the maintenance of effective  immigration
+           controls (section 117B(1));
+
+        b. The appellant does not meet any requirements of the  Immigration
+           Rules;
+
+        c. The appellant's English is limited; he gave evidence before  the
+           First-tier Tribunal in Kurdish Sorani (section 117B(2));
+
+        d. The appellant entered the  United  Kingdom  unlawfully  and  has
+           never held leave to remain;
+
+        e. Little weight should be given to the  appellant's  private  life
+           and his relationship with his partner, as it was established  at
+           a time when the appellant's immigration status was unlawful.
+
+65. Factors mitigating against removal include:
+
+        a. The appellant's removal would not be consistent  with  the  best
+           interests of the appellant's daughter, which are to remain  here
+           or to move to Poland, her country of  nationality.   This  is  a
+           primary consideration;
+
+        b. The appellant enjoys family life with  his  Polish  partner  and
+           daughter;
+
+        c. The appellant has worked as a barber in the past and there is no
+           evidence that he has claimed any benefits and is  not  otherwise
+           financially independent (the judge noted that the appellant  did
+           not know whether his partner claimed housing benefit but made no
+           positive findings on the point).  He wants to continue  to  work
+           in the future;
+
+        d. The appellant has established a private life  in  this  country,
+           since his clandestine arrival in January 2015.
+
+66. I consider the factors in favour of the removal  of  the  appellant  to
+    outweigh  those  mitigating  against  his  removal.   While  the   best
+    interests of his daughter are for the family unit to remain intact  and
+    are not consistent with her returning to Iran with  him,  or  remaining
+    here in the absence of the appellant,  the  cumulative  weight  of  the
+    factors in favour of the appellant's removal are capable of outweighing
+    her best interests.  Even treating his daughter's best interests  as  a
+    primary consideration does not  have  the  effect  of  outweighing  the
+    combined force of the factors in favour  of  the  appellant's  removal.
+    The daughter falls within a  category  of  children  resident  in  this
+    country in relation  to  which  Parliament  has  legitimately  drawn  a
+    distinction from British citizens, and she does not enjoy  the  benefit
+    of  section  117B(6).   The  public  interest  in  the  maintenance  of
+    immigration control is a weighty factor.  This  appellant  entered  the
+    United Kingdom unlawfully, sought to pursue a fabricated asylum  claim,
+    and has resided here unlawfully ever  since.  This  decision  does  not
+    necessarily lead to permanent separation of the family unit;  there  is
+    no evidence that the appellant and his partner would  not  be  able  to
+    relocate to  Poland.   The  removal  of  the  appellant  would  not  be
+    disproportionate for the purposes of Article 8(2) ECHR.
+
+67. This appeal is dismissed.
+
+
+Notice of Decision
+
+The decision of Judge Fox involved the making of an error of law and is  set
+aside.  His findings concerning the appellant's asylum claim are preserved.
+
+I have remade the decision, dismissing it on Article 8 grounds.
+
+
+Direction Regarding Anonymity - Rule 14 of  the  Tribunal  Procedure  (Upper
+Tribunal) Rules 2008
+
+Unless and until a Tribunal or court directs  otherwise,  the  appellant  is
+granted anonymity.   No  report  of  these  proceedings  shall  directly  or
+indirectly identify him or any  member  of  their  family.   This  direction
+applies both to the appellant and to  the  respondent.   Failure  to  comply
+with this direction could lead to contempt of court proceedings.
+
+
+
+Signed   Stephen H Smith                                       Date  2  June
+    2020
+
+Upper Tribunal Judge Stephen Smith
+
+
+

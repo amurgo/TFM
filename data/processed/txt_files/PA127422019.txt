@@ -1,0 +1,645 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: PA/12742/2019 (v)
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Cardiff Civil Justice Centre       |Decision & Reasons Promulgated  |
+|Remotely by Microsoft Teams                 |On the 29th June 2021           |
+|On the 10th June 2021                       |                                |
+|                                            |                                |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE GRUBB
+
+                                   Between
+
+                                     GS
+                         (ANONYMITY DIRECTION MADE)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Ms A Imamovic instructed by Wright Justice
+Solicitors
+For the Respondent:    Mr A Tan, Senior Home Office Presenting Officer
+
+
+                            DECISION AND REASONS
+
+ 1. Pursuant to rule 14 of the Tribunal Procedure  (Upper  Tribunal)  Rules
+    2008 (SI 2008/2698) I  make  an  anonymity  order.   Unless  the  Upper
+    Tribunal or court directs otherwise, no  report  of  these  proceedings
+    shall directly or indirectly identify the  appellant.   This  direction
+    applies to both the appellant and to the respondent and  a  failure  to
+    comply with this direction could lead to Contempt of Court proceedings.
+
+Introduction
+
+ 2. The appellant is a citizen of India who was born on 3 February 1981.
+
+ 3. The appellant first entered the United Kingdom in December  2009  as  a
+    student with leave valid  until  30  November  2011.   That  leave  was
+    subsequently extended to  30  July  2012.   Thereafter,  the  appellant
+    remained in the UK as an overstayer.
+
+ 4. On 12 May 2015, the appellant, having  travelled  to  Ireland,  claimed
+    asylum in Ireland.  However, he did  not  remain  in  Ireland  for  any
+    decision and returned to the UK.
+
+ 5. On 19 June 2016, the appellant  entered  the  United  Kingdom.   On  15
+    August 2017, he was encountered by immigration officials and  detained.
+    On 19 August 2017, the appellant claimed  asylum.   The  basis  of  his
+    claim was, and is, that he feared a committee in his temple (Gurdwara),
+    where he had declined to take over his  father's  role,  following  the
+    latter's death, as secretary/cashier.  He claimed that a fake  FIR  had
+    been lodged against him and that he had been physically assaulted on  a
+    number of occasions.
+
+ 6. On 12 November 2019, the Secretary of  State  refused  the  appellant's
+    claims for asylum, humanitarian protection and under the ECHR.
+
+The Appeal to the First-tier Tribunal
+
+ 7. The appellant appealed to the First-tier Tribunal.  In a decision  sent
+    on 24 September 2020, Judge Barker dismissed the appellant's appeal  on
+    all grounds.  First, the judge made an adverse credibility finding  and
+    did not accept that the appellant would be at risk, on the  basis  that
+    he claimed, from the committee members of the Gurdwara.  Secondly,  the
+    judge rejected the appellant's claim under Art 3 of the ECHR that there
+    was a real risk, due to his  mental  health  problems,  that  he  would
+    commit suicide on return to India.  Thirdly,  the  judge  rejected  the
+    appellant's claim under para 276ADE(1)(vi) of the Immigration Rules (HC
+    395 as amended) and outside the Rules under Art 8 of the ECHR.
+
+The Appeal to the Upper Tribunal
+
+ 8. The appellant sought permission to appeal to the Upper  Tribunal  on  a
+    number of detailed grounds.
+
+ 9. First, it was contended that in dismissing the appellant's appeal under
+    Art 3 of the ECHR the judge had failed to take into account an  updated
+    addendum psychiatric report from Dr Nabavi  dated  5  April  2020.   In
+    addition, the judge had wrongly given only limited or diminished weight
+    to letters from the appellant's GP on the basis that these letters  did
+    not comply with the Practice Direction on expert evidence.  As  regards
+    Art 3,  the  grounds  contend  that  the  evidence  before  the  judge,
+    including the addendum report and GP letters, established a prima facie
+    case under Art 3 and the onus was upon  the  respondent  to  show  that
+    treatment for the appellant's mental health was available ("Ground 1").
+
+
+
+10. Secondly, the grounds contend that the  judge  erred  in  reaching  her
+    adverse credibility finding, in  particular  in  identifying  (wrongly)
+    inconsistencies in the appellant's evidence, finding without supporting
+    background evidence that documentation relied upon, including an arrest
+    warrant, was not reliable and that the description of  the  appellant's
+    offences under the Indian Penal Code were inconsistent with  his  claim
+    ("Ground 2").
+
+11. Thirdly, the judge had erred in  assessing  whether  there  were  "very
+    significant  obstacles"  to  the  appellant's  integration  under  para
+    276ADE(1)(vi) and in assessing his claim outside the Rules under Art  8
+    ("Ground 3").
+
+12. On 23 October 2020, the First-tier Tribunal (Judge Nightingale) granted
+    the appellant permission to appeal.
+
+13. Subsequently, the appellant filed further submissions in support of the
+    appeal dated 21 December 2020 and the Secretary of State filed  written
+    submissions in response to the appellant's grounds of  appeal  dated  6
+    January 2021.
+
+14. On 22 December 2020, the  appellant's  legal  representatives  made  an
+    application  under  rule  15(2A)  of  the  Tribunal  Procedure   (Upper
+    Tribunal) Rules 2008 to admit further evidence relating to  the  ground
+    of appeal which contends that the judge erred in law by not considering
+    the addendum report from Dr Nabavi.  I  have  admitted  that  evidence,
+    relevant to  the  error  of  law  issue,  without  objection  from  the
+    respondent.
+
+15. The appeal was listed for a remote hearing on  10  June  2021.   I  was
+    based in the Cardiff Civil Justice Centre and Ms Imamovic  and  Mr  Tan
+    joined the hearing by Microsoft Teams.
+
+16. In addition to relying upon their earlier written submissions, I  heard
+    oral submissions from both representatives.
+
+Discussion
+
+17. I will consider each of the grounds relied upon by Ms Imamovic and both
+    representatives' submissions in relation to those grounds in turn.
+
+    Ground 1
+
+18. The appellant claimed that on return to India he was at  real  risk  of
+    committing suicide as a result  of  his  mental  health  problems  and,
+    applying the test in AM (Zimbabwe) v SSHD  [2020]  UKSC  17  (at  [27]-
+    [31]), his return would breach Art 3 of the ECHR.
+
+19. In order to support  that  claim,  the  appellant  relied  upon  expert
+    evidence from a  consultant  psychiatrist,  Dr  Behrouz  Nabavi.   That
+    evidence was set out in a report dated 24 July 2020.  In addition,  and
+    this is now accepted by Mr Tan on behalf  of  the  Secretary  of  State
+    based upon the evidence filed with the rule 15(2A) application from the
+    appellant's legal representatives, an addendum  report  dated  6  April
+    2020 was sent to both the First-tier Tribunal and the respondent on  28
+    July 2020 in advance of the hearing.  Again, based  upon  the  evidence
+    now filed, it is clear that neither the  First-tier  Tribunal  nor  the
+    respondent has any record of having received that addendum report.
+
+20. In the result, Judge Barker made no reference to that  addendum  report
+    referring only to the original report of Dr  Nabavi.   The  judge  made
+    specific reference to that report at paras 115 and 116 of her decision.
+     She said this:
+
+         "115.    The appellant relies  on  a  psychiatric  report  from  Dr
+             Behrouz  Nabavi,  dated  8th   March  2018  and  based  on  an
+             assessment of the appellant on  5th  March  2018  (AB  32-59).
+             This is two and a � years old now, and whilst it  details  the
+             appellant's mental health  condition  thoroughly  and  reports
+             that  the  appellant  fulfils  the  diagnostic  criteria   for
+             recurrent  depressive  disorder,  it  is  very  old,  in  fact
+             concludes that with  engagement  with  professionals  and  the
+             recommended psychological interventions, Dr Nabavi anticipates
+             an overall noticeable recovery to be measured in the order  of
+             two years.  As I have indicated it is over two years now since
+             this report was written.
+
+         116. Dr Nabavi was unable to reference any earlier medical  records
+             of the appellant, and the appellant confirmed to  him,  as  he
+             did to me in evidence, that he has not registered with a GP in
+             the United Kingdom since his return from Ireland in 2016".
+
+    Then, at para 117 the judge noted:
+
+         "It is  clear  that  the  only  medical  evidence  I  have  of  the
+         appellant's health, is that relating to his  condition  only  since
+         2018".
+
+21. The  judge then referred to letters from the appellant's  GP  dated  25
+    April 2019 and February 2020.  I will return to these  later  and  that
+    that evidence was entitled to diminished weight because  it  failed  to
+    comply with the Practice Direction relating to expert evidence.
+
+22. At paras 128-129, the judge said this:
+
+         "128.    However, bearing in mind  the  standard  of  proof,  I  do
+             accept that the appellant  was  diagnosed  with  a  depressive
+             disorder in 2018 and has since completed a course  of  therapy
+             to help him manage his depression, and has now been discharged
+             from the mental health service,  and  was  in  February  2020,
+             prescribed Sertraline, and anti-depressant  medication,  which
+             he has been prescribed since about March 2018.
+
+         129. I do not find though that the appellant is currently  at  risk
+             of suicide, and  find  that  the  evidence  submitted  by  the
+             appellant,  demonstrates  his  condition  is   stabilised   on
+             medication and the conclusion of Dr Nabavi that he anticipated
+             an overall noticeable recovery to be measured in the order  of
+             two  years,  has  been  borne  out  given  the  treatment  and
+             assistance the appellant has received in that time".
+
+23. At para 132 the judge said this:
+
+         "132.    In the appellant's case, given my  findings  above,  I  am
+             satisfied  that  he  suffers  from  depression  for  which  he
+             currently receives medication.  I have seen no  evidence  that
+             he requires any other treatment, and  no  evidence  about  the
+             effect on an inability to access such treatment.  However,  it
+             seems to follow that without  the  prescribed  medication  the
+             state  of  the  appellant's  mental  health  would   diminish,
+             although whether there is  a  real  risk  of  suicide  is  not
+             clear".
+
+24. At paras 133-135, the  judge,  applying  the  test  in  AM  (Zimbabwe),
+    concluded that it had not  been  established  that  there  would  be  a
+    "serious, rapid and irreversible  decline  in  the  appellant's  health
+    resulting in intense suffering" or "a  significant  reduction  in  life
+    expectancy" and that there was no evidence of an absence of appropriate
+    treatment in India or that the appellant would be unable to access  it.
+
+
+
+25. On behalf of the appellant, Ms Imamovic submitted that in her  skeleton
+    argument before the FTT she had made specific reference to, and  relied
+    upon, Dr Nabavi's addendum report.  She understood that that report was
+    before the judge.  She anticipated that the judge would  take  it  into
+    account in assessing the appellant's mental health and the implications
+    to him of returning to India.  In particular,  that  report  recognises
+    that, in April 2020,  the  appellant  "continues  suffering  from  both
+    residual and acute symptoms of recurrent depressive disorder" (at  para
+    30).  At para 33 it states:
+
+         "In addition, I felt that [the appellant] had developed a  worrying
+         sense of hopelessness and helplessness with further increase in the
+         intensity and frequency of suicidal preoccupation".
+
+26. Then at para 37, Dr Nabavi expresses the following opinion:
+
+         "In my opinion, on the balance of probabilities I believe that [the
+         appellant's] psychiatric condition is highly likely to deteriorate,
+         should he be forced to move out of the United Kingdom".
+
+27. At para 39, Dr Nabavi concludes:
+
+         "Henceforth,  considering  his  overall  physical  and  psychiatric
+         states and his family and cultural background, I  have  significant
+         concerns about his safety, including his mental health and  further
+         increase in the risk of suicide, should he be returned to [India]".
+
+28. Ms Imamovic submitted that the judge, had she taken this material  into
+    account, might have reached a different conclusion in relation  to  the
+    appellant's claim based upon a risk of suicide and Art 3 of  the  ECHR.
+    She submitted that, given that it was clear from her skeleton  argument
+    that she relied on this report and made specific reference to it, there
+    was a procedural irregularity and unfairness when  the  judge  did  not
+    alert her to the fact that the report was not available to the judge.
+
+29. Mr Tan, on behalf  of  the  Secretary  of  State,  submitted  that  the
+    appellant's case was essentially one of fairness.  He submitted that Ms
+    Imamovic had indicated to the judge, as recorded  at  para  18  of  her
+    decision, that there was no additional documents apart  from  case  law
+    and country guidance referred to in the appellant's  skeleton  argument
+    which she need consult.  In  any  event,  Mr  Tan  submitted  that,  in
+    effect, the judge's failure to refer to the addendum expert report  was
+    not material  to  her  decision  as  the  judge  accepted  Dr  Nabavi's
+    diagnosis in 2018 in his report.  The addendum report did no more  than
+    mirror that original report.
+
+30. Had Dr Nabavi's addendum report been part of the documents before Judge
+    Barker, it would undoubtedly have been an error of law for the judge to
+    fail to take it into account.  Here, however, it is accepted that Judge
+    Barker did not have a copy of the addendum  report.   It  is  accepted,
+    however, that the report was sent by the appellant's representatives to
+    both the First-tier Tribunal and the respondent.  That, in my judgment,
+    is a proper conclusion given the witness statement dated 2 October 2020
+    signed by Mr Khan,  a  solicitor  representing  the  appellant  and  is
+    supported by the outgoing post ledger, a copy of which was  filed  with
+    that statement.  I have no hesitation in accepting  that  the  addendum
+    report was, at least, sent to both  the  FtT  and  to  the  respondent.
+    However, the evidence, in the form of emails  from  both  the  Tribunal
+    administration and the Home Office, record that there is no  record  of
+    either having received that expert report.  I am not in a position,  on
+    the basis of the material before me, to do anything other  than  accept
+    that evidence.  There is no record of the addendum expert report in the
+    Tribunal's file that I have seen.
+
+31. I do, however, accept that the addendum report was sent  and  that  the
+    appellant's legal representatives and,  Ms  Imamovic,  the  appellant's
+    counsel at the hearing before the First-tier Tribunal, assumed that the
+    addendum report had been filed with the Tribunal and was  part  of  the
+    evidence in the appeal.  As I have said, it is specifically referred to
+    at a number of points in Ms Imamovic's skeleton argument for the First-
+    tier Tribunal (see paras 10, 21 and 25).  It does not  appear  that  Ms
+    Imamovic specifically drew the addendum report to the judge's attention
+    in her oral submissions.  However, given that the  representatives  had
+    every expectation that the addendum report had  been  received  by  the
+    Tribunal and was part of the appeal, it is perhaps not surprising  that
+    Ms Imamovic did not specifically refer to  it  as  a  further  document
+    relied on at the date of the hearing.  It was, I accept, simply seen to
+    be part of the papers in the appeal filed in advance of the hearing.
+
+32. No authority  was  drawn  to  my  attention  by  either  representative
+    directly relevant  to  establishing  whether  the  judge's  failure  to
+    consider the report, or more accurately draw to the parties'  attention
+    that it was absent from her file, amounted to a procedural irregularity
+    amounting to an error of law or was unfair.  It is trite to state  that
+    the requirements of fairness and procedural error amounting to an error
+    of law are not fixed and must be  applied  flexibly  according  to  the
+    context - the requirements are not "engraved on tablets of stone"  (see
+    Lloyd v McMahon [1987] AC 625 per Lord Bridge at p.702). Further, while
+    in general an individual will be fixed with any errors or  mistakes  by
+    his representatives, a more flexible approach may be applied  where  an
+    important right (or a matter of "life and death") is at stake  such  as
+    may arise in an international protection  case  (see  FP(Iran)  v  SSHD
+    [2007] EWCA Civ 13 at [43]-[46] per Sedley LJ).
+
+33. There was, it is clear, a misunderstanding at the  hearing  as  to  the
+    material lodged with the FtT.  Equally, it is clear that the  appellant
+    and his counsel were unaware that the addendum report was not available
+    to the judge but it was relied upon by counsel as establishing the  up-
+    to-date position concerning the appellant's mental health.  It was,  as
+    the judge's reasoning  makes  clear,  significant  that  there  was  no
+    current expert evidence as to the appellant's mental  health.   In  the
+    passages which I have cited earlier, the judge repeatedly  referred  to
+    the fact that there was no evidence concerning his mental health beyond
+    2018.  It seems to me, bearing in mind the significance that the  judge
+    placed upon the absence of any up-to-date  expert  evidence  concerning
+    the  appellant's  mental  health,  on  reading  the  skeleton  argument
+    submitted by Ms Imamovic (which was a very detailed one) and which made
+    specific reference to the addendum report and the passages in it  which
+    cast light on the appellant's current mental health, that there  was  a
+    procedural irregularity that, in all the circumstances, made the First-
+    tier Tribunal's proceedings unfair.
+
+34. In saying that, I do not suggest that it is  necessarily  unfair  if  a
+    judge does not draw to the attention of one or more of the parties  the
+    fact that particular evidence is not  available.   However,  where  the
+    parties specifically rely upon evidence which, on a fair assessment  of
+    the circumstances, it is assumed by the parties  is  available  to  the
+    judge, then to continue to determine  an  appeal  without  drawing  the
+    mistaken understanding to the parties in order to allow them to rectify
+    the omission of the material, is capable of leading to unfairness and a
+    procedural irregularity amounting to an error  of  law.   That,  in  my
+    judgment, was the situation pertaining at the hearing before the First-
+    tier Tribunal in this appeal.
+
+35. I do not accept Mr Tan's submission that the evidence  was  immaterial.
+    The  significance  of  the  absence  of  this  evidence  was  a  matter
+    particularly noted by the judge in reaching her adverse  conclusion  in
+    respect of the appellant's Art 3 claim.  As is clear from the  addendum
+    report, Dr Nabavi expressed the view, not  simply  that  the  appellant
+    continued to suffer from depressive disorder, but that he continued  to
+    have suicidal thoughts with an increase in the intensity and  frequency
+    of his suicidal preoccupation and that if he were forced to  leave  the
+    UK his psychiatric condition was "highly likely to  deteriorate"  (para
+    37) and that there was a "further increase  in  the  risk  of  suicide"
+    (para 39).  This was evidence which was highly material to the  judge's
+    assessment of whether the appellant had  established  a  real  risk  of
+    suicide (J v SSHD [2005] EWCA Civ 629 at  [25]-[31])  and  whether  his
+    claim fell within the (albeit high) threshold for Art 3 claims set  out
+    by the  Supreme  Court  in  in  AM  (Zimbabwe).   I  accept  that  they
+    established a 'prima facie' case and that,  following  AM(Zimbabwe)  at
+    [33], the issue of availability and accessibility of treatment in India
+    became a matter upon which, at least in part, an obligation  fell  upon
+    the respondent.
+
+36. For these reasons, I am not persuaded that if the judge had  considered
+    the addendum report it was certain or inevitable that  she  would  have
+    reached the same conclusion in respect of Art 3.  She may have  made  a
+    different finding in the appellant's favour.
+
+37. An additional point made  in  relation  to  ground  1  is  the  judge's
+    treatment of the GP letters at paras 119-126 of  her  decision.   There
+    the judge referred to a letter from Dr Krishan dated 25 April 2019  and
+    another from the same doctor dated 4 February 2020.  There was  also  a
+    further letter dated 5 February 2020 from the Black Country Partnership
+    NHS Trust confirming that, after referral, the appellant was discharged
+    from a course of CBT in September 2019.  These GP records  confirm  the
+    appellant's mental health problems and that he was treated  with  anti-
+    depressants in the form of Sertraline and counselling.  It may be, that
+    in terms of importance, these documents were less significant than  the
+    addendum report of Dr Nabavi.  However, they were at least confirmatory
+    of a number  of  matters  concerning  the  appellant's  current  mental
+    health.  As regards the first letter the judge said this at para 120:
+
+         "120.    However, this letter fails to comply with  the  Tribunal's
+             Practice Direction Part  10  regarding  expert  evidence.   In
+             particular, it is not addressed to the Tribunal, nor  verified
+             by a statement of truth, and it does not contain  a  statement
+             that the expert understands their duty to the Tribunal and has
+             complied and will continue to comply with that  duty.   It  is
+             simply a brief letter saying only what  is  referenced  above,
+             bearing only a stamp signature, and an address to 'whom it may
+             concern'".
+
+38. The judge adopted that reasoning in relation to the other letters  also
+    (see paras 122 and 125).  She then concluded at para 126:
+
+         "126.    In these circumstances, I find the absence  of  compliance
+             with the Practice Direction diminishes the  evidential  weight
+             of anything that may be  contained  in  the  letters  detailed
+             above.  I also find there is no  reliable  evidence  detailing
+             the appellant's mental health state since March 2018, some two
+             and a � years ago".
+
+39. I accept Ms Imamovic's submission that the judge was wrong to  conclude
+    that a diminished or lesser weight should be given to the GP's evidence
+    because it did  not  comply  with  the  Practice  Direction  on  expert
+    evidence.  These letters were not being submitted as  expert  evidence.
+    They were evidence from the appellant's GP  as  to  his  treatment  and
+    mental health condition.  They were evidence, like any  other  evidence
+    in a case, albeit emanating from the appellant's  GP.   They  were,  on
+    that basis, entitled to such weight as was appropriate to their content
+    given  the  circumstances,  namely  that  they  originated   from   the
+    appellant's GP who had treated and had the care of the appellant.  As I
+    have said, these were not expert reports  which  should  have  complied
+    with the requirements of the Practice  Direction  on  expert  evidence.
+    The judge erred in treating them as such and giving them lesser  weight
+    as a result.  Of course, as I have said their significance is, perhaps,
+    less than the expert evidence of Dr Nabavi  included  in  his  addendum
+    report but, nevertheless, they  were  evidence  in  the  case  and  the
+    judge's mischaracterisation of  them  further  compounded  the  judge's
+    error in assessing the  appellant's  mental  health  and  the  risk  of
+    suicide on return to India.
+
+40. For these reasons, I am satisfied that there was a  material  error  of
+    law in the judge's assessment of the appellant's claim under Art  3  of
+    the ECHR.
+
+    Ground 2
+
+41. Although the judge's assessment of the appellant's  mental  health  and
+    future prognosis was primarily an issue under Art 3 of  the  ECHR,  the
+    judge also referred to her findings  in  relation  to  the  appellant's
+    mental  health  when  making  her  adverse  credibility  assessment  in
+    relation to the appellant's asylum claim.  At para 77 she said:
+
+         "77. I confirm in making the credibility finding as I  do,  that  I
+             have had regard to the medical evidence  (considered  in  more
+             detail below) provided by the  appellant,  and  in  particular
+             that contained at  pages  17  and  31-59  of  the  appellant's
+             bundle, and his diagnosis of mental  health  issues.   I  have
+             also had regard to the Presidential  Guidance  Note  No  2  of
+             2010: Child,  Vulnerable  and  Sensitive  Appellant  Guidance,
+             10.3, and the relevant passage of the  Equal  Treatment  Bench
+             Book, February 2011 edition (March 2020 version), and borne in
+             mind the appellant's health issues when assessing the evidence
+             in the round and his credibility generally".
+
+42. It would seem, therefore, that any error in  relation  to  the  judge's
+    assessment of the appellant's mental health condition, and the evidence
+    relating to it, spilt over  into  her  assessment  of  the  appellant's
+    credibility.  That, in itself, calls into question  the  sustainability
+    of the judge's adverse credibility finding.
+
+43. However, in my judgment, there are a number of  matters  raised  by  Ms
+    Imamovic in relation to the judge's adverse credibility  finding  which
+    make it unsustainable in any  event  (at  para  2(d)  of  her  skeleton
+    argument).  It is only necessary to refer to  a  number  which,  in  my
+    judgment,  are  significant  such  that  I  agree  that   the   adverse
+    credibility finding is unsustainable.
+
+44.  First,  the  judge  identified  what  she  described  as  "significant
+    discrepancies" in the appellant's account and that these "significantly
+    undermine the appellant's credibility" (see para  60).   One  of  those
+    inconsistencies  concerned  his  evidence  about  the   assaults,   the
+    appellant claimed, he had been subject to in India.   At  paras  62-66,
+    the judge said this:
+
+         "62. The appellant said that he received threats from the committee
+             members between 2007 and 2010 when he  eventually  left  India
+             (RB Annex C Q63 & 64).  The appellant also states in the  same
+             interview that he was assaulted by the same committee  members
+             about four times in 2007 and 2008 (RB Annex C  Q65-67).   When
+             asked specifically when this happened, the appellant said that
+             the first time was the end of 2007, the  middle  of  2008  and
+             then twice in 2008 (RB Annex C Q67).
+
+         63.  The appellant then says that he was assaulted  in  2009,  just
+             before he made an application for a visa (Annex C Q80).
+
+         64.  The appellant now claims that he was assaulted once  in  2007,
+             one in 2008 and twice in 2009 (Supplementary witness statement
+             para 4).  He claims that the interview  record  is  incorrect,
+             and that in fact he did say that he had been  assaulted  twice
+             in 2009.
+
+         65.  Even if I accept that the record is incorrect, the appellant's
+             first witness statement is inconsistent on this point, in that
+             statement the appellant clearly states that he  was  assaulted
+             in 2007, again in the middle of 2008, and a couple of times in
+             the end of 2008 or beginning of 2009, and again in 2009 (AB  2
+             paras 11 to 15).
+
+         66.  Even accepting that the appellant  may  struggle  to  remember
+             specific dates, I find these inconsistencies  significant.   I
+             accept that some time has  passed  since  the  appellant  left
+             India, but given the significance of  the  incidents  that  he
+             alleges, I would expect him to be consistent on the number  of
+             times and when he had been subject to violence as he  claims".
+
+
+
+45. Whilst, as Mr Tan submitted, the judge was correct to identify that the
+    appellant had inconsistently said he had been assaulted  four  or  five
+    times, the inconsistency as to  when  he  was  assaulted  is  far  less
+    sustainable.  What the appellant said at question 67 of  his  interview
+    was that he was assaulted: "First time was end of 2007, middle of 2008,
+    and twice in 2008".
+
+46. The appellant, at least in part, claimed that  this  was  an  incorrect
+    transcription of what he had said.  It is, as  I  pointed  out  at  the
+    hearing, clearly just that.  It  is  difficult  to  conceive  that  the
+    appellant said that he had been assaulted in the  middle  of  2008  and
+    then again twice in 2008.  That would mean that he was  saying  he  had
+    been assaulted three  time  in  2008  but,  for  no  apparent  reasons,
+    described it as assaults on  one  plus  two  further  occasions.   More
+    likely, and indeed consistently with what he had  said  elsewhere,  was
+    that the appellant said he had been assaulted in the middle of 2008 and
+    then twice in 2009.  Of course, his evidence was that he may have  been
+    assaulted at the end of 2008 or the beginning of 2009 and then again in
+    2009.   That  level  of  'inconsistency'  may,  however,  be  far  less
+    significant  than  Q67  as  read  by  the  judge.   The   relied   upon
+    inconsistency in his  evidence  by  reference  to  Q67  of  his  asylum
+    interview is, in my judgment, unsustainable to the extent  it  is  said
+    that the appellant was not claiming that he had been assaulted in 2009.
+     He may have been inconsistent as to whether he was assaulted  four  or
+    five times  but,  correcting  the  interview  record  for  the  obvious
+    mistranscription that it contains, it is  difficult  to  see  how  that
+    error could be described as "significant"  such  as  to  "significantly
+    undermine the appellant's credibility".
+
+47. Secondly, I accept Ms Imamovic's submission  that  the  judge  was  not
+    entitled to find that the arrest warrant was unreliable because it  was
+    implausible, having been first issued in  2009  and  then  reissued  in
+    2018.  The judge rejected the appellant's explanation that  the  arrest
+    warrant was reissued because the authorities needed to prepare the case
+    to have it ready so that they would be prepared for the instigation  of
+    charges against the appellant.  At para 88, the judge said this:
+
+         "88. In my view, this explanation is non-sensical, because  of  the
+             appellant's own account, the authorities issued  this  warrant
+             initially in 2009, so they would only have issued the  warrant
+             then, once the case had been prepared  against  him  and  they
+             would have been ready for his arrest at that  time,  so  there
+             would be no need to prepare the case  again  and  reissue  the
+             same warrant nine years later".
+
+48. The appellant was, of course, only offering his opinion as to  how  the
+    police, and legal  system  in  India,  operated.   The  judge  made  no
+    reference to any background evidence  that  would  support  either  the
+    appellant's explanation or  support  the  judge's  conclusion  that  an
+    arrest warrant would not be reissued some years after it was  initially
+    issued.  The judge had no information about the operation of the Indian
+    legal system in that regard.  Without it,  the  implausibility  of  the
+    arrest warrant being reissued in India (even if it would not happen  in
+    the UK) was pure speculation and, the reasoning is unsustainable in the
+    absence of background evidence to support it (see HK v SSHD [2006] EWCA
+    Civ 1037 at [29]-[30]; and Y v SSHD [2006] EWCA Civ 1223 at [27}).
+
+49. Thirdly, the judge was highly critical of the reliability of the arrest
+    warrant because it referred to offences under ss.406  and  420  of  the
+    Indian Penal Code.  The former related to an offence of criminal breach
+    of trust but specifically only referred  to  the  punishment  for  that
+    offence.  The offence itself was in s.405 of the Code.  Section 420  of
+    the Code related to the offence of "cheating and  dishonestly  inducing
+    delivery of property" whilst the appellant claimed  that  he  had  been
+    accused of theft.  That offence, the judge noted  at  para  91  of  her
+    decision, was found in s.378 of the Code.  The  judge  reasoned  first,
+    that the arrest  warrant  would  refer  to  the  section  creating  the
+    offence, namely s.405 rather than s.406; and, secondly, that  it  would
+    refer directly to the specific Code provision creating the  offence  of
+    theft rather than the one of cheating and dishonestly inducing delivery
+    of property if the appellant had, as he claimed, been accused of theft.
+
+
+
+50. I find this reasoning troubling and further  calls  into  question  the
+    sustainability of the adverse credibility finding.  First, it fails  to
+    have regard to the fact that the appellant was claiming that a criminal
+    process had been begun against him which was false.   It  assumes  that
+    within  that  process  the  Indian  criminal   justice   system   would
+    necessarily wholly accurately reflect the offences which the  appellant
+    was said to have committed.  Secondly, and perhaps more  significantly,
+    it assumes that the appellant who said he had been told  what  offences
+    he had been falsely accused of had accurately (and  correctly)  claimed
+    he was wanted for theft rather than the offence involving cheating  and
+    dishonestly inducing the delivery of property.
+
+51. Although, as Mr Tan submitted, the judge gave a number of  reasons  for
+    reaching her adverse credibility finding, I am not satisfied  that  the
+    errors I have identified, taken together with the reading across of her
+    findings in  relation  to  the  appellant's  mental  health,  have  not
+    affected her adverse credibility finding.  She stated that  there  were
+    "significant  discrepancies"   in   the   appellant's   account   which
+    "significantly undermined" his credibility.  The documents were  relied
+    upon by the appellant to support a core  part  of  his  claim.   In  my
+    judgment, it is not possible to disconnect and excise the errors in her
+    reasoning I have identified and be satisfied that inevitably she  would
+    have reached the same adverse credibility finding.
+
+52.  Consequently,  for  these  reasons  I  am  satisfied  that  the  judge
+    materially erred in law in reaching her adverse credibility finding  in
+    relation of the appellant's  asylum  claim  which,  therefore,  is  not
+    sustainable.
+
+    Ground 3
+
+53. Neither representative sought to sustain the judge's adverse conclusion
+    under para 276ADE(1)(vi) and Art 8  outside  the  Rules  if  her  other
+    adverse findings (challenged in Grounds 1 and  2)  were  unsustainable.
+    That, in my judgment,  is  an  entirely  proper  stance.   The  judge's
+    assessment of the appellant's Art 8 claim was  necessarily  tainted  by
+    her earlier adverse findings which cannot be sustained.
+
+Decision
+
+54. For the above reasons, the  decision  of  the  First-tier  Tribunal  to
+    dismiss the appellant's appeal involved the making of an error of  law.
+    That decision cannot stand and is set aside.
+
+55. Having regard to para 7.2 of the Senior President's Practice Statement,
+    the proper disposal of this appeal is to remit  it  to  the  First-tier
+    Tribunal for a de novo  rehearing  before  a  judge  other  than  Judge
+    Barker.  No findings are preserved.
+
+                                                                      Signed
+
+                                                                Andrew Grubb
+
+                                                 Judge of the Upper Tribunal
+                                                                18 June 2021

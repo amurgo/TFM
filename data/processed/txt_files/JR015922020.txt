@@ -1,0 +1,2555 @@
+
+|[pic]         |In the Upper Tribunal                        |JR/1592/2020 |
+|              |(Immigration and Asylum Chamber)             |             |
+|              |Judicial Review                              |             |
+|                                                                          |
+|In the matter of an application for Judicial Review                       |
+|                                                                          |
+|              |The Queen on the application of              |             |
+|              |SM                                           |             |
+|              |                                             |Applicant    |
+|              |versus                                       |             |
+|              |                                             |             |
+|              |Secretary of State for the Home Department   |             |
+|              |                                             |Respondent   |
+|                                                                          |
+|ORDER                                                                     |
+|              |                                             |             |
+
+
+BEFORE Upper Tribunal Judge Stephen Smith
+
+HAVING considered all documents lodged and having  heard  hearing  Charlotte
+Kilroy QC and Michelle Knorr, instructed by Wilson Solicitors LLP,  for  the
+applicant and Mr G. Lewis, of counsel, instructed by  the  Government  Legal
+Department, for the respondent at a hearing on 25 January 2021
+
+AND UPON considering further  submissions  in  writing  from  both  parties,
+received on 8 February 2021
+
+IT IS ORDERED THAT:
+
+    1) For the reasons set out in the judgment dated 5 March 2021, the
+       application for judicial review is granted to the extent that the
+       Respondent's processing of the take-charge request made by Greece and
+       refusal to accept responsibility for the Applicant's asylum claim
+       until 11 February 2021 was (i) a breach of the Dublin III Regulation;
+       and (ii) a breach of the Applicant's right to respect for his private
+       life under Article 7 of the EU Charter of Fundamental Rights, and
+       there shall be a declaration accordingly.
+    2) The claim is otherwise dismissed.
+    3) The Respondent's decisions dated 18 February 2020, 17 March 2020, 27
+       April 2020 and 1 June 2020 refusing to accept the take-charge request
+       are quashed.
+    4) By 4pm on 16 March 2021, the Applicant is to file and serve written
+       submissions, no longer than 10 pages in length, on (i) whether any
+       further relief is required; and (ii) costs.
+    5) By 4pm on 30 March 2021, the Respondent is file and serve written
+       submissions, no longer than 10 pages in length, on the same matters
+       (i) and (ii) identified in paragraph (4) above, with those matters
+       then to be determined by Upper Tribunal Judge Stephen Smith, on the
+       papers if appropriate.
+    6) Costs are, therefore, reserved at this stage.
+    7) The applicant's application for  permission  to  appeal  against  the
+       tribunal's Article 8 findings  is  refused.   None  of  the  proposed
+       grounds of appeal have a realistic prospect of success and  there  is
+       no other  compelling  reason  why  permission  to  appeal  should  be
+       granted.
+    8) Time to file the Applicant's Notice and  Grounds  of  Appeal  in  the
+       Court of Appeal is not extended and the  applicant's  application  to
+       stay these proceedings pending final determination of any  appeal  is
+       refused.  The tribunal considers that whether to extend the  time  to
+       file a notice and grounds of appeal in  the  Court  of  Appeal  is  a
+       matter for the Court of  Appeal.   Staying  the  proceedings  pending
+       resolution of any final appeal would could lead to a  lengthy  delay.
+       It is plainly not in the best interests of this child applicant  that
+       the question of relief arising from his success in these  proceedings
+       should be postponed for a potentially lengthy period, nor would it be
+       compatible with the overriding objective of this tribunal,  which  is
+       to avoid delay, so far as is compatible with proper consideration  of
+       the issues  (see  rule  2(2)(e)  of  the  Tribunal  Procedure  (Upper
+       Tribunal) Rules 2008).
+
+
+
+      Signed:     Stephen H Smith
+
+
+                 Upper Tribunal Judge Stephen Smith
+
+
+      Dated:           5 March 2021
+
+
+The date on which this order was sent is given below
+
+
+For completion by the Upper Tribunal Immigration and Asylum Chamber
+
+Sent / Handed to the applicant, respondent and any interested  party  /  the
+applicant's, respondent's and any interested party's solicitors  on  (date):
+05/03/2021
+
+Solicitors:
+Ref  No.
+Home Office Ref:
+
+
+Notification of appeal rights
+
+A decision by the Upper Tribunal on an application for judicial review is  a
+decision that disposes of proceedings.
+
+A party may appeal against such a decision to  the  Court  of  Appeal  on  a
+point of law only. Any party who wishes to appeal should apply to the  Upper
+Tribunal for permission, at the hearing at which the decision is  given.  If
+no application is made,  the  Tribunal  must  nonetheless  consider  at  the
+hearing whether to give or refuse permission to appeal (rule 44(4B)  of  the
+Tribunal Procedure (Upper Tribunal) Rules 2008).
+
+If the Tribunal refuses permission, either in response to an application  or
+by virtue of rule 44(4B), then the party wishing to  appeal  can  apply  for
+permission from the Court of Appeal itself. This must be done by  filing  an
+appellant's notice with the Civil Appeals Office  of  the  Court  of  Appeal
+within 28 days of the date the Tribunal's decision on permission  to  appeal
+was sent (Civil Procedure Rules Practice Direction 52D 3.3).
+
+
+                                    [pic]
+                                                       Case No: JR/1592/2020
+IN THE UPPER TRIBUNAL
+(IMMIGRATION AND ASYLUM CHAMBER)
+                                                                Field House,
+                                                            Breams Buildings
+                                                            London, EC4A 1WR
+
+                                                                5 March 2021
+                                   Before:
+
+                     UPPER TRIBUNAL JUDGE STEPHEN SMITH
+
+                   - - - - - - - - - - - - - - - - - - - -
+
+                                  Between:
+
+                                  THE QUEEN
+                         (on the application of SM)
+                       (ANONYMITY DIRECTION IN FORCE)
+                                                                   Applicant
+                                   - and -
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+                   - - - - - - - - - - - - - - - - - - - -
+
+                      Ms C. Kilroy, QC, and Ms M. Knorr
+          (instructed by Wilson Solicitors LLP), for the applicant
+
+                                 Mr G. Lewis
+     (instructed by the Government Legal Department) for the respondent
+
+                        Hearing date: 25 January 2021
+                Further submissions received: 8 February 2021
+
+                   - - - - - - - - - - - - - - - - - - - -
+
+                               J U D G M E N T
+
+                   - - - - - - - - - - - - - - - - - - - -
+
+This has been a remote hearing which has been consented to / not objected
+to by the parties.  The form of remote hearing was V: partly remote.
+
+A face to face hearing was not held because it was not practicable, and all
+issues could be determined in a remote hearing.
+
+The documents that I was referred to were primarily contained in a bundle
+of 397 pages, the contents of which I have recorded. The order made is
+described at the end of these reasons.
+
+The parties said this about the process: they were content that it had been
+conducted fairly in its remote form.
+
+Covid-19: this judgment was handed down remotely by circulation to the
+parties' representatives by email, release to BAILII and publication on
+https://tribunalsdecisions.service.gov.uk/utiac.  The date and time for
+hand-down is deemed to be 2.30PM on 5 March 2021
+
+
+                                JUDGMENT (V)
+
+
+Upper Tribunal Judge Stephen Smith:
+
+
+Introduction
+
+
+ 1. This application for judicial review concerns  a  series  of  decisions
+    taken by the Secretary of State to refuse requests made  by  the  Greek
+    authorities to 'take charge' of an unaccompanied  asylum-seeking  child
+    under Regulation (EU) 604/2013 of the European Parliament  and  of  the
+    Council establishing the criteria and mechanisms  for  determining  the
+    Member State responsible for examining an application for international
+    protection lodged in one  of  the  Member  States  by  a  third-country
+    national or a stateless person (recast), known as 'Dublin III'.
+
+
+ 2. In this decision, 'TCR' means a 'take charge request' under Dublin III.
+
+
+ 3. I maintain the anonymity direction already in force.
+
+
+Impact of EU exit: saving provision
+
+
+ 4. Although the United Kingdom has now left the European Union,  the  take
+    charge requests in these  proceedings  were  made  before  11pm  on  31
+    December 2020.  Pursuant to Part 3 of Schedule 2  to  the  Immigration,
+    Nationality and Asylum (EU Exit) Regulations 2019/745, paragraph 9, the
+    Dublin III Regulation continues to have effect for the purposes of such
+    requests.  Paragraph 9(8) of Schedule  2  provides  that  the  relevant
+    provisions of Dublin III are to  be  construed  as  though  the  United
+    Kingdom continued to be a Member State of the European Union.
+
+
+Factual background
+
+
+ 5. The applicant, SM, is a citizen of Bangladesh, born on 22  March  2003.
+    He arrived in Greece in May 2019.  On 8 October 2019, he claimed asylum
+    there.  He lives with a group of adult men, in substandard  conditions,
+    outside the Greek child protection system.  He has an uncle and  sister
+    residing legally in this country.  On 7 January 2020, the Greek  Dublin
+    Unit ('the GDU') requested that the United Kingdom 'take charge' of the
+    applicant under Article  22(1)  of  Dublin  III,  on  the  basis  that,
+    pursuant to Article 8 of the Regulation, the  United  Kingdom  was  the
+    Member State responsible.  The request was expressly made  in  relation
+    to the applicant's uncle, but under 'other useful information' featured
+    details of his sister,  including  her  date  of  birth  and  telephone
+    number.
+
+
+ 6. The Secretary of State refused the request on 18 February 2020, on  the
+    basis that the documentary information supporting the application  left
+    the respondent 'unable to confirm' that the applicant  was  related  to
+    his claimed uncle, SU.  Additionally, the English  translation  of  his
+    Bangladeshi birth certificate  was  not  accompanied  by  the  original
+    version.  A so-called 'undertaking letter' sent  to  SU  had  not  been
+    returned.
+
+
+ 7. The Secretary of  State's  guidance  states  the  following  concerning
+    'undertaking letters':
+
+
+             'Whilst not a legal requirement of the Dublin  III  Regulation
+             or Implementing Regulation, the sponsorship  undertaking  form
+             will require the family to  state  clearly  whether  they  are
+             willing and able to receive the child. It will  bring  to  the
+             attention  of  the  UK  family  member  or   relative,   their
+             obligations and responsibilities, and it will provide them the
+             opportunity to raise  any  issues  or  questions  about  their
+             obligations or responsibilities prior to a child's arrival.'
+
+
+ 8. The 18 February 2020 refusal decision is the first decision  challenged
+    by the applicant.
+
+
+The first reconsideration request
+
+
+ 9. On 6 March 2020, the GDU requested the Secretary of State to reconsider
+    the refusal, under Article 5(2) of Commission Regulation (EC) 1560/2003
+    ('the Implementing Regulation').  The reconsideration request  included
+    the Bengali original documents, and informed  the  Secretary  of  State
+    that,  in  any  event,  the  Bangladeshi  authorities  issued  original
+    documents in English.  The English  documents  initially  provided  had
+    been issued in that form,  and  there  was  no  need  for  a  certified
+    translation from the original.  SU had, said the request, not  received
+    the undertaking letter.  He had telephoned  the  Secretary  of  State's
+    intake unit to ask about the case.  Contact details for SU and LB  were
+    re-provided.
+
+
+10.  On  17  March  2020,  the  Secretary  of  State  refused   the   first
+    reconsideration request.   No further evidence  had  been  provided  to
+    demonstrate the claimed familial link, the refusal said.  Although  the
+    undertaking letters sent to SU had been 'signed for', they had not been
+    returned:
+
+
+             'Therefore we also  have  no  evidence  that  the  UK  sponsor
+             remains willing and able to accommodate the above named.'
+
+
+11. The 17 March 2020 refusal decision is the second decision challenged by
+    the applicant.
+
+
+
+
+
+The second reconsideration request
+
+
+12. On 2 April 2020, the GDU submitted a further  reconsideration  request.
+    It maintained that sufficient evidence had been provided  to  establish
+    the claimed familial link.  In relation to  the  sponsor's  willingness
+    and ability to accommodate the applicant, the GDU stated:
+
+
+             'Article 6 of the Dublin III  regulation  provides  that  both
+             requesting and requested member  states  are  responsible  for
+             assessing the best interests of the child. In this respect  we
+             kindly ask you to reach a conclusion as to whether  the  uncle
+             is willing and able to take care of his nephew.
+
+
+             If the UK reaches the conclusion that the uncle  is  unwilling
+             or unable to take  care  of  the  child  then  the  UK  should
+             investigate whether the child's sister  (article  8.1  DR)  is
+             willing to take care of the  boy!  We  are  waiting  for  your
+             assessment of  the  uncle  AND  of  the  sister...'  (emphasis
+             original)
+
+
+13. On 27 April 2020, the Secretary of State  declined  to  reconsider  the
+    refusal request further.  She stated:
+
+
+             'It is important to note that the  case  was  rejected  on  18
+             February 2020 and as such the required deadline for a  request
+             for re-consideration  as  outlined  in  Article  5(2)  of  the
+             Implementing Regulation has now passed. As made clear  in  the
+             CJEU case of C-47/17 and C-48/17 X and X  the  timeframes  set
+             out in the Implementing Regulation should be read as 'strictly
+             circumscribed' in order to  respect  the  objective  of  rapid
+             processing (paragraph 74).
+
+
+             You have also provided new information, you have requested 'if
+             the uncle is unwilling or unable to take  care  of  the  child
+             than the UK should  investigate  whether  the  child's  sister
+             (article 8.1 DR) is willing to take care of the  boy.  We  are
+             waiting for your assessment of the uncle AND of the sister'.
+
+
+             However, for the reasons given above regarding the ruling in C-
+             47/17 and C-48/17 X and X the UK  is  not  in  a  position  to
+             consider this information in the form of  a  request  for  re-
+             examination with reference to Article 5(2) of the Implementing
+             Regulation. In accordance with the  aforementioned  case  law,
+             the UK now considers Greece to be the responsible member state
+             for examining the claim, unless you have  the  possibility  to
+             make a further take charge or take back request.'
+
+
+14. The 27 April 2020 is the third decision challenged by the applicant.
+
+
+The third reconsideration request
+
+
+15. On 18 May 2020, the  GDU  invited  the  respondent  to  reconsider  her
+    refusal a further time:
+
+
+             'In your third rejection  letter  sent  on  27/04/2020...  You
+             simply invoke [the] CJEU case of C-47/17 and C-48/17 X  and  X
+             in order to close the case.
+
+
+             We must be clear that the CJEU judgement [sic] in question  is
+             neither an excuse of unaccountability nor a justification  for
+             arbitrariness.  It  ensures  and  protects   the   rights   of
+             applicants;  it  does  not   uphold   the   right   of   state
+             administrations to evade responsibility by  presenting  merely
+             formal or plainly false argumentation.
+
+
+             This request  should  be  accepted  from  the  beginning.  You
+             rejected it because supposedly the family link  has  not  been
+             proven in the uncle  does  not  consent.  We  provided  enough
+             supporting proof/evidence in our two  re-examination  requests
+             for the request to be accepted. The family link is  proven  by
+             the submitted documentation and the will of the uncle and  the
+             sister to welcome the child in the UK is known  to  the  Greek
+             Authorities. We remind you that article 8. 1 of the Dublin III
+             Regulation does not provide for the  sibling  to  be  able  to
+             <<take care>> of the unaccompanied minor.
+
+
+             We therefore ask you one more time to reconsider your negative
+             decision.
+
+
+             In any case we will keep the case  open  since  we  have  been
+             informed that the  NGO  Safe  Passage  will  pursue  the  case
+             further in the UK.
+
+
+             In light of the above we kindly ask you to re-examine the case
+             according to article 8 of the Dublin  III  Regulation  in  the
+             principle of the  best  interests  of  the  child.'  (emphasis
+             original)
+
+
+16. On 1 June 2020, the Secretary  of  State  responded,  setting  out  key
+    events in the chronology from her perspective, again relying on Cases C-
+    47/17 and C-48/17 X and X and  the  fact  that  the  time  limits  were
+    'strictly circumscribed'. Written consent from the  applicant  and  his
+    sister had not been received, and it was not in the best  interests  of
+    the applicant to  be  transferred  to  the  UK  to  join  his  'claimed
+    relatives'.  The letter concluded in these terms:
+
+
+             'In accordance with the aforementioned case law,  the  UK  now
+             considers Greece  to  be  the  responsible  member  state  for
+             examining the claim. If appropriate, it remains open to you to
+             make a further take charge request, as indicated in the X  and
+             X judgment.'
+
+
+17. The 1 June 2020 decision is  the  fourth  decision  challenged  by  the
+    applicant.
+
+
+The fourth reconsideration request from the GDU
+
+
+18. The GDU submitted a fourth and  final  request  on  31  December  2020,
+    before 11PM. By this stage, the applicant had  issued  proceedings  for
+    judicial review, and, through his solicitors, had engaged directly with
+    the GDU about the progress of the take charge request, and the approach
+    of the  Secretary  of  State.   By  definition,  this  judicial  review
+    application does not encompass the Secretary of State's response to the
+    fourth request and, as set  out  below,  Mr  Lewis  contends  that  the
+    Secretary  of  State's  forthcoming  response  to   it   renders   this
+    application for judicial review academic.
+
+
+19. The 31 December 2020 request was in these terms:
+
+
+             'We have been informed that the responsible member state about
+             this case will be decided by the British courts.
+
+
+             We would like to confirm that the Greek authorities have  kept
+             the Dublin case of the child open, as is our standard practice
+             for family reunification cases, that no decision on the asylum
+             claim of the boy has been issued and that we  are  willing  to
+             receive an acceptance letter under article 8, if the court  so
+             decides.
+
+
+             Regarding your informal request for a new take charge  request
+             under article 17.2 in order for you to be able to make a fresh
+             decision, we believe that a new TCR in the present case  would
+             amount to procedural hoops that will cause further delay  [to]
+             the allocation of responsibility and thus it  is  contrary  to
+             the best interests of the child.
+
+
+             You have also  informally  submitted  some  documents  to  our
+             authorities in order for us  to  be  able  to  justify  a  new
+             article  17.2  TCR  (since  new  evidence  would   have   been
+             provided). Sending the Greek  authorities  documents  at  your
+             disposal and then asking the Greek authorities  to  send  them
+             back to you does not make much sense according to my opinion -
+             but perhaps I am not  able  to  understand  the  hidden  logic
+             behind it.
+
+
+             More  importantly  though,  adding  the  documents  you   have
+             submitted to this boy's file is against Greek  law.  Only  the
+             authorised legal guardian/legal representative of the child is
+             allowed to submit documents to the child's official  file  and
+             this only when it serves the best interests of the child.  The
+             British authorities are in no way allowed  to  send  documents
+             and asked to be included in an unaccompanied minor's file.
+
+
+             Furthermore, we would appreciate if  the  British  authorities
+             instead of asking for new TCRs in order to make  discretionary
+             'fresh decisions' would communicate to the  Greek  authorities
+             what they communicate to  the  British  courts.  Specifically,
+             SSHD admits to the court that the previous negative  decisions
+             were unlawful, the Greek authorities should be informed  about
+             this fact and we assure you that we would cooperate closely in
+             organising the transfer.
+
+
+             If a newly received TCR is indeed really necessary for you  in
+             order to make new decisions we are resubmitting  the  original
+             TCR, as proof that the Dublin case is still open for Greece.'
+
+
+20. The reference to the Secretary of State admitting  to  the  court  that
+    'previous negative decisions were unlawful' must have been a  reference
+    to the Secretary of State's position as set out in her Detailed Grounds
+    of Defence ('the  DGRs')  submitted  in  these  proceedings,  dated  13
+    November 2020.  At paragraphs 21-22 and 25 of the DGRs,  the  Secretary
+    of State accepted that the 18 February  and  17  March  decisions  were
+    unlawful and did not seek to defend them.
+
+
+21. By the date of the substantive hearing  before  me,  the  Secretary  of
+    State accepted the family link between the applicant  and  SU  and  LB,
+    with the only remaining issue outstanding being whether it was  in  the
+    best interests of the applicant to be  reunited  with  them.   In  that
+    respect, on 11 January 2021, the applicant applied for an interim order
+    compelling the  Secretary  of  State  to  request  the  relevant  local
+    authorities  to  conduct  urgent  assessments  in   relation   to   the
+    suitability of SU and LB to receive the applicant.
+
+
+22. At the hearing before me, Mr Lewis did not resist the  proposed  order,
+    and committed the Secretary of State to using all reasonable endeavours
+    to secure family assessments from the local authorities on an expedited
+    basis.  The  order  also  required  the  respondent  to  communicate  a
+    decision on the TCR to the Greek authorities within two working days of
+    receiving a positive local authority assessment in relation  to  either
+    SU or LB.
+
+
+23. I made the order, a copy of which may be found in  the  Annex  to  this
+    judgment.
+
+
+
+
+
+
+
+
+Issue of proceedings
+
+
+24. The applicant lodged this application for judicial review  on  15  June
+    2020, challenging the lawfulness of all four refusal decisions, on  the
+    following grounds:
+
+
+        a. Ground 1: the Secretary of State's processing  of  the  TCR  and
+           refusal to accept responsibility is unlawful and in breach of EU
+           law, common law and Article 8 ECHR.
+
+
+        b. Ground 2: the  UK  is  the  responsible  Member  State  for  the
+           applicant's asylum claim, and the applicant's fundamental rights
+           have been breached.
+
+
+25. The above two grounds are officially pleaded as  the  two  grounds  for
+    judicial review.  The applicant's statement of facts and  grounds,  and
+    Ms Kilroy's skeleton argument, feature  additional  criticisms  of  the
+    respondent's general approach, as well as more specific  criticisms  of
+    different facets of the decisions under consideration, and what is said
+    to have been a reversal of the Secretary of State's  standard  practice
+    concerning  the  withdrawal  of   incorrect   reconsideration   refusal
+    decisions.  Not all such  criticisms  are  articulated  under  specific
+    submissions advanced pursuant to each ground for judicial review.  They
+    are buried throughout the statement  of  facts  and  grounds,  and  the
+    skeleton argument.  The applicant's statement of facts and grounds  and
+    his main skeleton argument run to 49 pages in total.  The  respondent's
+    detailed grounds of resistance and main skeleton argument, to 46 pages.
+     I have sought to respond to salient arguments  advanced  in  this  way
+    where necessary to do so in order to consider the primary  grounds  for
+    judicial review.  Mindful of the need for  procedural  rigour  in  this
+    jurisdiction, the now well-established need for permission to amend the
+    grounds for judicial review, and the deprecation with which attempts to
+    engage in any form of 'rolling review' should be met, I have sought  to
+    confine the focus of this judgment to  the  two  grounds  for  judicial
+    review.  That necessarily means that there are some  submissions  which
+    it has not been necessary to engage with in depth.
+
+
+26. In her Acknowledgement of Service dated 8 July 2020, the  Secretary  of
+    State agreed to reconsider the applicant's case 'subject to receiving a
+    fresh Take Charge Request' from  the  Greek  authorities,  agreeing  to
+    contact them  within  five  days,  presumably  to  catalyse  a  further
+    request.  A decision on the TCR would then be taken within two  months.
+    The Tribunal was invited to refuse permission on the papers.
+
+
+27. Upper Tribunal Judge Gill initially refused permission on  the  papers.
+    She declined to admit the application in relation to  the  18  February
+    2020 decision, on the basis the challenge was out of time.  In relation
+    to the remaining decisions,  Judge  Gill  considered  the  respondent's
+    concerns about the absence of an undertaking from SU to be  dispositive
+    of refusing permission, and said that the grounds for  judicial  review
+    failed to engage with the respondent's arguments concerning the  import
+    of X and X.
+
+
+28. Following a renewal hearing on 23 October 2020,  Upper  Tribunal  Judge
+    Norton-Taylor  granted  permission  on  both  grounds.    He   accepted
+    submissions advanced on behalf of the applicant that the  decision  was
+    not out of time and considered that it was appropriate to  extend  time
+    in any event.  In his decision granting permission, Judge Norton-Taylor
+    said:
+
+
+             '...there is a matter of some importance in this case,  namely
+             the respondent's current practice of requiring the  requesting
+             state (here, Greece) to make a  new  take  charge  request  in
+             order for any reconsideration to occur.'
+
+
+29. The substantive hearing on 25 January 2021 was conducted  remotely,  in
+    order to take precautions against the spread of Covid-19.  The  parties
+    were content that the hearing had been conducted fairly in  its  remote
+    form.  I received further submissions from both parties on  8  February
+    2021, as set out below.
+
+
+LEGAL FRAMEWORK
+
+
+30. Article 8 of the European  Convention  on  Human  Rights  ('the  ECHR')
+    provides:
+
+
+             '1. Everyone has the right to  respect  for  his  private  and
+             family life, his home and his correspondence.
+
+
+             2. There shall be no interference by a public  authority  with
+             the exercise of this right except such  as  is  in  accordance
+             with the law and is necessary in a democratic society  in  the
+             interests of national security, public safety or the  economic
+             well-being of the country, for the prevention of  disorder  or
+             crime, for the protection of health  or  morals,  or  for  the
+             protection of the rights and freedoms of others.'
+
+
+31. Article 7 of the Charter of Fundamental Rights of  the  European  Union
+    provides:
+
+
+             'Everyone has the right to respect for his or her private  and
+             family life, home and communications.'
+
+
+32. The 'broad purpose' of the Dublin III regime was described by Laing  LJ
+    in Secretary of State for the Home Department  v  R  (oao  FWF  &  Anr)
+    [2021] EWCA Civ 88 at [13] as:
+
+
+             '...to continue the EU's system for regulating the  allocation
+             of responsibility between member states  for  deciding  claims
+             for international protection made in different member  states,
+             particularly where one person makes such a claim in more  than
+             one member state.'
+
+
+33. The Recitals to the instrument outline its objectives in further depth.
+     Recital (4) highlights the importance of a 'clear and workable method'
+    for determining the responsible member state, which should be based  on
+    'objective and fair criteria' for both the member state, and the person
+    concerned.
+
+
+34. Recital (13) provides that, in accordance with the UN Convention on the
+    Rights of the Child, and the Charter of Fundamental  Rights,  the  best
+    interests  of  the   child   should   be   a   primary   consideration.
+    Unaccompanied minors are to enjoy specific  procedural  guarantees  'on
+    account of their  particular  vulnerability.'   Recital  (14)  provides
+    that, in accordance with the ECHR, and the Charter, respect for  family
+    life should be a 'primary consideration'  in  the  application  of  the
+    regulation.
+
+
+35. Pursuant to Recital (16), a relationship of dependency between a  child
+    applicant  and  their  sibling  is  to  be  regarded   as   a   binding
+    responsibility criterion.   When  the  applicant  is  an  unaccompanied
+    minor, the presence of a family member or relative on the territory  of
+    another member state who can take care of him or her should also become
+    a binding responsibility criterion.
+
+
+36. Turning to the substantive provisions  of  the  regulation,  Article  1
+    outlines the purpose of  the  regulation  as  being  to  prescribe  the
+    criteria and mechanisms for examining international protection claims.
+
+
+37. Article 2 defines certain terms.  Under paragraph (g), certain  'family
+    members' are defined.  Paragraph  (h)  defines  'relative'  as  meaning
+    '...the applicant's adult aunt or uncle or grandparent who  is  present
+    in the territory of a Member  State...'   The  term  'sibling'  is  not
+    defined, suggesting its ordinary meaning applies.
+
+
+38. Article 6(1), headed Guarantees for minors, provides:
+
+
+             'The  best  interests  of  the  child  shall  be   a   primary
+             consideration for Member States with respect to all procedures
+             provided for in this Regulation.'
+
+
+39. Turning to the operative criteria for  determining  responsibility  for
+    the examination of a protection claim, Article 8  is  relevant  in  the
+    case of an unaccompanied minor.  Under paragraph (1),  where  a  family
+    member or sibling of the unaccompanied minor is legally  present  in  a
+    member state, that member state is responsible, provided it is  in  the
+    best interests of the applicant.  Paragraph (2) makes similar provision
+    for a 'relative' provided, based  on  an  individual  examination,  the
+    relative can take care of him or her.
+
+
+40. Article 17 features a discretionary procedure, whereby a  member  state
+    may choose to examine (paragraph (1)) or be invited to take  charge  of
+    (paragraph (2)) the examination of an asylum claim for which  it  would
+    not otherwise be responsible.  In the case of a request  under  Article
+    17(2), the paragraph suggests a member state may wish  to  do  so,  'in
+    order to bring together any family relations, on  humanitarian  grounds
+    based in particular on family or cultural considerations.'  The persons
+    concerned must express their consent in writing.
+
+
+41. Article 21 makes provision for the requesting member state to submit  a
+    take  charge  request,  which  must  be  within  three  months  of  the
+    application for international protection being lodged.
+
+
+42. Article 22(1) provides:
+
+
+             'The requested Member State shall make the  necessary  checks,
+             and shall give a decision on the request to take charge of  an
+             applicant within two months of receipt of the request.'
+
+
+    The consequences of failing to respond within the two month period  are
+    addressed in Article 22(7):
+
+
+             'Failure to act  within  the  two-month  period  mentioned  in
+             paragraph 1... shall be tantamount to accepting  the  request,
+             and entail the  obligation  to  take  charge  of  the  person,
+             including the obligation to provide  for  proper  arrangements
+             for arrival.'
+
+
+43. Article 27 provides for an effective remedy  by  which  a  take  charge
+    request may be challenged.
+
+
+44. The European Commission has adopted two implementing regulations making
+    practical provision for the implementation of the Dublin  regime.   The
+    first, Commission Regulation (EC) 1560/2003, concerned  the  Dublin  II
+    regime.  It has been updated by  the  second  implementing  regulation,
+    Commission Regulation (EC) 118/2014.  In this judgment, I use the  term
+    'Implementing Regulation' to refer to Regulation 1560/2003, as  amended
+    by Regulation 118/2014.
+
+
+45. Article 5(2) of the Implementing Regulation provides:
+
+
+             'Where the requesting Member State feels that such  a  refusal
+             is based  on  a  misappraisal,  or  where  it  has  additional
+             evidence to put forward, it may ask for its request to be  re-
+             examined. This option must be  exercised  within  three  weeks
+             following receipt of the negative reply. The requested  Member
+             State shall endeavour to reply within two weeks. In any event,
+             this additional procedure shall not  extend  the  time  limits
+             laid down in Article 18(1) and (6)  and  Article  20(1)(b)  of
+             Regulation (EC) No 343/2003.'
+
+
+    Pursuant to the correlation table  at  Annex  II  to  Dublin  III,  the
+    references to Article 18(1) and (6) are to be  read  as  references  to
+    Articles 22(1) and (6), and 29(2) of Dublin III, and the  reference  to
+    Article 20(1)(b) has  effect  as  though  it  concerned  Article  25(1)
+    (replying to take back requests).
+
+
+46. Article 12(2) of the Implementing  Regulation  is  also  relevant;  see
+    paragraph 94, below.
+
+
+Secretary of State for the Home Department v R (oao FWF & Anr)  [2021]  EWCA
+Civ 88
+
+
+47. On 28 January 2021, three days after the hearing in these  proceedings,
+    the Court of Appeal handed down judgment in Secretary of State for  the
+    Home Department v R (oao FWF & Anr)  [2021]  EWCA  Civ  88,  addressing
+    matters including the interaction between the  Dublin  III  regime  and
+    Article 8 ECHR.  I permitted the parties to make written submissions in
+    response to the judgment, and I am grateful to both parties  for  doing
+    so, as directed, by 8 February 2021.
+
+
+48. FWF concerned the relationship between obligations  imposed  by  Dublin
+    III, the Charter of  Fundamental  Rights,  and  Article  8  ECHR.   The
+    central issue was whether, if a member state acts unlawfully in any way
+    in the course of discharging its Dublin III obligations, that  is  ipso
+    facto a breach of Article 8 of the ECHR, and Article 7 of the  Charter:
+    see [4].  The Secretary of State purported to refuse a  TCR  after  the
+    two month limit for responding had passed, with the effect that, by the
+    time of the purported refusal, the UK was the responsible member  state
+    by default, pursuant to Article 22(7).   A  fresh  TCR  was  made,  and
+    subsequently accepted by the Secretary of  State.   The  children  were
+    transferred to the UK within eight months of  the  original  TCR,  that
+    being the 'longstop' for lawful transfer under the regulation.
+
+
+49. The court held that a refusal post-dating  default  acceptance  had  no
+    legal effect [133].  Any breaches of Dublin  III  along  the  way  were
+    incidental and not operative, provided there was  compliance  with  the
+    overall  timescales.   Article  8  ECHR  did  not   impose   additional
+    obligations on the requested member state where there had been  overall
+    Dublin III compliance, for the Dublin III regime goes further  than  is
+    required by Article 8 ECHR.  For there to be a breach of Article 8 ECHR
+    in those circumstances, it would  be  necessary  to  demonstrate  'very
+    exceptional circumstances' [140].  On the facts of  the  case,  because
+    the Secretary of State complied with the longstop Dublin  III  timings,
+    there had been no breach  of  Dublin  III,  or  Article  8  ECHR.   The
+    Secretary of State's appeal was successful, and  the  decision  of  the
+    Upper Tribunal to the contrary was set aside.
+
+
+SUBMISSIONS
+
+
+Ground 1 - the Secretary of State's processing of the  TCR  and  refusal  to
+accept responsibility is unlawful and in breach of EU law,  common  law  and
+Article 8 ECHR
+
+
+Decisions of 18 February and 17 March 2020
+
+
+50. First, Ms Kilroy submits that the evidence provided with each  TCR  was
+    extensive, and clearly proved the relationships between the  applicant,
+    SU and LB.  The requests could  not  reasonably  be  refused,  and  the
+    Secretary of State has not sought to contend otherwise.  The TCR should
+    have been accepted.
+
+
+51. Secondly, the Secretary of State breached her investigative duty by:
+
+
+        a. Failing to give the applicant,  SU  or  LB  any  opportunity  to
+           address her  concerns  about  the  claimed  relationship  before
+           rejecting the TCR.
+
+
+        b. Failing, contrary to Dublin III, the applicant's best interests,
+           and her own policy, to obtain an assessment  from  the  relevant
+           local authority, before rejecting the TCR.
+
+
+        c. Failing to investigate, assess and treat  the  applicant's  best
+           interests and his right to  family  unity  under  Article  6  of
+           Dublin III, Article 24 of the Charter of Fundamental Rights, and
+           Article 8 of the  European  Convention  on  Human  Rights  ('the
+           ECHR') as a primary consideration in any of the decisions.
+
+
+        d. Failing to liaise with Greece to secure  DNA  testing  prior  to
+           issuing a refusal, as was incumbent upon the Secretary of  State
+           in the event she legitimately harboured doubts about the claimed
+           family relationship which could not be  resolved  in  any  other
+           way.
+
+
+52. Thirdly, the Secretary of State should not  have  relied  on  the  non-
+    return of the undertaking forms as a basis for  refusing  the  request,
+    even if they were successfully delivered.  Completing the forms was not
+    a legal requirement, as recognised by the Secretary of State's  policy.
+    Even if the undertaking  form  could,  in  principle,  serve  a  useful
+    purpose in helping to determine an applicant's best interests, it could
+    never be in an applicant's best interests to adopt  a  blanket  refusal
+    policy in the event of the non-return of an optional form.  Only if the
+    non-return of the form revealed safeguarding or  other  concerns  could
+    that be relevant to refusing a TCR, and only then if it were not in the
+    child's best interests for family unification to take place.
+
+
+53.  Fourthly,  the  Secretary  of  State  failed  to   comply   with   the
+    investigative  duty  imposed  by  Article  3(2)  of  the   Implementing
+    Regulation.  Given the GDU provided information relating to SU and  LB,
+    the Secretary of State was required to investigate the TCR  request  in
+    relation to each.  LB's information was clearly provided.  The  Article
+    3(2)  duty  required  the  Secretary  of  State  to  investigate   both
+    possibilities for reunification, prior to refusing  the  TCR.   To  the
+    extent the Secretary of State relied on the absence of consent from  LB
+    (as she later suggested in the third reconsideration refusal on 1  June
+    2020), there was no requirement  for  consent  of  the  family  member,
+    sibling or relative under Article 8 of Dublin III.  If the Secretary of
+    State considered that LB's consent  was  desirable,  her  investigative
+    duties required her to  seek  her  consent  through  either  the  Greek
+    authorities, or to approach LB directly, using the contact  details  in
+    the TCR.
+
+
+54. Ms Kilroy submits that, irrespective of whether the 27 April and 1 June
+    2020 decisions were unlawful, the applicant is entitled to an effective
+    remedy in relation to the accepted unlawfulness contaminating the first
+    two decisions.
+
+
+Decisions of 27 April and 1 June 2020
+
+
+55. The applicant accepts that the approach taken by the Secretary of State
+    in the 27 April and 1 June  2020  decisions  was  consistent  with  her
+    policy then in force, Dublin III Regulation, version 3, 30 April  2020,
+    at pp37-38.  He contends that both the decisions  and  the  policy  are
+    unlawful.
+
+
+56. It will be recalled that in the 27 April  and  1  June  decisions,  the
+    Secretary of State contended that  Article  5(2)  of  the  Implementing
+    Regulation, as interpreted by  the  CJEU  in  X  and  X,  entailed  the
+    conclusive rejection of the TCR.  The policy puts the position in these
+    terms, at page 38:
+
+
+             'A  rejected  request  can  only  trigger  one  re-examination
+             procedure, it  is  not  possible  to  call  for  repeated  re-
+             examinations in the same procedure.  Only  a  new  request  to
+             take charge or take  back,  if  rejected,  would  attract  the
+             possibility of a  new  re-examination  request  (of  that  new
+             rejection).'
+
+
+57.  The  Secretary  of  State  should  have  used  the  second  and  third
+    reconsideration  requests  as  an  opportunity  to  reverse  the  plain
+    unlawfulness of her first two  decisions.   The  strict  timeframes  of
+    Article 5(2) of the Implementing Regulation, as amplified by X  and  X,
+    do not apply to cases involving unaccompanied minors.  The  primacy  of
+    the best interests of the child is a primary  consideration  under  all
+    Dublin III procedures, pursuant to Article 6.  As held in MA  (Eritrea)
+    v Secretary of State for the Home Department Case C-648/11 [2013] 1 WLR
+    2961 at [59] to [61],  such  primacy  is  an  interpretative  principle
+    guiding  the  overall  interpretation  of  the  Regulation.   X  and  X
+    concerned the quite different situation of calculating the time  within
+    which the Member State responsible  for  examining  an  adult's  asylum
+    claim must do so.
+
+
+58. In the case of an unaccompanied asylum-seeking child,  there  are  such
+    compelling  reasons  militating  in  favour  of   family   unification,
+    recognised by  Dublin  III  itself  and  the  leading  authorities  and
+    international materials, that the strict time limits of the  Regulation
+    must be applied flexibly, Ms Kilroy submits.  The CJEU could  not  have
+    intended to enable Member States to abrogate the responsibility for  an
+    asylum claim of an unaccompanied child they  would  otherwise  have  to
+    bear, simply because the Article 5(2) timescales were not met.  That is
+    especially so  where,  as  here,  the  Secretary  of  State  has  acted
+    unlawfully by rejecting the TCR.  X  and  X  was  designed  to  protect
+    applicants, not to clothe Member States with a shroud of  impunity  for
+    unlawfully rejecting TCRs.  If X and X is authority  for  anything,  it
+    underlines the proposition that  Dublin  III  must  be  interpreted  in
+    accordance with its aims and purpose, which  resolutely  cannot  entail
+    leaving unaccompanied minors in the dangerous  limbo  suffered  by  the
+    applicant in these proceedings.
+
+
+Ground 2 - the UK is  the  responsible  Member  State  for  the  applicant's
+asylum claim, and the applicant's fundamental rights have been breached
+
+
+59. Ms Kilroy submits that all four decisions of  the  Secretary  of  State
+    should be quashed, and that I should  decide  for  myself  whether  the
+    applicant's rights under EU law, or the ECHR, have been breached.
+
+
+60. 'For the purposes of reunification  with  LB  under  Article  8(1)  [of
+    Dublin III], there is no requirement to show her ability  to  care  for
+    the [a]pplicant': see the applicant's skeleton argument at  [47].   The
+    best interests  assessment  is  primarily  the  responsibility  of  the
+    requesting state, as recognised by the Secretary of State's  policy  at
+    page 8.  There is a presumption that reunification with family  members
+    is in the best interests of unaccompanied  minors.   The  Secretary  of
+    State was required to undertake safeguarding checks upon receipt of the
+    TCR; no safeguarding concerns have been raised.
+
+
+61. Given the Dublin III criteria for the  applicant's  reunification  with
+    his uncle and sister are met, 'that alone is a strong indication'  that
+    the applicant's rights under Article 7 of the  Charter  of  Fundamental
+    Rights and Article 8 of the ECHR are engaged, Ms Kilroy  submits.   The
+    rationale behind the Article 8 of  Dublin  III  includes  the  need  to
+    ensure respect for family unity and the best interests  of  the  child;
+    see Recitals (16) and (39).  Article 7 of the Charter, Article  8  ECHR
+    and Dublin III must  be  interpreted  harmoniously.   Article  8  ECHR,
+    interpreted in light of the Convention on the Rights of the  Child,  as
+    expressed by the UN Committee on the Rights of the  Children's  General
+    comment No. 14 (2013) on the right of the child to have his or her best
+    interests  taken  as  a  primary  consideration  (art.   3,   para   1)
+    (CRC/C/GC/14), places a  significant,  and  primary,  emphasis  on  the
+    importance of family unification and the prevention of disruption.  The
+    criteria in Mathieson v Secretary of State for Work and Pensions [2015]
+    UKSC 47 at [39] concerning the three-fold concept of the best interests
+    of the child underlines the centrality of the  best  interests  of  the
+    applicant  in  the  Secretary  of  State's  decisions,  and  in   these
+    proceedings.
+
+
+62. As an unaccompanied minor with  no  alternative  care  arrangements  in
+    Greece, a decision by the Secretary of State concerning  his  potential
+    reunification with SU and LB plainly engages his  right  to  family  or
+    private life.  The jurisprudence on Article 8 ECHR supports  a  finding
+    of the existence of family life based on the potential for family  life
+    to be strengthened: see Pawandeep Singh v Entry Clearance Officer,  New
+    Delhi [2005] QB 608, [2004] EWCA Civ 1075.
+
+
+63.  In  Pawandeep  Singh,  Dyson  LJ  drew  heavily  on  Pini  v   Romania
+    (Application Nos 78028/01, 78030/01) (unreported) 22 June 2004, and  Ms
+    Kilroy placed significant reliance on the case accordingly.  The matter
+    concerned two Italian citizens seeking  to  adopt  two  nine  year  old
+    Romanian girls living in a private orphanage in Romania.  The  children
+    had been selected by their adoptive parents on the basis of photographs
+    alone.  Adoption orders were in place but were not carried into effect.
+     The applicants contended that the  Romanian  authorities'  refusal  to
+    allow the children to join them  in  Italy  violated  their  Article  8
+    rights.  The Strasbourg Court held that Article 8  ECHR  'family  life'
+    existed between the children and the parents, but  that  there  was  no
+    violation of Article 8, as the positive obligations under Article 8 did
+    not oblige the Romanian authorities to  ensure  the  children  went  to
+    Italy against their will.   The  orphanage  had  opposed  the  adoption
+    arrangements, as did a number of third  parties.     Significantly,  it
+    said this, at [143]:
+
+
+             'Admittedly, by guaranteeing the right to respect  for  family
+             life,  Article  8  presupposes  the  existence  of  a   family
+             (see Marckx, cited above, pp. 14-15,  �  31,  and Abdulaziz,
+             Cabales  and  Balkandali,  cited  above,  p.   32,   �62),   a
+             requirement which does not  seem  to  have  been  met  in  the
+             instant case  as  the  applicants  did  not  live  with  their
+             respective adopted daughters or  have  sufficiently  close de
+             facto ties with them, either before  or  after  the  adoption
+             orders were made. However, this does not mean, in the  Court's
+             opinion, that all intended family life falls entirely  outside
+             the ambit of Article 8. In  this  connection,  the  Court  has
+             previously  held  that  Article  8  may  also  extend  to  the
+             potential relationship between a child born out of wedlock and
+             his or her natural  father  (see Nylund  v.  Finland (dec.),
+             no. 27110/95, ECHR 1999-VI), or apply to the relationship that
+             arises from a lawful and genuine marriage, even if family life
+             has not yet been fully established (see Abdulaziz, Cabales and
+             Balkandali, cited above, p. 32, � 62).'
+
+
+64. The above extract paved the way for Dyson LJ, as he then  was,  to  say
+    the following  at  [38],  upon  which  Ms  Kilroy  places  considerable
+    reliance:
+
+
+             'the potential for development of family life is  relevant  in
+             determining whether family life already exists...'
+
+
+65. Ms Kilroy also relies on R (Ahmadi) v Secretary of State for  the  Home
+    Department [2005] EWCA Civ 1721, per Moses LJ, at  [17],  and  Boyle  v
+    United Kingdom 19 EHRR 179 at [40] to [46],  concerning  the  potential
+    for family life to develop.  She also relies on a  series  of  judicial
+    review cases in this tribunal to make good the same point, plus further
+    authorities listed at [53] of her skeleton argument.
+
+
+66. Family life having been established, submits Ms  Kilroy,  the  repeated
+    TCR refusals amounted to an unlawful interference  in  the  applicant's
+    Article 8 ECHR rights.  As the Secretary  of  State  is  in  breach  of
+    Dublin III, the interference is not 'in accordance with the law'.   The
+    refusals have forced the applicant to remain in dire  and  unacceptable
+    conditions in Greece, prolonging his separation from his  family.   The
+    delay caused by the Secretary of State's unlawful refusals  exacerbated
+    her  breaches  of  Article  8  ECHR,  and  the  multiple  instances  of
+    procedural  unfairness  and  procedural  irregularities  breached   the
+    procedural limb of Article 8 ECHR.  The Secretary of  State's  practice
+    of requiring a further TCR was unlawful, and  contrary  to  established
+    authority: R (oao of MS) (a child  by  his  litigation  friend  MAS)  v
+    Secretary of State  for  the  Home  Department  (Dublin  III;  duty  to
+    investigate) [2019] UKUT 00009 (IAC); R (oao IAD) v Secretary of  State
+    for the Home Department  JR/1333/2020;  R  (oao  MA  (a  child  by  his
+    litigation friend ASM)) v Secretary of State for  the  Home  Department
+    JR/1265/2020, and the Outer House of the Court  of  Session's  reasoned
+    order on interim relief in Nasser Al Fadhli.
+
+
+67. Ms Kilroy submits that, even though further TCRs were neither necessary
+    nor appropriate following the initial request, the Secretary  of  State
+    failed to provide the tribunal and the Greek authorities with  accurate
+    information  concerning   her   position,   further   compounding   the
+    unlawfulness of her conduct.
+
+
+68. For example, in parallel to maintaining before the  tribunal  that  she
+    was willing to reconsider the applicant's case, subject to receiving  a
+    fresh TCR (see paragraph 2 of the Acknowledgement of  Service  dated  8
+    July 2020), the Secretary of  State's  officials  contacted  the  Greek
+    authorities  to  inform  them  that  it  would  be  necessary  for  the
+    applicant's lawyers to convey further evidence to the Greek authorities
+    in order for a further TCR to be considered.  See the  email  of  Julia
+    Farman, Head of the European Intake in the UK  Dublin  Unit,  dated  10
+    July 2020, at page 252 of the trial bundle.
+
+
+69. In the DGD dated 13 November 2020, the Secretary of State accepted that
+    her first two decisions were  unlawful  (see  paragraphs  21  and  25),
+    having underlined her position that she was willing to  reconsider  the
+    request, subject to a further TCR from Greece.   By  contrast,  on  the
+    same day as filing her DGD, Ms Farman emailed an official  in  the  GDU
+    stating that further evidence would be required in order for the UK  to
+    consider a further TCR: see page 244 of the trial bundle.
+
+
+70. At no stage, submits Ms Kilroy, did Ms Farman reveal to  the  GDU  that
+    the Secretary of State now accepts that the first two refusal decisions
+    were unlawful.  Instead, the impression given to the  GDU  was  that  a
+    further TCR request would only be considered in a  different  light  if
+    new evidence were provided in support.  Ms Farman has  not  provided  a
+    witness statement explaining her decisions in the process, nor has  she
+    sought to respond to the concerns raised by Ms Kilroy  in  relation  to
+    her handling of the matter.
+
+
+71. In relation to FWF in the Court of  Appeal,  Ms  Kilroy's  post-hearing
+    submissions contend that the authority is distinguishable.   Its  focus
+    was default acceptance cases where transfer had taken place within  the
+    overall time limits prescribed by Dublin III.  It was in  that  limited
+    context that the court held that Article 8 added little to  the  rights
+    guaranteed by the Dublin III regime, for  the  process  it  established
+    went considerably further than Article 8 ECHR would require within  the
+    same timeframe.  The purported TCR refusal in FWF was held to  have  no
+    legal effect.  That was in stark contrast to the unlawful  refusals  in
+    the  present  matter  which  had  'full  legal  effect',  resulting  in
+    responsibility for the applicant unlawfully failing to pass to  the  UK
+    upon the conclusion  of  the  two  month  Article  22(1)  period.   The
+    unlawfulness in these proceedings is fully operative, and  not  in  any
+    sense incidental.  The applicant does not seek to supplement his rights
+    under Dublin III in a  situation  where  the  Secretary  of  State  has
+    complied with the regulation.  Rather he relies on Article  8  ECHR  in
+    circumstances where the Secretary of State  has  manifestly  failed  to
+    comply  with  Dublin  III,  with  the  effect  that  the   'exceptional
+    circumstances' test underlined in FWF does not apply.
+
+
+72. Ms Kilroy invites me to declare that the Article 8 Dublin III  criteria
+    are met, and to order the Secretary of State to liaise with  the  Greek
+    authorities to arrange the  applicant's  prompt  transfer  to  the  UK,
+    consistent with the approach of Lord Boyd in Nasser Al  Fadhli,  or  to
+    take a fresh decision  within  an  appropriately  tight  timeframe.   I
+    should also declare that the Secretary of State  breached  her  EU  law
+    obligations.
+
+
+73. I turn now to Mr Lewis' submissions.  The Secretary of State's  primary
+    position has always been that this challenge  is  academic.   Mr  Lewis
+    emphasised that it is now accepted that the applicant is related to  SU
+    and LB.  The only  outstanding  matters  to  be  resolved  ahead  of  a
+    transfer tacking place were responses to the undertaking forms, and the
+    local authorities' assessments (SU and LB  living  in  different  local
+    authority areas), which will inform the assessment of  the  applicant's
+    best interests.  The Secretary of State had also  sought  clarity  from
+    the GDU as to whether the proposed transfer was in relation  to  SU  or
+    LB, as legal certainty in that respect was essential, and the  original
+    requests have been unclear.  The Secretary of  State  accepted  that  a
+    final decision on the transfer should be taken within two working  days
+    of receipt of the local authority assessment.
+
+
+74. Mr Lewis submits that I need not  engage  with  the  substance  of  the
+    applicant's submissions, and there is no good  reason  to  exercise  my
+    discretion to consider argument on an academic matter.  There  is  not,
+    for example, a discrete point of statutory construction of significance
+    to a large number of similar or anticipated cases as a reason to engage
+    with an otherwise academic claim.  No such considerations arise in  the
+    present matter, he submits, and I should decline to examine  the  claim
+    any further.  While Mr Lewis accepted that the legal effect of  further
+    reconsideration refusals, such as the third and fourth decisions of the
+    Secretary of State in these proceedings, was a point  which  ordinarily
+    would have the potential to impact other cases, the United Kingdom  was
+    no longer part of the Dublin III regime.  With the exception of certain
+    transitional cases, the point was of no broader significance.
+
+
+75. In the event I was not with Mr Lewis on the  academic  nature  of  this
+    challenge, he advanced the following submissions in response.
+
+
+76. First, it could not be said that the Secretary of State was obliged  to
+    address the potential significance of LB as well as SU.   On  a  proper
+    construction of the TCR, it related only to SU, not LB.   LB's  details
+    featured on the form simply 'as a matter of interest'.   There  was  no
+    indication that LB consented to the transfer.
+
+
+77. Secondly, there was no basis under Dublin III for the GDU to have  made
+    multiple  reconsideration  requests.   Recital  (5)   to   Dublin   III
+    emphasises the importance of the rapid determination  of  which  Member
+    State is responsible for examining an asylum claim.  The  Secretary  of
+    State was right to rely on Article 5(2) of the Implementing Regulation,
+    in the light of X and X, to conclude that the refusal had  been  final.
+    To the extent that the Greek authorities sought  or  were  required  to
+    make further take charge  requests,  the  discretionary  process  under
+    Article 17(2) of Dublin III provided the necessary  vehicle.   Adopting
+    that approach provides legal certainty.  While the Secretary  of  State
+    has been prepared in these proceedings to entertain the  purported  re-
+    submission of the original TCR by the GDU, she did so exceptionally, as
+    emphasised at [4] of her skeleton argument.
+
+
+78. Thirdly, the issue of whether it was appropriate for the  Secretary  of
+    State to 'solicit' further TCR requests had recently been  the  subject
+    of  full  argument  before  Upper   Tribunal   Judge   O'Callaghan   in
+    JR/1696/2020, in relation to which judgment was awaited.  It would  not
+    be consistent with the overriding objective for these proceedings to re-
+    examine the same question.
+
+
+79. Put simply, the Secretary of State's position on the 'soliciting' issue
+    was that, where a prior unlawful  refusal  was  conceded  or  otherwise
+    accepted, a  further  TCR  was  necessary,  in  order  to  provide  the
+    Secretary of State with the necessary legal certainty that the transfer
+    was still sought.  In some cases, the requesting Member  State  may  no
+    longer wish to pursue transfer, for example  where  there  were  extant
+    criminal proceedings concerning the transferee.  The Secretary of State
+    was entitled to require  an  additional  formal  request,  rather  than
+    simply clarification from the caseworker at an informal level.
+
+
+80. In post-hearing submissions  on  FWF,  Mr  Lewis  maintained  that  the
+    application was academic.  In FWF, the Court of  Appeal  held  that  an
+    actionable breach of Dublin III only occurred where  the  eleven  month
+    'longstop' period for a transfer to  the  requested  member  state  was
+    breached.  Even on that standard, where there  had  been  a  breach  of
+    Dublin III, that would not amount ipso facto to a breach of  Article  8
+    ECHR.  Dublin III goes further than Article 8  ECHR,  setting  its  own
+    'procedural  code'  for  enabling  some  applicants  for   asylum   and
+    humanitarian protection to be reunited with certain family  members  in
+    another Member State.  For there to be a  breach  of  Article  8  ECHR,
+    there had  to  either  be  a  negative  interference  with  the  rights
+    protected by ECHR, or a breach of a  positive  obligation  to  admit  a
+    person for the purposes of  family  reunion.   Unless  there  are  very
+    exceptional circumstances, which are plainly not present here,  submits
+    Mr Lewis, a person cannot rely on  Article  8  ECHR  to  supplement  or
+    augment the rights conferred by Dublin III.  This applicant is  on  the
+    cusp of adulthood, and nothing about his  case  is  'very  exceptional'
+    when viewed in the context of the cohort  of  unaccompanied  minors  in
+    continental Europe seeking family reunion pursuant to Dublin III.
+
+
+81. In relation to Article 8 ECHR, and in light of the  Court  of  Appeal's
+    judgment in FWF, Mr Lewis submitted that, to the extent that there is a
+    positive Article 8 obligation to facilitate the applicant's transfer to
+    this country, the Secretary of State is meeting that obligation by  the
+    steps she is now taking to finalise the Dublin  III  transfer  process.
+    There can be no question of the Secretary of State breaching the United
+    Kingdom's negative Article 8 obligations towards the applicant, SU  and
+    LB, as 'family life' plainly does not exist between them.  SU has  only
+    met the applicant  twice.   The  first  time  was  in  2008,  when  the
+    applicant was five years old, and then it was not until 2016 that  they
+    met again.  There is no evidence as to what the applicant  and  SU  did
+    together in these two brief meetings.  Their only contact has  been  by
+    telephone.  LB is the applicant's 28 year old  sister.   She  left  the
+    family home in Bangladesh to marry in 2012, which was the last time she
+    saw him.  The suggestion that Article 8 'family  life'  exists  between
+    the applicant, a young man on the cusp of adulthood, SU and LB  is,  Mr
+    Lewis submits, 'hopeless'.  There has simply been no breach of  Article
+    8 on the facts of this case.
+
+
+DISCUSSION
+
+
+18 February and 17 March decisions
+
+
+82. This application for judicial review is  founded  upon  the  procedural
+    implications of two initial decisions by the Secretary of  State  which
+    she now accepts to have been  unlawful: see paragraphs 24 and 28 of  Mr
+    Lewis' skeleton argument dated 18 January 2021.
+
+
+83. Specifically, the Secretary of State accepts that she made a mistake of
+    fact in her 18 January decision, in part  because  she  relied  on  the
+    absence of the applicant's 'original' birth certificate and declined to
+    accept an inferior translation into English.  In fact, as the Secretary
+    of  State  now  accepts,  the  authorities  in  Bangladesh  issue  such
+    documents in Bengali and English.  The  English  version  provided  had
+    been the original version, and the reasons given by  the  Secretary  of
+    State for refusing to accept the document do not withstand scrutiny.
+
+
+84. In relation to the 17 March decision, the Secretary  of  State  accepts
+    that she could and should have used the first  reconsideration  request
+    as an opportunity to cure the defects in her earlier decision  yet  did
+    not.  She wrongly stated that 'no further evidence' had  been  provided
+    with the reconsideration request, whereas additional,  Bangla  versions
+    of the birth and family certificates had been provided to her.
+
+
+85. As outlined above, Ms Kilroy  advanced  a  multi-faceted  challenge  to
+    these decisions, on a number of detailed bases.   I  accept  Mr  Lewis'
+    submissions that, at this stage, and for the  purpose  of  the  present
+    binary assessment of the lawfulness of the two initial decisions, it is
+    not necessary for me to engage in further analysis of those criticisms.
+     The Secretary of State accepts that the two decisions  were  unlawful,
+    and the decisions are not defended.
+
+
+86. As Ms Kilroy accepts at [7] of her post-hearing submissions on FWF, the
+    first two refusals had legal effect.  This is  not  a  case  where  the
+    unlawful refusals were void and had no legal effect (in  contrast,  for
+    example, to the Secretary of State's purported refusals outside the two
+    month limit in FWF,  which  had  no  legal  effect:  see  [133]).   The
+    decisions of 18 February and 17 March were unlawful  and  provided  the
+    unlawful  foundation  for   the   Secretary   of   State's   subsequent
+    reconsideration refusals, as set out below.   While  ordinarily  I  may
+    have had some reservations about quashing  a  decision  which  has  had
+    legal effect in another member state in the context of a member  state-
+    to-member state regime for the allocation  of  responsibility  for  the
+    examination of claims for international protection, I consider that  it
+    is appropriate to do so in this case.  The Greek authorities  are  live
+    to these proceedings and are actively awaiting  my  decision.   In  the
+    circumstances, quashing the decisions would be appropriate.
+
+
+27 April and 1 June decisions
+
+
+87. The first two unlawful decisions laid the foundations for the Secretary
+    of State's subsequent unlawful processing of the TCR, in  the  form  of
+    the 27 April and 1 June decisions.  Mr Lewis contends that, in light of
+    the 'resubmitted' TCR on 31 December 2020, and the Secretary of State's
+    acceptance of the family link, it is  academic  for  me  to  engage  in
+    further and detailed consideration of  the  merits  of  the  third  and
+    fourth decisions of the Secretary of State.
+
+
+88. I am not persuaded that consideration of the third and fourth decisions
+    of the Secretary of State is wholly academic.   Pursuant  to  FWF,  so-
+    called 'incidental' breaches of Dublin III are of peripheral  relevance
+    to the overall question of whether there has been a 'breach' of  Dublin
+    III where transfer takes place within the overall  11  month  longstop:
+    see [133].  By the same token, it must follow  that,  where  (as  here)
+    transfer has not taken place within the 11 month longstop, the question
+    of whether there has been a breach of Dublin III remains a live  issue,
+    and must be determined, as it  may  be  relevant  to  the  question  of
+    damages for breach of EU law (subject to submissions on the question of
+    EU exit).
+
+
+89. Taken in isolation, the 27 April and 1 June decisions were based  on  a
+    literal application of Article 5(2) of the Implementing Regulation  and
+    X and X v Staatssecretaris van Veiligheid en  Justitie  (Cases  C-47/17
+    and C-48/18).  At [86], the Court of Justice held that Article 5(2)  of
+    the Implementing Regulation:
+
+
+             '...must be interpreted as meaning that the expiry of the two-
+             week time limit for  a  reply  laid  down  by  that  provision
+             definitively brings to an end  the  additional  re-examination
+             procedure, whether the requested Member State has, or has not,
+             replied within that period to the re-examination request  made
+             by the requesting Member State.'
+
+
+90. To that end, submits Mr Lewis, the decisions of 27  April  and  1  June
+    were in  response  to  'impermissible  reconsideration  requests',  and
+    should be treated as final.
+
+
+91. Ms Kilroy contends that X and X is, upon a purposive interpretation  in
+    light of the best interests of the child, not the binding authority for
+    which the Secretary of State contends.  I agree.  In my judgment, while
+    the Secretary  of  State's  reliance  on  X  and  X  was  superficially
+    consistent with the  approach  of  the  Court  of  Justice,  Mr  Lewis'
+    submission is flawed.
+
+
+92. X and X did not concern unaccompanied minors, and its teleological  and
+    purposive interpretation of the Dublin III regulation was not conducted
+    with the best interests of a child applicant  in  mind,  pursuant,  for
+    example, to Article 6(1), which gives expression to the  principles  at
+    the heart of Recital (13).  There is nothing in  the  court's  judgment
+    which suggests that a reconsideration refusal under Article 5(2) of the
+    Implementing   Regulation   is   irrevocable   where   the   underlying
+    reconsideration refusal concerns the best interests of an unaccompanied
+    minor.
+
+
+93. Moreover, the Dublin regime admits of the possibility of  TCR  requests
+    involving  unaccompanied  minors  taking  longer  to  process  by   the
+    requested member state than the mandatory  time  limits  prescribed  by
+    Article 22(1) of Dublin III.
+
+
+94. Article 12(2) of the Implementing Regulation provides:
+
+
+             'The fact that the duration of procedures for placing a  minor
+             may lead to a failure  to  observe  the  time  limits  set  in
+             Article 18(1) and (6) and Article 19(4) of Regulation (EC)  No
+             343/2003 shall not necessarily be an  obstacle  to  continuing
+             the procedure for determining the Member State responsible  or
+             carrying out a transfer.'
+
+
+    Pursuant to the correlation table  at  Annex  II  to  Dublin  III,  the
+    references to Article 18(1) and  (6)  are  to  read  as  references  to
+    Articles 22(1)  and  (6),  and  29(2)  of  Dublin  III.   Neither  this
+    provision, nor the concept of the best interests  of  the  child,  were
+    addressed in X and X.
+
+
+95. In R (oao HN and MN (by their litigation friend  SH))  v  Secretary  of
+    State for the Home Department JR/4719/2018, Mr Justice Lane, President,
+    and Upper Tribunal Judge Mandalia  considered  the  import  of  Article
+    12(2) of the Implementing  Regulation  in  the  context  of  a  default
+    acceptance case (see [54]).  Having found the UK to be the  responsible
+    member state by default, at [57], the tribunal identified the potential
+    impact of Article 29(2) of  Dublin  III,  in  light  of  the  fact  the
+    applicants had not been transferred by Greece within the mandatory  six
+    month time limit.  Pursuant to Article 29(2), the consequences  of  the
+    Greek failure to transfer the applicants to the UK  within  six  months
+    meant that responsibility for the  examination  of  the  asylum  claims
+    defaulted to Greece.  The tribunal considered  the  judgment  of  Upper
+    Tribunal Judge Frances in R (oao FA & Others) v Secretary of State  for
+    the Home Department, another default acceptance case.  At  [66],  Judge
+    Frances held:
+
+
+             'Article 12(2) of the  [Implementing  Regulation]  applies  in
+             extreme cases where there are 'best interest reasons' for  not
+             complying with the time limit.'
+
+
+96.  In  HN  and  MN,  the  tribunal  concluded  that  the  allocation   of
+    responsibility for an unaccompanied minor by default was not capable of
+    overriding  the  child's  best  interests.   Article   12(2)   of   the
+    Implementing Regulation operated in parallel with the deemed acceptance
+    of the TCR.   If transfer were not in the child's best  interests,  the
+    regulation did not require it to proceed.  At [77], the tribunal held:
+
+
+             'There is therefore scope for the disapplication of  the  time
+             limits, if warranted.'
+
+
+      And at [78]:
+
+
+                 'Article 12(2) [of the Implementing Regulation] is not  in
+             our judgment, concerned with a 'reversal of the obligation' to
+             take charge, or the 'the withdrawal of responsibility', but is
+             concerned with reaching a  decision  that  promotes  the  best
+             interests of the child as a primary consideration and  ensures
+             full respect for the principle of family unity.'
+
+
+97. Those were considerations which, by definition, the  Court  of  Justice
+    did not have cause to consider in X and X, but which are central to the
+    issue of whether the strict application of the time  limits  enunciated
+    by the Court of Justice reads across to cases  involving  unaccompanied
+    minors.
+
+
+98. The potential import of Article 12(2) of the Implementing Regulation in
+    the present matter is that, had the Secretary of  State  withdrawn  her
+    earlier  unlawful  refusals,  the  provision  would  potentially   have
+    permitted an extension  to  the  Article  22(1)  two  month  limit  for
+    responding to a TCR on the grounds of the applicant's best interests.
+
+
+99. Drawing this analysis together, the Secretary of  State's  approach  in
+    the 27 April and 1 June decisions was to rely on her  earlier  unlawful
+    refusals to accept the family link between the applicant and SU and LB,
+    and  in  doing  so,  compound  her  earlier  unlawfulness,  purportedly
+    justified by reliance on a judgment of the Court of Justice  which  had
+    nothing to do with unaccompanied minors.  The decisions of 27 April and
+    1 June provided opportunities for the Secretary of State to cure  those
+    defects.  She did not avail herself of those opportunities.
+
+
+100. I therefore quash the decisions of 27 April and 1 June.
+
+
+101. Had the Secretary of State used the 27 April or  1  June  decisions  as
+    vehicles to withdraw her earlier, unlawful refusals, there are at least
+    two constructions of the Dublin regime which would have followed,  each
+    with the same result.  The withdrawal of the earlier unlawful  refusals
+    would have resulted in the UK being the  responsible  member  state  by
+    default, pursuant to Article 22(7).  Alternatively, pursuant to Article
+    12(2) of the Implementing Regulation, the Article 22(1) two month  time
+    limit for responding to the TCR could have been extended to enable  the
+    Secretary of State's  proper  consideration  of  the  applicant's  best
+    interests, following the withdrawal of her earlier  unlawful  refusals.
+    On either formulation, whether the UK  became  the  responsible  member
+    state  depends  on  the  applicant's  best  interests,  and  on  either
+    formulation, the result would be the same; the UK  is  the  responsible
+    member state, provided  transfer  would  be  in  the  applicant's  best
+    interests.  It is not necessary to reach a final view on which  of  the
+    two procedural alternatives would lead to this result.
+
+
+102. The 27 April and 1 June decisions therefore provided the  Secretary  of
+    State with the opportunity to withdraw the  earlier,  unlawful  refusal
+    decisions, with the effect that the UK would have been the  responsible
+    member state, provided transfer was in the applicant's best  interests.
+    By the time of the  final  reconsideration  refusal,  on  1  June,  the
+    applicant's transfer  would  still  have  been  within  the  six  month
+    transfer window permitted by Article 29(1) of the regulation.  Provided
+    the best interests requirement were met, the applicant's transfer could
+    have been effected within the overall Dublin III time  limit,  with  no
+    overall breach of the regulation.
+
+
+103. By the date of the hearing on 25 January 2021, the Secretary  of  State
+    was yet to  commission  formal  assessments  of  the  applicant's  best
+    interests by the relevant local authorities.  The order I made  at  the
+    end of the hearing required her to do so forthwith.   Such  assessments
+    should have been commissioned well within the initial two month  period
+    for responding to the TCR.
+
+
+104. At this stage, in the absence of the local authorities' assessments  of
+    the applicant's best interests, I  am  not  in  a  position  to  assess
+    whether the Secretary of State has  breached  her  overall  obligations
+    towards the applicant under the Dublin III regulation.  It is  only  if
+    transfer is in the applicant's  best  interests  that  the  UK  is  the
+    responsible member state by default.  Having made an order  to  require
+    the Secretary of State to commission  local  authority  assessments  to
+    that end, it would be inappropriate  for  me  to  seek  to  usurp  that
+    process by pre-empting it, and  unilaterally  declaring  that  transfer
+    would be in the applicant's best interests.  I  have  doubts  about  Ms
+    Kilroy's submission, outlined in paragraph 60, above, that there is  no
+    requirement to demonstrate the ability of the proposed family member in
+    this country to care for a Dublin III unaccompanied minor.  It is  true
+    that there is no express requirement, as there  is  with  Article  8(2)
+    concerning a 'relative'.  However, the placement  of  an  unaccompanied
+    child with a family member or sibling who was not able to care for  the
+    child would be anathema to the primacy  of  the  best  interests  of  a
+    child.  The ability of the family member or sibling to take care of the
+    child is certainly a relevant factor that must be considered.
+
+
+105. While I note that Lord Boyd was  content  to  conclude  in  Nasser  Al-
+    Fadhli that transfer would be in the petitioner's best interests,  that
+    was plainly a case-specific decision, on the  basis  of  the  materials
+    before the Outer  House.   See  paragraph  2:  'having  regard  to  the
+    material before the court in terms of the petitioner's best interests.'
+     I am not privy to the materials that were before Lord Boyd, but  I  do
+    know that in these proceedings no formal  local  authority  assessments
+    had been conducted by the time of the hearing on 25 January.
+
+
+106. It is sufficient to state that,  if  it  is  in  the  applicant's  best
+    interests that he be united with either his uncle or his sister, the UK
+    will be the responsible member state, and transfer will  have  breached
+    the eleven month long stop.
+
+
+The respondent's practice of soliciting further TCRs
+
+
+107. There was no application to amend the grounds for  judicial  review  in
+    light of Judge Norton-Taylor's observations  when  granting  permission
+    concerning what is said to be the respondent's practice of 'soliciting'
+    fresh TCRs.  The grounds for  judicial  review  target  only  the  four
+    decisions set out above.   See Section 3 on form T480 sealed on 15 June
+    2020.  While there is a generic reference to the Secretary  of  State's
+    'ongoing' decisions being  the  target  of  the  judicial  review,  the
+    'ongoing' conduct of the Secretary of State was plainly a reference  to
+    the alleged, thereby 'ongoing', failure to respond  positively  to  the
+    TCR  and  the  reconsideration  requests.    Quite   apart   from   the
+    difficulties inherent to considering post-decision material in judicial
+    review proceedings which I consider below, the generic reference to the
+    'ongoing' conduct of the Secretary of State is imprecise and vague, and
+    certainly cannot provide cover for the applicant to  target  any  post-
+    decision conduct of the Secretary of State at will.   The  two  grounds
+    for judicial review remain as those set above, with no specific  ground
+    targeting any specific post-decision steps taken by  the  Secretary  of
+    State in relation to soliciting a 'fresh' TCR request.  I note that  Ms
+    Kilroy's skeleton argument raises the issue at [3] to [6], but that  is
+    as part of a general discourse of the sort referred to at paragraph 25,
+    above, distinct from  the  submissions  advanced  in  relation  to  the
+    grounds upon which the applicant enjoys permission which start at  [36]
+    and following.
+
+
+108. In Secretary of State for the Home Department v R (oao  Spaihu)  [2018]
+    EWCA Civ 2604 at [63], the Court of Appeal held:
+
+
+             'It will usually be better for all parties if judicial  review
+             proceedings are not treated as "rolling" or "evolving", and it
+             is generally simpler and more cost-effective for the reviewing
+             court to avoid scrutinising post-decision material. But  there
+             will  also  be  a  need  to  maintain  a  certain   procedural
+             flexibility so as to do justice as between the parties.'
+
+
+109. It follows that this application for judicial review is  not  expressly
+    concerned with the question of whether the Secretary  of  State  has  a
+    practice of soliciting new TCRs, and if  so  whether  the  practice  is
+    unlawful.  The Secretary of State's subsequent engagement with the  GDU
+    which led to the correspondence received on 31 December 2020 is a post-
+    decision matter. In the absence  of  express  grounds  concerning  this
+    issue, and having heard only peripheral argument on, in the exercise of
+    my discretion pursuant  to  the  overriding  objective,  I  decline  to
+    consider it.
+
+
+
+
+
+ARTICLE 8 ECHR AND THE CHARTER
+
+
+110. I will approach the Article 8 ECHR submissions as follows:
+
+
+        a. By reference to first principles, what are a contracting party's
+           Article 8 ECHR obligations?
+
+
+        b. What is the relationship between Article 8 ECHR, the Dublin  III
+           regime and the Charter?
+
+
+        c. What, therefore, are the UK's Article 8 obligations towards  the
+           applicant?
+
+
+   a) Article 8: first principles
+
+
+111. I reject Ms Kilroy's submission that the  potential  responsibility  of
+    the UK for examining the applicant's asylum claim necessarily  provides
+    a 'strong indication' of the engagement of his Article  8  ECHR  family
+    life rights in relation to  his  uncle  and  sister  (see  Ms  Kilroy's
+    skeleton argument at [52]).  While there are areas of  overlap  between
+    the Dublin III regime and the rights guaranteed by Article 8 ECHR,  the
+    two regimes are not identical.  The Dublin III regime goes considerably
+    further than Article 8 ECHR in  some  respects.   In  others,  the  two
+    regimes 'may sometimes tug in different directions', and in  especially
+    compelling cases, the requirements of Article 8 may militate in  favour
+    of bypassing the Dublin III procedures  (see  R.  (oao  ZT  (Syria))  v
+    Secretary of State for the Home  Department  [2016]  EWCA  Civ  810  at
+    [65]).
+
+
+112. In order to address the Article 8 submissions, I shall return to  first
+    principles.
+
+
+113. As Baroness Hale explained in R (oao Bibi) v  Secretary  of  State  for
+    the Home Department [2015] UKSC 68 at [25] to [29], and in  R  (oao  MM
+    (Lebanon)) v Secretary of State for the Home Department [2017] UKSC  10
+    at  [38]  and  [40]  to  [44],  the  Strasbourg  Court  has  for   long
+    distinguished between the negative and positive obligations imposed  by
+    Article 8 of the ECHR.  Contracting  parties  to  the  Convention  have
+    negative obligations not to interfere with the private and family lives
+    of  settled  migrants,  other  than  as  may  be  justified  under  the
+    derogation contained in Article 8(2).  By contrast, in cases concerning
+    the removal, or  admission,  of  migrants  with  no  such  rights,  the
+    essential question is whether the host state is subject to  a  positive
+    obligation to  facilitate  their  entry  or  continued  residence.   In
+    positive obligation cases, the question is whether the host country has
+    an obligation towards the migrant, rather than whether it  can  justify
+    the interference under Article 8(2).   But  the  principles  concerning
+    negative and positive obligations are similar.  As the Strasbourg Court
+    held in G�l v Switzerland (1996) 22 EHRR 93:
+
+
+             'In both contexts regard must be had to the fair balance  that
+             has to be  struck  between  the  competing  interests  of  the
+             individual and of the  community  as  a  whole;  and  in  both
+             contexts the state enjoys a certain margin of appreciation...'
+             (paragraph 106)
+
+
+
+
+
+
+
+
+
+
+   b) The relationship between Article 8 ECHR, Dublin III and the Charter
+
+
+114. In FWF the Court  of  Appeal  conducted  an  extensive  review  of  the
+    authorities on the  interaction  between  the  Dublin  III  regime  and
+    Article 8 ECHR.  While Ms Kilroy sought to confine FWF to  the  default
+    acceptance context, I do not consider that attempted distinction to  be
+    of merit, for the following reasons.
+
+
+115.  First,  I  have  quashed  the  refusal  and  initial   reconsideration
+    decisions dated 18 February and 17 March respectively.  As set  out  in
+    paragraph 101,  above,  the  result  is  that  either  the  UK  is  the
+    responsible member state by default, or that the time for accepting the
+    TCR may be extended, provided it is in the applicant's best  interests.
+    Each formulation would lead to the  same  result,  provided  that  were
+    consistent with the applicant's best interests.  It is not necessary to
+    determine the precise inner workings of the Dublin  III  regime,  given
+    the end result would be identical.  Ms Kilroy's  submissions  that  FWF
+    concerned a so-called 'default acceptance' scenario does not place  the
+    case in significantly different territory from the present matter.
+
+
+116. Secondly, the Court of Appeal's analysis  of  the  interaction  between
+    Article 8 ECHR and Dublin III was not confined to 'default  acceptance'
+    Dublin  III  cases.   It  concerned  a  broad  range  of   Dublin   III
+    authorities, including proceedings where  the  applicants  specifically
+    sought to bypass Dublin III on Article 8 grounds, having chosen not  to
+    claim asylum in the host member state.  See, for example, ZT (Syria), R
+    (oao Citizens UK) v Secretary of State for the Home  Department  [2018]
+    EWCA Civ 1812, R (oao AM) v Secretary of State for the Home  Department
+    [2018] EWCA (Civ) 1815.
+
+
+117. At [134] to [136] of FWF, Laing LJ contrasted the aims and  purpose  of
+    the Dublin III regime  and  the  Strasbourg  authorities  concerning  a
+    state's positive obligation to admit the  family  member  of  a  person
+    settled in  a  contracting  state.   She  noted  that  some  Strasbourg
+    authorities,  for  example  Tanda-Muzinga  v  France  (Application   No
+    2260/10, 10 July 2014), recognised that family reunion may,  compatibly
+    with Article 8 ECHR, take some time.  At [136], she stated:
+
+
+             'There is no Strasbourg case, however, which has recognised  a
+             positive obligation to admit them within the relatively  short
+             time limits prescribed by Dublin III. Moreover, no  Strasbourg
+             case has derived an obligation  from  article  8  to  admit  a
+             person to a contracting state in order to enable that state to
+             consider his claim for international protection.'
+
+
+    Ms Kilroy's FWF-based submissions  did  not  highlight  any  Strasbourg
+    authorities which cast a shadow of doubt  over  the  above  summary  by
+    Laing LJ of that court's jurisprudence.
+
+
+118. It follows that nothing in  the  Court  of  Appeal's  analysis  in  FWF
+    concerning the interaction between Article 8 ECHR and  the  Dublin  III
+    regime was confined to the facts of the proceedings  in  FWF.   To  the
+    extent that the principles enunciated by FWF concerned the facts of the
+    proceedings before the Court of Appeal, for example  where  there  were
+    only 'incidental' breaches of Dublin III, that is of  course  relevant,
+    and will be considered as set out below.
+
+
+119.  I  turn  therefore  to  the  court's  substantive  analysis   of   the
+    relationship between the two regimes.
+
+
+120. At [137] of FWF, Laing LJ held:
+
+
+             'It is therefore  obvious  that  the  obligations  imposed  by
+             Dublin III are not a mirror image of the  obligations  imposed
+             by article 8. The references in the recitals to article 8  and
+             to article 7 CFR [the Charter of Fundamental Rights] show, not
+             that Dublin III  mirrors  article  8,  but,  rather,  that  in
+             framing Dublin III, the legislator has had the  importance  of
+             family links well in mind, no doubt  because  it  was  thought
+             that if an application for international protection  succeeds,
+             it will help the successful applicant to  settle  in  his  new
+             country if any member of his wider family is lawfully  present
+             there.  Recital  (32)  recognises  the  significance  of   the
+             Strasbourg caselaw, but does not oblige member  states  to  go
+             further than that caselaw indicates...'
+
+
+121. Laing LJ then addressed the question to be addressed by a court  seized
+    of a possible breach of Article 8 ECHR or the Dublin III regime,  which
+    she had identified, at [134], in these terms:
+
+
+             'The second issue is whether the court should ask, not whether
+             a public authority has interfered with the rights protected by
+             article 8,  or  whether  a  public  authority  has  failed  to
+             discharge a positive obligation  imposed  by  article  8,  but
+             whether article 8 is engaged in the overall operation  of  the
+             Dublin scheme, and then to ask whether the Secretary of  State
+             has acted unlawfully  in  the  discharge  of  the  obligations
+             imposed by that scheme.'
+
+
+122. The answer to that question, held the court at [138], was that:
+
+
+             'The Strasbourg cases do not  decide  that  if  a  contracting
+             state establishes an administrative  scheme  (such  as  Dublin
+             III) which is designed, in part, to recognise  or  to  respect
+             the rights protected by article 8, any incidental unlawfulness
+             in the operation of such a scheme is a breach  of  article  8.
+             Such an approach is similar to  the  approach  which  a  court
+             takes  when  considering  an  allegation   of   discrimination
+             contrary to article 14. That approach is to ask, if a state is
+             acting 'within the ambit' of a Convention  right,  whether  an
+             applicant has been treated differently on the grounds  of  his
+             status. Article 14  does  not  require  an  interference  with
+             Convention rights. There is no warrant for such an approach to
+             article 8. A breach of article 8 depends, in  the  case  of  a
+             negative obligation, on an interference with rights  protected
+             by article 8, and, in the case of a positive  obligation  owed
+             to that person, a breach of that positive obligation.'
+
+
+123. I accept that the Dublin III unlawfulness  in  the  present  matter  is
+    more  than  incidental.   If  transfer  is  in  the  applicant's   best
+    interests, it will not be able to take place until some time after  the
+    eleven month longstop has passed.
+
+
+124. While below I give reasons for finding that the applicant's  Article  8
+    ECHR private and family life rights are not breached by  the  decisions
+    of the Secretary of State, the question of the applicant's private life
+    under Article 7 of the  Charter  is  a  different  matter.   While  the
+    Charter draws much of its inspiration from the ECHR, and the  provision
+    made by each overlaps to a considerable  extent,  the  scope  of  their
+    engagement can be different, as the Charter can provide more  extensive
+    protection than the ECHR.  Article 52(3) of the Charter provides:
+
+
+             'In so far as this Charter contains rights which correspond to
+             rights guaranteed by the  Convention  for  the  Protection  of
+             Human Rights and Fundamental Freedoms, the meaning  and  scope
+             of those rights shall be the same as those laid  down  by  the
+             said Convention. This provision shall not  prevent  Union  law
+             providing more extensive protection.' (emphasis added).
+
+
+125. The Charter is engaged when the Secretary of  State  is  acting  within
+    the scope of EU law, or, more accurately, 'implementing' EU law (see R.
+    (oao NS) v Secretary of State for the Home Department (C-411/10) [2013]
+    QB 102, operative paragraph 1).  The Charter can be engaged even  where
+    corresponding rights in the ECHR would not be.  See, for example, ZZ  v
+    Secretary of State for the Home Department (C-300/11) [2013]  QB  1136,
+    concerning the engagement and import of Article 47 of  the  Charter  in
+    circumstances where Article 6 of the ECHR would have no role  to  play,
+    namely in immigration proceedings.  That is  an  example  of  the  more
+    extensive provision which can be made under  the  Charter.   Similarly,
+    while the ECHR has territorial constraints which  limit  its  effective
+    scope of application in relation to individual contracting parties (see
+    Article 1 of the Convention: 'the High Contracting Parties shall secure
+    to  everyone  within  their  jurisdiction  the  rights   and   freedoms
+    defined...'), the Charter is engaged on the 'implementing' EU law basis
+    set out above.  In practical terms applied to the present matter,  that
+    means that there may be circumstances when an  individual's  Article  8
+    ECHR private life rights are not engaged towards the  UK,  even  though
+    the equivalent rights in the Charter do  not  operate  under  the  same
+    territorial constraints.
+
+
+126. It is difficult to  see  how  the  Charter  could  not  be  engaged  in
+    relation to the applicant's Article 7 private life.  The  circumstances
+    of his life in Greece (which is, of  course,  outside  the  territorial
+    scope of the UK's ECHR obligations, with the effect that  he  does  not
+    enjoy Article 8 private life vis a vis the UK's ECHR  obligations)  are
+    closely intertwined with the processing of his  application  under  the
+    Dublin III regime.  The UK's responses to the GDU's requests amount  to
+    the UK 'implementing' EU  law  for  these  purposes.   The  applicant's
+    Article 7 Charter private life rights are therefore engaged.
+
+
+127. By contrast, the applicant's private life Article 8  ECHR  rights  are,
+    given his location in Greece, within the jurisdiction of  the  Hellenic
+    Republic, and not the UK, and are not justiciable in these proceedings.
+
+
+128. The  applicant's  Article  7  Charter  'family  life'  rights  are  not
+    engaged.  He does not enjoy 'family life' with his uncle or sister,  as
+    set out below.  While the UK's obligations under the  Charter  are  not
+    subject to the same territorial constraints as  its  obligations  under
+    the ECHR, nothing in the  Charter  requires  a  broader  view  of  what
+    amounts to the substance of family life  than  is  required  under  the
+    ECHR.
+
+
+129. It follows that the Secretary of State's unlawful responses to the  TCR
+    and reconsideration requests breached the Dublin  III  regulation,  and
+    the applicant's Article 7 private life rights under  the  Charter.   In
+    practice, the engagement of the Charter on  a  private  life  basis  is
+    unlikely to add significantly, if at all, to the overall  magnitude  of
+    the Secretary of State's breaches of EU law.  The private life role  of
+    the Charter in this context is simply one facet  of  the  Secretary  of
+    State's overall breach of the Dublin III regulation.
+
+
+130. I address the  question  of  relief,  and  associated  next  steps,  at
+    paragraph 171, below.
+
+
+   c) What, therefore, are the UK's Article 8 ECHR obligations  towards  the
+      applicant?
+
+
+131. The essential question for me  to  address  under  Article  8  ECHR  is
+    whether Article 8 imposes a positive obligation on the UK to admit  the
+    applicant for the purposes  of  unification  with  his  family  members
+    already resident in the territory.
+
+
+132. I make two preliminary observations.  First, an overall breach  of  the
+    Dublin III regime will not automatically be a breach of Article 8 ECHR,
+    given the distinctions between the two regimes.  I have been  taken  to
+    no sub-species of Strasbourg authority concerning  the  impact  on  the
+    positive and negative obligations of a contracting party by a  parallel
+    administrative regime for family unification, even  where  there  is  a
+    breach of that regime.  See [138] of  FWF,  quoted  at  paragraph  122,
+    above.
+
+
+133. Nor have I been taken to any authority which demonstrates that the  'in
+    accordance with the  law'  criterion  of  Article  8(2)  applies  to  a
+    positive  obligation  case.   While  the   proportionality   assessment
+    inherent to Article 8(2) has been described domestically as  a  'useful
+    tool' for assessing whether a fair balance has been struck between  the
+    individual and public interests at play in  such  a  decision  (see  MM
+    (Lebanon) at [44]), nothing I have been taken to demonstrates that  the
+    other  criteria  in  Article  8(2)  map  across  to  the  fair  balance
+    assessment.  In practical terms, therefore, a breach of the Dublin  III
+    regulation in a putative positive obligation case does not result in an
+    additional breach of Article 8 ECHR on 'not in accordance with the law'
+    grounds under Article 8(2).
+
+
+134. Secondly, while the  applicant's  best  interests  as  a  child  are  a
+    primary consideration, they cannot, in principle, affect an analysis of
+    whether 'family life' exists between him  and  his  uncle  and  sister.
+    Family life either exists, or it does not.  Of course,  the  assessment
+    that follows must be conducted in a manner benevolent to the applicant,
+    reflective generally of the primacy of his  best  interests.   However,
+    while it would no doubt be in the applicant's best interests for family
+    life to be found to exist, the question of whether it does exist is  an
+    objective question, which must be assessed according to the evidence.
+
+
+Does the applicant enjoy 'family life' with SU or LB?
+
+
+135. It is  necessary  first  to  establish  whether  the  applicant  enjoys
+    'family life' for the purposes of Article 8  ECHR  with  his  uncle  or
+    sister.  If 'family life' does not exist, there can be no question of a
+    positive obligation  to  facilitate  the  admission  of  the  applicant
+    exists, still less whether such an obligation has been breached.
+
+
+136. I take the following facts from the uncontested witness  statements  of
+    SU and LB.
+
+
+Family life: factual matrix
+
+
+137.  SU  was  born  in  1962  in  Bangladesh.   His  elder  sister  is  the
+    applicant's mother.  SU left Bangladesh in 1989 for Italy.  He  married
+    his wife, whom he met in Bangladesh, in 1999, and  she  joined  him  in
+    Italy.  He acquired Italian citizenship in 2010 and now lives  in  this
+    country, having acquired the right to permanent residence on 9  October
+    2017.
+
+
+138.  SU  first  met  the  applicant  in  2008  during  a  return  visit  to
+    Bangladesh.  The applicant would have  been  five  or  six  years  old.
+    Their second, and only  subsequent,  meeting  was  in  2016,  when  the
+    applicant would have been 13 or 14 years old.  SU does not suggest that
+    he ever spoke directly to the applicant when he was in Bangladesh; SU's
+    contact was with the applicant's mother, his sister.  They would  speak
+    three to four times weekly, and SU would enquire after  the  applicant.
+    Now that the applicant is in Greece, he maintains 'close contact'  with
+    him and calls 'more often' (statement at [10]).   The  purpose  of  the
+    calls is to check on the applicant and find how he  is  doing.   SU  is
+    aware of the  basic  and  unsatisfactory  living  arrangements  of  the
+    applicant in Greece.   SU  liaised  with  the  applicant's  brother  in
+    Bangladesh to obtain some  of  the  family  documents  that  have  been
+    provided to the GDU as part of the asylum process.  He  has  sought  to
+    cooperate with the Home Office as  part  of  the  Dublin  process,  but
+    claims he didn't receive some of the correspondence that the  Secretary
+    of State maintains was  sent  to  him.   He  made  some  calls  to  the
+    Secretary of State's European Intake Unit when the  applicant's  Dublin
+    application was refused.  He has had contact with a charity called Safe
+    Passage to help with the applicant's transfer here.  He is very worried
+    about his nephew.
+
+
+139. LB's statement begins by outlining the family situation.  She was  born
+    in 1991 in Bangladesh.  She lived with the appellant and their  brother
+    and two sisters until leaving the country  in  2012  with  her  Italian
+    husband.  In 2016 she moved with her husband to the UK, with  whom  she
+    has three children.   She would speak  to  her  brother  in  Bangladesh
+    every week to two weeks after leaving.  Now she speaks with him  almost
+    daily.  She is worried about him and so is in  more  frequent  contact.
+    His living conditions are concerning.  She  was  very  upset  when  his
+    application was refused.  In May 2020, she used the  internet  to  find
+    the charity Safe Passage which helped the applicant find a solicitor.
+
+
+Family life: legal framework
+
+
+140. In relation to Ms Kilroy's submissions concerning the  General  comment
+    No. 14, I accept that the Strasbourg Court and the authorities draw  on
+    the UN Convention on the Rights  of  the  Child  when  determining  the
+    engagement and scope of  Article  8  family  life  in  cases  involving
+    children.  That the General comment No. 14 emphasises the  preservation
+    of  family,  the  maintenance  of  relations  and  the  prevention   of
+    disruption is an uncontroversial proposition, and  such  considerations
+    are  woven  throughout  many  domestic  and  international  authorities
+    concerning the best interests of children.
+
+
+141. However, I consider the General comment to be of limited assistance  in
+    relation to the issue of determining whether family life exists in  the
+    first place between this applicant  and  his  uncle  and  sister.   The
+    General comment, and the generally accepted emphasis on the  importance
+    of maintaining family relations and  preventing  family  disruption  in
+    cases  involving  children,  assist  with  identifying  what  the  best
+    interests of a child should  be  and  how  those  interests  should  be
+    incorporated into decision making, particularly in the context (in  the
+    extracts relied on by  Ms  Kilroy)  of  family  reunification.   In  my
+    judgment, the General comment's primary relevance  in  the  context  of
+    these proceedings would be in  relation  to  striking  a  fair  balance
+    between the rights of the individual  child  (and  his  or  her  family
+    members) and the public  interests  of  the  state  militating  in  the
+    opposite direction,  once  family  life  is  established,  rather  than
+    determining whether family life for the  purposes  of  Article  8  ECHR
+    exists in the first place.
+
+
+142. To the extent that the General comment endorses  the  proposition  that
+    the best interests of children may encompass many shapes and forms,  it
+    confirms established jurisprudence in this jurisdiction.  I accept that
+    cohabitation is not necessarily the hallmark of family  life  and  that
+    family life may exist even where those  who  are  a  party  to  it  are
+    separated  by  international  boundaries.    Internationally   accepted
+    standards for the best interests of children also assist in  confirming
+    it would be in the applicant's best interests for  family  life  to  be
+    created with his uncle and sister, in  the  event  it  does  not  exist
+    already.
+
+
+143. The leading domestic authority on the existence of  'family  life'  for
+    the purposes of Article 8 ECHR is Kugathas v Secretary of State for the
+    Home Department [2003] EWCA Civ 31.  At [14], Lord Justice Sedley  drew
+    on the decision of the European Commission for  Human  Rights  in  S  v
+    United Kingdom (1984) 40 DR 196, accepting that it sets out the 'proper
+    approach.'  Addressing the facts before it in  those  proceedings,  the
+    Commission held, at page 198:
+
+
+             'Generally, the protection of  family  life  under  Article  8
+             involves cohabiting dependents,  such  as  parents  and  their
+             dependent,  minor  children.  Whether  it  extends  to   other
+             relationships depends on the circumstances of  the  particular
+             case. Relationships between adults, a mother and her 33 year
+             old son in the present case, would not necessarily acquire the
+             protection of Article 8 of the Convention without evidence  of
+             further elements of dependency, involving more than the normal
+             emotional ties.' (emphasis added)
+
+
+144. As to what was meant by 'dependency', Sedley LJ held at [17]:
+
+
+             '...if dependency is read down as meaning  'support',  in  the
+             personal sense,  and  if  one  adds,  echoing  the  Strasbourg
+             jurisprudence, 'real' or 'committed'  or  'effective'  to  the
+             word 'support', then it represents in my view the  irreducible
+             minimum of what family life implies.'
+
+
+145. Although in submissions Ms Kilroy contended that Kugathas was  not  the
+    leading authority on this issue, that it had never been  reported,  and
+    that it was not cited in Pawandeep Singh, it is clear that the Court of
+    Appeal has consistently ascribed to it the significance  for  which  Mr
+    Lewis contends.    See, for example, AU v Secretary of  State  for  the
+    Home Department [2020] EWCA Civ 338 at [32] ('Subsequent case  law  has
+    built upon but not detracted from Kugathas...');  R  (oao  Britcits)  v
+    Secretary of State for the Home Department [2017] EWCA Civ 368 at [61],
+    [74], and [86]; Entry Clearance Officer,  Sierra  Leone  v  Edna  Kopoi
+    [2017] EWCA Civ 1511 ('The leading domestic authority on the  ambit  of
+    'family life' for the purposes of Article 8 is the well-known  decision
+    of this court in Kugathas...' [17], [19], per  Sales  LJ,  as  he  then
+    was).   Kugathas  is  plainly  the  leading  authority.   There   must,
+    therefore, be something more than normal emotional ties.  There must be
+    dependency characterised by real, committed or effective support.
+
+
+146. I do not consider that Dyson LJ was attempting  to  adopt  a  different
+    approach or establish a general principle of 'anticipatory' family life
+    in Pawandeep Singh at [38] (see paragraph 62, above).  Concerning  Pini
+    v Romania, which formed a central plank of the reasoning of  Dyson  LJ,
+    Ms Kilroy initially sought to emphasise the fact the  adoptive  parents
+    had not even met the children as being supportive  of  the  applicant's
+    case as to the existence of family life with SU and LB.  However, as  I
+    pointed out during argument, there had been physical  meetings  between
+    the persons concerned; one set of  adoptive  parents  had  met  'their'
+    child five times, the other set, three times: see [26].  The court  was
+    not endorsing the proposition that family life can exist where physical
+    contact had never taken place.  In fairness to Ms Kilroy, she  accepted
+    as much when I drew the facts  of  Pini  to  her  attention.   But  the
+    factual matrix of Pini provides essential context for  its  influential
+    role in Pawandeep Singh.
+
+
+147.  The  facts  of  Pawandeep  Singh  were  unique;  the  entry  clearance
+    applicant was a child who had been adopted in India, according  to  the
+    laws and practices of the Sikh faith, by a British couple  residing  in
+    this country.  The adoption was recognised under the law of India.  The
+    arrangement was unique because the child remained in the  home  of  his
+    birth parents in India, along with his siblings, but was brought up  to
+    regard his adoptive parents as his real parents,  and  to  address  his
+    birth parents as 'aunt' and 'uncle'.  The adoptive parents  visited  at
+    least twice annually.  They took all major decisions for him, including
+    concerning his  schooling,  providing  funding  and  maintenance.   The
+    required irreducible minimum of family life with his  adoptive  parents
+    plainly already existed, yet, if he were  granted  entry  clearance  to
+    reside with them in this country, that kernel of family life would have
+    expanded and developed exponentially, especially when compared  to  the
+    long-distance arrangements which the family were forced to tolerate  in
+    the meantime.  The extract from Dyson LJ's judgment at [38] relied upon
+    by Ms Kilroy must be read in that context, and in the  context  of  the
+    remaining  reasoning  in  the  same  paragraph,  which  included   this
+    important caveat:
+
+
+              'I acknowledge, however, that unless some  degree  of  family
+             life is already established, the claim  to  family  life  will
+             fail and will not be saved by the fact that at  some  time  in
+             the future it could flower into a full-blown family  life,  or
+             that the applicants have a genuine wish to bring this  about.'
+             (emphasis original)
+
+
+    For those reasons, the adjudicator had been entitled  to  find  on  the
+    facts that family life did exist, the court held.
+
+
+148. I consider that Dyson LJ's emphasis on the need  for  'some  degree  of
+    family life' already to be established must mean some degree of  family
+    life for the purposes of Article 8 ECHR.  'Family life' in this context
+    cannot mean mere emotional ties.  Were that not  so,  it  would  render
+    nugatory any requirement for there to be  more  than  normal  emotional
+    ties in an entry clearance  (or  any  other  Article  8)  context.   By
+    definition, barring some intervening or disruptive act such  as  family
+    breakdown, all 'usual emotional  ties'  would  have  the  potential  to
+    develop into 'full-blown family life', given the opportunity to do  so.
+    Dyson  LJ  could  not  have  meant  that  merely  demonstrating  normal
+    emotional ties would suffice for engaging Article  8  ECHR,  given  the
+    potential for future development  of  family  life.    He  was  plainly
+    referring to a quality of relationship which  had  already  passed  the
+    minimum threshold to amount  to  'family  life'  for  the  purposes  of
+    Article 8 ECHR.  In Pawandeep Singh, as in Pini's case, formal adoption
+    arrangements were in place, pursuant to  the  legal  framework  of  the
+    jurisdiction in which  the  putative  adopted  children  resided.   The
+    parents and children had met, albeit to differing degrees.  There  were
+    plainly more than mere emotional ties between the parents and children.
+
+
+149. Ms Kilroy's reliance upon R (oao Ahmadi) v Secretary of State  for  the
+    Home  Department  does  not  assist  her  submission   either.    Those
+    proceedings concerned family life between two Afghan brothers  in  this
+    country.  The Secretary of State proposed to remove one of the brothers
+    to Germany under the Dublin II regime, having certified a human  rights
+    claim he made in an attempt to resist removal  as  'clearly  unfounded'
+    under section 92(2) of the  Nationality,  Immigration  and  Asylum  Act
+    2002.  Ms Kilroy relies on [17], where Moses LJ observed that:
+
+
+             'The question [of whether the human rights claim was 'bound to
+             fail'] must be considered in the light of the potential of the
+             brothers' family  life  together,  not  just  that  which  has
+             existed for a  short  time  in  the  past.  It  must  also  be
+             remembered  that  by  the  time  of  any  appeal   before   an
+             immigration judge, the relationship, if  it  was  a  genuinely
+             supportive relationship, will have developed,  and  a  greater
+             opportunity will have emerged for those qualified medically to
+             speak about the effect of that relationship.'
+
+
+150. In Ahmadi, Moses LJ was concerned not with the engagement of Article  8
+    on a family life basis, but rather the proportionality of removal, once
+    Article 8 was engaged.  So much is clear from  the  discussion  of  the
+    fifth question posed by Lord Bingham of Cornhill in Razgar [2004]  UKHL
+    27 at [15] of Moses LJ's judgment.  By definition, Razgar question (5),
+    concerning the proportionality of an  interference  with  rights  under
+    Article 8(2) ECHR, only arises once Article 8 is engaged.  If Mr Ahmadi
+    were able to enjoy an in-country appeal,  the  adjudicator  would  have
+    assessed the human rights claim at the date of the hearing, which would
+    have been some time away.  By then, the family  life  which  -  as  was
+    common ground -  already  existed  would  necessarily  have  augmented.
+    There were health considerations and additional levels  of  dependency.
+    The first instance judge simply failed to have  regard  to  the  likely
+    facts as they would obtain  before  the  adjudicator  at  the  eventual
+    appeal,  and,  as  such,  failed  to  have   regard   to   a   material
+    consideration.
+
+
+151. If any further clarity be required, it  is  provided  by  Moses  LJ  at
+    [18], addressing this precise issue:
+
+
+             'That is not to say that, where there has been no pre-existing
+             family life and there exists only  a  future  intention,  that
+             will be sufficient to engage Article 8.'
+
+
+152. Boyle v United Kingdom, also relied upon by Ms Kilroy, does not  assist
+    the applicant, other than to endorse the proposition that  family  life
+    is  capable  of  existing  between  an  uncle  and  nephew,  which   is
+    uncontroversial.  The applicant uncle established that Article  8  ECHR
+    family life existed with his nephew, with whom he was very close.   The
+    context was care proceedings, the uncle having been denied contact with
+    the nephew upon the latter being taken into care as a result  of  abuse
+    from his mother, the uncle's sister.  The uncle and nephew lived  close
+    to each other, and the nephew made weekend stays at the  uncle's  home.
+    The uncle had been a father figure to the nephew from birth.  The  care
+    process cut the uncle out of the  nephew's  life  altogether,  with  no
+    provision for his involvement in  the  process  to  determine  contact.
+    Family life existed, but the absence of a proper process to respect the
+    uncle's Article 8(1) rights meant that the interference  could  not  be
+    regarded as 'necessary' under Article 8(2): see [58].
+
+
+153. While Boyle establishes that an uncle  and  nephew  may  enjoy  Article
+    8(1) family life, I do not understand that  simple  proposition  to  be
+    controversial.   The  issue  in  these  proceedings  is  whether   this
+    applicant enjoys family life either with his uncle, or with LB.   Boyle
+    is instructive in one respect, as it assists with  the  calibration  of
+    the strength and depth of relationship required  between  non-immediate
+    family members in order to establish 'family  life'  for  Article  8(1)
+    purposes.  The relationship was very close, as outlined above.
+
+
+
+
+
+Family life with SU: discussion
+
+
+154. I find that the applicant and SU do  not  enjoy  family  life  for  the
+    purposes of Article 8 ECHR.  They have met only twice,  once  when  the
+    applicant was very young, and the last time  in  2016.   There  are  no
+    details of what  took  place  during  those  meetings.   Prior  to  the
+    applicant's arrival in Greece, the high watermark of  his  relationship
+    with the applicant was to  enquire  after  him  when  speaking  to  his
+    mother.  He does not claim to have spoken directly with the  applicant,
+    or written, or had any other form of long-distance  relationship  which
+    goes beyond the normal emotional ties of uncle and nephew prior to  his
+    arrival in Greece.  While there  may  have  been  an  increase  in  the
+    contact with  the  applicant  following  his  arrival  there,  what  is
+    striking from the  evidence  presented  in  these  proceedings  is  its
+    general paucity.  There are no copies of text message or telephone logs
+    of the sort that would readily be  available,  and  which  are  usually
+    relied upon in cases where the parties seek to establish  long-distance
+    family life.  SU's evidence  is  that  he  speaks  regularly  with  the
+    applicant by telephone.  Such evidence would be easy to provide.
+
+
+155. There is no evidence of any financial support, or any  visits  to  meet
+    with the applicant.  While  international  travel  has  been  difficult
+    since late March 2020, the applicant arrived in Greece in May 2019 (see
+    [20] of Emma Terenius' witness statement dated 12 June 2020).  There is
+    no suggestion of any visits by the uncle (or sister) in the  ten  month
+    period before the pandemic struck, which is significant.  Were  it  the
+    case that 'family life' existed between the applicant and SU,  I  would
+    have expected  SU's  statement  to  have  at  least  engaged  with  the
+    possibility of travelling to meet him, even  if  there  were  practical
+    problems which later intervened, or which prevented travel in the first
+    place.  SU wrote that  he  could  not  afford  lawyers  to  assist  the
+    applicant in his asylum and Dublin claim.  He does not say there was no
+    possibility of travelling to meet him.
+
+
+156. SU has indicated a willingness to accommodate the applicant  in  future
+    and supports his Dublin transfer request.  That is a degree of support.
+     However, the mere fact of his willingness to support the applicant  in
+    the future, assessed in the context of the general paucity of  evidence
+    as  to  the  current  status  of  family  life  between  the  two,   is
+    insufficient.  Many human rights claims  where  the  central  issue  is
+    whether 'family life' exists in the entry clearance context involve the
+    prospect of the  parties  cohabiting  upon  arrival  in  this  country;
+    something more than mere willingness  to  accommodate  is  required  to
+    demonstrate the engagement of Article 8 on a family life basis prior to
+    their arrival.
+
+
+157. I accept that SU, and LB (see below), have provided some assistance  to
+    the applicant with his Dublin  III  application.   As  detailed  by  Ms
+    Terenius at [7] of her statement, SU assisted the applicant  to  liaise
+    with SA, the applicant's cousin in  Bangladesh,  to  obtain  his  birth
+    certificate and other documentation.   I  accept  that  those  isolated
+    tasks do involve the provision of a degree of support, but when  viewed
+    in the context of the overall paucity of evidence, that is insufficient
+    to reach the minimum threshold for the existence of family life.
+
+
+158. The fact that family life would inevitably develop  in  the  future  is
+    not sufficient to merit a finding that it already exists,  as  set  out
+    above.  The case-specific examples relied upon by Ms Kilroy  concerning
+    other decisions of this tribunal finding that family  life  does  exist
+    are just  that:  case-specific  examples.   They  do  not  establish  a
+    proposition.   They  are   merely   examples   of   already-established
+    principles applying to the facts of individual cases.
+
+
+Family life with LB: discussion
+
+
+159. I reject Ms Kilroy's submission (see [53]  of  her  skeleton  argument)
+    that family life should be 'presumed' to exist in this sibling context.
+     The assessment of family life is inherently case-specific,  and  there
+    is no presumption that it exists in any context: see Arden LJ  at  [24]
+    of Kugathas:
+
+
+             'There is no presumption that a person has a family life, even
+             with the members of a person's immediate family. The court has
+             to scrutinise the relevant factors.'
+
+
+160. Similarly, Ms Kilroy's reliance on R (oao FA  &  Ors)  v  Secretary  of
+    State for the  Home  Department  JR/5523/2018  does  not  take  matters
+    further.  It was common ground on the facts of those cases that Article
+    8 was engaged on a family life basis:  see  [79].   The  fact  that  in
+    other, factually distinct, proceedings the parties agreed that  Article
+    8 was engaged does not lead to the conclusion that it must  be  engaged
+    in the present matter.  A case specific assessment is required.
+
+
+161. LB left the family home when the applicant was nine  years  old.   They
+    have not seen each other since.  He is  now  nearly  18.   LB  paid  no
+    return visits to Bangladesh prior to his departure and does not  appear
+    to have sought to visit the applicant in Greece, nor  contemplated  the
+    possibility of travelling to meet  the  applicant  in  the  ten  months
+    before the  pandemic  struck.   There  are  no  details  of  telephone,
+    messaging or social media contact of the sort which  would  readily  be
+    expected when family life exists between an  adult  and  minor  sibling
+    living in different countries.
+
+
+162. I accept that LB appears to have  been  instrumental  in  securing  the
+    services of Safe Passage on behalf of the applicant:  see  [6]  of  her
+    statement.  This accords with SU's statement at [17]  where  he  writes
+    that it was LB who contacted Safe Passage, thereby taking  the  initial
+    steps to catalyse the applicant obtaining legal  representation.   That
+    led  to  him  instructing  Wilson   solicitors,   and   bringing   this
+    application.  I take that into account.
+
+
+163. I find that LB has provided the applicant with  a  degree  of  support,
+    but the support is limited, and I do not consider it to demonstrate the
+    required 'dependency' on the  part  of  the  applicant.   There  is  no
+    evidence of financial or other physical  provision,  such  as  sending,
+    posting or arranging delivery of items of support, such as clothing  or
+    other basic items.   While I accept that LB has emotional  concern  for
+    her brother and is worried for him, such concern does not evidence more
+    than normal emotional ties.  If family life existed, there would  be  a
+    wealth of evidence of more contact and  greater  support,  even  taking
+    into account the  difficulties  of  making  such  provision  while  the
+    applicant remains in Greece.  LB does  not  mention  barriers  to  such
+    support, other than financial barriers in seeking legal  representation
+    for the applicant. She does not mention that she experienced  financial
+    or other barriers in seeking to provide the applicant with other  forms
+    of support.
+
+
+164. Plainly, there is the potential for 'family life'  to  develop  in  due
+    course in relation to both SU and LB, in the event that the applicant's
+    transfer to the UK under Dublin  III  is  in  his  best  interests  and
+    therefore takes place.  However, I find that  'family  life'  does  not
+    exist between the  applicant  and  SU  and  LB  at  the  present  time.
+    Whatever the potential may be in the future,  'family  life'  does  not
+    exist at the moment.
+
+
+165. In relation to the applicant's private life under Article  8  ECHR,  he
+    is outside the territorial jurisdiction of the UK's  ECHR  obligations,
+    as he is in Greece.
+
+
+166. It follows,  therefore,  that  the  respondent's  failure  properly  to
+    consider the TCR request made by the GDU did not entail a breach of the
+    UK's obligations under Article 8 of the European  Convention  on  Human
+    Rights.
+
+
+SUMMARY OF DECISION
+
+
+167. This application for judicial review is granted in relation  to  Ground
+    1, to the extent that the Secretary of State's processing  of  the  TCR
+    and refusal  to  accept  responsibility  for  the  examination  of  the
+    applicant's asylum claim was a breach of the Dublin III regulation.
+
+
+168. The application is dismissed in relation to Ground 2.  In  the  absence
+    of an assessment of the applicant's best interests, it is not  possible
+    for me to conclude that the UK is responsible for  the  examination  of
+    the applicant's asylum claim.
+
+
+169. To the extent both  grounds  contend  that  the  Secretary  of  State's
+    processing of the TCR breached the applicant's rights under  Article  8
+    ECHR, this application is dismissed.
+
+
+170. In the  exercise  of  my  discretion,  I  decline  to  conduct  a  full
+    assessment of the applicant's best interests, for the reasons given  at
+    paragraph 104, above.
+
+
+OTHER RELIEF
+
+
+171. Both parties are directed to make written submissions on  the  question
+    of whether any further relief is required, as follows:
+
+
+        a. Within 14 days  of  being  sent  this  judgment  in  draft,  the
+           applicant may make written submissions on those issues;
+
+
+        b. Within 28 days  of  being  sent  this  judgment  in  draft,  the
+           respondent may make written submissions on those issues.
+
+
+172. Written submissions from each party must be no longer than  ten  pages.
+    If relevant, the submissions should address paragraph 4 of  Schedule  1
+    to the EU (Withdrawal) Act 2018, which provides:
+
+
+             'There is no right in domestic law on or after  IP  completion
+             day to damages in accordance with the rule in Francovich.'
+
+
+173. If further written submissions, or an oral hearing is required, I  will
+    give further directions accordingly.
+
+
+POSTSCRIPT
+
+
+174. This judgment was circulated in draft to the parties on 2  March  2021.
+    On 3 March, by a letter from the applicant's solicitors I was  informed
+    that the respondent had accepted the  TCR  on  9  February.   I  sought
+    submissions from the parties as to (i) why I had not been  informed  of
+    the development, and (ii) the impact of the TCR having been accepted on
+    the applicant's application for judicial review.
+
+
+175. As to (i) there appears to have been an oversight on the part  of  both
+    parties.  The Secretary of State, having accepted the TCR, should  have
+    informed  me  immediately.   The  failure  to  do  so  is  said  to  be
+    attributable to an oversight by the case lawyer in the Government Legal
+    Department.  The applicant was on notice from the GDU that the  request
+    had been accepted on 12 February 2021,  but  decided  to  seek  further
+    confirmation from the Secretary of State before informing the tribunal.
+     Strikingly, despite having copied other  inter-parties  correspondence
+    to the tribunal, those representing the applicant decided not to do  so
+    on that occasion.  If ever there was a time to copy  correspondence  to
+    the tribunal, or alert it to potentially significant  developments,  it
+    was then.
+
+
+176. As to (ii), the  applicant  proposed  amendments  to  the  judgment  to
+    reflect the fact the TCR had been accepted.  The  respondent  submitted
+    that the  'administrative  oversight'  had  no  bearing  on  the  draft
+    judgment, suggesting that the factual development could be regarded  as
+    a postscript.  I agree with the respondent.  The judgment  reflects  my
+    decision and reasons on the application for judicial review as  it  was
+    presented to me.  There will always  be  post-hearing  developments  in
+    judicial review cases,  especially  in  this  jurisdiction,  where  the
+    Secretary of State engages  with  an  applicant  through  a  series  of
+    decisions and actions over a course of time.  Just as 'rolling  review'
+    is generally to be avoided, so  too  should  judgments  seek  to  avoid
+    trying to adapt to a continually changing factual matrix.   Insofar  as
+    the date of the TCR being accepted has any bearing  on  further  relief
+    sought by the applicant, that is an  issue  which  may  be  dealt  with
+    pursuant to the directions set out  in  paragraph  171  and  following,
+    above.
+
+
+Stephen H Smith
+
+
+Upper Tribunal Judge Stephen Smith
+
+
+5 March 2021
+
+
+
+
+
+
+
+
+
+
+
+
+|IN THE UPPER TRIBUNAL                 |CASE NO: JR/1592/2020      |
+|                                                                  |
+|BETWEEN:-                                                         |
+|               | The Queen (on the application of |Applicant      |
+|               |ShM)                              |               |
+|               |                                  |               |
+|               |                                  |               |
+|               |- and -                           |               |
+|               |                                  |               |
+|               |Secretary of State for the Home   |Respondent     |
+|               |Department                        |               |
+|               |                                  |               |
+|               |                                |                |
+|               |INTERIM ORDER                   |                |
+
+UPON hearing from the Applicant's counsel, Ms Charlotte  Kilroy  QC  and  Ms
+Michelle Knorr, and the Respondent's counsel, Mr Gwion Lewis  at  a  hearing
+on 25 January 2021;
+
+AND UPON the Respondent accepting that her substantive  decisions  dated  18
+February 2020 and 17 March 2020 refusing the request made on 7 January  2020
+by the Greek authorities for her to take responsibility for the  Applicant's
+asylum claim under Article 8 EU Regulation 604/2013 were unlawful  and  fall
+to be reconsidered;
+
+AND UPON the Respondent committing to all reasonable  endeavours  to  secure
+family assessments from the  relevant  local  authorities  on  an  expedited
+basis;
+
+IT IS ORDERED that:
+   1) The Respondent shall make a request to the relevant local authorities
+      for SU and LB by 4.30 pm on 27 January 2020 to conduct urgent
+      assessments and must inform the Applicant of the outcome of those
+      assessments, through his solicitor, within 1 working day of receipt.
+   2) The Respondent shall communicate a decision on the Article 8 TCR to
+      the Greek authorities within 2 working days of receiving any positive
+      local authority assessment for either SU or LB (it not being necessary
+      to await a positive local authority assessment in relation to both SU
+      and LB), and shall provide a copy of that decision to the Applicant's
+      solicitor.
+   3) At the time of communicating the decision on the TCR to the Greek
+      authorities, and in the event that the TCR is accepted, the SSHD shall
+      request that the Greek authorities expedite the Applicant's transfer
+      insofar as they are able to do so. The Respondent must provide a copy
+      of the request to the Applicant's solicitor together with the decision
+      on the TCR.
+   4) Liberty to apply.
+   5) The Respondent do pay the Applicant's reasonable costs of the
+      application sealed 11 January 2021, to be assessed if not agreed.
+
+Stephen H Smith
+Upper Tribunal Judge Stephen Smith,
+26 January 2021

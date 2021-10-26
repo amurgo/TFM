@@ -1,0 +1,725 @@
+
+                                    [pic]
+
+
+Upper Tribunal
+(Immigration and Asylum Chamber)                             Appeal Number:
+DA/00514/2019 (V)
+
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House via Skype for Business  |Decision & Reasons           |
+|                                             |Promulgated                  |
+|On 8 January 2021                            |On 19 January 2021           |
+|                                             |                             |
+
+                                   Before
+
+                      UPPER TRIBUNAL JUDGE O'CALLAGHAN
+
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                           MOHAMMED HOSHYAR KHIDAR
+                       (ANONYMITY DIRECTION NOT MADE)
+                                                                  Respondent
+
+Representation:
+For the Appellant: Ms. S Cunha, Senior Presenting Officer
+For the Respondent: Mr. J Dhanji, Counsel, instructed by M & K Solicitors.
+
+
+                            DECISION AND REASONS
+
+Introduction
+
+The appellant in this matter is referred to as the 'Secretary of State' in
+the body of this decision, the respondent as the 'claimant'.
+
+This is an appeal against a decision of the First-tier Tribunal (Resident
+Judge of the First-tier Tribunal Campbell and Judge of the First-tier
+Tribunal Malone) ('the panel') issued to the parties on 18 March 2020 by
+which the claimant's appeal against a decision of the Secretary of State to
+deport him in accordance with regulations 23(6)(b) and 27 of the
+Immigration (European Economic Area) Regulations 2016 ('the 2016
+Regulations) was allowed.
+
+Permission to appeal on all grounds was granted by Upper Tribunal Judge
+Gill by means of a decision dated 3 July 2020.
+
+The claimant continues to enjoy a right of appeal against the Secretary of
+State's decision following the United Kingdom's exit from the European
+Union consequent to Schedule 3, paragraph 5 of the Immigration and Social
+Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving,
+Transitional and Transitory Provisions) (EU Exit) Regulations 2020.
+
+Remote hearing
+
+The hearing before me was a Skype for Business video conference hearing
+held during the Covid-19 pandemic. I was present in a hearing room at Field
+House. The hearing room and the building were open to the public. The
+hearing and its start time were listed in the cause list. I was addressed
+by the representatives in the same way as if we were together in the
+hearing room. I am satisfied: that this constituted a hearing in open
+court; that the open justice principle has been secured; that no party has
+been prejudiced; and that, insofar as there has been any restriction on a
+right or interest, it is justified as necessary and proportionate.
+
+Anonymity
+
+The First-tier Tribunal did not issue an anonymity order and neither party
+sought one before me.
+
+Background
+
+The claimant is a national of Iraq and is presently aged 28. He entered the
+United Kingdom clandestinely in July 2007 and his application for
+international protection was ultimately unsuccessful.
+
+In 2013, the claimant married his wife, a Polish citizen exercising EU
+Treaty rights in this country. They have a child. Consequent to his
+marriage the claimant was issued with an EEA residence card in November
+2015 as a family member of an EEA national.
+
+Index Offence
+
+As a minor the claimant was reprimanded for affray in 2009. He was
+cautioned for possessing or controlling an article for use in fraud in
+2012. He was fined �50 for resisting or obstructing a constable in 2014.
+
+As for the index office, the claimant entered a guilty plea at a plea and
+allocation hearing before a Magistrates Court and was subsequently
+arraigned at Lewes Crown Court on 29 October 2018 where he entered guilty
+pleas to nine counts under the Proceeds of Crime Act 2002 ('the 2002 Act').
+The offences were concerned with the unlawful sale of cigarettes and
+tobacco products. On 27 November 2018 he was sentenced to 27 months'
+imprisonment.
+
+The nature and extent of the offending was detailed by HHJ Waddicor in her
+sentencing remarks:
+
+         '... The period concerned was 15 May through to 11 September 2017.
+         What happened was this. Your wife ...  who was a co-defendant, but
+         against whom the Crown ultimately offered no evidence, was the
+         person, in theory, running a corner shop ... an investigator from
+         the Trading Standards team went to the convenience store on 15 of
+         May and was sold, by you, or by your wife, some Golden Virginia
+         tobacco, which didn't have the requisite health warning, nor is
+         there the requisite photograph, or other details. ...
+
+         Exactly a week later, another offence is committed; this is
+         supplying, or possessing for supply, 50g of Amber Leaf tobacco. No
+         general warning 'Smoking Kills' and no warning in English. On the
+         same day, there were a further five similar pouches possessed ready
+         for supply. There were also cigarettes which appeared to be under
+         the trademark of Gallaher Limited, maybe Mayfair, but they were
+         counterfeit. On the same day, the 22 of May, at the shop, ready for
+         sale, were 134 packets of Business Royal cigarettes. Those
+         cigarettes were dangerous, because they did not comply with the
+         provisions relating to extinguishment after a certain point. A
+         similar offence is committed on the 24 May relating to Golden
+         Virginia tobacco, another passing off offence. There was a
+         repetition of the failure to ensure that products have the
+         requisite warnings, again, on the same day, the 24 May.
+
+         You, of course, were aware as of 22 May, and I am sure long before
+         that, that what you were doing was unlawful. You were aware that
+         the premises have been investigated by the Trading Standards
+         officers on 24 May and the officers went to your home address ...
+         They searched the home under a warrant and found a stash of
+         unlawful cigarettes concealed in a wardrobe. Someone in the team
+         searching the premises had the bright idea to look at the sofa.
+         Underneath the sofa was a deep shelf crammed with illegal tobacco
+         products. It doesn't end there, because a search of the ... shop
+         revealed, concealed in the ceiling above a light fitting, a further
+         stash of illicit tobacco goods destined for sale. What is
+         particularly troubling is that when the officers went back to the
+         shop in September 2017, you were still trading - selling unlawful
+         cigarettes and tobacco products some months after the search of
+         your home. The amount seized in May at your home was 12,900
+         cigarettes and 6,250g of tobacco and - in the search conducted at
+         the shop in May, the total amount seized, concealed in the shop,
+         was 2,700g of tobacco and 660 cigarettes.
+
+         These matters led, inevitably, to an investigation by financial
+         investigator. That revealed two Barclays bank accounts in your name
+         with just under �36,000 in them, which could not be accounted for.
+         ... Your explanation was that the shop in your wife's name wasn't
+         making money and a Polish customer made you a tempting offer to buy
+         cheaper goods, I suppose. I note that you told the probation
+         officer ...  that this was the reason for you entering into this
+         arrangement. However, your initial defence to the money-laundering
+         charge was that the �36,000 had come from the sale of motor
+         vehicles, but in any event, you have now accepted responsibility.
+
+         ...
+
+         The aggravating factors in this case include the deliberate
+         concealment of the items, particularly, in the ceiling space where
+         they were found nine days after the original offence was committed,
+         but I do not mean by that you went and hid them in the ceiling
+         space in that nine days, but they were there after you have been
+         warned about the offences and the fact that you were still
+         offending in September only serves to highlight your willingness to
+         ignore, completely, warnings that you had been given. Notices would
+         have been left at your own on 22 of May from which date onwards you
+         were well aware of the seriousness of your offending.'
+
+Confiscation proceedings
+
+At a subsequent confiscation hearing the claimant was ordered to pay
+�22,800, the assessed benefit of his crime, or to serve 10 months'
+imprisonment in default.
+
+Deportation proceedings
+
+The Secretary of State wrote to the claimant on 14 December 2018, notifying
+him that she intended to make a deportation order against him on the
+grounds of public policy in accordance with regulations 23(6)(b) and 27 of
+the 2016 Regulations.
+
+By a decision dated 7 October 2019 the Secretary of State confirmed her
+decision to deport observing, inter alia, that whilst it was accepted that
+the claimant was the family member of an EEA national, it was not accepted
+that his wife had acquired permanent residence.
+
+The claimant exercised his right of appeal to the First-tier Tribunal.
+
+Hearing before the FtT
+
+The hearing was held before a panel that included the Resident Judge at
+Taylor House. The claimant and his wife gave evidence and the panel found
+them both to be credible witnesses.
+
+The panel found, inter alia:
+
+         1) The Secretary of State had failed to adduce any reliable
+            evidence to show that the claimant's conduct represents a
+            genuine, present and sufficiently serious threat affecting one
+            of the fundamental interests of society and so had failed to
+            discharge the burden placed upon her: �30
+
+
+         2) The claimant's wife acquired permanent residence in this country
+            in February 2018: �31
+
+
+         3) The claimant enjoyed a right to reside permanently in this
+            country at the date of his conviction and so the Secretary of
+            State was required to justify deportation on serious grounds of
+            public policy: �34
+
+
+         4) The Secretary of State was not capable of discharging the burden
+            upon her to establish that deportation was necessary on serious
+            grounds of public policy: �34
+
+
+         5) In the alternative, the claimant's deportation would be
+            disproportionate: �35
+
+
+Grounds of Appeal
+
+The Secretary of State was granted permission to appeal on four grounds,
+which can be summarised as follows:
+
+         1) Inadequate reasoning, in particular a failure to explain why the
+            claimant was not aware of the seriousness of the offence at the
+            time of its commission.
+
+
+         2) A failure to take relevant factors into account when assessing
+            current threat.
+
+
+         3) A failure to lawfully assess as to whether the claimant's wife
+            enjoys permanent residence.
+
+
+         4) Such errors led to an unlawful consideration of proportionality.
+
+
+
+Law
+
+At the relevant time a spouse would usually be a family member of an EEA
+national exercising EEA Treaty rights in this country. They could well
+acquire a permanent right of residence upon residing in this country with
+the EEA national in accordance with the 2016 Regulations for a continuous
+period of five years: regulations 7 and 15 of the 2016 Regulations.
+
+Regulation 23 of the 2016 Regulations provides for the exclusion and
+removal of an EEA national or their family member if their removal is
+justified on the grounds of public policy pursuant to regulation 27.
+Protection from removal is enhanced if such person has a permanent right of
+residence, where 'serious grounds of public policy or public security' are
+required: regulation 27(3).
+
+The relevant date for assessment is the date of consideration at appeal.
+The burden of proof rests upon the Secretary of State and the standard to
+be applied is the civil standard:  Arranz (EEA Regulations - deportation -
+test) [2017] UKUT 00294 (IAC).
+
+When considering whether serious grounds exist, focus is to be placed upon
+the propensity of the individual to re-offend rather than issues of
+deterrence or public revulsion, which have no part to play in assessment:
+Secretary of State for the Home Department v. Straszewski [2015] EWCA Civ
+1245, [2016] 1 W.L.R. 1173.
+
+Consideration of proportionality is only undertaken if the serious threat
+test has been made out. It is a holistic balancing exercise. The prospects
+of continuing successful rehabilitation can be relevant to proportionality.
+
+Decision on Error of Law
+
+Permanent residence
+
+I proceed to initially consider ground 3, which is a challenge to the
+panel's finding that the claimant's wife secured permanent residence in
+February 2018. On this issue the panel reasoned, at ��31-33:
+
+         31. We are also satisfied that the evidence we had demonstrated
+            that [the claimant's wife] had acquired permanent residence in
+            the United Kingdom as at 13 February 2018. We were provided with
+            a letter from HMRC dated 18 June 2019 setting out her income
+            details for tax years 2013/14 to 2018/19. Those details showed
+            she had been employed for the entirety of that period save for
+            the period 30 September 2016 to 13 February 2018 ('the gap
+            period').
+
+
+         32.  [The claimant's wife] told us, over the gap period, she and
+            the [claimant] had been running the [shop]. She acknowledged
+            that no earnings had been declared to HMRC for that period. She
+            told us that neither she nor her husband understood what to do
+            in relation to the earnings made from running the shop. [The
+            claimant's wife] told us that she and her husband ran the shop
+            from the beginning of September 2016 to January/February 2018.
+
+         33. The authorities found a sum in excess of �36,000 in the
+            [claimant's] bank accounts which could not be accounted for. A
+            sum in excess of �22,000 was confiscated. Having heard the
+            evidence of the [claimant] and [his wife], we are satisfied
+            that, over the gap period, [the claimant's wife] was engaged in
+            economic activities. We are satisfied that the shop generated an
+            income from the legitimate sale of products usually to be found
+            in convenience stores, other than the illegal cigarettes and
+            tobacco. We find she was economically active over the gap
+            period. We find that she was therefore engaged in economic
+            activities throughout the period of tax years 2013/14 to
+            2017/18. In fact, the letter from HMRC, shows she was employed
+            for tax years 2018/19 as well. We are satisfied that she has
+            been economically active since he arrived in this country eight
+            years ago.'
+
+By means of ground 3 the Secretary of State complains:
+
+         'It is submitted first, that when assessing the wife's evidence of
+         exercising Treaty rights the Panel fail to take into account the
+         sentencing remarks [which] record that:
+
+             'Your explanation was that the shop in your wife's name wasn't
+             making money and a Polish customer made you a tempting offer
+             to buy cheaper goods, I suppose. I note that you told the
+             probation officer, that that was the reason for your entering
+             into this arrangement.'
+
+
+         It is submitted that it was not open to the panel to find that the
+         wife was continuously exercising Treaty rights over a 5-year
+         period, particularly in respect of the 18-month gap and in light of
+         the fact that the store 'wasn't making money'. There was no
+         independent evidence of how much money was earned during the gap
+         period, when it was earned, whether earnings were derived from
+         lawful means or whether employment was continuously 'genuine and
+         effective'. The panel completely fail to apply the requirements of
+         the EEA 2016 Regulations, instead entering into pure speculation
+         without reference to any actual evidence or law.
+
+         It is further submitted that the panel's inference @33 that because
+         there was �36,000 in A's account and the authorities confiscated
+         �22,800 that the difference must be lawful and can therefore
+         underpin a finding of lawful, genuine effective employment, is
+         completely unsustainable as set out. In the sentencing remarks
+         (RFRL @42), 'Those matters led, inevitably, to an investigation by
+         a financial investigator. That revealed two Barclays bank accounts
+         in your name and just under �36,000 in them, which could not be
+         accounted for.' It is therefore self-evidence that first, the
+         �36,000 could simply not be accounted for, there was no suggestion
+         that it derived from lawful employment. Second, the �36,000 was in
+         A's personal account, it is therefore wholly unclear how the panel
+         associate this money with A's wife's alleged employment.
+
+         It is submitted in light of the criminal enterprise at the heart of
+         the store and given that there was no corroborative evidence of
+         lawful earnings during the gap period, it was not open to the panel
+         to find that the wife had exercised Treaty rights for 5 years
+         continuously.'
+
+Ms. Cunha tentatively relied upon this ground, preferring to place weight
+elsewhere, and she was correct to adopt this approach.
+
+There are two fatal flaws to the ground advanced, the first one being a
+clear example of the dangers in presenting only a partial reference to
+issues considered within a decision. As is made clear at para. 11 of this
+decision, above, HHJ Waddicor observed that the claimant had presented two,
+contradictory, reasons for his actions. The first explanation was that the
+money had come from the sale of a motor vehicle. This explanation was
+replaced by one where it was asserted that the shop not making money and
+the claimant acting upon an offer from an unidentified customer. The latter
+was not expressly accepted by the sentencing Judge. It formed no part of
+her subsequent assessment of mitigation.
+
+Secondly, and unfortunately overlooked by the author of the grounds, there
+were subsequent confiscation proceedings and as recorded by the PNC print-
+out the claimant was subject to a confiscation order in the sum of �22,800
+under the 2002 Act. Such order was therefore consequent to a judicial
+decision.
+
+I am satisfied that the Crown Court undertook an examination as to whether
+the claimant had a criminal lifestyle, and if he did not whether he
+benefited from his particular criminal conduct. The statutory power for the
+latter are sections 6(4)(c) and 8 of the 2002 Act. Upon concluding that the
+claimant benefitted from his conduct or had a criminal lifestyle, to the
+civil standard, the Court was mandatorily required to make a confiscation
+order requiring him to pay the recoverable amount. For the purposes of
+section 6 of the 2002 Act, such amount is equal to the claimant's benefit
+from the conduct concerned: section 7(1).
+
+The financial investigator's report, relied upon by the Secretary of State,
+would have been placed before the Crown Court and considered during the
+confiscation proceedings. However, it is not determinative of the issue, as
+understood by the Secretary of State in her ground of appeal. The decision
+of the Crown Court as to the order is the basis upon which the panel was to
+commence its consideration.
+
+In light of the confiscation proceedings, the Tribunal could properly
+consider the residue of the �36,000 that was not confiscated to be
+attributable to legitimate sources and it was reasonably open to the
+Tribunal to consider that it came from legitimate sales at the shop. HHJ
+Waddicor had given no indication of accepting the claimant's assertion that
+the shop was not making money, and it was reasonably open to the Tribunal
+to decide that money was coming into the business through sales of
+legitimate goods. It is unfortunate that the author of the grounds has
+sought to assert that it is 'wholly unclear' as to how a bank account held
+by a husband could contain money flowing from a business jointly run by his
+wife. There is no merit in this ground of appeal.
+
+In any event, the ground is misconceived as to there being a requirement
+that a business must be profit-making for the purpose of a self-employed
+person exercising Treaty rights. As observed by the Upper Tribunal (AAC) in
+SSWP v JS (IS) [2010] UKUT 240 (AAC), at �5, when considering whether an
+EEA national's self-employed status led to her having a right to reside,
+self-employment may be affected by 'feast and famine':
+
+         '5.  I do not accept that a claimant who is for the moment doing no
+            work is necessarily no longer self-employed. There will commonly
+            be periods in a person's self-employment when no work is done.
+            Weekends and holiday periods are obvious examples. There may
+            also be periods when there is no work to do. The concept of self-
+            employment encompasses periods of both feast and famine. During
+            the latter, the person may be engaged in a variety of tasks that
+            are properly seen as part of continuing self- employment:
+            administrative work, such as maintaining the accounts; in
+            marketing to generate more work; or developing the business in
+            new directions. Self- employment is not confined to periods of
+            actual work. It includes natural periods of rest and the
+            vicissitudes of business life. This does not mean that self-
+            employment survives regardless of how little work arrives. It
+            does mean that the issue can only be decided in the context of
+            the facts at any particular time. The amount of work is one
+            factor. Whether the claimant is taking any other steps in the
+            course of self-employment is also relevant. The claimant's
+            motives and intentions must also be taken into account, although
+            they will not necessarily be decisive.'
+
+By means of this ground of appeal, the Secretary of State entirely fails to
+engage with the fact that Trading Standards officials were attending the
+shop, which was clearly open and selling a wide range of goods as would be
+expected in a convenience store. Rather, she identifies the exercise of
+Treaty rights solely through the prism of profit. Such approach is
+misconceived. The relevant question is whether self-employed activities are
+on such a small scale as to be purely marginal and ancillary. That is
+clearly not the case if an EEA national's business involves running a
+convenience shop with regular opening hours.
+
+The panel's decision on this issue was therefore lawfully reasoned and
+entirely rational.
+
+I observe in this matter that the claimant had been married to his wife for
+five years prior to his imprisonment in November 2018 and so, as he had
+enjoyed five years' continuous legal residence prior to the commencement of
+his term of imprisonment, he had secured permanent residence by, at the
+latest, the fifth anniversary of his marriage in April 2018: Secretary of
+State for the Home Department v Vomero [2019] UKSC 35, [2019] 1 W.L.R.
+4729.
+
+Adequate reasoning
+
+The Secretary of State contends that the panel's 'complete acceptance' of
+the claimant's evidence is inadequately reasoned, accompanied by a failure
+to take into account evidence material to the issue of credibility.
+
+The first complaint is that the panel gave no reasons as to why they found
+the claimant and his wife credible at �21 of the decision, merely stating
+it as a bare fact.
+
+It is unfortunate that the bald assertion made by the Secretary of State
+fails to identify within the grounds the clear reasoning given in
+subsequent paragraphs as to why the positive credibility finding was made.
+Ms. Cunha appropriately conceded that the sole reliance by the grounds of
+appeal upon �21 failed to engage with the reasoning detailed elsewhere.
+
+The second complaint is identified, inter alia, as follows:
+
+         'In this regard at paragraphs 21 and 28 the Panel expressly accept
+         the Appellant was unaware of the seriousness of his index offence
+         whilst it was committed. The Panel then use this erroneous finding
+         to first justify why A continued to offend between May - Sept 2017
+         (despite A having already been caught by Trading Standards in May)
+         and second, to perversely reject A's continued offending after the
+         visit in May as evidence of a propensity to reoffend.
+
+         It is submitted that the FTT failed entirely to take into account
+         the fact that the Crown Court found (as set out @ RFRL 42) that A
+         was aware of the seriousness of his offending when considering the
+         credibility of A's claim:
+
+             'The aggravating factors in this case include the deliberate
+             concealment of the items, particularly in the ceiling-space
+             where they were found nine days after the original offence was
+             committed, but I do not mean by that that you went and hid
+             them in a ceiling-space in that nine days, but they were there
+             after you had been warned about the offences and the fact that
+             you were still offending in September only serves to highlight
+             your willingness to ignore, completely, warnings that you had
+             been given. Notices would have been left at your home on the
+             22nd of May from which date onwards you were well aware of the
+             seriousness of the offending.'
+
+Upon careful consideration of the evidence presented to the panel and its
+subsequent assessment as detailed in the decision, it is clear that the
+panel is referring to the claimant not believing at the relevant time that
+his offending was such as to likely lead to a serious penalty, for example
+a custodial sentence. The panel was not, as asserted by the Secretary of
+State in her grounds, accepting that the claimant was not aware that he was
+acting in a criminal way. The claimant was wrong in his belief, as
+confirmed by the sentence imposed. However, that does not mean, per se,
+that he is being untruthful as to his erroneous understanding as to the
+serious consequences of selling illegal cigarettes. The panel's
+consideration of this issue does not engage with the issue of 'seriousness'
+in the manner asserted by the Secretary of State and so this complaint must
+fail.
+
+There is no merit in the Secretary of State's final complaint as advanced
+by ground 1, namely that by observing that the claimant had 'only one set
+of significant offences' the panel failed to take into account the
+escalating seriousness of the claimant's offending over a number of years,
+including that he had previously been cautioned for a fraud offence. I
+observe that the offence in 2012 was for using a Bluetooth device in a
+driving test and a caution was considered the appropriate sanction. As
+observed above, the claimant was reprimand for affray in 2009, when a
+minor, and the conviction in 2014 was for resisting or obstructing a
+constable which resulted in a fine of �50. It is clear upon reading the
+decision that the panel clearly had in mind the claimant's previous
+offending and the assertion that there was an escalating seriousness to the
+offending is simply not borne out on the facts of this matter.
+
+'Genuine, present and sufficiently serious threat'
+
+The Secretary of State complains by means of ground 3:
+
+         'It is further submitted in respect of the FTT's approach to
+         'genuine, present and significantly serious threat, that the
+         findings @26 that:
+
+
+             'It is also relevant to bear in mind, when assessing the
+             imminence of any threat the appellant might pose, that he will
+             continue to be subject to licence, which will involve him
+             living in approved premises under the supervision and with the
+             support of a probation officer', is an irrelevant
+             consideration when assessing 'current threat'.
+
+
+         In Restivo (EEA - prisoner transfer) [2016] UKUT 00449 (IAC) the
+         Upper Tribunal found in respect of a present threat:
+
+
+             'Where the personal conduct of a person represents a genuine,
+             present and sufficiently serious threat affecting one of the
+             fundamental interests of society, the fact that such threat is
+             managed while that person serves his or her prison sentence is
+             not itself material to the assessment of the threat he or she
+             poses. The threat exists, whether or not it cannot generate
+             further offending simply because the person concerned, being
+             imprisoned, has significantly less opportunity to commit
+             further offences.'
+
+
+         It is therefore submitted that the FTT has fallen into error by
+         treating the management of the threat posed by A as evidence that
+         the threat does not exist.
+
+
+         It is further submitted that the FTT, when assessing risk in the
+         absence of an OAsys report or probationary report, fail to take
+         into account that the appellant was in prison until 10/1/20 and has
+         been in Immigration Detention ever since; the appellant therefore
+         has no track record of abiding by the terms of a licence and no
+         track record of abiding by the law outside of detention since the
+         index offence.'
+
+Again, the grounds of appeal fail to provide the true context of the
+panel's reasoning, instead adopting an approach of presenting a partial
+picture. �26 of the decision must properly be read with ��25 to 30:[1]
+
+         25. We were not provided with an OASys report on the Appellant. We
+            had no expert assessment as to the likelihood of the Appellant
+            re-offending. We are satisfied, on the evidence we had, in
+            particular the oral evidence of the Appellant, that he had no
+            intention of re-offending. He furnished us with certificates
+            showing the courses he had undertaken while in prison. He
+            followed two courses entitled 'Gateway Qualifications Entry
+            Level Award in ESOL Skills for Life (Reading) (Entry 1)'. The
+            most significant courses he followed were those evidenced by the
+            certificates he obtained entitled 'Sycamore Tree - Restorative
+            Justice & Victim Awareness Programme' dated 13 May 2019 and
+            'Sycamore Tree - Restorative Justice' dated 18 June 2019.[2]
+
+
+         26. The certificates the Appellant produced show he has used his
+            time in prison to develop skills that will assist him in re-
+            integrating into society on release. It is also relevant to bear
+            in mind, when assessing the imminence of any threat the
+            Appellant might pose, that he will continue to be subject to
+            licence, which will involve him living in approved premises
+            under the supervision and with the support of a probation
+            officer.
+
+
+         ...
+
+
+         28. We find there is no justification for that statement. We
+            reiterate that it is for the Respondent to demonstrate that the
+            Appellant's conduct represents a genuine, present and
+            sufficiently serious threat affecting one of the fundamental
+            interests of society. The Appellant only has one set of
+            significant convictions. Mr. Blennerhassett sought to argue that
+            the fact that the Appellant continued to sell illegal products
+            after the first visit by the authorities shows he has a
+            propensity to re-offend. We do not accept that argument. We have
+            already recorded the Appellant's evidence that he carried on
+            selling the products because he did not appreciate the
+            seriousness of what he was doing or the seriousness of the
+            consequences that would ensue. He made it clear in his oral
+            evidence that he has no intention of re-offending.
+
+
+         29. The fact that the Appellant has committed the offences he has,
+            does not evidence a propensity to re-offend. Moreover,
+            Regulation 27(5)(e) reads:
+
+
+             'A person's previous criminal convictions do not in themselves
+             justify the decision.'
+
+
+         30. After careful consideration, we have come to the conclusion
+            that the Respondent has failed to discharge the burden on her.
+            She has failed to adduce any reliable evidence to show that the
+            Appellant's conduct represents a genuine, present and
+            sufficiently serious threat affecting one of the fundamental
+            interests of society, taking into account his past conduct and
+            that the threat posed does not need to be imminent. We therefore
+            allow the appeal on that basis.'
+
+It is unfortunate that at �26 the panel presumes that the claimant would be
+subject to a licence condition requiring him to initially reside at
+approved premises upon release. As someone with a home to return to, not
+convicted of a serious violent or sexual offence, not convicted of a
+domestic violence offence, and someone not requiring monitoring for drink
+or drug concerns underpinning criminal behaviour, it would be very unlikely
+that the Probation Service would require the claimant to be subject to such
+licence condition. Indeed, this proved to be the case as he returned home
+upon being released from immigration detention.
+
+Further, the observation at �26 that probation supervision can be
+considered when assessing imminence of threat is not in accordance with the
+confirmation in Restivo (EEA - prisoner transfer) [2016] UKUT 00449 (IAC),
+[2017] Imm. A.R. 188, at [24] that the fact that whether the personal
+conduct of a person is managed while they serve their criminal sentence is
+not itself material to the assessment of the threat they pose. As observed
+by the Tribunal in Restivo this conflates the existence of risk of
+reoffending with the management of risk.
+
+However, upon reading the decision it is clear when it is considered in
+context that such errors were not material, as �26 enjoyed only limited
+influence in the overall decision as to serious risk. Several other reasons
+were provided, including the panel's acceptance that the claimant now
+possesses an informed understanding as to the risks to his liberty flowing
+from criminal offending and its further acceptance, consequent to
+considering all of the evidence presented, that the claimant has no
+intention of re-offending. These findings were reasonably open to the panel
+and stand apart from the consideration at �26. Consequently, the errors
+identified above are not capable of being considered to be material errors
+of law and so this ground of challenge must fail.
+
+Proportionality
+
+Ms. Cunha accepted before me that if the Secretary of State was unable to
+succeed on her challenge to the panel's conclusion as to the serious threat
+test, then the ground of challenge as to the assessment of proportionality
+was moot.
+
+For the sake of completeness, I address ground 4 which details in its
+entirety:
+
+         'It is submitted in light of the above that the FTT's
+         proportionality [sic] also falls into error, as it is erroneously
+         predicated upon a false factual matrix.'
+
+As observed above, the panel did not proceed on a false factual matrix and
+so this ground enjoys no merit.
+
+Notice of decision
+
+The decision of the First-tier Tribunal did not involve the making of a
+material error of law.
+
+The decision of the First-tier Tribunal sent to the parties on 18 March
+2020 is upheld and the Secretary of State's appeal is dismissed.
+
+
+
+Signed: D O'Callaghan
+Upper Tribunal Judge O'Callaghan
+
+Date: 11 January 2021
+
+
+TO THE RESPONDENT
+FEE AWARD
+
+As no fee has been paid, no fee award can be made.
+
+Signed: D O'Callaghan
+Upper Tribunal Judge O'Callaghan
+
+Date: 11 January 2021
+
+-----------------------
+[1] �27 simply details a paragraph of the refusal letter
+[2] Sycamore  Tree  is  a  volunteer-led  victim  awareness  programme  that
+teaches  the  principles  of  restorative  justice.  Participants   on   the
+programme explore the effects of crime on victims, offenders, and the  wider
+community, and discuss what it would mean to take responsibility  for  their
+personal actions.
+

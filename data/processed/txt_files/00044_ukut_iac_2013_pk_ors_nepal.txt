@@ -1,0 +1,977 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+   Khatel and others (s85A; effect of continuing application) [2013] UKUT
+                                 00044 (IAC)
+
+                            THE IMMIGRATION ACTS
+
+|Heard at  Field House                         |Determination Promulgated   |
+|On 15 January 2013                            |                            |
+|                                              |............................|
+|                                              |...........                 |
+
+
+                                   Before
+
+                   THE PRESIDENT, THE HON MR JUSTICE BLAKE
+                         UPPER TRIBUNAL JUDGE COKER
+
+                                   Between
+                               PRAKASH KHATEL
+                             MOSTAQIUM AL ISLAM
+                              NARAYAN ADHIKARI
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+
+                                     and
+
+                               MR PRASAD RAJU
+                                                                  Respondent
+Representation:
+Zane Malik Instructed by Malik Law Chambers Solicitors for Khatel, Adhikari
+and Raju
+
+Zane Malik and Mr S Khan Instructed by Farani Taylor Solicitors for Al
+Islam
+
+For the Secretary of State:      Mr Daniel Hayes, Senior Presenting Officer
+
+
+(1)  An application for further leave to  remain  is  to  be  treated  as  a
+continuing application, starting with the date when it was  first  submitted
+and ending on the date when it is decided: AQ (Pakistan) v SSHD [2011]  EWCA
+Civ 833.
+
+(2)  It follows that an appellant is not precluded by section 85(5)  of  the
+Nationality, Immigration and Asylum Act 2002 (as amended)  from  relying  in
+an appeal upon evidence that was notified to the Secretary of  State  before
+the date of her decision.
+
+(3)  Where, in an application for leave as a Post-Study  Work  Migrant,  the
+obtaining of the academic award needed  to  gain  the  requisite  points  is
+notified to the Secretary of State after the date when the  application  was
+first submitted but before a  decision  is  made  on  the  application,  the
+requirement of Table 10,  that  the  qualification  is  obtained  within  12
+months of making the application, is satisfied because the application is  a
+continuing one until a decision upon it has been made.
+
+                          DETERMINATION AND REASONS
+
+Introduction
+
+ 1. These four appeals are being heard together because they raise a common
+    issue about  the  interpretation  of  the  Immigration  Rules  and  law
+    relating to an application for post-graduate work experience as a  Tier
+    1 Post Study Work Migrant within the  meaning  of  Appendix  A  to  the
+    Immigration Rules.
+
+ 2. We shall refer to each of the original applicants as  a  claimant.   In
+    the appeals of Adikari, Khatel and Al Islam their  appeals  before  the
+    First-tier Tribunal Judge were unsuccessful and they are the appellants
+    for the Upper Tribunal.  The appeal of Raju succeeded before the First-
+    tier Tribunal and the Home Office is the appellant before us.
+
+ 3. Each appeal contains the following common  features:-
+
+          i) The claimant was given leave to enter for a short  postgraduate
+             course in the United Kingdom.
+
+
+         ii) Such leave was due to expire in the early part of 2012.
+
+
+        iii) The application for leave to remain was made before the  expiry
+             of the leave granted to each claimant and before 6  April  2012
+             when, subject to transitional provisions, the Tier 1 Post Study
+             Work Migrant scheme was removed from the  points  based  system
+             ("PBS").
+
+
+         iv) At the time of each application the academic part of the course
+             was  completed  and  each  applicant  was  expected  by   their
+             institution of study to  be  awarded  a  qualification  by  the
+             awarding institution.
+
+
+          v)  Such predictions were well-founded and awards were made by the
+             awarding institution on various dates in the summer of 2012.
+
+
+         vi) The application was refused by the UKBA in the autumn  of  2012
+             after the qualification had been awarded.
+
+
+        vii) The  basis  of  the  refusal  was  that  at  the  time  of  the
+             application the award or the qualification had not been made.
+
+
+The Terms of Appendix A
+
+
+ 4. Paragraph 245FD of the Immigration Rules  provided  for  the  grant  of
+    leave to remain for applicants who had a certain number of points under
+    Appendix A, B and C.  Before its  eventual  removal  from  the  scheme,
+    Appendix A, entitled attributes for Tier 1 (Post-Study Work),  Migrants
+    set out the requirements.  Table 10 set  out  how  points  were  to  be
+    acquired. It dealt with points for the award of qualifications.  It  is
+    reproduced as follows:
+
+
+
+       |Qualifications                                                       |Points|
+|The applicant has been awarded:                                      |20    |
+|a UK recognised Bachelor or postgraduate degree, or                  |      |
+|a UK postgraduate certificate in education or Professional Graduate  |      |
+|Diploma of Education or                                              |      |
+|a Higher National Diploma ('HND') from a Scottish institution.       |      |
+|The applicant studied for his award at a UK institution that is a UK |20    |
+|recognised or listed body, or which holds a sponsor licence under    |      |
+|Tier 4 of the Points Based System,                                   |      |
+|                                                                     |      |
+|If the applicant is claiming pints for having been awarded a Higher  |      |
+|National Diploma from a Scottish Institution, he studied for that    |      |
+|diploma at a Scottish publicly funded  institution of further or high|      |
+|education, or a Scottish bona fide private education institution     |      |
+|which maintains satisfactory records of enrolment and attendance.    |      |
+|The Scottish institution must:                                       |      |
+|be on the list of Education and Training Providers list on the       |      |
+|Department of Business, Innovation and skills website, or            |      |
+|hold a Sponsor licence under Tier 4 of the Points based System.      |      |
+|                                                                     |      |
+|                                                                     |      |
+|The applicant's periods of UK study and/or research towards his      |20    |
+|eligible award were undertaken whilst he had entry clearance, leave  |      |
+|to enter or leave to remain in the UK that was not subject to a      |      |
+|restriction preventing him from undertaking a course of study and/ or|      |
+|research.                                                            |      |
+|The applicant made the application for entry clearance or leave to   |15    |
+|remain as a Tier 1 (Post-Study Work) Migrant within 12 months of     |      |
+|obtaining the relevant qualification or within 12 months of          |      |
+|completing a United Kingdom Foundation Programme Office affiliated   |      |
+|Foundation Programme as a postgraduate doctor or dentist.            |      |
+|The applicant is applying for leave to remain and has, or was last   |75    |
+|granted leave as a Participant in the International Graduates Scheme |      |
+|(or its predecessor, the Science and Engineering Graduates Scheme) or|      |
+|as a Participant in the Fresh Talent: Working in Scotland Scheme.    |      |
+
+
+
+
+       Paragraph 70.  A qualification will have been deemed  to  have  been
+       'obtained' on the date on which the applicant was first notified  in
+       writing, by the awarding institution,  that  the  qualification  had
+       been awarded.
+
+ 5. In the cases of Khatel, Adhikari and Al Islam, the judges of the First-
+    tier Tribunal each  concluded  that  the  claimant  did  not  meet  the
+    requirements of the rules because at the time of the application he had
+    not been awarded  the  post  graduate  qualification  by  the  awarding
+    institution.
+
+ 6. In reaching that conclusion regard was had to the jurisprudence of  the
+    Asylum and Immigration Tribunal notably Kan (PSW degree award required)
+    India [2009] UKAIT 22 and NO (PSW award needed by date of  application)
+    Nigeria [2009] UKAIT 54.
+
+ 7. In the case of Raju Judge Parkes had regard  to  the  decision  of  the
+    Court of Appeal in AQ (Pakistan) v SSHD [2011] EWCA Civ 833.   He  also
+    noted the decision in Ali (section 120-PBS) Pakistan  [2012]  UKUT  368
+    (IAC). Ali was a decision of the Upper Tribunal following AQ (Pakistan)
+    where Upper Tribunal Judge Allen had  regard  to  section  85A  of  the
+    Nationality Immigration and Asylum Act 2002 as amended ("NIAA").
+
+AS (Afghanistan)
+
+ 8. In order to examine the potential  importance  of  what  the  Court  of
+    Appeal said in AQ (Pakistan) it is necessary to recite some legislation
+    and case law that led to it.
+
+ 9. Section 120 of the NIAA provides for service of notice on a person with
+    respect to whom an immigration decision has  been  taken  or  is  being
+    taken
+
+
+        "(2) The Secretary of State or an Immigration Officer may by notice
+             in writing require the person to state -
+            a) his reasons for wishing to enter or  remain  in  the  United
+               Kingdom,
+            b) any grounds on which he should  be  permitted  to  enter  or
+               remain in the United Kingdom and
+            c) any grounds on which  he  should  not  be  removed  from  or
+               required to leave the United Kingdom."
+
+
+10. The problem that has arisen from time to time is whether, following  an
+    immigration decision initially made upon an application  for  leave  to
+    remain a section 120 notice is served, a person is entitled to raise  a
+    wholly new claim for leave to remain; in the  event  of  that  modified
+    claim being made, is he entitled to an appeal against it?
+
+11. In the case of AS (Afghanistan) v  Secretary  of  State  for  the  Home
+    Department [2009] EWCA Civ 1076, a judgment delivered on the 20 October
+    2009, the majority of the Court of Appeal (Lord Justice Moore-Bick  and
+    Lord Justice Sullivan) concluded that in general terms a  person  could
+    raise a wholly different application and require it to be determined by
+    the Tribunal in accordance with the  statutory  scheme.   Lady  Justice
+    Arden dissented from this conclusion and did so mainly by reference  to
+    section 3C of the Immigration Act 1971 as amended.
+
+12. The statutory scheme at the time included section 85  of  the  NIAA  as
+    follows:
+
+
+        "Matters to be considered.
+
+
+          1) An appeal under section  82(1)  against  a  decision  shall  be
+             treated by [the  Tribunal]  including  an  appeal  against  any
+             decision in respect of which  the  appellant  has  a  right  of
+             appeal under section 82 (1).
+
+
+          2) If an appellant under section 82(1)  makes  a  statement  under
+             section 120, [The Tribunal] shall consider any matter raised in
+             the statement which constitutes a ground of appeal  of  a  kind
+             listed in section 84(1) against the decision appealed against.
+
+
+          3) Subsection (2) applies to a statement made  under  section  120
+             whether the statement was made before or after the  appeal  was
+             commenced.
+
+
+          4) On an appeal under section 82(1), 83(2)  or  83A(2)  against  a
+             decision the Tribunal may consider evidence  about  any  matter
+             which it thinks relevant to  the  substance  of  the  decision,
+             including evidence which concerns a matter  arising  after  the
+             date of the decision..."
+
+
+13. The  scheme also included section 3C  Immigration Act 1971:
+
+
+        "Continuation of Leave Pending Variation Decision
+
+
+          1. This section applies if -
+            a) A person who has limited leave to enter  or  remain  in  the
+               United  Kingdom  applies  to  the  Secretary  of  State  for
+               variation of the leave,
+            b) the application for  variation  is  made  before  the  leave
+               expires, and
+            c) The leave expires  without  the  application  for  variation
+               having been decided.
+
+
+          2. The leave is extended by virtue  of  this  section  during  any
+             period when -
+            a)  The  application  for  variation  is  neither  decided  nor
+               withdrawn,
+            b) An appeal under section 82(1) of the Nationality Asylum  and
+                Immigration Act, 2002 could be brought against the decision
+               on the application for   variation ... or
+            c) An appeal under that section is ... pending...
+
+
+          3. ...(omitted)
+
+
+          4. A person may not make an application for variation of his leave
+             to enter or remain in the United Kingdom while  that  leave  is
+             extended by virtue of this section.
+
+
+          5.  Subsection  (4)  does  not  prevent  the  variation   of   the
+             application mentioned in subsection (1)(a)."
+
+
+14. Earlier in 2009, the Court of Appeal  in  the  case  of  JH  (Zimbabwe)
+    [2009] EWCA Civ 78 had concluded that a wide meaning was to be given to
+    the concept of variation of an application as opposed to making a fresh
+    application to vary leave that has been extended  by  section  3C.   At
+    [35] to [45]  Lord  Justice  Richards  explains  the  reasons  for  the
+    conclusion.  Variation will include a further  application  made  on  a
+    different prescribed form with  payment  of  the  relevant  fee  for  a
+    different purpose as well as applications made for the same purpose but
+    with different details.  Lord Justice Richards said  at  paragraph 35:-
+
+
+
+
+        "..... Thus, there can be only one application for variation of the
+        original leave, and there can be  only  one  decision  (and,  where
+        applicable, one appeal) The possibility  of  a  series  of  further
+        applications leading to an indefinite  extension  of  the  original
+        leave is excluded.  However, by subsection (5) it  is  possible  to
+        vary the one permitted application.  If it is varied, any  decision
+        (and any further appeal) will relate to the application as  varied.
+        But once a decision has been made no variation to  the  application
+        is possible since there is nothing left to vary."
+
+
+15. It is also relevant to note that a wide application to section  3C  was
+    given by the Court of Appeal in QI (Pakistan) v  SSHD [2011]  EWCA  Civ
+    614, 18 April 2011. In both JH Zimbabwe and QI (Pakistan) the Court  of
+    Appeal disapproved decisions of the AIT giving a narrow meaning to  the
+    leave and the appellate jurisdiction to challenge  refusals  of  varied
+    applications and decisions.
+
+The decision in AQ (Pakistan)
+
+
+16. We then reach the decision of AQ (Pakistan) v SSHD [2011] EWCA Civ  833
+    which features prominently in the argument in the appeals before us and
+    that  we  consider  is  an  authority  of  central  importance  to  the
+    resolution of the issues.
+
+17. It was an appeal against a decision of the Upper  Tribunal  Immigration
+    and Asylum Chamber dismissing the appeal of  the  appellant  against  a
+    decision of the Secretary of State to refuse to vary leave to remain in
+    the United Kingdom pursuant to Rule 245Z (Post Study work).
+
+18. Lord Justice Pill stated the issues succinctly at paragraph  4  of  his
+    judgment:
+
+
+        ".... Can the points entitlement  arising  from  a  Masters  degree
+        count towards the minimum  if  the  degree  is  awarded  after  the
+        Secretary of State's  decision  but  before  the  decision  of  the
+        Tribunal?"
+
+
+    The appellant sought to apply the broad interpretation of  Section  120
+    given by the Court of Appeal in  AS  (Afghanistan)  to  an  application
+    under the points based system.
+
+
+
+19. Lord Justice Pill noted the following:
+          1. It is accepted on behalf of the appellant that  the  consistent
+             practice of the Tribunal, in the absence of AS, was to  require
+             the accumulation of points to be established at the date of the
+             application for an extension (KAN  (Post-Work  Study  -  degree
+             award required) India [2009] UKAIT 00022, NO (Post-Study Work -
+             award needed by  date  of  application)  Nigeria  [2009]  UKAIT
+             00054). NA and Others (Tier 1  Post-Study  Work  Funds)  [2009]
+             UKAIT 00025) was cited  in  detail  by  the  Tribunal.  It  was
+             accepted that evidence of means (not an issue  in  the  present
+             case) could be given on appeal but only  if  it  related  to  a
+             period of time immediately prior to the date of the application
+             to the Secretary of State. Evidence of means for  a  period  of
+             time wholly or partly subsequent to the date of application was
+             not enough.
+          1. In EA (section 85(4) explained) Nigeria [2007] UKAIT 00013, the
+             Tribunal  had  held  that  it  was  necessary  to   demonstrate
+             compliance with the requirements of the  Immigration  Rules  at
+             the date of the application. In that  case,  the  Secretary  of
+             State had not taken account of  information  available  at  the
+             date of the hearing but bearing upon  facts  available  at  the
+             date of decision. What an applicant may do under section 85(4),
+             it was accepted, is to demonstrate that the application to  the
+             Secretary of State would be  successful  at  the  date  of  the
+             hearing, provided  the  evidence  related  to  events  at  that
+             earlier time.
+20. His Lordship then summarised the decision of the  majority  in  AS  and
+    continued as follows:-
+          1. For the Secretary of State, Mr Payne  accepts  that,  following
+             AS, the relevant date for the assessment  of  evidence  is  the
+             date of the Secretary of State's decision and not, as may  have
+             appeared from earlier  Tribunal  decisions,  the  date  of  the
+             application to her. The application is  treated  as  continuing
+             until the date of decision. It is  further  accepted  that  the
+             response to an OSW may in some circumstances include additional
+             support for the original application as well as  fresh  grounds
+             of  application.  Moreover,  the  purpose  of   the   statutory
+             procedure, as stated by the majority in  AS,  is  accepted  and
+             asserted.  (our emphasis)
+          1. Moore-Bick LJ confirmed, at paragraph 78, that sections  85(2),
+             96(2) and 120 of  the  2002  Act  "demonstrate  that  they  are
+             intended to form constituent  parts  of  a  coherent  procedure
+             designed to avoid a multiplicity of applications and  appeals."
+             Sullivan LJ made a similar  statement  at  paragraph  103.  The
+             underlying  legislative  policy  was  "to  prevent   successive
+             applications."
+          ........
+          1. For the Secretary of State, it is submitted  that  AS  was  not
+             concerned with evidence of events subsequent to  the  Secretary
+             of State's decision. I agree with that submission and with  the
+             reasoning in MS I have cited.
+
+
+21. After further references to AS the judgment of Pill  LJ   continues  as
+    follows:
+
+
+               " . . .
+          1. The Secretary  of  State  maintains  the  submission  that  the
+             Immigration Rules require criteria to exist at the time of  her
+             decision under appeal and compliance is to be judged as of that
+             date. Admission before the Tribunal of further evidence of  the
+             situation at that date did not alter the principle,  which  was
+             not affected by the decision in AS. The appellant did not  have
+             his degree at the date of that decision  and  could  not  rely,
+             before the Tribunal, on its subsequent award.
+             ........
+          1. Compliance with the requirements after the date of decision  is
+             not relevant to the "substance of the decision" as  defined  by
+             section 85(4), it  is  submitted.  By  contrast,  post-decision
+             evidence may be allowed to demonstrate  that  the  requirements
+             were satisfied at the date of decision, subject to  the  change
+             of the law by the addition of section 85A to the 2002 Act  with
+             effect from 23 May 2011. Section 85A  of  the  2002  Act,  with
+             effect from 23 May  2011,  amended  section  85(5)  to  provide
+             further exceptions to the provisions of section 85(4).  It  has
+             no application in the present appeal, whether or  not  remitted
+             to the  Upper  Tribunal.  I  see  no  need  to  embark  upon  a
+             consideration of the effect of section 85A.
+          1. Mr Payne submits that to permit evidence of  subsequent  events
+             to challenge the decision of the Secretary of State would be to
+             allow successive applications which it is the object of the OSW
+             procedure to prevent. It would  convert  the  statutory  appeal
+             system into a statutory application  system  considering  fresh
+             matters raised in a section 120 Notice.
+              .....
+        Conclusions
+          1. In my judgment, the decision of the Tribunal in this  case  was
+             correct. A Tribunal's task is to "look back at the position  as
+             at the date of application [now decision]"  as  stated  by  the
+             Tribunal in the  present  case  at  paragraph  14  or,  as  the
+             Tribunal put it in MS, at paragraph 49,  in  cases  where  "the
+             rule in question specifies a fixed historic time-line".
+          1. Section 85(2), put by the appellant at the heart of  his  case,
+             concludes by referring to the availability of grounds of appeal
+             "against the decision appealed against." I agree with Mr  Payne
+             that the focus is on the decision of the Secretary of State. In
+             my judgment, the "decision" is  clearly  the  decision  of  the
+             Secretary of State. In the present context, fresh  matters  may
+             be raised but are relevant only in so  far  as  they  challenge
+             that decision. As Sedley LJ recognised in Pankina, at paragraph
+             39, there will be cases under the Rules  which  depend  on  the
+             situation existing at the time  of  the  Secretary  of  State's
+             decision. In my judgment, Rule 245Z is one of those cases.  The
+             points to be accumulated must be accumulated at the time of the
+             Secretary of State's decision. That includes, as is  agreed,  a
+             requirement that the relevant degree has been awarded."
+
+
+22. Lord Justice Sullivan gave a brief  concurring  judgment;  he  said  at
+    [41]:-
+
+
+             "I also agree.   In  AS  the  Court  was  not  concerned  with
+             decisions made by  the  Respondent  under  the  "Points-based"
+             system of determining applications for leave  to  remain.   In
+             such  cases  there  is  a  "fixed  historic  time-line".   The
+             effective operation of a  points  based  system  requires  the
+             points to have been accumulated at the date of  the  Secretary
+             of State's decision."
+
+23. It will thus be seen that the appellant failed in AQ (Pakistan) in  his
+    submission  that  section  120  and  section  84(5)  permitted  him  to
+    introduce a points based system application after the decision  of  the
+    Secretary of State.
+
+24. However, for present purposes two themes running through the  reasoning
+    are important.  First  as  Lord  Justice  Pill  put  it  at  [22]  "the
+    application is treated as continuing until the date of  the  decision".
+    Secondly the previous learning of Tribunal was  revised  in  a  points-
+    based system case where  there  was  a  fixed  historic  time  line  to
+    identify the final period when the material could  be  adduced  as  the
+    date of the decision rather than the date of the application.
+
+25. Although the reasoning of both  Lord  Justice  Pill  and  Lord  Justice
+    Sullivan appears to have been based substantially on the concession  of
+    Mr Payne in the light of AS, this is not a case  where  the  Court  are
+    simply acknowledging the concession without more.   Both  judges  reach
+    their own conclusions on the issue and those conclusions are binding on
+    us unless varied  by  subsequent  statutory  regime  or  overturned  on
+    further appeal.
+
+
+Submissions before us
+
+26. In the skeleton submitted before the hearing by Mr Hayes  he  indicates
+    that the relevant statutory change was precisely  section  85A  of  the
+    2002 Act introduced as from the 23 May 2011 with  which  the  Court  of
+    Appeal expressly did not engage.
+
+27.  It is now time to turn to that section.  It is in the following terms.
+
+
+        "Matters to be considered: new evidence: exceptions
+
+
+        (1)  This section sets out the exceptions mentioned in section 85
+             (5)
+
+
+          2) Exception 1(not material)
+
+
+          3) Exception 2 applies to an appeal under section 82(1) if-
+            a. the appeal is against  a  immigration  decision  of  a  kind
+               specified in section 82(2)(a) or (d),
+            b. the immigration decision concerned an application of a  kind
+               identified  in  immigration  rules  as   requiring   to   be
+               considered under a "Points Based System", and
+            c. the appeal relies wholly  or partly on grounds specified  in
+               section 84(1)(a)(e) or (f).
+
+
+          4) Where Exception 2 applies the Tribunal may consider evidence
+             adduced by the appellant only if it -
+            a.  was submitted in support of, and at the time of making, the
+               application to which the immigration decision related: ... "
+
+
+
+28. Mr Hayes who has  prepared  a  thoughtful  skeleton  and  a  bundle  of
+    authorities at extremely short notice and  to  whom  we  are  extremely
+    indebted for his submissions and who also has extensive  experience  of
+    the problem, submits that the conclusions in AQ now  have  to  be  read
+    subject to section 85A which operates as a  further  exception  to  the
+    general power in section 85 (4)  for the Tribunal to  receive  evidence
+    that is not before the Secretary of State because it  included  matters
+    that arose after the date of the application.
+
+29. He submits that Exception 2 applies because this appeal is  against  an
+    immigration decision specified  in  section  82(2)(d)  NIAA,  namely  a
+    decision to refuse to vary leave by way  of  the  granting  of  further
+    leave to remain, and the decision concerns an application identified in
+    the Rules as required to be considered under a points based system.
+
+30. He continues that if Exception 2  applies  the  Tribunal  may  consider
+    evidence adduced by the appellant only if it was "submitted in  support
+    of and at the time of making the application" to which the  immigration
+    decision related.
+
+31. He concludes that in each case the  application  was  made  before  the
+    awarding body awarded the post graduate qualification.  The information
+    that the post-graduate qualification had been awarded  came  after  the
+    application  but  before  the  decision  of  the  Secretary  of  State.
+    Therefore it is excluded from being  considered  by  the  Tribunal  and
+    accordingly these claimants could not succeed  in  their  appeals.  The
+    rules required them to have supplied the information at the time of the
+    application and the law  prevented  the  Tribunal  from  receiving  any
+    further information that was not contained in the application.
+
+32. Mr Hayes further relies in support of  his  submission  upon  a  recent
+    decision of the Upper Tribunal in Ali  (see above at [7]) where at [20]
+    the Upper Tribunal said this:-
+
+             ".... There is a clear statutory framework which  specifically
+             precludes  the  consideration  of  post-application   evidence
+             adduced by the appellant in particular categories of case,  of
+             which this is one.  The fact that the case  concerns  a  claim
+             that the appellant satisfied a different  requirement  of  the
+             PBS, rather than attempting to rely  on  further  evidence  in
+             support of an application that had already been  made,  as  in
+             Shahzad [[2012]  UKUT  81  (IAC)]  is  a  distinction  without
+             substance.  Both situations come within the exception set  out
+             in section 85A(4)(a).  In cases governed by section 85A it  is
+             clear that in respect of evidence adduced the material date is
+             the date of application, not the date of  decision.   What  is
+             said in AQ about the relevant date being the date of  decision
+             not the date of application has to be seen as not applying  to
+             cases governed by section 85A, with which the Court of  Appeal
+             was not concerned (para 31 of its judgment)."
+
+
+33. Before we consider Mr Malik's answers one final authority of the  Court
+    of Appeal should be taken into consideration. That is the  decision  in
+    the case of Alam and others v SSHD [2012] EWCA Civ 960. In this case  a
+    claimant sought to rely on post decision evidence of her eligibility to
+    remain at the time of  application  and  decision  that  had  not  been
+    supplied in the original application. Section 85A had come  into  force
+    shortly before the adjourned hearing  of  her  appeal.   The  Court  of
+    Appeal concluded that the claimant was precluded from relying upon such
+    material. Lord Justice Sullivan giving  the  principal  judgment  noted
+    that the purpose of the statutory scheme was as follows at [14] :-
+
+
+             "As enacted, section 85(4) was subject to  the  exceptions  in
+             subsection (5), but those exceptions  did  not  apply  to  PBS
+             appeals.  Thus, if a PBS application had been refused  by  the
+             Secretary of State because the applicant had failed to produce
+             a specified document or documents, the applicant could  remedy
+             the  omission  on  appeal  to  the  Tribunal.   Some  63%   of
+             successful PBS appeals  were  allowed  because  the  appellant
+             produced new evidence, which had not been submitted  with  the
+             application, at the hearing of the appeal before the Tribunal:
+             see Baroness Browning's reply  to  Lord  Avebury's  Motion  to
+             Regret the Order on 7th July  2011.   The  Government  believe
+             that the ability to produce new evidence at the  appeal  stage
+             threatened to undermine the operation of the PBS: ibid."
+
+
+34. Mr Malik in his skeleton argument indicated that there were two issues
+    for us to decide:
+
+
+             i. Did section 85A apply to preclude reliance on material  that
+             was not submitted when the application was  first  made  albeit
+             that it was before the  decision  maker  at  the  time  of  the
+             decision, and
+
+
+             ii. Did the terms of the Immigration Rules and  Appendix  A  to
+             the points based system require the material  to  be  submitted
+             when the application was submitted?
+
+
+
+35. His first submission was that section 85A had no application at all  to
+    any of these appeals because in each case the Secretary  of  State  had
+    made two decisions at the same time: to refuse leave to remain  and  to
+    remove the claimant from the United Kingdom.  It is common ground  that
+    there were two such decisions and the appeal is a single appeal against
+    any decision made.  A separate legal point arises  in  respect  of  the
+    second decision which will be considered after we have  determined  the
+    first issue.  Mr Malik submits that 85A( 3)(a) only applies  where  the
+    appeal is against "an immigration decision of  a  kind  specified"  and
+    cannot apply when there are two such decisions.
+
+
+36. We have no hesitation in rejecting that submission.  Just because there
+    is a single appeal against two decisions and only one such decision  is
+    a decision to refuse leave to remain specified in section 82(2)(d) does
+    not mean that Exception 2 does not apply  to  an  appeal  against  such
+    decisions.  Further, there is the obvious point that section 6  of  the
+    Interpretation Act 1978 provides that, absent contrary intention in the
+    statute, reference to the singular includes the plural.
+
+37. There is more substance in Mr Malik's second submission which  is  that
+    even if section 85A (3) applies in this  case,  the  Tribunal  was  not
+    precluded from having regard to the evidence of  an  award  being  made
+    after the application was  first  submitted  because  applications  are
+    continuing applications and that the time  of  making  referred  to  in
+    section 85A(4)(a) is not simply a start date of the application but the
+    period of the making of the application at the start date until the end
+    date of the application, ie the date of the decision, as the  Court  of
+    Appeal has decided in AQ (Pakistan).
+
+38. Before considering this submission further we will address  Mr  Malik's
+    third submission.  He submitted that the judges  who  had  decided  the
+    case adverse to his client were wrong to conclude that  "within  twelve
+    months"  of  obtaining  the  relevant  qualification  meant  that   the
+    qualification had to be obtained  within  the  period  of  time  twelve
+    months before the application was first made.
+
+39. He submitted that the meaning of "within" is   "around"  twelve  months
+    whether the application or the award happened  first  as  long  as  the
+    application and the award was not separated  by  a  gap  of  more  than
+    twelve months.  In our judgment the natural reading of Table 10 is that
+    an  applicant  must  show  he  "has  been  awarded"  (past  tense)  the
+    qualification and that the application for  leave  to  remain  is  made
+    before the expiry of twelve months from  the  date  of  the  award.  We
+    accept that the language  of block 4 of Table  10  does  not  expressly
+    state  that the award must come first, and it is possible that "within"
+     could mean simply that the application and the award are not more than
+     twelve months apart.
+
+40. We note that paragraph 70 explains that the date of the  award  is  not
+    the degree ceremony itself or the grant of a certificate but  the  date
+    in which  the  applicant  was  notified  in  writing  by  the  awarding
+    institution that the qualification had been awarded.  Although  it  was
+    not central to any of the appeals before us, it is  possible  that  the
+    awarding  institution  can  delegate  to  the  educational  institution
+    communication of the fact that the qualification had been awarded  even
+    though the actual degree was not conferred until later.
+
+41. However, we conclude that the answer to the third  submission  was  not
+    decisive of this appeal. If Mr Malik made good  his  second  submission
+    that applications for  leave  to  remain  are  continuing  applications
+    starting with  the  time  when  the  application  was  first  made  and
+    continuing until such time as the Secretary of State determined it then
+    whatever the proper reading of block 4 of Table 10 of Appendix  A  each
+    of these claimants could comply with it.
+
+42. Each can submit that they had obtained their qualifications  when  they
+    did in the summer of 2012; they submitted the fact of such obtaining to
+    the Secretary of State that supplemented the application which remained
+    live and capable of being supplemented up to the dates of  the  adverse
+    decisions at the various dates in the autumn 2012.   The  qualification
+    had thus preceded the concluding time for making the application.
+
+43. So everything depends on Mr Malik's second submission.  He can  support
+    that submission by seven observations:
+
+
+          i) The  most  important  is  Lord  Justice  Pill's  decision  that
+             applications  for   variation    including   applications   for
+             variation   of  points  based  system  claims  for  leave   are
+             continuing applications starting when the application is  first
+             lodged but remaining open until it is decided.
+
+
+         ii) Both  Lord  Justice  Sullivan  and  Lord  Justice  Pill  in  AQ
+             concluded that even when there is an historic timeline  in  PBS
+             cases, that historic timeline is to be decided as at  the  date
+             of decision rather than the date of application.
+
+
+        iii) Lord Justice Sullivan in Alam had identified  the  mischief  to
+             which section 85A was directed: reliance  by  the  Tribunal  on
+             fresh evidence that was never placed before the decision maker;
+             but in this case the material evidence was before the  decision
+             maker at the time of the decision.
+
+
+         iv) There is an inconsistency of approach in the  decision  itself;
+             the Secretary of State did award each  claimant  twenty  points
+             for the post graduate degree in the first block of Table 10 but
+             not the 15 points  for  the  application  being  within  twelve
+             months of obtaining the  qualification  in  block  4.   If  the
+             Secretary of State's reliance on section 85A in  its  strictest
+             sense was a good one then the qualification itself should  have
+             been excluded from the award of points since it was not a piece
+             of information provided in the application when  it  was  first
+             made.
+
+
+          v) Te Secretary of State's submission involves  reading  into  the
+             words of section 85A the qualifying  words  'application  first
+             made' rather than leaving 'application'  to  bear  its  natural
+             meaning  which  as  Lord  Justice  Pill  has  explained  is   a
+             continuing one .  There was no need to read  into  the  section
+             such a word to make sense of the statutory purpose,  which  was
+             concerned with material that the Secretary of State has not had
+             a chance to consider prior to making a decision.
+
+
+         vi)  It  would  be  inconsistent  with  principles   of   statutory
+             construction to apply a permissive meaning to the strict  words
+             in the absence of an unambiguous statement of intention by  the
+             legislation.
+
+
+        vii) It was always open to the Secretary of State to make a decision
+             on the applications shortly after the 6  April  2012  when  the
+             points based system  route  in  question  had  been  withdrawn.
+             However  her  officials  had  specifically  waited  until   the
+             awarding bodies had made their  awards  and  communicated  with
+             them to clarify the date of the award.  There is little purpose
+             in the Secretary of State inquiring and  receiving  information
+             before the decision is made and  then  depriving  the  Tribunal
+             from having access to that information or regard to it  on  the
+             appeal.
+
+
+44. Mr Hayes had no really coherent answer to these submissions.  His  core
+    submission  prefigured  in  his  skeleton   argument   was   that   the
+    observations in AQ (Pakistan) were not at  all  concerned  with  points
+    based system applications where there was a relevant historic timeline.
+    In our judgment, that was clearly wrong. Both  Lord  Justice  Pill  and
+    Lord Justice Sullivan in the paragraph cited above  were  at  pains  to
+    distinguish the AS conclusion (where there was no PBS historic timeline
+    point) from the applications in AQ where there  were.   Both  indicated
+    that the historic timeline applied at the date  of  the  decision,  not
+    application with Lord Justice Pill  explaining  that  was  because  the
+    application continued until the decision.
+
+45. Second, Mr Hayes submitted that the supply of further information  fell
+    outside  section  3C  and  therefore  outside  the  principles  of   JH
+    (Zimbabwe).  We find that wholly unconvincing; manifestly this was  not
+    a wholly fresh application for a wholly different purpose which was the
+    striking feature of JH (Zimbabwe) but further information in  the  same
+    application that was received before the decision was taken. There  was
+    no attempt to vary the application after the date of  decision  in  the
+    way that was deprecated both by the section and the authorities reliant
+    upon it.
+
+46. Third, Mr Hayes raised paragraph  34F of  the  Immigration  Rules  that
+    states:
+
+        "Any valid variation of a leave to remain application will be
+        decided in accordance with the Immigration Rules at the date such
+        variation is made".
+
+47.  However,  we  conclude  that  that  provision  does  not  assist  him.
+    Paragraph 34F appears to be linked to 34E  dealing  with  the  specific
+    problem of variation of application which introduce a new  purpose  and
+    paragraph 34G that decides when an application is made in such context.
+    Here there was no such new purpose. Secondly  and  more  significantly,
+    the rules in force at the date when the application was supplemented by
+    the submission of the award criteria, and indeed at  the  date  of  the
+    decisions of each of  these  applications,  included  the  introductory
+    preamble to HC 1888 published on the 15 March 2012:
+
+        "The other changes set out in the Statement shall take effect on  6
+        April 2012. However, if an applicant has made  an  application  for
+        entry clearance or leave before 6 April 2012  and  the  application
+        has not been decided before  that  date,  it  will  be  decided  in
+        accordance with the rules in force on 5 April 2012".
+
+
+
+
+Conclusions
+
+48. In this case there was a single application for a single  purpose  made
+    before the 6 April 2012 but supplemented by data  supplied  before  the
+    decision was made.
+
+49. According to the Court of Appeal in AQ (Pakistan) the application is  a
+    continuing one and therefore each applicant  provided  the  information
+    required by Table 10 before the application ceased to be made.
+
+50. The  information  from  the  awarding  body  was  supplied  within  the
+    application broadly construed and within a period of 12 months  of  the
+    award.
+
+51. As the evidence was supplied before the application ceased to  be  made
+    and was before the decision maker at the time of the  decision,  it  is
+    both admissible for the purposes of section 85A(4)  and  satisfied  the
+    requirement of block 4 of Table 10.
+
+52. There is nothing in the decision of Ali that precludes  our  conclusion
+    in this case. First, that case was reliant upon section 120 but that is
+    not an issue in these cases. Second, the Tribunal in  Ali  appeared  to
+    assume that section 85A operated to preclude material that had not been
+    submitted when the application was first made without  considering  the
+    concept of continuing application  supported  by  the  judgment  in  AQ
+    (Pakistan).
+
+53. It appears that we are the first judicial body to grapple with the true
+    scope of section 85A.  We  fully  recognise  that  this  provision  was
+    intended to restrict the material  that  could  be  considered  by  the
+    Tribunal, but in fact the material informing what  its  stated  purpose
+    is, accords with the present  decision  where  the  Tribunal  has  only
+    considered material that was submitted to the Secretary  of  State  and
+    considered by her before she made the decision.
+
+54. Further, it would be wrong in principle to give the exclusionary rule a
+    wider remit than either the purpose indicated by the promoting body was
+    to be or the concept of continuing application as endorsed by the Court
+    of Appeal.
+
+55. We recognise that a number of previous decisions of the AIT and the  UT
+    relating to the points based system have been overturned by  the  Court
+    of Appeal where an over-restrictive approach has been applied.  We  are
+    not endeavouring to apply an over-generous approach but simply to  give
+    effect to the meaning of the words according to  normal  principles  of
+    statutory construction and in the  light  of  the  conclusion  that  an
+    application of this sort is a continuing application starting with  the
+    date it was first submitted and terminating with the date upon which it
+    is decided.
+
+56. In our judgment, there  is  no  public  policy  in  favour  of  a  more
+    restrictive approach.  After all the Secretary of  State  did  evaluate
+    the material subsequently provided in the  application  and  did  award
+    points to each of these claimants on the  basis  that  they  "had  been
+    awarded" the qualification. It would be inconsistent  to  then  dispute
+    that the qualification that had  been  awarded  had  not  been  awarded
+    within the period of 12 months of the application.
+
+57. Further there was the practice of the UKBA shortly before the  relevant
+    scheme was abolished to occasionally invite the applicant to supplement
+    the  application  by  material  not   originally   contained   in   the
+    application.  There seems no point at all in  the  Secretary  of  State
+    having the relevant information at the date of the decision and  giving
+    it effect for one purpose but not another and then seeking  to  prevent
+    the Tribunal from evaluating that  information  in  the  course  of  an
+    appeal which still exists against points based system decisions.
+
+58. Any other construction would mean that the dimensions of the last group
+    of people to whom this aspect of the points based System was open would
+    depend upon the comparatively arbitrary question of when their  courses
+    concluded, leave to remain ended and when the qualifications came  into
+    effect.
+
+59. We fully recognise that the Secretary of  State  fairly  announced  the
+    termination of the scheme 1 year in  advance  and  made  provision  for
+    transitional cases.  But for the reasons that we  have  endeavoured  to
+    set out we are persuaded that these were cases within the  transitional
+    scheme and for the reasons already given we conclude  that  Mr  Malik's
+    submission is right.
+
+60. We therefore conclude that the decisions in the cases of the  claimants
+    Khatel, Adhikari and Al Islam did contain a material error of law.   We
+    remake the decisions and the consequence of our remaking  them  on  the
+    information that was known to the Secretary of State at the time of the
+    decisions is that such refusal was not in accordance with the rules and
+    the claimants' appeals are accordingly allowed.
+
+61. In the case of Raju the judge was correct to conclude that the case  of
+    Ali was not decisive in displacing the decision of  AQ  (Pakistan)  and
+    the judicial observations already  recorded.   There  was  no  material
+    error of law made by the judge and  the  Secretary  of  State's  appeal
+    against this decision is dismissed.
+
+62. As a subordinate footnote to this appeal, we note that in the  case  of
+    Khatel the appeals were dismissed on all grounds.  In the  other  three
+    appeals each judge recognised that even if the decision to refuse leave
+    to remain was a lawful one the decision to remove the claimant  at  the
+    same time was not according to the jurisprudence of the Upper  Tribunal
+    on that point most recently summarised in the decision of Adamally  and
+    Jaferi (Section 47 Removal Decision: Tribunal Procedures)  [2012]  UKUT
+    414 (IAC).  We appreciate the Secretary of State is seeking  to  appeal
+    this decision but unless and until this  is  set  aside  it  means  the
+    judges of the First-tier Tribunal should allow  removal  appeals  where
+    there are simultaneous decisions to refuse leave to remain and remove.
+
+63. We having raised the matter at the outset of these  appeals,  Mr  Hayes
+    quite properly had no objection to us granting a late  application  for
+    permission to appeal to Mr Malik to amend  his  grounds  of  appeal  in
+    Khatel to include this submission.  Having now raised the matter  there
+    was no objection by  Mr  Hayes  to  allowing  the  appeal  against  the
+    decision to remove on this basis.
+
+64. In the event for the reasons we have given for our  conclusion  now  in
+    allowing the appeal on the refusal against  the  refusal  of  leave  to
+    remain this further decision has no real purchase. However,  Mr  Khatel
+    should not be in  a  different  position  from  the  other  appellants,
+    whatever course these appeals may take in the future.
+
+Disposal:
+
+
+    There is an error of law in the decisions to dismiss the appeals  under
+    the  Immigration  Rules  in   IA/20856/2012   (Khatel),   IA/20567/2012
+    (Adhikari) and IA/21355/2012 (Al Islam) such that the decisions are set
+    aside to be remade.
+    We re-make the decision in these appeals by allowing them.
+
+
+    There was no error of law in the decision to allow the appeal under the
+    Immigration Rules in IA/21053/2012 (Raju) such that the decision be set
+    aside. The decision of the First-tier Tribunal stands.
+
+
+    There is an error of law in the decision dismissing  the  appeal  under
+    section 47 (the decision to remove) in IA/20856/2012 (Khatel) such that
+    the decision is set aside to be re-made.
+
+
+    We re-make the decision in that appeal by allowing it.
+
+
+
+
+    Both members of the panel have contributed to this decision
+
+
+
+
+    Signed
+
+
+                  Mr Justice Blake
+
+
+                  Chamber President
+
+
+                  22 January 2013
+

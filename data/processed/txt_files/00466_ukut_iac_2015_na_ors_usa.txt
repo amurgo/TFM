@@ -1,0 +1,1830 @@
+
+ [pic]
+
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Amirteymour and others (EEA appeals; human rights) [2015] UKUT 00466 (IAC)
+
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House                          |Determination Promulgated    |
+|On 31 March 2015                              |                             |
+|                                              |.............................|
+|                                              |..........                   |
+
+                                   Before
+
+       THE HON. MR JUSTICE MCCLOSKEY, PRESIDENT OF THE UPPER TRIBUNAL
+              MR C M G OCKELTON, VICE-PRESIDENT OF THE TRIBUNAL
+                        UPPER TRIBUNAL JUDGE RINTOUL
+
+                                   Between
+
+                          NASROLAH AMIRTEYMOUR (1)
+                  TAWA TIJANA & RADEEYAH OLAMIDE JAMIU (2)
+                                                                  Appellants
+
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+
+
+               the secretary of state for the home department
+                                                                   Appellant
+
+                                     and
+
+                             GENTJANA IZVIRA (1)
+                                 HF & AN (2)
+                           (ANONYMITY ORDER MADE)
+                                                                  Respondent
+
+
+Representation:
+
+For Mr Amirteymour:             Mr M Biggs, Counsel, instructed by EU
+Migration Services
+For Ms Tijana and Miss Jamiu:   Mr K Mak, Solicitor, MKM
+For Ms Izvira:             Ms C Fielden, Counsel, instructed by Abbott
+solicitors
+For Ms HF and Ms AN:            Mr Eaton, Counsel, instructed by Hoole & Co
+solicitors
+For the Secretary of State:         Mr Shilliday, Presenting Officer
+
+
+
+    Where no notice under section 120 of the 2002 Act has been  served  and
+    where no EEA decision to remove has  been  made,  an  appellant  cannot
+    bring a Human Rights challenge to removal in an appeal  under  the  EEA
+    Regulations. Neither  the  factual  matrix  nor  the  reasoning  in  JM
+    (Liberia) [2006] EWCA Civ 1402 has any application to appeals  of  this
+    nature.
+
+
+                            DECISION AND REASONS
+
+
+    Introduction
+
+ 1. These appeals have  been  heard  together  as  they  raise  a  question
+    relating to the right of appeal under regulation 26 of the  Immigration
+    (European Economic Area) Regulations 2006 ("the EEA Regulations").  The
+    question is: can a Human Rights challenge to removal be brought in such
+    an appeal  when  no  notice  under  section  120  of  the  Nationality,
+    Immigration and Asylum Act 2002 ("the 2002 Act") has  been  served  and
+    where no EEA decision to remove has been made?
+
+    The parties
+
+ 2. As these appeals come before us as a result of grants of permission  to
+    the Secretary of State in two cases, and to the opposing parties in the
+    other cases, we refer to the Secretary of State as the  respondent  for
+    the sake of clarity, and to the other parties as claimants.
+
+    Outline of the appeals
+
+
+
+    Appeal 1 - Mr Amirteymour
+
+ 3. Mr Amirteymour is a citizen of the USA. He has a daughter aged 9 who is
+    a British Citizen. His application for a residence card as confirmation
+    of his right of residence as  her  primary  carer  was  refused  on  21
+    February 2014. His appeal against that  decision  was  refused  by  the
+    First-tier Tribunal on the basis that he did not meet the  requirements
+    of the EEA Regulations and on the basis that his removal would  not  be
+    in breach of article 8 of  the  European  Convention  on  Human  Rights
+    ("ECHR").  Permission to appeal was granted on all grounds.
+
+    Appeal 2 Tijana & Olumide
+
+ 4. Ms Tawa Tijana is the mother of Miss Olumide. Ms Tijana is a citizen of
+    Nigeria as is her daughter but she has  a  younger  daughter,  Roheemot
+    Koffi who is a French Citizen.  The appeal to the  First-tier  Tribunal
+    was against a decision by the respondent of 18 July 2013 to  refuse  to
+    issue residence cards to Ms Tijana and Miss Olumide respectively as the
+    primary carer of an EU national and as the dependant of such a  person.
+    The appeal was dismissed on the basis that the requirements of the  EEA
+    Regulations were not met; permission to appeal was sought on the  basis
+    that the First-tier Tribunal had not addressed  the  ground  of  appeal
+    that removal of the claimants would be in breach of article 8 ECHR.
+
+    Appeal 3 - Izvira
+
+ 5. Ms Izvira is a citizen of Albania who appealed against the respondent's
+    decision of 3 July 2013 to refuse to issue her with  a  residence  card
+    confirming her right of residence as the primary  carer  of  a  British
+    Citizen child.  Her appeal to the  First-tier  Tribunal  was  at  first
+    unsuccessful but, following an appeal to the  Upper  Tribunal,  it  was
+    remitted to the First-tier. Her appeal was then dismissed on the  basis
+    that she did not meet the requirements of the EEA Regulations, but  was
+    allowed  on  article  8  ECHR  grounds.  The  respondent  was   granted
+    permission to appeal against that decision; there is no cross-appeal.
+
+    Appeal 4 - HF and AN
+
+ 6. Ms HF is the mother of Ms AN who is  a  minor.  Both  are  citizens  of
+    Gambia.  On 25 October 2013  the  respondent  revoked  their  residence
+    cards which had confirmed their right of residence as  the  spouse  and
+    dependant of an EEA national who had been exercising Treaty Rights  and
+    refused  to  issue  them  with  residence  documents  confirming  their
+    retained rights of residence as the former spouse and child of  an  EEA
+    national who had been exercising Treaty Rights here. Their appeals were
+    dismissed under  the  EEA  Regulations,  but  the  First-tier  Tribunal
+    allowed their appeals on article 8 ECHR  grounds.  The  respondent  was
+    granted permission to appeal on all grounds; there is no  cross-appeal.
+    There is in place in respect of this appeal an anonymity order made  by
+    the First-tier Tribunal.
+
+    Points common to all the refusal letters
+
+ 7. The refusal letters in the individual cases did not expressly tell  the
+    appellants to leave, but did advise them that if they did  not  do  so,
+    they might be subject to removal action.  They  also  stated  that  the
+    Immigration Rules now set out the requirements for those seeking  leave
+    to enter or remain on the basis of their right to respect  for  private
+    or family life by defining the criteria to be  fulfilled  in  order  to
+    qualify for this right to  remain.   It  is  also  stated  that  anyone
+    wishing to rely on family or private life  established  in  the  United
+    Kingdom under Article 8 of the Human Rights Convention  must   make  an
+    application using the relevant prescribed form and upon payment of  the
+    relevant fee.  There is also an express reminder that  the  application
+    has been assessed solely on the basis of the EEA Regulations.
+
+ 8. It is to be noted that in none of  these  appeals  did  the  respondent
+    serve a notice under section 120 of the 2002 Act.
+
+The Hearing
+
+ 9. These appeals were, as can  be  seen  from  the  consideration  of  the
+    individual facts of the application set out below, directed to be heard
+    together at different stages.  The respondent  has  been  permitted  to
+    amend her grounds of appeal (where she is the appellant) to  include  a
+    reference to FK (Kenya) v SSHD [2010] EWCA  Civ  1032.   We  asked  the
+    parties to serve written submissions on that decision after the hearing
+    on 31 March 2015 which was confined to oral submissions.
+
+    The Respondent's case
+
+10. The respondent submitted that an appellant may only pursue  grounds  of
+    appeal which are related to the  underlying  decision  under  challenge
+    and, as  refusals  of  residence  documents  do  not  require  detailed
+    consideration of article 8 ECHR  matters,  the  extent  to  which  ECHR
+    matters can be considered within an EEA appeal will be  limited.    She
+    submitted that it is established law, relying on  Patel  and  others  v
+    Secretary of State for the  Home  Department  [2013]  UKSC  72  and  AS
+    (Afghanistan) v SSHD [2013] EWCA Civ 1469, that when the  Secretary  of
+    State has chosen not to serve a section  120  notice  an  appellant  is
+    restricted  to  the  scope  of  his  original   application.   As   the
+    consideration of  an  application  for  a  residence  document  and  an
+    assessment  of  whether  an  applicant  enjoys  article  8  rights  are
+    inherently different, an appellant cannot raise article 8 ECHR  matters
+    within the scope of his appeal.
+
+11. The respondent accepted that limited human rights considerations may be
+    raised in an EEA appeal, but only to the extent  that  the  failed  EEA
+    application may place the appellant at risk  of  removal.,  that  being
+    limited,  pursuant  to  JM  (Liberia)  [2006]   EWCA   Civ   1402,   to
+    consideration of any issues which would follow from the likely  removal
+    of the appellant from the United Kingdom. That, it is submitted, is not
+    is not an exception to the first submission above.
+
+12. The respondent submitted also that when considering whether  a  removal
+    of an appellant would entail a breach of the ECHR, the Tribunal  should
+    first ask whether the removal  of  the  appellant  is  likely.  We  do,
+    however, note that the ground of appeal set out in section 84  (1)  (g)
+    of the 2002 Act requires a consideration of removal as a consequence of
+    an immigration decision, not whether it is likely. She submits that  is
+    not the case as the respondent is  not  currently  considering  removal
+    directions and, here, had  invited  the  submission  of  an  article  8
+    application which would have a suspensive effect.
+
+13.  In  addition,  the  respondent  further  submitted  that  there  is  a
+    distinction between the  detailed  provisions  for  the  protection  of
+    article 8 rights set out in the Immigration Rules ("the Rules") and the
+    much more limited consideration permissible under section 84 (1) (g) of
+    the 2002 Act which, it is said, does not permit an appellant to advance
+    detailed, rule-based arguments which should properly be pursued under a
+    separate application under the relevant Rules.
+
+14. In addition, the respondent submitted that the  statutory  jurisdiction
+    of the Tribunal in EEA cases does not permit consideration  of  matters
+    relating to the Rules, the grounds of appeal in sections 84 (1) (a) and
+    84 (1)(f)  being  unavailable  in  an  EEA  appeal.   Accordingly,  the
+    Tribunal's duties pursuant to section 6 of the Human  Rights  Act  1998
+    require it to note that the respondent has established within the Rules
+    a detailed regime for consideration of Article 8 matters.
+
+15. The respondent submitted that JM (Liberia) can be distinguished as  all
+    the claimants here are overstayers. Unlike the appellant in that  case,
+    there are no adverse consequences to the claimants from not being  able
+    to raise article 8 in an appeal; there  is  and  has  been  nothing  to
+    prevent them from making an application under the Immigration Rules  at
+    any stage. That requirement is not, it is  submitted,  disproportionate
+    and a fee-waiver can be requested.
+
+16. It is also submitted that,  contrary  to  the  claimant's  submissions,
+    paragraph GEN 1.9 of Appendix FM of  the  Immigration  Rules  does  not
+    permit Human Rights claims to be raised in  an  appeal  under  the  EEA
+    Regulations
+
+17. The respondent does accept, however, that the  situation  is  different
+    where a "one-stop" notice has been served pursuant to  section  120  of
+    the 2002 Act.
+
+    The Claimants' case
+
+18. The claimants' case as set out in their  skeleton  arguments  and  oral
+    submissions can be summarised as follows. It is submitted that, relying
+    on JM Liberia a proper construction of section 84 (1) (g) of  the  2002
+    Act requires a wide interpretation, and that a full right of appeal  on
+    article 8 issues is permitted, as was held in  Ahmed  (Amos;  Zambrano;
+    reg 15A (3)(c) 2006 EEA Regs) [2013] UKUT 00089 (IAC), the  appeals  to
+    the Court of Appeal in that matter (reported as NA  (Pakistan)  v  SSHD
+    [2014] EWCA Civ 995 and as SSHD v NA (Pakistan) [2015]  EWCA  Civ  140)
+    not  disputing  that  interpretation.  It  is  further  submitted  that
+    Lamichhane v Secretary of State for the Home Department [2013] EWCA Civ
+    260 can be distinguished both on its facts and in light  of  Patel  and
+    Others v Secretary of State for the  Home  Department  [2013]  UKSC  72
+    which, it is submitted, is authority for a wider interpretation of both
+    sections 85 (2) and 120 of the 2002 Act. It is also  submitted  that  a
+    proper construction of section 85 (4) permits  article 8 to  be  raised
+    in an EEA appeal, an appellant being entitled by virtue of the right of
+    appeal under the EEA regulations to rely  on  any  of  the  grounds  of
+    appeal set out in section 84 (1) of the 2002 Act.
+
+19. It is also submitted that, contrary to  the  respondent's  submissions,
+    paragraph GEN 1.9 of Appendix FM of the Immigration Rules does permit a
+    human rights claim made in the notice of appeal in an appeal under  the
+    EEA Regulations to be considered.
+
+20. It is submitted also that human rights grounds may be considered in  an
+    EEA appeal even if they have not been raised  with  the  respondent  as
+    part of the application, given that EU law asserts that  it  recognises
+    the importance of ECHR rights, the Charter of Fundamental Rights of the
+    European Union overlapping substantially with the ECHR. Further, and in
+    the alternative, the respondent is failing in her duty with respect  to
+    article 8 as imposed by section 6 of the Human Rights Act 1998.
+
+21. With regard to the option of being able to make  an  application  under
+    the Immigration Rules, it is submitted that this is  not  a  sufficient
+    alternative given the disproportionate cost of doing so, and  the  lack
+    of any right of appeal under the Rules if leave to remain is refused.
+
+22. In reply to the respondent's skeleton argument, the claimants,  relying
+    primarily on Mr Biggs's skeleton argument, noted that  it  is  accepted
+    that article 8 ECHR grounds can be raised in an appeal under regulation
+    26 of the EEA Regulations, even if these had not been relied upon  when
+    making an application giving rise  to  the  EEA  decision,  and  it  is
+    submitted that the effect of a refusal to  issue  documents  under  the
+    2006 Regulations places an  appellant  in  the  same  position  as  the
+    appellant in JM (Liberia) who had been refused a  variation  of  leave.
+    It is also submitted that article 8 issues are quite separate from  the
+    substance of an EEA decision.
+
+23. The claimants also submitted that  the  respondent's  proposition  that
+    there need only be a "light  touch"  review  is  inconsistent  with  JM
+    (Liberia) and that once the ground set out in section  84  (1)  (g)  is
+    relied upon, the Tribunal is to conduct  a  full,  article  8  analysis
+    which, it is said, involves a consideration  of  whether  the  proposed
+    interference is in accordance with the law, a question  which  requires
+    an analysis  of  the  Rules  which  are  material  to  proportionality.
+    Further, it is submitted that paragraph GEN 1.9 (a) (iii) of the  Rules
+    applies such that, in any event, no formal  application  for  leave  to
+    remain on human rights grounds is required.
+
+The Legislative Framework
+
+24. Our analysis of the law is based on the  provisions  in  force  at  the
+    dates of the hearings before the First-tier Tribunal. There  have  been
+    substantial changes to the appeal  rights  under  the  EEA  Regulations
+    which took effect on  6  April  2015.  These  changes  are  subject  to
+    transitional provisions set out in  regulation  6  of  the  Immigration
+    (European Economic Area) (Amendment) Regulations (SI 2015/694)  to  the
+    effect that the changes to paragraphs 26 and Schedules 1 and 2  of  the
+    EEA Regulations have no effect in relation to an appeal against an EEA
+    decision where that decision was taken before 6th April  2015.   It  is
+    important to recognise that the principal Act, the Immigration Act 1971
+    places EEA nationals in a separate  position  from  those  who  require
+    leave to enter and remain.  For  convenience,  we  have  assembled  all
+    relevant statutory provisions in Schedule 1 to this judgment.
+
+
+Discussion
+
+
+  25. In all of these cases, the action of the respondent has been to refuse
+      to  issue  documentation  sought  as  confirmation  of  the  right  of
+      residence under EU law.  She has not taken action to remove any of the
+      claimants, but has reminded them that they have no right to  be  here,
+      and has advised them that if they wish to remain here  on  some  other
+      basis, then the appropriate applications  should  be  made  using  the
+      correct application forms  and  procedure,  and,  on  payment  of  any
+      appropriate fee.
+
+
+
+
+  26. As can be seen from section 3 of the Immigration Act 1971, there is  a
+      distinct difference drawn in the system of immigration control between
+      those who require leave to enter and those who do not. By operation of
+      section 7 of the 1988 Act, those having a right  to  enter  or  reside
+      under European Law do not (absent any exclusion or deportation  order)
+      require leave to enter or remain. A right to enter or remain (and  the
+      conditions placed on that) depends on an action taken by the Secretary
+      of State or an Immigration Officer. In contrast, a right to  enter  or
+      reside under European Law does not.  The issue of a grant of leave  to
+      enter or remain by the Secretary of State is, unless it  is  withdrawn
+      or otherwise  nullified  by  her  subsequent  actions,  determinative.
+      However, the issue of confirmatory documentation under EU law  is  not
+      determinative of a right. While  it  may  be  indicative,  it  is  not
+      conclusive. The right to reside confirmed by a  registration  document
+      valid for five years does not confer the  right  to  remain  for  five
+      years if the holder ceases to exercise Treaty rights.  Possession of a
+      residence  card  is  not  a  condition  precedent  to  accessing   and
+      benefiting from the associated  rights  that  flow  from  a  right  of
+      residence conferred by European Law.
+
+
+
+  27. That is not to say that the mechanisms  for  considering  applications
+      and enforcement are separate. There is in the case  of  the  latter  a
+      reliance on the existing statutory scheme, a person who no longer  has
+      a right of residence under EU  law  becoming  once  again  subject  to
+      immigration  control  (see  also  paragraph  5  of  the  Rules).   The
+      respondent did not set up an entirely separate system  for  both,  but
+      equally did not enact that a decision to  issue  a  document  (or  the
+      acquisition of a right or residence under EU law) was a grant of leave
+      under the Immigration Act 1971.
+
+
+
+  28. The distinction between the Rules and the EEA regulations is expressly
+      made at the beginning of the Rules of which paragraph 5 provides:
+
+
+       Save where expressly  indicated,  these  Rules  do  not  apply  to  a
+       European Economic Area (EEA) national or the family member of such  a
+       national who is entitled to enter or remain in the United Kingdom  by
+       virtue of the provisions of the Immigration (European Economic  Area)
+       Order 1994. But an EEA national or  his  family  member  who  is  not
+       entitled to rely on the provisions of that Order is covered by  these
+       Rules.
+       Save where expressly indicated, these Rules do  not  apply  to  those
+       persons who are entitled to enter or remain in the United Kingdom  by
+       virtue of the provisions of the 2006 EEA Regulations But  any  person
+       who is not entitled to rely on the provisions of those Regulations is
+       covered by these Rules.
+
+
+
+  29. Although it was not the case in the past, the scope of the Rules  made
+      under the 1971 Act now covers claims for protection under the  Refugee
+      Convention and the Human  Rights  Convention.  There  are,  under  the
+      Rules, specific provisions as to how, for example, a  claim  that  the
+      applicant or applicants must be granted leave to remain on  the  basis
+      of human rights, primarily Article 8 ECHR. That  is  achieved  through
+      the use of specified forms and by operation of  paragraph  34  of  the
+      Rules, as well as the various Immigration Fees Orders and  Regulations
+      which require a prescribed form accompanied by a fee.
+
+
+
+  30. A right of residence under EU law (which includes a derivative  right)
+      is thus of a different legal  species  from  a  grant  of  leave.  The
+      exercise of the former does not require an act  to  be  taken  by  the
+      Secretary of State. There is no  requirement  to  obtain  a  residence
+      document and there are, under law, no  penalties  for  not  doing  so.
+      While we accept that in many cases where documentation  is  sought  as
+      confirmation of the rights of a non-EEA national under EU law  it  may
+      be difficult to  assert  those  rights  absent  such  a  document,  we
+      conclude that  the  possession  of  a  residence  document  is  not  a
+      compulsory prerequisite. We reject Mr Biggs' arguments, unsupported by
+      authorities or sufficient evidence, to the contrary. The  position  of
+      those requiring is leave is  entirely  different.  The  possession  of
+      valid leave, if required under the law, is a compulsory  prerequisite.
+      There is no right of residence or access to the rights flowing from  a
+      grant of leave until and unless it is granted.
+
+
+
+  31. Rights granted under EU law and  leave  granted  under  the  Rules  or
+      Immigration Acts are conceptually and legally distinct.  Any assertion
+      of a right to leave to remain or under the Human Rights  Act  is  thus
+      made on a different juridical basis. But that is not to say  that  the
+      mechanisms for decision making and enforcement are entirely distinct.
+
+
+
+  32. Turning to the appeals structure within the EEA Regulations, there  is
+      under regulation 26, as set out above, an  appeal  to  the  First-tier
+      Tribunal, against an EEA decision as defined in regulation  2  of  the
+      EEA Regulations which  provides,  so  far  as  is  relevant  to  these
+      appeals, as follows:
+
+
+         "EEA decision  means"  a  decision  under  these  Regulations  that
+         concerns -
+           (a) a person's entitlement to be admitted to the United Kingdom;
+           (b) a person's entitlement to be issued with or have renewed, or
+           not to have revoked, a registration certificate, residence card,
+           derivative residence card, document certifying permanent
+           residence or permanent residence card;
+           (c) a person's removal from the United Kingdom; or
+           (d) the cancellation, pursuant to regulation 20A, of a person's
+right to reside in the
+           United Kingdom .
+
+
+
+  33. There is no appeal against a decision  that  an  EEA  national  (or  a
+      member of the family of  such  a  person)  has  no  right  to  reside,
+      although a finding on  that  issue  will  invariably  be  required  in
+      assessing whether a decision of  the  type  in  (b)  or  (c)  will  be
+      necessary.
+
+
+
+  34. A clear  distinction  is  drawn  here  between  a  decision  regarding
+      documentation  and  a  decision  to  remove.  That  follows  both  the
+      structure of the Citizenship Directive and the  EEA  Regulations  (see
+      regulations 19 and  20).  Unlike  decisions  regarding  documentation,
+      decisions to remove are also subject to specific procedural safeguards
+      (see articles 30 and 31 of the Citizenship Directive).
+
+
+  35. The right of appeal under Regulation 26 is  subject  to  a  number  of
+      qualifications set out in regulations 26(2) to  26  (5)  and  also  at
+      regulation 27 where the right of appeal from within the United Kingdom
+      is limited. These restrictions are not relevant to these appeals.
+
+  36. We turn next to Schedule 1, paragraph 1 of the EEA  Regulations  which
+      provides that certain of the provisions of the 2002 Act have effect in
+      relation to an appeal under the regulations as if (emphasis added)  it
+      were an appeal against an immigration decision under section 82(1)  of
+      that Act.  That is not the same as providing that an EEA  decision  is
+      an immigration decision under the 2002 Act which could have been done.
+       It was thus evidently not the intention so do to.
+
+
+
+  37. The clear intent is to provide that the provisions  of  the  2002  Act
+      apply to something which is clearly not an immigration decision  under
+      the 2002 Act and in fact is not a decision of the type made under  the
+      1971 Act. The fact that section 84 (1) (d) permits EEA  rights  to  be
+      raised in an appeal against that decision does not alter that.
+
+
+
+  38. It is notable that the permissible grounds of appeal  against  an  EEA
+      decision expressly exclude grounds (a)  and  (f)  indicating  a  clear
+      intent that questions  arising  under  the  Rules  cannot  be  raised,
+      consistent with the two-fold system described above.
+
+
+
+  39. That raises a significant issue. Since July 2012, when Appendix FM and
+      paragraph 276ADE were incorporated into the Rules, much of the  system
+      for consideration of Human Rights, in particular  article  8,  is  now
+      operated under the Rules. The changes and the new regime is summarised
+      by Underhill LJ in Singh & Khalid [2015] EWCA Civ 74) at [1]:
+    1. These two  appeals  concern  aspects  of  the  changes  made  to  the
+       Immigration Rules by a Statement of Changes (HC 194)  promulgated  on
+       13 June 2012 and taking effect from 9 July 2012,  and  by  a  further
+       Statement of Changes (HC 565) promulgated on  5  September  2012  and
+       taking effect the following day. The changes were  multifarious,  but
+       we are concerned only with those addressing the approach to be  taken
+       to applications for leave to enter or  remain  on  the  basis  of  an
+       applicant's private or family life. I set out the relevant changes in
+       detail below, but it will be convenient to give an  overview  at  the
+       start. I will refer to the Rules incorporating the changes made by HC
+       194 as "the new Rules" and  to  the  previous  version  as  "the  old
+       Rules".
+    1. Under the old Rules leave to enter or remain as a family member of  a
+       person settled in the UK was regulated by Part 8, which  is  entitled
+       "Family Members". There was no recognition of a  right  to  enter  or
+       remain on grounds of  private  life  as  such,  but  Part  7  ("Other
+       Categories") did provide for leave  to  remain  on  grounds  of  long
+       residence. If an applicant could not establish a right to  remain  on
+       the basis of one of the particular provisions in those  parts,  which
+       were tightly defined, they could seek to rely on the right to respect
+       for private and family life derived, via the Human Rights  Act  1998,
+       from article 8 of the  European  Convention  of  Human  Rights.  Such
+       applications were generally referred to as being  made  "outside  the
+       Rules".
+    1. The new  Rules,  by  contrast,  contain  express  provision,  by  new
+       provisions inserted into Parts 7 (principally a new paragraph 276ADE)
+       and 8 (principally a new "Appendix FM"), for applications made on the
+       grounds of private or family  life.  It  remains  the  case  that  an
+       applicant may seek to rely on article 8 in  a  case  falling  outside
+       these new provisions, but the intention was that the new Rules  would
+       properly reflect its requirements in the generality of cases, so that
+       it should only be exceptionally that an applicant would have a  valid
+       claim under article 8 which fell outside their scope: I  set  out  at
+       para. 10 below the Secretary of State's explanation of her  intention
+       at paragraph GEN 1.1 of Appendix FM. It is now settled that the right
+       course in any case where an applicant relies on his or her private or
+       family life is to proceed by considering first whether  leave  should
+       be granted under the relevant provisions of the new Rules and only if
+       the answer is no to go on to consider article 8  in  its  unvarnished
+       form (the so-called "two-stage approach"):  see  the  line  of  cases
+       which includes Izuazu  (Article  8  -  new  Rules) [2013]  UKUT  45
+       (IAC) and R  (Nagre)  v  Secretary  of   State   for   the   Home
+       Department [2013] EWHC 7200 (Admin) to which I will  have  to  refer
+       more fully below. Thus article 8 claims "outside the Rules" are still
+       possible, though the scope for their operation is reduced.
+
+  40. The scope of "outside the rules" considerations  has  thus  been  much
+      reduced. There is a clear intention that, so far  as  is  practicable,
+      consideration of article 8 is to be carried out under the  Rules.  The
+      respondent is entitled under the 1971 Act to put forward rules to that
+      effect. It is also a clear policy established by  the  requirement  to
+      make applications on Human Rights grounds using prescribed  forms  and
+      paying the relevant fees. There is, we accept, a partial exception  to
+      that by operation of GEN 1.9 of Appendix FM of the Rules, and we  turn
+      to that in due course.
+
+
+
+
+  41. While we accept that the area covered by the Rules  now  covers  areas
+      previously dealt with by means of policies, if they  were  covered  at
+      all, the fact that the area has expanded to  cover  almost  all  areas
+      covered by article 8 is not in principle a good reason effectively  to
+      ignore the clear provisions preventing  it  being  argued  in  an  EEA
+      appeal that the decision was not in accordance with the Rules.  It  is
+      not suggested that, for example, appellants could argue that they  met
+      the requirements for leave to remain as Tier 4 Student  migrants,  or,
+      formerly, the long residence rules.
+
+
+
+  42. Any consideration by a court of article 8  issues  must  now  commence
+      with a consideration under the Rules, yet that is  an  analysis  which
+      could not be carried out in an EEA appeal, given that the  grounds  of
+      appeal  prohibit  an  analysis  of  whether  a  decision  was  not  in
+      accordance with the Rules. While, arguably, a consideration of article
+      8 "outside the Rules" might  not  fall  at  that  hurdle,  it  not  an
+      analysis that could properly be conducted; it  would  be  an  entirely
+      artificial task to assess the article 8 issues "outside the rules."
+
+
+
+  43. We now turn to paragraph GEN 1.9 of the Rules which, as at the date of
+      these appeals were lodged and decided, provided:
+
+       GEN.1.9. In this Appendix:
+         (a) the requirement to make a valid application will not apply when
+         the Article 8 claim is raised:
+           (i) as part of  an  asylum  claim,  or  as  part  of  a  further
+           submission in person after an asylum claim has been refused;
+           (ii) where a migrant is in immigration detention;
+           (iii) where removal directions have been set pending an imminent
+         removal;
+           (iv) in an appeal; or
+           (v) in response to a (one stop) notice issued under section  120
+           of the Nationality, Immigration and Asylum Act 2002.  And
+         (b) where the Article 8 claim is raised in any of the circumstances
+         specified  in  paragraph  GEN.1.9.(a)  or  is  considered  by   the
+         Secretary of State  under  paragraph  A277C  of  these  rules,  the
+         requirements of paragraphs R-LTRP.1.1.(c) and  R-LTRPT.1.1.(c)  are
+         not met.
+
+
+
+
+  44. It is submitted by the claimants that this permits  Article  8  to  be
+      considered in an appeal when no formal application has been  made.  We
+      do not accept that applies in an appeal  under  the  EEA  Regulations.
+      Paragraph GEN 1.9 is a provision of the Rules, not statute. It  cannot
+      alter the effect of the EEA  Regulations  which  make  it  clear  that
+      section  84  (1)  (a)  does  not  apply.   Further,   the   claimants'
+      interpretation of GEN 1.9 (iv) proceeds on  the  basis  that  "appeal"
+      extends beyond an appeal  against  a  decision  under  the  Rules.  We
+      consider that cannot be its natural meaning.
+
+
+
+
+  45. Appendix FM begins:
+       This Appendix applies to applications under this  route  made  on  or
+       after 9 July 2012 and to applications under Part 8 as set out in  the
+       Statement of Changes laid  on  13  June  2012  (HC  194),  except  as
+       otherwise set out at paragraphs A277-A280.
+
+  46. In this context, the requirement to  have  made  a  valid  application
+      simply disapplies  the  requirement  to  have  done  so  from  various
+      provisions within Appendix FM,  for  example  at  R-LTRP.1.1  It  does
+      nothing more.
+
+
+
+
+  47. In effect, the claimants' argument  must  be  that  the  human  rights
+      appeals they raise are cases  outside  the  Rules  as  otherwise  they
+      cannot raise the issue, given that section 84 (1) (a) does not apply.
+
+
+
+  48. The grounds set out within section 84 of the 2002 act at  sections  84
+      (1) (c) and 84 (1) (g) permit human rights to be raised but  what  the
+      Tribunal is  entitled  to  consider  in  assessing  these  grounds  is
+      qualified by operation of section 85 to 87 of the 2002 Act.
+
+
+
+
+  49. We accept that the ground of appeal set out in section 84 (1)  (c)  is
+      theoretically available in EEA appeals, but is of little assistance to
+      an appellant challenging a decision with respect to documentation.  In
+      such a case, the appellant is only entitled to the document if he  has
+      established the relevant right of residence under EU law; a successful
+      claim that he cannot be  removed  pursuant  to  article  8  could  not
+      entitle him to the document, as it could not  give  rise  to  a  right
+      under EU law.
+
+
+
+
+  50. Turning to section 84 (1) (g) as applied by  Schedule  1  of  the  EEA
+      Regulations, we note that it  is  concerned  with  a  situation  where
+      removal is as a consequence of  the  immigration  decision,  a  phrase
+      given a wide interpretation by the Court of Appeal  in  JM  (Liberia).
+      That was not a case which concerned the EEA regulations; it  concerned
+      a situation whereby an appellant's application for leave to remain had
+      been refused. As a consequence of that, if unsuccessful in an  appeal,
+      he would no longer have leave to remain. In  these  appeals,  however,
+      the claimants did not have leave  to  remain  at  the  time  of  their
+      applications. The decisions made to refuse  residence  cards  did  not
+      alter their status.  Accordingly, neither the factual matrix  nor  the
+      reasoning in JM (Liberia) has  any  application  to  appeals  of  this
+      nature. It is in that context that we turn to consider the  parameters
+      within which the Tribunal can consider appeals.
+
+
+
+
+  51. The jurisdiction of the Tribunal is limited by sections 85  -  87.  Of
+      particular relevance are the provisions of section 85 of the 2002  Act
+      which were considered in detail in AS (Afghanistan) in which the Court
+      of Appeal held that the Tribunal has no jurisdiction to  consider  the
+      new matters in the absence  of  a  section  120  notice  (per  Stanley
+      Burnton LJ in Lamichhane at [1]).  In Lamichhane, after analysing  the
+      various provisions, Stanley Burnton  LJ  (with  whom  Lewison  LJ  and
+      Maurice Kay LJ  agreed)  addressed  the  question  "May  the  Tribunal
+      consider additional grounds advanced by an appellant if no section 120
+      notice has been served, and if so is it under a duty to  do  so?"  and
+      concluded [41]:
+
+
+
+         41.   I  conclude,  therefore,  that  the  Secretary   of   State's
+         contentions as to the effect of section 85(2) are well-founded, and
+         an appellant on whom no section 120 notice has been served may  not
+         raise before the Tribunal any ground for  the  grant  of  leave  to
+         remain different from that which was the subject of the decision of
+         the Secretary of State appealed against. The answer to question (c)
+         above is No.
+
+
+
+  52. Of relevance also to these appeals is the conclusion reached at [43]:
+
+
+
+      43. In my  view,  section  85(2)  is  a  statutory  extension  of  the
+      jurisdiction of the tribunal in  cases  in  which  there  has  been  a
+      statement made by the appellant under section 120. It follows that the
+      Tribunal has no jurisdiction to consider or to rule on "any matter ...
+      which constitutes a ground of appeal of a kind listed in section 84(1)
+      against the decision appealed against" if there has  been  no  section
+      120 notice, and  therefore  no  statement  under  that  section.  This
+      conclusion is consonant with my conclusion as to the effect of section
+      96(1) as it now is. If it were otherwise, an appellant might not  know
+      whether he could raise any new ground in his appeal until the  hearing
+      of his appeal, and the test in section 96(1)(c) becomes unworkable.
+
+
+
+
+  53. The application of sections 85 - 87 of the 2002 Act was considered  at
+      length in Patel v SSHD  [2013]  UKSC  72.  The  court  did  not  refer
+      expressly to Lamichhane although that decision was considered  by  the
+      Court of Appeal below in Patel v SSHD [2012] EWCA Civ 741 which  chose
+      to follow it. The issue in the appeal to the Supreme  Court  in  Patel
+      was whether the  Secretary  of  State's  failure  to  make  a  removal
+      decision at the same time as or shortly after the decision  to  refuse
+      leave to remain was unlawful (per Lord Carnwath JSC in Patel  (SC)  at
+      [3]). It cannot therefore be argued that the decision  in  the  latter
+      disapproves of the decision in Lamichhane.
+
+
+
+  54. Lord Carnwath JSC  stated at [41]-[44]:
+    41 The broader approach of the  majority  seems  to  me  to  gain  some
+    support from the scheme of section 3C  ,  under  which  (as  is  common
+    ground) the initial application for leave to remain, if made  in  time,
+    can later be varied to include wholly unrelated grounds without turning
+    it into a new application or prejudicing the temporary right to  remain
+    given by the section. Thus the identity of the application  depends  on
+    the substance of what is applied for, rather  than  on  the  particular
+    grounds or rules under which the application  is  initially  made.  The
+    same approach can be applied to the decision on that  application,  the
+    identity or "substance" of which in the context of  an  appeal  is  not
+    dependent on the particular grounds first relied on.
+    42 It is of interest that, at an earlier stage,  the  broader  approach
+    seems to have accorded with the reading of those responsible within the
+    Home  Office  for  advice  to  immigration  officers.  The  Immigration
+    Directorate's Instructions, issued in September 2006, noted that it was
+    not possible under  section  3C  to  make  a  second  application,  but
+    continued:
+       "On the other hand, it  is  possible  to  vary  the  grounds  of  an
+       application already made, even by introducing  something  completely
+       new. A student application can be varied so as to  include  marriage
+       grounds. If an application is varied before a decision is made,  the
+       applicant will be required to complete the necessary prescribed form
+       to vary his application. If an application is varied post  decision,
+       it would be open to the applicant to submit further  grounds  to  be
+       considered at appeal ...Once an  application  has  been  decided  it
+       ceases to be an application and there is no longer  any  application
+       to vary under section 3C(5). So any new information will fall to  be
+       dealt with during  the  course  of  the  appeal  rather  than  as  a
+       variation of the original application." (para 3.2 emphasis added)
+    43 The same approach is supported by the current edition of Macdonald's
+    Immigration Law & Practice 8th ed (2010) para 19.22 (under the heading
+    "The tribunal as primary decision maker"). The only implicit criticism
+    made of the majority approach in AS is that it did not go far enough.
+    They observe that even without a section 120 notice the tribunal should
+    be free to consider any matter -
+       "... including a matter arising after the decision which is relevant
+       to the substance of the decision regardless of whether a one-stop
+       notice has been served. The 'substance of the decision' is not the
+       decision maker's reasoned response to the particular application or
+       factual situation that was before it but is one of the immigration
+       decisions enumerated in section 82 and a 'matter' includes anything
+       capable of supporting a fresh application to the decision maker..."
+    Whether or not such an extension of the majority's reasoning can be
+    supported, that passage indicates that the broader approach in itself
+    is not controversial.
+    44 In the end, although the arguments are finely balanced, I prefer the
+    approach of the majority in AS . Like Sullivan LJ, I find a broad
+    approach more consistent with the "coherence" of this part of the Act.
+    He noted that the standard form of appeal, echoing the effect of the
+    section 120 notice, urged appellants to raise any additional ground at
+    that stage, on pain of not being able to do so later, and observed:
+       "...it seems to me that appellants would have good reason to
+       question the coherence of the statutory scheme if they were then to
+       be told by the AIT that it had no jurisdiction to consider the
+       additional ground that they had been ordered by both the Secretary
+       of State and the AIT to put forward." (para 99)
+
+  55. The observations of Lord Carnwath JSC are, as Lord Mance and the other
+      JJSC observed at [62] obiter, but  they  also  favoured  the  majority
+      view, adding at [65]:
+
+
+
+
+         65.  The majority approach in AS does not mean that  section  85(2)
+         enables an appellant, who has sought leave to remain, to go outside
+         the  scope  of  a  leave  to  remain  application  by   adding   or
+         substituting an appeal under a different  head  of  section  82(2),
+         e.g. by asserting a wrongful refusal of entry  clearance  or  of  a
+         certificate of entitlement: see sections 82(2)(b) or (c)). To  that
+         extent, it seems to me that the majority approach is  not  open  to
+         the criticism that it amounts to re-reading section 85(2) as if  it
+         used the words "against a decision of  a  kind  listed  in  section
+         82(2)" or omitted the words "against the decision appealed against"
+         altogether.
+
+
+
+  56. We respectfully agree and would add that there is  nothing  either  in
+      this decision or, for that matter, the decision of the Court of Appeal
+      in Patel (reported as Patel v SSHD [2012] EWCA Civ  741)  which  casts
+      doubt on the decision of the Court of Appeal in Lamichhane.
+
+
+
+  57. The primary submission with respect to section 85 (4), developed by Mr
+      Biggs but relied upon by all the claimants, is that in an appeal under
+      regulation 26 of the EEA Regulations, section 85 (4) of the  2002  Act
+      is applicable, and thus entitles them to raise human rights arguments.
+      Mr Biggs relies on the quotation from Macdonald's  Immigration  Law  &
+      Practice set out in the quotation of Lord Carnwath's opinion  set  out
+      above as authority for the  proposition  that  in  these  appeals  the
+      "substance of the decision" which has to be considered "is one of  the
+      immigration decisions enumerated in section 82",  and  that  this,  by
+      operation of Schedule 1 of the EEA Regulation includes a  decision  in
+      respect of a residence document.
+
+
+
+  58. That argument is, we consider flawed.  Schedule 1 applies the relevant
+      sections of the 2002 Act  as  if  the  decision  were  an  immigration
+      decision under section 82 (1) of the 2002 Act;  it  does  not,  as  we
+      noted above, make it such a decision, nor do we discern either in  the
+      case law to which we have been  referred  or  in  the  scheme  of  the
+      legislation, any reason to take that approach. On the contrary;  there
+      is a clear policy of keeping decisions in respect  of  EU  law  (other
+      than in cases of enforcement) outside the scheme of the 1971 Act.
+
+
+
+  59. Mr Biggs seeks to rely on AS in support of his argument sat [2]  where
+      Arden LJ said:
+
+
+
+         We are concerned with grounds other than human  rights  grounds  or
+         grounds for seeking asylum. It is accepted that they can be  raised
+         in any event.
+
+
+
+  60. This does not, however, assist his submissions. The appeal in AS arose
+      from  decisions  to  refuse  leave  to  remain.  Those  were   clearly
+      immigration decisions within section 82 (1); both appellants had  been
+      served with notices under section 120 of the 2002 Act.  The  substance
+      of the decision was inevitably a refusal of leave to remain.
+
+
+
+
+  61. That is not to say that section 85 (4) has no effect in an EEA appeal.
+      It permits a Tribunal to take into account evidence that an  appellant
+      is entitled to a residence card on a basis other than  that  on  which
+      the application was made or another type of card. For example,  if  by
+      the time of an appeal, an appellant asserting a right of residence has
+      accumulated five years' lawful residence and is  thus  entitled  to  a
+      document as confirmation of permanent residence; a  student  may  have
+      taken up employment; the EEA spouse  may  have  divorced  the  non-EEA
+      national appellant. The underlying substance - a  right  of  residence
+      under EU law - remains the same, but it  arises  through  a  different
+      route or routes.
+
+
+
+  62. Neither in Patel in the Court of Appeal, or in the Supreme  Court  nor
+      in Lamichhane, AS, or JM (Liberia) had the appellants initially sought
+      confirmation of rights under EU law. The analysis in the cases is thus
+      inextricably linked with the concept of leave  under  the  Immigration
+      Acts (see for example the discussion regarding section 3C (4)  of  the
+      1971 Act in AS) which, for the  reasons  set  out  above  is  entirely
+      distinct from a decision to issue a residence card.
+
+
+
+  63. A person asserting rights under EU law is not in the same position  as
+      a person seeking leave to remain, nor is  he  in  the  position  of  a
+      person refused leave if confirmation of the right is denied.  Many  of
+      the difficulties faced  by  an  individual  in  the  position  of  the
+      appellant in JM (Liberia) do not apply here. We are not satisfied that
+      an EEA national who had not, by definition, required leave  to  enter,
+      could commit an offence under section 24 of the Immigration Act  1971.
+      Further, the claimants here did not have leave to remain and would not
+      be in worse a position  than  before  the  decision.   There  is  also
+      nothing in the  legislation  which  prevents  an  EEA  national  or  a
+      dependant  thereof  from  applying  for  leave  to  remain  under  the
+      Immigration Rules at any stage either before applying for a  residence
+      document, contemporaneously with it, or subsequently.  Section  3C  of
+      the 1971 Act simply does not apply when what is under consideration is
+      an application for a residence document.
+
+
+
+  64. Further, we note that in Patel in the Court of Appeal  Stanley  Burton
+      LJ observed [53]-[54]:
+      53 Fourthly, I consider that the court  in  Mirza  was  over-impressed
+      with the argument  that  the  Secretary  of  State  should  deal  very
+      promptly with the question of a removal direction, as a  person  whose
+      leave to remain has expired will be committing a criminal  offence  by
+      remaining in the UK. Where a person  makes  an  extension  application
+      after his or her leave to remain has expired, section 3C of  the  1971
+      Act would not apply, so that such a person commits a criminal  offence
+      notwithstanding the  fact  that  he  or  she  has  made  an  extension
+      application. Thus, many people to whom  the  reasoning  in  Mirza  and
+      Sapkota would apply would be in breach of  the  criminal  law  anyway.
+      Further, again applying the reasoning in  those  two  cases,  in  many
+      instances where the decision whether to make a removal direction could
+      be made after the refusal of the  extension  application,  the  person
+      concerned will be committing a crime, because the effect of section 3C
+      of the 1971 Act will either not apply (as  there  will  have  been  no
+      appeal), or the time for  appealing  will  have  expired,  before  the
+      removal direction will have been given.
+      54 In any event, the disadvantage to a person of  having  his  or  her
+      remaining in the UK being criminalised can easily be overstated.  Most
+      obviously, at least in many cases (but, I  accept,  not  in  all)  the
+      problem can be rectified by the person concerned  voluntarily  leaving
+      the UK. Further, the mere fact that a person is illegally  in  the  UK
+      does not prevent him or her exercising any rights of appeal against  a
+      refusal of an  extension  application  or  the  making  of  a  removal
+      direction.
+
+  65. In the appeal against refusal of  residence  documents  to  the  Upper
+      Tribunal in Ahmed (Amos; Zambrano;  reg  15A  (3)(c)  2006  EEA  Regs)
+      [2013] UKUT 00089 (IAC) which went on appeal to the Court of Appeal in
+      both NA (Pakistan)  v  SSHD  [2014]  EWCA  Civ  995   and  SSHD  v  NA
+      (Pakistan)  [2015] EWCA Civ 140 it is evident that no issue was  taken
+      by the Court of Appeal as to the jurisdiction to consider human rights
+      arguments. The issues before it, and the primary basis  on  which  the
+      appeal was allowed in the Upper Tribunal, relates to EU  law  and  the
+      Court of Appeal made a  preliminary  reference  to  the  ECJ.  In  the
+      circumstances, we do not consider that this decision is authority  for
+      the proposition that the principles in JM  (Liberia)  apply  to  these
+      appeals.
+
+
+
+  66. As noted above, we received written submissions on the decision of the
+      Court of Appeal in FK (Kenya)  [2010]  EWCA  Civ  1302.   We  do  not,
+      however, consider  that  it  is  of  much  assistance.   As  Mr  Biggs
+      submitted, it appears that JM (Liberia) was not cited to the Court  of
+      Appeal, and the court  did  not  specifically  address  the  issue  of
+      jurisdiction. While Sullivan LJ appears to doubt whether the  Tribunal
+      should have considered the impact of a future removal, his  views  are
+      obiter.
+
+
+
+  67. In all of these appeals, the application made was, in substance,  that
+      the claimant had a right  of  residence  under  EU  law  and  was,  in
+      consequence, entitled to a residence card  as  confirmation  of  this.
+      They now wish to advance an entirely new case: that they are  entitled
+      to stay on the basis that any removal of them  would  be  contrary  to
+      their rights pursuant to article 8 of  the  Human  Rights  Convention.
+      That they could never as a result of an appeal on that  ground  obtain
+      the residence card they initially sought cannot be ignored.  There  is
+      fundamental difference between asserting a right to  remain  under  EU
+      law (and thus not requiring leave  under  the  Immigration  Acts)  and
+      asserting an entitlement to leave to remain because one is subject  to
+      that requirement. It is, in reality, entirely inconsistent.
+
+
+
+  68. As Mr Biggs and the other claimants' representatives submitted,  these
+      appeals concern derivative rights.  Whether  the  rights  in  question
+      accrue  to  the  non  EEA  nationals  requires  consideration   of   a
+      hypothetical removal of that individual.  But care  has  to  be  taken
+      analysing how the right of residence arises. In Sanneh v  SSWP  [2015]
+      EWA Civ 45 the Court held that the right accrues automatically; it  is
+      not dependant on  a  decision  by  the  Secretary  of  State  (see  in
+      particular Elias LJ  at  [170]).   The  decision  being  made  by  the
+      Secretary of State is therefore still whether to issue  documentation;
+      it is not whether to remove the parent.
+
+
+
+  69. There is, therefore, no real distinction to be made here  between  the
+      issue of documentation as confirmation of a derivative right and as  a
+      right under EU  law.   There  has  been  no  decision  to  remove  the
+      applicant, nor is there any indication that this will occur.
+
+
+
+  70. We do not, therefore, consider that  JM  (Liberia)  applies  to  these
+      appeals. We remind ourselves of what was said in Patel  at  [62]  (see
+      above). An application made for a residence document  as  confirmation
+      of an existing right and an application based on a claim that  removal
+      would be contrary to the United Kingdom's obligations under the  Human
+      Rights Convention are entirely different. To permit an appellant to do
+      so would be precisely what the Supreme Court says section 85 (2)  does
+      not permit - the raising of an entirely different head of  application
+      outside the scope of the initial application.
+
+
+
+  71. It is evident that, prima facie, the parent of a British Citizen child
+      who is the sole carer may also seek leave to remain under Appendix  FM
+      of the Immigration Rules. There is, we consider,  nothing  to  prevent
+      such an application being made contemporaneously with  an  application
+      for a residence card.
+
+
+
+  72. While we note the submission that a requirement to make an application
+      and pay a fee is disproportionate,  this  is  without  substance.  The
+      Secretary of State is unarguably entitled to charge  for  applications
+      for leave to remain under the Immigration Rules, and if  an  applicant
+      is destitute, he can apply for a fee waiver. There is  no  element  of
+      discrimination in such a case, as what is  being  asserted  is  not  a
+      right under EU law, but under domestic law; no submission was made  to
+      us that there is any relevant "social advantage"  in  play  such  that
+      Regulation 492/2011 is engaged.
+
+
+
+  73. We have considered whether the effect of paragraph GEN 1.9 of Appendix
+      FM would permit the making of a human rights claim within  an  appeal.
+      We consider for the reasons given above that  it  cannot.  The  issues
+      here are the jurisdiction of the Tribunal as constituted  by  statute;
+      provisions of the Rules cannot alter that.
+
+
+
+  74. Drawing these observations together, we conclude that not only is  the
+      claimants' case possible only on a contorted reading of the  statutory
+      provisions and the decision letters, there is no need for it to be. If
+      they believe that they are entitled under EU law  to  confirmation  of
+      that, the EEA appeal allows them  to  say  so.  If  they  are  not  so
+      entitled, they are no different from anyone else in the same  position
+      - an overstayer who can make a human rights application which  may  or
+      may not be successful. The making of an unsuccessful  EEA  application
+      cannot rationally put them in a different position. The refusal of the
+      application  leaves  them  in  the  same  position   as   before   the
+      application, that is, an overstayer.  The removal, if  it  occurs,  is
+      not in consequence of the decision: it is as a result of overstaying.
+
+75. For these reasons, we conclude that, where no notice under section  120
+    of the 2002 Act has been served and where no EEA decision to remove has
+    been made, an appellant cannot in an appeal under the  EEA  Regulations
+    bring a Human Rights challenge to removal.
+
+  76. Our conclusions with respect to the individual appeals are set out  in
+      Schedule 2.
+
+
+
+
+
+
+SUMMARY OF CONCLUSIONS
+
+   1.  The  decision  of  the  First-tier  Tribunal  in  the  appeal  of  Mr
+      Amirteymour did not involve the making of  an  error  of  law  and  we
+      uphold it.
+
+
+
+
+   2. The decision of the First-tier Tribunal in the appeals  of  Ms  Tijana
+      and Ms Jamiu did not involve the making of an  error  of  law  and  we
+      uphold them.
+
+
+
+   3. The decision of the First-tier Tribunal in the appeal of Ms Izvira did
+      involve the making of an error of law and we set it aside.  We  remake
+      the appeal by dismissing it on all grounds.
+
+
+
+   4. The decision of the First-tier Tribunal in the appeals of  HF  and  AN
+      did involve the making of an error of law and we set them  aside.   We
+      remake the appeals by dismissing them on all grounds.
+
+
+
+
+    Signed                              Date:    28 July 2015
+
+
+
+
+
+
+
+    Upper Tribunal Judge Rintoul
+
+                Schedule 1 - Relevant legislative provisions
+
+
+
+ 1. Section 3 provides:
+
+
+
+       3.- General provisions for regulation and control.
+
+       (1) Except as otherwise provided by or under this Act, where a person
+       is not a British citizen:
+
+         (a) he shall not enter the United Kingdom unless given leave to  do
+         so in accordance with the provisions of, or made under, this Act;
+
+         (b) he may be given leave to enter the  United  Kingdom  (or,  when
+         already there, leave to remain in the United Kingdom) either for  a
+         limited or for an indefinite period;
+
+ 2. This is subject to the provisions of section 7 of the  Immigration  Act
+    1988:
+
+       7.- Persons exercising  Community  rights  and  nationals  of  member
+       States.
+
+       (1) A person shall not under the principal Act require leave to enter
+       or remain in the United Kingdom in any case in which he  is  entitled
+       to do so by virtue of an enforceable EU right  or  of  any  provision
+       made under section 2(2) of the European Communities Act 1972.
+
+       (2) The Secretary of State may by order made by statutory  instrument
+       give leave to enter the United Kingdom for a limited  period  to  any
+       class of persons who are nationals of member States but who  are  not
+       entitled to enter the United Kingdom as mentioned in  subsection  (1)
+       above; and any such order may give leave subject to  such  conditions
+       as may be imposed by the order.
+
+       (3) References in the principal Act to limited  leave  shall  include
+       references to leave given by an order under subsection (2) above  and
+       a person having leave by virtue of such an order shall be treated  as
+       having been given  that  leave  by  a  notice  given  to  him  by  an
+       immigration officer within the period specified in paragraph 6(1) of
+       Schedule 2 to that Act.
+
+ 3. These provisions are mirrored in Schedule  2  of  the  EEA  Regulations
+    which are made pursuant to section 109 of the 2002 Act.
+
+
+
+    1.- Leave under the 1971 Act
+
+    (1) In accordance with section 7 of the Immigration Act 1988, a person
+    who is admitted to or acquires a right to reside in the United  Kingdom
+    under these Regulations shall not require leave to remain in the United
+    Kingdom under the 1971 Act during any period in which he has a right to
+    reside under these Regulations but such a person shall require leave to
+    remain under the 1971 Act during any period in which he does  not  have
+    such a right.
+
+    (2) Subject to sub-paragraph (3), where a person has leave to enter or
+    remain under the 1971 Act which  is  subject  to  conditions  and  that
+    person also has a  right  to  reside  under  these  Regulations,  those
+    conditions shall not have effect for as long as  the  person  has  that
+    right to reside.
+
+    (3) Where the person mentioned in sub-paragraph  (2)  is  an  accession
+    State national subject to worker authorisation working  in  the  United
+    Kingdom during the accession period and the document endorsed  to  show
+    that  the  person  has  leave  is  an  accession  worker  authorisation
+    document, any conditions to which that leave is subject restricting his
+    employment shall continue to apply.
+
+
+
+
+   4. Section 82 of the 2002 Act provides:
+
+    82 Right of appeal: general
+
+    (1) Where an immigration decision is made in respect of a person he may
+    appeal [to the Tribunal] 1 .
+
+    (2) In this Part "immigration decision" means-
+
+    (a) refusal of leave to enter the United Kingdom,
+
+    (b) refusal of entry clearance,
+
+    (c) refusal of a certificate of entitlement under section 10 of  this
+    Act,
+
+    (d) refusal to vary a person's leave to enter or remain in  the  United
+    Kingdom if the result of the refusal is that the person has no leave to
+    enter or remain,
+
+    (e) variation of a person's leave to enter  or  remain  in  the  United
+    Kingdom if when the variation takes effect the person has no  leave  to
+    enter or remain,
+
+    (f) revocation under section 76 of this Act of  indefinite  leave  to
+    enter or remain in the United Kingdom,
+
+    (g) a decision that a person is to be removed from the  United  Kingdom
+    by way of directions under  section  10(1)(a),  (b),  (ba) or (c) of
+    the Immigration and  Asylum  Act  1999  (c.  33) (removal  of  person
+    unlawfully in United Kingdom),
+
+   5.  Section 84 of the 2002 Act provides;
+
+    84 Grounds of appeal
+
+    (1) An appeal under section 82(1) against an immigration decision must
+    be brought on one or more of the following grounds-
+
+        (a) that the decision is not in accordance with immigration rules;
+
+        (b) that the decision is unlawful by  virtue  of  [...] 1 [Article
+        20A of the Race Relations (Northern Ireland) Order 1997] 2 [ or by
+        virtue of section 29 of the Equality Act 2010 (discrimination in the
+        exercise of public functions etc) so far  as  relating  to  race  as
+        defined by section 9(1) of that Act] 3 ;
+
+        (c) that the decision is unlawful  under section  6 of  the Human
+        Rights Act 1998 (c. 42) (public authority not to  act  contrary  to
+        Human Rights Convention) as being incompatible with the  appellant's
+        Convention rights;
+
+        (d) that the appellant is an EEA national or a member of the  family
+        of an EEA national and the decision breaches the appellant's  rights
+        under the Community Treaties in respect of entry to or residence  in
+        the United Kingdom;
+
+        (e) that the decision is otherwise not in accordance with the law;
+
+        (f) that the  person  taking  the  decision  should  have  exercised
+        differently a discretion conferred by immigration rules;
+
+        (g) that removal  of  the  appellant  from  the  United  Kingdom  in
+        consequence of the immigration  decision  would  breach  the  United
+        Kingdom's obligations under  the  Refugee  Convention  or  would  be
+        unlawful under section 6 of the Human Rights  Act  1998 as  being
+        incompatible with the appellant's Convention rights.
+
+    (2) In subsection (1)(d) "EEA national" means a national of  a  State
+    which is a contracting party to the Agreement on the European  Economic
+    Area signed at Oporto on 2nd May 1992 (as it has effect  from  time  to
+    time).
+
+    85 Matters to be considered
+
+    (1) An appeal under section 82(1) against a decision shall be treated
+    by the Tribunal as including an appeal against any decision in respect
+    of which the appellant has a right of appeal under section 82(1).
+
+    (2) If an appellant under section 82(1) makes a statement under section
+    120 , the Tribunal shall consider any matter raised in the  statement
+    which constitutes a ground of  appeal  of  a  kind  listed  in section
+    84(1) against the decision appealed against.
+
+    (3)  Subsection  (2)  applies  to  a  statement  made   under section
+    120 whether the statement was made before  or  after  the  appeal  was
+    commenced.
+
+    (4) On an appeal  under  section  82(1), 83(2) or 83A(2) against  a
+    decision the Tribunal may consider evidence  about  any  matter  which
+    it thinks relevant to the substance of the decision, including evidence
+    which concerns a matter arising after the date of the decision.
+
+    (5) But subsection (4) is subject to the exceptions in section 85A.
+
+   6. The EEA Regulations provide in respect of appeal rights as follows:
+
+    26.- Appeal rights
+
+    (1) Subject to the following paragraphs of this  regulation,  a  person
+    may appeal under these Regulations against an EEA decision.
+
+    (2) If a person claims to be an EEA national, he may not  appeal  under
+    these Regulations unless he produces a valid national identity card  or
+    passport issued by an EEA State.
+
+    (2A) If a person claims to be in a durable  relationship  with  an  EEA
+    national he may not appeal under these Regulations unless he produces-
+
+         (a) a passport; and
+
+         (b) either-
+
+         (i) an EEA family permit; or
+
+         (ii) sufficient evidence to satisfy the Secretary of State that  he
+         is in a relationship with that EEA national.
+
+    (3) If a person [ to whom paragraph (2) does not apply] 3 claims to be
+    a family member who has retained the right of residence or  the  family
+    member or relative of an EEA national he may  not  appeal  under  these
+    Regulations unless he produces-
+
+    (a) a passport; and
+
+    (b) either-
+
+         (i) an EEA family permit;
+
+         (ia) a qualifying EEA State residence card;
+
+         (ii) proof that he is the family  member  or  relative  of  an  EEA
+    national; or
+
+    (iii) in the case of a person claiming to be a family  member  who  has
+    retained the right of residence, proof that he was a family  member  of
+    the relevant person.
+
+    (3A) If a person claims to be a person with a derivative right of entry
+    or residence he may not  appeal  under  these  Regulations  unless  he
+    produces a valid national identity card issued by an  EEA  State  or  a
+    passport, and either-
+
+         (a) an EEA family permit; or
+
+         (b) proof that-
+
+            (i) where the person claims to  have  [a  derivative  right  of
+            entry or residence as a result of] 8regulation 15A(2), he is a
+            direct relative or guardian of an EEA national who is under the
+            age of 18;
+
+            (ii) where the person claims to have  [a  derivative  right  of
+            entry or residence as a result of] 8regulation 15A(3),  he  is
+            the child of an EEA national;
+
+            (iii) where the person claims to have [a  derivative  right  of
+            entry or residence as a result of] 8regulation 15A(4), he is a
+            direct relative or guardian of the child of an EEA national;
+
+            (iv) where the person claims to have  [a  derivative  right  of
+            entry or residence as a result of] 8regulation 15A(5) , he is
+            under the age of 18 and is a dependant of a  person  satisfying
+            the criteria in [(i) or (iii);] 9
+
+            (v) where the person claims to have a derivative right of entry
+            or residence as a result of regulation 15A(4A), he is a direct
+            relative or guardian of a British citizen.
+
+    (4) A person may not bring an  appeal  under  these  Regulations  on  a
+    ground certified under paragraph (5) or rely on such  a  ground  in  an
+    appeal brought under these Regulations.
+
+    (5) The Secretary of State or an  immigration  officer  may  certify  a
+    ground for the purposes of paragraph (4) if it has been considered in a
+    previous appeal  brought  under  these  Regulations  or  under section
+    82(1) of the 2002 Act 11.
+
+    (6) Except where an appeal lies to  the  Commission,  an  appeal  under
+    these Regulations lies to the [First-tier Tribunal] 12 .
+
+    (7)  The  provisions  of  or  made  under  the  2002  Act  referred  to
+    in Schedule 1 shall have effect for the purposes of an  appeal  under
+    these Regulations to the [First-tier Tribunal] 12 in accordance  with
+    that Schedule.
+
+   7. Schedule 1 of the EEA Regulations provided, at the relevant  time,  as
+      follows:
+
+       The following provisions of, or made under, the 2002 Act have effect
+       in relation to an appeal under these Regulations to the First-tier
+       Tribunal as if it were an appeal against an immigration decision
+       under section 82(1) of that Act:
+       section 84(1), except paragraphs (a) and (f);
+       sections 85 to 87;
+       section 105 and any regulations made under that section; and
+       section 106 and any rules made under that section
+
+
+
+
+   8. Section 120 of the 2002 Act provides:
+
+    120 Requirement to state additional grounds for application
+
+    (1) This section applies to a person if-
+
+         (a) he has made an application to enter or  remain  in  the  United
+    Kingdom, or
+
+         (b) an immigration decision within the meaning of section  82 has
+         been taken or may be taken in respect of him.
+
+    (2) The Secretary of State or an immigration officer may by  notice  in
+    writing require the person to state-
+
+         (a) his reasons for wishing  to  enter  or  remain  in  the  United
+    Kingdom,
+
+         (b) any grounds on which he should be permitted to enter or  remain
+         in the United Kingdom, and
+
+         (c) any grounds on which he should not be removed from or  required
+         to leave the United Kingdom.
+
+    (3) A statement under subsection (2) need not repeat reasons or grounds
+    set out in-
+
+         (a) the application mentioned in subsection (1)(a), or
+
+         (b) an application to which the immigration decision  mentioned  in
+         subsection (1)(b) relates.
+
+
+
+          Schedule 2 - Decisions relating to the individual appeals
+
+
+
+Amirteymour
+
+
+
+   1. Mr Amirteymour is a citizen of the United States of America born on  8
+      November 1956.  He and his former wife are originally from Iran  where
+      they married in 2003; their daughter was born in the United Kingdom on
+      11 October 2005.  The appellant has visited the UK to see his daughter
+      twice a year since 2005, entering as a visitor. It appears that he has
+      been living her permanently since 2013 albeit  without  leave  in  any
+      capacity. He sees his daughter 2-3 times a week but she does not  live
+      with him.
+
+
+
+
+   2. On 14 August 2013, the claimant requested  a  residence  card  on  the
+      basis that he is the primary carer of his daughter who  is  a  British
+      Citizen.  That application was refused on 21  February  2014  for  the
+      reasons set out  in  a  letter  of  that  date.  In  that  letter  the
+      respondent noted that the claimant wished to rely on family or private
+      life, but advised him that he would need to make a  separate,  charged
+      application  using  the  appropriate   form.    The   refusal   letter
+      acknowledges  the  duty  imposed  by  section  55  of   the   Borders,
+      Citizenship and Immigration Act 2009 and that the duty  is  discharged
+      by acting on concerns the respondent identifies regarding the  welfare
+      of children. Finally, the refusal letter notes that the  appellant  is
+      not required to the leave the United Kingdom if he can demonstrate  he
+      has a right to reside, but that  he  ought  to  make  arrangements  to
+      leave.  No section 120 notice was served.
+
+
+
+   3. The grounds of  appeal  to  the  First-tier  Tribunal  aver  that  the
+      respondent's decision was:
+
+
+
+   a) Not in accordance with the Rules;
+
+   b) Not in accordance with the law;
+
+   c) In breach of rights conferred by the Community Treaties;
+
+   d) Unlawful under section 6 of the Human Rights Act 1998;
+
+   e) Not in the daughter's best interests which require him to  be  allowed
+      to remain; and,
+
+   f) A disproportionate interference with the claimant's article 8 rights.
+
+
+
+
+    It is also averred that a discretion under the rules should  have  been
+    exercised differently.
+
+
+
+
+   4. The appeal was heard by First-tier tribunal Judge I Ross who dismissed
+      it under the EEA Regulations and under article 8 ECHR  in  a  decision
+      promulgated on 17 November 2014 which records [6] that the  claimant's
+      counsel indicated that no claim  was  to  be  pursued  under  the  EEA
+      regulations and that the appeal would proceed  only  under  article  8
+      grounds.
+
+
+
+
+   5. Judge Ross found that:
+
+   a) the refusal to issue a residence card did not involve an  interference
+      with family life sufficiently severe to engage article 8 [13];
+
+   b) the principle established in Chikwamba SSHD [2008]  UKHL  40  did  not
+      apply to this case [19];
+
+   c) section 117B of the  2002  Act  was  not  relevant  as  there  was  no
+      suggestion that the appellant would be removed from the United Kingdom
+       [21].
+
+
+
+
+   6. The claimant sought permission to appeal to the Upper Tribunal on  the
+      grounds that Judge Ross erred:-
+
+
+
+
+   a) In concluding that the respondent's decision did not engage article  8
+      [1];
+
+   b) In not treating the child's best interests as a primary  consideration
+      [2];
+
+   c) In not adopting the correct procedure with respect to article  8  [3];
+      and,
+
+   d) In concluding that section 117B of the 2002 Act was not engaged [4].
+
+
+
+
+   7. On 15 January 2015 permission to appeal  to  the  Upper  Tribunal  was
+      granted, it being observed that it was arguable that the judge  should
+      not have considered article 8.
+
+
+
+
+   8. The grounds of appeal to the  Upper  Tribunal  do  not  challenge  the
+      findings made in respect of the EEA Regulations. We have concluded for
+      the reasons set out above that the Tribunal does not have jurisdiction
+      to consider a ground which  is  different  from  the  subject  of  the
+      decision under  appeal.  The  judge  should  not  in  this  case  have
+      considered whether the decision was contrary to the  claimant's  human
+      rights, as he had no jurisdiction so to do. It follows that any  error
+      in his consideration of article 8 and the application of section  117B
+      of the 2002 Act could not be material. On the basis we  consider  that
+      the decision of the First-tier Tribunal did not involve the making  of
+      an error of law and we uphold it.
+
+
+
+
+
+
+    Tawa Tijani & Radeeyah Olamide Jamiu
+
+
+ 1. Ms Tijani is a citizen of Nigeria who entered  the  United  Kingdom  in
+    2004 and overstayed. She is the mother of Ms Jamiu who was born  on  23
+    January 2008.  A second daughter, Roheemot Motunrayo Jamiu Grace  Koffi
+    was born on 16 June 2009 who is a French national as is her father.  Ms
+    Tijani is not and has never been married to him. There is also, it  now
+    transpires, a third child, who is  named  in  later  documents  but  in
+    respect of whom  it  appears  that  no  application  was  made  to  the
+    respondent.
+
+
+ 2. On 20 July 2012, an application was made for the claimants to be issued
+    with a residence card on the basis of the  decision  in  Zambrano;  the
+    application also raises  article  8  and  the  duties  imposed  on  the
+    respondent by section 55 of the Borders,  Citizenship  and  Immigration
+    Act 2009. That application was refused on 18 July 2013, the  respondent
+    concluding that the requirements of Regulation 15A (2) had not been met
+    as there was no evidence that neither the principal appellant  nor  her
+    EEA national daughter had sufficient funds.
+
+
+ 3. As in the other appeals before us, the refusal letters  made  it  clear
+    that consideration had been given only to the EEA Regulations; that  no
+    removal decision had yet been made; and, that if the  claimants  wished
+    to make an application for leave to remain under the Immigration Rules,
+    this would need to be made by  means  of  the  correct  form  and  upon
+    payment of the correct fees.
+
+
+ 4. An appeal was lodged on the grounds that the respondent  had  erred  in
+    concluding that there were insufficient funds; had failed  to  consider
+    whether the EEA national child would be unable to remain in the  United
+    Kingdom if the primary carer were required to  leave,  and  the  effect
+    would be to force an EEA national who cannot be required to  leave  the
+    United Kingdom to reside outside the EU.
+
+
+ 5. In the appeal before the  First-tier  Tribunal  on  30  June  2014,  Ms
+    Tijani's case was that as she  received  �920  per  month  from  rental
+    income from property left to her in Nigeria, transferred to her through
+    the bank account of a friend, Ms Oladapo-Solo and receives �300 a month
+    from her sister who lives in the USA,  that  she  did  have  sufficient
+    funds. It was also her case that she did have  in  place  comprehensive
+    sickness insurance.
+
+
+ 6. In its determination  promulgated  on  14  July  2014,  the  First-tier
+    Tribunal sets out why it was not satisfied that Ms Tijani  was  receipt
+    of the rental income claimed [9]-[11], why it was  not  satisfied  that
+    she receives money from her  sister  [12]-[13],  and  why  it  was  not
+    satisfied that there was a health insurance policy  in  placed  [14]  -
+    [17]. There was no consideration of article 8 ECHR.
+
+
+ 7. The claimants sought permission to appeal to the Upper Tribunal on  the
+    grounds that the First-tier Tribunal erred:
+
+
+      a) In finding that the insurance premiums were not paid,  contrary  to
+         the evidence;
+      b) In setting too high a standard of proof in assessing if the parties
+         were self-sufficient;
+      c) By failing to engage with the grounds of appeal and submission made
+         with  respect  to  article  8  and  section  55  of  the   Borders,
+         Citizenship and Immigration Act 2009;
+      d) Failing to consider whether, in  effect,  the  EEA  national  child
+         would be taken out of the EU.
+
+
+ 8. Permission to appeal on all grounds was granted on 7 November 2014.
+
+
+ 9. It is, to say the least, unfortunate that Mr  Mak's  skeleton  argument
+    proceeds [5] on the basis that article 8 had been raised in a   section
+    120 notice and positively states [6] that this had  been  served.  Only
+    before us did he admit that no such notice had been served. Of  further
+    concern is that the skeleton argument appears to proceed on  the  basis
+    that there were only two children, yet it is now  accepted  that  there
+    are three.
+
+
+
+  10. As we have concluded for the reasons set out above that  the  Tribunal
+      does not have jurisdiction to consider a  ground  which  is  different
+      from the subject of the decision under  appeal,  the  failure  of  the
+      First-tier Tribunal to consider this issue was incapable of  affecting
+      the outcome.
+
+
+
+  11. The other grounds are equally  without  merit.  Contrary  to  what  is
+      averred, the First-tier Tribunal sets out in adequate detail  [9]-[11]
+      why it did not accept the account given of the funds being transferred
+      to Ms Tijana, noting specifically the lack of evidence that the  funds
+      were transferred into Mrs Oladapo-Solo's account from Nigeria  and  at
+      [10] an apparent inconsistency in the Ms Tijana saying she has no bank
+      account yet there  being  cheques  deposited  in  her  name.  Further,
+      adequate and sustainable reasons were given  [12]  and  [13]  why  the
+      Tribunal did not accept that Ms Tijana was receiving �300 a month from
+      her  sister.   In  the  circumstances,  the  Tribunal  was  manifestly
+      entitled to conclude that there were insufficient funds available  and
+      thus  any  error  with  respect  to  whether  there   was   in   place
+      comprehensive sickness insurance cannot have affected the outcome.
+
+
+
+  12. It is wholly unarguable that  the  Zambrano  principle  is  applicable
+      here.  That case was concerned with children who would effectively  be
+      compelled leave the  territory  of  the  European  Union;  it  is  not
+      authority for the proposition that that there is a  derived  right  of
+      residence for the parents of children effectively compelled to live in
+      another EEA state. The EEA Regulations at reg. 15A (4A) establish that
+      in order to obtain a card as confirmation of a right of residence,  it
+      would need to be shown that the EEA national child could not reside in
+      another EEA state. There was insufficient evidence to  show  that  the
+      child could not live in the state  of  her  nationality  or  that  her
+      mother and half-siblings could not join her there, and thus it  cannot
+      be argued that the requirements of the regulations were in fact met.
+
+
+
+  13. On the basis we consider that the decision of the First-tier  Tribunal
+      did not involve the making of an error of law and we uphold it.
+
+
+
+
+
+Izvira
+
+
+
+   1. Ms Izvira is a citizen of Albania who is married to a British Citizen.
+      They have three children born in 2004, 2011 and May 2014 who are  also
+      British Citizens. The oldest has significant health needs  as  he  has
+      cerebral palsy.
+
+
+
+
+   2. The claimant entered the United Kingdom as a visitor  and  overstayed.
+      On 13 March 2012 she applied for a residence card as  confirmation  of
+      her right of residence as the  primary  carer  of  a  British  Citizen
+      child, the son born in 2011. That application pursuant  to  regulation
+      15A (4A) was refused on the basis that the  appellant  had  not  shown
+      that she was a primary carer as she had not  shown  that  the  child's
+      father, Altin Izvira, was not in a position to care  for  the  British
+      Citizen child. The refusal letter  records  that  the  respondent  has
+      considered her duties under section 55 but advised the appellant  that
+      She is, however, warned that she should now make arrangements to leave
+      and that if she does not do so, her departure may be enforced. She  is
+      also again informed that she can make an application to UKBA and  that
+      her entitlement to remain in the UK has been assessed  solely  on  the
+      basis of the EEA Regulations.
+
+
+
+
+   3. The appeal against that decision was dismissed by First-tier  Tribunal
+      Judge Beach in  a  determination  promulgated  on  24  December  2013.
+      Permission to appeal to the Upper Tribunal was granted.  In a decision
+      dated 14 April 2014, the Upper Tribunal held that the  decision  under
+      the EEA regulations did not involve the making of an error of law  but
+      that the First-tier Tribunal's consideration of article 8 had involved
+      the making of an error of law,  and  remitted  it  to  the  First-tier
+      Tribunal to make a fresh decision on the article 8 issue only.
+
+
+
+   4. On 11 July 2014, the First-tier Tribunal allowed the appeal on article
+      8 grounds, concluding amongst other things that it  would  be  in  the
+      best interests of all the British Citizen children that  their  mother
+      and father continue to live in the United Kingdom with them, and  that
+      the interference that would be caused to the  claimant's  family  life
+      would be disproportionate.
+
+
+
+
+   5. The respondent sought permission to appeal to the  Upper  Tribunal  on
+      the basis that the FtTJ had attached undue weight to the interests  of
+      the children; had erred by  misapplying  the  decisions  in  Chikwamba
+      [2008] UKHL 40 and Edgehill [2014] EWCA Civ 402; and,  in  failing  to
+      direct himself in line with Gulshan (article 8 - new rules  -  Correct
+      approach) Pakistan [2013] EWCA Civ 1192.   Those  grounds  were  later
+      amended to include the ground that the First-tier Tribunal had not had
+      jurisdiction to consider Human Rights. There is no cross-appeal
+
+
+
+   6. Given our conclusion that the Tribunal does not have  jurisdiction  to
+      consider a ground which is different from the subject of the  decision
+      under appeal, the First-tier Tribunal  erred  in  law  in  considering
+      whether the decision was contrary to the claimant's human  rights,  as
+      it had no jurisdiction so to do.  It  follows  that  in  allowing  the
+      appeal on article 8 grounds, the First-tier  Tribunal's  decision  did
+      involve the making of an error of law and we set it aside.
+
+
+
+   7. As the only basis on  which  it  was  pursued  before  the  First-tier
+      Tribunal  was  on  the  basis  that  the  decision   amounted   to   a
+      disproportionate  interference  with  the  appellant's  rights   under
+      article 8 of the Human Rights Convention, and there is no jurisdiction
+      to consider that issue, it follows that the appeal must be dismissed.
+
+
+
+
+
+
+HF & AN
+
+ 1. These claimants are  mother  and  daughter.  They  entered  the  United
+    Kingdom on 3 March 2009 and 11 June 2010 respectively to join  the  SG,
+    an EEA national as his spouse and dependent child. On 23 November  2010
+    they were granted Residence Cards valid for 5 years on that  basis.  On
+    18 October 2012 Ms F left her husband due to domestic  violence;  their
+    marriage was dissolved on 8 January 2013. Ms F has, since  then,  given
+    birth to another child, F; Mr G is not the father.
+
+ 2. On 22 March 2013, the claimants applied for permanent  residence  cards
+    as confirmation  of  Ms  F  and  her  daughter's  right  to  remain  in
+    accordance  with  regulation  10  of   the   EEA   Regulations.   Those
+    applications were refused as the respondent was not satisfied that Ms F
+    met the requirements of either regulation 10 (5) or regulation 10  (6).
+    The respondent also revoked their Residence Cards which had been issued
+    in November 2010 on the basis that Ms F and her daughter no longer  met
+    the requirements of the EEA Regulations.
+
+ 3. As with in the other appeals before us, the  refusal  letters  made  it
+    clear that consideration had been given only to  the  EEA  Regulations;
+    that no removal decision had yet been made; and, that if the  claimants
+    wished to make an application for leave to remain under the Immigration
+    Rules, this would need to be made by means of the correct form and upon
+    payment of the correct fees.
+
+ 4. On appeal, in a determination promulgated on 10 April 2014, the  First-
+    tier Tribunal found that Ms F did meet the requirements  of  regulation
+    10 (5) but, as she had conceded [21] that she had  not  been  employed,
+    self-employed or self-sufficient since her divorce  became  final,  she
+    did not meet the requirements of regulation 10 (6) and so did not  meet
+    the requirements of the  EEA  Regulations.  The  appeal  was,  however,
+    allowed pursuant to article 8.
+
+ 5. The respondent sought permission to appeal  on  the  grounds  that,  in
+    allowing the appeal pursuant to article  8,  the  judge  had  erred  in
+    failing first to consider whether the requirements of  appendix  FM  of
+    the Immigration Rules had been met, and further, in failing properly to
+    explain why the  cases  were  exceptional.  Permission  to  appeal  was
+    granted on 19 May 2014 and the matter then came before  Upper  Tribunal
+    Judge Hanson who permitted the  respondent  to  amend  her  grounds  to
+    include a challenge asserting that the  First-tier  Tribunal  does  not
+    have the jurisdiction to entertain  an  article  8  application  in  an
+    appeal against an EEA decision.  There is no cross-appeal.
+
+
+
+   6. Given our conclusion  the  Tribunal  does  not  have  jurisdiction  to
+      consider a ground which is different from the subject of the  decision
+      under appeal, the First-tier Tribunal  erred  in  law  in  considering
+      whether the decision was contrary to the appellant's human rights,  as
+      it had no jurisdiction so to do.  It  follows  that  in  allowing  the
+      appeal on article 8 grounds, the First-tier  Tribunal's  decision  did
+      involve the making of an error of law and we set it aside.
+
+
+
+   7. As the only basis on  which  it  was  pursued  before  the  First-tier
+      Tribunal  was  on  the  basis  that  the  decision   amounted   to   a
+      disproportionate  interference  with  the  appellant's  rights   under
+      article 8 of the Human Rights Convention, and there is no jurisdiction
+      to consider that issue, it follows that we must remake the  appeal  by
+      dismissing it.
+
+
+
+   8. We maintain the anonymity order made by the First-tier Tribunal.
+
+
+
+
+
+
+
+
+
+
+
+

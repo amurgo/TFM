@@ -1,0 +1,506 @@
+
+
+                                    [pic]
+
+Upper Tribunal
+            (Immigration and Asylum Chamber)    Appeal Number: HU/01503/2019
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Decision Under Rule 34 Without a     |      Decision & Reasons Promulgated |
+|hearing                              |                                     |
+|On 28th September 2020               |On 05th October 2020                 |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE HANSON
+
+
+                                   Between
+
+                            AHMED CHAYOWA LESHEVE
+                       (anonymity direction not made)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+                      ERROR OF LAW FINDING AND REASONS
+
+
+     1. The appellant appeals with  permission  a  decision  of  First-tier
+        Tribunal Judge Baker ('the Judge') promulgated on 24  January  2020
+        in which the Judge dismissed the appellant's human rights appeal.
+     2. The appellant  was  granted  permission  to  appeal  by  First-tier
+        Tribunal Judge Keane on 23 April 2020, the operative  part  of  the
+        grant being in the following terms:
+
+             "Notwithstanding their length the grounds  amounted  in  large
+             part no more than a disagreement  with  the  findings  of  the
+             judge, an attempt to reargue  the  appeal  and  they  did  not
+             disclose an arguable error or errors of law but for which  the
+             outcome of the  appeal  might  have  been  different.  It  was
+             contended (with some force) that in preparing the decision  as
+             long as four months after the date of the  hearing  the  judge
+             delayed inordinately. The author of the grounds contended that
+             the delay rendered findings  arrived  at  in  respect  of  the
+             appellant's credibility unsafe. Such however, was not  a  true
+             characterisation of concerns advanced  by  the  judge  in  the
+             decision.  The  author  of  the  grounds  did  not  explicitly
+             identify a claim made by or on behalf of the  appellant  which
+             Judge rejected. Rather, the judge chose  not  to  accord  that
+             weight to expert medical evidence in line with the appellant's
+             counsel's submissions. Any procedural impropriety  constituted
+             by the judges delay even if an arguable error of law  did  not
+             amount to a material error of law. The judge however, arguably
+             did not  have  regard  to  all  relevant  considerations  when
+             considering  the  weight  to  be  accorded  the  private  life
+             established by the appellant during his period of residence in
+             the United Kingdom. It was common ground between  the  parties
+             to the appeal that the respondent  only  made  a  decision  in
+             respect of the appellant's most recent application  for  leave
+             to remain dated 16 January 2017 on  8  January  2019.  Such  a
+             delay,  amounting  to  very  nearly  2  years,  was   arguably
+             inordinate. In assessing the  appellant's  private  life,  the
+             judge arguably should have taken into account such a period of
+             delay as reinforcing the appellant private  life.  Nowhere  in
+             the decision did the judge to do  so.  It  was  common  ground
+             between the parties to the appeal that the  appellant  arrived
+             in the United Kingdom on 7 April 2008 and his leave to  remain
+             in the United Kingdom expired on or shortly  after  24  August
+             2010. The appellant had resided in the United  Kingdom  for  a
+             period  greater  than  two  years.  At  paragraph  36  of  the
+             decision, however, judge stated that, "Development of  private
+             life: has developed his private life in the UK  at  all  times
+             whilst his status was precarious". Such  a  finding  that  the
+             appellant had developed his private life in the United Kingdom
+             at all times [my underlining] while his status was  precarious
+             could not be reconciled with the agreed  immigration  history.
+             Rather, the appellant had  acquired  a  period  of  two  years
+             lawful residence and there was the additional  period  in  the
+             region of two years in which (through no fault of his own  but
+             attributable to the neglect of the respondent) he had to await
+             a decision in respect of  his  most  recent  application.  The
+             judge  arguably  did  not  take  into  account  all   relevant
+             considerations when assessing the  appellant's  private  life.
+             The application for permission to appeal is granted."
+
+     3. Following the grant directions were sent to the parties  indicating
+        a provisional view that the question of whether the Judge had erred
+        in law in a manner material to the decision to dismiss  the  appeal
+        could be determined without a hearing. The parties were invited  to
+        express their views in relation to such a proposal and  to  provide
+        any further informational they sought to rely  upon.  Both  parties
+        have responded. At [18] of his submissions dated 25 August 2020 the
+        appellant writes:
+
+             "18.     I would like there to be  a  hearing  to  decide  the
+                  error of law issues in my case. I believe this is relevant
+                  as the Home Officers miscomputed my  case  and  the  First
+                  Tier Immigration Judge  has  further  failed  to  properly
+                  assess it."
+
+     4. The respondent's position, set out in the response dated 18  August
+        2020, is that there is no need to have a hearing  in  any  form  to
+        decide the error of law issue.
+     5. The  Overriding  Objective  is  contained  in  the  Upper  Tribunal
+        Procedure Rules. Rule  2(2)  explains  that  dealing  with  a  case
+         fairly  and  justly  includes:  dealing with  it   in   ways  that
+        are  proportionate   to   the   importance   of   the   case,   the
+        complexity   of   the    issues,    etc;    avoiding    unnecessary
+        formality   and   seeking  flexibility    in    the    proceedings;
+        ensuring,  so  far  as  practicable,  that the parties are able  to
+        participate fully in the proceedings; using any  special  expertise
+        of the Upper Tribunal effectively; and avoiding delay,  so  far  as
+        compatible with proper consideration of the issues.
+     6. Rule 2(4) puts a duty on the parties to help the Upper Tribunal  to
+        further the overriding objective; and to cooperate with  the  Upper
+        Tribunal generally.
+     7. Rule 34 of The  Tribunal  Procedure  (Upper  Tribunal)  Rules  2008
+        provides:
+
+             '34.-
+
+
+             (1)  Subject to paragraphs (2) and (3), the Upper Tribunal may
+                  make any decision without a hearing.
+
+
+             (2)  The Upper Tribunal must have regard to any view expressed
+                  by a party when deciding whether  to  hold  a  hearing  to
+                  consider any matter, and the form of any such hearing.
+
+
+             (3)  In immigration judicial  review  proceedings,  the  Upper
+                  Tribunal must hold a  hearing  before  making  a  decision
+                  which disposes of proceedings.
+
+
+             (4)  Paragraph (3) does not affect  the  power  of  the  Upper
+                  Tribunal to-
+
+
+                  (a)  strike out a party's case, pursuant to  rule  8(1)(b)
+                      or 8(2);
+
+
+                  (b)  consent to withdrawal, pursuant to rule 17;
+
+
+                  (c)  determine an  application  for  permission  to  bring
+                      judicial review proceedings, pursuant to rule 30; or
+
+
+                  (d)   make  a  consent  order  disposing  of  proceedings,
+                      pursuant to rule 39, without a hearing.'
+
+     8. It has not been shown to be inappropriate or unfair to exercise the
+        discretion provided in  Rule  34  by  enabling  the  error  of  law
+        question to be determined on the papers. Nothing on the facts or in
+        law has been shown to make  consideration  of  the  issues  on  the
+        papers not in accordance with overriding objectives at this  stage.
+        Consideration has been given to not only the submissions  but  also
+        the evidence provided to the Judge  in  documentary  form  and  the
+        grounds of  appeal  when  considering  this  question.  Whilst  the
+        appellant may want to come along and  speak  to  another  judge  in
+        relation to this matter it  is  not  made  out  there  is  anything
+        factually or legally complex or that it is  a  case  in  which  the
+        interests of justice can only be served  by  there  being  an  oral
+        hearing. It is not made out there is anything that needs to be said
+        orally that has not been said in writing
+
+
+
+Background
+
+
+     9. The appellant is a citizen of Tanzania born on  13  February  1985.
+        The appellant applied for leave to  remain  on  the  basis  of  his
+        private life in the United Kingdom and what he claims  to  be  very
+        significant obstacles to his integration to  Tanzania,  exceptional
+        circumstances concerning his immigration history,  and  his  health
+        issues.
+    10. It was not made out before the  Judge  that  the  appellant  has  a
+        partner, parents, or children in United Kingdom,  or  was  able  to
+        succeed based on his family  life  either  within  or  outside  the
+        Immigration Rules.
+    11. After carefully considering the documentary and oral  evidence  the
+        Judge sets out her findings of fact from [27] of the decision under
+        challenge. This is a detailed and carefully  written  determination
+        in which the Judge assesses the merits  of  the  appellant's  claim
+        under a number of relevant headings. For example,  the  appellant's
+        mental health issues are considered that [27(q)] and the background
+        evidence on  healthcare  provisions  in  Tanzania  at  [27(s)]  and
+        thereafter. The Judge notes the appellant has  a  diagnosed  mental
+        health disorder, paranoid  schizophrenia,  for  which  he  receives
+        ongoing treatment by assessment and medication. The  Judge  records
+        that  the  appellant  fears  very  significant  obstacles  to   his
+        integration including but not limited to his belief concerning  the
+        societal  stigma  in  Tanzania  attached  to  such  mental   health
+        disorders, family rejection, and lack of state provision for mental
+        health. At [32] the Judge writes:
+
+             "32.     Drawing together all my  relevant  findings  above  I
+                  conclude that  the  appellant  would  be  regarded  as  an
+                  insider  and  so  be  accepted  in  Tanzania,   not   face
+                  discrimination by  third  parties  nor  rejection  by  his
+                  family. He also has his ability to use his skills  in  the
+                  employment market in Tanzania not  limited  to  healthcare
+                  employment, which he has gained whilst in the UK.  I  find
+                  that he would  be  able  to  participate  successfully  in
+                  society in Tanzania  not  withstanding  his  diagnosis  of
+                  paranoid schizophrenia just as he has done in  the  UK.  I
+                  accordingly find there are not very significant  obstacles
+                  to his integration into Tanzania. I find  that  he  cannot
+                  qualify for leave to remain under paragraph 276ADE. I have
+                  reached this decision on the basis of all the evidence  in
+                  this appeal."
+
+    12. The Judge then goes on to consider article 8  ECHR  in  a  properly
+        structured manner finding the appellant has private life recognised
+        by  article  8  in  the  United  Kingdom  and  that  the   proposed
+        interference  with  that  private  life,  as  a   result   of   the
+        respondent's decision, is of sufficient severity to engage  article
+        8. The Judge identifies that the key  question  in  the  appeal  is
+        whether the respondent's  decision  is  proportionate.   The  Judge
+        adopts a 'balance  sheet  approach'  to  assessing  proportionality
+        setting out factors against the appellant between  [36  -  38]  and
+        those  in  favour  of  the  appellant  between  [39  -  43]  before
+        concluding  that  it  was  not  made  out  that   the   appellant's
+        circumstances are exceptional. The  Judge  considers  section  117B
+        finding little weight should be  given  to  the  private  life  the
+        appellant has developed whilst  his  immigration  status  has  been
+        precarious. This is not a finding that the  appellant  has  had  no
+        lawful leave to remain in the United Kingdom but recognition of the
+        fact that any leave he had was not settlement  or  of  a  permanent
+        nature and that for the majority of his time in the UK he has  been
+        an overstayer.  The Judge finds when  applying  the  balance  sheet
+        approach that  the  countervailing  factors  do  not  outweigh  the
+        importance attached to the  principles  of  legitimate  immigration
+        control and that whilst the appellant may face some difficulties on
+        return to Tanzania they did not mean his article 8 rights  will  be
+        breached. The Judge concludes at [45]:
+
+             "45.     Putting all the factors into the balance, I find that
+                  the interests of the appellant in the UK do  not  outweigh
+                  the interests of immigration  control.  I  find  that  the
+                  balance does not come down in favour of  those  rights  as
+                  against the principle of legitimate immigration control. I
+                  find that the hardship consequent on refusal of  leave  to
+                  remain does not go far enough beyond the baseline to  make
+                  removal  a  disproportionate  use  of  lawful  immigration
+                  controls. The appellant  can  reasonably  be  expected  to
+                  return to Tanzania where he could continue his  life.  The
+                  appellant can be expected to reintegrate into that country
+                  and make a  life  for  himself  there.  I  find  that  the
+                  interference with the appellant's rights to a private life
+                  is not of such a level as to breach those rights and  that
+                  the decision  to  refuse  leave  to  remain  is  therefore
+                  proportionate under Article 8 of the European Convention."
+
+
+Error of law
+
+
+    13. In relation to the time it took to provide the determination,  date
+        of hearing 18 September 2019 date of promulgation 24 January  2020,
+        such delay does not per se automatically makes the decision  unsafe
+        sufficient to amount to a procedural impropriety or material error.
+         The appellant claims that in a case in which  credibility  was  an
+        issue the evidence in the proceedings would not have been fresh  in
+        the mind of the Judge when she sat down to consider his  case.  The
+        appellant asserts such a  proposition  applies  whether  it  is  an
+        asylum or human rights  case  and  that  the  delay  amounts  to  a
+        travesty of justice.
+    14. It is accepted that the First-tier Procedure Rules  make  provision
+        for the period in which it is hoped a judge of that  tribunal  will
+        promulgate their decision but it is not made out that if a decision
+        cannot be made within such period a procedural irregularity occurs.
+        The wording of the relevant rule is also important. It reads:
+
+             'Decisions and notice of decisions
+
+
+             29.- (1) The Tribunal may give a decision orally at a hearing.
+
+
+                  (2)  Subject to rule 13(2) (withholding information likely
+                  to cause serious harm), the Tribunal must provide to  each
+                  party as soon as reasonably  practicable  after  making  a
+                  decision (other  than  a  decision  under  Part  4)  which
+                  disposes of the proceedings-
+
+
+                      (a)  a notice  of  decision  stating  the  Tribunal's
+                      decision; and
+
+
+                      (b)  notification of any right of appeal against  the
+                      decision and the time within which, and the manner in
+                      which, such right of appeal may be exercised.'
+
+    15. It is not made out the period in which the decision was provided is
+        outside that when it was  reasonably  practicable  to  provide  the
+        same.
+    16. The case law is also against the appellant on this point. In Arusha
+        and Demushi (deprivation of citizenship -  delay)  [2012]  UKUT  80
+        (IAC)  it  was  held  that  to  establish  that  a  delay  in   the
+        promulgation of a decision has led to an error of law it has to  be
+        shown that the decision was not safe and therefore unlawful.  There
+        must be a nexus between the delay and the safety of  the  decision:
+        see Secretary of State v RK (Algeria) [2007] EWCA Civ 868.
+    17. The Court of Appeal in R (on the application of SS  (Sri  Lanka)  v
+        SSHD [2018] EWCA Civ 1391 approving  the  decision  in  Arusha  and
+        Demushi held that there was no rule that delay of more  than  three
+        months rendered the decision unsafe.  The correct approach  was  to
+        ask whether the delay had caused the decision to be unsafe so  that
+        it would be unjust to let it stand. The only  significance  of  the
+        fact that delay between the hearing and the decision exceeded three
+        months was that, where the decision is challenged on an appeal, the
+        Upper Tribunal should examine the FTT judge's factual findings with
+        particular care to ensure that the delay has not  caused  injustice
+        to the appellant.
+    18. The  factual  findings  made  by  the  Judge  have  been  carefully
+        considered in accordance with the guidance provided by the Court of
+        Appeal by considering not only the determination  holistically  but
+        also the evidence relied upon by the appellant in  support  of  his
+        appeal. It is noted the Judge took a clear legible  typed  note  of
+        the proceedings and had access to not only the statements and other
+        evidence but also to submissions made on the appellants  behalf.  A
+        clear understanding of the issues in the appeal and evidence  given
+        can be ascertained by a reader of this material even though not the
+        judge who heard the case. It is not made out the  Judge's  decision
+        is unsafe so that it will be unjust to let it stand.  No  injustice
+        is made out to the appellant in relation to the alleged  delay  and
+        is not made out the period after which the  Judge  promulgated  the
+        decision supports the appellant's claim of  procedural  impropriety
+        sufficient to amount to a material error of law.
+    19. The appellant also asserts a failure by the Judge to consider delay
+        by the respondent in the decision-making process of some two years.
+        Such claim is without arguable merit. The Judge was  clearly  aware
+        of the chronology as a reading of the decision shows. The Judge was
+        not required to set out findings in relation to each aspect of  the
+        evidence provided it was properly considered, which I find  is  the
+        case. In EB (Kosovo) (FC) v SSHD [2008] UKHL 41 the House of  Lords
+        said that  delay  could  be  relevant  in  three  ways.  First  the
+        applicant may  during  the  period  of  any  delay  develop  closer
+        personal  and  social  ties  and  establish  deeper  roots  in  the
+        community than he could have shown earlier.  The longer the  period
+        of delay the likelier this is to be true.  To the extent that it is
+        true the applicant's case will be  strengthened.   Secondly,  delay
+        may be relevant to an immigrant without leave to  enter  or  remain
+        who is in a precarious situation, liable to removal  at  any  time.
+        Any relationship into which such an  applicant  enters  is  likely,
+        initially, to be tentative, being entered into under the shadow  of
+        severance by administrative order.  This is  more  true  where  the
+        other party to the relationship is aware of the  precarious  nature
+        of the position and is treated as relevant to the  quality  of  the
+        relationship.  With delay the  sense  of  impermanence  in  such  a
+        relationship will fade.  Thirdly delay may be relevant in  reducing
+        the weight that would  otherwise  be  accorded  to  fair  and  firm
+        immigration control if the delay is shown to be  the  result  of  a
+        dysfunctional system which yields unpredictable and unfair results.
+         The Supreme Court in Agyarko [2017] UKSC 11 considered (para  52),
+        referring to EB (Kosovo) that the cogency of the public interest in
+        the removal of a person living in the UK unlawfully was  liable  to
+        diminish or looking at the matter from  the  opposite  perspective,
+        the weight to be given to precarious  family  life  was  liable  to
+        increase if there was a protracted  delay  in  the  enforcement  of
+        immigration control.
+    20. Delay of  two  years  in  making  a  decision  in  the  context  of
+        immigration and asylum applications in the United  Kingdom  is  not
+        arguably excessive.  I appreciate that for an individual  applicant
+        awaiting a decision on their application the  same  could  be  very
+        frustrating but the appellant failed to  establish,  either  before
+        the Judge or in his grounds of appeal, that any delay that occurred
+        in making the decision was sufficient on the facts  to  render  the
+        respondent's decision unlawful. The delay enabled the appellant  to
+        further develop his private life  in  the  United  Kingdom  and  to
+        benefit from the medical care and assistance he received  from  the
+        UK authorities. The Judge clearly took into account the appellant's
+        evidence regarding this aspect and accepted that he had established
+        private life in United Kingdom and the nature of the same.  It  is,
+        however, the case as noted by the Judge that despite the  appellant
+        having being in the United Kingdom since 7 April 2008, at that time
+        a period of eight years and nine months at the date of the hearing,
+        his time was made up by a mixture of lawful, unlawful, and  section
+        3C residence rights, with no evidence that the appellant  had  ever
+        been granted settled status.
+    21. It is not clear why Judge Keane granted permission in  relation  to
+        the Judge's finding that little  weight  should  be  given  to  the
+        private life relied upon by the appellant  whilst  his  immigration
+        status was precarious. In Rhuppiah [2018]  UKSC  58  it  was  held,
+        referring with approval to AM, that a person's status is precarious
+        if  he  has  leave  to  remain  which  is  other  than  indefinite.
+        Considering the nature of the appellant's previous leave  and  lack
+        of a right to remain when the same expired, his status  has  always
+        been precarious. The provision of section 117(5) of  the  2002  Act
+        required the Judge to apply  little  weight  to  the  private  life
+        developed during such a period. There was nothing made  out  before
+        the Judge to suggest  that  this  was  a  case  in  which  judicial
+        discretion should be exercised to attribute greater weight  to  the
+        appellant's private life than the Judge did, on the facts.
+    22. The appellant also relies upon an  argument  the  Judge  failed  to
+        adequately consider and assess his medical condition  asserting  in
+        his submissions  of  25  August  2020  that  the  Judge  failed  to
+        adequately consider his position in accordance with  the  judgement
+        in AM (Zimbabwe) [2020] as the Judge  only  applied  the  threshold
+        required in N v the United Kingdom [2008] 47 EHRR 39.
+    23. A reading of the decision under challenge does not show  the  Judge
+        relied upon any specific authority  and  the  assertion  the  Judge
+        failed to  apply  the  law  relating  to  the  appellant's  medical
+        condition or to give legal reasons as to why they are  insufficient
+        to engage article 3 or 8 has no arguable merit when the decision is
+        read as a whole. It is also the case that the Supreme Court  handed
+        down its decision in AM (Zimbabwe) [2020] UKSC 17 on the  29  April
+        2020 and was not a decision the Judge could have taken into account
+        as  it  did  not  exist  at  the  date  the  Judge's  decision  was
+        promulgated. The decision under challenge shows the  Judge  clearly
+        assessed the merits of the medical aspect of the  appellants  claim
+        in accordance with the guidance of the Court of Appeal in force  at
+        that time.
+    24. It  is  also  clear  the  Judge  considered  the  medical  evidence
+        provided, background evidence on healthcare provisions in Tanzania,
+        and gives adequate reasons for why  the  appellant  was  unable  to
+        succeed under either article 3 or 8 ECHR.
+    25. It is not disputed  that  the  Supreme  Court  in  AM  lowered  the
+        threshold previously established in N v UK but it still  maintained
+        a high threshold by reference to the applicable test.  The  finding
+        of the Judge that  the  appellant  could  not  succeed  on  medical
+        grounds is a finding, if transposed into the judgement in AM,  that
+        he could not meet that test.  There  was  nothing  in  the  medical
+        evidence before the Judge, including the expert reports, to support
+        a claim that he could as it was not made out that he  will  face  a
+        real risk of being exposed to a serious,  rapid,  and  irreversible
+        decline in his state of health resulting in intense suffering or  a
+        significant reduction in life  expectancy  and  that  any  serious,
+        rapid, or reversible decline in health leading to intense suffering
+        or the substantial reduction in life expectancy would  arise  as  a
+        result of the absence of appropriate  treatment  in  the  receiving
+        country or the lack of access to such treatment.  The  Judge  finds
+        that medical assistance or treatment that was required is available
+        in Tanzania which has not been shown to be a  finding  infected  by
+        arguable legal error.
+    26. Reference by the appellant to  paragraphs  EX.1  and  EX.2  do  not
+        assist him as these are not freestanding provisions and appendix FM
+        is not relevant or applicable on the facts.  Paragraph  276ADE  was
+        properly considered. There was nothing in the facts as found by the
+        Judge  to  suggest  the  appellant  would  face  very   significant
+        obstacles on his return to  Tanzania  or  that  such  return  would
+        result in unjustifiably harsh consequences.
+    27. Whilst the  appellant  disagrees  with  the  Judge's  findings  and
+        conclusions and wishes to remain in the United Kingdom the  grounds
+        fail to establish arguable legal error sufficient  to  warrant  the
+        Upper Tribunal interfering any further in this matter.  This  is  a
+        carefully  considered  and  written  decision  in  which   a   very
+        experienced judge clearly took  the  required  degree  of  care  to
+        establish  the  factual  matrix,  in  ensuring  the  correct  legal
+        provisions applicable at the date the decision was handed down were
+        applied, and in  providing  adequate  reasons  in  support  of  the
+        findings  made.  The  appellant   fails   to   establish   anything
+        procedurally improper or wrong  in  the  way  in  which  the  Judge
+        assessed the proportionality of the respondent's  decision  meaning
+        the only challenge arguably open to the appellant will be on public
+        law grounds.  It  is  not  made  out  there  is  anything  arguably
+        irrational or perverse in the  Judge's  conclusions.  There  is  no
+        material legal error in the Judge's decision which shall  therefore
+        stand.
+
+
+Decision
+
+    28. There is no material error of law in the Immigration Judge's
+        decision. The determination shall stand.
+
+   Anonymity.
+
+
+    29. The First-tier Tribunal did not make an order pursuant to rule
+        45(4)(i) of the Asylum and Immigration Tribunal (Procedure) Rules
+        2005.
+
+
+I make no such order pursuant to rule 14 of the Tribunal Procedure
+(Upper Tribunal) Rules 2008.
+
+
+
+Signed.......................................................
+Upper Tribunal Judge Hanson
+
+Dated the 28 September 2020
+
+
+
+
+
+
+
+
+
+
+

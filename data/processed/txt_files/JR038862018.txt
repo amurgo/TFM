@@ -1,0 +1,1694 @@
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)  Case Number: JR/3886/2018
+
+
+
+|Heard at Field House                          |                             |
+|On Thursday 14 February 2019                  |                             |
+|                                              |                             |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE SMITH
+
+
+
+                                   Between
+
+                       The Queen on the application of
+                              1) SUNILKUMAR [M]
+                              2) SHOBHABEN [M]
+                                  3) [V M]
+
+                                                                  Applicants
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+
+Representation:
+
+For the Applicants:    Mr P Saini, Counsel instructed by Vision solicitors
+For the Respondent:    Mr J Holborn, Counsel instructed by Government Legal
+Dept
+
+
+                                  JUDGMENT
+
+
+      INTRODUCTION
+
+      1.  This  is  an  application  for  judicial  review  challenging  the
+         Respondent's decision dated 18 January 2018 ("the First  Decision")
+         maintained following administrative review on 5  March  2018  ("the
+         Second Decision") refusing the First  Applicant's  application  for
+         indefinite leave to remain ("ILR") as a Tier 1  (general)  migrant.
+         The Second and Third  Applicants  were  refused  ILR  in  line  and
+         therefore the success or otherwise of their applications depends on
+         that of the First Applicant.   Hereafter,  I  refer  only  to  "the
+         Applicant" as meaning the First Applicant.
+
+
+      2. The basis of the refusal of the  Applicant's  application  is  that
+         paragraph 322(5) of the Immigration Rules  ("the  Rules")  applies.
+         The application of paragraph 322(5) is itself premised on a factual
+         inconsistency between a declaration of self-employed income to  the
+         Home Office in an application made in 2013 and that declared  in  a
+         self-assessment tax return to HMRC in January  2014  (dealing  with
+         the tax year  2012-13).    I  deal  with  the  way  in  which  that
+         discrepancy is said to have arisen below.
+
+
+      3. Permission to apply for judicial review was granted by UTJ Lindsley
+         on the papers in a decision sent on 11 October 2018.   She  granted
+         permission on the basis that ground one is arguable.  That concerns
+         the application of paragraph 322(5) and whether  the  Applicant  is
+         guilty of dishonesty.  However, as  Mr  Saini  points  out  in  his
+         skeleton argument, the grounds on which permission was granted were
+         not limited by Judge Lindsley and he therefore  has  permission  to
+         argue all grounds.
+
+
+      4. Detailed grounds were filed by the Respondent on 15 November  2018.
+         The application was initially scheduled to come  before  me  on  12
+         December 2018 but I adjourned the  hearing  with  consent  of  both
+         parties because the Applicant's previous  direct  access  barrister
+         was not able to attend.  I need say no more about  this  not  least
+         because the Applicant has since instructed solicitors  and  changed
+         barrister.
+
+
+      5. I received a bundle of documents from the Applicant.  References to
+         that bundle  below  are  given  as  [AB/xx].   I  also  received  a
+         supplementary bundle of documents from the Respondent  referred  to
+         as [RB/xx] and a joint  bundle  of  authorities.  I  received  very
+         helpful skeleton arguments from both Counsel which I have  read  in
+         full but refer to only so far as necessary.  I am grateful to  both
+         Counsel for the detailed nature  of  the  written  submissions  and
+         their more succinct oral submissions.
+
+
+      FACTUAL BACKGROUND AND THE DOCUMENTARY EVIDENCE
+
+
+      6. The Applicant came to the UK as a student on 30  April  2010.   His
+         leave was extended as a Tier 1 general migrant  to  13  June  2016.
+         The discrepancy relates to an application for further leave made in
+         2013.  On 11 June 2016, he made an application for  ILR  which  was
+         refused by the First Decision.  Prior to the making  of  the  First
+         Decision,  the  Respondent  sent  the  Applicant  a   questionnaire
+         requiring certain information about this application and  including
+         questions relating to his self-employment income which lays at  the
+         heart of the discrepancy.
+
+
+      7. The covering letter to that questionnaire sent  on  27  April  2017
+         appears at [AB/53].  Having set out the provisions of paragraph  19
+         of Appendix A  to  the  Rules  relating  to  genuine  earnings  and
+         paragraph 245CD(b) by reference to paragraphs 322(1) to (13) of the
+         Rules relating to the general  grounds  of  refusal,  the  covering
+         letter continues as follows (so far as relevant):
+
+
+           "Therefore, in order to enable us to  consider  the  application
+           further, and in accordance with Appendix A paragraph 19(i) (with
+           reference to paragraphs 19(j) and (k)), and paragraph 245CD  (b)
+           of the Immigration Rules, please can you provide  the  following
+           documentation.  Please ensure that you send  ORIGINAL  documents
+           as photocopies are NOT acceptable for the purposes  of  deciding
+           your application.
+            Documents required:
+             .  Please  complete  and  return  the  attached   questionnaire
+               summarising your finances relating to your  self  employment.
+               Please  also  provide  any  supporting  evidence   you   have
+               referenced within the questionnaire.
+             . Please provide a SA302 form and Tax  year  overview  for  the
+               period in which you have been registered as self employed, or
+               have been  a  director  of  a  limited  company.   These  are
+               available from your accountant's tax software  or  your  HMRC
+               online account.
+             . If you are the director of a  limited  company,  please  also
+               provide  audited  annual  accounts   where   available,   and
+               unaudited accounts if not up to 5 years.  Please also provide
+               Company Tax returns for the period  that  your  business  has
+               been trading up to 5 years."
+
+
+         The letter goes on to point to the duty set out in the HMRC website
+         to keep tax records  for  at  least  five  years  from  31  January
+         following the tax year to which the tax return relates.
+
+
+      8.  The  questionnaire  itself  is  at  [AB/79-83]  and  includes  the
+         following relevant questions and answers:
+
+
+            (a)  The tax years in which  the  applicant  was  self-employed,
+           whether tax returns were submitted in each of those years and by
+           who - the Applicant confirmed that he was self-employed  in  the
+           period 2011/12 to 2016/17, that tax returns were filed  for  all
+           years and that those were filed by Mahendra V Nagda (and not,  I
+           note, Doshi & Company which is the firm said to have  filed  the
+           relevant tax return: nothing turns on that though as it is clear
+           from the tax return - to which I refer  below  -  that  Doshi  &
+           Company did file the relevant tax return).
+
+
+            (b)  In relation to the turnover, net profit, gross  profit  and
+           expenses  figures,  the  Applicant  simply  said   "Please   see
+           enclosed" - it is not clear to me  what  was  enclosed,  but  by
+           reference to the documents requested,  the  Applicant  ought  to
+           have sent a SA302 and Tax year  overview.   The  SA302  for  the
+           relevant year is at [AB/176] and shows that the return was filed
+           on 31 January 2014 by Doshi  &  Company.   For  that  reason,  I
+           reject Mr Saini's submission that the Applicant would  not  have
+           known his tax calculation for the year in question.  I  also  do
+           not accept his submission that the Applicant would not have time
+           to check the return because it was filed on  the  last  day  for
+           filing (31 January 2014): it cannot  be  inferred  just  because
+           that was the date of filing that the Applicant was not  provided
+           with it earlier and  given  time  to  check  it.   He  expressly
+           confirmed in answer to question  12  that  he  had  checked  and
+           signed all returns.   He confirmed at question 13  that  he  was
+           satisfied that the returns accurately reflected his income  from
+           self-employment and in response to question 14 that he  had  not
+           ever needed to correct his returns.
+
+
+            (c)  There is reference at question 15 to penalties having  been
+           imposed for late submission of returns, but I do not  understand
+           that to relate to the discrepancy here.   It  is  common  ground
+           that the Applicant did not amend his tax return for the year  in
+           question until after the Decisions.
+
+
+      9. This case is slightly unusual on its facts from other cases of this
+         nature in that the Applicant had not made any application to  amend
+         his tax return and therefore  repeated  in  the  questionnaire  the
+         figures which he had given in his  2013  application  to  the  Home
+         Office.  The  discrepancy  is  said  to  be  between  self-employed
+         earnings for 2012-13 declared to the Home Office as �35,499  and  a
+         figure given to HMRC for self-employed income for the tax year 2012-
+         13 of �28,552.  The difference is �6,947.
+
+
+     10. This is also an unusual case because the discrepancy arises from  a
+         combination of asserted mistakes rather than one single  error.   I
+         clarified with the parties at the outset my  understanding  of  how
+         the  discrepancy  is  said  to  arise.   I  will  deal  below  when
+         considering the grounds, with the way in which  the  Applicant  has
+         explained the discrepancy to the Respondent insofar as he has.   It
+         is however helpful to set  out  my  understanding  of  the  factual
+         position which was confirmed by the parties as correct.
+
+
+     11. The Applicant's accounting year for self-employment purposes was  1
+         May 2012 to 30 April 2013 (see accounts at [AB/162]).  As such, his
+         income crossed two tax years, 2012-13 and 2013-14.   An  adjustment
+         might therefore have been required to the figures in  the  accounts
+         for the 2012-13 tax year.   According  to  the  tax  return,  which
+         appears at [AB/164-177], the adjustment claimed was �2,596.
+
+
+     12. There were two other errors as also set  out  in  two  accountants'
+         letters dated 1 February 2018  which  appear  at  [AB/148-149]  and
+         which the Respondent accepts  were  sent  with  the  Administrative
+         Review.  It is convenient to set out what is said in the fuller  of
+         those two letters from  Mahendra  V  Nagda  FCCA  (the  Applicant's
+         current accountant) as follows:
+
+
+           "We should  inform  that  we  have  taken  over  from  Anthony's
+           Services and have investigated the matter of Mr [M]'s SA302  for
+           12-13 and have found that  the  subcontractor  Doshi  &  Co  who
+           submitted the Return on behalf  of  Anthony's  Services  made  a
+           human error in entering the figures on the Return which resulted
+           in the incorrect profit figure.
+           Instead of entering  sales  as  �37,820  as  per  accounts  they
+           entered �35,499 as sales which is the profit figures.  The other
+           3 errors they made was to enter motor expenses as �1,684 when it
+           should have been �684 and second error was to claim home rent of
+           �450 when this was not on the accounts and the third  error  was
+           to claim �667 when accounts showed �87.  The combined effect  of
+           this was to show profit as �31,148.  In  addition  there  was  a
+           further reduction due to tax calculation in accordance with  tax
+           law.  The taxable profit was reduced by �2596 to  adjust  profit
+           for 12-13 to be covering period April 12 to  March  13  and  our
+           client had started  in  May  12  to  April  13.   We  hope  this
+           clarifies the profit position.  We enclose a  copy  of  the  Tax
+           Return for 12-13 so you can see the errors.
+           We have a letter from Doshi & Co to HMRC explaining the error to
+           them and asking them to adjust the tax  which  our  client  will
+           pay."
+
+
+     13.  The  other  letter  from  Doshi  &  Company  (which  is  the  firm
+         responsible  for  the  2012-13  tax  return)  is  less   full   but
+         corroborates what is said about the nature of the errors - at least
+         so far as the first two errors are concerned.
+
+
+     14. The discrepancy in the figures (leaving aside  the  financial  year
+         adjustment) is also evident  from  a  comparison  between  the  tax
+         return filed on 31 January 2014 (at [AB/164-176]) and the  accounts
+         for the Applicant's business dated 24  May  2013  relating  to  the
+         financial year 1 May 2012 to 30 April 2013 (at [AB/162-163]).  As I
+         understand it, those were the accounts submitted to the Home Office
+         in 2013 to support the Applicant's application for further leave to
+         remain.
+
+
+     15. The accounts were prepared by an accountant other than the one  who
+         submitted the tax return on the Applicant's behalf.   However,  the
+         letter from the current accountant  records  that  the  latter  was
+         acting as a subcontractor for the previous accountant who  prepared
+         the accounts.  It is also worthy of  note  that  the  turnover  and
+         profit figures in those accounts correlate with the  figures  which
+         it is said should have been inserted in the tax return for 2012-13.
+          There is no record in the 24 May 2013 letter of any  need  for  an
+         adjustment  to  income  based  on  the  different  financial  year.
+         Indeed, the accountant, in the letter at [AB/163]  says  that  "our
+         client's net profit from self-employment [recorded as �35,499] will
+         be declared on Self-Assessment Return for 2012-13 to be  issued  by
+         HM Revenue & Customs".
+
+
+     16. In short summary, as well as the adjustment for the  accounting/tax
+         year of �2,596, there is said to be one error in the insertion of a
+         wrong figure for turnover which had  the  effect  of  reducing  the
+         profit figure by �2,321 and further errors, one of which may  be  a
+         transposition error but which taken  together  had  the  effect  of
+         inflating expenses by �2,030 and therefore reducing profits by  the
+         same figure.  The total effect of those three errors equates to the
+         �6,947 on which discrepancy reliance is placed.
+
+
+     17. Mr Saini makes the point that the amount of the discrepancy in this
+         case is not significant.  He says that the tax difference  is  only
+         �1,389 and, given the amount of tax which the Applicant did pay  at
+         the time, there would be no incentive for him to under-declare  his
+         earnings to HMRC.
+
+
+     18. As I have understood the Respondent's case, however, it is that the
+         Applicant is rather more likely to have over-declared income to the
+         Home Office in order to succeed in his 2013  application  (although
+         it remains the Respondent's position that he does not know which of
+         the two declarations is the wrong one).  In order to  consider  the
+         position in that regard, I enquired of the  Respondent  during  the
+         hearing what the position  would  have  been  in  relation  to  the
+         application in 2013 if the Applicant  had  declared  as  his  self-
+         employed earnings the figure he gave to HMRC.
+
+
+     19. Mr Holborn very helpfully caused enquiries to be made in the course
+         of the hearing and informed me that, based on the Rules at the time
+         of the 2013 application, the Appellant would be required  to  score
+         75 points for attributes under paragraph 7 of  Appendix  A  to  the
+         Rules.  The Applicant scored 80 points  which  included  35  points
+         awarded for earnings of �55,000 to �65,000.  The Applicant's  total
+         income earnt was declared to the Home Office as �56,120.28 made  up
+         of the  �35,499  plus  earnings  from  employment  (which  are  not
+         disputed).  If self-employed earnings were  as  declared  to  HMRC,
+         this would have the effect of reducing income  to  �49,173.28.   At
+         the relevant time, earnings of �40,000 to �50,000 led to  an  award
+         of only 25 points and earnings of �50,000 to �55,000 to 30  points.
+         Accordingly, if all the discrepancy were discounted, the  Applicant
+         would not have been granted leave.  If  only  one  or  two  of  the
+         elements making up the discrepancy were discounted,  the  Applicant
+         would have scored 75 points and therefore would have  been  granted
+         leave to remain.
+
+
+    THE DECISIONS
+
+
+    The First Decision
+
+
+     20. As I  have  already  noted,  the  Applicant,  when  completing  the
+         questionnaire sent to him, declared  the  same  figure  as  he  had
+         declared in his earlier application to the Home Office that  is  to
+         say turnover of �37,820, net profit  of  �35,499  and  expenses  of
+         �2,321.  He did so under the heading of the 2012-13 financial  year
+         and declared  nil  self-employed  earnings  for  2013-14.   As  the
+         Respondent points out, that is inconsistent with the point made  in
+         the accountant's letter that the figures in  the  tax  return  were
+         adjusted for the difference between the tax and  accounting  years.
+         In any event, the Applicant ought to have declared  the  additional
+         income to HMRC in the following tax year.  It is common ground that
+         he did not do so until after the discrepancies were brought to  his
+         attention.  He says that this is the accountant's fault for failing
+         to inform him that he had income on which tax had not been paid.
+
+
+     21. The First Decision, having set out the Applicant's answers  in  the
+         questionnaire goes on as follows:
+
+
+           "You have provided an SA302 (printed 09 May  2017)  which  shows
+           that the declared profit for 2012/13 from  self  employment  was
+           declared as �28,552.00.
+           We have also gathered information from HMRC  which  corroborates
+           this amount was declared to HMRC.
+           This figure is �6,947 less than what was  declared  to  UKVI  in
+           respect to your application dated 25 May 2013.
+           The information provided by yourself  (SA302)  also  contradicts
+           your answer to question 5 where you state net profit for 2012/13
+           as �35,499.  This therefore casts doubt on  the  credibility  on
+           your self employed earnings.
+           The Secretary of  State  is  satisfied  that  the  earnings  you
+           declared in your previous Tier 1 (General) application of 25 May
+           2013 are not consistent with your declarations made to  HMRC  in
+           the relevant tax periods.  The fact that you  declared  earnings
+           to UKVI in your Tier 1 (General) application dated 25  May  2013
+           compared to what you declared to  HMRC  for  a  similar  periods
+           differed  significantly,  does   not   demonstrate   that   your
+           declaration of earnings to both UKVI and HMRC are consistent.
+           In view of the clear discrepancies between  the  above  earnings
+           that you have declared to HMRC and the earnings you had declared
+           to UKVI for your previous immigration  application  we  are  not
+           satisfied that you have been able to credibly  account  for  why
+           the earnings declared to HMRC were significantly less  than  the
+           earnings you had declared  in  your  initial  Tier  1  (General)
+           applications.
+           Had you declared earnings in your Tier 1  (General)  application
+           of  25  May  2013  which  were  consistent  with  your   initial
+           declarations to HMRC,  you  would  not  have  scored  sufficient
+           points under the Immigration Rules for leave  to  remain  to  be
+           granted.
+           We are satisfied  that,  based  on  your  actions  in  declaring
+           different amounts of income to HMRC and UKVI,  you  have  either
+           misrepresented your earnings to HMRC in order to reduce your tax
+           liability or provided false information about your  earnings  to
+           UKVI in order to obtain leave to remain or both.
+           In view of the above, and with regard  to  the  fact  that  your
+           declarations to HMRC did  not  corroborate  with  your  earnings
+           claimed in your initial application, the Secretary of  State  on
+           balance  of  probabilities  is  not  satisfied  that  your  self
+           employed earnings claimed in your previous and  current  Tier  1
+           (General) applications are genuine."
+
+
+     22. Having set out the text of rule 322(5), the Respondent continued as
+         follows:
+
+
+           "You submitted the requested Questionnaire on the  24  May  2017
+           detailing your previous earnings and Tax.  These documents  have
+           been considered by our department and it has been concluded that
+           you do not meet Paragraph 322(5) of the Immigration Rules.
+           The Secretary of State has  considered  whether  the  particular
+           circumstances of your case merit  the  exercise  of  discretion.
+           Having considered those circumstances the Secretary of State  is
+           satisfied that  the  refusal  remains  appropriate  and  is  not
+           prepared to exercise discretion in your favour.
+           Your actions in declaring different amounts of  income  to  HMRC
+           and UKVI lead to the conclusion that in light of your  character
+           and conduct it would be undesirable to allow you  to  remain  in
+           the United Kingdom.  Your character and conduct with regards  to
+           declaring  your  income  would  lead  to  a  refusal   of   your
+           application  under  General  Grounds  Paragraph  322(5)  of  the
+           Immigration Rules is not a mandatory decision, it is  considered
+           that your actions in declaring different income to HMRC and UKVI
+           would  mean  that  a   refusal   under   Paragraph   322(5)   is
+           appropriate."
+
+
+     23. As  a  result  of  that  conclusion,  the  Respondent  refused  the
+         application under paragraph 245CD(b) of the Rules.  The  Respondent
+         also  refused  the  application  under  paragraph   245CD(g)   with
+         reference to Appendix A to the Rules on the basis that he  was  not
+         satisfied that the Applicant's self-employed earnings were genuine,
+         having regard to the earlier discrepancy.
+
+
+     24. I enquired of Mr Holborn what was the effect  of  the  Respondent's
+         conclusion as to the genuineness of earnings as this has  not  been
+         separately challenged by the Applicant.  Mr Holborn  accepted  that
+         this part of the First Decision stands or falls with my  conclusion
+         about the Respondent's reliance on the Applicant's dishonesty.   He
+         said that the only point on which it might make a difference  would
+         be if I accepted that the Respondent was entitled to conclude  that
+         the Applicant was dishonest but did not accept that the  Respondent
+         exercised discretion lawfully.  If the Applicant were dishonest, it
+         would follow that the Respondent was entitled to conclude that  the
+         earnings were not genuine.  The application  could  therefore  fall
+         for refusal irrespective of the exercise of any discretion.
+
+
+    The Second Decision
+
+
+     25. The Applicant  applied  for  administrative  review  of  the  First
+         Decision.  I do not have a  copy  of  the  application  before  me.
+         However, the substance of it can be inferred from what is  said  in
+         the Second Decision as follows:
+
+
+           "In your  administrative  review  you  state  that  due  to  the
+           accountant's error, the  information  filed  to  HMRC  has  been
+           changed to what it should have been.  You also  state  that  you
+           have paid a very high amount of tax, therefore it was  not  your
+           incentive to file for any reduction.  You add that the error  of
+           the accountants was not spotted, even at the time you  completed
+           the questionnaire and that it was the  Secretary  of  State  who
+           made you aware of the discrepancy.  You further state  that  you
+           had no knowledge of  the  error  and  the  accountant  has  made
+           mistakes when filing your tax return."
+
+
+     26. The Respondent replied as follows:
+
+
+           "However, having entered the UK and decided to  engage  in  self
+           employment  it  is  your  responsibility  to  maintain  accurate
+           records of your finances and  tax  liabilities  and  ensure  any
+           earnings are accounted for and declared in line with the UK  law
+           and HMRC  regulations.   The  ultimate  responsibility  for  the
+           requirements lies with you and not your accountant, as  you  are
+           responsible for ensuring that when the tax returns are submitted
+           to HMRC the details within  are  correct.   It  is  additionally
+           noted there would have been a clear benefit to  yourself  either
+           by under-reporting your  self  employed  earnings  to  HMRC  and
+           therefore reducing your personal  tax  liability,  or  by  over-
+           inflating your self employed  earnings  in  order  to  meet  the
+           threshold for points required as a  Tier  1  (General)  migrant.
+           Upon  review  we  are  satisfied  the  original  caseworker  has
+           assessed your application correctly and we have  maintained  the
+           original decision."
+
+
+     27. Mr Holborn asked me also to have regard to what is recorded in  the
+         Respondent's G-CID notes which were produced for  the  hearing  (at
+         [RB/5-40]) because, as he pointed  out,  there  have  been  various
+         explanations given for how the discrepancy arose.  I can  obviously
+         take account only of what  was  said  to  the  Respondent  and  not
+         explanations which may have come  to  light  after  the  First  and
+         Second Decisions were made.   Under  "Reason(s)  why  applicant  is
+         challenging the decision" ([RB/33]) the following is said:
+
+
+           "Due to the accountant's error the information filed on the HMRC
+           has been changed to what it should have been.
+           It is submitted that applicant has paid very high amount of  tax
+           and it was not in his incentive to file any reduction.
+           The error of the accountants which was not spotted even  at  the
+           time the questionnaire was completed and returned  to  the  Home
+           Office.
+                 Attached are letters that accountant has given.
+           It is submitted that  the  SSHD  made  applicant  aware  of  the
+           discrepancy in regards to the tax return prior  to  the  refusal
+           Applicant would have surely resorted to contact  the  accountant
+           to explain to him the discrepancy in the  information  that  was
+           supplied.
+           Clearly this was not within the knowledge of the  applicant  and
+           the account has mistakenly done the mistake in the filing.
+            Raises SH (Pakistan) v SSHD [2016]
+            Raises evidential flexibility
+            Missing evidence
+           Although applicant does  not  consider  there  was  any  missing
+           evidence, the evidence in question can be  submitted  again  for
+           its assessment
+            The accountants letter can invite the case to be reassessed
+           The applicant is also in the process of filing the  amended  tax
+           returns for which the accountant is undertaking the liability of
+             Request  that  application  is  considered   under   evidential
+         flexibility policy."
+
+
+         I have already set out the  content  of  one  of  the  accountant's
+         letters at [12] above.
+
+
+      THE GROUNDS
+
+
+     28. I begin  by  summarising  the  four  grounds  relied  upon  by  the
+         Applicant:
+
+
+         (1)      The Applicant challenges the Decisions by reference  to  a
+         review carried out by the Respondent following a  commitment  given
+         to the Home Affairs Select Committee in May  2018  ("the  Review").
+         That culminated in a document published by the Home Office entitled
+         "Review of Applications by Tier 1 (General) Migrants Refused  under
+         Paragraph 322(5) of the Immigration Rules" (BA/641  onwards)  ("the
+         Review Document") published in November 2018.  The  Applicant  says
+         that the Decisions are not  consistent  with  the  content  of  the
+         Review Document ("The Review Ground").
+
+
+         (2) The Applicant says that the Decisions applying paragraph 322(5)
+         of the Rules  are  irrational  and/or  unlawful  ("The  Rationality
+         Ground").
+
+
+         (3)  The  Applicant  also  says  that  the  Respondent  has  failed
+         lawfully to exercise his discretion under paragraph 322(5)  of  the
+         Rules ("The Discretion Ground").
+
+
+         (4) Finally, the Applicant says that the procedure adopted  in  the
+         making of the Decisions  was  unfair  ("The  Procedural  Unfairness
+         Ground").
+
+      THE LEGAL FRAMEWORK AND SUBMISSIONS
+
+
+     29. I received a joint bundle of authorities but was taken to very  few
+         of the cases with  which  I  deal  below  in  the  context  of  the
+         submissions made grouped together by reference to each of the above
+         grounds.
+
+
+    The Review Ground
+
+
+     30. The Review arose in the context of a commitment made  to  the  Home
+         Affairs Select Committee by the Respondent by letter dated  25  May
+         2018.  It is accepted that matters have moved on since the original
+         judicial  review  grounds  were  drafted.   Mr  Saini  directed  my
+         attention to the Review Document which at [BA/651] makes  reference
+         to discrepancies in excess of �10,000 being found  in  90%  of  the
+         cases and that the average discrepancy  was  �27,600.   The  Review
+         Document goes on to say that "[w]e considered these to be major and
+         significant differences rather than minor  errors  by  applicants."
+         Mr Saini makes the point that the discrepancy  here  is  less  than
+         �10,000. He inferred therefore that the Respondent was not entitled
+         to rely on the discrepancy as being "significant".
+
+
+     31. Mr Holborn submitted that the significance lies not in  the  amount
+         of the discrepancy but the impact of it in  terms  not  only  of  a
+         saving of tax (which I accept is not substantial in this particular
+         case) but also in terms of obtaining leave to remain to  which  the
+         Applicant might not otherwise have been entitled.
+
+
+    The Rationality Ground and The Discretion Ground
+
+
+     32. It is convenient to take these two grounds together as the majority
+         of the submissions made both in writing and  orally  concern  these
+         two grounds and Mr  Saini  accepted  that  there  is  some  overlap
+         between the two.
+
+
+     33. It is common ground  that  the  test  which  I  should  apply  when
+         assessing the rationality of the First and Second Decisions is  the
+         usual "Wednesbury" test.  However, Mr Saini says, by  reference  to
+         cases such as R (on the application of Giri) v Secretary  of  State
+         for the Home Department [2015]  EWCA  Civ  784  that  a  heightened
+         standard of review applies.  However, I do not  read  Lord  Justice
+         Richards' judgment as of assistance to the Applicant's case on this
+         point.   He  refers  at  [32]  to  the  submission  made  that  the
+         "Wednesbury" test was an insufficient basis on which to assess  the
+         Respondent's decision concerning deception (by reference  to  cases
+         such as Pham v Secretary of State for the  Home  Department  [2015]
+         UKSV 19 on which Mr Saini also relies) but goes on to say this:
+
+
+           "I accept that a finding that deception has been used should  be
+           scrutinised very carefully but I do not accept that the relevant
+           question is anything other than whether it was  reasonably  open
+           to the decision-maker, on the material before him, to find  that
+           deception had been used."
+
+
+         In other words, the test remains whether the decision is one  which
+         no reasonable decision maker could make but the decision has to  be
+         carefully scrutinised in relation to  the  evidence  on  which  the
+         decision rests. There may be a heightened level of scrutiny, but no
+         heightened standard of review applies.
+
+
+     34. The headnote to the case of R (on the application of Khan)  v  SSHD
+         (Dishonesty, tax return, paragraph 322(5)) [2018]  UKUT  384  (IAC)
+         ("Khan"), a decision of Mr Justice  Spencer  sitting  as  an  Upper
+         Tribunal Judge, bears  setting  out  in  full  as  to  the  general
+         approach to cases of this nature:
+
+
+           "(i)   Where there has been a significant difference between the
+           income claimed in a previous application for leave to remain and
+           the income declared to HMRC, the Secretary of State is  entitled
+           to draw an inference that the Applicant has  been  deceitful  or
+           dishonest  and  therefore  he  should  be  refused  ILR   within
+           paragraph 322(5) of the Immigration Rules.   Such  an  inference
+           could be expected where there is no  plausible  explanation  for
+           the discrepancy.
+           (ii)  Where an Applicant has presented evidence to  show  that,
+           despite the prima facie inference, he was not in fact  dishonest
+           but only careless, then  the  Secretary  of  State  must  decide
+           whether the explanation and evidence is sufficient, in her view,
+           to displace the prima facie inference of deceit/dishonesty.
+           (iii)  In approaching that fact-finding task, the Secretary  of
+           State should remind herself that, although the standard of proof
+           is the "balance of probability", a finding  that  a  person  has
+           been deceitful and dishonest in relation to his tax affairs with
+           the consequence that he is denied settlement in this country  is
+           a very serious finding with serious consequences.
+           (iv)  For an Applicant simply to blame his or her accountant for
+           an "error" in relation to the historical tax return will not  be
+           the end of the matter, given that the accountant will or  should
+           have asked the tax payer to confirm that the return was accurate
+           and to have signed the tax  return.  Furthermore  the  Applicant
+           will have known of his or her earnings and will have expected to
+           pay tax thereon.  If the Applicant does not take steps within  a
+           reasonable time to remedy the situation, the Secretary of  State
+           may be entitled  to  conclude  that  this  failure  justifies  a
+           conclusion that there has been deceit or dishonesty.
+           (v)    When  considering  whether  or  not  the  Applicant  is
+           dishonest or merely  careless  the  Secretary  of  State  should
+           consider the following matters,  inter  alia,  as  well  as  the
+           extent to which they are evidenced (as opposed to asserted):
+                                   i.    Whether the explanation  for  the
+error by the accountant is plausible;
+                                ii.      Whether the  documentation  which
+            can be assumed to exist (for  example,  correspondence  between
+            the Applicant and his accountant at the time of the tax return)
+            has been disclosed or there is a plausible explanation for  why
+            it is missing;
+                              iii.     Why the Applicant did  not  realise
+            that an error had been made because his liability  to  pay  tax
+            was less than he should have expected;
+                              iv.      Whether, at any stage, the Applicant
+            has taken steps to remedy the situation and, if so, when  those
+            steps were  taken  and  the  explanation  for  any  significant
+            delay."
+
+
+     35. In relation to what he submits is the correct test for whether  the
+         Applicant has been dishonest,  Mr  Saini  draws  attention  to  the
+         speech of Lord Hughes in Ivey  v  Genting  Casinos  (UK)  Ltd  (t/a
+         Crockfords) [2017] UKSC 67 as follows:
+
+
+           "When dishonesty is in question the fact-finding  tribunal  must
+           first  ascertain  (subjectively)  the  actual   state   of   the
+           individual's  knowledge  or  belief  as  to  the   facts.    The
+           reasonableness or  otherwise  of  his  belief  is  a  matter  of
+           evidence (often in practice determinative) going to  whether  he
+           held the belief, but it is not an  additional  requirement  that
+           his belief must be reasonable; the question  is  whether  it  is
+           genuinely held.  When once  his  actual  state  of  mind  as  to
+           knowledge or belief as to facts  is  established,  the  question
+           whether his conduct was honest or dishonest is to be  determined
+           by the fact-finder by  applying  the  (objective)  standards  of
+           ordinary decent people..."
+
+
+     36. Mr Saini asserted that the test as there set out applied equally to
+         the Respondent as, in essence, the fact-finding tribunal.  Whilst I
+         have no difficulty with the submission that the Respondent is to be
+         treated as the primary fact-finder, the test as explained  in  Ivey
+         has to be looked at in  its  context  which  was  a  civil  dispute
+         between parties which involved a criminal element being  determined
+         by the court based on oral evidence and not  an  application  being
+         determined on written evidence.  The test is similar  to  that  set
+         out in Khan but not identical and, since  Khan  involves  the  same
+         factual context, I prefer the  test  as  explained  by  Mr  Justice
+         Spencer in that latter case.
+
+
+     37. Mr Saini also refers to the judgment of the Court of Session in Oji
+         v Secretary of State for the Home Department [2018] CSOH 127  which
+         dealt with a similar factual context as follows:
+
+
+            "[30]      In my opinion the mere fact  that  different  amounts
+           were  declared  to  HMRC  and  to  UKVI  did  not  constitute  a
+           sufficient basis for the  conclusion  that  the  petitioner  had
+           acted dishonestly and that it  was  accordingly  undesirable  to
+           grant him permission to remain.  The letter does not contain any
+           indication  that  the  respondent  addressed  her  mind  to  the
+           question whether the discrepancy indicated inadvertence  on  the
+           one hand or intentional wrongdoing on the other.  No  reason  is
+           given for the conclusion that there was as a  deliberate  under-
+           statement or over-statement of income in one  or  other  of  the
+           declarations.  In the circumstances of  the  present  case,  one
+           would have expected the respondent to explain why  an  inference
+           of dishonesty was to be drawn despite not  having  afforded  the
+           petitioner an opportunity to explain how it came about  that  he
+           declared  such  small  amounts  of   self-employed   income   by
+           comparison with the amounts declared to UKVI and subsequently to
+           HMRC when the amendments were submitted."
+
+
+         That passage has to be read in the context of  the  facts  of  that
+         case,  however,  which  included  that  the  petitioner  had   been
+         interviewed, was not asked about the discrepancy and  was  assessed
+         as credible in the course of that interview.   The Court of Session
+         cited the judgment in Khan at [27] of  the  judgment  with  evident
+         approval for the guidance there given.  I am not assisted either by
+         the judgment of UTJ Canavan in Williams v Secretary  of  State  for
+         the Home Department (JR/10532/2017): in that case  also  there  had
+         been an interview of the applicant in which he had been assessed as
+         credible which did not sit comfortably with the assessment that  he
+         was not credible as to the explanation given for  failing  to  file
+         any tax returns.
+
+
+     38. I accept however by reference to what is said in Khan  itself  that
+         the decision  whether  an  applicant  has  been  dishonest  in  his
+         dealings with either HMRC or the Respondent does not  arise  solely
+         by reason of the discrepancy.  As is said by Spencer J at [34],  an
+         accountant's error may be a valid explanation for  the  discrepancy
+         if explanation is given and it is plausible but, as is  also  there
+         said, the Tribunals in previous cases have "rightly been sceptical"
+         about whether the discrepancy is merely due to such an error.
+
+
+     39. Mr Saini drew my attention to the Respondent's guidance in relation
+         to the general grounds of refusal  entitled  "General  grounds  for
+         refusal  Section  4  -  v26.0  (published  19  April  2016)   ("the
+         Guidance").  As he accepts, although the guidance  in  relation  to
+         paragraph 322(5) refers to criminal offences and  similar  conduct,
+         it does emphasise that there is no need for a  criminal  conviction
+         for paragraph 322(5) to apply.  The essential question  is  whether
+         it is undesirable to allow  a  person  to  enter  or  remain.   The
+         guidance refers to cases where a migrant has used devices such as a
+         sham marriage to evade immigration control.    He  submits  however
+         that the conduct must be akin  to  criminal  conduct  and  of  such
+         gravity to lead to the conclusion that the migrant's presence is no
+         longer conducive to the public good.
+
+
+     40. Mr Saini also draws  attention  to  the  section  of  the  Guidance
+         concerning  the  mandatory  grounds  of  refusal  under  paragraphs
+         322(1A), 322(2) and 322(2A) of the Rules which  he  says  are  more
+         appropriate to deal  with  cases  such  as  this.   That  reads  as
+         follows:
+
+
+           "When an applicant has used deception either in their current or
+           previous application, for example, made a false  representation,
+           submitted  false  documents  or  information  or  not  disclosed
+           material facts, you:
+               . Must refuse their application under paragraph 322(1A), when
+                 deception has been used in a current application
+               . Should refuse their  application  under  paragraph  322(2),
+                 when deception was used in a previous application
+               . Should refuse their application  under  paragraph  322(2A),
+                 when  deception  was  used  in  a   current   or   previous
+                 application to get a document from the Secretary  of  State
+                 that shows that the applicant has a right to reside in  the
+                 UK"
+
+
+     41. Mr Saini moves from this reference to the section of  the  Guidance
+         which states that, in order to apply those paragraphs,  there  must
+         be positive evidence that the applicant has  lied  or  submitted  a
+         false document.
+
+
+     42. To the extent that Mr Saini's submission is that it is  not  lawful
+         or rational for the Respondent to rely on paragraph  322(5)  rather
+         than 322(1A) etc based on what is said in the  Guidance,  I  reject
+         that submission.  The issue in  cases  such  as  this  is  that  an
+         applicant is said to have provided information  to  HMRC  which  is
+         inconsistent when compared with that produced to the  Home  Office.
+         However, the Respondent is unlikely to know which of the  two  sets
+         of information is false (assuming either is true).
+
+
+     43. The paragraphs dealing with deception are mandatory  and  therefore
+         require  cogent  proof  of  what  is  said  to  be  the  underlying
+         deception.  In cases such as this, there is an inference drawn from
+         the inconsistency for which an applicant may be able to provide  an
+         explanation.  Unless he is able to do so, however, his  conduct  is
+         characterised as dishonest and he may be refused  leave  to  remain
+         depending on the nature of and reasons for that discrepancy.
+
+
+     44. I am not greatly assisted either by the reference to character  and
+         conduct in the guidance concerning applications for  naturalisation
+         as a British citizen.  There may be some read-across  to  cases  of
+         dishonesty  applying  paragraph  322(5)  but  the  purpose  of  the
+         application is different.  Even if that  guidance  does  apply,  it
+         does not assist  the  Applicant.   The  relevant  section  of  that
+         guidance reads as follows (so far as relevant):
+
+
+           "The decision maker will normally refuse  an  application  where
+           the person has attempted to deceive or  otherwise  been  clearly
+           dishonest  in  their  dealings  with   another   department   of
+           government...
+           The decision  maker  will  assess  the  extent  to  which  false
+           information was provided and what, if anything, was intended  or
+           actually gained as  a  result.   The  decision  maker  will  not
+           normally refuse an application because the person made a genuine
+           mistake on an application form or because they claimed something
+           to which they reasonably believed  or  were  advised  they  were
+           entitled."
+
+
+         That is not inconsistent  with  the  discretion  which  applies  to
+         paragraph 322(5) of the Rules which is  that  the  Respondent  will
+         "normally" refuse an application where an applicant's character  or
+         conduct  is  such  that  his  continued  presence  in  the  UK   is
+         undesirable.  Nor is it inconsistent with  what  is  said  in  Khan
+         regarding the possibility that an applicant has made a  mistake  or
+         indeed the way in which the decision-makers approached the issue in
+         this case.
+
+
+     45. In relation to The Discretion Ground, Mr Saini relies on  the  case
+         of R (on the application of Ngouh) v Secretary  of  State  for  the
+         Home Department [2010] EWHC 2218. He says that the  application  of
+         paragraph 322(5) is  a  two-staged  process.   Not  only  must  the
+         Respondent be satisfied that there is dishonesty and that it is  of
+         such magnitude that it justifies the application of the  paragraph,
+         but he must take into account all the relevant circumstances  known
+         about an applicant in order to determine  whether  the  applicant's
+         continued presence is undesirable.
+
+
+     46. Whether that is a one-stage or two-stage process,  I  accept  as  a
+         proposition that the  Respondent  must  be  satisfied  that  it  is
+         appropriate  to  refuse  leave  based  on  the  dishonest  conduct;
+         paragraph 322(5) is after all a discretionary  ground  of  refusal.
+         However, I am not greatly assisted by what is said in Ngouh in this
+         regard.  The context of that case is very different.  I accept that
+         in some ways the conduct which was held against Mr Ngouh  was  more
+         serious than that relied upon in this case. However,  equally,  the
+         factors in his favour were stronger particularly in relation to the
+         evidence put forward on his behalf when he sought ILR.  That was  a
+         case involving a soldier in the British Army who had served in Iraq
+         and  who  had  received  glowing   reports   from   his   superiors
+         notwithstanding an offence to which  he  had  pleaded  guilty.   As
+         Foskett J says at  [110],  "[a]ny  fair-minded  assessment  of  the
+         Claimant's character and conduct does require a true balance to  be
+         struck between the conviction and its surrounding circumstances, on
+         the one hand, and the very positive references he received from the
+         Army, those references to be assessed also against  the  background
+         of that part of his service of this country  in  what  was  a  very
+         dangerous part of the world  at  a  very  dangerous  time,  on  the
+         other".
+
+
+     47. It is clear from the passage cited that the  facts  in  Ngouh  were
+         very different to those in this case as was the nature  and  extent
+         of the evidence available to the  decision-maker.  Insofar  as  the
+         judgment  lays  down  the  principle  that  all  the  known   facts
+         surrounding the conduct complained of must be considered, I  accept
+         that those must be considered by the Respondent.  However, I do not
+         consider that the judgment can be applied more widely than that  in
+         terms of general principles.
+
+
+     48. In relation to the information  which  the  Applicant  says  it  is
+         necessary for the Respondent to seek before making a  decision,  Mr
+         Saini relies on the "Tameside duty" which emerges from  the  speech
+         of Lord Diplock in Secretary of State for Education and  Science  v
+         Tameside MBC [1977] AC 1014.  Mr Saini relies on principles derived
+         from the authorities about this duty  as  set  out  in  R  (on  the
+         application of Plantagenet Alliance Limited) v Secretary  of  State
+         for Justice [2014] EWHC 1662 (Admin) as follows:
+
+
+           "Duty to carry out sufficient inquiry/Tameside duty
+           99.   A public body has a duty to carry out a sufficient inquiry
+           prior to making its decision. This is sometimes known as the
+           'Tameside' duty since the principle derives from Lord Diplock's
+           speech in Secretary of State for Education and Science v
+           Tameside MBC [1977] AC 1014, where he said (at page 1065B): "The
+           question for the court is, did the Secretary of State ask
+           himself the right question and take reasonable steps to acquaint
+           himself with the relevant information to enable him to answer it
+           correctly?".
+           100.  The following principles can be gleaned from the
+      authorities:
+           (1) The obligation upon the decision-maker is only to take such
+           steps to inform himself as are reasonable.
+           (2) Subject to a Wednesbury challenge, it is for the public
+           body, and not the court to decide upon the manner and intensity
+           of inquiry to be undertaken (R(Khatun) v Newham LBC [2005] QB
+           37 at paragraph [35], per Laws LJ).
+           (3) The court should not intervene merely because it considers
+           that further inquiries would have been sensible or desirable. It
+           should intervene only if no reasonable authority could have been
+           satisfied on the basis of the inquiries made that it possessed
+           the information necessary for its decision (per Neill LJ in R
+           (Bayani) v. Kensington and Chelsea Royal LBC (1990) 22 HLR 406).
+           (4) The court should establish what material was before the
+           authority and should only strike down a decision by the
+           authority not to make further inquiries if no reasonable council
+           possessed of that material could suppose that the inquiries they
+           had made were sufficient (per Schiemann J in R (Costello) v
+           Nottingham City Council (1989) 21 HLR 301; cited with approval
+           by Laws LJ in (R(Khatun) v Newham LBC (supra) at paragraph
+           [35]).
+           (5) The principle that the decision-maker must call his own
+           attention to considerations relevant to his decision, a duty
+           which in practice may require him to consult outside bodies with
+           a particular knowledge or involvement in the case, does not
+           spring from a duty of procedural fairness to the applicant, but
+           from the Secretary of State's duty so to inform himself as to
+           arrive at a rational conclusion (per Laws LJ in (R (London
+           Borough of Southwark) v Secretary of State for
+           Education (supra) at page 323D).
+           (6) The wider the discretion conferred on the Secretary of
+           State, the more important it must be that he has all relevant
+           material to enable him properly to exercise it (R (Venables) v
+           Secretary of State for the Home Department [1998] AC 407 at
+           466G)."
+
+
+     49. Mr Saini accepts by reference to principle (5) that the  Respondent
+         was entitled to liaise with  HMRC  about  the  information  in  its
+         possession relevant to the Applicant's earnings.  He relies however
+         on what he says is a duty to gather all material  relevant  to  the
+         exercise of discretion (by reference to principle (6)).  I observe,
+         however, that the extent of the duty depends on the breadth of  the
+         discretion to be exercised and the discretion inherent in paragraph
+         322(5) of the Rules is a narrow one: the rule provides  that  where
+         offending  character  or  conduct  is  established,   this   should
+         "normally" lead to refusal.  I deal further with the nature of  any
+         duty to  seek  out  information  when  considering  The  Procedural
+         Unfairness Ground below.
+
+
+     50. In summary of his submissions concerning  the  rationality  of  the
+         Decisions  and  exercise  of  discretion,  Mr  Saini  asserts   the
+         following flaws:
+
+
+         (1)      There was no allegation of subjective  dishonesty  and  no
+         reliable, positive evidence that a false statement  of  income  was
+         deliberately and dishonestly made to HMRC and/or the  Respondent  -
+         this includes that there is a lack of positive  evidence  to  prove
+         that the Applicant has lied;
+
+
+         (2) The Respondent did not comply with the "Tameside duty" in order
+         to gather the information  necessary  to  come  to  a  "Wednesbury"
+         reasonable conclusion, particularly where HMRC  had  not  issued  a
+         penalty (which would have been known to  the  Respondent  from  the
+         enquiries made of HMRC);
+
+
+         (3)  The Respondent failed to take into account  that  this  was  a
+         single, isolated error in a general pattern of properly  accounting
+         to HMRC as to tax - this includes that the Respondent has failed to
+         consider that the Applicant has paid a substantial  sum  and  would
+         have no incentive to under-declare the small amount involved in the
+         discrepancy (the tax difference is in the order of �1389);
+
+
+         (4) "Given the absence of evidence demonstrating fraud (as  opposed
+         to a mere difference in declarations and  not  even  a  significant
+         one) the assessment that there was sufficient evidence  to  justify
+         engagement of paragraph 322(5) was irrational and perverse";
+
+
+         (5)  The Respondent has failed to engage with the explanation given
+         and failed to consider the Applicant's explanation that  he  simply
+         relied on advice - this includes failure to consider the  different
+         nature of taxation on companies and individuals and  a  failure  to
+         take into account levels of personal allowance;
+
+
+         (6)  In relation to  the  discretion  ground,  the  Respondent  has
+         treated paragraph 322(5) of the Rules as  a  mandatory  requirement
+         rather than a discretionary one  -  there  is  no  evidence  of  an
+         exercise of discretion.
+
+
+     51. Mr Holborn relies squarely on the judgment in Khan.  He  makes  the
+         following points arising from what is there said:
+
+
+         (1) It is for the Respondent to  consider  whether  an  applicant's
+         character or conduct is  "questionable".   It  is  not  for  me  to
+         substitute my view for  that  of  the  decision-maker  tasked  with
+         making such decisions based on  experience  of  other  cases  where
+         similar conduct has occurred and including other related  areas  of
+         government.  The issue is whether the  Decisions  are  "within  the
+         range of reasonable responses";
+
+
+         (2) The legality of the Decisions has to be assessed  by  reference
+         to  the  material  before  the  decision  maker  when  making   the
+         Decisions;
+
+
+         (3) The Respondent is  entitled  to  refuse  an  application  under
+         paragraph 322(5) of the Rules if he rationally  concludes  that  an
+         applicant "has not been honest or transparent" with either HMRC  or
+         the Respondent in relation to his income;
+
+
+         (4) The Respondent is entitled to refuse an application whether  or
+         not HMRC has imposed a  penalty  -  HMRC's  role  is  fundamentally
+         different to that of the Respondent;
+
+
+         (5) In general, it is not a satisfactory defence for  an  applicant
+         to blame a discrepancy on his accountant.
+
+
+     52. Mr Holborn relies on the fact of the discrepancy as  sufficient  to
+         draw a prima facie inference that the Applicant has been  dishonest
+         (applying Khan). As he points out, in response to the questionnaire
+         sent to the Applicant  he  clearly  stated  that  the  tax  returns
+         submitted were correct,  that  he  had  never  had  to  correct  or
+         resubmit them and that he reviewed, checked  and  signed  each  tax
+         return.
+
+
+     53. Mr Saini points out in response that this may be an indication that
+         the Applicant did not know of the discrepancy  as  the  alternative
+         explanation for those answers is that he knew  but  was  so  brazen
+         that he thought it unlikely that he  would  be  "caught  out"  even
+         though the covering letter to the  questionnaire  made  clear  that
+         this is a point which the Respondent may wish to investigate.
+
+
+     54. Mr Holborn submits that the onus  following  the  drawing  of  that
+         inference is on the Applicant to provide  an  explanation  for  the
+         discrepancy.  He pointed out that the Applicant's  explanation  for
+         the discrepancy has shifted.
+
+
+     55. The letter dated 24 May 2013 ([AB/163]) which accompanied the  2013
+         application for leave to remain is inconsistent with what  is  said
+         in the accountant's letter accompanying the  administrative  review
+         application about the errors.  The tax figure given in the  24  May
+         2013 letter is different to that in the tax return.
+
+
+     56. Mr Holborn  also  submitted  that  the  information  given  in  the
+         Applicant's questionnaire differs from what is later said about his
+         tax position.  He says that his tax liability in  2013-14  was  nil
+         but now says that over �2000 from the 2012-13 tax year fell  to  be
+         declared in 2013-14.  The Applicant accepts that he did not file  a
+         return  in  2013-14  which  failure  he  now  also  blames  on  his
+         accountant.
+
+
+     57. Mr Holborn makes the point in his  skeleton  argument  that  it  is
+         implausible that the Applicant would make �6,947 in the first month
+         of the 2013-14 tax year.  That the  whole  of  the  discrepancy  is
+         accounted for by the difference in financial years as compared with
+         tax years comes from [14] of the judicial review grounds (which are
+         supported by a statement of truth) where it is said that the reason
+         for the discrepancy is that  the  earnings  spanned  two  financial
+         years and that it is  this  which  the  Respondent  has  failed  to
+         appreciate.  It is thereafter accepted at [20] of the grounds  that
+         the Applicant should have but did not file a  tax  return  for  the
+         2013-14 tax year because he believed there was  no  tax  liability.
+         It is then said that he so  believed  because  he  thought  he  had
+         discharged his obligation by paying corporation tax and income  tax
+         during the period.  However, the grounds go on to say that  he  was
+         not advised that he had to pay tax on the sum of �6947,  being  the
+         total amount of the discrepancy with the inference that he ought to
+         have filed a tax return.  There is no mention  of  the  discrepancy
+         being due to other errors.
+
+
+     58. Although the letter post-dates the Decisions,  Mr  Holborn  pointed
+         out that the explanation given to HMRC for the discrepancy  in  the
+         letter  at  [AB/151]  is  also  not  consistent  with   the   other
+         explanations.  I observed however that this is a  letter  from  the
+         Applicant which does not provide any explanation at all and  simply
+         asks HMRC to adjust his tax to coincide with what he says should be
+         his self-employed income of  �35,499.   In  fact,  this  letter  is
+         somewhat more supportive of the Applicant since  it  suggests  that
+         the Applicant still does not understand the discrepancy and how  it
+         has arisen.  The letter from HMRC in response is perhaps clearer as
+         to how it understands the discrepancies, but  that  too  post-dates
+         the Decisions and I do not take either into account.
+
+
+     59. The  accountants'  letters  which  accompanied  the  administrative
+         review are probably the fullest explanation.  Mr Holborn says  that
+         these letters still fail to explain the whole  of  the  discrepancy
+         because they do not explain why it is that the  Applicant  did  not
+         file a tax return in the following tax year. Further, he says  that
+         the letter from the firm  which  filed  the  tax  return  makes  no
+         mention of the discrepancy being due in any way to a difference  in
+         the financial year and that the letter from the other firm tends to
+         suggest that the discrepancy arose at the start  of  the  financial
+         year (by reference back to the previous tax year) and  not  at  the
+         end.  I do not accept that analysis on a fair reading of the letter
+         which I have set out at [12] above.
+
+
+     60. Mr Holborn suggested that the differing explanations (of  which  he
+         said there are about five) show an extreme lack of care on the part
+         of the Applicant.  Mr Saini accepted that this may be the case  but
+         said that was not deception.
+
+
+     61. Mr Holborn  also  places  some  emphasis  on  the  benefit  to  the
+         Applicant of over-declaring income to the  Respondent  than  under-
+         declaring it to HMRC.  It was for that  reason  that  I  asked  for
+         information (which I have set out above) about  what  the  position
+         would have been if the  earnings  as  declared  to  HMRC  had  been
+         declared to the Respondent in 2013.  Mr Holborn's  answer  to  that
+         question is that the Applicant could  not  have  succeeded  if  the
+         whole of the  discrepancy  were  taken  into  account  because  the
+         earnings would have been �49,173, the  Applicant  would  have  been
+         awarded only 25 points and he would not have sufficient  points  to
+         meet the 75 points required (the  Applicant  scored  80  points  in
+         reliance on earnings which  scored  him  35  points).   Mr  Holborn
+         accepted  that  if  the  Applicant's  earnings  had  in  fact  been
+         somewhere between the two figures declared and over  �50,000,  then
+         the Applicant could have succeeded in obtaining leave in 2013.
+
+
+     62. Mr Saini in response pointed out that the Respondent had  documents
+         in 2013 which must have been accepted as showing that the Applicant
+         earned what he said he did.  He said that an immigration  advantage
+         was less likely to be the reason behind the discrepancy.
+
+
+     63. Mr Holborn points out that the Decision makes express reference  to
+         the exercise of discretion.  There is  recognition  that  paragraph
+         322(5) is not a mandatory ground.
+
+
+    The Procedural Unfairness Ground
+
+
+     64. Moving on then to the procedural fairness ground,  in  relation  to
+         the principles of fairness on which Mr  Saini  relies,  he  accepts
+         that what fairness requires depends on context (R  v  Secretary  of
+         State for the Home Department, ex p.  Doody  [1993]  UKHL  8).   He
+         directs my attention however to the  cases  of  Bank  Mellat  v  HM
+         Treasury (No 2) [2013] UKSC 39 and R (Osborn) v Parole Board [2014]
+         AC 1115.
+
+
+     65. Mr Saini relies on the case of Osborn as to the extent of the  test
+         for me, and to show why it is necessary to have a procedurally fair
+         decision-making process.  He refers to the speech of Lord  Reed  at
+         [65] onwards as follows:
+
+
+            "[65]      The first matters concerns the role of the court when
+           considering whether a fair procedure was followed by a decision-
+           making body such as the board....The court  must  determine  for
+           itself whether a fair procedure was followed...Its  function  is
+           not merely to review the reasonableness of the  decision-maker's
+           judgment of what fairness required.
+            [66] The second matter to be clarified concerns the  purpose  of
+           procedural fairness....
+            [67] There is no doubt that one of the virtues  of  procedurally
+           fair decision-making is that it is liable to  result  in  better
+           decisions, by ensuring  that  the  decision-maker  receives  all
+           relevant information and that it is properly  tested...At  least
+           two other important values are also engaged.
+            [68]   The  first  was  described  by  Lord  Hoffman  ...as  the
+           avoidance of the sense of injustice which the person who is  the
+           subject of the decision will  otherwise  feel...Respect  entails
+           that such persons  ought  to  be  able  to  participate  in  the
+           procedure by which the decision  is  made,  provided  they  have
+           something to say which is relevant to the decision to be taken."
+
+
+     66. I have no difficulty with accepting the principle set out  at  [65]
+         of the judgment that whether the procedure  was  fair  is  for  the
+         Tribunal to assess and is not merely a review of  the  Respondent's
+         opinion of what fairness demands.
+
+
+     67. Lord Sumption in Bank Mellat repeats the principle taken from Doody
+         to which I have already referred that  "what  fairness  demands  is
+         dependent on the context of the decision" and goes on to  say  this
+         (also citing from Doody):
+
+
+           "(4) An essential feature of the context is  the  statute  which
+           creates the discretion, as regards both  its  language  and  the
+           shape of the legal and administrative system  within  which  the
+           decision is taken. (5) Fairness will very often require  that  a
+           person who may be adversely affected by the decision  will  have
+           an opportunity to make representations on his own behalf  either
+           before the  decision  is  taken  with  a  view  to  producing  a
+           favourable result;  or  after  it  is  taken,  with  a  view  to
+           procuring its  modification;  or  both.  (6)  Since  the  person
+           affected usually cannot make worthwhile representations  without
+           knowing what factors may weigh against  his  interests  fairness
+           will very often require that he is informed of the gist  of  the
+           case which he has to answer."
+
+
+     68. Mr Saini also refers to the speech of Lord  Neuberger  which  makes
+         the point that, unless there are some "special facts"  there  is  a
+         common law duty on a decision maker to give notice to a  person  in
+         relation to whom a decision is to be taken and for that  person  to
+         be heard.
+
+
+     69. The Bank Mellat case arises in a very  different  context  to  this
+         case as it concerned a decision made without notice rather than one
+         made in the context of and in reply to an application made.   As Mr
+         Holborn pointed out, the application  process  is  the  Applicant's
+         opportunity  to  put  forward  all   relevant   information.    The
+         Applicant's opportunity to be heard therefore has to be  viewed  in
+         that context.   That context is also relevant to the extent of  any
+         "Tameside duty" on the Respondent  to  seek  out  information:  the
+         Applicant can be expected to put forward all information  which  he
+         wishes the Respondent to consider.
+
+
+     70. Moreover, in this case,  the  Applicant  was  on  notice  that  the
+         Respondent might conclude that his earnings were not genuine.   The
+         Respondent put  the  Applicant  on  notice  by  the  sending  of  a
+         questionnaire prior to the making of the First Decision.   For that
+         reason, I  reject  Mr  Saini's  submission  that  the  process  was
+         procedurally unfair because the Applicant was  not  put  on  notice
+         that his application would be refused on the basis of his  conduct.
+         Mr Holborn submits that the extent and the nature of  the  duty  of
+         fairness  is  academic  because  the  Applicant   was   given   the
+         opportunity to explain any discrepancies by  the  sending  of  that
+         questionnaire.
+
+      DISCUSSION AND CONCLUSIONS
+
+      The Review Ground
+
+     71. I can deal shortly with The Review Ground.   Insofar  as  Mr  Saini
+         seeks to argue that the Respondent was not  entitled  to  view  the
+         discrepancy in this case  as  "significant"  because  of  the  sums
+         involved, I do not consider that this  can  be  inferred  from  the
+         Review Document.  The Review Document merely states that the common
+         and average differences were thought to be  significant.   It  does
+         not say that other differences would be disregarded  or  should  be
+         considered to be any less significant.
+
+
+     72. In terms of assessing character and conduct, the issue is  how  the
+         discrepancy arose, whether an applicant knows or should have  known
+         of the discrepancy and therefore whether he has acted  dishonestly.
+         For that reason,  as  Mr  Holborn  submitted,  and  I  accept,  the
+         significance lies in the consequence of  the  discrepancy  and  any
+         advantage gained.  It may be that the lower the  figure,  the  less
+         likely it is that an applicant would have  cause  to  question  the
+         difference because it may not have significant implications to  the
+         amount of tax involved.  However, as the Respondent points out, the
+         advantage to the Applicant is not necessarily to be  found  in  the
+         saving of tax.  In fact, given the amounts involved, I  doubt  that
+         this is likely to be the reason.   The  greater  advantage  to  the
+         Applicant in this case would lie in the over-declaration of  income
+         to the Respondent.
+
+
+     73. For those reasons, the Decisions are not unlawful for reliance on a
+         discrepancy which is not as substantial as some of  those  referred
+         to in the Review Document.
+
+
+      The Procedural Unfairness Ground
+
+     74. I can also deal shortly with The Procedural Unfairness Ground.  The
+         Applicant was given the opportunity to  explain  any  discrepancies
+         prior to the Decision.  The covering letter  to  the  questionnaire
+         and the questions posed in the questionnaire  would  have  put  the
+         Applicant on notice as to the concerns of  the  Respondent.   Those
+         did not need to be spelt out further.  It  is  not  entirely  clear
+         what documents the Applicant provided for  the  relevant  financial
+         years, but he was asked to  provide  the  tax  calculations  and  a
+         simple check of that calculation against his  accounts  (which  are
+         contained  in  a  one-page  letter  from  the   accountant)   would
+         immediately have shown that there was a discrepancy.  The fact that
+         the Applicant did not conduct that exercise does not  indicate  any
+         lack of procedural fairness on the part of the Respondent.
+
+
+     75. The Applicant was also given the opportunity to  explain  (and  did
+         explain) the discrepancy after the First Decision.  He provided the
+         accountants' letters to which I have already referred.  I accept Mr
+         Holborn's submission  that  an  administrative  review  is  not  an
+         opportunity to make a second application; it is  a  review  of  the
+         First Decision.  However, I accept that the Respondent was  obliged
+         to consider the accountants' letters since those were  put  forward
+         by the Applicant as explanation for the discrepancy.  I  deal  with
+         what those show and the extent to which the  Respondent  considered
+         them below. I do not accept that there was any further duty on  the
+         Respondent to seek out information relating to the discrepancy  and
+         reasons for it.  The Applicant was firmly on notice by  this  stage
+         of the case he had to meet and needed to ensure that  he  explained
+         the errors and how those came about.
+
+
+     76. For those reasons, I do not accept that the Respondent has acted in
+         a  manner  which  is  procedurally  unfair.   No  unlawfulness   is
+         established in this regard.
+
+
+      The Rationality Ground and The Discretion Ground
+
+
+     77. I begin with The Discretion Ground as I do not consider  that  this
+         adds  materially  to  The  Rationality  Ground.    I   accept   the
+         Respondent's submission  that  the  nature  of  the  discretion  is
+         "normally" to refuse an application where dishonesty is  shown.   I
+         also accept that, if an applicant  is  concluded  to  have  behaved
+         dishonestly, the Respondent is  generally  entitled  to  refuse  an
+         application on character and conduct grounds.  I  accept  that  the
+         Respondent is required to take into account  information  which  he
+         has about an applicant.  However, the matters relied  upon  by  the
+         Applicant as not being  taken  into  account  in  the  Respondent's
+         discretion in this case are all matters which are said to go to the
+         explanation  given  for  the  discrepancy  rather  than  extraneous
+         matters  about  the  overall  conduciveness  of   the   Applicant's
+         residence  in  the  UK.   As  such,  they  are  more  appropriately
+         considered  under  the  heading  of  The  Rationality  Ground.    I
+         therefore turn to deal with this.
+
+
+     78. I accept as a starting point that the  Respondent  is  entitled  to
+         draw a prima facie inference of dishonesty  from  the  discrepancy.
+         It is accepted by  the  Applicant  that  there  is  a  discrepancy.
+         Whilst it may be the case that part of it relates to the difference
+         between financial and tax years (although there may be  some  doubt
+         about whether that is genuinely  the  case  when  the  accountant's
+         letter at [AB/163] is taken into account), the Respondent could not
+         be expected to know that this  was  the  position  when  the  First
+         Decision was made.  It was incumbent on the Applicant to explain if
+         that were the case.  The  questionnaire  made  no  mention  of  it.
+         Indeed, the Applicant's assertion that he earned nothing from self-
+         employment in 2013-14 positively conflicts with his case as now put
+         forward. Moreover, it is common ground that the Applicant  did  not
+         submit a tax return (or therefore pay tax) on the amount which fell
+         into the following tax year.  His conduct therefore in that  regard
+         also requires explanation.
+
+
+     79. The Respondent relies on the Applicant's  dishonesty  in  declaring
+         different amounts for what should be the same  income  (subject  to
+         the point about the difference in tax and  financial  years).   The
+         Respondent does not say which is the correct amount.  He cannot  be
+         expected to know.  Whilst I accept that he had  documents  produced
+         to him in 2013 which state  the  Applicant's  self-employed  income
+         consistently with the amount declared in the 2013 application,  the
+         fact  that  the  income  differed  from  that  declared  to   HMRC,
+         ostensibly  for  the  same  period,  was  sufficient  to  give  the
+         Respondent  cause  for  concern  about  the  genuineness   of   the
+         declaration made to him, and to require the  Applicant  to  explain
+         how that arose, and  otherwise  why  that  conduct  should  not  be
+         considered to be dishonest.
+
+
+     80. It may be relevant, as Mr Saini submits, that the Applicant did not
+         alert the Respondent to  the  discrepancy  when  he  completed  the
+         questionnaire.  Unlike in many cases of this nature, the  Applicant
+         had not amended his tax return at the time of or immediately before
+         making  the  application  for  ILR.   Such  apparently   unprompted
+         amendments immediately before making an application  for  ILR  when
+         the discrepancy might be  discovered  certainly  give  rise  to  an
+         inference that the applicant is aware of the discrepancy.  The fact
+         that the Applicant in this case  did  not  do  so  when  given  the
+         opportunity may be an indication  that  he  was  oblivious  to  the
+         discrepancy.  However, the Respondent was  entitled  to  take  into
+         account  that  the  Applicant  had  answered   questions   in   the
+         questionnaire indicating that there were no discrepancies, that  he
+         had not had to  amend  tax  declarations  in  recognition  of  such
+         discrepancies and,  most  importantly,  that  he  had  checked  his
+         returns and signed them.   That too was sufficient to raise a prima
+         facie inference of dishonesty.
+
+
+     81. For those reasons, based on the information  which  the  Respondent
+         had at the time of the First Decision, the First  Decision  is  not
+         unlawful or unreasonable. The Respondent was entitled  to  rely  on
+         the differing amounts declared to him and  HMRC  for  the  relevant
+         period and lack of explanation therefor.
+
+
+     82. I turn then to consider the issues as set out at (ii) to (v) of the
+         headnote in Khan.  In so doing, I have clearly in mind that  it  is
+         not for me to form my own view on what the evidence shows (although
+         the plausibility of the explanation put forward or lack of  it  may
+         form part of my consideration whether the Respondent has adequately
+         considered that explanation).
+
+
+     83. As Mr Holborn points out, there have been  a  number  of  different
+         explanations put forward for the discrepancy.  The relevant one for
+         my purposes is what was said in response to the First  Decision  in
+         the administrative review.  It is the Respondent's consideration of
+         and answer to any  explanation  there  put  forward  which  is  the
+         important one for my  purposes.  The  fact  that  the  position  is
+         misrepresented in the grounds, even though those are supported by a
+         statement of truth, does not undermine the  Applicant's  case.   It
+         may well be that the Applicant's solicitors did not understand  the
+         position; it appears from the correspondence with HMRC which  I  do
+         not take into account either that the Applicant  himself  may  well
+         not have understood how the discrepancy arose.
+
+
+     84. I turn then to what was said in the administrative  review.   As  I
+         said earlier, I do not have the administrative review  application.
+         However, it is accepted that the two accountants' letters were laid
+         before the Respondent. I have set out the content of the fuller  of
+         those two letters at [12] above.
+
+
+     85. The explanation there given is consistent with the way in  which  I
+         explained the discrepancy at [16] above.  In  other  words,  it  is
+         made up of at least four separate discrepancies.
+
+
+     86. One  of  those  errors  might  be  explained  by  carelessness.   A
+         qualified accountant ought of course  to  know  that  turnover  and
+         profit are different things.  However, that does not mean  that  an
+         error of inserting one for the  other  could  not  arise  by  human
+         error, and that it was made is  consistent  with  the  tax  return.
+         However, there is no explanation as to how that error  came  to  be
+         made.  It is simply stated that it is an error.
+
+
+     87. One might be described as not a discrepancy at all.  It is based on
+         the Applicant's financial year being different to the tax year.  Of
+         course, that does not excuse the Applicant's failure to declare the
+         income in the following year and does not explain  the  discrepancy
+         in the declaration to the Home Office of "nil" in the following tax
+         year.  However, one can see how an individual being advised that he
+         had declared income for a particular year might  consider  that  he
+         had declared all income for that year in the earlier tax return and
+         not understood that he had a duty to account to HMRC for tax in the
+         following tax year.  As  I  have  noted,  however,  the  letter  at
+         [AB/163] which set out the accounts for  the  business's  financial
+         year does not suggest that any such adjustment needed to  be  made.
+         Whilst the fact of an adjustment having been claimed is  consistent
+         with  the  tax  return,  it  is  not  explained  why  there  is  an
+         inconsistency between that claimed adjustment and the accounts  nor
+         between that and the Applicant's explanation and assertion that  he
+         earned nothing from self-employment in the 2013-14 tax year.
+
+
+     88. The remaining discrepancies are less readily explicable as  errors.
+         One of them may be due to the insertion of a "1" in  front  of  the
+         correct figure.  The others though appear to be an attempt  whether
+         by the accountant or the Applicant to deliberately inflate expenses
+         with a view to reducing taxable income.   That  may  make  it  more
+         likely that the "error" in relation to the insertion of the  profit
+         figure in the turnover box  was  deliberate  and  not  inadvertent.
+         Again, there is no explanation for how  those  errors  came  to  be
+         made.  The letter from Doshi & Company at [AB/149]  says  that  one
+         error was to include �450 for home rent which was  not  claimed  in
+         the accounts and that the other was to  claim  �667  for  a  figure
+         given in the accounts as �87 but it does not  explain  how  or  why
+         those came to be made.  The figures in the accountant's  letter  at
+         [AB/163] could not be plainer.  Doshi & Company were acting as that
+         accountant's sub-contractor in the filing of the  tax  return.   As
+         such, they ought to  be  able  to  explain  how  it  is  that  very
+         different figures came to be  included  in  that  tax  return  when
+         compared with the business accounts.  Their letter does not do so.
+
+
+     89. It is fair to observe as did Mr Saini that the tax implications  of
+         those discrepancies even in combination are small.  The tax avoided
+         is only just over �1,000.  Further, as I explained at  [19]  above,
+         the Applicant would only have failed in his  2013  application  for
+         leave if all the discrepancies were taken into account against him.
+          If the difference in income due  to  the  difference  between  the
+         financial year and the tax year were disregarded on the basis  that
+         this was not a discrepancy at all, then the  Applicant  would  have
+         qualified for leave in 2013.  This brings into play the Applicant's
+         submission  that  the   amount   of   the   discrepancy   was   not
+         "significant".  To my mind, when considering significance, what the
+         Respondent has to consider is the effect of the discrepancy not the
+         size of it.  It would matter not if the discrepancy were  only,  as
+         here, in the order of �6,000,  but  the  effect  of  that  for  the
+         purposes of the earlier application was that leave to remain  would
+         have been refused.  When considering the discrepancy, however, that
+         is the approach which the Respondent took (see passage  cited  from
+         the Second Decision at [26] above).   He clearly stated that  there
+         would be a benefit to the Applicant based either on an underpayment
+         of tax or obtaining leave to remain to which he would not otherwise
+         have been entitled.  Whether he was entitled to  take  that  latter
+         point depends on the explanation given for all of the errors.
+
+
+     90. The question which arises for consideration  therefore  is  whether
+         the Respondent was entitled to  take  the  view  he  did  that  the
+         accountants' letters did not alter  his  view  of  the  Applicant's
+         responsibility for the inconsistent declarations.  I  have  already
+         set out why it might be said that at least two of the errors  arose
+         from carelessness.  However, that is  not  what  was  said  by  the
+         responsible accountants.  The errors are  simply  stated  as  such.
+         They do not explain how those errors arose.   Doubt  about  whether
+         those can be considered to be mere  errors  is  also  cast  by  the
+         difference  in  the  expenses  claimed  for  which  there   is   no
+         explanation let alone a plausible one.   As  I  indicated  at  [88]
+         above, it is difficult to categorise those as anything other than a
+         deliberate  over-inflation  of  expenses  when  compared  with  the
+         accounts.
+
+
+     91. Moreover, as the Second  Decision  points  out,  the  Applicant  is
+         responsible for his own tax  affairs.   He  had  confirmed  in  his
+         responses in the questionnaire that he had checked and  signed  his
+         tax returns and considered them to be correct.  I take into account
+         Mr Saini's point that it would require a  brazen  approach  not  to
+         admit to the discrepancy before making the application for ILR when
+         the Respondent had put the Applicant on notice as to his  concerns.
+         It may be that the Applicant had forgotten  about  the  discrepancy
+         since it was some years ago. It is not for me (or  the  Respondent)
+         to speculate. The fact remains that if the  Applicant  checked  his
+         returns  as  he  said  he  did,  neither  he  nor  the  responsible
+         accountant explained how it was that the  tax  return  came  to  be
+         inconsistent with his accounts.  It was after all a  simple  matter
+         of checking the figures in the  return  itself  with  the  one-page
+         letter at [AB/163] from which it would be evident that inconsistent
+         figures were being inserted.  Even if he trusted his accountant and
+         did not understand much about accounts, it would  be  evident  that
+         there was a difference which needed clarifying.
+
+
+     92. As such, although the  Respondent's  consideration  in  the  Second
+         Decision of the evidence put forward is limited, that consideration
+         is sufficient to deal  with  the  evidence  because  that  evidence
+         simply fails to explain the errors or cast doubt on  the  inference
+         that the inconsistency was due to dishonest conduct on the part  of
+         the Applicant.  The Respondent was entitled therefore  to  maintain
+         the view that the inconsistency arose from dishonest conduct of the
+         Applicant and that it was appropriate to refuse him ILR due to that
+         conduct.  There is nothing irrational in  that  conclusion  on  the
+         evidence put before him.
+
+
+     93. For those reasons, I am satisfied that neither the  First  Decision
+         nor the Second Decision is unlawful.  This application for judicial
+         review is refused.
+
+
+Signed      [pic]Dated:   3 April 2019
+
+
+Upper Tribunal Judge Smith
+
+
+
+                                                                      UTIJR6
+
+
+                                                                JR/3886/2018
+
+
+                               Upper Tribunal
+                       Immigration and Asylum Chamber
+
+
+                       Judicial Review Decision Notice
+
+
+
+
+
+
+
+                       The Queen on the application of
+                              1) Sunilkumar [M]
+                              2) Shobhaben [M]
+                                  3) [V M]
+                                                                  Applicants
+                                      v
+
+
+                 Secretary of State for the Home Department
+                                                                  Respondent
+
+                      Before Upper Tribunal Judge Smith
+
+
+            Application for judicial review: substantive decision
+
+Having considered all documents lodged and having heard from Mr P  Saini  of
+Counsel instructed by Vision solicitors on behalf of the Applicants  and  Mr
+J Holborn of Counsel, instructed by  the  Government  Legal  Department,  on
+behalf of the Respondent, at a hearing at Field House,  London  on  Thursday
+14 February 2019
+
+Decision: the application for judicial review is refused
+For the reasons contained in my decision attached hereto
+
+Permission to appeal to the Court of Appeal
+No application was made for permission to appeal.  I  refuse  permission  to
+appeal in any event.  There is no arguable error of law in my decision.
+
+
+Costs
+The Applicants shall pay the Respondent's costs of this application  on  the
+standard basis to be assessed by a Costs Judge if not agreed
+Reasons
+The Applicants have failed in their application.   There  is  no  reason  to
+depart from the usual order that costs follow the event.  The Respondent  is
+entitled to his costs.
+
+
+            Signed:    [pic]
+
+
+                       Upper Tribunal Judge Smith
+
+
+        Dated:         3 April 2019
+
+
+
+
+
+
+
+
+
+
+Applicant's solicitors:
+Respondent's solicitors:
+Home Office Ref:
+Decision(s) sent to above parties on:
+----------------------------------------------------------------------------
+-------------------------------------------------------------------------
+ Notification of appeal rights
+
+A decision by the Upper Tribunal on an application for judicial review is  a
+decision that disposes of proceedings.
+
+ A party may appeal against such a decision to the  Court  of  Appeal  on  a
+question of law only. Any party who wishes to appeal  should  apply  to  the
+Upper Tribunal for permission, at the  hearing  at  which  the  decision  is
+given. If no application is made, the Tribunal must nonetheless consider  at
+the hearing whether to give or refuse permission to appeal (rule  44(4B)  of
+the Tribunal Procedure (Upper Tribunal) Rules 2008).
+
+If the Tribunal refuses permission, either in response to an application  or
+by virtue of rule 44(4B), then the party wishing to  appeal  can  apply  for
+permission from the Court of Appeal itself. This must be done by  filing  an
+appellant's notice with the Civil Appeals Office  of  the  Court  of  Appeal
+within 28 days of the date the Tribunal's decision on permission  to  appeal
+was given (Civil Procedure Rules Practice Direction 52D 3.3(2)).
+
+

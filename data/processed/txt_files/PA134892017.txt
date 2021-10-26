@@ -1,0 +1,1178 @@
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number: PA/13489/2017
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                       |Decision & Reasons Promulgated  |
+|On Wednesday 20 June 2018                  |On Monday 22 October 2018       |
+
+
+                                   Before
+
+                       THE HONOURABLE MR JUSTICE LANE
+                        UPPER TRIBUNAL JUDGE PERKINS
+                         UPPER TRIBUNAL JUDGE SMITH
+
+
+                                   Between
+
+                                    S M R
+                                                                   Appellant
+                                     And
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Mr B Bedford, Counsel instructed by Sultan Lloyd
+                    solicitors
+For the Respondent:    Mr S Najib, Counsel instructed by Government Legal
+Department
+
+
+Anonymity
+Rule 14: The Tribunal Procedure (Upper Tribunal) Rules 2008
+Although an anonymity order was not made  by  the  First-tier  Tribunal,  as
+this is a protection claim, it is appropriate to make  that  order.   Unless
+and until a tribunal or court directs otherwise, the  Appellant  is  granted
+anonymity. No report of  these  proceedings  shall  directly  or  indirectly
+identify him or any member of his family. This  direction  applies,  amongst
+others, to both parties. Failure to comply with this  direction  could  lead
+to contempt of court proceedings.
+
+
+                            DECISION AND REASONS
+
+    1. This is the decision  of  us  all.  The  section  dealing  with  the
+       applicable burden and standard of proof  was  primarily  written  by
+       Lane J and the remainder of the decision was written by  UTJ  Smith.
+       The part of the decision setting out the submissions made concerning
+       the facts of the case was drafted shortly after the hearing.
+
+
+    BACKGROUND
+
+
+    2. The Appellant appeals against  a  decision  of  First-Tier  Tribunal
+       Judge A K Hussain promulgated on 1 February  2018  ("the  Decision")
+       dismissing the Appellant's appeal against the Secretary  of  State's
+       decision dated 5 December 2017 refusing his protection claim.
+
+
+    3. The Appellant is a national of Iran born on 12 September  1999.   He
+       claims to have arrived in the UK clandestinely in January 2017.   He
+       claimed asylum on 7 January 2017.  At that time, he was a minor  but
+       at the time of the Respondent's decision and the hearing before  the
+       First-tier Tribunal he was aged eighteen.
+
+    4.  The  Appellant's  claim  of  the  Iranian  authorities  stems  from
+       association with his father who he says is a high-ranking member  of
+       the Kurdish Democratic Party ("KDP").  He  says  that  his  father's
+       name was disclosed to the authorities by a girl  who  worked  within
+       the KDP and knew his father.  She disclosed his  father's  identity,
+       the Appellant says, when  she  was  detained  and  tortured  by  the
+       authorities.
+
+    5. In addition to his father's role in the KDP, the Appellant says that
+       his father was a smuggler of goods banned  in  Iran.   He  does  not
+       claim  that  his  father  came  to  the  adverse  attention  of  the
+       authorities on that account.  The Appellant says that he accompanied
+       his father on at least ten smuggling trips but did not himself  come
+       to the adverse attention of the authorities.
+
+    6. The Judge did not accept that the Appellant's father is or ever  was
+       a member of the KDP, that he was a  high-ranking  official  in  that
+       party or that he was of adverse interest  from  the  authorities  on
+       that account ([24] of the Decision).  The Judge rejected a claim  of
+       any wider risk arising from the Appellant's illegal exit  from  Iran
+       or his failed asylum claim.
+
+    7. The Appellant seeks permission  to  appeal  on  three  grounds.   In
+       summary form, those are that the Judge applied the wrong burden  and
+       standard  of  proof,  that  the  Judge   ignored   the   Appellant's
+       vulnerability as a child with regard  to  a  material  part  of  the
+       evidence and that  the  Judge  failed  to  identify  the  background
+       material on which reliance was placed  in  support  of  the  Judge's
+       finding that the claim was inconsistent with the way  in  which  the
+       Iranian authorities conduct themselves.
+
+    8. Permission to  appeal  was  granted  by  First-tier  Tribunal  Judge
+       Birrell on 4 March 2018 in the following terms (so far as relevant):
+
+            "...[3]    The grounds challenge that the Judge failed to  take
+           into account the Appellants age in assessing the significance of
+           the discrepancies between the various  accounts  he  gave.   The
+           Judge identified in paragraph 1 the fact that the Appellant  was
+           a minor at the  time  of  the  events  outlined,  the  Screening
+           interview and the SEF but was  an  adult  at  the  time  of  his
+           witness statement and the hearing and that he 'made  appropriate
+           allowances' but it is  arguable  that  he  failed  to  make  any
+           reference to the Appellant's age thereafter when  assessing  the
+           evidence and therefore what 'allowances' he made.  There  is  no
+           reference to specific background material  in  relation  to  the
+           assessment of the activities of the Etalaat. There is less force
+           in ground one but all grounds may be argued.
+            [4]  The grounds disclose arguable errors of law."
+
+
+    9. The matter comes before us to decide whether the Decision contains a
+       material error of law and, if we so find, either to re-make the
+       Decision ourselves or remit the appeal to the First-tier Tribunal to
+       do so.
+
+    DECISION AND REASONS
+
+
+    Ground One: The Burden and Standard of Proof in Article 3 claims
+
+   10. An appellant in a human rights appeal who asserts that  his  or  her
+       removal from the United Kingdom would violate Article 3 of the  ECHR
+       must establish that claim. In other words, the appellant  bears  the
+       burden of proof.  The standard of proof requires  the  appellant  to
+       show a "reasonable likelihood" or "real risk" of Article 3 harm.
+
+   11. The Immigration Appeal Tribunal  so  held  in  Kacaj  (Article  3  -
+       Standard of Proof - Non-State Actors) Albania*  [2001]  UKIAT  00018
+       ("Kacaj").  At paragraph [12] of its  determination,  the  IAT  said
+       that "the standard may be a relatively low one, but it  is  for  the
+       applicant to establish his claim to that standard".
+
+   12. Section 107(3) and (3A) of the Nationality, Immigration  and  Asylum
+       Act 2002 ("the 2002 Act") provides  that  practice  directions  made
+       under section 23 of the Tribunals, Courts and Enforcement  Act  2007
+       may require the First-tier Tribunal and the Upper Tribunal to  treat
+       a specified decision  of,  amongst  other  bodies,  the  Immigration
+       Appeal Tribunal, as authoritative in respect of a particular matter.
+
+
+
+   13. Practice Direction 12 of the Immigration and Asylum Chambers of  the
+       First-tier Tribunal and the Upper Tribunal provides that a  reported
+       determination of, inter alia, the IAT which is  "starred"  shall  be
+       treated as authoritative in respect  of  the  matter  to  which  the
+       "starring" relates, unless inconsistent with other authority that is
+       binding on the Tribunal.
+
+   14. It is undisputed that  Kacaj  is  "starred"  for  what  it  says  in
+       paragraph 12 of the determination.  There is no  domestic  case  law
+       that is inconsistent with Kacaj.  On the contrary, the higher courts
+       consistently follow the same approach.  Thus,  for  example,  in  AM
+       (Zimbabwe) and Another v Secretary of State for the Home  Department
+       [2018] EWCA Civ 64, Sales LJ held:-
+
+         "16.     It is common ground that where a foreign national seeks to
+             rely upon Article 3 as an answer to an attempt by a  state  to
+             remove him into another country, the overall legal  burden  is
+             on him to show that Article 3 would be infringed in  his  case
+             by showing that there are substantial  grounds  for  believing
+             that he would face a real risk of being subject to torture  or
+             to inhuman or degrading treatment in that other country ..."
+
+   15. In the light of this, Mr Bedford  accepts,  as  he  must,  that  the
+       Appellant has a burden to discharge. He submits, however, that  what
+       he describes as  the  "standard  direction  on  appeal  against  the
+       refusal of an international protection claim" needs modification  in
+       order to take account of what he says is the "clear and  consistent"
+       line that has emerged from the European Court of Human Rights in the
+       past decade. In this regard, Mr Bedford places  particular  reliance
+       upon the judgment of the Grand Chamber in JK  and  Others  v  Sweden
+       (Application no. 59166/12) ("JK"), given on 23 August 2016.
+
+   16. According to Mr Bedford, JK holds that the burden on applicants  for
+       international protection is discharged  when  they  adduce  evidence
+       which is "capable of proving" a real risk on return.  At this point,
+       the burden  shifts  to  the  government  to  dispel  any  doubts  or
+       uncertainty.
+
+   17. Mr Bedford further submits that:-
+
+         "Any new or modified direction in the Tribunal on  the  burden  and
+         standard of proof must take account of the effect  of  the  Supreme
+         Court decision in R (Kiarie); R (Byndloss) v SSHD ...  [2017]  UKSC
+         42 at [54], [35] that for the purposes of section 82 [of  the  2002
+         Act] any proposed appeal must  be  taken  to  be  arguable  in  the
+         absence of a certificate that it is clearly unfounded."
+
+   18. The "hard" form  of  Mr  Bedford's  submission  (to  adopt  his  own
+       description) is, accordingly, that whenever the  respondent  decides
+       not to certify  a  human  rights  claim  (at  least,  one  involving
+       international  protection),  that  claim  must,  logically,  involve
+       "evidence capable of proving" the appellant's case, with the  result
+       that the ensuing appeal is one in which the  respondent  necessarily
+       bears the burden of dispelling "any doubts about it".
+
+   19. To use again Mr Bedford's terminology, the "softer" version  of  his
+       submission acknowledges that, even where a claim is not certified as
+       clearly unfounded, the appellant may, in certain circumstances, bear
+       the burden of proof throughout.  However, as we understand  him,  Mr
+       Bedford submits that an appellant whose case is not confined to  his
+       or her own statements but  is  supported  by  documentary  or  other
+       evidence,  has  discharged  the  burden,  so  that  it  is  for  the
+       respondent to dispel any doubts or uncertainty.  Mr Bedford  relies,
+       in this regard,  on  Article  4.5  of  the  Qualification  Directive
+       (Council Directive 2004/83/AEC).
+
+    Article 4(5) of the Qualification Directive
+
+   20. Article 4 of the Directive provides as follows:-
+
+         "Article 4
+
+
+         Assessment of facts and circumstances
+
+
+          1. Member States may consider it the duty  of  the  applicant  to
+             submit as soon as possible all elements needed to substantiate
+             the application for international protection.  In  cooperation
+             with the applicant it is the  duty  of  the  Member  State  to
+             assess the relevant elements of the application.
+
+
+          2. The elements  referred  to  in  paragraph  1  consist  of  the
+             applicant's  statements   and   all   documentation   at   the
+             applicant's   disposal   regarding   the   applicant's    age,
+             background, including that of  relevant  relatives,  identity,
+             nationality(ies),  country(ies)  and  place(s)   of   previous
+             residence,  previous  asylum  applications,   travel   routes,
+             identity and travel documents and the reasons for applying for
+             international protection.
+
+
+          3. The assessment of an application for international  protection
+             is to be carried out  on  an  individual  basis  and  includes
+             taking into account:
+
+               a) all relevant facts as they relate to the country of origin
+                  at the time of  taking  a  decision  on  the  application;
+                  including laws and regulations of the  country  of  origin
+                  and the manner in which they are applied;
+
+
+             (b) the relevant statements and documentation presented by the
+                  applicant including information on whether  the  applicant
+                  has been or may be subject to persecution or serious harm;
+
+
+             (c) the individual position and personal circumstances of  the
+                  applicant, including factors such  as  background,  gender
+                  and age, so as to assess whether,  on  the  basis  of  the
+                  applicant's personal circumstances, the acts to which  the
+                  applicant has been or could be  exposed  would  amount  to
+                  persecution or serious harm;
+
+
+             (d) whether  the  applicant's  activities  since  leaving  the
+                  country of origin were engaged in for  the  sole  or  main
+                  purpose of creating the necessary conditions for  applying
+                  for international protection,  so  as  to  assess  whether
+                  these activities will expose the applicant to  persecution
+                  or serious harm if returned to that country;
+
+
+             (e) whether the applicant  could  reasonably  be  expected  to
+                  avail himself of the protection of another  country  where
+                  he could assert citizenship.
+
+
+         4.  The  fact  that  an  applicant  has  already  been  subject  to
+             persecution or serious harm  or  to  direct  threats  of  such
+             persecution or such harm,  is  a  serious  indication  of  the
+             applicant's well-founded fear of persecution or real  risk  of
+             suffering serious harm,  unless  there  are  good  reasons  to
+             consider that such persecution or serious  harm  will  not  be
+             repeated.
+
+         5. Where Member States apply the principle according to which it is
+             the duty of the applicant to substantiate the application  for
+             international protection and where aspects of the  applicant's
+             statements are not supported by documentary or other evidence,
+             those aspects shall not need confirmation, when the  following
+             conditions are met:
+
+
+             (a) the applicant has made a genuine  effort  to  substantiate
+                  his application;
+
+
+               b) all relevant elements, at the applicant's  disposal,  have
+                  been submitted, and a satisfactory  explanation  regarding
+                  any lack of other relevant elements has been given;
+
+             (c)  the applicant's statements are found to be  coherent  and
+                  plausible and do not run counter to available specific and
+                  general information relevant to the applicant's case;
+
+
+             (d)  the applicant has applied for international protection at
+                  the earliest  possible  time,  unless  the  applicant  can
+                  demonstrate good reason for not having done so; and
+
+
+             (e)   the  general  credibility  of  the  applicant  has  been
+                  established." (our emphasis)
+
+   21. Article 4(5) is  given  direct  effect  in  the  United  Kingdom  by
+       paragraph 399L of the Immigration Rules:-
+
+         "339L    It is the duty of the person to  substantiate  the  asylum
+                claim or establish that  they  are  a  person  eligible  for
+                humanitarian protection or substantiate their  human  rights
+                claim.  Where aspects of the  person's  statements  are  not
+                supported by documentary or other  evidence,  those  aspects
+                will  not  need  confirmation  when  all  of  the  following
+                conditions are met:
+
+                (i)    the person has made a genuine effort to  substantiate
+                    their asylum claim or establish that they are  a  person
+                    eligible for humanitarian protection or substantiate his
+                    human rights claim;
+
+                (ii)   all material factors at the  person's  disposal  have
+                    been submitted, and a satisfactory explanation regarding
+                    any lack of other relevant material has been given:
+
+                (iii)  the person's statements are found to be coherent  and
+                    plausible and do not run counter to  available  specific
+                    and general information relevant to the person's case;
+
+                (iv)   the person has made an  asylum  claim  or  sought  to
+                    establish  that  [they  are]  a  person   eligible   for
+                    humanitarian protection or made a human rights claim  at
+                    the  earliest  possible  time,  unless  the  person  can
+                    demonstrate good reason for not having done so; and
+
+                (v)    the  general  credibility  of  the  person  has  been
+                    established."
+
+    The UNHCR Note on the Burden and Standard of Proof
+
+   22. As we shall see, Article 4 was considered by the ECtHR  in  JK.   So
+       too was the UNHCR Note on Burden and Standard of  Proof  in  Refugee
+       Claims, where we find the following :-
+
+         "6.      According to  general  legal  principles  of  the  law  of
+             evidence, the burden of proof lies on the person who makes the
+             assertion.  Thus, in refugee claims, it is the  applicant  who
+             has  the  burden  of  establishing  the  veracity  of  his/her
+             allegations and the accuracy of the facts on which the refugee
+             claim is based.  The burden of  proof  is  discharged  by  the
+             applicant rendering a truthful account of  facts  relevant  to
+             the claim so that, based on the facts, a proper  decision  may
+             be reached.  In view  of  the  particularities  of  a  refugee
+             situation, the adjudicator shares the duty  to  ascertain  and
+             evaluate all the relevant facts.  This is achieved, to a large
+             extent, by the adjudicator being familiar with  the  objective
+             situation in the country of origin concerned, being  aware  of
+             relevant matters of common knowledge, guiding the applicant in
+             providing the relevant information  and  adequately  verifying
+             facts alleged which can be substantiated.
+
+         ...
+
+         10.       As  regards   supportive   evidence,   where   there   is
+             corroborative  evidence  supporting  the  statements  of   the
+             applicant, this would reinforce the veracity of the statements
+             made.  On the other  hand,  given  the  special  situation  of
+             asylum-seekers, they should not be  required  to  produce  all
+             necessary evidence.  In particular, it  should  be  recognised
+             that, often, asylum-seekers  would  have  fled  without  their
+             personal documents.  Failure to produce  documentary  evidence
+             to substantiate oral statements should, therefore, not prevent
+             the  claim  from  being  accepted  if  such   statements   are
+             consistent with known facts and the general credibility of the
+             applicant is good.
+
+         11.      In assessing the overall credibility  of  the  applicant's
+             claim, the adjudicator should take into account  such  factors
+             as the  reasonableness  of  the  facts  alleged,  the  overall
+             consistency  and   coherence   of   the   applicant's   story,
+             corroborative evidence adduced by the applicant in support  of
+             his/her  statements,  consistency  with  common  knowledge  or
+             generally known facts and the known situation in  the  country
+             of origin.  Credibility is established where the applicant has
+             presented  a  claim  which  is  coherent  and  plausible,  not
+             contradicting generally known  facts,  and  therefore  is,  on
+             balance, capable of being believed.
+
+         12.      The term 'benefit of the doubt' is used in the context  of
+             standard of proof relating to the factual assertions  made  by
+             the applicant.  Given that in  refugee  claims,  there  is  no
+             necessity for the applicant to  prove  all  facts  to  such  a
+             standard that the adjudicator  is  fully  convinced  that  all
+             factual assertions  are  true,  there  would  normally  be  an
+             element of doubt in the mind of the adjudicator as regards the
+             facts  asserted  by  the  applicant.   Where  the  adjudicator
+             considers that the applicant's story is on the whole  coherent
+             and plausible, any element of doubt should not  prejudice  the
+             applicant's claim; that is, the applicant should be given  the
+             'benefit of the doubt'."
+
+     Strasbourg case law
+
+   23. The first applicant in JK was a citizen of Iraq who claimed to be in
+       need of international protection, but whose claim  was  rejected  by
+       Sweden on the basis that he had not shown that he was at  real  risk
+       of serious harm in Iraq, were he to be returned  there.   The  ECtHR
+       referred to Saadi v Italy (Application no. 31201/06) as stating that
+       the relevant standard of proof in Article 3 cases of  this  kind  is
+       whether "substantial grounds have been shown for believing that  the
+       person in question, if deported, would face a  real  risk  of  being
+       subjected to treatment contrary to  Article  3  in  the  destination
+       country".
+
+   24. Paragraphs 91 to 98 of the judgment in JK need to be set out in full
+       :-
+
+         "91.     Regarding the burden of proof in expulsion  cases,  it  is
+             the Court's well-established case-law that it is in  principle
+             for the applicant to adduce evidence capable of  proving  that
+             there are substantial  grounds  for  believing  that,  if  the
+             measure complained of were to be implemented, he or she  would
+             be exposed to a real risk  of  being  subjected  to  treatment
+             contrary to  Article  3;  and  that  where  such  evidence  is
+             adduced, it is for the Government to dispel any  doubts  about
+             it (see F.G. v. Sweden, cited above, � 120;  Saadi  v.  Italy,
+             cited above, � 129; NA. v. the United Kingdom, cited above,  �
+             111; and R.C. v. Sweden, cited above, � 50).
+
+         92.      According to the Court's  case-law,  it  is  incumbent  on
+             persons who allege that their  expulsion  would  amount  to  a
+             breach  of  Article  3  to  adduce,  to  the  greatest  extent
+             practically possible, material and  information  allowing  the
+             authorities of the Contracting State concerned, as well as the
+             Court, to assess the risk a removal may entail  (see  Said  v.
+             the Netherlands, no. 2345/02, � 49, ECHR 2005-VI).  The Court,
+             however,  acknowledges  the   fact   that   with   regard   to
+             applications for recognition of  refugee  status,  it  may  be
+             difficult, if not impossible,  for  the  person  concerned  to
+             supply evidence  within  a  short  time,  especially  if  such
+             evidence must be obtained from the country from  which  he  or
+             she claims to have  fled.   The  lack  of  direct  documentary
+             evidence thus cannot be decisive per se (see Bahaddar  v.  the
+             Netherlands, 19 February 1998,  �  45,  Reports  1998-I,  and,
+             mutatis mutandis, Said, cited above, � 49).
+
+         93.      Owing to the special  situation  in  which  asylum-seekers
+             often find themselves, it is frequently necessary to give them
+             the benefit of the doubt when  assessing  the  credibility  of
+             their  statements  and  the  documents  submitted  in  support
+             thereof. Yet when information is presented which gives  strong
+             reasons  to  question  the  veracity  of  an   asylum-seeker's
+             submissions,  the  individual  must  provide  a   satisfactory
+             explanation for the alleged inaccuracies in those  submissions
+             (see F.G. v. Sweden, cited above, � 113; Collins and Akaziebie
+             v. Sweden (dec.), no. 23944/05, 8 March 2007;  and  S.H.H.  v.
+             the United Kingdom, no. 60367/10,  �  71,  29  January  2013).
+             Even if the applicant's account of  some  details  may  appear
+             somewhat implausible, the Court has considered that this  does
+             not necessarily detract from the overall  general  credibility
+             of the applicant's claim (see Said, cited above,  �  53,  and,
+             mutatis mutandis, N. v. Finland, no. 38885/02, �� 154-155,  26
+             July 2005).
+
+
+         94.      As a general rule, an  asylum-seeker  cannot  be  seen  as
+             having discharged the burden of proof until he or she provides
+             a substantiated account of an individual,  and  thus  a  real,
+             risk of ill-treatment upon  deportation  that  is  capable  of
+             distinguishing his or her situation from the general perils in
+             the country of destination.
+
+
+         95.      Moreover, although a number of individual factors may not,
+             when considered separately, constitute a real risk,  the  same
+             factors may give rise to a real risk when  taken  cumulatively
+             and when considered in a situation  of  general  violence  and
+             heightened security (see NA.  v.  the  United  Kingdom,  cited
+             above, � 130).  The following elements may represent such risk
+             factors: previous criminal record and/or arrest  warrant,  the
+             age, gender and origin of a returnee, a previous record  as  a
+             suspected or actual  member  of  a  persecuted  group,  and  a
+             previous asylum claim submitted abroad (see NA. v. the  United
+             Kingdom, cited above, �� 143-144 and 146).
+
+
+         96.      The Court notes that it is the shared duty of  an  asylum-
+             seeker  and  the  immigration  authorities  to  ascertain  and
+             evaluate  all  relevant  facts  of  the  case  in  the  asylum
+             proceedings.  Asylum-seekers are normally the only parties who
+             are able to  provide  information  about  their  own  personal
+             circumstances.   Therefore,   as   far   as   the   individual
+             circumstances are concerned, the burden  of  proof  should  in
+             principle lie on the applicants, who must submit, as  soon  as
+             possible,  all   evidence   relating   to   their   individual
+             circumstances that is needed to substantiate their application
+             for  international  protection.   This  requirement  is   also
+             expressed both in the UNHCR documents (see paragraph 6 of  the
+             UNHCR Note on Burden and Standard of Proof in  Refugee  Claims
+             and paragraph 196 of the  UNHCR  Handbook  and  Guidelines  on
+             Procedures and Criteria for Determining Refugee  Status,  both
+             referred to in paragraphs 53-54 above) and in Article 4 � 1 of
+             the EU Qualification Directive, as well as in  the  subsequent
+             case-law of the CJEU (see paragraphs 47 and 49-50 above).
+
+
+         97.      However, the rules concerning the burden of  proof  should
+             not render ineffective the applicants' rights protected  under
+             Article 3 of the Convention.  It is  also  important  to  take
+             into account all the difficulties which an  asylum-seeker  may
+             encounter abroad when collecting evidence (see Bahaddar, cited
+             above � 45, and, mutatis mutandis, Said, cited above,  �  49).
+             Both the standards developed by the UNCHR (paragraph 12 of the
+             Note  and  paragraph  196  of  the  Handbook,  both  cited  in
+             paragraphs 53-54 above) and Article 4 � 5 of the Qualification
+             Directive  recognise,  explicitly  or  implicitly,  that   the
+             benefit of the  doubt  should  be  granted  in  favour  of  an
+             individual seeking international protection.
+
+
+         98.      The Court notes that, as far  as  the  evaluation  of  the
+             general situation  in  a  specific  country  is  concerned,  a
+             different approach  should  be  taken.   In  respect  of  such
+             matters, the domestic  authorities  examining  a  request  for
+             international protection have full access to information.  For
+             this  reason,  the  general  situation  in  another   country,
+             including the ability of its  public  authorities  to  provide
+             protection,  has  to  be  established  proprio  motu  by   the
+             competent  domestic  immigration  authorities  (see,   mutatis
+             mutandis, H.L.R. v. France, cited above, �  37;  Hilal,  cited
+             above, � 60; and Hirsi Jamaa and Others, cited above, �  116).
+             A similar approach is advocated in paragraph 6 of  the  above-
+             mentioned Note issued by the UNHCR,  according  to  which  the
+             authorities adjudicating on an asylum claim have to take  "the
+             objective situation in the country of origin  concerned"  into
+             account proprio  motu.   Similarly,  Article  4  �  3  of  the
+             Qualification Directive requires that "all relevant  facts  as
+             they relate to the country of origin" are taken into account."
+
+   25. At paragraph 102, the ECtHR considered the significance of past ill-
+       treatment:-
+
+         "102.    The court considers that the fact  of  past  ill-treatment
+                provides a strong indication  of  a  future,  real  risk  of
+                treatment contrary to  Article  3,  in  cases  in  which  an
+                applicant has made a generally coherent and credible account
+                of events that is consistent with information from  reliable
+                and objective sources about the  general  situation  in  the
+                country at issue.  In such circumstances, it will be for the
+                government to dispel any doubts about that risk."
+
+   26. At paragraph 106, having noted that the existence of a risk of  ill-
+       treatment, so far as the  ECtHR  was  concerned,  must  be  assessed
+       primarily with reference to the facts known or which ought  to  have
+       been known to the Contracting State at the time  of  expulsion,  the
+       court nevertheless noted that, since the applicants had not yet been
+       deported, "the question whether they  would  face  a  real  risk  of
+       persecution upon their return to Iraq must be examined in the  light
+       of the present day situation".
+
+   27. The ECtHR then embarked on that task.  It could see  "no  reason  to
+       cast doubt on the [Swedish] Migration  Agency's  findings  that  the
+       family have been exposed to the most serious forms of abuses ...  by
+       Al-Qaeda from  2004  to  2008"  (paragraph  114).   The  applicants'
+       account of what happened  between  2004  and  2010  was,  the  ECtHR
+       considered, "generally coherent and credible" and  "consistent  with
+       the relevant Country of Origin Information".  This meant that it was
+       "therefore for the government to dispel any doubts about that  risk"
+       (paragraphs 114, 115).
+
+   28. Looking at the most  recent  objective  international  human  rights
+       sources, the ECtHR considered that there were deficits in  both  the
+       capacity and integrity  of  the  Iraqi  security  and  legal  system
+       (paragraph 120) and that, overall, there was a real  risk  that  the
+       Iraqi state would not be able to protect the applicants.
+
+   29. That was the majority view of the ECtHR, reached  by  ten  votes  to
+       seven.  Judge Ranzoni, in  a  dissenting  opinion,  considered  that
+       paragraph 102 of the majority judgment lacked  sufficient  reasoning
+       and diverged from Article 4.4 of the Qualification  Directive  in  a
+       number of respects.
+
+   30. RC v Sweden (Application no. 41827/07) is a judgment  of  the  third
+       section of the ECtHR.  It  concerned  an  individual,  RC,  who  was
+       present in Sweden  and  claimed  to  be  in  need  of  international
+       protection from the authorities in Iran.  Before the First  Instance
+       Migration Court in Sweden, the credibility of RC was examined.   Two
+       of the three judges of that Court found RC's account was incredible;
+       but one dissented from that conclusion.
+
+   31. At paragraph 50 of  its  judgment,  the  ECtHR  noted  that  it  was
+       "frequently necessary to give" asylum seekers the  "benefit  of  the
+       doubt" when it comes to  assessing  credibility  of  statements  and
+       documents; but that when there were "strong reasons to question  the
+       veracity of an asylum  seeker's  submissions,  the  individual  must
+       provide a satisfactory explanation for the alleged discrepancies".
+
+   32. Beginning at paragraph 52, the ECtHR began  its  own  assessment  of
+       RC's credibility.  It noted that one of the Migration  Court  judges
+       had considered the applicant to have given  a  credible  account  of
+       events.  The ECtHR found that a medical certificate put  before  the
+       Migration Board gave a "rather strong indication to the  authorities
+       that the applicant's scars and injuries may have been caused by ill-
+       treatment or torture" and that, in the circumstances, it was for the
+       Board "to dispel any doubts that might  have  persisted  as  to  the
+       cause of such scarring".  The ECtHR held that the Board should  have
+       "directed that an expert opinion be  obtained  as  to  the  probable
+       cause of the applicant's scars".
+
+   33. The court came to the conclusion that  the  applicant  had  given  a
+       credible account and was at real risk if returned to Iran.
+
+   34. In a dissenting opinion, Judge Fura said he was not  convinced  that
+       the applicant had made out a prima facie case, even having regard to
+       the  medical  certificate.   Judge  Fura  did  not  agree  that  the
+       certificate meant the authorities should  have  directed  an  expert
+       opinion to be obtained.  On the contrary, Judge Fura said he  "would
+       be reluctant to give  any  specific  instructions  to  the  domestic
+       authorities as to what procedural measure  to  take  and  even  less
+       willing to advise on what conclusions to draw from certain  evidence
+       introduced in a case where I have not had the benefit of seeing  the
+       parties and in which the relevant events  took  place  a  long  time
+       ago".
+
+   35. In FG v Sweden (Application no. 43611/11), a judgment of  the  Grand
+       Chamber given on 23 March 2016, the ECtHR had this  to  say  on  the
+       burden of proof:-
+
+         "120.    Regarding the burden of proof, the Court found in Saadi v.
+             Italy (cited above, �� 129-32; see also, among others, Ouabour
+             v. Belgium, no. 26417/10, � 65, 2 June 2015  and  Othman  (Abu
+             Qatada) v. the United Kingdom, no. 8139/09, � 261,  ECHR  2012
+             (extracts)), that it was in principle  for  the  applicant  to
+             adduce evidence capable of proving that there were substantial
+             grounds for believing that, if the measure complained of  were
+             to be implemented, he would be exposed to a real risk of being
+             subjected to treatment contrary to Article 3; and  that  where
+             such evidence was adduced, it was for the Government to dispel
+             any doubts raised by it (ibid., � 129). In order to  determine
+             whether there is a  risk  of  ill-treatment,  the  Court  must
+             examine the foreseeable consequences of sending the  applicant
+             to the  destination  country,  bearing  in  mind  the  general
+             situation there and his personal circumstances (ibid., � 130).
+              Where the sources available describe a general situation,  an
+             applicant's specific allegations in a particular case  require
+             corroboration by other evidence  (ibid.,  �  131).   In  cases
+             where an applicant alleges that he or she is  a  member  of  a
+             group systematically exposed to a practice  of  ill-treatment,
+             the Court considers that the protection of Article  3  of  the
+             Convention enters into play when  the  applicant  establishes,
+             where necessary on the basis of the  above-mentioned  sources,
+             that there are serious reasons to believe in the existence  of
+             the practice in question and in his or her membership  of  the
+             group concerned (ibid., � 132)."
+
+   36.  Applying  this  approach  to  the  facts  of  FG,  who  had  sought
+       international  protection  in  Sweden  alleging  a   fear   of   the
+       authorities in Iran (both as regards  alleged  political  activities
+       and because of a sur place conversion to  Christianity),  the  ECtHR
+       held that the Swedish authorities had not erred in  their  approach.
+       FG's application was, accordingly, dismissed.
+
+   37. In MA v Switzerland (Application no.  52589/13),  a  second  section
+       judgment handed down on 18 November 2014, the ECtHR placed  emphasis
+       on the fact  that  neither  the  Migration  Board  nor  the  Federal
+       Administrative Court of Switzerland had challenged the  authenticity
+       of a court summons, originating  in  Iran,  put  forward  by  MA  in
+       connection with his protection claim.  Having carried  out  its  own
+       analysis,  the  ECtHR  concluded  that  the  applicant  had  adduced
+       evidence capable of proving that there were substantial grounds  for
+       believing that, if expelled, he would be at real risk of  Article  3
+       ill-treatment and that he "must be given the benefit  of  the  doubt
+       with regard to the remaining uncertainties.  The government  on  the
+       other hand have not dispelled any doubts that  the  applicant  would
+       face such treatment" (paragraph 69).
+
+   38. Judge Kj�lbro gave a dissenting opinion.  He said that an assessment
+       of the credibility of a claimant's  account  "is  an  essential  and
+       important element in the processing of asylum cases.   This  is,  in
+       many cases, a difficult exercise in which many factors  have  to  be
+       taken into account" (paragraph 2).
+
+   39. At paragraph 4, Judge Kj�lbro said:
+
+           "Owing to the risk of abuse of the asylum system and  fabricated
+           stories from asylum seekers, who have  often  been  assisted  by
+           professional  human  traffickers  deriving   profit   from   the
+           desperate situation of vulnerable individuals, it is  legitimate
+           for asylum authorities to submit the  account  given  by  asylum
+           seekers to  a  thorough  examination  in  order  to  assess  the
+           credibility of their statements.  In doing so it  is  important,
+           amongst other things, to ascertain whether the account given  by
+           the asylum seeker, in particular concerning the core elements of
+           the motives for seeking asylum, is consistent and coherent."
+
+   40. Judge Kj�lbro noted that the Migration Board had had the benefit  of
+       seeing the applicant in person "which is  an  important  element  in
+       assessing the reliability of an asylum seeker's motives"  (paragraph
+       5).  The authorities in Switzerland considered  that  the  applicant
+       had not  given  a  plausible  explanation  for  inconsistencies  and
+       discrepancies.  Judge Kj�lbro considered that  the  majority  judges
+       were "acting as  a  "fourth  instance"  in  its  assessment  of  the
+       reliability of the applicant's statements" (paragraph 6).
+
+   41. He also found that the  importance  attached  to  documents  by  the
+       majority was problematic" in that:-
+
+           "It is well-known in asylum cases that it is often easy  to  get
+           hold of forged and fraudulently obtained official documents  ...
+           If the account given by an asylum seeker is credible,  documents
+           in support of the statement are often of  less  importance.   On
+           the other hand, if the account given  by  an  asylum  seeker  is
+           clearly unreliable, documents will frequently  be  incapable  of
+           dispelling the doubts concerning its credibility." (paragraph 7)
+
+   42. Judge Kj�lbro concluded by saying that, in his view,  having  regard
+       to the "subsidiary role of the court", the majority had not given  a
+       "sufficient basis for overturning the  assessment  of  the  domestic
+       authorities as regards the credibility  of  the  applicant's  asylum
+       story".
+
+   43. In Paposhvili v Belgium (Application  no.  41738/10),  given  on  13
+       December 2016, the Grand Chamber of the ECtHR examined the threshold
+       in an Article 3 case, involving a claim by a person that  to  remove
+       him from Belgium would lead to a real risk  of  serious  harm  as  a
+       result of a deterioration  in  his  medical  condition,  where  that
+       condition could not be said to be attributable to the authorities of
+       the country to which he was proposed to be returned.
+
+   44. We are not here concerned with that aspect of the judgment.  Rather,
+       Mr Bedford draws attention to paragraphs 186 and 187, which  contain
+       what, by now, can be seen to be standard  statements  of  the  ECtHR
+       regarding the burden of proof :-
+
+         "186.    In  the  context  of  these  procedures,  it  is  for  the
+             applicants to adduce evidence capable  of  demonstrating  that
+             there are substantial  grounds  for  believing  that,  if  the
+             measure complained of were to be implemented,  they  would  be
+             exposed to  a  real  risk  of  being  subjected  to  treatment
+             contrary to Article 3 (see Saadi, cited above, � 129, and F.G.
+             v. Sweden, cited above, � 120).  In this connection it  should
+             be observed that a certain degree of speculation  is  inherent
+             in the preventive purpose of Article 3 and that it  is  not  a
+             matter of requiring the persons  concerned  to  provide  clear
+             proof of their claim that they would be exposed to  proscribed
+             treatment  (see,  in  particular,  Trabelsi  v.  Belgium,  no.
+             140/10, � 130, ECHR 2014 (extracts)).
+
+         187.     Where such evidence is adduced, it is for the  authorities
+             of the returning State, in the context of domestic procedures,
+             to dispel any doubts raised by it (see Saadi, cited  above,  �
+             129, and F.G. v.  Sweden,  cited  above,  �  120).   The  risk
+             alleged must be subjected to close scrutiny (see Saadi,  cited
+             above, � 128; Sufi  and  Elmi  v.  the  United  Kingdom,  nos.
+             8319/07 and 11449/07, � 214, 28 June  2011;  Hirsi  Jamaa  and
+             Others, cited above, � 116; and Tarakhel, cited above, �  104)
+             in the course of which the authorities in the returning  State
+             must consider the foreseeable consequences of removal for  the
+             individual concerned in the receiving State, in the  light  of
+             the general situation  there  and  the  individual's  personal
+             circumstances (see Vilvarajah and Others, cited above, �  108;
+             El-Masri, cited above, � 213; and  Tarakhel,  cited  above,  �
+             105).  The assessment  of  the  risk  as  defined  above  (see
+             paragraphs 183-84)  must  therefore  take  into  consideration
+             general  sources  such  as  reports  of   the   World   Health
+             Organisation or of  reputable  non-governmental  organisations
+             and  the  medical  certificates  concerning  the   person   in
+             question."
+
+   45. We have already observed that, in paragraph 16 of the  judgments  in
+       AM (Zimbabwe), Sales LJ stated that the overall legal burden  is  on
+       an applicant for international protection relying upon Article 3  to
+       show that there are substantial grounds for  believing  that  person
+       would face a real risk of being subjected to treatment  contrary  to
+       that Article, in the event of  removal.   Sales  LJ  then  said  the
+       following :-
+
+         "In Paposhvili, at paras. [186] - [187] ... the  Grand  Chamber  of
+         the ECtHR has given guidance how he may achieve that, by raising  a
+         prima facie case of infringement of Article 3 which  then  cast  an
+         evidential burden onto the defending  state  which  is  seeking  to
+         expel him."
+
+    Discussion
+
+   46. It is trite law that the obligation of courts and tribunals  in  the
+       United Kingdom is to "take into account any ... judgment,  decision,
+       declaration or advisory opinion  of  the  European  Court  of  Human
+       Rights ..." (section 2(1)(a)) of the Human Rights Act 1998).  United
+       Kingdom courts and tribunals should, however, generally  follow  any
+       clear and consistent approach of the ECtHR (particularly, of course,
+       its Grand Chamber).  However, that will not be the position  if  and
+       in so far as the domestic court or tribunal in question is bound  by
+       the principle of stare decisis to follow the decision  of  a  higher
+       court  or  tribunal,  even  though  this  may  be  contrary  to  the
+       Strasbourg approach: Kay v London Borough of Lambert [2006] UKHL 10.
+
+   47. It is quite clear from RC v Sweden (paragraph 50) and  FG  v  Sweden
+       (paragraph 120) that JK v Sweden introduces no new approach  to  the
+       issue of the burden of proof in Article 3 cases.  The requirement of
+       a government to dispel doubts, where an applicant  adduces  evidence
+       "capable  of  proving"  that  there  are  substantial  grounds   for
+       believing expulsion would violate Article 3, has been a  feature  of
+       the ECtHR jurisprudence for some considerable time.
+
+   48. Whilst that means, of course, that Strasbourg has indeed  maintained
+       a consistent approach over a significant period of time, Mr  Bedford
+       must face the question of why, if his interpretation of the  ECtHR's
+       approach is correct, the startling consequences for  United  Kingdom
+       immigration law and, no doubt, much of the law of  other  EU  States
+       have not been identified before now.
+
+   49. The fact of the matter is, we find, that there is  no  justification
+       for Mr Bedford's contention that evidence  "capable  of  proving"  a
+       claim  constitutes  the  same  or  even  a  similar  threshold   for
+       determining whether a claim is so lacking  in  substance  as  to  be
+       clearly unfounded within the terms of section 94 of the 2002 Act.
+
+   50.  In JK, the ECtHR  cited  (without  evident  disapproval)  both  the
+       passages from the UNHCR guidance on the benefit of the doubt,  which
+       we  have  set  out  above,  and  also  certain  provisions  of   the
+       Qualification Directive  including,  importantly,  Article  4.   The
+       UNHCR Note does not say the burden always shifts to  the  government
+       in question except where the claim is, on any  view,  hopeless.   We
+       shall have more to say on Article 4 of the  Qualification  Directive
+       in a moment; but, for the present, we observe that Article  4.5,  on
+       its face,  shares  nothing  in  common  with  Mr  Bedford's  primary
+       submission.
+
+   51. Accordingly, if Mr  Bedford's  primary  or  "hard"  submission  were
+       right, we would expect to see the majority of the  ECtHR  explaining
+       why they had seen fit to depart from both the UNHCR Note and Article
+       4 of the Qualification Directive.  However, one looks  in  vain  for
+       any such explanation.
+
+   52.  It  is  manifest  from  the  ECtHR's  analysis  of   the   personal
+       circumstances of the applicants in JK,  which  begins  at  paragraph
+       112, that the applicants had,  according  to  the  majority  of  the
+       court, produced strong  or  compelling  evidence  of  real  risk  on
+       return.  In particular, emphasis was placed by the majority upon the
+       findings of the Migration Agency that JK's family had  been  exposed
+       to "the most serious forms of  abuses"  by  Al-Qaeda  and  that  the
+       latter's  threats  had  continued  after  2008.   Furthermore,  JK's
+       account was "consistent with relevant Country of Origin  information
+       available from reliable and objective sources" (paragraph 114).
+
+   53. It was on this basis that the majority of the  court  concluded,  at
+       paragraph [115], that it was for the Swedish  Government  to  dispel
+       any doubts about the risk to the applicants.  Even  so,  however,  a
+       violation of Article 3 was found by only ten votes to seven.
+
+   54. RC v  Sweden  was  not  a  Grand  Chamber  case.   In  reaching  its
+       conclusion on credibility, the majority of the ECtHR  was  impressed
+       by a medical report, which said that RC had been tortured.
+
+   55. When national courts and tribunals are considering  cases  in  which
+       the ECtHR decides to embark on its own fact-finding exercise, it  is
+       important to ensure that the ECtHR's  factual  conclusions  are  not
+       treated as general principles of human rights law and practice.
+
+   56. Indeed, judicial conclusions of fact will often have little light to
+       shed on those  general  principles,  for  the  simple  reason  that,
+       whatever standard of proof is in play,  it  is  quite  possible  for
+       different judges to reach different but  valid  conclusions  on  the
+       same  evidence.  We  see  this  graphically  demonstrated   in   the
+       dissenting judgments recorded above.
+
+   57.  In RC, Judge Fura gave a strong dissenting opinion,  in  which  she
+       disagreed with the  significance  placed  by  the  majority  on  the
+       medical report.   In  MA  v  Switzerland,  Judge  Kj�lbro  explained
+       cogently why he took issue with the  significance  afforded  by  the
+       majority to the court summons from Iran.
+
+   58. We are, of course, well aware of the status  of  minority  opinions.
+       They  nevertheless  reinforce  the  point  that  different   judges,
+       properly applying a particular standard of proof,  can  legitimately
+       reach different conclusions on the evidence.
+
+   59. It is, therefore, not possible to  find  support  for  Mr  Bedford's
+       primary submission from the ways  in  which,  in  these  cases,  the
+       members of the ECtHR have gone about their fact-finding  tasks.   In
+       particular, there is nothing in the cases to suggest that the  court
+       regards the threshold of "evidence capable of proving ..." as a  low
+       one, let alone so low as to catch only cases that are bound to fail,
+       on any rational view.
+
+   60. We turn to the "softer" version of Mr Bedford's  submissions.   This
+       involves an analysis of Article 4.5 of the Qualification  Directive.
+
+
+
+   61. The first point to mention is one  which  we  have  already  touched
+       upon; namely, that Article 4.5 is, on its face, wholly  inconsistent
+       with Mr Bedford's "strong" version.  Mr  Bedford,  however,  submits
+       that the effect of Article 4.5 is as follows.
+
+   62. The provision applies only in cases where an  applicant's  statement
+       is not "supported by documentary or other  evidence".   Article  4.5
+       explains the circumstances in which the  absence  of  such  evidence
+       can, in effect, be set to one side and the applicant's  claim  still
+       accepted as satisfying the burden and  standard  of  proof.   Where,
+       however, an applicant does have such documentary or other  evidence,
+       in addition to his or her own statement, Mr Bedford submits that the
+       corollary of Article 4.5 is the applicant  is  thereby  entitled  to
+       succeed.
+
+   63. We do not accept this interpretation.  Article  4.5  means  what  it
+       says.  A person who, in respect of each  of  sub-paragraphs  (a)  to
+       (e), has put forward a cogent claim should not fail, merely  because
+       he or she does not have supporting documentation.   Nowhere  in  the
+       Qualification Directive is there to be found any  statement  to  the
+       effect that a person who has documentation which, on its  face,  may
+       be said to be supportive  of  the  claim  (for  example,  an  arrest
+       warrant or  witness  summons),  but  whose  claim  is  found  to  be
+       problematic in other respects, has nevertheless made out their case,
+       so that the burden of disproving it shifts to the government.
+
+   64. Although it was not cited before us, we observe that in KS  (Benefit
+       of the Doubt) [2014] UKUT 00552 (IAC), the Upper Tribunal held  that
+       "the  ambit  of  Article  4(5)  is  limited   to   cases   of   non-
+       corroboration/confirmation"  (paragraph  85).  We  agree  with  that
+       finding.
+
+   65.  Nothing we have said is intended  to  diminish  the  importance  of
+       Article  4.5  in  the  circumstances  in  which  it  applies.  Those
+       circumstances must, however, be kept in mind.  Article  4.5  has  no
+       application outside them.
+
+   66. In  Tanveer  Ahmed  [2002]  UKIAT*  00439,  the  Immigration  Appeal
+       Tribunal in a "starred" decision, held that it  is  unnecessary  for
+       the respondent to allege that a document relied on by an  individual
+       is a forgery, in order to resist the submission  that  the  document
+       must be given weight by the Tribunal.  Accordingly, as  set  out  in
+       summary in paragraph 38 of the IAT's determination: "It  is  for  an
+       individual claimant to show that a document on  which  he  seeks  to
+       rely can be relied on".
+
+   67. There is nothing in the Strasbourg case  law  or  the  Qualification
+       Directive to call that statement into doubt.   What  the  Strasbourg
+       case law does demonstrate is that, where a judicial  fact-finder  is
+       satisfied that a document adduced by an  applicant  in  evidence  is
+       reliable, then this may mean that the government in question will be
+       required to show why the applicant is,  nevertheless,  not  at  real
+       risk.   Depending  on  the  circumstances,  that  may  require   the
+       government  to  make  its  own  enquiries  regarding  the  document.
+       However, as can  be  seen  from  the  dissenting  judgments  in  the
+       Strasbourg cases, there is, emphatically, no "bright line" rule that
+       governs judicial fact-finding in this area.
+
+   68. For the above reasons, we are satisfied that there is no  indication
+       that the Judge applied the wrong burden and standard of proof.   The
+       appropriate burden and standard of proof are as we have set  out  at
+       [10] above.
+
+    Ground Two: Consideration of the Appellant's Vulnerability
+
+
+   69. The Appellant's ground two focusses on the Judge's reliance on the
+       inconsistencies said to arise between the versions of the
+       Appellant's claim. The Appellant's case is that the Judge failed to
+       direct himself in accordance with the Joint Presidential Guidance
+       Note No 2 of 2010 ("the Presidential Guidance") and the Court of
+       Appeal's guidance in AM (Afghanistan) v Secretary of State for the
+       Home Department [2017] EWCA Civ 1123 ("AM (Afghanistan)").   The
+       Court of Appeal held at [30] in AM (Afghanistan) that a failure to
+       follow the Presidential Guidance in a case to which it applies is
+       likely to be a material error.
+
+
+   70. Separately but in the same vein, the Appellant relies on the Court
+       of Appeal's decision in JA (Afghanistan) v Secretary of State for
+       the Home Department [2014] EWCA Civ 450 ("JA (Afghanistan)") as
+       authority for the proposition that it is unfair to rely on the
+       screening interview as read particularly where there is no
+       independent check of the accuracy of the record.
+
+   71. On the facts of the claim, the Appellant says that the Judge has not
+       made allowances for his age when holding against him that he was
+       unable to remember the name of the woman who disclosed his father's
+       name to the authorities and who he recognised from seeing her on
+       television.  Similarly, it is submitted that the Judge failed to
+       take into account the Appellant's immaturity as reason for his
+       failure to mention when first asked that his mother had been beaten
+       when their home was raided, or when considering the Appellant's
+       explanation for learning only later that his father's position was
+       the source of the family's problems.
+
+   72. The Judge sets out his reasons for disbelieving the Appellant at
+       [11] to [23] of the Decision.
+
+   73. In relation to the JA (Afghanistan) point, the Appellant points to
+       what is said by the Judge about a discrepancy between the
+       Appellant's description of his father's political allegiance during
+       his screening interview and his substantive interview at [18] to
+       [19] of the Decision.  It is said that the Judge did not take into
+       account the Appellant's evidence that there was an error in the
+       screening interview.  In any event, it is said that there is no
+       obvious discrepancy between the Appellant's father being a senior
+       KDP member and at the same time being involved in leafletting.
+
+   74. In the course of his screening interview, the Appellant said that
+       his father was in the "Kurdish Democratic Party".  However, in his
+       statement of evidence form the Appellant said only that he was "not
+       sure about his exact role but he was working for an opposition party
+       who were Kurds" ([C.1.1]).  At [C.1.3] the Appellant said that his
+       father was working for "the opposition party" when asked why he
+       believed he was being targeted.
+
+   75. The Appellant's substantive interview records the following
+       exchange:
+
+           "[Q82]      Do you know if your father was in a party at all?
+           A:    I don't know which party it was but if you find out about
+           the girl who was killed in Sardasht, my father was in the same
+           party as she.
+           [Q83] At your Screening Interview, you said that he was in the
+           Kurdish Democratic Party.  Why are you now saying you don't know
+           which party it was?
+           A:    I didn't say Kurdish Democratic Party - I just said it was
+           a Kurdish party."
+   76. Contrary to the Appellant's case on this point now, the Appellant's
+       witness statement says this:
+           "[10] With regards to my father's involvement in politics, I
+           have always maintained that he was a high-ranking official in
+           the Kurdish Democratic Party in Iran however I am not sure what
+           he did exactly for the party."
+       The Appellant does not say that there is any error in the screening
+       interview record, that he was misunderstood or offer any explanation
+       for the discrepancy.  The error, according to the Appellant's
+       account in his statement, is in the SEF form which was self-
+       completed at a time when he was legally represented and what he said
+       at the substantive interview, which interview he attended with a
+       responsible adult.   This part of the second ground is therefore not
+       made out on the evidence.
+
+
+   77. As to the implausibility of a senior ranking party official carrying
+       out leafletting, it is not necessarily inconsistent but was a
+       finding which it was open to the Judge to make ([21] and [22] of the
+       Decision).
+
+
+   78. The Appellant accepts in his Counsel's skeleton argument for the
+       hearing that there is a discrepancy between the Appellant's account
+       as to the timing of the execution of the girl who gave up his
+       father's name, the identity of the person who alerted the
+       Appellant's father to the raid at the family home and how that came
+       about.  The Appellant offered an explanation for the discrepancies
+       but that was rejected.  In this regard, the Appellant relies on his
+       ground one and what is said in JK.  He says that, even if the
+       account is implausible in some of its detail, that does not
+       necessarily detract from the Appellant's overall credibility (which
+       is an unremarkable proposition).  Relying on his first ground,
+       though, the Appellant says that having established a claim which is
+       "capable of belief" overall, it was for the Respondent to dispel
+       doubts about the real risk on return and that he has failed to do
+       so.  We have already dealt with that submission above and have
+       rejected it.
+
+   79.  However, we are persuaded that the Judge has erred in his treatment
+       of the Appellant's evidence in relation to other of the
+       inconsistencies upon which reliance was placed.
+
+   80. The Appellant was no longer a minor at the date of the First-tier
+       Tribunal hearing.  As such, the Presidential Guidance was no longer
+       directly relevant to his evidence on that occasion.  However, as the
+       Court of Appeal observed at [18(a)] of its judgment in AM
+       (Afghanistan) a Judge can also fall into error by failing properly
+       to take into account an appellant's age when making adverse
+       credibility findings reliant on inconsistencies in his various
+       accounts.
+
+   81. As we find above, the Judge was entitled to rely on certain
+       inconsistencies, particularly in relation to the party for whom the
+       Appellant's father worked.  In that regard, if the Appellant had
+       first claimed not to know for whom his father worked but then said
+       it was the KDP, that is an inconsistency which might be explained by
+       his age.  Put another way, it is plausible that a child might not
+       remember the detail of a claim when first asked, particularly if the
+       child found the interview process daunting.  However, the converse
+       is not easily explained in the same way.
+
+   82. The inconsistencies regarding the delay in the authorities finding
+       his family (14]), and the violence towards him and his mother when
+       the authorities came ([16]) might possibly be embellishments
+       undermining the Appellant's credibility.  However, they might be
+       explained equally by the Appellant not remembering details of events
+       when first asked due to his age at the time of interview.
+       Similarly, it is plausible that the Appellant would not know details
+       of what his father did for the organisation if he was a child as his
+       parents would not necessarily have told him ([20]).
+
+
+   83. Although the Judge notes at [1] of the Decision that the Appellant
+       was a minor when he provided his evidence in the various interviews
+       and in his SEF and that he has "made the appropriate allowances for
+       this in the evidence he gave then" there is no indication thereafter
+       that such allowances have been made or how the Appellant's age at
+       that time has been factored into the credibility findings.
+
+    Ground Three: Consideration of the Background Material
+
+   84. We are also persuaded that there is merit in the Appellant's ground
+       three.  At [11] of the Decision, the Judge finds as implausible that
+       the Appellant would not be able to name the girl he saw on the
+       television whose execution was there reported.  He found it
+       implausible that a television broadcast would not identify the girl
+       in both sound and script.  It is not clear on what he bases that
+       finding.
+
+
+   85. The Judge also relied heavily there and at [13] of the Decision on
+       the fact that the authorities when they came for the Appellant's
+       father brought with them court papers.  It is said that this is
+       contrary to the "modus operandi" of the Iranian authorities.  No
+       source is cited for that proposition.  Similarly, at [15] of the
+       Decision, the Judge did not accept as plausible that the authorities
+       would visit precisely at the time that the Appellant's father was
+       absent from the home because they would use surveillance to ensure
+       he was there.  Again, no material supportive of that finding is
+       cited.  Even the most competent of authorities can make mistakes and
+       simply because the authorities said to be targeting the Appellant's
+       father may operate outside the law does not mean that they do not
+       use the judicial process to prosecute opponents.
+
+   86. For the above reasons, we are satisfied that the Decision contains
+       material errors of law.  We therefore set aside the Decision.
+
+   87. In relation to the  appropriate  forum  for  the  re-making  of  the
+       decision, we have given careful consideration to the Joint  Practice
+       Statement of the First-tier Tribunal and Upper  Tribunal  concerning
+       the disposal of appeals in this Tribunal.  That reads as follows:
+        "[7.2]   The Upper Tribunal is likely  on  each  such  occasion  to
+        proceed to re-make the decision, instead of remitting the  case  to
+        the First-tier Tribunal, unless the  Upper  Tribunal  is  satisfied
+        that:-
+                  a) the effect of the error has been to  deprive  a  party
+                     before the First-tier Tribunal of a  fair  hearing  or
+                     other opportunity for that party's case to be  put  to
+                     and considered by the First-tier Tribunal; or
+                  b) the nature or extent  of  any  judicial  fact  finding
+                     which is necessary in order for the  decision  in  the
+                     appeal to be re-made is such that,  having  regard  to
+                     the overriding objective in rule 2, it is  appropriate
+                     to remit the case to the First-tier Tribunal."
+
+   88. Our reasons for setting aside the Decision concern the Judge's
+       adverse credibility findings and, in particular, whether the Judge
+       has made due allowance for the Appellant's age when considering his
+       answers at interview.  For that reason, we have formed the view that
+       the appeal should be remitted for credibility to be considered
+       afresh.
+
+
+
+
+    DECISION
+    We are satisfied that the Decision contains material errors of law.  We
+    set aside the  decision  of  First-tier  Tribunal  Judge  A  K  Hussain
+    promulgated on 1 February 2018. We remit the appeal to  the  First-tier
+    Tribunal for re-hearing before a Judge other than Judge Hussain.
+      Signed           [pic]      Dated: 18 October 2018
+      Upper Tribunal Judge Smith

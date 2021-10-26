@@ -1,0 +1,1361 @@
+
+[pic]
+
+First-tier Tribunal
+                                            (Immigration and Asylum Chamber)
+
+
+Awuah and Others (Wasted Costs Orders -  HOPOs  -  Tribunal  Powers)  [2017]
+UKFTT 00555 (IAC)
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Taylor House, London                |Decision & Reasons Promulgated|
+|On 22 June 2017                              |                              |
+|                                             |..............................|
+|                                             |.........                     |
+
+
+                                   Before
+
+           MR JUSTICE MCCLOSKEY, PRESIDENT OF THE UPPER TRIBUNAL,
+                SITTING AS A JUDGE OF THE FIRST-TIER TRIBUNAL
+                                     and
+           THE PRESIDENT OF THE FIRST-TIER TRIBUNAL, MR M CLEMENTS
+
+
+                                   Between
+
+                Darkwah awuah, SJ, TN and Khadija musu momoh
+
+                                                                  Appellants
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+Representation:
+
+For the Appellants SJ and TN:   Ms Rebecca Chapman of counsel instructed by
+Wesley            Gryk Solicitors
+For the Appellant Awuah         Ms Helen Foot of counsel, instructted by
+Sutovic &                  Hartigan Solicitors
+For the Appellant Momoh         Ms Helen Foot and Ms Rebecca Chapman,
+instructed by              Nathan Aaron Solicitors
+For the Respondent:             Mr Rupert Cohen, of counsel, instructed by
+the                    Government Legal Department, on behalf of the
+         Respondent
+
+
+ i) The First-tier Tribunal ("FtT") is not empowered to make a Wasted Costs
+    Order ("WCO") against a Home Office Presenting Officer ("HOPO").
+
+ii) The relationship of Secretary of State and  HOPO  is  governed  by  the
+    Carltona principle.
+
+iii) The answerability of HOPOs to the tribunal is achieved through a  range
+    of judicial functions and duties.
+
+iv) In every case where a WCO  is  in  contemplation  common  law  fairness
+    requires that  the  respondent  be  alerted  to  this  possibility,  be
+    apprised of the case  against  him  and  be  given  adequate  time  and
+    opportunity to respond.
+
+ v) While expedition and summary  decision  making  are  desirable  in  WCO
+    matters, the basic requirements of  fairness  to  the  respondent  must
+    always be respected.
+
+vi) A causal nexus between the impugned conduct of the respondent  and  the
+    costs unnecessarily incurred by the aggrieved party is an essential pre-
+    condition of a WCO.
+
+vii) The tribunal's "own motion" power to make a  WCO  is  to  be  exercised
+    with restraint.
+
+
+                                  DECISION
+
+McCloskey P
+
+Preface
+
+ 1. This  is  the  judgment  of  the  panel  to  which  both  members  have
+    contributed.  It is provided in the context  of  four  appeals  to  the
+    First-tier Tribunal (the "FtT") selected and conjoined for the  purpose
+    of promulgating guidance on certain aspects of the power of the FtT  to
+    make what is habitually described as a wasted costs order  (hereinafter
+    "WCO").
+
+ 2. As a result of  careful  and  focussed  case  management  a  series  of
+    questions, both general and  specific,  has  been  formulated  for  the
+    decision of the panel.  The answers provided to the  general  questions
+    transcend the boundaries of the four appeals.  In contrast, the  issues
+    raised by the four appeals are case specific  and  their  determination
+    will be guided by, inter alia, the Tribunal's resolution of the general
+    questions.
+
+ 3. In  this judgment  [No  1]  we  address  and  determine  the  following
+    questions:
+
+      i) Against whom can the FtT make a WCO?  In particular,  can  such  an
+         order be made against a Home Office Presenting Officer ("HOPO")?
+
+     ii) If the FtT is empowered to make a  WCO  against  a  HOPO,  in  what
+         circumstances is such an order appropriate?
+
+    iii) What are the procedural and evidential requirements  for  making  a
+         WCO?
+
+     iv) In what circumstances is it appropriate for the FtT to make  a  WCO
+         on its own initiative?
+
+     General
+
+ 4. We begin by identifying the main provision of primary  legislation  and
+    an important procedural rule.  Section 29 of the Tribunals, Courts  and
+    Enforcement Act 2007 (the "2007 Act") provides:
+
+          "(1)    The costs of and incidental to-
+
+              (a) all proceedings in the First-tier Tribunal, and
+
+              (b)      all proceedings in the Upper Tribunal,
+
+          shall  be  in  the  discretion  of  the  Tribunal  in  which   the
+          proceedings take place.
+
+          (2) The relevant Tribunal shall have full power  to  determine  by
+          whom and to what extent the costs are to be paid.
+
+          (3) Subsections (1)  and  (2)  have  effect  subject  to  Tribunal
+          Procedure Rules.
+
+          (4) In any proceedings mentioned in subsection (1),  the  relevant
+          Tribunal may-
+
+              (a) disallow, or
+
+              (b)  (as  the  case  may  be)  order  the  legal   or   other
+              representative concerned to meet,
+
+          the whole of any wasted costs or such  part  of  them  as  may  be
+          determined in accordance with Tribunal Procedure Rules.
+
+          (5) In subsection (4) "wasted costs" means any costs incurred by a
+          party-
+
+              (a) as a result of any improper,  unreasonable  or  negligent
+              act  or  omission  on  the  part  of  any  legal   or   other
+              representative or any employee of such a representative, or
+
+              (b) which, in the light of any such act or omission occurring
+              after they were incurred, the relevant Tribunal considers  it
+              is unreasonable to expect that party to pay.
+
+          (6) In this section "legal or other representative",  in  relation
+          to a party to proceedings, means any person exercising a right  of
+          audience or right to conduct the proceedings on his behalf.
+
+          (7) In the application of this section in  relation  to  Scotland,
+          any reference in this  section  to  costs  is  to  be  read  as  a
+          reference to expenses."
+
+     Rule 9 of the Tribunal  Procedure  (First-tier  Tribunal)  (Immigration
+    and Asylum Chamber) Rules 2014 (the "2014 Rules"), in  operation  since
+    20 October 2014, provides:
+
+          "(1)     If  the  Tribunal  allows  an  appeal,  it  may  order  a
+          respondent to pay by way of costs to the appellant  an  amount  no
+          greater than-
+
+              (a) any fee paid under the  Fees  Order  that  has  not  been
+              refunded; and
+
+              (b) any fee which the appellant is or may be  liable  to  pay
+              under that Order.
+
+          (2) The Tribunal may otherwise make an order in respect  of  costs
+          only-
+
+              (a) under section 29(4) of the 2007 Act  (wasted  costs)  and
+              costs incurred in applying for such costs; or
+
+              (b) if a person has acted unreasonably in bringing, defending
+              or conducting proceedings."
+
+    Pausing here, whereas section 29 of the 2007 Act  is  directed  to  the
+    litigation conduct of a party's "legal or other  representative",  rule
+    9(2) widens the  net  so  as  to  enmesh  the  conduct  of  parties  to
+    litigation.
+
+ 5. In our decision in Cancino (costs - First-tier Tribunal -  new  powers)
+    [2015] UKFTT 0059 (IAC) we described rule 9(2)  as  a  "new  power"  to
+    award costs: see [2].  In [5] we emphasised that section 29 and rule 9,
+    in tandem, are the two core elements of the FtT wasted costs regime.
+
+ 6. It is convenient at this juncture to rehearse what Cancino decided:
+
+          [1] Rule 9 of the 2014 Rules operates in conjunction with  section
+              29 of the Tribunals, Courts and Enforcement Act 2007.
+
+
+          [2] The only powers to award fees or costs available to the First-
+              tier Tribunal (the "FtT") are those contained in  Rule  9  of
+              the Tribunal Procedure (First-tier Tribunal) (Immigration and
+              Asylum Chamber) Rules 2014 (the "2014 Rules").
+
+
+          [3] Transitionally, Rule 9 of  the  2014  Rules  applies  only  to
+              appeals coming into existence subsequent to the  commencement
+              date of 20 October 2014.  It has no  application  to  appeals
+              predating this date.
+
+
+          [4] It is essential to be alert to the  distinctions  between  the
+              costs awarding powers contained  in  Rule  9(2)(a)  and  Rule
+              9(2)(b) of the 2014 Rules.
+
+
+          [5] Awards of costs are always discretionary, even in cases  where
+              the qualifying conditions are satisfied.
+
+
+          [6] In the ordinary course of events, where any of  the  offending
+              types of conduct to which either Rule 9(2)(a) or Rule 9(2)(b)
+              of the 2014 Rules applies, the FtT will normally exercise its
+              discretion  to  make  an   order   against   the   defaulting
+              representative or party.
+
+
+          [7] The onus rests on the party applying for an order  under  Rule
+              9.
+
+
+          [8] There must be a causal nexus between the conduct  in  question
+              and the wasted costs claimed.
+
+
+          [9] One of the supreme governing principles  is  that  every  case
+              will be unavoidably fact sensitive.  Accordingly, comparisons
+              with other cases will normally be inappropriate.
+
+
+          [10]    Orders for costs under  Rule  9  will  be  very  much  the
+              exception, rather than the rule and will be reserved  to  the
+              clearest cases.
+
+
+          [11]    Rule 9 of the 2014 Rules applies to conduct, whether  acts
+              or omissions, belonging to the period commencing on the  date
+              when an appeal comes into existence and ending on the date of
+              the final determination thereof.
+
+
+        [12]  The procedure for determining applications under  Rule  9  of
+             the 2014 Rules will be governed in the main by  the  principles
+             of fairness, expedition and proportionality.
+
+    The First Question
+
+ 7. This question, in substance, asks whether the FtT is empowered to  make
+    a WCO against Home Office Presenting Officers ("HOPOs").  While this is
+    a pure question of law it takes its colour from the context to which it
+    belongs.  This, we consider, must include the general "whats, why's and
+    wherefores" of the HOPO: what are HOPOs and what do they do?
+
+ 8. The latter question was one of those which arose in Home Office  v  the
+    Information Commissioner and Yeo [2016] UKFTT 2015 0213  (GRC).   There
+    the evidence included a witness statement of Daniel Hobbs, formerly the
+    Director of Appeals, Litigation and Subject Access Requests Directorate
+    of the Home Office.  This contains the following notable averments:
+
+      a) The Secretary of State for the Home Department (the  "Secretary  of
+         State") is represented in 98% of appeal hearings in the FtT and  in
+         all cases, both statutory appeals and judicial reviews, before  the
+         Upper Tribunal (the "UT").
+
+      b) In the twelve month period ending in the second quarter of 2016 the
+         FtT received 91,127 appeals.  In the next succeeding  twelve  month
+         period this figure was not significantly different.  During each of
+         these twelve month periods the total UT yearly intake of new  cases
+         was close to 30,000, divided roughly equally between  new  judicial
+         reviews and appeals  from  the  FtT  or  renewed  applications  for
+         permission to appeal.
+
+      c) There are 145 HOPOs nationally  distributed  throughout  nine  Home
+         Office  centres.   Of  these  37  are  Senior  Presenting  Officers
+         ("SPOs"), who present all cases in the UT.
+
+      d) Many HOPOs have "qualifications and experience in law".
+
+      e) SPOs have the rank of Senior Executive Officer.   All  other  HOPOs
+         are  of  Higher  Executive  Officer  grade  which  is   the   first
+         "significant" management grade in the Civil Service.  All HOPOs are
+         employees of the Home Office, assigned to the  Appeals,  Litigation
+         and Subject Access  Request  Directorate  which  is  part  of  UKVI
+         ("United Kingdom Visas and Immigration").
+
+      f) The role of HOPOs is "... to represent the Home Office  before  the
+         Tribunal ... .  This involves advocacy and  also  making  decisions
+         about case management based on fact, guidance and an interpretation
+         of the law".
+
+      g) The majority of HOPOs have completed  a  module  of  the  Chartered
+         Institute of Legal Executives Level 3 course.
+
+      h) All newly appointed HOPOs are  required  to  complete  an  internal
+         eight day training course,  followed  by  a  two  month  period  of
+         supervision and occasional further training thereafter.
+
+      i)  HOPOs  "...  are  expected  to  demonstrate  a  high   degree   of
+         professionalism and behave consistently in line with the values  of
+         UKVI including being consistently competent,  high  performing  and
+         customer focussed".
+
+      j) The Home  Office  has  also  recruited  a  limited  number  of  law
+         graduates at  the  grade  of  Executive  Officers,  on  fixed  term
+         contracts.  This occurs typically as a response to  bulging  appeal
+         numbers.  These persons are deployed in  the  more  straightforward
+         cases.  The Home Office instructs counsel  in  the  "most  complex"
+         cases.
+
+ 9. The evidence of Mr Hobbs further discloses that it is  the  established
+    policy of the Home Office to develop particular  litigation  strategies
+    and "lines to take" in immigration cases.  This promotes consistency of
+    presentation and argument among HOPOs.   It  is  achieved  in  part  by
+    ensuring that HOPOs are familiar with relevant  published  Home  Office
+    guidance relating to specific subjects and issues.  Thus, for  example,
+    HOPOs are, as a group, instructed to advance specified arguments on the
+    meaning  and  scope  of  certain  statutory  provisions  and  important
+    judicial decisions: see generally [19] - [22] of the reported decision.
+     In this context we take cognizance also of the Home  Office  published
+    guidance on the withdrawal of immigration decisions, conceding  appeals
+    and applying for adjournments.  All of these functions are performed by
+    HOPOs.
+
+10. Other aspects of the wider context are  highlighted  in  the  following
+    passages from VOM (Error of law - when appealable) Nigeria [2016]  UKUT
+    410 (IAC) which have some purchase in the present context:
+
+          "[17]   ... the delivery of swift, inexpensive  and  uncomplicated
+          justice  has  long  been  the  overarching   ethos   of   tribunal
+          adjudication.  See,  for  example,  the  discussion  in  Wade  and
+          Forsyth, Administrative Law (10th Edition),  per  pp  773  -  774.
+          This forms  part  of  the  context  in  which  the  2007  Act  was
+          introduced.  The background to this enactment includes the  report
+          of Sir Andrew Leggatt, followed by a  White  Paper  (CM.6243/2004)
+          which accepted many of its recommendations.  Sir  Andrew's  report
+          contains the following noteworthy passage, at paragraph 1.2:
+
+               '...  Tribunal's procedures and approach to  overseeing  the
+               preparation of cases and their hearing can  be  simpler  and
+               more informal than the courts, even after the civil  justice
+               reforms.'
+
+          One of the main aims of the legislation  which  followed,  in  the
+          form of the 2007 Act, was to introduce the "user-oriented service"
+          strongly recommended by Sir  Andrew  (see  paragraph  1.4  of  his
+          report).
+
+          [18]    A second, inter-related aspect of the context in which the
+          2007 Act  was  devised  is  the  overriding  objective,  with  its
+          emphasis on expedition, finality and the suppression of  avoidable
+          delay.  The overriding objective was, by 2007, firmly  established
+          in  civil  proceedings,  was  gaining  a  foothold   in   criminal
+          proceedings and was being introduced in tribunal  proceedings,  at
+          both tiers.  As regards the Upper Tribunal,  it  is  contained  in
+          Rule 2 of the Tribunal  Procedure  (Upper  Tribunal)  Rules  2008,
+          which came into operation on 3 November 2008.  Generally,  in  the
+          United Kingdom legal system the overriding objective  and  related
+          measures, including wholesale reform of rules of procedure in both
+          courts and  tribunals,  progressively  gained  traction  during  a
+          period in which the imperative of defeating the  so-called  unholy
+          trinity  of  avoidable  delay,  excessive  costs  and  unwarranted
+          complication became  increasingly  dominant.  By  2007  the  Civil
+          Procedure Rules were firmly entrenched, having been introduced  on
+          26 April 1999.
+
+          [19]    While the developments in  civil  and  tribunal  procedure
+          noted above have occurred during the last two  decades,  there  is
+          nothing novel about them.  The principle  that  legal  proceedings
+          should be concluded as expeditiously as possible is  expressed  in
+          the longstanding Latin maxim interest rei publicae  ut  sit  finis
+          litium.  Over a century has passed since this maxim was recognised
+          as possessing "extreme value": by Lord Loreburn LC in Brown v Dean
+          [1910] AC 373, at  374.   The  operation  of  this  maxim  in  the
+          discrete context of statutory construction and  appeal  rights  is
+          illustrated in R v Pinfold [1988]  QB  462,  where  Lord  Lane  CJ
+          stated at 464:
+
+               '...  One must read those provisions against the  background
+               of the fact that it is in the interests  of  the  public  in
+               general that there should be a limit or a finality of  legal
+               proceedings, sometimes put in a Latin  maxim,  but  that  is
+               what it means in English'.
+
+          This maxim was also applied in a comparable legal context,  albeit
+          in matrimonial proceedings, in Hewitson v Hewitson [1995] 1 ALL ER
+          472  (see  particularly  per  Butler-Sloss  LJ  at  [63]  -  [65].
+          Finally, in this context, we remind ourselves of  the  presumption
+          of statutory construction that the law  should  serve  the  public
+          interest: Bennion on  Statutory  Interpretation  (Sixth  Edition),
+          page 722.
+
+          [20]     We  further  take  into  account  that,  while  this  has
+          manifested itself in contexts other than the present, one  of  the
+          emerging features of the modern legal system  is  that  of  strong
+          resistance to what has become  known  as  "satellite"  litigation.
+          This species of litigation takes the  form  of  proceedings  in  a
+          higher  court  or  tribunal,  frequently   via   judicial   review
+          challenges, brought in circumstances  where  the  process  of  the
+          lower court  or  tribunal  is  incomplete.   This  is  illustrated
+          particularly, and perhaps most famously, in R v Director of Public
+          Prosecutions, ex Parte Kebeline [2000] 2 AC 326, at 371  per  Lord
+          Steyn.  This is further illustrated in the rejection  of  judicial
+          review challenges to aspects of inquest proceedings pursued  at  a
+          stage when  the  process  is  not  complete.   See  in  particular
+          McLuckie v Coroner for Northern Ireland [2011] NICA 34, at [26]."
+
+11. The correct answer to the first question is also informed by  an  array
+    of statutory provisions.  While section 29 of the 2007 Act provides the
+    foundation and starting point the enquiry ranges further, extending  to
+    certain other  provisions  of  primary  legislation.   Section  29,  we
+    recall, establishes that the FtT is empowered to  make  a  WCO  against
+    "the legal or other representative concerned", defined as  "any  person
+    exercising a right of audience or right to conduct the  proceedings  on
+    [a party's] behalf."
+
+12. Section 51(1) and (2) of  the  Senior  Courts  Act  1981  ("SCA  1981")
+    provide:
+
+          "(1) Subject to the provisions of this or any other enactment  and
+          to rules of court, the costs of and incidental to all  proceedings
+          in-
+
+             (a) the civil division of the Court of Appeal;
+
+             (b) the High Court;
+
+             (ba) the family court; and
+
+             (c) the county court,
+
+          shall be in the discretion of the court.
+
+          (2) Without prejudice to any general power to make rules of court,
+          such rules may make provision for regulating matters  relating  to
+          the  costs  of  those  proceedings   including,   in   particular,
+          prescribing  scales  of  costs  to  be  paid  to  legal  or  other
+          representatives or for securing that the amount awarded to a party
+          in respect of the costs to be paid by him to such  representatives
+          is not limited to what would have been payable by him to  them  if
+          he had not been awarded costs."
+
+    Section 51(6) - (7A) provide:
+
+          "(6) In any proceedings mentioned in subsection (1), the court may
+          disallow, or (as the  case  may  be)  order  the  legal  or  other
+          representative concerned to meet, the whole of any wasted costs or
+          such part of them as may be determined in accordance with rules of
+          court.
+
+          (7) In subsection (6), "wasted costs" means any costs incurred  by
+          a party-
+
+             (a) as a result of any improper, unreasonable or negligent  act
+             or omission on the part of any legal or other representative or
+             any employee of such a representative; or
+
+             (b) which, in the light of any such act or  omission  occurring
+             after  they  were  incurred,  the   court   considers   it   is
+             unreasonable to expect that party to pay.
+
+           (7A) Where the court exercises a power under  subsection  (6)  in
+          relation to costs incurred by a party, it must inform such of  the
+          following as it considers appropriate-
+
+             (a) an approved regulator;
+
+             (b) the Director of Legal Aid Casework."
+
+    As noted by this Tribunal  in  Cancino,  at  [10],  the  definition  of
+    "wasted costs" in section 29(5) of the  2007  Act  replicates  verbatim
+    that contained in section 51(7) of the SCA 1981.  The latter  provision
+    is clearly  the  derivation  of  the  former.  We  consider  the  nexus
+    inextricable.
+
+13.  The  Office  of  Immigration  Services   Commissioner   ("OISC")   was
+    established by section 83 of the Immigration and Asylum Act  1999  (the
+    "1999 Act"), one of a series of provisions arranged in Part  5  of  the
+    statute under the heading "Immigration Advisors and Immigration Service
+    Providers".  Section 83(1) - (3) provide:
+
+          "(1) There is to be an Immigration Services Commissioner (referred
+          to in this Part as "the Commissioner").
+
+          (2) The Commissioner is to be appointed by the Secretary of  State
+          after consulting the Lord Chancellor, the Department of Justice in
+          Northern Ireland and the Scottish Ministers.
+
+          (3) It is to be the general duty of the  Commissioner  to  promote
+          good  practice  by  those  who  provide  immigration   advice   or
+          immigration services."
+
+    By section 83(5):
+
+          "(5) The Commissioner must exercise his functions so as to secure,
+          so far as  is  reasonably  practicable,  that  those  who  provide
+          immigration advice or immigration services-
+
+             (a) are fit and competent to do so;
+
+             (b) act in the best interests of their clients;
+
+             (c) do not knowingly mislead any court, tribunal or adjudicator
+             in the United Kingdom;
+
+             (d) do not seek to abuse any procedure operating in the  United
+             Kingdom in connection with immigration or asylum (including any
+             appellate or other judicial procedure);
+
+             (e) do not advise any person to do something which would amount
+             to such an abuse."
+
+    By section 84(1) and (2):
+
+          "(1) No person  may  provide  immigration  advice  or  immigration
+          services unless he is a qualified person.
+
+          (2) A person is a qualified person if he is-
+
+             (a) a registered person,
+
+             (b) authorised by a designated professional body to practise as
+             a member of the profession whose members the body regulates,
+
+             (ba) a person  authorised  to  provide  immigration  advice  or
+             immigration services by a designated qualifying regulator,
+
+             (c) the equivalent in an EEA State of-
+
+               (i) a registered person, or
+
+               (ii) a person within paragraph (b) or (ba),
+
+             (d)  a  person  permitted,  by  virtue  of  exemption  from   a
+             prohibition, to provide in an  EEA  State  advice  or  services
+             equivalent to immigration advice or services, or
+
+             (e) acting on behalf of, and under the supervision of, a person
+             within any of paragraphs (a) to (d) (whether  or  not  under  a
+             contract of employment)."
+
+    Section 82(1) contains some pertinent definitions.  First, "immigration
+    advice" -
+
+          "'immigration advice' means advice which-
+
+             (a) relates to a particular individual;
+
+             (b) is given in connection with one or more relevant matters;
+
+             (c) is given by a person who knows that  he  is  giving  it  in
+             relation to a particular individual and in connection with  one
+             or more relevant matters; and
+
+             (d) is not given in connection with representing an  individual
+             before a court in criminal proceedings or matters ancillary  to
+             criminal proceedings;"
+
+    Next, "immigration services" -
+
+          "'immigration services' means the  making  of  representations  on
+          behalf of a particular individual-
+
+             (a)  in  civil  proceedings  before  a   court,   tribunal   or
+             adjudicator in the United Kingdom, or
+
+             (b)  in  correspondence  with  a  Minister  of  the  Crown   or
+             government department,
+
+           in connection with one or more relevant matters;"
+
+     "Qualified person" is defined as "a person who is  qualified  for  the
+    purposes of section 84".
+
+    "Registered person" is defined as "a person who is registered with  the
+    Commissioner under section 85."
+
+    Section 82(2) provides:
+
+          "In this Part, references to the provision of  immigration  advice
+          or immigration services are to the provision  of  such  advice  or
+          services by a person-
+
+             (a) in the United Kingdom (regardless of whether the persons to
+             whom they are provided are in the United Kingdom or elsewhere);
+             and
+
+             (b) in the course of a business carried on (whether or not  for
+             profit) by him or by another person."
+
+    It is appropriate to note also the definition of "Designated Qualifying
+    Regulator", which is contained in section 86(A):
+
+          "(1) 'Designated qualifying regulator' means a  body  which  is  a
+          qualifying regulator and is listed in subsection (2).
+
+          (2) The listed bodies are-
+
+             (a) the Law Society;
+
+             (b) the Institute of Legal Executives;
+
+             (c) the General Council of the Bar."
+
+14. The most recent statutory prescription of  note  is  found  in  certain
+    provisions of the Legal Services Act 2007 ("LSA  2007").   The  subject
+    matter of Part 3  of  this  statute  is  "Reserved  Legal  Activities".
+    Section 12 provides, in material part:
+
+          "(1) In this Act "reserved legal activity" means-
+
+             (a) the exercise of a right of audience;
+
+             (b) the conduct of litigation;
+
+             (c) reserved instrument activities;
+
+             (d) probate activities;
+
+             (e) notarial activities;
+
+             (f) the administration of oaths.
+
+          (2) Schedule 2 makes provision  about  what  constitutes  each  of
+          those activities."
+
+    Section 13 governs the topic of entitlement  to  carry  on  a  reserved
+    legal activity.  It provides:
+
+          "(1) The question whether a person is  entitled  to  carry  on  an
+          activity which is a reserved legal activity is  to  be  determined
+          solely in accordance with the provisions of this Act.
+
+          (2) A person is entitled to carry on an  activity  ("the  relevant
+          activity") which is a reserved legal activity where-
+
+             (a) the person is an  authorised  person  in  relation  to  the
+             relevant activity, or
+
+             (b) the  person  is  an  exempt  person  in  relation  to  that
+             activity.
+
+          (3)  Subsection  (2)  is  subject  to  section  23   (transitional
+          protection for non-commercial bodies).
+
+          (4) Nothing in this section or section 23 affects  section  84  of
+          the Immigration and Asylum Act 1999 (c. 33) (which  prohibits  the
+          provision of immigration advice and immigration services except by
+          certain persons)."
+
+    The term "authorised person" is defined in section 18(1) thus:
+
+          "(1) For the purposes of this Act "authorised person", in relation
+          to an activity ("the relevant activity") which is a reserved legal
+          activity, means-
+
+             (a) a person  who  is  authorised  to  carry  on  the  relevant
+             activity by a relevant approved regulator in  relation  to  the
+             relevant activity (other than by virtue of a licence under Part
+             5), or
+
+             (b) a licensable body which, by virtue of such  a  licence,  is
+             authorised to carry on the relevant  activity  by  a  licensing
+             authority in relation to the reserved legal activity."
+
+    This discrete statutory jigsaw is completed by Part 1 of Schedule 4  to
+    the 2007 Act which provides inter alia:
+
+          "(1) Each body listed in the first column of  the  Table  in  this
+          paragraph is an approved regulator.
+
+          (2) Each body so listed is an approved regulator  in  relation  to
+          the reserved legal activities listed in  relation  to  it  in  the
+          second column of the Table.
+
+
+
+                                   TABLE
+
+|Approved regulator               |Reserved legal activities           |
+|The Law Society                  |The exercise of a right of audience.|
+|                                 |                                    |
+|                                 |The conduct of litigation.          |
+|                                 |Reserved instrument activities.     |
+|                                 |Probate activities.                 |
+|                                 |The administration of oaths.        |
+|The General Council of the Bar   |The exercise of a right of audience.|
+|                                 |                                    |
+|                                 |The conduct of litigation.          |
+|                                 |Reserved instrument activities.     |
+|                                 |Probate activities.                 |
+|                                 |The administration of oaths.        |
+|The Master of the Faculties      |Reserved instrument activities.     |
+|                                 |Probate activities.                 |
+|                                 |Notarial activities.                |
+|                                 |The administration of oaths.        |
+|The Institute of Legal Executives|The exercise of a right of audience.|
+|                                 |                                    |
+|                                 |The administration of oaths.        |
+|The Council for Licensed         |Reserved instrument activities.     |
+|Conveyancers                     |The administration of oaths.        |
+|                                 |                                    |
+|                                 |Probate activities.                 |
+|The Chartered Institute of Patent|The exercise of a right of audience.|
+|Attorneys                        |                                    |
+|                                 |The conduct of litigation.          |
+|                                 |Reserved instrument activities.     |
+|                                 |The administration of oaths.        |
+|The Institute of Trade Mark      |The exercise of a right of audience.|
+|Attorneys                        |                                    |
+|                                 |The conduct of litigation.          |
+|                                 |Reserved instrument activities.     |
+|                                 |The administration of oaths.        |
+|The Association of Law Costs     |The exercise of a right of audience.|
+|Draftsmen                        |                                    |
+|                                 |The conduct of litigation.          |
+|                                 |The administration of oaths.        |
+|The Institute of Chartered       |Probate activities.                 |
+|Accountants of Scotland          |                                    |
+|The Association of Chartered     |Probate activities.                 |
+|Certified Accountants            |                                    |
+
+
+15. As we are engaged in an exercise of construing  certain  provisions  of
+    primary and secondary legislation, we remind ourselves  of  some  basic
+    dogma.  It is a truism that the interpretation of any  statute  is  far
+    removed from an academic jaunt.  Exercises in statutory  interpretation
+    are per Lord Bingham of Cornhill -
+
+         "... directed to a particular  statute,  enacted  at  a  particular
+         time, to  address  (almost  invariably)  a  particular  problem  or
+         mischief."
+
+    R v Z [2005] UKHL 35 at [17].  In R (Quintavalle) v Secretary of  State
+    for Health [2003] 2 AC 687, Lord Bingham stated at [8]:
+
+         "The court's task, within the permissible bounds of interpretation,
+         is to give effect to Parliament's intention. So  the  controversial
+         provisions should be read in the context of the statute as a  whole
+         and the statute as a whole should be read in the historical context
+         of the situation which led to its enactment."
+
+16. The arguments of the parties' respective counsel  revolved  around  the
+    assorted statutory provisions  noted  above;  the  distinction  between
+    HOPOs and other kinds of representative; the distinctive  character  of
+    tribunal proceedings; the overriding objective; equality of  arms;  the
+    maintenance of high standards of representation; and the need to  deter
+    unacceptable standards of representation.  The core  submission  of  Ms
+    Chapman and Ms Foot on behalf of  the  Appellants  is  that  HOPOs  are
+    "other representative(s)" within the meaning of section  29(5)  of  the
+    2007 Act and a "representative" within the meaning of rule  10  of  the
+    2014 Rules.  Mr Cohen, on behalf of the Secretary of State, argues  the
+    contrary,  placing  particular  emphasis  on  the  correlation  between
+    section 29(5) of the 2007 Act  and  section  51(7)  of  the  1981  Act,
+    coupled with the jurisprudence associated with the latter provision.
+
+17. While none of the reported decisions addressed in  argument  determines
+    directly   the first question which we are  deciding  some  nonetheless
+    contain a series of  identifiable  signposts.   In  Medcalf  v  Mardell
+    [2003] 1 AC 120 the House of Lords held that  a  WCO  can  be  made  in
+    respect of the conduct of counsel not only when  exercising  rights  of
+    audience in court but also in relation  to  surrounding,  or  anterior,
+    conduct such as settling pleadings,  notices  of  appeal  and  skeleton
+    arguments. Thus   the applications by a party against opposing  counsel
+    under section 51 of the 1981 Act for a  WCO  designed  to  recover  the
+    costs of investigating and rebutting serious allegations of fraud in  a
+    draft amended Notice of Appeal were, in principle, properly made.
+
+18.  Lord Steyn noted the following, at [35]:
+
+         "The barrister must promote  and  protect  fearlessly  and  by  all
+         proper and lawful means his lay clients' interests:  paragraph  203
+         of the Code of Conduct."
+
+    Lord Hobhouse made some notable observations  about  the  function  and
+    responsibilities of advocates  in  the  United  Kingdom  legal  system.
+    Firstly at [51]:
+
+        "The starting point must be  a  recognition  of  the  role  of  the
+        advocate in our system of justice. It is fundamental to a just  and
+        fair  judicial  system  that  there  be  available  to  a  litigant
+        (criminal  or  civil),  in   substantial   cases,   competent   and
+        independent legal representation. The duty of the advocate is  with
+        proper competence to represent  his  lay  client  and  promote  and
+        protect fearlessly and by all  proper  and  lawful  means  his  lay
+        client's best interests. This is a duty which the advocate owes  to
+        his client but it is also in the  public  interest  that  the  duty
+        should be performed.  The  judicial  system  exists  to  administer
+        justice and it is integral to such a system that it provide  within
+        a society a means by which rights, obligations and liabilities  can
+        be recognised and given effect to in accordance with  the  law  and
+        disputes be justly (and efficiently)  resolved.  The  role  of  the
+        independent professional advocate  is  central  to  achieving  this
+        outcome, particularly where the judicial  system  uses  adversarial
+        procedures."
+
+    Lord Hobhouse continued, at [52]:
+
+        "It follows that  the  willingness  of  professional  advocates  to
+        represent litigants should not be  undermined  either  by  creating
+        conflicts of interest or by exposing  the  advocates  to  pressures
+        which will tend to deter them from representing certain clients  or
+        from doing so effectively. In England the professional rule that  a
+        barrister must be prepared to represent any client within his field
+        of practice and  competence  and  the  principles  of  professional
+        independence underwrite in a manner too  often  taken  for  granted
+        this   constitutional   safeguard.    Unpopular    and    seemingly
+        unmeritorious  litigants  must  be  capable  of  being  represented
+        without the advocate being penalised or  harassed  whether  by  the
+        Executive, the Judiciary or by anyone else.  Similarly,  situations
+        must  be  avoided  where  the  advocate's  conduct  of  a  case  is
+        influenced not by his duty to his client but by concerns about  his
+        own self-interest."
+
+    Having then noted that the  advocate  owes  no  duty  to  his  client's
+    opponent and that what  the  advocate  says  in  the  course  of  legal
+    proceedings cannot give rise to an action in defamation, Lord  Hobhouse
+    continued at [54]:
+
+        "The professional advocate is  in  a  privileged  position.  He  is
+        granted rights of audience. He enjoys certain immunities. In return
+        he owes certain duties  to  the  court  and  is  bound  by  certain
+        standards of professional conduct in accordance with  the  code  of
+        conduct of his profession. This again reflects the public  interest
+        in the proper  administration  of  justice;  the  public  interest,
+        covering the litigants themselves as well, is now also expressed in
+        Part I of the Civil Procedure Rules. ... The advocate must  respect
+        and uphold the authority of the court. He must  not  be  a  knowing
+        party to an abuse of process or a deceit  of  the  court.  He  must
+        conduct himself with reasonable competence. He must take reasonable
+        and practicable steps to avoid unnecessary expense or waste of  the
+        court's time. The codes of conduct  of  the  advocate's  profession
+        spell out the detailed provisions to be derived  from  the  general
+        principles. These include the  provisions  relevant  to  barristers
+        which preclude them from making allegations, whether orally  or  in
+        writing, of fraud or criminal guilt unless he has  a  proper  basis
+        for so doing. Paragraph 606(c), which has already been quoted by my
+        noble  and  learned  friend,  requires  express  instructions   and
+        reasonably credible material which as it stands establishes a prima
+        facie case of fraud. All this fits  in  well  with  an  appropriate
+        constitutional  structure   for   a   judicial   system   for   the
+        administration of justice."
+
+19. Lord Hobhouse, in his reflections on the "constitutional" framework  to
+    which advocacy belongs, also gave consideration to the impact  of  WCOs
+    at [55]:
+
+        "The introduction of a wasted costs jurisdiction  makes  an  inroad
+        into this structure. It creates a risk of a  conflict  of  interest
+        for the advocate. It is intended and designed to affect the conduct
+        of the advocate and  to  do  so  by  penalising  him  economically.
+        Ideally a conflict should not arise. The advocate's duty to his own
+        client is subject to his duty to the court: the  advocate's  proper
+        discharge of his duty to his client should  not  cause  him  to  be
+        accused of being in breach of his duty to the court (Arthur Hall  v
+        Simons [2000] 3 WLR 543.) But the situation in which  the  advocate
+        finds himself may not be so clear cut. Difficult tactical decisions
+        may have to be made, maybe in difficult circumstances. Opinions can
+        differ,  particularly  in  the  heated  and   stressed   arena   of
+        litigation. Once an opposing party is  entitled  to  apply  for  an
+        order  against  the  other  party's  legal   representatives,   the
+        situation becomes much more unpredictable  and  hazardous  for  the
+        advocate. Adversarial perceptions are introduced. This is a feature
+        of what happened  in  the  present  case.  The  factors  which  may
+        motivate a hostile application by an opponent are liable to be very
+        different from those which would properly motivate a court."
+
+    Lord Hobhouse distinguished  between  WCOs  made  at  the  suit  of  an
+    advocate's own client and those of his adversary.  Whereas  the  former
+    have a compensatory character, the latter are "penal"  in  nature.   He
+    continued, at [56]:
+
+        "The risk of such an application  can,  at  best,  only  provide  a
+        distraction in the proper representation of his own client and,  at
+        worst, may cause him to put his own interests above  those  of  his
+        client. The construction of the section and the application of  the
+        jurisdiction  should  accordingly  be  no  wider  than  is  clearly
+        required by the statute."
+
+    The next succeeding passage is of particular note:
+
+         "Secondly, the fault must, in the present context,  relate  clearly
+         to a fault in relation to the advocate's duty to the court  not  in
+         relation to the opposing party, to whom he owes no duty."
+
+    In the same  passage,  having  noted  that  the  terms  "improper"  and
+    "unreasonable" qualify for no special  meaning,  Lord  Hobhouse  opined
+    that the term "negligent" -
+
+         "... is directed primarily to the jurisdiction as between  a  legal
+         representative and his own client."
+
+          His Lordship further contrasted the advocate  (on  the  one  hand)
+         with a  person  "exercising  a  right  to  conduct  litigation",  a
+         "litigation agent" in shorthand (on the other).
+
+20. The precondition of a WCO that the advocate has acted in breach of  his
+    duty to the court emerges clearly from Medcalf.  It has been emphasised
+    in, inter alia, Ridehalgh v Horsefield [1994] Ch 205 at  232H  -  233A.
+    It was on this ground that the Court of Appeal  in  Ridehalgh  rejected
+    the argument that a breach of the advocate's duty to  his  client  must
+    also be demonstrated in order to justify a WCO.
+
+21. The duties which the advocate, whether solicitor or barrister, owes  to
+    the court arise out  of  the  distinctive  role  and  position  of  the
+    advocate in our legal system and the special relationship  between  the
+    advocate and the court.  We consider it far from coincidental or casual
+    that Lord Hobhouse, in his exposition of  this  subject,  employed  the
+    phrase "professional advocates": see Medcalf at [52].  These duties, in
+    one sense, represent the price which the professional advocate must pay
+    for  the  privileges  and  immunities  he  enjoys.   Furthermore,   the
+    professional advocate  is  duty  bound  to  honour  the  standards  and
+    obligations  enshrined  in  the  professional  conduct  code   of   his
+    profession.  Such codes impose ethical and  professional  duties  of  a
+    high order.
+
+22. The framework which we have outlined and expounded above simply  cannot
+    be applied to HOPOs.  They are not officers of the court. They   belong
+    to none of the regulated professional cohorts. They do  not  enjoy  the
+    privileges and immunities of the advocate.  They are not subject to any
+    of the detailed codes regulating the professional and  ethical  conduct
+    of advocates and others and,  in  consequence,  they  lie  outwith  the
+    jurisdiction of the  various  regulatory  bodies.   Stated  succinctly,
+    HOPOs are unregulated.
+
+23.  That is not to say that HOPOs owe  no  duties  to  the  tribunal.   We
+    consider that rule 2(4) of the 2014 Rules, a discrete  element  of  the
+    overriding objective and its UT analogue, framed  in  identical  terms,
+    clearly apply to  HOPOs.   Thus  HOPOs  are  subject  to  the  positive
+    obligations of helping the Tribunal further  the  overriding  objective
+    and cooperating with the Tribunal generally.  The generality  of  these
+    duties encompasses a potentially broad series of specific  requirements
+    and obligations many of which will be recurrent in most cases.   Others
+    may be more case sensitive.
+
+24. The proposition that HOPOs are answerable to  the  judge  or  panel  of
+    judges before which they appear is in our view unassailable.  It arises
+    from the basic judicial functions and duties, in tandem with rule  2(4)
+    of the 2014 Rules. The efficacy of this answerability is  not,  in  our
+    estimation,  dependent  upon  prescribed  regulatory,  disciplinary  or
+    enforcement arrangements.  In practice it is achieved,  satisfactorily,
+    by the mechanisms of judicial oversight, judicial  disapproval,  simple
+    judicial warnings, the Tribunal's  insistence  upon  strict  compliance
+    with  its  orders,  directions  and   rules   and   kindred   measures.
+    Answerability  is  further  achieved  by  correspondence  between   the
+    Tribunal and the appropriate agency when necessary and the contents  of
+    the Tribunal's decisions.   See  in  this  context  Wagner  (advocates'
+    conduct - fair hearing) [2015] UKUT 655 (IAC).
+
+25. Giving effect to our analysis above, we conclude as follows:  Given the
+    inextricable link between section 29(6) of the  2007  Act  and  section
+    51(13) of SCA  1981,  which  in  turn  engages  the  jurisprudence  and
+    principles considered above, HOPOs are not vulnerable to  a  WCO  since
+    the precondition that they owe, and have breached, a duty or duties  to
+    the tribunal, correctly understood, cannot be satisfied.  As  they  are
+    not professional advocates it follows that they are  not  a  "legal  or
+    other representative" within the embrace of section 29(5) of  the  2007
+    Act.
+
+26. This analysis may be developed.  Having regard to the totality  of  the
+    statutory framework considered above, the  related  conclusion  that  a
+    HOPO  exercises neither a "right of audience" nor a "right  to  conduct
+    the proceedings on [the Secretary  of  State's]  behalf"  must  in  our
+    judgement be correct.  Section 29 of the 2007 Act  does  not  exist  in
+    isolation.  Rather, when it  was  introduced  it  became  part  of  the
+    broader, pre-existing statutory landscape sketched above.   Furthermore
+    section 29 was devised during an  era  when  regulation  of  the  legal
+    professions had become a hot topic. Successive  legislatures  had  paid
+    particular attention to the legal professions,  professional  advocates
+    and regulators.  We consider that unequivocal statutory language  would
+    have been required in order to bring HOPOs within the scope of  section
+    29(5) and (6).  There is none. On the contrary there is discernible  in
+    these provisions, considered in both their narrow and broader contexts,
+    a clear underlying intention to subject professional advocates only  to
+    the risk of a WCO.
+
+27. Likewise, we  take  cognizance  of  the  terms  in  which  the  primary
+    legislation enabling power relating to the FtT and UT procedural  rules
+    is framed.  This is found in section 22 of Schedule 5 to the 2007  Act.
+    Paragraph 9 of Schedule 5 provides:
+
+         "Rules may make provision conferring additional rights of  audience
+         before the First-tier Tribunal or the Upper Tribunal."
+
+    We consider, in this  context,  that  "additional"  denotes  rights  of
+    audience over and above those conferred by existing  legislation.   The
+    relevant provision of the 2014 Rules in this respect is  rule  10.   In
+    our judgement the terms of rule  10  make  abundantly  clear  that  the
+    Tribunal Procedural Committee, in devising  the  2014  Rules,  did  not
+    invoke the power available in paragraph 9 of Schedule 5.
+
+28. Still further reasons can be offered  in  support  of  the  conclusions
+    expressed above.  It is well-established that there is  no  distinction
+    in law between a government minister and his civil  servants.   In  the
+    present context the minister is the Secretary of State  and  the  civil
+    servants are the HOPOs employed by the Home  Office,  the  organisation
+    which gives effect to the Secretary of State's decisions  and  policies
+    and  is  directly  answerable  to  him.   The  principle  engaged   was
+    formulated by the Court of Appeal in Carltona v Commissioners of  Works
+    and Others [1943] 2 All ER 560, at 563A, in these terms:
+
+        "In the administration of government in this country the  functions
+        which are given to ministers (and constitutionally  properly  given
+        to ministers because they  are  constitutionally  responsible)  are
+        functions so multifarious that no minister  could  ever  personally
+        attend to them. To take the example of the present  case  no  doubt
+        there have been  thousands  of  requisitions  in  this  country  by
+        individual ministers. It cannot be supposed  that  this  regulation
+        meant that, in each case, the minister in person should direct  his
+        mind to the matter. The  duties  imposed  upon  ministers  and  the
+        powers  given  to  ministers  are  normally  exercised  under   the
+        authority  of  the  ministers  by  responsible  officials  of   the
+        department. Public business could not be carried on  if  that  were
+        not the case. Constitutionally, the decision of  such  an  official
+        is, of course, the  decision  of  the  minister.  The  minister  is
+        responsible. It  is  he  who  must  answer  before  Parliament  for
+        anything that his officials have done under his authority, and,  if
+        for an important matter he selected  an  official  of  such  junior
+        standing that he could not be expected competently to  perform  the
+        work, the minister would have to answer for that in Parliament. The
+        whole system of departmental  organisation  and  administration  is
+        based on the view that ministers, being responsible to  Parliament,
+        will  see  that  important  duties  are  committed  to  experienced
+        officials. If they do not do that, Parliament is  the  place  where
+        complaint must be made against them."
+
+    This principle has been applied to the  immigration  context:  in  R  v
+    Secretary of State for the Home Department ex-parte Oladehinde [1990] 2
+    WLR 1195 at 1218B/D especially, per Lord Donaldson MR.
+
+29. We are of the opinion  that  the  Carltona  principle  applies  to  the
+    relationship of Secretary of State and HOPOs.  While this principle is,
+    as Lord Donaldson MR recognised in Oladehinde at 125E, capable of being
+    "negative or confined by express statutory provisions", or by  "clearly
+    necessary implication", neither is identifiable in the present context.
+     In this context we take cognisance of the analysis in Yeo (supra) that
+    the Secretary of State and HOPO's  are  a  single  entity  and  may  be
+    regarded as a litigant in person.   It follows that  the  Secretary  of
+    State - and the Secretary of State alone - is fully responsible for the
+    actions of HOPOs.  No separate individual liability  or  responsibility
+    attaches to such persons.  As the Secretary of State and the  HOPO  are
+    indistinguishable in law it follows that in  the  language  of  section
+    29(6) of the 2007 Act a HOPO does not conduct proceedings on behalf  of
+    the Secretary of State. Rather, the HOPO is, in this discrete  context,
+    the alter ego of the Secretary of State, one and the same person.
+
+30. The  conclusion  expressed  immediately  above  is  reinforced  by  the
+    decision in Brown v Bennett [2002] 1 WLR 713 which  held,  inter  alia,
+    that the phrase "a right to conduct litigation on [a party's] behalf in
+    section 51(13) of the 1981 Act denotes a right "granted by  the  client
+    to the lawyers to conduct litigation", per Neuberger J at 727 H.
+
+31. Furthermore, we can find nothing in the range of legislative provisions
+    outlined above supporting the view that HOPOs have the status of "legal
+    or other representative", defined as "any person exercising a right  of
+    audience or right to conduct the proceedings on  [a  party's]  behalf",
+    within the meaning and scope of section 29(6)  of  the  2007  Act.   In
+    particular, the Appellants' argument  to  the  contrary  is  unable  to
+    overcome the combined effect of the material provisions of the 1999 Act
+    considered in tandem with LSA 2007.
+
+32.   Section  84  of  the  1999  Act  establishes  a  discrete  cohort  of
+    immigration advisers and immigration service providers.  All members of
+    this group must either possess one of the specified  authorisations  or
+    have the status of "registered person" viz registered with  OISC.   LSA
+    2007 is concerned with the six types  of  legal  service  specified  in
+    section 12(1).  Of these, the only two of note in the  present  context
+    are "the  exercise  of  a  right  of  audience"  and  "the  conduct  of
+    litigation".   The interaction and coexistence between the 1999 Act and
+    LSA 2007 is achieved by section 12(4) which expressly leaves section 84
+    of the 1999 Act unaffected.  This explains why OISC is not one  of  the
+    "approved regulators" listed in the Table found in Part 1 of Schedule 4
+    to LSA 2007: see [14] above.  HOPOs are clearly not embraced by  either
+    section 84 of the 1999 Act or the regime established by LSA 2007.
+
+33. In passing, one of the consequences of the above  analysis  is  that  a
+    registered OISC practitioner is vulnerable to a WCO.  We consider  that
+    such persons clearly fall within the embrace of section  29(4)  of  the
+    2007 Act.
+
+34. On behalf of the Appellants the protest is made that to  exclude  HOPOs
+    from section 29(6) of the 2007 Act would give rise to an  absurdity  in
+    two  specific  respects.   First,  the  vulnerability  of   the   legal
+    representatives of Appellants to a WCO would  be  considerably  greater
+    than that of the Secretary of State, leading  to  inequality  of  arms.
+    Second, this would encourage a culture  of  impunity  on  the  part  of
+    HOPOs.  We recognise of  course  the  well-established  principle  that
+    Parliament, in legislating, is presumed not  to  have  intended  absurd
+    consequences.  However, absurdity entails an  elevated  threshold,  one
+    which in our judgement is plainly not overcome in this context.
+
+35. There several reasons for this.  The first is the availability  of  the
+    power conferred on the FtT by rule 9(2)(b) to order costs  against  the
+    Secretary  of  State   for   unreasonably   defending   or   conducting
+    proceedings.  This, in our estimation, is a wide and  potent  provision
+    which is complementary to the  "wasted  costs"  definition  in  section
+    29(5).  Second, HOPOs owe to the tribunal, without  qualification,  the
+    broad range of duties enshrined in rule 2(4). Third, HOPOs act  at  all
+    times subject to the deterrence and  scrutiny  noted  in  [23]  -  [24]
+    above. Furthermore, they are answerable to the Secretary of State  who,
+    in turn, is answerable to Parliament and, ultimately,  the  electorate.
+    Fourth, the conduct  of  HOPOs  must  at  all  times  accord  with  the
+    expressed  and  implied  standards  of  their  contractual  engagement.
+    Finally, the discretions  and  duties  of  judicial  office,  traceable
+    ultimately to the statutory oath of  office,  are  both  extensive  and
+    efficacious in practice, more than sufficient to ensure a level playing
+    field between the parties in  every  case.   For  this  combination  of
+    reasons our construction of the  relevant  statutory  provisions  gives
+    rise to no absurdity.
+
+36. The exercise  which  we  have  conducted  above  and  the  interim  and
+    principal conclusions which  we  have  reached  have  unfolded  in  the
+    imperfect world of Parliamentary legislation.  In the ideal  world  the
+    legislation itself would  provide  a  clear  answer  to  all  questions
+    relating to its meaning and scope.  In the  real  world  it  frequently
+    fails to do so.  We recognise that there  is  some  attraction  in  the
+    contention that a HOPO is an "other representative" within the  meaning
+    of section 29(5)(A) of the 2007 Act, as the unreported decision of  the
+    UT in Secretary of State for the Home Department  v  PR  [AA/11637/15],
+    which we gave permission to cite, confirms.  However, with the  benefit
+    of extensive argument and reflection, we consider that this  attraction
+    is superficial only, failing  to  withstand  the  penetrating  analysis
+    which we have endeavoured to conduct.
+
+37. Although none of the questions formulated for our decision is  directed
+    specifically to rule 9(2)(b) of the 2014 Rules, we  are  alert  to  the
+    possibility of an increasing emphasis on this discrete  provision  and,
+    hence, add the following.  Judges, parties and practitioners should  be
+    alert to the decision in Catana v HMRC  [2012]  UKUT  172  (TCC)  which
+    considers, inter alia, the meaning and scope of the  phrase  "bringing,
+    defending or conducting proceedings".  The Tax and Chancery Chamber  of
+    the Upper Tribunal held that this is -
+
+         "....   an inclusive phrase designed to capture cases in  which  an
+         appellant has unreasonably brought an appeal which he  should  know
+         could not  succeed,  a  respondent  has  unreasonably  resisted  an
+         obviously meritorious appeal or either party has acted unreasonably
+         in the course of proceedings, for example by  persistently  failing
+         to comply with rules and directions to the prejudice of  the  other
+         side."
+
+    See [14].
+
+    We confine ourselves to two general observations.  The  first  is  that
+    the application of the Rule  9(2)(b)  test  will  be  unavoidably  fact
+    sensitive.  The second is that the presiding Judge will  be  especially
+    well equipped and positioned to make the evaluative judgment  necessary
+    in  deciding  whether  the  exercise  of  the  discretionary  power  is
+    appropriate.  Thirdly and finally, Judges should take care  to  express
+    the reasons for their decisions clearly  and  adequately.   While  this
+    will not require  a  disproportionately  detailed  essay,  the  general
+    principles, tailored to each individual context, apply: see MK (Duty to
+    give reasons) Pakistan [2013] UKUT 641  (IAC).
+
+    Our Answer to the First Question
+
+38. On the grounds and for the reasons elaborated above, we conclude:
+
+      a) HOPOs are not vulnerable to a WCO under section 29 of the 2007 Act.
+
+
+
+      b) Nor do they have any such vulnerability under Rule 9(b) of the 2014
+         Rules.
+
+    The Second Question
+
+39. The second of the agreed questions asks: if a WCO can be made against a
+    HOPO, in what circumstances should such an order be made?   While  this
+    question has been rendered moot  by  our  determination  of  the  first
+    question,  we  nonetheless  answer  it  in  order  to  cater  for   the
+    possibility of correction by an appellate court.
+
+40. The FtT  Presidential  Guidance  Note  No  1  of  2015,  in  particular
+    paragraphs [7] - [19] and [37], featured in the parties' submissions in
+    this context.  There was no  suggestion  from  any  quarter  that  this
+    instrument is in any way defective or inadequate.  It  is  appended  to
+    our decision in Cancino and reproduction of any of its contents in this
+    context is unnecessary. The provisions of  the  Guidance  Note  have  a
+    clear bearing on the answer to this hypothetical question.
+
+41. Next, in every individual case it will be necessary to give  effect  to
+    the helpful definitions of the terms "improperly",  "unreasonably"  and
+    "negligently" supplied  by  the  Court  of  Appeal  in  Ridehalgh  (see
+    Cancino, at [16]).  It will also be necessary to  observe  the  "golden
+    rules" devised in Cancino, at  [12].   Alertness  to  [13]  -  [27]  of
+    Cancino in every case will also be essential.
+
+42. A perusal of the passages  in  Cancino  highlighted  immediately  above
+    (which, in passing, tend to confirm the correctness of  our  answer  to
+    the first  of  the  four  questions)  points  out  that  if  HOPOs  are
+    vulnerable to a WCO some particular considerations arise.   These  were
+    summarised in the submissions of Mr Cohen as the absence of a  personal
+    liability insurance, the contractual  obligation  of  performing  one's
+    employment duties owed to the Secretary of State and the  related  duty
+    of confidentiality.  We  reject  Mr  Cohen's  submission  that  in  the
+    hypothetical scenario under consideration it would never be  "just"  to
+    make a WCO against a HOPO.  This is too sweeping and  experience  amply
+    demonstrates that absolute rules or principles generally have no  place
+    in the United Kingdom legal system.  That said we accept the submission
+    that the features just mentioned could arise and, where they do,  would
+    fall to be considered.  The evaluation of the second and third  factors
+    in particular would be highly case specific.  As regards the first,  it
+    was confirmed, in response to our  enquiry,  that  the  policy  of  the
+    Secretary of State for the time being is  to  indemnify  HOPOs  against
+    WCOs.
+
+43. It is also appropriate in this context to reflect  on  the  nature  and
+    purpose of a WCO.  We consider that the  WCO  jurisdiction  encompasses
+    compensatory, penal and  deterrent  elements.   We  reject  Mr  Cohen's
+    submission that the second and third of these elements  do  not  apply.
+    There are sufficient indications in the leading cases to  confirm  that
+    they do.   The  decided  cases  also  make  abundantly  clear  that  in
+    circumstances where the costs wasted by the aggrieved party  have  been
+    paid, from whatever source, there is no loss  and,  hence,  nothing  to
+    compensate.  This is illustrated by D v  SMH  [2008]  EWHC  559  (Fam).
+    There it was held that a WCO had been inappropriately made because  the
+    aggrieved party (the husband) had both financed the  other  party  (his
+    spouse) for the purpose of meeting the order  and  had  agreed  not  to
+    enforce it in any event.
+
+    The Third Question
+
+44. This question asks: what are the procedural and evidential requirements
+    for making a WCO?  We observe at once that this question is  framed  in
+    notably general terms and invites a correspondingly general response.
+
+45. A convenient  starting  point  is  provided  by  the  FtT  Presidential
+    Guidance Note (supra), [24] - [29] (appended to Cancino). Next we  draw
+    attention to the general guidance provided in Cancino  at  [6]  -  [8],
+    [18] - [19] and [27].   The  fundamental  procedural  requirements  are
+    those which the common law has  espoused  since  time  immemorial:  the
+    respondent must be alerted  to  the  possibility  of  a  WCO,  must  be
+    apprised of the case against him and must be given  adequate  time  and
+    opportunity to respond.  In a context where the  tribunal  must  strive
+    also to give effect to expedition and summary decision  making,  astute
+    to deter the development of a 'cottage industry',  the  balance  struck
+    must  always  respect  these  overarching  requirements  of  procedural
+    fairness: in short, they are inalienable.
+
+46. We draw particular attention to  the  requirement  of  causation.   The
+    impugned conduct of the respondent  must  be  causative  of  the  costs
+    unnecessarily incurred by the aggrieved party: the second of the  three
+    stage Ridehalgh test (see Cancino at [19]).  Where  this  causal  nexus
+    does not exist a WCO can never be made.
+
+47. Finally, we adopt in full the same reasoning of Eder J in Nwoko  v  Oyo
+    State Government of  Nigeria  [2014]  EWHC  4538  (QB),  a  case  where
+    proceedings were issued to secure the  appointment  of  an  arbitrator,
+    successfully and a WCO application ensued, at [8]:
+
+        "As far as the costs incurred up to 3 September 2014, there was  a
+        schedule which had been put before the court. I am not going to go
+        through that in detail, but it is a schedule  which  totals  almost
+        �28,000. The difficulty with that schedule is that it does not, and
+        does not even begin, to identify what costs are supposedly said  to
+        have been  wasted  by  the  relevant  conduct  on  behalf  of  CNA.
+        Mr Newman originally suggested that  I should  somehow  summarily
+        assess those costs by taking a broad brush. At  one  stage  it  was
+        suggested that the relevant figure was 20 per cent, another time it
+        was suggested it should  be  80  per  cent  of  that  figure.  That
+        approach is quite unacceptable."
+
+    Eder J continued:
+
+        "In order for the court to deal with it,  even  on  a  broad  brush
+        basis, it is incumbent upon a party to come before the court  with
+        proper evidence to identify what costs have  been  caused  by  what
+        deficient conduct. I accept that in many cases it may be that  some
+        estimates have to be made, but it is  unacceptable  for  any  party
+        simply  to  throw  at  the  court  a  large  schedule,  a  schedule
+        containing a large  bunch  of  figures  which  the  court  is  then
+        expected to plough through in order to arrive  at  some  principled
+        decision. It is simply impossible for the court to do that."
+
+    Amen to that we say.
+
+    The Fourth Question
+
+48. In what circumstances is it appropriate for the FtT to make  a  WCO  on
+    its own initiative?  This is what the fourth question asks.
+
+49. Once again, this is a broadly phrased question.  It  has  been  largely
+    answered by what the Court of Appeal said in Ridehalgh at 238E:
+
+        "Under the rules, the court itself may initiate the inquiry whether
+        a wasted costs order should be made. In straightforward cases (such
+        as failure to appear, lateness, negligence leading to an  otherwise
+        avoidable adjournment, gross repetition or extreme slowness)  there
+        is no reason why it should not do so. But save in the most  obvious
+        case, courts should in our view be slow to initiate the inquiry. If
+        they do so in cases where the inquiry  becomes  complex  and  time-
+        consuming, difficult and embarrassing issues on costs can arise: if
+        a wasted costs order is not made, the costs  of  the  inquiry  will
+        have to be borne by someone and it will not be the court;  even  if
+        an order is made, the  costs  ordered  to  be  paid  may  be  small
+        compared with the costs of the inquiry. In such cases  courts  will
+        usually be well advised to leave an aggrieved  party  to  make  the
+        application if so advised; the costs will  then,  in  the  ordinary
+        way, follow the event between the parties."
+
+    Thus caution and restraint occupy centre stage in the exercise  of  the
+    "own notion" power.   This  is  reflected  in  [24]  and  [29]  of  the
+    Presidential Guidance Note (supra).  We emphasise again  that  all  FtT
+    judges must be cognizant of these provisions.
+
+50. While the "own notion" power undoubtedly  entails  the  exercise  of  a
+    broad discretion such  discretion  will  be  exercised  paying  careful
+    attention to  the  restraint  exhorted  in  Ridehalgh  (supra).   Where
+    discretions of this kind are in play prescriptive guidance is generally
+    inappropriate.   Subject  thereto,  we  identify  some  merit  in   the
+    submission of Ms  Chapman  and  Ms  Foot  that  by  analogy  with  PD46
+    paragraph 5.7 of the CPR, the exercise of this discretion  will  rarely
+    be appropriate unless (a) the tribunal is satisfied that  the  material
+    available, if unanswered, would be likely to generate a WCO and (b)  it
+    is just and  appropriate  to  make  the  order  having  considered  the
+    representations of the parties/their representatives. This is a useful,
+    though not prescriptively exhaustive, gateway.  Furthermore, and  self-
+    evidently,  the  "own  notion"  discretion  will  not  be  engaged   in
+    circumstances where a party to the appeal has made a  WCO  application,
+    absent some special circumstance - for example, where the  party's  WCO
+    application is considered excessively limited.
+
+
+
+
+
+
+Direction Regarding Anonymity - Rule 14 of  the  Tribunal  Procedure  (Upper
+Tribunal)  Rules 2008
+
+Unless and until a Tribunal or  court  directs  otherwise,  the  second  and
+third Appellants are granted anonymity.   No  report  of  these  proceedings
+shall directly or indirectly identify them or any member of their  families.
+ This direction applies both  to  the  Appellants  and  to  the  Respondent.
+Failure to comply with this  direction  could  lead  to  contempt  of  court
+proceedings.
+
+
+
+                                                 [pic]
+                                               THE HON. MR JUSTICE MCCLOSKEY
+                                             PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+                               SITTING AS A JUDGE OF THE FIRST-TIER TRIBUNAL
+
+                                                          Date: 25 June 2017

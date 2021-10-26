@@ -1,0 +1,311 @@
+
+                                    [pic]
+
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: IA/30640/2015
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                          |Decision & Reasons Promulgated|
+|On 7th November 2018                          |On 30th November 2018         |
+|                                              |                              |
+
+
+                                   Before
+
+                      DEPUTY UPPER TRIBUNAL JUDGE SAINI
+
+
+                                   Between
+
+                                  WAQAS ALI
+                       (ANONYMITY DIRECTION NOT MADE)
+
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr A Iqbal, Legal Representative
+For the Respondent:    Ms A Everett, Senior Presenting Officer
+
+
+                            DECISION AND REASONS
+
+
+ 1. The Appellant appeals against the decision of First-tier Tribunal Judge
+    Garbett promulgated on 22nd June 2018 dismissing his  appeal  on  human
+    rights grounds and under the Immigration Rules.  The Appellant appealed
+    against that decision and was granted permission to  appeal  by  First-
+    tier Tribunal Judge Blundell in the following terms:
+
+         "2.  This is an ETS case involving a  Pakistani  appellant  who  is
+             married to a British citizen who  continues  to  have  regular
+             contact  with   her   teenage   children   from   a   previous
+             relationship.   The  judge  found  that  the  respondent   had
+             discharged the burden of proving that  the  appellant  used  a
+             proxy in his TOEIC test.  The judge went on to find that there
+             were no insurmountable obstacles to the sponsor relocating  to
+             Pakistan with the appellant and that the respondent's decision
+             was proportionate.
+
+         3.   In substance, there are four grounds of appeal:
+
+             (i)   The  judge  misunderstood  the  ETS  evidence  and   the
+                  distinction between  an  'invalid'  and  a  'questionable'
+                  designation;
+
+             (ii) The conduct of the hearing was  procedurally  unfair,  in
+                  that the appellant was not offered an interpreter when his
+                  answers became  confused  and  the  judge  had  difficulty
+                  understanding him;
+
+             (iii)    The judge erred in law and failed  to  take  material
+                  matters into account in assessing paragraph EX1(b);
+
+             (iv) The judge erred  in  law  and  failed  to  take  material
+                  matters into account in assessing the  best  interests  of
+                  the sponsor's children.
+
+         4.   I consider the third of these points to be  arguable.   It  is
+             arguable, in particular, that  the  judge's  finding  at  [37]
+             (regarding the absence  of  insurmountable  obstacles  to  the
+             sponsor relocating to Pakistan) were reached  by  adopting  an
+             impermissibly literal approach to  paragraph  EX1(b).   It  is
+             arguable that the judge failed to consider the question  posed
+             by paragraph EX2, of whether the  sponsor,  who  suffers  from
+             epilepsy and other conditions, would be  caused  very  serious
+             hardship by relocating to Pakistan and not seeing her  teenage
+             children every month as she presently does.  I  also  consider
+             there to be merit in the fourth of the grounds, as  summarised
+             above.
+
+         5.   For my part, I consider there to be considerably less merit in
+             the first of the two points summarised above.  It is far  from
+             clear that the judge erred in his  understanding  of  the  ETS
+             evidence.  Nevertheless, I note the guidance given  in  Ferrer
+             [2012] UKUT 304 (IAC) and I do not limit the grounds which may
+             be argued.
+
+         6.   Permission to appeal is granted on all grounds".
+
+ 2. I was not provided with a Rule 24 response from the Respondent but  was
+    given the indication that the appeal was resisted.
+
+Error of Law
+
+ 3. At  the  outset  of  the  hearing  I  canvassed  with  the  parties  my
+    preliminary view which was that there was in fact a material  error  of
+    law in the decision, however not quite  on  the  basis  framed  in  the
+    grounds, but on the basis  that  the  judge  had  reached  findings  in
+    respect of the Article 8 assessment which were  inconsistent  with  the
+    structure and content of the Immigration Rules under Appendix  FM.   To
+    put the point succinctly, in respect of Ground  3  of  the  Grounds  of
+    Appeal, the assessment of Appendix FM under EX.1(b) at paragraph 37  of
+    the decision would not avail the Appellant  in  an  assessment  of  his
+    appeal under the rules because the primary issue  on  this  appeal  was
+    that the Appellant had been refused leave to remain as the spouse of  a
+    British person under paragraph S-LTR.1.6. in respect of his having used
+    a proxy in an ETS English language test as a consequence of  which  the
+    Appellant's presence  in  the  United  Kingdom  was  considered  to  be
+    undesirable.  The reason why paragraph EX.1(b) or EX.2 is of  no  avail
+    to  the  Appellant  is  because  he  must  first  meet   paragraph   R-
+    LTRP.1.1(d)(i) which is the key paragraph governing the requirements to
+    be met for limited leave to remain as a  partner.   These  requirements
+    include that an applicant must not fall for refusal  under  Section  S-
+    LTR: suitability leave to remain, which of course  includes  S-LTR.1.6.
+    Thus, in that light given the findings against the Appellant in respect
+    of his ETS test the third ground concerning EX.1(b) could only have any
+    merit  if  there  were  also  merit  in  the  first  Ground  of  Appeal
+    challenging the assessment of the ETS evidence (which I shall  turn  to
+    in a moment).  Thus, in that light Ground 3 would stand and  fall  with
+    Ground 1 and there would need to be an error of law in respect of  both
+    in order for there to be any merit in Ground 3.
+
+ 4. Turning to Ground 1, upon which  Ground  3  is  entirely  dependent  in
+    demonstrating any materiality of error, the complaint made  in  essence
+    by Mr Iqbal is that the judge  failed  to  appreciate  the  distinction
+    between when an ETS test is categorised as invalid or questionable.  Mr
+    Iqbal turned my attention to paragraph 25 of the decision, however that
+    paragraph merely reflects  the  generic  evidence  as  it  was  put  in
+    previous authority, that there are two categories of where tests can be
+    cancelled which are either invalid  or  questionable.   I  drew  to  Mr
+    Iqbal's attention that the supplementary Respondent's bundle before the
+    First-tier Tribunal contained a table showing the SELT source data  and
+    the designation that the Appellant's test  at  South  Quay  College  in
+    Stratford High Street was deemed to be invalid.  Given  that  the  test
+    was deemed to be invalid (as opposed to questionable) in my view  there
+    can be no materiality  or  even  any  relevance  in  the  dichotomy  or
+    distinction between the two categories of test result as the  test  was
+    expressly stated to be "invalid" due to the use of a proxy test  taker,
+    and not that it was a "questionable" result which was rendered  invalid
+    as a consequence of other test results at that test centre  also  being
+    rendered invalid.  Thus, there is  no  merit  in  Ground  1  and  as  a
+    consequence, Ground 3 would also fail as it cannot stand alone.
+
+ 5. Turning to Ground 2  and  whether  the  judge  should  have  asked  the
+    Appellant if he wanted  an  interpreter  or  not  when  he  was  having
+    difficulty with his evidence, I find that there is no merit  whatsoever
+    in this ground and no appearance of bias or unfairness in  the  judge's
+    approach in this appeal.  I remind myself that if this were  an  appeal
+    involving a litigant in person, they may not necessarily know that they
+    could request an interpreter if they were having difficulty  during  an
+    appeal, nor would  they  be  in  a  position  to  have  a  professional
+    representative assist them in knowing  that  one  should  be  requested
+    having observed  them  having  difficulty  with  their  oral  evidence.
+    However, in this appeal Mr Iqbal was of course  present  as  the  legal
+    representative before the First-tier Tribunal and  any  criticism  that
+    could be levelled against the judge in  not  thinking  to  ask  for  an
+    interpreter could equally be laid at his door.  Mr Iqbal could give  no
+    reason why he equally did not think of asking for an  interpreter  when
+    the Appellant  was  struggling  to  give  his  evidence,  nor  was  one
+    requested  before  the  hearing  taking  a  cautious  approach  to  the
+    evidence.  Mr Iqbal conversely specified that the Appellant was  intent
+    on giving evidence in English according to  his  instructions,  and  in
+    that light, there is also a tension in a judge altering the  manner  in
+    which an appellant may wish to give their evidence if an interpreter is
+    insisted upon.  Those instructions also make this ground of appeal  all
+    the more bizarre.  In any event, it is  for  an  appellant  to  present
+    their evidence as best they can and in the manner which they  see  fit,
+    which would also involve a certain degree of intuition as to whether an
+    interpreter  is  required  or  not.   Regardless  of  the   appellant's
+    instructions to Mr Iqbal in this appeal, it seems  to  me  that  if  an
+    appellant  is  unrepresented,  then  the  Tribunal   should   certainly
+    volunteer  that  an  interpreter  be  provided  if  the  appellant   is
+    ostensibly struggling to testify or be understood, but  where  a  legal
+    representative is instructed and they are not blind to such events, the
+    best interests of the appellant should  also  be  safeguarded  by  that
+    professional, given the capacity in which they are present in the first
+    place, particularly as they will be more familiar with  their  client's
+    ability to speak English, over and above a  Tribunal  judge  whom  will
+    have not met the appellant before the hearing.  Thus,  given  that  the
+    Appellant was represented and could have also asked for an  interpreter
+    through his representative at any time, I do not see any unfairness  in
+    the judge not offering one to the Appellant of his own  volition  where
+    no one has stated  that  the  appellant  was  struggling  to  give  his
+    evidence.
+
+ 6. Turning finally to Ground 4 and whether the judge  has  considered  the
+    best  interests  of  the  children,  I  do  not  consider  this  ground
+    substantively as there is a further error of law in the decision  which
+    I raised with the parties and  which  was  agreed  before  the  hearing
+    began, to which I shall now turn.  Given the  judge's  findings  on  S-
+    LTR.1.6., the later findings made by the judge in respect of Article  8
+    outside the Rules at paragraphs 38 through to 45, and paragraph  44  in
+    particular, plainly suffer from material error.  This is  because  once
+    the judge found against the Appellant in terms of his  suitability,  in
+    light of the above analysis of R-LTRP.1.1(d)(i) and Section S-LTR, when
+    then considering the proportionality of the outcome of that  rule-based
+    assessment under Article 8 ECHR, there would  be  no  question  of  the
+    separation  between  the  Appellant  and  his  British   spouse   being
+    "temporary" and the judge was wrong to assess the matter on that basis.
+     Indeed the separation of the couple may well be  permanent  or  for  a
+    specific period of time as the Appellant would not be able  to  qualify
+    for entry clearance after a 'short separation' because the Secretary of
+    State would no doubt refuse such an entry clearance  application  under
+    paragraph S-EC.1.5. on the basis that the exclusion  of  the  applicant
+    from the UK is conducive to the public good as  a  consequence  of  the
+    judge's findings against the Appellant under S-LTR.1.6.   Although  not
+    raised as a Ground of Appeal, Ms  Everett  pragmatically  and  sensibly
+    accepted that this was an error that  infected  the  entire  Article  8
+    proportionality assessment outside the rules.  As a consequence  I  set
+    aside  specific  paragraphs  of  the  First-tier  Tribunal's  decision,
+    namely, paragraphs 38 to 45 in their entirety.
+
+ 7. As agreed between the parties, this matter therefore calls for  further
+    evidence and a de novo assessment of the Article 8 ECHR aspect  of  the
+    appeal outside the Rules in  respect  of  the  proportionality  of  two
+    possible scenarios:
+
+      a) either the permanent separation (or at least long term  separation)
+         of the couple with the Appellant remaining in Pakistan and Mrs  Ali
+         in the United Kingdom as a British citizen choosing to remain here,
+         and/or
+
+      b) on the basis that Mrs Ali would need to  relocate  permanently  (or
+         for the long term) to Pakistan with the Appellant as  he  does  not
+         qualify under the Immigration Rules under Appendix FM solely due to
+         his falling foul of S-LTR.1.6, and the impact this matter may  have
+         upon Mrs Ali owing to her particular circumstances including having
+         not travelled to or lived in Pakistan and not being able  to  speak
+         Urdu etc. etc..
+
+ 8. These are questions  that  will  likely  call  for  further  up-to-date
+    evidence from Mrs  Ali,  particularly  in  respect  of  her  up-to-date
+    healthcare difficulties, given that she has suffered from cancer in the
+    past and  also  suffers  from  epilepsy  and  bouts  of  dizziness  and
+    fainting, I am told.  It also raises the question of the best interests
+    of  Mrs  Ali's  three  minor  British  children   from   her   previous
+    relationship and the extent to which they will be  affected  by  either
+    the removal of the Appellant or Mrs Ali with him as she would  need  to
+    relocate to Pakistan in the second scenario for the  long  term  or  be
+    permanently separated from her spouse in the first scenario.
+
+ 9. In light of the above findings, the decision under the rules is  hereby
+    affirmed in respect of S-LTR.1.6. (which is  the  sole  basis  for  the
+    Appellant's failure  to  meet  Appendix  FM);  however,  regarding  the
+    Article 8 assessment outside the rules, I set aside paragraphs 38 to 45
+    of the First-tier Tribunal's decision in their entirety as well as  the
+    notice of decision  that  the  appeal  is  dismissed  on  human  rights
+    grounds.
+
+Notice of Decision
+
+10. The appeal to the Upper Tribunal is allowed only in part and in respect
+    of the Appellant's Article 8 family life, given that the appeal against
+    the  outcome   under   the   Immigration   Rules   remains   dismissed.
+
+
+
+11. The appeal is to be remitted to the First-tier Tribunal to be heard  by
+    a differently constituted bench.
+
+
+
+Directions
+
+12. I make the further following directions for the  remitted  hearing  and
+    continuation of this appeal in the First-tier Tribunal:
+
+      1) The appeal is to be  remitted  to  IAC  Birmingham,  that  Tribunal
+         apparently being closer to the Appellant's address in Cambridge.
+
+      2) An Urdu interpreter is to be provided.
+
+      3) The Appellant and Mrs Ali are to be called as witnesses at  present
+         (notwithstanding that Mrs Ali may also wish to call her children to
+         testify).
+
+      4) The time estimate given is three hours, although this may  increase
+         if further witnesses are called for.
+
+      5) No special directions are given.
+
+      6) I do not make any anonymity direction.
+
+      7) This matter is to be brought to the attention of the Resident Judge
+         at IAC Birmingham to facilitate the listing of  this  matter  given
+         that the matter is being remitted solely on the  basis  that  fresh
+         findings are needed in respect of Article 8 ECHR in  light  of  the
+         decision under the Immigration Rules being affirmed.
+
+
+
+
+
+
+
+
+Signed                                  Date 25 November 2018
+
+
+Deputy Upper Tribunal Judge Saini
+

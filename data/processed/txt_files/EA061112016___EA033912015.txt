@@ -1,0 +1,624 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Numbers: EA/03391/2015
+                                                             & EA/06111/2016
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                 |Decision & Reasons Promulgated       |
+|On 5 March 2019                      |On 2 August 2019                     |
+|                                     |                                     |
+
+                                   Before
+
+                         MR JUSTICE LANE, PRESIDENT
+                        UPPER TRIBUNAL JUDGE RINTOUL
+
+
+                                   Between
+
+                        BRYCE JAMES EDWARD MAREE (1)
+                          OSARAO JAMES OSAGHAE (2)
+                        (NO ANONYMITY DIRECTION made)
+                                                                  Appellants
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For Mr Maree: Mr Farhat, Gulbenkian Harris Andonian
+For Mr Osaghe:    Mr Layne instructed by Londinium solicitors
+For the Respondent:    Ms J Smyth, instructed by the Government Legal
+                    Department (Osaghae)
+                    Mr P Duffy, Senior Home Office Presenting Officer
+                    (Maree)
+
+
+                            DECISION AND REASONS
+
+ 1. Must an individual have been a member of the household of, or dependent
+    on, an EEA national relative for a continuous period of five  years  in
+    order to be eligible for permanent residence?   The  respondent's  case
+    is that he  must;  the  appellants  in  these  appeals,  for  different
+    reasons, argue that that he need not.   It is because  of  that  common
+    issue that these appeals were heard together.
+
+ 2. Both appeals arise  under  the  Immigration  (European  Economic  Area)
+    Regulations 2006, but in different situations.
+
+    Mr Maree
+
+ 3. Mr Maree is a citizen of South Africa. He arrived in the United Kingdom
+    in on 8 July 2009, at the age of 17, on the basis of  a  family  permit
+    granted under the Immigration (European Economic Area) Regulations 2006
+    ("the 2006 Regulations") to  join  his  sister  and  brother-in-law  (a
+    German citizen). Shortly after arrival he applied for and was granted a
+    residence card as the extended family member of an  EEA  national  (his
+    brother in law) valid for 5 years.  Mr Maree lived with his sister  and
+    brother-in-law until 2011 when he moved out to live with fellow  church
+    members. He studied and then obtained part-time and  finally  permanent
+    employment in late 2012. Although employed, he  was  still  financially
+    dependent on his brother-in-  law,  but  this  and  the  other  support
+    diminished over time as he matured.
+
+ 4. The judge concluded that, under the 2006 Regulations, Mr  Maree  needed
+    to show dependence on his brother-in-law for a period of 5 years from 8
+    July 2009; and, having directed himself at paragraph  [25]  as  to  the
+    meaning of dependency, concluded at paragraph [27] that  the  appellant
+    had not been dependent for the required continuous five-year period.
+
+ 5. The judge  also  considered  at  paragraphs  [28]  -  [29]  Mr  Maree's
+    alternative argument that, following Rahman [2012] EUECJ C-83/11,  that
+    continuous dependency as set  out  in  the  2006  Regulations  was  not
+    required by Directive 2004/38 but rejected it  at  paragraph  [31]  and
+    went on to dismiss the appeal.
+
+ 6. In the grounds of appeal, Mr Maree does not challenge the  findings  of
+    fact, nor does he dispute that the 2006 Regulations  require  5  years'
+    continuous dependency or membership of the household  of  the  relevant
+    EEA national. Instead, it is averred  in  the  grounds  that,  properly
+    understood, the CJEU in Rahman concluded  at  paragraphs[43]-[45]  that
+    the legislature (i.e. the EU) had not addressed the question of whether
+    a residence card can  be  refused  to  those  who  have  ceased  to  be
+    dependents and that a member state cannot make decisions  in  a  manner
+    not provided for by the Directive  which,  in  this  case,  includes  a
+    requirement for 5  years  continuous  dependency  or  membership  of  a
+    household.
+
+    Mr Osaghae
+
+ 7. Mr Osaghae is a citizen of Nigeria. On 8 November 2010 he was granted a
+    residence card as the extended family member  of  his  uncle,  Dr  M  O
+    Ehigiamusoe, an Austrian citizen.  That card was valid for 5 years.  On
+    23 September 2015 he  applied  for  a  card  confirming  his  right  of
+    permanent residence. That  application  was  refused  on  16  May  2016
+    following a visit by immigration officers to the uncle's  house.  As  a
+    result of  information  obtained  during  that  visit,  the  respondent
+    concluded that Mr Osaghae was no longer dependent on or  residing  with
+    his uncle.
+
+ 8. On appeal, the First-tier Tribunal concluded at  paragraph  [13]  after
+    hearing evidence from both of them that Mr Osaghae was not dependant on
+    his uncle and was not a member of his household at  paragraphs  [14]  -
+    [15], rejecting the submission that all that the  relevant  regulations
+    required were that Mr Osaghae had been continuously resident.
+
+ 9. Mr Osaghae sought and was granted  permission  to  appeal  against  the
+    decision on the grounds that the judge had arguably erred in  law  with
+    respect to the conclusion that Mr  Osaghae  was  not  living  with  his
+    uncle, there being no proper finding on that ground; and had erred with
+    respect to regulation 15 of the  2006  Regulations,  as  that  did  not
+    require him to show financial dependency for five years.
+
+    Issues arising
+
+10. There are three issues which arise out of these appeals:
+
+      i) Did the First-tier Tribunal fail to make a proper finding  of  fact
+         in respect of whether Mr Osaghae was living with his uncle?
+
+     ii) On a proper  construction,  do  the  2006  Regulations  require  an
+         extended family member seeking permanent  residence  to  show  five
+         years' continuous dependency on and/or membership of the  household
+         of an EEA national?
+
+    iii) Is the requirement to show five years' continuous dependency and/or
+         membership of the household of  an  EEA  national  compatible  with
+         Directive 2004/38 ("the Directive")?
+
+11. It is only issue (iii) which is common to both appeals.
+
+    The Law
+
+12. The 2006 Regulations provided, so far as relevant, as follows:
+
+         7. - Family member
+
+         (1)   Subject  to  paragraph  (2),  for  the  purposes   of   these
+         Regulations the following persons shall be treated  as  the  family
+         members of another person-
+
+             (a)  his spouse or his civil partner;
+
+             (b)  direct descendants  of  his,  his  spouse  or  his  civil
+             partner who are-
+
+                  (i)  under 21; or
+
+                  (ii) dependants of his, his spouse or his civil partner;
+
+             (c)  dependent direct relatives in his ascending line or  that
+             of his spouse or his civil partner;
+
+             (d)  a person who is to be treated as  the  family  member  of
+             that other person under paragraph (3).
+
+         (2)  A person shall not be treated under paragraph (1)(b) or (c) as
+         the family member of a student residing in the United Kingdom after
+         the period of three months beginning  on  the  date  on  which  the
+         student is admitted to the United Kingdom unless-
+
+             (a)  in the case of paragraph (b), the person is the dependent
+             child of the student or of his spouse or civil partner; or
+
+             (b)  the student also falls within one of the other categories
+             of qualified persons mentioned in regulation 6(1).
+
+         (3)  Subject to paragraph (4), a person who is an  extended  family
+         member  and  has  been  issued  with  an  EEA  family   permit,   a
+         registration certificate or a residence card shall  be  treated  as
+         the family member of the relevant EEA national for as  long  as  he
+         continues to satisfy the conditions in regulation 8(2), (3), (4) or
+         (5) in relation to that EEA national and the permit, certificate or
+         card has not ceased to be valid or been revoked
+
+         8. - "Extended family member"
+
+         (1)  In these Regulations "extended family member"  means a  person
+         who is not a family member of  an  EEA  national  under  regulation
+         7(1)(a), (b) or (c) and who satisfies the conditions  in  paragraph
+         (2), (3), (4) or (5).
+
+         (2)  A person satisfies the condition  in  this  paragraph  if  the
+         person is a relative of an EEA national, his spouse  or  his  civil
+         partner and-
+
+             (a)  the person is residing  in  [a  country  other  than  the
+             United Kingdom and is dependent upon the EEA national or is  a
+             member of his household;
+
+             (b)  the person satisfied the condition in paragraph  (a)  and
+             is accompanying the EEA national  to  the  United  Kingdom  or
+             wishes to join him there; or
+
+             (c)  the person satisfied the condition in paragraph (a),  has
+             joined the EEA national in the United Kingdom and continues to
+             be dependent upon him or to be a member of his household.
+
+         14. -    Extended right of residence
+
+         (1)  A qualified person is entitled to reside in the United Kingdom
+         for so long as he remains a qualified person.
+
+         (2)  A family member of a qualified person residing in  the  United
+         Kingdom under paragraph (1) or of an EEA national with a  permanent
+         right of residence under regulation 15 is entitled to reside in the
+         United Kingdom for so long as he remains the family member  of  the
+         qualified person or EEA national.
+
+         15. -    Permanent right of residence
+
+         (1)  The following persons shall acquire the right to reside in the
+         United Kingdom permanently-
+
+             (a)  an EEA national who has resided in the United Kingdom  in
+             accordance with these Regulations for a continuous  period  of
+             five years;
+
+             (b)  a family member of an EEA national who is not himself  an
+             EEA national but who has resided in the  United  Kingdom  with
+             the EEA national in accordance with these  Regulations  for  a
+             continuous period of five years;
+
+             (c)  a worker or self-employed person who has ceased activity;
+
+             (d)  the family member of a worker or self-employed person who
+             has ceased activity;
+
+13. Directive 2004/38 ("the Directive") provides, so far as is relevant:
+
+         Recital (6):In order to maintain the  unity  of  the  family  in  a
+         broader  sense  and  without  prejudice  to  the   prohibition   of
+         discrimination on grounds of nationality, the  situation  of  those
+         persons who are not included in the definition  of  family  members
+         under this Directive, and who therefore do not enjoy  an  automatic
+         right of entry and residence in the host Member  State,  should  be
+         examined by the host Member State on the basis of its own  national
+         legislation, in order to decide whether entry and  residence  could
+         be  granted  to  such  persons,  taking  into  consideration  their
+         relationship with the Union citizen  or  any  other  circumstances,
+         such as  their  financial  or  physical  dependence  on  the  Union
+         citizen.
+
+         Article 2  - Definitions
+
+         For the purposes of this Directive:
+
+         1)   "Union citizen" means any person having the nationality  of  a
+         Member State;
+
+         2)   "Family member" means:
+
+             (a)  the spouse;
+
+             (b)  the partner with whom the Union citizen has contracted  a
+             registered partnership, on the basis of the legislation  of  a
+             Member State, if the legislation  of  the  host  Member  State
+             treats registered partnerships as equivalent to  marriage  and
+             in accordance with the conditions laid down  in  the  relevant
+             legislation of the host Member State;
+
+             (c)  the direct descendants who are under the age of 21 or are
+             dependants and those of the spouse or partner  as  defined  in
+             point (b);
+
+             (d)  the dependent direct relatives in the ascending line  and
+             those of the spouse or partner as defined in point (b);
+
+         Article 3 - Beneficiaries
+
+         1.   This Directive shall apply to all Union citizens who  move  to
+         or reside in a Member State other than that of  which  they  are  a
+         national, and to their family members as  defined  in  point  2  of
+         Article 2 who accompany or join them.
+
+         2.   Without prejudice to any right to free movement and  residence
+         the persons concerned may have in their own right, the host  Member
+         State  shall,  in  accordance  with   its   national   legislation,
+         facilitate entry and residence for the following persons:
+
+             (a)   any  other  family  members,   irrespective   of   their
+             nationality, not falling under the definition in  point  2  of
+             Article 2 who, in the country from which they have  come,  are
+             dependants or members of the household of  the  Union  citizen
+             having the primary right of residence, or where serious health
+             grounds strictly require  the  personal  care  of  the  family
+             member by the Union citizen;
+
+             (b)  the partner with whom the Union  citizen  has  a  durable
+             relationship, duly attested.
+
+         The host Member State shall undertake an extensive  examination  of
+         the personal circumstances and shall justify any denial of entry or
+         residence to these people.
+
+    Submissions
+
+14. We heard submissions from all the representatives. We  also  took  into
+    account written submissions from the appellants made in response to our
+    directions issued on 21 May 2019.
+
+15. Mr Layne submitted that the First-tier Tribunal judge had erred in  his
+    approach to regulation 15(2); and had erred in his  assessment  of  the
+    evidence as to whether  Mr  Osaghae  was  living  with  his  uncle.  He
+    submitted also that the judge erred in his approach to regulation  8(1)
+    as, on the facts, the appellant had been either a dependent or  in  the
+    uncle's household at the relevant times.
+
+16. Ms Smyth submitted that the FtT had properly analysed the evidence, and
+    had properly concluded that Mr Osaghae was not living with  his  uncle,
+    and had found at paragraphs [11]  and  [13]  that  there  had  been  no
+    dependency; and, at paragraphs [14] to [15], that the appellant was not
+    residing with his uncle.
+
+17. Ms Smyth submitted that the appellants  had  no  rights  under  EU  law
+    beyond  the right for their applications to  be  facilitated,  and  any
+    associated procedural rights; anything beyond that was purely a  matter
+    of domestic law, and on that basis, Reyes [2014] EUECJ C-423/12,  which
+    held that Article 2(2)(c) of  the  Directive  must  be  interpreted  as
+    meaning that the fact that a relative - due to  personal  circumstances
+    such as age, education and health - is deemed  to  be  well  placed  to
+    obtain employment and in addition intends to start work in  the  Member
+    State does not affect the interpretation of  the  requirement  in  that
+    provision that he be a  'dependant'  could  be  distinguished  as  that
+    relates to the rights of dependents under the Directive.
+
+18. Turning to Rahman v SSHD, Ms Smyth submitted that it was clear from the
+    Advocate-General's opinion that he considered that sixth question  made
+    in  the  request  for  a  preliminary  opinion  (see  [33]  below)  was
+    hypothetical.
+
+19. Ms Smyth submitted that domestic law quite properly required  continual
+    dependence, as provided for in the Regulations,  relying  on  Aladeselu
+    and Others (2006 Regs -  reg  8)  Nigeria  [2011]  UKUT  00253(IAC)  at
+    paragraph [45] and Fatima v SSHD [2019] EWCA Civ 124
+
+20. Mr Farhat submitted that the respondent's analysis of  Rahman  was  too
+    narrow and that, properly  understood  it  is  ambiguous.  Further,  he
+    submitted that in the light of the ECJ's approach  to  question  5,  it
+    could be said that the Regulations were too  blunt  an  instrument.  Mr
+    Farhat submitted also that the application of the Regulations  in  this
+    case had a disproportionate effect, and that an  extensive  examination
+    of the personal circumstances would result in a different  outcome.  He
+    submitted that proportionality was  a  core  part  of  EU  law  and  is
+    applicable.
+
+21. Mr Duffy relied on Ms Smyth's submissions,  adding  that  the  position
+    taken by the Regulations in requiring a five-year dependency  in  order
+    to obtain permanent residence was proportionate
+
+22. In response, Mr Farhat submitted that adopting a blanket  response  was
+    not proportionate.
+
+    Discussion
+
+23. We deal with the issues in order.
+
+    Issue (i)
+
+24. The judge stated in Mr Osaghae's appeal at [15] that :
+
+         "I have very real doubts as to whether or not the appellant has  in
+         fact been living at that  address  [the  uncle's]  -  and  that  is
+         confirmed (in my view) by the enquiries  made  by  the  Immigration
+         Officers."
+
+25. This passage must be considered in light of the decision as a whole. It
+    is evident from the decision at [3] and [4] that the judge did consider
+    the evidence adduced by the respondent to show that Mr Osaghae was  not
+    living with his uncle, and that a copy of the record of the enforcement
+    visit had been provided.  It  is  also  evident  [14]  that  the  judge
+    weighed the evidence of the immigration officers with  the  documentary
+    evidence. In this context, and in the  context  of  the  applicant  not
+    adducing evidence from the aunt to whom the  immigration  officers  had
+    spoken, and who had told them that he  was  not  living  there,  it  is
+    evident that the judge found that Mr Osaghae had not been living at his
+    uncle's house. While his finding could have clearer, the statement that
+    he had very real doubts is, in the context of the burden  being  on  Mr
+    Osaghae, the finding is sufficiently clear and sustainable. Mr  Osaghee
+    had failed to show on balance that  the  factual  position  was  as  he
+    claimed.
+
+    Issue (ii)
+
+26.  The  contention  that  2006  Regulations  do  not  require  continuous
+    dependency and/or membership of a household is based on a misreading of
+    reg 15. (1) (b) which stipulates that residence must be "in  accordance
+    with these Regulations for a continuous period of five years".  In this
+    case, Mr Osaghae's right of residence  was  conferred  by  reg14  which
+    provides that it lasts only so long as he remained a family member of a
+    qualified person.
+
+27. As Ms Smyth submitted, "family member" as defined in reg 7 (3) includes
+    an extended family member only for so long as he continues to meet  the
+    requirements of reg. 8. In this case,  while  it  is  evident  that  Mr
+    Osaghae was the extended family member of  an  EEA  national  when  his
+    residence card was issued, as he met the requirements of  reg.  8  (2).
+    As the First-tier Tribunal found, Mr Osaghae had not been part  of  the
+    household and was not dependent - see paragraphs [13] and [14]. He  had
+    therefore ceased to meet the requirements of reg. 8 (2) and  so  ceased
+    to be a family member. Consequently,  as  he  ceased  to  be  a  family
+    member, his right of residence under reg  14  ceased,  and  he  was  no
+    longer residing in accordance with the regulations.
+
+28. We do not accept that there is any material difference between  reg.  8
+    of the 2016 Regulations and reg. 8 of the 2006 Regulations. The  former
+    does, however, set out in a more comprehensible  format  the  different
+    means by which an applicant can show he  meets  the  dependency  and/or
+    membership  of  a  household  criteria  identified   in   Dauhoo   (EEA
+    Regulations - reg 8(2)) [2012] UKUT 79 (IAC).   The argument put to the
+    First-tier Tribunal in Mr Osaghae's  appeal  was,  as  is  set  out  in
+    paragraph [10] of the decision, that under  the  Immigration  (European
+    Economic Area) Regulations 2016, all that was required  was  continuous
+    residence, not dependency or membership of a household  is  simply  not
+    made out. In any event, reg. 8 (2)(b) (ii)  requires  a  continuity  of
+    dependency and/or membership of a household.
+
+    Issue (iii)
+
+29. We accept that the 2006 Regulations must be interpreted in the light of
+    EU law; the right of appeal in these appeals is expressed in  terms  of
+    whether the decision breaches  the  appellants'  rights  under  the  EU
+    Treaties. The question  then  arises  whether,  as  is  contended,  the
+    requirement of domestic law - in this case a continuity  of  dependency
+    and/or membership of a household - is contrary to EU law.
+
+30. We note that, as was stated in SM (Algeria) [2018] UKSC 9 at [21]:
+
+         "The purpose of the Directive is to  simplify  and  strengthen  the
+         right of free  movement  and  residence  for  all  Union  citizens,
+         freedom of movement being one of the fundamental  freedoms  of  the
+         internal market. Having  to  live  apart  from  family  members  or
+         members of the  family  in  the  wider  sense  may  be  a  powerful
+         deterrent to the exercise of that freedom."
+
+31. The Directive draws a distinction between family members as defined  in
+    article 2 and beneficiaries identified in article 3.  This  distinction
+    between rights accruing to workers and their  spouses/children  on  the
+    one hand, and other  members  of  the  family  whose  entry  is  to  be
+    facilitated, is a distinction which dates back  as  far  as  Regulation
+    15/1961, the first European legislation on the issue.
+
+32. It  is  not  in  doubt  that  the  appellants  in  these  appeals  were
+    beneficiaries  within  Article  3.2  (b),  nor  is  it  in  doubt  that
+    beneficiaries are to  be  in  a  better  position  than  other  non-EEA
+    nationals. Equally, the requirement is not  just  to  facilitate  their
+    entry but also their residence. That much is clear  from  Khan  v  SSHD
+    [2017] EWCA Civ 1755 at [34].
+
+33. In Rahman the CJEU considered Article 3.2 in some detail. We note  that
+    the sixth question put to the court was:
+
+         "Must the dependency on which the other  family  member  relies  in
+         order to be admitted to the Member State continue for a  period  or
+         indefinitely in the host State for a residence card to be issued or
+         renewed pursuant to Article 10 of Directive 2004/38 ... and if  so
+         how should such dependency be demonstrated?"
+
+34. In his opinion, the Advocate-General said this:
+
+         "26. It is clear from the order for reference (8)  that,  by  that
+         question, the national  court  is  in  fact  seeking  to  ascertain
+         whether adults admitted to reside in the United Kingdom  as  family
+         members who  are  then  free  to  work  have  to  remain  dependent
+         throughout the period of validity  of  their  residence  permit  in
+         order to be able to obtain an extension of stay and entitlement  to
+         permanent residence. In my view, that question is hypothetical  and
+         has no bearing on the main  proceedings,  since  there  is  nothing
+         whatsoever in the information contained in the order for  reference
+         to suggest that the respondents in the main proceedings would be in
+         a position to  apply  for  an  extension  or  a  renewal  of  their
+         residence permits when they are no longer dependent on Mr  and  Mrs
+         Rahman. It is not possible to answer the question  in  general  and
+         abstract terms without taking into account  the  reasons  why  they
+         would no  longer  be  dependent.  The  answer  could  be  different
+         depending, for example, on whether  the  family  member  has  found
+         employment in the host Member State or  whether  he  is  now  being
+         cared for by another person living in his State of origin.
+
+         27.  As it is not the task of the Court to  resolve,  in  a  manner
+         which goes beyond the scope of the specific case which the national
+         court is required to decide, all the difficulties of interpretation
+         which  might  have  been  raised  by  the  provisions   transposing
+         Article 3(2) of Directive 2004/38 in the United Kingdom, the sixth
+         question must be considered inadmissible."
+
+35. We note also what the  Advocate-General  said  at  paragraphs  [105]  -
+    [107}:
+
+         "105.    By contrast, in so far as I take the view that [article  3
+         (2)(a)] does not imply the automatic grant of a right of residence,
+         I cannot identify any fundamental obstacle to a Member State laying
+         down particular conditions for obtaining the  right  of  entry  and
+         residence  in  order  to  ensure  the  reality,  effectiveness  and
+         duration of the dependency.
+
+         106. Such  conditions  must,  however,  respect  the  principle  of
+         effectiveness, which presupposes that they must not  be  framed  in
+         such a way as to render practically impossible the exercise of  the
+         rights conferred by the EU legal order. Accordingly, the conditions
+         laid down by the Member States cannot deprive,  de  facto,  persons
+         coming within the scope of that provision  of  all  possibility  of
+         obtaining a right of entry and residence. For example,  a  national
+         provision would be unacceptable if it provided that, in order to be
+         able to benefit from a right of residence, a  national  of  a  non-
+         member country had to prove that he had been dependent on the Union
+         citizen for more than 20 years.
+
+         107. Furthermore, conditions  as  to  the  nature  or  duration  of
+         dependency may constitute restrictions on the  admission  of  other
+         family members, which the Member States are, however,  required  to
+         facilitate. Consequently, in order to  be  permissible,  they  must
+         pursue a legitimate objective,  be  appropriate  for  securing  the
+         attainment of that  objective  and  must  not  go  beyond  what  is
+         necessary to attain it."
+
+36. In its judgment, the court did not address this point, but it is echoed
+    in Banger [2018] EUECJ C-89/17 at paragraph [40]:
+
+         "40. In the light both of the absence of  more  specific  rules  in
+         Directive 2004/38 and of the use of the words 'in  accordance  with
+         its national legislation' in Article 3(2) of that directive,  each
+         Member State has a wide discretion as regards the selection of  the
+         factors to be taken into account. Nonetheless, Member  States  must
+         ensure  that  their  legislation  contains   criteria   which   are
+         consistent with the normal meaning of  the  term  'facilitate'  and
+         which do not deprive that provision of its effectiveness  (see,  to
+         that effect, judgment of 5 September 2012, Rahman and  Others,  C-
+         83/11, EU:C:2012:519, paragraph 24).. "
+
+37. There is thus authority for the proposition that any conditions imposed
+    on the grant of entry or residence to an  EFM/beneficiary  must  comply
+    with the usual EU law caveat that they must be effective, that is, they
+    do not prevent the right from being exercised.
+
+38. The Secretary of State's case is that once entry has been  facilitated,
+    then the issue becomes one of domestic law. That we accept, but subject
+    to the caveat that the rights which then accrue to the  EFM  must  have
+    substance. We bear in mind that the purpose of the facilitation of EFMs
+    is to strengthen the right of free movement.
+
+39. It is evident from the approach of  the  CJEU  in  O.  and  B.  in  the
+    passages cited above  that  its  primary  concern  is  whether  the  EU
+    national would be discouraged from leaving his state of nationality  to
+    exercise  his  right  of  residence  under  the  Treaty  owing  to   an
+    uncertainty over whether he can continue a family life which  has  been
+    created or strengthened during a genuine residence.  In  principle,  we
+    accept that similar discouragements could apply in a  situation  where,
+    as here, Mr Maree's  brother-in-law  may  have  been  discouraged  from
+    moving to the United Kingdom were he not able to bring  Mr  Maree  with
+    him.
+
+40. It is, however, difficult to argue that there would be a discouragement
+    to an exercise of free movement rights if it were known that  Mr  Maree
+    would not be able to stay if he were no longer dependent, that  is,  an
+    adult reliant on his own resources. If the position were otherwise,  it
+    is difficult to see how or why the EU legislature would have framed the
+    Directive as it did.
+
+41. Further, it must be recalled that while the Directive  makes  extensive
+    provision for the rights of family members, that  does  not  extend  to
+    EFMs/beneficiaries.  That is, we consider, a deliberate choice  of  the
+    legislator. We recall also that that the  Directive  does  not  in  its
+    terms allow beneficiaries to acquire permanent residence  by  operation
+    of law - they are omitted from Articles 16 to 21, unlike the provisions
+    at Article 8, which allow for beneficiaries to be issued with residence
+    cards.  The Regulations are more generous than the  Directive  in  that
+    they do permit EFMs to acquire permanent residence.
+
+42. Given the clear legislative decision to maintain a  difference  between
+    beneficiaries and family members, we do not accept  that  effectiveness
+    requires a beneficiary to be permitted to acquire permanent  residence;
+    nor   are   we   satisfied   that   a   requirement    of    continuing
+    dependency/membership of a household  is  an  obstacle  to  freedom  of
+    movement.
+
+43. Turning  next  to  proportionality,  we  are  not  satisfied  that  the
+    continuing requirement for dependency is disproportionate in the EU law
+    sense. The requirement is,  all  things  considered,  simply  that  the
+    status quo persists.   We  accept  that  this  is  different  from  the
+    position of family members, in particular children who reach the age of
+    21 and become self-supporting as in Reyes; but  that  decision  relates
+    specifically to descendants who are provided for in  the  Directive  at
+    article 2 (2). The point made by the CJEU in Reyes at paragraph [32] is
+    that if a person granted entry would no longer be a dependant as he  or
+    she would be able to get employment, and so would not be able  to  work
+    if he or she wanted to retain status would be contrary to article 23 of
+    the Directive which  does  not  apply  to  beneficiaries.   It  can  be
+    distinguished on that basis and it  relates  to  an  interpretation  of
+    article 2 (2), not article 3 (2).
+
+44. Returning  to  Rahman,  we  consider  that,  contrary  to  Mr  Farhat's
+    submission, paragraph [47] cannot be  read  as  meaning  that  enduring
+    dependence is not a requirement that can be lawfully imposed. We see no
+    reason to read  the  passage  cited  from  paragraph  [47]  as  meaning
+    anything more than that the  issue  falls  outside  the  scope  of  the
+    Directive. That is a logical statement in the context  of  the  limited
+    manner in which it  addresses  the  position  of  EFMs.  Had  the  CJEU
+    intended to say that the requirement could not be imposed,  they  would
+    have said so; but it is in any  event  not  clear  how  that  could  be
+    deduced from the Directive.
+
+45. To conclude, therefore, we find that the requirement to show five years
+    continuous dependency and/or membership of  the  household  of  an  EEA
+    national is compatible with the Directive and the EU treaties.
+
+46. We therefore find that the decisions of the First-tier Tribunal did not
+    involve the making of an error of law, and we uphold them.
+
+Summary of Conclusions
+
+ 1. The decisions of the First-tier Tribunal did not involve the making  of
+    an error of law and we uphold them.
+
+
+Signed                                  Date:  26 July 2019
+[pic]
+
+Upper Tribunal Judge Rintoul

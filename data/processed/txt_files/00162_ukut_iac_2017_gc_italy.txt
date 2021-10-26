@@ -1,0 +1,821 @@
+
+
+                                    [pic]
+
+Capparrelli (EEA Nationals - British Nationality) [2017] UKUT 00162 (IAC)
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Manchester Civil Justice      |                 Decision           |
+|Centre                                 |Promulgated                         |
+|On 02 November 2016                    |On 20 January 2017                  |
+|                                       |                                    |
+|                                       |                                    |
+
+
+                                   Before
+
+                  THE HON. MR JUSTICE MCCLOSKEY, PRESIDENT
+
+
+                                   Between
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                             GUISEPPE CAPPARELLI
+                                                                  Respondent
+
+
+Representation
+
+For the Appellant:     Mr J Harrison, Senior Home Office Presenting  Officer
+
+
+For the Respondent:    Mr M Schwenk,  of  counsel,  instructed  by  Parkview
+             Solicitors
+
+
+ i) An EEA national exercising Treaty rights in the United Kingdom  is  not
+    "settled" within the compass of section 1(1) of the British Nationality
+    Act 1981 since such  person's  lawful  residence  is  conditional  upon
+    remaining economically active: Gal affirmed.
+
+ii) The statutory phrase "the immigration laws" does not encompass  the  EU
+    rules on free movement: Gal modified.
+
+
+iii) Being ordinarily resident in the United Kingdom  does  not  confer  the
+    status of British nationality.
+
+
+iv) The dichotomy of persons lawfully present in the United  Kingdom  under
+    (a) the EEA Regulations 2006 and (b) the Immigration Rules is reflected
+    in paragraph 5 of the latter.
+
+
+ v) The question of whether a person is ordinarily resident in  the  United
+    Kingdom is one of fact and degree.
+
+                                  DECISION
+
+Introduction
+
+ 1. For  convenience  I  shall  employ  the  appellations  "Appellant"  and
+    "Respondent" as at first instance.
+
+ 2. This appeal has its origins  in  a  decision  made  on  behalf  of  the
+    Secretary of State for the Home Department ("the Secretary  of  State")
+    dated 20 August 2015, to make a deportation order  in  respect  of  the
+    Appellant.  The central question of law which  arises  is  whether  the
+    Appellant is a British citizen.  If  the  answer  is  affirmative,  the
+    decision must be adjudged unlawful as it was  not  made  in  accordance
+    with  the  provisions  of  the  Immigration  (European  Economic  Area)
+    Regulations 2006  (the  "EEA  Regulations")  whereunder  the  Appellant
+    enjoys certain protections against deportation.
+
+
+The EEA Regulations
+
+ 3. In  the  context  of  this  appeal,  the  following  are  the  material
+    provisions of the EEA Regulations:
+
+
+    Regulation 19(1B):
+
+
+         "If the Secretary of State considers that the exclusion of  an  EEA
+         national or the family member of an EEA national  is  justified  on
+         the grounds of public policy, public security or public  health  in
+         accordance with Regulation 21 the Secretary of State  may  make  an
+         order for the purpose of these Regulations prohibiting that  person
+         from entering the United Kingdom."
+
+    Regulation 19(3):
+
+
+         "Subject to paragraphs (4) and (5), an EEA national who has entered
+         the United Kingdom or the family member of such a national who  has
+         entered the United Kingdom may be removed if-
+
+
+         ...
+
+
+             (b)   the Secretary of State has  decided  that  the  person's
+                  removal is justified on grounds of public  policy,  public
+                  security or public health in  accordance  with  Regulation
+                  21; ..."
+
+
+    Regulation 21:
+
+
+         "(1) In this Regulation a "relevant decision" means an EEA decision
+             taken on the grounds of  public  policy,  public  security  or
+             public health.
+
+
+         (2)  A relevant decision may not be taken to serve economic ends.
+
+
+        (3)  A relevant decision may not be taken in respect  of  a  person
+             with a permanent right of residence under Regulation 15  except
+             on serious grounds of public policy or public security.
+
+
+         (4)  A relevant decision may not  be  taken  except  on  imperative
+             grounds of public security in respect of an EEA national who-
+
+
+             (a)  has resided in the United Kingdom for a continuous period
+                  of at least ten years prior to the relevant decision; or
+
+
+             (b)   is under the age of 18, unless the relevant decision  is
+                  necessary in his best interests, as provided  for  in  the
+                  Convention on the Rights  of  the  Child  adopted  by  the
+                  General Assembly of the United Nations  on  20th  November
+                  1989
+
+
+         (5)  Where a relevant decision is taken on grounds of public policy
+             or public security it shall, in addition to complying with the
+             preceding  paragraphs  of  this  Regulation,   be   taken   in
+             accordance with the following principles-
+
+
+             (a)   the  decision  must  comply  with   the   principle   of
+                  proportionality;
+
+
+             (b)  the decision must be based exclusively  on  the  personal
+                  conduct of the person concerned;
+
+
+             (c)   the  personal  conduct  of  the  person  concerned  must
+                  represent a  genuine,  present  and  sufficiently  serious
+                  threat affecting  one  of  the  fundamental  interests  of
+                  society;
+
+
+             (d)   matters isolated from the particulars  of  the  case  or
+                  which relate to considerations of  general  prevention  do
+                  not justify the decision;
+
+
+             (e)  a  person's  previous  criminal  convictions  do  not  in
+                  themselves justify the decision.
+
+
+         (6)  Before taking a relevant decision on  the  grounds  of  public
+             policy or public security in  relation  to  a  person  who  is
+             resident in the United Kingdom the decision  maker  must  take
+             account of considerations such as the age,  state  of  health,
+             family and economic situation  of  the  person,  the  person's
+             length of residence in the United Kingdom, the person's social
+             and cultural integration  into  the  United  Kingdom  and  the
+             extent of the person's links with his country of origin."
+
+
+The British Nationality Act 1981
+
+
+ 4. Section 1 of the British Nationality Act 1981  (the  "1981  Act"),  the
+    subject matter whereof is "Acquisition by birth or adoption", provides:
+
+
+
+
+         "(1) A person born in the United Kingdom after commencement, or  in
+             a qualifying territory on or after the appointed day, shall be
+             a British citizen if at the time of the birth  his  father  or
+             mother is-
+
+
+             (a)  a British citizen; or
+
+
+             (b)  settled in the United Kingdom or that territory."
+
+
+    Section 1 came into operation  on  01  January  1983.   In  section  50
+    "settlement" is defined as follows:
+
+
+         "(1) In this Act, unless the context otherwise requires-
+
+
+         ...
+
+
+         "settled" shall be construed in accordance with subsections (2)  to
+         (4) ...
+
+
+         (2)   Subject to subsection (3), references in this Act to a person
+             being settled in the United Kingdom or in a  British  overseas
+             territory are references to his being ordinarily  resident  in
+             the United Kingdom or, as the case may be, in  that  territory
+             without being  subject  under  the  immigration  laws  to  any
+             restriction on the period for which he may remain."
+
+
+The Secretary of State's Decision
+
+ 5. The Appellant is aged 30 years.  He was born in the United  Kingdom  on
+    18 March 1986.  The impugned decision recites  that  between  2004  and
+    2012 he was convicted of a series of criminal offences, mainly offences
+    against the person and breaches of community orders.   It  suffices  to
+    focus on his two most recent convictions.  On  01  March  2011  he  was
+    sentenced to two years imprisonment having been  convicted  of  assault
+    occasioning actual bodily harm, criminal damage  and  harassment.   The
+    index conviction - of rape - was made on 29 February 2012 generating  a
+    punishment of 6 � years' imprisonment and a three year licence period.
+
+
+ 6. The decision maker, in giving consideration to the question of how  the
+    2006 Regulations applied to the Appellant, stated:
+
+
+         "It is not accepted that you have been resident in the United
+         Kingdom in accordance with the 2006 Regulations for a continuous
+         period of five years."
+
+
+      The  reason  proffered  for  this  conclusion  was  the   absence   of
+      documentary evidence demonstrating that at the time of the Appellant's
+      birth, his parents were settled and exercising Treaty  rights  in  the
+      United Kingdom.  The decision continues:
+
+
+         "It is understood at aged 2 or 3, in  1989,  you  and  your  family
+         relocated to Germany for approximately 7 years, not returning until
+         September 1997.  Although evidence submitted in the form of  school
+         and medical documents indicates your presence in the United Kingdom
+         from 1997 to 1999, there follows a gap of  approximately  12  years
+         until your employment time sheet dated August 2009 and  weekly  pay
+         slip dated 24 June 2010 ....
+         It is asserted [that] during this period you  were  in  the  United
+         Kingdom in constant employment but no evidence has  been  submitted
+         or received to substantiate these claims ...
+
+
+         Furthermore, prior to your  indicated  conviction  of  29  February
+         2012, you were convicted on 01 March 2011 and received a  custodial
+         sentence of 2 years ...  thus  breaking  any  continuous  residence
+         accrued from August 2009 and 24 June 2010."
+
+
+
+
+ 7. The decision maker next posed the question of whether  the  deportation
+    of the Appellant would be justified on the grounds of public policy  or
+    public security.  In the lengthy recitation of the evidence of risk  of
+    reoffending and  commentary  which  follow,  one  finds  these  salient
+    passages:
+
+
+         "In completing your OASYS assessment  the  Offender  Manager  found
+         that you pose a medium risk of harm ...  to the community, but high
+         risk of harm to non - adults, any partners due to  the  pattern  of
+         serious domestic abuse ....
+
+
+         In assessing you as high risk, it has been  considered  that  there
+         are identifiable indicators of a risk of serious harm  which  could
+         happen at any time and cause a serious impact ....
+
+
+         The Offender Manager has assessed  [that]  your  risk  of  harm  is
+         greatest when you are in a relationship with a partner (given  your
+         history of  domestic  abuse)  failure  to  address  your  offending
+         behaviour, increased  use  of  alcohol,  the  perception  of  being
+         disrespected  or  humiliated  and  failure  to  comply   with   the
+         indefinite  Restraining  Order  with  regards   to   your   current
+         victim....
+
+
+         There is no evidence that  you  have  addressed  the  issues  which
+         caused you to behave in  this  appalling  manner  ...  you  pose  a
+         significant and unacceptable risk of harm to women  in  the  United
+         Kingdom.   Furthermore,  there  is   clearly   an   escalation   in
+         seriousness of the offences you have committed."
+
+
+
+
+    This assessment culminates in the omnibus conclusion:
+
+
+         "All the available evidence indicates that you have a propensity to
+         reoffend and that you represent a genuine, present and sufficiently
+         serious threat to the public to justify  your  deportation  on  the
+         grounds of public policy."
+
+
+
+
+
+
+
+
+    The decision continues:
+
+
+         "Given the nature of the offence you have committed and the  threat
+         that you pose to society, it is considered that, even  if  you  had
+         permanent residence as a result of 5 years continuous residence  in
+         the United Kingdom or for a continuous period of at least 10 years,
+         the requirement  for serious  grounds  of  security  or  imperative
+         grounds of public security respectively would be satisfied."
+
+
+    Finally, the decision maker  pronounced  himself  satisfied  about  the
+    proportionality of  deportation  and  concluded  that  this  would  not
+    infringe Article 8 ECHR.
+
+
+Decision of the First-Tier Tribunal
+
+ 8. The First-tier Tribunal ("FtT"), having considered the testimony of the
+    Appellant and both of his parents made the following specific findings:
+
+
+
+
+      a) When the Appellant was born (in 1986), his mother  and  father  had
+         lived in the United  Kingdom,  having  emigrated  from  Italy,  for
+         periods of 7 and 4 years respectively.  They were married following
+         the birth.
+
+
+      b) At the time of the Appellant's birth, his mother  was  on  a  Youth
+         Training Scheme and his father was actively employed.
+
+
+      c) The family lived in Germany from 1989 to 1997.
+
+
+      d) The Appellant had lived continuously in  the  United  Kingdom  from
+         1997, beginning work in 2003 (having left school) and holding  down
+         some seven or eight short lived, cash paid, jobs between  2003  and
+         2006.
+
+
+      e) The Appellant was again in employment from mid-2007 to mid-2008 and
+         he made national insurance contributions of varying amounts between
+         2003 and 2011.
+
+
+      f) "The totality  of  the  evidence  .....  supports  the  Appellant's
+         [assertion] that he  was  essentially  working  at  short  term  or
+         temporary jobs within the period after he left school".
+
+
+      g) The Appellant "....  was continuously resident in the UK  from  his
+         return from Germany in 1997 without any unlawful break until 2010".
+
+
+    Finally, the  Judge  found  that  both  the  Appellant's  parents  were
+    "ordinarily resident" in the United Kingdom at the time of his birth.
+
+
+
+
+
+
+
+
+
+
+ 9. In a key passage the Judge continues:
+
+
+         "I find the evidence discloses on balance that  the  Appellant  was
+         continuously resident in the UK from his  return  from  Germany  in
+         1997 without any unlawful break until 2010.  During  that  time  he
+         was a student at school until 2002 [then aged 16] and thereafter on
+         balance I find from the totality of the evidence  he  was  engaged,
+         albeit perhaps sporadically, in employment.   He  would  also  have
+         been a family member under Regulation 7  of  the  2006  Regulations
+         until the age of 21 years in 2007. I find therefore that he appears
+         to have acquired 10 years  continuous  residence  from  1997  until
+         2011.  Thereafter his continuous time in the UK has been broken  by
+         periods spent in prison which does [sic] not as lawful residence."
+
+
+    The Tribunal then raised the question of whether the Appellant  had  10
+    years continuous residence during the  period  preceding  August  2005,
+    when the impugned decision was  made.   The  Judge  did  not,  however,
+    answer this question.  Rather, the determination states:
+
+
+         "As noted above the Appellant on balance appears to  have  acquired
+         such residence from 1997 until 01 March 2011 ..."
+
+
+    This is followed by:
+
+
+         "It follows therefore that any removal of the Appellant can only be
+         in accordance with Regulation 21(4) namely on imperative grounds of
+         public security."
+
+
+         [My emphasis.]
+
+
+
+
+10. In the penultimate paragraph of its  decision  the  FtT  concludes  and
+    reasons as follows:
+
+
+      i) The Appellant is a British citizen under section 1(1)(b) under  the
+         1981 Act.
+
+
+    (ii) Accordingly, he cannot be deported under the 2006 Regulations.
+
+
+    (iii)    If conclusions (i) and (ii) are incorrect, the Appellant is an
+         EEA national who, by virtue of 10 years continuous residence in the
+         United Kingdom, can be deported  only  on  grounds  of  "imperative
+         public security", under Regulation 21(4) of the 2006 Regulations.
+
+
+    (iv)  While  the  Appellant  has  undoubtedly   engaged   in   "serious
+         criminality", the threshold of "imperative public security" is  not
+         overcome.
+
+
+    The FtT allowed the appeal accordingly.
+
+
+
+
+
+Permission to Appeal
+
+11. Permission to appeal to this Tribunal was granted  on  the  basis  that
+    there is arguable merit in the contention that the FtT erred in law  in
+    the following respects:
+
+
+      i) In holding that the Appellant's mother had,  at  the  time  of  his
+         birth, acquired a permanent  right  of  residence,  and  hence  the
+         status of settlement, in the United Kingdom.
+
+
+    (ii) In failing to consider whether the Appellant's  integration  links
+         with the United Kingdom had been severed.
+
+
+    So much is clear from the grant of permission to appeal.
+
+
+
+
+  12. The reference in the grant of permission to appeal to the Secretary of
+      State's "third ground" is opaque, having regard to the terms in  which
+      the application for permission to appeal is couched.  In  one  section
+      of the grounds there appears  to  be  an  indirect  challenge  to  the
+      correctness of the decision in MG  and  VC  [2006]  UKAIT  00053.   In
+      another part there is a  contention,  based  on  the  decision  in  LG
+      (Italy) v SSHD [2008] EWCA Civ  190,  that  the  FtT  failed  to  take
+      account of "an evolution in the SSHD's policy".  Two observations  are
+      appropriate:
+
+
+      a) The suggestion that MG and VC  was  wrongly  decided  is  bare  and
+         unparticularised.
+
+
+      b) There is no attempt to explain how the FtT's  asserted  failure  to
+         take into account the "evolution in the SSHD's policy"  constitutes
+         an error of law.
+
+    To this I would add that, in any event, government policies relating to
+    how legislation is to be implemented or operated,  a  paradigm  example
+    being how discretionary statutory powers will normally be exercised and
+    the criteria which will dictate their exercise, have no bearing on  the
+    construction  of  the  legislation  concerned.   The  construction   of
+    legislation is a pure question of law.
+
+
+13. The conclusion that the Secretary of State's application for permission
+    to appeal is non-compliant with the decision of this Tribunal in  Nixon
+    (permission  to  appeal:  grounds)  [2014]  UKUT  368   (IAC)   follows
+    inexorably.  It should never be necessary for  the  Upper  Tribunal  to
+    invest  its  limited  resources  in  protracted  attempts  to  construe
+    applications for permission  to  appeal  or  grants  of  permission  to
+    appeal.  This is  manifestly  inimical  to  the  overriding  objective.
+    Applications for permission to appeal should  be  crisp,  succinct  and
+    clear.  The application in the present case takes the form of a diffuse
+    and unparticularised essay. Having conducted this unwelcome exercise, I
+    conclude that the scope of this appeal is confined to  the  two  issues
+    set forth in [11] above.
+
+
+
+The British Citizenship Issue
+
+14. The first limb of the Appellant's case is that he is a British  Citizen
+    by birth.  The submission developed by  Mr  Schenk  on  behalf  of  the
+    Appellant was that section 50(2) of the 1981 Act applies to any  person
+    exercising Treaty rights by virtue of Home Office policy.   The  policy
+    in question took the form of  a  Home  Office  Nationality  Instruction
+    entitled "European Economic Area and Swiss Nationals".   Paragraph  8.1
+    of this policy stated that as regards the period prior  to  02  October
+    2000 -
+
+
+         "Evidence that the person concerned was exercising any  description
+         of EEA free movement right in the UK on the relevant date should be
+         accepted as evidence that he or she was not, then,  'subject  under
+         the immigration laws to any restriction on  the  period  for  which
+         [they] might remain in the United Kingdom'."
+
+    In Fransman's British Nationality Law (3rd Edition)  it  is  stated  at
+    paragraph 13.2.2 (page 337):
+
+
+         "To be settled in the UK or an overseas territory, a person must be
+         'ordinarily resident' and, simultaneously, not 'subject  under  the
+         immigration laws to any restriction on the period for which he  may
+         remain' (i.e. he must be without time restrictions)."
+
+
+15. Fransman also addresses the phrase  "without  time  restrictions".   He
+    suggests, at paragraph 13.2.5:
+
+
+         "'Without being subject to time restrictions' is mainly a matter of
+         fact, whether or not the status involves a time restriction."
+
+    With regard to the first element of this proposition, I confine  myself
+    to the observation that, in the abstract at least, a  time  restriction
+    could arise by operation of law, via  legislation  whether  primary  or
+    secondary and could also arise by virtue of Government policy,  whether
+    through the medium of the Immigration Rules or otherwise.   Thus  there
+    is scope for debate about whether "being subject to time  restrictions"
+    is, as Fransman advocates, mainly a matter of fact.  Having said  that,
+    the terms in which a  residence  authorisation  are  couched  would  be
+    primarily a matter of fact, though construction of the  document  would
+    be a matter of law. The second element of the proposition  is  probably
+    not designed to add in substance to the first and does not in  my  view
+    do so.
+
+
+16. The status under the 1981 Act of EC nationals (as they then  were)  was
+    addressed specifically by the Immigration Appeal Tribunal  (the  "IAT")
+    in the case of Gal [TH/25885/92 10620].   The  argument  developed,  in
+    substance, was that the EU national concerned, a  French  citizen,  was
+    settled in the United Kingdom because, as an employee, he had  a  right
+    of residence not limited  by  any  time  restriction.   The  Tribunal's
+    rejection of this  argument  was  unequivocal.   It  held  that  an  EC
+    national residing in the  United  Kingdom  equipped  with  a  residence
+    permit is not "settled" within the compass of section 1(1) of the  1981
+    Act.  The rationale for thus holding  was  simple:  the  period  during
+    which such a person may remain in the  United  Kingdom  is  conditional
+    upon remaining economically  active.   The  operative  passage  of  the
+    decision is at page 10:
+
+         "We accept that  so  long  as  Mr.  Zilberberg**  qualified  for  a
+         residence permit he had a right of residence but to be "settled"  a
+         person must have no restriction "for  the  period  which  he  could
+         remain".  Mr. Zilberberg could remain under his European Law  right
+         only for a period during which he qualified under European Law  for
+         residence i.e. he met the terms  of  any  particular  European  Law
+         category on which he relied.  So as an employee he had to remain  a
+         "worker" within the meaning of European  Law.   Even  the  residual
+         residence category requires non-recourse to public funds.
+
+
+         The period for which Mr. Zilberberg could remain was not restricted
+         directly by time but so  long  as  qualifications  are  needed  the
+         period is restricted and, more, is restricted as to  its  duration.
+         The need for continued  qualification  is  to  be  contrasted  with
+         indefinite  leave  to  remain  which  may  only  be  terminated  by
+         deportation.  It follows that Mr. Zilberberg was never  settled  in
+         this country and it was not open to Mrs. Gal  to  claim  any  right
+         under paragraph 132."
+
+
+    [** The EU national in the equation]
+
+
+    One of the distinctive features of the Appellant's  arguments  is  that
+    they do not mention, much less acknowledge, this  decision.   The  same
+    observation applies to the grounds of appeal  and  submissions  of  the
+    Secretary of State.
+
+
+
+
+17. It would appear that in Gal an  appeal  to  the  Court  of  Appeal  was
+    initiated, but not pursued.  It seems surprising, at this remove,  that
+    the issue  which  Gal  decided  does  not  feature  in  other  reported
+    decisions of the Upper Tribunal (or its predecessors) and has not  been
+    authoritatively determined by the Court of Appeal.   Fransman  suggests
+    that the decision generated some controversy.   While  the  benefit  of
+    comprehensive adversarial argument would obviously have been welcome, I
+    am satisfied that Gal was correctly decided. However, for  the  reasons
+    explained below, my analysis is that  while  the  outcome  in  Gal  was
+    correct the underlying reasoning was flawed.
+
+
+18. Although in Gal the IAT accepted that  the  phrase  "immigration  laws"
+    encompasses the EU  rules  on  free  movement,  I  would  question  the
+    correctness of this.  Since 1971, via Section 33(1) of the  Immigration
+    Act of that year, the definition of "immigration laws" has been:
+
+
+         "'Immigration laws' means this Act and any law for purposes similar
+         to this Act which is for the time being or has (before or after the
+         passing of this Act) been in  force  in  any  part  of  the  United
+         Kingdom and Islands."
+
+
+    I consider that the ordinary and natural meaning of  these  words  does
+    not encompass the EU rules on free movement.  The definition  makes  no
+    mention of EU laws, primary or secondary.  Furthermore,  the  1971  Act
+    pre-dated the accession of the  United  Kingdom  to  the  EU  and  this
+    definition was not amended subsequently.  Notably, this definition  was
+    repeated when the 1981 Act was introduced: see section  50(1).   In  my
+    judgement "immigration laws" are confined to laws made  by  the  United
+    Kingdom Parliament.  If this phrase were  designed  to  extend  to  any
+    provisions of EU law, one would expect  clear  words  to  this  effect:
+    there are none.  To complete this discrete analysis, paragraph 5 of the
+    Immigration Rules makes clear that  they  have  no  application  to  EU
+    citizens exercising Treaty rights:
+
+
+         "Safe where expressly indicated, these Rules do not apply to  those
+         persons who are entitled to enter or remain in the  United  Kingdom
+         by virtue of the provisions of the 2006 EEA  Regulations.  But  any
+         person who is not entitled to  rely  on  the  provisions  of  those
+         Regulations is covered by these Rules."
+
+19. I consider that the FtT  fell  into  error  in  its  consideration  and
+    application of the definition of "settled" in section 50(2) of the 1981
+    Act.  This error arose from its concentration on the phrase "ordinarily
+    resident" only, at the expense of and neglecting the second part of the
+    definition namely "without being subject under the immigration laws  to
+    any restriction on the period  for  which  he  may  remain".   For  the
+    reasons explained in [18] I consider that  the  reasoning  in  Gal  was
+    incorrect.  The IAT should have held  that  this  second  part  of  the
+    definition of "settled" cannot sensibly be  applied  to  a  EU  citizen
+    exercising  Treaty  rights  since  the  "immigration  laws",  correctly
+    defined and understood, do not apply to such persons.  In other  words,
+    in the case of EU citizens, no question of a time restriction under the
+    immigration laws can arise.  It follows  that  EU  citizens  can  never
+    satisfy the second part of the definition.  Approached in this way, the
+    FtT's error was to conclude that the Appellant's parents were,  at  the
+    material time, viz when he was born, British citizens simply on account
+    of being ordinarily resident  in  the  United  Kingdom.   This  finding
+    failed to address the second limb of the definition  of  "settled".  If
+    addressed correctly, the FtT would in my judgement have been  bound  to
+    conclude that it was not satisfied, for the reasons explained above.
+
+20. In short, there is no merger of United Kingdom immigration laws and  EU
+    Treaty free movement rules.  The view expressed in Gal that the  latter
+    are immersed within the former  is,  in  my  estimation,  misconceived.
+    These are two  quite  separate  legal  regimes  in  the  context  under
+    scrutiny.
+
+21. Given the definition of "settled" in section 50(2) of the 1981 Act, the
+    separate question to be addressed is whether the FtT erred  in  law  in
+    its approach to the "ordinarily resident" rubric of  section  50(2)  of
+    the 1981 Act.  The concrete question for the FtT was whether either  of
+    the Appellant's parents was "ordinarily resident" in the United Kingdom
+    on the date of his birth, 18 March  1986.   The  first  requirement  of
+    "ordinary residence" is that it denotes lawful residence,  per  section
+    50(5) of the 1981 Act.  This is not disputed in the present case, given
+    the EU national status (now EU citizenship) of both parents  and  their
+    exercise of Treaty rights at all material times.
+
+22. It has long been settled that ordinary residence is a question of  fact
+    and degree.  Lord Scarman addressed this topic in  extenso  in  Shah  v
+    Barnet LBC [1983] 2 AC 309 at, firstly, page 343:
+
+
+         "Unless, therefore, it can be shown that the statutory framework or
+         the legal context in which the words are used requires a  different
+         meaning, I unhesitatingly subscribe to the  view  that  "ordinarily
+         resident" refers to a man's abode in a particular place or  country
+         which he has adopted voluntarily and for settled purposes  as  part
+         of the regular order of his life for the  time  being,  whether  of
+         short or of long duration."
+
+    Elaborating, at page 344:
+
+         "There are two, and no more than two, respects in which the mind of
+         the "propositus" is important in  determining  ordinary  residence.
+         The residence must be voluntarily  adopted.  Enforced  presence  by
+         reason  of  kidnapping  or  imprisonment,  or  a  Robinson   Crusoe
+         existence on a desert island with no opportunity of escape, may  be
+         so overwhelming a factor as to negative the will to  be  where  one
+         is.
+
+
+         And there must be a degree of settled purpose. The purpose  may  be
+         one; or there may be several. It may be specific or  general.   All
+         that the law requires is that there is a settled purpose.  This  is
+         not to say that the  "propositus"  intends  to  stay  where  he  is
+         indefinitely; indeed his purpose,  while  settled,  may  be  for  a
+         limited period.  Education,  business  or  profession,  employment,
+         health, family, or merely love of  the  place  spring  to  mind  as
+         common reasons for a choice of regular abode and there may well  be
+         many others.  All that is necessary is that the purpose  of  living
+         where one does has a sufficient degree of continuity to be properly
+         described as settled."
+
+    These principles fall to be applied to this  appeal  in  the  following
+    way.
+
+
+23. At [21] of its decision the FtT unambiguously found that in  1986  both
+    of the Appellant's parents  were  ordinarily  resident  in  the  United
+    Kingdom at the time of his birth.  In thus finding, the  Tribunal  gave
+    express  consideration  to  the  decision  in  Shah,  directed   itself
+    correctly in law, and provided adequate and rational reasons  for  thus
+    finding.  This  discrete  aspect  of  its  decision  is,  in  my  view,
+    unimpeachable.
+
+24. It is almost otiose to add that the Home Office policy  noted  in  [14]
+    above cannot alter or modify primary legislation.  Nor can it have  the
+    effect of altering paragraph 5 of the Rules, given their status in law.
+     Furthermore, the policy is not a legitimate  aid  to  construction  of
+    either primary legislation or the Rules.  Insofar  as  it  purports  to
+    state the law I consider it flawed.  The brusque riposte to  the  first
+    element of the Appellant's case - see [14] above -  is  that  the  Home
+    Office  policy  in  question  is  incapable   of   conferring   British
+    citizenship on the Appellant or contributing to his ability to  satisfy
+    the relevant statutory requirements and definitions.
+
+25. It follows that the first ground of appeal is made  out.   However,  as
+    appears from what follows, this does not suffice to rescue the impugned
+    decision of the Secretary of State.
+
+
+    Second ground of appeal: the EEA Regulations issue
+
+
+26. In my judgement, this aspect of the appeal travels nowhere by virtue of
+    the unambiguous - and repeated - findings of the FtT  relating  to  the
+    Appellant's continuous residence in  the  United  Kingdom.   These  are
+    rehearsed in [8] - [10] above.  It is appropriate to observe that  this
+    is the issue which the FtT addressed most  insistently.   The  critical
+    finding (repeated) was that the Appellant was continuously resident  in
+    the United Kingdom from 1997 to 2010.  This was a finding of fact, pure
+    and simple.  It is unassailable.  Moreover, there is no suggestion that
+    this period of 13 years was punctuated by (in the language of the  FtT)
+    any "unlawful break".  The second of the permitted  grounds  of  appeal
+    dissolves and thaws to nothing accordingly.  In passing, I consider  it
+    highly  probable  that  the  second  ground  of  appeal  overcame   the
+    permission  threshold  by  reason  of  the  multiple  defects  in   the
+    application for permission: see [11] - [12] above.
+
+
+27.  Accordingly,  the  Appellant  qualifies  for  the  highest  level   of
+    protection  against  deportation  under  the   regime   of   the   2006
+    Regulations.  Thus, per Regulation 21(4), the  precondition  of  lawful
+    deportation  action  against  him  is  "imperative  grounds  of  public
+    security".  In making the impugned  decision  the  Secretary  of  State
+    failed to recognise this, as is clear from [6]  -  [7]  above  and,  in
+    consequence, erred in law.  The decision of the FtT on  this  issue  is
+    unimpeachable.  As a result, the FtT's error of law diagnosed  in  [19]
+    above does not operate to redeem the Secretary of State's decision  and
+    is immaterial.
+
+
+    Decision
+
+
+  28. This appeal is dismissed accordingly.
+
+
+
+
+
+
+
+
+
+
+
+
+                                               THE HON. MR JUSTICE MCCLOSKEY
+
+          PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+
+
+                                                    Date:   31 December 2016

@@ -1,0 +1,698 @@
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: RP/00058/2016
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                  |Decision sent to parties on:         |
+|                                      |On 3 October 2017                    |
+|On 25 September 2017                  |                                     |
+|                                      |                                     |
+
+
+                                   Before
+
+                        UPPER TRIBUNAL JUDGE GLEESON
+
+
+
+                                   Between
+
+                             Ahmed Hassan Khalif
+
+                            [NO ANONYMITY ORDER]
+
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+Representation:
+
+For the appellant:     Mr Nigel Bramble, a Senior Home Office Presenting
+Officer
+
+For the respondent:    Mr David Sellwood, Counsel instructed by Duncan
+Lewis Solicitors
+
+
+                            DECISION AND REASONS
+
+
+
+1. The Secretary of State appeals with permission against  the  decision  of
+   the First-tier Tribunal  to  allow  the  claimant's  appeal  against  her
+   decision  to  cease  refugee  status  pursuant  to  section  72  of   the
+   Nationality, Immigration and Asylum Act 2002  (as  amended)  and  Article
+   1C(5) of the Refugee  Convention,  alternatively  that  the  claimant  is
+   excluded from refugee status pursuant  to  Articles  32  and  33  of  the
+   Refugee Convention, and to make a deportation  order  against  him  as  a
+   foreign  criminal  pursuant  to  sections  32  and  33  of  the  Borders,
+   Citizenship and Immigration Act 2009.
+
+2. The claimant  is  a  citizen  of  Somalia.  The  index  offence  was  his
+   conviction for robbery on 24 February 2014, for which he was sentenced to
+   5 years' imprisonment.   He  remains  on  licence  in  relation  to  that
+   sentence. He was served with  notification  of  intention  to  cease  his
+   refugee status on 18 January 2016. On 10 May 2016, the Secretary of State
+   signed a deportation order to return  the  claimant  to  his  country  of
+   origin, Somalia.
+
+The legal framework
+
+3. The claimant is  subject  to  automatic  deportation  by  reason  of  the
+   provisions of sections 32 and 33 of the UK Borders Act 2007.  Section  32
+   defines 'foreign criminal' as a person who is not a British citizen,  who
+   is convicted in the United Kingdom of an offence, and in  addition,  that
+   his offending  meets  either  Condition  1  (sentenced  to  a  period  of
+   imprisonment of at least 12 months) or Condition 2, that the  offence  is
+   one of those specified as a serious criminal  offence  by  order  of  the
+   Secretary of State under section 72(4)(a) of the 2002 Act and the  person
+   is sentenced to a period of imprisonment.
+
+4. If either Condition is met, the person is  a  foreign  criminal  and  the
+   statute creates  an  statutory  presumption  (section  32(4))  that  such
+   deportation order is conducive to the public good. The Secretary of State
+   is required to make a deportation order in respect of a foreign criminal,
+   unless one of the Exceptions in section 33 is applicable, or the  foreign
+   criminal is outside the United Kingdom, or section 34(4) applies  (making
+   a fresh deportation decision under section 32(5)).
+
+5. The statutory presumption that deportation is  conducive  to  the  public
+   good ceases to apply  (positively  or  negatively)  if  an  Exception  is
+   applicable.  The relevant exception in  section  33  in  this  appeal  is
+   Exception 1:
+
+         "33. ...(2)   Exception 1 is where removal of the foreign  criminal
+         in pursuance of the deportation order would breach -
+             (a)  A person's Convention rights; or
+             (b)   The  United  Kingdom's  obligations  under  the  Refugee
+             Convention. ...
+
+
+         (7)  The application of an exception -
+             (a)  Does not prevent the making of a deportation order;
+             (b)  Results in it being assumed neither that  deportation  of
+             the person concerned is conducive to the public good, nor that
+             it is not conducive to the public good."
+
+6. Where the Secretary of State has certified her decision under section  72
+   of the 2002 Act, section 72(1) tells the Court or  Tribunal  how  Article
+   33(2) of the Refugee Convention is to be applied. Section 72(10)  of  the
+   2002 Act requires the Tribunal to begin its consideration of  the  appeal
+   with consideration of the section 72 certificate.  The claimant will have
+   appealed under section 82, 83, 83A or 101 of the Nationality, Immigration
+   and Asylum Act 2002 (as amended), wholly or partly on the ground that  to
+   remove him from, or to require him to leave  the  United  Kingdom,  would
+   breach the United Kingdom's Refugee Convention obligations  (see  section
+   72(9)(a)).
+
+7. A section 72 certificate has the  effect  of  raising  a  dual  statutory
+   presumption: first, that the claimant  has  been  convicted  on  a  final
+   judgment  of  a  'particularly  serious  crime'  and  second,   that   he
+   'constitutes a danger to  the  community'.   In  the  case  of  a  person
+   convicted in  the  United  Kingdom,  section  72(2)  provides  that  both
+   presumptions come into effect where the  individual  is  sentenced  to  a
+   period of imprisonment of at least 2 years.
+
+8. Both presumptions may be rebutted by appropriate evidence, as set out  in
+   section 72(6)  and  EN  (Serbia)  v  Secretary  of  State  for  the  Home
+   Department & Anor [2009] EWCA Civ 630.
+
+9. If both presumptions are not rebutted, then section 72(10)(b) of the  Act
+   requires the Tribunal to dismiss the appeal in so far as it relies on the
+   Refugee Convention ground.  No presumptions are  raised  in  relation  to
+   human rights.
+
+10. I am guided in  my  approach  to  the  section  72  certificate  by  the
+   decision of the Upper Tribunal in Mugwagwa  (s.72  -  applying  statutory
+   presumptions) Zimbabwe  [2011]  UKUT  338  (IAC).   Paragraph  1  of  the
+   judicial headnote to that decision is as follows:
+
+         "1. The First-tier Tribunal (Immigration  and  Asylum  Chamber)  is
+         required to apply of its own motion the statutory  presumptions  in
+         s.72 of the Nationality, Immigration and Asylum  Act  2002  to  the
+         effect that Art 33(2) of the Refugee Convention  will  not  prevent
+         refoulement of a refugee where the  factual  underpinning  for  the
+         application of s.72 is present even if the Secretary of  State  has
+         not relied upon Art 33(2) and s.72."
+
+11. The Upper Tribunal in Mugwagwa explained the effect of  the  section  72
+   certificate as follows:
+
+         "23.        Section 72(2) creates statutory presumptions  that  the
+         requirements of Art 33(2)  are  met  and,  as  a  consequence,  the
+         prohibition against refoulement will not apply.  Section 72  is  in
+         mandatory  terms:  "[a]  person  shall  be  presumed...".   In  our
+         judgment, where s.72(2) or any of the  other  statutory  provisions
+         creating presumptions in s.72 applies, the Tribunal is under a duty
+         to apply s.72 to the individual in the appeal. Given the evidential
+         base provided by these presumptions, subject to rebuttal, Art 33(2)
+         will apply in such circumstances so that that a  refugee's  removal
+         will not be a breach of the Refugee  Convention.   Of  course,  the
+         individual will, whilst he fulfils the definition in Art 1  of  the
+         Refugee  Convention,  still  have  the  status  of  a  refugee   in
+         international law; and he cannot be removed  from  the  UK  to  his
+         country of nationality as that would inevitably infringe Art  3  of
+         the ECHR.  However, given the terms of the 2002 and 2007 Acts,  his
+         appeal relying on 'asylum' or 'refugee' grounds cannot succeed."
+
+12. That is the legal  framework  against  which  this  appeal  fell  to  be
+   analysed.
+
+Background
+
+13. The claimant was born in  Somalia  in  1990  and  is  a  member  of  the
+   minority Midgan clan.  He lived in  Mogadishu,  Somalia's  capital  city,
+   with his parents, brother and sisters.  The whole family left Somalia  in
+   early 1992, the claimant then aged just 2.  The family went first to  the
+   Yemen, where they were recognised as refugees by  the  Yemeni  Government
+   and UNHCR.  In July 2003, the family entered  the  United  Kingdom  under
+   UNHCR's 10-year resettlement program and were granted indefinite leave to
+   remain in the United Kingdom on 1 August 2003.   All  of  the  claimant's
+   family members apart from him are now naturalised British citizens.
+
+14. The claimant has a lengthy criminal history: between August  2009,  when
+   he was 19 and February 2014, when he was 24, he received 8 convictions on
+   4 occasions.  The first was an offence against the person (for  which  he
+   received a caution).  There followed convictions  for  domestic  burglary
+   with intent to steal, handling  stolen  goods,  theft  from  the  person,
+   attempted robbery, two counts of robbery, one offence of  common  assault
+   and one of failing to surrender to custody, all of which were dealt  with
+   by community orders or detention in a Young Offenders Institution.
+
+15. On 24 February 2014, the claimant was  convicted,  with  a  younger  co-
+   defendant, for a robbery which took  place  on  11  October  2013.   Both
+   defendants were sentenced to  5  years'  imprisonment,  the  claimant  in
+   prison and his younger co-defendant in  a  Youth  Offenders  Institution.
+   The Judge's sentencing remarks for the two defendants were as follows:
+
+         "Your previous convictions both provide significant aggravation  of
+         your offending.  You are both guilty of many  robberies  committed.
+         ...You [the claimant] last robbery [age] 20, you are now  aged  24,
+         23 at the time of the offence.
+
+         You have received a number of disposals over the years  for  these.
+         It is clear that neither of you has learnt anything at all.  I  see
+         no significant mitigation in either  of  your  cases.   ...  I  see
+         nothing that offends the principle of totality in this  case  in  a
+         correct calculation of the appropriate sentence.
+
+         This offence in the case of both of you is so serious that  neither
+         a community penalty nor a fine  can  be  justified  and  the  least
+         sentence I can impose upon you is one of 5 years. ..."
+
+16. The Secretary of State noted that  the  claimant  had  ties  within  the
+   Somali community in the United Kingdom and that he had received a British
+   education  and  obtained  qualifications  here  (GCSEs,  NVQ   and   BTEC
+   Nationals).  In addition, the claimant had studied business management at
+   college, all of which would  assist  him  on  return  to  Somalia.    The
+   claimant had asserted that he suffered depression: the Secretary of State
+   noted that there were mental health  services  available  in  Somalia  to
+   assist him.
+
+Cessation of refugee status
+
+17. The Secretary of State informed the claimant of her intention  to  cease
+   his refugee status, having regard  to  the  change  of  circumstances  in
+   Somalia.  The Secretary of State invited UNHCR to comment on the proposed
+   cessation. In a letter dated 1 March 2016, UNHCR expressed concern as  to
+   whether it was appropriate for refugee cessation to  be  triggered  by  a
+   criminal  conviction  and  considered  that  the  Secretary  of   State's
+   assessment of circumstances  in  Mogadishu  and  in  Somalia  was  overly
+   optimistic.  UNHCR's letter referred to the Human Rights Watch report for
+   2013, the UN Commissioner  for  Refugees  Report  of  January  2014;  the
+   LandInfo Country Information Centre report of March 2014;  the  Norwegian
+   Organisation for Asylum  Seekers  report  of  April  2014,  and  the  MOJ
+   decision by the Upper Tribunal.
+
+18. The  Secretary  of  State  considered  the  UNHCR  representations,  but
+   nevertheless  concluded  that  there  was   a   significant   change   in
+   circumstances which  could  justify  the  claimant's  return  to  Somalia
+   without a risk of persecution or serious harm.   Her cessation  decision,
+   contained in the deportation decision letter, was  made  under  paragraph
+   338A and 339A(v)  of  the  Immigration  Rules  HC395  (as  amended)  with
+   reference to Article 1C(5) of the Refugee Convention.
+
+19. The claimant appealed to the First-tier Tribunal.
+
+First-tier Tribunal decision
+
+20. The First-tier Tribunal Judge did not deal first  with  the  section  72
+   presumption.  His conclusions and reasons begin with section 117C of  the
+   2002 Act and Article 8 ECHR.  The Judge was satisfied that  the  claimant
+   was a 'foreign criminal' as defined in section 32 of the  2007  Act,  but
+   held that the claimant could bring himself within Exception 1 in  section
+   33 and that there was no presumption that his removal was for the  public
+   good.
+
+21.  At  [39],  the  Judge  summarised  the  effect  of   the   section   72
+   presumptions.  He held that the claimant had rebutted  both  presumptions
+   and that the section 72 certificate 'was not justified'.   At  [40],  the
+   Judge said that 'the question of whether or  not  it  is  a  particularly
+   serious crime is relevant  to  whether  or  not  humanitarian  protection
+   should be withdrawn or refused'.  There are  no  further  findings  about
+   humanitarian protection in the First-tier Tribunal decision.
+
+22. The Tribunal then considered  cessation.   It  did  so  without  express
+   reference to the UNHCR letter,  and  discounted  a  country  report  from
+   Professor Aguilar on the basis that it 'does not  displace  the  previous
+   findings of MOJ'.  The First-tier Tribunal found as a fact that on return
+
+
+
+         "52. ...the [claimant] will be in  a  situation  with  no  clan  or
+         family support and would not be  in  receipt  of  remittances  from
+         abroad, and would have no real prospects of securing  access  to  a
+         livelihood on return and that would mean that his conditions  could
+         well  fall  below  that  which  is  exceptional   in   humanitarian
+         protection terms."
+
+23. The Judge found that it had not been open to the Secretary of  State  to
+   conclude that the cessation provisions were made out.  He considered  the
+   Refugee Convention risk to amount to 'compelling circumstances as to  why
+   [the claimant] should not be returned to Somalia', and allowed the appeal
+   on refugee status grounds. The  First-tier  Tribunal  made  no  anonymity
+   direction.
+
+24. The Secretary of State appealed to the Upper Tribunal.
+
+Grounds of appeal
+
+25. The Secretary of State's grounds of appeal were that  it  had  not  been
+   open to the First-tier Tribunal to find that  the  'particularly  serious
+   crime' presumption was rebutted.   She relied on the sentencing  remarks,
+   and the length of  the  sentence  (5  years).   The  Secretary  of  State
+   submitted that the decision that the index offence did not  amount  to  a
+   particularly serious crime was perverse and/or  irrational,  particularly
+   in view of the sentencing remarks.
+
+26. The Secretary of State also challenged the finding that the  presumption
+   that the claimant posed a danger to the community of the  United  Kingdom
+   (section 72(2)) had been rebutted.  She argued that  the  Judge  had  not
+   given sufficient weight  to  evidence  in  the  OASys  reports  that  the
+   claimant still posed a  medium  risk  of  harm,  albeit  a  low  risk  of
+   reoffending.
+
+27. The Secretary of State argued  that  the  First-tier  Tribunal  had  not
+   approached properly the country guidance in MOJ.  She did  not  challenge
+   any of the factual findings made by the  First-tier  Tribunal  about  the
+   claimant's likely circumstances on return  to  Mogadishu.   Nor  did  she
+   challenge the treatment of  humanitarian  protection  by  the  First-tier
+   Tribunal at [40].
+
+28. The Secretary of State contended that the Article 8 ECHR  findings  made
+   by the First-tier Tribunal were incapable of amounting to very compelling
+   circumstances outside the Rules, for which  leave  to  remain  should  be
+   given, as  the  compelling  circumstances  reasoning  in  the  First-tier
+   Tribunal's decision did not appear to relate to  the  claimant's  private
+   and family life.
+
+Permission to appeal
+
+29. Permission  to  appeal  was  granted  on  all  grounds.   The  grant  of
+   permission to appeal identifies the following arguable errors of law:
+
+           i) That the Judge misdirected himself in  law  when  considering
+              exclusion under section 72 of the 2002 Act;
+
+          ii) That the Judge erred in fact and law,  in  finding  that  the
+              index offence was not a 'particularly serious crime'  in  the
+              section 72 sense;
+
+         iii) That the Judge erred in fact in assessing that  the  claimant
+              no longer posed a  danger  to  society,  as  required  for  a
+              section 72 certificate;
+
+          iv) That the First-tier Tribunal failed to identify  the  Refugee
+              Convention reason 'and consequently erred in his approach  to
+              Article 8 [ECHR]'; and
+
+           v) That the findings as to  whether  the  index  offence  was  a
+              'particularly serious crime' were perverse and/or irrational.
+
+Rule 24 Reply
+
+30. Notice that permission had been granted was sent to both  parties  on  9
+   August 2017.  The claimant  and  his  representatives  were  entitled  to
+   submit a Rule 24 Reply within 1 month of that date, that is to say, by  9
+   September 2017.  No Rule 24 Reply was received  within  that  period  and
+   there is no application to extend time.
+
+31. At the hearing, Mr Sellwood handed me  a  skeleton  argument  which,  he
+   said, should also be treated as his  Rule  24  Reply.   The  document  in
+   question does not comply with rule 24(3) and I treat this document  as  a
+   skeleton argument, not a Reply.
+
+32. That is the basis on which this appeal came before the Upper Tribunal.
+
+Upper Tribunal hearing
+
+33. For the Secretary of State, Mr Bramble relied on his grounds of  appeal.
+   The sentencing remarks had been  truncated  in  the  First-tier  Tribunal
+   decision, such that they did not properly reflect the serious view  taken
+   by the sentencing judge.   Although  no  weapon  had  been  used  in  the
+   robbery, the claimant and his co-defendant had  used  force  at  a  level
+   which the Judge described as 'not insignificant'.   At [40],  the  First-
+   tier Tribunal had considered humanitarian protection,  but  if  exclusion
+   applied, it would apply both to refugee protection  and  to  humanitarian
+   protection.
+
+34. The First-tier Tribunal's findings on Article 3 and Article 8 ECHR  were
+   sweeping and unsound.  The Judge had given  insufficient  weight  to  the
+   country evidence of Professor Aguilar, and also to the  risk  factors  at
+   (x) and (xi) in MOJ.  The claimant was a  young  man,  not  a  vulnerable
+   woman, and would be able to re-establish himself in Somalia on return.
+
+35. The First-tier Tribunal's findings of fact on the  likely  circumstances
+   of the claimant's return to Mogadishu were not specifically mentioned  in
+   the grounds of appeal, but Mr Bramble argued that as the sentence imposed
+   was  more  than  4  years,  the  Judge's  findings  on  very   compelling
+   circumstances failed properly to apply either paragraph  398  or  section
+   117C(6) and could not stand.
+
+36. For the claimant, Mr Sellwood  relied  on  his  skeleton  argument.   In
+   relation to the 'particularly serious  crime'  and  'danger  to  society'
+   elements of the section 72 test, he seeks there to rebut  the  allegation
+   that  the  First-tier  Tribunal's  approach  was  based  on  a   material
+   misdirection in law.  Mr Sellwood argued that the  Secretary  of  State's
+   challenge was a perversity/rationality challenge, not a  misdirection  in
+   law.  Mr Sellwood did not seek to argue that if  the  Refugee  Convention
+   claim failed, the  claimant  was  not  also  excluded  from  humanitarian
+   protection.  That was not in issue before me at the hearing.
+
+37. Mr Sellwood relied on IH  (section  72:  'particularly  serious  crime')
+   Eritrea [2009] UKAIT 0012 at [14], [75] and [76] and  on  EN  (Serbia)  v
+   Secretary of State for the Home Department and Another  [2009]  EWCA  Civ
+   630 at [45].  He contended that the First-tier Tribunal's decision  dealt
+   properly with  both  assessments,  taking  into  account  the  claimant's
+   history, the nature and circumstances of the offence, the OASys  reports,
+   and the claimant's  evidence  and  experiences  while  imprisoned,  which
+   showed at least some insight into the consequences of his actions.
+
+38. He argued that the Secretary of State's  reliance  on  MA  (Pakistan)  v
+   Secretary of State for the  Home  Department  [2014]  EWCA  Civ  163  was
+   erroneous: the appellant in MA had not faced up to his criminal  offences
+   (see [19] in the judgment of Lord Justice Elias, giving the  judgment  of
+   the Court)  and  the  offences  in  question  were  grave  indeed  (money
+   laundering and trafficking of Class A drugs).  I note that  the  sentence
+   imposed on MA was 3 years' imprisonment, not 5 years, as here.
+
+39. As regards  the  question  of  cessation,  Mr  Sellwood  contended  that
+   refugee status could not be reviewed or annulled,  save  where  the  most
+   substantial and clear  grounds  exist,  and  that  a  change  in  country
+   circumstances  must  be  significant  and  non-temporary  (see  Salahadin
+   Abdulla (Area of Freedom, Security and Justice)  [2010]  EUECJ  C-175/08,
+   [2011] QB 46).  The Secretary of State and/or the Tribunal  was  required
+   to consider whether there were any other grounds on which the  individual
+   had a fear of persecution on return, and the decision was therefore fact-
+   specific at the date of decision or hearing.  The Secretary of State  had
+   given insufficient weight to the UNHCR letter  in  deciding  whether  the
+   threshold of significant and non-temporary  change  of  circumstances  in
+   Somalia was reached. Mr Sellwood contended that it had been open  to  the
+   First-tier  Tribunal  Judge  to  find  as  a  fact  that  the   cessation
+   certificate was unlawful.
+
+40. As regards Article 8  ECHR,  the  First-tier  Tribunal  Judge  had  been
+   entitled to conclude, as he  had,  that  the  claimant  could  show  very
+   compelling circumstances, over and above those outlined in  Exceptions  1
+   and 2 in section 117C(4) and 117C(5) of the Nationality, Immigration  and
+   Asylum Act 2002 (as amended) and paragraph 398 of the Rules, to  outweigh
+   the public interest in  deportation.   The  skeleton  argument  does  not
+   identify what those were,  and  the  compelling  circumstances  reasoning
+   relied upon is that at [54] in the decision.
+
+41. Finally, Mr Sellwood argued that  the  standard  for  perversity  and/or
+   irrationality in relation to the finding that the index offence was not a
+   'particularly serious crime' was not met, having regard to the  reasoning
+   in the First-tier Tribunal decision.
+
+42. In his oral submissions, Mr Sellwood reminded the Tribunal that  section
+   72 of the Nationality, Immigration  and  Asylum  Act  2002  (as  amended)
+   reflected Article  33  of  the  Refugee  Convention,  which  defines  the
+   circumstances in which a refugee  can  be  refouled  to  the  country  of
+   origin.  The threshold is high, because of the grave ramifications of any
+   error.
+
+43. Mr Sellwood observed that  the  Secretary  of  State's  grounds  were  a
+   disagreement with the outcome of the appeal, rather than identifying  any
+   arguably material error of law in the First-tier Tribunal decision.   The
+   Secretary of State in her grounds had not challenged the findings of fact
+   or credibility in the grounds of appeal, and it was not open to her to do
+   so now.
+
+44. It had been open to the Judge to find, for the  reasons  he  gave,  that
+   the claimant was no longer a danger to the community,  having  regard  to
+   the later of the two OASys reports before him.  The risk  of  destitution
+   on return by reason of the lack of clan or family support was capable, by
+   itself, of meeting the Article 3 ECHR or Article 15(c) standard and  even
+   if it was right that the difficulties experienced  in  Mogadishu  by  the
+   Midgan were now at the level  of  discrimination,  not  persecution,  the
+   claimant  had  been  entitled  to  succeed  on  the  basis  of  potential
+   destitution.  That amounted to  very  compelling  grounds  under  section
+   117C(6) and paragraph 398; in fact, no other conclusion was open  to  the
+   First-tier Tribunal on the evidence before it.
+
+Discussion
+
+The section 72 certificate
+
+45. I consider first, as section 72(10)(a) requires, whether  the  Secretary
+   of State's challenge to the First-tier Tribunal's section 72 decision  is
+   sound.  This claimant was sentenced to 5 years and so  both  presumptions
+   are  raised  in  relation  the  Refugee  Convention  ground,  subject  to
+   rebuttal.
+
+46. The Secretary of State challenged the First-tier Tribunal's  section  72
+   decision both on the basis  that  it  was  not  open  to  the  First-tier
+   Tribunal Judge to find that the crime in question was  not  'particularly
+   serious', and on the basis that the Judge was not entitled to  find  that
+   the claimant did not pose a  danger  to  society.   Her  challenge  is  a
+   challenge to the First-tier Tribunal Judge's findings on rebuttal.
+
+
+
+'Particularly serious crime' presumption
+
+47. The Judge's finding that the index offence of robbery,  which  attracted
+   a sentence of 5 years imprisonment, did  not  constitute  a  particularly
+   serious crime is unsustainable, having regard to the  sentencing  Judge's
+   remarks, which are not properly represented in the summary at  [44].   It
+   was not a question of aggravating features making  the  offence  serious.
+   The sentencing judge said this:
+
+    "This offence in the case of both of you is so serious that  neither  a
+    community penalty nor a fine can be justified and the least sentence  I
+    can impose upon you is one of 5 years."
+
+   The finding made in the First-tier Tribunal decision was contrary to  the
+   evidence before the Judge and cannot stand (see R (Iran) v  Secretary  of
+   State for the Home Department [2005] EWCA Civ 982 at [90]).
+
+
+
+'Danger to the community' presumption
+
+48. The First-tier Tribunal Judge considered also that the  presumption  was
+   rebutted in relation to whether the claimant constituted a danger to  the
+   community.  He took into account the claimant's relative youth (24  years
+   old), that he had 'gone off the rails in his late teens' and that  'there
+   was clearly a period when he was operating without any proper restraint'.
+    The claimant had found it difficult to assimilate into the  English  way
+   of life, having arrived here as a teenager of 13 years old, and  although
+   he achieved the necessary qualifications  to  obtain  a  place  to  study
+   Business Studies at Thames Valley University, he left there after a  year
+   and began committing street-related offences.  He was gambling, and had a
+   significant alcohol and drug addiction problem.
+
+49. While in prison,  the  claimant  had  undertaken  courses  in  drug  and
+   alcohol management, as well as skills courses  on  mathematics,  English,
+   and various City and Guilds certificate.  Since leaving prison on licence
+   (he will remain on licence  until  3  December  2018  when  his  sentence
+   expires), he has been successfully discharged from the post-release  drug
+   and alcohol treatment programme.  He remains on antidepressants  and  has
+   been referred for neurological testing.
+
+50. The Judge took account of the  second  OASys  report  on  the  claimant,
+   completed on 13 November 2015 before his release.  The  report  indicates
+   some progress on insight into his offending, but on the page marked 'Risk
+   of Serious Harm Screening (Layer 3)' the report indicates that  he  still
+   has control issues or disruptive behaviour, that there  are  concerns  in
+   respect of breach of trust, and that he is considered to  be  a  risk  to
+   other prisoners. On 27 June 2015, he was moved to  the  segregation  unit
+   for disruptive behaviour, because he had barricaded his cell. He had been
+   placed in special accommodation on 6 July 2015 for trying to set fire  to
+   his cell.  The report concluded that the claimant presented a Medium risk
+   of serious harm to the public or to known adults, which is defined thus:
+
+          "Medium risk of serious harm - there are  identifiable  indicators
+         of serious harm.  The offender has the potential to  cause  serious
+         harm but is  unlikely  to  do  so  unless  there  is  a  change  in
+         circumstances, for example, failure to  take  medication,  loss  of
+         accommodation, relationship breakdown, drug or alcohol misuse'.
+
+51. The claimant told the interviewing officer that he still needed  support
+   with anger management, that he struggled with controlling his temper  and
+   emotional management, linked  to  his  depression  medication,  which  he
+   considered to have the  side-effect  of  aggression  and  temper  control
+   problems.  The claimant asked for support in this area.  In his decision,
+   the Judge said that both OASys reports considered the claimant to present
+   a low risk of reoffending, 'although, of course, of medium risk [of harm]
+   in terms of the people who might be offended against' and concluded  that
+   the claimant did not continue to be a danger to the  community.   I  note
+   that there was no more recent evidence  before  the  First-tier  Tribunal
+   than the November 2015 OASys report.
+
+52. Again, the Judge's finding of fact that the presumption is  rebutted  is
+   not supported by the evidence and is perverse.  I consider, having regard
+   to the matters set out above, that it was not open to the  Judge  on  the
+   evidence to find that  the  section  72  presumption  of  danger  to  the
+   community had been displaced.
+
+53. It follows from these findings that neither presumption  in  section  72
+   is rebutted.  The Secretary of State's section 72 certificate stands, and
+   the Refugee Convention element of this appeal must be dismissed.
+
+Humanitarian protection
+
+54. The First-tier  Tribunal  made  no  separate  decision  on  humanitarian
+   protection, to which the section 72 certification regime does not  apply.
+   Neither party has suggested, having regard to  the  exclusion  provisions
+   relating to subsidiary protection contained in Article 17(1)(b)  and  (d)
+   of the Qualification Directive 2004/83/EC,  that  the  outcome   of  this
+   appeal would have been different under the Refugee or Person in  Need  of
+   International Protection (Qualification) Regulations 2006  (as  amended).
+   On the basis of the arguments  before  me,  the  humanitarian  protection
+   claim falls with the Refugee Convention claim.
+
+Article 3 and cessation in international law
+
+55. The remaining question is whether the claimant can be removed  from  the
+   United Kingdom, or whether he is protected  from  removal  by  Article  3
+   ECHR, as set out in Mugagwa.
+
+56. The risk for this claimant on return to Mogadishu  is  analysed  by  the
+   First-tier Tribunal on the basis of the Upper Tribunal's country guidance
+   in MOJ v Secretary of State for the Home Department.  The relevant  parts
+   of the judicial headnote are as follows:
+
+         "(vii)           A person returning to Mogadishu after a period of
+         absence will look to his nuclear family, if he has  one  living  in
+         the city, for assistance in re-establishing himself and securing  a
+         livelihood. Although a returnee may also seek assistance  from  his
+         clan members who are not close relatives, such help is only  likely
+         to be forthcoming for majority clan members, as minority clans  may
+         have little to offer.
+
+         (viii)         The significance of clan membership in Mogadishu has
+         changed. Clans now provide, potentially, social support  mechanisms
+         and assist  with  access  to  livelihoods,  performing  less  of  a
+         protection function than previously. There are no clan militias  in
+         Mogadishu, no clan  violence,  and  no  clan  based  discriminatory
+         treatment, even for minority clan members.
+
+         (ix)              If it is accepted that a person facing a  return
+         to Mogadishu after a period of absence has  no  nuclear  family  or
+         close relatives in  the  city  to  assist  him  in  re-establishing
+         himself on return, there will need to be a  careful  assessment  of
+         all of the circumstances. These considerations  will  include,  but
+         are not limited to:
+
+          �       circumstances in Mogadishu before departure;
+
+         �       length of absence from Mogadishu;
+
+         �       family or clan associations to call upon in Mogadishu;
+
+         �       access to financial resources;
+
+         �       prospects  of  securing  a  livelihood,  whether  that  be
+         employment or self employment;
+
+         �       availability of remittances from abroad;
+
+         �       means of support during  the  time  spent  in  the  United
+         Kingdom;
+
+         �       why his ability to fund the journey to the West no  longer
+         enables an appellant to secure financial support on return.
+
+          x)             Put another way, it will be for the person facing
+         return to explain why he would not be able to access  the  economic
+         opportunities  that  have  been  produced  by  the  economic  boom,
+         especially as there is evidence to the effect  that  returnees  are
+         taking jobs at the expense of those who have never been away.
+
+         (xi)             It will, therefore, only be those with no clan or
+         family support who will not  be  in  receipt  of  remittances  from
+         abroad and who have no  real  prospect  of  securing  access  to  a
+         livelihood on return who  will  face  the  prospect  of  living  in
+         circumstances  falling  below   that   which   is   acceptable   in
+         humanitarian protection terms.
+
+         (xii)            The evidence indicates clearly  that  it  is  not
+         simply those who originate from Mogadishu that  may  now  generally
+         return to live in the city without being subjected  to  an  Article
+         15(c) risk or facing a real risk of destitution. On the other hand,
+         relocation in Mogadishu for a person of a minority  clan   with  no
+         former links to the city, no access to funds and no other  form  of
+         clan, family or social support is unlikely to be realistic  as,  in
+         the absence of means to establish a home and some form  of  ongoing
+         financial  support  there  will  be  a  real  risk  of  having   no
+         alternative but to live in makeshift accommodation  within  an  IDP
+         camp where there is  a  real  possibility  of  having  to  live  in
+         conditions   that   will   fall   below   acceptable   humanitarian
+         standards."
+
+57. The First-tier Tribunal  made  findings  of  fact,  applying  the  above
+   guidance.  I note the failure to deal with the UNHCR evidence,  but  that
+   evidence strengthens rather than weakens the claimant's case as  to  risk
+   and instability in Mogadishu.  I am satisfied that the error  in  failing
+   to deal with the UNHCR letter is immaterial in this appeal. The weight to
+   be given to country expert evidence is  a  matter  for  the  fact-finding
+   Tribunal.  The Judge's approach to the evidence of Professor  Aguilar  is
+   robust,  but again, a more  nuanced  approach  would  have  favoured  the
+   claimant.  I do not find that the Judge's approach to Professor Aguilar's
+   evidence was such as to amount to a material error of law.
+
+58. There is no challenge by  the  Secretary  of  State  to  the  First-tier
+   Tribunal's findings of fact.   The Judge found  that  the  claimant  left
+   Mogadishu as 2-year old child; that his entire family are in  the  United
+   Kingdom and are British citizens, that his family in the  United  Kingdom
+   are largely dependent on state benefits and 'no doubt struggling to  meet
+   their own needs', and that the claimant was  a  member  of  the  minority
+   Midgan clan with no clan links  in  Mogadishu.   He  concluded  that  the
+   claimant would have very poor financial prospects and  would  be  one  of
+   those  who  would  have  no  alternative  but  to   live   in   makeshift
+   accommodation in an IDP camp.  That finding was open to him on the  facts
+   and evidence before him.
+
+59. On that basis, Article 3 ECHR is applicable to the facts as found.  This
+   decision contains errors of law (principally, the approach to section  72
+   and the confused approach to Article 8 ECHR and part VA of the 2002 Act).
+    But the claimant is entitled to succeed under Article  3  ECHR,  on  the
+   basis of current conditions in Somalia and  the  factual  matrix  in  his
+   case.
+
+
+DECISION
+
+60. For the foregoing reasons, my decision is as follows:
+   The making of the previous decision involved the making of an error on  a
+   point of law.
+   I set aside the previous decision.  I remake the decision  by  dismissing
+   the Refugee Convention appeal but allowing it under Article 3 ECHR.
+
+
+
+Date:         2 October 2017                 Signed   Judith AJC Gleeson
+                                                 Upper Tribunal Judge
+Gleeson
+
+

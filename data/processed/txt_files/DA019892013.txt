@@ -1,0 +1,1220 @@
+
+
+                                    [pic]
+
+
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number: DA/01989/2013
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at: Field House                         |Determination Promulgated    |
+|On: 15th March 2016                           |On: 15th April 2016          |
+|                                              |                             |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE BRUCE
+
+                                   Between
+
+                                      A
+                         (anonymity direction made)
+                                                                   Appellant
+                                     and
+
+                 Secretary of State for the Home Department
+                                                                  Respondent
+
+
+For the Appellant:     Mr Walsh, Counsel instructed by Bindmans LLP
+For the Respondent:          Mr Tarlow, Senior Home Office Presenting
+Officer
+
+
+                          DETERMINATION AND REASONS
+
+
+ 1. The Appellant is a national of Azerbaijan whose identity  is  protected
+    for the purpose of these proceedings by an order for anonymity.
+
+
+ 2. On the 24th September 2013 the Respondent made a decision to deport the
+    Appellant pursuant to s3(5)(a) of the Immigration Act 1971 (as amended)
+    on the grounds that his deportation would be conducive  to  the  public
+    good. The event which had led to  this  decision  was  the  Appellant's
+    conviction, on the 20th December 2012,  of three counts  of  possessing
+    "control identity documents with intent" for which he  had  received  a
+    concurrent sentence of 12 months in prison[1].
+
+ 3. The Appellant appealed against that decision  and  in  a  determination
+    promulgated on the 4th February 2015 the First-tier Tribunal  dismissed
+    his appeal on all grounds. The Appellant appealed that decision to  the
+    Upper Tribunal and in a written decision dated the 2nd February 2016  I
+    found the determination of the First-tier Tribunal to contain errors of
+    law such that it must be set aside. My written reasons are attached  to
+    this determination at 'Appendix A'. In summary it was accepted  by  the
+    Secretary of State  that  the  First-tier  Tribunal  had  misunderstood
+    certain aspects of the evidence so that the decision was in part  based
+    on errors of fact. The errors were such that the reasoning as  a  whole
+    could not be upheld.  Having set the decision  aside  I  directed  that
+    that it be re-made in the Upper Tribunal.
+
+ 4. When the matter came back before me on the 15th March  2016  Mr  Tarlow
+    had not had sufficient time to prepare for the  hearing.  He  requested
+    some additional time, which I granted.  When the hearing began at 11.30
+    I heard evidence from the Appellant and three additional witnesses, and
+    submissions on behalf of both parties.  I reserved my decision, which I
+    now give.
+
+
+
+
+
+    Legal Framework and Matters in Issue
+
+ 5. The legal framework was agreed between the parties to  be  as  follows.
+    The decision to deport is  made  with  reference  to  s3(5)(a)  of  the
+    Immigration Act 1971 (as  amended).  Because  the  Appellant  has  been
+    convicted of an offence leading to a sentence of 12  months  in  prison
+    his deportation is deemed to be  in  the  public  interest.    In  this
+    appeal the burden lies on the Appellant to show that  he  falls  within
+    one of the 'exceptions' set out in the Immigration Rules. The Appellant
+    relies on the exceptions contained at paragraph 397:
+
+
+           1.         397. A deportation order will  not  be  made  if  the
+              person's removal pursuant to the order would be  contrary  to
+              the UK's obligations under  the  Refugee  Convention  or  the
+              Human Rights  Convention.  Where  deportation  would  not  be
+              contrary to these obligations, it will only be in exceptional
+              circumstances that the  public  interest  in  deportation  is
+              outweighed.
+
+
+    In respect of the Refugee Convention it is for the  Appellant  to  show
+    that he has a  well-founded  fear  of  persecution  in  Azerbaijan  for
+    reasons of his imputed political opinion.  The  standard  of  proof  is
+    lower than that  normally  applicable  in  civil  matters  and  can  be
+    expressed as a 'reasonable likelihood' or a 'real risk' that  he  would
+    face such harm. In respect of the Human Rights Convention the Appellant
+    relies on Article 3 ECHR. He contends that if  returned  to  Azerbaijan
+    there is a real  risk  that  he  would  face  torture  or  inhuman  and
+    degrading treatment.   If the Appellant succeeds in showing that he  is
+    a refugee, or that his  removal  would  violate  the  United  Kingdom's
+    obligations under Article 3, his appeal must be allowed.
+
+ 6. If the Appellant fails to demonstrate that he will come to serious harm
+    if returned  to  Azerbaijan,  he  relies  in  the  alternative  on  his
+    relationship  in  the  United  Kingdom  with  his  wife,  a  Lithuanian
+    national.   The Appellant contends that his wife is  exercising  treaty
+    rights and that he is therefore the family member of  an  EEA  national
+    "qualified person". If that is so the question of his deportation falls
+    to be assessed with reference to  the  Immigration  (European  Economic
+    Area) Regulations 2006 ('the Regs'):
+
+         Exclusion and removal from the United Kingdom
+
+
+         19.
+           ...
+          (3) Subject to paragraphs (4) and (5), a person who has been
+         admitted to, or acquired a right to reside in, the United Kingdom
+         under these Regulations may be removed from the United Kingdom if-
+         ...
+          (b) he would otherwise be entitled to reside in the United Kingdom
+         under these Regulations but the Secretary of State has decided that
+         his removal is justified on the grounds of public policy, public
+         security or public health in accordance with regulation 21.
+
+
+
+
+
+
+         Decisions taken on public policy, public security and public health
+         grounds
+
+
+         21.-(1) In this regulation a  "relevant  decision"  means  an  EEA
+         decision taken on the grounds of public policy, public security  or
+         public health.
+
+
+           (2) A relevant decision may not be taken to serve economic ends.
+
+
+           (3) A relevant decision may not be taken in respect of a  person
+         with a permanent right of residence under regulation 15  except  on
+         serious grounds of public policy or public security.
+
+
+           (4) A relevant decision may not be taken  except  on  imperative
+         grounds of public security in respect of an EEA national who-
+
+
+           (a) has resided in the United Kingdom for a continuous period  of
+           at least ten years prior to the relevant decision; or
+
+
+           (b) is under the age of 18, unless the relevant decision is
+           necessary in his best interests, as provided for in the
+           Convention on the Rights of the Child adopted by the General
+           Assembly of the United Nations on 20th November 1989(1).
+
+
+         (5) Where a relevant decision is taken on grounds of public policy
+         or public security it shall, in addition to complying with the
+         preceding paragraphs of this regulation, be taken in accordance
+         with the following principles-
+
+
+         (a) the decision must comply with the principle of proportionality;
+         (b) the decision must be based exclusively on the personal conduct
+         of the person concerned;
+         (c) the personal conduct of the person concerned must represent a
+         genuine, present and sufficiently serious threat affecting one of
+         the fundamental interests of society;
+         (d) matters isolated from the particulars of the case or which
+         relate to considerations of general prevention do not justify the
+         decision;
+         (e) a person's previous criminal convictions do not in themselves
+         justify the decision.
+
+
+         (6) Before taking a relevant decision on the grounds of public
+         policy or public security in relation to a person who is resident
+         in the United Kingdom the decision maker must take account of
+         considerations such as the age, state of health, family and
+         economic situation of the person, the person's length of residence
+         in the United Kingdom, the person's social and cultural integration
+         into the United Kingdom and the extent of the person's links with
+         his country of origin.
+         ...
+
+
+ 7. Because the evidence before me falls to be divided  thematically,  that
+    is the way I have structured my determination.  I  first  consider  the
+    evidence and submissions on asylum/Article 3 ("the protection  issues")
+    and make my findings.  I then address the question of deportation under
+    the Regs.
+
+
+
+
+
+    The Protection Issues
+
+ 8. The Appellant claimed asylum on the 29th January 2013.   The  basis  of
+    his claim was,  in  brief  summary,  that  he  had  been  a  successful
+    businessman with links to  the  ruling  elite  in  Azerbaijan.  He  had
+    started his career under the patronage of the Abdullayev  brothers  and
+    persons associated with them. Those relationships had soured  when  the
+    Appellant  broke  away  and  formed  his  own  company.  The  Appellant
+    describes the people he had been associating with as  "like  a  Mafia".
+    When he tried to distance  himself  from  them  they  tried  to  regain
+    control by claiming his assets, threatening him  and  pressurizing  him
+    with false criminal accusations. In early 2007 the  Appellant  enlisted
+    the help of a man ('I') who acted as an intermediary  between  him  and
+    his enemies.  He  thought  that  the  conflict  was  on  the  verge  of
+    resolution when 'I' was arrested. The Appellant fled  from  Azerbaijan,
+    entering the United Kingdom with a visit visa.  He  has  remained  here
+    ever since.     He believes himself to be at risk of  serious  harm  in
+    Azerbaijan because  he  has  intimate  knowledge  of  the  corrupt  and
+    criminal activities carried on by members of the ruling  Aliyev  family
+    and their cronies. After he arrived in the UK he learned that the Azeri
+    authorities were pursuing false allegations against  him.  In  fear  of
+    these proceedings he executed a  statutory  instrument  to  change  his
+    name. His subsequent conviction related  to  his  possession  of  false
+    documents created in this new identity.  The Appellant submits that the
+    situation in Azerbaijan has worsened since he left.  The  fall  in  the
+    price of oil has placed the government under  huge  financial  pressure
+    and the impetus to "go after" Azeris with money  has  increased.    The
+    government believes the Appellant to be an  individual  of  substantial
+    net worth and as such it would be in their interests to pursue him with
+    false criminal charges so that they could seize control of his assets.
+
+
+ 9. This account requires the Appellant to demonstrate a) that he is indeed
+    the successful businessman that he claims b) that his account of  being
+    harassed and threatened is true and c) that he is currently at risk  on
+    return in Azerbaijan today.  The Appellant relied on three  very  large
+    bundles of evidence and a number of supporting witnesses  in  order  to
+    discharge the burden of proof in respect of these three matters. I have
+    looked with care at all of the documents that the parties  referred  me
+    to. In his submissions Mr Walsh asked me to give  particular  attention
+    to the evidence from the following sources:
+
+        a) The Appellant's own testimony  (giving  detail  to  the  account
+           summarised above), supported by documentary evidence
+        b) Murad Gassanli
+        c) Mike Cunningham
+        d) Robert Chenciner
+        e) Professor Bill Bowring
+
+
+
+    The Appellant's Evidence
+
+
+10. The Appellant adopted his witness statements dated 13th March 2013  and
+    14th April 2014 and gave live evidence.
+
+
+11. The Appellant was brought up by his mother who was a single parent.  He
+    obtained good qualifications at school and in 1995 was enrolled in  the
+    National Academy of Aviation. After graduation  in  1999  he  became  a
+    lieutenant in the Azeri Air Force, flying the L39 and Mig  25.  Between
+    2000 and 2004 he worked part time for  the  national  airline  and  the
+    Flight  and  Civil  Aviation  Authority[2].    During  this  time   the
+    Appellant's real interest was in business: as he puts it, he "wanted to
+    make something of myself". He had a friend at school  who  was  wealthy
+    and well-connected. The Appellant and  another  friend  had  started  a
+    company producing CDs and this rich school-friend persuaded  them  that
+    what they needed to make their business grow was powerful backers.   To
+    this end he introduced them to the Abdullayev family.  The  Abdullayevs
+    were three brothers who ran a huge company called AMAY.  The  Appellant
+    describes AMAY as being comparable to the Virgin group in the  UK.  For
+    instance it owns  shopping  malls,  hotels,  restaurants,  construction
+    companies, banks and factories.  The Abdullayev brothers  were  closely
+    connected to the ruling Aliyev family, in particular Jalal, the brother
+    of the former President Heyder Aliyev.   The  Abdullayevs  declined  to
+    invest in the Appellant's business but were impressed by  him.  One  of
+    the brothers, Yulat, offered the Appellant a job as his  assistant  and
+    as  a  manager  in  one  of  the  AMAY  group  companies,  called   AYF
+    International. The Appellant worked there between 1998 and 2000.
+
+
+12. The Appellant describes the  system  in  Azerbaijan  as  being  like  a
+    pyramid of patronage, centred around powerful clans.    He  worked  for
+    Yulat; Yulat and his brothers were sponsored by Jalal  Aliyev,  who  in
+    turn was backed by the  President.   Jalal's  brother  Heydar  was  the
+    leader of Azerbaijan from Soviet times and when he stood down  in  2003
+    his nephew,  Heydar's  son  Ilham,  took  over  as  president.    These
+    relationships worked both ways. The  more  powerful  individuals  would
+    offer protection to those below them, whilst  those  below  would  'pay
+    tribute' up the chain.   It operated like a mafia, with  the  President
+    acting as 'Godfather'.   The system was propped  up  by  a  network  of
+    spies and the President would use the police and security  services  to
+    suppress any dissent or commercial interests that posed a threat to the
+    monopoly enjoyed by his family, and their friends like the Abdullayevs.
+     A key feature of this system of patronage is the krysha - your  krysha
+    can be thought of as your patron, or protector. In mafia terms it would
+    be your 'captain'.
+
+13. In 2000 the Appellant was promoted and was given a  job  as  a  General
+    Manager in AMAY  and  as  an  assistant  to  Abdulla  Abdullayev.   The
+    Appellant was given this role because he had proved that  he  could  be
+    trusted, and because of his  skills  with  IT  and  computers.  Abdulla
+    became the Appellant's krysha.  One of the  things  the  Appellant  did
+    when working for Abdulla was to  create  fake  documents  for  planning
+    permission which enabled  Abdulla  to  take  over  buildings  and  land
+    without difficulty. Not all of these  deals  were  conducted  with  the
+    knowledge or approval of Abdulla's krysha  Jalal  Aliyev:  "there  were
+    certain business ventures that he did not want  Jalal  to  know  about.
+    Having someone like me on board made this easier given my skills"[3].
+
+14. In 2001 AMAY bought Birlik Bank and an insurance company called  Nishan
+    Insurance.   The Appellant was the Head of IT by this time and  he  was
+    given a "small" share of between 1-2% in each[4]. He was  appointed  to
+    the Board of Directors  of  Birlik  Bank  where  he  observed  what  he
+    believed to be corrupt and illegal practices.   His  primary  role  was
+    however to continue his work as assistant to Abdulla:
+
+         "He controlled all aspects of my life, dictating what I  could  and
+         could not do. I would receive calls from his secretary  telling  me
+         that Abdulla wanted to see me straight away. I was on call 24 hours
+         a day and I had to drop everything for him. He dictated my life, my
+         jobs, where I lived and my relationships"[5].
+
+    Abdulla addressed the Appellant has "brother" and they had a very close
+    working relationship. In 2002 Abdulla had a cash  flow  difficulty  and
+    the Appellant sold his house to help him out. Abdulla held this  up  to
+    other Birlik Board members as an example of how they should behave.
+
+15. It was whilst he was associated with Birlik Bank that he met his  first
+    wife, K. She was employed in the Human Resources  Department.  In  2002
+    they decided to get  married.  This  caused  some  difficulty  for  the
+    Appellant. Abdulla  was  not  particularly  happy  about  the  proposed
+    marriage. Looking back on it the Appellant thinks that perhaps  Abdulla
+    was concerned that he would lose some  control  over  him  if  he  were
+    married. Also her father was a member of the opposition party.  Abdulla
+    came to their engagement party but only briefly, to 'show his face'[6].
+    He did not attend the wedding.  Although they had  previously  been  so
+    close, after the wedding  Abdulla  started  to  become  "cold"  to  the
+    Appellant.  Although they still enjoyed a cordial business relationship
+    the Appellant understood that something had changed, and  that  he  may
+    not now make the hoped for progress under his patronage.  Although  the
+    Appellant continued his work in Abdulla's businesses he also decided to
+    set out on his own. In 2004 he therefore started his own business.   He
+    sold a flat that Abdulla had given him (as compensation for having sold
+    his home to help him) and invested it in establishing  a  new  software
+    company called Aliksoft[7].
+
+
+16. The business did well and quickly expanded. Through his connections the
+    Appellant was able to get the relevant licences and found "open doors".
+    He continued to sit on the Board of  Birlik.  The  Deputy  Director  of
+    Birlik Bank was a man named Fakhredin Efendiyev. He and  the  Appellant
+    got on well and decided to set up another business  together.  In  2005
+    they established FZ Credit  Union[8].   They  also  both  continued  to
+    pursue other projects.  Fakhredin Efendiyev was subsequently  appointed
+    to be the Director of Birlik Bank, having  proved  himself  willing  to
+    turn a blind eye  to  certain  corrupt  practices.  The  Appellant  won
+    contracts for Aliksoft and established other smaller companies[9].   In
+    early 2006 he was considering establishing his own cable TV company. In
+    April of that year he  attended  a  party  in  a  restaurant  in  Baku.
+    Whilst there he had a brief meeting with a journalist with  a  view  to
+    discussing the news channel. It was over in about 15  minutes  and  the
+    Appellant returned to the party.
+
+17. Some days later the Appellant received a call from Fakhredin Efendiyev.
+    He told the Appellant that they needed to speak straight away.  He  was
+    busy but agreed to meet. He went to the bank  to  see  him.  The  first
+    thing that Fakhredin Efendiyev did was to take the  Appellant's  mobile
+    telephone from him, and  remove  the  SIM  and  battery.  He  told  the
+    Appellant that the MTN had been to seen him. This is the name for  what
+    used to be the KGB. They had brought with them a  statement  about  the
+    Appellant and his activities and that they knew that  he  had  branched
+    out on his own with "no backing".   Fakhredin told the MTN officer that
+    he backed the Appellant and that  he  supported  him.  He  advised  the
+    Appellant to slow down and that he was "attracting the  wrong  kind  of
+    attention". He said  that  the  Appellant  should  stop  expanding  his
+    businesses. The MTN had told him that  they  had  the  Appellant  under
+    surveillance and that they had seen him in the restaurant in Baku.  The
+    Appellant was very frightened and shaken by  what  Fakhredin  Efendiyev
+    told him. He trusted him however and believed what he said.
+
+18. At that point the Appellant's combined  businesses  were  turning  over
+    $100 million per annum.  Fakhredin Efendiyev advised the Appellant that
+    in order to lower his profile he should transfer all of his  shares  in
+    six of his businesses to him. He would  hold  them  on  trust  for  the
+    Appellant.   When  Fakhredin  suggested  this  solution  the  Appellant
+    understood that he was trying to get control of all of his  assets.  He
+    refused to accept the offer. Fakhredin Efendiyev informed him  that  he
+    would make his life very difficult. True to  his  word,  the  Appellant
+    started having problems with government at all  levels,  and  was  even
+    threatened by local gangs.
+
+19. By May 2006 the Appellant was very  worried.  He  decided  to  approach
+    Abdulla Abdullayev directly.  He was forced to wait for an appointment.
+    Once the day arrived the Appellant was subject to  further  humiliation
+    by being made to wait 3-4  hours  before  being  called  in.  Once  the
+    meeting started the Appellant apologised to Abdulla for trying to  make
+    it on his own. He explained the nature of his businesses and offered to
+    make Abdulla a partner  in  all  of  them.  Abdulla  did  not  let  the
+    Appellant finish talking. He interrupted him asking whether the thought
+    that he was stupid. He told the Appellant to "get to fuck and to find a
+    good lawyer". It was at that point that the Appellant  understood  that
+    his life was in danger and there was nothing he could do about it.
+
+20. In the weeks which followed all of the Appellant's  businesses  started
+    failing. Fakhredin Efendiyev was a partner in  most  of  them  and  the
+    Appellant knew that it was his doing. Employees  left  in  droves.  The
+    Appellant's calls and movements were being tracked and he was left with
+    only 2-3 close friends who stood by him.  In  October  he  was  in  his
+    office with his father-in-law when two plain clothed policemen entered.
+      They arrested the Appellant and took him to the  police  station.  He
+    was in the waiting room when a random woman he had never met came up to
+    him and started insulting him in extreme language.  The  Appellant  was
+    very confused. He now realises that this had been an attempt to provoke
+    him - he was supposed to have assaulted the woman and this  would  have
+    given them a pretext to imprison him.  The officers came and  took  him
+    to an interrogation room. One of them punched him and took his ID card.
+     He looked at the card and told the Appellant that he was going to  get
+    a new one saying that he was a criminal.   The Appellant was trying  to
+    explain that all of this was a misunderstanding when the  door  to  the
+    interview room opened and a Sergeant came in. He said that the Chief of
+    Police had ordered his release.  When he got out he saw his  father-in-
+    law and the local Councillor. They drove him away.   His  father-in-law
+    explained that his old friend  the  Councillor  had  made  a  call  and
+    authorised his release.
+
+
+21. The Appellant was panicking and terrified about what might happen next.
+     He went into hiding in the private house of a friend. He was trying to
+    sell his assets so that he could prepare to leave Azerbaijan. He wanted
+    to kill himself because he could not see a way out.  He  thought  about
+    slashing his wrists and even wrote  a  letter  saying  goodbye  to  his
+    sister.  The police started to look for him. They contacted his  former
+    driver and asked him to inform on where the Appellant  was  hiding.  He
+    genuinely did not know where the Appellant was and so could  tell  them
+    nothing. He subsequently passed on a message to the  Appellant  through
+    the Appellant's friend that the  police  wanted  him  to  come  in  for
+    questioning.  In December 2006 the public  prosecutor  started  putting
+    pressure on his father-in-law. The Appellant's wife  became  frightened
+    and divorced him. She did this in order to protect  herself  and  their
+    son.
+
+22. Someone advised the Appellant that he needed to  get  some  protection.
+    A friend introduced him to 'I', a gang member in Baku. This man offered
+    to mediate on the Appellant's behalf in return for 50% of  his  assets.
+    By January 2007 'I' had managed to secure agreement from the police  in
+    Baku that they would not try and arrest the  Appellant.  The  Appellant
+    became hopeful that perhaps his problems could be resolved. However  in
+    February 2007 'I' was arrested at his offices by a Colonel Usubov,  the
+    son of the Minister of Police.
+
+23.  The  Appellant  left  Azerbaijan  in  February  2007  using  his   own
+    passport[10] and a valid UK visit visa. He was very frightened boarding
+    the plane but did not experience any problems.
+
+24. In July 2007 the Azeri authorities issued a warrant for the Appellant's
+    extradition[11]. The charges related to allegations that the  Appellant
+    swindled two investors of $32,000 when he was working at  Birlik  Bank.
+    The Appellant states that the allegations were a complete  fabrication.
+    He was a Director with a role in IT and had no contact  with  the  bank
+    floor or lending decisions. He had no means  or  motive  to  steal  any
+    money. These allegations have now been dropped but  they  serve  as  an
+    illustration of how determined the authorities are to go after him.
+
+25. The Appellant believes that he remains at risk. He remains at  risk  in
+    part because they know that he hid a lot of money and they want it[12],
+    but also because he knows a lot of their secrets, ie  the  corrupt  and
+    illegal mechanisms the elite used to make money.  These  activities  go
+    to the "heart of government".
+
+
+
+
+    Murad Gassanli
+
+
+26. Mr Gassanli adopted his witness statement dated  14th  April  2014  and
+    gave oral evidence.  He is a British citizen of Azeri origin and has  a
+    long history of involvement in  politics  in  Azerbaijan.  In  1999  he
+    established an organisation called the Vatan Society for Azeri students
+    in the UK. During this period he had close links with the Azeri embassy
+    in London and the  regime  in  Baku.  He  was  friends  with  President
+    Aliyev's granddaughters who were also studying in London. However these
+    relationships became strained after the Vatan Society tried to  promote
+    democratic debate during the 2003 elections.  The embassy  accused  him
+    of disloyalty because he had organised a meeting and invited opposition
+    candidates to speak. This changed his view of politics  in  Azerbaijan.
+    He was  subsequently  appointed  as  the  Director  of  the  Azerbaijan
+    Democratic Association - UK, a pro-democracy group.  He has served as a
+    senior advisor to the  Azerbaijani  opposition  presidential  candidate
+    Jamil Hasanli. He is a graduate of LSE and is currently working on  his
+    PhD at Cardiff  University.  He  is  a  regular  commentator  on  Azeri
+    politics for instance speaking at events at Chatham House  and  on  the
+    BBC. In 2013 he was elected as a Labour Party Councillor in Westminster
+    and since then has ceased his direct  involvement  in  Azeri  politics.
+    In response to Mr Tarlow's questions Mr Gassanli confirmed that  he  is
+    not giving evidence as an entirely impartial 'expert' witness.  He  has
+    been deported from Azerbaijan and in 2005 was badly beaten by the Azeri
+    police whilst attending  a  rally  in  Baku.  He  cannot  therefore  be
+    described as a "friend" to the regime, however his views simply reflect
+    the standpoint taken by human rights organisations, the  UK  government
+    and members of the United States' Congress.
+
+
+27. Mr Gassanli has known  of  the  Appellant  since  2005.  He  wanted  to
+    establish a  website  called  www.times.az  to  promote  education  and
+    political debate in Azerbaijan and was looking for a way to  build  and
+    promote it. He was told  by  people  in  Baku  that  a  company  called
+    Aliksoft would be able to help. It was the first company in  Azerbaijan
+    to provide a complete package of solutions including  IT  software  and
+    security. Mr Gassanli recalls one of his colleagues coming back from  a
+    meeting with Aliksoft and being very impressed. They produced a "really
+    slick  design"  for  the  website  and   provided   very   professional
+    international  standard  brochures.  However,  the  connection  between
+    Aliksoft and AMAY was brought to Mr Gassanli's attention.  He  and  his
+    colleagues were vey concerned about this. Since they were an opposition
+    group they could not be seen to be using the services of  a  pro-regime
+    company. They could  not  trust  Aliksoft.    Also,  they  feared  that
+    Aliksoft would pull the plug once they understood  the  nature  of  the
+    website; once they realised that this was not just another "media start-
+    up".  Mr Gassanli explains:
+
+
+         "It made sense knowing that Aliksoft was part of  Jalal  [Aliyev]'s
+         fiefdom. There is no way it could have developed  at  the  rate  it
+         did, coming out  of  nowhere  to  being  a  market  leader  without
+         government backing.  You  need  a  government  licence  to  provide
+         internet services in Azerbaijan. [The Appellant] has recently  told
+         me that he got all his licences from the Ministry of Communication,
+         confirming  what  we  thought  at  the  time.  This  is   virtually
+         impossible unless you are highly connected and yet [the  Appellant]
+         managed to organise  these  within  a  month.  The  only  way  [the
+         Appellant] would have  got  these  licences  was  because  everyone
+         thought he had the protection of Jalal Aliyev. If  people  knew  he
+         had gone rogue, there is no way he would have been able to make the
+         success of his business that he did...
+
+
+         At the same time I also heard some disparaging remarks  about  [the
+         Appellant]. People talked about him and  said  that  he  was  Jalal
+         Aliyev's man, that he was a bit of a lothario and  was  spending  a
+         lot of money. There was a rumour going round Baku at the time  that
+         he had bought  12  BMWs  for  his  friends  and  just  handed  them
+         out...[13]"
+
+28. In his statement  Mr  Gassanli  sets  his  personal  knowledge  of  the
+    Appellant in the context of his understanding of  Azeri  society  as  a
+    whole. He states that the former President Heydar Aliyev was  from  the
+    Nakchivan enclave and that when he came to power he installed into  all
+    the relevant positions of power people from his own clan. All  the  key
+    positions in the country are all held by  people  from  that  clan.  He
+    states:
+
+
+         "Before that, these people were farmers, Soviet-era  administrators
+         and old nomenclature staff, with  little  understanding  of  modern
+         realities and technologies, and would have needed people like  [the
+         Appellant] to show them how to switch on a  computer  and  send  an
+         email...[14]"
+
+
+    Mr Gassanli gives Abdulla Abdullayev  as  an  example  of  a  Nakchivan
+    "nobody" who became powerful under Aliyev patronage. He has watched the
+    video of the Appellant's engagement party and can confirm that  Abdulla
+    is in it and made a speech.
+
+
+29. Mr Gassanli did not meet the Appellant in person until 2009  when  they
+    met in London. He was introduced to the Appellant by  his  father.   Mr
+    Gassanli had just returned from a lobbying  trip  to  America  and  was
+    looking for investment to establish a satellite TV channel. He made  it
+    clear to the Appellant that he was an opposition activist and this  was
+    the purpose  of  the  new  station.   The  Appellant  declined  to  get
+    involved. He wasn't interested in politics and in Mr Gassanli's opinion
+    was just interested in making money. Mr Gassanli found him  to  have  a
+    "sense of entitlement". He gave the impression that he believed that in
+    the UK, as in Azerbaijan, anything could be bought. Mr Gassanli was not
+    impressed.
+
+
+30. They did not meet again until in November 2013 the Appellant  contacted
+    Mr Gassanli through Facebook using his assumed identity. When they  met
+    again Mr Gassanli described the Appellant as being  "like  a  different
+    person". He was no longer the rich kid  who  could  buy  anything,  but
+    appeared to be humble, depressed and fearful.   The Appellant  told  Mr
+    Gassanli what  had  happened  with  the  changed  identity,  the  false
+    documents and the conviction. He seemed "rattled". He told Mr  Gassanli
+    that when he had first come to  the  United  Kingdom  his  friends  had
+    advised him not to claim asylum but he now realised that he should  not
+    have listened to them.   Following this meeting Mr  Gassanli  contacted
+    friends in Baku to ask about the Appellant. A friend at a  news  agency
+    confirmed the Appellant's involvement with Aliksoft and  said  that  he
+    had "got done" by Jalal, meaning that his business had been taken over.
+    Mr Gassanli concludes:
+
+
+         "[The Appellant] is in this  position  because  he  was  na�ve.  He
+         didn't think it was suicide to go out on his own.  [The  Appellant]
+         thought that as he wasn't  competing  with  anyone  and  he  wasn't
+         taking any business away from Jalal Aliyev then he didn't  have  to
+         give them a cut. If he gave them a cut he would have had a few more
+         years before his businesses were taken over. For them it was a case
+         of ensuring a precedent wasn't set. They couldn't allow a kid  that
+         they took out of university when he was nobody and who used to make
+         their tea to be seen as someone who was now  handing  out  BMWs  to
+         their friends.[15]"
+
+31. In closing his oral evidence Mr Gassanli underlined  that  he  was  not
+    giving evidence because he a friend to the Appellant. As far as he  was
+    concerned the Appellant and his like were all  part  the  problem.  The
+    business  class,  and  their  culture  of  nepotism,   repression   and
+    corruption have left most of the Azeri population in poverty, suffering
+    terrible human rights abuses.  He has chosen to give  evidence  because
+    he firmly believes the Appellant to be at risk should  he  be  returned
+    home. It is systematic: once you fall out of favour,  they  come  after
+    you.  If you leave the country, they will come  after  you  until  they
+    have all your money. In his statement  he  gives  several  examples  of
+    individuals  who  have  hitherto  had  close  relationships  with   the
+    Nakchivani clan, only to end up in jail.   Once they have you, there is
+    a "100% risk of torture". Ironically, as a political prisoner you would
+    have some  level  of  protection  because  of  international  pressure.
+    'Economic cases' enjoy far less scrutiny and accordingly the chance  of
+    physical harm is far higher.    Because of  the  collapse  in  the  oil
+    price the situation for the Appellant and people like  him  has  become
+    far worse, as the Aliyevs scrabble around for money to fill  the  black
+    hole in the country's budget. Their solution appears to be to "go after
+    the next tier down" and recoup money that this group has made over  the
+    years:
+
+
+         "There has been massive devaluation of the currency and an economic
+         collapse because of the drop in oil  price.  The  whole  fa�ade  is
+         falling apart. The clique at the top who were siphoning off the oil
+         money - when  that  collapsed  the  whole  thing  fell  apart.  The
+         Minister for National Security  is  currently  under  house  arrest
+         being investigated for fraud. The head of  the  International  Bank
+         has been arrested - he was a close friend of the President and  now
+         he is being shaken down. Its like the final  scene  in  a  gangster
+         movie where they all turn on each other.   The  relevance  to  [the
+         Appellant] is that they will want to get his assets in the UK. I am
+         giving statements in two other extradition  matters  that  are  the
+         same - the state coming after rich Azeris who are living abroad  to
+         try and get their assets"[16].
+
+32. Mr Gassanli stated  that  as  far  as  he  is  aware,  the  extradition
+    proceedings  were  dropped  against  the  Appellant  but  that  another
+    investigation has started. There is been a policy decision to go  after
+    anyone with assets of more  than  a  million  dollars.  After  spending
+    millions on events like the Eurovision Song  Contest  there  is  now  a
+    budget hole of $10 billion and they need to go after any penny they can
+    get.  If they pursued another criminal case against the Appellant - the
+    most likely scenario - he would be very  unlikely  to  receive  a  fair
+    trial. The judiciary are not independent and human  rights  abuses  are
+    endemic.
+
+
+    Michael Cunningham
+
+
+33. Mr Cunningham adopted his witness statement dated 14th April  2014  and
+    gave oral evidence. Mr Cunningham  is  a  former  Director  of  British
+    Aerospace who has worked as a consultant for the British government and
+    the private sector for over three decades. He worked  in  Saudi  Arabia
+    for many years and after the collapse of the Soviet Union he  was  sent
+    by the British  government  to  "get  a  feel"  for  potential  defence
+    contracts  in  the  new  post-Soviet  states  and  to  advise  on   the
+    privatisation of their space industry.  In this role he spent a lot  of
+    time in Azerbaijan. He  now  acts  as  a  private  consultant  for  the
+    business community and it was in this context that he was introduced to
+    the Appellant in a London law office in 2007.
+
+
+34. Mr Cunningham described the Appellant as being "impulsive" and "out  of
+    his depth" in the UK. He failed to understand that  in  London,  things
+    were not as they are in Baku. He thought that any problems one had, for
+    instance with the authorities, could be solved by money. Mr  Cunningham
+    tried to advise him and stop him being taken advantage  of.   After  he
+    had known the Appellant for about a year  the  Appellant  informed  him
+    that he had been forced to flee Azerbaijan and that he was  in  trouble
+    for having defied the ruling  family.  At  the  Appellant's  behest  Mr
+    Cunningham travelled to Baku in August 2008 in order to try and  secure
+    the release of  some  of  the  Appellant's  funds.  These  assets  were
+    invested in an Azeri bank called Eurobank and it  was  the  Appellant's
+    intention to acquire a controlling interest in  the  bank  so  that  he
+    could then liquidise his funds.
+
+35. Mr Cunningham arranged a meeting with the Director of Eurobank. He  was
+    advancing the case for the acquisition of shares by the Appellant,  but
+    using the Appellant's pseudonym.  At some point during the  meeting  Mr
+    Cunningham's interpreter used the Appellant's real name.  In  his  live
+    evidence Mr Cunningham described how, upon hearing it,   the  faces  of
+    those present immediately dropped. One of  those  present  became  very
+    aggressive. He said that the Appellant was  "finished".  Mr  Cunningham
+    understood this to mean "finished"  in  more  than  just  the  business
+    sense. He was told that the Appellant had crossed the ruling family and
+    that he was a "very foolish boy" who had been arrogant and had tried to
+    operate independently of the Aliyevs. For this he  would  be  punished.
+    The bank officials present at the meeting explained  to  Mr  Cunningham
+    that the Appellant had been forced out of  Azerbaijan  because  he  had
+    shown a "lack of respect" for the  Aliyevs.  His  life  had  been  made
+    impossible there by a constant stream of  visits  by  the  police,  tax
+    officials and 'mafia' like groups.   He was described as a "young Turk"
+    who was being held up as an example to others of what  happens  if  you
+    step out of line.  In subsequent meetings  with  officials  from  other
+    banks Mr  Cunningham  heard  similar  assessments  of  the  Appellant's
+    position: he had been stupid enough to take  on  "the  family"  and  he
+    could "expect severe punishment".
+
+
+36. Mr Cunningham has made 6 visits to Baku since that trip  in  2008,  the
+    most recent of which was in 2014.  At a dinner on that occasion someone
+    else  mentioned  the  Appellant's  name  and  it  provoked  a  "furious
+    response" from those  present.  Mr  Cunningham  was  assured  by  those
+    present that the Appellant was being  sought  and  that  "he  would  be
+    taught the meaning of respect".   Mr  Cunningham  states  that  in  his
+    opinion, based on his understanding  of  Azerbaijan  and  what  he  has
+    witnessed, that if the Appellant were to be returned to  Azerbaijan  he
+    would likely face torture, extreme humiliation and probably execution.
+
+
+
+    Mr Robert Chenciner
+
+37. Mr Chenciner is an academic with substantial experience in  the  former
+    Soviet Union. He is a a Senior Associate Member of St Antony's  College
+    Oxford and an Honorary Member  of  the  Russian  Academy  of  Sciences,
+    Daghestan Filial. His report has been prepared specifically to  address
+    two questions raised by the evidence: was the Appellant  a  businessman
+    as claimed, and  to  describe  the  nature  of  the  krysha  system  of
+    protection.
+
+
+38. In respect of the latter Mr Chenciner gives a detailed history  of  how
+    the system of patronage in  modern  day  Azerbaijan  evolved  from  the
+    Soviet blat system and how  the  'Nakchivan  mafia'  made  particularly
+    effective use of it.  In essence the underlying principle is  that  you
+    cannot derive a benefit without also incurring a debt. The term  krysha
+    translates as 'roof', ie overhead protection.  He  explains  how  there
+    has developed a rivalry between different factions of the Aliyev family
+    and that this has affected the fortunes of those  below  them.  Abdulla
+    Abdullayev was himself a victim of this when he was  recently  arrested
+    after Jalal Aliyev lost faith in him.  These complex relationships  are
+    interwoven with cultural expectations and mores though  which  a  clear
+    understanding of what is happening is concealed, or sometimes revealed.
+    For example Abdulla's decision not to attend  the  Appellant's  wedding
+    would have been widely perceived as an insult and a signal that he  was
+    withdrawing patronage.  Marriage in Azerbaijan  continues  to  be  very
+    often arranged, if not by natal families, by patrons. Abdulla is likely
+    to have taken the Appellant's decision to marry against his wishes as a
+    "deep family insult".
+
+
+39. In respect of the Appellant himself Mr  Chenciner  has  considered  his
+    account in the context of his personal knowledge of Azeri  society.  He
+    considers it to be plausible at every stage.   In  respect  of  current
+    risk the report  highlights  the  arrest  and  prosecution  of  Abdalla
+    Abdullayev who in April  2014  was  refused  bail,  facing  charges  of
+    embezzling funds from AMAY.   The breakdown of  Abdulla's  relationship
+    with his kryshas in the Aliyev family illustrates  how  vulnerable  the
+    Appellant would be, particularly if Abdulla  begins  to  give  evidence
+    against former colleagues.
+
+
+
+    Professor William Bowring
+
+40. Bill Bowring is a recognised expert on  the  countries  of  the  former
+    Soviet Union. He is fluent in Russian and has published widely  on  the
+    Russian language, history, culture, law and practice. He was called  to
+    the Bar in 1974 and continues to practice  at  the  European  Court  of
+    Human Rights. He is a Professor of Law at Birkbeck College,  University
+    of London. He has for a number of years  been  an  advisor  to  the  UK
+    government on human rights issues in the former Soviet Union.   I  have
+    been provided with a copy of a report that Professor  Bowring  prepared
+    for the benefit of  the  Magistrates  in  the  Appellant's  extradition
+    proceedings.   Since it was directed at those proceedings, which are no
+    longer live, the report is of limited relevance to this  appeal.    The
+    conclusions  that  are  pertinent,  drawn  inter  alia  from  Professor
+    Bowring's  analysis  of  information  found  on  the  Russian  language
+    internet, are:
+
+
+        o  That  Azerbaijan  is  one  of  the  most  corrupt  and  brutally
+          repressive countries of the former Soviet  Union,  which  despite
+          having the constitutional form of a republic, is in fact akin  to
+          a monarchy, in which the son of the first President has succeeded
+          to his father
+
+
+        o Today's Azerbaijan is run in  a  manner  similar  to  the  feudal
+          system found in Europe in the Middle Ages
+
+        o Azerbaijan ratified the Statute  of  the  Council  of  Europe  in
+          January 2001 and has since ratified an impressive list of Council
+          of Europe  treaties,  including  ECHR,  but  there  are  "serious
+          doubts" about its compliance with  regular  credible  reports  of
+          gross and systematic human rights violations
+
+        o Jalal Aliyev has  used  the  courts  in  order  to  seize  assets
+          belonging to his erstwhile partners
+
+        o Birlik Bank was one of four  Azeri  banks  which  were  found  in
+          January 2010 to be uninsured. By September 2010 it was subject to
+          a thorough investigation and in  January  2011  its  licence  was
+          revoked.  Its share-holders were listed at being 20  people.  The
+          Appellant is listed as number 10 and had a "substantial" holding.
+          The Bank was declared bankcrupt on the 27th July 2012.
+
+        o In 2006 Aliksoft won "Company of the Year"
+
+        o It is highly unlikely that the Appellant  would  receive  a  fair
+          trial in Azerbaijan and all sources (Council of Europe  Committee
+          for  the  Prevention  of  Torture,  US  State  Department,  FIDH,
+          Azerbaijan Committee Against Torture,  United  Nations  Committee
+          Against Torture), note numerous allegations of the use of torture
+          and of harsh and inhumane conditions in prison
+
+
+
+
+
+      Protection Findings
+
+41. The Appellant did not claim asylum  or  human  rights  protection  upon
+    arrival in the UK. He instead changed his name and used  illegal  means
+    to buy false documents,  an  offence  for  which  he  was  subsequently
+    convicted. The failure to make a prompt claim is something that I  must
+    weigh against the Appellant in my assessment  of  his  credibility:  s8
+    Asylum and Immigration (Treatment of Claimants etc) Act 2004.
+
+
+42. When the Respondent assessed the claim, the predominant feature of  his
+    case was the fact that the Azeri government had issued  an  extradition
+    warrant against the Appellant in connection with the theft  of  $32,000
+    from two  customers  of  the  Birlik  Bank.   The  Respondent  -  quite
+    understandably in view of the chronology  -  took  the  view  that  the
+    asylum claim was an attempt to avoid  criminal  prosecution.   Although
+    the warrant has now been cancelled I have kept in mind,  throughout  my
+    assessment of the evidence, that it is a possibility  that  the  entire
+    account has been fabricated for that reason.
+
+43. The documentary evidence in this case was  substantial.  The  Appellant
+    produced  bank  statements,  share  certificates,   company   accounts,
+    contracts and the like relating to numerous  companies  with  which  he
+    claimed  connection.  Two  experts  have  produced  reports   and   two
+    additional witnesses have given their  perspective  on  their  dealings
+    with the Appellant and their personal experience in  Azerbaijan.   That
+    evidence was not always consistent or easy to understand. For  instance
+    the Appellant and Mr Gassanli placed emphasis on Aliksoft as a  company
+    of significance whereas it would appear from the  conclusions  of  both
+    experts that this was only a small part of  the  Appellant's  holdings.
+    The accounts and other documents did not always correspond in format to
+    the way in which they would appear in the UK and this made  deciphering
+    their  contents  a  challenge.  I  have   taken   into   account   such
+    discrepancies that have been brought to my attention.
+
+44. The Appellant was not a witness who impressed the First-tier  Tribunal.
+    He was found to be deceitful and evasive. Witnesses who  spoke  in  his
+    support before this Tribunal, Mr Cunningham and Mr Gassanli,  described
+    him as arrogant, na�ve, out of his depth, and willing to  buy  his  way
+    out of any trouble. He  is  characterised,  in  his  own  evidence,  as
+    someone who benefitted hugely by the corrupt and criminal practices  of
+    the Azeri elite: as Mr Gassanli put it, he was "part of  the  problem".
+    Many would argue that the oligarchs of  Eastern  Europe  have  been  no
+    friends to democracy, accountability or  human  rights.    My  decision
+    cannot however be based on whether the Appellant is a likeable  man  or
+    whether his past business practices are to be condoned.   The  decision
+    can only be based on the evidence, and having considered it all in  the
+    round, I find it to point, in its totality, firmly in one direction.
+
+45. The Appellant is not a refugee. Having heard the persuasive and  cogent
+    evidence of Mr Gassanli, Mr Walsh conceded that he could not make out a
+    case that any feared harm was for one  of  the  five  reasons  included
+    Article 1A of the Refugee Convention. If the Azeri authorities wish  to
+    do the Appellant harm, it is not for reasons of his race,  nationality,
+    religion, membership of a particular social group, or political opinion
+    - imputed or otherwise.
+
+46. I am however entirely satisfied  that  the  Appellant  is  at  risk  of
+    serious harm because a) he  is  perceived  to  have  slighted  powerful
+    members of the Azeri elite by trying  to  make  it  alone  without  the
+    protection of a krysha and b) they now wish to  seize  his  assets  for
+    themselves. The Appellant has shown, to the  lower  standard  of  proof
+    applicable, that his return to Azerbaijan would be reasonably likely to
+    result in a violation of Article 3 ECHR.
+
+47. My reasons are as follows.
+
+48. The Appellant has demonstrated that he was a successful businessman  in
+    Azerbaijan. The Appellant's  statements  are  extremely  detailed.  His
+    account of progressing, with the  assistance  of  contacts,   from  his
+    career in aviation to a managerial role in AMAY, and from there working
+    his way up  to  positions  of  increasing  influence  is  one  that  is
+    internally consistent and plausible in the context  of  the  background
+    material.  Although the Appellant was not  from  one  of  the  powerful
+    families who run Azerbaijan he was young, willing and talented.  As  Mr
+    Gassanli put it,  the old guard "would have  needed  people  like  [the
+    Appellant] to show them how to switch on a computer and send an email".
+
+
+
+
+49. Mr Gassanli was a very  impressive  witness.  He  brought  a  level  of
+    understanding of Azeri politics akin to that of an expert but  made  it
+    clear that he did not appear on  that  basis.  He  appeared  simply  to
+    confirm what he knew about the Appellant personally, and was  blunt  in
+    expressing his own opinion that the Appellant and his like  "were  part
+    of the problem". I have attached significant  weight  to  his  evidence
+    which I found  to  be  clear,  credible,  objective  and  helpful.   Mr
+    Gassanli described how, upon a visit to Azerbaijan in 2005 he  came  to
+    know about the Appellant, whom people in Baku  spoke  of  as  "Aliyev's
+    man".  The  Appellant  had  by  then  gained  some  notoriety  for  his
+    ostentation, giving away new BMWs to his friends and  apparently  using
+    his influence to full effect,  fast  gaining  a  licence  for  his  new
+    business Aliksoft. The  Appellant's  evidence  about  Aliksoft  growing
+    quickly to become an influential company is supported  by  Mr  Gassanli
+    who was recommended its services during that 2005 trip. He describes it
+    as producing impressive and "slick" work which was new for the Azeri IT
+    sector. It is further supported by the evidence unearthed by  Professor
+    Bowring that in 2006 it was named Azeri "company  of  the  year".   The
+    extent of the Appellant's  connections  is  further  confirmed  by  the
+    stills from his engagement video in which Abdulla Abdullayev  is  seen,
+    standing up and giving a speech[17].
+
+50. The Appellant describes his relationships with the Abdullayev  brothers
+    and Jalal Aliyev in the context of the krysha system. There is  nothing
+    in  the  evidence  I  have  heard  which  contradicts  that  claim.  Mr
+    Chenciner, Professor Bowring and Mr  Gassanli  all  explain  that  this
+    convention is the underpinning of the system of patronage in modern day
+    Azerbaijan, with  its  roots  in  the  mechanics  of  old-style  Soviet
+    government.   It is a form of relationship  based  on  absolute  trust,
+    respect and loyalty. The more powerful partner enables  the  lesser  to
+    operate with impunity, and in return receives a cut of  any  gain.  The
+    analogy with the mafia  is  apposite.   I  am  satisfied  that  Abdulla
+    Abdullayev was the Appellant's krshya and that this enabled him to grow
+    a significant level of influence and wealth in Azerbaijan between  1998
+    and 2006.    I accept that this included a position on the board of the
+    Birlik Bank and that the Appellant was  given  a  1-2%  share  in  this
+    institution.
+
+51. I am further satisfied, to  the  lower  standard  of  proof,  that  the
+    Appellant behaved in such a way that his relationship with Abdulla  and
+    his  group  of  influence  was  eventually  severed.    The   Appellant
+    identifies his decision to marry K in 2002 as being  the  beginning  of
+    his fall from grace. The  reasons  for  Abdulla's  objections  are  not
+    entirely clear. It may have been because she was  the  daughter  of  an
+    opposition figure, or simply because, as Mr Chenciner suggests, because
+    she was not the bride chosen by Abdulla himself. Mr Chenciner  confirms
+    that arranged marriages are still the norm in Azerbaijan and that  they
+    are an  integral  part  of  maintaining  the  feudal  power  structure.
+    Although the marriage did  not  cause  the  breakdown  of  this  krysha
+    relationship,  the Appellant's decision to proceed even  after  Abdulla
+    had advised against it was perhaps the first indication that he  had  a
+    spark of independence in him.
+
+52. That willingness to 'go it alone' was  subsequently  exhibited  in  the
+    Appellant's decision to set up his own companies and  to  strike  deals
+    without Abdulla's knowledge  or  consent.  Having  had  regard  to  the
+    Appellant's own detailed evidence, supported to a significant degree by
+    the documentary evidence produced, I find that the Appellant  did  have
+    involvement with a number of companies other than Birlik.
+
+53. It was these deals which appear to have led,  in  early  2006,  to  the
+    unravelling of the Appellant's life in Baku.   The  Appellant  gives  a
+    compelling account of how, over a period of weeks, his world  began  to
+    fall apart and it became very apparent that he had lost the support  of
+    the Abdullayevs.   By the Appellant's account it began  with  the  call
+    from Fakhredin Efendiyev, who recounted the visit from  the  MTN.   The
+    Appellant explains with consistency and clarity his subsequent visit to
+    Abdulla, how his businesses nosedived and what  happened  when  he  was
+    arrested.   Having set his testimony about these matters in the context
+    of the evidence overall I am  satisfied  that  these  events  did  take
+    place.    What is less clear is how and why overtly criminal  gangs  in
+    Baku became involved.  I do not understand, for instance, what possible
+    benefit the Appellant believed he could gain from the  intercession  of
+    'I'.    I am nevertheless satisfied that the overall account is a  true
+    one, and in making that finding I have placed  considerable  weight  on
+    the supporting evidence of the two key witnesses, Mr  Gassanli  and  Mr
+    Cunningham.
+
+
+54. I have already expressed my views as to  the  value  of  Mr  Gassanli's
+    evidence.  He has nothing to gain in supporting the  Appellant  and  he
+    made it abundantly clear that in many ways he did  not.  Three  factors
+    have however persuaded Mr Gassanli that the Appellant is  currently  at
+    risk in Azerbaijan. First he was alerted to a change in his fortunes by
+    the transformation in the Appellant's demeanour when he met  him  again
+    in 2013. He was no longer the flashy rich kid, but appeared  frightened
+    and "humbled". This led Mr Gassanli to make enquiries with  friends  in
+    Baku who told him that the Appellant had  been  "done"  by  his  former
+    krysha.  Setting  this  information  in  the   context   of   his   own
+    understanding of what is happening in Azerbaijan today, Mr Gassanli has
+    concluded that the Appellant is at risk. This is  in  part  because  he
+    grew too big for his boots: "they couldn't allow a kid that  they  took
+    out of university when he was nobody and who used to make their tea  to
+    be seen as someone who was now handing out BMWs to their  friends".  It
+    is however primarily because those he has antagonised  now  desperately
+    need his money: "Its like the final scene in  a  gangster  movie  where
+    they all turn on each  other".   I  am  satisfied  that  Mr  Gassanli's
+    evidence provides independent corroboration that the  Appellant  is  at
+    risk.
+
+
+55. Mr Cunningham was also  an  impressive  witness.   The  evidence  which
+    supported  his  statement  included  documents  indicating   that   the
+    Appellant has made substantial donations to community  institutions  in
+    Mr Cunningham's  home  town,  and  he  confirms  this  in  his  written
+    evidence. Elsewhere he is described as being the  Appellant's  business
+    partner. These facts could possibly give  rise  to  an  inference  that
+    notwithstanding his long connection with  the  British  government,  Mr
+    Cunningham may not be entirely impartial. I have weighed those  matters
+    in the balance and having  done  so  I  am  wholly  satisfied  that  Mr
+    Cunningham  is  a  reliable  witness,  who  gave  his  evidence  in   a
+    straightforward and detailed manner. What  it  revealed  was  that  the
+    Appellant is now regarded as "finished" and that in Baku it  is  widely
+    believed that he faces "severe punishment" for taking on "the  family".
+      Mr Tarlow suggested that Mr Cunningham may not have the full  picture
+    and that he may simply have been talking to the "wrong people"  on  his
+    trips to Azerbaijan. It is  of  course  possible  that  other  powerful
+    figures in Baku may have a different view about the Appellant,  but  Mr
+    Cunningham's evidence did not turn on what he was told at one  meeting.
+    He was consistently told at numerous  meetings  and  dinners  that  the
+    Appellant was - in effect - at risk.  He relates that most recently the
+    mention of the Appellant's name at a dinner in 2014 provoked a "furious
+    response" from those present who stated that if the Appellant  returned
+    "he would be  taught  the  meaning  of  respect".    This  evidence  is
+    entirely consonant with what I have been told about the  krysha  system
+    and the prevalence of human rights abuses.   Mr  Cunningham's  evidence
+    is of a nature rarely found in protection appeals. He is an independent
+    witness who  has  had  direct  contact  with  the  putative  agents  of
+    persecution and can confirm first hand their malign intent.
+
+
+56. I do not need to set out in any detail the country background  material
+    on human rights abuses in Azerbaijan since the Respondent  accepts  the
+    country's record to be  extremely  poor.  Mr  Chenciner  and  Professor
+    Bowring both confirm that in their view the Appellant would  be  likely
+    to  to  face  "brutal",  "harsh  and  life-threatening"  conditions  in
+    detention in Azerbaijan.  Mr Gassanli pointed out that unlike the  many
+    political prisoners in Azeri jails, the Appellant would not be  in  the
+    protective  glare  of  the  international  media  spotlight  and  would
+    therefore be more likely to suffer severe ill treatment.
+
+57. Having weighed all of the evidence before me I am  satisfied  that  the
+    Appellant is at risk of serious harm in Azerbaijan for the reasons that
+    he claims. He has therefore  succeeded  in  showing  that  his  removal
+    pursuant to a  deportation  order  would  be  contrary  to  the  United
+    Kingdom's obligations under Article 3 of the Human Rights Convention.
+
+
+    The EEA Regulations
+
+58. The appeal has been allowed on protection grounds  but  I  address  the
+    question of the EEA Regulations in the alterative.
+
+
+59. It is not now in dispute that the Appellant is married to a  Ms  Rosita
+    Gert, a Lithuanian national.  At  the  hearing  before  the  First-tier
+    Tribunal there was some doubt about whether she was in fact  exercising
+    treaty rights. Her evidence that she was a  self-employed  florist  was
+    then challenged by the Respondent. Although Mr Tarlow did not  formally
+    concede this matter he did not make any submissions about the  evidence
+    that is now produced to establish that she is a qualified  person,  and
+    that by extension, so too is the Appellant.  The  Appellant  relies  on
+    the following evidence:
+
+
+        o Accounts and Memorandum of Association for 'Foxy Rose  Ltd'  (the
+          florists)
+        o Screenshots for the Foxy Rose website, Facebook page  etc  and  a
+          letter to Ms Gert from Google advertising regarding Foxy Rose
+        o Various invoices and receipts for services issued by Foxy Rose
+        o Correspondence between HMRC and Ms Gert relating to Foxy Rose
+        o Confirmation from Jamie Aston Flowers that Ms  Gert  undertook  a
+          professional floristry course there in September 2013
+        o Director's report and accounts for  Monarch  Private  Investments
+          Ltd showing that Ms Gert was appointed as a Director in  December
+          2015
+        o Dividend certificates issued by Monarch Private  Investments  Ltd
+          showing Ms Gert to have received a net dividend of �50,000 in the
+          year ending 31 March 2016
+        o Santander bank statements for  Monarch  Private  Investments  Ltd
+          showing payments made to Ms Gert
+        o Payslips and a P45 showing Ms Gert to have been employed  between
+          May and November 2015 by Sterling Accounts  and  Taxation  Office
+          Ltd
+        o Copies of Ms Gert's comprehensive private health  care  insurance
+          policy
+
+60. Ms Gert adopted her witness statements  and  gave  live  evidence.  She
+    explains that she started work when the Appellant was sent  to  prison.
+    Her mother had been a florist in Lithuania  and  she  had  always  been
+    interested in it. She has identified a niche market in the Russian  and
+    Eastern European community in London and caters for events as  well  as
+    regular clients. She is for instance  often  asked  to  provide  flower
+    displays for the Lithuanian embassy.  She is currently  operating  from
+    the garage of her home. Asked about  the  payslips  etc  from  Sterling
+    Accountancy Ltd Ms Gert explained that this was an office manager role.
+    She had done this in order to gain experience of  running  a  business.
+    Because the flower business is only busy when a big order comes  in  Ms
+    Gert is also running an investment company. In her  live  evidence  she
+    explained that this company specialises in providing  advice  to  "high
+    net worth individuals" from the former  Soviet  Union  and  India.  She
+    receives a salary of �5000 per month.   Asked why  she  continues  with
+    the more modest venture of Foxy Rose if she is earning this salary from
+    Monarch Investments Ms Gert says that it is because she  loves  it  and
+    she is hoping to expand it in the future.
+
+
+61. Having taken account of all of the evidence before me I am satisfied on
+    the balance of probabilities that Ms Gert is a qualified person. She is
+    receiving a regular  income  from  her  role  as  Director  of  Monarch
+    Investments and her income is supplemented by occasional contracts  for
+    Foxy Rose floristry. I am satisfied that she and the Appellant are in a
+    genuine relationship and that he is therefore a  qualified  person.  In
+    order to deport him on grounds of public  policy  the  Respondent  must
+    show that the decision is in accordance with each of the principles set
+    out in Regulation 21 (5): the decision  must  be  proportionate,  based
+    exclusively on the conduct  of  the  Appellant,  it  cannot  simply  be
+    because of his criminal conviction, and  it  must  be  shown  that  his
+    personal conduct represents a genuine, present and sufficiently serious
+    threat affecting one of the fundamental interests of society.
+
+62. I was given very little evidence about the offence itself.  I  am  told
+    that the the Appellant bought the false documents in his new name after
+    he had arrived in London.   I have placed no weight on the  Appellant's
+    explanation that he did this because he was  fearful  for  his  safety.
+    There is a sufficiency of protection in the UK  and  there  can  be  no
+    justification for the procurement of false documents,  which  undermine
+    immigration control as well as law and order. I am satisfied  that  the
+    creation and use of false documents is capable of affecting one of  the
+    fundamental interests of society.
+
+63. I am not  satisfied  that  in  all  the  circumstances,  the  Appellant
+    presents a  "genuine,  present  and  sufficiently  serious  threat"  to
+    justify his deportation. He has committed a crime but  I  am  satisfied
+    that there is a very low risk of any reoffending. As Mr Gassanli and Mr
+    Cunningham have both attested, the Appellant  is  a  changed  man:  the
+    events of recent years have underlined for him the  difference  between
+    London and Baku. I am confident that the Appellant  is  remorseful  and
+    that he now understands that he  cannot  simply  buy  his  way  out  of
+    problems. I am satisfied that in the circumstances there is a very  low
+    risk of reoffending.
+
+64. Accordingly I allow the appeal with reference to Regulation 21 (5).
+
+
+
+
+
+
+    Decisions
+
+65. The appeal is allowed under paragraph  397  of  the  Immigration  Rules
+    (human rights).
+
+
+66. The appeal is  allowed  with  reference  to  Regulation  21(5)  of  the
+    Immigration (EEA) Regulations 2006.
+
+
+67. The order for anonymity made in the First-tier Tribunal  is  maintained
+    in the following terms:
+
+       "Unless  and  until  a  tribunal  or  court  directs  otherwise,  the
+      Appellant is granted anonymity.  No report of these proceedings  shall
+      directly or indirectly identify him or any member of his family.  This
+      direction applies  both  to  the  Appellant  and  to  the  Respondent.
+      Failure to comply with this direction could lead to contempt of  court
+      proceedings".
+
+
+
+
+
+
+                                                  Upper Tribunal Judge Bruce
+                                                                      5th
+                                 April 2016
+                           -----------------------
+[1] Certificate of conviction dated 11th October 2013 issued by the Crown
+Court at Isleworth at page 1, bundle 1B
+[2] ID card at page 36, bundle volume 1
+[3] Witness statement dated 13th March 2013, paragraph 18
+[4] Share certificate for Birlik Bank, page 12, bundle 4
+[5] Ibid, paragraph 23
+[6] A series of stills from the video of the Appellant's engagement party,
+depicting Mr Abdulla Abdullayev, are in bundle 1B at 51-53
+[7] Documents relating to the Appellant's ownership of Aliksoft at are in
+bundle 1B at page 74 (tax documents), 77-103 (accounts), 105-122 (financial
+statements) 131, (website screenshot), and 137-138 (extracts from the State
+Registry of commercial organisations)
+[8] The Appellant relies on Azeri tax documents which show him to have been
+one of two registered proprietor of FZ Credit Union, bundle 1B page 73,
+company accounts at page 161, and bank statements at bundle 3, page 87
+[9] Documents relating to the Appellant's ownership of other companies such
+as Diamond Ltd at bundle 1B, pages 140-160
+[10] Page 35, bundle volume 1
+[11] Documents relating to the extradition proceedings are at pages 1-26 of
+bundle 1B
+[12] The Appellant relies on various bank statements. An example is the
+AtaBank statements at page 55 of bundle 1B which show the Appellant to have
+a current account balance of US$4,406,445 in March 2014
+[13] Witness statement Murad Gassanli dated 14th April 2014 paragraphs 27-
+28
+[14] Ibid,  paragraph 31
+[15] Ibid, paragraph 43
+[16] Oral evidence
+[17] A full copy of the DVD was made available but was not viewed during
+the hearing. Mr Gassanli confirmed that he had watched it and that Abdullah
+Abdullayev was present
+

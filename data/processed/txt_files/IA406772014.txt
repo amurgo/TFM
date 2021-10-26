@@ -1,0 +1,335 @@
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)                      Appeal Number:
+IA/40677/2014
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House                     |Decision & Reason Promulgated       |
+|On Tuesday 29 October 2019               |On Wednesday 6 November 2019        |
+
+
+                                   Before
+                               MR JUSTICE DOVE
+                    (SITTING AS AN UPPER TRIBUNAL JUDGE)
+                         UPPER TRIBUNAL JUDGE SMITH
+
+                                   Between
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                             MR MAROOF CHOWDHURY
+                                                                  Respondent
+
+Representation:
+
+For the Appellant: Ms S Jones, Senior Home Office Presenting Officer
+For the Respondent:     Mr S Karim, Counsel instructed by Kalam solicitors
+
+
+                            DECISION AND REASONS
+
+      BACKGROUND
+
+    1. This is an appeal by the Secretary of State.  For ease of reference,
+       we refer to the parties as they were before the First-tier  Tribunal
+       notwithstanding that,  strictly,  the  Secretary  of  State  is  the
+       Appellant in this Tribunal.
+
+
+    2. The Respondent appeals against a  decision  of  First-Tier  Tribunal
+       Judge Mayall promulgated on 26 June 2015 ("the  Decision")  allowing
+       the Appellant's appeal on human rights grounds (Article  8)  against
+       the Respondent's decision  dated  22  October  2014  cancelling  the
+       Appellant's leave to enter.  The basis of the Respondent's  decision
+       was that the Appellant had used a proxy test taker when obtaining  a
+       TOEIC English language test certificate in 2012 and  had  used  that
+       test certificate to obtain leave to remain as a student in the  same
+       year.  Although  the  Judge  allowed  the  appeal  on  human  rights
+       grounds, he dismissed  the  appeal  "under  the  Immigration  Rules"
+       finding at [62] of the Decision that the Appellant had used a  proxy
+       test taker and concluding at [65] of the Decision that he had  acted
+       dishonestly.
+
+
+    3. The Respondent appealed the Decision on three grounds.  First,  that
+       the Judge had erred by failing to engage with the Immigration  Rules
+       ("the Rules") when concluding that Article 8 would  be  breached  by
+       removal.  Second, that the Judge failed to give sufficient weight to
+       the public interest in light of the  Appellant's  deception.  Third,
+       that the Judge had failed to give reasons  for  concluding  that  it
+       would not be reasonable to expect the Appellant's British  child  to
+       leave the UK and therefore allowing the appeal  on  the  basis  that
+       Section 117B  (6)  Nationality,  Immigration  and  Asylum  Act  2002
+       ("Section 117B (6)") was met.  There  was  no  cross-appeal  by  the
+       Appellant against the dismissal of the appeal under the Rules.
+
+
+    4. Permission to appeal was granted to the Respondent on  29  September
+       2015 by First-tier Tribunal Judge Mark Davies in the following terms
+       so far as relevant:
+
+
+             "...2.      The  Judge's  conclusions   that   it   would   be
+           unreasonable for the  Appellant's  child  to  leave  the  United
+           Kingdom is based on little or no evidence.  There appears to  be
+           no evidence before him for him to conclude that the  Appellant's
+           child and the child's mother could not relocate.
+            3.   The Judge puts forward little  or  no  reasoning  why  the
+           Appellant was entitled to make a freestanding Article 8 claim.
+            4.   It is arguable that the Judge  has  not  given  sufficient
+           weight to the fact that the Appellant had used deception to  try
+           to remain in the United  Kingdom  and  the  public  interest  in
+           maintaining effective immigration control.
+            5.   The grounds and  determination  do  disclose  an  arguable
+       error of law."
+
+
+    5. The Respondent's appeal came before Deputy Upper Tribunal G A  Black
+       who, in a decision promulgated  on  28  January  2016  ("the  Second
+       Decision") found an error of law in the Decision, set it  aside  and
+       re-made it, dismissing the appeal on all grounds.  It is  worthy  of
+       note that no issue was taken by the Appellant with  the  finding  of
+       deception made in the Decision.
+
+
+    6. The Appellant sought permission to appeal the Second Decision to the
+       Court of Appeal.  He raised  four  grounds.   First,  whether  Judge
+       Black had erred by setting aside  the  Decision  when  the  Decision
+       disclosed no material error of law. At  [33]  of  his  grounds,  the
+       Appellant for the first time challenged Judge Mayall's finding  that
+       the  Appellant  had  exercised  deception.   We  observe  that  this
+       assertion was included at the end of a ground which  contended  that
+       the First-tier Tribunal Judge had not erred in law.
+
+    7. The other three grounds focussed on the Deputy  Judge's  conclusions
+       when re-making the  Decision.   Ground  two  challenged  the  Deputy
+       Judge's re-making of the decision  without  first  hearing  evidence
+       herself.  Ground three challenged the Deputy Judge's conclusions  as
+       to the reasonableness of expecting a British child to leave the  UK,
+       applying Section 117B (6).  By ground four, the Appellant challenged
+       the Deputy Judge's proportionality assessment.
+
+
+    8. By a decision dated 1 November  2017,  Lord  Justice  Singh  granted
+       permission to appeal giving the following reasons:
+
+
+            "1.  Although the second appeals test applies, I bear  in  mind
+           that the UT allowed the SSHD's appeal against the FTT  decision,
+           which had allowed the A's appeal on Article 8 grounds.
+            2.   The A raises four grounds  of  appeal.   I  consider  that
+           Grounds 2  and  3  do  raise  points  of  general  principle  or
+           practice.  I also consider that there are compelling reasons  to
+           grant permission on Grounds 1 and 4, in particular  because  the
+           UT may have erred in law in a way that has an impact on the best
+           interests of a very  young  child  and  one  who  is  a  British
+           citizen."
+
+
+    9. By a consent order dated 8 July 2019, the parties  agreed  that  the
+       Second Decision should be set aside and that the  appeal  should  be
+       remitted to this Tribunal for redetermination.  The matter therefore
+       comes before us to re-make the Decision.
+
+      DISCUSSION AND CONCLUSIONS
+
+
+   10. We can deal very shortly with the Respondent's ground  asserting  an
+       error of law in Judge Mayall's application of Section 117B (6).   Ms
+       Jones indicated at the outset of her submissions that the Respondent
+       accepts that a British child cannot generally be expected  to  leave
+       the UK and that this position applies in this  case  as  any  other,
+       notwithstanding the finding of deception.  She pointed out that  the
+       Respondent's grounds were drafted as long ago as June 2015 and case-
+       law had moved on significantly since then.  She  accepted  therefore
+       that the Respondent's third ground could not be pursued.   She  also
+       accepted that it would be difficult to pursue a positive case  given
+       that concession.  As we indicated  at  the  hearing,  therefore,  we
+       allow the Appellant's appeal on human rights grounds  on  the  basis
+       that Section 117B (6) is met  and  therefore  that  removal  of  the
+       Appellant (who is in a genuine and subsisting relationship with  his
+       British citizen child) would be disproportionate.
+
+
+   11. We turn to deal with a further point raised by Mr  Karim.   He  drew
+       our attention to the Appellant's ground one of his grounds of appeal
+       before the Court of Appeal which challenges, inter alia, the  First-
+       tier Tribunal Judge's  finding  that  the  Appellant  has  exercised
+       deception. Mr Karim accepted that this finding was not challenged by
+       the Appellant prior to the grounds before the Court of  Appeal.   He
+       also accepted that there was no cross appeal  by  the  Appellant  in
+       relation to the  dismissal  of  the  appeal  under  the  Rules.   He
+       submitted however that case-law in relation to so-called  ETS  cases
+       (as this is) has moved on and that the First-tier Tribunal Judge had
+       erred by applying too high a standard of proof for the Appellant  to
+       meet.  Following the case of SM and Qadir (ETS - Evidence  -  Burden
+       of Proof) [2016] UKUT 229 (IAC) ("SM & Qadir"), Mr  Karim  submitted
+       that a Judge would have to consider only  the  plausibility  of  the
+       innocent explanation provided by an appellant in order to  discharge
+       his evidential burden which would then shift  the  legal  burden  of
+       proof back to the Respondent.
+
+
+   12. Mr Karim suggested three possible ways forward.  First, he  accepted
+       that we could conclude that the Appellant was precluded from arguing
+       this issue on this occasion, having failed to advance it as a ground
+       of appeal earlier.  Second, he also accepted that, in light  of  the
+       Respondent's concession in relation to the Article 8 case, we  could
+       also conclude that any error was immaterial.  He pointed out in that
+       regard though that the error might not be immaterial for the  future
+       as  the  finding  of  deception  might  influence  the  Respondent's
+       decisions as to indefinite leave to remain and  citizenship  in  due
+       course.  Third, we could indicate that we were minded to re-open the
+       appeal on this issue and hear submissions on it.
+
+
+   13. Having retired for a short period to deliberate, we  indicated  that
+       we would follow the first option.  We therefore  concluded  that  it
+       was too late  for  the  Appellant  to  raise  this  issue  now.   We
+       indicated that we would provide our reasons in writing for  reaching
+       that conclusion which we now turn to do.
+
+
+   14. The Appellant raised this issue at [33] of his  grounds  before  the
+       Court of Appeal in the following way:
+
+
+           "The appellant also now challenges the FTT's conclusion relating
+           to  deception.   It  is  submitted  that  whilst  this  was  not
+           challenge below,  in  light  of  the  recent  Presidential  test
+           ETS/TOEIC case determined by the UT Qadir and Ors, IA/31380/2014
+           and others, where it was held that the respondent  does  not  in
+           these types of cases have sufficient evidence to  discharge  the
+           burden, the appellant submits that the deception finding of  the
+           FTT must also be set aside in the interests of justice."
+
+
+   15. We make three observations about the way in which this challenge  is
+       raised.  First, as we have already noted, there was no challenge  by
+       way of cross-appeal or before Judge Black in the Upper Tribunal.  No
+       explanation is offered for  this  ground  not  having  been  pleaded
+       earlier (save perhaps by reference to the "recent" decision of SM  &
+       Qadir which had only just been promulgated). Second, this  paragraph
+       appears in a section challenging Judge Black's finding of  an  error
+       of law in the  Decision.  Third,  and  as  such,  the  challenge  is
+       completely at odds with the remainder of ground one which asserts no
+       error of law in the Decision. The challenge at [33] on the  contrary
+       asserts that there is an error of law, albeit a different  error  of
+       law to that found by Judge Black (unsurprisingly since this  alleged
+       error was not argued before her).
+   16. That then impacts on the submission made by Mr Karim that  Singh  LJ
+       had considered this point arguable.  There  is  no  way  of  knowing
+       whether he did because, as we note, the focus of ground one is  that
+       there was no error of law in the Decision and  that  it  should  not
+       have been set aside.  It is therefore not at all clear  to  us  that
+       Singh LJ found there to be any arguable error on this point or  that
+       he even considered it.  He makes no mention of the ground not having
+       been raised before and the reference when dealing with ground one to
+       the best interests of the Appellant's child tends to suggest that he
+       was focussing only on whether the First-tier Tribunal Judge had made
+       any error of law in relation to Section 117B (6).
+
+
+   17. Finally, and in any  event,  the  basis  on  which  the  appeal  was
+       remitted to this Tribunal does not indicate that this was one of the
+       reasons why the appeal was conceded. We refer to  the  statement  of
+       reasons agreed between the parties which sets out  the  reasons  why
+       the appeal was conceded in the following terms:
+
+
+            "7.  The parties agree that the Upper  Tribunal  made  material
+           errors of law when re-determining the  Appellant's  appeal.   In
+           particular, the  parties  agree  that  the  Upper  Tribunal  was
+           required to consider  the  proportionality  of  the  Appellant's
+           removal under Article 8 by reference to s.117B(6)  of  the  2002
+           Act, and that it failed to  properly  apply  this  provision  in
+           that:
+              i.  The  Upper  Tribunal  had  regard  to   the   Appellant's
+              fraudulent conduct in assessing the public interest, which is
+              not  a  matter  falling  for  consideration   when   applying
+              s.117B(6): see KO (Nigeria) v Secretary of State for the Home
+              Department [2018] 1 WLR 5273, at [17];
+              ii. Notwithstanding  having  concluded  that  there  were  no
+              insurmountable  obstacles  to  family  life   continuing   in
+              Bangladesh, the Upper Tribunal failed to set out any  reasons
+              for why it would be reasonable for the Appellant's  child  to
+              leave  the  UK,  including  in  light  of  the   child's   UK
+              nationality;
+              iii.  The Upper  Tribunal  wrongly  concluded  (parasitic  on
+              these matters) that  there  was  no  basis  to  consider  the
+              Appellant's circumstances under Article 8 outside the Rules.
+            8.   The parties accordingly agree that this  matter  should  be
+           remitted to the Upper Tribunal to re-determine  the  Appellant's
+           appeal in accordance with this Statement of Reasons.  it will be
+           for the Upper Tribunal to make such directions as  it  considers
+           appropriate as to the need for any new evidence to allow  it  to
+           re-determine the Appellant's appeal."
+
+
+   18. Also, of importance is what is said  at  [5]  of  the  Statement  of
+       Reasons by way of background to that concession as follows:
+
+
+            "The Appellant appealed the Respondent's decision to cancel his
+           leave to the First-tier Tribunal ("FTT").  His appeal was  heard
+           by FTT Judge Mayall, who determined as follows:
+           i.  Having  taken  into  account  the  evidence,  including  the
+              Appellant's oral evidence,  the  Appellant  had  fraudulently
+              obtained the TOEIC test certification.  FTTJ Mayall concluded
+              in this regard that the  Appellant  was  not  a  credible  or
+              honest witness when dealing with the test (see at [57]);
+           ii.         By reason of this finding, the Appellant's leave was
+              properly cancelled having regard to  paragraph  321A  of  the
+              Immigration  Rules  (see  at  [66]),  and  further  that  the
+              Appellant did not otherwise qualify for leave to remain under
+              the Immigration Rules as a partner or as a parent  under  the
+              relevant provisions in Appendix FM (see at [81]);
+           iii.  However, having regard to the provisions of s.117B of  the
+              Nationality, Immigration  and  Asylum  Act  2002  ("the  2002
+              Act"), the Appellant's removal would result  in  an  unlawful
+              interference with the Appellant's rights under Article  8  of
+              the European Convention on  Human  Rights  ("ECHR")  (see  at
+              [92]).
+           iv.   The Appellant's appeal was therefore dismissed pursuant to
+              the Immigration Rules but allowed on Article 8 grounds."
+
+
+   19. As we observed at the hearing, therefore, the issues before  us  had
+       been limited by agreement between the parties in  the  Statement  of
+       Reasons. We do not accept that there is any good reason  to  re-open
+       other issues, particularly in circumstances where  the  issue  which
+       the Appellant seeks to raise was not properly raised previously.
+
+   20. For those reasons, the Second Decision having been set aside by  the
+       consent order, we re-make that decision,  allowing  the  Appellant's
+       appeal  on  human  rights  grounds   (Article   8)   following   the
+       Respondent's concession, on the basis that the  Appellant  is  in  a
+       genuine and subsisting  relationship  with  a  qualifying  (British)
+       child and it would not be reasonable to expect that child  to  leave
+       the UK.   The Appellant is therefore entitled to  succeed  based  on
+       Section 117B (6) and we so conclude.
+
+      DECISION
+
+    For the avoidance of doubt, the decision of Deputy Upper Tribunal Judge
+    G A Black promulgated on 28 January 2016 is set aside.  We re-make  the
+    decision and allow the Appellant's appeal  on  the  basis  that  he  is
+    entitled to succeed based on Section 117B (6) Nationality,  Immigration
+    and Asylum Act 2002.  His removal would therefore be  disproportionate.
+
+
+
+
+    We allow the appeal of the Appellant (Mr  Chowdhury)  on  human  rights
+    grounds.
+
+
+      Signed
+            [pic]
+                 Upper            Tribunal            Judge            Smith
+          Dated:  4 November 2019

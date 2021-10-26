@@ -1,0 +1,364 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: EA/02617/2018
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Fox Court                   |Decision & Reasons Promulgated       |
+|On 13 December 2018                  |On 29 January 2019                   |
+|                                     |                                     |
+
+                                   Before
+
+                      DEPUTY UPPER TRIBUNAL JUDGE FROOM
+
+
+                                   Between
+
+                                DIEUDONNE [A]
+                       (ANONYMITY DIRECTION NOT made)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Ms S Saifolahi, Counsel
+For the Respondent:    Mr T Wilding, Senior Home Office Presenting Officer
+
+
+                    DECISION AND REASONS ON ERROR OF LAW
+
+The appellant is a citizen of Cameroon born on 9 May 1987. He overstayed
+his leave as a Tier 4 (General) Student Migrant and was served with
+enforcement papers. He then applied for a derivative residence card as the
+primary carer of his wife, Ms [KA], a British citizen.
+
+The respondent refused the application on 3 October 2017 because: (1)
+whilst it was accepted Ms [A] required some care which the appellant
+provided, it was not accepted she was wholly dependent on this care or that
+he cared for her "all day", as he had claimed, because he was seeking full-
+time employment; and (2) Ms [A] would not be compelled to leave the UK if
+the appellant were required to leave.  This appeal now turns on the second
+of those reasons.
+
+The appellant appealed and his appeal was heard by Judge of the First-tier
+Tribunal Griffith at Taylor House on 22 June 2018. The appellant attended
+and gave evidence, as did Ms [A]. The judge first considered whether the
+appellant was the 'primary carer' of Ms [A] and found he was. There was no
+evidence before her showing the appellant was working full-time and the
+medical evidence supported the claim that the appellant was Ms [A]'s carer.
+I pause to note that Ms [A] has schizoaffective disorder and has spent
+periods as an in-patient.
+
+The judge then went on to consider whether Ms [A] would be unable to reside
+in the UK if the appellant left. She noted the Upper Tribunal guidance in
+Ayinde and Thinjom (Carers - Reg.15A - Zambrano) [2015] UKUT 00560 (IAC).
+She found Ms [A] would not be able to live anywhere but the UK and reasoned
+the appellant had not shown that she would be forced to leave the UK.
+
+Permission to appeal was granted by the First-tier Tribunal on two grounds.
+Firstly, it was arguable the judge had failed to consider adequately the
+care which the appellant provided to Ms [A], and (2) it was arguable the
+judge had not adequately considered the alternative argument made by the
+appellant, which was that his son would be forced to leave the UK if he
+left.
+
+The respondent has not filed a rule 24 response opposing the appeal. There
+is no cross-appeal on the point about the appellant being Ms [A]'s primary
+carer.
+
+I heard submissions as to whether the judge made a material error of law.
+Ms Saifolahi developed the points she made in her grounds seeking
+permission to appeal. In effect, she made no criticism of the judge's self-
+direction in law. She had correctly applied the principles set out in
+Ayinde & Thinjom. However, had the judge properly considered all the
+evidence before her, she could not have concluded, as she did, that Ms [A]
+would not be forced to leave the UK. In particular, she highlighted the
+judge's findings that Ms [A] would not leave the UK if the appellant left
+and that, if she remained, support would be available from Ms [A]'s mother.
+
+
+Ms Saifolahi took me to parts of the evidence suggesting Ms [A] and her
+mother had a "difficult relationship", that the emotional and practical
+support provided by the appellant was necessary to ensure Ms [A]'s
+condition remained stable and highlighting the negative impact which the
+appellant's removal would have on Ms [A]'s recovery. There was evidence in
+the form of a letter from Ms [A]'s care coordinator recommending that the
+appellant remain with Ms [A] and stressing the importance of Ms [A] not
+becoming "enveloped" by NHS services, which is what would happen if the
+appellant left. It would risk Ms [A] having another hospital admission. The
+judge had a letter from Ms [A]'s treating psychiatrist supporting the
+appellant's continued presence. Ms Saifolahi also argued the position of
+the appellant's son required separate consideration, which the judge had
+failed to do.
+
+Mr Wilding argued that the appellant's appeal was a classic example of
+rearguing the case rather than showing a material error of law. The
+question was whether Ms [A] would be compelled to leave the UK, not whether
+it was reasonable to expect her to do so. It was not a proportionality
+test. The judge had found - and she was entitled to find - that there was
+no compulsion on Ms [A] to leave the UK. She had clearly taken the evidence
+into account.
+
+I reserved my decision as to whether the decision of Judge Griffith
+contains a material error of law.
+
+The Immigration (European Economic Area) Regulations 2016 ("the EEA
+Regulations") read as follows:
+
+         "Derivative right to reside
+
+         16.- (1) A person has a derivative right to reside during any
+                  period in which the person-
+
+                  (a)  is not an exempt person; and
+
+                  (b)  satisfies each of the criteria in one or more of
+                  paragraphs (2) to (6).
+
+             ...
+
+             (5) The criteria in this paragraph are that-
+
+                  (a)  the person is the primary carer of a British citizen
+                  ("BC");
+
+                  (b)  BC is residing in the United Kingdom; and
+
+                  (c)  BC would be unable to reside in the United Kingdom or
+                  in another EEA State if the person left the United Kingdom
+                  for an indefinite period.
+
+             ...
+
+             (8) A person is the "primary carer" of another person ("AP")
+             if-
+
+                  (a)  the person is a direct relative or a legal guardian
+                  of AP; and
+
+                  (b)  either-
+
+                      (i)  the person has primary responsibility for AP's
+                      care; or
+
+                      (ii) shares equally the responsibility for AP's care
+                      with one other person who is not an exempt person."
+
+The meaning of "unable to reside" has been the subject of consideration in
+the Courts and the Upper Tribunal. In R (Sanneh) v SSWP & HMRC [2013] EWHC
+793 (Admin) Hickinbottom J considered the case of a person who claimed that
+the denial of certain benefits would lead to the primary carer of a British
+child having to leave the UK in contravention of the Zambrano principle[1].
+At paragraph 19 he set out the following propositions derived from case
+law:
+
+         "i)  All nationals of all member states are EU citizens. It is for
+         each member state to determine how nationality of that state may be
+         acquired, but, once it is acquired by an individual, that
+         individual has the right to enjoy the substance of the rights that
+         attach to the status of EU citizen, including the right to reside
+         in the territory of the EU. That applies equally to minors,
+         irrespective of the nationality of their parents, and irrespective
+         of whether one or both parents have EU citizenship.
+
+         ii)  An EU citizen must have the freedom to enjoy the right to
+         reside in the EU, genuinely and in practice. For a minor, that
+         freedom may be jeopardised if, although legally entitled to reside
+         in the EU, he is compelled to leave EU territory because an
+         ascendant relative upon whom he is dependent is compelled to leave.
+         That relative may be compelled to leave by dint of direct state
+         action (e.g. he is the subject of an order for removal) or by
+         virtue of being driven to leave and reside in a non-EU country by
+         force of economic necessity (e.g. by having insufficient resources
+         to provide for his EU child(ren) because the state refuses him a
+         work permit). The rights of an EU child will not be infringed if he
+         is not compelled to leave. Therefore, even where a non-EU ascendant
+         relative is compelled to leave EU territory, the article 20 rights
+         of an EU child will not be infringed if there is another ascendant
+         relative who has the right of residence in the EU, and who can and
+         will in practice care for the child.
+
+         iii) It is for the national courts to determine, as a question of
+         fact on the evidence before it, whether an EU citizen would be
+         compelled to leave the EU to follow a non-EU national upon whom he
+         is dependent.
+
+         iv)  Nothing less than such compulsion will engage articles 20 and
+         21 of the TFEU. In particular, EU law will not be engaged where the
+         EU citizen is not compelled to leave the EU, even if the quality or
+         standard of life of the EU citizen is diminished as a result of the
+         non-EU national upon whom he is dependent is (for example) removed
+         or prevented from working; although (a) diminution in the quality
+         of life might engage EU law if (and only if) it is sufficient in
+         practice to compel the a relevant ascendant relative, and hence the
+         EU dependent citizen, to leave, and (b) such actions as removal or
+         prevention of work may result in an interference with some other
+         right, such as the right to respect for family life under article 8
+         of the European Convention on Human Rights.
+
+         v)   Although such article 8 rights are similar in scope to the EU
+         rights conferred by article 7 of the Charter of Fundamental Rights
+         of the European Union, the provisions of the Charter are addressed
+         to member states only when they are implementing EU law. If EU law
+         is not engaged, then the domestic courts have to undertake the
+         examination of the right to family life under article 8; but that
+         is an entirely distinct area of protection.
+
+         vi)  The overriding of the general national right to refuse a non-
+         EU national a right of residence, by reference to the effective
+         enjoyment of the right to reside of a dependent EU citizen, is
+         described in both Dereci (paragraph 67) and Harrison (paragraph 66)
+         as "exceptional", meaning (as explained in the latter), as a
+         principle, it will not be regularly engaged."
+
+In Ayinde and Thinjom (Carers - Reg.15A - Zambrano) [2015] UKUT 00560 (IAC)
+the Upper Tribunal considered the leading European and domestic authorities
+and reiterated that the Zambrano principle only applies in situations in
+which the EU citizen is forced to leave the territory of the EU. There was
+no test of reasonableness and the test was not whether there would be a
+reduction of quality of life or standard of living. In the case of carers
+of adult family members, the fact they would have to receive care in a
+residential care home, against their wishes, did not engage the Zambrano
+principle. It was plain the appellants in those cases would not leave the
+UK and follow their carers.  The Upper Tribunal stated as follows:
+
+         "55. The differential in the  care  provided  by  a  family  member
+         acting as carer  and  the  standard  of  care  provided  by  social
+         services, care agencies or the NHS does  not  engage  the  Zambrano
+         principle."
+
+
+In Patel v SSHD; SSHD v Shah & Boursuisa [2017] EWCA Civ 2028, the Court of
+Appeal held that the judgment in Ch�vez-V�lchez and Others v Raad van
+Bestuur van de Sociale Verbekeringsbank and Others (C-133/15) did not alter
+the approach to the taken. The test was one of compulsion in respect of
+both children and adults. With regard to the latter, there was discussion
+as to which circumstances might entitle adults cared for by other relatives
+to succeed in showing entitlement to a derivative right of residence:
+
+         "84. During the hearing, we asked the Secretary of State to
+         consider in what circumstances compulsion might arise in respect of
+         adult dependents of those without residence:  if there were none,
+         might the regulation so interpreted be a dead letter, forcing a
+         different interpretation to preclude redundancy? Mr Blundell's
+         response accepts that this category of cases might be very narrow.
+         However, he did proffer examples. Where the family share a rare
+         blood group, and blood transfusion or bone marrow transplants might
+         be required, it might be arguable that the carer should remain.  He
+         also instanced a British adult citizen with severe autism,
+         dependent for all his care on a third country national relative,
+         where it would be intolerable for the identity of the carer to
+         change.  It is clear Mr Blundell was intending to give examples
+         rather than an exhaustive survey. For myself, I would instance
+         significant psychological dependence derived from any well-
+         documented and recognised psychological condition, as a possible
+         example.  There may be more.  The point is that the category
+         exists, and there can be no argument that the regulation must have
+         an expanded reading in order to avoid redundancy."
+
+In the light of these authorities, I am unable to accept there is any
+material error of law in the decision of Judge Griffith.
+
+The parties were in agreement that she directed herself correctly as to the
+approach explained in Ayinde & Thinjom, which has not been changed by
+Patel. She set out the main principles from Ayinde & Thinjom at paragraphs
+37 and 38. There is no doubt that she recognised the test was one of
+compulsion and that, therefore, when she assessed the evidence she was
+asking herself the correct question.
+
+In reaching her conclusion, I am satisfied the judge considered all the
+evidence before her. For example, in paragraph 35, she referred to
+independent evidence supporting the claim that the appellant carried out
+tasks to assist his wife. In paragraph 39, she referred to medical evidence
+showing that the appellant supported his wife and that the removal of his
+support may result in added stress and mental tension. She had recorded
+evidence that Ms [A] is prone to relapsing, needs monitoring to ensure she
+takes her medication and that the appellant provides emotional and
+practical support which the NHS cannot provide (paragraph 21). The decision
+read as a whole shows the judge was conscious of the importance of the
+support provided by the appellant and of the likely impact on her of
+removing the appellant.
+
+Earlier in her decision, the judge had recorded the evidence to her that
+the couple had considered whether moving to Cameroon was feasible but
+concluded it was not because of the lack of healthcare (paragraphs 16 and
+20).  The judge directed herself to examine critically the claim that a
+British citizen will leave the UK[2] and concluded that Ms [A] would not be
+able to live anywhere but the UK (paragraph 40). That was a finding she was
+entitled to make on the evidence.
+
+Finally, the judge noted the absence of a statement by the appellant's
+mother-in-law. She recorded that the appellant was asked questions about
+his contact with his mother-in-law and she noted the evidence of Ms [A]
+that her mother was a foster carer and could make a statement. She found
+there was an inconsistency as between the appellant and Ms [A]'s evidence
+as to who was looking after their son on the day of the hearing. She was
+unable to make any firm findings about the nature and extent of any family
+support which would be available to Ms [A] in the absence of the appellant
+and concluded there would be "some assistance" given Ms [A] had lived with
+her mother before marrying the appellant (paragraph 41). Again, that was a
+finding she was entitled to make.
+
+Once it is clear that the judge had proper regard to all the evidence, the
+appellant's challenge to her decision must fall away, given the concession
+that she directed herself correctly in law. It was not suggested her
+conclusion was irrational and it plainly was not. As seen, the judge's
+central conclusion was that Ms [A] would not move to Cameroon and that the
+circumstances were not such that the removal of the appellant would,
+properly understood, compel her to leave the UK. It would undoubtedly have
+an adverse effect on Ms [A] and would be suboptimal in many respects.
+However, the circumstances were not such that Ms [A] would be unable to
+reside in the UK.  The case did not therefore fall within the narrow band
+of cases foreseen in Patel which could succeed.
+
+Ms Saifolahi's second ground was that the child would be forced to leave
+the UK if the appellant were removed. Less attention was paid to this
+ground at the hearing. It is true the judge did not set out a separate
+conclusion about the child but her findings did roll up consideration of
+the child within her assessment of whether Ms [A] would be forced to leave.
+For example, she referred to the child in paragraphs 39, 40 and 41. The
+fact the judge's conclusion that Ms [A] would not be forced to leave the UK
+was sound has a significant impact on the case insofar as it concerns the
+child. The child could remain with Ms [A] and the evidence does not go so
+far as to show that she would be unable to look after the child in the
+appellant's absence or, for that matter, that her mother would not be able
+to do so if Ms [A]'s health did deteriorate.
+
+Judge Griffith's decision does not contain a material error of law. The
+appellant's appeal is dismissed.
+
+Having looked at the evidence in this appeal, it is clear that there is a
+case to be made on behalf of the appellant on article 8 grounds concerning
+whether there are insurmountable obstacles to family life being continued
+in Cameroon. Ms [A] and the child are British and Judge Griffith has
+already made a finding that Ms [A] could not relocate to Cameroon. However,
+there is no article 8 ground before me and much will depend on the up to
+date position regarding Ms [A]'s state of health.
+
+
+
+Notice of Decision
+
+The Judge of the First-tier Tribunal's decision dismissing the appeal does
+not contain a material error of law and shall stand.
+
+No anonymity direction is made.
+
+
+Signed                                  Date 17 December 2018
+
+[pic]
+Deputy Upper Tribunal Judge Froom
+-----------------------
+[1] Ruiz Zambrano v Office National de l'Emploi (C-34/09) 8 March 2011,
+[2012] QB 265.
+[2] See paragraph 58 of Ayinde & Thinjom.
+

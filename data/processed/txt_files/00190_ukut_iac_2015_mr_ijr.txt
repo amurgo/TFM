@@ -1,0 +1,979 @@
+
+[pic]
+UPPER TRIBUNAL
+(Immigration and Asylum Chamber)
+
+R (on the application  of  Rashid)  v  Secretary  of  State  for  the  Home
+Department IJR [2015] UKUT 00190 (IAC)
+
+             IN THE MATTER OF AN APPLICATION FOR JUDICIAL REVIEW
+
+                                                                 Field House
+                                                     Heard: 18 February 2015
+
+                                   Before
+
+                          UPPER TRIBUNAL JUDGE GILL
+
+                      THE QUEEN (ON THE APPLICATION OF
+                           MD MAMUNUR RASHID)         Applicant
+
+
+                                     and
+
+         THE SECRETARY OF STATE FOR THE HOME DEPARTMENT   Respondent
+
+Representation:
+For the Applicant:     Ms S Kansal, of Counsel, instructed by Universal
+                    Solicitors.
+For the Respondent:    Mr G Lewis, of Counsel, instructed by the Treasury
+Solicitor.
+
+                          - - - - - - - - - - - - -
+
+                                  JUDGMENT
+                         delivered on: 2 April 2015
+
+
+Judge Gill:
+
+
+     Introduction and background facts:
+
+
+ 1. The applicant  is  a  national  of  Bangladesh.  He  has  been  granted
+    permission to apply for judicial review of a decision of the respondent
+    of 20 September 2013 rejecting an application he made on 8 August  2013
+    for leave to remain as a  Tier  4  (General)  Student.  The  respondent
+    refused the application  on  the  ground  that  the  applicant  had  an
+    outstanding appeal against an earlier decision of 14 January  2013  and
+    he was therefore restricted from making a fresh application  for  leave
+    whilst his appeal was  outstanding  in  accordance  with  s.3C  of  the
+    Immigration Act 1971 (the "1971 Act").
+
+ 2. The claim was lodged out of time. As this is a  matter  which  goes  to
+    jurisdiction, I shall deal with it at the outset (as it  had  not  been
+    dealt with previously). I apply the guidance  given  by  the  Court  of
+    Appeal in R (Dinjan Hysaj) v Secretary of State for the Home Department
+    [2014] EWCA Civ 1633 which explained that there are three stages  in  a
+    court's consideration of the question whether time should be  extended.
+    The claim was lodged on 23 December 2013, less than a  week  after  the
+    "long-stop" period of 3 months. The reason given in the claim form  for
+    the delay was that the letter of 20 September 2013 was received  on  25
+    September 2014. Having regard to  the  fact  that  the  delay  was  not
+    substantial  and  the  explanation,  I  have  decided  to  exercise  my
+    discretion and extend time. The application is therefore admitted.
+
+ 3. The respondent's letter dated 20 September 2013 reads:
+
+              "I write regarding the completed application form your  client
+             submitted for consideration to the Home  Office  on  08  August
+             2013 for leave to remain on the basis of  a  Tier  4  (General)
+             Student visa.
+
+              Your client already has  an  outstanding  appeal  against  the
+             Secretary  of  State's  decision  to   refuse   your   client's
+             application for leave to remain as a Tier 4 (General)  Student.
+             Your client is  restricted  from  making  a  fresh  application
+             whilst your client's appeal is outstanding in  accordance  with
+             Section 3C of the  Immigration  Act  1971  (as  substituted  by
+             Section 118 of the  Nationality,  Immigration  and  asylum  Act
+             2002).
+
+              Your client may apply to the Asylum and  Immigration  Tribunal
+             to have your client's application for leave to remain as a Tier
+             4 (General) Student to  be  treated  as  a  variation  of  your
+             client's  grounds  of  appeal.  To  this  end,  your   client's
+             documents have been retained on the Home Office  file  as  they
+             may be considered as part of your client's existing appeal."
+
+ 4. The applicant arrived in the United Kingdom on 8 May  2010  with  entry
+    clearance as a Tier 4 (General) Student valid until 30 April 2012. On 9
+    March 2012, his Tier 4 leave was extended until  30  May  2013.  On  23
+    October 2012, his sponsor college informed the Secretary of State  that
+    he had failed to enrol on his course of study.  The  following  is  the
+    subsequent chronology:
+
+         14 Nov 2012        The  applicant  applied  in-time  for  leave  to
+                      remain as a Tier 2 (General) migrant.
+
+         9 Jan 2013        The applicant's leave to remain was curtailed  to
+                      expire on the same day as he was no  longer  studying
+                      at the approved sponsor for which the leave had  been
+                      granted.
+
+         14 Jan 2013       The respondent refused  the  applicant's  Tier  2
+                      application with a right  of  appeal.  The  applicant
+                      appealed to the First-tier Tribunal ("FtT").
+
+         3 May 2013        The FtT  dismissed  his  appeal  (appeal  number:
+                      IA/03700/2013). The applicant was granted  permission
+                      to appeal to the Upper Tribunal ("UT").
+
+         29 July 2013      The UT  dismissed  the  applicant's  appeal.  The
+                      determination of the UT was sent by post.
+
+         8 Aug 2013        The applicant  made  a  "fresh  application"  for
+                      leave to remain as a Tier 4 (General)  student.  This
+                      is  the  application  that  is  the  subject  of  the
+                      respondent's letter  dated  20  September  2013.  The
+                      application was sent to the respondent.  It  was  not
+                      sent to the UT but  it  was  included  in  the  claim
+                      bundle for these judicial review proceedings.
+
+         14 Aug 2013       Last date on which the applicant could have  made
+                      an in-time application to the UT  for  permission  to
+                      appeal to the Court of Appeal.  No  such  application
+                      was  made.  This  is  therefore  the  date  that  the
+                      applicant exhausted his appeal rights.
+
+ 5. The Upper Tribunal Judge (UTJ) who  granted  permission  considered  it
+    arguable that the respondent erred in law in stating that the applicant
+    was restricted from making a fresh application by virtue of  s.3C.  The
+    UTJ considered it arguable that the applicant's s.3C leave  expired  on
+    29 July 2013 and that the application of 8 August 2013 was made  within
+    the period of 28 days provided for in para 245ZX(m) of the Statement of
+    Changes in the Immigration Rules HC 395 (as amended) (the "IRs").
+
+     The relevant provisions
+
+ 6. The version of s. 3C of the 1971 Act which is relevant in this claim is
+    the version that was in force from 31 August 2006 to 19  October  2014.
+    This provided as follows:
+
+
+        "3C Continuation of leave pending variation decision
+
+
+        (1)  This section applies if-
+
+
+         (a) a person who has limited leave  to  enter  or  remain  in  the
+               United  Kingdom  applies  to  the  Secretary  of  State   for
+               variation of the leave,
+
+
+         (b) the  application  for  variation  is  made  before  the  leave
+        expires, and
+
+
+         (c) the leave expires without the application for variation having
+        been decided.
+
+
+        (2)  The leave is extended by virtue of  this  section  during  any
+        period when-
+
+
+          (a)  the  application  for  variation  is  neither  decided   nor
+        withdrawn,
+
+
+         (b) an appeal under section 82(1) of the Nationality,  Asylum  and
+               Immigration Act 2002 could be brought,  while  the  appellant
+               is  in  the  United  Kingdom  against  the  decision  on  the
+               application for variation (ignoring  any  possibility  of  an
+               appeal out of time with permission), or
+
+
+         (c) an appeal under that section against  that  decision,  brought
+               while the appellant is in  the  United  Kingdom,  is  pending
+               (within the meaning of section 104 of that Act).
+
+
+        (3)  Leave extended by virtue of this section shall  lapse  if  the
+             applicant leaves the United Kingdom.
+
+
+        (4)  A person may not make an  application  for  variation  of  his
+             leave to enter or remain in the United Kingdom while that leave
+             is extended by virtue of this section.
+
+
+        (5)  But subsection (4) does  not  prevent  the  variation  of  the
+             application mentioned in subsection (1)(a).
+
+
+        (6)  The Secretary of State may make regulations  determining  when
+             an application is decided for the purposes  of  this  section;
+             and the regulations-
+
+
+         (a) may make provision by reference to receipt of a notice,
+         (b) may provide for a notice to be treated as having been received
+                 in specified circumstances,
+         (c)  may  make  different  provision  for  different  purposes  or
+        circumstances,
+         (d) shall be made by statutory instrument, and
+         (e) shall be subject to annulment in pursuance of a resolution  of
+                 either House of Parliament."
+
+         (my emphasis)
+
+ 7. The relevant version of  s.104  of  the  Nationality,  Immigration  and
+    Asylum Act 2002 (the "2002 Act") is the version that was in force  from
+    15 February 2010 until 19 October 2014. This provided as follows:
+
+
+        "104 Pending appeal
+
+
+        (1)  An appeal under section 82(1) is pending during the period-
+
+
+         (a) beginning when it is instituted, and
+
+
+         (b)  ending when it is finally determined, withdrawn  or  abandoned
+                 (or when it lapses under section 99).
+
+
+          (2) An appeal under section 82(1) is not  finally  determined  for
+            the purpose of subsection (1)(b) while-
+
+
+         (a)  an application for permission to appeal under section 11 or 13
+                 of the Tribunals, Courts and Enforcement Act 2007 could  be
+                 made or is awaiting determination,
+
+
+         (b)  permission to appeal under either of those sections  has  been
+                 granted and the appeal is awaiting determination, or
+
+
+         (c)  an appeal has been remitted under section 12 or 14 of that Act
+                 and is awaiting determination.
+        (4)  ...
+
+
+        (4A) ...
+
+
+        (4B) ...
+
+
+        (4C) ...
+
+
+        (5)  ..."
+
+ 8. The applicant's skeleton argument refers to s.103 of the 2002 Act.  The
+    version of s.103 that was in force from 1 April 2003 is set out  below.
+    S.103 was repealed with effect from 4 April 2005  (the  date  when  the
+    Asylum and Immigration Tribunal was abolished) subject to  transitional
+    provisions which are not relevant in this case:
+
+
+        "103 Appeal from Tribunal
+
+
+          (1) Where the Immigration Appeal  Tribunal  determines  an  appeal
+            under section 101 a party to the appeal  may  bring  a  further
+            appeal on a point of law-
+
+
+         (a)  where the original decision of the  adjudicator  was  made  in
+               Scotland, to the Court of Session, or
+         (b) in any other case, to the Court of Appeal."
+
+     The Grounds:
+
+ 9. Eight grounds have  been  advanced.  Ground  1  may  be  summarised  as
+    follows:
+
+    i)   S.104(2) of the 2002 Act only applies to s.104(1)(b). It does  not
+        purport to apply to s.3C(2)(c), i.e. it  does  not  apply  to  s.3C
+        leave.
+
+    ii)  Accordingly, a proper  construction  of  the  words  "when  it  is
+        finally determined" in s.104(2) of is that an  appeal  is  "finally
+        determined" when the determination is promulgated.
+
+10. Ground 2 contends that the respondent has a discretion to consider  the
+    merits of any application by an individual who  has  lost  his  or  her
+    appeal before the UT for permission to appeal to the Court  of  Appeal.
+    If it would be hopeless for such an individual to pursue an  appeal  to
+    the Court of Appeal, then the respondent should exercise her discretion
+    so that any application for leave made by such  an  individual  to  the
+    respondent during the period when  an  application  for  permission  to
+    appeal to the Court of Appeal could be made  should  be  treated  as  a
+    variation of the  original  application.  Ground  2  is  based  on  the
+    following arguments:
+
+     i)  At para 14.i of the skeleton argument (as explained at the  hearing
+        by Ms Kansal), it is argued that the words "could be" in the phrase
+        "could be made"  in  s.104(2)(d)[1]  of  the  2002  Act  should  be
+        construed as conferring a discretion on the respondent to  consider
+        the merits  of  any  appeal  to  the  Court  of  Appeal  against  a
+        determination of the UT dismissing an individual's appeal  and  the
+        possibility of the individual meeting the  second  appeal  criteria
+        for the grant of permission.
+
+    ii)  It is contended that the proposition that  the  phrase  "could  be
+        made" confers such a  discretion  on  the  respondent  is  "further
+        compounded" by the use of the phrase "may bring a further appeal on
+        a point of law" in s.103B(1) of the 2002 Act. It is contended  that
+        the  phrase "may bring a further appeal  on  a  point  of  law"  in
+        s.103B(1) denotes that the respondent has a  discretion  to  decide
+        whether the case is one in which  permission  to  appeal  could  be
+        sought.
+
+    iii) A purposive construction should be given to the  words  "could  be
+        made" so that, if the claimant  wishes  to  bring  an  appeal,  his
+        appeal is treated as not "finally determined" but, if he  takes  "a
+        measured decision not to appeal further"  and  chooses  instead  to
+        vary his application or to submit a fresh application,  his  appeal
+        is treated as "finally determined".
+
+    iv)  It is contended that this purposive construction is  necessary  in
+        order  to  safeguard  and  protect  immigrants  and  that  such   a
+        construction is  also  consistent  with  the  common  law  duty  of
+        fairness. In this respect, reliance is placed on the  determination
+        of the  Upper  Tribunal  in  Thakur  (PBS  decision  -  common  law
+        fairness) Bangladesh [2011] UKUT 00151 (IAC)  and  para  7  of  the
+        judgment of Sullivan J in Forrester, the full name and citation  of
+        which was not provided in the skeleton argument but which I know to
+        be R (Forrester) v Secretary  of  State  for  the  Home  Department
+        [2008] EWHC 2307 (Admin).
+
+     v)  The discretion conferred on the respondent by the phrase "could  be
+        made" should be exercised by the respondent as follows:  If  it  is
+        unlikely that the claimant will be granted permission to appeal  to
+        the Court of Appeal, the respondent should exercise her  discretion
+        and treat a variation application  as  validly  having  varied  the
+        original application for leave.
+
+         The implication therefore is that, if the respondent does  exercise
+        her discretion in this way, the original  application,  as  varied,
+        remains outstanding and awaits a decision, so that any  s.3C  leave
+        continues until a decision on the application as  varied  has  been
+        made and any appeal lodged against  any  adverse  decision  on  the
+        varied application is "finally determined".
+
+     vi) It is argued that, in the  instant  case,  if  the  respondent  had
+        considered her discretion, it is likely that she would have  formed
+        the view that any further appeal  would  have  been  hopeless.  The
+        implication (following on from the arguments summarised  above)  is
+        that the respondent should therefore have treated  the  application
+        of 8 August 2013 as a variation of the applicant's  application  of
+        14 November 2012 and that this application  (as  varied)  therefore
+        awaits a further decision.
+
+11. Ground 3 is that the decision is in breach of  the  applicant's  rights
+    under Article 8. He is a genuine student who  has  made  good  academic
+    progress in his studies.
+
+12. Ground 4 is that the  applicant  was  entitled  to  vary  his  original
+    application, even after the respondent  had  made  a  decision  on  the
+    original application. This is because s.3C permits one variation. It is
+    contended that the principle that s.3C permits one variation even after
+    the respondent has decided the original application is the ratio of the
+    judgment of HHJ Thornton QC, sitting as a Deputy High Court Judge, in R
+    (Chowdhury) v Secretary of State for the Home Department [2014] EWHC 59
+    (Admin), at paras 25 and 26. If the applicant's application of 8 August
+    2013 had been made three days later, it would  have  been  granted.  It
+    should therefore now be granted.
+
+13. Ground 5 is set out in a  document  entitled:  "Additional  Grounds  on
+    behalf of the claimant" prepared by  Ms  Kansal  by  which  she  sought
+    permission to advance the argument that an application for variation of
+    leave is a continuing application, commencing from the date on which it
+    is first lodged and remaining open until it  is  decided,  in  reliance
+    upon the determination of the UT in Khatel and others (s85A; effect  of
+    continuing application) [2013] UKUT 00044 (IAC) to the effect  that  an
+    application can be a continuing application right up until the date  it
+    is decided. The "Additional Grounds on behalf of the claimant" develops
+    ground 5 as follows (and I quote):
+
+              "3. From this case[2] therefore the following emerges:
+
+              a.  That applications for variation of  leave  are  continuing
+                 applications, commencing from when they  are  first  lodged
+                 and remaining open until they are decided.
+                  b.   The application is to be decided as at  the  date  of
+    the decision.
+
+              4.  Applying these points to the case in  hand  the  following
+    emerges:
+
+              a.  That notwithstanding the  arguments  for  the  R,  if  the
+                 application had been decided within the 12 day period  from
+                 the UT dismissing the C's appeal, the  R  would  have  been
+                 able to put forward the current arguments.
+              b.  That the situation as at the  date  of  the  decision  was
+                 that the application was continuing and therefore the words
+                 'make an application' in section 3(c)(4) of  the  1971  Act
+                 are not applicable. As the C did not technically 'make' the
+                 application at the date of the decision.
+              c.  That  therefore  the  C's  section  3c  leave  expired  on
+                 11.8.13 (being after 12 days after the determination of the
+                 UT was served on 29.7.13). So from 12.8.13 the  application
+                 was being made effectively not during the period of section
+                 3c leave.
+              d.  That the R has made a mistake of fact in that there is  an
+                 appeal outstanding, as the C did not apply  for  permission
+                 to appeal to the Court of Appeal within the  12  days.  But
+                 for this mistake of fact, the R would have  considered  the
+                 application as though it was a variation of the  first  and
+                 was continuing as up to the date of the decision."
+
+14. Ground 6 (set out at para 5 of the "Additional Grounds on behalf of the
+    claimant") runs as follows:
+
+    i)   The application of 14 November 2012 was varied.  This  is  because
+        the respondent accepted that to be the case in the letter dated  20
+        September 2013. This (in turn) is because the  respondent  had  not
+        stated that the application of 14 November 2012 had been decided or
+        treated as invalid. Instead, the letter stated that the application
+        "has been retained on the HO file as they may be considered as part
+        of your client's existing appeal".
+
+    ii)  It is therefore argued that the respondent had a duty to  consider
+        the application as part of her residual discretion.
+
+15. Ground 7, advanced only at the hearing, runs as follows:
+
+    i)   Although the applicant's application for leave to remain  dated  8
+        August 2013 was served on the respondent and not the  UT  when  the
+        application was made on 8 August  2013,  it  was  included  in  the
+        applicant's bundle for the instant judicial review proceedings  and
+        therefore it was served on the UT.
+
+    ii)  Accordingly, the application of 8 August 2013 could  be  construed
+        as an application by the applicant to  the  UT  for  permission  to
+        appeal to the Court of Appeal against the dismissal of  his  appeal
+        by the UT of his appeal in IA/03700/2013.
+
+    iii) Indeed, the UT should  have  treated  it  as  an  application  for
+        permission to appeal to the Court of Appeal against  the  dismissal
+        by the UT of the applicant's previous appeal. This is because  rule
+        44 of the Tribunal Procedure (Upper Tribunal) Rules 2008  (the  "UT
+        Rules") is to the effect that there is no particular form in  which
+        an application for permission to appeal to the Court of  Appeal  is
+        to be made.
+
+     At the hearing, Ms Kansal acknowledged that, if the  application  of  8
+    August 2013 was to be construed as an  application  for  permission  to
+    appeal to the Court of Appeal, the application for permission to appeal
+    to the Court of Appeal was out of time because it was only lodged  with
+    the UT with the claim that was lodged on 23 December 2013. However, she
+    submitted that the  applicant  could  still  make  an  application  for
+    extension of time.
+
+16. Ground 8, also advanced for the first time  at  the  hearing,  runs  as
+    follows:
+
+    i)   The judgment in Chowdhury is authority for  the  proposition  that
+        "anything which comes in" after  a  decision  has  been  made  will
+        amount to a variation of the grounds of appeal to  the  FtT/UT  (as
+        the case may be).
+
+    ii)  Alternatively, the respondent accepted  in  the  letter  dated  20
+        September 2013 that the applicant could apply to the  UT  to  amend
+        his grounds of appeal in his appeal (IA/03700/2013). The respondent
+        accepted in the letter dated 20 September 2013 that  the  applicant
+        had an outstanding appeal as at 20  September  2013.   Accordingly,
+        the respondent accepted that the applicant could apply  to  the  UT
+        for variation of his grounds of appeal,  notwithstanding  that  the
+        application of 8 August 2013 post-dated  the  promulgation  of  the
+        UT's determination.
+
+    iii) Accordingly, the applicant's s.3C leave continued until the UT has
+        decided  his  application  to  vary  his  grounds  of   appeal   in
+        IA/03700/2013.
+
+    Ms Kansal did not address me on the question whether the UT was functus
+    officio once it had dismissed the appellant's appeal in IA/03700/2013.
+
+17. I reject Ms Kansal's submission that all of her  grounds  were  in  her
+    skeleton argument. Grounds 4 to 8 were not in the original grounds that
+    were considered by the UT when permission was granted. Of  these,  only
+    ground  4  was  raised  in  the  skeleton  argument.  Accordingly,   an
+    application for permission to amend the grounds to include grounds 4 to
+    8 should have been made. The only application for permission  to  amend
+    the grounds concerned grounds 5 and 6.
+
+18. In relation to ground 5, I asked Ms Kansal at the commencement  of  the
+    hearing whether she was aware that, in Secretary of State for the  Home
+    Department v Raju & others [2013] EWCA Civ  754  (a  copy  of  which  I
+    provided to her), the Court of Appeal overturned the UT's determination
+    in Khatel and others. Although she confirmed that she did not rely upon
+    ground 5 (having apologised for not mentioning Raju in the  "Additional
+    Grounds on behalf of the claimant"), she  nevertheless  submitted  that
+    para 23 of the judgment in Raju left open the  possibility  of  arguing
+    that an application is continuing albeit not on the basis of  the  UT's
+    determination in Khatel.
+
+19. As to the relief sought, section 6 of the claim form and para 32 of the
+    original grounds refer to the following:
+
+         i)   an order quashing the decision.
+
+         ii)  a mandatory order requiring the respondent to  reconsider  the
+             decision in the light of all the circumstances.
+
+         iii) a declaration that the respondent acted unfairly.
+
+         iv)  costs.
+
+         v)   further or other relief.
+
+20. However, Ms Kansal informed me at the hearing that the applicant  seeks
+    variation of the application made to the respondent on 14 November 2012
+    or variation of the grounds of  appeal  to  the  UT  in  appeal  number
+    IA/03700/2013.
+
+     Assessment
+
+21. The leading  authority  on  the  proper  construction  of  s.3C  is  JH
+    (Zimbabwe) v Secretary of State for the Home Department [2009] EWCA Civ
+    78. The version of s.3C  considered  by  the  Court  of  Appeal  in  JH
+    (Zimbabwe) was the version in force from 2 April 2003 until  30  August
+    2006. This version was the same as the version set out  at  my  para  5
+    above, except as follows:
+
+    i)   s.3C(2)(b) and (c) in force from 2 April 2003 until 30 August 2006
+        did not have the words shown in bold in  my  para  5  above.  These
+        words were added by s.11(2) and (3) of the Immigration, Asylum  and
+        Nationality Act 2006 with effect from 31 August  2006,  subject  to
+        certain transitional provisions specified in IS 2006/2226 art. 4(3)
+        which are not relevant in this claim; and
+
+    ii)  s.3C(6) in force from 2 April 2003 until 30 August  2006  read  as
+        follows:
+
+
+             "(6) In this section  a  reference  to  an  application  being
+                 decided is a reference to  notice  of  the  decision  being
+                 given in accordance with regulations under section  105  of
+                 that Act (notice of immigration decision)."
+
+22. These differences are not material in  this  claim  for  the  following
+    reasons: In relation to s.3C(2)(b) and  (c),  the  respondent  has  not
+    suggested that the applicant left the United Kingdom  at  any  material
+    time. In relation to s.3C(6),  Ms  Kansal  did  not  suggest  that  the
+    applicant's application of 14 November 2012 had not been decided within
+    the meaning of s.3C(6). Ground 5  which  argued  that  the  applicant's
+    application  was  a  continuing  application  relied  upon   the   UT's
+    determination in Khatel. Ms Kansal did not suggest that the application
+    had not been "decided" pursuant to the regulations made under s.3C(6).
+
+23. Accordingly, the judgment in JH (Zimbabwe) is directly applicable.  The
+    leading judgement in JH (Zimbabwe) was given by Richards LJ who said as
+    follows, at paras 35 and 36:
+
+
+        "35. The key  to  the  matter  is  an  understanding  of  how  s.3C
+             operates. I have set the section out  at  para  10  above.  The
+             section  applies,  by  subs.(1),  where  an   application   for
+             variation of an  existing  leave  is  made  before  that  leave
+             expires (and provided that there has been no decision  on  that
+             application before the leave expires). In that event there  is,
+             by subs.(2), a statutory extension of the original leave  until
+             (a) the application is decided or withdrawn,  or  (b),  if  the
+             application has been decided and there is  a  right  of  appeal
+             against that decision, the time for appealing has  expired,  or
+             (c), if an appeal has been brought, that appeal is  pending:  I
+             paraphrase the statutory language, but that seems to me  to  be
+             the effect of it. During the period of the statutory  extension
+             of the original leave, by subs.(4) no further  application  for
+             variation of that leave can be made. Thus, there  can  be  only
+             one application for variation of the original leave, and  there
+             can be only one decision (and, where applicable,  one  appeal).
+             The possibility of a series of further applications leading  to
+             an indefinite extension of  the  original  leave  is  excluded.
+             However, by subs.(5) it is possible to vary the  one  permitted
+             application. If it is varied, any  decision  (and  any  further
+             appeal) will relate to the application as varied.  But  once  a
+             decision has been made, no  variation  to  the  application  is
+             possible since there is nothing left to vary.
+
+
+          1. Once the operation of s.3C is understood, the  concern  of  the
+             tribunal in  DA Ghana [[2007] UKAIT 00043] about nullifying the
+             prohibition in subs.(4) if a second application is treated as a
+             variation of the first can be seen to lose its force. A  second
+             application can be treated as a variation of the first only  up
+             to the point when the Secretary of States makes a  decision  on
+             the application. There is  nothing  surprising  about  subs.(4)
+             having only a limited impact during that period, given that  it
+             is qualified by subs.(5) which expressly permits a variation of
+             the  first  application.  Thereafter,  however,   subs.(4)   is
+             effective  to  prevent  any  further  application  which  might
+             otherwise have been made right up to the time when an appeal in
+             relation to the first was no longer pending, and to  prevent  a
+             succession of such applications. Far from being  nullified,  it
+             retains an important function in avoiding abuse of the system."
+
+         (my emphasis)
+
+24. I consider that the reasoning in paras 35 and 36 is plain. It  requires
+    no  explanation.  At  paras  36-40,  Richards  LJ  said  that  a  later
+    application is capable of being treated as a  variation  of  the  first
+    application even if it is for a different purpose and  on  a  different
+    form. It is clear from paras 43-46, that the question whether a  second
+    "application" is an application as such or a variation  of  an  earlier
+    application is a question of  fact,  notwithstanding  that  the  second
+    "application" is not expressly put forward as a variation of the first.
+    What is plain beyond any doubt is that once  the Secretary of State has
+    decided the original application,  it  cannot  be  varied  by  a  later
+    application because there is nothing left to vary once a  decision  has
+    been made.
+
+25. A purported "application" for leave or variation of leave, made after a
+    decision has been made on an earlier application, may operate (if it is
+    made during the period of an appeal) as an amendment of the grounds  of
+    appeal, if that is permitted by the FtT or the UT (as the case may be).
+    In AS (Afghanistan) and NV (Sri Lanka)  v Secretary of  State  for  the
+    Home Department [2009] EWCA Civ 1076, there were  two  claimants.  Both
+    had made applications for  leave  after  the  Secretary  of  State  had
+    refused their original applications and they had appealed. It is  clear
+    from paras 49  and  50  of  the  judgment  that  the  Court  of  Appeal
+    considered that the claimants were not permitted to  make  applications
+    for variation of their leave because of s.3C(4) of the 1971 Act and the
+    judgment in JH (Zimbabwe). The Court of Appeal upheld the decisions  of
+    the  Asylum  and  Immigration  Tribunal   refusing   to   accept   such
+    applications as amendments of the grounds of appeal in the two appeals.
+    The reasoning  of the Court of Appeal, which is explained at  paras  49
+    and 50, is not relevant in the instant case.
+
+26. JH (Zimbabwe) was followed by the UT in Qureshi (Tier  4  -  effect  of
+    variation - App C) Pakistan [2011] UKUT 00412 (IAC). The  UT  made  the
+    point that there is no restriction on the number of occasions on  which
+    applications for variation of the  original  application  can  be  made
+    provided notice  of  variation  is  given  prior  to  the  respondent's
+    decision  as  thereafter  there  would  be  no   application   pending.
+    Accordingly, Ms Kansal is incorrect to say that there can only  be  one
+    variation of the original application. The only restriction is that the
+    application to vary the original application  must  be  made  before  a
+    decision has been made.
+
+27. Ms Kansal said that she was aware of JH (Zimbabwe). She submitted  that
+    JH (Zimbabwe) was  considered  in  Chowdhury  and  that  Chowdhury  was
+    authority for the propositions relied upon in relation to grounds 4 and
+    8.
+
+28. In my view, Ms Kansal has completely misunderstood Chowdhury. Whilst  I
+    agree that Chowdhury does apply JH (Zimbabwe), it is not authority  for
+    any of the propositions she advanced,  for  the  reasons  given  below.
+    Second, Chowdhury was a permission decision.  In  addition,  it  was  a
+    decision of the  Administrative  Court  whereas  JH  (Zimbabwe)  was  a
+    decision of the Court of Appeal. Thus, even if Ms Kansal is correct  in
+    her understanding of Chowdhury (which is not the case), I am  bound  by
+    JH (Zimbabwe).
+
+29. In Chowdhury, the  claimant  had  applied  in  June  2011,  during  the
+    currency of his leave to remain as a  Tier  4  (General)  student,  for
+    leave as a Tier  1  (Post-Study  Work)  Migrant.  His  application  was
+    refused on 15 July 2011. He appealed to the FtT. The FtT dismissed  his
+    appeal on 9 September 2011. He was granted permission to appeal to  the
+    UT. His appeal was heard before the UT  on  3  February  2012.  The  UT
+    reserved its decision. On 28 March 2012, the claimant obtained  his  BA
+    graduate qualification. On 5  April  2012,  the  claimant  applied  for
+    leave, relying upon his BA graduate qualification. On 6 April 2012, the
+    Tier 1 (Post-Study Work) category was withdrawn. On 24 May 2012, the UT
+    dismissed the claimant's appeal. On 29 September 2012, the Secretary of
+    State decided that the claimant's application of 5 April 2012 was  void
+    as it was prohibited by s.3C(4) of the  1971  Act  because  it  was  an
+    application for variation of an existing leave to remain made whilst an
+    appeal was pending.
+
+30. Before the Deputy Judge, the claimant argued that the application of  5
+    April 2012 was not a fresh application to vary his leave to remain  but
+    was instead a variation of the original application dated 21 June 2011.
+    He contended that the effect of his service of that  variation  on  the
+    Secretary of State was "to return the application" in its  varied  form
+    to be determined by the Secretary of State with the  decisions  of  the
+    Secretary of State, the FtT and the UT having no continuing effect  and
+    that his varied application was therefore yet  to  be  decided  by  the
+    Secretary of State (para 10 of Chowdhury).
+
+31. At paras 23-24, the Deputy Judge decided  that  the  application  of  5
+    April 2012 was not a fresh application  for  leave  to  remain  but  an
+    attempt to vary the application of June 2011.  The  Deputy  Judge  then
+    went on to say as follows, at paras 25-28:
+
+
+        "(4) Should the document have been submitted to the SSHD or to  the
+             Upper Tribunal?
+
+
+        25   Section 3C(5) provides that section 3C(4) "does not prevent an
+             application for variation of the application for  variation  of
+             leave". Thus,  what  is  permitted  does  not  have  to  be  an
+             application  to  vary,  a  unilateral  act   of   varying   the
+             application is permitted. However, there is  no  definition  of
+             what constitutes an effective variation of the application.  In
+             particular, once the SSHD has made a decision, can the original
+             application be varied whilst an appeal against that decision is
+             pending and, if  it  can,  should  the  variation  document  be
+             notified to the appeal tribunal that is to hear the  appeal  or
+             to the SSHD that has already disposed of it?
+
+
+        26   It would be surprising if the application could not be  varied
+             following a decision of the SSHD  even  though  an  applicant's
+             leave to remain continues to be extended since, if that was the
+             case, the applicant would have  lost  the  right  to  vary  the
+             application pending the hearing of the appeal but would  regain
+             it if the appeal  was  successful.  Moreover,  the  wording  of
+             subsection  (5)  that  states  that  the   variation   of   the
+             application is not prevented by the extension  of  leave  under
+             subsection (2) suggests that whenever leave is  extended  under
+             subsection (2) , a variation of  the  original  application  is
+             permitted. However, if that variation takes place in the period
+             after an SSHD decision has been issued but  before  the  appeal
+             against that decision has been determined,  the  terms  of  the
+             variation may only be considered and applied by the FtT, or  in
+             a second appeal  by  the  UT,  if  such  is  permitted  by  the
+             appropriate  tribunal,  if  necessary  following  a  successful
+             application  for  permission  to  amend  or  to  rely  on   the
+             variation.
+
+
+        27   However, that conclusion does not identify what constitutes  a
+             variation. Supposing the variation had been written  out  in  a
+             document which was clearly one prepared by  the  applicant  but
+             from oversight the document  was  never  issued  or  posted  to
+             anyone and remained in a drawer in the applicant's desk and  no
+             mention was made of the variation until  it  was  too  late  to
+             affect the decision. It would be strange if,  nonetheless,  the
+             original  application  had  been  varied  by  that  unpublished
+             document. In this case, the SSHD had,  in  issuing  a  decision
+             rejecting and dismissing Mr Chowdhury's application,  concluded
+             its  involvement  in  that  application  and  had  no   further
+             entitlement to change, alter or withdraw  the  decision  albeit
+             that it could consider a further application which  applied  to
+             vary the decision just taken. It follows that, for the document
+             to be treated as a variation of the original  application,  its
+             contents must be made  known  to  the  decision-maker  directly
+             affected by the variation. Mr Chowdhury informed  the  UKBA  in
+             his  letter  dated  8  October  2012  that  "I  made  a   fresh
+             application to the UKBA on 5 April 2012 and since  that  day  I
+             received nothing in regards to  the  application."  That  shows
+             that he intended the document to be acted upon by the UKBA  and
+             that its contents were not a  variation  for  the  purposes  of
+             section 3C since the only body then able to give effect to  the
+             variation, namely the Upper Tribunal, neither saw the  document
+             nor was intended to see the document.
+
+
+        28   I conclude that the document dated 5 April 2012 did  not  vary
+             the original application."
+
+32. Ms Kansal relied upon the final sentence of para 25 and  the  whole  of
+    para 26. She submitted that the final sentence of para  26  shows  that
+    the UT in Chowdhury had power to consider the claimant's application of
+    5 April 2012 as a variation of the original application of June 2011.
+
+33. In my view, this submission is misconceived.  JH  (Zimbabwe)  makes  it
+    clear that, once a decision has been made on an application, it  cannot
+    be  varied  and  it  is  therefore  not  possible  for  any  subsequent
+    application to amount to  a  variation  of  the  application  that  has
+    already been decided.  The  Deputy Judge in Chowdhury was aware of  the
+    judgment in JH (Zimbabwe). He referred to it at para 20 and quoted from
+    it at para 21. Ms Kansal relied, in particular, upon the final sentence
+    of para 25 taken together with the first  two  sentences  of  para  26.
+    However, it is clear from the final sentence of para 26 that the Deputy
+    Judge considered that any purported variation made after a decision has
+    been made by the Secretary of State but  before  the  appeal  has  been
+    determined may only be considered and applied by the FtT or the UT,  as
+    the case may be; in other words, as  a  variation  of  the  grounds  of
+    appeal. This is reinforced by the final sentence of para 27 from  which
+    it is clear that the Deputy Judge considered that the  only  body  that
+    could give effect to such a variation  was  the  UT,  as  the  FtT  had
+    determined the appeal. Accordingly, Chowdhury  is  entirely  consistent
+    with JH (Zimbabwe), although I should again stress that, even if it had
+    not been consistent, I would have been bound to apply JH (Zimbabwe).  I
+    reject the submission that Chowdhury is authority for  the  proposition
+    that s.3C permits one variation of an application for leave  to  remain
+    even if the (purported  or  attempted)  variation  is  made  after  the
+    Secretary of State has decided the original application. If  Ms  Kansal
+    is right, she did not explain why the Deputy Judge concluded,  at  para
+    28, that the document dated 5 April 2012  did  not  vary  the  original
+    application.
+
+34. This is a complete answer to ground 4.
+
+35. It is also a complete  answer  to  ground  5,  which  relies  upon  the
+    determination of the UT in Khatel concerning  continuing  applications.
+    Furthermore, and as I have already said, the Court of Appeal overturned
+    Khatel in Raju. In addition, I would point out  that  even  the  UT  in
+    Khatel did  not  suggest  that  an  application  can  be  a  continuing
+    application  after  the  decision  on  it  has  been  made,  which   is
+    effectively what Ms Kansal sought to suggest in relying upon Khatel. It
+    is impossible to see how that  proposition  could  properly  have  been
+    advanced, even leaving aside the judgment in  Raju.  Finally,  I  would
+    point out that, in my view, paras 4.a-b of the "Additional  Grounds  on
+    behalf  of  the  claimant"   quoted   at   my   para   13   above   are
+    incomprehensible.
+
+36. Ground 1 asserts that s.104 of the 2002 Act only applies to s.104(1)(b)
+    and therefore does not apply to s.3C leave. This ground is based  on  a
+    selective reading of the relevant legislation. Section 104 is  relevant
+    in the context of s.3C because it is referred to in  s.3C(2)(c),  which
+    provides (inter alia) that leave is extended by virtue of  s.3C  during
+    any period when an appeal is pending within the meaning of s.104 of the
+    2002 Act.  S.104(1) then provides that an appeal is pending during  the
+    period beginning when it is instituted and ending when it  is  "finally
+    determined, withdrawn or abandoned (or when  it  lapses  under  section
+    99)". In other words, s.104(1) explains the beginning of the period  as
+    well as the end of the period. It is therefore not open to Ms Kansal to
+    simply disregard what s.104 has to say about how the end of the  period
+    is to be ascertained and substitute the date  of  promulgation  of  the
+    UT's determination as marking the end of the period of the  applicant's
+    s.3C leave.
+
+37. Accordingly, and applying s.3C(2) of the 1971 Act and S.104(1) and (2),
+    the applicant's appeal was finally determined by the UT  on  14  August
+    2013 because this was the last day on  which  he  could  have  made  an
+    application for permission to appeal to the Court of Appeal.  His  s.3C
+    leave therefore ended on 14 August 2013.
+
+38. Leaving grounds 2 and 3 aside for the moment, I shall  deal  next  with
+    ground 6, which is hopeless. I  have  quoted  the  respondent's  letter
+    dated 20 September 2013 at para 3 above. There is simply nothing in the
+    letter which suggests that the respondent accepted that the application
+    of 8 August 2013 was  a  valid  variation  of  the  application  of  14
+    November 2012. The  phrase:  "your  client's  documentation  have  been
+    retained on the Home office file as they may be considered as  part  of
+    your client's existing appeal" cannot, on any reasonable reading of the
+    respondent's letter, be seen as an acceptance by  the  respondent  that
+    the application  of  8  August  2013  was  a  valid  variation  of  the
+    application of 14 November 2012.
+
+39. Ground 7 is likewise hopeless, for the following reasons:
+
+    i)   In effect, Ms Kansal contends that the mere  act  of  including  a
+        copy of the application of 8 August 2013 in the applicant's  bundle
+        in support of his claim for judicial review of a different decision
+        (i.e. the decision of 20 September 2013) is sufficient to  fix  the
+        UT with notice of an application for permission to  appeal  to  the
+        Court of Appeal against its determination  in  a  statutory  appeal
+        which concerned an entirely different decision. The application  of
+        8 August 2013 was an application to  the  Secretary  of  State  for
+        leave to remain. It was not  even  termed  as  an  application  for
+        permission to appeal to the Court of Appeal. The application  of  8
+        August 2013 did not even concern a decision; yet Ms Kansal suggests
+        that the UT should have regarded it as a challenge to its  decision
+        in a statutory appeal which concerned a different  decision.  There
+        is simply no reasonable basis for these submissions,  even  leaving
+        aside the procedural and legislative hurdles in the way,  which  Ms
+        Kansal did not engage with and to which I shall now turn.
+
+    ii)  Ground 7 ignores rule 44(6) of the UT  Rules  which  provides,  in
+        effect, that any application for permission to appeal to the  Court
+        of Appeal which  is  made  late  must  include  a  request  for  an
+        extension of time and give the reason why the application  was  not
+        made in time. It also ignores rule 44(7) which provides, in effect,
+        that an application for permission to appeal to the Court of Appeal
+        must identity the decision of the  UT  to  which  it  relates,  the
+        alleged error or errors of law in the decision and state the result
+        that the applicant is seeking. The  applicant's  application  of  8
+        August  2013  did  not  comply  with  any   of   these   procedural
+        requirements. In particular, it was not explained (and had not been
+        explained by the end of the hearing before me)  precisely  how  the
+        application of 8 August 2013 arguably disclosed any point of law in
+        the UT's determination that had already been promulgated and  which
+        concerned a different decision made by the Secretary of State.
+
+    iii) Finally, ground 7  completely  ignores  the  words  "ignoring  any
+        possibility of an appeal out of time with permission"  in  brackets
+        in s.3C(2)(b).
+
+40. Ground 8 is also hopeless, for the following reasons:
+
+    i)   Chowdhury is not authority  for  the  proposition  that  "anything
+        which comes in" after a decision has been made  will  amount  to  a
+        variation of the grounds of appeal to the FtT  /  UT.  Ms  Kansal's
+        suggestion that it is authority  for  this  proposition  is  simply
+        misconceived and based on a  misunderstanding.
+
+    ii)  The submission that the respondent's  letter  dated  20  September
+        2013 accepted that the applicant could apply to the UT to amend his
+        grounds of appeal  in  his  appeal  (IA/03700/2013)  and  that  the
+        applicant had an outstanding appeal as at 20 September  2013  fails
+        to appreciate that the issue of whether there  was  an  outstanding
+        appeal before the UT did depend on anything the respondent said  in
+        her letter of 20 September 2013. Further, it  fails  to  appreciate
+        the fact that the UT is independent of the parties,  including  the
+        respondent.
+
+    iii) The submission fails to appreciate the fact that once the  UT  had
+        dismissed the  applicant's  appeal  in  IA/03700/2013  against  the
+        decision of 14 January 2013, it was  functus  officio.  It  had  no
+        jurisdiction to even entertain an application for variation of  the
+        grounds of appeal.
+
+41. In relation to ground 2, Ms Kansal accepted that, if I was against  her
+    on the interpretation of s.3C, then she could not succeed in  impugning
+    the lawfulness of s.3C on the ground of fairness, which  is  raised  as
+    part of ground 2 (see para 10.iv) above). In any event, and as  I  said
+    at the hearing, any such challenge should have been brought elsewhere.
+
+42. Ground 2 also contends that the phrase "may bring a further appeal on a
+    point of law" in s.103B(1) of the 2002 Act confers a discretion on  the
+    Secretary of State whether to treat  an  application  for  leave  as  a
+    variation of an earlier application  based  on  her  assessment  as  to
+    whether any application for  permission  to  appeal  to  the  Court  of
+    Appeal, if brought by the applicant concerned, could  meet  the  second
+    appeal criteria. However, as I said at the hearing and as stated at  my
+    para 7 above, s.103 was repealed with  effect  from  4  April  2005  to
+    coincide with the abolition of the Asylum and Immigration Tribunal.  Ms
+    Kansal did not address me on the relevant provision in  the  Tribunals,
+    Courts and Enforcement Act 2007 (the "TCEA 2007") that replaced s.103.
+
+43. The remainder of ground 2 is devoid of merit, as  Ms  Kansal  seeks  to
+    interpret the phrase "could be made" in  a  way  which  would  make  it
+    impossible to apply the section in practice and which, in any event, is
+    illogical. I simply cannot see how  the  phrase  "could  be  made"  can
+    reasonably be construed as conferring a discretion on the respondent to
+    consider the merits of an application for permission to appeal  to  the
+    Court of Appeal that an individual could make but which he/she might or
+    might not make, the strength of which may well vary  depending  on  who
+    he/she instructs.
+
+44. Ground 3, which relies upon the applicant's rights under Article 8,  is
+    simply untenable, having regard to para  57  of  the  judgment  of  the
+    Supreme Court in Patel and others v Secretary of  State  for  the  Home
+    Department [2013] UKSC 72.
+
+45. I therefore refuse permission to amend the grounds to include grounds 5
+    and 6. No application was made for permission to amend the  grounds  in
+    order to include grounds 4, 7 and 8 but if such an application had been
+    made, I would have refused it, for the reasons given above.
+
+46. Applying s.3C(5) of the 1971 Act as interpreted by the Court of  Appeal
+    in JH (Zimbabwe), the applicant's application of 8  August  2013  could
+    not amount to a variation of his application for leave to remain  dated
+    14 November 2012 because  the  application  of  14  November  2012  had
+    already been decided. Applying s.3C(2)(b) of the 1971 Act together with
+    s.104(1) and s.104(2)(a) of the 2002 Act, the  applicant's  s.3C  leave
+    ended on 14 August 2013 because this was the  last  date  on  which  he
+    could have made an in-time application for permission to appeal to  the
+    Court of Appeal. This means that the applicant's application for  leave
+    to remain dated 8 August 2013 was made at  a  time  when  he  had  s.3C
+    leave. Accordingly, the respondent's letter  dated  20  September  2013
+    rejecting the applicant's application of 8 August 2013 as  one  he  was
+    precluded from making under s.3C was not unlawful.
+
+47. For all of the reasons given above, the applicant's  challenge  to  the
+    decision of the respondent of 20 September 2013 on the basis of grounds
+    1, 2 and 3 is dismissed.
+
+     Decision
+
+     The claim is dismissed.
+
+
+[pic]
+
+
+Signed                                  Date: 2 April 2015
+Upper Tribunal Judge Gill
+
+-----------------------
+[1] This must be a reference to s.104(2)(a), since there is no s.104(2)(d)
+and the phrase "could be made" is only to be found in s.104(2)(a).
+[2] This is a reference to the UT's determination in Khatel and others
+

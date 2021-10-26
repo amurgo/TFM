@@ -1,0 +1,1981 @@
+
+   [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+           Shahzad (Art 8: legitimate aim) [2014] UKUT 00085 (IAC)
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                          |Determination Promulgated    |
+|On 6 January 2014                             |                             |
+|                                              |.............................|
+|                                              |..........                   |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE STOREY
+                          UPPER TRIBUNAL JUDGE PITT
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                                ATIF SHAHZAD
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr P Deller, Senior Home Office Presenting Officer
+
+For the Respondent:    Mr S Kumar, Legal Representative, Capital Solicitors
+
+
+     i) Failure on the part of the Secretary of State to  identify  in  her
+        decision any legitimate aim under Article 8(2) of the ECHR does not
+        prevent a court or tribunal from seeking to do so on the  basis  of
+        the materials before it.
+    ii) "Maintenance of effective immigration control" whilst not as such a
+        legitimate aim under Article 8(2)  of  the  ECHR  can  normally  be
+        assumed to be either an aspect of "prevention of disorder or crime"
+        or an aspect of "economic well-being of the country" or both.
+
+   iii) "[P]revention of disorder or crime" is normally  a  legitimate  aim
+        both in expulsion cases where there has been  criminal  conduct  on
+        the part of the claimant and in expulsion cases  where  there  have
+        only been breaches of immigration law.
+
+    iv) MF (Nigeria) [2013] EWCA Civ 1192 held  that  the  new  immigration
+        rules regarding deportation of a foreign criminal  are  a  complete
+        code. This was because  of  the  express  requirement  in  them  at
+        paragraph 398 to have regard to exceptional circumstances and other
+        factors.
+
+     v)  It follows from this that any  other  rule  which  has  a  similar
+        provision will also constitute a complete code;
+
+    vi) Where an area of the rules does not have such an express mechanism,
+        the approach in R  (Nagre)  v  Secretary  of  State  for  the  Home
+        Department [2013] EWHC 720 (Admin) ([29]-[31]  in  particular)  and
+        Gulshan (Article 8 - new Rules - correct approach) [2013] UKUT  640
+        (IAC) should be followed: i.e. after applying the  requirements  of
+        the rules, only if there may be arguably good grounds for  granting
+        leave to remain outside them is it necessary for Article 8 purposes
+        to go on to consider whether there are compelling circumstances not
+        sufficiently recognised under them.
+
+
+
+                          DETERMINATION AND REASONS
+
+
+1. In Article 8 immigration cases is  "prevention  of  disorder  and  crime"
+only a "legitimate aim" under Article 8(2) where there is  criminal  conduct
+involved?  Is it open to a  judge in an immigration case in which  there  is
+no  criminal  conduct  involved  to  consider  that  the  only  or   primary
+legitimate aim being pursued by  the  SSHD  is  "economic  well-being"?   In
+either type of case is it incumbent  on  the  Secretary  of  State  to  have
+identified in her decision what legitimate aim she considers  that  decision
+to  pursue?  Given  that  there  exists  nearly  60  years   of   Strasbourg
+jurisprudence on Article 8, one would have  thought  these  questions  would
+have received definitive answers long ago, but alas not. That anyway is  how
+we see things and is why as  well  we  seek  in  this  decision  to  provide
+clarification. As we shall see the  particular  circumstances  of  the  case
+have led us to consider each of these questions and several related ones.
+
+2. This is an appeal brought by the appellant (hereafter  the  Secretary  of
+State for the Home Department abbreviated as SSHD) against  a  determination
+of First-tier Tribunal Judge Hindson who on 28  August  2013  dismissed  the
+respondent's (hereafter claimant's) appeal under the Immigration  Rules  but
+allowed it on Article 8 grounds.
+
+The claimant's antecedent immigration history
+
+3. The claimant is a citizen of Pakistan who on 6 May 2008 had been  granted
+leave to remain as a student until 1 January 2010. Prior to  expiry  of  his
+leave - on 22 September 2009 to be exact - he applied for further  leave  to
+remain in the same capacity, but this was refused. He appealed and his  case
+came before First-tier Tribunal  Judge  Eban.   On  14  September  2009  she
+allowed his appeal under the Immigration Rules. Noting that the only  reason
+the SSHD gave for refusing his application was the fact that his  uncle  the
+sponsor was not a parent,  the  judge  decided  to  allow  his  appeal.  Her
+reasoning was that at the relevant time the  requirement  for  funds  to  be
+provided by a  parent  or  legal  guardian  was  only  contained  in  Policy
+Guidance, not in the Immigration Rules.  Applying the guidance  set  out  in
+Pankina [2010] EWCA Civ 719 the judge concluded that the  claimant's  appeal
+should be allowed because his sponsoring uncle had shown he was (i) in  loco
+parentis; and (ii) both willing and able to provide the requisite funds  for
+maintenance.
+
+4. In response, on 15 December 2010, the SSHD granted him further  leave  to
+remain until 29 February 2012. Before the end of 2010  he  had  obtained  an
+MBA from the College of Technology London.  On 28 February 2012, he  applied
+for further leave to do a  Diploma  in  Information  Technology  at  Lincoln
+College, London (London International College of Management).   On  19  July
+2012 the SSHD wrote to him explaining that as she had  made  a  decision  to
+revoke the licence of the London International College of Management and  in
+line with her own Rules and guidance, she would give him 60 days to  find  a
+new Tier 4 educational sponsor.  On 14 September 2012 the  claimant  made  a
+renewed application for leave to  remain  as  a  Tier  4  (General)  Student
+Migrant under the Points Based System (PBS) to pursue a Level 7  Diploma  in
+Tourism and Hospitality Management. When  this  subsequent  application  was
+refused on 4 March 2013, he appealed to Judge  Hindson  whose  determination
+is the subject of this appeal brought by the SSHD.
+
+5. In the grounds of appeal before Judge Hindson, it  was  argued  first  of
+all that the claimant's current position was on all fours  with  that  which
+existed at the time of the previous appeal and there was  no  reason  to  go
+behind the findings of Judge Eban;  secondly,  that  the  SSHD  should  have
+exercised "evidential flexibility" when faced  with  the  evidence  produced
+showing financial support from the uncle and should have  requested  further
+evidence from the claimant.
+
+6. Judge Hindson swiftly disposed of the  "evidential  flexibility"  ground,
+correctly pointing out that there was no evidence that the uncle had  become
+the claimant's legal guardian and so "there would  therefore  have  been  no
+point  in  the  decision-maker  seeking  further  evidence,  since  no  such
+evidence exists".  Neither party takes issue with this finding.
+
+7. As regards the second ground, Judge  Hindson  was  equally  concise.   He
+pointed out that, contrary  to  what  had  been  argued  on  behalf  of  the
+claimant, his position was not on all fours with that existing before  Judge
+Eban. Judge Hindson wrote:
+
+        "The requirement that private financial support be from a parent  or
+    legal guardian is now enshrined within the Rules, not in guidance.   It
+    is therefore a mandatory requirement.  The claimant accepts that  there
+    is no such legal relationship between him and his uncle  and  therefore
+    the appeal must be dismissed under the Rules".
+
+ Again, neither party takes issue with this finding. The  new  provision  to
+which Judge Hindson refers had come into force on 4 July 2011.
+
+
+
+8. The judge decided nonetheless  to  allow  the  appeal  on  the  basis  of
+Article 8 in the following terms:-
+
+    "22. The appellant has been in the UK as a student since 2008 and there
+         is no suggestion that he has ever been in breach of requirements of
+         the student visa.  He has paid the fees for his current  course  in
+         full and they are not refundable.  I accept that  adequate  funding
+         is available from his uncle.  I accept  that  the  appellant  could
+         have arranged  the  transfer  of  those  funds  into  his  mother's
+         account, or to his own account, prior to making  this  application,
+         in which case he would have had no difficulty.  He did  not  do  so
+         because he did not believe it was necessary.  He was advised by his
+         college that this was not necessary.  He  previously  succeeded  on
+         appeal on the same issue; I have no doubt that he  was  unaware  of
+         the change in the rules.  The consequence  of  the  response  [sic]
+         decision is that the appellant would have to return to Pakistan and
+         make a fresh application for entry clearance as  a  student.   This
+         would have financial implications  for  him  and  he  would  almost
+         certainly miss one academic year of study.
+
+
+    23.  I find that the consequence of the response [sic] decision  is  of
+         sufficient gravity as to  potentially  engage  Article  8  (private
+         life).  I accept that the interference is in  accordance  with  the
+         law and that it has the legitimate aim  of  securing  the  economic
+         well-being of the UK by sensible immigration  control.   I  am  not
+         satisfied that the interference is proportionate to  that  aim.   I
+         have already described the consequences to the appellant, and  they
+         are substantial.  There  is  no  suggestion  that  the  appellant's
+         presence in the UK will have an adverse  effect  on  the  country's
+         economic well-being.  Indeed he is bringing substantial funds  into
+         the country to pay his course fees and to meet  the  costs  of  his
+         maintenance and accommodation."
+
+
+The SSHD's Grounds of Appeal
+
+9. By way of challenge two grounds were raised by the SSHD.  In ground 1  it
+is averred that the judge  failed to have regard to  the  immigration  rules
+in making his Article 8 assessment. In ground 2 it is argued that the  judge
+had in effect applied a 'Near-Miss' principle contrary to what  was  decided
+by the Court of Appeal in Miah [2012] EWCA Civ 261, in which Burnton  LJ  at
+[26] stated:
+
+    "In my judgment, there is no  Near-Miss  principle  applicable  to  the
+    Immigration Rules. The Secretary of State, and on appeal the  Tribunal,
+    must assess the strength of an Article 8 claim, but the requirements of
+    immigration control is not weakened by  the  degree  of  non-compliance
+    with the Immigration Rules."
+
+
+10. The SSHD sought additional support for ground 2 from Tribunal  case  law
+dealing with claims for private life based  on  studies,  in  particular  MM
+(Zimbabwe) [2009] UKAIT 00037 which highlighted the point  that  "a  student
+here on a temporary basis has no expectation of a right to remain  in  order
+to further these ties and relationships if the requirements of  the  points-
+based system are not met".  It was submitted  that  the  claimant's  private
+life in the UK was neither lengthy nor significant  and  that  he  had  been
+fully aware upon arrival that his stay was on a limited basis and that  upon
+completion of his studies he  would  be  required  to  return  to  Pakistan.
+There were no exceptional circumstances in the way  of  his  continuing  his
+private life abroad.  "It is respectfully submitted", it was stated  by  the
+author of the SSHD's grounds,  "that  it  is  proportionate  to  remove  the
+appellant to maintain an effective immigration control".
+
+11. Before turning to summarise oral submissions  we  should  note  at  this
+stage that their effect was to advance a  third  ground  (based,  Mr  Deller
+said, on the grant of permission by the Upper Tribunal). Ground  3  combined
+two contentions. One was that the judge had erred in  considering  that  the
+public interest of the state in the  maintenance  of  effective  immigration
+control was only to be considered by reference  to  whether  the  claimant's
+continued stay in the UK had an adverse effect on this  country's  "economic
+well-being".  Arguably there was also a  separate  legitimate  aim,  namely,
+"prevention of disorder and crime". The other contention was that the  judge
+had wrongly confined the weight  to  be  given  to  the  legitimate  aim  of
+"economic well-being" to a consideration of  the  claimant's  circumstances,
+without attaching any weight to  the  general  interest(s)  which  this  aim
+pursued.
+
+
+Oral Submissions
+
+12. As regards ground 1 (asserting in effect  that  the  judge  should  have
+considered  the  claimant's  Article  8  circumstances  solely   under   the
+immigration rules) , Mr Deller for the SSHD said that  its  central  premise
+had been upheld by the Court of Appeal  in  MF  (Nigeria)  [2013]  EWCA  Civ
+1192, although he accepted that the Court had also  made  clear  that  if  a
+judge had considered Article 8  outwith the rules that was an error of  form
+rather than substance and so  it  was  not  enough  to  vitiate  a  judicial
+decision unless the Article 8 exercise the judge had  conducted  was  flawed
+in other respects.
+
+13. As regards ground 2 (addressing the 'Near Miss' issue) Mr Deller  relied
+on what had already been canvassed in the  written  grounds.  Moving  on  to
+ground 3, Mr Deller made two main points.  First, he  took  issue  with  the
+judge reducing the test of "economic well-being" to a simple calculation  of
+the individual claimant's cost to the State in respect of the  financing  of
+his studies (which only directly helped his college).  Second, he  said  the
+judge should have recognised as "known to all" that the  current  government
+considered that the maintenance of  effective  immigration  control  was  an
+important objective and one that should be considered  as  legitimate  under
+all relevant heads of restriction  in  Article  8(2),  which  self-evidently
+included  "prevention  of  disorder  and  crime".   The  judge's   blinkered
+approach  to  the  Article  8(2)  legitimate  aim  issue   caused   him   to
+oversimplify  his  conduct  of  the  Article  8   balancing   exercise   and
+proportionality assessment.
+
+14. Observing that the only mention of Article 8 in the  claimant's  grounds
+of appeal to the First-tier Tribunal to Article 8 was by way of a  reference
+to CDS (PBS: "available": Article 8) Brazil  [2010]  UKUT  00305  (IAC),  Mr
+Deller maintained that that case did not say that a  student  could  succeed
+on Article  8  grounds  without  separately  establishing  strong  ties  and
+connections with the UK; and  the  claimant  in  this  case  had  singularly
+failed to establish such ties and connections.  In any event,  CDS  (Brazil)
+had to be read in the light of the  case  law  of  the  higher  courts,  the
+Supreme Court decision in Patel [2013] UKSC 72 in particular.   He  did  not
+intend to belittle the claimant's situation, especially as he had  succeeded
+on two occasions before a First-tier  Tribunal,  but,  in  response  to  the
+Court of Appeal judgment in Pankina (which was what  had  swayed  the  first
+FtT judge (Judge Eban)) the government had amended the immigration rules  to
+make it a requirement of the Rules themselves that financial support had  to
+come from a  parent  or  guardian  and  corresponding  changes  relating  to
+Article  8  had  made  clear  that  considerations  of  immigration  control
+reflected in the Rules could only be outweighed if there were compelling  or
+exceptional circumstances.
+
+15. In answer to questions from the bench, Mr Deller  said  that  there  was
+nothing  to  suggest  the  claimant  had  had   any   involvement   in   the
+circumstances which led to his college's licence being revoked in 2012.   In
+respect of the claimant's academic progress, the  SSHD  had  not  taken  any
+point about lack of academic progress, although it  was  a  fact  about  the
+claimant's situation that he appeared to  be  moving  sideways  rather  than
+upwards.  However, as regards whether or not the claimant could be  said  to
+have merited further leave on Article 8 grounds because he  (or  his  uncle)
+had paid significant sums to his college,  he  stated  that  payment  for  a
+course should not be equated with a right to stay.
+
+16. It was a feature of the claimant's case,  added  Mr  Deller,   that  the
+SSHD had refused him not just on sponsorship grounds but also on the  ground
+that he had failed to submit bank statements covering the  entirety  of  the
+requisite period over which he had to show  he  had  sufficient  funds.   He
+asked the Tribunal not to consider that the  SSHD's  evidential  flexibility
+policy was intended to apply to a case where documents submitted  failed  to
+cover relevant dates.  If the Upper Tribunal were persuaded by  the  reasons
+given by the SSHD in the grounds that  the  First-tier  Tribunal  judge  had
+erred in law, then  we  should  set  aside  his  decision  and  re-make  the
+decision by dismissing the claimant's appeal.
+
+17. Mr Kumar for the claimant urged  us  to  find  the  First-tier  Tribunal
+decision correct in law.  The judge was correct to find the  Rules  did  not
+apply but that he had discretion to consider  the  claimant's  circumstances
+outside the Immigration Rules.  He had done that in  a  fact-sensitive  way.
+It was his finding of fact that the claimant was unaware of changes  in  the
+Rules relating to sponsorship and the judge was entitled  to  attach  weight
+to that factor.  The claimant had made his application himself after  having
+consulted a college adviser.  It was  also  the  judge's  finding  that  the
+claimant's uncle was in loco parentis and so was a de facto  guardian.   The
+role played by his uncle also accorded  with  the  cultural  values  of  the
+Indian sub-continent.
+
+18. As regards the judge's view that the state's "economic  well-being"  was
+not adversely affected by the claimant's  continued  stay  as  a  fee-paying
+student, it was surely right to contrast his case with  that  of  a  student
+who had not paid fees.  In addition, there was ample evidence in the  public
+realm that overseas students positively contribute to the  UK  economy.   As
+regards the "public interest" more generally, in  terms  of  maintenance  of
+immigration control, the claimant had done everything  right.   He  had  met
+the requirements of the Immigration Rules in substance even if not in form.
+
+19. Properly understood, submitted Mr Kumar, the Court  of  Appeal  judgment
+in MF pointed in the claimant's  favour.  Whether  that  judgment  meant  to
+address the treatment of Article 8 within the immigration rules generally  -
+or  just  its  treatment  within  the  provisions  dealing   with   criminal
+deportation - it made clear that so long as a judge deals in substance  with
+Article 8 there is no legal error and in this case  (there  being  no  first
+stage to conduct) the judge had conducted a viable  second-stage  Article  8
+assessment.
+
+20. An important feature of the claimant's private  life  was  that  he  had
+already begun his course and would not  be  able  to  complete  it  anywhere
+else.  Pakistan had a very different system.
+
+21. In conclusion Mr Kumar invited  the  Upper  Tribunal,  if  we  were  not
+persuaded to uphold the decision  of  the  First-tier  Tribunal  Judge,  and
+decided instead to go on to re-make the decision  for  itself,  to  reach  a
+very similar conclusion, namely  that  the  refusal  decision  violated  the
+claimant's right to respect for private life.  The SSHD has not  been  asked
+to grant the  claimant  indefinite  leave  to  remain  (ILR);  just  further
+limited leave  to  remain  sufficient  for  the  claimant  to  complete  his
+studies; such a  grant  would  represent  a  proportionate  remedy  for  the
+breach.
+
+Our Assessment
+
+22. It will assist if we first address a number of wider  issues  raised  by
+the grounds and the discussion at the hearing.
+
+The MF Issue
+
+23. Both parties were careful in the way in which they sought to invoke  the
+judgment of the Court of Appeal in MF.  The difficulty both  identified  was
+that whilst in that judgment the court made clear  that  the  provisions  of
+the new immigration rules pertaining to  deportation  of  foreign  criminals
+are to be regarded as a "complete code", it did not make  clear  whether  it
+viewed that as also true of all other provisions of the  rules.   Whilst  it
+is not essential to our disposal of this appeal, it may assist  if  we  give
+our own observations on this matter. In our judgment, the  ratio  of  MF  is
+twofold: to hold that in assessing an Article 8 claim  it  is  necessary  to
+carry out a two stage process; and to hold that in relation  to  deportation
+of foreign criminals the new rules are a complete code.
+
+24. It will assist if we first of all explain why we have concluded that  MF
+is not authority for the proposition that the new rules  in  their  entirety
+are a complete code.
+
+       i) The submission put by the SSHD was limited to the  provisions  of
+          the new rules dealing with deportation of foreign criminals  (see
+          [31]-[34]) and it was that submission which  the  Court  said  it
+          accepts (see [40]);
+
+
+      ii) In [2] the Court defines "the new rules" as "rules 398,  399  and
+          399A";
+
+
+    (iii)    the paragraph in which the court states that  "the  new  rules
+         are  a  complete  code"  [44]  immediately  follows   a   paragraph
+         identifying the relevant Rules as paragraphs 398, 399 and 399A;
+
+
+    (iv)   The Court specifically envisages that where paragraphs  399  and
+         399A did not apply, the "general law" would.  So much  seems  clear
+         from [45] where the Master of the Rolls comments: "Even if we  were
+         wrong about [the new rules being a  complete  code],  it  would  be
+         necessary to apply the proportionality test outside the  new  rules
+         as was done by the UT. Either way, the result should be  the  same.
+         In these circumstances, it is a sterile question  whether  this  is
+         required by the new rules or it is a  requirement  of  the  general
+         law. What matters is that it is required to be carried out if paras
+         399 or 399A do not apply.";
+
+
+    (v)  the logic of the Court's reasoning  is  based  on  the  fact  that
+         paragraph 398(c) specifies that if paragraphs 399 or  399A  do  not
+         apply then "it will only be in exceptional circumstances  that  the
+         public  interest  in  deportation  will  be  outweighed  by   other
+         factors". In that way, reasons the Court,  these  rules  "expressly
+         contemplate a  weighing  of  the  public  interest  in  deportation
+         against other factors" (emphasis added).  The Court  observes:  "in
+         our view this must be a reference to all other  factors  which  are
+         relevant i.e. proportionality...";
+
+
+    (vi) when addressing submissions by Mr  Hussain  QC  for  the  claimant
+         highlighting respects in which the new Rules  did  not  incorporate
+         any Article 8 consideration [39], the Court's rejection is  limited
+         to the special nature of paragraphs 398, 399 and 399A;
+
+
+    (vii)     The judgment sets out in some  detail  the  policy  statement
+         issued by the Home Office on 13 June 2012, in advance  of  the  new
+         rules coming into force  and  quotes  from  paragraph  67  of  that
+         statement which explained that there would be  some  cases,  albeit
+         "rare" which would needed to  be  considered  "outside  the  Rules"
+         [11]. Miss Giovenetti QC for the SSHD nowhere sought to resile from
+         that  position  and  the  Court,  in  accepting  the  SSHD's   main
+         submission that the new rules on deportation were a complete  code,
+         nowhere sought to disagree with that position;
+
+
+    (viii)    if the judgment were read as holding that the  new  rules  in
+         their entirety were a complete code for  dealing  with  Article  8,
+         that would entail adopting the somewhat fanciful position  that  an
+         "exceptional  circumstances"   clause  akin  to  that  set  out  in
+         paragraph 398 was to be read  into  all  other  provisions  of  the
+         rules. We feel sure that if the Court had  meant  to  say  that  it
+         would have said so;
+
+
+    (ix)  the Court's discussion of R (Nagre) v Secretary of State for  the
+         Home  Department  [2013]  EWHC  720  (Admin),  which  was  a   non-
+         deportation case, clearly approved of its analysis  of  exceptional
+         circumstances, but that analysis  was  based  on  the  Home  Office
+         policy statements to the effect that where there  were  exceptional
+         circumstances it would be necessary for the  decision-maker  to  go
+         outside the rules.
+
+
+25. We would add that nothing said  so  far  by  different  panels  of  this
+Tribunal about MF is inconsistent with the analysis we offer here: see  e.g.
+ Kabia (MF: para 398 - exceptional circumstances) (Gambia) [2013]  UKUT  569
+(IAC) (which  confined  itself  to  saying  that  it  derived  from  MF  the
+proposition that in the deportation context the  immigration  rules  were  a
+complete code) and Gulshan (Article  8  -  new  Rules  -  correct  approach)
+[2013] UKUT 640 (IAC). Indeed, if the Tribunal in Gulshun had understood  MF
+to hold that the new rules in their entirety were a complete code, it  could
+not have stated, without self-contradiction, in its headnote that:
+
+        "after applying the requirements of the Rules, only if there may  be
+    arguably good grounds for granting leave to remain outside them  is  it
+    necessary for Article 8 purposes to go on to consider whether there are
+    compelling circumstances not sufficiently recognised under them: R  (on
+    the application of) Nagre v Secretary of State for the Home  Department
+    [2013] EWHC 720 (Admin);.
+
+26. On the logic of the Court of Appeal judgment in MF (which  the  Tribunal
+referred to at its [23]) in the context of deportation of foreign  criminals
+there could never be "good grounds for granting leave outside [the rules]  -
+because the Court held they were a "complete code".
+
+27. Even assuming we are right about the limited ambit of MF in relation  to
+when the new Rules are to be considered a complete code, that does not  mean
+we think that the Court's ratio  was  wholly  confined  to  the  context  of
+deportation of foreign criminals (this brings us back to what we see as  the
+first part of the ratio of MF).  Far from it, it was clearly fundamental  to
+its reasoning  as  well  that  Article  8  generally  requires  a  two-stage
+consideration (as had been held by the Upper Tribunal in this same case,  MF
+(Article 8: new Rules) Nigeria [2012] UKUT 393). Having  concluded  that  in
+relation to paragraphs 398, 399 and 399A the new  rules  required  both  the
+first and second stages of the  Article  8  assessment  to  be  carried  out
+within the rules the Court noted at [46] that:
+
+
+    "The UT concluded (paragraph 41) that [the second  stage]  is  required
+    because the new rules do not fully  reflect  Strasbourg  jurisprudence.
+    But either way, it is necessary to carry out a two stage process"
+
+
+and at [50] added:
+
+
+         "Although we have disagreed with the UT on the question whether the
+         new rules provide a  complete  code,  the  difference  between  our
+         approach and theirs is one of form, not substance."
+
+28.  In relation to the new rules on deportation, the Court made clear  that
+the first stage was to consider whether paragraphs 399 or 399A  applied  and
+the second stage was  to  consider  whether  paragraph  398(c)  applied[36],
+[46]. Outside that particular context  the  Court  described  the  two-stage
+process (as applied in MF and  Izuazu  (Article  8-new  rules)  [2013]  UKUT
+000045 in the Tribunal) as being to first ask  whether  the  claimant  could
+benefit under the new rules and if not, to  go  on  in  a  second  stage  to
+consider Article 8 under the general law[21], [30].
+
+29. We have emphasized that the ratio of MF is twofold and  we  have  placed
+first the holding that consideration of an Article 8 claim requires  a  two-
+stage process because it seems to us that that  part  has  primacy.  Without
+it, the holding that the new rules on deportation of foreign  criminals  are
+a complete code would seem on its face an extremely limited reaction  to  an
+appeal brought against a Tribunal decision (MF) which had cast its  guidance
+in broad terms, in relation to the new rules as a whole. But once regard  is
+had to the Court's conclusion  that  the  difference  between  the  Tribunal
+approach in MF and its own approach was "one  of  form  not  substance"  and
+that the question whether it is necessary to apply  a  proportionality  test
+outside the new rules "is a sterile question" [45], then it  is  immediately
+apparent that there would have been no  point  in  the  Court  going  on  to
+consider what the correct approach was under the new  rules  at  large.   On
+our reading of MF in the Court of Appeal, the  fact  that  a  decision-maker
+wrongly decides to treat the two-stage process as entirely within or  partly
+within or partly without the new rules will not give rise  to  legal  error,
+so long as the substantive Article 8 consideration accords with the  general
+law.
+
+
+30. It follows from the other part of the ratio of MF - that the  new  rules
+on deportation of  foreign  criminals  are  a  complete  code  because  they
+contain an express  provision  requiring  consideration  in  the  Article  8
+context of "exceptional circumstances" and "other factors" - that any  other
+rule which has a similar provision will  also  constitute  a  complete  code
+(rule  S-EC.1.4,  dealing  with  exclusion,  would  seem  to  be  a  further
+example);
+
+31.  Where an area of the rules does not have  such  an  express  mechanism,
+the approach in R (Nagre) v Secretary  of  State  for  the  Home  Department
+[2013] EWHC 720 (Admin) ([29]-[31] in particular and Gulshan  (Article  8  -
+new Rules - correct approach) [2013] UKUT  640  (IAC)  should  be  followed:
+i.e. after applying the requirements of the rules,  only  if  there  may  be
+arguably good grounds for granting  leave  to  remain  outside  them  is  it
+necessary for Article 8 purposes to go on  to  consider  whether  there  are
+compelling circumstances not sufficiently recognised under them.
+Article 8 (2) and the legitimate aim standard
+32. Before considering the immigration context (using that term  here  in  a
+wide sense  to  cover  both  immigration  and  asylum  cases)  it  will  aid
+perspective if we first of all briefly survey the Article  8  jurisprudence,
+with particular reference to 8(2). Article 8 of the Convention provides:
+    "1.      Everyone has the right to respect for his private and family
+         life, his home and his correspondence.
+    2.       There shall be no interference by a public authority with  the
+         exercise of this right except such as is in accordance with the law
+         and is necessary in  a  democratic  society  in  the  interests  of
+         national security, public safety or the economic well-being of  the
+         country,  for  the  prevention  of  disorder  or  crime,  for   the
+         protection of health or morals, or for the protection of the rights
+         and freedoms of others."
+The Strasbourg jurisprudence on Article 8(2)
+
+33. The case law bearing on Article 8(2) is  voluminous,  commentary  on  it
+even more so. So far as concerns the leading  UK  cases,  it  is  noteworthy
+that  they  all  present  themselves  as  being  based  on  the   Strasbourg
+jurisprudence. It is well-established, of course,  that  whilst  it  is  not
+unlawful  for  UK  courts  and   tribunals   to   depart   from   Strasbourg
+jurisprudence,  as  a  general  principle  "the  Convention  should  not  be
+interpreted and applied more generously in favour of an applicant  than  the
+Strasbourg jurisprudence clearly  warrants"  (Lord  Brown  in  R  (Quila)  v
+Secretary of State for the Home Department [2011] UKSC 45 [97]).
+
+34. Leaving aside for the moment the immigration context, it is almost  holy
+writ  in  Strasbourg  that  analysis  of  an  Article  8  claim  requires  a
+structured approach and the Court will typically reflect that in its use  of
+sub-headings, so that it first deals  with  whether  the  claim  engages  an
+Article 8(1) right and whether there has  been  an  interference  with  that
+right. Reflecting the fact  that  Article  8  is  one  of  the  Convention's
+derogable rights, the Court next goes on to consider limitations imposed  by
+Article 8(2). The structure of Article  8(2)  is  designed  to  qualify  the
+exercise of the rights guaranteed under the first  paragraph  by  specifying
+six grounds which the state is permitted to use to  justify  limitations  or
+restrictions on Article 8(1) rights  - commonly  termed  (heads  or  grounds
+of) "permissible restrictions" or "permitted exceptions".  The  six  grounds
+are: interests of national security, public safety, economic  well-being  of
+the country, prevention of  disorder  or  crime,  protection  of  health  or
+morals, protection of the rights and freedoms of others.
+
+35. Article 8(2)  requires it to  be  determined  whether  any  interference
+with an  Article  8(1)  right  can  be  justified  on  the  basis  of  three
+standards: that  it  must  be  "in  accordance  with  the  law";  that  such
+interference must pursue any of the legitimate aims exhaustively  laid  down
+in the second paragraph; and thirdly that an  interfering  measure  must  be
+considered as "necessary in a democratic society" (which  essentially  calls
+for a  proportionality  assessment  by  reference  to  whether  there  is  a
+"pressing social need").
+
+Legitimate Aim and Article 8(2)
+
+36. It is a feature of the jurisprudence that very little attempt  has  been
+made to delineate a  precise  definition  of  any  of  the  six  grounds  or
+exceptions; and indeed in many cases the treatment of the legitimate aim  is
+perfunctory and formulaic. It is even possible to find some cases (e.g.  Gul
+v Switzerland [1996] ECHR 5) where the Court does not  address  it  at  all.
+Why we do not consider that curious will become clearer below.
+
+Shorthand of 'public interest'
+37. It is apparent from perusal of the  Strasbourg  and  UK  case  law  that
+these  grounds  are  sometimes  given  the  shorthand   descriptor   "public
+interest" or "interests of the community": see e.g. Powell and Rayner v  the
+United Kingdom [1990] ECHR 2, 21 February 1990, [41], Series A no. 172).
+Exhaustively enumerated
+38. The six grounds of permissible restriction are not an  open-ended  list;
+they are exhaustively defined: see Golder v UK (1975) 1 EHRR  524,  at  [44]
+where the Court held that there are no  implied  limitations  on  Article  8
+rights: the only lawful limitations are those specified in paragraph 2.
+ Restrictively interpreted
+
+39. The burden rests on the state to establish that  the  interference  with
+rights under Article 8 was justified under paragraph 2  of  the  Article  (R
+(Quila) v Secretary of State for the Home Department [2011] UKSC  45  [44]).
+Being exceptions they must not be applied so as to unduly  restrict  Article
+8(1) rights; in consequence the exceptions provided for in  paragraph  2  of
+Article 8 are to be "narrowly interpreted" (Silver and Others [1983] ECHR  5
+[97]; Klass and Others v Germany [1978] ECHR 4  [42])  and  any  restriction
+"must be convincingly established" (Funke  v  France  [1993]  ECHR  7  [55],
+Soci�t� Colas Est and Others v France, no. 37971/97, [47], ECHR 2002-III).
+
+40. At the same time, the grounds  themselves  are  broadly  drawn:  in  the
+words of A H Robertson in his seminal work, Human  Rights  in  Europe,  1963
+"the net is widely cast". For example the "economic  well-being"  ground  is
+defined  in  terms  of  the  "economic  well-being  of  the  country".   The
+disjunctive wording of the "prevention of disorder or crime" ground  entails
+that even if there is no criminal dimension  the  maintenance  of  order  is
+also covered. And  what  could  be  more  extensive  than  "the  rights  and
+freedoms  of  others".  So  however  narrowly  such  grounds   are   to   be
+interpreted, their material scope is intrinsically wide.
+
+Each head's general and particular aspects
+
+41. As noted by Baroness Hale in ZH (Tanzania) v Secretary of State for  the
+Home Department [2011] UKSC 4 at [28], "each of the legitimate  aims  listed
+[in Article 8(2)] may involve individual as well  as  community  interests".
+In most cases it is the general or community interest which is  highlighted.
+Thus the "economic well-being" ground has  been  found  to  justify  a  wide
+range of government policies and activities. In Powell and Rayner v UK,  for
+example, the Court accepted that pursuit of the legitimate aim of  "economic
+well-being" was demonstrated by the fact that Heathrow  Airport  occupied  a
+position of  central  importance  in  the  economy  of  the  UK.  But  in  a
+significant number of  cases  the  Court  has  also  had  regard  either  to
+individual or more specific elements of this ground, Thus in Lopez  Ostra  v
+Spain [1994] ECHR 46 at [58] the legitimate aim pursued  was  not  described
+as the country of Spain's economic well-being,  but   "the  town's  economic
+well-being- that of having a waste treatment plant".
+
+Identification
+
+42. In Article 8 cases brought before  the  Court  the  submissions  of  the
+respondent government will typically seek to  identify  the  legitimate  aim
+said to be pursued by the impugned measure, but it is significant that  that
+does not always happen and even when it does the Court will not  necessarily
+engage with those submissions or, if it does, it will not necessarily  agree
+with them. Essentially the Court reconstructs for itself what  it  considers
+to be the legitimate aim or aims in  play.  Its  focus  is  on  whether  the
+allegation of a violation is made out and in that context it has  regard  to
+everything that is known about the  impugned  measure  including  its  wider
+legislative context and how  the  relevant  law  or  rules  are  applied  in
+practice. So although it is for the state to justify any  interference  with
+an Article 8(1) right, that is not seen to require the state necessarily  to
+identify expressly the legitimate aim or aims. The state does  not  have  to
+pin its "legitimate aim" flag to the mast.
+
+Impact and importance
+
+43. The above observation serves in part  to  explain  why,  to  quote  from
+another leading text, van Dijk et al Theory and  Practice  of  the  European
+Convention on Human Rights, 4th ed.2006 at 341, "the Strasbourg organs  have
+very rarely found a violation of  Convention  rights  by  reference  to  the
+legitimate aim standard". This commentary goes  on  to  identify   the  main
+reason for this as being that  "assessment  of  this  standard  is  normally
+carried out  in  conjunction  with  the  third  standard,  "necessary  in  a
+democratic  society",  and  in  particular  ,  with   the   application   of
+proportionality". That fully accords with the approach of  the  Court,  e.g.
+in Vasquez v Switzerland [2013] ECHR 1182 at [43], where it  noted  that  in
+order to justify interference with an Article 8(1) right  measures  must  be
+"in accordance with the law and necessary in a democratic society,  that  is
+to  say  justified  by  a  pressing  social   need   and,   in   particular,
+proportionate to the legitimate aim  pursued".   To  similar  effect,  using
+slightly different terminology, Lester and Pannick, in Human Rights Law  and
+Practice, 2nd ed.p.306 describe the three  standards  enshrined  in  Article
+8(2) as being closely interconnected:
+
+    "Should the measure prove to be in accordance with the law, the test of
+    necessity involves deciding whether there is a "pressing  social  need"
+    for the interference and whether the means employed  are  proportionate
+    to the legitimate aim(s) pursued by the state. In  conducting  such  an
+    examination, the nature, context and importance of the  right  asserted
+    and the extent of interference must be  balanced  against  the  nature,
+    context  and  importance  of   the   public   interests   asserted   as
+    justification".  (Emphasis added).
+
+44. In this way the identification  of  the  legitimate  aim  or  aims  only
+becomes  instrumental   at   the   stage   of   assessing   proportionality.
+Justification of an impugned measure has to be made by reference to the  aim
+or aims it is seen to pursue. Hence it may sometimes  be  important  to  the
+striking of the balance to particularise what the elements of  the  relevant
+legitimate aim or aims is/are and how much  weight  should  be  accorded  to
+it/them in the particular case. The rationale  for  this  understanding  was
+noted by Lord Bingham in  Huang  [2007]  UKHL  11  at  [19]  where  he  made
+reference to de Freitas v Permanent Secretary of  Ministry  of  Agriculture,
+Fisheries, Lands and Housing  [1999]  1  AC  69,  80,  in  which  the  Privy
+Council, drawing  on  South  African,  Canadian  and  Zimbabwean  authority,
+defined the questions generally to be asked in deciding  whether  a  measure
+is proportionate as:
+
+    "whether: (i) the legislative objective is  sufficiently  important  to
+    justify limiting a fundamental right; (ii)  the  measures  designed  to
+    meet the legislative objective are  rationally  connected  to  it;  and
+    (iii) the means used to impair the right or freedom are no more than is
+    necessary to accomplish the objective."
+
+
+45. Thus (to reformulate in  Article  8  terms)  an  integral  part  of  the
+proportionality  assessment  is  examining  whether  there  is  a   rational
+connection between the aim pursued and the measure  taken  and  whether  the
+means used to pursue that aim are no more than is necessary.
+
+Multiple aims
+
+46. It is uncontroversial that a measure constituting  interference  with  a
+person's Article 8(1) rights can pursue more than one legitimate aim and  it
+is extremely common for the Court to identify more than one legitimate  aim.
+Thus  in  Klass  v  Germany  the  legitimate  aim  of  the  legislation  for
+monitoring communications was accepted by the Court as  being  to  safeguard
+national security and/or prevent disorder or crime.  Thus  in  Silver  v  UK
+(1983) 5 EHRR 347 interference with prisoners' correspondence  was  seen  to
+pursue the legitimate aim of both protection of morals  and  of  the  rights
+and freedoms of others. In  Funke  v  France  (1993)  16  EHRR  297  customs
+investigations were seen to pursue the "economic well-being of the  country"
+and "perhaps also...the prevention of crime".
+
+The Strasbourg jurisprudence on Article 8 in the immigration context
+
+47. The particular need for a structured approach to Article 8 in the  field
+of immigration has been driven home in  a  number  of  decisions:  see  e.g.
+Nhundhu and Chiwera 01/TH/0613 and Razgar [2004]  UKHL  27.  In  the  latter
+case Lord Bingham said at [17] that in a case where removal is  resisted  in
+reliance on article 8, the questions are likely to be:
+     (1)      Will  the  proposed  removal  be  interference  by  a  public
+         authority with the exercise of the applicant's right to respect for
+         his private or (as the case may be) family life?
+    (2)      If so,  will  such  interference  have  consequences  of  such
+         gravity as potentially to engage the operation of article 8?
+    (3)      If so, is such interference in accordance with the law?
+    (4)      If so, is such interference necessary in a democratic  society
+         in the  interests  of  national  security,  public  safety  or  the
+         economic well-being of the country, for the prevention of  disorder
+         or crime, for the protection  of  health  or  morals,  or  for  the
+         protection of the rights and freedoms of others?
+    (5)      If so, is such interference proportionate  to  the  legitimate
+         public end sought to be achieved?
+He added the following commentary:-
+   1. If the reviewing court is satisfied in any case, on  consideration  of
+      all the  materials  which  are  before  it  and  would  be  before  an
+      adjudicator, that the answer to question (1) clearly would  or  should
+      be negative, there can  be  no  ground  at  all  for  challenging  the
+      certificate of the Secretary  of  State.  Question  (2)  reflects  the
+      consistent case law of the Strasbourg court, holding that conduct must
+      attain a minimum level of severity to  engage  the  operation  of  the
+      Convention: see, for example, Costello-Roberts v United Kingdom (1993)
+      19 EHRR 112. If the reviewing court is satisfied that  the  answer  to
+      this question clearly would or should be negative, there can again  be
+      no ground for challenging the certificate. If question (3) is reached,
+      it is likely to permit of an affirmative answer only.
+   1. Where removal is proposed in pursuance of a lawful immigration policy,
+      question (4) will almost always fall  to  be  answered  affirmatively.
+      This is because the right  of  sovereign  states,  subject  to  treaty
+      obligations,  to  regulate  the  entry  and  expulsion  of  aliens  is
+      recognised in the Strasbourg jurisprudence (see Ullah and Do, para  6)
+      and implementation of a firm and  orderly  immigration  policy  is  an
+      important function of government in a modern democratic state. In  the
+      absence of bad faith, ulterior motive or deliberate abuse of power  it
+      is hard to imagine an adjudicator answering this question  other  than
+      affirmatively.
+   1. The answering of question (5), where that question  is  reached,  must
+      always involve the striking of a fair balance between  the  rights  of
+      the individual and the interests of the community which is inherent in
+      the whole of the Convention. The  severity  and  consequences  of  the
+      interference will call for  careful  assessment  at  this  stage.  The
+      Secretary of State must exercise his judgment in the  first  instance.
+      On appeal the adjudicator must  exercise  his  or  her  own  judgment,
+      taking account of any material which may  not  have  been  before  the
+      Secretary of State. A reviewing court must assess the  judgment  which
+      would or might be made by an adjudicator on appeal.  In  Secretary  of
+      State for the Home Department v Kacaj [2002] Imm AR 213, paragraph 25,
+      the Immigration Appeal Tribunal (Collins J, Mr C M G Ockelton and Mr J
+      Freeman) observed that:
+      "although  the  [Convention]  rights  may   be   engaged,   legitimate
+      immigration control will almost certainly mean  that  derogation  from
+      the rights will be proper and will not be disproportionate."
+      In the present case, the Court of Appeal had no doubt (paragraph 26 of
+      its judgment)  that  this  overstated  the  position.  I  respectfully
+      consider the element of overstatement to  be  small.  Decisions  taken
+      pursuant to the  lawful  operation  of  immigration  control  will  be
+      proportionate in all save  a  small  minority  of  exceptional  cases,
+      identifiable only on a case by case basis. (Emphasis added).
+Legitimate aim in immigration cases
+
+48. Bearing out what was noted in our general survey, we have not found  any
+immigration case in Strasbourg  which  has  turned  on  the  sole  issue  of
+whether any legitimate aim standard was  met.  And  it  is  only  relatively
+rarely that the issue of legitimate aim has been seen to play a  significant
+part in judicial deliberations. The best explanation for why this should  be
+so is perhaps afforded by what was said by Lord Bingham at  [19]  of  Razgar
+(see above). Question  4,  he  said,  would  "[a]lmost  always  fall  to  be
+answered affirmatively".
+
+49. Undoubtedly one key reason why the case law has seen the legitimate  aim
+standard to be easily satisfied  (both  generally  and  in  the  immigration
+context) is linked to the  fact  that  the  Convention  accords  contracting
+states a "margin of appreciation" and it is  not  to  be  expected  of  such
+states  in  the  context  of  derogable  rights  to  reliably  establish  by
+empirical evidence that the aim it pursues is legitimate.  As  explained  by
+Maurice Kay LJ in R (Bibi and others) v SSHD [2013] EWCA  Civ  322;  Imm  AR
+[2013] 1007 in relation to the  new  English  language  test  introduced  in
+Immigration Rules:
+
+    "28.     I do not doubt that the Rule creates anomalies. For example, a
+         foreign spouse who is from one of the exempt countries but who does
+         not speak English is able to enter without satisfying the pre-entry
+         test, whilst a fluent English-speaking  spouse  from  a  non-exempt
+         country who does not have the necessary educational  qualifications
+         has the inconvenience of satisfying the pre-entry  requirement.  It
+         is simply not possible to predict with precision  how  many  people
+         fall into either of those categories. This brings me to  the  heart
+         of Mr Gill's conceptual case. His principal complaint, it seems  to
+         me, is that the justification proffered by the Secretary  of  State
+         is long on  estimates,  assumptions,  predictions  and  speculative
+         assertions but short on empirical proof that the amended Rule  will
+         not operate in a disproportionate manner.
+
+
+    29.  In my judgment, there are two answers to this  submission.  First,
+         it is difficult for a court to adjudicate upon such a submission in
+         the abstract. In a sense, the appellants have  set  a  hypothetical
+         ball rolling and are seeking to take advantage of its  hypothetical
+         nature.   Secondly,   and   more   importantly,   the    submission
+         misunderstands the scope for judicial intervention in a  case  such
+         as this. I consider this to be the most  important  point  in  this
+         case. It calls for further elucidation.
+
+
+    30.  The pre-entry test was conceived as a  benign  measure  of  social
+         policy with the purpose of facilitating  the  integration  of  non-
+         English-speaking  spouses.  Where  a  State  seeks  to  change  its
+         immigration rules in order to produce a benign result, it would  be
+         regrettable if, in order to justify the measure,  whether  pursuant
+         to Article 8.2 or Article 14, it faced a burden which could only be
+         discharged by irrefutable  empirical  evidence.  The  Secretary  of
+         State's perception is essentially one of predictive judgment.  Many
+         a well-intentioned social change is supported by a rational  belief
+         in its potential to achieve its benign purpose  but  without  being
+         susceptible to empirical proof prior to its introduction. It is for
+         this reason that it is appropriate for the State  authority  to  be
+         accorded a margin of appreciation in the formulation of its  social
+         policy. Without such an indulgence, many benign  reforms  would  be
+         stifled in limine. Of course the  implications  of  the  change  of
+         policy may be so dubious that it is demonstrably  not  justifiable.
+         However, in some situations a margin  of  appreciation  has  to  be
+         pitched at a level which allows for change, even if there  is  some
+         risk to some individuals, that they will be adversely  affected  by
+         it. The principle was articulated in Stec v United  Kingdom  [2006]
+         43 EHHR 47, a case concerning Article 14, together with  Article  1
+         of the First Protocol, but relevant to the present case, not  least
+         because the appellants emphasise the discriminatory aspect  of  the
+         pre-entry  test  requirement  (to  which  I  shall   return).   The
+         Strasbourg Court said (at paragraph 52):
+
+
+             "... a wide margin is usually allowed to the State  under  the
+             Convention when it comes to general measures  of  economic  or
+             social strategy. ... Because  of  their  direct  knowledge  of
+             their society and its needs, the national authorities  are  in
+             principle  better  placed  than  the  international  judge  to
+             appreciate what  is  in  the  public  interest  on  social  or
+             economic grounds and the  Court  will  generally  respect  the
+             legislature's policy choice unless it is  'manifestly  without
+             reasonable foundation'."
+
+
+    This test  informed  the  recent  decision  of  the  Supreme  Court  in
+    Humphreys v Revenue and  Customs  Commissioners  ([2012]  1  WLR  1545,
+    [2012]  UKSC  18).  Without  it,  it  might  become  impossible  for  a
+    government to govern without waiting for judges  to  judge."  (Emphasis
+    added)
+
+(See also Blake J in MM, R (On the Application Of) v The Secretary of  State
+for the Home Department [2013] EWHC 1900 (Admin) (05 July 2013) at [111]).
+
+50. Notable also in immigration cases is  impatience  on  the  part  of  the
+Court with evaluation of the legitimate aim standard in isolation.  Thus  in
+Alim v Russia [2011] ECHR 1453 the Court stated at [85]: "It was  argued  by
+the respondent Government that this interference pursued  a  legitimate  aim
+of protecting public safety or order. However,  the  key  question  for  the
+Court is whether the measure was  necessary  in  a  democratic  society  and
+proportionate to the legitimate aim pursued."
+
+51. That question requires the Court to consider the differential impact  of
+the proportionality doctrine depending on  the  nature  and  source  of  the
+State policy which interferes with the Article 8 right (SS (Nigeria v  SSHD)
+[2013] EWCA Civ. 550 [13]). Thus in Article 8  immigration  cases  involving
+expulsion of criminals it is apparent  that  in  addition  to  the  need  to
+prevent the individual concerned committing a  further  offence,  there  has
+also to be  weighed  on  the  "public  interest"  side  of  the  scales  the
+additional interest of the state in deterrence and in expression  of  public
+revulsion at criminality:  this  "may  contribute  to  the  legitimate  aim"
+(Blake J in Sanade (British Children: Zambrano: Dereci), [2012]  UKUT  00048
+(IAC) [48]).
+
+Identification
+
+52. As observed in our general survey,  the  legitimate  aim  pursued  by  a
+state's measure which interferes with an Article  8(1)  right  is  typically
+identified by the Court itself but that is not always the case.  We  already
+noted the example of Gul v Switzerland where the Court made  no  mention  of
+it at all, although the logic of their decision was plainly that  there  was
+such an aim. It is not uncommon for  the  Court  to  note  that  whilst  the
+respondent government has identified two or three grounds, it  will  mention
+only one as being engaged: see e.g. Slivenko v Latvia  [2003]  ECHR  498  in
+which the government had identified "national security" and  "prevention  of
+disorder and crime" but the  Court  treated  the  legitimate  aim  as  being
+"national security" only [112].
+
+Identification in terms of "public interest"
+53. One can find some decisions of  the  Court  and  many  decisions  of  UK
+courts and tribunals where the only identification given of  the  legitimate
+aim is in terms of "the public interest"  or  the  "community's  interests".
+Thus in the Grand  Chamber  judgment  in    Vasquez  v  Switzerland  1785/08
+[2013] ECHR 1182 (26 November 2013 at [39] it is  stated  that:"[t]he  Court
+has further consistently held that the Contracting  States  have  a  certain
+margin of appreciation in assessing the need for interference, but  it  goes
+hand in hand  with  European  supervision.  The  Court's  task  consists  in
+ascertaining whether the impugned measures struck  a  fair  balance  between
+the relevant interests, namely the  individual's  rights  protected  by  the
+Convention on the one hand and the community's interests on the  other  (see
+Slivenko and Others, cited above, � 113, and Boultif cited above)."The  same
+principle is set out in   Razgar, R (on the Application of) v  Secretary  of
+State for the Home Department at [20].  We see no problem  with  that  as  a
+shorthand so long as it  is  not  forgotten  what  it  summarises:  the  six
+grounds of permissible restriction do  not  encompass  all  aspects  of  the
+"public interest", e.g. they do not cover the cultural  or  religious  well-
+being of the state.
+54. However, use of  "public  interest"  or  "community's  interests"  as  a
+shorthand does carry with it the very significant difficulty  that  in  some
+cases it may weaken or obscure the particular justification  given  as  part
+of the proportionality assessment for the impugned measure or decision.
+55. In the UK context the new immigration  rules  introduced  in  July  2012
+contain references to "the public interest": see  e.g.  paragraph  276B(ii).
+The introductory paragraph to Appendix FM, GEN.1.1  states  that  the  route
+this appendix provides for those seeking to enter or remain  in  the  UK  on
+the basis of their family life "reflects how, under Article 8 of  the  Human
+Rights Convention, the balance will be struck between the right  to  respect
+for private and family life and the legitimate aims..." It then proceeds  to
+list all 6 grounds of permissible restriction set out in Article  8(2).  The
+rules dealing with Article 8 claims made by  foreign  criminals  that  their
+deportation would be contrary to the UK's obligations under Article 8  refer
+simply to "the public interest in deportation"  (see  para  398(c))  without
+any other elaboration or more precise identification of any legitimate  aim.
+However, as is recorded by the Court of Appeal in MF at [11]-[13], in  a  13
+June 2012 statement entitled "Immigration Rules on Family and Private  Life:
+Grounds of Compatibility with Article 8 of  the  ECHR",  in  the  course  of
+discussing the new 10-year route  to  settlement  for  those  whose  removal
+would breach Article 8, it is said at paragraph 67:
+    "Bringing A8 [Article 8] within  the  Rules  will  ensure  consistency,
+    fairness and transparency in decision-making. We will retain discretion
+    to grant leave outside the Rules in genuinely exceptional  cases  where
+    it is considered that the Rules will produce a disproportionate result.
+    However, it is considered that those cases will be rare since  the  new
+    Rules reflect the Government's view - which Parliament will be  invited
+    to endorse - of how the balance should  be  struck  between  individual
+    rights under A8 and the  public  interests  in  safeguarding  the  UK's
+    economic well-being in controlling immigration and  in  protecting  the
+    public from foreign criminals." (Emphasis added)
+56. And in the Explanatory Memorandum attached to the new  rules  itself  it
+is stated, under the heading "Approach to ECHR Article 8" at paragraph 7.2:
+    "The new Immigration Rules will reform the approach taken as  a  matter
+    of public policy towards ECHR Article 8 -  the  right  to  respect  for
+    family and private life - in immigration cases. The  Immigration  Rules
+    will fully reflect the factors  which  can  weigh  for  or  against  an
+    Article 8 claim. The rules will  set  proportionate  requirements  that
+    reflect the Government's and  Parliament's  view  of  how  individuals'
+    Article 8  rights  should  be  qualified  in  the  public  interest  to
+    safeguard the economic well-being of the UK by controlling  immigration
+    and to protect the public against foreign  criminals.  This  will  mean
+    that failure to meet the requirements of the rules will  normally  mean
+    failure to establish an Article 8 claim to enter or remain in  the  UK,
+    and no grant of leave on that basis. Outside exceptional cases, it will
+    be proportionate under Article 8 for an applicant who fails to meet the
+    requirement of the rules to be removed from the UK." (Emphasis added)
+Partial identification: "maintenance of immigration control"
+
+57. In a significant number of immigration cases one finds some  attempt  at
+identification of the legitimate aim but it is limited  to  identifying  the
+aim   as  "maintenance  of  effective   immigration   control":   see   e.g.
+(Strasbourg cases)  Ahmut v  Netherlands  [1996]  ECHR  61  [73],  Osmond  v
+Denmark [2011] ECHR 926 at [58], Omoregie [2008] ECHR  761  [68],  Osmond  v
+Denmark [2011] ECHR 926, Nunez [2011] ECHR 1047 [84], Antwi [2012] ECHR  259
+[86], [93], Ajayi [1999] ECHR 197 [29] Alem Biraga [2012] ECHR 785[56];  and
+(UK cases) Lord Hope in [44], the HL  in  Huang  [2007]  UKHL  11  [16],  VW
+(Uganda) [2009] EWCA Civ 5 at [29], SS (India) v SSHD [2010]  EWCA  Civ  388
+at [53], AN (Afghanistan) [2013]EWCA Civ 1189 [17]; GS  (Article  8,  public
+interest not  a  fixity)  Serbia  and  Montenegro  [2005]  UKAIT  00121;  PO
+(interests of the state -Article 8) Nigeria [2006] UKAIT  00087,  Nasim  and
+others (Article 8) Pakistan [2014] UKUT  25  (IAC)[14],  [19];  Blake  J  in
+Mansoor [2011] EWHC 832 (Admin) [38].  (Indeed  in  the  SSHD's  grounds  of
+appeal in this case "maintenance of effective immigration control"  was  the
+aim the decision to refuse the claimant was said to pursue.)   On  its  face
+that has  struck  some  commentators  as  curious  because  "maintenance  of
+effective immigration control"  is  palpably  not  one  of  the  grounds  of
+permissible restriction, which as we have seen are set out  exhaustively  in
+Article 8(2). But it is clear from such cases that the  Court  regards  this
+formulation as condensing the most important aspect of  the  legitimate  aim
+or aims in play.  Lord Bingham's observations cited above in Razgar at  [19]
+convey well why that should be so: "implementation of  a  firm  and  orderly
+immigration policy is an  important  function  of  government  in  a  modern
+democratic state"; immigration control  which  secures  the  borders  is  of
+crucial importance to the interests of the  state  and  wider  community  in
+diverse respects. It is one of the interests of the state  that  gives  rise
+to a sovereign right of a state to control entry and exit and the Court  has
+routinely  prefaced  its  treatment  of  Article  8  immigration  cases   by
+confirming that position: In Maslov  [2008]  ECHR  546  at  [68]  the  Grand
+Chamber reiterated what was said in �ner [2006] ECHR 873 [54], namely that:
+
+    " The Court reaffirms at the outset that a State  is  entitled,  as  a
+    matter of international law and subject to its treaty  obligations,  to
+    control the entry of aliens into  its  territory  and  their  residence
+    there (see,  among  many  other  authorities,  Abdulaziz,  Cabales  and
+    Balkandali v. the United Kingdom, judgment of 28 May 1985, Series A no.
+    94, p. 34, � 67, Boujlifa v.  France,  judgment  of  21  October  1997,
+    Reports of Judgments and Decisions 1997 VI, p. 2264, � 42)."
+
+
+58. In these cases the Court must be taken to presuppose  that  "maintenance
+of effective immigration control" is the most relevant aspect  of  at  least
+one of the six grounds - "national  security",  "public  safety",  "economic
+well-being, "prevention of  disorder  or  crime","protection  of  health  or
+morals", "rights or freedoms of others".
+
+59.  We  shall  deal  below  with  the  more  vexed  question   of   whether
+"maintenance of effective immigration control" properly falls within  either
+(or both) the "prevention of disorder or  crime"  ground  or  "the  economic
+well-being" ground.
+
+Ancillary aims
+
+60. In the UK jurisprudence  certain  cases,  mostly  those  concerned  with
+issues of whether legislation and  policy  itself  violates  Article  8  (or
+Article 8 in conjunction with Article 14)  rights,  the  related  point  has
+been made that it is  not  always  easy  to  encapsulate  relevant  aims  or
+purposes squarely within any of the Article 8(2) heads: e.g. in R (Quila)  v
+Secretary of State for the Home Department [2011] UKSC  45  which  concerned
+the compatibility with the Convention of  new  Immigration  Rules  requiring
+persons eligible for marriage visas to be at least 21 of age, Baroness  Hale
+noted at [72]-[73] that there were other ad  hoc  purposes  pursued  by  the
+relevant immigration rules distinct  from  "pure  immigration  control",  in
+particular to prevent forced marriages. At [73] she concluded that "This  is
+undoubtedly a legitimate aim, in article 8(2) terms, "for the protection  of
+the rights and freedoms of others".
+
+
+61. In  Chapti & Ors, R (on the application of) v  Secretary  of  State  for
+the Home Department & Ors (Rev 1) [2011]  EWHC  3370  (Admin)  (16  December
+2011at [83], which concerned a human rights  challenge  to  new  Immigration
+Rules introducing a  pre-entry  English  language  test,   Beatson  J  noted
+JCWI's  submission  that  "immigration  control"  is  not  a   free-standing
+legitimate aim and that the less squarely the aims of a measure fall  within
+the stated aims of Article  8(2)  "the  harder  it  will  for  the  SSHD  to
+discharge  her   burden   of   establishing   that   the   interference   is
+proportionate". In advance of giving reasons for rejecting this  submission,
+at [64], Beatson J noted two features of the  case  law  that  did  not  sit
+easily together. First, it was clear that  "immigration  control"  has  been
+regarded as a legitimate aim  for  the  purposes  of  Article  8(2)  without
+particular reference to any of the specified legitimate aims. On  the  other
+hand, it was not always the case that case law placed focus on  the  overall
+system of immigration control: e.g. in R (Quila) v Secretary  of  State  for
+the Home Department [2011] UKSC 45 Lord Wilson and Lady Hale had examined  a
+particular aim (prevention  of  forced  marriages)  and  a  particular  rule
+rather than the overall system of immigration  control.  (We  note  that  at
+[45] Lord Wilson had agreed with Lady Hale in identifying the amendments  to
+the legislation as pursuing the legitimate aim of protection of  the  rights
+and freedoms of others). Beatson J's resolution of this tension at [85]  was
+as follows:
+
+    "The breadth of the aims expressly identified  in  Article  8(2)  means
+    that many more specific aims will fall within them and  be  capable  of
+    justifying an interference with a  person's  Article  8  rights.  In  R
+    (Quila) v Secretary of State for the Home Department [2011] UKSC 45 the
+    aim of deterring forced marriages fell into the  last  of  the  Article
+    8(2) categories, "the protection of the rights and freedoms of others".
+    In  the  present  case  the  categories  of  protection  of   "economic
+    wellbeing" (in view of the evidence about the impact on job prospects),
+    "health" (in view of the evidence about accessing health services), and
+    possibly "public safety" or the "protection of the rights and  freedoms
+    of others" (in view of the evidence about the protection of women  from
+    domestic  violence)  mean  that  the  new  requirement  does  pursue  a
+    legitimate public aim."
+
+
+62. Since it was clear in these cases that legitimate  aims  were  in  play,
+this must be taken as recognition that their broadly-drawn  character  means
+that they may include a number of ancillary aims.
+
+Multiple aims
+
+63. Whilst most Strasbourg immigration cases identify either "prevention  of
+disorder or crime" or  (much  less  commonly)  "economic  well-being"  as  a
+legitimate aim, it would be wrong to think that other grounds have not  also
+been seen quite often to be in play: e.g. in Slivenko  [110]-[112],  whereas
+the government argued that its legitimate aim was  prevention  of  crime  or
+disorder and  national  security,  the  Court  said  it  was  just  national
+security. National security was the only aim considered in  play  in  Liu  v
+Russia [2007] ECHR 1056 at [60]. In Alim v Russia it was public safety  [85]
+although at [96] this was expressed as  a  seeming  amalgam  of  the  public
+safety and "prevention of disorder or  crime"  ground  ("the  protection  of
+public safety or order"). In Vasquez v Switzerland, the two legitimate  aims
+said to be pursued were "public safety"  and  "prevention  of  disorder  and
+crime". In Omoregie [56] the legitimate aims were  prevention  of  crime  or
+disorder and economic well-being. "The  "protection  of  health  or  morals"
+(alongside "prevention of  disorder  or  crime")  has  been  a  particularly
+prominent legitimate aim noted in  cases  concerning  expulsion  of  serious
+drugs offenders: see e.g. El-Khaouli 40266/98 and Laarej v France 41318/98.
+
+Most common ground - "prevention of disorder and crime"
+
+64. Surveying Strasbourg jurisprudence, both that emanating from the  former
+Commission and that emanating from the Court, it is clear that in the  great
+majority of immigration cases the principal (often only)  ground  identified
+as a legitimate aim is  "prevention  of  disorder  or  crime".  Within  this
+category are two main types of  case:  (a)  criminal  cases;  and  (b)  non-
+criminal cases. By "criminal cases" we mean here cases in  which  the  state
+has sought to expel a foreign national solely or mainly because  he  or  she
+has committed criminal offences other  than  those  arising  solely  out  of
+breaches of immigration law.  We draw the distinction in  this  way  because
+in most if not  all  Council  of  Europe  states  violation  of  immigration
+controls can give rise to criminal liability, but the Court  has  ordinarily
+made very clear that it regards criminal liability of the latter sort  as  a
+by-product of a civil wrong consisting of the flouting of  immigration  law:
+see e.g. Nunez v Norway [71].
+
+ a) Criminal cases
+
+
+65. In criminal cases, the "prevention or disorder or crime" ground is  seen
+to be in play almost invariably: see e.g. C v Belgium [1996] ECHR  28  [26];
+Sezen v Netherlands [2006] ECHR 87; In the UK the higher courts have  tended
+to regard the fact that deportation action  has  been  taken  because  of  a
+person's criminal history as ipso facto meaning that the legitimate  aim  is
+that of "prevention of crime or disorder":  see  e.g.   SS  (India)  v  SSHD
+[2010] EWCA Civ 388 [35] and N (Kenya) [2004] EWCA Civ 1094.
+
+66. In such cases UK courts  and  tribunals  have  also  seen  an  important
+aspect of  the  legitimate  aim  to  be  that  of  deterrence.  Thus  in  RU
+(Bangladesh) [2011] EWCA Civ 651 at [43] it was said:
+
+
+    "The point about "deterrence" is  not  whether  the  deportation  of  a
+    particular "foreign criminal" may or may not have a deterrent effect on
+    other offenders or prospective  offenders.  It  concerns  a  much  more
+    fundamental concept which is explained by  Judge  LJ  at  [83]  of  his
+    judgment in N (Kenya). The UK operates an immigration control system by
+    which control is exercised over non-UK citizens who enter and remain in
+    the UK. The operation of that system most take account of broad  issues
+    of social cohesion  in  the  UK.  Moreover,  the  public  has  to  have
+    confidence in its operation. These requirements  are  for  the  'public
+    good' or are in the 'public  interest'."  (See  to  similar  effect  DS
+    (India) [2009] EWCA Civ 544 [37] and AM v SSHD [2012] EWCA Civ 1634  at
+    [24]).
+
+
+      b) Non-criminal cases
+
+
+67. However it is important to note that "prevention of disorder  or  crime"
+has also been seen as a legitimate aim even in cases not  involving  persons
+who have a criminal  history  and  where  the  only  wrongdoing  resides  in
+ordinary breaches of immigration law. That observation carries with it  this
+caveat: that certainly seems a fair summary of the first 40 years or  so  of
+Strasbourg jurisprudence, but the position is less clear  in  the  past  two
+decades. In this more recent period, it is  difficult  to  find  many  cases
+that have come before the Court that fall  into  the  non-criminal  category
+and in many of those  cases  the  Court  appears  to  prefer  to  frame  the
+legitimate aim by reference to "maintenance of  immigration  control"  only,
+leaving unclear which legitimate aim(s) this is seen as an  aspect  of:  see
+e.g. Ahmut v Netherlands [73], Antwi [86], [93],  Nunez  [84],  Alem  Biraga
+[56]; (in the UK) see  the House of Lords in Huang [16]).  Or, as in D v  UK
+(1997) 24 EHRR 423 [48], Bensaid v United Kingdom - 44599/98 [2001] ECHR  82
+[48] and Omeregie [56], the Court couples "prevention of disorder or  crime"
+with "economic well-being".
+
+
+68. In relation to the position taken in the older  cases,  the  reason  for
+identifying "prevention of disorder or crime"  is not stated,  but  it  must
+surely reside in the textual fact, already noted, that  the  "prevention  of
+disorder or crime" ground has two components, one which does  not  refer  to
+crime but to "prevention of disorder". Put simply, the rationale appears  to
+be that but for "maintenance of effective immigration control"  there  would
+be a real threat of disorder.
+
+69. In line with this, the Court has been at pains to reject any  suggestion
+that the  "maintenance  of  effective  immigration  control"  head  is  only
+apposite when the case has a criminal element. Thus in  Nunez  [71],  having
+identified the legitimate aim as "the public interest in ensuring  effective
+immigration control" [84], the Court held that "the applicant's argument  to
+the effect that the public interest in an expulsion  would  be  preponderant
+only where the person concerned had  been  convicted  of  a  crime  must  be
+rejected"[ 71], [84].
+
+
+70. The Court has also made clear  that  even  when  there  is  no  criminal
+conduct  involved,  the  aim  of  "effective   immigration   control"   also
+encompasses  general, not just particular, deterrence.  Such  deterrence  is
+not just invoked in relation to crime. Thus in Antwi v Norway  at  [90]  the
+Court noted:
+
+
+    "Moreover, as already held on previous occasions, the  possibility  for
+    the authorities to react with expulsion would constitute  an  important
+    means of general deterrence against gross or repeated violations of the
+    Immigration Act (see Nunez, cited above, � 71, and Darren Omoregie  and
+    Others v. Norway, no. 265/07, � 67, 31 July 2008; see also Kaya v. the
+    Netherlands  (dec.)  no  44947/98,  6  November  2001).  A  scheme   of
+    implementation of national immigration law which, as here, is based  on
+    administrative sanctions in the form of  expulsion  does  not  as  such
+    raise an issue of failure to comply with Article 8  of  the  Convention
+    (see Nunez and Darren Omoregie and Others, cited above, ibidem). In the
+    Court's view, the public interest  in  favour  of  ordering  the  first
+    applicant's expulsion weighed heavily in the balance when assessing the
+    issue of proportionality under Article 8 of the Convention (see  Nunez,
+    cited above, � 73)."
+ 71. In a similar vein, Sir Stanley Burnton in FK  &  OK  (Botswana)  [2013]
+EWCA Civ 238 at   [11] stated (in relation to non-criminal  cases):  "[t]hat
+the individuals concerned in the present case are  law-abiding  (other  than
+in respect of immigration controls) does not detract from the fact that  the
+maintenance  of  a  generally  applicable  immigration  policy  is,   albeit
+indirectly, a legitimate aim for the purposes of article 8.2."
+72. Particularly bearing in mind the fact that  it  is  very  hard  to  find
+recent  non-criminal  cases  where  the  Strasbourg  Court  has   identified
+"prevention of disorder or crime" as the sole legitimate  aim,  it  must  be
+observed that there are at least two difficulties in the  way  of  regarding
+"effective maintenance of immigration control" as routinely being an  aspect
+of the "prevention of disorder or crime"aim. One is that it if it were  such
+it would have been very easy for the Court to have said so in all the  cases
+where it identifies the aim as the former. The other is  that  when  setting
+out  factors  to  be  taken  into  account  for   the   purposes   of    the
+proportionality assessment in immigration  cases  the  Court  often  uses  a
+formulation  which,  read  literally,   would   appear   to   suggest   that
+"immigration control" is distinct from considerations  of  order.  Thus  for
+example in Nunez at [70] the Court said:
+
+    "70.  The Court further reiterates that Article 8  does  not  entail  a
+    general obligation for a State to respect  immigrants'  choice  of  the
+    country of their residence and  to  authorise  family  reunion  in  its
+    territory. Nevertheless, in a case which concerns family life  as  well
+    as immigration, the extent of a State's obligations  to  admit  to  its
+    territory relatives of persons residing there will  vary  according  to
+    the particular circumstances of the persons involved  and  the  general
+    interest (see G�l, cited above,  �  38;  and  Rodrigues  da  Silva  and
+    Hoogkamer, cited above, � 39). Factors to be taken into account in this
+    context are the extent to which family life  is  effectively  ruptured,
+    the extent of the ties in the  Contracting  State,  whether  there  are
+    insurmountable obstacles in the way of the family living in the country
+    of origin of one or more of them  and  whether  there  are  factors  of
+    immigration control (for example, a history of breaches of  immigration
+    law) or considerations of public order weighing in favour of  exclusion
+    (see Rodrigues da Silva and Hoogkamer, cited above,  ibid.;  Ajayi  and
+    Others v. the United Kingdom (dec.),  no.  27663/95,  22  June  1999;
+    Solomon v. the Netherlands (dec.), no. 44328/98, 5 September  2000).
+    Another important consideration is whether family life was created at a
+    time when the persons involved were aware that the  immigration  status
+    of one of them was such that the persistence of that family life within
+    the host State would from the outset be precarious (see  Jerry  Olajide
+    Sarumi v. the United Kingdom (dec.), no.  43279/98,  26 January  1999;
+    Andrey Sheabashov c. la Lettonie (dec.), no. 50065/99,  22 May  1999).
+    Where this is the case the removal of the  non-national  family  member
+    would be incompatible with Article 8 only in exceptional  circumstances
+    (see Abdulaziz, Cabales and Balkandali, cited  above,  �  68;  Mitchell
+    v. the United Kingdom (dec.), no. 40447/98, 24 November 1998, and Ajayi
+    and Others, cited above; Rodrigues da Silva and Hoogkamer, cited above,
+    ibid.)." (Emphasis added)
+
+But perhaps indicative that  the  Court  does  not  in  fact  mean  by  this
+formulation to treat immigration control and considerations of public  order
+as antinomies, the Court in Omoregie combined use of this  same  formulation
+with a finding that the legitimate aim was both "prevention of  disorder  or
+crime" and "economic well-being".
+
+ "Economic well-being"
+
+73. There are non-criminal immigration cases in which "economic  well-being"
+is the only ground identified, e.g. Berrehab v  The  Netherlands  (1988)  11
+EHRR 322, Abdulaziz [1985] ECHR 7 [58] and Rodriguez da  Silva  [2006]  ECHR
+86 [44] and Ciliz v  The  Netherlands  [2000]  2  FLR  469.  Indeed  (albeit
+unusually) in Berrehab the Court went so far as to specifically  reject  the
+government's attempt to rely on  the  legitimate  aims  of   "prevention  of
+disorder or crime" and "rights and freedoms of others":
+    "25.     In the applicants' submission, the impugned interferences  did
+         not pursue any of the legitimate aims listed in Article 8 � 2 (art.
+         8-2); in particular, they did not promote the "economic  well-being
+         of  the  country",  because  they  prevented  Mr.   Berrehab   from
+         continuing to contribute to the costs of maintaining and  educating
+         his daughter.
+         The  Government  considered  that  Mr.  Berrehab's  expulsion   was
+         necessary in the interests of public order, and they claimed that a
+         balance had been very substantially achieved  between  the  various
+         interests involved.
+         The Commission noted that the disputed  decisions  were  consistent
+         with  Dutch  immigration-control  policy  and  could  therefore  be
+         regarded as having been taken for legitimate purposes such  as  the
+         prevention of  disorder  and  the  protection  of  the  rights  and
+         freedoms of others.
+    26.   The Court  has  reached  the  same  conclusion.  It  points  out,
+         however, that the legitimate aim pursued was  the  preservation  of
+         the country's economic well-being within the meaning of paragraph 2
+         of Article 8 (art. 8-2) rather than the prevention of disorder: the
+         Government were  in  fact  concerned,  because  of  the  population
+         density, to regulate the labour market."
+74. But such cases are few and far between and of these  some  also  mention
+another legitimate aim as being in play: e.g., Abdulaziz  [57],  [76],  [86]
+and Omoregie [56].
+
+
+75. The position is different, however, when we turn to consider  UK  cases,
+as we shall see when we turn to  consider  more  closely  the  criminal/non-
+criminal classification.
+
+
+   Criminal/non-criminal classification
+
+
+76. In the UK case law there are decisions that make some attempt to  divide
+immigration cases into two categories, criminal and  non-criminal  with  the
+former being seen to engage  "prevention  of  disorder  or  crime"  and  the
+latter "economic well-being". Thus Baroness Hale in Razgar stated:
+    "44. Article 8 cases in the immigration and expulsion context  tend  to
+    be of two different types. Most commonly, the person to be expelled has
+    established a family life in the contracting state. His expulsion  will
+    be an interference, not only with his own  right  to  respect  for  his
+    private and family life, but also with that of the other members of his
+    core family group: his spouse (or perhaps partner)  and  his  children.
+    The Strasbourg court  regards  its  task  as  to  examine  whether  the
+    contracting state has struck a fair balance  between  the  interference
+    and the legitimate aim pursued by the expulsion.  The  reason  for  the
+    expulsion and the degree of  interference,  including  any  alternative
+    means of preserving family ties, will be explored and compared.
+    45. Sometimes, the reason for expulsion will  be  immigration  control,
+    which is a legitimate aim 'in the interests of the economic  well-being
+    of the country'. In Berrehab v The Netherlands (1988) 11 EHRR  322  the
+    applicant was a Moroccan who was refused  a  further  residence  permit
+    after his divorce from his Dutch wife. This was  an  interference  with
+    his right to respect for his family life with his young daughter,  whom
+    he saw four times a week for several hours each day.  The  interference
+    was disproportionate. The applicant had lived  there  legitimately  for
+    several years, had a home and a job there, and very close ties with his
+    daughter which his expulsion threatened to break. A  similar  case  was
+    Ciliz v The Netherlands [2000] 2 FLR 469; the applicant was a Turk  who
+    was refused a further residence permit after separating from his  Dutch
+    wife, despite the fact that he was still pursuing  an  application  for
+    contact with his son; the expulsion thus interfered  with  the  process
+    which was designed to fulfil the state's positive obligation to  enable
+    family ties to develop between father and  son.  In  neither  case  was
+    there an alternative means of preserving or  establishing  family  ties
+    between father and child.
+    46. Sometimes, the legitimate aim will be 'the prevention  of  disorder
+    or crime'. This has arisen in a long line of  cases  concerning  people
+    who have lived in the contracting  state  since  childhood  but  remain
+    liable to expulsion if they commit serious crimes."
+77. Something similar was said  by  (now)  Lady  Hale  in  ZH  (Tanzania)  v
+Secretary of State for the Home Department [2011] UKSC 4 at [17]-[19]:
+   1. These questions tend to arise in two rather different sorts  of  case.
+      The  first  relates  to  long-settled  residents  who  have  committed
+      criminal offences (as it happens, this was the context of WL (Congo) v
+      Secretary of State for the Home Department, above). In such cases, the
+      principal legitimate aims pursued are the prevention of  disorder  and
+      crime and the protection of the rights and  freedoms  of  others.  The
+      Strasbourg court has identified a number of factors which have  to  be
+      taken into account in conducting the proportionality exercise in  this
+      context. The leading case is now �ner v The Netherlands [2007] 45 EHRR
+      14. The starting point is, of course,  that  states  are  entitled  to
+      control the entry of aliens into their territory and  their  residence
+      there. Even if the alien has a very strong residence status and a high
+      degree of integration he cannot be equated with a national. Article  8
+      does not give him an absolute right to remain. However,  if  expulsion
+      will interfere with the right to respect for family life, it  must  be
+      necessary in a democratic society and proportionate to the  legitimate
+      aim pursued. At para 57,  the  Grand  Chamber  repeated  the  relevant
+      factors which had first  been  enunciated  in  Boultif  v  Switzerland
+      [2001] 33 EHRR 50 (numbers inserted)....
+   2. The second sort of case arises in the  ordinary  immigration  context,
+      where a person is to be removed because he or she has no right  to  be
+      or remain in the country. Once again, the starting point is the  right
+      of all states to control the entry and residence of aliens.  In  these
+      cases, the legitimate aim is likely to be the economic  well-being  of
+      the country in controlling immigration,  although  the  prevention  of
+      disorder and crime and the protection of the rights  and  freedoms  of
+      others may also be relevant. Factors (i), (iii), and  (vi)  identified
+      in Boultif and �ner  are  not  relevant  when  it  comes  to  ordinary
+      immigration cases, although the equivalent of (vi)  for  a  spouse  is
+      whether family life was established knowing of the  precariousness  of
+      the immigration situation. "
+78. In FK & OK (Botswana) the Court was faced with a submission  that  there
+could be  no  legitimate  aim  justified  by  reference  to  maintenance  of
+immigration control unless it was  linked  to  fear  of  violence  or  other
+crime.  Sir  Stanley  Burnton  gave  three  reasons   for   rejecting   that
+submission:
+   "10.I would reject this submission for three reasons. The first is that
+   this point was not taken before either the First-tier Tribunal or the
+   Upper Tribunal. Immigration Judge Hanson ...
+   11. The second reason is that the maintenance of immigration control is
+   not an aim that is implied for the purposes of article 8.2. Its
+   maintenance is necessary in order to preserve or to foster the economic
+   well-being of the country, in order to protect health and morals, and for
+   the protection of the rights and freedoms of others. If there were no
+   immigration control, enormous numbers of persons would be able to enter
+   this country, and would be entitled to claim social security benefits,
+   the benefits of the National Health Service, to be housed (or to compete
+   for housing with those in this country) and to compete for employment
+   with those already here. Their children would be entitled to be educated
+   at the taxpayers' expense (as was the second appellant). All such matters
+   (and I do not suggest that they are the only matters) go to the economic
+   well-being of the country. That the individuals concerned in the present
+   case are law-abiding (other than in respect of immigration controls) does
+   not detract from the fact that the maintenance of a generally applicable
+   immigration policy is, albeit indirectly, a legitimate aim for the
+   purposes of article 8.2.
+   12. The third reason for rejecting this submission is that it is
+   inconsistent with binding authority. For present purposes, it is
+   sufficient to refer to R (Razgar) v Secretary of State for the Home
+   Department [2004] UKHL 27 [2004] 2 AC 368 and to Huang v Secretary of
+   State for the Home Department [2007] UKHL 11 [2007] 2 AC 167. In Razgar,
+   Lord Bingham of Cornhill cited the judgment of the European Court of
+   Human Rights in D v UK (1997) 24 EHRR 423, in which the Court said, at
+   paragraph 48, in relation to the deportation of the appellant to Algeria,
+   that:
+      "such interference may be regarded as complying with the  requirements
+      of article 8, namely as  a  measure  'in  accordance  with  the  law',
+      pursuing the aims of the protection of the economic well-being of  the
+      country and the prevention of disorder and crime,  as  well  as  being
+      'necessary in a democratic society' for those aims."
+      The italics are mine."
+
+79. In JO (Uganda) v Secretary of State for the Home Department [2010]  EWCA
+Civ 10 Richards LJ said:
+   1.  I  have  concentrated  so  far  on  deportation.  Cases  of  ordinary
+      administrative removal of persons unlawfully present  in  the  country
+      operate within the  same  legal  framework  and  in  my  view  require
+      essentially the same approach. There, too, the essential  question  is
+      whether, if expulsion would interfere with rights protected by article
+      8(1),  such  interference  is  proportionate  to  the  legitimate  aim
+      pursued; and the answer to that question generally requires a judgment
+      to be made on the basis of a careful and informed  evaluation  of  the
+      facts of the particular case.
+   1. There is, however, one material difference between the  two  types  of
+      case,  in  that  they  generally  involve  the  pursuit  of  different
+      legitimate aims: in deportation cases it is the prevention of disorder
+      or crime, in ordinary removal cases it is the maintenance of effective
+      immigration control. The difference in aim  is  potentially  important
+      because the factors in favour of expulsion are in my view  capable  of
+      carrying greater weight in a  deportation  case  than  in  a  case  of
+      ordinary removal. The maintenance of effective immigration control  is
+      an important matter, but the protection  of  society  against  serious
+      crime is even more important and can properly be given correspondingly
+      greater weight in the balancing exercise. Thus I  think  it  perfectly
+      possible in principle for a given set of considerations of family life
+      and/or private life to be sufficiently  weighty  to  render  expulsion
+      disproportionate in an ordinary  removal  case,  yet  insufficient  to
+      render expulsion disproportionate in a deportation case because of the
+      additional weight to be given to the criminal offending on  which  the
+      deportation decision was based. I stress "in principle",  because  the
+      actual weight to be placed on the criminal offending  must  of  course
+      depend on the seriousness of the offences and the other  circumstances
+      of the case.
+   1. Where the person to be removed is a person unlawfully present in  this
+      country who has also committed  criminal  offences,  the  decision  to
+      remove him may pursue a double aim, namely the prevention of  disorder
+      or crime as well as the maintenance of effective immigration  control.
+      If that is the case, it should be made clear in the  reasons  for  the
+      decision, since it affects the way in which the criminal offending  is
+      factored into the analysis. Where the prevention of disorder or  crime
+      is an aim, the person's criminal offending  can  weigh  positively  in
+      favour of removal, in the same way as in a deportation  case.  But  if
+      reliance is placed  only  on  effective  immigration  control,  it  is
+      difficult to see how the person's criminal offending would  relate  to
+      that aim  or,  therefore,  count  as  a  factor  positively  favouring
+      removal. On the other hand, it might still have a  significant  effect
+      on the proportionality balance by reducing the weight to be placed  on
+      the person's family or private life: to take an obvious example, where
+      a person has spent long periods in  detention,  his  family  ties  and
+      social ties are likely to be fewer or weaker than if he  has  been  in
+      the community throughout.  Criminal  offending  can  therefore  remain
+      relevant even if the maintenance of effective immigration  control  is
+      the only aim of the removal decision;  but  careful  account  must  be
+      taken of how it bears on that decision.
+   1. The criteria in �ner are not directed in terms to an ordinary case  of
+      removal in pursuit of effective immigration control, but some of  them
+      have obvious relevance in that context too,  both  as  regards  family
+      life and as regards private life. For example, what is said about ties
+      arising from length of residence is obviously pertinent to an ordinary
+      removal case:  any  difference  in  the  extent  or  quality  of  ties
+      established by  a  person  present  in  this  country  unlawfully,  as
+      compared with those established by a lawfully settled immigrant,  goes
+      simply to weight. Similarly, the emphasis given to the position  of  a
+      person who has been in the host country since childhood is relevant in
+      the context of ordinary removal too. The first sentence of para 75  of
+      the Maslov judgment ("for a settled migrant who has lawfully spent all
+      or the major part of his or  her  childhood  and  youth  in  the  host
+      country, very serious reasons are required to justify expulsion") does
+      not apply in terms to the removal of a person who has spent  his  life
+      in the host country unlawfully, but the fact that the person has  been
+      there since childhood is still a weighty consideration in the  article
+      8 balancing exercise
+80. It is not stated in this decision  what  legitimate  aim  under  Article
+8(2) it is considered "maintenance of  immigration  control"  pursues  other
+than to negative in defeasible terms  the notion that it is  "prevention  of
+disorder or crime".
+
+81. In Mansoor, R (on the application of) v Secretary of State for the  Home
+Department [2011] EWHC 832 (Admin) Blake J stated at [34] that  "maintaining
+the integrity of our system of immigration control is a means of  protecting
+the economic well-being of a  country".  ...protecting  the  economic  well-
+being of the country is normally the most appropriate one to consider".
+
+82. We have already noted that the Secretary of State  in  a  13  June  2012
+statement  trailing  the  new  immigration  rules  and  in  an   Explanatory
+Memorandum attached to the  new  rules  described  them  as  reflecting  the
+government's view of how the balance should  be  struck  between  individual
+rights under Article 8 "and the public interests in  safeguarding  the  UK's
+economic well-being in controlling immigration and in protecting the  public
+from foreign criminals". This formulation would appear to  suggest  that  in
+respect of immigration control the  aim  pursued  is  "economic  well-being"
+whereas  in  relation  to  deportation  of  foreign  criminals  the  aim  is
+"protecting the public".
+
+83. It has to be said, however, that there  are  no  Strasbourg  cases  that
+seek to classify criminal  and  non-criminal  cases  in  this  way  and,  as
+already noted, it is extremely rare for  the  Court  to  identify  "economic
+well-being" as a legitimate aim in any of the immigration cases.
+
+84. It would  appear  that  (i)  the  above  trends  in  the  UK  case  law,
+particularly the formulation given in JO (Uganda) v Secretary of  State  for
+the Home Department  [2010] EWCA Civ 10, which as we have noted left  as  an
+unanswered question what the precise  legitimate  aim  was  in  non-criminal
+cases, together with (ii) the posture adopted by the Home Office  in  policy
+statements and in an Explanatory Memorandum to the  new  immigration  rules,
+have been picked up and understood in some quarters as establishing that  in
+non-criminal cases  the legitimate aim cannot be "prevention of disorder  or
+crime" and that (at least normally) the only  legitimate  aim  is  "economic
+well-being". In our judgment that cannot be right. Not  only  does  such  an
+understanding find (virtually) no support in the  Strasbourg  jurisprudence,
+it also does not withstand a closer inspection of the UK cases just cited.
+85. First of all, it is clear that the observations they make  are  attempts
+to discern trends, not to establish fixed  formulae  (see  the  above  quote
+from Baroness Hale in Razgar ("Article 8 cases ....tend to be") and the  use
+by Richards LJ of the adverb "generally" in  JO  (Uganda)  at  [29]  and  by
+Blake J in  Mansoor  of  the  word  "normally".  Second,  Lady  Hale  in  ZH
+(Tanzania) v Secretary of State for the Home Department  [2011]  UKSC  4  at
+[18] emphasises the point that even  when  economic  well-being  is  engaged
+other grounds may also be in play: ("although  the  prevention  of  disorder
+and (sic) crime and the protection of the rights and freedoms of others  may
+also be relevant.") Third, insofar as this line  of  cases  seeks  to  treat
+"economic well-being" as the most appropriate head, that is  because  it  is
+considered  that  "maintenance  of  effective  immigration  control"  is  an
+essential aspect of this ground and as  we  have  seen,   there  are  strong
+grounds for regarding this formulation as an aspect of  the  "prevention  of
+disorder" clause. Fourth,  in  [12]  of  FK  &  OK,  immediately  after  the
+paragraph which  might  be  thought  to  hold  that  "effective  immigration
+control" is an aspect of  the  "economic  well-being"  legitimate  aim,  Sir
+Stanley Burnton draws support for his position from Lord Bingham's  citation
+in Razgar of the judgment of the European Court of Human Rights in  D  v  UK
+(1997) 24 EHRR 423  in which  the  Court  had  said,  at  paragraph  48,  in
+relation to the deportation of the appellant to Algeria, that:
+      "such interference may be regarded as complying with the  requirements
+      of article 8, namely as  a  measure  'in  accordance  with  the  law',
+      pursuing the aims of the protection of the economic well-being of  the
+      country and the prevention of disorder and crime,  as  well  as  being
+      'necessary in a democratic society' for those aims."
+
+86. Sir Stanley Burnton  placed  the  emphasis  (by  means  of  italics)  on
+"economic well-being" but that does not alter the fact that the text  refers
+to both this ground and "prevention of disorder or crime".
+
+87. Fifth, as already noted, although the Strasbourg Court  in  more  recent
+times  has  only  rarely  expressly  identified  "maintenance  of  effective
+immigration control" as an aspect of "prevention of disorder or  crime",  it
+has made clear in its reasoning  that  it  regards  immigration  control  as
+having a rationale outside the criminal context. Thus in Antwi v  Norway,  a
+non-criminal case,  at [90] the  Court  noted  that,  "as  already  held  on
+previous occasions, the  possibility  for  the  authorities  to  react  with
+expulsion would constitute an important means of general deterrence  against
+gross or repeated violations of the Immigration Act".
+
+88. A similar approach can be discerned in UK cases.  If one considers  what
+was said by Judge LJ in N (Kenya) at [83],  what  he  describes  is  not  an
+immigration control system concerned only with prevention of  crime.  As  he
+describes it, such a system exists to control the  entry  and  residence  of
+non-UK citizens and its operation "must take  account  of  broad  issues  of
+social cohesion in the UK".
+
+89.  In our judgment, "issues of social cohesion" go as much  to  the  issue
+of "[dis]order" as  to  "crime".  At  the  level  of  theory  and  practice,
+therefore, immigration control cannot be  disentangled  from  considerations
+of public order and the "prevention of disorder" aspect of  the  "prevention
+of crime or disorder" head. Immigration control may also  be  an  aspect  of
+protecting "economic well-being", but here at the general  level  there  are
+no dichotomies.
+
+Summary of general conclusions on legitimate aims in Article  8  immigration
+    cases
+
+90. We would summarise our general conclusions so far on legitimate aims  in
+Article 8 immigration cases as follows:
+
+   a) "Maintenance of effective immigration control", whilst not as  such  a
+      legitimate aim under Article 8(2) of the ECHR, can normally be assumed
+      to be either an aspect of "prevention of  disorder  or  crime"  or  an
+      aspect of "economic well-being of the country" or both.
+
+   b) In expulsion cases "[p]revention of disorder or crime" is  normally  a
+      legitimate aim both in cases where there has been criminal conduct  on
+      the part of the claimant and in  cases  where  there  have  only  been
+      breaches of immigration law.
+
+Our Assessment
+
+91. We turn to consider the Secretary of State's appeal in the light of  our
+foregoing analysis.
+
+The issue of identification of the legitimate aim(s)
+
+92. It is pertinent to ask at the outset whether it can  be  said  that  the
+judge erred because he chose to address the issues  of  legitimate  aim  and
+proportionality at all. Indeed, in her refusal decision  the  SSHD  did  not
+mention Article 8 and only mentioned human rights at all in the  context  of
+notifying the claimant of his appeal rights.  The claimant for his part  had
+only glancingly asked in his grounds of appeal to  the  First-tier  Tribunal
+to be considered under Article 8 inasmuch  as  he  had  cited  CDS  (Brazil)
+(which as we know dealt with Article 8) and he had not raised  any  specific
+argument to the effect that the decision under challenge did  not  pursue  a
+legitimate aim or lacked proportionality. So far as  we  can  tell,  at  the
+hearing before Judge Hindson his representative did not raise Article 8  nor
+did the Home Office Presenting Officer refer to it. The  only  reference  of
+any relevance to this issue was made by the SSHD in her  grounds  of  appeal
+to the Upper Tribunal which avowed that her decision served the  purpose  of
+maintenance of effective immigration control.
+
+93. Whilst if the claimant or the parties had  addressed  these  two  issues
+substantively that would have  properly  informed  the  judge's  assessment,
+their failure to do so did not prevent the judge  from  addressing  them  of
+his own motion. Indeed, so long as a judge considers that an appeal  engages
+an Article 8 argument with a realistic prospect of success, it is  incumbent
+on him to resolve it, so as to comply with his obligation  under  section  6
+of the Human Rights  Act  and  that  will  ordinarily  require  at  least  a
+proportionality assessment. We would emphasise,  however  (and  consistently
+with what was said by Sales J in Nagre), that the test is whether  there  is
+a realistic prospect of success. It would not in our view be erroneous of  a
+judge to fail to deal with an Article 8 claim that is only raised  in  vague
+and non-specific terms unless there was a Robinson-obvious dimension to  it.
+
+
+94. It is also pertinent to ask at this stage whether  the  failure  by  the
+SSHD to identify any legitimate aim pursued by her adverse  decision  (prior
+to an indirect mention in her grounds  of  appeal  to  the  Upper  Tribunal)
+precluded the judge from considering for himself what the legitimate aim  or
+aims (if any) was/were. Again, we consider the answer will  be  sufficiently
+clear from  our  earlier  analysis  which  highlighted  the  fact  that  the
+Strasbourg Court essentially reconstructs  for  itself  from  the  materials
+before it what the  legitimate aim or aims is/are.
+
+95. But by virtue of binding domestic authority our answer must  go  further
+than that. Any notion that there  is  an  onus  on  the  SSHD  as  a  public
+authority to identify any legitimate aim which she considers to  be  pursued
+by  the  decision  under  appeal  must  be  strongly   rejected   as   being
+inconsistent with binding domestic authority. As  noted  by  Lord  Mance  in
+Belfast City Council v. Miss Behavin' Ltd (Northern Ireland) [2007] UKHL  19
+(25 April 2007), which concerned a  decision  by  Belfast  City  Council  to
+refuse to grant a license to a sex shop:
+
+  43. The Court of Appeal cited Re Connor's Application [2004] NICA  45  for
+      the uncontroversial proposition that the evaluation of  the  interests
+      protected  by  the  Convention  was  primarily  one  for  the  Council
+      (paragraph 55). But it went on  to  rely  on  that  case  (decided  in
+      relation to article 8) for the proposition that:
+           "Where no appraisal of the relevant interests had been made, the
+           court could only conclude that the  interference  was  justified
+           if, on analysis, it determined that it was inevitable  that  the
+           decision-maker would have decided that the article 8  rights  of
+           the  individual  would  have  to  yield  to  protect  the  wider
+           interests outlined in article 8(2)".
+      The Court of Appeal went on to apply that proposition in  relation  to
+      both article 1 of the First Protocol (paragraph 56) and article 10  of
+      the Convention (paragraph 63). It said (paragraph 56):
+           "The interference  with  the  appellant's  rights  can  only  be
+           justified, therefore, if either the public authority has decided
+           that the general interest demands it or it is inevitable that it
+           would have so decided had it been conscious of the  interference
+           with the appellant's rights  that  refusal  of  the  application
+           entailed."
+   1.   Authority now shows that this  is  not  the  correct  approach.  The
+      court's role is to  assess  for  itself  the  proportionality  of  the
+      decision-maker's decision: R (SB) v. Governors of Denbigh High  School
+      [2006] UKHL 15, [2007] 1 AC 100. The court will not require a decision-
+      maker to put itself through the hoops of a complex series of questions
+      such as the Court of Appeal suggested in that case  ([2005]  EWCA  Civ
+      199; [2005] 1 WLR 3372). In the Denbigh case,  Lord  Bingham  rejected
+      the "new formalism" that the Court of  Appeal's  approach  would  have
+      involved, and said that "what matters in any  case  is  the  practical
+      outcome, not the quality of the decision-making process  that  led  to
+      it" (paragraph 31).
+      ...
+   1. ....But, what is the position if a decision-maker is not conscious  of
+      or does not address his or its mind at all to the existence of  values
+      or interests which are relevant under the Convention?
+   1.   The court  is  then  deprived  of  the  assistance  and  reassurance
+      provided by  the  primary  decision-maker's  "considered  opinion"  on
+      Convention issues. The court's scrutiny is bound to be closer, and the
+      court may, as Baroness Hale observes in paragraph 37 of  her  opinion,
+      have no alternative but to strike the balance for itself,  giving  due
+      weight to such judgments as were made by the primary decision-maker on
+      matters he or it did consider."
+
+96. See the similar observations made by  Lord Hoffman at [15] and [26],  by
+Baroness Hale at [31]-[32].
+
+97. It is also noteworthy that in Belfast City Council  v  Miss  Behavin'Ltd
+their lordships saw the role  of  the  court  (in  cases  where  the  public
+authority has not addressed human rights) as extending  to  taking  it  upon
+themselves to identify (or at  least  to  postulate)  whether  there  was  a
+legitimate aim: see Lord Hoffman at [19], Baroness Hale at [37], Lord  Mance
+at [42], Lord Neuberger at [83].
+
+98. It may be thought that where the "public authority" is the  SSHD  rather
+than a local council or a school governor, that should make a difference  in
+that caseworkers acting on behalf of the SSHD must be assumed to  know  (and
+are instructed) that  they  must  decide  whether  their  decisions  are  in
+compliance  with  a  person's  human  rights,  but  in  our  view  any  such
+difference cannot extinguish  the  general  principle  enunciated  by  their
+lordships in relation to what a court or tribunal must do  when  considering
+the decision of a "public authority" which has not addressed  human  rights.
+
+
+99. Further, in relation to any failure to identify a  legitimate  aim,  the
+extent of any difference is mitigated by at least two  factors.   First,  to
+the extent that it can be said that SSHD caseworkers can be assumed to  know
+they must consider a person's human rights, by the same  token,  it  can  be
+assumed that the public knows that such officials make decisions  on  behalf
+of a government department which has a statutory responsibility to  apply  a
+legal framework of  immigration  control  over  third-country  nationals  as
+contained in statute and immigration rules.  Indeed  (as  noted  earlier  at
+[55], in respect of family members rule GEN.1.1 of Appendix FM  states  that
+this appendix  reflects  how  the  balance  is  to  be  struck  between  the
+individual's right to respect for family life and all 6 of  the  "legitimate
+aims" set  out  in  Article  8(2).   To  this  extent  (and  absent  special
+circumstances) it is self-evident that decisions made by the  SSHD  (and  by
+ECOs) normally pursue the aim of maintaining effective immigration  control.
+
+         .
+100. Second, the SSHD has stated in the public realm that she considers  the
+new immigration rules brought into force in July 2012  to  comply  with  the
+Human Rights Act and has said on numerous occasions before  the  courts  and
+in published policy and in the June 2012  Explanatory  Memorandum  that  she
+considers  these  rules  to  be  an  important  mechanism  for   maintaining
+effective immigration control.
+
+101. Accordingly in our judgment it was not incumbent on the SSHD  in  these
+proceedings to have  identified  what  she  considered  the  legitimate  aim
+pursued by her decision to be. That she considered her  decision  to  pursue
+the effective maintenance of immigration control was something the  claimant
+could be considered to be on notice of.
+
+The SSHD's grounds
+
+102. As regards ground 1 (which sought to rely  on  an  MF-related  argument
+that the judge was wrong not  to  have  treated  the  claimant's  Article  8
+circumstances solely under the new rules), it will be apparent that  whether
+one interprets MF as establishing that  the  new  Immigration  Rules  are  a
+complete code regarding Article 8 in general or  only  in  relation  to  the
+deportation provisions set out in paragraphs 398,399 and  399A,  the  First-
+tier judge conducted a substantive Article 8 assessment by reference to  his
+understanding of the general law on Article 8. As Mr Deller  conceded,  that
+assessment cannot be vitiated by legal error just because it  was  not  made
+within the Rules.
+
+103. Concerning ground 2, we do not consider that  the  First-tier  Tribunal
+judge relied in any significant way on a "Near-Miss" principle. He  did,  it
+is true, attach significant weight to the fact that  the  claimant  had  met
+the requirements of the immigration rules in substance, but the  reasons  he
+gave for allowing the appeal on Article 8 grounds dwelt not on the  fact  of
+a 'Near Miss' but, as he saw it, on the disproportionality  of  the  adverse
+immigration decision given the claimant's particular  circumstances.  We  do
+not think the judge was doing anything more here  than  what  Lord  Carnwath
+described approvingly in Patel at [56]  as  treating  "the  context  of  the
+rules [as] relevant to the consideration of proportionality". If  the  judge
+has fallen into error,  then,  it  is  in  the  way  he  has  conducted  the
+proportionality assessment in the light of the relevant  legitimate  aim  or
+aims.
+
+104. This brings us to ground 3, in respect of which we do think  the  judge
+did fall into legal error.
+
+105. Applying the main principles we have derived from case law  on  Article
+8(2)  to  the  judge's  assessment  of  the  claimant's  case,  it  will  be
+immediately  apparent  that  the  judge  wrongly  addressed  his  task  when
+considering the proportionality of the legitimate  aim  of  "economic  well-
+being" (which was the only legitimate aim  he  considered  to  be  engaged).
+Although making reference to "the legitimate aim of  securing  the  economic
+well-being of  the  UK  by  sensible  immigration  control"  (which  clearly
+identified that this head extended to the general  (or  "macro")  level,  he
+wholly confined his actual assessment of the weight to be  attached  to  the
+legitimate aim pursued by the decision of the SSHD to a simple  calculus  at
+the  individual or "micro" level, so that all that appeared in  the  balance
+sheet were the funds the claimant had paid in course fees and the fact  that
+he had enough to maintain and accommodate  himself.   He  wholly  overlooked
+that even in cases where there is no  cost  to  the  state  incurred  by  an
+individual student in terms of fees and maintenance and  accommodation,  the
+immigration rules reflect an assessment made  by  the  government  with  the
+sanction of Parliament of  what  requirements  are  necessary  in  order  to
+ensure sufficient control on the number of persons entering  into  or  being
+able to stay in the UK and for how long and under  what  conditions.   Their
+terms quintessentially require  an  assessment  at  the  "macro"  level.  He
+failed to take into account  whether  general  aspects  of  "economic  well-
+being", including the need to limit the numbers who have  access  to  public
+services and the benefits of the  NHS  and  who  are  able  to  compete  for
+housing and for employment with those already here: see FK & OK [11]  (supra
+[78]).
+
+106. Even if we were to reject Mr Deller's argument that the judge  at  [23]
+appeared to confine  the issue of  "economic  well-being"  to  the  economic
+well-being  of  a  private  college  (  "the  judge  said  "he  is  bringing
+substantial funds into the country to pay his course fees....") and  instead
+inferred that the judge had also  in  mind  the  contribution  made  to  the
+country's economy by overseas students, it is plain that  he  did  not  take
+into account other general aspects of the legitimate aim of "economic  well-
+being" identified in the previous paragraph.
+
+107. That is not to say that  a  judge  is  prevented  when  conducting  the
+balancing exercise of assessing proportionality from weighing in a  person's
+favour that he contributes financially or in other ways to  the  economy  or
+the public good or that he has not been a drain  on  the  public  purse.  If
+such factors are combined with  other  strong  factors  in  favour  of  that
+person, that might mean that general considerations of  economic  well-being
+are outweighed. But in the claimant's case  there  was  a  glaring  lack  of
+factors strongly in his favour.
+
+108.  In  our  view  this  error  by  the  judge  fundamentally  skewed  his
+proportionality assessment. It led him to attach no or virtually  no  weight
+to the legitimate aim of "economic well-being" pursued by  the  decision  of
+the SSHD and as a consequence to regard the scales as weighted in favour  of
+the individual claimant notwithstanding that  his  case  had  no  strong  or
+compelling  features.  This  error  necessitates  that  we  set  aside   his
+decision.
+
+109. We have yet to comment on the other limb to Mr Deller's ground 3  which
+argued that the judge had also erred in law in considering that  the  public
+interest was only to be adjudged by  reference  to  whether  the  claimant's
+continued stay in the UK had an adverse effect on this  country's  "economic
+well-being" thereby ignoring a separate legitimate  aim  of  "prevention  of
+disorder or crime". We have concluded that  this  contention  has  not  been
+made out. We  have  in  mind  that  in  describing  the  legitimate  aim  as
+"securing  the  economic  well-being  of  the  UK  by  sensible  immigration
+control", the judge appeared to amalgamate two aims, that of "economic well-
+being" and that of "maintenance of effective  immigration  control".  Whilst
+as we have seen the latter is not a legitimate aim  as  such,  it  could  be
+said that the judge was doing no more than what  is  commonly  done  by  the
+Strasbourg Court and the UK courts, of treating it as a self-evident  aspect
+of at least one of the legitimate aims sanctioned by  Article  8(2).  Whilst
+we think  that  normally  "maintenance  of  effective  immigration  control"
+should be regarded as an aspect of "prevention of  disorder  or  crime",  we
+recognise that some Strasbourg jurisprudence has seen it  as  an  aspect  of
+"economic well-being" on its own or (more  commonly)  as  well.   That  also
+comports with a line of UK cases which has linked "maintenance of  effective
+immigration control" and "economic well-being".
+
+
+Our Decision
+
+110. We turn then to re-make for ourselves the decision  against  which  the
+claimant appealed. We take into account a short statement submitted  by  the
+claimant dated 3 February 2014, although it adds nothing to the evidence  we
+already have about his case.
+
+111. In most respects the claimant's is a run  of  the  mill  case.   He  is
+someone who has been in the UK now for  nearly  6  years  (he  came  in  May
+2008); has never been in breach of immigration controls; was  considered  by
+the SSHD to have met all of the requirements  of  the  relevant  immigration
+rules save for two and of these one (relating to  his  sponsor)  he  met  de
+facto, the other may possibly have been rectified if the SSHD had  told  him
+his bank statements did not fully cover the  requisite  period;  is  someone
+who  via his uncle  has invested a considerable sum in order to advance  his
+own level of education and skills; and is someone who believes that  if  his
+appeal is refused, "then the hard earned money  of  my  family  will  go  to
+drain".
+
+112.  There are also two somewhat unusual features of his  case.   There  is
+first of all the fact that when the SSHD previously refused  to  extend  his
+leave to remain as a student on the basis  that  he  was  not  funded  by  a
+parent or guardian, a  First-tier  Tribunal  judge  allowed  his  appeal  on
+Pankina grounds.  There is  the  further  fact  that  when  the  SSHD  later
+refused him on the same ground, a First-tier Tribunal judge also found  that
+he was a genuine student  who  had  only  failed  to  comply  with  the  new
+requirement of the rules regarding financial support by sponsors because  he
+had relied on college advisors.
+
+113. On the other side of the scales, the claimant had not been  in  the  UK
+for a lengthy period; although he had never been in  breach  of  immigration
+laws, he had only ever been granted entry and leave to remain as  a  student
+here for temporary purposes of study; in the time he had been  here  he  had
+already obtained the qualification which had been the  basis  of  his  entry
+clearance application (a  Masters  in  Business  Administration  from  Alpha
+College in 2010); in respect of other aspects of his private  life  ties  he
+did not seek to rely on  ties  of  friendship  or  community,  even  in  the
+witness statement submitted shortly before the  hearing  before  the  First-
+tier Tribunal in August 2013; although he had succeeded  before  the  First-
+tier Tribunal in 2009 on Pankina grounds, the law had  subsequently  changed
+and it is settled law that applicants must take  the  immigration  rules  at
+the time their cases fall for decision:  see Munir and  Patel;  although  he
+was unaware of  the  changes  in  the  Immigration  Rules  (an  unchallenged
+finding of Judge Hindson), as a general rule ignorance  of  the  law  is  no
+excuse; the fact of the matter was that the rules had been amended so as  to
+incorporate earlier policy guidance that  a  financial  sponsor  must  be  a
+parent or guardian: the claimant's application was not only refused  because
+he did not meet the financial sponsor requirement, he  had  also  failed  to
+submit bank statements covering the entirety of the requisite period.
+
+114. Judge Hindson considered that if the appeal was not allowed on  Article
+8 grounds "he would almost certainly  miss  one  academic  year  of  study".
+Since by virtue of s.85(4) we must decide this appeal on the basis of  facts
+as they stand today (this being  a  case  in  which  we  are  re-making  the
+decision), that point has a diminished weight because the  claimant  is  now
+only a few weeks away from completing his course  (ending  18  March  2014).
+But even as matters stood before Judge Hindson, it is difficult to see  what
+evidential foundation he had for considering the consequence  would  "almost
+certainly" be the missing one academic  year.   Certainly  many  courses  of
+this kind are available in modular form.  In the absence of evidence  as  to
+what credit colleges in Pakistan might give for modules completed  on  a  UK
+course of this kind (or as to whether his UK  college  would  allow  him  to
+complete the course by  electronic  means),  we  draw  no  firm  conclusions
+ourselves, but we can certainly say that we have not seen  any  evidence  to
+show that the claimant would lose as much as a whole academic year.  In  any
+event that consideration, whilst not a trivial matter, is not  in  our  view
+one which takes (or should take) matters much  further  in  the  context  of
+Article 8.
+
+115. Particularly bearing in mind the observations made by Lord Carnwath  in
+Patel both about student cases in general [at 57] and about the two  student
+appeals of Mr Anwar and Mr Alam at [58]-[59] and also the observations  made
+by the Upper Tribunal in Nasim and  others  (Article  8)  at  [26]-[27],  we
+consider the claimant cannot  succeed  on  Article  8  grounds.   There  are
+simply no strong or compelling circumstances surrounding his case.   In  our
+view, to allow his appeal on Article  8  grounds  would  be  to  debase  the
+currency.  There are no significant elements of private life engaged by  the
+circumstances of his case.  To the extent that  he  can  be  said  (via  his
+uncle) to have invested in a UK  education,  he  has  already  obtained  one
+degree and the further one he is now  doing  does  not  represent  a  higher
+level degree, although it is right to say that the  SSHD  did  not  seek  to
+refuse his decision under the relevant requirement of  the  Rules  governing
+academic progress.   In relation to his family life, he has close ties  back
+in Pakistan with his mother and  his  uncle  and  his  family.  He  has  not
+adduced any evidence to show that he has significant private life ties  with
+friends or a wider community.
+
+116. For the above reasons we dismiss this appeal.  The  claimant  does  not
+succeed under the Immigration Rules or under Article 8.
+
+117. To conclude:
+
+     The First-tier Tribunal erred in law and its decision is set aside.
+
+     The decision we re-make is to dismiss the appeal on all grounds.
+
+
+
+Signed                                  Date
+
+
+Upper Tribunal Judge Storey
+
+
+

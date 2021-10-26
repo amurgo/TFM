@@ -1,0 +1,223 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: HU/10790/2018
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                          |Decision & Reasons Promulgated|
+|On 28 January 2019                            |On 20 February 2019           |
+|                                              |                              |
+
+                                   Before
+
+                    DEPUTY UPPER TRIBUNAL JUDGE SHERIDAN
+
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                            Mr PAUMIL RAKESH SHAH
+                       (ANONYMITY DIRECTION NOT MADE)
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Ms J Isherwood, Senior Home Office Presenting
+Officer
+For the Respondent:    Ms S Sharma, Counsel instructed by Aschfords Law
+
+
+                            DECISION AND REASONS
+
+ 1. This is an appeal by the Secretary of State.  However, for convenience
+    I will refer to the parties as they were referred to in the First-tier
+    Tribunal.
+
+ 2. The appellant is a citizen of India born on 26 June 1985.  On 31 August
+    2017 he applied for indefinite leave to remain in the UK on the basis
+    of ten years' residence under paragraph 276B of the Immigration Rules.
+    His application was refused under paragraphs 276B(ii)(c) and 276B(iii)
+    (with reference to Paragraph 322(5)) because in an application for
+    leave to remain made in February 2011 he claimed to have earnings of
+    �22,722.21 between 30 April 2010 and 31 January 2011, whereas his
+    income in the tax year 2010/11 was declared to HMRC as being only
+    �9,111.
+
+ 3. The appellant appealed to the First-tier Tribunal where his appeal was
+    heard by Judge of the First-tier Tribunal Smith.  In a decision
+    promulgated on 29 November 2018 the appeal was allowed.  The Secretary
+    of State is appealing against that decision.
+
+Decision of the First-tier Tribunal
+
+ 4. The judge found that the appellant had given accurate information to
+    the Home Office in his 2011 application but had intentionally and
+    dishonestly given incorrect information to HMRC for the purposes of
+    determining how much tax he was required to pay in the 2010/11 tax
+    year.  The judge rejected the appellant's explanation that there had
+    been an accidental underpayment and that the fault lay solely with his
+    accountant.
+
+ 5. Despite finding that the appellant had been dishonest, the judge
+    reached the conclusion that the appellant did not fall foul of
+    paragraph 322(5) and on that basis allowed the appeal under Article 8
+    ECHR.
+
+ 6. The judge gave several reasons for finding that the appellant's
+    application should not be refused under paragraph 322(5).  These
+    include:
+
+      a) Paragraph 322(5) is primarily intended to apply to conduct that is
+         more serious than that carried out by the appellant.  The judge
+         reached this view in light of Home Office Guidance dated 11 January
+         2018 on General Grounds for Refusal.
+
+      b) The dishonesty did not have the effect of conferring an immigration
+         advantage.
+
+      c) No money was outstanding to HMRC.
+
+      d) The appellant did not engage in repeat conduct.
+
+      e) There have been no enforcement proceedings by HMRC.
+
+      f) Character references show that the appellant has a good positive
+         character and is a popular teacher at his school.
+
+ 7. The judge considered the Upper Tribunal decision Khan v Secretary of
+    State (Dishonesty, tax return, paragraph 322(5)) [2018] UKUT 384 (IAC),
+    and at paragraph 42 distinguished it from the appeal before him.  He
+    stated:
+
+         "The Presenting Officer relied on Khan (and the authorities cited
+         therein) for the contrary proposition.  In that case, Spencer J
+         held that the Secretary of State had acted rationally when applying
+         paragraph 322(5) in relation to an over-declaration of claimed
+         income.  It was not a case analogous with the present matter,
+         whereby the appellant's claimed income was at the correct level,
+         but the declaration to HMRC was below that level.  Even if it were
+         directly on point with these proceedings, it would be of limited
+         precedential value.  As the  judge noted, in judicial review
+         proceedings, the court is not conducting a merits-based review.  It
+         is addressing whether the Secretary of State's decision was within
+         the range of reasonable decisions he could properly have taken.  It
+         was not mandating the role that a fact-finding Tribunal should take
+         in a full, merits-based appeal".
+
+ 8. The judge also considered the Secretary of State's Operational
+    Instruction relating to earnings discrepancies and applications by Tier
+    1 (General) Migrants dated 22 November 2018.  The judge noted that this
+    Operational Instruction postdates the hearing and only took effect from
+    22 November 2018.
+
+ 9. The judge concluded that because the appellant did not fall foul of
+    paragraph 322(5) his appeal should be allowed under Article 8 ECHR.
+
+Grounds of appeal and submissions
+
+10. The Secretary of State appealed on the basis that the judge failed to
+    follow Khan and failed to appreciate that dishonesty in tax affairs
+    meets the standard for refusal under paragraph 322(5).
+
+11. Ms Isherwood highlighted the extent and nature of the adverse findings
+    by the judge in respect of the appellant's dishonesty.  She argued that
+    it was inconsistent with Khan to find that paragraph 322(5) was not
+    applicable, given that dishonesty in tax affairs had been established.
+
+
+
+12. Ms Sharma's response was that the judge had properly considered Khan
+    and had explained why it was distinguished from the present appeal.
+    She drew attention to the judge's finding that no tax was outstanding.
+
+
+
+13. I raised with Ms Isherwood that the grounds of appeal did not raise the
+    issue of whether the judge had failed to consider paragraph 276B(ii)(c)
+    which is a distinct basis for refusing indefinite leave under paragraph
+    276B.  Ms Isherwood acknowledged that this was the case and accepted it
+    was too late to now raise this issue (as it was not in the grounds).
+
+Analysis
+
+14. Paragraph 322(5) is one of several grounds in the Immigration Rules
+    where it is stipulated that leave to remain should normally be refused.
+     It refers to:
+
+         "the undesirability of permitting the person concerned to remain in
+         the UK in the light of his conduct (including convictions which do
+         not fall within paragraph 322(1C) character or associations or the
+         fact that he represents a threat to national security."
+
+15. Khan is a recent judicial review case in the Upper Tribunal which
+    considered the applicability of paragraph 322(5) where an applicant for
+    leave to remain is alleged to have been dishonest because of a
+    discrepancy between income disclosed in an immigration application and
+    income declared to HMRC.  At paragraph 32 Spencer J stated:
+
+         "The starting point seems to me to be that, where the Secretary of
+         State discovers a significant difference between the income claimed
+         in a previous application for leave to remain and the income
+         declared to HMRC (as here), she is entitled to draw an inference
+         that the application has been deceitful or dishonest and therefore
+         he should be refused ILR within paragraph 322(5) of the Immigration
+         Rules." (emphasis added)
+
+16. Although in the above cited paragraph Spencer J indicates that the
+    Secretary of State should refuse indefinite leave to remain under
+    paragraph 322(5) where there is a finding of dishonesty in tax affairs,
+    the issue in Kahn was not whether dishonesty to the HMRC should lead to
+    refusal under 322(5) but rather the Secretary of State's approach to
+    determining whether an applicant has been dishonest or merely careless.
+     This distinction is not relevant to the present appeal as the judge
+    found that the appellant had been dishonest (and not merely careless).
+
+
+
+17. Where, as in this appeal, there has been dishonesty to the HMRC it is
+    clearly open to a judge to refuse indefinite leave to remain under
+    paragraph 322(5) as a consequence.  However, that does not mean that in
+    all cases where there has been dishonesty to the HMRC a judge must find
+    that indefinite leave to remain should be refused. Where there has been
+    dishonesty in tax affairs a judge must consider the applicability of
+    paragraph 322(5) but there may be cases where, because of other
+    considerations, it is found to not apply notwithstanding the
+    dishonesty.
+
+18. In my view, the judge has not erred in the approach he has taken.  He
+    correctly recognised that, in the light of his finding of dishonesty in
+    tax affairs, it might be appropriate to refuse indefinite leave to
+    remain under paragraph 322(5).   He carefully considered the
+    applicability of paragraph 322(5) to the appellant, having regard to
+    the Secretary of State's guidance, as well as the recent case of Khan
+    (as discussed above).   The judge recognised that the appellant's
+    dishonesty was a serious matter but also had regard to other factors,
+    such as that there had been only a single act of deception, no money
+    was outstanding to HMRC and evidence of good character.
+
+19. I am satisfied that it was not inconsistent with Khan for the judge to
+    find that even though the appellant had been dishonest in his tax
+    affairs paragraph 322(5) was not applicable in the particular
+    circumstances.  Even though many other judges might have come to a
+    different view the judge has reached a decision that was, in my view,
+    open to him.  The appeal is therefore dismissed.
+
+Notice of Decision
+
+The appeal is dismissed and the decision of the First-tier Tribunal stands.
+
+No anonymity direction is made.
+
+|Signed                                  |  |   |                             |
+|                                        |  |   |                             |
+|                                        |  |   |                             |
+
+
+Deputy Upper Tribunal Judge Sheridan    Dated:  19 February 2019

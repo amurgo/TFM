@@ -1,0 +1,236 @@
+
+IAC-PE-AW-V1
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: OA/20797/2013
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                            |Determination Promulgated  |
+|On 18th December 2014                           |On 28th April 2015         |
+|                                                |                           |
+
+                                   Before
+
+                      DEPUTY UPPER TRIBUNAL JUDGE LEVER
+
+
+                                   Between
+
+                          Mr Banga Colline Karamira
+                          (anonymity not retained)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Mr Klear of Counsel
+For the Respondent:    Miss Holmes
+
+
+                          DETERMINATION AND REASONS
+
+Introduction
+
+ 1. The Appellant born on 27th March 1999 is  a  citizen  of  Uganda.   The
+    Appellant was represented by Mr Klear of Counsel.  The  Respondent  was
+    represented by Miss Holmes, a Home Office Presenting Officer.
+
+
+
+Substantive Issues under Appeal
+
+ 2. The Appellant had applied for settlement as the dependent  child  of  a
+    British citizen present and settled  in  the  United  Kingdom  on  12th
+    September 2013.  The Respondent had refused that  application  on  14th
+    October 2013.  The Appellant had appealed that decision and the  appeal
+    was heard by First-tier Tribunal Judge Malone sitting at  Taylor  House
+    on 19th September 2014.  The judge had allowed  the  appeal  under  the
+    Immigration Rules.
+
+ 3. The Respondent had made application for permission to appeal dated  6th
+    October 2014.  Permission to appeal was granted by First-tier  Tribunal
+    Judge Cox on 13th November 2014.  Permission was granted on  the  basis
+    that it was arguable that the judge had materially misdirected  himself
+    in law and failed to give  adequate  reasons  in  respect  of  material
+    matters.  Directions were issued  for  the  Upper  Tribunal  to  decide
+    firstly whether or not an error of law had been  made  and  the  matter
+    came before me in accordance with those directions.
+
+Submissions on Behalf of the Respondent
+
+ 4. Miss Holmes presented submissions in line with the  Grounds  of  Appeal
+    submitted by the Respondent namely that the judge had firstly erred  in
+    law in respect of his  understanding  at  paragraph  320(7A).   It  was
+    further said that the judge had failed to  give  adequate  reasons  for
+    findings  on  material  matters  relating  to   the   issue   of   sole
+    responsibility.
+
+Submissions on Behalf of the Appellant
+
+ 5. It was submitted that the  Appellant  had  been  unrepresented  at  the
+    hearing but the judge had found the Sponsor to be credible and  honest.
+    There were little further submissions  on  the  question  of  paragraph
+    320(7A) but it was submitted that in terms of sole  responsibility  the
+    judge had dealt properly with that matter.
+
+ 6. At the conclusion of the hearing I reserved my decision to consider the
+    evidence and submissions presented.  I now provide that  decision  with
+    my reasons.
+
+Decision and Reasons
+
+ 7. There were two matters for the judge to decide in this  case.   Firstly
+    did the  Appellant's  application  fall  for  mandatory  refusal  under
+    paragraph 320(7A) of the Immigration Rules, and secondly in  any  event
+    did the Appellant succeed under paragraph 297 of the Immigration  Rules
+    where the issue was the question of sole responsibility.
+
+ 8. In respect of the  first  matter  a  first  birth  certificate  of  the
+    Appellant had been presented to the Entry Clearance Officer.  The Entry
+    Clearance  Officer  having  obtained  a  document  verification  report
+    concluded that that birth certificate was false.  It was on  the  basis
+    of that first  false  birth  certificate  the  Respondent  refused  the
+    application under paragraph 320(7A).  At a later stage a  second  birth
+    certificate was presented to the Entry Clearance Manager on review.   A
+    further document verification report was obtained which disclosed  that
+    document was genuine.  However the Appellant's  alleged  father's  name
+    was recorded on the birth certificate inconsistent with  the  Sponsor's
+    evidence she did not know the name or identification of the Appellant's
+    father.  That had led the  Entry  Clearance  Manager  to  question  the
+    veracity of the Sponsor's account of the conception  of  the  Appellant
+    but he did not find  that  second  birth  certificate  to  be  a  false
+    document.
+
+ 9. The judge somewhat erroneously at paragraph 23 appears to have believed
+    that the Respondent relied upon both birth certificates as founding the
+    refusal under paragraph 320(7A).  That was clearly not the case.
+
+10. The judge accepted the first birth certificate was  indeed  false.   He
+    accepted  the  document  verification  report  but  went  substantially
+    further at paragraphs 13 to 16 by setting  out  the  reasons  why  that
+    certificate was patently a false document.  Indeed at paragraph  16  he
+    said "The Entry Clearance Officer did not need to go to the trouble  of
+    getting a  document  verification  report  to  confirm  the  document's
+    falsity.  Its falsity was plain to see".
+
+11. Thereafter the judge  had  referred  himself  to  paragraph  76  of  AA
+    (Nigeria) [2010] EWCA Civ 777 in respect of  paragraph  320(7A).   That
+    was potentially an unfortunate reference as  paragraph  76  of  AA  was
+    concerned with "false representations" rather than false  documentation
+    and was in itself a reference back to paragraph 68.  In the context  of
+    this case the more pertinent paragraph within AA was paragraph 67 which
+    stated:
+
+         "First, false representation is aligned  in  the  Rule  with  false
+         documents.  It is plain that a false document is one that  tells  a
+         lie about itself.  Of course it is possible for a  person  to  make
+         use of a false document (for instance a counterfeit  currency  note
+         but that example used for its clarity is rather  distant  from  the
+         context of this discussion) in total ignorance of its  falsity  and
+         imperfect honesty.  But the document itself is  dishonest.   It  is
+         highly likely  therefore  that  where  an  applicant  uses  in  all
+         innocence a false document  for  the  purpose  of  obtaining  entry
+         clearance or leave to enter or to remain it is because  some  other
+         party, it might be a parent or Sponsor  or  agent  has  dishonestly
+         promoted the use of that document.  The response of  a  requirement
+         of  mandatory  refusal  is  entirely  understandable  in   such   a
+         situation.  The mere fact that a dishonest document has  been  used
+         for such an important application is  understandably  a  sufficient
+         reason for a mandatory refusal.  That is  why  the  Rule  expressly
+         emphasises that it  applies  whether  or  not  to  the  applicant's
+         knowledge."
+
+12. The judge in his examination of that birth certificate at paragraphs 20
+    to 21 made a number of errors.  Firstly he noted at paragraph  20  that
+    there was no evidence to show how the false birth certificate  came  to
+    be before the Entry Clearance  Officer.   However  later  in  the  same
+    paragraph he noted the Sponsor had told him that she had had to pay  to
+    get the document, which at least  provided  some  evidence  as  to  the
+    generation of that document in the first instance.  Secondly the  judge
+    concluded that there was  no  evidence  the  false  document  had  been
+    created by someone operating at arm's length from  the  Appellant,  his
+    relatives or agent.  That is somewhat inconsistent with  the  admission
+    from the Sponsor outlined above.  Further the judge does not say how he
+    arrived at that conclusion or in the absence of all of the  above,  who
+    was left to have submitted the document or had any motive in so  doing.
+    Thirdly the judge noted that the Appellant or  his  agents  had  to  be
+    shown by the Respondent to have been dishonest.  That is not  the  test
+    contained within paragraph 320(7A) nor within the terms of paragraph 67
+    of AA referred to above.
+
+13. Having concluded the first  birth  certificate  was  patently  a  false
+    document and that it  had  been  submitted  by  or  on  behalf  of  the
+    Appellant as part of the documents for his application  for  settlement
+    and concluding as indeed it must be concluded that the document  itself
+    was dishonest it was not a material consideration whether the Appellant
+    had acted dishonestly himself or knew the document was  dishonest.   It
+    was therefore an error for the judge to have  concluded  there  was  no
+    merit in the Entry Clearance Officer's refusal under paragraph 320(7A).
+     He was bound to have upheld  the  mandatory  refusal  under  paragraph
+    320(7A) in respect of that first birth certificate.
+
+14. In respect of his consideration of sole responsibility the second birth
+    certificate more properly needed  to  be  considered  as  part  of  the
+    evidence as a whole in relation to the question of sole responsibility.
+     The judge had considered this matter between paragraphs 24 and  39  of
+    the decision.  The judge was entitled to  find  the  Sponsor  to  be  a
+    credible witness having had the advantage of  seeing  and  hearing  her
+    oral evidence.  However it was incumbent  upon  the  judge  to  provide
+    reasons why he reached the conclusion that the  Sponsor  had  had  sole
+    responsibility of the Appellant within the terms of sole responsibility
+    discussed in the case of  TD  Yemen  [2006]  UKAIT  00049.   The  judge
+    referred  to  certain  features  within  the  evidence  concerning  the
+    Appellant's upbringing.
+
+15.  Firstly  although  erroneously  referred  to  within  the  context  of
+    paragraph 320(7A) the second birth certificate potentially  showed  the
+    Appellant's  maternal  grandfather  as  being  named   on   the   birth
+    certificate possibly because of  the  finding  made  by  the  judge  at
+    paragraph 22 that the maternal  grandfather  had  always  been  in  the
+    background to protect his grandson.  The judge had also noted that when
+    the Appellant was born the Sponsor was essentially a child herself  and
+    wholly unable to care for him and he was therefore looked after by  her
+    elder sister.  He had further noted that money transfer  receipts  from
+    the Sponsor to the Appellant were restricted to two months in 2011  and
+    2012.  It was also noted the Appellant had always lived with  his  aunt
+    Juliette.  In terms of schooling the Appellant had  chosen  the  latest
+    school himself which had been confirmed by Juliette  and  that  it  was
+    Juliette who visited the Appellant at school  during  the  visits  that
+    were allowed.  It was further noted that Juliette provided the  day-to-
+    day care of the Appellant  and  although  the  judge  referred  to  the
+    Sponsor stating that she  had  always  been  responsible  for  the  big
+    decisions in the Appellant's life  there  were  no  examples  provided.
+    Indeed the only example of a big decision  was  the  choice  of  school
+    which was noted to have been a decision taken by the Appellant himself.
+     Whilst there was certainly  features  that  demonstrated  the  Sponsor
+    having a contact and a care of  the  Appellant  there  were  inadequate
+    reasons provided when set against the evidential background of how that
+    translated into the Sponsor having  had  sole  responsibility  for  the
+    Appellant.  It was further significant that although there was  limited
+    evidence of financial support in the period referred to above there had
+    been no evidence of financial support throughout the  year  2013  given
+    the application itself had been made in September 2013.  There were  in
+    this case inadequate reasons given by the judge for  finding  that  the
+    Sponsor had exercised sole responsibility particularly when set against
+    the evidential background.
+
+Notice of Decision
+
+I find for the reasons given that the judge made a material error of law  in
+this case such that the decision of the First-tier Tribunal needs to be  set
+aside and a fresh decision made.
+
+No anonymity direction is made.
+
+
+
+Signed        Date 30th December 2014
+
+Deputy Upper Tribunal Judge Lever

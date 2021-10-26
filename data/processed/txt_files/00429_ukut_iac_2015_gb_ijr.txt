@@ -1,0 +1,690 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+
+R (on the application of GB by litigation friend, Francesco Jeff) v
+Oxfordshire County Council (age dispute- relevance of documents) IJR [2015]
+UKUT 00429 (IAC)
+
+
+                                                     20, 21, 22 October 2014
+                                                             5 November 2014
+
+                                   Before
+
+                       UPPER TRIBUNAL JUDGE clive lane
+
+                                   Between
+
+                                  The queen
+                            on the application of
+                                     G B
+                   (by litigation friend, francesco jeff)
+
+                                                                   Applicant
+                                     and
+
+                         OXFORDSHIRE COUNTY COUNCIL
+
+                                                                  Respondent
+                               - - - - - - - -
+
+Ms Shu Shin Luh, instructed by Scott-Moncrieff & Associates, LLP appeared
+on behalf of the Applicant.
+
+Mr Joshua Dubin, instructed by Oxfordshire County Council, appeared on
+behalf of the Respondent.
+
+The duty of the Tribunal in disputed age  assessments  is  to  consider  the
+evidence as a whole, including documentary evidence relied upon, even  where
+there are a number of documents produced purporting to  verify  the  claimed
+age. SA (Kuwait) v SSHD [2009] EWCA Civ 1157 considered.
+
+
+
+
+                          - - - - - - - - - - - - -
+
+
+                                  JUDGMENT
+
+                          - - - - - - - - - - - - -
+
+    JUDGE CLIVE LANE: By a claim for judicial review issued on  29  October
+    2013, the applicant (whom I shall hereafter refer to as G B) challenges
+    an age assessment carried  out  by  officers  of  the  defendant  which
+    assessed his date of birth as 5 April 1995.  G B  claims  that  he  was
+    born on 5 April 1998.  G B entered the United Kingdom on  3  July  2013
+    since which time  he  has  been  in  the  care  of  Oxfordshire  Social
+    Services.  By G B's account, he was 15 years old when  he  entered  the
+    United Kingdom; by the assessment of the defendant,  he  was  18  years
+    old.
+
+
+ 1. Neither party to these proceedings carries any burden of proof.  It  is
+    for the court to
+
+     determine whether the applicant was a child at the material time  with
+reference to
+
+    all relevant evidence and by applying the  standard  of  proof  of  the
+balance of
+
+    probabilities (see R (CJ) v Cardiff County  Council)  [2011]  EWCA  Civ
+    1590). The
+
+    Court of Appeal in R (CJ) observed:
+      1. In R (A and M) v Croydon and Lambeth Borough Councils [2009] UKSC
+         8, [2009] I WLR 2557,  the  Supreme  Court  settled  the  question
+         whether, in the event of a challenge to the decision  of  a  local
+         authority as to the claimant's age, the High  Court  was  required
+         either to reach its own decision as  to  the  claimant's  age  or,
+         alternatively, the challenge was by way of  review  of  the  local
+         authority's assessment on Wednesbury principles alone.  Baroness
+         Hale gave the leading judgment with which the other members of the
+         Supreme Court agreed.  At  paragraphs  26  and  27  Baroness  Hale
+         explained the difference in approach required for  the  evaluative
+         judgment whether a child was "in need" within the mean of  section
+         20 of the 1989 Act and the decision upon the precedent question of
+         fact whether the individual concerned was a child. She said this:
+           "26. ... the 1989 Act draws a  clear  and  sensible  distinction
+           between different kinds of
+            question. The question whether a child is "in need" requires  a
+           number of different value judgments ... but where the  issue  is
+           not what order the court should make but what service should the
+           local authority provide it is entirely reasonable to assume that
+           Parliament intended such evaluative questions to  be  determined
+           by the Public Authority, subject to the control of the courts on
+           the ordinary principles of judicial review. Within the limits of
+           fair process and "Wednesbury reasonableness" there are no clear-
+           cut right or wrong answers.
+           27. But the  question  whether  a  person  is  a  "child"  is  a
+           different kind of question. There is a right or a wrong  answer.
+           It may be difficult  to  determine  what  that  answer  is.  The
+           decision-makers may have to do their best on the basis  of  less
+           than perfect or conclusive evidence but that  is  true  of  many
+           questions of fact which regularly come before the  courts.  That
+           does not prevent them from being questions for the courts rather
+           than for other kinds of decision-makers."
+      Lord Hope, in his concurring judgment, said at paragraph 51:
+           "51. It seems to me that the question whether or not a person is
+           a child for the purposes of section 20 of  the  1989  Act  is  a
+           question of fact which must ultimately be decided by the  court.
+           There is no denying the difficulties that the social  worker  is
+           likely to face in carrying out an  assessment  of  the  question
+           whether an unaccompanied asylum seeker is or is  not  under  the
+           age of  18.  Reliable  documentary  evidence  is  almost  always
+           lacking in  such  cases.  So  the  process  has  to  be  one  of
+           assessment. This involves  the  application  of  judgment  on  a
+           variety of factors, as Stanley Burnton J recognised in R (B)  v
+           Merton London Borough Council [2003] 4 All ER 280, para 37. But
+           the question is not whether the person can properly be described
+           as a child. Section 105 (1) of the Act provides:  "in  this  Act
+           ... 'child' means, subject to paragraph  16  of  Schedule  1,  a
+           person under the age of 18". The question is whether the  person
+           is, or is not, under the age of 18. However difficult it may  be
+           to resolve the issue, it admits of only one answer. As it  is  a
+           question of fact, ultimately this  must  be  a  matter  for  the
+           court."
+
+
+ 2. Both parties accept that the applicant is an Albanian citizen.
+
+Preliminary Issue
+
+ 3. At the outset of the hearing, Ms Luh, for the applicant, submitted that
+    the documentary evidence adduced by the  applicant  was  sufficient  to
+    determine his age without further reference  to  other  evidence  being
+    necessary.  She sought support from the Court of Appeal authority of SA
+    (Kuwait) v Secretary of State for the Home Department [2009]  EWCA  Civ
+    1157.  In that case, an appellant in an asylum claim  had  produced  an
+    identity card and a birth certificate showing that she  was  an  ethnic
+    Bidun from Kuwait.  The documents had  been  "verified  as  authentic".
+    The Court of Appeal held that the Secretary of State was  not  entitled
+    to reject her asylum claim based on  apparent  inconsistencies  in  her
+    account of past events in Kuwait; the only issue that mattered  in  the
+    determination of her asylum  claim  was  the  fact  of  her  ethnicity.
+    Giving the leading judgment, Sedley LJ held at [14]:
+
+         "Without seeking in any  way  to  modify  this  guidance,  I  would
+         observe that it has to  be  applied  with  careful  regard  to  the
+         particular issue before the tribunal. In many cases an  appellant's
+         unreliability on aspects of his or  her  history  may  legitimately
+         colour the tribunal's appraisal of documents on which  reliance  is
+         placed; but it depends very much on the kind of document. Where the
+         only issue is the appellant's status, and the documents relied  on,
+         if genuine, are conclusive of status, it can only rarely be helpful
+         or relevant to test out the appellant's veracity  or  dependability
+         in other ways. IJ Jones recognised this, although he did  not  give
+         effect to it: see �5 above. Here, for example, it  simply  did  not
+         matter  to  the  genuineness  of  the  two  documents  whether  the
+         appellant's family had been harassed by the police  or  whether  an
+         unreliable witness purported to confirm her status. It  might  have
+         mattered if there had been evidence showing that her date of  birth
+         was different from that on the birth certificate or  casting  doubt
+         on the genuineness of  the  aliens  registration  certificate;  but
+         there was none."
+
+ 4. Sedley LJ went on to record that:
+
+         "It is  also  worth  bearing  in  mind  in  cases  turning  on  the
+         authenticity of official documents that  there  are  two  different
+         kinds of inauthenticity: forgery of the document  itself,  and  the
+         making of false entries on a genuine document. It  is  useful,  and
+         sometimes essential, for advocates and tribunals to be clear  which
+         kind is in issue. The Home Office letter which I have  quoted,  for
+         example, accepts that  the  documents  produced  by  the  appellant
+         "correlate with [available] descriptions". The HOPO at the  resumed
+         hearing went further, making it clear that they had  actually  been
+         compared with examples held by the  Home  Office.  This  being  so,
+         there was  no  ground  for  suspecting  forgery  of  the  documents
+         themselves. Was there then reason to suspect that  the  entries  on
+         them were false? There are parts of the world  where  it  is  known
+         that false entries on official forms can be procured for  a  bribe;
+         but the immigration judge  was  given  no  evidence  and  heard  no
+         suggestion that this can be done in Kuwait  by  biduns,  much  less
+         that it had been done here."
+
+ 5. Sedley LJ proposed a two-stage test:
+
+             i) Is there reason to suspect a document as a forgery?
+
+            ii) If not, is there reason to suspect the entry on the document
+                was false?
+
+ 6. If the answer to both questions is in the negative, then the  documents
+    adduced in evidence should be determinative  of  the  fact  which  they
+    purport to prove.
+
+ 7. The documents relied on by G B  in  the  instant  claim  are  helpfully
+    summarised in [5] of Ms Luh's skeleton argument, which I quote in  full
+    below.  I am not aware that the contents of this paragraph are  in  any
+    way disputed by the respondent:
+
+         "This is a different and unusual age  case.   In  this  claim,  the
+         court  has  before  it  five  pieces  of  documentary  evidence  of
+         different nature each confirming the claimant's claimed age  -  his
+         biometric   passport;   his   birth   certificate;   his   personal
+         certificate; a school certificate for his final year,  Year  9,  at
+         school; and his immunisation record.  Significantly, the claimant's
+         biometric passport and birth certificate have been accepted by  the
+         Albanian Embassy as genuine; the claimant's biometric passport  has
+         also been accepted by the Home Office as genuine  following  checks
+         by its forgery  expert.   A  jointly  instructed  expert  has  also
+         confirmed the same findings as the Albanian Embassy  and  the  Home
+         Office.  Additionally the jointly instructed expert  has  confirmed
+         that the claimant's school certificate and immunisation record  are
+         consistent with the correct  format  expected  in  these  documents
+         issued in Albania."
+
+ 8. Addressing the documents in greater detail, Ms Luh submitted  that  the
+    Home Office Forgery Office (in an  email  to  the  defendant  dated  19
+    August 2013 - bundle [2/F334]) confirmed that G B's passport:
+
+         "contained all the  expected  document  safeguards.   There  is  no
+         evidence available ...  to  suggest  that  the  document  had  been
+         fraudulently obtained ... given  this  and  the  fact  that  [G  B]
+         visibly looked under 18, the passport was accepted as  establishing
+         [G B's] identity and nationality and the officer accepted  his  age
+         as 15."
+
+    Likewise, the Albanian Embassy in London had stated in an  email  of  5
+    November 2013 [1/B61] that:
+
+         "based on our records, the biometric passport and birth certificate
+         pertains to [G B] [and] are  authentic  issued  from  the  Albanian
+         authority (sic)."
+
+    Further, Dr Korovilas, the expert jointly instructed by both parties in
+    the judicial review proceedings, confirmed that the birth certificate:
+
+         "appears  in  the  correct  format.   ...  This  birth  certificate
+         contains the appropriate municipal stamps that you would expect  to
+         see on a genuine certificate."
+
+    He also noted that:
+
+         "the personal certificate ... also appears to be in order with  the
+         correct format and appropriate stamps you would expect to see on  a
+         genuine certificate."
+
+ 9. As regards the contents  of  the  documents,  Ms  Luh  directed  me  to
+    documents in the bundles before the court which, she submitted,  should
+    lead the Tribunal to accept the entries on the  documents  as  accurate
+    and true.  It had been accepted by the  Albanian  government  that  its
+    management of statistical data required  modernisation.   The  Albanian
+    government, in association with Statistics Norway, had embarked upon  a
+    project  to  digitalise  municipal  records  of   civil   registration,
+    including births.  A National Civil Register had  been  established  in
+    2008 and local Civil Status Registers had been computerised.   Existing
+    manual records had been scanned, including those from the Diber area of
+    north eastern Albania, where G B claims to have been born and lived.
+
+10. In addition, Ms Luh submitted that the Immigration and Refugee Board of
+    Canada (7 February 2014) had found that an Albanian citizen could apply
+    for and possess simultaneously multiple copies of  birth  certificates,
+    each copy  emanating  from  the  central  registers.   Further,  G  B's
+    passport is a modern biometric document and the process by  which  G  B
+    claimed to have obtained the passport was,  she  submitted,  consistent
+    with the IRBC (Immigration and Refugee Board of  Canada)  evidence;  he
+    had submitted an application together with a birth  certificate  and  a
+    fee and had been given a  coupon  which  he  exchanged,  several  weeks
+    later, for his completed passport.
+
+11. Finally, the applicant had given an account of how he had obtained  his
+    school certificate and immunisation record (for  vaccinations  detailed
+    on the immunisation record the first entries on which appeared  shortly
+    after his claimed date of birth).  Ms Luh submitted that the  applicant
+    had provided evidence to the age assessors in July 2013 and to the Home
+    Office in August 2013  which  had  been  consistent  with  the  details
+    appearing  on  the  immunisation  record  which  only  came  into   his
+    possession in the United Kingdom after those  interviews.   The  school
+    certificate indicates that GB had completed Year 9. It is dated 10 July
+    2013, a date consistent with the applicant's account of having finished
+    Year 9 before he left Albania.   The  certificate  indicates  that  the
+    applicant performed particularly well in mathematics, a claim which  he
+    had also made in his witness statement.
+
+12. Mr Dubin, for the defendant, submitted that it would be unfair for  the
+    claim to be terminated in the summary fashion proposed by  Ms  Luh  and
+    without a proper consideration of the  oral  evidence.   In  answer  to
+    queries which I put to him, he confirmed that  the  defendant  did  not
+    seek to argue that the documents referred to above related to any other
+    individual than the applicant, G  B  or,  indeed,  that  the  applicant
+    himself may be living in the United Kingdom under the assumed  identity
+    of G B, the person to whom the (genuine) identity  documents  referred.
+    Finally, Mr Dubin told me that  he  would  not  seek  to  persuade  the
+    Tribunal, in the light of the evidence from the  Home  Office  and  the
+    joint expert witness, that the  documents  themselves  were  forgeries.
+    Instead, he  told  me  that  the  defendant's  position  was  that  the
+    information upon which the documents had been  based  may  itself  have
+    been inaccurate including, for example, the applicant's date  of  birth
+    as recorded on the central Albanian register.
+
+13. As I have noted above [4] it is the duty of the  Tribunal  to  consider
+    the evidence as a totality before reaching any conclusion.  If  I  were
+    to have acceded to  Ms  Luh's  submission,  I  would  have  denied  the
+    defendant the opportunity of testing the applicant's evidence by cross-
+    examination and of adducing oral  evidence  from  the  Social  Services
+    officers who had prepared the age assessment; Ms Luh had not  submitted
+    that the age assessment was not Merton compliant (see B  v  Merton  LBC
+    [2003] EWHC 1689 (Admin)).  I considered that I could not discount  the
+    possibility that the oral evidence might prove  to  be  significant  in
+    enabling the Tribunal to reach a decision in this case and it  was  for
+    that reason that I refused Ms Luh's application to determine the  claim
+    on the basis of the documentary evidence alone.  Having said that,  for
+    reasons which I shall give later in  this  judgment,  that  documentary
+    evidence proved to be a considerable significance.
+
+The Evidence of G B - the Applicant
+
+14. The applicant gave his evidence in Albanian, with the assistance of  an
+    interpreter.  He adopted his  written  statement  as  his  evidence-in-
+    chief.  In that statement, G B claims that he was born on 5 April  1998
+    in Peshkopi in northern Albania.  His  father  was  an  alcoholic  with
+    mental health problems.  His parents separated two  years  before  G  B
+    left Albania.  G B's father abused  him  physically,  on  one  occasion
+    injuring his head and damaging the sight in his left  eye.   G  B  left
+    home because he could not tolerate repeated beatings by his father.  At
+    first, he had lived in an abandoned house  and  relied  on  friends  to
+    bring him food.  He told his mother that he intended to  leave  Albania
+    but did not say where he was going.  He had "tagged along"  with  other
+    friends who were leaving the country and who, as it  turned  out,  were
+    heading towards the United Kingdom where they had relatives.  G  B  had
+    applied for his passport earlier in 2013 and had it  with  him  on  the
+    journey from the country.  He and his friends were given a  lift  by  a
+    lorry driver  travelling  through  Macedonia  and  Austria.   G  B  was
+    exhausted by the time he reached the United Kingdom and  found  himself
+    in Oxford where he met with "a couple of  Albanians  who  were  already
+    living there" [21].  G B  made  himself  known  to  Oxfordshire  Social
+    Services who interviewed him on a number of occasions and "kept  asking
+    me for documents about my age" [23].  G B could  not  remember  exactly
+    when he obtained the birth certificate and  personal  certificate.   He
+    did recall that he was living at Cowley Road, Oxford, when a  housemate
+    told him there was somebody at the door who wished to  see  him.   G  B
+    went to the door and there met a man whom he did not know but who  gave
+    him  an  envelope  containing  the  birth  certificate   and   personal
+    certificate.  G B had spoken once with his mother after arriving in the
+    United Kingdom but he was aware that Oxfordshire  Social  Services  had
+    contacted her by telephone also (again, on one occasion only).
+
+15. When Oxfordshire Social Services did not accept his age as claimed, G B
+    contacted a friend in Albania.  His friend had obtained a copy of G B's
+    school certificate and sent it to him.  G B's aunt  (who  worked  in  a
+    clinic in Peshkopi) was also  contacted  by  the  Albanian  friend  who
+    obtained a copy of the immunisation record.  This was also sent to G  B
+    in the United Kingdom.
+
+16. G B claimed that he had done well at school, especially at mathematics.
+     His last day at school  on  14  June  2013  had  been  followed  by  a
+    graduation ceremony (which he had also attended) on 20 June 2013.   His
+    examination results and school certificate  had  been  issued  in  July
+    2013, after G B had left Albania.
+
+17. Cross-examined by Mr Dubin, G B was asked why,  in  the  record  of  an
+    interview with the Council age assessors [D53] he had said  that,  when
+    he had applied for a passport,  "no  documents  were  used,  [he]  just
+    presented his coupon."  In the witness statement, G B claimed  that  he
+    had produced his personal certificate and birth certificate in order to
+    obtain the passport.  G B  said  he  could  not  remember  telling  the
+    assessors that he had produced no documents.
+
+18. In the age assessment [D54] the following account is  recorded  by  the
+    assessors as to how G B obtained his passport:
+
+         "[G B] explained  on  the  day  before  the  first  age  assessment
+         meeting, the assessors confirm this to be Wednesday July  17th,  he
+         had been walking along Cowley Road in Oxford.  He was approached by
+         an adult male who, in Albanian, asked [G B]  to  confirm  his  name
+         upon which he passed him his passport, birth certificate and family
+         certificate.  [G B] was asked how he  thought  it  possible  to  be
+         reunited with his documents under these circumstances.  He said  he
+         was surprised.  Secondly, as  one  of  the  assessors  had,  having
+         spoken to his mother just two days prior  to  the  age  assessment,
+         been advised that he had left Albania with his  passport  and  that
+         she had his birth certificate with her in the home.  [G B] said  he
+         was unsure and unable to answer this question."
+
+    G B said that he could not remember saying that to the  assessor.   The
+    documents had arrived, as detailed in the  written  statement,  to  his
+    home address in Oxford.
+
+19. When G B had claimed asylum, he had given a Screening Interview.   This
+    interview recorded [G13] that no documents had been used by G B  during
+    his journey from Albania to the United Kingdom.  In  court,  G  B  said
+    that he had used a passport; he could not explain why this fact had not
+    been recorded in the interview.
+
+20. G B was asked by Mr Dubin why Social Services officers had recorded the
+    fact that he had been visited at his lodgings in Oxford by several 50 -
+    40 year old men.  G B said that he had "no adult men friends."
+
+21. I found it helpful to hear G B give oral evidence.   I  am  well  aware
+    that limited weight should be placed on impressions  gained  in  court,
+    but I record that the applicant was confident and at ease whilst giving
+    evidence (including under cross-examination) and has, in my opinion,  a
+    physical appearance  consistent  with  his  claimed  age.   There  were
+    inconsistencies in his  evidence.   First,  the  evidence  of  the  age
+    assessment differs from the oral evidence of the applicant  as  regards
+    the documents which he had been required to produce in order to  obtain
+    his passport.  Secondly, the applicant has given inconsistent  evidence
+    as to how he obtained identity  documents  after  he  had  entered  the
+    United Kingdom; in one account, he met a stranger at the  door  of  his
+    home who gave him  the  documents  and,  according  to  an  alternative
+    account, he had been encountered by a stranger whilst walking in Cowley
+    Road, Oxford.   Finally,  the  Screening  Interview  records  that  the
+    applicant did not use any  documents  on  his  journey  to  the  United
+    Kingdom whereas G B claims that the driver of the  lorry  had  arranged
+    for his passport to be stamped as they travelled to the United Kingdom.
+
+22. I find that these inconsistencies are sufficient for me  to  doubt  the
+    credibility of the applicant's evidence and, indeed, the reliability of
+    anything he has told me.  No  explanation  was  given  as  to  why  the
+    applicant's account should differ although I accept that  some  of  the
+    inconsistencies appear in documents prepared by third parties following
+    interviews with the applicant, rather than in any statement prepared by
+    the applicant himself.
+
+
+
+The Evidence of Maria Rahimi
+
+23. Ms Rahimi is a student social worker who obtained a  degree  in  social
+    work at Ruskin College Oxford in September 2014.  She  has  worked  for
+    Oxfordshire Social Services, in particular with  unaccompanied  asylum-
+    seeking children.  At the time she gave evidence to the  Tribunal,  she
+    was awaiting her final registration as a social  worker.  She  was  the
+    lead social worker in the preparation of the age assessment of G B.
+
+24. Ms Rahimi has carried out more than 100 age assessments  and  told  the
+    Tribunal that in about 80% of assessments she had found individuals  to
+    be older than they had claimed.   Together  with  her  co-assessor,  Ms
+    Juliet Romanis, Ms Rahimi had assessed G B over two  days  (18  July/22
+    July 2013).  In her statement, Ms Rahimi confirms that G B had produced
+    a school certificate and vaccination record during the  course  of  the
+    assessment.
+
+25. Cross-examined by Ms Luh, Ms Rahimi said  that  she  had  telephoned  a
+    woman in Albania using a telephone number provided by  G  B.   She  had
+    been satisfied that the woman she spoke to was G B's mother.  She  said
+    that G B's mother had been anxious but not hostile.  She had,  however,
+    terminated the telephone call when Ms Rahimi had indicated that  Social
+    Services were intending to return G B to Albania.  Ms Rahimi said  that
+    she had no reason to doubt that G B had, as he claims,  suffered  abuse
+    in his home in Albania at the hands of his father.
+
+26. Ms Rahimi said that she had been lead assessor in the report  for  G  B
+    and  that  she  herself  had  written  the  age  assessment  which  her
+    colleague, Ms Romanis, had then approved.
+
+27. Ms Luh asked Ms Rahimi to explain why, in a file attendance  record  of
+    the call with G B's mother [F330] it was noted that she had:
+
+         "advised that we are in the process of arranging [G B's] return  to
+         Albania.  Mrs B said if he is returned he would just run away again
+         so why return him.  I advised that  he  is  best  placed  with  his
+         family and so we are willing to meet the costs of his flight home."
+
+    Ms Luh queried why that statement had been made at a time when the  age
+    assessment had yet to be  finalised.   Ms  Rahimi  said  that  she  had
+    prepared the attendance note which she described as "badly phrased  but
+    not sinister."  The repatriation of G B to Albania had been "a process,
+    not an event."
+
+28. Ms Luh then referred Ms Rahimi to a number of emails contained  at  [F]
+    of the bundle.  Ms Rahimi confirmed that there  had  been  a  so-called
+    "minded to" meeting (at which the conclusions of the  report  had  been
+    discussed prior to finalisation) on 25 July 2013.  She was asked by  Ms
+    Luh why an email of 22 July 2013 was headed "age assessment carried out
+    by Maria Rahimi and Juliet Romanis - outcome 18" and why  an  entry  on
+    the record by Ms Cabrera-Jimenez (Ms Rahimi's supervisor at Oxfordshire
+    Social Services) which was dated 24 July 2013  stated  "age  assessment
+    approved.  Adult.  Case to close."  Ms Luh put it  to  Ms  Rahimi  that
+    these records indicated that a decision had  been  reached  before  the
+    final "minded to" meeting.  Ms Rahimi said she could  not  explain  the
+    entries.  She insisted that there had been no final decision until  the
+    meeting on 25 July 2013.  Pressed on the matter by Ms  Luh,  Ms  Rahimi
+    said, "I have to say this throws me slightly."  Ms Rahimi insisted that
+    her supervisor would not have "signed off" the age assessment prior  to
+    the "minded to" meeting.
+
+29. Ms Luh asked Ms Rahimi  about  the  apparent  inconsistency  in  G  B's
+    evidence as regards the documents which he had  needed  to  produce  in
+    order to obtain his passport.  The age  assessment  at  [D53]  recorded
+    that he had not used any documents;  However,  Ms  Rahimi's  manuscript
+    note at [D15] records the answer given by G B when questioned about the
+    documents as "can't remember."  Ms Rahimi said she  could  not  explain
+    this discrepancy.  She acknowledged  that  she  should  have  put  this
+    question in greater detail to G B at  the  "minded  to"  meeting.   She
+    said, "we didn't address the process of obtaining the passport  or  our
+    doubts about how he had obtained it."
+
+30. She acknowledged that she should have asked G B how he had been able to
+    obtain the passport without any documents; she said, "I see  the  logic
+    of the question and I would certainly ask in the future."
+
+31. Ms Rahimi was  asked  about  the  school  certificate  and  vaccination
+    certificate.   In  her  statement,  she  claimed  that  she  had  these
+    documents before  her  when  she  prepared  the  age  assessment.   She
+    admitted in cross-examination that she was not sure that she  did  have
+    them.  She acknowledged that the age assessment itself does  not  refer
+    to the school certificate or vaccination certificate.   She  said  that
+    she had no recollection  of  having  seen  the  school  certificate  or
+    vaccination certificate at all.  She said that her  statement  at  [12]
+    ("G B disclosed a school certificate and vaccination record")  was  not
+    true or accurate.  She denied, however, that she  had  embellished  the
+    statement.
+
+32. Ms Rahimi also acknowledged that she should have checked what G  B  had
+    said about his school career against the school certificate  which  had
+    been produced.  She could not explain why she had not done this.
+
+33. I found Ms Rahimi to  be  a  helpful  and  candid  witness.   The  fact
+    remains, however, that the cross-examination of  her  evidence  exposed
+    serious inadequacies in her recording of information, including that in
+    the assessment report itself.  I was concerned that she was  unable  to
+    offer any explanation for the statement made in the  assessment  report
+    that G B had not used any documents in order to  obtain  his  passport;
+    that statement is plainly at odds with her handwritten, contemporaneous
+    note.  I was also concerned that,  despite  her  protestations  to  the
+    contrary, the computer  record  appears  clearly  shows  that  a  final
+    decision had been taken as to G B's age before the "minded to"  meeting
+    at which any discrepancies in G B's evidence should have  been  put  to
+    him. Any responses should have been considered by the assessors  before
+    they made a final decision.   It was also  surprising  that  Ms  Rahimi
+    adopted a witness statement the contents of which she later denied,  in
+    part, in her  oral  evidence.   I  do  not  find  that  Ms  Rahimi  has
+    deliberately sought to mislead the Tribunal or the applicant but  I  do
+    find that the problems exposed in cross examination lead me  to  attach
+    less weight to her evidence (including the  assessment  report  itself)
+    than might otherwise be the case in  a  Merton  compliant  report.   In
+    particular, it is difficult to see how  the  Tribunal  should  consider
+    that the weight attaching to G B's evidence has been diminished because
+    it conflicts with  statements  which  he  had  allegedly  made  to  the
+    assessors and which are recorded in Ms Rahimi's own unreliable  witness
+    statement and oral evidence.
+
+The Evidence of Juliet Romanis
+
+34. Ms Romanis is a social worker working for the Children,  Education  and
+    Families Department at Oxfordshire County Council.   She  has  fourteen
+    years' experience with that council and had been an  assessment  social
+    worker for the last nine years.  The assessment of G B was  her  fourth
+    age assessment.
+
+35. Examined by Mr Dubin, Ms Romanis said that she had been trained in  age
+    assessment by Ms Rahimi and  others.   Cross-examined  by  Ms  Luh,  Ms
+    Romanis admitted that  she  "probably  should"  have  arranged  for  an
+    assessment to be made of the authenticity of the documents produced  by
+    G B.  She had assumed that Ms Rahimi had  asked  the  Albanian  Embassy
+    how, for example, an Albanian birth certificate may  be  obtained.   In
+    her written statement at [4] Ms Romanis records that she had:
+
+         "read  Maria  Rahimi's  written  statement   produced   for   these
+         proceedings and confirm that it accords  with  my  recollection  of
+         what happened during the two assessment days."
+
+    She told the Tribunal that she had not seen the final,  signed  version
+    of Ms Rahimi's statement.  To that extent, her statement at [4] was not
+    accurate.
+
+36. Ms Romanis said she had not been aware of G B's school  certificate  or
+    vaccination records.  She said  that,  had  she  been  aware  of  those
+    documents, she and Ms Rahimi should have invited G B back for a further
+    interview to discuss the documents with the likely result that his  age
+    would have been reassessed.
+
+37. Ms Luh asked Ms Romanis (as she had asked Ms Rahimi) why  she  believed
+    that her supervisor had signed off the report before  the  "minded  to"
+    meeting.  She could offer no explanation.  Ms Romanis commented on  the
+    nature of the manual records which had been uploaded onto the  computer
+    register in Albania.  She said that her comments were  based  upon  her
+    reading of the Norwegian report.  She described the system as "chaotic"
+    but admitted that she did  not  know  how  the  records  were  actually
+    uploaded; she was not suggesting  that  births  had  been  inaccurately
+    registered in Albania under the previous manuscript system.
+
+38. Finally, Ms Romanis was asked whether, if she were now to consider  all
+    the evidence including the school report and vaccination document,  she
+    would reassess G B's age.  She said that she would.  She  said,  "if  I
+    had all the documents, I probably would have accepted his age."  At the
+    very least, Ms Romanis said that there should have been a  reassessment
+    of G B's age.
+
+39. I accept that both Ms Rahimi and Ms Romanis have  endeavoured  to  give
+    truthful and accurate evidence before the Tribunal.  I  do  not  accept
+    any suggestion  that  they  have  deliberately  given  false  evidence.
+    However, in acknowledging the failings of the process as  conducted  by
+    her and Ms Rahimi, Ms Romanis was particularly candid as was  shown  by
+    her final admission that, knowing what she now knows  and  having  been
+    directed to important documentary evidence which she had previously not
+    considered, she would accept G B's claimed age or, at the  very  least,
+    would have considered a reassessment necessary.  As I have noted in  my
+    account of her evidence, Ms Romanis'  written  statement  and  the  age
+    assessment report contain statements which  she  told  me  she  can  no
+    longer describe as accurate.
+
+40. Having heard the helpful oral submissions of Counsel for both  parties,
+    I reserved my judgment.
+
+Discussion and Conclusions
+
+41. I return to the documents produced by G B which I have addressed  above
+    (see Preliminary Issue).  It is clear from the judgment of Sedley LJ in
+    SA (Kuwait) that the Tribunal may, in effect,  ignore  or  discount  an
+    applicant's unreliable personal testimony as to a  particular  fact  if
+    that fact is capable  of  being  proved  by  documentary  evidence  the
+    authenticity of which is not contested.  Whilst I continue to  consider
+    that it was right for the Tribunal to examine all the evidence (indeed,
+    it is arguable that it was required in law to do  so)  the  submissions
+    made  by  Ms  Luh  at  the  outset  of  the  hearing  now  return  with
+    considerable force.  The applicant has produced documents which,  prima
+    facie, prove that he was born, as he claims, on 5 April 1998.  Evidence
+    has been adduced detailing the  administrative  systems  out  of  which
+    those documents have been  generated;  (see  Prenga  [2010]  EWHC  1765
+    (Admin) - whether a document can be determinative of age depends on the
+    applicant's country of origin and the quality of the material contained
+    within the document).   In  Albania,  an  antiquated,  manuscript  (and
+    possibly unreliable) record system has been systematically replaced  by
+    a computer system and an extensive retrospective computerisation of old
+    records undertaken.  There is no evidence to  suggest  that  the  Diber
+    area (where G B claims to have been born)  has  failed  to  upload  its
+    records to the new system whilst the Albanian  Embassy  in  London  has
+    confirmed that the birth  certificate  and  passport  produced  by  the
+    applicant matches the central record held in  Albania.   Significantly,
+    the defendant authority does not  suggest  that  the  applicant  is  an
+    imposter or that the (genuine) records relate to anyone other than  the
+    applicant.   The  best  which  Mr  Dubin  could  offer  was  that   the
+    applicant's  mother  (to  whom  the  Social  Services  officers   have,
+    unusually, spoken directly by telephone) may have  innocently  provided
+    inaccurate information about G B's birth to the Albanian  registry.   I
+    have to say that it does not appear to me to be very likely at all that
+    any mother would make a mistake as to her child's date of  birth  which
+    was wrong by a margin of several years.
+
+42. I do not consider anything which I heard in evidence in court has  cast
+    significant doubt on the provenance of, or  the  information  contained
+    within, identity documents  from  Albania  which  both  parties  accept
+    relate to G B.  That is a view underlined by the  fact  that  the  Home
+    Office Forgery Department and an independent expert (jointly instructed
+    by the parties) could find nothing wrong  with  the  documents  GB  has
+    produced.   My  primary  finding,  therefore,  is  that  the   identity
+    documents  alone  prove  G  B's   claimed   age   notwithstanding   the
+    inconsistencies (which I have recorded above) which  were  revealed  by
+    cross-examination and G B's own evidence.
+
+43. If I am wrong in that finding, then the documents need to be considered
+    as part of the totality of the evidence  and  weighed  accordingly.   I
+    accept that the manner by  which  G  B  claims  to  have  obtained  his
+    documents appears  implausible.   Indeed,  if  one  reads  (4)  of  the
+    addendum to the age assessment dated 21 October 2013 one can  see  that
+    the only reason given by Ms Romanis and  Ms  Rahimi  for  doubting  the
+    accuracy of the documentary evidence is that they did not  believe  his
+    story as to how he obtained the documents.  However, as  I  have  noted
+    above, the fact that G B may have given an unreliable account does not,
+    on SA (Kuwait) principles, undermine his case.  Nor, in my opinion, are
+    the implausibilities and discrepancies in G B's  evidence  sufficiently
+    serious to be trumped by the age assessment report or other evidence of
+    Ms Rahimi and Ms Romanis.  I have attached limited  weight  to  an  age
+    assessment  report  which  (i)  contains  details  at  odds  with   the
+    assessors' own manuscript notes; (ii) was prepared without  any  proper
+    consideration of  the  school  report  and  vaccination  report;  (iii)
+    appears to have been "signed off" by the supervisor before a meeting at
+    which G B was to  be  given  the  opportunity  of  addressing  apparent
+    discrepancies in the details which he had provided.  I have also  taken
+    account of the fact that Ms Romanis candidly admitted that, if she were
+    reassessing G B's age in the light of all the  evidence  now  produced,
+    she might well agree that he is the age he claims to be.
+
+44. I find, on the standard of  the  balance  of  probabilities,  that  the
+    applicant's date of birth is 5 April 1998 and I make a  declaration  to
+    that effect accordingly.  The parties have fourteen days following  the
+    receipt by them of this judgment to make further submissions in writing
+    as to the terms of any further orders sought and, in particular, as  to
+    the question of costs.  In the absence of any agreement on these issues
+    between the parties, I will determine any  issues  outstanding  on  the
+    basis of the written submissions.~~~0~~~~
+

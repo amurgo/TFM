@@ -1,0 +1,1668 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number:  HU/17005/2017
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House, London         |Determination Promulgated            |
+|On Wednesday 29 January 2020         |On Friday 28 February 2020           |
+|                                     |                                     |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE SMITH
+
+
+                                   Between
+
+                              MR RANJEET SINGH
+                                                                   Appellant
+                                     And
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Mr B Singh, Counsel instructed on a direct access
+basis
+For the Respondent:    Ms A Everett, Senior Home Office Presenting Officer
+
+
+                            DECISION AND REASONS
+
+   BACKGROUND
+
+     1. By a decision promulgated on 28 November 2019, I found an error  of
+        law in the decision of First-tier Tribunal  Judge  Colvin  allowing
+        the Appellant's appeal.  I therefore set aside  that  decision  and
+        gave directions for a resumed hearing of the appeal.  My  error  of
+        law decision is annexed to this decision for ease of reference.
+
+     2. The facts of the Appellant's case are set out at [2] to [5]  of  my
+        error of law decision and I do not need to repeat those matters.  I
+        emphasise five factors at the outset.  First,  this  is  an  appeal
+        against the revocation of a deportation order which was made on  31
+        June 2007  and  therefore  over  twelve  years  ago.   Second,  the
+        revocation decision in this appeal was made on  23  November  2017.
+        Third, although the appeal against deportation was dismissed at the
+        time when the deportation order was made,  the  Appellant's  appeal
+        against an earlier decision refusing entry clearance  was  allowed,
+        although I accept only to the extent of requiring the Respondent to
+        consider whether to revoke  the  deportation  order.   Fourth,  the
+        Appellant returned to  India  voluntarily  in  May  2013.   He  has
+        therefore been outside the UK and separated  from  his  family  for
+        over six years.  Fifth, although [H] was originally thought  to  be
+        the Appellant's stepson,  a  DNA  test  following  the  Appellant's
+        return to  India  has  established  that  the  Appellant  is  [H]'s
+        biological father.
+
+     3. The directions given in my error  of  law  decision  permitted  the
+        Appellant to adduce further evidence.  The Appellant's  appeal  is,
+        to  all  intents  and  purposes,  managed  by  his  wife.   She  is
+        unrepresented although the Appellant has instructed Counsel for the
+        hearing.  She submitted additional  evidence  on  27  January  2020
+        which  was  itself  outside  the  period   provided   for   filing.
+        Furthermore, she submitted a social worker's report only on the day
+        immediately prior to the hearing.  That report  was  signed  on  13
+        January 2020 and there was no explanation  why  it  was  not  filed
+        earlier.  However,  Ms  Everett  accepted  that  the  evidence  was
+        relevant to my  consideration  (particularly  the  social  worker's
+        report) and did not object to it being adduced late.  She  has  had
+        the opportunity to read and consider the evidence.
+
+   THE ISSUES AND LEGAL FRAMEWORK
+
+     4. As this is an appeal against a decision  to  revoke  a  deportation
+        order, paragraphs 390  and  391  of  the  Immigration  Rules  ("the
+        Rules")  apply.   Those  paragraphs  read  as  follows  so  far  as
+        relevant:
+
+
+           Revocation of deportation order
+           390. An application for revocation of a deportation  order  will
+           be considered in the light of all  the  circumstances  including
+           the following:
+           (i) the grounds on which the order was made;
+           (ii) any representations made in support of revocation;
+           (iii) the interests of the community, including the  maintenance
+           of an effective immigration control;
+           (iv) the interests of the applicant, including any compassionate
+           circumstances.
+           390A. Where paragraph 398 applies the Secretary  of  State  will
+           consider whether paragraph 399 or 399A applies and, if  it  does
+           not, it will only  be  in  exceptional  circumstances  that  the
+           public interest in maintaining the  deportation  order  will  be
+           outweighed by other factors.
+           391. In the case of a person who  has  been  deported  following
+           conviction  for  a  criminal  offence,  the  continuation  of  a
+           deportation order against that person will be the proper course:
+           (a) in the case of a conviction for an  offence  for  which  the
+           person was sentenced to a period of imprisonment of less than  4
+           years, unless 10 years have elapsed  since  the  making  of  the
+           deportation order when, if  an  application  for  revocation  is
+           received, consideration will be given on a case by case basis to
+           whether the deportation order should be maintained, or
+           ...
+           Unless, in either case, the continuation would  be  contrary  to
+           the Human Rights  Convention  or  the  Convention  and  Protocol
+           Relating  to  the  Status  of  Refugees,  or  there  are   other
+           exceptional  circumstances  that  mean   the   continuation   is
+           outweighed by compelling factors.
+           ...
+           392. Revocation of a deportation  order  does  not  entitle  the
+           person concerned to re-enter the United Kingdom; it renders  him
+           eligible to apply for admission  under  the  Immigration  Rules.
+           Application for revocation of the order may be made to the Entry
+           Clearance Officer or direct to the Home Office."
+
+     5. As paragraph 390A makes clear, in circumstances where paragraph 398
+        applies, the usual considerations in relation to the  making  of  a
+        deportation order are applicable.  At  [23]  of  my  error  of  law
+        decision, I accepted the  Respondent's  submission  that  paragraph
+        398(b) of the Rules applies in a deportation  case.  In  fact,  the
+        paragraph is A398(b).   The relevant paragraphs of the Rules  which
+        therefore apply read as follows:
+
+
+           "A398. These rules apply where:
+           ...;
+           (b) a foreign criminal applies for a deportation order made
+           against him to be revoked.
+           398. Where a person claims that their deportation would be
+           contrary to the UK's obligations under Article 8 of the Human
+           Rights Convention, and
+           ...; or
+           (c) the deportation of the person from the UK is conducive to
+           the public good and in the public interest because, in the view
+           of the Secretary of State, their offending has caused serious
+           harm ...the Secretary of State in assessing that claim will
+           consider whether paragraph 399 or 399A applies and, if it does
+           not, the public interest in deportation will only be outweighed
+           by other factors where there are very compelling circumstances
+           over and above those described in paragraphs 399 and 399A.
+           399. This paragraph applies where paragraph 398 (b) or (c)
+           applies if -
+           (a) the person has a genuine and subsisting parental
+           relationship with a child under the age of 18 years who is in
+           the UK, and
+                 (i) the child is a British Citizen; or
+                 ...; and in either case
+                 (a) it would be unduly harsh for the child to live in the
+                 country to which the person is to be deported; and
+                 (b) it would be unduly harsh for the child to remain in the
+                 UK without the person who is to be deported; or
+           (b) the person has a genuine and subsisting relationship with a
+           partner who is in the UK and is a British Citizen or settled in
+           the UK, and
+                 (i) the relationship was formed at a time when the person
+                 (deportee) was in the UK lawfully and their immigration
+                 status was not precarious; and
+                 (ii) it would be unduly harsh for that partner to live in
+                 the country to which the person is to be deported, because
+                 of compelling circumstances over and above those described
+                 in paragraph EX.2. of Appendix FM; and
+                 (iii) it would be unduly harsh for that partner to remain
+                 in the UK without the person who is to be deported.
+
+     6. I am also required to have regard to the factors in Section  117A-D
+        Nationality, Immigration  and  Asylum  Act  2002  ("Section  117").
+        Section 117C is of particular relevance and reads as follows (again
+        so far as relevant):
+
+
+           "117CArticle 8: additional considerations in cases involving
+        foreign criminals
+           (1) The deportation of foreign criminals is in the public
+        interest.
+
+           (2) The more serious the offence committed by a foreign
+           criminal, the greater is the public interest in deportation of
+           the criminal.
+
+           (3) In the case of a foreign criminal ("C") who has not been
+           sentenced to a period of imprisonment of four years or more, the
+           public interest requires C's deportation unless Exception 1 or
+           Exception 2 applies.
+
+           ...
+
+           (5) Exception 2 applies where C has a genuine and subsisting
+           relationship with a qualifying partner or a genuine and
+           subsisting parental relationship with a qualifying child and the
+           effect of C's deportation on the partner or child would be
+           unduly harsh.
+
+           (6) In the case of a foreign criminal who has been sentenced to
+           a period of imprisonment of at least four years, the public
+           interest requires deportation unless there are very compelling
+           circumstances, over and above those described in Exceptions 1
+           and 2.
+
+           ..."
+
+
+        Although the main focus in deportation cases is Section  117C,  the
+        factors set out in Section 117B are also relevant (so far as  those
+        are not expressly excluded in deportation cases).  I refer to those
+        as necessary when reaching my assessment.
+
+     7. It  is  appropriate  to  note  that,  although  the  Appellant  was
+        sentenced to a term of imprisonment of  under  twelve  months,  and
+        that the deportation decision pre-dated the coming  into  force  of
+        the provisions in the  Rules  at  paragraphs  398  onwards,  he  is
+        nonetheless a person to whom paragraph 398 applies as the  Tribunal
+        in his appeal in 2016 found that the offence was one  which  caused
+        "serious harm".    There  was  a  challenge  to  that  finding  but
+        permission to appeal was refused.  That finding  therefore  stands.
+        That is also relevant to the applicability of Section 117C.
+
+     8. The Rules and Section  117C  are  in  materially  the  same  terms.
+        Where, as here, a person is sentenced to a term of imprisonment  of
+        under four years to which paragraph 398 applies,  the  Tribunal  is
+        required to consider whether either of the two exceptions  at  rule
+        399/exception  2  ("Exception  2")   or   rule   399A/exception   1
+        ("Exception 1") are met.  If they are not, the Tribunal is required
+        to consider whether there are very  compelling  circumstances  over
+        and above those exceptions.  Although, as appears at  Section  117C
+        (6) (and the corresponding provision in the Rules) on the  face  of
+        the legislation this provision applies only to those  sentenced  to
+        at least four years, the Court of Appeal held at [24]  to  [27]  of
+        its judgment in NA (Pakistan) v Secretary of  State  for  the  Home
+        Department [2016] EWCA Civ  662  that  this  was  an  unintentional
+        drafting error.   Accordingly,  that  same  "fall-back"  protection
+        applies equally to those in the position of the Appellant.
+
+     9. I note that there is no issue as to  Exception  1.   The  Appellant
+        resided in the UK between August 2003 and May 2013.   None  of  his
+        residence was lawful.   It  is  not  submitted  that  he  was  ever
+        socially and culturally integrated  in  the  UK.   Nor  can  it  be
+        suggested  that  there  are  very  significant  obstacles  to   his
+        integration in India.  He has been back  there  now  for  over  six
+        years.  The focus is rather on the  impact  of  separation  on  his
+        wife, his stepson and, most importantly, his  biological  son  [H].
+        Rule 399 and Exception 2 are therefore the relevant provisions.
+
+    10. As to the meaning of unduly  harsh  within  those  provisions,  the
+        Supreme Court gave guidance at [23] of its judgment in KO (Nigeria)
+        and others v Secretary of State for the Home Department [2018] UKSC
+        53 ("KO (Nigeria)") as follows:
+
+           "On the other hand the expression 'unduly harsh'  seems  clearly
+           intended  to  introduce   a   higher   hurdle   than   that   of
+           'reasonableness' under section 117B (6), taking account  of  the
+           public  interest  in  the  deportation  of  foreign   criminals.
+           Further the word 'unduly' implies an element of comparison.   It
+           assumes that there is a 'due' level of 'harshness',  that  is  a
+           level which may be acceptable or  justifiable  in  the  relevant
+           context.  'Unduly' implies something going  beyond  that  level.
+           The relevant context is that set by section 117C  (1),  that  is
+           the public interest in the  deportation  of  foreign  criminals.
+           One is looking for a degree of harshness going beyond what would
+           necessarily be involved for any child faced with the deportation
+           of a parent..."
+
+    11. At [27] of the judgment in KO (Nigeria), the  Court  expanded  upon
+        what is meant by "unduly harsh" by reference to what  was  said  by
+        this Tribunal in MK (Sierra Leone) v Secretary  of  State  for  the
+        Home Department [2015] UKUT 223 (IAC) as follows:
+
+           "...'unduly  harsh'  does   not   equate   with   uncomfortable,
+           inconvenient, undesirable or merely difficult.  Rather, it poses
+           a  considerably  more  elevated  threshold.   'Harsh'  in   this
+           context,  denotes  something  severe,  or  bleak.   It  is   the
+           antithesis  of  pleasant  or  comfortable.    Furthermore,   the
+           addition of the  adverb  'unduly'  raises  an  already  elevated
+           standard still higher."
+
+    12. If I am not satisfied that Exception 2 is met in this case, I  need
+        to go on to consider whether there are nonetheless very  compelling
+        circumstances over and above  the  exceptions,  in  practice  here,
+        Exception 2.  That requires me to consider all  factors,  including
+        the weight to be given to the public interest.  That  is  important
+        in this case, not only because I can there consider the nature  and
+        seriousness of the offence which led to the Appellant's deportation
+        but also the passage of time since that offence was  committed  and
+        the deportation order made and the length of the separation of  the
+        family members.
+
+    13. In relation to  the  passage  of  time  since  the  making  of  the
+        deportation order, I refer to what I said at [15]  to  [24]  of  my
+        error of law decision and the cases to which I there  have  regard.
+        I do not need to repeat any of that.  I  simply  observe  that  the
+        relevant period for these purposes is the twelve  years  since  the
+        deportation order was made.  Nonetheless, and although  it  is  the
+        case that this exceeds the ten years mentioned in paragraph  391(a)
+        (cited above), there is no  presumption  that  this  leads  to  the
+        revocation of the  deportation  order.   The  materiality  of  this
+        factor is one to be taken into account, but it does not necessarily
+        lead to revocation.
+
+    14. In Hesham Ali v Secretary of State for the Home  Department  [2016]
+        UKSC 60, the Supreme Court advocated  a  "balance  sheet  approach"
+        when considering the Article 8 issue more widely; in  other  words,
+        setting  out  on  the  one  side  the  nature  and  level  of   the
+        interference with private and family life  and  on  the  other  the
+        nature and extent of the public interest.
+
+    15. In short summary, therefore the issues to be determined are:
+
+        a) Is it unduly harsh for [H]  to  go  to  India  to  be  with  the
+           Appellant or to continue to live in the UK without him?
+
+        b) Is it unduly harsh for the Appellant's wife to go to India to be
+           with him or to continue to live in the UK without him?
+
+        c) If the answer to either or both of those questions is "yes", the
+           Appellant is entitled to succeed.
+
+        d) If the answer to both of those questions is "no", I have  to  go
+           on to consider whether there are very  compelling  circumstances
+           over and above Exception 2.  That does not preclude me factoring
+           into that assessment, considerations  which  arise  also  within
+           that exception.
+
+   EVIDENCE
+
+    16. I have before me the  Appellant's  bundle  of  evidence  which  was
+        before the First-tier Tribunal to which I refer as [AB/xx].  I also
+        have supplementary evidence to which I have referred at [3]  above.
+         I also have the Respondent's bundle of evidence to which  I  refer
+        as [RB/xx].  I have read and considered all the evidence  but  need
+        only refer to that which is  relevant  to  the  issues  I  have  to
+        decide.
+
+    17. I heard  oral  evidence  from  the  Appellant's  wife,  [MK].   The
+        Appellant's son,  [H],  also  attended  the  hearing.   Ms  Everett
+        indicated that she had no need to cross-examine [H] but I was  told
+        that he wished to address me, and I agreed that he could do so.  It
+        was though clear when he started to give evidence that he  was  too
+        nervous and distressed to do so  and  therefore  his  evidence  was
+        brought to an end.  I make clear, particularly in relation  to  [H]
+        that I have read his statement  very  carefully  before  making  my
+        decision and I have also played close attention to what is said  in
+        the social worker's report about the impact on  him  of  separation
+        from his father.
+
+    18. I have an undated, signed witness statement from the  Appellant  at
+        [AB/22-32] which is detailed.  There was  no  application  for  the
+        Appellant to give video evidence from India.  However, none of what
+        he says is contentious.  The statement provides a detailed  history
+        of his time in the UK and since.
+
+    19. In relation to the offence of which the Appellant was convicted, he
+        was sentenced in the Croydon Crown Court  on  15  June  2007.   The
+        conviction was for the possession of a false identity  document  (a
+        counterfeit ARC card).  He was sentenced to and served four  months
+        in prison.  The sentencing remarks appear at [RB/C1-3].  The  Judge
+        gave a  lesser  sentence  because  of  the  Appellant's  age.   The
+        Appellant was said to be eighteen at the time although I note  that
+        his marriage certificate at [AB/53] (issued in India) shows that he
+        was born in 1982 and not 1988 as given in the  sentencing  remarks.
+        It appears therefore that he lied about his age  (probably  to  the
+        authorities in the UK).  The Judge recommended  the  Appellant  for
+        deportation.  As the Judge noted,  the  Appellant  was  in  the  UK
+        illegally and had been using the false document to work  illegally.
+        The Judge said that "the only purpose of your being here was to try
+        and get round the immigration laws for economic motives".
+
+    20. The Appellant accepts that he "did wrong" but points out  that  his
+        "offence was at the lower end of  the  scale".   He  believes  "the
+        punishment  [his]  family  has  suffered  goes  way  beyond   [his]
+        offence". At [17] of the statement he says this:
+
+           "I did not kill or hurt anyone.  I did it to get by but since  I
+           did it and was charged I accepted I was wrong and is  sorry  for
+           it.  I know this.  That's why I left the United  Kingdom,  as  I
+           wanted to be a good person and do everything properly."
+
+    21. The Appellant reports that he is living in a village in India  with
+        his parents which he says "is not ideal at all".
+
+    22. Dealing with his family life, the Appellant met [MK]  in  2004  and
+        they became friends.  She had been married before and  suffered  an
+        abusive relationship.  As a result, she took time to  trust  anyone
+        else.  They entered into a relationship in 2005 and started  living
+        together in 2010.  They married in India in June 2013.  I note from
+        the marriage certificate that [MK] was born in India.
+
+    23. [MK] has two sons, both  of  whom  were  thought  to  be  from  her
+        previous relationship.  However, a DNA test conducted in July  2017
+        established that [H] is the Appellant's son.  I  note  incidentally
+        that this also gives the Appellant's date of birth as 1982 and  not
+        1988.  [H] was born in June 2006. [MK]'s other son was born in  May
+        2000 and is now an adult.
+
+    24. [MK] has provided a statement at [AB/33-42] which is  unsigned  and
+        undated.  However, she adopted its contents  as  true  when  giving
+        oral evidence.  She explained that some of  it  was  put  in  legal
+        language which she did not entirely understand  and  therefore  had
+        also handwritten a letter  which  was  submitted  as  part  of  the
+        additional  evidence.   The   statement   at   [AB/33-42]   largely
+        replicates the Appellant's witness statement.  That does not mean I
+        give  it  any  less  weight,  but  I  pay  more  attention  to  her
+        handwritten statement as that gives her evidence in her own  words.
+
+
+
+    25.  [MK]  confirms  what  is  said  by  the  Appellant   about   their
+        relationship and her previous marriage.  She says she did not  know
+        of the Appellant's unlawful immigration  status  when  she  entered
+        into the relationship and when [H] was born. She did not know until
+        he was arrested for illegal working.  She says  that  although  the
+        Home Office wanted to remove the Appellant to India  at  the  time,
+        they could not do so as they could not get documents  for  him.  He
+        was therefore released on reporting conditions  (although  detained
+        periodically for removal).
+
+    26. [MK] also says in her handwritten statement, that the  Home  Office
+        muddled her husband's case with another person and tried to  deport
+        him under a different name.  This is not particularly relevant  but
+        is possibly explained by the fact  that  the  Appellant  was  using
+        false documents to work illegally and  that  the  Home  Office  was
+        unable to  establish  his  real  identity.   It  appears  from  her
+        handwritten statement that this is probably the case  as  she  says
+        that she had to go back to India at the time to get  her  husband's
+        birth certificate so that he could apply for a  passport.  Whatever
+        the position, the Appellant was able to continue to live in the  UK
+        with her and the children for a further five years whilst the  Home
+        Office tried to deport him. When  he  obtained  his  passport,  the
+        Appellant left voluntarily.
+
+    27. In terms of the impact of deportation on  [MK]  herself,  she  says
+        that she is very depressed, has anxiety and trouble sleeping.   She
+        has been referred for counselling.  She says her mental  health  is
+        starting to be affected.
+
+    28. The impact on [MK]'s health is borne out to some limited extent  by
+        a letter from Shereen Everett, a  Trainee  Psychological  Wellbeing
+        Practitioner with West London NHS Trust  dated  23  December  2019.
+        That letter follows an initial triage assessment appointment on  17
+        December 2019.  [MK] reported to  the  practitioner  that  she  was
+        "feeling lonely and low in mood" due to  the  separation  from  her
+        husband.  She said that this was impacting "several  areas  of  her
+        life" but that, nonetheless, she remained able to care for [H].
+
+    29. The practitioner reported, based on completion of a  questionnaire,
+        that [MK] is "experiencing moderately-severe symptoms of low  mood"
+        and "severe symptoms of anxiety". [MK] was not considered to  be  a
+        suicide risk or a risk to others or  herself.   A  risk  management
+        plan was agreed.  [MK] elected to receive "telephoned guided  self-
+        help" and has been referred for that. There is  no  evidence  about
+        any past contact with mental health professionals during the period
+        of her separation from the Appellant nor that [MK] is being treated
+        with any medication for her condition.
+
+    30. [MK] is in full-time,  permanent  employment.   She  owns  her  own
+        house.
+
+    31. [H] has provided a statement at [AB/47-52] which he signed  at  the
+        hearing before me and is therefore dated 29 January  2020.   Again,
+        this largely replicates the statement of  his  parents  and  cannot
+        have been written by him.  For that reason, I do not  need  to  set
+        out much of what is in this statement.
+
+    32. [H] describes the continuing contact between  him  (and  his  half-
+        brother [M]) and the Appellant  (which  is  as  also  said  in  the
+        Appellant's  and  [MK]'s  statement).   They  contact  each   other
+        regularly using Videocall, Whatsapp and Skype.  [H]  and  [M]  have
+        been to India twice, in January 2014 and late 2015.  They  did  not
+        like India. [H] says that he could not live there. He says this:
+
+           "India is not the  same  as  the  United  Kingdom.   The  United
+           Kingdom is developed and India still has a long way to go before
+           it becomes anything like the level of development in the  United
+           Kingdom.  In the United Kingdom, there are lanes, law and  order
+           etc but in India it is chaos."
+
+        I express some doubt about whether  those  words  were  written  or
+        spoken by a child of [H]'s age.  Nevertheless, I  accept  that  the
+        point that there is a very different culture and  way  of  life  in
+        India to which he would not be accustomed.
+
+    33. The better evidence of [H]'s feelings  about  separation  from  his
+        father is to be found in the  Independent  Social  Work  Report  of
+        Sarah Edwards, dated as signed on 13 January 2020  ("the  Report").
+        I note and  accept  Ms  Edwards'  professional  qualifications  and
+        experience.  I did not find helpful what she says about the  impact
+        of separation or a move to India  being  "unduly  harsh"  for  [H].
+        That is a matter for my assessment and not for her  to  decide.   I
+        accept however as Mr Singh submitted, that she may have carried out
+        the assessment as if this were an appraisal of the situation for  a
+        Family Court case rather than applying the  test  set  out  in  the
+        Rules and Section 117C.
+
+    34. Before I set out what is in the Report, I have regard to  a  letter
+        from [H]'s school, undated, and written  by  Ms  Lallian,  Business
+        Studies  and  Psychology  Teacher,  Head  of  Year  9.   She  there
+        describes [H] as being, in the past, "a positive and  hard  working
+        student".  However, in the current year the school has  noticed  "a
+        big change in his emotional state as well as his  attitude  towards
+        learning".  The school is understandably concerned  about  what  is
+        happening in his life outside school.  The school has noticed  that
+        [H] is withdrawn, does not engage with adults as he used to,  looks
+        constantly tired and "not as smart" and is  becoming  emotional  in
+        school.   Although he now has 91% attendance, the school  considers
+        him to be a persistent absentee.  Ms Lallian also points  out  that
+        this is a critical year for [H]  as  he  has  to  choose  his  GCSE
+        options.
+
+    35. Although the letter is undated, I  assume  that  the  reference  to
+        "this year" is to the academic year 2019-2020 given when the letter
+        was produced and that [H] is shortly to select his GCSEs  (as  [MK]
+        said in oral evidence).  It appears from the letter and from [MK]'s
+        oral evidence that [H] is getting help  with  his  problems.   [MK]
+        said  he  is  being  given   special   classes   and   counselling,
+        particularly from his head of year (I assume Ms Lallian) and  other
+        teachers.  The school is referring [H] for counselling but  talking
+        to him and giving him special care in  the  meanwhile.   [MK]  said
+        that [H] was "doing OK" with this additional help.
+
+    36. As Ms Everett pointed out in submissions, the  problems  which  the
+        school identifies could be a matter of [H]'s age. He  is  now  aged
+        thirteen.  However, the Report records that  [MK]'s  view  is  that
+        these are caused by the "impact of the immigration case".   As  was
+        put to me by Mr Singh, it is the ups and  downs  of  appeals  being
+        allowed and then decisions reversed.
+
+    37. Ms Edwards spoke to [H] about school.  He told her he "enjoys  it".
+        He has support from three teachers in particular.  What is said  at
+        [8.7.4] to [8.7.6] of the Report paints a picture of a child who is
+        relatively well-adjusted.  However, when Ms Edwards discussed  with
+        [H] his wishes and feelings, he said that he is "scared" that  [MK]
+        will stop trying to get his father to the UK and that this Tribunal
+        will reject his father's case.  That does indicate a  preoccupation
+        with the appeal proceedings.  He does however  identify  a  support
+        network of people who he goes to and that he has  outlets  when  he
+        feels upset of going to the temple or  listening  to  music.   When
+        asked what he would wish for if he had three wishes, the  first  is
+        "for his Dad to come back".
+
+    38. What is said by Ms Edwards at [9.1.2] and [9.1.3] of the Report  is
+        particularly telling.  She points out that the current contact  via
+        social media "limits his ability  in  having  a  proper  meaningful
+        relationship with his father".  Although she  notes  the  stability
+        and security which [MK] is able to offer [H] she  says  that  "[MK]
+        and [H] advise that they do not feel that the current situation  is
+        something they can cope with for much longer, and they both  suffer
+        a high level of anxiety and pressure concerning the continued legal
+        process in respect of Mr Singh."  At [9.1.3]  she  records  [H]  as
+        saying that "things seem 'weird and confusing'  explaining  that  a
+        couple of months ago 'it  was  good  and  I  was  happy'  with  the
+        previous court decision but then the latest court decision  changed
+        this".  All of that points to it being the  uncertainty  caused  by
+        the ongoing separation and appeal proceedings  which  is  adversely
+        affecting [H].
+
+    39. Ms Edwards very helpfully sets out in tabular  form  the  pros  and
+        cons of [H] remaining in the UK  without  his  father,  having  his
+        father return to the UK to be with him, and of the family moving to
+        India.   Although Ms Everett did not press the option of the family
+        relocating to India (although did not  concede  that  it  would  be
+        unduly harsh for them to do so), I record in summary form  what  Ms
+        Edwards says about all three options.
+
+    40. If [H] remains separated from his father, he would continue to have
+        the support of [MK] and others from which he currently benefits but
+        it would be contrary to his wishes.  He would also continue to have
+        regular contact but limited as it is now.  His emotional  wellbeing
+        may continue to be impacted as it is now  by  the  uncertainty  and
+        that may also impact his educational attainment,  although  [H]  is
+        now receiving support from the  school.    [H]'s  "identity"  would
+        also be impacted by the separation from one of  his  parents.    He
+        would however continue to benefit from the stability  and  security
+        that [MK] offers him.  [H] is fully integrated within the UK. There
+        are no health needs identified.  The impact in relation to [H]  for
+        the Appellant is that he would not be able  to  parent  him.   [MK]
+        could continue to do so although  without  the  benefit  of  shared
+        parenting.
+
+    41. If the Appellant were allowed to  return  to  the  UK,  this  would
+        accord with [H]'s wishes.  The Appellant would be able to care  for
+        [H] and parent him. [H] would have the support of his father  which
+        would remove the "current  triggers  for  his  negative  feelings".
+        [H]'s education and integration in the UK would  not  be  adversely
+        affected.  [H]'s identity would be informed by his father and  they
+        would be able to develop a father-son relationship.  Stability  and
+        safety would be provided by both parents.
+
+    42. If the family were to relocate to India, [H] would be able to  live
+        with both parents.  However, this would sever his integrative links
+        with the UK and also his sibling relationship with his elder  half-
+        brother ([M] is now a police officer and has said that he would not
+        leave the UK).   [H] knows nothing about India.  That is likely  to
+        impact on his emotional wellbeing.  [H] would also lose his friends
+        in the UK and his support network here.  The educational system  in
+        India is likely to be different  and  a  move  there  is  therefore
+        likely to negatively impact on [H]'s education. [H] would lose  his
+        home, community and identity as a British citizen.   Stability  and
+        safety would also be impacted.   [MK]  says  she  has  no  home  or
+        employment in India.
+
+    43. Little is said about the  Appellant's  stepson,  [M].   The  Report
+        indicates that he would be unlikely to go to India were the  family
+        to move there.  [MK] said in her oral evidence  that  [M]  and  [H]
+        have a good relationship.  However, when asked  whether  [M]  helps
+        [H] with his homework and the such like, she said "not much" as [M]
+        is  nineteen  and  has  his  own  life.   [MK]  also  says  in  her
+        handwritten statement that [H] becomes  upset  because  [M]  has  a
+        relationship  with  his  own  father  (I  assume  [MK]'s   previous
+        husband).
+
+   SUBMISSIONS
+
+    44. Ms Everett relied on the Respondent's decision under  appeal.   She
+        also relied on my error of law decision in relation to the approach
+        to be taken.  No issue is taken with my decision as to the  way  in
+        which the law is to be applied. Ms Everett accepted that the public
+        interest is lessened by the  passing  of  time,  but  it  does  not
+        evaporate entirely.  It is not a "neutral square one".
+
+    45. Although Ms Everett did not concede that it would be  unduly  harsh
+        for [MK] and [H] to go to live in India, she focussed her attention
+        on the option of them staying in the  UK  and  remaining  separated
+        from the Appellant.  She made clear that none of the facts  as  set
+        out in the evidence were disputed.  She also acknowledged that  [H]
+        wishes to have his father in the UK.
+
+    46. However, she also pointed out that the evidence in relation to  [H]
+        as contained in the letter from the school and the Report  is  "not
+        straightforward".  She submitted that at the age  he  is,  [H]  may
+        have problems in any event.  The teenage  years  can  be  difficult
+        ones.  The evidence was that [H] is "doing OK" with the  help  from
+        the school.
+
+    47. Ms Everett accepted that the family wish to be together.   However,
+        she said that the effects of deportation are  "routinely  upsetting
+        and challenging" and the upset caused by deportation could  not  of
+        itself be unduly harsh.  She submitted that the test was not met on
+        the evidence here.
+
+    48. When looking beyond Exception 2, Ms Everett submitted that I should
+        take into account that the decision to deport was upheld.  That was
+        a factor of  some  weight.   The  nature  and  seriousness  of  the
+        underlying offence was a further  relevant  factor.   She  accepted
+        that weight had to be attached to family life  but  submitted  that
+        this could be continued as it is now even if that is not the way in
+        which the family wishes to conduct it.  I should  not  ignore  that
+        family life is able to be maintained.
+
+    49. Mr Singh  adopted  his  skeleton  argument  before  the  First-tier
+        Tribunal.  I do not need to set out what is there contained as most
+        is directed at the  legal  provisions  as  to  which  there  is  no
+        dispute.   Mr Singh accepted that the approach was as set out in my
+        error of law decision.  The relevant approach, Rules,  statute  and
+        caselaw are as set out at [4] to [15] above.
+
+    50. Mr Singh's oral submissions were largely directed at the option  of
+        [MK] and [H] going to live in India even though Ms Everett did  not
+        press that option.  I have taken note  of  what  he  said  in  that
+        regard which I consider below but, in my view, the  more  pertinent
+        parts of his submissions relate to the option of the "status  quo",
+        in other words, the Appellant remaining in India and [MK]  and  [H]
+        remaining in the UK.
+
+    51. In relation to Exception  2  and  whether  the  impact  is  "unduly
+        harsh", Mr Singh relied on the Report.  He emphasised in particular
+        that, although [H] has been separated from the Appellant for  about
+        six years, he has only become aware in that time and more  recently
+        that the Appellant is his biological father.  That has  intensified
+        the impact of separation.  That separation has prevented  [H]  from
+        being able to form the bond with his biological father in  the  way
+        that his elder brother is able to do with  his  father.   Mr  Singh
+        submitted that the  effect  of  continued  separation  is  "bleak",
+        particularly taking into account the effects on [H]'s education.
+
+    52. Mr Singh also urged on me that [H] should not  be  blamed  for  the
+        offence committed by his father.  As I pointed out,  however,  that
+        is not the issue.  Section 117C sets out the test  to  which  I  am
+        bound to have regard which applies equally to a child  impacted  by
+        deportation.   I  accept  that  punishment  of  the  Appellant   by
+        deportation has an impact on the child, but that is provided for by
+        the law.  This is not a case where the child himself is  threatened
+        with removal.
+
+    53. When assessing whether  there  are  very  compelling  circumstances
+        above Exception 2, Mr Singh urged  me  to  take  into  account  the
+        wishes and feelings of [H] as well as his emotional needs  and  the
+        impact on his education, particularly at such a crucial time.   His
+        best interests are, I accept, a relevant factor in that assessment.
+
+
+
+    54. As to the passage of time, Mr Singh pointed to the reference to ten
+        years in paragraph 391.  He said that this was an indication  of  a
+        proportionate period to maintain deportation in  a  "normal  case".
+        There was a lessening of the public interest.
+
+   DISCUSSION AND CONCLUSIONS
+
+   Exception 2: Unduly Harsh
+
+    55. I begin with the impact of deportation on [H] as he is the focus of
+        the Exception 2 case. I accept that it would be difficult  for  him
+        to relocate to India.  He has only ever known UK culture.   He  has
+        grown up here, has undergone all his education here and has friends
+        here.  He is clearly fully integrated in the  UK.  He  has  visited
+        India  twice  but  did  not  like  it.    That   is   not   however
+        determinative.  He has two parents who both  come  originally  from
+        that country and who could no doubt help him to adapt  to  life  in
+        India.  I recognise that [MK] has been in the UK for many years but
+        there is no evidence to suggest that she is not still familiar with
+        life in India, having been born and having grown up there.
+
+    56. I accept that a move to India would have a negative impact on [H]'s
+        education.  That is particularly so given the stage he has  reached
+        in his education.  He is about  to  embark  on  his  GCSE  courses.
+        However, the Appellant has produced no evidence about the education
+        system in India.  There is therefore limited information as to  the
+        differences which enable any detailed assessment of the  extent  of
+        any impact.   There are no health concerns.  I  do  accept  however
+        that the impact is negative and comes at a  particularly  important
+        time in [H]'s life.
+
+    57. I accept that the impact on [H]  of  such  a  significant  move  is
+        likely to be greater given his age.  He is not a very  young  child
+        who would be expected to adapt more quickly.  I  also  accept  that
+        [H] would be upset by separation from his half-brother, [M], who is
+        likely to stay in the UK.  However, I have little information about
+        [M] or the closeness of the relationship between them.
+
+    58. Most of the impacts  I  have  identified  are  ones  which  are  an
+        anticipated consequence of  deportation.   However,  based  on  the
+        combined effect of [H]'s age,  his  lack  of  knowledge  of  Indian
+        culture, his assimilation to British culture, his  separation  from
+        his elder brother and, most importantly, the adverse effect on  his
+        education at a crucial point in that education, I  accept  that  it
+        would be unduly harsh for [H] to go to India.
+
+    59. That is, however, not the end of the matter.  I  have  to  consider
+        whether it would be unduly harsh for [H] to remain in the UK whilst
+        the Appellant remains in India.
+
+    60. The high point of the Appellant's case in that regard is  contained
+        within the evidence from the social worker and the letter from  the
+        school.  Unusually, in this case, however, I have  the  benefit  of
+        hindsight as [H] has been separated from the Appellant  for  nearly
+        half his life.  The evidence from the school in particular suggests
+        that it is only recently that [H] has been  adversely  affected  by
+        the separation in terms of his  behaviour.   I  accept  Mr  Singh's
+        submission that this may be in part due to the discovery  that  the
+        Appellant is his biological father although that  is  not  strongly
+        supported by the evidence (and that discovery was made as long  ago
+        as July 2017).  I also accept as Ms Everett says that this  may  be
+        due to [H]'s age.  It may well be a combination of those factors.
+
+    61. However, the evidence points to the more significant cause  of  the
+        recent downturn being the appeal proceedings themselves.   One  can
+        readily understand that a child of [H]'s age, having  learned  that
+        his father may now be in a position to apply to come back to the UK
+        and  having  been  excited  by  that  prospect  would  suffer   the
+        disappointment of a reversal of that decision more acutely.    That
+        does not however indicate that the impact of the deportation itself
+        is unduly harsh.
+
+    62. I have carefully considered all the  evidence  about  [H]  and  the
+        impact on him over the time since the Appellant  was  deported.   I
+        accept that he has found the  separation  very  difficult  and  the
+        consequences are  undoubtedly  harsh,  even  very  harsh,  but  the
+        evidence does not  show  that  those  are  of  the  elevated  level
+        required to establish that the impact is unduly harsh.
+
+    63. I can deal with the impact on [MK] more swiftly.  I accept that she
+        has a  genuine  and  subsisting  relationship  with  the  Appellant
+        notwithstanding the lengthy separation.  [MK] cannot meet the  test
+        in paragraph 399(b) as her  relationship  with  the  Appellant  was
+        formed when the Appellant was in the UK unlawfully.  That does  not
+        however prevent  her  meeting  the  test  under  Section  117C  (5)
+        (Exception 2) if it would be unduly harsh for her to go to live  in
+        India with the Appellant or to remain in the UK without him.
+
+    64. In terms of living in India, [MK] was herself born there.  She  has
+        been in the UK for over twenty years.  According to  her  statement
+        she moved here in 1997.  Although she is now British, she therefore
+        lived in India for over twenty years also (she was born  in  1972).
+        She grew  up  there.   I  have  no  information  about  any  family
+        remaining there apart from the Appellant, but she will at least  be
+        familiar with the culture.  She has been to visit the Appellant  in
+        India. There is evidence that she is content to travel there  alone
+        as  she  did  when  she  needed  to  get  the   Appellant's   birth
+        certificate. Whilst she would be leaving behind her  home  and  job
+        that is no different to any other deportation case.  Indeed, it  is
+        not any different to a removals case  where  the  test  is  one  of
+        whether there are any insurmountable obstacles to family life being
+        continued in another country.  Here, that test is not  met  on  the
+        evidence in relation to [MK] (leaving aside the position of [H] who
+        I have accepted cannot be expected to go to India). It follows that
+        it is not unduly harsh for her to go to live in India.
+
+    65. As to [MK] remaining in the UK, leaving  aside  for  a  moment  the
+        position of [H], I do not accept that the evidence shows that it is
+        unduly harsh for her to continue as she has done for the  past  six
+        years or so.  She is said to have some problems with low  mood  and
+        anxiety but there is limited evidence about this, such as how  long
+        the condition has  lasted,  and  no  evidence  that  she  has  been
+        receiving treatment for it until very recently.  It may well be  as
+        is said in relation to [H] that it is the "ups and  downs"  of  the
+        appeal process and  the  uncertainty  which  has  had  the  greater
+        effect, particularly given the timing.  In any event, the  evidence
+        shows that she remains able to parent [H] and to continue to  work.
+        The evidence does not show that the high threshold in  Exception  2
+        is met so far as the impact relates to [MK] alone.
+
+   Very Compelling Circumstances
+
+    66. For those reasons, the Appellant cannot show that  Exception  2  is
+        satisfied.  I therefore turn to consider  whether  there  are  very
+        compelling circumstances above Exception 2.  In so  doing,  I  take
+        into account what I have already said about the impacts on [MK] and
+        [H].  I have accepted that it would be unduly harsh to  expect  [H]
+        to go to India to live with the Appellant.  I  have  also  accepted
+        that the impact of continued  separation  is  very  harsh  but  not
+        unduly so.  Although I have concluded that the impact of  continued
+        deportation on [MK]  is  not  unduly  harsh,  nonetheless,  I  have
+        accepted that she is in a genuine and subsisting relationship  with
+        the Appellant and that she  is  finding  the  continued  separation
+        difficult.
+
+    67. I have regard to [H]'s best interests.  In this regard, I  have  no
+        hesitation in accepting the social worker's evidence that it is  in
+        his best interests to remain in the UK living  with  and  with  the
+        support of both parents.  Although I do not accept the  point  made
+        about the loss of his father's identity if separation continues  as
+        [MK] herself originates from India and therefore can assist in that
+        regard, I accept that it is [H]'s very strong wish for  his  father
+        to come to the UK and I can readily accept that it is generally  in
+        a child's best interest to have both parents with him.
+
+    68. I am bound to apply Section 117 which  includes  not  only  Section
+        117C but also Section 117B.  In particular,  when  considering  the
+        weight to be given to the Appellant's family life (and that of  his
+        family members in the UK), I am required to give little weight to a
+        family life which was formed whilst here unlawfully.  I accept that
+        the Appellant's family life with [MK] falls into that  category  as
+        does his  life  with  [H].   However,  this  is  an  unusual  case.
+        Although the Appellant's stay in the UK was  wholly  unlawful,  his
+        relationship with [MK] and [H] (and to the extent relevant [M]) has
+        been developed and strengthened when he has been outside the UK and
+        therefore not in the UK unlawfully.  That is particularly  relevant
+        in this case as the Appellant and [H]  have  discovered  since  the
+        Appellant left the UK that they are father and son.   I  also  give
+        more weight to family life in this  case  because  the  family  has
+        maintained a strong relationship notwithstanding  the  geographical
+        separation and infrequent direct contact.  There is very clearly  a
+        strong family bond.
+
+    69. Balanced against that  family  life,  I  have  to  set  the  public
+        interest.  I recognise that Section 117B has application here  also
+        due to the Appellant's prior unlawful residence  in  the  UK.   The
+        maintenance of effective immigration control is relevant not simply
+        based on the unlawful residence but also the fact of using a  false
+        document in order to work illegally when the Appellant had no right
+        to do so.  That is undermining of the immigration system.
+
+    70. I also accept that Section 117C is relevant.  In this regard, I  do
+        have some concerns about whether it can really  be  said  that  the
+        offence committed was one which caused serious harm.  That  is  the
+        only basis on which it can be said that the Appellant is a  foreign
+        criminal within the definition in Section 117D.  However, that  was
+        a finding made by an earlier Tribunal and the Appellant was refused
+        permission to appeal that finding.  It is also  a  relevant  factor
+        when looking at revocation of the deportation order as it  is  part
+        of the circumstances of the initial deportation.
+
+    71. Serious harm does not in any event denote only harm in the sense of
+        violence but also societal harm.  It could not  sensibly  be  said,
+        for example, that the supply of Class A drugs  is  not  an  offence
+        involving serious harm (although in practice that is unlikely to be
+        relevant as the sentence is likely to exceed the minimum).  It  can
+        therefore be said that an offence which has an  impact  on  the  UK
+        economy by illegal working  using  false  documents  is  one  which
+        causes serious harm.  I also note that the sentence was reduced  as
+        a result of the Appellant's age and that he lied about his age.  He
+        was in fact over 18 at the time of the offence and  may  well  have
+        been sentenced to 12 months in prison had his true age been  known.
+         For the reasons I have given in  relation  to  Section  117B,  the
+        offence of which the Appellant was convicted is one which did cause
+        harm to the immigration  system,  whether  or  not  that  could  be
+        described as serious. It was not in any event suggested to me  that
+        Section  117C  should  not  be  applied.   Mr  Singh's  submissions
+        proceeded on the basis that it applies.
+
+    72. The nature of the offence is however a relevant consideration  when
+        it comes to considering whether it is proportionate  to  refuse  to
+        revoke  the  deportation  order.  The  more  serious  the   offence
+        committed by the foreign criminal, the greater the public  interest
+        in deportation.  Whilst, for the  reasons  I  have  explained,  the
+        offence is one which is undermining of immigration control  and  to
+        that extent serious, it does not fall at  the  higher  end  of  the
+        spectrum of seriousness, as is reflected by the sentence which  was
+        imposed.
+
+    73. Moreover, the offence was committed  in  2007  and  therefore  over
+        twelve years ago.  It is the Appellant's only offence  (other  than
+        to remain in the UK without leave).  For the reasons I gave  in  my
+        error of law decision, the passage of  time  does  not  create  any
+        presumption that the time has come to revoke the deportation order.
+         However, it is relevant that the  Respondent  indicates  that  ten
+        years is an appropriate starting point for consideration whether to
+        revoke the deportation order in circumstances where the sentence is
+        under four years.
+
+    74. As the Rules now provide, after the period of ten years, each  case
+        has to be considered on its own  facts.   I  have  regard  in  this
+        context to what is said in the Rules about  the  relevant  factors.
+        Those include the grounds on which the order was made  to  which  I
+        have already made  reference,  and  the  maintenance  of  effective
+        immigration control to which I  have  also  had  regard.   Balanced
+        against those considerations are the representations in  favour  of
+        revocation  and  the  interests  of  the  Appellant  including  any
+        compassionate circumstances.  When the Respondent is  carrying  out
+        the exercise of  considering  revocation,  she  does  so  based  on
+        paragraphs 399 and 399A of the Rules which  largely  replicate  the
+        exceptions in Section 117C.  As is made clear at paragraph 390A, if
+        those exceptions do not apply, it  will  only  be  "in  exceptional
+        circumstances  that  the  public  interest   in   maintaining   the
+        deportation order will  be  outweighed  by  other  considerations".
+        That in essence mirrors  the  assessment  whether  there  are  very
+        compelling circumstances over and above the exceptions  in  Section
+        117C.
+
+    75. As such, the balance which I have to carry out remains between  the
+        circumstances over and above the exceptions (in this case Exception
+        2) as against the public interest.
+
+    76. In favour of the Appellant, I take into account in  particular  the
+        adverse impact on [H] of continued separation, that  he  cannot  be
+        expected to go to live in India and also, to a lesser  extent,  the
+        continued effect  of  separation  on  [MK].   I  balance  what  are
+        undoubtedly harsh or very harsh consequences for  [H]  against  the
+        nature and seriousness of the offence of which  the  Appellant  was
+        convicted now over twelve years ago.   Although I also give  weight
+        to the maintenance of effective immigration control and the  impact
+        of the Appellant's offence in that regard (as well as his  unlawful
+        presence in the UK), the weight to be given to the public  interest
+        is reduced by the passage of time, the fact that the Appellant  has
+        committed no further offences and left the UK voluntarily.  I  also
+        take into account the length of separation of the  family  to  date
+        and the strong family life which has  continued  and  developed  in
+        that time, as well as the intensification of family life  based  on
+        the discovery that [H] is the Appellant's biological son.
+
+    77. When the factors for and against are balanced, I am satisfied  that
+        there  are  very  compelling  circumstances  over  and  above   the
+        exceptions which render the decision to  maintain  the  deportation
+        order disproportionate.
+
+    78. The consequence of my decision is that I  consider  that  continued
+        separation enforced by the deportation order  is  disproportionate.
+        I emphasise however, particularly for the benefit of [H]  and  [MK]
+        that the effect of my decision is only that to refuse to revoke the
+        deportation order is disproportionate.  It  will  be  open  to  the
+        Appellant thereafter to apply to join his family in the UK  and  my
+        findings as to the proportionality  of  continued  separation  will
+        obviously have a bearing but the issue  of  entry  clearance  is  a
+        matter which will be for  the  Respondent  to  consider  when  that
+        application is made.
+
+
+
+
+   CONCLUSION
+
+    79. For the above reasons, I conclude that  the  Respondent's  decision
+        refusing to revoke the deportation order  is  disproportionate  and
+        therefore unlawful under the Human Rights Act 1998.
+
+DECISION
+The Appellant's appeal is allowed on the  basis  that  the  refusal  of  the
+Appellant's human rights claim made in the context of the decision  refusing
+to revoke the deportation order is unlawful under  Section  6  Human  Rights
+Act 1998 (Article 8 ECHR).
+
+
+Signed           [pic] Dated: 12 February 2020
+Upper Tribunal Judge Smith
+
+
+                       APPENDIX: ERROR OF LAW DECISION
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number:  HU/17005/2017
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Royal Courts of Justice,    |Determination Promulgated            |
+|London                               |                                     |
+|On Monday 25 November 2019           |                                     |
+|                                     |...28 November 2019...............   |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE SMITH
+
+
+                                   Between
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     And
+
+                              MR RANJEET SINGH
+                                                                  Respondent
+
+
+Representation:
+For the Appellants:    Mr T Lindsay, Senior Home Office Presenting Officer
+
+For the Respondent:    Mr B Singh, Counsel instructed on a direct access
+basis
+
+
+                    ERROR OF LAW DECISION AND DIRECTIONS
+      BACKGROUND
+
+   1. This is an appeal by the Secretary of State.  For ease of reference, I
+      refer to the parties as they were before the First-tier Tribunal  even
+      though the Secretary of  State  is  strictly  the  Appellant  at  this
+      juncture.  The Respondent appeals against  a  decision  of  First-tier
+      Tribunal Judge Colvin promulgated on 30 August 2019  ("the  Decision")
+      allowing the Appellant's  appeal  against  the  Respondent's  decision
+      dated 22 November 2017 refusing his human rights  claim  made  in  the
+      context of a decision maintaining a  deportation  order  against  him.
+      The deportation order was made on 2 April 2008.
+
+   2. The Appellant is an Indian national.  He first came to  the  attention
+      of the UK authorities when he was arrested in August 2003 whereupon he
+      claimed asylum.  He was placed in the care of Social  Services  as  he
+      claimed to be aged only fourteen years. The  asylum  claim  was  later
+      refused on non-compliance grounds, the Appellant having  gone  missing
+      from the care of Social Services.  The Appellant was  arrested  on  15
+      April 2005 for assaulting his landlord and again placed in  care,  but
+      he failed to report.  He was again arrested on 25  April  2007  and  a
+      counterfeit ARC card was found during a search of his  home.   He  was
+      convicted of possession of a false identity document and sentenced  to
+      four months' detention.  He was also recommended for deportation.  The
+      Respondent gave the Appellant notice of her intention to deport him on
+      31 June 2007.  His appeal was dismissed by the Tribunal by a  decision
+      promulgated on 7 January 2008.
+
+   3. In January 2011, the Appellant again claimed asylum which was  refused
+      in June 2011.  He voluntarily returned to India on 13 May  2013.    In
+      July 2013, the Appellant's wife, who  is  a  British  citizen,  sought
+      revocation  of  the  deportation  order  and  in  December  2013,  the
+      Appellant applied for  entry  clearance  as  a  spouse  of  a  British
+      citizen.  That application was refused but  a  subsequent  appeal  was
+      allowed on human rights grounds in December  2014.   On  challenge  of
+      that decision by the Respondent, the appeal  was  allowed  in  October
+      2015 to the extent of requiring the Respondent to deal with the  issue
+      of revocation of the deportation  order  prior  to  dealing  with  the
+      settlement application.
+
+   4. On 27 February 2016, the Respondent refused to revoke the  deportation
+      order.  The Appellant's appeal against that decision was dismissed.  A
+      further application to revoke the deportation order on 29 August  2017
+      was refused on 23 November 2017.
+
+   5. The Appellant met his wife in 2004.  She was at that time married  but
+      separated in 2008 and later divorced.  The Appellant married his  wife
+      in India on 26 May 2013.  His wife has two children, [M] born  in  May
+      2000 and [H] born  in  June  2006  who  are  both  British  nationals.
+      Following DNA tests, the Appellant has now established that he is  the
+      biological father of [H].  The Appellant's wife was born in India  but
+      came to the UK in 1997 and was  granted  indefinite  leave  to  remain
+      based on her previous marriage in 1998.  She became a British  citizen
+      in 2010.  The Appellant's wife, stepchild and child have  visited  the
+      Appellant in India.  The children did not like India.
+
+   6. The Judge took into account the findings of the previous  Tribunal  in
+      2016 which included that the Appellant is in a genuine and  subsisting
+      relationship with his wife, his stepson and his  own  child  (at  that
+      time believed to be his stepchild) and that it would be  unduly  harsh
+      for the children to move to India.  The eldest child (the  Appellant's
+      stepson) is no longer  a  minor.   The  previous  Tribunal  concluded,
+      however, that it was not unduly harsh for the children  to  remain  in
+      the UK without  the  Appellant.  Judge  Colvin  adopted  the  previous
+      Tribunal's finding that the Appellant falls within the  definition  of
+      "foreign criminal" in Section 117D Nationality, Immigration and Asylum
+      Act 2002 for the purposes of Section 117C of that Act ("Section 117C")
+      because the Appellant had been convicted of an  offence  which  causes
+      serious harm.
+
+   7. The Judge concluded at [31] of the Decision that it  would  be  unduly
+      harsh for [H] to continue to  live  in  the  UK  without  his  father,
+      particularly in light of the passage of  time  since  the  deportation
+      order was made.
+
+   8. The Respondent submits that the Judge has erred in  her  consideration
+      of the passage of time, since the  deportation  order  has  only  been
+      enforced for six years (the Appellant having voluntarily departed  the
+      UK only in 2013).  She  places  reliance  on  the  Court  of  Appeal's
+      judgment in Secretary of State for the Home Department  v  ZP  (India)
+      [2015] EWCA Civ 1197 ("ZP (India)") and EYF (Turkey)  v  Secretary  of
+      State for the Home Department [2019] EWCA Civ 592 ("EYF (Turkey)").
+
+   9. Permission to appeal was refused  by  Designated  First-tier  Tribunal
+      Judge Macdonald on 1 October 2019 in the following  terms  so  far  as
+      relevant:
+
+
+           "... The Judge gave many reasons for concluding that the  public
+           interest in continuing the deportation order  had  significantly
+           lessened (paragraph  25).   Ten  years  had  elapsed  since  the
+           deportation order, the offence was some twelve years ago and  it
+           was the  sole  conviction  of  the  appellant.   The  four-month
+           detention sentence was at  the  lowest  end  of  the  scale  for
+           criminal offences and he had voluntarily returned to  India  and
+           had not sought to return here unlawfully.  The Judge also  noted
+           that since the previous appeal decision it  has  been  confirmed
+           that the appellant was indeed the biological father of [H].
+           The Judge's reasoning is clear  and  cogent.   Contrary  to  the
+           grounds  the  Judge  did  not  find  that  the  signing  of  the
+           deportation order was a determinative factor.
+           The grounds do not disclose any arguable error of law."
+
+  10. Permission was granted by Upper Tribunal Judge  Kekic  on  17  October
+      2019 in the following terms:
+
+
+           "The respondent challenges the decision of  First-tier  Tribunal
+           Judge Colvin allowing this appeal on human rights grounds.   The
+           appeal is against the Secretary of State's refusal to  revoke  a
+           deportation order.
+           Arguably the judge failed to  appreciate  that  the  deportation
+           order had been enforced six years ago even if it had been signed
+           ten years ago and that, in any case, the passage  of  time  does
+           not diminish the public interest in maintaining deportation  (ZP
+           (India) [2015] EWCA Civ 1197 and EYF (Turkey)  [2019]  EWCA  Civ
+           592).
+           The grounds may all be argued."
+
+  11. The appeal comes before me to determine whether the Decision  contains
+      errors of law and if so whether the Decision should be set aside.
+
+   DISCUSSION
+
+  12. As Mr Lindsay pointed out, the Judge allowed the appeal on two  bases.
+      First, at [22] to [25] of the Decision, the Judge concluded  that  the
+      "balance had shifted in favour  of  revocation"  because  "the  public
+      interest in continuing the order is now significantly lessened on  the
+      facts and due to the period of time that has elapsed" ([25]).  Second,
+      the Judge concluded that "continuation of  the  deportation  order  is
+      disproportionate to family life under Article  8  for  all  the  above
+      reasons" ([33]).
+
+  13. As Mr Singh submitted and I accept, the Respondent's  pleaded  grounds
+      are directed only at the first of those bases.  However, I also accept
+      Mr Lindsay's submission that,  if  the  Respondent  is  right  in  her
+      argument in relation to the first basis, it follows that this  infects
+      the second basis because that imports the Judge's reasoning as to  the
+      public interest in revocation.  For  reasons  which  I  also  set  out
+      below, there is in any event a  free-standing  error  of  law  in  the
+      Judge's consideration of the human rights claim which  is  an  obvious
+      one even though not identified by the Respondent's grounds.
+
+  14. The Judges reasoning in relation to the revocation  issue  appears  at
+      [22] to [25] of the Decision as follows:
+
+
+           "22.  Since that appeal Decision [that  is  to  say  the  appeal
+           Decision in 2016] 10 years has elapsed from when the deportation
+           order was made in May 2008 - indeed it is some 11  years  and  3
+           months at the date of the hearing.  In this context I have  been
+           referred to the recent case decision in EYF (Turkey) cited above
+           which dealt with the proper construction of paragraph 391(a)  of
+           the Immigration Rules.  It held at paragraph 28:
+           "Within the ten year period, it will be very difficult for other
+           factors  to  counterbalance  the  presumptive  effect   of   the
+           Secretary of  State's  policy.   That  is  consistent  with  the
+           decision of this court in ZP (India).  Once the ten year  period
+           has elapsed it becomes easier to  argue  that  the  balance  has
+           shifted in favour of the revocation on the facts of a particular
+           case because the presumption has fallen away; but that does  not
+           mean that revocation thereafter is automatic or  presumed.   The
+           question of revocation of a deportation order will depend on the
+           circumstances of the individual case."
+           23.   In this case, an issue was raised in the  previous  appeal
+           Decision as  regards  the  claim  that  the  appellant  gave  an
+           incorrect age at the time of his conviction in order to gain the
+           advantage of being sentenced as a young person.  Ms Darkwah  for
+           the respondent raised it again in  her  submissions  before  me.
+           However, I have no evidence before me to assess this and, in any
+           event, it is  clear  from  the  decision  of  Immigration  Judge
+           Cockrill at paragraph 40 that he took the view that  the  proper
+           course was "to note the length of sentence that was imposed  and
+           not seek to go behind it in any shape or form or to speculate at
+           all as to what would have happened to the appellant if,  indeed,
+           his true date of birth had been disclosed." I  agree  with  this
+           statement.
+           24.    Another  issue  has  been  raised  as  to   whether   the
+           appellant's offence is one that causes  serious  harm.   Despite
+           the respondent, as represented by Mr Lowton  HOPO  at  the  last
+           appeal hearing, apparently taking the view that it did not do so
+           in order to bring the  appellant  within  the  definition  of  a
+           foreign criminal under  section  117D(2(ii),  Immigration  Judge
+           Cockrill decided otherwise as  stated  above.   Whilst  I  fully
+           accept that having a false identity document is a serious matter
+           I am doubtful whether it can truly be  said  to  'cause  serious
+           harm'.  However, I do not consider that it is necessary  for  me
+           to say anything further on this in my view there  are  weightier
+           matters that need to be taken into account now at this point.
+           25.   The first matter is that over ten years have elapsed since
+           the deportation order.  Second, this deportation order was  made
+           in respect of an offence committed some 12 years ago and  it  is
+           the sole conviction of  the  appellant.   Third,  I  accept  the
+           submission that the offence and the 4 month  detention  sentence
+           received by the appellant is certainly at the lowest end of  the
+           scale of criminal offences.  Fourth, the  appellant  voluntarily
+           returned to India in light of the deportation order  being  made
+           and has not sought to return to the UK unlawfully.  In  my  view
+           when taking all these matters into account I have  no  doubt  in
+           finding that the balance has shifted in favour of revocation  on
+           these facts particularly because the presumption  for  upholding
+           the deportation order has now  fallen  away.   In  other  words,
+           whilst there was clearly a strong public interest  in  deporting
+           the appellant as a foreign criminal following his conviction  in
+           2007, the  public  interest  in  continuing  the  order  is  now
+           significantly lessened on the facts and due  to  the  period  of
+           time that has elapsed."
+
+  15. The Respondent's point is a short one.  She says that, notwithstanding
+      the use of the words "making of the deportation  order"  at  paragraph
+      391 of the Immigration Rules ("the Rules"), that terminology has to be
+      construed consistently with the interpretation given by the  Court  of
+      Appeal in ZP (India) and EYF (Turkey).  The  paragraphs  to  which  my
+      attention was drawn are as follows:
+
+           ZP (India)
+
+           "25.  Mr Biggs argued that a fundamental difference between  the
+           decision whether to make a deportation order in the first  place
+           and the decision whether to revoke a subsisting order  short  of
+           the prescribed period - and particularly  where,  as  here,  the
+           applicant has been deported - is that in  the  latter  case  the
+           public interest in maintaining the order will generally diminish
+           with the passage of time and that that must be borne in mind  in
+           striking the proportionality balance.  I would accept that up to
+           a point.  Where  there  are  compelling  factors  in  favour  of
+           revocation the applicant's case is - other things being equal  -
+           bound to be stronger if they have already been  excluded  for  a
+           long period.  But I would not accept that the  passage  of  time
+           can by itself be relied on as constituting a  compelling  reason
+           for early revocation.   It  is  inherent  in  the  making  of  a
+           deportation order  that  there  must  be  a  period  before  the
+           deportee becomes eligible for re-admission: otherwise  it  would
+           be a mere revolving-door.  Mr Biggs did not contend that the ten-
+           year prescribed period applicable to foreign criminals sentenced
+           to  between  one  and  four  years'  imprisonment   was   itself
+           irrational or that it inherently involved any breach of  article
+           8.  That being so, the default position must be  that  deportees
+           should "serve" the entirety of  the  prescribed  period  in  the
+           absence of specific compelling reasons to the contrary."
+
+           [my emphasis]
+
+           EYF (Turkey)
+
+           "24.  In  Smith,  the  UT  considered  that  its  reasoning  was
+           supported by this court in ZP (India) v Secretary of  State  for
+           the Home Department [2015] EWCA Civ 1197.  One of the issues  in
+           ZP (India) was the impact on the proportionality balance of  the
+           prescribed period in  the  circumstance  that  early  revocation
+           within the prescribed period  was  being  considered.   In  that
+           context, it is hardly surprising that at paragraph [25]  of  the
+           judgment Underhill LJ said that the "default  position  must  be
+           that deportees should 'serve' the  entirety  of  the  prescribed
+           period in the absence of  specific  compelling  reasons  to  the
+           contrary""
+
+      My attention was also drawn to [28] of the judgment  in  EYF  (Turkey)
+      which the Judge set out at [22] of the Decision and which is therefore
+      cited above.
+
+  16. Mr Lindsay argued that the references  to  "excluded",  "re-admission"
+      and "serve" in ZP (India) (and reference to "serve" in  EYF  (Turkey))
+      indicated that the time lapse to be considered was that from the point
+      in time when deportation was  enforced.   Otherwise,  a  deportee  had
+      suffered no prejudice by the actual signing of the deportation order.
+
+  17. Mr Singh submitted that the words in paragraph 391 of the Rules had to
+      be given their plain, ordinary  meaning  and  that  "making"  in  this
+      context clearly means "signing" of the  deportation  order.   He  also
+      pointed out that a deportee who continues  to  live  in  the  UK  does
+      suffer some prejudice from the fact of having no leave - he is  unable
+      to rent, open bank accounts, travel outside the UK etc.  However, that
+      is no different to a person who is unlawfully in the UK and who is not
+      categorised as a "foreign criminal".   The  additional  penalty  of  a
+      deportation order is that a person is not  able  to  re-enter  the  UK
+      during the currency of the order.  He is, as the Court of Appeal said,
+      "excluded" from the  UK.   That  can  occur  only  when  a  person  is
+      physically deported.
+
+  18. I have read very carefully the two judgments  on  which  reliance  was
+      placed.   Both  are  concerned  with  persons  who  had  already  been
+      deported.  That is important because, as the Court of Appeal noted  at
+      [23] of its judgment in ZP (India), it is only in  that  context  that
+      paragraph 391  of  the  Rules  can  apply  at  all.   In  cases  "pre-
+      deportation" it is paragraph 390A of the Rules which applies ([22]  of
+      the judgment).
+
+  19. However, neither judgment deals with the issue of when the  period  of
+      exclusion identified in paragraph 391 begins.  Perhaps the closest one
+      comes is the comment at [15] of the judgment in ZP (India) where it is
+      said that "[n]o doubt it may be right to put a limit on the period for
+      which the public interest requires their continued exclusion, but that
+      is another matter and is addressed in the  Immigration  Rules..."  [my
+      emphasis].
+
+  20. Since the Court of Appeal considered that it is the Rules to which one
+      has to turn to interpret what the public  interest  requires,  I  also
+      consider the issue raised in this case in that  context.    Paragraphs
+      391 and 391A of the Rules currently (and at the date of the  Decision)
+      provide as follows:
+
+
+           "391. In the case of a person who has been deported following
+           conviction for a criminal offence, the continuation of a
+           deportation order against that person will be the proper course:
+           (a) in the case of a conviction for an offence for which the
+           person was sentenced to a period of imprisonment of less than 4
+           years, unless 10 years have elapsed since the making of the
+           deportation order when, if an application for revocation is
+           received, consideration will be given on a case by case basis to
+           whether the deportation order should be maintained, or
+           (b)...
+           Unless, in either case, the continuation would be contrary to
+           the Human Rights Convention or the Convention and Protocol
+           Relating to the Status of Refugees, or there are other
+           exceptional circumstances that mean the continuation is
+           outweighed by compelling factors.
+           391A. In other cases, revocation of the order will not  normally
+           be authorised unless the situation has been materially  altered,
+           either by a change of circumstances since the order was made, or
+           by fresh information coming to light which was  not  before  the
+           appellate authorities or the Secretary of State. The passage  of
+           time since the person was deported may also in itself amount  to
+           such a change of circumstances as to warrant revocation  of  the
+           order.
+           [my emphasis]
+
+  21. In my view, paragraph 391 read  in  context  favours  the  Appellant's
+      construction.  In particular, the  words  "since  the  making  of  the
+      deportation order" in that paragraph are to  be  contrasted  with  the
+      words  "since  the  person  was  deported"  in  paragraph  391A.   The
+      draftsperson can be assumed to have  meant  two  different  things  in
+      those  two  paragraphs.    For  that  reason,  I  conclude  that   the
+      Respondent's interpretation is incorrect.  The "policy" as  laid  down
+      by paragraph 391 is that ten years must have elapsed since the  making
+      ie the signing of the deportation order and not since  the  order  was
+      enforced.
+
+  22. However, that is not the end of the issue.  The  Respondent's  grounds
+      are argued on the basis, first, that the  Judge  materially  erred  in
+      relation to the period which has elapsed ([3]) and, second,  that,  by
+      reference to ZP (India) and EYF (Turkey), the Judge erred because  the
+      presumption in deportation has not fallen away ([4]).  Both  of  those
+      elements make up the central ground  that  the  Judge  has  materially
+      erred in finding that the passage of time is a determinative factor.
+
+  23. The Judge at [25] of the Decision gives four  reasons  for  concluding
+      that the public interest in upholding the deportation order has fallen
+      away.  First, she refers to the fact that ten years have elapsed.   As
+      I have concluded, she was entitled to take  that  into  account  as  a
+      relevant factor.  Second, that the offence was committed twelve  years
+      ago and is the Appellant's sole conviction.   That  too  is  relevant.
+      Third, that the sentence was at the lower end of the scale of criminal
+      offending.  The Judge was entitled to factor  that  into  account.   I
+      accept Mr Lindsay's point in this regard that the  deportation  regime
+      laid down in the Rules continues to apply as paragraph 398(b)  of  the
+      Rules applies that regime to  the  case  of  a  foreign  criminal  who
+      applies for revocation of a deportation  order.   I  also  accept  his
+      point that the Judge at [24] of the Decision has not  made  a  finding
+      either way whether the  Appellant's  offending  could  "cause  serious
+      harm" but that is immaterial given the content  of  paragraph  398(b).
+      Finally, the Appellant returned  to  India  voluntarily  and  has  not
+      sought to re-enter unlawfully.  I  agree  with  Mr  Lindsay  that  the
+      relevance of this factor is not clear.  The Appellant was the  subject
+      of a deportation order and should have left in any event.  That he did
+      so voluntarily may have saved the  Respondent  some  expense  but  can
+      hardly be said to diminish the public interest in deportation.  It may
+      explain why the Respondent did not make  reference  to  paragraph  391
+      when assessing revocation (as it might be said that the Appellant  had
+      not been deported as such) but  otherwise  has  no  relevance  to  the
+      public interest.  Similarly, that the  Appellant  has  not  sought  to
+      breach immigration laws by re-entering  unlawfully  can  hardly  be  a
+      positive factor in his favour or reduce  the  weight  in  keeping  him
+      excluded from India if circumstances dictate that result.
+
+  24. However, the more significant error which  appears  from  the  Judge's
+      reasoning at [25] of the Decision is her reference to "the presumption
+      for upholding the deportation order" having fallen away  so  that  the
+      "balance has been shifted in favour of  revocation".   As  the  Senior
+      President  said  at  [25]  of  the  judgment  in  EYF  (Turkey),  "the
+      proposition that the public interest in  maintaining  the  deportation
+      order would generally diminish over time was only  accepted  up  to  a
+      point.  That point was the duration of the  prescribed  period.   That
+      says nothing about the asserted existence of a new presumption at  the
+      end of the prescribed period.   Indeed,  it  rightly  in  my  judgment
+      leaves the question at large.  Furthermore, it is  of  note  that  the
+      wording of the Rule changed after the decision in ZP (India) to add-in
+      by amendment the words that are critical to the interpretation  relied
+      upon by the Secretary of State".   I  note  that  the  decision  under
+      appeal  in  that  case  was  dated  5  June  2015,  long  before   the
+      Respondent's decision in this case which was made on 22 November 2017.
+       As such, it is the revised wording of paragraph  391  which  applies.
+      That includes the word which I have emboldened in the citation at [20]
+      above.  There is therefore a misdirection by  the  Judge  when  citing
+      paragraph 391 at [15] of the Decision.  Even leaving aside the changed
+      wording, the Judge erred when considering  that  the  presumption  for
+      maintaining the deportation order had fallen away.  Although  that  is
+      the wording used at [23] of the judgment in EYF (Turkey) (by reference
+      to SU (Pakistan) v Secretary of State for the Home  Department  [2017]
+      EWCA Civ  1069),  that  refers  only  to  the  "previous  presumption"
+      inherent in  the  prescribed  period  and  does  not  create  any  new
+      presumption in favour of revocation, as the Judge appeared to consider
+      existed.
+
+  25. I then have to consider whether that  error  is  material.   Mr  Singh
+      submitted that any error made by the Judge when looking at the  public
+      interest in maintaining deportation was  not  material  because  there
+      were in any event compelling circumstances  justifying  revocation  of
+      the deportation order.   That  submission  was  made  to  address  the
+      Respondent's point that the prescribed period had not elapsed  but  is
+      equally relevant to the need to assess all  the  factors  set  out  in
+      paragraph 390 of the Rules and Section 117C.  It is also  relevant  to
+      the amended wording of paragraph 391  which  requires  a  case-by-case
+      consideration.
+
+  26. That then brings me on to the second basis on  which  the  appeal  was
+      allowed,  namely  that  maintenance  of  the  deportation   order   is
+      disproportionate under the scheme laid down by the Rules  and  Section
+      117C.
+
+  27. I begin by making two observations.  First, the appeal in this case is
+      against the refusal of a human rights claim.   As  such,  the  Judge's
+      assessment of the Article 8 issue is central to the  allowing  of  the
+      appeal; the only basis on which the Judge could allow  the  appeal  is
+      because the  Respondent's  decision  breaches  the  Appellant's  human
+      rights.
+
+  28. Second, and flowing from that, the Respondent did not plead any direct
+      challenge to the Judge's Article 8 assessment.  Mr Singh  objected  to
+      any consideration of the Judge's assessment of the  Article  8  issues
+      for that reason.  However, I reject his submission in that regard  for
+      two reasons.  First, as Mr Lindsay submitted, the Judge, in particular
+      at [31] of the Decision, brings into the equation  her  reasoning  for
+      reducing the weight to be given to the public interest relying on  the
+      passage at [22] to [25] of  the  Decision.   Second,  and  in  reality
+      favouring the Appellant's position, if, as I  have  concluded  is  the
+      case, the Judge had to consider all the circumstances of the case  (or
+      the compelling circumstances  as  Mr  Singh  submitted),  then  it  is
+      relevant to the overall lawfulness of the Decision whether  the  Judge
+      has approached that task in the correct manner.
+
+  29. The Judge's assessment of the Article 8 issue appears at [30] to  [32]
+      of the Decision as follows:
+
+
+           "30.  In this case the child [H] has lived  without  his  father
+           for some 6 years already and has only seen  him  on  two  visits
+           during this period.  He only found out that the appellant is his
+           biological father a couple  of  years  ago  and  has  now  asked
+           questions why, if this is accepted,  his  father  is  still  not
+           allowed to return.  In many ways it can be  said  that  [H]  has
+           already been through and perhaps to a certain extent got used to
+           the  degree  of  hardship  that  necessarily  comes   with   the
+           deportation of a parent.  And it is  this  that  the  respondent
+           seems to be relying upon - namely that the present  arrangements
+           of separation can continue as the  family  members  are  dealing
+           with this situation.  In other words the respondent  is  relying
+           upon the status quo.
+           31.   It is submitted on behalf of the appellant  that  this  is
+           somewhat of a Catch 22 with the respondent  unfairly  using  the
+           lengthening  time  of  separation  as  a  factor   against   the
+           appellant.   I  consider  that  there  is  substance   to   this
+           submission particularly as the respondent has not, in  my  view,
+           adequately addressed the situation from the opposite perspective
+           of the family.  That is, that together with the appellant,  they
+           have managed the period of the deportation order which  has  now
+           gone beyond the ten-year period  when  the  public  interest  in
+           continuing the deportation order on the facts  of  the  case  is
+           significantly lessened as stated above.  It is in looking at  it
+           from this other perspective that I have reached the  conclusion,
+           on a balance of probabilities, that it is unduly harsh  on  this
+           child to be separated from his  father  for  any  longer  period
+           particularly at this time of his early teenage  development.  It
+           is noted that he has made it clear in his written statement that
+           he is unable to maintain a relationship with his father  through
+           phone calls alone.
+           32.   In relation to the appellant's wife it  is  accepted  that
+           the relationship with the appellant was formed at  a  time  when
+           the appellant was not in  the  UK  lawfully  and  therefore  the
+           exception under paragraph 399(b) of the Immigration Rules cannot
+           apply.  However, she is a qualifying person for the purposes  of
+           s.117C of the 2002 Act and I am satisfied for similar reasons as
+           stated above that any  longer  period  of  separation  from  the
+           appellant amounts to being unduly harsh in all the circumstances
+           of the case."
+
+      That passage follows the Judge's self-direction  that,  based  on  the
+      finding in the previous appeal, she should conclude that it  would  be
+      unduly harsh for [H] to join his father in India  and  that  therefore
+      the issue in relation to [H] was whether it was unduly harsh  for  him
+      to remain in the UK with his mother whilst the  Appellant  remains  in
+      India.  It also follows  the  Judge's  reference  to  KO  (Nigeria)  v
+      Secretary of State for the Home Department [2018] UKSC 53 and citation
+      from that case at [28] and [29] of the Decision.
+
+  30. As appears from those citations and  as  the  Judge  appears  to  have
+      understood, the issue whether it would be  unduly  harsh  for  [H]  to
+      remain with his mother in the UK and separated from his father is  one
+      which must be assessed on the basis of the  threshold  which  applies.
+      There is no balance to be carried out at that stage between the impact
+      on the child  and  the  seriousness  of  the  offence  or  the  public
+      interest.  That is inherent in the  threshold  within  the  exception.
+      However, at [31] of the Decision, that is precisely the approach which
+      the Judge adopted.  In so  concluding,  I  also  take  account  of  Mr
+      Lindsay's criticism of the "Catch 22" point made by the Judge.  As  he
+      put it, if the effect of the separation of the family is  that  family
+      life no longer exists or is significantly reduced in weight, then that
+      is a factor which should be weighed in the  balance.   If  the  public
+      interest too is significantly reduced, it may be that the  Appellant's
+      family life still outweighs the public interest.  That has nothing  to
+      do with fairness or unfairness.
+
+  31. I asked Mr Singh to direct my attention to the evidence on  which  the
+      Judge might be said to be relying when reaching the  finding  that  it
+      would be unduly harsh for [H] (and the Appellant's wife) to remain  in
+      the UK whilst the Appellant continues to live in India.  He pointed to
+      the  witness  statements  of  [H],  the  Appellant's  wife   and   the
+      Appellant's stepson.  I have read those carefully.
+
+  32. I make the initial observation that all three of those statements  are
+      in essentially the same form.  I also note that the content  of  those
+      statements for the most  part  reads  as  legal  submissions  and  not
+      evidence.  It is readily apparent that those statements  were  drafted
+      by a legal representative and therefore the effect of separation  does
+      not come through clearly. The salient part of [H]'s statement  appears
+      at [17] to [21]. That evidence reads (so far as relevant):
+
+
+           "17.  My father  is  living  in  a  village  in  India  with  my
+           grandparents, but this is not ideal at all.  We call  my  father
+           using Videocall, Whatsapp and Skype.  However,  that  can  never
+           replicate him being here.  It breaks me inside being  away  from
+           my father every day.  We need to do this because if  we  do  not
+           the court will say we do not care and if we do they will say  we
+           can accept it.  This is very hard for me, my brother and mother.
+
+
+           18.   ...
+           19.   What was really hard and has hit me hard since finding out
+           my father is my real father is the Judge made some  good  points
+           but for some  reason  believed  he  should  have  been  deported
+           because his offence caused serious harm [this  comment  relating
+           back to the finding in the earlier appeal] ...
+           20.   The separation of all of us is ruining our family life.  I
+           believe it would be unfair for my father to have to continue  to
+           wait in India and somehow accept the  relationship  is  carrying
+           on. ...The passage of time with these cruel time processing  and
+           bad decisions has meant it is favouring him being away from  the
+           family forever.
+           21.   I am not able to maintain a relationship  with  my  father
+           over the phone, as we have been doing  simply  because  we  have
+           been left with no choice.  This is horrible  and  if  the  Judge
+           could feel any of the pain inside me and my mother  are  feeling
+           especially knowing how the law has been in cases where  offences
+           like my father's were done and the fact these  cases  now  being
+           fought in the United Kingdom are being won has only hardened our
+           resolve to make sure my father gets justice and  is  allowed  to
+           rejoin us in the United Kingdom."
+
+  33. Whilst I recognise that the impact as there  described  by  [H]  shows
+      that he finds it difficult to be separated from his father  and  might
+      well be described as harsh, I can  find  nothing  in  the  description
+      which suggests that it is unduly harsh.  It describes the impact which
+      one would expect on a  parent  and  child  separated  by  the  act  of
+      deportation.  That is simply not enough.  It may well be  relevant  to
+      an assessment of Article 8 outside the assessment when the  impact  is
+      balanced against the offending, but the evidence does  not  show  that
+      the very high threshold for unduly harsh is reached. For that  reason,
+      I am unable to conclude that the error made by the Judge when  setting
+      out her approach to the Article 8 issue (to  which  I  refer  at  [30]
+      above) is immaterial.
+
+  34. I make clear that I am not saying that the outcome of the appeal would
+      necessarily be different to that reached by Judge Colvin.  However,  I
+      am unable to reach the conclusion that the errors make  no  difference
+      and therefore they are material.
+
+  35. As I have concluded above, the period prescribed in paragraph  391  of
+      the Rules has expired.  That may well reduce the weight to be given to
+      the public interest.  However, that outcome requires an assessment  of
+      all the circumstances of the case which includes the factors  set  out
+      at paragraph 390 of the Rules namely:
+
+
+           "(i) the grounds on which the order was made;
+           (ii) any representations made in support of revocation;
+           (iii) the interests of the community, including the maintenance
+           of an effective immigration control;
+           (iv) the interests of the applicant, including any compassionate
+        circumstances."
+
+      It also requires consideration  of  the  provisions  of  Section  117C
+      including not only the exceptions but whether there can be said to  be
+      "very compelling circumstances over and above" the exceptions (Section
+      117C (6)).  That latter provision requires a  balanced  assessment  of
+      the interference with the Appellant's family and private life  against
+      the extent of the public interest.
+
+  36. In light of my conclusions that the Decision contains  errors  of  law
+      which are material for the reasons I  have  given,  I  set  aside  the
+      Decision.  Mr Singh submitted that if I were to take this course,  the
+      appeal should be remitted for re-determination.   I  do  not  consider
+      this to be necessary as the  reconsideration  of  the  decision  is  a
+      matter of assessment with little  fact  finding  to  be  carried  out.
+      There are no issues of credibility.  It is accepted that  [H]  is  the
+      Appellant's biological son  and  that,  notwithstanding  the  physical
+      separation, the Appellant has a genuine  and  subsisting  relationship
+      with his wife, his son and his stepson.   Mr Singh also asked that, if
+      I were to set aside the Decision, the Appellant should be  given  time
+      to produce more evidence.  Although there is no application to  adduce
+      further evidence, I am content to give more time for  evidence  to  be
+      provided and for oral evidence to be called if  the  Appellant's  wife
+      and children wish to give such evidence.
+
+   CONCLUSION
+
+  37. For the above reasons, I conclude  that  the  decision  of  First-tier
+      Tribunal Judge Colvin promulgated on 30 August 2019 contains errors of
+      law.  I set that aside.  I give directions below for the re-making  of
+      the decision.
+
+DECISION
+The decision of First-tier Tribunal Judge Colvin promulgated  on  30  August
+2019 contains errors of law.   I  set  that  decision  aside.   I  make  the
+following directions for the re-making of the decision:
+
+    1. Within 8 weeks from  the  date  when  this  decision  is  sent,  the
+       Appellant is to file with the Tribunal and serve on  the  Respondent
+       any further evidence on which he relies.
+    2. The resumed hearing will be relisted on  the  first  available  date
+       after 8 weeks from the date when this decision is sent with  a  time
+       estimate of � day.
+
+
+Signed           [pic] Dated: 27 November 2019
+Upper Tribunal Judge Smith
+

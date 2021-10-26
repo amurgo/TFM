@@ -1,0 +1,1825 @@
+
+                            IN THE UPPER TRIBUNAL
+
+                                                                JR/8610/2014
+
+                                                                Field House,
+                                                            Breams Buildings
+                                                                      London
+                                                                    EC4A 1WR
+
+
+                                                       Heard on: 24 May 2017
+
+                                   Before
+
+                                DR H H STOREY
+                         JUDGE OF THE UPPER TRIBUNAL
+
+                                   Between
+
+                                  the queen
+     (on the application of BF by his litigation friend FRANCESCO JEFF)
+                                                                   Applicant
+
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+                               - - - - - - - -
+
+For the Applicant:     Mr C Buttler, Counsel instructed by Scott Moncrieff
+                    Solicitors
+For the Intervener:    Mr M Chamberlain QC, Equality and Human Rights
+                    Commission
+For the Respondent:    Mr J Strachan, QC/Ms D Rhee QC instructed by
+                    Government Legal Department
+
+
+           - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+                                  JUDGMENT
+
+           - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+JUDGE H H storey:
+
+
+1.   At the heart of this application for judicial review is a challenge  to
+    one specific provision of the respondent's current policy  relating  to
+    detention of persons claiming to be a child.  That provision is Chapter
+    (sometimes referred to as  "paragraph")  55.9.3.1  of  the  Enforcement
+    Instructions and Guidance (EIG) which identifies as one of  four  bases
+    or criteria on which the respondent will treat as  an  adult  a  person
+    claiming to be a child:
+
+
+         "C.  Their physical  appearance/demeanour  very  strongly  suggests
+             that they are significantly over 18 years of age and no  other
+             credible evidence exists to the contrary."
+
+2.   The applicant and Intervener seek a declaration and/or  quashing  order
+    in relation to criterion C.
+
+3.   Since Mr  Chamberlain's  grounds  on  behalf  of  the  intervener  were
+    primarily aimed at identifying incompatibility of criterion C with  EU,
+    ECHR and international human rights law, I shall not always note  where
+    he has agreed with wider submissions advanced by Mr Buttler  on  behalf
+    of  the  applicant.    I  set  out  a  summary  of  the  parties'  oral
+    submissions in an Appendix.
+
+4.   The applicant's case is that criterion C of the respondent's policy  on
+    detention   is   unlawful   because   it   is   based    on    physical
+    appearance/demeanour which is an inherently unreliable  guide  to  age.
+    The policy has been in operation for some  considerable  time  and  has
+    undergone some modifications[1], but it is  with  the  current  version
+    only that this judicial review is concerned.
+5.    The  applicant,  a  national  of  Eritrea,  was  detained  under  this
+    criterion of the policy from 11 March to 11 September 2014, when he was
+    granted bail by the  First-tier  Tribunal.   He  was  subsequently  re-
+    detained from 7 January - 31 March 2015.  His application is brought on
+    behalf of BF by his litigation friend, Francesco Jeff  of  the  Refugee
+    Council.  It comes before me at this time as a result of a direction by
+    the President that it not be listed until the Court  of  Appeal  handed
+    down its judgment in Ali, R (on the  application  of)  v  Secretary  of
+    State for the Home Department & Anor [2017]  EWCA  Civ  138  (hereafter
+    "Ali").  This was handed down on 9 March  2017.   In  Ali  the  central
+    issue concerned  the  legal  consequences  for  a  claim  for  unlawful
+    detention of the amendment made by paragraph 18B of Schedule 2  to  the
+    Immigration Act 1971 which prohibits detention of  a  child  beyond  24
+    hours in a short-term holding facility.  Inserted  by  the  Immigration
+    Act 2014, this paragraph, together with  paragraph  16(2A),  came  into
+    force on 28 July 2014.  Paragraph 16(2A) and 18B of Schedule 2  to  the
+    Immigration Act 1971 provide:-
+
+         "16(2A)  But the detention of an  unaccompanied  child  under  sub-
+                  paragraph (2) is subject to paragraph 18B."
+
+
+         "18B (1)  Where a person  detained  under  paragraph  16(2)  is  an
+                  unaccompanied child, the only place where the child may be
+                  detained is a short-term holding facility, except where-
+
+
+                  (a)  E+W+S+N.I.the child is being transferred to or from a
+                      short-term holding facility, or
+
+
+                  (b)  sub-paragraph (3) of paragraph 18 applies.
+
+
+             (2)  An unaccompanied child may be  detained  under  paragraph
+                  16(2) in a  short-term  holding  facility  for  a  maximum
+                  period of 24 hours, and only for so long as the  following
+                  two conditions are met.
+
+
+             (3)  The first condition is that-
+
+
+                  (a)  directions are in force that require the child to  be
+                      removed from the short-term holding  facility  within
+                      the relevant 24 hour period, or
+
+
+                  (b)  a decision on whether or not to  give  directions  is
+                      likely to result in such directions.
+
+
+             (4)  The second condition  is  that  the  immigration  officer
+                  under  whose  authority  the  child  is   being   detained
+                  reasonably believes that the child will  be  removed  from
+                  the short-term holding facility within  the  relevant  24-
+                  hour period in accordance with those directions.
+
+
+             (5)  An unaccompanied child detained under paragraph 16(2) who
+                  has been removed from a short-term  holding  facility  and
+                  detained elsewhere may be detained again in  a  short-term
+                  holding facility but only if, and  for  as  long  as,  the
+                  relevant 24-hour period has not ended.
+
+
+             (6)  An unaccompanied child who has  been  released  following
+                  detention under paragraph 16(2) may be detained again in a
+                  short-term  holding  facility  in  accordance  with   this
+                  paragraph.
+
+
+             (7)  In this paragraph-
+                      'relevant  24-hour  period',  in  relation   to   the
+                      detention  of  a  child  in  a   short-term   holding
+                      facility, means the period of 24 hours starting  when
+                      the child was detained (or, in a case falling  within
+                      sub-paragraph (5), first detained)  in  a  short-term
+                      holding facility;
+
+
+                      'short-term holding facility' has the same meaning as
+                      in Part 8 of the Immigration and Asylum Act 1999;
+
+
+                      'unaccompanied child' means a person-
+
+
+                      (a)  who is under the age of 18, and
+
+
+                      (b)  who is not accompanied (whilst in detention)  by
+                           his or her parent or another individual  who  has
+                           care of him or her."
+
+
+    Rregarding this amendment the Court of Appeal in Ali [29] held that:
+
+
+      "...the  plain  language  of  the  amended  provisions   compels   the
+         conclusion that where,  in  point  of  fact,  the  detainee  is  an
+         (unaccompanied) child then detention beyond what is  sanctioned  in
+         paragraph 18B(1) and (2) is unlawful.  It  does  not  suffice  that
+         there were reasonable grounds for believing or  suspecting  at  the
+         time of detention that the individual was  an  adult"  (per  Davis,
+         LJ).
+
+6.   The applicant's challenge is expressed as being to the  policy  because
+    he does not dispute that it was applied to him as it  was  intended  to
+    apply.  Nevertheless, Mr Buttler seeks  to  rely  on  the  way  it  was
+    applied to the applicant as an illustration of  its  inherent  defects.
+    In particular, he seeks to rely on the fact that although the applicant
+    was found to be an adult in the first  two  local  authority  ('Merton-
+    compliant') age assessments (on 6 January 2015 and 24  January  2015  -
+    the latter confirmed by way of an addendum report of  12  March  2015),
+    the conclusion of a third age assessment carried out in September  2015
+    was that he was a child.  Proceedings between the applicant and Newport
+    City Council were resolved on 23 September  2015  by  a  consent  order
+    concluding that the applicant was a child born  on  15  February  1998.
+    Such age assessments are referred to as "Merton-  compliant"  following
+    the judgment of Stanley Burnton J in  R(on  the  application  of  B)  v
+    Merton London Borough Council [2003] EWHC 1689 (Admin).
+
+7.   It will be apparent from the above that, whilst the applicant has  been
+    involved in litigation regarding his age for  some  considerable  time,
+    the only application with which I am concerned is  that  lodged  on  20
+    June  2014  challenging  his  detention  on  the  ground  that  it  was
+    irrational for the respondent's officials  to  have  thought  that  the
+    applicant's physical appearance /demeanour very strongly suggested that
+    he was  significantly  over  18.   By  way  of  amended  grounds,  this
+    challenge now materialises as a challenge to the policy only.
+
+Procedural history
+
+8.   The procedural history of the application is complex.
+
+9.   On 26 June 2014 Supperstone J  dismissed  the  applicant's  application
+    for release, concluding that the Immigration  Officer's  assessment  of
+    the applicant's physical appearance was not irrational.  On 9 July 2014
+    the applicant applied  to  rely  on  amended  grounds  challenging  the
+    lawfulness of the respondent's policy.   On  the  same  day  Ouseley  J
+    transferred the application to the Upper Tribunal.  On  10  July  Upper
+    Tribunal Judge Kopieczek granted a  stay  on  the  applicant's  removal
+    pending determination of the judicial review or further  order.   On  6
+    August 2014 Upper Tribunal  Judge  Peter  Lane  refused  the  applicant
+    permission to apply for judicial review.   Permission  to  appeal  this
+    refusal was initially refused on the papers by Fulford LJ on 5 November
+    2014, but on 8 May 2015 Janet Smith LJ granted  permission  to  appeal.
+    On 11 October 2016 the Court of Appeal held that  the  application  was
+    arguable and granted permission to apply for judicial review.  By order
+    dated 4 November 2016 the Court of Appeal remitted the  application  to
+    the Upper Tribunal. Since transfer to the Upper Tribunal the  case  has
+    been subject to considerable case  management  designed  to  ready  the
+    parties to address all pertinent issues.
+
+The applicant
+
+10.  The background to the applicant's challenge is as follows.   He  claims
+    to have entered the UK on 11 March 2014 concealed  in  the  back  of  a
+    lorry.  On the same day he presented himself  to  police  at  Tunbridge
+    Wells Police Station explaining that he had come  to  the  UK  to  seek
+    asylum.  He gave his date  of  birth  as  15  February  1998.   He  was
+    arrested  as  an  illegal  entrant.   On  the  same  day  an  Assistant
+    Immigration Officer (AIO) conducted an initial interview,  and  carried
+    out an age assessment on the strength of which he considered  that  the
+    applicant was significantly older than  he  claimed.   The  applicant's
+    case was referred to a Chief Immigration Officer (CIO) who, having also
+    "age-assessed" him, took the  same  view.   The  CIO's  assessment  was
+    recorded as follows:
+
+     "I have age assessed this subject as over 18, his  physical  appearance
+         is that of an adult in his mid twenties, with receding hairline and
+         well defined jawline, Adam[s] apple etc.  His physique also appears
+         to be well developed.  I am satisfied that he is not 16 years old".
+
+
+
+    The applicant was then informed of this decision.  In Form BP7 the  two
+    officers concerned recorded his response as being "I cannot argue  with
+    you".  The officers then amended the applicant's date of  birth  to  15
+    February 1996 so as to reflect their decision that he was to be treated
+    as an adult.  He was then fingerprinted and his identity was checked.
+
+
+11.  Results indicated that he had been apprehended  in  Italy  on  17  June
+    2013 (in Lampedusa) and 21 June (Cagliari)  and  that  he  had  claimed
+    asylum  in  that  country.   The  next  day  (12  March  2014)  he  was
+    interviewed and detained at Dover Immigration Removal  Centre.   During
+    that interview he gave his date of birth as 15 February 1996, confirmed
+    he had been fingerprinted twice in Italy and had claimed asylum  there,
+    and said he had no documentary evidence relevant to his  claim,  family
+    life or other circumstances.
+
+12.  The  respondent  then  made  a  'take  back'  request  to  the  Italian
+    authorities under Article 18(1)(b) of the Dublin III  Regulation.   The
+    Italian authorities accepted this  request  on  17  April  2014,  their
+    records stating the applicant's date of birth as 15 February 1988.   In
+    response to a subsequent inquiry,  the  Italian  authorities  confirmed
+    that this date  of  birth  was  based  on  the  applicant's  own  self-
+    declaration.  On 3 April 2016 the respondent certified the  applicant's
+    claim for asylum on third country grounds; removal directions were  set
+    for 6 May 2014; and his  detention  was  maintained.  The  periods  the
+    applicant was in detention between 11 March 2014 to 11  September  2014
+    and 7 January 2015 to 31 March  2015,  amount  in  total  to  nearly  9
+    months.
+
+13.  Following the third age assessment (which unlike the  first  two  found
+    him to be a child) and the consent order  of  23  September  2015,  the
+    third country certificate was withdrawn on 16 May 2016. Since May  2016
+    the respondent's records and the ARC  (Application  Registration  Card)
+    issued by the respondent have recorded the applicant's date of birth as
+    15 February 1998.
+
+The grounds
+
+14.  In the course  of  the  present  proceedings  the  parties  have  filed
+    several skeleton arguments. In the latest one  the  applicant  contends
+    that criterion C is unlawful on three grounds. First, it is said that a
+    policy which by its nature permits the detention of individuals who are
+    children is, in light of the statutory provisions on  child  detention,
+    unlawful:  "Given  that  some  children  do   'very   strongly   appear
+    significantly over 18', this criterion will necessarily lead  to  child
+    detention. It will permit the detention of a child like  the  applicant
+    and the large number of other cases identified by the  Refugee  Council
+    (and indeed in the respondent's own evidence)". Second it is said  that
+    illegality is inherent in the system operated by the respondent because
+    the physical appearance/demeanour criterion  is  inherently  unreliable
+    and will inevitably lead to child detention in breach of  the  statute.
+    Third it is submitted that no rational policy-maker could maintain  the
+    physical appearance/demeanour criterion as a means of securing the  end
+    of child detention.
+
+My assessment
+
+15.  As advanced by the applicant  the  aforementioned  grounds  traverse  a
+    number of discrete issues, some pertaining to each of them. In  keeping
+    with the method employed by the parties in their submissions,  I  shall
+    give my assessment by reference to the various issues they have raised.
+
+
+
+16.  As the parties acknowledged, it is for the courts (and Upper  Tribunal)
+    to determine the meaning of a policy: see R  (Raissi)  v  Secretary  of
+    State for the Home  Department  [2008]  QB  836  paragraphs  123-4  per
+    Hooper, LJ.
+
+17.  The respondent has urged  that  I  attach  significant  weight  to  the
+    observations on Chapter 55.9.3.1 of the EIGs made by  Lord  Toulson  in
+    R(AA(Afghanistan) v Secretary of State for the Home  Department  [2013]
+    UKSC 49 [2013] 1 WLR 2224 (hereafter  "AA(Afghanistan")  in  particular
+    the passage at [48] where, having set out the policy, he  describes  it
+    as "detailed and useful" and its reasoning as "persuasive". However, as
+    Mr Strachan conceded, these observations were  obiter.  Whilst  clearly
+    conveying that this policy was viewed positively, they do not assist as
+    to the meaning  of  the  policy  nor  was  the  Court  considering  any
+    arguments directed at its public law efficacy. This case would  not  be
+    before me if it had.
+
+18.  A challenge to policy can only succeed if a high threshold  requirement
+    is met - see R (Detention Action) v First-tier Tribunal Judge [2015]  1
+    WLR at [27]; R(Tabbakh) v Staffordshire Probation Trust (QBD) [2014]  1
+    WLR at [52].
+
+19.  I am not persuaded that the challenge brought by  the  applicant  meets
+    the necessary threshold.
+
+Criterion C
+
+20.  First of all, the specific provision under challenge - criterion  C  of
+    Chapter 55.9.3.1 of the EIG - cannot be  reduced  to  a  mere  test  of
+    physical appearance based on visual observation. From its  wording,  it
+    is clear that this criterion is based on physical  appearance/demeanour
+    coupled with the absence of any other credible evidence  ("...  and  no
+    other credible evidence exists to the contrary"). It is unfortunate  in
+    my view that a number witness statements and other  materials  produced
+    on behalf of the applicant treat this criterion simply as  a  "physical
+    appearance" criterion.
+
+21.  The terms of criterion C also clearly demarcate it from a  binary  test
+    based on whether or not an applicant falls above or below  the  age  of
+    18.   It  is   only   to   be   applied   to   those   whose   physical
+    appearance/demeanour "very strongly suggests" they are  "significantly"
+    over 18.  Such phraseology affords a considerable margin of error to an
+    applicant, one relating to the strength of the evidence, the  other  to
+    the age threshold itself.
+
+22.  Another pertinent feature is that, even leaving aside the "...no  other
+    credible evidence" limb,  the  test  is  not  purely  one  of  physical
+    appearance.  It  also  requires  the  case  owner  to  have  regard  to
+    demeanour.  It is helpful in this regard  to  note  the  definition  of
+    demeanour offered by Lord Bingham in his book The Business  of  Judging
+    O.U.P., 2000 at p. 8:
+
+      "the  sum  of  a  witness's  conduct,  manner,  behaviour,   delivery,
+         inflexion ... [in short] anything which characterises his  mode  of
+         giving evidence but does not appear in  a  transcript  of  what  he
+         actually said".
+
+23.  This broadly drawn definition, albeit formulated in the context  of  an
+    oral hearing, helps make  clear  that  demeanour  extends  beyond  mere
+    observation of an applicant's physique and encompasses body language, a
+    person's manner of  speaking  and  would  include  auditory  responses.
+    Hence, even in terms  of  this  component,  the  test  is  inaccurately
+    described (as  it  was  in  some  of  the  submissions)  as  a  "visual
+    assessment" test.
+
+Chapter 55.9.3.1
+
+24.  Second, criterion C cannot be considered in  isolation.  The  paragraph
+    in which criterion C is set out is headed 'Individuals claiming  to  be
+    under 18" and it states:
+
+         "...
+
+         The Home Office  will  [not]  accept  an  individual  as  under  18
+         (including those who have previously  presented  themselves  as  an
+         adult) unless one or more of the following categories apply (please
+         note this does not apply to individuals previously sentenced by the
+         criminal courts as an adult):
+
+         A.   There is credible and clear documentary evidence that they are
+             18 or over.
+
+         B.   A Merton compliant age assessment  by  a  local  authority  is
+             available stating that they are 18 years of age or over.
+
+         C.   Their physical appearance / demeanour very  strongly  suggests
+             that they are significantly over 18  year[s]  of  age  and  no
+             other credible evidence exists to the contrary.
+
+         D.   The individual:
+
+                . Prior to detention, gave a date of birth that  would  make
+                  them an adult and/or stated they were an adult; and
+
+                . Only claimed to be a child after a decision had been taken
+                  on their asylum claim; and
+
+                . Only claimed to be a child after they had  been  detained;
+                  and
+
+                . Has not provided credible and clear  documentary  evidence
+                  proving their claimed age; and
+
+                . Does not have a Merton compliant  age  assessment  stating
+                  they are a child; and
+
+                . Does not have an  unchallenged  court  finding  indicating
+                  that they are a child; and
+
+                . Physical appearance /  demeanour  very  strongly  suggests
+                  that they are 18 years of age or over.
+
+         (all seven criteria within category D must apply).
+
+         If an individual claim to be a child in detention the  decision  on
+         whether to maintain detention or release should be made as promptly
+         as possible."
+
+25.  Three particular features of Chapter 55.9.3.1 stand out.  One  is  that
+    from its second paragraph (the first in the above quote)  it  is  clear
+    that the policy operates a presumption in  favour  of  a  finding  that
+    applicants will be treated as a child and so not subject to detention -
+    it is based on a presumption that an individual is  under  18  and  one
+    that is only to be displaced in four specified circumstances.
+
+26.  Another marked feature -  one  I  have  already  noted  -  is  that  so
+    formulated the policy is not based on a simple  child/adult  dichotomy.
+    The four-fold criteria are not concerned with those whose claims to  be
+    children are merely doubted: the latter are treated separately as 'age-
+    disputed' cases who "should be afforded the benefit of  the  doubt  and
+    treated as children ... until  a  careful  assessment  of  ...  age  is
+    completed". Put another way, the  four-fold  criteria  are  exclusively
+    concerned with "non-borderline" cases.
+
+27.  A third feature, although not one stated in the above passage, is  that
+    the policy is plainly intended to operate in the context of a screening
+    interview or examination one of  whose  purposes  is  to  undertake  an
+    initial age-assessment. The test set out in criterion  C,  of  physical
+    appearance/demeanour together with "...no other credible evidence",  is
+    clearly understood not  to  be  the  same  thing  as  a  full  (Merton-
+    compliant) age assessment.  Indeed, the references in criteria B and  D
+    of 55.9.3.1 make clear that if there is an available  Merton  compliant
+    age assessment, criterion C is inapplicable.
+
+Interrelated policy (Assessing Age Asylum Instruction)
+
+28.  Further, it is apparent that this guidance document  must  be  read  in
+    conjunction with another, the Assessing  Age  Asylum  Instruction.  The
+    opening paragraph of Chapter 55.9.3.1 states:
+
+         "The guidance in this section must be read in conjunction with  the
+         Assessing Age Asylum Instruction (even in non-asylum  cases).   You
+         may also find it useful to consult Detention Services Order 14/2012
+         on managing age dispute cases in the detention estate."
+
+29.  Paragraph 2 of the Assessing Age Asylum Instruction emphasises that:
+
+         "[A]ll available  sources  of  relevant  information  and  evidence
+         should be considered  since  no  single  assessment  technique,  or
+         combination of techniques is likely to  determine  the  applicant's
+         age with precision".
+
+30.  Under 2.1. "Initial age assessment", having stated that criterion C  is
+    to be applied where there is little  or  no  evidence  to  support  the
+    applicant's claimed age, this Instruction proceeds to identify a number
+    of safeguards which are to inform criterion  C's  application.   It  is
+    stated that "[c]areful consideration must be given to assessing whether
+    an applicant falls into this category as they would be considered under
+    adult processes and could be liable for detention".  At 2.2.1. this  is
+    described as an "in-built safeguard"  to  ensure  compliance  with  the
+    Section 55 duty [Section 55 of the Border Citizenship  and  Immigration
+    Act 2009].  This Instruction then sets out the requirement of a 'second
+    pair of eyes':
+
+         "Before a decision is taken to assess an applicant as significantly
+         over 18, the assessing officer's countersigning officer (who is  at
+         least a Chief Immigration Officer  (CIO)/Higher  Executive  Officer
+         (HEO)) must be consulted as a 'second pair  of  eyes'.   They  must
+         make their own assessment of the applicant's age."
+
+31.  This Instruction also sets out a further requirement of notice:
+
+     "If the countersigning officer also agrees to assess the  applicant  as
+         significantly over 18, the applicant should be informed that  their
+         claimed age is not accepted and that their  asylum  claim  will  be
+         processed under adult procedures".
+
+32.  There is also an obligation of ongoing review: it  is  said  that  case
+    owners "must review decisions to treat applicants as  adults,  if  they
+    receive relevant new evidence".
+
+33.  These interrelated Instructions underline the fact that criterion C  is
+    not intended to be applied  in  a  free-standing  manner,  but  in  the
+    context of an initial examination which seeks to establish all relevant
+    evidence available as regards an applicant's age.  In making a decision
+    under the policy the officials concerned  also  have  to  adhere  to  a
+    number of safeguards.
+
+Physical appearance: an inherently flawed criterion?
+
+34.  Even if it is right that criterion C  cannot  be  reduced  to  physical
+    appearance/demeanour and has to be considered in  the  context  of  the
+    respondent's detention policy/ices as a whole, it is still necessary to
+    assess whether criterion C's  physical  appearance/demeanour  component
+    constitutes an inherently flawed component that has no place in such  a
+    detention policy.  Buttressed by criticisms levelled at  the  criterion
+    by a number of reputable bodies, including the Children's Commissioner,
+    Mr Buttler describes it as "inherently subjective and impressionistic";
+    Mr Chamberlain says it is  "arbitrary".  Both  argue  that  the  higher
+    courts have impugned it.
+
+35.  Mr Buttler and Mr Chamberlain are entirely right to highlight  that  on
+    several occasions the higher courts, echoing wider learning, have found
+    physical appearance to be  an  unreliable  criterion  for  a  full  age
+    assessment.  However, there are at least two important caveats to that.
+    First, even in the context of a full (Merton compliant) assessment they
+    have never said that physical appearance is  an  irrelevant  criterion.
+    Their dicta have been  confined  to  its  application  to  'borderline'
+    cases: see e.g. Stanley Burnton J in Merton at [36].
+
+36.  The second caveat is that the higher courts have  never  said  that  it
+    must always be wrong to rely solely on physical  appearance.   Thus  in
+    R(B) v London Borough of Merton [2003] EWHC 1689 (Admin) it  was  noted
+    at [38] that "In an obvious case, the appearance of the applicant alone
+    will require him to be accepted as a child; or, conversely, justify his
+    being determined to be an adult, in the absence of compelling  evidence
+    to the contrary"; and at [50] that: "[c]ases will vary  from  those  in
+    which the answer is obvious to those in which it is far from being  so,
+    and the level of inquiry unnecessary  in  one  type  of  case  will  be
+    necessary in another." These observations articulate well the fact that
+    physical appearance/demeanour is used as  a  component  when  assessing
+    persons claiming to be children whether they are thought to  be  adults
+    or children. It is because physical appearance is regarded as having  a
+    valid role in the latter cases, that it is  considered  unnecessary  to
+    subject such children to specific age assessment procedures  which  are
+    potentially intrusive of their right to respect for private life.
+
+37.  Indeed, the fact that reliance on the criterion of physical  appearance
+    will not always be unlawful was conceded by  both  Mr  Buttler  and  Mr
+    Chamberlain during the hearing.  Both accepted that in "obvious" cases,
+    e.g. someone over 40 claiming  s/he  was  a  minor,  the  criterion  of
+    physical appearance would suffice to determine he was  not.   Moreover,
+    in an early skeleton argument dated 27 February 2015  Mr  Buttler  said
+    that if the policy had stated (as  it  apparently  did  in  an  earlier
+    incarnation) that it  applied  to  persons  over  30,  his  rationality
+    challenge could not prosper[2].
+
+    Reliance on a criterion of physical appearance is also to be  found  in
+    other parts of the respondent's policy on  detention.  That  of  course
+    does not serve  as  a  reason  in  itself  for  considering  it  has  a
+    legitimate role. Silber J's admonition in The Queen (on the application
+    of Medical Justice)  [2010]  EWHC  1925  (Admin)  (that  "there  is  no
+    presumption that if a claimant  does  not  dispute  that  a  particular
+    previous policy or that other parts of a particular  policy  are  valid
+    but only challenges the exceptions to that policy, the claimant thereby
+    accepts that the unchallenged parts are valid") resonates  here.   And,
+    of course, as Mr Buttler highlighted, it remains possible  a  challenge
+    could be brought against these other parts. Nonetheless, the fact  that
+    they have been in operation for  some  time,  without  apparent  demur,
+    might be thought to indicate that criteria of this kind have a role  in
+    limited contexts. Chapter 55B, Adults at risk in immigration detention,
+    Version v2.0, 6 December 2016, concerns assessment  of  whether,  if  a
+    person is being considered for immigration detention, he or she  is  an
+    'adult at risk' under the terms of this policy. It is  stated  that  in
+    cases in which an undocumented individual claims to be aged 70 or over,
+    but in which there is no documentary confirmation, the processs  to  be
+    followed should be:
+
+         "Age
+
+         For the purposes of this policy  an  individual  aged  70  or  over
+         should be (regardless of  any  other  considerations)  regarded  as
+         being at risk and the fact of their age alone,  will  automatically
+         be regarded as amounting  to,  at  least,  level  2  evidence  (see
+         evidence levels[3]).  In the cases of documented individuals, their
+         age will be apparent from the documentation.  When  the  individual
+         is undocumented, however, and there is  no  definitive  information
+         available that indicates their age, a judgement may need to be made
+         on the basis of a visual assessment.
+
+
+         In cases in which an undocumented individual claims to be  aged  70
+         or over, but in which there is  no  documentary  confirmation,  the
+         following process should be followed:
+
+         .    the decision maker (or an  officer  acting  on  their  behalf)
+             should carry out a visual assessment of the individual
+         .    on the basis of this visual assessment, if the  individual  is
+             clearly, or is in all  probability,  aged  70  or  over,  they
+             should be treated accordingly for the purposes of this policy
+         .    if there is doubt about whether the individual is in fact aged
+             70 or over:
+             ?    all existing documentation should  be  double-checked  to
+                  ensure that there is no information  which  indicates  the
+                  individual's age
+              ?   the individual should be  asked  whether  they  have  any
+                  additional information
+             ?    the decision maker should reach a view on whether or  not
+                  the individual is 70 or over
+             ?    if the view is taken that the individual is likely to  be
+                  under 70, and that the individual is to  be  detained  (or
+                  their detention continued), this assessment of age must be
+                  corroborated by the decision  maker's  line  manager,  who
+                  should be of at least the grade of HEO."
+
+
+38.  It is also pertinent that the guidance applied by  social  workers  for
+    the purposes of age  assessment,  the  ADCS  Age  Assessment  Guidance,
+    October 2015, does not regard Merton compliant age  assessment  as  the
+    criterion that must be used in all cases. In Chapter 1, "Do you need to
+    undertake this age assessment?" the question is  posed  whether  it  is
+    "'absolutely necessary" to undertake an age assessment and it  is  then
+    stated:
+
+         "Statutory  guidance  [Department  of  Education  (2014)  Care   of
+         Unaccompanied and Trafficked Children) on the care of unaccompanied
+         children states that:
+
+             'Age assessment should only be carried out whether there is  a
+             significant reason to doubt that the claimant is a child.  Age
+             assessment should not be a routine part of a local authority's
+             assessment of unaccompanied or trafficked children.'"
+
+39.  The ADCS guidance notes further on in this chapter that:
+
+         "The authors acknowledge and accept that some adults do claim to be
+         children, In some rare circumstances, it will be  very  clear  that
+         the individual is an adult well over the age of  18,  so  prolonged
+         inquiry may not be required,  as  stated  in  the  Merton  judgment
+         [citing para 45]. Even in these rare  circumstances  when  you  are
+         making a relatively quick decision, you are  still  undertaking  an
+         assessment, albeit a brief one, and you must record  the  rationale
+         for  your  decision  as  well  as  share  your  decision  with  the
+         individual being assessed. ..."
+
+40.  In Chapter 5 ("Making the decision") this guidance notes that:
+
+         "Physical appearance and demeanour should not be the sole basis  on
+         which age is assessed. However, there may be rare  occasions  where
+         the individual does not provide any  substantial  information  that
+         can assist you. If your  assessment  is  based  on  appearance  and
+         demeanour, and you are not accepting their claim  to  be  a  child,
+         then you must have no doubt that they are an adult and you must  be
+         prepared to state this in court if necessary."
+
+    The above formulation of the physical appearance test is not in exactly
+    the same  terms  as  contained  in  criterion  C,  but  it  is  broadly
+    comparable.
+
+Guidance to immigration officers
+
+  41.    One of the points marshalled by Mr Buttler was that despite  making
+    physical appearance a central criterion in claims to be minors made  by
+    persons appearing to be adults, the  case  owners  and  other  officers
+    whose job it is to apply this policy receive no training or instruction
+    in how to apply it. The importance of assessment being carried  out  by
+    staff who  are  properly  trained  is  that  application  of  detention
+    policies go hand in hand with assessment of  claims  for  international
+    protection and the Asylum Procedures Directive (2005/85/EC)  stipulates
+    at Article 13(3)(a) that Member States shall "ensure  that  the  person
+    who conducts the [personal interview] is sufficiently competent to take
+    account of  the  general  circumstances  surrounding  the  application,
+    including the applicant's cultural origin or vulnerability  insofar  as
+    it is possible to do so." (This guarantee has  been  fortified  by  the
+    Asylum Procedures Directive (recast) which  requires  those  conducting
+    the interview  are  not  only  competent  but  are  "properly  trained"
+    (Article 3(3)). As the  UK  has  not  opted  in  to  this  recast,  its
+    provisions only afford guidance on best practice).
+
+42.  On this point the evidence is somewhat  mixed.  On  the  one  hand,  Mr
+    Buttler  is  right  in  pointing  out  that  nothing  in   the   policy
+    instructions  advises  case  owners  about  what  aspects  of  physical
+    appearance and demeanour might  be  salient  (how  to  assess  physical
+    appearance/demeanour). The AIO who interviewed  the  applicant  clearly
+    thought it relevant to  highlight  development  of  his  Adam's  apple,
+    jawline and his physique, but  no  published  Instructions  cover  this
+    level of detail. On the other hand, it would be quite wrong to  portray
+    the case owners as having no instructions  about  age  assessment.  The
+    interrelated policy document already  referred  to,  on  Assessing  Age
+    Asylum Instruction, is replete with advice on the  state  of  knowledge
+    about age assessments. I have already quoted  from  paragraph  2  which
+    states that "...no  single  assessment  technique,  or  combination  of
+    techniques is likely to determine the applicant's age with  precision".
+    Chapter 5 ("Local authority age  assessments")  summarises  the  Merton
+    judgment noting that "[t]here is  no  prescribed  way  in  which  local
+    authorities are obliged to carry out age assessments; the courts  have,
+    however, provided some general guide to local authorities in cases such
+    as  [Merton]...".  And  at  5.2.  that  "[c]ase  owners   should   give
+    considerable weight to the findings of age made by  local  authorities,
+    recognising the particular expertise they  have  through  working  with
+    children. In cases where the local authority's assessment is  the  only
+    source of information about the applicant's age - their assessment will
+    normally be accepted as  decisive  evidence".   Chapter  6  deals  with
+    "Other  evidence  of  age".  Chapter  8  is  devoted  to  "Weighing  up
+    conflicting evidence of age". Michael Gallagher of  Asylum  and  Family
+    Policy, Immigration and  Border  Policy  Directorate,  in  his  witness
+    statement of 23 January 2017 avers  that  "Home  Office  staff  receive
+    training in dealing with children, and on the processes to be  followed
+    when assessing age". In her fourth  witness  statement,  Helen  Johnson
+    Operations Manager for the Children's Section of the  Refugee  Council,
+    avows that to the best of her knowledge such training does not  include
+    any treatment on how to assess whether a person "very strongly  appears
+    significantly over 18".
+
+43.  Considering the evidence in the round, I  conclude  that  it  would  be
+    wrong to suggest that case owners lack instructions on the  subject  of
+    age assessment, but Mr Buttler is right they lack instructions  on  how
+    to analyse the physical  appearance  and  demeanour  criterion  in  any
+    detail. That is a failure but I do not consider it is one that  renders
+    the policy unlawful and the challenge before  me  is  confined  to  the
+    policy rather than its application.
+
+44.  One other aspect to Mr Buttler's submission as regards instruction,  is
+    that the policy does not spell out what meaning is to be given  to  the
+    terms "very strongly suggests" and "significantly over 18". That  again
+    is true but I do not think this feature undermines it, since such terms
+    are ones that the higher courts have said many times  over  in  a  wide
+    range of contexts are to be given their natural and  ordinary  meaning.
+    It might be argued that  the  policy  could  have  made  mention  of  a
+    specific age, e.g. 23 or 25 (to reflect the 5 to 7-year margin of error
+    identified by medical bodies). As already noted, Mr Buttler in an early
+    skeleton argument suggested the policy would not be  irrational  if  it
+    referred (as it had in a previous  version,  according  to  MacDonald's
+    Immigration Law and Practice) to applicants who look over 30.  However,
+    since the objective of the policy is to identify by way of  an  initial
+    "'screening"  assessment  cases  that  are  outside  the  category   of
+    "borderline cases" it is not apparent that there would be any value  in
+    greater precision than such an assessment can deliver.
+
+Paragraph 18B of Schedule 2
+
+45.  I turn next to consider the contention in the applicant's grounds  that
+    the policy has been rendered unlawful as a result of the amendment made
+    to the law by the inserting of a new paragraph 18B of Schedule 2 to the
+    Immigration Act 1971 in force from 28 July 2014.
+
+46.  It is true that this provision prohibits detention  of  children  under
+    18 except for a period of 24 hours in  a  short-term  holding  facility
+    subject to certain conditions.  Paragraph 18B qualifies  the  statutory
+    power to detain set out in paragraph 16(2).  Paragraph 18B provides:
+
+         "18B (1) Where a  person  detained  under  paragraph  16(2)  is  an
+                  unaccompanied child, the only place where the child may be
+                  detained is a short-term holding facility, except where -
+
+                  (a)  the child is being transferred to or  from  a  short-
+                      term holding facility, or
+
+                  (b)  sub-paragraph (3) of paragraph 18 applies.
+
+              (2) An unaccompanied child may  be  detained  under  paragraph
+                  16(2) in a  short-term  holding  facility  for  a  maximum
+                  period of 24 hours, and only for so long as the  following
+                  two conditions are met.
+
+              (3) The first condition is that -
+
+                  (a)  directions are in force that require the child to  be
+                      removed from the short-term holding  facility  within
+                      the relevant 24-hour period, or
+
+                  (b)  a decision on whether or not to  give  directions  is
+                      likely to result in such directions.
+
+              (4) The second condition is that the immigration officer under
+                  whose authority the child  is  being  detained  reasonably
+                  believes that the child will be removed  from  the  short-
+                  term holding facility within the relevant 24  hour  period
+                  in accordance with those directions.
+
+              (5) An unaccompanied child detained under paragraph 16(2)  who
+                  has been removed from a short-term  holding  facility  and
+                  detained elsewhere may be detained again in  a  short-term
+                  holding facility but only if, and  for  as  long  as,  the
+                  relevant 24 hour period has not ended.
+
+              (6) An unaccompanied child who  has  been  released  following
+                  detention under paragraph 16(2) may be detained again in a
+                  short-term  holding  facility  in  accordance  with   this
+                  paragraph.
+
+              (7) In this paragraph -
+
+              'relevant 24 hour period', in relation to the detention  of  a
+             child in a short-term holding facility, means the period of 24
+             hours starting when the child was  detained  (or,  in  a  case
+             falling within sub-paragraph (5), first detained) in a  short-
+             term holding facility;
+
+              'short-term holding facility' has the same meaning as in  Part
+             8 of the Immigration and Asylum Act 1999;
+
+              'unaccompanied child' means a person -
+
+             (a)  who is under the age of 18, and
+
+             (b)  who is not accompanied (whilst in detention)  by  his  or
+                  her parent or another individual who has care  of  him  or
+                  her."
+
+47.  It is also true that in Ali the Court of Appeal  expressly  rejected  a
+    submission made by the Secretary  of  State  seeking  to  rely  on  the
+    decision  of  the  Supreme  Court  in  AA  (Afghanistan)   (which   had
+    disapproved the  proposition  that  detention  under  paragraph  16  of
+    Schedule 2 made in the reasonable but mistaken belief that the detainee
+    was an adult would of itself involve a breach of Section 55 of the 2009
+    Act).  In Ali Davis LJ considered  that  the  outcome  reached  by  the
+    Supreme Court in AA (Afghanistan) had been superseded  by  the  amended
+    legislation.  However, the latter decision was concerned  with  whether
+    there was strict liability for the detention of persons later found  to
+    be children and the concrete effect of the Ali decision was to  confirm
+    that Parliament has now amended the relevant law so as to ensure strict
+    liability.  The challenge in Ali  related  to  the  decision  that  his
+    period of detention in February 2015 was unlawful.
+
+48.  Further, the Ali decision does not  address  the  issue  of  whether  a
+    policy based in part on a  criterion  of  physical  appearance  can  or
+    cannot lawfully be applied in the context of an initial age assessment.
+     Mr Buttler submits  that  the  logic  of  the  Ali  decision  is  that
+    detention of adults claiming to be minors can only lawfully take  place
+    if it has already been established as  an  "objective  fact"  that  the
+    applicant is a child.  He and  Mr  Chamberlain  highlighted  that  this
+    approach was  also  consonant  with  Strasbourg  jurisprudence  on  age
+    assessment which also requires that such assessment be "objective".
+
+49.  The need for an objective assessment of age is a  well-settled  matter.
+    However, establishment of age as  an  objective  fact  must  surely  be
+    dependent on context.  In the context of a full age assessment,  it  is
+    well-established that assessment of age as an "objective fact" is to be
+    made by social workers conducting  a  Merton-compliant  age  assessment
+    and, in the event of a  legal  challenge,  by  judges  considering  the
+    evidence (I gloss over  here  the  apparent  paradox  that  a  form  of
+    assessment  widely  accepted  as  an  "inexact  science"  is  currently
+    regarded as determining an objective or scientific fact).  But that  is
+    not the context  here.   Here  the  context  concerns  an  initial  age
+    assessment, typically made on the same day as an applicant applies  for
+    or expresses an intention to apply for asylum.  Objective assessment in
+    that context has practical limits.  It is accepted on  all  sides  that
+    such assessment cannot be made  in  light  of  a  Merton-compliant  age
+    assessment unless (by happenstance) one is already  available.  As  was
+    noted by Lord Toulson  in  AA(Afghanistan)  at  [34]  -  a  proposition
+    unaffected in my judgement by the  amendments  to  Schedule  2  of  the
+    Immigration  Act  1971  -one  cannot  "make  a  Merton  compliant   age
+    assessment a precondition of a valid decision under para 55.9.3.1..."
+
+50.  Likewise, if paragraph 18B of Schedule 2  was  considered  to  bear  on
+    initial age assessment it would mean that there could be  no  detention
+    of anyone claiming to be a minor no  matter  how  preposterous  such  a
+    claim might be unless  and  until  there  was  a  Merton-compliant  age
+    assessment (or if legally challenged, a finding of fact made  in  light
+    of it by a court or Tribunal).  In effect applicants of any  age  would
+    be able to avoid detention simply by pointing out that  there  was  not
+    yet a full age assessment available.  Typically, that would  mean  that
+    all persons who claimed to be minors would  be  immune  from  detention
+    until such time as a full age assessment was made.  Such an  assessment
+    takes time - inevitably. It  is  stated  in  the  ADCS  Age  Assessment
+    Guidance, October 2015 that "[m]ost age assessments should be completed
+    within 28 days..." (p .21). It is also said that it is  important  that
+    the age assessment is not rushed (p. 10) and that it should take  place
+    in a location or venue conducive to helping the child or  young  person
+    feel safe, comfortable and able to participate to  the  best  of  their
+    ability in their  interview(s)  and  that  facilities  such  as  police
+    stations  would  not  be  considered  appropriate  for  conducting  age
+    assessments (p.15).
+
+51.  If paragraph 18B was considered to  bear  on  initial  age  assessment,
+    prohibition of detention would have to apply even for  "obvious"  cases
+    involving adults who are obviously adults.  A 30+ year old could  avoid
+    possible  detention  by  simply  claiming  he  or  she  was  under  18.
+    Applicants of all ages could insist on a full age assessment as a  pre-
+    requisite for any decision to detain them as adults.  Such a rule would
+    not simply be impracticable or absurd.  It would defy common sense.
+
+52.  On Mr Buttler's argument the reasoning I adopt here is contrary to  the
+    strong rejection by Davis LJ in Ali of what he  termed  at  [45]  "[i]n
+    terrorem arguments". However,  in  Ali  the  explicit  wording  of  the
+    relevant provisions  of  Schedule  2  to  the  1971  Act  was  properly
+    considered to have a direct bearing on the claim in hand, which was  an
+    application for a declaration that past detention was unlawful pursuant
+    to these provisions. In that context, the start point is that there  is
+    a clear contradiction between an established objective fact (based on a
+    Merton-compliant aged assessment) and a detention. In the context of an
+    initial age assessment, either the position is that there cannot as yet
+    be any established objective fact or there is but it  is  one  that  is
+    confined to its context - an 'initial' not a 'full' age assessment.
+
+53.  I would reiterate that my conclusion on this issue  does  not  seek  to
+    construe paragraph 18B differently from the way it has been interpreted
+    by the Court of Appeal  in  Ali.   Rather  it  is  to  deny  that  this
+    provision has application to the context  of  initial  age  assessments
+    made by  immigration  officials.   Paragraph  18B  most  certainly  has
+    application when it comes to remedies for  detention  of  an  applicant
+    later established to be a minor by a full age assessment.  That is  the
+    ratio of Ali. If there are passages in Ali which appear to go wider,  I
+    cannot see that they bite on initial age assessment in the  context  of
+    Chapter 55.
+
+Policy rationale
+
+54.   Another  important  strand  of  Mr  Buttler's  submissions  was   that
+    criterion C lacked a legitimate policy rationale. In  this  regard,  he
+    highlighted that there were strong considerations  of  policy  pointing
+    against detention and against detention of persons who could be minors.
+    Reference was made to the fact that criterion C has been criticised  by
+    a number of reputable bodies including the Children's Commissioner (who
+    has described visual assessment of age as "unsafe and unhelpful"),  the
+    Royal College of Paediatrics and Child Health  Practitioners  (RCPCHP),
+    the Migrant Children's Project, the Coram Children's Legal Centre  (see
+    e.g. its 2013 report, Happy Birthday? Disputing the age of children  in
+    the immigration system), the Refugee Council and the Refugee Children's
+    Consortium. In its Intercollegiate Briefing Paper, the RCPCHP  observes
+    that: "[a]lmost all detained children suffer injury to their mental and
+    physical health as a result of their  detention,  sometimes  seriously.
+    Many children experience the actual process of being detained as a  new
+    traumatising experience."
+
+55.  Mr Strachan's counter-submissions highlighted the fact that a  workable
+    detention policy was an essential part of the government's  immigration
+    policy and served the public interest in effective immigration control.
+     Adults who are liable to removal from the UK should  not  be  able  to
+    obtain  release  from  detention  and  therefore  frustrate  legitimate
+    immigration  control  by  simply  asserting  that  they  are  a  child.
+    Referring individuals that are clearly adults to local authorities  was
+    very likely to stretch their already limited resources.  He  said  that
+    there was a significant problem of fraudulent claims which burdened the
+    system. He also pointed to the significant  adverse  consequences  that
+    could flow from the failure to detain persons thought to be adults  but
+    claiming to be minors: in the respondent's skeleton  arguments  it  was
+    asserted that "[t]he consequences of giving  too  much  leeway  are  as
+    serious as giving too little: the consequences would be that  an  adult
+    would  be  placed  in  local  authority  accommodation,  possibly  with
+    vulnerable children, posing a risk to them,  and  taking  up  resources
+    which local  authorities  could  otherwise  devote  to  those  who  are
+    genuinely children". By choosing to treat even age-disputed  applicants
+    as children the policy embodied a protective function.
+
+56.  In response to these submissions Mr Buttler pointed  out  that  whether
+    persons who are actually adults are  mistakenly  accommodated  together
+    with minors  is  the  responsibility  of  local  authorities,  not  the
+    immigration service. That is largely correct, but not wholly  since  in
+    the case of challenges  brought  by  persons  detained  by  immigration
+    officials as a result of applying  Chapter  55,  such  persons  may  be
+    accommodated by local authorities with other minors pending a full  age
+    assessment. (It is also the case that if a person's  age  is  disputed,
+    the immigration service processes them together with other minors.)
+
+57.  Weighing up these competing arguments,  it  seems  to  me  that  whilst
+    criticisms can be made and will doubtless continue to be  made  of  the
+    respondent's detention policy set out in Chapter 55.9.3.1, it cannot be
+    said either to lack a sufficient  policy  rationale  or  to  place  the
+    respondent in conflict with the legislation. What I say  next  provides
+    further reasons for the above conclusion.
+
+Unreasonable exercise of power
+
+58.  One of Mr Buttler's key submissions is that the policy under  challenge
+    should be held to be unlawful because it is an unreasonable exercise of
+    power to issue guidance that permits or encourages unlawful conduct. In
+    support he cited  Gillick  v  West  Norfolk  and  Wisbech  Area  Health
+    Authority [1986] AC  112,  181F  which  concerned  guidance  on  family
+    planning services for children; R (Tabbakh) v  Staffordshire  and  West
+    Midlands Probation Trust [2014] 1 WLR  1022,  which  concerned  licence
+    conditions for offenders; and R(Letts) v Lord Chancellor [2015]  1  WLR
+    4497, [118] which concerned granting legal aid for representation at an
+    inquest and in which Green J stated that "[t]he test  is  hence:  Would
+    the Guidance if followed (i) lead to unlawful acts (ii) permit unlawful
+    acts or (iii) encourage such unlawful acts?". In R(Tabbakh) Cranston  J
+    noted at [42[- [52] that the authorities recognise three bases on which
+    a court can conclude that a government policy is unlawful. The first of
+    these was whether a policy if followed would lead to unlawful  acts  or
+    decision or which permits or encourages such acts - the Gillick line of
+    cases. The second concerned Article 3 ECHR cases where a policy exposes
+    a person to a significant risk of ill treatment (not relevant  in  this
+    application). The third basis was inherent  unfairness.  I  shall  deal
+    with the first basis before turning to the third.
+
+59.  I am not persuaded that the  Gillick  line  of  cases  impacts  on  the
+    policy under challenge. For one thing there is nothing on the  face  of
+    Chapter 55.9.3.1 that  suggests  that  case  owners  are  permitted  or
+    encouraged to undertake unlawful  acts.  In  contrast  to  cases  where
+    unlawfulness has been found on this first basis, e.g.  by  Green  J  in
+    R(Letts) v  Lord  Chancellor  (Equality  and  Human  Rights  Commission
+    intervening) QBD [2015] 1 WLR, 4497-4533,  neither  the  applicant  nor
+    intervener have been able to identify  any  specific  passages  of  the
+    policy that inscribe unlawfulness. The  policy  does  not  assert  that
+    minors are to be detained contrary to  any  statutory  provisions.  For
+    another, the safeguards set out in the policy are  surely  designed  to
+    ensure that unlawful acts are avoided so  far  as  is  consistent  with
+    objective knowledge at the relevant time  (I  have  already  identified
+    these safeguards and why I consider them sufficient).
+
+60.  In respect of Mr Buttler's submission  that  I  should  find  that  the
+    policy implicitly endorses unlawfulness, I pay heed to what was said by
+    Lord Bridge of Harwich in Gillick at p.194 about the need for caution:
+
+             "In  cases  where  any  proposition  of  law  implicit  in   a
+         departmental advisory document  is  interwoven  with  questions  of
+         social and ethical controversy, the court should,  in  my  opinion,
+         exercise its jurisdiction with the utmost restraint, confine itself
+         to deciding whether the proposition of law is erroneous  and  avoid
+         either expressing ex cathedra  opinions  in  areas  of  social  and
+         ethical controversy  in  which  it  has  no  claim  to  speak  with
+         authority or proffering answers to hypothetical  questions  of  law
+         which do not strictly arise for decision."
+
+Inherent unfairness
+
+61.  I turn next to the contention  advanced  by  both  Mr  Buttler  and  Mr
+    Chamberlain that the policy under challenge is inherently unfair.
+
+          In this context, I first of all reiterate that  any  issue  as  to
+    the inherent unfairness of criterion C must be decided on the basis  of
+    the policy as a whole.  Seen in this context  (as  already  noted)  the
+    policy has a number of built-in safeguards. In my judgment their effect
+    is to prevent unfairness.
+
+62.  Mr Buttler submits that criterion C is so  prone  to  error  as  to  be
+    inherently unfair.  He accepts, however, that in order to show inherent
+    unfairness the focus must be on the structure of the scheme and whether
+    there is  something  inherent  that  gives  rise  to  a  real  risk  of
+    injustice: The Lord Chancellor v Detention Action [2015]  1  WLR  5341.
+    It is necessary to show not just a susceptibility to significant error,
+    but a systematic unfairness (or  systemic  deficiency).   Mr  Buttler's
+    acceptance was based on a realistic recognition of the rejection by the
+    higher courts of claims based on the  mere  occurrence  of  significant
+    error.
+
+63.  Mr Buttler's submissions on inherent unfairness were twofold: first  he
+    submitted that he did not  need  to  show  any  specific  instances  as
+    inherent unfairness could be established by  reference  to  the  scheme
+    considered as a whole; second, he could in any event demonstrate it  by
+    reference to  empirical  data.  As  regards  his  first  submission,  I
+    consider that it fails for much the same reasons as his challenge based
+    on unreasonable  exercise  of  power  fails:  there  is  no  structural
+    unfairness on the face of the policy. His second submission leads me to
+    give specific  consideration  to  the  data  which  the  applicant  and
+    respondent have produced for these proceedings.
+
+The data
+
+64.  The requirement to show systematic  unfairness  by  way  of  data  puts
+    difficulty in the way of any submissions based on sketchy or incomplete
+    data.  There has been much  argument  about  the  precise  meaning  and
+    significance of the data respectively provided  by  the  applicant  and
+    respondent in this case. That produced by the respondent is set out  in
+    several witness  statements  from  Michael  Gallagher;  that  from  the
+    respondent is set out in four  witness  statements  of  Helen  Johnson,
+    Operations Manager for the Children's Section of the Refugee Council.
+
+65.  Based on some of their propositions about data  made  in  the  parties'
+    respective  submissions,  they  are  poles  apart  -   the   respondent
+    suggesting theirs show an  error  rate  of  around  5%,  the  applicant
+    suggesting theirs shows an error rate of between 34%-100%.   Both  also
+    sought to reinterpret each other's statistics to different  effect.  To
+    my mind, the extent of the disagreement only serves to  illustrate  the
+    problem that the data submitted by both parties  is  extremely  limited
+    and suffers from a number of evidential and methodological problems.
+
+66.  At the case management stage the parties indicated that they wished  to
+    call evidence from the individuals who were in a  position  to  explain
+    the relevant  data.   In  the  event  neither  the  applicant  nor  the
+    respondent chose to call these individuals, even though  it  must  have
+    been apparent to both parties that there was a significant variance.
+
+67.  Turning to the data produced by the respondent, the starting point  (as
+    confirmed by Michael Gallagher in his January 2017  witness  statement)
+    is that there is no central  recording  of  cases  dealing  with  under
+    criterion C.  The Secretary of State holds statistics for age  disputed
+    cases (or "'borderline" cases) as a whole and the  outcome  from  those
+    cases[4], but not for non-borderline cases.   That is to be  regretted;
+    but I accept that the respondent, albeit somewhat belatedly,  has  used
+    her best endeavours to provide relevant data by  undertaking  a  manual
+    review of individual records and that there has not  been  a  wholesale
+    failure to monitor a policy (which can of course  constitute  a  public
+    law error: see R(European Roma Rights)  v  Prague  Immigration  Officer
+    [2005] 2 AC 1 62 [91]).
+
+68.  As regards published statistics on age disputed cases as  a  whole,  Mr
+    Gallagher's witness statement of January 2017 states that for a twelve-
+    month period ending September 2016, these show that  1,000  individuals
+    who claimed asylum were treated as age disputed cases. Of the 933 cases
+    that were resolved in that period (principally through local  authority
+    age assessments), 67% were assessed to be over  18  despite  originally
+    claiming to be a child. Mr Gallagher states that this indicates the way
+    in which giving the benefit of the doubt to individuals who fall within
+    the age dispute process "already provides a precautionary approach".  I
+    would accept that this case analysis shows that Chapter 55, through its
+    provision for  an  intermediary  "age-disputed"  category  to  which  a
+    benefit of the doubt is given, affords a significant margin of error in
+    favour of applicants claiming to be children. However, as Helen Johnson
+    has pointed out, this cohort refers to those in  respect  of  whom  the
+    Home Office has not decided that  the  person  is  an  adult  based  on
+    physical appearance/demeanour; hence it does not directly  assist  with
+    the working of criterion C itself.
+
+69.  As regards cases in which individuals are assessed as adults using  the
+    significantly over 18 criterion, there appears to have  been  at  least
+    one pilot - that  conducted in the Asylum Screening Unit  (ASU)  for  3
+    months from 2 April-1  July  2013  to  record  cases  where  an  asylum
+    applicant's claim to be a child is doubted and there is  little  or  no
+    evidence to support their claimed  age  and  the  individual  is  being
+    treated as an  adult  on  the  basis  that  there  appearance/demeanour
+    strongly suggest that they are significantly  over  18.   There  is  no
+    mention of any of the ten being subsequently assessed as a child by the
+    local authority.
+
+70.  In order to assist the Tribunal,  the  respondent  undertook  a  manual
+    case file analysis in December 2016  of  39  cases  from  her  casework
+    information database (CID). This showed that in only 5 confirmed  cases
+    was there a subsequent local authority age assessment establishing that
+    they were in fact minors (Mr Gallagher's witness  statement  of  8  May
+    2017 states that there is one other case in  which  a  local  authority
+    assessment in pending; he also clarifies that it appears that only  two
+    of the six claimed to be children prior to  detention).  However,  this
+    data set is extremely small, especially bearing in mind  that,  of  the
+    39, Mr Gallagher's witness statement records that in  13  of  them  the
+    individuals were granted temporary admission very quickly  and  of  the
+    remainder one person was in police custody and deemed an adult  by  the
+    court and no further assessment of age was carried out on 11 of those.
+
+71.  In order to provide the Tribunal  with  an  additional  data  set,  the
+    respondent also analysed a group of 1,409 people who were processed  in
+    the Kent Asylum Intake Unit in the period 16 May 2016  to  20  November
+    2016. Mr Gallagher's witness statement of 8 May 2017 states that he had
+    requested six months' data from this unit from the most  recent  period
+    "because we believed it would give a good indication of practice.  Kent
+    Intake Unit is one of the main units processing clandestine and illegal
+    entrants in the UK".  Of these, 76 were assessed as significantly  over
+    18 and of these seven had  had  further  assessment  or  have  provided
+    further information about their age. "Of those seven cases, three  have
+    had Merton compliant assessment concluding they  are  adults  and  four
+    have been found to be children without a Merton compliant  assessment."
+    It is stated that a further three cases are recorded on CID  as  having
+    been referred by the Home Office to a local authority for a further age
+    assessment and as at 8 May one had gone  missing  and  two  assessments
+    were still awaited. Four were subsequently  found  to  be  children  by
+    Merton-compliant age assessments.  However, it is not explained why  of
+    these 76 only seven had further assessments.  The fact that 69 of  them
+    did not have further assessments does not necessarily  mean  they  were
+    significantly over 18 in fact.  The fact that of the seven who did have
+    further assessments, five were found to be children is far too small  a
+    sample from which to draw a meaningful conclusion.
+
+72.  As regards the data produced by  the  applicant,  the  principal  study
+    relied on was carried out  by  the  Refugee  Council.   In  her  second
+    witness statement of 22 September 2014 Helen Johnson stated that:
+
+              "our records show that we have  received  15  referrals  this
+         year in total of age disputed young people who are being treated as
+         adults and detained purely because of  their  physical  appearance.
+         Out of the 15 cases which were referred to the Refugee Council,  we
+         supported nine young people who we believed to be children. Out  of
+         these nine cases four cases have now  been  accepted  as  children.
+         Four cases are outstanding in that the process of resolving the age
+         of the individual is ongoing..."
+
+73.  In her third witness statement of 3  October  2016  Ms  Johnson  stated
+    that "from 1 October 2014 to 29 December 2015 her organisation received
+    37 referrals from individuals who claimed to be children but  who  were
+    being treated as adults based on the physical appearance  policy".  She
+    avers that of these 37 referrals, the Refugee Council supported  25  of
+    the young people, 12 were  not  supported  for  a  variety  of  reasons
+    including lack of capacity. "Of the  25  we  supported,  13  have  been
+    assessed and accepted as children by  a  local  authority.  Seven  were
+    released into the care of the local authority  pending  assessment,  of
+    whom two absconded, two were assessed to be  adults,  one  was  removed
+    from the country before the age assessment had been completed  and  two
+    are being looked  after  as  children  pending  the  outcome  of  court
+    proceedings". She concludes that "at least 13 of those  37  individuals
+    (just over one-third) were in fact children and the physical appearance
+    policy failed to protect them".
+
+74.  Her same statement  goes  on  to  state  that  from  1  January  to  30
+    September 2016 her organisation received 21 referrals of  age  disputed
+    young people in detention. "We supported 18 of  these  individuals.  Of
+    those 18, nine were assessed by local authorities and  accepted  to  be
+    children. Six of the 18 have been released into  local  authority  care
+    pending an assessment of their age by the local authority. One  of  the
+    18 was released and absconded. Two of the 18 are  still  detained  with
+    proceedings pending. She concludes: "[t]hus on  fuller  assessment,  it
+    appears that at least nine of those  21  individuals  (just  over  two-
+    fifths) were in fact children and that the physical  appearance  policy
+    failed to protect them".
+
+75.  A further witness statement from Ms Johnson stated that  from  1  April
+    2016 to 30 March l 2017  her  organisation  received  98  referrals  of
+    persons assessed by the Secretary of State to be significantly over 18.
+     It is stated that the Refugee Council accepted 62 of these and of this
+    number  27  were  subsequently  assessed  to  be  children   by   local
+    authorities.
+
+76.  The difficulties with Ms Johnson's figures are first of  all  that  the
+    details of the cases were not provided even in redacted form.   Without
+    those it is impossible to be sure that application of criterion  C  was
+    the sole or relevant criterion in issue.  It appears that some  in  her
+    cohorts were not detained in any event.  Second, there is  no  adequate
+    identification of  the  basis  on  which  some  significant  number  of
+    referrals were not accepted.
+
+77.  Given the evidential  and  methodological  difficulties  identified  in
+    both the respondent's and applicant's data sets, I do  not  consider  I
+    have a sufficient evidential  basis  on  which  to  draw  any  definite
+    conclusions as regards whether there is a significant  risk  of  error,
+    let alone a risk that is systematic.
+
+European and international norms
+
+78.  The thrust of Mr Chamberlain's submission  was  that  criterion  C  was
+    incompatible with European and international human rights norms.  I  am
+    not persuaded that this is so.  In terms of EU asylum  law,  (as  noted
+    earlier) the UK has not opted into the Asylum Procedures Directive(APD)
+    (recast), although it remains bound  by  Council  Directive  2005/85/EC
+    (Asylum Procedures (APD)).
+
+79.  There are no provisions either of the former or the latter  which  shed
+    light on the policy criterion at issue in this case.  Member States are
+    permitted  to  use  medical  examinations  to  determine  the  age   of
+    unaccompanied minors subject to procedural safeguards (Article 17, APD,
+    Article 25, APD (recast)).  Article 25(5) of the  APD(recast)  requires
+    the benefit of the doubt to be given in age-disputed cases, but Chapter
+    55 achieves that in any event. Mr Chamberlain has  suggested  that  the
+    objective  behind  both  instruments  can  be  informed  by  Resolution
+    97/C221/03 adopted by the European Council on 26 June 1997 stating that
+    "[a]ge assessment should be carried out  objectively",  but  this  says
+    nothing about what is or is not to be considered an objective  approach
+    to assessment.  In any event, for reasons elaborated earlier I consider
+    that the initial age assessment policy applied  by  the  respondent  is
+    sufficiently objective.
+
+80.  Article 6 of the EU Charter of Fundamental Rights (and  indeed  Article
+    5, ECHR) confers a right not to be detained arbitrarily  and  the  case
+    law of the European Council of Human Rights (ECtHR) considers that  the
+    prohibition on arbitrary detention imposes special  restrictions,  both
+    substantive and procedural, in relation to the detention  of  children.
+    The case law of the ECtHR is material because  of  Article  52  of  the
+    Charter.
+
+81.  However, insofar as this case law relates to the issue  in  this  case,
+    the most it shows is that the detention of a person who is  in  fact  a
+    child would be arbitrary if not based on an objective  assessment:  see
+    e.g. Winterwerp v United Kingdom (1983) 5 EHRR CD 305; Mohamed  Jama  v
+    Malta (App.no.10290/13,  judgment  26  November  2015);  see  also  the
+    September 2005 report of the UN Committee on the Rights of the Child on
+    the Treatment of Unaccompanied and  Separated  Children  Outside  their
+    Country of Origin (CRC/GC/2005/6), which  states  that  age  assessment
+    must be conducted in a "scientific, safe,  child  and  gender-sensitive
+    and fair manner".  Mr Chamberlain argues that the policy  in  issue  is
+    arbitrary and non-objective because it  is  based  on  "a  demonstrably
+    unreliable age assessment", but that ignores that the test  of  whether
+    an assessment is objective must be considered  in  the  context  of  an
+    initial age assessment, not a full age assessment and that this  policy
+    is not exclusively based on physical appearance/demeanour and  contains
+    a number of built-in safeguards.  It  is  common  ground  that  (absent
+    unusual circumstances) it is not possible for a full (Merton-compliant)
+    age assessment to be done at the stage when an applicant who claims  to
+    be a child is first  being  considered  for  detention.   As  explained
+    earlier, it is most certainly not possible to do it within the  24-hour
+    period identified as the outer limit for detention of children  by  the
+    amended 1971 Act.
+
+82.  Mr Chamberlain submitted that  the  decision  in  Mohamed  Jama,  which
+    concerned the detention  of  asylum  seekers  claiming  to  be  minors,
+    demonstrates that Article 5(1) ECHR imposes not  only  substantive  but
+    also procedural constraints on the detention of minors claiming  to  be
+    children. I concur, but in this case the Court first  of  all  did  not
+    consider that detention of a minor per se was contrary to Article 5(1),
+    but rather that "detention of minors should be no longer than  what  is
+    absolutely necessary  to  determine  their  identification  and  health
+    status"; and secondly the Court  said  nothing  to  indicate  that  the
+    adoption by a State party of a policy such as the one in issue in  this
+    case  would  be  contrary  to  substantive  or  procedural   safeguards
+    contained in Article 5.
+
+The applicant
+
+83.  The basic particulars relating to  the  applicant  have  been  set  out
+    earlier at paragraphs 10-13. Given that Mr Buttler sought  to  use  the
+    applicant's case as an illustration of why the policy  applied  to  him
+    was unlawful, it is necessary to comment on some particular aspects  of
+    what happened in his case and what light  the  treatment  of  his  case
+    sheds on the policy at large.
+
+84.  As regards his initial age assessment, it  has  already  been  observed
+    that the applicant was interviewed on 11 March 2014 and  that  the  AIO
+    note states simply that: "I have age assessed this subject as over  18,
+    his physical appearance is that of an adult in his  mid-twenties,  with
+    receding hairline and  well  defined  jawline,  Adams  apple  etc.  His
+    physique also appears to be well developed. I am satisfied that  he  is
+    not 16 yrs of age." The CIO note was in the  exact  same  terms.  These
+    minutes  strongly  suggests  that  not  just  physical  appearance  but
+    demeanour also was assessed by the AIO.
+
+85.  There is nothing in the  above  statement  to  the  effect  that  their
+    assessment had regard to whether  there  was  other  credible  evidence
+    available. At the same time, it can safely be inferred that the AOI had
+    in mind that the only  other  relevant  evidence  before  him  was  the
+    applicant's statement that he was born on 15 February  1998.   The  AIO
+    interview note records the applicant as stating that he had  no  ID  or
+    passport.  Unarguably the AIO must have been satisfied that  there  was
+    no other credible evidence (and indeed, as is agreed, there was  none).
+    The CIO decision would also appear to have had regard to the  state  of
+    the surrounding evidence. In her witness  statement,  she  stated  that
+    "[i]n the absence of any documentary or any other evidence provided  by
+    the applicant, I authorised that the applicant should be treated as  an
+    adult based on his physical appearance."
+
+86.  In any event, when on  11  March  2014,  the  respondent  prepared  and
+    served her decision letter, the latter made explicit that her  decision
+    regarding   his   age   was    not    based    purely    on    physical
+    appearance/demeanour. Its conclusion was stated as being that:
+
+            "In the absence of any credible  documentary  evidence  to  the
+         contrary, the Secretary of State does not accept  that  you  are  a
+         child and from this point therefore you will be treated as an adult
+         applicant for asylum".
+
+87.  The same  letter  also  informed  the  applicant  of  his  remedies  if
+    dissatisfied:
+
+         "The Home Office's determination of your age does not  prevent  you
+         from  approaching  your   local   authority   Children's   Services
+         department with a view to them undertaking their own  assessment  t
+         of your age."
+
+88.  There is also a commitment to review in the  light  of  any  Children's
+    Service assessment concluding he is a child. It is stated that if  such
+    an assessment  is  provided  and  the  Home  Office  is  provided  with
+    sufficient evidence of this, "the Home Office's determination  of  your
+    age will be reviewed". We  know  that  is  indeed  what  happened:  see
+    paragraphs 12-13 above.
+
+89.  On 12 March the applicant was served with a Screening Officer's  report
+    in which it is stated that he is being  treated  as  an  adult  because
+    "[h]is physical appearance/demeanour very strongly suggests  he/she  is
+    significantly over 18 and no other  credible  evidence  exists  to  the
+    contrary". I note that by this report the AIO does here include in  the
+    assessment the fact that "no other  credible  evidence  exists  to  the
+    contrary". The applicant is recorded as replying "I cannot  argue  with
+    you".
+
+90.  Following a request for clarification of  the  EURODAC  search  results
+    sent on 12 March  2014,  the  UKVI's  Asylum  and  Immigration  Liaison
+    Officer in Italy, stationed within the Italian  Ministry  of  Interior,
+    Italian authorities, confirmed on 7 December 2016 that the  age  stated
+    in their records (15 February 1998) was that given  by  the  applicant.
+    The applicant has addressed this event in his witness statement  of  16
+    July 2014 in which he stated that "I do not know why they [the  Italian
+    authorities] have recorded 1998 instead of my  correct  date  of  birth
+    which is 1998" (I will assume that that the applicant meant to say here
+    his correct date of birth was 1996).
+
+91.  To my mind the EURODAC search results are only of relevance in  showing
+    that the respondent's decision to detain the applicant beyond the first
+    day was further supported by her own inquiries.  I do not consider that
+    what is stated about what happened to him in Italy in  the  applicant's
+    witness statement signed several months later  was  clear  or  specific
+    enough to warrant a decision to release him from detention.
+
+92.   As  noted  earlier,  the  applicant  initially  presented  at  Newport
+    Children's Services on 8 January 2015 when he was assessed as being  an
+    adult over the age of 18 years. The first age assessment  conducted  on
+    the applicant was dated 24 February 2015. The social worker signing the
+    report concluded that his  age  was  "19-21  years".   The  second  age
+    assessment was carried out by Newport Children's Service on  6  January
+    2015, two different social workers concluding  that  he  was  "over  18
+    years of age". This assessment was  confirmed  in  an  addendum  report
+    prepared following an interview on 12 March 2015 to go through the  age
+    assessment  in  detail  with  him.  On  2  September  2015  two  (again
+    different) social workers instructed by Newport City Council  to  carry
+    out an independent age  assessment  on  the  applicant  produced  their
+    report. Despite observing in their analysis  that  "[B's]  interaction,
+    body  language  together  with  his  verbal,  written   and   pictorial
+    communication demonstrated traits and characteristics  associated  with
+    the expected developmental stage of an older young person", the  social
+    workers' conclusions was "we believe [BF] is his stated age of  17  and
+    his claimed date of birth is probably correct".
+
+93.  Even though the above brief history of age assessment of the  applicant
+    might be thought to afford a vivid  illustration  of  how  "inexact"  a
+    science such assessment continues  to  be,  it  remains  that  applying
+    established case law the current position  is  that  the  applicant  is
+    entitled to argue that  during  the  periods  of  his  detention  under
+    Chapter 55.9.3.1 he was a minor and that such detention, at least  from
+    the date on which paragraph 18B came  into  force,  he  was  unlawfully
+    detained. However, I am not seized of any claim for unlawful detention.
+    As will be evident from my  earlier  analysis,  the  current  state  of
+    objective assessment of his age does not impugn the lawfulness  of  the
+    policy set out in Chapter 55.9.3.1. It simply means that he can  pursue
+    a claim for unlawful detention for the relevant periods - on the  basis
+    of strict liability.
+
+Conclusion
+
+94.  For the reasons set out in the course of identifying and analysing  the
+    principal  issues  addressed  by  the  parties,  I  conclude  that  the
+    applicant's application for judicial review,  based  exclusively  on  a
+    challenge to Chapter 55.9.3.1. must fail.
+
+95.  Whilst I have  concluded  that  the  challenge  to  the  lawfulness  of
+    Chapter 55 fails, I have observed in the course  of  my  judgment  that
+    failure to monitor  a  policy  can  constitute  unlawfulness:  see  the
+    remarks  of  Baroness  Hale  in  R(European  Roma  Rights)   v   Prague
+    Immigration Officer [2005] 2 AC1 62 [91]).  I have also  observed  that
+    whilst the respondent has taken some steps to monitor this policy,  she
+    had done so belatedly and largely as a result of  directions  from  the
+    Court of Appeal and this Tribunal. Further, the existing data  she  has
+    produced regarding the operation of this policy is  deficient  in  more
+    than one respect. It seems to me, therefore, that the respondent should
+    give  consideration  to  putting  in  place  a  centralised  monitoring
+    mechanism from which it can be clearly seen what  are  the  numbers  of
+    persons claiming to be minors assessed  as  being  significantly  older
+    than 18 who  are  detained  for  that  reason  but  later  conclusively
+    established to have been minors at the time of detention.
+
+APPENDIX
+
+Oral submissions
+
+96.  Mr Buttler confirmed that the  challenge  brought  was  solely  to  the
+    Respondent's policy, not to its application in  this  case,  since  the
+    policy was applied to the Applicant as it was intended to apply.
+
+97.  In procedural terms,  it  was  important  to  bear  in  mind,  said  Mr
+    Buttler, that the Applicant had submitted evidence that the policy  was
+    not working lawfully and the Respondent had been put on  notice  as  to
+    the need to explain and file evidence showing the policy was  operating
+    lawfully.  He referred to the order made by the Court of Appeal for the
+    Respondent to submit detailed grounds of  defence  and  evidence  by  6
+    December 2016.
+
+98.  Mr Buttler then addressed the evidence relating to  the  harm  done  to
+    children  by  detention,  which  was  he  submitted   incontrovertible.
+    Logically such harm would affect persons who looked older than  18  but
+    were in fact minors.
+
+99.  As regards the policy, Mr Buttler said it was well-established that  it
+    was for the court or Tribunal to construe the meaning  of  any  policy.
+    The focus of the challenge was confined to criterion  'C'  set  out  in
+    chapter 55.9.3.1.  That criterion had been part  of  the  policy  since
+    2006, notwithstanding changes in the statutory  framework,  the  coming
+    into force in 2009 of s.55  of  the  2009  Act  and  the  amendment  to
+    Schedule 2 of the 1971 Act prohibiting detention of children beyond  24
+    hours.  Those  screened  out  under  'C'  were  denied  the  safeguards
+    afforded  to  age-disputed  cases  -  they  would  receive  no  further
+    assessment unless they arranged it for themselves.  It was no answer to
+    say to a person affected "you are free  to  go  and  obtain  a  Merton-
+    compliant assessment" because by that time they would already have been
+    detained beyond 24 hours.  They were  also  liable  to  rapid  removal.
+    Significantly, submitted Mr Buttler, the policy gave no guidance on how
+    criterion C was to be applied, in terms of what  "significantly"  meant
+    in terms  of  numbers  of  persons  or  what  physical  characteristics
+    officers should be looking to check.  There was  no  proper  system  of
+    monitoring through central recording.
+
+100. Mr Buttler took issue with the nature of the visual  assessment  method
+    relied on in criterion 'C'.  Whilst there was no scientific  equivalent
+    to DNA when it came to age assessment, Merton-compliant age  assessment
+    was the best method available and it regarded visual  assessment  as  a
+    thoroughly unreliable method.   Visual  assessment  was  an  inherently
+    subjective and impressionistic exercise.  The Respondent's own evidence
+    (given by Mr  Gallagher)  confirmed  that  none  of  the  officers  who
+    implement this policy have any training on how they  are  to  go  about
+    visual  assessment  or  on  how  to  apply  the   "very   strong"   and
+    "significant" thresholds.  The Respondent's position in defending  this
+    challenge (in which she claims  the  policy  is  'workable')  was  also
+    inconsistent with the position she took in the AA  (Sudan)  case  where
+    she said it was not workable.
+
+101. As regards the correct legal tests to be applied, Mr Buttler  submitted
+    that criterion C of the policy permitted unlawful action, since because
+    of para 18(b) of Schedule 2 there was a statutory  prohibition  on  the
+    detention of children.   Criterion  C  wrongly  permitted  officers  to
+    consider they could lawfully detain persons if they  had  a  reasonable
+    belief they were  significantly  older  than  18.   Parliament's  clear
+    intention by this amendment was to stop children  being  detained,  not
+    simply to ensure compensation if they were detained.
+
+102. Mr Buttler submitted  that  the  screening  procedure  under  challenge
+    generated an unacceptable level of risk and a "serious possibility"  or
+    a proven risk of injustice.  There  was  evidence  of  the  policy  not
+    working in a very significant number of cases.  He pointed out that  in
+    order to identify an inherent flow in the visual assessment system,  it
+    was not necessary he provide  individual  instances,  but  in  fact  he
+    could.
+
+103. Mr Buttler contended that  the  Upper  Tribunal  was  well-equipped  to
+    conduct an objective assessment of the policy.  Such assessment had  to
+    be made in the context of the policy and the wider statutory framework.
+     If the Upper Tribunal considered it was not possible for the officials
+    applying this policy to make a Merton-compliant  assessment  within  24
+    hours,  then  that  simply  meant  the  visual  assessment  policy  was
+    unavailable and it was for the Respondent (and if necessary Parliament)
+    to come up with a policy that was workable.
+
+104. Mr Buttler sought to evaluate the evidence provided by the  parties  in
+    this case.  On the one hand the Respondent had not produced evidence to
+    show the policy effectively avoids child detention; on the other  hand,
+    the Applicant had produced evidence  from  a  range  of  expert  bodies
+    stating that visual assessment is a flawed  method.   If  a  consultant
+    paediatrician or a social worker with years of training  cannot  assess
+    whether anyone is certainly over 18, how possibly  could  an  untrained
+    Immigration Officer?  The data produced by the Home Office was  from  a
+    small sample and was flawed in a number of respects.  Even on their own
+    figures the error rates were in the region of  28-100%.   On  any  view
+    these were troublingly high margins of error.
+
+105. Mr Chamberlain for  the  Intervenor,  the  Equality  and  Human  Rights
+    Commission, submitted that the visual assessment policy was capable  of
+    causing serious harm to people who are in fact children.  It  was  true
+    that neither the visual  assessment  method  nor  the  Merton-compliant
+    method of assessment were scientific, but the latter was the  only  one
+    that on the state of current  learning,  was  objectively  based.   The
+    visual assessment method, by contrast, was  inherently  unreliable;  it
+    could never be a major reason for age assessment.  Expert  opinion  was
+    agreed that something more than visual assessment  was  always  needed.
+    The policy failed to apply a Merton-compliant assessment at any  point.
+    It did not even, for example, state that detention would be limited  in
+    time so that a Merton-compliant assessment could  be  carried  out  'as
+    soon as possible'.  The policy did not even warn officials that  visual
+    assessment was notoriously unreliable.
+
+106. Mr Chamberlain submitted that the policy could be  demonstrated  to  be
+    unlawful purely by reference to case law since that made clear that  to
+    establish inherent unfairness it  was  not  necessary  to  show  actual
+    breaches (Medical Justice Council, para 41).   Yet  evidence  had  been
+    provided and that from the Refugee Council was striking.  Applying  the
+    test of 'inherent unfairness', the Respondent's policy  clearly  failed
+    that test, as the system established by the policy had no  capacity  to
+    react to error.  It was not based on objective  medical  evidence.   As
+    such criterion 'C' was an arbitrary criterion,  particularly  now  that
+    domestic law through para 18(b) imposed a statutory  bar  on  detaining
+    minors.
+
+107. Mr Chamberlain submitted that the Upper  Tribunal  should  be  cautious
+    about speculating what other policies could be put in place of the  one
+    under challenge; it was not for judicial bodies  to  try  and  redesign
+    Secretary of State's policy.  Whatever policy was applied,  it  had  to
+    incorporate an objective method of assessment sufficiently reliable  to
+    avoid detention of minors.
+
+108. Mr Strachan for the Respondent  averred  that  a  challenge  to  policy
+    could only  proceed  on  well-established  grounds  of  error  of  law,
+    inherent  unfairness  or  rationality.   The  Applicant  confined   his
+    challenge just to criterion 'C' but that criterion was just one of four
+    very limited circumstances creating exceptions to  the  presumption  in
+    favour of liberty of the subject.  Contrary to the submissions  of  the
+    Applicant  and  Interviewer  about  lack  of  safeguards,  the   policy
+    incorporated several.  It was predicated on the presumption of  liberty
+    save in exceptional circumstances.   There  was  an  inbuilt  threshold
+    designed to allow for a considerable margin of error.  Lord Toulson had
+    described the policy in AA (Afghanistan) as "detailed and useful".  The
+    policy required the decision to be reviewed by a  more  senior  officer
+    acting as a 'second pair of eyes'.   The  statistics  provided  by  the
+    Respondent showed that in as many as 69% of cases within  the  category
+    of age disputed cases were later assessed by  Merton-compliant  methods
+    to be adults.  Any policy needed to balance  these  difficulties.   The
+    fact that the  Supreme  Court  had  established  strict  liability  for
+    unlawful detention of minors in AA (Afghanistan)  did  not  render  the
+    policy unlawful.  The SC were not seeking to address how officials make
+    decisions, only the consequences for getting it wrong nor did the  fact
+    that para 18(b) of Schedule 2 to the 1971 Act  prohibits  detention  of
+    minors beyond 24 hours.  The mere fact an official gets it wrong  under
+    the policy does not render it unlawful.  Indeed, the change in the  law
+    fortified the policy because officials now knew that  if  they  got  it
+    wrong there would be an additional disbenefit  to  the  SSHD,  in  that
+    compensation would have to be paid on a strict liability basis.
+
+109. Mr Strachan argued that the Applicant  had  sought  to  mischaracterise
+    the policy.  In relying on visual assessment it was not seeking to deny
+    that visual assessment was not the objective method to  be  applied  in
+    the general run of cases.  Mr Strachan  said  he  did  not  accept  the
+    Respondent has been inconsistent in how she  had  defended  the  policy
+    under challenge as between this case and Ali.
+
+110. Mr Strachan strongly disavowed  the  Applicant's  submission  that  the
+    SSHD was hesitant to providing evidence in defence to  this  challenge.
+    The witness statements from Mr Gallagher explained the difficulties  in
+    obtaining relevant statistics and that  the  SSHD  had  commissioned  a
+    manual collation of data.
+
+111. Mr Strachan said it was wrong  to  portray  the  immigration  officials
+    administering the policy as having no guidance as  regards  methods  of
+    age assessment and he referred in this context  to  passages  from  the
+    Asylum Instructions on Assessing Age.
+
+112. In terms of case law, Mr Strachan contended that on a  proper  analysis
+    the  policy  under  challenge  was  not  dislodged  by   any   relevant
+    principles: the Applicant and Interviewer both accepted that  they  had
+    to overcome a high threshold.  The Gillick line of cases did  not  help
+    as with them the policy misstated the law.  It was unfortunate as  well
+    that the Applicant had  sought  to  characterise  the  legal  error  as
+    unacceptable risk of wrong outcome, since the higher courts in a series
+    of cases had made abundantly  clear  that  unacceptable  risk  was  not
+    enough; there had to be inherent unfairness.   Given  that  Mr  Buttler
+    accepted the challenge was one to procedural  fairness,  that  entailed
+    that one has to look at the policy as a whole and not take criterion  C
+    in isolation.  That meant accepting it  arose  in  the  context  of  an
+    initial interview  and  that  it  contained  a  number  of  significant
+    safeguards.  The policy patently did  not  deny  applicants  access  to
+    justice.  That also meant accepting that had to be shown  was  systemic
+    deficiency in the system.  Inherent flaws did not necessarily  need  to
+    be established by individual cases, but  the  data  provided  for  this
+    hearing fell well short of  establishing  systemic  deficiency  in  any
+    event.  The criteria voiced in the case law  as  regards  using  visual
+    identification as a method of age  assessment  were  all  made  in  the
+    context of borderline cases, whereas the  policy  under  challenge  was
+    concerned with non-borderline cases. There was no deprecation of visual
+    assessment as such.
+
+113. In response to questions  I  raised  regarding  the  'Adults  at  risk'
+    policy forming 55b of the Respondent's policy on detention, Mr Strachan
+    accepted  that  it  did  adopt  a  visual  assessment  based  on  self-
+    certification in certain contexts, but so he submitted did  the  policy
+    under challenge, in applying a presumption that  individuals  would  be
+    accepted as minors except in four limited circumstances.   Compared  to
+    the treatment of the position of adults at risk and pregnant women, the
+    policy under challenge was even more cautionary.
+
+114. Dealing  with  the  Applicant's  three  main  heads  of  challenge,  Mr
+    Strachan said that the challenge  based  on  rationality  had  to  fail
+    because what had to be considered was the overall system and  the  mere
+    fact some detained people might turn out to be  minors  (by  virtue  of
+    Merton-compliant age assessments) did not invalidate  the  policy.   As
+    regards the attempt to deploy a challenge based on 'unacceptable risk',
+    that was simply the wrong test.  There was no Gillick-type error of law
+    stated in the policy.
+
+115. Turning to the  data  produced  to  the  Upper  Tribunal,  Mr  Strachan
+    submitted that the error rate based on subsequent Merton-compliant  age
+    assessments  was  only  5%.   As  regards  the  data  produced  by  the
+    Applicant, he said it contained inbuilt biases and it did  not  explain
+    the basis of the 98 referrals and the it did not  safely  identify  the
+    reasons why 47 of that cohort those not detained.
+
+116. Mr Strachan said that the Respondent had not failed to respond  to  the
+    arguments advanced by the Intervener; it was simply that she considered
+    those arguments not to  apply  against  the  Respondent.   Neither  the
+    international cases nor the ECHR jurisprudence told against the  policy
+    under challenge.
+
+117. In response Mr Chamberlain considered that whilst it was  accepted  the
+    Applicant and Intervener had to show inherent unfairness in the context
+    of the policy and statutory framework, the data provided to  the  Upper
+    Tribunal demonstrated "systemic failure".
+
+118. Mr Buttler submitted in response that  the  Applicant  had  established
+    the policy had inherent flaws in procedural terms.  Even leaving  aside
+    that Mr Gallagher's latest witness statement was inconsistent with  his
+    first as regards the relevant figures, the Home Office figures showed 5
+    out of 14 or 40 out of 135 detained adults were later assessed to  have
+    been children.  Mr Buttler said Mr Strachan was wrong to seek to invoke
+    obiter comments made by Lord Toulson in AA (Afghanistan); there was  no
+    challenge  in  that  case  to  the  visual  assessment  criterion.   By
+    contrast, the recent Court of Appeal decision in AA (Sudan) did  assist
+    because it addressed  the  implication  of  the  changes  made  to  the
+    statutory framework by para 18(b) of Schedule 2 to the 1971 Act and  it
+    sets out an express rejection of the notion that immigration  officials
+    can any longer rely on reasonable belief in applying detention  policy.
+    In light of para 18(b)  and  the  Court  of  Appeal  clarification  the
+    Respondent could not carry on regardless as if these  developments  had
+    not occurred.  If a significant number of persons  detained  as  adults
+    were children, that amounted to systemic failure of  the  system.   The
+    Gillick  line  of  cases  was  applicable  because  whilst  the  policy
+    contained no express misstatement of the  law,  such  misstatement  was
+    implicit in the policy since it implicitly says detention is lawful  if
+    based on reasonable belief.  The visual assessment method  endorsed  by
+    the policy was inherently unfair because it was  well-established  that
+    age assessment had to be holistic.
+
+119. In  response  to  Mr  Strachan's  point  that  the  policy  had  to  be
+    understood in the context of an initial interview, Mr Buttler said that
+    the interview record of the Applicant did not deal with age at all.  Mr
+    Buttler said he was well aware the policy  contained  various  passages
+    informing immigration officials  about  age  assessment,  but  it  said
+    nothing about how to apply visual assessment; it was  not  relevant  to
+    consider what policies could be  operated  instead  of  the  one  under
+    challenge, but it would be wrong  to  assume  that  there  was  nothing
+    better that could be done in  the  first  24  hours  absent  a  Merton-
+    compliant assessment, e.g. a trained social worker could be asked to do
+    a  same  day  assessment,  even  if  not  complying  with  full  Merton
+    requirements.
+
+120. Mr Buttler urged  the  Upper  Tribunal  not  to  overlook  the  serious
+    consequences of error involved in application of  a  visual  assessment
+    criterion as demonstrated by the expert evidence on the harm  detention
+    causes children.  Whilst there was no challenge to the  application  of
+    the policy to the applicant,  it  was  significant  that  a  later  age
+    assessment showed he was a child when detained.   The  Applicant's  was
+    clearly, therefore, a borderline case.  The Refugee Council data showed
+    that 40 out of 42 cases  of  adult  detention  reviewed  by  the  local
+    authority were found to involve children.
+
+121. Mr Buttler took issue with the Respondent's argument  that  the  policy
+    had to weigh in the balance public interest considerations arising from
+    the fact that there are a  significant  number  of  cases  where  those
+    treated as minors are found to be adults.  The policy  under  challenge
+    did not impose any obligations  on  local  authorities.   If  the  Home
+    Office detention policy led to adults who  claim  to  be  minors  being
+    spared detention, that did not in any way oblige local  authorities  to
+    accept such persons as minors
+
+
+
+Signed:
+
+               [pic]
+
+Dr H H Storey, Judge of the Upper Tribunal
+
+
+
+Date: 31 July 2017
+
+
+    .~~~~0~~~~
+
+-----------------------
+[1] Macdonald's Immigration Law and Practice, 9th Ed, para 18.32, n.8
+states that "[a] statement accompanying the announcement of the change in
+policy on 30 November 2005, referring to cases falling within the third
+bullet point above [ the equivalent of criterion C], stated that 'category
+3 cases is intended for the fairly exceptional case - for claimants
+appearing to be in their 30s or older'". The witness statement of Michael
+Gallagher of the Asylum and Family Policy, Immigration and Border Policy
+Directorate of 23 January 2017 does not fully accept the accuracy of this
+account.
+[2] Paragraph 18 of this skeleton states: "[t]he [applicant [ accepts that
+the policy as it used to be applied (viz. does the person look to be in
+their 30s or older?) would ensure that the risk of children being treated
+as adults was acceptably low. However, allowing the Respondent to detain
+persons on the basis that they look 25 carries an unacceptable risk of
+child detention".
+         [3] The evidence levels are set out in a later part of  the  policy
+         under the  heading  "Assessing  risk:  weighing  the  evidence"  as
+         follows:
+
+
+         "Assessing risk: weighing the evidence
+         Evidence levels
+         Once an individual has been identified as being at risk, by  virtue
+         of them exhibiting an indicator of risk,  consideration  should  be
+         given to the level of evidence available in support, and the weight
+         that should be afforded to the evidence, in  order  to  assess  the
+         likely risk of harm to the individual if detained  for  the  period
+         identified as necessary to effect their removal.
+         Level 1
+         A self-declaration of being an adult at risk - should  be  afforded
+         limited weight, even the issues raised cannot be readily confirmed.
+         Level 2
+         Professional evidence (for example from a  social  worker,  medical
+         practitioner or  NGO),  or  official  documentary  evidence,  which
+         indicates that the individual is (or might be) an adult at  risk  -
+         should be afforded greater weight.  Such evidence  should  normally
+         be accepted and consideration given as to how this may be  impacted
+         by  detention.   Representations  from   the   individual's   legal
+         representative acting on their behalf in their  immigration  matter
+         would not be regarded as professional evidence in this context.
+         Level 3
+         Professional evidence (for example from a  social  worker,  medical
+         practitioner or NGO) stating that the individual  is  at  risk  and
+         that a period of detention would be likely  to  cause  harm  -  for
+         example, increase the severity of the symptoms  or  condition  that
+         have led to the individual being regarded  as  an  adult  at  risk,
+         should  be  afforded  significant  weight.   Such  evidence  should
+         normally be accepted and any detention justified in  light  of  the
+         accepted evidence.  Representations  from  the  individual's  legal
+         representative acting on their behalf in their  immigration  matter
+         would not be regarded as professional evidence in this context.
+
+         When considering the likely risk of harm for the period identified,
+         caseworkers are entitled not to place decisive weight on assertions
+         that are unsupported by medical  evidence.   Given  the  difficulty
+         involved in validating cases in which the only  evidence  available
+         is  the  self-declaration  of   the   individual   concerned,   the
+         distinction between such cases and those who are not considered  to
+         be at risk may not be great.  However, the expectation,  where  the
+         weight of the evidence is at level 1, is that this will  act  as  a
+         flag  to  all  those  involved  in  managing  the  case,  and  that
+         particular attention will be  paid  to  pursuing  voluntary  return
+         options and progressing the case.  The flag should also act  as  an
+         alarm should additional risk issues emerge as the case  progresses,
+         particularly  if  the  person  is  already  detained  or,  if  not,
+         following their detention.
+
+
+         However, caseworkers  should  not  usually  disagree  with  medical
+         evidence unless there are very strong reasons for doing  so  -  for
+         example, a finding by an independent tribunal that rejects the same
+         evidence or  credibility  concerns  arisin-#%&(VWXhimovw~" g  from
+         other sources.  Such matters may be taken into account in  deciding
+         the weight that should be afforded to evidence and could result  in
+         a reconsideration of the weight of the evidence.
+
+
+         Caseworkers should note that evidence  that  immigration  detention
+         for an undefined period would cause harm does not demonstrate  that
+         immigration detention for a very short period will cause harm.   It
+         will be a rare case where detention for a very  short  period  will
+         cause serious harm  to  an  individual  and  medico-legal  evidence
+         specifying that detention, even for a very short period, will cause
+         serious harm will generally be required before a risk of such  harm
+         is accepted."
+
+
+
+
+
+

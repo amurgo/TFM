@@ -1,0 +1,401 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: HU/05597/2018
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                          |Decision & Reasons Promulgated|
+|On 18th January 2019                          |On 15th February 2019         |
+|                                              |                              |
+
+                                   Before
+
+                   DEPUTY UPPER TRIBUNAL JUDGE D N HARRIS
+
+                                   Between
+
+
+                              mr Muhammad bilal
+                       (ANONYMITY DIRECTION not made)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Mr M Biggs, Counsel, Ilford Law Chambers
+For the Respondent:    Mr N Bramble, Home Office Presenting Officer
+
+
+                            DECISION AND REASONS
+
+ 1. The Appellant is a citizen of Pakistan born on 17th January 1981.   The
+    Appellant has an extensive immigration history, having first arrived in
+    the UK on 21st September 2006 with a student  visa.   On  18th  October
+    2016 the Appellant applied in time for indefinite leave  to  remain  on
+    the grounds of  ten  years'  continuous  residence  in  the  UK.   That
+    application was refused by Notice of Refusal dated 9th February 2018.
+
+ 2. The Appellant appealed and the appeal came before Judge of  the  First-
+    tier Tribunal Mulholland sitting at Taylor house on 2nd  October  2018.
+    In a decision  and  reasons  promulgated  on  16th  November  2018  the
+    Appellant's appeal was allowed on human rights grounds.
+
+ 3. The Secretary of State on 16th November 2018 lodged Grounds  of  Appeal
+    to the Upper Tribunal.  Those grounds contended firstly the  judge  had
+    made a material misdirection of law in that the judge materially  erred
+    by absolving the Appellant of any blame  for  the  discrepancies  which
+    amounted to over �11,000 in his self-employed income both to  UKVI  and
+    HMRC, instead accepting the Appellant's account that his accountant was
+    to blame for the failure to correctly declare his  income  for  several
+    tax years.
+
+ 4. Secondly, it was contended that the judge had failed to give reasons or
+    any adequate reasons for findings on  material  matters  in  particular
+    that the judge had failed to provide any adequate  reasons  to  support
+    the findings at paragraph 23 of  the  determination  that  "I  find  it
+    perfectly feasible that he would not have noticed this until  2015  the
+    error in his tax returns".  Considering  this  included  a  failure  to
+    declare any self-employed income at all as well as under-declaring  his
+    income by several thousand  pounds  the  Secretary  of  State  did  not
+    consider such a finding to be sustainable.
+
+ 5. On 5th December 2018 First-tier Tribunal Judge Doyle granted permission
+    to appeal.  Judge Doyle noted that the First-tier  Tribunal  Judge  did
+    not take guidance from two  authorities  Samant  v  SSHD  [2007]  UKAIT
+    URR/6546 and Khan v SSHD [2018] UKUT 00384 (IAC).
+
+ 6. It is on that basis that  the  appeal  comes  before  me  to  determine
+    whether or not there is a material error of law in the decision of  the
+    First-tier Tribunal Judge.  The Appellant  appears  by  his  instructed
+    Counsel Mr Biggs.  Mr Biggs has also  provided  to  me  a  most  useful
+    skeleton argument in support  of  the  Appellant's  opposition  to  the
+    appeal.  I have considered the skeleton  argument.   The  Secretary  of
+    State appears by her Home Office Presenting Officer Mr Bramble.
+
+Case Law
+
+ 7. I have taken note, in particular the guidance given in the authority of
+    R (on the application of Khan) v the Secretary of State  for  the  Home
+    Department (Dishonesty, tax return, paragraph 322(5)) [2018] UKUT 00384
+    (IAC).  This is a decision of Mr Justice Martin Spencer.   Considerable
+    guidance is to be found in the headnote to that decision:
+
+         "(i) Where there has been  a  significant  difference  between  the
+              income claimed in a previous application for leave to  remain
+              and the income declared to HMRC, the Secretary  of  State  is
+              entitled to draw an inference that  the  Applicant  has  been
+              deceitful or dishonest and therefore he should be refused ILR
+              within paragraph 322(5) of the Immigration  Rules.   Such  an
+              inference could be  expected  where  there  is  no  plausible
+              explanation for the discrepancy.
+
+
+         (ii) Where an  Applicant  has  presented  evidence  to  show  that,
+              despite the  prima  facie  inference,  he  was  not  in  fact
+              dishonest but only careless, then the Secretary of State must
+              decide whether the explanation and evidence is sufficient, in
+              her  view,  to  displace  the  prima   facie   inference   of
+              deceit/dishonesty.
+
+
+         (iii)    In approaching that fact-finding task,  the  Secretary  of
+              State should remind herself that, although  the  standard  of
+              proof is the 'balance  of  probability',  a  finding  that  a
+              person has been deceitful and dishonest in  relation  to  his
+              tax affairs with the consequence that he is denied settlement
+              in this country  is  a  very  serious  finding  with  serious
+              consequences.
+
+
+         (iv) For an Applicant simply to blame his or her accountant for  an
+              'error' in relation to the historical tax return will not  be
+              the end of the matter, given  that  the  accountant  will  or
+              should have asked the tax payer to confirm  that  the  return
+              was accurate and to have signed the tax return.   Furthermore
+              the Applicant will have known of his or her earnings and will
+              have expected to pay tax thereon.  If the Applicant does  not
+              take steps within a reasonable time to remedy the  situation,
+              the Secretary of State may be entitled to conclude that  this
+              failure justifies a conclusion that there has been deceit  or
+              dishonesty.
+
+
+         (v)  When considering whether or not the Applicant is dishonest  or
+              merely careless the Secretary of State  should  consider  the
+              following matters, inter alia, as well as the extent to which
+              they are evidenced (as opposed to asserted):
+
+
+              i.  Whether the explanation for the error by  the  accountant
+                  is plausible;
+
+
+              ii. Whether the documentation which can be assumed  to  exist
+                  (for example, correspondence between the Applicant and his
+                  accountant at  the  time  of  the  tax  return)  has  been
+                  disclosed or there is a plausible explanation for  why  it
+                  is missing;
+
+
+              iii.    Why the Applicant did not realise that an  error  had
+                  been made because his liability to pay tax was  less  than
+                  he should have expected;
+
+
+              iv. Whether, at any stage, the Applicant has taken  steps  to
+                  remedy the situation and, if so,  when  those  steps  were
+                  taken and the explanation for any significant delay."
+
+
+Submissions/Discussion
+
+ 8. Mr Bramble relies on the Grounds of Appeal  and  on  the  authority  of
+    Khan.  He submits the two grounds are self-explanatory and  effectively
+    roll into each other.  He submits that the judge has failed to approach
+    the case in accordance with the guidance given in the  headnote  (cited
+    above) of Khan.  He specifically takes me  to  paragraph  (iv)  of  the
+    headnote pointing out that the judge must take account of  the  process
+    that was being undertaken and to paragraph (v) (submitting that in this
+    case why did the Appellant not realise that  an  error  had  been  made
+    because his tax liability was considerably less than he expected.)   He
+    takes me to paragraph 19 of Judge Mulholland's decision  and  the  fact
+    that  it  is  accepted  therein  that  the  Applicant  bears   personal
+    responsibility for his tax returns.  It is Mr Bramble's submission that
+    the judge has not properly  engaged  with  the  circumstances  and  the
+    approach to be adopted as set out in Khan  and  that  the  decision  is
+    lacking in findings.
+
+ 9. He also questions whether the judge has properly assessed the timelines
+    in this matter pointing out that it is recited at paragraph 20 that  it
+    was not until 2015 that the Appellant took any action  with  regard  to
+    the erroneous tax returns he had previously submitted.  He submits that
+    on a reading of paragraphs  20  to  23  of  the  judge's  decision  the
+    appropriate approach has not been  followed  and  that  the  judge  has
+    failed to give reasons for reaching his conclusions.
+
+10. Mr Biggs in response submits  that  if  it  is  found  that  the  first
+    submission of the Secretary of  State  is  not  well-founded  then  the
+    second limb of the Secretary of State's attack falls away.  He  submits
+    that the judge has adequately  addressed  the  law  and  given  legally
+    adequate reasons for her findings at paragraph 23.  He points out:-
+
+      i) That none of the authorities referred to by the Secretary of  State
+         concern statutory appeals and did not  in  any  event  need  to  be
+         referred to expressly by the judge.  In any event, irrespective  of
+         this, he submits that the judge's approach and reasoning  has  been
+         consistent with the authorities cited and that  overall  the  judge
+         applied  the  correct  approach  to  the  issues  before  her.   By
+         considering and  deciding  whether  in  the  light  of  Mr  Bilal's
+         evidence it could be concluded that  the  Secretary  of  State  had
+         proven that he had acted dishonestly.  He submits that the  judge's
+         reasoning is plainly adequate because the  parties  can  be  in  no
+         doubt why the judge allowed the appeal.  He submits that given  the
+         judge's reasonings to be found at paragraphs 15 to 23 there  is  no
+         substance in the Secretary of State's assertion  that  the  judge's
+         statement that "I find it perfectly feasible that he would not have
+         noticed this until 2015" is a finding that is not based on fact.
+
+
+     ii) He submits that the whole thrust of this case turns on  whether  or
+         not there has been any dishonest intent and the Tribunal  needs  to
+         apply the evidence accordingly and  that  the  First-tier  Tribunal
+         Judge has done this and applied that approach.
+
+
+11. Mr Biggs addresses the  authority  of  Khan  and  that  the  judge  has
+    accepted the appellant's explanation which has  been  supported  by  an
+    expert accountant's report  and  that  that  is  the  model  that  Khan
+    indicates needs to be followed.  Khan looks, he  submits,  at  how  the
+    Upper Tribunal should address  "Wednesbury  challenges"  and  therefore
+    there is no reason to expressly refer to these principles.  He  accepts
+    that you cannot just simply blame the  accountants  and  that  Khan  is
+    authority for this and that the judge has done  so.   He  submits  that
+    there is no material error of law and asked me to dismiss the appeal.
+
+12. Mr Bramble agrees that a principle is established in Khan  that  it  is
+    not possible to rely on an Appellant's mistake in order to put  forward
+    an argument of dishonesty but he takes me to paragraph 34 of Khan:
+
+         "Where an issue arises as to whether an error in relation to a  tax
+         return has been dishonest or  merely  careless,  the  Secretary  of
+         State would be not merely entitled  but  obliged  to  consider  the
+         evidence in each  direction  and,  in  her  decision,  justify  her
+         conclusion by reference to that evidence.
+
+
+         ...
+
+
+         Thus, whilst it would normally be the case that an Applicant  would
+         soon become aware of the error because of his unexpected lack of  a
+         liability to pay tax, if the Applicant could show that  he  was  so
+         distracted by other matters - here the serious illness of  a  child
+         undergoing life saving brain  surgery  with  subsequent  treatment,
+         rehabilitation and chemotherapy - then the Secretary of State would
+         have to consider very carefully whether that did in fact  afford  a
+         good reason for the Applicant's failure to appreciate that his  tax
+         liability  was  less  than  expected  and  therefore   notify   the
+         authorities sooner than he had done so."
+
+
+    Consequently, Mr Bramble emphasises that there is a  responsibility  on
+    the Appellant to put forward reasons as to why he has not responded  to
+    the error sooner.
+
+13. Mr Biggs submits that he has in fact done so and  that  as  there  were
+    substantial discrepancies the  judge  went  on  to  assess  Mr  Bilal's
+    innocent explanation.   He  submits  that  the  judge  gave  clear  and
+    detailed reasons as to why this explanation was accepted and that  this
+    was not a case where Mr Bilal had simply  blamed  his  accountant.   He
+    submits that he had provided detailed evidence which  was  corroborated
+    by contemporaneous  documents  explaining  that  he  provided  accurate
+    documents to his accountants before  they  prepared  the  relevant  tax
+    returns and addressing the background as to why he did not become aware
+    of the incorrect declaration sooner.  Further, Mr  Biggs  takes  me  to
+    paragraph 16 of the judge's findings which note that Mr Bilal had  also
+    put forward credible evidence from accountants which explained  how  an
+    innocent error could have arisen.
+
+14. Briefly in response Mr Bramble submits that his  challenge  is  not  so
+    much with paragraph 19 of the judge's decision  which  relates  to  the
+    Appellant's start up business in  self-employment  but  the  manner  in
+    which the judge was addressed in  paragraph  14  the  Appellant's  PAYE
+    period and the period generally between 2011 and 2013.  He submits that
+    the  failure  to  address  those  issues  is   substantial   and   that
+    insufficient reason has been given.
+
+15. Mr Biggs points out to me that he  considers  that  this  argument  put
+    forward by Mr Bramble constitutes a completely new ground and one  that
+    is not pleaded.  Mr Bramble merely disagrees with that analysis.
+
+The Law
+
+16.  Areas  of  legislative  interpretation,  failure  to  follow   binding
+    authority or to distinguish it with adequate reasons, ignoring material
+    considerations  by  taking  into  account  immaterial   considerations,
+    reaching irrational conclusions  on  fact  or  evaluation  or  to  give
+    legally inadequate reasons for the decision and procedural  unfairness,
+    constitute errors of law.
+
+17. It is not an arguable error of law for an Immigration Judge to give too
+    little weight or too much weight to a factor, unless  irrationality  is
+    alleged.  Nor is it an error of law for an Immigration Judge to fail to
+    deal with every  factual  issue  of  argument.   Disagreement  with  an
+    Immigration Judge's factual conclusion, his appraisal of  the  evidence
+    or assessment of credibility, or his evaluation of risk does  not  give
+    rise to an error of law.  Unless an Immigration Judge's  assessment  of
+    proportionality is arguable as being  completely  wrong,  there  is  no
+    error of law, nor is it an error of law for an Immigration Judge not to
+    have regard to evidence of events arising after his decision or for him
+    to have taken  no  account  of  evidence  which  was  not  before  him.
+    Rationality is a very high threshold and a conclusion is not irrational
+    just because some alternative explanation has been rejected or  can  be
+    said to be possible.  Nor is it necessary to  consider  every  possible
+    alternative  inference  consistent   with   truthfulness   because   an
+    Immigration Judge concludes that the story is untrue.  If  a  point  of
+    evidence of significance has been ignored or misunderstood, that  is  a
+    failure to take into account a material consideration.
+
+Findings on Error of Law
+
+18. This is one of an ever increasing number of cases  that  appear  to  be
+    coming before the Immigration Tribunal  where  reliance  is  placed  on
+    paragraph 322(5) of the Immigration Rules  to  refuse  applications  of
+    this nature.
+
+    Paragraph 322(5) states:
+
+         "Grounds on which leave to remain and variation of leave  to  enter
+         or remain in the United Kingdom should normally be refused -
+
+
+         322(5)   the undesirability of permitting the person  concerned  to
+                remain in the United Kingdom in the  light  of  his  conduct
+                (including convictions which do not  fall  within  paragraph
+                322(1C), character or  associations  or  the  fact  that  he
+                represents a threat to national security.".
+
+
+19. Mr Justice Martin Spencer had set out the guidelines to be followed  in
+    this sort of case.  The question arises as  to  whether  or  not  those
+    guidelines have effectively been followed by  the  First-tier  Tribunal
+    Judge even though the authority of Khan  is  not  recited  by  him  and
+    whether the judge has given sufficient reasons  for  showing  that  the
+    Appellant has given an explanation as to why he did not  note  that  he
+    was making a false declaration as to his tax liability earlier.
+
+20. I am satisfied that the judge has addressed this matter properly.   The
+    starting point is that historically the  Appellant  has  a  justifiable
+    Article 8 claim for protected private and family life.  The judge  then
+    addressed the appropriate questions  of  fact  and  submitted  that  Mr
+    Bilal's removal  would,  without  the  allegation  that  was  made,  be
+    disproportionate.  Consequently, the question to be addressed  was  why
+    he would not obtain indefinite leave to remain, given the allegation of
+    dishonesty and the conclusion that on the basis of that allegation  his
+    presence in the UK was undesirable pursuant to paragraph 322(5).  I  am
+    satisfied that in addressing the question that therefore was before the
+    judge the judge did apply what is put to me as  being  "the  evidential
+    pendulum" that had been held to apply when general Grounds  of  Refusal
+    are relied  upon.   The  judge  had  to  decide  whether  there  was  a
+    discrepancy in income declared to HMRC and to the  Secretary  of  State
+    which  was  sufficient  to  discharge  the  evidential  burden  on  the
+    Respondent to advance evidence of  sufficiently  reprehensible  conduct
+    that could justify the conclusion that he  was  undesirable,  which  in
+    this context required evidence of dishonesty.
+
+21. It was therefore necessary  for  the  judge  to  consider  whether  the
+    Respondent  had  proven  dishonesty,  having  regard  to  the  innocent
+    explanation provided and  importantly  the  evidence  provided.   I  am
+    satisfied that a full and  comprehensive  analysis  of  the  First-tier
+    Tribunal Judge's decision shows that she did adopt this approach.
+
+22. This is not a case where the Appellant simply blames his accountant and
+    as I have referred to above and is put to me  by  Mr  Biggs,  Mr  Bilal
+    provided detailed evidence corroborated  by  contemporaneous  documents
+    explaining that he had provided accurate documents to  his  accountants
+    before they prepared  the  relevant  tax  returns  and  addressing  the
+    background as  to  why  he  did  not  become  aware  of  the  incorrect
+    declaration sooner.  All these were factors that were considered by the
+    judge.
+
+23. There is nothing perverse in the decision.  The judge has carried out a
+    proper analysis and approach.  The judge  has  made  reasoned  findings
+    which, on a proper interpretation of the law, she was entitled to.   In
+    essence the submissions of the Secretary of State ultimately amount  to
+    a mere disagreement in the weight given to evidence by the judge.   The
+    judge heard the facts and has made findings that she was  entitled  to.
+    In such circumstances the decision discloses no material error  of  law
+    and the Secretary of State's appeal is dismissed and  the  decision  of
+    the First-tier Tribunal Judge is maintained.
+
+Notice of Decision
+
+24. The decision of the First-tier Tribunal  Judge  discloses  no  material
+    error of law and the appeal of the Secretary of State is dismissed  and
+    the decision of the First-tier Tribunal Judge is maintained.
+
+25. No anonymity direction is made.
+
+
+Signed                              Date: 11 February 2019
+
+Deputy Upper Tribunal Judge D N Harris
+
+
+TO THE RESPONDENT
+FEE AWARD
+
+No application is made for a fee award and none is made.
+
+
+Signed                              Date: 11 February 2019
+
+Deputy Upper Tribunal Judge D N Harris
+

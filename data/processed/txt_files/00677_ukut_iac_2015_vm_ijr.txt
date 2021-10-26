@@ -1,0 +1,1999 @@
+
+ IN THE UPPER TRIBUNAL
+
+
+R (on the application of Masalskas)  v  Secretary  of  State  for  the  Home
+Department (Regulations 24AA and 29AA EEA Regs) IJR [2015] UKUT 00677 (IAC)
+
+
+                                                                 Field House
+                                                                      London
+
+
+                                                   Heard on: 14 October 2015
+                                               Handed down: 26 November 2015
+
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE STOREY
+                       UPPER TRIBUNAL JUDGE PETER LANE
+
+                                   Between
+
+                                  THE QUEEN
+                 (ON THE APPLICATION OF VIDMANTIS MASALSKAS)
+
+                                                                   Applicant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+                               - - - - - - - -
+
+1. A decision to certify a person's (P's) removal under regulation  24AA  of
+the European Economic Area Regulations 2006 operates as a temporary  measure
+that can be applied only for so long as there is a  statutory  appeal  which
+could be brought in time or which is pending.
+
+2. Regulation 24AA  is  a  discretionary  measure  whose  implementation  is
+currently  subject  to  Home  Office  guidance  entitled  "Regulation   24AA
+Certification Guidance for European Economic Area deportation cases".
+
+3. EEA decisions to remove or deport taken  against  EEA  nationals  do  not
+have automatic suspensive effect. No removal can take place, however,  until
+an applicant has had a decision on  any  application  made  for  an  interim
+order to suspend removal.
+
+4. As with the very  similar  power  in  section  94B  to  the  Nationality,
+Immigration and Asylum Act  2002,  when  deciding  whether  to  certify  the
+removal of a person under regulation  24AA  the  avoidance  of  "serious  or
+irreversible harm" is not the sole or overriding test. It is also  necessary
+for the decision-maker to assess whether removal  of  P  would  be  unlawful
+under section 6  Human  Rights  Act  1998  (HRA):  see  Kiarie,  R  (on  the
+application of) and Another v  Secretary of State for  the  Home  Department
+[2015] EWCA Civ 1020.
+
+5.  Whilst  the  assessment  pursuant  to   section   6   HRA   requires   a
+proportionality  assessment,  it   is   one   that   is   limited   to   the
+proportionality of removal for the period during which  any  appeal  can  be
+brought in time or is pending.
+
+6. P's right under regulation 29AA to be temporarily admitted to the  UK  in
+order to make submissions in person at the appeal:
+
+(a) is qualified by regulation 29AA(3)  ("except  when  P's  appearance  may
+cause serious troubles to public policy or public security"); and
+
+(b) does not extend to the pre-hearing stages of the appeal.
+
+
+
+Mr Z Malik, Counsel, instructed by Salamons Solicitors appeared on behalf
+of the applicant.
+
+Ms J Smyth, Counsel, instructed by the G.L.D. appeared on behalf of the
+respondent.
+
+
+                          - - - - - - - - - - - - -
+
+
+                                  JUDGMENT
+
+                          - - - - - - - - - - - - -
+
+
+JUDGE STOREY:
+
+ 1. This application for judicial review concerns regulations 24AA and 29AA
+    of  the  Immigration  (European   Economic   Area)   Regulations   2006
+    (hereinafter  "the  2006  Regulations").   These  regulations   are   a
+    relatively recent addition to the ever-expanding panoply  of  the  2006
+    Regulations, having been inserted with effect from  28  July  2014  (SI
+    2014/1976). As far as we are aware, ours is  one  of  the  first  cases
+    which seeks to deal in any depth with their proper scope  and  meaning.
+    It has assisted our task that the day before our the hearing the  Court
+    of Appeal gave judgment in the case of Kiarie, R  (On  the  Application
+    Of) and Another v The Secretary of State for the Home Department [2015]
+    EWCA Civ 1020 (13 October 2015) (hereafter "Kiarie and Byndloss") which
+    concerned a very similar provision to regulation 24AA set  out  in  the
+    Nationality, Immigration and Asylum  Act  2002  ("the  2002  Act")  (as
+    amended), namely section 94B[1].  In order to  set  the  scene,  it  is
+    useful first of all to set out  the  relevant  legislative  and  policy
+    framework of which regulations 24AA and 29AA form a part.
+
+    The legislative and policy framework
+
+    The 2004 Citizens Directive
+
+ 2. Chapter V1 of the Directive 2004/38/EC ("the  Citizens  Directive")  is
+    concerned with 'Restrictions on the right of entry  and  the  right  of
+    residence on grounds of  public  policy,  public  security  and  public
+    health'. Articles 27 and 28 deal with the substantive  conditions  that
+    must be satisfied before a Member State may  restrict  the  freedom  of
+    movement and residence of EU citizens and their family members  falling
+    within the scope of the Directive.  In summary, they  permit  a  Member
+    State to expel EU citizens and  their  family  members  on  grounds  of
+    public policy, public security or public  health,  subject  to  certain
+    restrictions. So far as material, Articles 27 and 28 provide:
+
+         Article 27
+
+      General principles
+
+        1.    Subject to the provisions of this Chapter, Member  States  may
+        restrict the freedom of movement and residence of Union citizens and
+        their family members, irrespective of  nationality,  on  grounds  of
+        public policy, public security or public health. These grounds shall
+        not be invoked to serve economic ends.
+
+        2.    Measures taken on grounds of public policy or public  security
+        shall comply with the principle  of  proportionality  and  shall  be
+        based  exclusively  on  the  personal  conduct  of  the   individual
+        concerned.  Previous criminal convictions shall  not  in  themselves
+        constitute grounds for taking such measures. The personal conduct of
+        the individual concerned  must  represent  a  genuine,  present  and
+        sufficiently  serious  threat  affecting  one  of  the   fundamental
+        interests of society. Justifications  that  are  isolated  from  the
+        particulars of the case or that rely on  considerations  of  general
+        prevention shall not be accepted.
+
+       3. ...
+
+       4. ...
+
+          Article 28
+
+         Protection against expulsion
+
+         1.   Before taking an  expulsion  decision  on  grounds  of  public
+         policy or public security, the host Member State shall take account
+         of considerations such as how long  the  individual  concerned  has
+         resided on its territory, his/her age, state of health, family  and
+         economic situation, social and cultural integration into  the  host
+         Member State and the extent of his/her links with  the  country  of
+         origin.
+
+         2.   The host Member State  may  not  take  an  expulsion  decision
+         against Union citizens or their  family  members,  irrespective  of
+         nationality, who have the  right  of  permanent  residence  on  its
+         territory, except on serious grounds of  public  policy  or  public
+         security.
+
+         3.   An expulsion decision may not be taken against Union citizens,
+         except if the decision is based on  imperative  grounds  of  public
+         security, as defined by Member States, if they:
+
+             (a)  have resided in the host Member State  for  the  previous
+             ten years; or
+
+             (b) ...
+
+      Article 31
+
+ 3. Article 31, which is also part of  Chapter  V1  to  the  Directive,  is
+    entitled 'procedural safeguards'.  It provides:
+
+
+         Procedural safeguards
+
+
+         1.   The persons concerned shall have access to judicial and, where
+         appropriate, administrative redress procedures in the  host  Member
+         State to appeal against  or  seek  review  of  any  decision  taken
+         against them on the grounds of public policy,  public  security  or
+         public health.
+
+
+
+         2.   Where the application for appeal against or judicial review of
+         the expulsion decision is accompanied  by  an  application  for  an
+         interim order to  suspend  enforcement  of  that  decision,  actual
+         removal from the territory may not take place until  such  time  as
+         the decision on the interim order has been taken, except:
+
+         -    where the expulsion decision is based on a  previous  judicial
+         decision; or
+
+          -   where the  persons  concerned  have  had  previous  access  to
+        judicial review; or
+
+         -    where the expulsion decision is based on imperative grounds of
+         public security under Article 28(3).
+
+         3.   The redress procedures shall allow for an examination  of  the
+         legality of the decision, as well as of the facts and circumstances
+         on which the proposed measure is based. They shall ensure that  the
+         decision is not  disproportionate,  particularly  in  view  of  the
+         requirements laid down in Article 28.
+
+        4.    Member States may exclude the individual concerned from their
+        territory pending the redress procedure, but they may  not  prevent
+        the individual from submitting his/her defence  in  person,  except
+        when his/her appearance may cause serious troubles to public policy
+        or public security or when the appeal or judicial review concerns a
+        denial of entry to the territory.
+
+    The 2006 EEA Regulations
+
+    Regulations 24AA and 29A) state as follows:
+
+             24AA
+
+
+             Human rights considerations  and  interim  orders  to  suspend
+             removal
+
+
+             (1)  This regulation applies  where  the  Secretary  of  State
+             intends to give directions for the removal of a  person  ("P")
+             to whom regulation 24(3) applies, in circumstances where-
+
+
+                 (a)   P has not appealed against the EEA decision to  which
+                 regulation  24(3)  applies,  but  would  be  entitled,  and
+                 remains within time,  to  do  so  from  within  the  United
+                 Kingdom (ignoring any possibility of an appeal out of  time
+                 with permission); or
+
+
+                 (b)   P has so appealed but the appeal has not been finally
+                 determined.
+
+
+             (2)  The Secretary of State may only give directions  for  P's
+             removal if the Secretary of State certifies that, despite  the
+             appeals process not having  been  begun  or  not  having  been
+             finally determined, removal of P to the country  or  territory
+             to which P is proposed to be removed, pending the  outcome  of
+             P's appeal, would not be unlawful under section 6 of the Human
+             Rights Act 1998 (public authority not to act contrary to Human
+             Rights Convention).
+
+
+             (3)  The grounds upon which the Secretary of State may certify
+             a removal under paragraph (2) include (in particular)  that  P
+             would not, before the appeal is  finally  determined,  face  a
+             real risk of serious  irreversible  harm  if  removed  to  the
+             country or territory to which P is proposed to be removed.
+
+
+             (4)  If  P  applies  to  the  appropriate  court  or  tribunal
+             (whether by means of judicial  review  or  otherwise)  for  an
+             interim order to suspend enforcement of the removal  decision,
+             P may not be removed from the United Kingdom until  such  time
+             as the decision on the interim order has been taken, except-
+
+
+                 (a)   where the expulsion decision is based on  a  previous
+                 judicial decision;
+
+
+                 (b)   where P has had previous access to  judicial  review;
+                 or
+
+
+                 (c)   where the removal decision  is  based  on  imperative
+                 grounds of public security.
+
+
+             (5)  In this regulation, "finally  determined"  has  the  same
+             meaning as in Part 6.
+
+
+
+
+             29AA
+
+
+             Temporary admission in order to submit case in person
+
+
+             (1)  This regulation applies where -
+
+
+                 (a)   a person ("P") was removed from  the  United  Kingdom
+                 pursuant to regulation 19(3)(b);
+
+
+                 (b)   P has appealed against the decision  referred  to  in
+                 sub-paragraph (a);
+
+
+                 (c)   a date for P's appeal has been set by the First  tier
+                 Tribunal or Upper Tribunal; and
+
+
+                 (d)   P wants to make submissions  before  the  First  tier
+                 Tribunal or Upper Tribunal in person.
+
+
+             (2)  P may apply to the Secretary of State for  permission  to
+             be temporarily admitted (within the meaning of  paragraphs  21
+             to 24 of Schedule 2 to  the  1971  Act,  as  applied  by  this
+             regulation) to the United Kingdom in order to make submissions
+             in person.
+
+
+             (3)  The Secretary of State must grant  P  permission,  except
+             when P's appearance  may  cause  serious  troubles  to  public
+             policy or public security.
+
+
+             (4)   When  determining  when  P  is  entitled  to  be   given
+             permission, and the duration of P's temporary admission should
+             permission be granted, the Secretary of State must have regard
+             to the dates upon which P will be required to make submissions
+             in person.
+
+
+             (5)  Where-
+
+
+                  (a)  P is  temporarily  admitted  to  the  United  Kingdom
+                  pursuant to this regulation;
+
+
+                  (b)  a hearing of P's appeal has taken place; and
+
+
+                  (c)  the appeal is not finally determined,
+
+
+                  P may be removed  from  the  United  Kingdom  pending  the
+                  remaining stages of the redress procedure (but P may apply
+                  to return to the United Kingdom  to  make  submissions  in
+                  person  during  the  remaining  stages  of   the   redress
+                  procedure in accordance with this regulation).
+
+
+             (6)  Where the Secretary of State grants P  permission  to  be
+             temporarily  admitted  to  the  United  Kingdom   under   this
+             regulation, upon such admission P is to be  treated  as  if  P
+             were a person refused leave to enter under the  1971  Act  for
+             the purposes of paragraphs 8, 10, 10A, 11, 16 to 18 and 21  to
+             24 of Schedule 2 to the 1971 Act.
+
+
+             (7)  Where Schedule 2 to the  1971  Act  so  applies,  it  has
+             effect as if-
+
+
+                      (a)  the reference in  paragraph  8(1)  to  leave  to
+                      enter were a reference to  admission  to  the  United
+                      Kingdom under these Regulations; and
+
+
+                      (b)  the reference in paragraph  16(1)  to  detention
+                      pending a decision regarding leave to enter or remain
+                      in the  United  Kingdom  were  to  detention  pending
+                      submission of P's case in person in  accordance  with
+                      this regulation.
+
+
+             (8)  P will be deemed not to have been admitted to the  United
+             Kingdom during any time during which P is temporarily admitted
+             pursuant to this regulation.
+
+
+
+ 4. Also relevant is regulation 26(1), which provides that "Subject to  the
+    following paragraphs of this regulation,  a  person  may  appeal  under
+    these Regulations against an EEA decision",  and  regulation  29  which
+    prescribes the effect of appeals to the First-tier  Tribunal  or  Upper
+    Tribunal. Regulation 29(3)  provides that:
+
+         "If a person in the United Kingdom appeals against an EEA  decision
+         to remove him from the United Kingdom (other than a decision  under
+         regulation 19(1(3)(b)), any directions given under  section  10  of
+         the 1999 Act or Schedule 3 to the 1971 Act for his removal from the
+         United Kingdom are to have no effect, except in so far as they have
+         already been carried out, while the appeal is pending."
+
+    The words in italics were inserted with effect from 28 July 2014.
+
+ 5. It is as well to mention also regulation 19(3)  which   specifies  that
+    subject to two exceptions:
+
+          "an EEA national who has entered the United Kingdom or the  family
+         member of such a national who has entered the United Kingdom may be
+         removed if-
+
+        a) that person does not have or ceases to have a  right  to  reside
+           under these Regulations;
+
+        b) the Secretary of State has decided that the person's removal  is
+           justified on grounds of public policy, public security or public
+           health in accordance with regulation 21"; or
+
+        c) the Secretary of State has decided that the person's removal  is
+           justified on grounds of  abuse  of  rights  in  accordance  with
+           regulation 21B(2).
+
+
+
+    Home Office Guidance
+
+
+ 6. To accompany the insertion of  regulations  24AA  and  29AA   the  Home
+    Office also issued a document entitled "Regulation  24AA  Certification
+    Guidance for European Economic Area deportation cases", which  we  have
+    annexed in its Version 2.0, 20 October 2014  form.   It  explains  that
+    when the regulations came into force it  was  with  an  initial  cohort
+    limited to persons aged 18 or over  who  do  not  have  a  genuine  and
+    subsisting parental relationship with a dependent  child  or  children.
+    That first phase ended on 17 October 2014. Section 2 deals  with  cases
+    not suitable for regulation 24AA  certification.  Section  3  addresses
+    when to certify a human rights claim under regulation 24AA and at  3.3.
+    (real  risk  of  serous  irreversible  harm)  and   3.4.   (timing   of
+    certification) the caseworker is instructed to  see  for  guidance  the
+    section 94B certification guidance for  non-EEA  nationals.  Section  4
+    deals with interim orders.  Section  5  concerns  re-entry  to  present
+    appeal in person.
+
+
+    The application
+
+ 7. The applicant is a citizen of Lithuania and seeks  judicial  review  of
+    the decision made by the respondent to certify  his  removal  from  the
+    United Kingdom under regulation 24AA of  the  2006  Regulations.   That
+    decision was originally made on 10 December 2014, at the same  time  as
+    he was served a reasons for deportation letter and a deportation order.
+     On 17 March 2015  the  respondent  issued  him  with  a  supplementary
+    decision to certify his removal under regulation 24AA, together with  a
+    new notice of decision to  make  a  deportation  order.   His  judicial
+    review claim form lodged on the same day identifies the decision  being
+    challenged as a decision of 12 March to set removal directions  for  18
+    March 2015, but it is common ground that it is the underlying  decision
+    to certify that is in issue in these proceedings  (we  return  to  this
+    matter in a moment). On the same day the applicant applied for judicial
+    review he also applied for an interim injunction  to  prevent  removal.
+    This was granted on the specific basis that the position regarding  the
+    applicant's appeal 'should be clarified before any  further  steps  are
+    taken to remove the applicant". It was ordered that the respondent  was
+    not to remove the applicant until determination of this application  or
+    further order.
+
+    The statutory appeal
+
+8.   The applicant had earlier (in January 2015) lodged a  statutory  appeal
+    against the EEA decision to make a deportation order against  him.   At
+    the date he brought his judicial review proceedings (17 March 2015) his
+    statutory appeal was still pending.  When permission was granted on  20
+    August 2015 to bring this judicial review,  it  was  assumed  that  the
+    applicant had not yet had a hearing before the First-tier  Tribunal  of
+    his statutory appeal.  In point of fact we now know that  by  then  his
+    appeal had been heard by the First-tier Tribunal and  dismissed  on  27
+    May 2015.  However, he has applied for  permission  to  appeal  to  the
+    Upper Tribunal, which means that, albeit it is at  a  different  stage,
+    his statutory appeal is still one which is pending.
+
+9.   The reason why the applicant has found himself subject to adverse  Home
+    Office measures is that on 13 November 2013 he was arrested and  on  22
+    January 2014 he was convicted of possession of a controlled drug  class
+    A - with intent to supply.  For this offence he  was  sentenced  to  28
+    months' imprisonment (with forfeiture  and  destruction  of  drugs  and
+    paraphernalia) and ordered to pay a  victim  surcharge.   He  was  also
+    sentenced to four months' consecutive imprisonment (with forfeiture and
+    destruction of 440 counterfeit �10 bank notes) for an offence of having
+    counterfeit banknotes.
+
+    The decision under challenge
+
+10.  It is common case that the challenge brought in  this  judicial  review
+    is to the decision  to  certify  under  regulation  24AA  taken  on  10
+    December 2014.  The further decision to certify taken on 17 March  2015
+    was specifically described as being supplementary and we entirely agree
+    that this was all it was.  The gravamen of the applicant's challenge in
+    December 2014 was that the decision to certify was unlawful because  it
+    prevented him from being present at his statutory appeal  and  to  that
+    end the interim relief he sought was an interim order  prohibiting  his
+    removal.
+
+11.  As already noted, the applicant has had since  then  a  hearing  before
+    the First-tier Tribunal, at which he was able to attend and present his
+    case and he has also had a decision on his appeal: on 27 May  2015  the
+    First-tier Tribunal dismissed his appeal against the deportation  order
+    against him under regulation 19(3).
+
+12.  Two things flow from this.  First, even if the applicant is  successful
+    in his judicial review application, he cannot expect  relief  aimed  at
+    securing his attendance at his statutory appeal before  the  First-tier
+    Tribunal  as  he  has  already  achieved  this.   Second,  if   he   is
+    unsuccessful in this judicial review and the respondent acts to  remove
+    him by way of directions, he will still  be  entitled  to  apply  under
+    regulation 29AA to return to be  present  in  person  at  any  relevant
+    hearing for as long as his appeal is still pending.
+
+13.  Nevertheless, particularly because his appeal remains  pending,  we  do
+    not consider that his application has been rendered academic.   Success
+    in this application would have inevitable consequences for any  further
+    decision to certify in respect of what regulation 29(5)  refers  to  as
+    "the remaining stages of the redress procedure in accordance with  this
+    regulation".  Given the wide-ranging nature of the  submissions  before
+    us in this case, our decision may additionally assist in clarifying the
+    proper ambit of regulations 24AA and 29AA in other cases.
+
+    The grant of permission
+
+14.  In the grant of permission to bring judicial  review  proceedings  made
+    on 20 August 2015 reference  was  made  to  the  case  of  Macastena  v
+    Secretary of State for the Home Department [2015] EWHC 1141 (Admin),  a
+    renewed  permission  hearing  and  the  question  was   posed   whether
+    observations  by  Collins  J  in  that  case  disclosed   grounds   for
+    considering that regulation 24AA was consistent with Article 31.
+
+    The grounds
+
+15.  In presenting the grounds Mr Malik before us cast  his  submissions  in
+    the following terms.  First  he  submitted  that  the  regulation  24AA
+    decision made against the applicant was unlawful in public law terms by
+    dint of having four defects:
+
+    (a)  failure to appreciate that there was a discretion;
+
+    (b)  failure to take into account material considerations;
+
+    (c)  failure to balance competing considerations  against  each  other;
+         and
+
+    (d)  failure to make a decision that was reasonable.
+
+    Second, he submitted that the respondent had  erred  in  law  in  using
+    "real risk of serious irreversible harm" as  the  sole  or  overarching
+    test for certifying under regulation 24AA.  He submitted that the  test
+    set out in regulation 24AA also had to establish that the  decision  to
+    certify was compliant with s.6 Human Rights Act 1998 ("HRA  1998")  and
+    thus entailed a test of  proportionality.  Third  he  argued  that  the
+    decision of Collins J in the Macastena case reinforced  his  underlying
+    arguments.
+
+16.  Ms Smyth first asked us to rule as a preliminary point  that  in  order
+    to advance these grounds, which Mr  Malik  had  only  drafted  the  day
+    before, he would need to apply formally for leave to amend his  grounds
+    as they differed significantly from  those  set  out  in  the  original
+    pleadings.  We disagree.  Given that the day before  the  hearing,  the
+    Court of Appeal had given judgment  in  Kiarie  and  Byndloss,  it  was
+    inevitable - and indeed only good sense - that Mr Malik should reorient
+    his submissions, but they still bore  a  sufficient  correspondence  to
+    those originally pleaded.  We would accept that  the  original  grounds
+    make no mention of the discretion  ground  and  that  certain  passages
+    betoken a misunderstanding of what was being  certified,  but  one  can
+    still see an express contention that the decision  to  certify  wrongly
+    failed to consider s.6 of the HRA1998 and we discern that paragraph  48
+    did at least seek  to  identify  factors  that  were  relevant  to  the
+    legality  of  the  decision   both   in   terms   of   discretion   and
+    proportionality.
+
+17.  Even had we decided that Mr Malik needed to apply to amend his  grounds
+    formally, he helpfully stated that if needed, he wished to apply to  do
+    so and on that basis we would have acceded to his request. In the event
+    Ms Smyth was content to  respond  to  Mr  Malik's  submissions  without
+    needing to ask for more time.  As Ms Smyth herself emphasised, the fact
+    that both parties had invested  considerable  time  in  addressing  the
+    three key issues identified by Mr Malik, coupled with  the  plain  need
+    for their submissions before us to deal with the implications of Kiarie
+    & Byndloss, are strong pointers in favour  of  our  taking  a  holistic
+    view.
+
+18.  Ms Smyth asked us to note that  no  challenge  has  been  made  to  the
+    legality of regulation 24AA; and that in the  light  of  the  Court  of
+    Appeal analysis in Kiarie & Byndloss of the very similar  provision  at
+    section 94B of the 2002 Act,  no  such  challenge  could  succeed.   As
+    regards ground 1, she urged us to find that just as the Court of Appeal
+    had found the discretion point in Kiarie & Byndloss to  fall  away,  so
+    should we in this case.  Even if  discretion  had  not  been  exercised
+    perfectly in the applicant's case, any shortcoming  was  not  material.
+    There was an  additional  reason  in  this  case  why  any  defect  was
+    immaterial, in that the applicant had simply not identified evidence of
+    material or competing considerations.   Further,  to  the  extent  that
+    Collins J in Macastena appeared to query the  public  policy  rationale
+    for this power, that overlooked that  it  had  been  given  legislative
+    endorsement by the EU  legislature  in  Article  31  of  (the  Citizens
+    Directive (which clearly  contemplates  that  removal  can  take  place
+    whilst an appeal is pending) and UK Parliamentary  endorsement  by  the
+    insertion into  the  2006  EEA  Regulations  of  regulation  24AA.  The
+    provisions enacted by both legislatures reflected a balancing of public
+    policy  and  individual  considerations.  She  urged  us  to  find  the
+    Macastena decision as affording no help to the applicant.
+
+19.  In relation to Mr Malik's ground 2, Ms  Smyth  said  the  Secretary  of
+    State accepted that "serious irreversible harm" in regulation 24AA  was
+    not the sole or overarching test and that in order to certify  lawfully
+    the respondent had also to be satisfied there was no breach of  section
+    6 of the HRA 1998.  She accepted that  the  latter  test  required  the
+    respondent to assess whether a decision to certify  was  proportionate,
+    but urged us to find that the proportionality assessment was limited to
+    the period of the pending appeal, which could be presumed to be  short-
+    term.
+
+ANALYSIS
+
+    We shall deal first with general matters raised by this application.
+
+    The relevance and import of Article 31
+
+    Judicial redress
+
+
+20.  It is not in dispute that UK law faithfully  transposes  Article  31(1)
+    and 31(3).  The requirements  of  Article  31(3)  are  for  a  form  of
+    judicial redress that  extends  to  an  examination  not  just  of  the
+    "legality of the decision", but also of "the facts and circumstances on
+    which the proposed measure is based". These requirements are met in the
+    UK by  provisions  in  the  2006  EEA  Regulations,  in  particular  by
+    regulation 26 which affords a statutory right  of  appeal  against  EEA
+    decisions and by provisions in Schedule 1 which apply certain  sections
+    of the 2002 Act that ensure the appeal deals with the merits, not  just
+    with the legality of the EEA decision. The statutory appeal under these
+    Regulations also provides at regulation 21 for an assessment of whether
+    decisions taken on public policy,  public  health  or  public  security
+    grounds are disproportionate in relation to the  safeguards  guaranteed
+    by Articles 27 and 28 of the Directive.
+
+21.  It is also not in dispute that Article 31(2) is  faithfully  transposed
+    by regulation 24AA(4).  Both Counsel agreed that these judicial  review
+    proceedings provided for  an  application  for  "an  interim  order  to
+    suspend enforcement of [the expulsion decision] ...until such  time  as
+    the decision on the interim  order  has  been  taken."   The  applicant
+    sought such an order and was granted it so that the position  regarding
+    his appeal could be clarified. This injunction has  remained  in  place
+    pending the handing down of this judgment.
+
+     Suspensive effect
+22.  Likewise it was common  ground  that  regulation  29AA  seeks  to  give
+    effect to the provisions of Article 31(4).  Whilst  Mr  Malik  disputed
+    that it fully achieved this, we consider Ms Smyth is entirely right  in
+    her submission that  Article  31  is  predicated  on  recognition  that
+    expulsion decisions against Union citizens  do  not  attract  automatic
+    suspensive effect. As we have just explained, the article does  require
+    that no removal can take place until an applicant has had a decision on
+    an application for an interim order  to  suspend  enforcement  of  that
+    decision (Article 31(2)). It also stipulates that Member States may not
+    prevent the  individual  from  submitting  his/her  defence  in  person
+    (except in two  specified  circumstances).  But  it  does  not  prevent
+    removal prior to the hearing of his statutory appeal - subject only  to
+    a right to a decision on an application for an interim order to suspend
+    enforcement of that decision (Article 31(2) and (4)).
+
+23.  Consistent with the terms of Article 31, the new wording of  regulation
+    29(3) provides that a statutory  appeal  against  an  EEA  decision  to
+    remove an EEA national from the United Kingdom  has  suspensive  effect
+    except where that decision is made under regulation 19(3)(b) (which  is
+    the provision under which the decision to deport was made  against  the
+    applicant in this case).
+
+     The regulation 24AA test
+
+24.  As now clarified by Kiarie & Byndloss in respect of  identical  wording
+    in section 94B  of  the  2002  Act,  the  statutory  test  set  out  in
+    regulation 24AA is two-pronged and cannot be reduced to a mere question
+    of  whether  an  affected  person  faces  a  "real  risk   of   serious
+    irreversible harm if removed...".  The latter is  not  the  overarching
+    test.  Mirroring s.94B of the 2002  Act,  regulation  24AA  contains  a
+    first requirement (at regulation 24AA(2)) that the Secretary  of  State
+    may only give directions for P's removal if she certifies that  removal
+    pending the outcome of P's appeal would not be unlawful under section 6
+    of the HRA 1998. The "real risk of serious irreversible  harm..."  test
+    arises only as a "ground" on which the Secretary of State "may" certify
+    a removal under paragraph (2) (emphasis added).
+
+25.  In Kiarie & Byndloss at [35] Richards LJ stated:
+
+         "By subsection (3) a ground for certification is  that  the  person
+         would not, before the appeals process is exhausted,  face  'a  real
+         risk of serious irreversible harm' if removed  to  the  country  or
+         territory to which he or she is proposed to be removed. That ground
+         does not, however, displace the statutory condition  in  subsection
+         (2), nor does it constitute a surrogate for that condition. Even if
+         the  Secretary  of  State  is  satisfied   that   removal   pending
+         determination of an appeal would not give rise to a  real  risk  of
+         serious irreversible harm, that  is  not  a  sufficient  basis  for
+         certification. She cannot certify in any case unless she considers,
+         in  accordance  with   subsection   (2),   that   removal   pending
+         determination of any appeal would not be unlawful under  section  6
+         of the Human Rights Act. That the risk of serious irreversible harm
+         is not the overarching test was rightly accepted by  Lord  Keen  on
+         behalf of the Secretary of State at the hearing of the appeal."
+
+
+     Regulation 24AA as a discretionary power
+
+26.  It is clear that regulation 24AA does  not  mandate  the  Secretary  of
+    State to certify a removal in every case in which she considers the two-
+    pronged statutory test is made out.   The  language  of  the  provision
+    clearly imports discretion: as already noted,  it  provides  only  that
+    "The Secretary of State may certify a removal ..."
+
+27.  Mr Malik sought to submit that it was a discretionary power that  could
+    only be lawfully exercised if the decision-maker undertook a  balancing
+    of  competing  considerations  and  reached  a  decision  as   to   its
+    proportionality.  We shall address that submission  when  dealing  with
+    the applicant's particular case.
+
+     Regulation 24AA as a temporary measure tied to the appeals process
+
+28.  Regulation 24AA is not a free-standing power to  certify  removal.   It
+    is parasitic on there being an "appeals process" (24AA(2)). Thereby its
+    scope is  limited  jurisdictionally  and  temporally.   It  is  limited
+    jurisdictionally by being tied to the actuality or  possibility  of  an
+    appeal: regulation 24AA (2) provides that directions  for  removal  may
+    only be given if the Secretary of State  certifies  that  "despite  the
+    appeal process not  having  been  begun  or  not  having  been  finally
+    determined, removal of P pending the outcome of the  appeal  ..."   The
+    temporal limits to its scope are that there must be the possibility  of
+    an in-time appeal: "P has not appealed against  the  EEA  decision  but
+    would be entitled, and remains within time, to do so  from  within  the
+    United Kingdom (ignoring any possibility of an appeal out of time, with
+    permission)"(24AA(1)(a))  or  an  appeal  which   is   still    pending
+    (24AA(1)(b)).
+
+     The proportionality issue
+
+29.   Mr  Malik  submitted  that  any  decision  to  certify  removal  under
+    regulation 24AA could not lawfully be  made  unless  the  Secretary  of
+    State was satisfied it would be proportionate in  human  rights  terms.
+    He submitted that a proportionality test could not be  diminished  just
+    because the context was removal/deportation in the context of a pending
+    appeal.  With both of these propositions we agree.  If  there  was  any
+    doubt about their efficacy it has been settled by the Court  of  Appeal
+    analysis of s.94B in Kiarie and Byndloss.  Ms Smyth was quick to accept
+    as much.
+
+30.   Nevertheless,  as  Mr  Malik  was  equally  quick   to   accept,   the
+    proportionality assessment cannot be the same wide-ranging one that the
+    decision-maker must conduct when deciding  the  substantive  matter  of
+    whether there are grounds of public policy, security or health for  the
+    deportation or removal under regulation 21/Articles 27 and  28  in  the
+    context of a statutory appeal.  It can only be one that confines itself
+    to the context of an appeals process which is not  yet  exhausted.   By
+    regulation 29(3) read together with regulation 29AA, the respondent  is
+    obliged to afford a person who is the subject of  an  EEA  decision  to
+    deport or remove a right to attend his hearing in person.  The decision
+    is to certify removal until such time  as  such  a  person  (P)  has  a
+    hearing of his statutory appeal which  is  still  pending.   Ordinarily
+    this entails that what will be at issue in any  attempt  to  obtain  an
+    interim order suspending enforcement is the  impact  on  P  and/or  his
+    family members of short-term separation limited to  the  period  up  to
+    final determination of an appeal.   Furthermore,  the  decision  arises
+    within a legal framework which guarantees that even if removed a person
+    can apply to come back to the UK to attend his or her statutory  appeal
+    hearing.
+
+31.  We derive  from  the  above  that  the  assessment  to  be  made  under
+    regulation 24AA requires  the  decision-maker  to  focus  not  just  on
+    whether removal would cause serious and irreversible harm, but whether,
+    for the period  while  the  appeal  process  remains  unexhausted,  P's
+    removal would have an unduly harsh impact  on  him  and/or  his  family
+    members.  One possible example, to borrow from the Home Office document
+    "Section 94Bthe Nationality, Immigration and Asylum Act 2002",  Version
+    5, 30 October 2015, at 3.18, concerns the situation where  "the  person
+    has a genuine and subsisting relationship with a  partner  or  parental
+    relationship with a child who is seriously ill and  requires  full-time
+    care, and there is credible evidence that no  one  else  could  provide
+    that care".  But, going by the Court of Appeal's analysis in  Kiarie  &
+    Byndloss and the guidance given in the aforementioned document  on  the
+    similar provision, section 94B, such cases are likely to be  relatively
+    rare.
+
+     The right of "defence" in person and regulation 29AA
+
+32.  Article  31(4)  prohibits  a  Member  State  excluding  the  individual
+    concerned from their  territory  pending  the  redress  procedure  from
+    preventing the individual "from submitting his/her defence  in  person"
+    (subject to two limited exceptions). (We do not need to explore why the
+    word "defence" is used, although we posit that it may be linked to  the
+    fact that in  some  Member  States  expulsion  decisions  are  made  by
+    criminal courts.) Reflecting that prohibition, regulation 29AA provides
+    for "temporary admission to submit a case in person".  It provides that
+    if a person who has been removed wants to make submissions  before  the
+    First-tier Tribunal or Upper Tribunal in person, "P may  apply  to  the
+    Secretary of State to be temporarily admitted".  Indeed, there is  even
+    provision for a person who has (i) been removed,  (ii)  has  then  been
+    admitted back  into  the  United  Kingdom  for  a  First-tier  Tribunal
+    hearing; (iii) who has then pursued onward appeal, (iv) is then removed
+    again, to then (v) apply under regulation 29AA(5)  "to return  to  make
+    submissions in person  during  the  remaining  stages  of  the  redress
+    procedure" (regulation 29AA(5)).
+
+     Meaning of Exclusion
+
+33.  Mr Malik voices two objections to any reading of either provision  that
+    confines the right to return under regulation 29AA to attendance at the
+    hearing of the statutory appeal. First he argues that the  use  of  the
+    verb "exclude" limits the scope of Article 31(4) to cases  in  which  a
+    person has not yet been admitted to/entered the United Kingdom. (If  he
+    were right in this submission, that would of course raise an  issue  as
+    to whether regulation 29AA is a lawful transposition of Article 31). We
+    can dispose of this objection summarily, it being entirely  clear  from
+    the wording of Article 31(4) that  exclusion  is  used  to  denote  the
+    expulsion of persons. That is also the primary sense  of  the  word  as
+    used in Article 32 (Duration of exclusion orders). Indeed,  in  Article
+    31(4) exclusion is juxtaposed with cases when there  is  an  appeal  or
+    judicial review concerning  a  "denial  of  entry  to  the  territory".
+    Whether recourse is had to a literal, contextual or purposive  meaning,
+    exclusion exists within Article 31 as a procedural safeguard for  those
+    who have been removed or expelled "pending the redress procedure".
+
+     Right to be heard
+
+  34.    Mr Malik's second objection is that to delimit the  prohibition  to
+    prevention of return to attend a hearing would improperly  circumscribe
+    the "right to be heard" which must be understood to encompass not  just
+    the hearing itself but pre-hearing stages, including preparation  of  a
+    case and  oral  conferencing  with  legal  advisors.  We  are  no  more
+    persuaded by this objection than we are by the first. If Mr Malik  were
+    right, then since pre-hearing preparation can  both  theoretically  and
+    sometimes in reality begin on  the  very  day  the  deportation/removal
+    decision is made, there would never be any lawful basis  for  exclusion
+    "pending the redress procedure". We do not exclude that  the  Secretary
+    of State  may  decide  to  temporarily  admit  an  individual  to  make
+    submissions in person for some period of days before an actual hearing;
+    for her to do so would be an  entirely  lawful  step  under  regulation
+    29AA. However, there is plainly no right of an individual to be present
+    in the United Kingdom in advance of an actual hearing.  Insofar  as  Mr
+    Malik seeks in raising this objection to invoke the "right to be heard"
+    under Article 47 of the Charter of Fundamental Rights, we would  repeat
+    a point made by this panel in  Ahmed,  R  (on  the  application  of)  v
+    Secretary of State for the Home Department  (EEA/s  10  appeal  rights:
+    effect) (IJR) [2015] UKUT 436 (IAC) at [50]-[51] in  commenting  on  Ms
+    Smyth's submission in that case (she having also been Counsel  for  the
+    G.L.D on that occasion) that Article 47 was context-specific :
+
+         "50.   We agree with that last submission.  As  was  noted  by  the
+             Court of Justice of the European Union in Case C-249/13 Khaled
+             Boudjlida at [43]:
+
+
+                 "... it is... in accordance with the Court's settled  case
+                 law that ... fundamental rights, such as respect  for  the
+                 rights  of  the  defence,  do  not  constitute  unfettered
+                 prerogatives and may  be  restricted,  provided  that  the
+                 restrictions in fact correspond to objectives  of  general
+                 interest pursued by the measure in question and that  they
+                 do not involve, with regard to the objectives  pursued,  a
+                 disproportionate  and   intolerable   interference   which
+                 infringes upon the very substance of the rights guaranteed
+                 (the judgments in Alassini  and  Others,  C-317/08  to  C-
+                 320/08,   EU:C2010:146,   paragraph   63;   G    and    R,
+                 EU:C:2013:533, paragraph  33;  and  Texdata  Software,  C-
+                 418/11, EU:C:2013:588, paragraph 84)".
+
+
+         51.    In order to see where the balance is to be struck  in  cases
+             of this kind, one looks to the provisions  of  the  Directive.
+             There, as we have noted, the relevant appeal rights  are  non-
+             suspensive. However, in cases covered by Article 31 (which, we
+             emphasise, does  not  include  the  applicant's  type  of  EEA
+             appeal), the persons concerned have a qualified right  of  re-
+             entering in order to submit a "defence in person". The  scheme
+             of the Directive is, we find, entirely compatible with Article
+             47 of  the  Charter.  Article  47  does  not  necessitate  the
+             wholesale conferring of suspensive rights  of  appeal  against
+             any EEA decision."
+
+35.  It is fair to  say  that  there  is  an  important  difference  between
+    regulation 24AA and section 94B.  Whereas the latter envisages that the
+    appeal itself will be heard whilst the appellant is out of country, the
+    different scheme under  the  Directive  and  Regulations  recognises  a
+    "right to be heard" for the purposes of being present at the hearing of
+    the appeal.
+
+36.  That difference might be said to suggest that it  would  be  proper  to
+    restrict the proper ambit of regulation 24AA to cases where there was a
+    particularly strong reason to certify notwithstanding that an  affected
+    person would in any event have a right to return to be present at their
+    hearing. It seems to us that there are  two  responses  fatal  to  that
+    suggestion.  The first is one  we  have  highlighted  already.  The  EU
+    legislature  has  expressly  permitted  states,  subject  to   judicial
+    supervision, to have the power to remove persons pending their  appeal.
+    Article 31(1) makes that clear, as does  the  Commission's  Explanatory
+    Memorandum, Proposal for a European Parliament and Council Directive on
+    the right of citizens of the Union and their family members to move and
+    reside freely within the territory of the Member States,  COM/2001/0257
+    Final - COD 2001/0111*.  In commenting on Article 29 of  this  document
+    states:
+
+         "Giving appeals automatic suspensory effect would not be a suitable
+         solution, since it would lay the arrangements open to  abuse.   The
+         judgment of national courts can be relied on  to  ensure  that  the
+         interests of both the individual concerned and  the  Member  States
+         are adequately protected."
+
+37.   We  accept  Ms  Smyth's  submission  that  in  this  respect  the   EU
+    institutions were concerned to give legislative effect to the  judgment
+    of the Court of Justice in Case C 98/79 Pecastaing v Belgium, in  which
+    the applicant challenged an order  that  she  leave  Belgian  territory
+    whilst she had a pending action against  the  Belgian  authorities  for
+    refusing her a residence permit.  At [9] the Court set out the text  of
+    Article 8 of Directive 64/221 which states:
+
+         "9.  According to Article 8:  The person concerned shall  have  the
+             same legal remedies in  respect  of  any  decision  concerning
+             entry, or refusing the issue or renewal of a residence permit,
+             or ordering expulsion from the territory, as are available  to
+             nationals of the State concerned in respect  of  acts  of  the
+             administration."
+
+38.  At [12]-[13] it concluded:
+
+         "12. On the other hand Article 8 contains  no  specific  obligation
+             concerning any suspensory effect of applications available  to
+             persons covered by the directive.  If that provision  requires
+             that the person concerned should be able to appeal against the
+             measure affecting him it must be inferred, as the Court stated
+             in its judgment  in  the  Royer  case  (paragraph  60  of  the
+             decision), that the decision ordering  expulsion  may  not  be
+             executed - save  in  cases  of  urgency  -  before  the  party
+             concerned is able to complete  the  formalities  necessary  to
+             avail himself of the remedy.  However, it cannot  be  inferred
+             from that provision that the person concerned is  entitled  to
+             remain on the territory of the State concerned throughout  the
+             proceedings initiated by him.  Such an  interpretation,  which
+             would enable the person concerned unilaterally, by lodging  an
+             application,  to  suspend  the  measure  affecting   him,   is
+             incompatible with the objective of the directive which  is  to
+             reconcile the requirements of public policy,  public  security
+             and public health with the guarantees which must  be  provided
+             for the persons affected by such measures.
+
+         13.  Accordingly, the reply to be given to the questions  submitted
+             must be that Article 8 covers all the remedies available in  a
+             Member State in respect of acts of the  administration  within
+             the framework of the  judicial  system  and  the  division  of
+             jurisdiction between judicial bodies in the State in question.
+              Article 8 imposes on the  Member  States  the  obligation  to
+             provide for the persons covered by the directive protection by
+             the courts which  is  not  less  than  that  which  they  make
+             available to their own nationals as  regards  appeals  against
+             acts of the  administration  including,  if  appropriate,  the
+             suspension of the acts appealed against.  On  the  other  hand
+             there may not be inferred from Article 8 an obligation for the
+             Member States to permit an alien to remain in their  territory
+             for the duration of the proceedings, so long  as  he  is  able
+             nevertheless to obtain a  fair  hearing  and  to  present  his
+             defence in full."
+
+39.  The second response, which was also adumbrated  earlier,  is  that  the
+    2006 EEA Regulations at regulations 24AA and  29AA  reflect  a  similar
+    resolve of the  United  Kingdom  legislature  to  make  removal  lawful
+    pending  the  redress  procedure,  without  any  caveat  save  for  the
+    guarantee of a right to return to make  submissions  before  the  First
+    tier Tribunal or Upper Tribunal in person except  when  P's  appearance
+    may cause serious troubles to public policy or public security".
+
+Significance of the Macastena case
+
+40.  It is in the above context that we must consider Mr Malik's  submission
+    that the applicant should also succeed because the decision to  certify
+    his removal was contrary to the observations of Collins J in Macastena.
+
+
+
+41.  In Macastena Collins J was considering whether to grant  permission  in
+    the case of a claimant from Kosovo  who  had  been  the  subject  of  a
+    decision to certify removal under regulation 24AA pending his appeal to
+    the First-tier Tribunal against a decision to remove him  in  light  of
+    his convictions and two year sentence.  Having  noted  that  regulation
+    24AA had  two  aspects  (what  we  have  called  "prongs"),  Collins  J
+    addressed a submission made by Mr Manjit Gill QC  that  the  regulation
+    failed to take account of the need for proportionality  within  Article
+    27 of the Citizens Directive.  Collins J drew a distinction between the
+    statutory appeal where Article 27 would be central and the challenge to
+    a decision to certify under regulation 24AA by way  of  an  application
+    for an interim order to suspend enforcement of removal:
+
+         "16. However, it  is  not  at  the  interim  stage  for  a  further
+             consideration to be given to the factual basis.   Only  if  it
+             would be unlawful for interim removal, as I shall call it,  to
+             take place would it be appropriate to seek to come to court to
+             prevent it.  Such  cases,  I  would  have  thought,  would  be
+             comparatively rare.  But one can  see  situations  where,  for
+             example, a very damaging effect upon a  child  of  the  family
+             might be such as to require such removal not to take place.
+
+         17.  I am bound to say that,  unless  a  very  lengthy  period  was
+             likely  between  appeal  being  lodged  and  hearing  or   the
+             individual is in custody, it is difficult to see the point  of
+             exercising this power.  It is particularly  pointless  if  the
+             individual is in work and providing  for  his  or  her  family
+             whilst in this country, because that will be removed  and  the
+             likelihood is recourse to public  funds  by  the  family  left
+             there.
+
+         18.  However, for some reason best known to the Secretary of State,
+             that power has been required.  In my judgment,  it  cannot  be
+             said that it is at all arguable  that  the  regulation  as  it
+             stands is itself unlawful.  Equally, it would only be  if  the
+             interim decision were  unlawful  and  could  be  shown  to  be
+             unlawful that it should not be permitted to be made.
+
+         19.  I would have thought it is  necessary  for  the  Secretary  of
+             State to use this power with the greatest of care because  one
+             wants to avoid any satellite litigation which might  otherwise
+             result.  Surely, it should only be in a case where it  can  be
+             seen to be desirable and  really  desirable  that  such  power
+             should be exercised.  It may depend on the view taken  of  the
+             strength of the case which the  Secretary  of  State  has  for
+             removal in due course, because it may be obvious that there is
+             little point in removing someone if  it  transpires  that  the
+             appeal in due course is allowed."
+
+42.  We would underline the following points. First, this decision being  on
+    whether to grant permission, was not  intended  to  give  authoritative
+    guidance; the observations made in it are obiter.   Second,  Collins  J
+    makes quite clear at [18] that regulation 24AA is  an  entirely  lawful
+    provision. Third, Collins J emphasises at  [16]  that  cases  in  which
+    there would be unlawfulness in the operation of regulation  24AA  would
+    be "comparatively rare". Third, insofar  as  Collins  J  addresses  the
+    public policy dimension of the operation of regulation 24AA, we  cannot
+    ignore the fact, highlighted earlier, that this  regulation  (like  the
+    corresponding provision of the Citizens Directive which it transposes),
+    represents a  decision  of  the  EU  legislature  not  to  provide  for
+    automatic suspensive effect in EEA removal cases. Fourth, it  seems  to
+    us that at most Collins  J  was  here  venturing  suggestions  for  the
+    Secretary of State to consider when adopting policy guidance as to  the
+    application of regulation 24AA. They are suppositions which may or  may
+    not find their way into future  versions  of  the  respondent's  policy
+    guidance to caseworkers. His decision is no foundation for  identifying
+    public law error in the applicant's case.
+
+THE APPLICANT'S CASE
+
+43.  In light of our analysis of the general issues the only remaining  live
+    issue in the applicant's case is the discretion issue.
+
+    The discretion issue
+
+44.  Mr Malik has submitted that the certification of the  applicant's  case
+    under regulation 24AA was unlawful because  it  failed  to  demonstrate
+    either that   the respondent had grasped that  a  decision  under  this
+    provision was a matter of discretion or that  it  was  a  matter  which
+    required a weighing-up of competing considerations and a decision as to
+    proportionality.
+
+45.  We think it beyond  doubt  that  the  respondent  understood  that  her
+    decision on certification involved the exercise of  a  discretion.   At
+    paragraph 84  of  her  December  2014  decision  letter  she  correctly
+    referred to the fact that under regulation 24AA the Secretary of  State
+    "may" certify removal and that the grounds on which she  "may"  certify
+    included absence of serious irreversible harm.   At  paragraph  85  she
+    commenced by noting that "[c]onsideration has  been  given  to  whether
+    your case "should" be certified..."
+
+46.   We  also  consider  that  this  decision  letter  together  with   the
+    supplementary decision letter of 17 March 2015 shows  that  regard  was
+    given to section 6 HRA1998 matters separate from the issue of  serious,
+    irreversible harm.  However, in much  the  same  way  as  the  decision
+    letters in the Kiarie  and  Byndloss  cases  were  found  wanting,  the
+    wording of  the  decision  letters  with  which  we  are  concerned  is
+    defective,  in  that  it  wrongly  framed  the  Secretary  of   State's
+    consideration solely in terms of whether  there  was  a  real  risk  of
+    serious, irreversible harm.  It was stated that "such a risk"  did  not
+    exist even having regard to family and private life factors, but it did
+    not separately consider whether the applicant's  family,  private  life
+    circumstances might constitute a breach of Article 8.
+
+47.  Nevertheless, for very much the same reasons as  Richards  LJ  gave  in
+    Kiarie and Byndloss in respect of the decision  letters  in  those  two
+    cases, we find the defects in decision letters in the applicant's  case
+    to be immaterial.  There are essentially two reasons for this.   First,
+    the applicant had simply failed to produce evidence to  show  that  the
+    decision would breach his  human  rights.   He  had  not  provided  any
+    evidence of any subsisting  relationship  with  any  persons  who  were
+    dependent on him: he had not shown that he had very significant private
+    life in the UK.  The respondent could  only  respond  to  the  evidence
+    placed before her and what was produced in this  regard  was  nugatory.
+    Second, even on the basis of his own claim, he failed to  particularise
+    how his human rights were considered to  be  adversely  affected  by  a
+    temporary absence.  Further,  the  decision  under  challenge  did  not
+    purport to remove him unconditionally.  It simply  had  the  effect  of
+    overriding what would otherwise be potential  suspensive  effect  of  a
+    pending appeal.  If he were successful in his statutory appeal he would
+    no longer be subject to exclusion or threat of such whilst still here.
+
+48.  Mr Malik sought to advance his  submissions  based  on  the  discretion
+    point by reference  to  the  decision  of  Stadlen  J  in  JR  (in  the
+    application of) v Secretary of State for  the  Home  Department  [2009]
+    EWHC 705 (Admin) and that by the Upper Tribunal  in  Ukus  (discretion;
+    when reviewable) [2012] UKUT 00307 (IAC).
+
+49.  We are not persuaded that either of these decisions assists  his  case.
+
+
+
+50.  As regards JR, the certification power in issue in that case  was  that
+    under s.96(1) of the 2002 Act which applies when a person has relied on
+    a matter that could have been raised  in  an  appeal  against  the  old
+    decision and in the opinion of the Secretary  of  State  there  was  no
+    satisfactory reason for the matter not having  been  so  raised  in  an
+    appeal against the old decision.  On Stadlen J's analysis,  before  the
+    Secretary of State can lawfully  decide  to  certify,  she  has  to  go
+    through a four-stage process.  The first two relate to notification and
+    reliance.  The third is that the  Secretary  of  State  must  form  the
+    opinion that there is no satisfactory reason for the matter not  having
+    been raised in a previous appeal  or  previous  s.120  statement.   The
+    fourth is stated at [106] as being:  "she  must  address  her  mind  to
+    whether, having regard to all relevant factors she should exercise  her
+    discretion to certify and conclude that it is appropriate  to  exercise
+    the discretion in her favour".  Stadlen J also considered this exercise
+    had to be informed by anxious scrutiny (e.g. [124]).
+
+51.  This brief synopsis suffices to point up  obvious  differences  between
+    the ambit and context of the process to certify under s.96 on  the  one
+    hand and that relating to process to certify under regulation  24AA  on
+    the other. The former has the effect of negating a right of  appeal  of
+    any kind completely; whereas the latter only means it is non-suspensive
+    since it does not even prevent the appeal against the EEA  decision  to
+    remove/deport being in-country for the purposes of an actual hearing.
+
+52.  As  regards  Ukus,  this  case  concerned  discretion  required  to  be
+    exercised by statute in the context of a statutory appeal. It concerned
+    a ground of challenge to an immigration decision under section 84(1)(f)
+    of the 2002 Act, that "the  person  taking  the  decision  should  have
+    exercised differently a discretion  conferred  by  immigration  rules".
+    That is not the case here.  Further, insofar as the  Tribunal  adverted
+    to the context of judicial review, it made clear that it did  not  seek
+    to enunciate any criteria of its  own.  The  Tribunal  confined  itself
+    simply to saying that one of the ways of assessing whether  a  decision
+    was "in accordance with the law" under s.84 was "by  reference  to  the
+    criteria by which a decision can be approached..."
+
+53.  Even if we regarded Mr Malik as being right to say that the  principles
+    enunciated in these two cases had direct or even analogous  application
+    to regulation 24AA, it is clear from Kiarie and  Byndloss  that  unless
+    their breach could be shown to have a material bearing on  the  outcome
+    of the case, it would not give rise to a public law error.
+
+54.  For completeness we record that we reject also the applicant's  grounds
+    as originally pleaded.
+
+55.  For the above reasons, we conclude that this application  for  judicial
+    review must fail.
+
+56.  The interim injunction granted to the applicant at an earlier stage  of
+    this case (see [21] above) hereby ceases to have effect.
+
+57.  If agreement cannot be reached as to costs the parties are directed  to
+    make any submissions regarding costs in writing within 14 days of  this
+    judgment being handed down.
+
+
+
+Signed
+
+
+
+Dr H H Storey, Judge of the Upper Tribunal
+
+
+
+                                   Annex A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regulation 24AA certification guidance for European Economic Area
+deportation cases
+
+Version 2.0
+
+20 October 2014
+
+Contents
+
+Section 1: Introduction    page 3
+Section 2: Cases not suitable for regulation 24AA certification    page 6
+Section 3: When to certify an EEA deportation decision under regulation
+24AA
+                                                              page 7
+Section 4: Interim orders  page 8
+Section 5: Re-entry to present appeal in person  page 9
+Section 6: Successful appeals   page 11
+Section 7: Change Record   page 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      IDIs: Chapter 13 - Criminality Guidance in Article 8
+                      ECHR Cases
+
+                             V5.0 (28 July 2014) Page 2 of 12
+
+                  Note: This Document Becomes an Uncontrolled & Unsupported
+                  Version if Printed
+Section 1: Introduction
+
+Purpose
+
+   1. This guidance explains how case owners consider certifying a human
+      rights claim, made by an EEA national in the context of deportation,
+      under regulation 24AA of the Immigration (European Economic Area)
+      Regulations 2006. This guidance applies to any EEA national or non-EEA
+      national with enforceable EU law rights who falls to be deported under
+      regulation 19(3)(b) of the EEA Regulations.
+
+Legislation
+
+   2. Regulation 24AA of the EEA Regulations came  into  force  on  28  July
+      2014. It reads:
+
+      Human rights considerations and interim orders to suspend removal
+
+      24AA. (1) This regulation applies where the Secretary of State intends
+      to give  directions  for  the  removal  of  a  person  ("P")  to  whom
+      regulation 24(3) applies, in circumstances where-
+
+      a) P has not appealed against the EEA decision to which regulation
+         24(3) applies, but would be entitled, and remains within time, to
+         do so from within the United Kingdom (ignoring any possibility of
+         an appeal out of time with permission); or
+
+        b)  P  has  so  appealed  but  the  appeal  has  not  been  finally
+           determined.
+
+      1) The Secretary of State may only give directions for P's removal  if
+         the Secretary of
+
+      State certifies that, despite the  appeals  process  not  having  been
+      begun or not having been finally  determined,  removal  of  P  to  the
+      country or territory to which P is proposed to be removed, pending the
+      outcome of P's appeal, would not be unlawful under section
+
+      6 of the Human Rights Act 1998 (public authority not to  act  contrary
+      to Human Rights Convention).
+
+   2) The grounds upon which the Secretary of State may  certify  a  removal
+      under paragraph (2) include (in particular) that P would  not,  before
+      the appeal  is  finally  determined,  face  a  real  risk  of  serious
+      irreversible harm if removed to the country or territory to which P is
+      proposed to be removed.
+
+   3) If P applies to the appropriate court or tribunal (whether by means of
+      judicial  review  or  otherwise)  for  an  interim  order  to  suspend
+      enforcement of the removal decision, P may not  be  removed  from  the
+      United Kingdom until such time as the decision on  the  interim  order
+      has been taken, except-
+
+        a) where the expulsion decision is based  on  a  previous  judicial
+           decision;
+
+        b) where P has had previous access to judicial review; or
+
+         (a) where the removal decision is based on  imperative  grounds  of
+         public security.
+
+      5) In this regulation, "finally determined" has the same meaning as in
+         Part 6.".
+
+
+
+                      IDIs: Chapter 13 - Criminality Guidance in Article 8
+                      ECHR Cases
+
+                             V5.0 (28 July 2014) Page 3 of 12
+
+                  Note: This Document Becomes an Uncontrolled & Unsupported
+                  Version if Printed
+Background
+
+   3. The Immigration (European Economic Area) (Amendment) (No.2)
+      Regulations 2014 amended the Immigration (European Economic Area)
+      Regulations 2006 so that an appeal against a deportation decision
+      under regulation 19(3)(b) of the EEA Regulations no longer suspends
+      removal proceedings, except where:
+
+       . the Secretary of State has not certified that the person would not
+         face a real risk of serious irreversible harm if removed to the
+         country of return before the appeal is finally determined.
+
+       . the person has made an application to the courts for an interim
+         order to suspend removal proceedings (e.g. judicial review) and
+         that application has not yet been determined, or a court has made
+         an interim order to suspend removal.
+
+   4. The application of a regulation 24AA certificate does not prevent a
+      person from lodging an appeal from within the UK, rather, by amending
+      regulation 29 of the EEA Regulations, it removes the suspensive effect
+      of that appeal. So, whilst a person may lodge their appeal in-country,
+      the lodging of such an appeal does not suspend their removal from the
+      UK. The new Regulations also do not impact on the period allowed for
+      voluntary departure, and a person liable to deportation pursuant to
+      the EEA Regulations still has 30 days in which to leave the UK
+      voluntarily before their removal is enforced, save in duly urgent
+      cases.
+
+   5. Therefore, regulation 24AA applies to:
+
+       . a person who appeals in time against an EEA  deportation  decision,
+         where that appeal has not been finally determined;
+
+       . a person who has not appealed against an EEA  deportation  decision
+         but would be entitled to do so from within the UK  (this  does  not
+         include out of time appeals).
+
+   6. The amended EEA Regulations also allow a person who was deported under
+      regulation 19(3)(b) before their appeal is finally determined, to
+      apply from out of country for permission to re-enter the UK solely in
+      order to make submissions in person at their appeal hearing.
+
+Initial Cohort
+
+   6. Regulations 24AA and 29AA came into force on 28 July 2014.  They  were
+      initially rolled out to a limited cohort of cases where:
+
+       . the person was aged 18 or over  at  the  time  of  the  deportation
+         decision; and
+
+       .  the  person  did  not  have  a  genuine  and  subsisting  parental
+         relationship with a dependent child or children.
+
+   7. That first phase came to an end on 17 October 2014.
+
+Section 55 duty
+
+
+
+                      IDIs: Chapter 13 - Criminality Guidance in Article 8
+                      ECHR Cases
+
+                             V5.0 (28 July 2014) Page 4 of 12
+
+                  Note: This Document Becomes an Uncontrolled & Unsupported
+                  Version if Printed
+   8. The duty in section 55 of the Borders, Citizenship and Immigration Act
+      2009 to have regard to the need to safeguard and promote the welfare
+      of children who are in the UK means that a child's best interests are
+      a primary consideration in deportation cases.
+
+   9. Case owners must carefully consider all of the information and
+      evidence provided concerning the best interests of a child in the UK,
+      in relation to the application of the regulations 24AA and 29AA of the
+      EEA Regulations. Case owners must carefully assess the quality of any
+      evidence provided. Original, documentary evidence from official or
+      independent sources will be given more weight in the decision-making
+      process than unsubstantiated assertions about a child's best
+      interests.
+
+  10. For further guidance in relation to the section 55 duty, see:
+
+       . Section 55 children's duty guidance;
+       . Introduction to children and family cases; and
+       . Criminality guidance for Article 8 ECHR cases.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      IDIs: Chapter 13 - Criminality Guidance in Article 8
+                      ECHR Cases
+
+                             V5.0 (28 July 2014) Page 5 of 12
+
+                  Note: This Document Becomes an Uncontrolled & Unsupported
+                  Version if Printed
+Section 2: Cases not suitable for regulation 24AA certification
+
+   1. Where the following certificates can be applied  in  relation  to  all
+      grounds which may be brought in an appeal, there will be  no  need  to
+      apply a regulation 24AA certificate:
+
+       . regulation 26(5) of the EEA Regulations, which states, "The
+         Secretary of State or an immigration officer may certify a ground
+         for the purposes of paragraph (4) if it has been considered in a
+         previous appeal brought under these Regulations or under section
+         82(1) of the 2002 Act";
+
+       . paragraph 4(5) of Schedule 2 (regulation 30) to the EEA
+         Regulations, which requires the Secretary of State to certify a
+         protection claim from an EEA national unless the claim is not
+         clearly unfounded.
+
+   2. Decisions to deport pursuant to the EEA Regulations where the person
+      is serving a determinate-length sentence where release is at the
+      discretion of the Parole Board will not normally be suitable for
+      regulation 24AA certification. This includes those who were:
+
+       . sentenced in accordance with the Discretionary Conditional  Release
+         Scheme (DCR) under the Criminal Justice Act 1991;
+       . given an Extended Sentence for Public Protection (EPP); and
+       . given an Extended Determinate Sentence (EDS).
+
+   3. Decisions to deport pursuant to the EEA Regulations where  the  person
+      is  a  minor  will  not  normally  be  suitable  for  regulation  24AA
+      certification.
+
+   4. Decisions to deport pursuant to the EEA Regulations where the person
+      has been resident in the UK and exercising Treaty rights for a
+      continuous period of at least five years and the person has not been
+      sentenced to a period of imprisonment of at least four years will not
+      normally be suitable for regulation 24AA certification.
+
+   5. Cases to which the scenarios at 2.3 and 2.4 apply will not usually be
+      suitable for section 94B certification for practical operational
+      reasons, not because there will necessarily be a real risk of serious
+      irreversible harm. Consideration must be given to all cases on an
+      individual basis about whether or not it is appropriate to certify.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      IDIs: Chapter 13 - Criminality Guidance in Article 8
+                      ECHR Cases
+
+                             V5.0 (28 July 2014) Page 6 of 12
+
+                  Note: This Document Becomes an Uncontrolled & Unsupported
+                  Version if Printed
+Section 3: When to certify a human rights claim under regulation 24AA
+
+   1. Regulation 24AA certification must be considered in all deportation
+      decisions made pursuant to the EEA Regulations unless it is a case to
+      which section 2 of this guidance applies. The "test" phase where
+      regulation 24AA was rolled out to a limited cohort of cases ended on
+      17 October 2014 and no longer applies.
+
+   2. The Government's policy is that the deportation process should be as
+      efficient and effective as possible. Case owners should therefore seek
+      to apply regulation 24AA certification in all applicable cases where
+      doing so would not result in serious irreversible harm.
+
+Real risk of serious irreversible harm
+
+   3. For guidance on serious irreversible harm, please see the section  94B
+      certification guidance for Non-EEA deportation cases which is here.
+
+Timing of certification
+
+   4. For guidance on when a regulation 24AA  certificate  can  be  applied,
+      please see paragraphs 3.10 to 3.13 of the  section  94B  certification
+      guidance for Non-EEA deportation cases which is here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      IDIs: Chapter 13 - Criminality Guidance in Article 8
+                      ECHR Cases
+
+                             V5.0 (28 July 2014) Page 7 of 12
+
+                  Note: This Document Becomes an Uncontrolled & Unsupported
+                  Version if Printed
+Section 4: Interim orders
+
+   1. Regulation 24AA establishes that removal may not be enforced if:
+
+       . the person has made an application for an interim order to  suspend
+         removal proceedings (for example, through judicial review); and
+
+       .  that  application  has  not  yet  been  determined,  or  has  been
+         determined in favour of the applicant.
+
+   2. Regulation 24AA lists certain exemptions where an application for an
+      interim order will not suspend removal proceedings (as established by
+      Article 31(2) of the Free Movement Directive (2004/38/EC)). An
+      application for an interim order will not suspend removal proceedings
+      if:
+
+       . the notice of a decision to make a deportation order is based on  a
+         previous judicial decision; or
+       . the person has had previous access to judicial review; or
+       . the removal decision is  based  on  imperative  grounds  of  public
+         security.
+
+   3. If the person is deported from the UK pursuant to regulation  19(3)(b)
+      at any stage after the person has lodged an appeal then the case owner
+      must notify the Tribunal.
+
+   4. Where a court or tribunal makes an interim order suspending removal,
+      removal will not be possible even if one of the criteria outlined in
+      paragraph 4.2 are met. In these circumstances, contact Litigation
+      Operations (Criminality, Detention & International) to arrange making
+      an application to the court which granted the interim relief to apply
+      to have the effect of the interim order lifted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      IDIs: Chapter 13 - Criminality Guidance in Article 8
+                      ECHR Cases
+
+                             V5.0 (28 July 2014) Page 8 of 12
+
+                  Note: This Document Becomes an Uncontrolled & Unsupported
+                  Version if Printed
+Section 5: Re-entry to present appeal in person
+
+   1. Regulation 29AA reflects the requirements of Article 31(4) of the Free
+      Movement Directive (2004/38/EC). Article 31(4) states that, "Member
+      States may exclude the individual concerned from their territory
+      pending the redress procedure, but they may not prevent the individual
+      from submitting his/her defence in person, except when his/her
+      appearance may cause serious troubles to public policy or public
+      security or when the appeal or judicial review concerns a denial of
+      entry to the territory".
+
+   2. Accordingly, regulation 29AA establishes a process  whereby  a  person
+      who has lodged an appeal against a deportation decision  and  who  has
+      been deported from the UK may apply from outside the UK for permission
+      to be temporarily admitted to the UK solely for the purpose of  making
+      submissions in person at their appeal hearing.
+
+   3. Caseworkers must ensure that the person is notified of  the  means  by
+      which they can make such an application using the  following  standard
+      paragraphs in the decision to make a deportation order:
+
+      "Pursuant to regulation 29AA of  the  Immigration  (European  Economic
+      Area)
+
+      Regulations 2006 (as amended) you may apply from outside  the  UK  for
+      permission to re-enter the UK in order to make submissions  in  person
+      at your appeal hearing, if you meet the following conditions:
+
+       . you appealed within time against the notice of a decision to make a
+         deportation order;
+
+       . you were deported from the UK pursuant to regulation 19(3)(b) of
+         the Immigration (European Economic Area) Regulations 2006 before
+         your appeal was finally determined;
+
+       . a date for your appeal has been set; and
+
+       . you want to make submissions before  the  First  Tier  Tribunal  or
+         Upper Tribunal in person.
+
+      You should not apply for permission to re-enter unless you  have  been
+      given a date for your appeal hearing by  the  Immigration  and  Asylum
+      Tribunal, and you should provide us with evidence of the date of  your
+      appeal hearing.
+
+      It is your responsibility to notify the relevant Tribunal of your
+      location and contact details and to update the Tribunal in the event
+      of any changes to your location and contact details.
+
+      If you meet these criteria then you may apply for permission to re-
+      enter the UK. You can make this application by contacting Immigration
+      Enforcement at [insert email address].
+
+      Permission will not be granted if the Secretary of State considers
+      that your presence would cause serious troubles to public policy or
+      public security.
+
+      You must apply for permission in advance of attempting to re-enter the
+      UK or you will be refused admission at the UK Border.
+
+
+                      IDIs: Chapter 13 - Criminality Guidance in Article 8
+                      ECHR Cases
+
+                             V5.0 (28 July 2014) Page 9 of 12
+
+                  Note: This Document Becomes an Uncontrolled & Unsupported
+                  Version if Printed
+      If permission is granted, it will be a temporary admission pursuant to
+      Schedule 2 of the Immigration Act 1971. If you were deported under the
+      Early Removal Scheme then you will be recalled to prison if you are
+      admitted to the UK before the expiry of your sentence. In any other
+      case you are liable to be held in immigration detention for the
+      duration of your stay.
+
+      You must leave the UK immediately after your appeal hearing or you
+      will be enforcedly removed.
+
+      In the case of any subsequent hearing at which you wish to submit your
+      case in person, you must apply again for permission to re-enter.
+
+      Any return to the United Kingdom is entirely at your own cost."
+
+   4. Under regulation 29AA the Secretary of State must grant such
+      permission, except where the person's re-admission for the purpose of
+      appearing and making submissions at their appeal hearing may cause
+      serious troubles to public policy or public security.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      IDIs: Chapter 13 - Criminality Guidance in Article 8
+                      ECHR Cases
+
+                             V5.0 (28 July 2014) Page 10 of 12
+
+                  Note: This Document Becomes an Uncontrolled & Unsupported
+                  Version if Printed
+Section 6: Successful appeals
+
+   1. For guidance on successful appeals where the deportation decision was
+      certified under regulation 24AA, please see the section 94B
+      certification guidance for Non-EEA deportation cases which is here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      IDIs: Chapter 13 - Criminality Guidance in Article 8
+                      ECHR Cases
+
+                             V5.0 (28 July 2014) Page 11 of 12
+
+                  Note: This Document Becomes an Uncontrolled & Unsupported
+                  Version if Printed
+Section 7: Change Record
+
+ |Version | | |Author(s) | | |Date | | |Change References | | | | | | | | |
+| | | | | | | | | | | | | | | | | | | | | |1.0 | | |LS (CPT) | |
+|28/07/2012 | | |First draft. | | | | | | | | | | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | | | | | |Added section 1: introduction;; added
+section 2: when | | | | |2.0 | | |LC (CPT) | | |20/10/2014 | | |not to
+certify; added section 5: re-entry to present | | | | | | | | | | | | | | |
+| | | | | | | | | | | | |appeal in person; added section 6: successful
+appeals; | | | | | | | | | | | | | | | | | | | | | | | | | | | |added
+section 7: change record. | | | | | | | | | | | | | | | | | |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      IDIs: Chapter 13 - Criminality Guidance in Article 8
+                      ECHR Cases
+
+                             V5.0 (28 July 2014) Page 12 of 12
+
+                  Note: This Document Becomes an Uncontrolled & Unsupported
+                  Version if Printed
+
+
+-----------------------
+[1] This section applies to appeals from within the United Kingdom  where  a
+human rights claim has been made by a person who is liable for  deportation.
+Subsection (2) provides: "The Secretary of State may certify  the  claim  if
+the Secretary of State considers  that,  despite  the  appeals  process  not
+having been begun or not having been exhausted, removal of P to the  country
+or territory to which P is proposed to be removed, pending  the  outcome  of
+an appeal in relation to P's claim, wold not be unlawful under section 6  of
+the Human Rights Act 1998...". Subsection (3) states that "The grounds  upon
+which the Secretary of State  may  certify  a  claim  under  subsection  (2)
+include (in particular) that P would not,  before  the  appeals  process  is
+exhausted, face a real risk of serious irreversible harm if removed  to  the
+country or territory to which P is proposed to be removed."
+

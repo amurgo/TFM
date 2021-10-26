@@ -1,0 +1,1880 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number: DA/01672/2013
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                 |Decision and Reasons Promulgated     |
+|On 30 June 2015                      |On 25 November 2015                  |
+|                                     |                                     |
+
+                                   Before
+
+                       UPPER TRIBUNAL JUDGE KOPIECZEK
+                     DEPUTY UPPER TRIBUNAL JUDGE O'RYAN
+
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                            MOHAMMED HASSAN BARRE
+                         (ANONYMITY ORDER NOT MADE)
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Ms A. Brocklesby-Weller, Senior Home Office
+Presenting Officer
+For the Respondent:    Mr A. Adewoye instructed by Prime Solicitors
+
+
+                          DETERMINATION AND REASONS
+
+1     In this decision, we continue to refer to the  parties  as  they  were
+    before the First-tier Tribunal. The Appellant, a national  of  Somalia,
+    appeals against the decision of the Respondent dated  8  July  2013  to
+    make a  deportation  order  against  him  under  s.3(5)(a)  and  s.5(1)
+    Immigration Act 1971. On 14 August 2013 he filed notice of appeal,  out
+    of time, to the First tier Tribunal, but applying for an  extension  of
+    time which was granted. The Respondent had on 19 August  2013  actually
+    signed a deportation order against the Appellant, possibly in ignorance
+    of the fact that the Appellant had brought an out of  time  appeal.  We
+    proceed to treat the present  appeal  as  an  appeal  brought  under  s
+    82(1)(j) Nationality, Immigration and Asylum Act 2002 ('NIAA 2002').
+
+2     The Appellant appealed against the decision of 8 July 2013  on  asylum
+    and human rights grounds (Articles 2, 3, and 8). The appeal came before
+    Judge of the First tier Tribunal Bennett at Hatton  Cross  on  23  July
+    2014, and was allowed, ostensibly on human rights grounds under Article
+    8 ECHR, finding that the circumstances that the Appellant would have to
+    face  in  Merka,  Somalia,  would  be  unjustifiably  harsh  [79].  The
+    Respondent sought permission to appeal, which was granted by the  Upper
+    Tribunal on 1 December 2014.
+
+3     The error of law hearing came before Upper  Tribunal  Judge  Kopieczek
+    on 30 January 2015. In his decision and directions dated 4  March  2015
+    (appended to this decision), he ruled that the FtT had materially erred
+    in law, in:
+
+    (i)    failing to have regard to the considerations set out in Part  5A
+         NIAA 2002 [18];
+
+    (ii)   its assessment of then-applicable Country Guidance  of  AMM  and
+         others (conflict; humanitarian crisis; returnees; FGM)  Somalia  CG
+         [2011] UKUT 445 (IAC) ('AMM'); by:
+
+         (a)      considering only the Appellant's  position  on  return  to
+             Merka, rather than also considering his position in  Mogadishu
+             [27, 29]; and,
+
+         (b)      failing, when considering what connections  the  Appellant
+             may or may not have in Somalia, to take into account the FtT's
+             own earlier finding that the evidence of the Appellant and his
+             family members in the UK was to be treated with  the  greatest
+             circumspection [27]-[29].
+
+4     Judge Kopieczek adjourned the re-making  of  the  decision,  observing
+    that findings of fact made by the FtT  were  to  stand,  save  for  any
+    findings infected by error of law. Directions given were as follows:
+
+    "1     At the next hearing the parties must be in a  position  to  make
+         submissions as to what findings of fact are to be preserved, and in
+         relation to the application of the decision in MOJ & Ors (Return to
+         Mogadishu) Somalia CG [20014] UKUT 00442 (IAC)."
+
+5     The matter now comes before  the  Tribunal  as  a  re-hearing  of  the
+    Appellant's appeal.
+
+    Immigration and offending history
+
+6     The essential elements of the Appellant's  immigration  and  offending
+    history are as follows. The Appellant arrived in the United Kingdom  on
+    19 July 2006 with indefinite leave to enter on family reunion  grounds.
+    He has never naturalised as a British Citizen.
+
+7     The Respondent's reasons for making the decision of  8  July  2013  to
+    deport the Appellant are contained within a letter dated  4  July  2013
+    ('the refusal letter'). The Appellant has a total of 17 convictions for
+    27 offences dating from 1 December 2009 to 29 May 2013. These  are  set
+    out in the record of the Appellant's antecedents  as  recorded  in  the
+    Police National Computer ('PNC') print-out and in a table at  page  2-3
+    of the Respondent's letter  of  4  July  2013  (Q2-Q3).  These  include
+    offences for robbery, theft, using or threatening  to  use  abusive  or
+    insulting words or behaviour with intent to cause fear  or  provocation
+    of violence (2 such convictions), handling stolen goods, possession  of
+    a class B controlled substance (cannabis) (5 such convictions), battery
+    (2 such convictions), affray, possession with intent to supply a  Class
+    B controlled substance, and various offences of failing to comply  with
+    previous community orders.
+
+8     The Appellant has been sentenced  to  detention  and  training  orders
+    ('DTO') on four occasions, amounting to 24 months in  total,  the  last
+    being a DTO of 8 months, arising from his conviction on 22 October 2012
+    for possession  with  intent  to  supply  a  Class  B  controlled  drug
+    (cannabis),  for  which  he  was  initially  sentenced   to   a   Youth
+    Rehabilitation Order with ISSP (Intensive Supervision and  Surveillance
+    Programme). On 28 December 2012 he was convicted of failing  to  comply
+    with that sentence, and a sentence of an 8 month DTO was imposed. Since
+    that sentence of 28 December 2012, the Appellant has been convicted  of
+    one further offence, on 29 May 2013, of possession of Class  B  drug  -
+    cannabis, for which he was fined.
+
+9     Upon considering that offending history, the Respondent  held  in  her
+    refusal letter that the Appellant's deportation would be  conducive  to
+    the public good (refusal letter, Q1)  and  that  he  was  a  persistent
+    offender whose offences had caused serious harm, and  was  therefore  a
+    person to whom  paragraph  398(c)  of  the  Immigration  Rules  applied
+    (refusal letter, Q5-Q6). The Respondent's decision of 8  July  2013  to
+    deport  the  Appellant  was  therefore  made  under  s.3(5)  and   5(1)
+    Immigration Act 1971, rather than s.32 UK Borders Act 2007.
+
+    Relevant law
+
+10    As a consequence of the Appellant's offending history,  the  following
+    provisions are relevant:
+
+11    s.3(5)(a) Immigration Act 1971:
+
+         "(5)     A person who  is  not  a  British  citizen  is  liable  to
+         deportation from the United Kingdom if -
+
+             (a) the  Secretary  of  State  deems  his  deportation  to  be
+             conducive to the public good;
+
+             ..."
+
+12    s.5(1) Immigration Act 1971:
+
+         "5. - Procedure for, and further provisions as to, deportation.
+
+         (1)      Where a person is under section 3(5) or (6)  above  liable
+         to deportation, then subject to the following  provisions  of  this
+         Act the Secretary of State may make  a  deportation  order  against
+         him, that is to say an order requiring him to leave and prohibiting
+         him from entering the  United  Kingdom;  and  a  deportation  order
+         against a person shall invalidate any leave to enter or  remain  in
+         the United Kingdom given him before the order is made or  while  it
+         is in force."
+
+13    Part 5A NIAA 2002 (ss.117A-D):
+
+         "Article 8 of the ECHR: public interest considerations
+
+         117A Application of this Part
+
+         (1)      This Part applies where a court or tribunal is required to
+         determine whether a decision made under the Immigration Acts-
+
+             (a) breaches a person's  right  to  respect  for  private  and
+             family life under Article 8, and
+
+             (b) as a result would be unlawful under section 6 of the Human
+             Rights Act 1998.
+
+         (2)      In considering the public interest question, the court  or
+         tribunal must (in particular) have regard-
+
+             (a) in all cases, to  the  considerations  listed  in  section
+             117B, and
+
+             (b) in cases concerning the deportation of foreign  criminals,
+             to the considerations listed in section 117C.
+
+         (3)      In subsection (2), "the public  interest  question"  means
+         the question of whether an interference with a  person's  right  to
+         respect for private and family  life  is  justified  under  Article
+         8(2).
+
+         117B Article 8: public interest considerations  applicable  in  all
+         cases
+
+         (1)      The maintenance of effective immigration  controls  is  in
+         the public interest.
+
+         (2)      It is in the public interest, and  in  particular  in  the
+         interests of the economic well-being of the  United  Kingdom,  that
+         persons who seek to enter or remain in the United Kingdom are  able
+         to speak English, because persons who can speak English-
+
+             (a) are less of a burden on taxpayers, and
+
+             (b) are better able to integrate into society.
+
+         (3)      It is in the public interest, and  in  particular  in  the
+         interests of the economic well-being of the  United  Kingdom,  that
+         persons who seek to enter or  remain  in  the  United  Kingdom  are
+         financially independent, because such persons-
+
+             (a) are not a burden on taxpayers, and
+
+             (b) are better able to integrate into society.
+
+         (4)      Little weight should be given to-
+
+             (a) a private life, or
+
+             (b) a relationship formed with a qualifying partner,
+
+             that is established by a person at a time when the  person  is
+             in the United Kingdom unlawfully.
+
+         (5)       Little  weight  should  be  given  to  a   private   life
+         established by a person at a time  when  the  person's  immigration
+         status is precarious.
+
+         (6)      In the case of a person who is not liable to  deportation,
+         the public interest does not require the person's removal where-
+
+             (a)  the  person  has  a  genuine  and   subsisting   parental
+             relationship with a qualifying child, and
+
+             (b) it would not be reasonable to expect the  child  to  leave
+             the United Kingdom.
+
+         117C  Article  8:  additional  considerations  in  cases  involving
+         foreign criminals
+
+         (1)      The deportation of foreign  criminals  is  in  the  public
+         interest.
+
+         (2)      The more  serious  the  offence  committed  by  a  foreign
+         criminal, the greater is the public interest in deportation of  the
+         criminal.
+
+         (3)      In the case of a foreign criminal ("C") who has  not  been
+         sentenced to a period of imprisonment of four years  or  more,  the
+         public interest requires C's  deportation  unless  Exception  1  or
+         Exception 2 applies.
+
+         (4)      Exception 1 applies where-
+
+             (a) C has been lawfully resident in  the  United  Kingdom  for
+             most of C's life,
+
+             (b) C is socially and  culturally  integrated  in  the  United
+             Kingdom, and
+
+             (c)  there  would  be  very  significant  obstacles   to   C's
+             integration into the country to which  C  is  proposed  to  be
+             deported.
+
+         (5)      Exception 2 applies where C has a genuine  and  subsisting
+         relationship with a qualifying partner, or a genuine and subsisting
+         parental relationship with a qualifying child, and  the  effect  of
+         C's deportation on the partner or child would be unduly harsh.
+
+         (6)      In the case of a foreign criminal who has  been  sentenced
+         to a period of imprisonment of at  least  four  years,  the  public
+         interest requires deportation  unless  there  are  very  compelling
+         circumstances, over and above those described in Exceptions  1  and
+         2.
+
+         (7)      The considerations in subsections (1) to  (6)  are  to  be
+         taken into account where a  court  or  tribunal  is  considering  a
+         decision to deport a foreign criminal only to the extent  that  the
+         reason for the decision was the offence or offences for  which  the
+         criminal has been convicted.
+
+         117D Interpretation of this Part
+
+         (1)      In this Part-
+
+         "Article 8" means Article 8 of the  European  Convention  on  Human
+         Rights;
+
+         "qualifying child" means a person who is under the age  of  18  and
+         who-
+
+             (a) is a British citizen, or
+
+             (b) has lived in the United Kingdom for a continuous period of
+             seven years or more;
+
+         "qualifying partner" means a partner who-
+
+             (a) is a British citizen, or
+
+             (b) who is settled in the United Kingdom (within  the  meaning
+             of the Immigration Act 1971 - see section 33(2A) of that Act).
+
+         (2)      In this Part, "foreign criminal" means a person-
+
+             (a) who is not a British citizen,
+
+             (b) who has  been  convicted  in  the  United  Kingdom  of  an
+             offence, and
+
+             (c) who-
+
+                  (i)  has been sentenced to a period of imprisonment of  at
+                  least 12 months,
+
+                  (ii) has been convicted of  an  offence  that  has  caused
+                  serious harm, or
+
+                  (iii)      is a persistent offender.
+
+         (3)      For the purposes of subsection (2)(b), a person subject to
+         an order under-
+
+             (a) section 5 of the Criminal Procedure  (Insanity)  Act  1964
+             (insanity etc),
+
+             (b) section 57 of the Criminal Procedure (Scotland)  Act  1995
+             (insanity etc), or
+
+             (c) Article 50A of the Mental Health (Northern Ireland)  Order
+             1986 (insanity etc),has not been convicted of an offence.
+
+         (4)      In  this  Part,  references  to  a  person  who  has  been
+         sentenced to a period of imprisonment of a certain length of time-
+
+             (a) do not include a  person  who  has  received  a  suspended
+             sentence (unless a court subsequently orders that the sentence
+             or any part of it (of whatever length) is to take effect);
+
+             (b) do not include a person who has been sentenced to a period
+             of imprisonment of that length of time only by virtue of being
+             sentenced to consecutive sentences amounting in  aggregate  to
+             that length of time;
+
+             (c) include a person who is sentenced to detention, or ordered
+             or directed to be detained, in an  institution  other  than  a
+             prison (including, in particular, a hospital or an institution
+             for young offenders) for that length of time; and
+
+             (d) include a person  who  is  sentenced  to  imprisonment  or
+             detention, or ordered or  directed  to  be  detained,  for  an
+             indeterminate period, provided that it may last for  at  least
+             that length of time.
+
+         (5)      If any question arises for the purposes of this Part as to
+         whether a person is  a  British  citizen,  it  is  for  the  person
+         asserting that fact to prove it."
+
+14    Immigration Rules, Part 13:
+
+         "A362.   Where Article 8 is raised in the  context  of  deportation
+         under Part 13 of these Rules, the claim under Article 8  will  only
+         succeed where the requirements of these rules as at  28  July  2014
+         are met, regardless of when the notice of intention  to  deport  or
+         the deportation order, as appropriate, was served.
+
+         ...
+
+         Rights of appeal  in  relation  to  a  decision  not  to  revoke  a
+         deportation order
+
+         396.     Where a person is liable to  deportation  the  presumption
+         shall be that the public interest requires deportation.  It  is  in
+         the public interest to deport where the  Secretary  of  State  must
+         make a deportation order in accordance with section 32  of  the  UK
+         Borders Act 2007.
+
+         397.     A deportation order will  not  be  made  if  the  person's
+         removal pursuant to  the  order  would  be  contrary  to  the  UK's
+         obligations under  the  Refugee  Convention  or  the  Human  Rights
+         Convention. Where  deportation  would  not  be  contrary  to  these
+         obligations, it will only be in exceptional circumstances that  the
+         public interest in deportation is outweighed.
+
+         Deportation and Article 8
+
+         A398.    These rules apply where:
+
+                (a)    a foreign criminal liable to deportation claims  that
+                his deportation would be contrary to  the  United  Kingdom's
+                obligations under Article 8 of the Human Rights Convention;
+
+                (b)    a foreign criminal applies for  a  deportation  order
+                made against him to be revoked.
+
+         398.     Where a person claims  that  their  deportation  would  be
+         contrary to the UK's obligations  under  Article  8  of  the  Human
+         Rights Convention, and
+
+                (a)     the  deportation  of  the  person  from  the  UK  is
+                conducive to the public good  and  in  the  public  interest
+                because they have been convicted of  an  offence  for  which
+                they have been sentenced to a period of imprisonment  of  at
+                least 4 years;
+
+                (b)     the  deportation  of  the  person  from  the  UK  is
+                conducive to the public good  and  in  the  public  interest
+                because they have been convicted of  an  offence  for  which
+                they have been sentenced to a period of imprisonment of less
+                than 4 years but at least 12 months; or
+
+                (c)     the  deportation  of  the  person  from  the  UK  is
+                conducive to the public good  and  in  the  public  interest
+                because, in the  view  of  the  Secretary  of  State,  their
+                offending has caused serious harm or they are  a  persistent
+                offender who shows a particular disregard for the law,
+
+                the Secretary of State in assessing that claim will consider
+                whether paragraph 399 or 399A applies and, if it  does  not,
+                the public interest in deportation will only  be  outweighed
+                by  other  factors   where   there   are   very   compelling
+                circumstances over and above those described  in  paragraphs
+                399 and 399A.
+
+         399.     This paragraph applies where  paragraph  398  (b)  or  (c)
+         applies if -
+
+                (a)    the person has  a  genuine  and  subsisting  parental
+                relationship with a child under the age of 18 years  who  is
+                in the UK, and
+
+                    (i)      the child is a British Citizen; or
+
+                    (ii)     the child has lived in the UK continuously  for
+                    at least the 7 years immediately preceding the  date  of
+                    the immigration decision; and in either case
+
+                        (a) it would be unduly harsh for the child to  live
+                        in the  country  to  which  the  person  is  to  be
+                        deported; and
+
+                        (b) it would be  unduly  harsh  for  the  child  to
+                        remain in the UK without the person who  is  to  be
+                        deported; or
+
+                (b)    the person has a genuine and subsisting  relationship
+                with a partner who is in the UK and is a British Citizen  or
+                settled in the UK, and
+
+                    (i)      the relationship was formed at a time when  the
+                    person (deportee) was  in  the  UK  lawfully  and  their
+                    immigration status was not precarious; and
+
+                    (ii)     it would be unduly harsh for  that  partner  to
+                    live in the  country  to  which  the  person  is  to  be
+                    deported, because of compelling circumstances  over  and
+                    above those described in paragraph EX.2. of Appendix FM;
+                    and
+
+                    (iii)    it would be unduly harsh for  that  partner  to
+                    remain in the  UK  without  the  person  who  is  to  be
+                    deported.
+
+         399A.    This paragraph  applies  where  paragraph  398(b)  or  (c)
+         applies if -
+
+                (a)    the person has been lawfully resident in the  UK  for
+                most of his life; and
+
+                (b)    he is socially and culturally integrated in  the  UK;
+                and
+
+                (c)    there would be  very  significant  obstacles  to  his
+                integration into the country to which it is proposed  he  is
+                deported."
+
+15    Relevant authorities include (but are not limited to):
+
+15.1  Chege (section 117D-Article 8 approach-Kenya) [2015] UKUT  165  (IAC),
+    the Headnote to which reads as follows:
+
+         "The correct approach, where an appeal on human rights grounds  has
+         been brought in seeking to resist deportation, is to consider:
+
+         i  is the appellant a foreign criminal as defined by s117D (2) (a),
+             (b) or (c);
+
+         ii if so, does  he  fall  within  paragraph  399  or  399A  of  the
+             Immigration Rules;
+
+         iii      if not are there very compelling  circumstances  over  and
+             beyond those falling within 399 and  399A  relied  upon,  such
+             identification to  be  informed  by  the  seriousness  of  the
+             criminality and taking into account the  factors  set  out  in
+             s117B.
+
+         Compelling as an adjective has the meaning of having a powerful and
+         irresistible effect; convincing.
+
+         The purpose of paragraph 398 is to recognize circumstances that are
+         sufficiently  compelling  to  outweigh  the  public   interest   in
+         deportation but do not fall within paragraphs 399 and 399A.
+
+         The task of the judge is to assess the competing interests  and  to
+         determine whether an interference with a person's right to  respect
+         for private and family life is  justified  under  Article  8(2)  or
+         whether   the   public   interest    arguments    should    prevail
+         notwithstanding the engagement of Article 8.
+
+         It follows from this that if an appeal does not  succeed  on  human
+         rights grounds,  paragraph  397  provides  the  respondent  with  a
+         residual  discretion  to  grant  leave  to  remain  in  exceptional
+         circumstances where an appellant cannot succeed by invoking  rights
+         protected by Article 8 of the ECHR."
+
+    The hearing
+
+16    The documents before the  Tribunal  include  the  Respondent's  bundle
+    prepared on 19 August 2013, and the  Appellant's  bundle  prepared  for
+    this  re-hearing  in  the  Upper  Tribunal,  which  contained   witness
+    statements of the Appellant, his father Hassan Halane Barre, his mother
+    Shukri Xaaji Nuur Ali, and his sister Sabrin Mohamed,  all  dated  June
+    2015. These statements contained for the most part the same evidence as
+    was set out in their statements before the FtT, but had been brought up
+    to date with some additional information. An additional witness who had
+    given evidence before the FtT had been the  Appellant's  older  brother
+    Noor Hassan Barre, but he was tragically killed in a stabbing  incident
+    on 31 October 2014.
+
+17    However, the only witnesses actually attending  the  hearing  to  give
+    evidence before us were the Appellant and his father.  The  Appellant's
+    father later gave evidence explaining the absence  of  the  Appellant's
+    mother and sister at the hearing.  There  was  no  application  for  an
+    adjournment to facilitate the attendance of any additional witnesses.
+
+18    Ms Brocklesby-Weller sought to rely on a further  document,  being  an
+    updated PNC print-out of the Appellant's arrests and  convictions.  She
+    sought to rely on information contained at the rear of the recent print
+    out that on 23 May 2015 the Appellant had been arrested and remanded on
+    Police Bail on condition that he not enter certain streets  in  Harrow,
+    and that he appear  before  the  Police  again  on  3  July  2015.  The
+    suspected offence for which he was arrested is not stated.
+
+19    We admitted this document in evidence. We return to our assessment  of
+    it, below.
+
+20    The Appellant  gave  evidence  in  English.  He  adopted  his  witness
+    statement of 25 June 2015. In relation to  questions  from  Mr  Adewoye
+    regarding the Appellant's recent arrest, the Appellant accepted that he
+    and two friends had been arrested whilst out walking because the police
+    had found a bag of cannabis near them. The police had found nothing  on
+    the Appellant upon being searched. He has been released on  bail.   The
+    Appellant stated that he no longer smoked or dealt cannabis.
+
+21    The Appellant said that he had not been to Somalia since  arriving  in
+    the UK, and had no particular skills that he could use there.  He  left
+    school in 2010, at year 11.
+
+22    Cross examined by Ms Brocklesby-Weller, the Appellant stated  that  he
+    currently lived with his father in rented accommodation  owned  by  the
+    Council. When asked who paid for his food and clothing,  the  Appellant
+    stated that his father helped him  financially,  as  did  other  family
+    members - his mother, sister, and little brother. His  father  did  not
+    look after any other family member. Regarding his  recent  arrest,  the
+    Appellant repeated the account given earlier. He and  his  friends  had
+    not run away when stopped. His friends did not smoke cannabis.
+
+23    There was no re-examination.
+
+24    In response to questions from the Tribunal,  the  Appellant  confirmed
+    he had been arrested in Harrow,  in  the  area  where  he  lived,  mid-
+    evening. The offence for which they  were  arrested  was  suspicion  of
+    possession of cannabis. The Appellant believed that the police intended
+    to carry out fingerprint checks on the bag and wanted him back in July.
+
+
+
+25    The  Appellant's  father,  Hassan  Halane  Barre,  gave  evidence.  He
+    adopted his witness statement of 24 June 2015. His attention was  drawn
+    to the letter at page 55 of the bundle from Julius Rutherford  Cleaning
+    Services regarding his employment with them  at  2.15  hours  per  day,
+    being paid at �142.97 per fortnight. He was asked if he  had  any  bank
+    account which showed payment of those wages.  The  witness  produced  a
+    statement from a Nationwide bank account in the name of H H  Barre  for
+    the period 31 December 2014 to 30 March 2015. We admitted this document
+    into evidence. We note that the account shows a series  of  fortnightly
+    credits in the sum of �144.80. The witness  explained  that  a  payment
+    into the account on 4 February 2015 of �1,980  was  a  funeral  payment
+    from income support in respect of the recent death of  his  oldest  son
+    (Noor Hassan Barre, for whom there is a death certificate at page 54 of
+    the Appellant's bundle showing that he died on 31 October 2014  from  a
+    stab wound to the chest.)
+
+26    He gave evidence that he was divorced  from  his  wife.  She  had  not
+    attended because  his  daughter  informed  him  that  her  mother  (the
+    witnesses' ex wife) was sick. The witnesses' daughter could not come to
+    give evidence because she was pregnant (4 months) and not feeling well.
+
+
+
+27    Cross examined, Mr Barre confirmed that he has  worked  as  a  cleaner
+    from February 2015  to  present.  He  worked  2.15  hours  a  day,  but
+    sometimes did overtime when the school  was  closed  and  he  did  deep
+    cleaning. He was not expecting to get more hours of work, unless he got
+    another job. He was not looking for  another  job  at  the  moment.  He
+    stated that he rented a Housing  Association  home.  He  received  some
+    benefit - �16 per week from the job centre, paid fortnightly. This  was
+    job seekers allowance. He stated that nobody  supported  the  Appellant
+    financially except him. The Appellant's mother and sister did not  help
+    out. The Appellant stays at home with him.
+
+28    He denied that the Appellant's mother and sister  give  any  money  to
+    the Appellant. When Ms Brocklesby-Weller put to the  witness  that  the
+    Appellant himself had  previously  said  that  his  mother  and  sister
+    sometimes helped him, the witness said maybe, he  did  not  know.   His
+    daughter was pregnant and not working. Her husband worked. He was aware
+    that the Appellant had been arrested in May. The Appellant had not told
+    him the reason for the arrest. He confirmed that  the  Appellant  still
+    lives with him. They did not travel together to court today -  he  came
+    by train; the Appellant came by car with friends. When asked  if  these
+    were friends that the Appellant had had for a while or if he  knew  the
+    Appellant's friends, the witness said that he had no idea. He described
+    that the Appellant comes to the house at night, sleeps and  then  goes.
+    He did not know what his son did in the day. He said that the Appellant
+    goes out at about 1.30-2.00 but he did not  know  where  the  Appellant
+    goes.  He comes home at about 11 - 12  o'clock;  sometimes  9  o'clock.
+    Later at the weekends.
+
+29    Asked if the Appellant was still  using  cannabis,  the  witness  said
+    that he had not seen it. He agreed that it was fair to say that he  did
+    not know. His friends do not come to the house. He was aware  that  the
+    Appellant does not go to certain places but the Appellant had not  told
+    him the conditions of bail.
+
+30    In re-examination the witness said that he did not know the  smell  of
+    cannabis, but  that  he  had  not  smelt  any  strange  odours  on  the
+    Appellant.  He did know if the Appellant took cannabis.
+
+31    In response to questions from the Tribunal, the witness did  not  know
+    the details of his daughter's husband's job. The witness had  not  seen
+    the Appellant smoking cigarettes. As to the help he gave the  Appellant
+    - he did not give the Appellant money, but they  ate  together  in  the
+    house. If he needed money for clothes or the bus, he will buy things or
+    give the Appellant money. The Appellant does  not  get  any  government
+    money - immigration said that he was not allowed.
+
+    Submissions
+
+32    Ms Brocklesby-Weller argued that in assessing the risk of harm to  the
+    Appellant on return, the findings at [66] of the FtT decision  remained
+    relevant:
+
+         "... I view the remainder of [the  Appellant's  parents']  evidence
+         about their circumstances  in  Somalia,  including  their  lack  of
+         family there, with the greatest circumspection  because  they  have
+         shown themselves to be untruthful in a core aspect of  their  claim
+         and willing to say whatever they think will further their cause.  I
+         do not therefore accept their claim to come  from  minority  clans,
+         even at the lower standard."
+
+33    With reference to the  paragraphs  of  the  headnote  in   MOJ  &  Ors
+    (Return to Mogadishu) Somalia CG [2014] UKUT 00442 (IAC)  ('MOJ'),  the
+    Appellant would be returning as an ordinary civilian and would  not  be
+    at risk of treatment contrary to  Article  3  ECHR  or  at  risk  under
+    Article 15(c) of the Qualification Directive (ii); there  would  be  no
+    risk of forced recruitment into Al Shabaab (vi).  Return  would  be  to
+    Mogadishu and the Appellant had not shown that he could not  go  there.
+    There has been a  durable  change  since  AMM.  Whereas  the  Appellant
+    asserts he has no family in Somalia, the  Tribunal  should  treat  that
+    assertion with caution given previous adverse credibility findings, and
+    we should proceed on the basis that the Appellant has  some  family  in
+    Somalia, perhaps even extensive family networks.
+
+34    Even if the Appellant did not have family in Somalia, this  would  not
+    result in a risk of serious harm by  way  of  destitution  because  the
+    Appellant has not established  that  there  was  no  real  prospect  of
+    obtaining a livelihood  (xi).  Ms  Brocklesby-Weller  referred  to  MOJ
+    [411], and [421], and argued that returnees from the west might be seen
+    in a positive light in terms of employment. She argued that  there  was
+    no reason to suppose  that  the  Appellant  could  not  be  financially
+    supported from his relatives in the UK -  the  Appellant's  father  had
+    supported him; there  was  inadequate  evidence  as  to  the  financial
+    position of the Appellant's sister and her husband, and of his mother.
+
+35    The Appellant would be able to take advantage of the economic boom  in
+    Mogadishu (MOJ [349-350]). A prolonged absence from Mogadishu was not a
+    sufficient basis for finding that a risk of  harm  would  result  (MOJ,
+    [477]), and Ms Brocklesby-Weller referred us to  the  outcome  for  the
+    appellant 'SSM', in MOJ, who failed to establish  a  risk  of  harm  by
+    reason of long absence. She argued that there would not be a real  risk
+    of the Appellant finding himself in an  internally  displaced  persons'
+    camp.
+
+36    Addressing the issue of the Appellant's rights under Article  8  ECHR,
+    Ms Brocklesby-Weller addressed the Tribunal on Part 5A  NIAA  2002  and
+    the relevant immigration rules. She averred that the  Appellant  was  a
+    'foreign criminal' as defined by s.117D(2) NIAA 2002,  on  the  grounds
+    that he has been convicted of an offence that has caused serious  harm,
+    or that he is a persistent offender. S.117C(3) provides that the public
+    interest requires deportation unless exception  1  or  2  applies.   Ms
+    Brocklesby-Weller did not make any submissions as to Exception 1  under
+    s.117C(4), but her later submissions on para 399A  addressed  the  same
+    issues.
+
+37    Exception 2, under s.117C(5) did not apply;  the  Appellant  does  not
+    have a partner, and does not have any children.
+
+38     As  to  the  Appellant's  propensity  to  re-offend   generally,   Ms
+    Brocklesby-Weller noted the observations of the FtT which did not share
+    the family's confidence that the Appellant would  not  re-offend;  this
+    was little more than a hope [73].  Since  then  he  has  been  arrested
+    again,  although  not  convicted.  She  queried  the  role   that   the
+    Appellant's father could or did take in taking care of  the  Appellant;
+    he did not know the details of why the Appellant had been arrested; did
+    not know the terms of bail; he came to court separately.  He  does  not
+    know if the Appellant is still using drugs.
+
+39    As to  the  length  of  the  Appellant's  residence  in  the  UK,  and
+    addressing the case of Maslov v Austria [2008] ECHR 546,  Ms Brocklesby-
+    Weller argued that the Court's observation in Maslov (i.e. that  for  a
+    settled migrant who has lawfully spent all or the major part of his  or
+    her childhood and youth in the host country very  serious  reasons  are
+    required to justify expulsion - [75]) was not a free-standing test, and
+    she referred to SSHD v AJ (Angola) [2014] EWCA Civ  1636  (17  December
+    2014) [45] -[46]:
+
+         "45.     Moreover,  as  a  consequence  of  its  error,  the  Upper
+         Tribunal did not make a proper assessment  of  the  impact  of  the
+         judgment of the Grand Chamber of  the  Court  of  Human  Rights  in
+         Maslov v Austria. At para. [46] of its decision, the Upper Tribunal
+         highlighted para. [75] of the judgment of  the  Grand  Chamber,  in
+         which it says that in relation to a settled  migrant  of  the  kind
+         described there, "very serious  reasons  are  required  to  justify
+         expulsion". The Upper Tribunal did not attempt  to  integrate  this
+         guidance within the framework of the new rules, but rather  treated
+         it as a free-standing matter of assessment for itself  in  relation
+         to which it appears to have regarded the relevant  approach  to  be
+         one which imposed a heavy onus on the Secretary of  State  to  show
+         "very serious reasons" justifying expulsion.
+
+         46.      In my view, the Upper Tribunal should have approached  the
+         assessment of the claim under Article 8 by application of  the  new
+         rules, and in particular  (since  the  appellant  could  not  bring
+         himself within paragraphs 399 and 399A of the new rules) by  asking
+         itself whether there  were  very  compelling  reasons,  within  the
+         "exceptional circumstances" rubric in paragraph  398,  to  outweigh
+         the strong public interest in deportation in the appellant's  case.
+         In addressing that question, the Upper Tribunal should, of  course,
+         have given due respect to the guidance from the  Grand  Chamber  in
+         Maslov at para. [75] of the judgment (reading it in the context  of
+         the general guidance given by the Grand Chamber at paras. [68]-[76]
+         of the judgment), but as a matter to be brought  into  the  overall
+         assessment and balanced  against  the  strong  public  interest  in
+         deportation to which the UK Borders Act 2007 and the new rules give
+         expression. On a proper approach under the new rules,  in  relation
+         to a person  assessed  to  have  active  ties  to  his  country  of
+         citizenship, without a relevant family life in the  United  Kingdom
+         and whose serious offending had occurred when he was  an  adult,  I
+         think the more natural conclusion would be that  deportation  would
+         be found to be justified in a case like this."
+
+    and also to the Court of Appeal's judgment  in   SSHD  v  MA  (Somalia)
+    [2015] EWCA Civ 48 (05 February 2015), [25](iii):
+
+         "iii)    In its consideration of the guidance in Maslov v  Austria,
+         the tribunal made the same error as occurred in  the  case  of  the
+         appellant AG (Gambia) in AJ (Angola) (see paragraph 21  above).  In
+         paragraph 33 of its determination the  tribunal  said  that  "there
+         need to be very serious  reasons  to  justify  expulsion",  but  it
+         treated that as a free-standing matter of  assessment  rather  than
+         integrating it within the framework of the  new  rules  and  asking
+         itself whether there were very compelling reasons to  outweigh  the
+         public interest in deportation.
+
+40    As regards Immigration Rules 398-399A, the Appellant  had  no  partner
+    or child (399) and in relation to para 399A, the Appellant had not been
+    lawfully present for most of his life; and  he  was  not  socially  and
+    culturally integrated in the UK, given his  offences  involving  drugs,
+    robbery, threatening behaviour, and various  failures  to  comply  with
+    sentences.
+
+41    Further, in terms of any comparisons to  the  facts  of  Maslov,  that
+    individual had committed his  offences  at  the  age  of  14-15  years,
+    whereas the Appellant had offended for a longer period - 15- 17  years.
+    She invited us to dismiss the appeal.
+
+42    For the Appellant, Mr Adewoye addressed  the  Tribunal  first  on  the
+    risk of harm issue. He argued that some elements of AMM still  applied,
+    as was stated in Headnote (i) of MOJ. Some individuals could succeed in
+    an Article 3 ECHR claim on the  grounds  of  their  vulnerability.  The
+    Appellant was vulnerable because of his age, and lack of experience  in
+    living in Somalia.  We  also  note  the  argument  in  the  Appellant's
+    skeleton argument (para 12(vii)) that it should be a preserved  finding
+    from the FtT decision that the Appellant will be expected  to  complete
+    the transition to life as a fully independent adult in  very  difficult
+    circumstances in view of his age and lack of experience of life  as  an
+    independent adult.
+
+43    On the issue  of  whether  the  Appellant  can  be  expected  to  take
+    advantage of the  economic  boom:  the  examples  of  persons  who  had
+    successfully done so at [225] of MOJ  were  generally  people  who  had
+    money to invest. The first  three  months  after  return  were  crucial
+    (referring to evidence set out at [96] of MOJ). Further, survival still
+    depended on the availability of a nuclear family: MOJ [341]-[342],  and
+    headnote paras (ix)-(x).  The Appellant had not lived in Mogadishu.  As
+    regards remittances from the UK; he could not be forced to  rely  on  a
+    distant relative such as his brother-in-law, who in any event  did  not
+    have enough money to support his own  family.  The  Appellant's  mother
+    similarly did not have funds to send the Appellant. The  Appellant  was
+    not likely to gain any employment; he  has  no  particular  skills.  He
+    would not be able to secure accommodation for himself and would end  up
+    in an IDP camp. The Appellant would not know which areas  of  Mogadishu
+    to avoid in order to lessen the risk to him of being caught  up  in  an
+    attack (MOJ [387]-[388]. He would be at risk of serious harm.
+
+44    Addressing the Tribunal on Article 8 ECHR, Mr Adewoye argued that  the
+    Appellant did not 'fall foul of'  s.117B  NIAA  2002;  he  was  not  in
+    receipt of public finds. His private life was established when  he  had
+    ILR, and therefore not at a time when his status  was  precarious.  His
+    criminality was not the most serious; most of his convictions were  for
+    breaches of community sentences and possession  of  cannabis.  Although
+    there was a robbery conviction the Appellant had not received a  single
+    sentence of 12 months  or  more  -  only  when  sentences  were  served
+    consecutively.
+
+45    At this point of submissions, the Tribunal  pointed  out  evidence  in
+    the Respondent's bundle  which  we  had  noted  during  the  course  of
+    submissions as to the Appellant's origins, bearing  in  mind  that  the
+    submission  being  made  was  that  the  Appellant  had  not  lived  in
+    Mogadishu.  Although within application forms set out at K3 and O4,  it
+    was suggested that the Appellant's mother was born in  Merka,  evidence
+    at K5 suggested that the Appellant's maternal grandmother was  born  in
+    Mogadishu, and that the Appellant's mother was  married  in  Mogadishu.
+    Further at H1 and O3, it was indicated that  Mogadishu  was  the  birth
+    place of both the Appellant and his father, and was the place where the
+    Appellant last lived in Somalia. Mr Adewoye thought that some of  these
+    forms might have been completed by the Appellant's  Social  Worker  who
+    may not have had a complete understanding of Somali geography.  He  did
+    not invite us to hear any further evidence from the Appellant or father
+    as to any of these issues. He invited us to allow the appeal.
+
+    Discussion
+
+46    We preserve the following findings of fact as accurately  representing
+    the Appellant's circumstances at the time of the  FtT's  decision,  and
+    not being vitiated by error of law (although we comment  further  below
+    as to the current strength of the  Appellant's  family  life  with  his
+    parents).
+
+    (i)    "... I view the remainder of [the Appellant's parents'] evidence
+         about their circumstances  in  Somalia,  including  their  lack  of
+         family there, with the greatest circumspection  because  they  have
+         shown themselves to be untruthful in a core aspect of  their  claim
+         and willing to say whatever they think will further their cause.  I
+         do not therefore accept their claim to come  from  minority  clans,
+         even at the lower standard." [66];
+
+    (ii)   "I am satisfied that [the Appellant's parents] are committed  to
+         the Appellant and that they have a  genuine  parental  relationship
+         with him..." [66]; " ... he probably has a  family  life  with  his
+         parents. Family life  does  not  automatically  end  on  a  child's
+         eighteenth birthday. The Appellant has  just  turned  nineteen  but
+         appears to have been detained since before his eighteenth birthday.
+         He was living with his father as part of his father's household  up
+         until the time that he was detained and was  in  contact  with  his
+         mother. He had not become independent of his parents.  This  family
+         life is nevertheless likely to end soon irrespective of whether  he
+         is  allowed  to  remain  here  because  he  is  likely  to   become
+         independent of his parents in the foreseeable future" [67];
+
+    (iii)  The family's confidence that the Appellant would  no  re-offence
+         was little more than a hope [73].
+
+    (iv)   The Appellant  will  speak  the  Somali  language  and  will  be
+         familiar with Somali culture from his parents [75].
+
+    (v)    The circumstances prevailing in 2014 in Merka would not  justify
+         a grant of humanitarian protection [78].
+
+47    We do  not  preserve  any  findings  as  to  whether  the  Appellant's
+    proposed  removal  to  Somalia  would  result  in  unjustifiably  harsh
+    consequences for the Appellant; such findings cannot stand in light  of
+    the errors of law found by this Tribunal on 4 March 2015.
+
+48    We consider first whether the Appellant would be at any risk  of  harm
+    upon return to Somalia.
+
+49    Mr Adewoye appears  to  argue  at  paragraph  48  of  the  Appellant's
+    skeleton argument that an element of the Country Guidance contained  in
+    AMM which continues to apply is headnote (ii) of the Country  Guidance,
+    ie:
+
+         "The armed conflict in Mogadishu does not,  however,  pose  a  real
+         risk of Article 3 harm in respect  of  any  person  in  that  city,
+         regardless of circumstances. The humanitarian  crisis  in  southern
+         and central Somalia has led to a declaration of famine in IDP camps
+         in Mogadishu; but a returnee from the United Kingdom who is fit for
+         work or has family connections may be able to avoid having to  live
+         in such a camp. A returnee may, nevertheless, face a real  risk  of
+         Article 3 harm, by reason of his or her vulnerability."
+
+50    Although headnote (i) of MOJ does indicate that the  country  guidance
+    issues addressed in that  determination  are  not  identical  to  those
+    engaged with by the Tribunal in AMM, and that therefore, where  country
+    guidance has been given by the Tribunal in AMM in respect of issues not
+    addressed in MOJ, then the guidance provided by AMM shall  continue  to
+    have effect, we find that the matters considered in AMM which were  not
+    revisited in MOJ  are  matters  concerning  the  situation  in  Somalia
+    outside Mogadishu. The comprehensive review of conditions in  Mogadishu
+    set out in MOJ results  in  none  of  the  observations  in  AMM  about
+    conditions there having any continuing application.
+
+51    Further, we observe in any event that AMM gave an example  of  persons
+    who might still be at risk of a breach of their rights under Article  3
+    ECHR upon return  to  Mogadishu,  based  on  the  evidence  before  the
+    Tribunal at that time:
+
+         "369     Conversely, a returnee could face real risk of a violation
+         of Article 3, by reason of his or her vulnerability. For example, a
+         woman with children returned without any family and without  family
+         support in Mogadishu from those  already  there,  may  well  suffer
+         treatment proscribed by Article  3,  regardless  of  any  financial
+         assistance provided by the United  Kingdom  Government,  given  her
+         increased susceptibility to opportunistic attack."
+
+52    The Appellant clearly does not fit the example given.
+
+53    Rather, we find the starting point in the assessment of  any  risk  of
+    harm to the Appellant is the Country Guidance set out in MOJ.  Although
+    the FtT considered the circumstances then prevailing in Merka,  we  are
+    of the view that there is no reason to restrict  our  consideration  to
+    that town. The Appellant's return will  take  place  to  Mogadishu.  If
+    (which neither we nor the FtT found to be established) there  would  be
+    any risk of harm to the Appellant in  Merka,  we  consider  whether  he
+    could reside in Mogadishu. The headnote of MOJ appears as  an  Appendix
+    to this decision.
+
+54    Applying the guidance in MOJ,  we  find  that  the  Appellant,  as  an
+    'ordinary civilian' (i.e. not associated with the security forces;  any
+    aspect  of  government  or  official  administration  or  any  NGO   or
+    international organisation) returning to Mogadishu after  a  period  of
+    absence will face no real risk of persecution or risk of harm  such  as
+    to require protection under Article 3 of the ECHR or Article  15(c)  of
+    the Qualification Directive. In particular, he will not be at real risk
+    simply on account of having lived in a European location for  a  period
+    of time of being viewed with suspicion either by the authorities  as  a
+    possible supporter of Al Shabaab or by Al Shabaab  as  an  apostate  or
+    someone whose Islamic integrity has been compromised  by  living  in  a
+    Western country. There is no real prospect of a re-established presence
+    of Al-Shabaab in Mogadishu. The present level  of  civilian  casualties
+    arising from armed conflict does not amount to  a  sufficient  risk  to
+    ordinary civilians such as to represent an Article 15(c) risk. We  find
+    that there is no reason why the Appellant  would  not  within  a  short
+    period of time be able to identify areas and  establishments  that  are
+    clearly identifiable as likely Al Shabaab targets, such as  the  Bakara
+    market or other areas described at para 387 of MOJ. There  is  no  real
+    risk of forced recruitment to  Al  Shabaab  for  civilian  citizens  of
+    Mogadishu, including for recent returnees  from  the  West.  (See  MOJ,
+    headnote paras (ii)-(vi)).
+
+55    The Appellant asserts that he has no nuclear family in Mogadishu  and,
+    being from a minority clan, will have no clan support.   We  find  that
+    there is no reasonable degree of likelihood  that  those  are  reliable
+    propositions. His argument that he is from a  minority  clan  has  been
+    rejected and, as found by the FtT, the  evidence  relied  upon  by  the
+    Appellant as to the family's circumstances in  Somalia,  including  the
+    alleged lack of family there, is  to  be  treated  with  'the  greatest
+    circumspection'. The references from the Appellant's evidence which  we
+    drew to Mr Adewoye's attention as to the Appellant being born  in,  and
+    had last lived in Mogadishu also suggest that the Appellant has greater
+    connections with that city than he is prepared to admit to. Even if the
+    information contained in the ICD.0350 form dated March  2013  at  O3-19
+    was completed by the Appellant's Social Worker, we note that the Social
+    Worker Wendy Hargreaves asserts in her letter dated 18 March 2013 at O2
+    that she also spoke with the Appellant's parents  when  completing  the
+    form. Further, information indicating that the Appellant  was  born  in
+    Mogadishu also appears in a VAF2 form dated 3 May 2008 at H1.
+
+56    We find that we  are  entitled  to  proceed  on  the  basis  that  the
+    Appellant comes from a  majority  clan  and  will  therefore  be  in  a
+    position to seek  assistance  from  clan  members  who  are  not  close
+    relatives, who may potentially be  able  to  assist  the  Appellant  in
+    providing a social support mechanism and assistance with  access  to  a
+    livelihood (MOJ headnote (vii) and (viii)).
+
+57    With reference to MOJ  headnote  (ix)  we  do  not  accept,  as  being
+    established to a reasonable of likelihood, that on return to  Mogadishu
+    after a period of absence, the Appellant has no nuclear family or close
+    relatives in the city. Although  therefore  not  required  by  MOJ,  we
+    nonetheless continue to perform  the  careful  assessment  of  all  the
+    Appellant's circumstances as suggested at MOJ headnote (ix):
+
+    (i)    The Appellant's circumstances before departing Somalia were that
+         he lived in either Merka or Mogadishu (and we  have  indicated  our
+         doubts above as to the Appellant's  evidence  about  his  place  of
+         origin) and left Somalia in  2006  (Appellant's  witness  statement
+         para 5), aged 10 or 11.
+
+    (ii)   The Appellant arrived in the United Kingdom on 19 July 2006  and
+         has now been outside of Somalia for  9  years.  His  Social  Worker
+         noted having spoken to the Appellant's parents in March  2013  that
+         the when the Appellant started to attend school in  Harrow  he  was
+         bullied due to not being able to speak English. The FtT  held  that
+         the Appellant will be able to speak  the  Somali  language  and  is
+         familiar with Somali culture from his parents [75].
+
+    (iii)  The Appellant has not established that he has no family or  clan
+         associates to call upon in Mogadishu.
+
+    (iv)   We accept that the Appellant  will  not  have  any  of  his  own
+         financial resources to all upon. It is unlikely that the  Appellant
+         would receive assistance through VARRP (considered at [423] of MOJ)
+         on the grounds that, if this appeal  fails  and  the  Appellant  is
+         deported, there will be a deportation order against him.
+
+    (v)    The Appellant's prospects of securing a livelihood will  be,  in
+         the light of our finding that the  Appellant  has  not  established
+         that he is from a minority  clan  and  has  no  nuclear  family  in
+         Mogadishu, much the same as many  others  returning  to  Mogadishu.
+         Although the Appellant does not have any particular  qualifications
+         or skills, he is young and  healthy,  and  the  Appellant  has  not
+         shown, as per MOJ headnote (x) why he would not be able  to  access
+         the economic opportunities that have been produced by the  economic
+         boom, especially as there is evidence to the effect that  returnees
+         are taking jobs at the expense of those who have not been away.
+
+    (vi)   As  to  the  potential  availability  of  remittances  from  the
+         Appellant's family in the United Kingdom, we note that, contrary to
+         the evidence of the Appellant's father, the Appellant asserted that
+         he obtained some financial assistance from his mother and sister as
+         well as his father. By  whatever  means,  the  Appellant  has  been
+         supported financially in the United Kingdom by his family for  some
+         time, and there is no clear reason offered by the Appellant  as  to
+         why this would not be able to continue if the  Appellant  departed.
+         We do not over-state the amount of money that the Appellant may  be
+         able to receive from his family in the UK - this is  likely  to  be
+         modest, but we find  that  a  degree  of  financial  support  would
+         continue to be available to the Appellant in Somalia.
+
+    (vii)  The Appellant has been financially supported by  his  family  in
+         the United Kingdom. However, the Appellant has engaged in  criminal
+         activity in the  United  Kingdom  including  being  concerned  with
+         possession of proscribed drugs with intent  to  supply.  This  past
+         criminal conduct indicates that the Appellant is not a naive  young
+         man with no street experience - see the  description  of  appellant
+         SSM at [475] of MOJ by way of comparison.
+
+    (viii) We have no indication of how the Appellant actually left Somalia
+         and travelled to the United Kingdom.  In  those  circumstances,  we
+         leave out of account the fact that the Appellant's  departure  from
+         Somalia must have been funded by someone, at  some  point,  in  our
+         assessment of the Appellant's likely circumstances on return.
+
+58    The Appellant therefore fails to establish, as per MOJ, that he  is  a
+    person with no clan or family support and would not be  in  receipt  of
+    remittances from abroad and has no prospects of securing  a  livelihood
+    on return. He does not face a real  risk  of  living  in  circumstances
+    falling below that  which  is  acceptable  in  humanitarian  protection
+    terms.  The corollary of that position, described  in  headnote  (xii),
+    does not therefore arise.
+
+59    The Appellant's removal to Somalia does not give rise to a  breach  of
+    the United  Kingdom's  obligations  under  the  Refugee  Convention  or
+    Article 15(c) of the Qualification Directive, or the Appellant's rights
+    under Article 3 ECHR.
+
+    The Immigration Rules and Article 8 ECHR
+
+60    We approach this assessment following the guidance  in  Chege,  ie  to
+    consider the following issues:
+
+    i Is the appellant a foreign criminal as defined by s117D (2) (a),  (b)
+         or (c).
+
+    ii     If so, does  he  fall  within  paragraph  399  or  399A  of  the
+         Immigration Rules
+
+    iii    If not are there very compelling circumstances over  and  beyond
+         those falling within 399 and 399A relied upon, such  identification
+         to be informed by the seriousness of  the  criminality  and  taking
+         into account the factors set out in s117B.
+
+61    We find that the Appellant is a  foreign  criminal  as  defined  under
+    S.117D NIAA 2002, on the grounds that the Appellant has been  convicted
+    of an offences that have caused serious harm: robbery, theft, using  or
+    threatening to use abusive or insulting words or behaviour with  intent
+    to cause fear or provocation of violence (2 such convictions), handling
+    stolen goods, battery (2 such convictions), affray, and possession with
+    intent to supply a Class B controlled substance. We find that there  is
+    no  requirement  to  identify  positive  evidence  that  a   particular
+    individual has been caused serious harm  by  the  Appellant's  actions;
+    rather, we find that we may take  judicial  notice  of  the  fact  that
+    dealing in and facilitating the  consumption  of  proscribed  drugs  is
+    seriously harmful to society at large, both in terms of the health  and
+    welfare of drug users, and due to the criminality, such  as  theft  and
+    violence, which is associated with the drugs trade. We also  find  that
+    the Appellant is a persistent offender. As a result, we agree with  the
+    Respondent that para 398(c) of the Rules applies to the Appellant.
+
+62    However, neither para 399(a) or (b) apply to the Appellant, as he  has
+    no children or partner.
+
+63    Further, we find that para 399A does not apply to  the  Appellant,  on
+    the grounds that (addressing the issues raised in 399A(a)-(c)):
+
+    (a)    He has not been lawfully present in the UK for most of his  life
+         - he has been present for 9 years of  his  20  years  (at  time  of
+         determining this appeal). Even though he was granted ILR, less than
+         half of one's life cannot be held to be most of one's life.
+
+    (b)    The Appellant has not socially and culturally integrated in  the
+         UK. Although criminal offences can be and are committed by  persons
+         who have been born in, and spent the whole of their  lives  in  the
+         UK, and whose only experience of culture and society is that within
+         the UK, we find that social and  cultural  integration  within  the
+         rules refers to social and cultural  integration  into  law-abiding
+         society.  The  Appellant  has  failed  to  integrate  socially  and
+         culturally in the UK. In any event, the Appellant fails to  satisfy
+         399A(a) and (c).
+
+    (c)    There would not be very significant obstacles to the Appellant's
+         integration into Somalia; we refer to our retained finding that the
+         Appellant will speak the Somali language and will be familiar  with
+         Somali  culture  from  his  parents.  As   discussed   above,   any
+         difficulties the Appellant has in obtaining employment will not  be
+         such as to be likely to cause him to become destitute.
+
+64    As para 399 and 399A do not apply, para 398 provides that "the  public
+    interest in deportation will only be outweighed by other factors  where
+    there are very compelling circumstances over and above those  described
+    in paragraphs 399 and 399A."
+
+65    Chege suggests that 'compelling' as an adjective has  the  meaning  of
+    having a powerful and irresistible effect; convincing.  We also note at
+    [43]-[44] of MF (Nigeria) v Secretary of State for the Home  Department
+    [2013] EWCA Civ 1192:
+
+         "43.     The word "exceptional" is often used to denote a departure
+         from a general rule. The general rule in  the  present  context  is
+         that, in the case of a foreign prisoner to whom paras 399 and  399A
+         do not apply, very compelling reasons will be required to  outweigh
+         the public interest in deportation. These  compelling  reasons  are
+         the "exceptional circumstances".
+
+         44.      We would,  therefore,  hold  that  the  new  rules  are  a
+         complete  code  and  that  the  exceptional  circumstances  to   be
+         considered in the balancing exercise involve the application  of  a
+         proportionality test as required by the Strasbourg jurisprudence."
+
+66    The reference to exceptional circumstances  has  since  28  July  2014
+    been replaced with the expression "the public interest  in  deportation
+    will  only  be  outweighed  by  other  factors  where  there  are  very
+    compelling circumstances over and above those described  in  paragraphs
+    399 and 399A".
+
+67    The Court of Appeal in MF (Nigeria) appeared to equate the  two  terms
+    at [43]-[44], as did the Upper Tribunal in Oladeji  (s.3(1)  BNA  1981)
+    [2015] UKUT 326 (IAC) (21 May 2015):
+
+         "24.     We consider that the new rule has  not  imposed  a  higher
+         threshold but simply confirmed the approach of the Court of  Appeal
+         in MF (Nigeria)  [2013]  EWCA  Civ  1192  which  regarded  the  two
+         expressions as synonymous."
+
+68    We find that the  identification  of  'very  compelling  circumstances
+    over and above those described in paragraphs 399  and  399A"  therefore
+    requires a  proportionality  balancing  exercise  to  be  carried  out,
+    through 'the lens of the rules' (AJ (Angola)), and Part 5A NIAA 2002.
+
+69    We find that the deportation of foreign criminals  is  in  the  public
+    interest and is  part  of  the  maintenance  of  effective  immigration
+    control (s.117B(1) and 117C(1)).
+
+70    The Appellant speaks English, but he gains no positive entitlement  to
+    leave to remain because of that (AM  (s.117B)  [2015]  UKUT  260  IAC).
+    Although, as Mr Adewoye asserted, the Appellant may not be  in  receipt
+    of public finds, he is clearly not financially independent (s.117B(3)).
+
+
+
+71    The Appellant has not been in the United Kingdom unlawfully. There  is
+    therefore no requirement under s.117B(4) to treat any private life that
+    he has developed  in  the  United  Kingdom  as  having  little  weight.
+    However, AM provides that:
+
+         "In some circumstances it may also  be  that  even  a  person  with
+         indefinite  leave  to  remain,  or  a  person  who   has   obtained
+         citizenship, enjoys a status that is  "precarious"  either  because
+         that status is revocable by the Secretary of State as a  result  of
+         their deception, or because of  their  criminal  conduct.  In  such
+         circumstances the person will be well aware that he has  imperilled
+         his status and cannot viably claim thereafter that  his  status  is
+         other than precarious."
+
+72    Notwithstanding the Appellant's enjoyment  of  ILR,  he  might,  as  a
+    result of his criminality,  be  described  as  holding  an  immigration
+    status which was 'precarious', with the result,  under  s.117B(5)  that
+    any private life developed at a time when  his  status  was  precarious
+    should be given little weight. However we do not find it  necessary  to
+    rule on whether the Appellant's immigration status has been precarious,
+    as the Appellant has advanced  very  little  if  any  evidence  of  his
+    private life in the UK, aside from  his  connections  with  his  family
+    members. There is therefore little evidence to attach weight to.
+
+73    No issues arise under s.117B(6).
+
+74    When examining the consideration at s.117C(2), that the  more  serious
+    the offence committed by a foreign criminal, the greater is the  public
+    interest in deportation, we find that although the Appellant's offences
+    are not of the most serious in nature, and his longest single period of
+    imprisonment was 8 months, we find that his offences running up to  the
+    end of 2012 were becoming  increasingly  serious,  and  that  his  many
+    offences of failing to comply with community orders indicated  that  he
+    was largely immune to the sanctions of the criminal  courts.  We  treat
+    his offences as being of a serious nature and the  public  interest  in
+    deportation as having significant weight.
+
+75    Neither Exception 1 or 2, set out in s.117C(4) and  (5)  apply,  given
+    our findings on para 399A at [63] above, as he has no child or partner.
+    S.117C(3) therefore provides that it is a consideration, for us to take
+    into  account,  that  the  public  interest  requires  the  Appellant's
+    deportation.
+
+76    S.117C(6) does not arise directly,  as  the  Appellant  has  not  been
+    sentenced to a period of imprisonment of at least 4 years.
+
+77    We do not find that the apparent indication within s.117C(3) that  the
+    Appellant's non-satisfaction of Exception 1 or 2  within  s.117C(4)  or
+    (5) means that  it  is,  without  more,  proportionate  to  deport  the
+    Appellant. We find that that is so for the following reasons:
+
+    (i)    If it were otherwise, then persons sentenced to  periods  of  at
+         least 4 years imprisonment, whose removal still,  under  s.117C(6),
+         requires a consideration  of  whether  there  are  very  compelling
+         circumstances over and above those in Exceptions 1 and 2, would  be
+         provided greater  statutory  protection  than  those  with  shorter
+         sentences.
+
+    (ii)   Paragraph 398 of the Rules still requires,  for  the  Appellant,
+         consideration  of   whether   there   are   any   very   compelling
+         circumstances over and above paras 399 and 399A.
+
+    (iii)  Part 13 is a complete code which must involve a  proportionality
+         balancing exercise which takes  all  material  considerations  into
+         account.
+
+78    We come to the following conclusions.
+
+79    The  Appellant's  family  life  in  the  United  Kingdom  is  limited.
+    Although his parents were  described  in  2014  by  the  FtT  as  being
+    "committed to the Appellant and  that  they  have  a  genuine  parental
+    relationship with him..." [66] , it was also observed that "This family
+    life is nevertheless likely to end soon irrespective of whether  he  is
+    allowed to remain there because he is likely to become  independent  of
+    his parents in the foreseeable future" [67]. The evidence that we heard
+    from the Appellant's father as to his  current  relationship  with  the
+    Appellant paints a picture of a young man merely sharing the same  roof
+    with his father. The Appellant has not told  his  father  what  he  was
+    arrested for in May 2015 or the conditions of his bail. He  comes  home
+    at night, sleeps, and then goes out for most of the day,  with  friends
+    whom the Appellant's father does not know, and  comes  home  late;  the
+    father does not know what the Appellant  has  been  doing.  The  father
+    candidly admitted that he did not know whether the Appellant was  still
+    smoking cannabis.
+
+80    We did not hear from the Appellant's mother or sister.  They  live  in
+    Wembley. The hearing took place in central London. The reasons given by
+    the  Appellant's  father  for  their  non-attendance   (sickness,   and
+    pregnancy  resulting  in  feeling   unwell,   respectively)   are   not
+    compelling. We find that their  non-attendance  is  indicative  of  the
+    importance that they attach to the present proceedings and to the level
+    of importance that they attach to their family ties to  the  Appellant,
+    that is to say, not very much.
+
+81    Bearing in mind that the Appellant was still only 19 at  the  time  of
+    the hearing, we give him the  benefit  of  the  doubt  as  regards  the
+    existence of family life between himself and his other  family  members
+    in the United Kingdom, but we find that  family  life,  as  defined  by
+    Article 8 ECHR, continues to exist  between  them  by  only  a  slender
+    margin.
+
+82     We  take  into  account  the  Appellant's  likely  future   offending
+    behaviour. We do not have any pre-sentence or OASys reports  before  us
+    and therefore there is no professional assessment of his propensity  to
+    re-offend. However,  we  have  regard  to  the  Appellant's  persistent
+    offending over a  period  when  aged  14-17.  We  understand  from  the
+    Appellant's evidence that a bag of cannabis was  found  by  the  police
+    near to a place where the Appellant and two friends were standing. None
+    of them admitted to owning the bag of drugs. We do not find, even on  a
+    balance of probabilities, that  the  Appellant  was  in  possession  of
+    cannabis when arrested in May this year. There is no  evidence  in  the
+    bundle produced for this hearing of the completion of victim  awareness
+    courses, or other rehabilitative training. We have no  confidence  that
+    the Appellant will avoid further convictions.
+
+83     Mr  Adewoye  has  made  reference  to  the  case  of  Maslov  in  his
+    submissions.  We recall that in Akpinar, R (On the  Application  Of)  v
+    Upper Tribunal (IAC) [2014] EWCA Civ 937, relied on by  the  Respondent
+    in  submissions  before  the  FtT,  Sir  Stanley  Burnton,  (with  whom
+    MacFarlane LJ and Maurice Kay LJ agreed) held as follows:
+
+         "43.     My conclusion is that there is not a "clear  and  constant
+         jurisprudence  of  the  Strasbourg   court"   (see   R   (Alconbury
+         Developments  Ltd)  v  Secretary  of  State  for  the  Environment,
+         Transport and  the  Regions  [2001]  UKHL  23,  [2003]  2  AC  295,
+         paragraph 26, and R v. Special Adjudicator ex  parte  Ullah  [2004]
+         UKHL 26 [2004] 2 AC 323 at paragraph 20) requiring  this  Court  to
+         treat "very serious reasons", if the  phrase  means  "very  serious
+         offences", as a precondition of deportation of  someone  who  is  a
+         "settled migrant who has lawfully spent all or the  major  part  of
+         his or her childhood and youth" in this country."
+
+84    Rather, [75] of the judgment in Maslov could  be  explained  thus,  in
+    the view of the Court of Appeal at [32]:
+
+         "I do not think that the Court can  have  intended  or  did  intend
+         otherwise. What was said in paragraph 75 must be read  as  relating
+         to the facts of the case before it, among other  factors  that  the
+         offending in question was, as subsequently stated in Onur, no  more
+         than acts of juvenile delinquency."
+
+85    We therefore take into account, as an important factor, the fact  that
+    the  Appellant's  offences  were  committed  when  he  was   a   minor,
+    necessarily at a time before a person has become fully mature. However,
+    save for his remaining free from further conviction since 29 May  2013,
+    we see no real evidence that the Appellant has  effected  any  material
+    change in his life or that he  is  engaging  in  any  positive  way  in
+    society.
+
+86    We are of the view  that  giving  appropriate  weight  to  the  public
+    interest in deporting foreign criminals,  and  weighing  all  that  can
+    properly be weighed in the balance in  favour  of  the  Appellant,  and
+    having regard to his private and family life in the United Kingdom, the
+    Appellant  has  not  demonstrated  that  there  are   very   compelling
+    circumstances outweighing the public interest in deportation. There  is
+    nothing  very  powerful,  irresistible  or   convincing   which   would
+    demonstrate that the Appellant's removal is disproportionate under Part
+    13 of the Rules, which includes a proportionality balancing exercise.
+
+87    In light  of  the  fact  that  we  have  found  that  the  Appellant's
+    deportation would not be contrary to the  UK's  obligations  under  the
+    Refugee Convention or the Human Rights Convention, we finally  consider
+    whether there are any exceptional circumstances, as contemplated  under
+    para 397 of the rules, as to why the public interest in deportation may
+    be outweighed. We  can  find  no  additional  factors  that  there  are
+    relevant to that assessment; there  are  no  exceptional  circumstances
+    under which we would allow this appeal.
+
+88    The Tribunal having previously found  that  the  First  tier  Tribunal
+    decision of 15 August 2014 involved the making of an error of law,  and
+    having set that decision aside, we make the following decision.
+
+
+
+
+    Decision
+
+89    We re-make the decision, dismissing  the  Appellant's  appeal  against
+    the Respondent's decision of 4 July 2013 to make  a  deportation  order
+    against the Appellant. The appeal is dismissed on asylum, human  rights
+    and humanitarian grounds.
+
+
+Signed:
+
+[pic]
+Deputy Upper Tribunal Judge O'Ryan
+
+9 November 2015
+
+Appendix 1: Error of law decision
+
+                                    [pic]
+IAC-FH-NL-V1
+
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number: DA/01672/2013
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                 |Promulgated                          |
+|On 30 January 2015                   |                                     |
+|                                     |.....................................|
+|                                     |..                                   |
+
+                                   Before
+
+                       UPPER TRIBUNAL JUDGE KOPIECZEK
+
+
+                                   Between
+
+                 Secretary of State for the Home Department
+                                                                   Appellant
+                                     and
+
+                            MOHAMMED HASSAN BARRE
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Mr I Jarvis, Home Office Presenting Officer
+For the Respondent:    Mr A Adewoye, Solicitor
+
+
+                           DECISION AND DIRECTIONS
+
+ 1. The appellant in these proceedings is the Secretary of State.  However,
+    for convenience I refer to the parties as they were before  the  First-
+    tier Tribunal.
+
+ 2. Thus, the appellant is a citizen Somalia born on 6 August 1995.   On  8
+    July 2013 the respondent made a decision to make  a  deportation  order
+    against the appellant under Section  3(5)(a)  of  the  Immigration  Act
+    1971, it being considered that the appellant's deportation is conducive
+    to the public good.
+
+ 3. The appellant appealed against that decision and his appeal  was  heard
+    by First-tier Tribunal Judge N J Bennett on 23 July  2014,  whereby  he
+    allowed the appeal.  Permission to appeal against his  decision  having
+    been granted, the matter now comes before me.
+
+ 4. The further background to the appeal, as set out in the decision of the
+    First-tier Tribunal, is that the appellant arrived in the  UK  in  July
+    2006 with his three siblings, having been granted indefinite  leave  to
+    enter to join his father. Judge  Bennett's  determination  goes  on  to
+    record that since 1 December 2009 the appellant has been  convicted  of
+    25 criminal offences. From the respondent's decision letter it  can  be
+    seen that his offending has including robbery, public  order  offences,
+    possession of class B drugs and failure to comply  with  various  court
+    orders.
+
+    Submissions
+
+ 5. Mr Jarvis referred to the fact that a number of adverse  findings  were
+    made in relation to the appellant and his  witnesses,  for  example  in
+    terms of his mother's claim that the appellant's father had been killed
+    in Somalia, whereas his father was in fact a witness in the proceedings
+    before the Tribunal.  In addition, the First-tier Judge had noted  that
+    the appellant's mother's claim to come from the  minority  Ashraf  clan
+    had been rejected by an Adjudicator in the course of her appeal.  Those
+    matters, it was submitted, were relevant  to  the  application  of  the
+    country guidance decision of AMM  and  others  (conflict;  humanitarian
+    crisis; returnees; FGM) Somalia CG [2011] UKUT 00445 (IAC).
+
+ 6. At [66] of the determination Judge Bennett had stated  that  he  viewed
+    the evidence of the witnesses about  their  circumstances  in  Somalia,
+    including their lack of family there, with the greatest circumspection,
+    and he had considerable reservations about the evidence of their belief
+    that the appellant had changed for the better.
+
+ 7. He concluded at [75] that the appellant speaks the language of  Somalia
+    and would be familiar with Somali culture from  his  parents.   It  was
+    submitted that the conclusion  at  [79]  that  there  were  exceptional
+    circumstances, particularly having regard to the  situation  in  Merka,
+    was a wrong approach.  The judge had in effect  undertaken  an  Article
+    15(c) analysis by the back door.
+
+ 8. In addition, it was submitted that Judge Bennett  had  failed  to  take
+    into account the amendments to the Nationality, Immigration and  Asylum
+    Act  2002  ("the  2002  Act")  brought  about  by  Section  19  of  the
+    Immigration Act 2014.  Although the judge heard the appeal on  23  July
+    2014, the appeal was not determined until 12 August 2014  and  by  then
+    the amendments to the 2002 Act had come into force.   Furthermore,  the
+    Immigration Rules were amended such that there would need to have  been
+    "very compelling circumstances"  over  and  above  those  described  in
+    paragraphs 399 and 399A  before  the  appeal  could  be  allowed.   The
+    amendments  to  the  Immigration  Rules  applied  from  the   date   of
+    implementation, no matter when the immigration decision was made  in  a
+    deportation case.
+
+ 9. In any event, the judge had to apply the country guidance  decision  of
+    AMM and in respect of which the  determination  betrays  a  fundamental
+    misunderstanding in terms of his having said that  that  decision  does
+    not say anything about other parts of the country.   AMM  dealt  mostly
+    with Mogadishu because that was the only point of return.   It  decided
+    that a return to Mogadishu would not involve a  breach  of  a  person's
+    Article 3 rights.  It said that there was a potential for Article 15(c)
+    harm for most people but not if a person had connections.  In this case
+    there were serious issues with the appellant's  credibility.   That  in
+    turn reflects on the issue of what connections the appellant  may  have
+    in Somalia.
+
+10. There was no analysis in the determination of what would happen if  the
+    appellant was returned to Mogadishu, rather than Merka.  There  was  no
+    assessment of the impact of the lies that the family had told in  other
+    respects. Furthermore,  there  was  no  consideration  of  whether  the
+    appellant could live in Mogadishu.
+
+11. Mr Adewoye rejected the suggestion that Judge Bennett should have taken
+    into account the amendments to  the  2002  Act  brought  about  by  the
+    Immigration Act 2014, and the  amendments  to  the  Immigration  Rules,
+    given that they were not in force at the time of  the  actual  hearing.
+    He relied on the decision in YM (Uganda) v Secretary of State  for  the
+    Home Department [2014] EWCA Civ 1292.  It was submitted that only if  I
+    were to find an error of law in the assessment of  Article  8  would  I
+    then have to apply what is now the current law under  Section  117C  of
+    the 2002 Act.
+
+12. Furthermore, it was submitted that even if Section 117C had applied  to
+    the circumstances of the appellant's appeal, he would have the  benefit
+    of the exceptions under Sections 117C(4)(b) and (c), that is  in  terms
+    of social and cultural integration  in  the  UK  and  very  significant
+    obstacles to integration into Somalia.  The judge had accepted that the
+    appellant has social and family ties to the  UK  and  that  there  were
+    significant difficulties for life for him in Somalia if  deported.   He
+    was aware of the need to establish exceptional circumstances  in  terms
+    of undue hardship as indicated in the various authorities.
+
+13. I was referred to various paragraphs of  the  Country  Information  and
+    Guidance Report by the Home Office in relation to Somalia, the date  of
+    which appears to be 27 February 2014 (page 12).  Reference was made  to
+    the skeleton argument that was before the First-tier Tribunal.
+
+    My assessment
+
+14. It is submitted on behalf of the respondent that the  First-tier  Judge
+    should have taken into account the coming into force of Section  19  of
+    the Immigration Act 2014 which introduces amendments to  the  2002  Act
+    concerning deportation of foreign criminals.  It is also submitted that
+    the First-tier Judge ought also to  have  taken  into  account  in  his
+    decision the amendments to the Immigration Rules which took effect from
+    28 July 2014.  Whilst it is accepted that neither the statutory changes
+    nor the changes to the Immigration Rules were in force at the  time  of
+    the hearing before the First-tier Judge (23 July 2014), by the time  of
+    promulgation on 12 August 2014, all those  provisions  were  in  force.
+    Thus,  the  judge's  decision  was  required  to  apply  the   relevant
+    provisions of the amended 2002 Act and  associated  amendments  to  the
+    Immigration Rules.
+
+15. On behalf of the appellant it is submitted that given that the  changes
+    were not in force at the  time  of  the  hearing,  the  judge  was  not
+    required to, and indeed ought not to have, taken any of  those  changes
+    into account.  It was  submitted  that  the  decision  in  YM  (Uganda)
+    supported the appellant's position on this issue.   Mr  Jarvis  on  the
+    other hand, contended that in fact YM (Uganda) established the opposite
+    of what was contended for on behalf of the appellant.
+
+16. Mr Adewoye relied on [12] of YM (Uganda).   In  that  paragraph  it  is
+    noted that the relevant parts of the Immigration Act 2014, amending the
+    2002 Act, came into force on 28 July  2014,  that  is  after  the  oral
+    argument had taken place in the appeal before the Court of  Appeal  and
+    whilst the judgment  was  in  preparation.   However,  that  particular
+    paragraph says nothing about whether the court was obliged to take  the
+    new provisions into account in its judgment.   At  [25]  and  [26]  the
+    arguments on behalf of the parties before the court  are  set  out,  in
+    terms of whether the Upper Tribunal had been required in that  case  to
+    make its decision in terms of the law  as  it  was  before  it,  or  as
+    subsequently  enacted.   The  Secretary  of  State  agreed   with   the
+    proposition that the Court of Appeal had to consider the law as it  was
+    when the Upper Tribunal "made its  decision"  and  the  court  was  not
+    therefore required to consider the new provisions in the 2002 Act  when
+    deciding whether there had been an error of law in the decision of  the
+    Upper Tribunal.  At [36] the Court of Appeal concluded  that  its  task
+    was to consider the law  as  it  applied  at  the  time  of  the  Upper
+    Tribunal's decision and not to consider the law as it had  subsequently
+    changed.  Thus, the Court decided that the amendments to the  2002  Act
+    and to the Immigration Rules were irrelevant to the  task  of  deciding
+    whether the Upper Tribunal had made an error of law.
+
+17. Although the Court of Appeal was not concerned  with  the  question  of
+    whether the Upper Tribunal should have taken into  account  changes  in
+    the law post-hearing but prior to promulgation,  the  Court  of  Appeal
+    does use the word "the decision", rather than hearing, as in  the  date
+    of the decision by the Upper Tribunal rather than the date of  hearing.
+    In any event, it does seem to me to  be  an  untenable  proposition  to
+    suggest that if statutory changes take  effect  on  a  date  after  the
+    hearing but prior to promulgation, a judge  is  not  required  to  take
+    those changes into account.  Mr Adewoye in  effect  suggested  that  it
+    would have been unfair for the judge to have taken into  account  those
+    changes to the legal framework post-hearing.  However,  it  would  have
+    been open to the judge to have  recalled  the  parties  for  a  further
+    hearing or to have invited written submissions on  the  effect  of  the
+    legislative changes.  Mr Adewoye suggested that there had  to  be  some
+    mandate in the Procedure Rules for the  judge  to  have  taken  such  a
+    course.  Even if there is any force in that proposition, which I do not
+    believe that there is, it is easily  answered  with  reference  to  the
+    Asylum and Immigration Tribunal  (Procedure)  Rules  2005  as  then  in
+    force.  The judge could have reconvened the hearing or invited  further
+    submissions with reference,  if  necessary,  to  rule  43  (conduct  of
+    appeals and applications), and rule 45 (directions).
+
+18. I am satisfied that it was an error of law for Judge  Bennett  to  have
+    determined the appeal without reference to the changes in the 2002  Act
+    as brought about by the Immigration Act 2014, and the  changes  to  the
+    Immigration Rules.  So far as the Immigration Rules are concerned,  the
+    position is not so straightforward but after analysis, I have  come  to
+    the view that he was similarly required to take them into account.
+
+19. The changes to the Immigration Rules took effect on 28 July 2014 so far
+    as concerns, amongst other  matters,  Article  8  claims  from  foreign
+    criminals.  These relate to  paragraphs  A279,  398,  399  and  399A-C.
+    Although not canvassed in argument before me, I have considered whether
+    those changes, taking effect on 28 July 2014, apply to decisions  taken
+    by the Secretary of State before that date.  In this case, the decision
+    to make a deportation order was made on 8 July 2013.  The  changes  are
+    brought about by HC 532, and  as  concerns  foreign  criminals  are  in
+    paragraphs  13-30   of   the   Statement   of   Changes.    Under   the
+    "Implementation" section it states as follows:
+
+         "The change set out in paragraph 13 of this statement takes  effect
+         on 28 July 2014.
+
+         The changes set out in paragraphs 14 to 30 of this  statement  take
+         effect on 28 July 2014 and apply to all ECHR Article 8 claims  from
+         foreign criminals which are decided on or after that date."
+
+20. Looking at other paragraphs in the Implementation section, it could  be
+    said that the changes only relate to decisions made by the Secretary of
+    State, rather than courts or Tribunals because courts or  Tribunals  do
+    not, in one sense, decide claims but appeals, and other  provisions  in
+    the Implementation section consider applications made  before  28  July
+    2014  but  not  decided  by  that  date.   Similarly,   some   of   the
+    implementation  provisions  relate  to  applications  made  before  the
+    amendments to the rules on other dates came into force.
+
+21. However, I am satisfied that the changes to the  Immigration  Rules  as
+    they apply to foreign criminals did come into force  on  28  July  2014
+    whenever the decision was made by the Secretary of State.  I take  this
+    view for three reasons.  Firstly, A362 as amended states that:
+
+         "Where Article 8 is raised in the  context  of  deportation...  the
+         claim under Article 8 will only succeed where the  requirements  of
+         these rules as at 28 July 2014 are  met,  regardless  of  when  the
+         notice  of  intention  to  deport  or  the  deportation  order,  as
+         appropriate  was served." (my emphasis).
+
+22. Secondly, the explanatory memorandum to HC 532 at 3.4 and  3.5  refers,
+    in essence,  to the need to coincide  and  align  the  changes  to  the
+    Immigration Rules with the corresponding changes to the 2002 Act so far
+    as concerns foreign criminals.
+
+23. Thirdly, the court in YM (Uganda), at [39] said that:
+
+         "In the absence of any statement to the contrary, the most  natural
+         reading of the Rules is that they apply to decisions taken  by  the
+         SSHD until such time as she promulgates new rules, after which  she
+         will decide according to  the  new  rules.   The  same  applies  to
+         decisions by Tribunals and the courts...".
+
+24. Having concluded that the First-tier Judge erred in law in his  failure
+    to apply the amendments  to  the  2002  Act  and  the  changes  to  the
+    Immigration Rules, the next question to be decided is whether the error
+    of law is such as to require the decision to be set aside.  Mr  Adewoye
+    submitted that in any event, even with reference to the new  rules  and
+    the new statutory regime, the appellant's appeal would have  succeeded.
+    However, under Section 117C(4)(a) the appellant would have had to  have
+    established that he had been lawfully resident in the UK  for  most  of
+    his life.  He arrived when he was aged 10, going on 11, and at the date
+    of the hearing before the First-tier Tribunal he was aged 18.   At  the
+    date the decision was promulgated he was aged 19.  On  either  view  he
+    had not been lawfully resident in the UK for most of  his  life.   Even
+    assuming under Section 117C(4)(b) it could be said that he was socially
+    and culturally integrated in the United Kingdom by reason of the length
+    of time that he had been here, he would nevertheless have to  establish
+    that there would be "very significant  obstacles"  to  his  integration
+    into Somalia under sub-paragraph (4)(c).  I do  not  read  the  judge's
+    conclusions as meaning that on the facts  that  particular  test  would
+    have been met.
+
+25. A further issue arises in terms of [71] of the determination. There  it
+    is stated that the appellant does not face automatic deportation  under
+    the UK Borders Act 2007 "which means that Parliament has not decided by
+    statute that the public interest requires his  deportation".   However,
+    that is precisely what Section 117C(1) of the 2002 Act does  say:  "The
+    deportation of foreign criminals is in the public interest."
+
+26. Similarly, the same can be found in paragraph 398(c) of the Immigration
+    Rules, namely that the deportation of a person from the UK is conducive
+    to the public good "and in the public interest" because in the view  of
+    the Secretary of State their offending has caused serious harm or  they
+    are a persistent offender who shows a particular disregard for the law.
+     The  Secretary  of  State  did  conclude  that  the  appellant  was  a
+    persistent offender.  The provisions of the Immigration  Rules  in  398
+    reflect those in the 2014 Act. I do not consider that it could be  said
+    that the outcome of the appeal would have been the same notwithstanding
+    the errors of law.
+
+27. These are sufficient reasons to conclude that the decision of the First-
+    tier Tribunal should be set aside.  However, I am also  satisfied  that
+    there is merit in what is said on behalf of the respondent in terms  of
+    the judge's consideration of the then country guidance in  AMM.   Judge
+    Bennett concluded that the appellant's return to Merka,  having  regard
+    to the situation there, the appellant's age and lack of  experience  in
+    living there as an adult, outweighs the public interest in deportation.
+     As Mr Jarvis submitted however, that conclusion  fails  to  take  into
+    account that the appellant would be returned in the first  instance  to
+    Mogadishu.  It is sufficient to refer to the  headnote  of  AMM,  which
+    contains the guidance reflected  in  the  body  of  the  decision.   In
+    essence, AMM concluded that with respect to Mogadishu there remained in
+    general a real risk of Article 15(c) harm for  the  majority  of  those
+    returning there after a significant period of  time  abroad.   However,
+    that risk did not arise in the case of a person connected with powerful
+    actors or belonging to a  category  of  middle  class  or  professional
+    persons who can live to a reasonable standard  in  circumstances  where
+    the Article 15(c) risk does not apply. The Tribunal  did  say  however,
+    that the significance of that category, was not to be overstated and is
+    not automatically to be assumed to exist merely because  a  person  has
+    told lies.
+
+28. Pausing there, there is no assessment by the First-tier  Judge  of  the
+    significance of the lies that had been told by  or  on  behalf  of  the
+    appellant in connection with this appeal, in terms of events in Somalia
+    and the family's clan status.  In addition, it is to be remembered that
+    at [66] Judge  Bennett  said  that  he  viewed  the  remainder  of  the
+    witnesses' evidence about their  circumstances  in  Somalia,  including
+    their lack of family there, with the  greatest  circumspection  because
+    they had shown themselves to be untruthful in the core aspect of  their
+    claim and willing to say whatever they think will further their  cause.
+    Those are mattes that needed to be considered in  the  context  of  the
+    country guidance in AMM so far as it relates to Mogadishu.
+
+29. AMM also concluded that the armed conflict in Mogadishu  at  that  time
+    did not pose a real risk of Article 3 harm in respect of any person  in
+    that city, regardless of circumstances.  It did conclude  that  such  a
+    person may face a real risk of Article 3 harm by reason of his  or  her
+    vulnerability.  In this connection the  appellant's  age  and  lack  of
+    experience of Somalia would  have  been  significant.   However,  those
+    factors were not considered with  reference  to  Mogadishu  itself,  as
+    opposed to Merka.
+
+30. Thus, in terms of the judge's assessment of the then country  guidance,
+    I am also satisfied that he erred in law.  That error of law is also in
+    its own right such as to require the decision to be set aside.
+
+31. It is not appropriate for this appeal to be remitted to the  First-tier
+    Tribunal and the decision will be re-made in the Upper Tribunal.  It is
+    not anticipated that there will be the need for any further evidence to
+    be given, but I do consider that a  further  hearing  is  necessary  to
+    allow the parties to make submissions in terms of the re-making.
+
+32. The findings of fact made by the First-tier Tribunal, except in so  far
+    as any of those findings are infected by  the  error  of  law,  are  to
+    stand.
+
+                                 DIRECTIONS
+
+    1.     At the next hearing the parties must be in a  position  to  make
+         submissions as to what findings of fact are to be preserved, and in
+         relation to the application of the decision in MOJ & Ors (Return to
+         Mogadishu) Somalia CG [2014] UKUT 00442 (IAC).
+
+Upper Tribunal Judge Kopieczek    4/03/15
+Appendix 2:
+
+MOJ & Ors (Return to Mogadishu) (Rev  1)  (CG)  [2014]  UKUT  442  (IAC)  (3
+October 2014)
+
+Headnote:
+
+"LEGAL GUIDANCE
+
+(i)   The operation of the Upper Tribunal  Immigration  and  Asylum  Chamber
+      Guidance Note no.  2  of  2011,  "Reporting  Decisions  of  the  Upper
+      Tribunal Immigration  and  Asylum  Chamber"  and,  particularly,  [11]
+      thereof, does  not  render  the  process  of  composition  of  country
+      guidance decisions procedurally unfair.
+
+(ii)  As a  general  principle,  where  attendance  of  an  appellant  is  a
+      prerequisite to the vindication  of  the  person's  right  to  a  fair
+      hearing, the appellant must be present.
+
+COUNTRY GUIDANCE
+
+(i)   The country guidance issues addressed in this  determination  are  not
+      identical to those engaged with by the  Tribunal  in  AMM  and  others
+      (conflict; humanitarian crisis; returnees; FGM) Somalia CG [2011] UKUT
+      445 (IAC). Therefore, where country guidance has  been  given  by  the
+      Tribunal  in  AMM  in  respect  of  issues  not  addressed   in   this
+      determination then the guidance provided by AMM shall continue to have
+      effect.
+
+(ii)   Generally,  a  person  who  is  "an  ordinary  civilian"  (i.e.   not
+      associated with the security  forces;  any  aspect  of  government  or
+      official administration or any NGO or international  organisation)  on
+      returning to Mogadishu after a period of absence  will  face  no  real
+      risk of persecution or risk of harm  such  as  to  require  protection
+      under Article 3 of the ECHR or  Article  15(c)  of  the  Qualification
+      Directive. In particular, he will  not  be  at  real  risk  simply  on
+      account of having lived in a European location for a period of time of
+      being viewed with suspicion either by the authorities  as  a  possible
+      supporter of Al Shabaab or by Al Shabaab as  an  apostate  or  someone
+      whose Islamic integrity has been compromised by living  in  a  Western
+      country.
+
+(iii) There has been durable  change  in  the  sense  that  the  Al  Shabaab
+      withdrawal from Mogadishu is complete and there is no real prospect of
+      a re-established presence within the city. That was not  the  case  at
+      the time of the country guidance given by the Tribunal in AMM.
+
+(iv)  The level of civilian casualties,  excluding  non-military  casualties
+      that clearly fall within Al Shabaab target groups such as politicians,
+      police officers, government officials and those associated  with  NGOs
+      and international organisations, cannot be  precisely  established  by
+      the statistical evidence which is incomplete and unreliable.  However,
+      it is established by the evidence considered as a whole that there has
+      been a reduction in the  level  of  civilian  casualties  since  2011,
+      largely due to the cessation of  confrontational  warfare  within  the
+      city and Al Shabaab's resort  to  asymmetrical  warfare  on  carefully
+      selected targets.  The present level of casualties does not amount  to
+      a sufficient risk to  ordinary  civilians  such  as  to  represent  an
+      Article 15(c) risk.
+
+(v)   It is open to an ordinary  citizen  of  Mogadishu  to  reduce  further
+      still his personal exposure to the  risk  of  "collateral  damage"  in
+      being caught up in an Al Shabaab attack that was not targeted  at  him
+      by avoiding areas and establishments that are clearly identifiable  as
+      likely Al Shabaab targets, and it is not unreasonable for  him  to  do
+      so.
+
+(vi)  There is no  real  risk  of  forced  recruitment  to  Al  Shabaab  for
+      civilian citizens of Mogadishu, including for  recent  returnees  from
+      the West.
+
+(vii) A person returning to Mogadishu after a period of  absence  will  look
+      to his nuclear  family,  if  he  has  one  living  in  the  city,  for
+      assistance in  re-establishing  himself  and  securing  a  livelihood.
+      Although a returnee may also seek assistance from his clan members who
+      are not close relatives, such help is only likely  to  be  forthcoming
+      for majority clan members, as minority clans may have little to offer.
+
+(viii)      The significance of clan membership in  Mogadishu  has  changed.
+      Clans now provide, potentially, social support mechanisms  and  assist
+      with access to livelihoods, performing less of a  protection  function
+      than previously. There are no clan  militias  in  Mogadishu,  no  clan
+      violence,  and  no  clan  based  discriminatory  treatment,  even  for
+      minority clan members.
+
+(ix)  If it is accepted that a person facing a return to Mogadishu  after  a
+      period of absence has no nuclear family or close relatives in the city
+      to assist him in re-establishing himself on return, there will need to
+      be  a  careful  assessment  of  all  of   the   circumstances.   These
+      considerations will include, but are not limited to:
+
+           circumstances in Mogadishu before departure;
+
+           length of absence from Mogadishu;
+
+           family or clan associations to call upon in Mogadishu;
+
+           access to financial resources;
+
+           prospects of securing a livelihood, whether that  be  employment
+           or self employment;
+
+           availability of remittances from abroad;
+
+           means of support during the time spent in the United Kingdom;
+
+           why his ability to fund  the  journey  to  the  West  no  longer
+           enables an appellant to secure financial support on return.
+
+(x)   Put another way, it will be for the person facing  return  to  explain
+      why he would not be able to access  the  economic  opportunities  that
+      have been produced by  the  economic  boom,  especially  as  there  is
+      evidence to the effect that returnees are taking jobs at  the  expense
+      of those who have never been away.
+
+(xi)  It will, therefore, only be those with no clan or family  support  who
+      will not be in receipt of remittances from abroad and who have no real
+      prospect of securing access to a livelihood on return  who  will  face
+      the prospect of living in circumstances falling below  that  which  is
+      acceptable in humanitarian protection terms.
+
+(xii) The evidence indicates  clearly  that  it  is  not  simply  those  who
+      originate from Mogadishu that may now generally return to live in  the
+      city without being subjected to an Article 15(c) risk or facing a real
+      risk of destitution. On the other hand, relocation in Mogadishu for  a
+      person of a minority clan  with no former links to the city, no access
+      to funds and no other form  of  clan,  family  or  social  support  is
+      unlikely to be realistic as, in the absence of means  to  establish  a
+      home and some form of ongoing financial support there will be  a  real
+      risk of having no alternative but to live in  makeshift  accommodation
+      within an IDP camp where there is a real possibility of having to live
+      in conditions that will fall below acceptable humanitarian standards."

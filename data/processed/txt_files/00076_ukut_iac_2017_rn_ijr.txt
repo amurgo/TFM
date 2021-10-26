@@ -1,0 +1,612 @@
+
+
+
+
+R (on the application of RN v Secretary of State  for  the  Home  Department
+(paragraph 245AAA) [2017] UKUT 00076(IAC)
+
+
+                            IN THE UPPER TRIBUNAL
+
+
+                                                                 Field House
+                                                                      London
+
+
+                                                 Heard on:  11 November 2016
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE ALLEN
+
+                                   Between
+
+                                  THE QUEEN
+                         (on the application of RN)
+                                                                   Applicant
+                                     And
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+                               - - - - - - - -
+
+Mr T Buley, instructed by Spring Solicitors appeared on behalf of the
+Applicant.
+
+Mr A Wagner, instructed by the Government Legal Department appeared on
+behalf of the Respondent.
+
+(i)  On a proper construction  of  paragraph  245AAA(a)(i)  of  HC  395,  an
+    absence from the United Kingdom for a period of more than 180  days  in
+    one of the relevant 12 month periods will entail a failure  to  satisfy
+    the requirements of paragraph 245CD.
+
+(ii) The term 'residence'  in  paragraph  245AAA(a)  is  to  be  equated  to
+    presence.
+
+                          - - - - - - - - - - - - -
+
+                       APPLICATION FOR JUDICIAL REVIEW
+
+                                  JUDGMENT
+
+                          - - - - - - - - - - - - -
+
+JUDGE ALLEN:   I  have  made  an  anonymity  direction  in  respect  of  the
+applicant.  Unless and until a Tribunal  or  court  directs  otherwise,  the
+applicant is granted  anonymity.   No  report  of  these  proceedings  shall
+directly or indirectly identify her or  any  member  of  her  family.   This
+direction applies to both the applicant  and  the  respondent.   Failure  to
+comply with this direction could lead to contempt of court proceedings.
+
+1.   This application for judicial review is brought with the permission  of
+    McCloskey J and May J following an oral permission hearing on  21  July
+    2016.  In her application the applicant challenges  the  lawfulness  of
+    the respondent's decision of 13 January  2016  refusing  to  grant  her
+    indefinite leave to remain, and the decision of 15 February 2016  which
+    is an administrative review of the first decision.   There  is  also  a
+    supplementary decision of 20 April 2016 which I shall have  to  address
+    separately.
+
+2.   There are three grounds of challenge  in  this  case.   The  ground  to
+    which I will refer as  it  has  been  by  the  representatives  as  the
+    construction ground  was  raised  as  a  consequence  of  a  successful
+    application to amend the grounds to incorporate that point.  Permission
+    to amend the grounds to include that matter was granted by  Mr  Justice
+    McCloskey and Mrs Justice Cheema-Grubb on 14 October 2016.   I  mention
+    that because as a matter  of  convenience  the  original  two  grounds,
+    grounds 1 and 2, have continued to be referred to under  those  numbers
+    and I shall continue to refer to them in that way although  technically
+    they are now grounds 2 and 3.
+
+3.   The background history to this case is that the applicant  was  granted
+    leave to enter on 12 January 2011 and duly entered the  United  Kingdom
+    on 17 February of that year.  Her leave was originally for  two  years,
+    to 12 January 2013 and was later extended to 12 January 2016.   At  the
+    time  of  her  entry  and  up  until  13  December  2012  the  relevant
+    Immigration Rule governing the acquisition of leave to  remain  in  the
+    United Kingdom after five years' lawful residence was paragraph  245CD.
+    This Rule required a person to have spent a continuous period  of  five
+    years lawfully in the United Kingdom and did not  specify  any  maximum
+    period of absence.  The relevant policy at the time made it clear  that
+    periods of absence abroad, including for holidays and  business  trips,
+    would not break continuity: "provided that the  applicant  has  clearly
+    continued to be based [in the United Kingdom]".
+
+4.   A new Rule, paragraph 245AAA, was  inserted  into  the  Rules  from  13
+    December 2012.  The relevant provisions of that Rule state as follows:
+
+         "245AAA General requirements for indefinite leave to remain:
+
+         For the purposes of references in this  Part  to  requirements  for
+         indefinite leave to remain, except for those in  paragraphs  245BF,
+         245DF and 245EF:
+
+         (a)  'continuous period of five years lawfully in  the  UK'  means,
+             [subject to paragraphs 245CE, 245GF and  245HF]  residence  in
+             the United Kingdom for an unbroken period  with  valid  leave,
+             and for these purposes a period shall  not  be  considered  to
+             have been broken where:
+
+             (i)  the applicant has been absent from the UK for a period of
+                  180 days or less in any of  the  five  consecutive  twelve
+                  month periods preceding the date of  the  application  for
+                  leave to remain;
+
+            ...".
+
+5.   On  9  April  2015  a  new  policy  came  into  being  which  indicated
+    circumstances in which discretion outside the Rules would be  exercised
+    when continuous leave is broken in the case of "serious  or  compelling
+    circumstances".  It will be necessary to say a little  more  about  the
+    policy in due course.
+
+6.   It is common ground that as regards the five one year periods that  are
+    relevant for the purposes of this case, during the first  period,  from
+    31 December 2010 to 30 December 2011, the applicant was absent from the
+    United Kingdom for a total of 215 days.  During the second period, from
+    31 December 2011 to 30 December 2012, she was absent  from  the  United
+    Kingdom for a total of 284 days.  I need say no more  about  the  other
+    three periods since none of them exceeded the 180 day  period  referred
+    to at paragraph 245AAA(a)(i).
+
+7.   The applicant applied for indefinite leave to  remain  in  the  Tier  1
+    (General) Migrant category on 30 December 2015.   She  made  clear  the
+    periods of absence that I have set out above as well as the periods  of
+    absence for the other three periods.  With  regard  to  the  period  of
+    absence from 31 December 2010 to 30 December 2011, she said  that  this
+    was because of,  first  legitimate  needs  to  travel  abroad  for  the
+    purposes of her business exporting goods from  the  United  Kingdom  to
+    Nigeria and relocating and reordering the focus of  her  business,  and
+    secondly attending to her children's schooling at  boarding  school  in
+    Nigeria.  With regard to the second period she said that this arose  at
+    least in  part  from  the  circumstances  of  her  mother  having  been
+    kidnapped in Nigeria on 4 March 2012 as a result of which  she  had  to
+    spend additional time in Nigeria, inter alia providing support for  her
+    father who was frail.  She provided a  police  report  in  relation  to
+    this.  She also made it clear that some of  the  absences  during  that
+    period were due to business.
+
+8.   The respondent refused her application on the basis  that  as  she  had
+    been absent from the United Kingdom for over 180 days in two out of the
+    five years it was considered that she did not meet the requirements  of
+    paragraph 245CD with reference to  paragraph  245AAA  as  she  had  not
+    completed a continuous period of five  years  lawfully  in  the  United
+    Kingdom.  She went on to say that due to the total number and nature of
+    the absences which were mainly for work, discretion could not be shown.
+     That latter point was by reference to  the  provision  in  the  policy
+    which tells the case worker  about  the  exceptional  circumstances  in
+    which they can grant an applicant indefinite leave  to  remain  outside
+    the Rules when their continuous leave is broken.  It is  said  that  in
+    such circumstances the grant of indefinite leave to remain outside  the
+    Rules may be considered if the applicant provides evidence to show  the
+    excessive absence was due to serious or compelling reasons.  It is said
+    that the applicant must provide evidence in the form of a letter  which
+    sets out full details of  the  compelling  reason  in  the  absence  of
+    supporting documents.  The guidance goes on  to  say  that  serious  or
+    compelling reasons will vary but can include a serious illness  of  the
+    applicant or a close relative, a  conflict,  a  natural  disaster,  for
+    example volcanic eruption or tsunami.  The guidance then goes on to say
+    that absence in more than 180 days  in  any  twelve  month  period  for
+    employment or economic activity reasons are not considered exceptional.
+     That latter point seems to tie in with the reason for  not  exercising
+    discretion as set out in the decision letter.   There  was  however  no
+    reference to the issue of the applicant's mother's kidnapping.
+
+9.    This  was  however  addressed  in  the  administrative  review   which
+    maintained the earlier decision.  As regards the  first  period  it  is
+    said that it had been claimed that the trips  she  carried  out  during
+    that period outside the United Kingdom were of compelling necessity  as
+    they brought about the financial support required for her  upkeep.   It
+    was said that this reason had been considered and it was not thought to
+    be compelling enough to overturn the decision.  As regards the issue of
+    her mother being the victim of a kidnap in Nigeria and  the  fact  that
+    she as a consequence had to make frequent travel to Nigeria,  this  was
+    considered and it was said that from her application she  had  provided
+    no direct proof of this kidnap and as a result discretion could not  be
+    exercised.
+
+The Applicant's Submissions
+
+The Construction Ground
+
+10.  In  essence  Mr  Buley's  argument  under  this  heading  is  that  the
+    respondent misconstrued paragraph 245AAA(a) and as  a  consequence  the
+    decisions should be quashed.  He referred to a decision  of  the  Upper
+    Tribunal in BD [2010] UKUT 418 (IAC) where the Tribunal was required to
+    construe the phrase "spent a continuous period of five  years  lawfully
+    in the United Kingdom", which was required  by  paragraph  134  of  the
+    Immigration Rules in order to obtain indefinite leave to  remain  as  a
+    work permit holder.  The Tribunal noted that there was no  guidance  on
+    the proper interpretation of paragraph 134(i).  The Tribunal  concluded
+    that the paragraph was not meant to be taken literally since if it were
+    so taken anyone who wanted to qualify for indefinite  leave  to  remain
+    after five years would be unable to take even a day trip to  France  or
+    visit his own country on family matters.   As  a  literal  construction
+    made no  sense,  the  Rule  had  to  be  construed  sensibly.   It  was
+    considered that it clearly imported a discretion and of relevance would
+    be the reason for the absence and the strength of the person's ties  to
+    the United Kingdom as shown in other ways.  On the particular facts  of
+    the case the appellant's absences had  been  required  of  him  by  his
+    employer, a British company, and he had at all times retained his  base
+    in the United Kingdom where he  was  domiciled  for  tax  purposes  and
+    appeared to have established a domicile of choice for  other  purposes.
+    It was considered that he had clearly made this country his  home.   In
+    those  circumstances  it  was  concluded  that  he  did  meet  all  the
+    requirements of paragraph 134.
+
+11.  Mr Buley went on to argue that where paragraph  245AAA(a)  referred  to
+    "residence" in the United Kingdom it did not say that in fact it  meant
+    "presence".  "Residence" was an ordinary word.  One was resident  in  a
+    place if it was one's home.  Mr Buley referred to the decision  of  the
+    House of Lords in R v London Borough of Barnet ex parte Shah  [1993]  2
+    AC 309.  This case  was  concerned  with  the  meaning  of  the  phrase
+    "ordinary  residence"  in  the  context  of  eligibility  for  a  local
+    authority educational award.  Lord Scarman made the point at  page  340
+    that ordinary residence is not a  term  of  art  in  English  law.   He
+    referred to different contexts  in  which  it  was  employed  including
+    income  tax,  family  law,  and  various  twentieth  century   statutes
+    including the one with which that appeal was  concerned.   In  two  tax
+    cases in 1928  the  House  of  Lords  had  considered  that  the  words
+    "ordinary residence" involved seeking the natural ordinary  meaning  of
+    the words.  Lord Scarman agreed with what had been said by Lord Denning
+    MR in the Court of Appeal that the natural and ordinary meaning of  the
+    words "ordinary residence" meant "that the person  must  be  habitually
+    and normally resident here, apart from temporary or occasional absences
+    of long or short duration".  He also said, at page 343:
+
+         "Unless, therefore, it can be shown that the statutory framework or
+         the legal context in which the words are used requires a  different
+         meaning, I unhesitatingly subscribe to the  view  that  "ordinarily
+         resident" refers to a  man's  abode  in  the  particular  place  or
+         country which he has adopted voluntarily and for  settled  purposes
+         as part of the regular order  of  his  life  for  the  time  being,
+         whether of short or long duration."
+
+    Mr Buley accepted of course that the  instant  case  was  not  strictly
+    concerned with "ordinary" residence, but he argued that the presence of
+    that additional qualification in that case did not alter the  relevance
+    of the approach adopted by the House of Lords in Shah  to  the  present
+    case.  He argued that the literal and legal meaning  of  residence  was
+    not such as to require it to be equated with continual presence.
+
+ 12. Mr Buley argued further that the Rule, though it  said  that  a  period
+    should not be considered to have been broken where  the  applicant  had
+    been absent from the United Kingdom for a period of 180 days  or  less,
+    did not mean and did not say, that a period would be considered to have
+    been broken where there had been an absence for more than 180 days.  To
+    interpret it in that way would cut across the definition  of  residence
+    being defined as Mr Buley had  argued  it  should  be.   There  was  no
+    frustration of the purposes of the Rules.  An example might be taken of
+    a pilot who would be out of the country regularly through work  and  it
+    would be very odd if such a  person  would  automatically  be  defeated
+    under the Rules.  It could not be said that a period of absence of over
+    180 days made compliance with the Rule  impossible.   That  could  have
+    been done if drafted clearly enough but that was not the case.
+
+13.  Mr Buley accepted that it  was  difficult  to  see  how  a  person  who
+    through work was out of the country for the  entire  five  year  period
+    could satisfy the requirements of the Rule despite being based  in  the
+    United Kingdom for employment and tax and domicile purposes.  It was  a
+    matter of an exercise of judgment as to where the line  was  drawn,  as
+    could be seen from the decision in BD.  The question  was  whether  the
+    person maintained their home in the United Kingdom.  A person would not
+    be ordinarily resident just because they had leave to  remain  and  had
+    their home in the United Kingdom.  They had to have a base and  use  it
+    as their home.  It was the kind of exercise of judgment the authorities
+    had to make all the time.  The fact that the current guidance  differed
+    from what was argued by Mr Buley was by the way.  The Rule could not be
+    construed by reference to the guidance.
+
+14.  Mr Buley argued that if his view on construction was correct  then  the
+    respondent  had  erred  in  law  since  she  had  not  considered   the
+    circumstances of the case in the way which had been done by  the  Upper
+    Tribunal in BD, which would entail taking a view on the evidence  as  a
+    whole as to whether the applicant was resident or not.   That  had  not
+    been done and hence there was an error of law.  All the respondent  had
+    done was to take the fact that she was absent for more  than  180  days
+    during each of the two first periods as being decisive.
+
+Ground 1
+
+15.  Mr Buley argued that the respondent erred by  failing  to  treat  as  a
+    relevant circumstance for the entirety of the first and second periods,
+    when the applicant was out of  the  United  Kingdom,  the  respondent's
+    published  policy  which  indicated  that  certain  kinds  of  absence,
+    including legitimate business absence, would not be treated as breaking
+    continuity of residence.  He argued that this failed to give effect  to
+    the applicant's legitimate expectation that the policy  then  in  force
+    would apply to her case and failed to  recognise  that  the  compelling
+    circumstances in such a case are not found merely in the fact that  the
+    absences were pursuant to legitimate business  activity.   This  ground
+    arose  in  respect  of  the  Secretary  of  State's  exercise  of   her
+    discretion.   He  argued  that  the  policy  could   not   fetter   the
+    respondent's discretion so as to consider only  compassionate  matters.
+    She could therefore not exclude business absences.  The applicant would
+    not have known during those first two years that going  a  little  over
+    the 180 day  period  would  lead  to  her  failure  in  her  subsequent
+    application.  Compassionate elements were not just a matter of business
+    absences but also arose since at the time  when  she  thought  she  was
+    working towards success under the five year Rule, the Rule had changed.
+
+
+
+Ground 2
+
+16.  Here it was  argued  on  behalf  of  the  applicant  that  the  refusal
+    decision  failed  to  address  a  relevant  issue  altogether  and  was
+    therefore flawed.  The second  letter  of  the  administrative  refusal
+    dealt with the kidnap only on the basis that the applicant  had  failed
+    to supply "direct proof".  On the applicant's behalf it was argued that
+    this was wrong in that she had supplied direct proof both in  the  form
+    of her own evidence and by providing a  police  report  concerning  the
+    incident.  The fact that  the  report  did  no  more  than  record  the
+    reporting of the incident  did  not  detract  from  the  fact  that  it
+    amounted to direct proof.  In addition the evidence provided  had  been
+    done in precisely the form  required  by  the  current  guidance  which
+    required that evidence must be provided in the form of a letter setting
+    out  full  details  of  the  compelling  reason  for  the  absence  and
+    supporting documents.  It was  appropriate  to  require  no  more  than
+    evidence which should be or was capable  of  being  believed.   In  the
+    alternative  the  respondent  should  have  given  the  applicant   the
+    opportunity to provide additional documents  insofar  as  the  original
+    ones were considered to be inadequate,  in  line  with  the  evidential
+    flexibility policy that had been extant at the time.
+
+The Respondent's Submissions
+
+17.   In  his  submissions  Mr  Wagner  argued  that  with  regard  to   the
+    construction ground there was a clear  and  ordinary  meaning  apparent
+    from the face of the Rules.  There was no need to make an equation with
+    the term "ordinary residence" but it was simply necessary to  read  the
+    Rules.  The decision in BD showed what the old Rules said and how  they
+    had been dealt with in  that  situation.   There  was  no  guidance  or
+    further definition in that case as opposed to  the  instant  case.   As
+    there was no guidance concerning the meaning of the Rule  the  Tribunal
+    had  to  make  its  own  interpretation  which  it  did  so,  perfectly
+    reasonably, at paragraph 10.  Mr Wagner would have had no  argument  if
+    the Rule had not been changed but the scheme of the Rule  had  changed.
+    There had been no definition before but there was now a  definition  at
+    paragraph 245CD(c)  and  paragraph  245AAA.   The  latter  required  an
+    unbroken period with valid leave.  It was sensible for residence to  be
+    given its ordinary meaning.  The provision of an unbroken  period  with
+    valid leave was not in the original Rule but it  was  clear,  and  then
+    there was a definition of what was meant by  "broken"  and  "unbroken".
+    If the Rule had stopped  there  then  it  would  not  necessarily  take
+    matters beyond what was decided in BD, but it went  on  to  provide  at
+    subparagraph (a)(i) the provision about when a  period  should  not  be
+    considered to have been broken, where the  applicant  had  been  absent
+    from the United Kingdom for a period of 180 days or less in any of  the
+    five consecutive twelve  month  periods.   This  was  a  very  specific
+    provision, and was to do with presence.  For all the period  to  remain
+    unbroken a person could not have been absent from  the  United  Kingdom
+    for more than 180 days.  This tied that definition very specifically to
+    a person's presence in the United  Kingdom  and  a  cut-off  point  was
+    provided.  180 days was  the  critical  cut-off.   If  the  period  was
+    greater than that then the person did not succeed.
+
+18.  Mr Wagner argued that Mr  Buley's  attempt  to  define  the  term  went
+    against the ordinary language.  It was a strained interpretation to say
+    that if a person were absent for 180 days or less then the period would
+    not have been broken whereas if it was more than 180 days then all  the
+    factors set out in BD would have to be considered.   This  imported  an
+    entirely different way of looking at the question of an unbroken period
+    of residence as meaning there was no mention of that  anywhere  in  the
+    scheme.  If that had been Parliament's intention it would have said so.
+     It was very specific as to what  could  not  be  considered  a  broken
+    period and that could not be clearer.  It was defined  as  presence  in
+    the United Kingdom.  There was no conflict with what had  been  decided
+    in BD.  It would have been absurd if the Rule had been given a  literal
+    meaning there, and that was a reasonable conclusion.   With  regard  to
+    the example of the pilot there would always be hard cases  where  there
+    was a clear Rule and that could be such  a  case.   This  was  why  the
+    policy retained a discretion outside the Rules and it could be that the
+    pilot would come within that.  The definition was clear and it was  not
+    necessary to go into the reasoning behind it.
+
+19.  As regards the argument by analogy from Shah it was  argued  that  that
+    was totally irrelevant mainly because the wording was different.   That
+    case was concerned with "three  years'  ordinary  residence".   It  was
+    clear that "ordinary residence" was not a term of art so it could  mean
+    different things in different contexts.  The word "ordinary" was really
+    the key.  "Residence" could mean a variety of things.   "Ordinary"  had
+    some sort of temporal connotation and the position would be affected by
+    absences.  It was key to note the first  two  lines  in  the  paragraph
+    quoted at page 343 referring to cases where it could be shown that  the
+    statutory framework or the legal context in which the words  were  used
+    required a different meaning.  That was the case here, even if one were
+    just looking at the term "residence".  It was clear what was  meant  by
+    "broken" and hence it was the case that "unbroken" was clear also.   It
+    followed very obviously from paragraph 245AAA(a)(i)  that  it  was  not
+    necessary for it to be spelt out.  If the wider meaning  of  connection
+    to the United Kingdom had it been intended then it would have said so.
+
+20.  In sum therefore BD was irrelevant, and there was a definition  of  the
+    Rules now and a reference  only  to  broken  and  unbroken  periods  of
+    residence but that in effect defined continuous residence  as  presence
+    in the United Kingdom.
+
+21.  With regard to ground 1, this was governed by what   had  been  decided
+    by the House of Lords in Odelola [2009] UKHL 25.  It was clear that the
+    Rules would apply to the decision of the  respondent  made  until  such
+    time as she promulgated different Rules after which  she  would  decide
+    according to the new Rules.  There was no obligation on the  respondent
+    to consider or apply old guidance when  new  guidance  had  later  been
+    provided unless this was required by transitional provisions.
+
+22.  With regard to ground 2, Mr Wagner noted that further  information  had
+    been provided concerning the kidnap and  there  was  the  supplementary
+    decision as a consequence.  This was dated 20 April 2016 and  addressed
+    in particular the issue of the kidnap of  the  applicant's  mother  but
+    also dealt with various points concerning  work-related  absences.   It
+    was for the applicant to make out her claim.  The letter made it  clear
+    that the kidnap period had  been  for  a  maximum  of  eight  days  and
+    evidence concerning the health conditions of  the  applicant's  parents
+    thereafter was considered at paragraph 7 of that letter.   Paragraph  9
+    did not exclude business matters as  being  a  compelling  reason,  but
+    asked where the evidence was.   In  any  event  the  policy  said  that
+    business reasons would not be considered as exceptional, and  that  was
+    reasonable.  As regards evidential flexibility, the applicant had  been
+    given  the  opportunity  of  administrative  review   and   a   further
+    opportunity as further documents had  been  considered  in  that  later
+    letter.  There had been no unfair treatment.
+
+Discussion
+
+The Construction Ground
+
+23.  In BD the Tribunal construed the  phrase  "continuous  period  of  five
+    years' lawfully in the UK" which is of course the same phrase  as  that
+    appearing at paragraph 245AAA(a).  Mr Buley made the point  in  passing
+    that that is not exactly the phrase to be found in paragraph 245CD  but
+    he did not seek to  attach  any  significance  to  it.   There  was  no
+    definition in the phrase  in  the  version  of  the  Immigration  Rules
+    considered by the Upper Tribunal in BD, but we have now the  definition
+    in paragraph 245AAA, as set out above.  Given that  we  now  have  that
+    definition, I consider that limited assistance at best can  be  derived
+    from BD.  To an extent though it may be said that  paragraph  245AAA(a)
+    must take its colour from paragraph 245CD, which is in many respects  a
+    parent provision, and that refers at (c) to the  requirement  that  the
+    applicant must have spent a continuous period as specified in (d) which
+    then takes one on to the definition in 245AAA(a).  That might  be  said
+    to hint that what is in issue at least in part is  time  spent  in  the
+    United Kingdom, in a particular category as set out  in  sub-paragraphs
+    to 245CD(c).
+
+24.  Mr Buley argued that the word  "residence"  has  to  be  taken  in  its
+    ordinary meaning as being a person's home or base.  I do not think much
+    if any assistance can be derived from Shah.  It was concerned with  the
+    meaning of the term "ordinary  residence"  in  the  context,  as  noted
+    above, of local education authority education  awards.   There  is  the
+    obiter remark by Lord Warrington in Levene [1928] AC 217232, quoted  by
+    Lord Scarman in Shah  that  if  ordinary  residence  had  any  definite
+    meaning it meant according to the way in which a man's life was usually
+    ordered.  Lord Scarman's agreement with what  had  been  said  by  Lord
+    Denning MR as to the meaning of the phrase, at page 342 in Shah,  seems
+    to me again to be a definition taking into account both  words  of  the
+    phrase.
+
+25.  In any event I think there is force in  the  argument  that  Mr  Wagner
+    makes that the statutory framework or the legal context, as referred to
+    by Lord Scarman at page 343 has to be  taken  into  account.   In  this
+    regard I see force in the  point  made  by  Mr  Wagner  that  there  is
+    significance in the definition of when a period shall not be considered
+    to have been broken,  in  paragraph  245AAA(a)(i).   It  is  clearly  a
+    reference to a period of absence from the United Kingdom the effect  of
+    which is to state that if a person has not been in the  United  Kingdom
+    for 180 days or less their period of residence will not  be  considered
+    to have been broken.  If residence is not to be equated  with  presence
+    then it is difficult to  see  what  the  point  of  the  provision  is.
+    Residence cannot mean different things for different  purposes  in  the
+    context of one Rule.  If the applicant can point to an absence  of  180
+    days or less during the particular twelve month period then his  period
+    of residence will not be regarded as being unbroken.  It  seems  to  me
+    that one can only interpret the term "residence" in (a)  on  the  basis
+    that it equates to presence for the  rest  of  the  provision  to  make
+    sense.  As such accordingly I agree with Mr Wagner that  residence  for
+    the purposes of the Rule must in effect be equated to  presence  to  be
+    sensibly interpreted.  The Rule provides a  straightforward  and  clear
+    solution to the problem created by  the  uncertainty  of  the  previous
+    provision.  It was only necessary for the Tribunal in BD to go into the
+    question of what was meant by continuous period of five years  lawfully
+    in the United Kingdom because it had no further  definition  to  assist
+    it.  We now have a  definition  however  and  in  my  view  the  proper
+    interpretation of the term "residence" is as set out above.  One  would
+    be left otherwise with the uncertainty as shown in the discussion  with
+    Mr Buley about the person who seeks ILR and has a home and  pays  taxes
+    in the United Kingdom but who for the whole of the five year period  is
+    away from the United Kingdom for work reasons.  In my view the Rule  is
+    designed to get around the uncertainties and the need for the  kind  of
+    decision-making to which Mr Buley adverted.
+
+26.  In many ways the point concerning  the  proper  interpretation  of  the
+    implications of 245AAA(i) for a period of absence of more than 180 days
+    follows from that.   Mr  Buley's  argument  is,  in  effect,  that  the
+    respondent chose not to say in specific terms how a person who had been
+    absent for more than 180 days should be regarded  but  that  it  was  a
+    matter  for  interpretation  by  the  decision-maker  and  potentially,
+    ultimately, the court.  But it seems to me to follow  ineluctably  from
+    the statement that a period shall not be considered to have been broken
+    when the applicant has been absent from the United Kingdom for a period
+    of 180 days or less in any of the five periods, that a period  will  be
+    considered to have been broken where there has been an absence for more
+    than 180 days.  After all, the requirement,  going  back  to  paragraph
+    245CD(c) is that the applicant must have spent a continuous  period  as
+    specified in (d) lawfully in the United Kingdom and, though a person is
+    given the generous exemption of a period of 180 days or less  in  which
+    they may be absent from the United Kingdom, I think it must follow that
+    that is as far as the exemption goes, and that a period of absence  for
+    a lengthier period is one that  leads  to  disqualification  under  the
+    Rule.
+
+27.  It follows that the applicant's argument under the construction  ground
+    fails.
+
+Ground 1
+
+28.  The short point made by Mr Wagner in relation to  this  is  that  as  a
+    consequence of the decision in Odelola, the respondent is  not  obliged
+    to consider or apply old guidance when new  guidance  has  subsequently
+    been provided, unless this is required by transitional provisions.  The
+    point is made in the detailed grounds of defence that if the  applicant
+    were correct in her argument in this respect the respondent's officials
+    would be required to have ongoing consideration  to  previous  guidance
+    which had been in force for a number of years  prior  to  the  date  on
+    which the decision is made, which  would  impermissibly  undermine  the
+    certainly and predictability required for the operation of a  fair  and
+    effective immigration system.   It  is  also  argued  that  to  require
+    officials to have regard to archived guidance would  inevitably  result
+    in a fettering of their discretion, at least in some cases and that  it
+    might involve them departing  from  more  recent  published  policy  in
+    giving consideration to and applying previous guidance.
+
+29.  Mr Buley's point was in essence that it was not so much a  question  of
+    requiring the respondent to apply old Rules or guidance but  rather  in
+    the exercise of her discretion outside the Rules, to bear in mind  that
+    there was an old Rule and that different  Rules  and  policies  applied
+    during the two periods in question.
+
+30.  I have set out above what the respondent said in  her  decision  letter
+    about the exercise of discretion in this case.  I do not consider  that
+    she was bound to take into account previous Rules  and  policies  which
+    were in existence at the time of the  two  periods  in  question.   The
+    respondent has chosen to  create  a  policy  in  which  in  exceptional
+    circumstances  indefinite  leave  to  remain  can  be   granted   where
+    continuous leave is broken.  In my  view  the  policy  is  a  perfectly
+    rational one.  To allow for evidence showing that the excessive absence
+    was due to serious or compelling reasons is  in  my  view  a  perfectly
+    proper basis for the exercise  of  discretion  in  such  a  case.   The
+    examples given of serious  or  compelling  reasons  are  helpful.   The
+    respondent gave consideration to the reasons why the applicant had been
+    out of the country for more than 180  days  in  the  first  period  for
+    business reasons, and concluded that they did not amount to exceptional
+    reasons.  That decision was properly open to her.  As a  consequence  I
+    do not consider that ground 1 is made out.
+
+Ground 2
+
+31.  It must follow from what I have said above  that  this  application  is
+    refused.   I  have  not  found  in  the  applicant's  favour   on   the
+    construction ground, nor in relation to the first period  of  exceeding
+    180 days.   I  have  found  that  the  respondent's  exercise  of  that
+    discretion was lawful.
+
+32.  It is the case that only one period of broken continuous  residence  in
+    the five year period is enough for the application to be  unsuccessful.
+    However, for the sake of completeness, it is right that I  address  the
+    reasoning of the respondent in relation to the second period.  I do not
+    consider that what was said in the April  2016  supplementary  decision
+    can be taken into account.  As Mr Buley pointed out, the  challenge  is
+    to the January and February decisions.  What was said in this regard in
+    relation to the exercise of  discretion  was  in  my  view  inadequate.
+    There was evidence of the kidnap, and I should say that I consider that
+    kidnap of a parent would inevitably amount to a serious  or  compelling
+    reason.  It may be that on fuller consideration  the  respondent  would
+    have come out with the kind of points in the April 2016 letter  in  any
+    event, but as matters stood at the dates of the decisions,  I  consider
+    that the very limited reasoning given for not exercising discretion  in
+    relation to the second period was inadequate.  There was  the  evidence
+    of the  applicant  herself  and  there  was  the  police  report.   The
+    respondent did not chose to point out  the  limitations  in  these  but
+    dismissed them summarily and that in my view was a matter of inadequate
+    reasoning.  I therefore consider that the  exercise  of  discretion  in
+    relation to the second period was unlawful.
+
+33.  However for the reasons given, I consider  that  the  application  must
+    fail on the basis that the respondent's decision was a lawful one under
+    the Rules and also that her exercise of discretion in  respect  to  the
+    first period of exceeding 180 days outside the  United  Kingdom  was  a
+    lawful exercise  of  her  discretion.   The  application  is  therefore
+    dismissed.  I will hear the parties on costs and any ancillary  matters
+    when the judgment is handed down.  ~~~~0~~~~
+
+
+
+
+
+
+
+

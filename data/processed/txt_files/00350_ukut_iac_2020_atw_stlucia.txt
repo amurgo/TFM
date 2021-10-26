@@ -1,0 +1,1477 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Wilson (NIAA Part 5A; deportation decisions) [2020] UKUT 00350(IAC)
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House by Skype                 |Decision & Reasons Promulgated|
+|On 3 November 2020                            |                              |
+|                                              |..............................|
+|                                              |.........                     |
+
+
+                                   Before
+
+                     THE HON. MR JUSTICE LANE, PRESIDENT
+                         UPPER TRIBUNAL JUDGE KEITH
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                   Appellant
+                                     and
+
+                              AKIM TYLER WILSON
+                        (ANONYMITY DIRECTION NOT MADE)
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr A Tan, Senior Home Office Presenting Officer
+For the Respondent:    Ms A Childs, Counsel, instructed by Duncan Lewis &
+                  Co Solicitors
+
+(A) section 117D(2)(b)(ii): "caused serious harm"
+
+The current case law on "caused  serious  harm"  for  the  purposes  of  the
+expression "foreign criminal" in Part 5A of the 2002 Act can  be  summarised
+as follows:
+
+    (1)  Whether P's offence is "an offence that has caused  serious  harm"
+         within section 117D(2)(c)(ii) is a matter for the judge to  decide,
+         in all the circumstances, whenever Part 5A falls to be applied.
+
+    (2)  Provided that  the  judge  has  considered  all  relevant  factors
+         bearing on that question; has not had regard to irrelevant factors;
+         and has not reached a perverse decision, there will be no error  of
+         law in  the  judge's  conclusion,  which,  accordingly,  cannot  be
+         disturbed on appeal.
+
+    (3)  In determining  what  factors  are  relevant  or  irrelevant,  the
+         following should be borne in mind:
+
+         (a)  The Secretary of State's  view  of  whether  the  offence  has
+             caused serious harm is a starting point;
+
+         (b)  The sentencing remarks should be carefully considered, as they
+             will often contain valuable information; not least what may be
+             said about  the  offence  having  caused  "serious  harm",  as
+             categorised in the Sentencing Council Guidelines;
+
+         (c)  A victim statement adduced in the criminal proceedings will be
+             relevant;
+
+         (d)  Whilst the Secretary of State bears the burden of showing that
+             the offence has caused serious harm,  she  does  not  need  to
+             adduce evidence from the victim at a hearing before the First-
+             tier Tribunal;
+
+         (e)  The appellant's own evidence to the First-tier Tribunal on the
+             issue of seriousness will usually  need  to  be  treated  with
+             caution;
+
+         (f)  Serious harm can involve physical, emotional or economic  harm
+             and does not need to be limited to an individual;
+
+         (g)  The mere potential for harm is irrelevant;
+
+         (h)  The fact that a particular type of offence  contributes  to  a
+             serious/widespread problem is not sufficient;  there  must  be
+             some evidence that the actual offence has caused serious harm.
+
+
+
+
+B. Deportation decisions and human rights appeals
+
+(1) In a human rights appeal, the decision under appeal is  the  refusal  by
+the Secretary of State of a human rights claim; that is to say, the  refusal
+of a claim, defined by section 113(1) of the  Nationality,  Immigration  and
+Asylum Act 2002, that removal from the United Kingdom or  a  requirement  to
+leave it would be unlawful under section 6 of the 1998 Act.  The  First-tier
+Tribunal is, therefore, not deciding an appeal against the decision to  make
+a deportation order and/or the decision that removal of the  individual  is,
+in the Secretary of State's view,  conducive  to  the  public  good.  It  is
+concerned only with whether removal etc in consequence  of  the  refusal  of
+the human rights claim is contrary to section 6  of  the  Human  Rights  Act
+1998. If Article 8(1) is engaged, the answer to  that  question  requires  a
+finding on whether removal etc  would  be  a  disproportionate  interference
+with Article 8 rights.
+
+(2) The Secretary of State's decisions under the Immigration Act  1971  that
+P's  deportation  would  be  conducive  to  the  public  good  and  that   a
+deportation order should be made in respect of P would have to  be  unlawful
+on public law grounds before that anterior  aspect  of  the  decision-making
+process could  inform  the  conclusion  to  be  reached  by  the  First-tier
+Tribunal in a human rights appeal.
+
+
+                            DECISION AND REASONS
+
+A. OVERVIEW
+
+ 1. The Secretary of State  appeals  against  the  decision  of  First-tier
+    Tribunal Judge Kainth who, following a hearing at Harmondsworth  on  16
+    December  2019,  allowed  the  appeal  of  the  respondent  (hereafter,
+    claimant) against  the  refusal  by  the  Secretary  of  State  of  the
+    claimant's human rights claim.  That refusal  occurred  on  5  November
+    2018.  It followed representations made by the claimant, pursuant to  a
+    notice served on him under section 120 of the Nationality,  Immigration
+    and Asylum Act  2002,  in  consequence  of  the  Secretary  of  State's
+    decision on 19 September 2018 to make a deportation order in respect of
+    the claimant.
+
+ 2. Having heard evidence from the  claimant  and  other  witnesses,  Judge
+    Kainth found that the claimant had not been  convicted  of  an  offence
+    that  had  "caused  serious  harm",  within  the  meaning  of   section
+    117D(2)(c)(ii) of the 2002 Act.  The  conviction  in  question  was  in
+    respect of the offence of  possessing  a  blade/pointed  article  in  a
+    public place, for which the  claimant  was  sentenced  to  six  months'
+    imprisonment, to run  consecutively  with  a  period  of  five  months'
+    imprisonment for breach of a suspended sentence.  For  the  reasons  we
+    shall give, Judge Kainth was not wrong in law to reach  his  conclusion
+    on the "serious harm" issue.
+
+ 3. As a result of his finding on this  issue,  the  judge  held  that  the
+    Secretary of State's decision to make a deportation order in respect of
+    the claimant was "not in accordance with the law".   Since  deportation
+    would, according to the judge, be unlawful, any attempt to  remove  the
+    claimant from the United Kingdom, pursuant to  the  deportation  order,
+    would necessarily represent a disproportionate  interference  with  the
+    claimant's rights under Article 8 of the  ECHR.   Having  reached  that
+    conclusion, Judge Kainth ended his decision by saying that he had  "not
+    gone on to consider Article 8 in light of  my  above  findings  or  the
+    exceptions to deportation or the provisions  as  contained  within  the
+    amended, Nationality, Immigration and Asylum Act 2002, section  117A  -
+    section 117D" (paragraphs 28  and  30).  As  we  shall  explain,  Judge
+    Kainth's approach here was legally erroneous.
+
+
+
+
+
+
+
+B.  THE APPELLANT AND HIS CRIMINALITY
+
+ 4. The appellant is a citizen of St Lucia, born in 1996.  He  entered  the
+    United Kingdom in either 2000 or 2002, in order to  visit  his  father.
+    He had leave to enter as a  visitor  for  six  months.   In  2006,  the
+    claimant was granted discretionary leave to  remain  until  June  2008.
+    The leave was subsequently extended to June 2011.
+
+ 5. In May 2018, the appellant  was  convicted  of  the  offence  described
+    above.  In passing sentence, HHJ Canavan referred to the fact that  the
+    claimant had twice breached his suspended sentence order, which related
+    to an offence of affray in respect of which the claimant was  convicted
+    and sentenced in 2016.  In May 2017,  the  claimant  had  committed  an
+    offence of criminal damage; but the suspended  sentence  was  (wrongly)
+    not activated at that time.
+
+ 6. The judge's sentencing remarks continued as follows:-
+
+         "What was your response to the second opportunity that you had been
+         given?  It was, essentially, to  go  out  and  commit  yet  another
+         offence and, in many ways, the most serious offence that  you  have
+         committed in your relatively young life, you being 22 years of age,
+         because, on 24 April, you went out in possession of a  lock  knife.
+         A knife you knew you were not entitled to have.
+
+         The dangers of knife crime are all too obvious to all of us.   You,
+         in particular, because of your  unfortunate  family  circumstances,
+         can hardly say that you are unaware of the consequences  of,  often
+         young, men carrying knives and using them or having  them  used  on
+         them in public places.
+
+         Every day, it seems, on television, we see sad  tales  of  families
+         torn apart, of lives wrecked, by the use of unlawful knives on  our
+         streets.  That is why carrying a knife in  a  public  place  is  so
+         serious.
+
+         In your case, it is made even worse by the fact that was your third
+         breach of the suspended sentence ...
+
+         I take into  account  your  guilty  plea  at  the  first  available
+         opportunity ..."
+
+ 7. HHJ Canavan's observation that the claimant could not have  unaware  of
+    the consequences of men carrying knives is explained at paragraph 22 of
+    Judge Kainth's decision.  The judge accepted the claimant's evidence -
+
+          "that he was carrying the lock knife because he was fearful  after
+          his uncle (husband of Ms  Goodman)  was  stabbed  and  his  cousin
+          having been threatened.  Ms Goodman  in  her  evidence  before  me
+          explained that her family were trying to remove a gang  of  people
+          from selling drugs from their  building.   Her  evidence  was  not
+          challenged."
+
+
+
+
+
+
+
+
+
+
+C.  LEGISLATION
+
+ Immigration Act 1971
+
+ 8. Section 3(5) of the Immigration Act 1971 identifies who  is  liable  to
+    deportation:-
+
+         "(5) A person who is not a British citizen is liable to deportation
+             from the United Kingdom if-
+
+             (a)  the Secretary  of  State  deems  his  deportation  to  be
+                  conducive to the public good; or
+
+             (b)  another person to whose family he belongs is or has  been
+                  ordered to be deported."
+
+ 9. Section 3(6)  makes  provision  for  liability  to  deportation,  where
+    certain persons who are  not  British  citizens  are  convicted  of  an
+    offence.
+
+10. Section 5 sets out the  procedure  for  deportation,  along  with  some
+    related provisions.  Section 5(1) provides:-
+
+         "(1) Where a person is under section 3(5) or (6)  above  liable  to
+             deportation, then subject to the following provisions of  this
+             Act the Secretary  of  State  may  make  a  deportation  order
+             against him, that is to say an order requiring  him  to  leave
+             and prohibiting him from entering the United  Kingdom;  and  a
+             deportation order against a person shall invalidate any  leave
+             to enter or remain in the United Kingdom given him before  the
+             order is made or while it is in force."
+
+11. Section 5(3) restricts the power to make a deportation order in respect
+    of a family member, in certain circumstances.
+
+
+
+ Nationality, Immigration and Asylum Act 2002
+
+12. Part 5A of the 2002 Act is entitled "Article  8  of  the  ECHR;  public
+    interest considerations".  Section 117A explains when Part 5A applies:-
+
+         "(1) This Part applies where a court or  tribunal  is  required  to
+             determine whether a decision made under the Immigration Acts-
+
+             (a)  breaches a person's right  to  respect  for  private  and
+                  family life under Article 8, and
+
+             (b)  as a result would be unlawful  under  section  6  of  the
+                  Human Rights Act 1998.
+
+         (2)  In considering the public  interest  question,  the  court  or
+             tribunal must (in particular) have regard-
+
+             (a)  in all cases, to the  considerations  listed  in  section
+                  117B, and
+
+             (b)  in cases concerning the deportation of foreign criminals,
+                  to the considerations listed in section 117C.
+
+         (3)  In subsection (2), "the public interest  question"  means  the
+             question of whether an interference with a person's  right  to
+             respect for private and family life is justified under Article
+             8(2)."
+
+13. Section 117B contains a number of public interest considerations, which
+    are applicable in all cases.   These  include  the  consideration  that
+    little weight should be given to  a  private  life  or  a  relationship
+    formed with a qualifying partner, where the same is  established  by  a
+    person at a time when  they  are  in  the  United  Kingdom  unlawfully.
+    Little weight should be given to a private life established by a person
+    at a time when that person's immigration status is precarious  (section
+    117B(4) and (5)).
+
+14.  Section 117B(6) states that in a case of a person who is not liable to
+    deportation, the public interest does not require that person's removal
+    where he or she has a genuine and subsisting parental relationship with
+    a qualifying child; and it would not be reasonable to expect the  child
+    to leave the United Kingdom. Definitions of  "qualifying  partner"  and
+    "qualifying child" are to be found in section 117D.
+
+15. Section 117C contains "additional  considerations  in  cases  involving
+    foreign criminals".  The deportation of foreign criminals is stated  to
+    be in the public interest.  In the case of a foreign criminal  who  has
+    not been sentenced to a period of imprisonment of four years  or  more,
+    the public  interest  requires  deportation  unless  certain  specified
+    exceptions apply.  These are set out in section 117C(4) and (5).
+
+16. As well  as  defining  "qualifying  partner"  and  "qualifying  child",
+    section 117D contains this definition of "foreign criminal":-
+
+         "(2) In this Part, "foreign criminal" means a person-
+
+             (a)  who is not a British citizen,
+
+             (b)  who has been  convicted  in  the  United  Kingdom  of  an
+                  offence, and
+
+             (c)  who-
+
+                  (i)  has been sentenced to a period of imprisonment of  at
+                      least 12 months,
+
+                  (ii) has been convicted of  an  offence  that  has  caused
+                      serious harm, or
+
+                  (iii)    is a persistent offender."
+
+
+
+
+ Immigration Rules
+
+17. The Immigration Rules on deportation are contained in Part 13 of HC 395
+    (as amended) Paragraph 396 provides as follows:-
+
+         "396.    Where a person is liable to  deportation  the  presumption
+             shall be that the public interest requires deportation.  It is
+             in the public interest to deport where the Secretary of  State
+             must make a deportation order in accordance with section 32 of
+             the UK Borders Act 2007."
+
+18. Paragraph 397 provides:-
+
+         "397.    A deportation order will  not  be  made  if  the  person's
+             removal pursuant to the order would be contrary  to  the  UK's
+             obligations under the Refugee Convention or the  Human  Rights
+             Convention.  Where deportation would not be contrary to  these
+             obligations, it will only be in exceptional circumstances that
+             the public interest in deportation is outweighed."
+
+19.  Paragraphs  A398  to  399D  apply  to  foreign  criminals  liable   to
+    deportation.  The expression "foreign criminal" is not defined  in  the
+    Immigration Rules.  Paragraphs 398, 399 and 399A broadly  reflect  what
+    is to be found in section 117C of  the  2002  Act.   Paragraph  398(c),
+    however, refers to a person whose deportation is said to  be  conducive
+    to the public good and in the public interest "because, in the view  of
+    the Secretary of State, their offending has caused serious harm or they
+    are a persistent offender who shows  a  particular  disregard  for  the
+    law".
+
+20. It will be seen that the Immigration Rules make  reference  to  the  UK
+    Borders Act 2007.  That Act operates by reference  to  the  deportation
+    provisions in the 1971 Act.
+
+
+
+  UK Borders Act 2007
+
+21. Section 32 of the 2007 Act provides as follows:-
+
+         "32. Automatic deportation
+
+         (1)  In this section "foreign criminal" means a person-
+
+             (a)  who is not a British citizen,
+
+             (b)  who is convicted in the United Kingdom of an offence, and
+
+             (c)  to whom Condition 1 or 2 applies.
+
+
+
+
+         (2)  Condition 1 is that the person is sentenced  to  a  period  of
+             imprisonment of at least 12 months.
+
+         (3)  Condition 2 is that-
+
+             (a)  the offence is specified by order  of  the  Secretary  of
+                  State  under  section   72(4)(a)   of   the   Nationality,
+                  Immigration  and  Asylum  Act  2002   (c.   41)   (serious
+                  criminal), and
+
+             (b)  the person is sentenced to a period of imprisonment.
+
+         (4)  For the purpose of section 3(5)(a) of the Immigration Act 1971
+             (c. 77), the deportation of a foreign criminal is conducive to
+             the public good.
+
+         (5)  The Secretary of  State  must  make  a  deportation  order  in
+             respect of a foreign criminal (subject to section 33).
+
+         (6)  The Secretary of State may not revoke a deportation order made
+             in accordance with subsection (5) unless-
+
+             (a)  he thinks that an exception under section 33 applies,
+
+             (b)  the application for revocation is made while the  foreign
+                   criminal is outside the United Kingdom, or
+
+             c)   section 34(4) applies.
+
+         (7)  Subsection (5) does not create a private right  of  action  in
+             respect of consequences of non-compliance by the Secretary  of
+             State."
+
+22. Section 33  provides  for  exceptions  to  the  propositions  that  the
+    deportation of a foreign criminal is conducive to the public  good  and
+    that the Secretary of State must make a deportation order in respect of
+    such a person.  For  our  purposes,  the  relevant  provisions  are  as
+    follows:-
+
+         "33. Exceptions
+
+             (1)  Section 32(4) and (5)-
+
+                  (a)  do not apply  where  an  exception  in  this  section
+                      applies (subject to subsection (7) below), and
+
+             ...
+
+             (2)  Exception 1 is where removal of the foreign  criminal  in
+                  pursuance of the deportation order would breach-
+
+                  (a)  a person's Convention rights, or
+
+                  (b)  the United Kingdom's obligations  under  the  Refugee
+                      Convention.
+
+                  ...
+
+         (7)  The application of an exception-
+
+                  (a)  does not prevent the making of a deportation order;
+
+                  (b)  results in it being assumed neither that  deportation
+                      of the person concerned is conducive  to  the  public
+                      good nor that it is not conducive to the public good;
+                      but section 32(4) applies despite the application  of
+                      Exception 1 or 4."
+
+D.  CASE LAW ON "CAUSED SERIOUS HARM"
+
+LT (Kosovo) and another v Secretary of State for the Home Department  [2016]
+EWCA Civ 1246
+
+23. It is now necessary to refer to the relevant case law on what is  meant
+    by " caused serious harm".  In LT (Kosovo) and another v  Secretary  of
+    State for the Home Department [2016] EWCA Civ 1246, the Court of Appeal
+    was concerned with the expression, as found in paragraph  398(c).   The
+    issue in both of the appeals before the court was whether an offence of
+    supplying a Class A drug fell within the category of  offences  causing
+    "serious harm" within the meaning of paragraph  398(c),  regardless  of
+    the particular circumstances of the offending.
+
+24. Laws LJ, giving the judgment of the court, held that:-
+
+         "18. There is clearly no rule of law which requires every  instance
+             of supply of a Class A drug to be treated as  causing  serious
+             harm for  the  purpose  of  deportation  decisions,  certainly
+             nothing in the text of paragraph 398(c).  Nor however,  in  my
+             judgment, does the rule exclude from its ambit  a  case  where
+             such a view is taken. Nor again is 398(c) limited to the  case
+             where the sentenced passed does  not  apparently  reflect  the
+             gravity  of  the  offending.   I  would  reject   Mr   Sedon's
+             submission to the contrary.  Serious harm is  not  defined  in
+             the Rules."
+
+25. At paragraph 21, Laws LJ disagreed with any suggestion that the  First-
+    tier Tribunal and the Upper Tribunal -
+
+         "were bound by the Secretary of State's opinion as to serious harm:
+         such a conclusion would nullify the right of appeal and  reduce  it
+         to a residual Wednesbury review [1948] 1  KB  223,  whereas  it  is
+         elementary that the right of appeal to the FTT is on the merits ...
+         That position is not shifted by the reference in  paragraph  398(c)
+         to the Secretary of State's view.  That feature of the language  of
+         the rule cannot, in my judgment, deprive the  appellants  of  their
+         rights to a merits appeal."
+
+26. However, Laws LJ pointed out that this was -
+
+         "not to say that the reference to the Secretary of State's view  is
+         of no significance.  The Secretary of State is the primary decision-
+         maker.  She has a constitutional responsibility to  make  judgments
+         as to the force of the public interest in deportation cases.   That
+         circumstance has to be balanced against the appellants' right to  a
+         merits appeal.  In my judgment, that is to be done by requiring the
+         tribunals in a paragraph 398(c) case,  while  considering  all  the
+         facts  put  before  them,  to  accord  significant  weight  to  the
+         Secretary of State's view of "serious harm".  They are  not  to  be
+         bound by it, but they are to treat it an important relevant factor.
+          I should add that I cannot see that this approach is  in  any  way
+         undermined by the new provisions in  section  117C  and  D  of  the
+         Nationality, Immigration & Asylum Act  2002,  to  which  Mr  Seddon
+         referred this morning."
+
+27. Laws LJ continued:-
+
+         "23. In LT's case the Secretary of State's deportation decision of
+             7 August 2013 had this:
+
+
+                  "It is considered that paragraph 398(c)  applies  in  your
+                  client's case as he was  convicted  of  a  drugs  offence,
+                  namely supplying a Class A drug.  It is the  view  of  the
+                  Home Secretary that  all  drugs  offences  are,  by  their
+                  nature, serious offences."
+
+
+         24.  As to that, I can well see that the proposition that all drugs
+             offences are by their nature serious may be questionable,  but
+             what matters here is the Secretary of State's  undoubted  view
+             that supplying Class A  drugs  causes  serious  harm.   In  my
+             judgment, that is a perfectly reasonable view, though Mr Sedon
+             would not have it so.  He submitted today that  the  Secretary
+             of State would have to provide narrative  reasons  for  taking
+             such a view; reasons  which  would  demonstrate  a  particular
+             expertise.  I do not agree. It is a matter of social and moral
+             judgement. The Secretary  of  State  with  her  constitutional
+             responsibilities is entitled to take the overall view she  did
+             and express it as she has.  She was entitled to take that view
+             in both of these cases.  Her doing so was not repugnant to her
+             extant policy."
+
+
+
+SC (Zimbabwe) v Secretary of State for the Home Department [2018]  EWCA  Civ
+929
+
+28. The Court of Appeal returned to the construction of "serious  harm"  in
+    SC (Zimbabwe) v Secretary of State for the Home Department [2018]  EWCA
+    Civ 929.  Unlike LT (Kosovo), which involved appeals determined by  the
+    First-tier Tribunal under the appellate regime as  it  was  before  the
+    changes made by the Immigration Act 2014, SC  (Zimbabwe)  was  directly
+    concerned with Part 5A of the 2002 Act, as inserted by  the  2014  Act.
+    McCombe LJ, giving the judgment of the court, disagreed with the  final
+    sentence in paragraph 21 of the judgement of Laws LJ:-
+
+         "19. The LT case was  concerned  solely  with  the  application  of
+             paragraph 398 (c) of the Rules.  With  respect  to  the  short
+             obiter dictum in the last sentence of the passage just quoted,
+             I do not agree.  It seems to me to be quite  clear  that  once
+             the matter comes before a tribunal or a court, what has to  be
+             applied is s.117D(c) of the Act. The words of  that  provision
+             are the words which Parliament has chosen  to  enact,  without
+             more.  The three elements of that paragraph of the  subsection
+             are in clear terms and do not require any gloss to be put upon
+             them by the reference to the Rules.  The view of the Secretary
+             of State or indeed of a judge in sentencing remarks may be  of
+             assistance to a tribunal  or  court  in  deciding  whether  an
+             offence has caused serious harm or whether an  offender  is  a
+             persistent offender, but I do not see that the statutory words
+             compel any particular weight to be given to the  Secretary  of
+             State's view on either in the assessment.  I would, therefore,
+             reject Mr Pilgerstorfer's first submission."
+
+29. At paragraph 26, McCombe LJ reiterated the point as follows:-
+
+         "26. ... I would also reject [Mr Pilgerstorfer's]  submission  that
+             s.117D(2)(c) requires a court or tribunal,  in  applying  that
+             provision, to attribute "significant weight" to the  Secretary
+             of State's anterior view that paragraph 398(c)  of  the  Rules
+             had been satisfied for the purposes of  her  own  decision  to
+             make a deportation order in the first place.  ..."
+
+
+
+R (Yasir Mahmood) and others v Secretary of State for  the  Home  Department
+[2020] EWCA Civ 717
+
+30. In June 2020, the Court of Appeal handed  down  judgment  in  R  (Yasir
+    Mahmood) and others v Upper Tribunal (Immigration and  Asylum  Chamber)
+    and Secretary of State for the Home Department [2020] EWCA Civ 717.
+
+31. Beginning at  paragraph  34,  McCombe  LJ  dealt  with  the  expression
+    "serious harm" in section 117D(2)(c):-
+
+         "34.  Various  issues  arise  as  to  the  interpretation  of  this
+             provision; but a number of preliminary points can be made.
+
+
+         35.  First, the  three  categories  in  subsection  (2)(c)  have  a
+             potential to overlap.  Plainly an offender who has received  a
+             sentence of more than 12 months may have done  so  because  he
+             committed an offence which caused serious harm.   Equally,  an
+             offender who persistently  offends  is  likely  to  receive  a
+             longer sentence (and more than 12 months) because  of  a  poor
+             antecedent history.
+
+
+         36.  Second, the provision  must  be  given  its  ordinary  meaning
+             informed by its context.  The three categories  must  be  read
+             together.  This is more than simply a conventional approach to
+             statutory interpretation.  It is plain, for example, from  the
+             structure of the provision  that  an  offender  who  has  been
+             sentenced to a term of less than 12 months for an offence  may
+             nevertheless be treated as a 'foreign criminal' if the offence
+             caused serious harm; and that  'serious  harm'  will  only  be
+             relevant when the sentence for an  offence  is  less  than  12
+             months.  This throws light on what may be  encompassed  by  an
+             offence which causes serious harm. While  it  is  possible  to
+             think of offences which,  despite  causing  the  most  serious
+             harm, would not typically attract an immediate prison sentence
+             of at least 12 months (causing death by careless driving is an
+             example), in general paragraph (c)(ii) is not  concerned  with
+             the most serious kind of harm which  comes  before  the  Crown
+             Court.
+
+
+         37.  Third, Mr Biggs drew our attention to s.32(1)-(5)  of  the  UK
+             Borders Act 2007 ('UKBA 2007'). Section 32(3)  provides  that,
+             where an offender is sentenced to imprisonment for an  offence
+             specified by the Secretary of State by  order,  a  deportation
+             order may be made under s.5(1) of the IA 1971.  His submission
+             was   that   allowing   the   'serious   harm'   test    under
+             s.117D(2)(c)(ii) to be satisfied where a given type of offence
+             has been committed, merely because of a perceived  generalised
+             harm caused by such offending, would 'trespass into territory'
+             covered by s.32(3) of the UKBA.  We  are  not  persuaded  that
+             there is any merit in this argument.  Section  32(3)  has  not
+             been brought into legislative  effect  and  the  Secretary  of
+             State has not made any order as envisaged; and Part 5A of  the
+             NIAA 2002  was  introduced  so  as  to  provide  a  structured
+             approach to  the  issue  of  deporting  foreign  criminals  by
+             reference to rights under article 8 of the ECHR."
+
+32. With respect to the Court of Appeal, it does not appear  its  statement
+    that  section  32(3)  of  the  2007  Act  had  not  been  brought  into
+    legislative effect is correct; nor that the Secretary of State has  yet
+    to make any  order  under  section  72(4)(a)  of  the  2002  Act.   The
+    important point, however, is that made in the last part  of  the  final
+    sentence of paragraph 37  of  the  judgment.   Section  117A  precisely
+    defines the circumstances in which Part  5A  has  application.   It  is
+    where a court or tribunal is determining whether a decision made  under
+    the Immigration Acts breaches a person's Article 8 rights and so  would
+    be unlawful under section 6 of the Human Rights Act 1998.   In  such  a
+    circumstance, the  court  or  tribunal  must  have  regard  to  certain
+    considerations when considering "the public interest  question",  which
+    will be when the court or tribunal  is  conducting  a  "proportionality
+    balancing exercise" under Article 8(2).  As we shall see, although that
+    exercise, conducted in the course of an appeal against a refusal  of  a
+    human rights claim, may determine whether the Secretary  of  State  can
+    remove someone  who  is  liable  to  deportation,  it  is  conceptually
+    separate from the issue of the legality of the making of a decision  to
+    deport.
+
+33. McCombe LJ continued as follows:-
+
+         "39. So far as the  word  'caused'  is  concerned,  the  harm  must
+             plainly be causatively linked to the offence.  In the case  of
+             an offence of violence, injury will be caused to the immediate
+             victim and possibly others.  However, what matters is the harm
+             caused by the particular offence.   The  prevalence  of  (even
+             minor) offending may cause serious harm to society,  but  that
+             does  not  mean  that  an  individual  offence  considered  in
+             isolation has done so.  Shoplifting, for  example,  may  be  a
+             significant social problem, causing serious economic harm  and
+             distress to the owner of a modest corner shop; and a thief who
+             steals a single item of low value may contribute to that harm,
+             but it cannot realistically be said that such a  thief  caused
+             serious harm himself, either to the owner  or  to  society  in
+             general.  Beyond this, we are doubtful  that  a  more  general
+             analysis of how the law approaches causation in  other  fields
+             is helpful.
+
+
+         40.  As to 'harm', often it will be clear from the  nature  of  the
+             offence that harm has been caused. Assault Occasioning  Actual
+             Bodily Harm under s.47 of the Offences Against the Person  Act
+             1861 is an obvious example.
+
+
+         41.  Mr Biggs argued on behalf of Mahmood that  the  harm  must  be
+             physical or psychological harm to an  identifiable  individual
+             that is identifiable and quantifiable.  We see no good  reason
+             for interpreting the provision in this way. The  criminal  law
+             is designed to prevent harm that  may  include  psychological,
+             emotional or economic harm.   Nor  is  there  good  reason  to
+             suppose a statutory intent to limit the harm to an individual.
+              Some crimes, for example,  supplying  class  A  drugs,  money
+             laundering, possession of firearms, cybercrimes,  perjury  and
+             perverting the course of public  justice  may  cause  societal
+             harm.  In most cases the nature of the harm will  be  apparent
+             from the nature of the offence itself, the sentencing  remarks
+             or from victim statements.  However, we agree with  Mr  Biggs,
+             at least to this extent: harm in this context does not include
+             the potential for harm or an  intention  to  do  harm.   Where
+             there is a conviction for a serious  attempt  offence,  it  is
+             likely that the sentence will be more than 12 months.
+
+
+         42.  The adjective 'serious' qualifies the extent of the harm;  but
+             provides  no  precise  criteria.   It  is  implicit  that   an
+             evaluative judgment has to be made in the light of  the  facts
+             and circumstances of the offending.  There can be  no  general
+             and all-embracing test of seriousness.  In some cases, it will
+             be a straightforward evaluation and  will  not  need  specific
+             evidence of the extent of the harm; but in every case, it will
+             be for the tribunal to evaluate the extent of the harm on  the
+             basis of the evidence that is  available  and  drawing  common
+             sense conclusions."
+
+34. At paragraph 44, Simon LJ disagreed with the view  of  Laws  LJ  in  LT
+    (Kosovo) that the Sentencing Council's Definitive Guidelines  were  not
+    of assistance:-
+
+         "That may be putting the matter too high, since the  characteristic
+         of an offence as  causing  'serious  harm'  within  the  Sentencing
+         Council Definitive Guidelines may be referred to in the  sentencing
+         remarks which are likely to be of assistance. On  the  other  hand,
+         the fact that the offence  is  not  characterised  as  one  causing
+         'serious harm' for sentencing purposes [under the Criminal  Justice
+         Act 2003 and its definition  of  "serious  harm"]  is  plainly  not
+         determinative of the issue that arises under s.117D(2)(c)(ii)."
+
+35. Having held that the burden is on the Secretary of State to prove  each
+    element of section 117B(2)(c)(ii)  to  the  civil  standard,  Simon  LJ
+    examined what this might mean in practice:-
+
+         "51. Mr Biggs argued that the Secretary of  State  must  prove  the
+             case against  the  offender  by  adducing  specific  items  of
+             evidence that would include, if the seriousness  of  the  harm
+             were in issue, evidence from the victim.   We  see  no  proper
+             basis for this argument. In many  cases,  a  victim  statement
+             will be put before the sentencing judge.  This  will  describe
+             the impact caused by  the  offence  as  at  the  date  of  the
+             statement.  A victim statement adduced in criminal proceedings
+             has  the  status  of  evidence  which  a  defendant   has   an
+             opportunity to challenge  before  sentence  is  passed  (R  v.
+             Perkins  [2013]  2  Cr.  App.  R.  (S)  72).   There   is   no
+             justification  for  allowing  a  second  such  opportunity  in
+             proceedings before the FtT.  In cases where the  Secretary  of
+             State relies on the causing of serious harm alone for treating
+             an offender as a  'foreign  criminal',  we  would  expect  the
+             sentencing remarks (if available) and the victim statement (if
+             it exists) to form part of the Secretary of  State's  evidence
+             before the tribunal.  However, we recognise that in many cases
+             a victim or those less directly affected by  a  crime  may  be
+             reluctant to make a statement as to the  harm  endured  by  an
+             offence, and no proper conclusions can be drawn from the  lack
+             of such a statement.
+
+
+         52.  The suggestion that a victim of  crime  should  have  to  give
+             evidence of the effect of that crime before a  tribunal,  with
+             the prospect of cross-examination  by  or  on  behalf  of  the
+             perpetrator can be rejected outright: not least because of the
+             potential for causing additional harm to a victim.
+
+
+         53.  While an offender  may  choose  to  give  evidence  about  the
+             underlying criminality, the FtT will be aware that  this  will
+             not necessarily be the whole, or even a truthful, picture.  As
+             the tribunal observed at �43 in the case of  Mahmood,  it  had
+             heard about the circumstances of the offending, 'as  described
+             by the Appellant.'"
+
+36. At paragraph 55, Simon LJ agreed with the conclusion in  SC  (Zimbabwe)
+    that the statutory words do not compel  any  particular  weight  to  be
+    given to the Secretary of State's view as to  whether  an  offence  has
+    caused "serious harm".  However:-
+
+         "56. ...  The views of the Secretary of State are a starting  point
+             and the reasoning of a decision letter may be compelling;  but
+             ultimately the issues that arise under  s.117D(2)(c)(ii)  will
+             be a matter for the FtT.  Provided the tribunal has taken into
+             account all relevant  factors,  has  not  taken  into  account
+             immaterial factors and has reached a conclusion which  is  not
+             perverse, its conclusion will not give rise to  an  actionable
+             error of law."
+
+37. Some insight into  how  these  principles  apply  in  practice  can  be
+    discerned from McCombe LJ's analysis of the case of  Estnerie,  one  of
+    the linked appeals in R (Mahmood).  Estnerie had committed offences  of
+    being in possession of false identity documents and seeking  to  obtain
+    leave to remain by deception.  The First-tier Tribunal concluded  that,
+    in order for an offence to cause serious harm, it was not necessary  to
+    identify individual victims.  The Upper Tribunal agreed.   So  did  the
+    Court of Appeal; but with this important rider:-
+
+         "66. No doubt each offence of this nature contributes to a  serious
+             and perhaps widespread  problem.   However,  the  issue  under
+             s.117D(2)(c)(ii) is whether the offender has been convicted of
+             'an offence' which has caused serious harm.  We accept that an
+             individual offence of this sort can be said to  cause  serious
+             harm, but there has to be some evidence that it has  done  so.
+             The decision letter refers to the undermining of the integrity
+             of the revenue and benefits system,  banking  and  employment,
+             and  even  national  security;  but  there  was   insufficient
+             evidence that these offences, even if aggregated, had such  an
+             effect.  These offences usually result in  a  prison  sentence
+             because identity fraud is regarded as a  serious  matter;  but
+             that cannot, of itself, be enough to satisfy  the  requirement
+             of causing 'serious harm'."
+
+38. In order to surmount this difficulty, the Secretary of  State  filed  a
+    respondent's notice  with the Court of Appeal, contending that, on  the
+    facts found by the First-tier  Tribunal,  Estnerie  was  a  "persistent
+    offender", which made him a "foreign criminal"  by  reason  of  section
+    117D(2)(c)(iii).  The Court of Appeal took account of the  respondent's
+    notice and dismissed Estnerie's appeal on  the  basis  that  he  was  a
+    persistent offender.
+
+
+
+
+E. CRIMINALITY: ARTICLE 8 ECHR CASES (VERSION 8.0)
+
+39. The Secretary of State's document: Criminality: Article  8  ECHR  cases
+    (version 8.0 - 13 May 2019) has this to say about "serious harm":-
+
+         "It is at the discretion of  the  Secretary  of  State  whether  he
+         considers an offence to have caused serious harm.
+
+         An offence that has caused 'serious harm' means an offence that has
+         caused serious physical  or  psychological  harm  to  a  victim  or
+         victims, or that has  contributed  to  a  widespread  problem  that
+         causes serious harm to a community or to society in general.
+
+         The foreign criminal does  not  have  to  have  been  convicted  in
+         relation to any serious harm which  followed  from  their  offence.
+         For example, they  may  fit  within  this  provision  if  they  are
+         convicted of a lesser offence because it cannot  be  proved  beyond
+         reasonable doubt that they were guilty of  a  separate  offence  in
+         relation to the serious harm which resulted from their actions.
+
+         Where a person has been convicted of one or more violent, drugs  or
+         sex  offences,  they  will  usually  be  considered  to  have  been
+         convicted of an offence that has caused serious harm."
+
+
+
+F. THE DECISION OF THE FIRST-TIER TRIBUNAL
+
+40. We can now return to the decision of the judge in the present case.  At
+    paragraph 13, Judge Kainth summarised the  grounds  of  appeal.   These
+    contended that the claimant's removal would "interfere with his Article
+    8 rights.  As well as having a British partner, he has a  son  and  his
+    partner is currently pregnant.  He has extended family members  in  the
+    United Kingdom.  He has no family in St Lucia".
+
+41. The claimant was said to be  apologetic  and  "there  was  very  little
+    chance of a repetition of past  behaviours  because  he  had  learnt  a
+    solitary  [sic]  lesson  from  his  recent  period  of   incarceration"
+    (paragraph 14).  It was also submitted that he could rely upon  section
+    117C(4)(a) of the 2002 Act, in that he had been  lawfully  resident  in
+    the United Kingdom for most of his life; that  he  had  a  genuine  and
+    subsisting relationship with a qualifying partner/qualifying child; and
+    that the effects of his deportation on the partner and child  would  be
+    unduly harsh (paragraph 15).
+
+42. As we have noted, the judge heard oral evidence from the claimant,  his
+    aunt, his father and his current partner.  He  also  heard  submissions
+    from Ms Childs, Counsel for  the  claimant.   She  submitted  that  the
+    offence which had given rise to the decision to deport was not one that
+    caused "serious harm".  Judge Kainth engaged with  this  submission  in
+    some detail:-
+
+         "21. I have considered very carefully the sentencing remarks of  HH
+             Judge Canavan with respect to the knife offence;
+
+                  "It was, essentially to go  out  and  commit  yet  another
+                  offence and in many ways, the most  serious  offence  that
+                  you have committed in  your  relatively  young  life,  you
+                  being 22 years, because on 24th April,  you  went  out  in
+                  possession of a lock knife.  A knife you knew you were not
+                  entitled to have.  The dangers of knife crime are all  too
+                  obvious to all of us.  You, in particular because of  your
+                  unfortunate family circumstances, can hardly say that  you
+                  are unaware  of  the  consequences  of,  often  young  men
+                  carrying knives and using them or having them used on them
+                  in public places.  Every day, it seems, on television,  we
+                  see sad tales of families torn apart, of lives wrecked, by
+                  the use of unlawful knives on our streets.   That  is  why
+                  carrying a knife in a public place is so serious.   ...  I
+                  take into account your guilty plea at the first  available
+                  opportunity ..."
+
+         22.  Although the learned judge made reference to the  impact  upon
+             communities with respect to knife crime, one should not forget
+             that the knife in possession  of  the  appellant  was  a  lock
+             knife.  It was  not  brandished,  waived  [sic]  or  shown  to
+             anybody.  The appellant volunteered possession  of  the  knife
+             when he was spoken to by the police.  It was  not  an  offence
+             that caused physical or psychological harm.   It  is  not  the
+             prosecution's case that the knife was used offensively or that
+             it was ever shown to members of  the  public.   I  accept  the
+             appellant's explanation that he was carrying  the  lock  knife
+             because he was fearful after his uncle (husband of Ms Goodman)
+             was stabbed and his cousin having been threatened.  Ms Goodman
+             in her evidence before  me  explained  that  her  family  were
+             trying to remove a gang of  people  from  selling  drugs  from
+             their building.  Her evidence was not challenged.
+
+         23.  It would appear from the sentencing remarks of  Judge  Canavan
+             that she was unimpressed  with  the  fact  the  appellant  had
+             breached the terms of a suspended sentence on  no  fewer  than
+             three occasions.  Had it not  been  for  those  breaches,  the
+             judge commented,
+
+                  "Mr Ali, on your behalf, has sought to persuade  me  that,
+                  somehow, I ought to give you another opportunity.   But  I
+                  am afraid to say, Mr Wilson, had your compliance with  the
+                  order been better from July of last year, there might have
+                  been some merit to that suggestion ..."
+
+         24.  In order to obtain some guidance with respect  to  whether  or
+             not the index offence is one that causes serious harm, I  have
+             considered  the  sentencing  Counsel's  guidelines  on  bladed
+             articles and offensive weapons.  When determining the  offence
+             category,  there  are  a  number  of  factors   listed.    The
+             appellant's offence comes within culpability A, because by the
+             very nature of the lock knife it is a bladed article.  On  the
+             question of harm, it does not come within category  1  because
+             the offence was not committed at a school or other place where
+             vulnerable people  are  likely  to  be  present,  it  was  not
+             committed in prison, it was  not  committed  in  circumstances
+             where there was a risk of serious disorder  or  serious  alarm
+             and distress.  It could therefore be classified as culpability
+             A, category 2 with a starting point of six months' custody and
+             with a category range of three months to one  year's  custody.
+             That is before credit  for  a  guilty  plea  and  taking  into
+             account  one's   individual   personal   circumstances.    The
+             aggravating feature as acknowledged by the Judge was the  fact
+             the appellant was on a suspended sentence.  Had he not been on
+             a suspended sentence, there is  scope  in  the  light  of  the
+             Judge's comments for a non-immediate custodial sentence  which
+             had it been  imposed  would  mean  that  it  would  have  been
+             unlikely  the  respondent  would  have  initiated  deportation
+             proceedings.
+
+         25.  There was no attempt by the appellant  to  conceal/dispose  of
+             the item.
+
+         26.  Whilst I acknowledge that the sentencing judge was well within
+             her powers to make the observations that  she  did  about  the
+             impact upon knife crime, it has not  been  asserted  that  the
+             appellant was going to use the item found in  his  possession.
+             The impact upon communities with respect to knife crime cannot
+             be elevated by way of  risk  unless  it  is  deemed  to  be  a
+             prevalent offence in a designated neighbourhood.  In order for
+             that to apply, there would need to be  an  official  statement
+             with respect to prevalence in order to an offence to attract a
+             higher level of punishment.  I have considered the case of  SC
+             (Zimbabwe) v SSHD [2018] EWCA Civ 99 where at paragraph 19 the
+             court held that the statutory  words  "serious  harm"  do  not
+             compel any particular weight to be given to  the  respondent's
+             view.
+
+         27.  After  very  careful  scrutiny  of  the  evidence,  with  some
+             reluctance, I conclude that the offence  of  possession  of  a
+             bladed article does not amount to  serious  harm  because  the
+             circumstances of the offence are  unique  to  this  particular
+             appellant and his very close family members."
+
+43. In the light of his conclusion that the offence was not one that caused
+    "serious harm", Judge Kainth then dealt with the appeal as follows:-
+
+         "28. Because I have accepted that the appellant has  not  committed
+             an offence that has caused serious harm, then the decision  of
+             the respondent  is  not  in  accordance  with  the  law.   The
+             deportation order should not have been issued and it would  be
+             disproportionate to remove the appellant from the jurisdiction
+             of the United Kingdom.  In arriving at this conclusion, I take
+             into account the decision in Childs (sic) (human rights appeal
+             - scope) [2018] UKUT 00089 (IAC):
+
+                  "(58)    So far as concerns the requirements addressed  in
+                        question (3) that the interference be in accordance
+                        with  the  law,  both   Strasbourg   and   domestic
+                        authority suggests that the  question  whether  the
+                        proposed interference  (here,  deportation)  has  a
+                        proper basis in  domestic  law,  including  whether
+                        that law is accessible to the person concerned  and
+                        foreseeable as  to  its  effect  (see  Egab  v  Her
+                        Majesty's Advocate [2017] UKSC 25,  paragraph  25).
+                        In the present case, the law of  deportation  under
+                        the 1971 Act read with the UK Borders Act  2007  in
+                        the case  of  foreign  criminals,  satisfies  these
+                        requirements.
+
+                  (59) The issue therefore, is what  effect  Judge  Malone's
+                        finding on the application of Section 7 of the 1971
+                        Act had on question (5); that is to say, on whether
+                        the interference would be  proportionate.   As  the
+                        judge found, the proper application of the  law  on
+                        deportation meant that the claimant was entitled to
+                        rely upon the statutory  exemption  in  Section  7.
+                        Since, on the facts found, any hypothetical attempt
+                        by the Secretary of State to  deport  the  claimant
+                        would be unlawful, that hypothetical action on  the
+                        part  of  the  Secretary  of  State  would,   quite
+                        obviously,     represent     a     disproportionate
+                        interference  with  Article   8   rights   of   the
+                        claimant."
+
+         29.  The appellant is fully aware as to how close he  has  come  to
+             being  deported.   He,  together  with  his  witnesses,   gave
+             credible evidence that he  has  learnt  a  very  valuable  and
+             solitary lesson from his recent  period  of  imprisonment  and
+             that the scope of repetition is far removed than before.
+
+         30.  I have not gone on to consider Article 8 in light of my  above
+             findings or the exceptions to deportation or the provisions as
+             contained within the  amended,  Nationality,  Immigration  and
+             Asylum Act 2002, Section 117A-Section 117D."
+
+
+
+G. THE SECRETARY OF STATE'S APPEAL
+
+44. The  Secretary  of  State  appealed  to  the  First-tier  Tribunal  for
+    permission to appeal to  the  Upper  Tribunal  against  Judge  Kainth's
+    decision.  The grounds contended that Judge Kainth had erred in law  in
+    concluding that the events of possessing a bladed/pointed article in  a
+    public place had not caused serious harm.   Whether  the  claimant  had
+    intended to use the lock knife or simply carrying it out of  fear  was,
+    the Secretary of State submitted, of limited  relevance.   The  grounds
+    pointed to the remarks of the sentencing judge, who, as we  have  seen,
+    had spoken of "sad tales of families torn apart, of lives  wrecked,  by
+    the use of unlawful knives on our streets.   That  is  why  carrying  a
+    knife in a public place is so serious".   It  was  submitted  that  the
+    First-tier Tribunal should be "slow  to  go  behind  the  finding  that
+    carrying a knife in a public place is 'so serious'".  Judge Kainth  had
+    failed to consider the potential for serious harm, had the  police  not
+    intervened when they did.
+
+45. On 27 January 2020,  the  First-tier  Tribunal  granted  permission  to
+    appeal.  Judge Shimmin considered it "arguable that the judge has  made
+    a material misdirection of law in respect of the definition of  serious
+    harm and, furthermore, has failed to give adequate reasoning".
+
+46. In a skeleton argument on behalf of the Secretary of State,  filed  and
+    served in February 2020, Mr Tan relied upon SC (Zimbabwe) as  authority
+    for the proposition that the sentencing remarks may be of assistance to
+    a tribunal or court in deciding whether an offence has  caused  serious
+    harm.  It was not clear what weight, if any, Judge Kainth had given  to
+    these.
+
+47. Paragraphs 9 and 10 of Mr Tan's skeleton argument read as follows:-
+
+         "9.  Whilst not set out in the grounds for  permission  to  appeal,
+             the FTTJ has allowed the appeal on the basis "the decision  of
+             the respondent  is  not  in  accordance  with  the  law.   The
+             deportation order should not have been issued ..."  [28].   At
+             [30] the FTTJ fails to make a consideration under  Article  8.
+             It is submitted that the FTTJ has erred by allowing the appeal
+             on  the  basis  that  the  deportation  decision  was  not  in
+             accordance with the law.
+
+         10.  The appeal is one made under the provisions in section  82  of
+             the 2002 Act following amendment by the Immigration Act  2014.
+             As such, the only decision which could be under  challenge  in
+             this case is the decision  to  refuse  the  Appellant's  human
+             rights claim.  That could only be appealed on the  basis  that
+             "the decision" (i.e. the decision to refuse the  human  rights
+             claim) is unlawful under section  6  Human  Rights  Act  1998.
+             Having failed to conduct a consideration  and  proportionality
+             assessment under Article 8, that being the issue in the appeal
+             is a material error.  It is submitted that this is  'Robinson'
+             obvious point, and on that basis  the  decision  of  the  FTTJ
+             cannot stand."
+
+48. In a document dated 2 November 2020, Mr Tan made an application to vary
+    the Secretary of State's grounds.  As well as seeking an  amendment  to
+    encompass paragraphs 9 and 10 of  his  skeleton  argument  of  February
+    2020, Mr Tan's application sought to permit the Secretary of  State  to
+    contend that Judge Kainth erred in law in not finding that the claimant
+    was also a "persistent offender" within the  meaning  of  section  117D
+    and, accordingly, a foreign criminal in any event.
+
+49. At the hearing on 3 November, Ms Childs objected to the application  to
+    amend.  Mr Tan had sought to support the application in respect of  the
+    "persistent offender" amendment by attaching a record compiled  by  the
+    Presenting  Officer  who  had  appeared  before  Judge  Kainth.    This
+    suggested that the Presenting Officer had  submitted  to  Judge  Kainth
+    that the appellant was a persistent offender.
+
+50.  Ms  Childs  informed  us  that  this  did  not  correspond  with   her
+    recollection of the hearing.   Furthermore,  the  Presenting  Officer's
+    note is at complete  variance  with  paragraph  10  of  Judge  Kainth's
+    decision, in which he stated: "the respondent did not suggest that  the
+    appellant  was  a  persistent  offender  notwithstanding   he   has   5
+    convictions encompassing 7 offences".
+
+51. We declined to permit Mr Tan to amend the Secretary of State's  grounds
+    in order to encompass the "persistent  offender"  issue.   It  was,  at
+    best, not apparent that this had been  advanced  before  Judge  Kainth.
+    The matter was not prefigured in Mr Tan's skeleton argument of February
+    2020.
+
+52. We did, however, permit the amendment regarding the judge's  conclusion
+    that his finding on the "serious harm" issue meant that  the  Secretary
+    of State's decision was not in accordance with the law; such  that  the
+    decision was, for that reason, a disproportionate interference with the
+    claimant's Article 8 rights.  Ms Childs accepted that  permitting  this
+    amendment would not take the claimant by surprise.  She had  been  able
+    to engage with it in her written submissions of  24  April  2020.   The
+    issue is, furthermore, in our view one of some general significance.
+
+
+
+H. DISCUSSION
+
+(a) "caused serious harm"
+
+53. The current case law on "caused serious harm" for the purposes  of  the
+    expression "foreign criminal" in  Part  5A  of  the  2002  Act  can  be
+    summarised as follows (drawing predominately from the judgment of Simon
+    LJ in R (Mahmood and others):-
+
+    (1)  Whether P's offence is "an offence that has caused  serious  harm"
+         within section 117D(2)(c)(ii) is a matter for the judge to  decide,
+         in all the circumstances, whenever Part 5A falls to be applied.
+
+    (2)  Provided that  the  judge  has  considered  all  relevant  factors
+         bearing on that question; has not had regard to irrelevant factors;
+         and has not reached a perverse decision, there will be no error  of
+         law in  the  judge's  conclusion,  which,  accordingly,  cannot  be
+         disturbed on appeal.
+
+    (3)  In determining  what  factors  are  relevant  or  irrelevant,  the
+         following should be borne in mind:
+
+         (a)  The Secretary of State's  view  of  whether  the  offence  has
+             caused serious harm is a starting point;
+
+         (b)  The sentencing remarks should be carefully considered, as they
+             will often contain valuable information; not least what may be
+             said about  the  offence  having  caused  "serious  harm",  as
+             categorised in the Sentencing Council Guidelines;
+
+         (c)  A victim statement adduced in the criminal proceedings will be
+             relevant;
+
+         (d)  Whilst the Secretary of State bears the burden of showing that
+             the offence has caused serious harm, she  does   not  need  to
+             adduce evidence from the victim at a hearing before the First-
+             tier Tribunal;
+
+         (e)  The appellant's own evidence to the First-tier Tribunal on the
+             issue of seriousness will usually  need  to  be  treated  with
+             caution;
+
+         (f)  Serious harm can involve physical, emotional or economic  harm
+             and does not need to be limited to an individual;
+
+         (g)  The mere potential for harm is irrelevant;
+
+         (h)  The fact that a particular type of offence  contributes  to  a
+             serious/widespread problem is not sufficient;  there  must  be
+             some evidence that the actual offence has caused serious harm.
+
+54. Having identified these propositions, we need  to  apply  them  to  the
+    findings of Judge Kainth.  At paragraph 21 of his decision,  the  judge
+    set out the passage from HHJ Canavan's  sentencing  remarks,  regarding
+    the dangers of knife crime and the reasons why carrying a  knife  in  a
+    public place is "so serious".  There follow the important  findings  in
+    paragraph 22 (see paragraph 42 above).
+
+55. The Secretary of State criticises Judge Kainth for  going  "behind  the
+    finding of the sentencing judge that carrying a knife in a public place
+    is "so serious"" and that he "limited the assessment to an  absence  of
+    physical or psychological harm", failing "to consider the potential  of
+    serious harm had  the  police  not  intervened".   Thus,  Judge  Kainth
+    "failed to consider the offending holistically and as contributing to a
+    societal problem as highlighted by the sentencing judge".
+
+56. We do  not  find  that  these  criticisms  have  force.   Applying  our
+    synthesis of the binding case law on  the  meaning  of  "cause  serious
+    harm", it is apparent that Judge Kainth  had  regard  to  all  relevant
+    circumstances.  In setting out the remarks of the sentencing  judge  at
+    paragraph 21 of his decision, and in what he said at the  beginning  of
+    paragraph 22, Judge Kainth was well aware of the reason that Parliament
+    has seen fit to criminalise the possession of a  bladed  article  in  a
+    public  place.   In  doing  so,  Parliament  intended  to  reduce   the
+    prevalence of crimes of violence  involving  knives,  by  criminalising
+    their possession, in certain circumstances.
+
+57.  As we have seen, however, in order for the offence to  be  categorised
+    as one that has "caused serious harm", there must be some evidence that
+    actual harm has been caused.  In the case of the claimant, Judge Kainth
+    was entitled to find that no such harm had ensued.   The  claimant  had
+    not brandished the knife.  Whilst the claimant's  explanation  was,  of
+    course, not a valid mitigation of the offence  of  possession  -  since
+    carrying a knife for the avowed purpose of self-defence is part of  the
+    problem that the criminalisation of knife  possession  is  intended  to
+    address - it was not an irrelevant factor in the judge's assessment  of
+    whether the offence had "caused serious harm" for the purposes of  Part
+    5A of the 2002 Act.
+
+58. At paragraph 24, Judge Kainth had regard to "the  Sentencing  Counsel's
+    [sic] guidelines of bladed articles and offensive weapons".   He  noted
+    that the offence came within category A for culpability "because by the
+    very nature of the lock knife it is a bladed article".  So far as  harm
+    was concerned, the claimant's offence did not come  within  category  1
+    "because the offence was not committed at a school or other place where
+    vulnerable people are likely to be present, it  was  not  committed  in
+    prison, it was not committed in circumstances where there was a risk of
+    serious disorder or serious alarm  and  distress".   We  consider  that
+    Judge Kainth was entitled to have regard to those matters.  Whilst  the
+    claimant's possession of a knife plainly carried the risk of harm, were
+    the claimant to have encountered those whom he alleged to  fear,  Judge
+    Kainth was in our view entitled to regard such a risk as not  amounting
+    to actual harm, or as contributing to actual harm.
+
+59. At paragraph 26 of his decision, Judge  Kainth  was  referring  to  the
+    sentencing guidance regarding prevalence.  This guidance provides that,
+    in order for the prevalence of an offence to play a  material  part  in
+    the sentencing exercise, evidence needs to be provided to the court  by
+    a responsible body or  by  a  senior  police  officer.   Even  if  such
+    material is provided, a  sentencer  will  only  be  entitled  to  treat
+    prevalence as an aggravating factor if satisfied that the level of harm
+    caused in a particular  locality  is  significantly  higher  than  that
+    caused elsewhere; that the circumstances can properly be  described  as
+    exceptional; and that it is just  and  proportionate  to  increase  the
+    sentence for such a factor in  the  particular  case  being  sentenced.
+    Otherwise, sentencing will, in any event, take  account  of  collective
+    social  harm,  with   offenders   being   normally   sentenced   by   a
+    straightforward application of the guidelines without  aggravation  for
+    the fact that their activity contributed to  a  harmful  social  effect
+    upon a neighbourhood or community.
+
+60. We conclude that, in  saying  what  he  did  at  paragraph  26  of  his
+    decision, Judge Kainth was aware of the fact that  "prevalence"  could,
+    in theory, be relevant to his  assessment  of  whether  the  claimant's
+    offence had "caused serious harm".  It might be said that the  guidance
+    on prevalence, with its reference to "a harmful social  effect  upon  a
+    neighbourhood or community" supports the Secretary of State's criticism
+    of paragraph 22 of  the  decision,  where  the  judge  concentrated  on
+    whether the claimant's offence had caused  "physical  or  psychological
+    harm".  In our view, however, such criticism remains  misplaced,  since
+    Judge  Kainth's  conclusion  accords  with  paragraph  53(3)(h)  above,
+    whereby the contribution of an  offence  to  a  serious  or  widespread
+    problem is not sufficient; there needs to be  some  evidence  that  the
+    offence has caused  serious  harm  (see  paragraphs  41  and  66  of  R
+    (Mahmood)).
+
+61. For these reasons, we conclude that Judge Kainth did not err in law  in
+    concluding that the claimant's offence was not  one  that  had  "caused
+    serious harm", so as to make the claimant a "foreign criminal" for  the
+    purposes of Part 5A of the 2002 Act.
+
+
+
+(b) The relationship between Part 5A and deportation decisions
+
+62. The remaining question, upon which  we  gave  the  Secretary  of  State
+    permission to amend her grounds, is whether Judge Kainth erred  in  law
+    in the use he made of that finding, in  paragraphs  28  to  30  of  his
+    decision.  As we have seen, Judge Kainth concluded that his finding  on
+    serious harm meant that the decision of the Secretary of State "is  not
+    in accordance with the law.  The deportation order should not have been
+    issued and it would be disproportionate to remove the  [claimant]  from
+    the jurisdiction of the United Kingdom"  (paragraph  28).   Because  of
+    that conclusion, Judge Kainth did not "consider Article  8  ...  within
+    the amended, Nationality, Immigration and Asylum Act 2002, section 117A-
+    Section 117D" (paragraph 30).
+
+63. In this jurisdiction, it is often dangerous for a judicial  fact-finder
+    to decide that he or she can deploy a "short cut", so as to  avoid  the
+    exercise inherent in Article 8(2) of deciding  whether  removal  of  an
+    individual would be a disproportionate interference with the Article  8
+    rights of the latter and/or some other person or persons.  Such is  the
+    case here.  Judge Kainth fell into legal error at paragraphs 28  to  30
+    of his decision.
+
+64. In order to understand why this is so, it is  necessary  to  return  to
+    section 3(5) of the 1971 Act.  As we have seen, this  provides  that  a
+    person who is not a British citizen is liable to deportation if (in our
+    case) the Secretary of State deems his deportation to be  conducive  to
+    the public good.  In  her  decision  of  19  September  2018,  that  is
+    precisely what the Secretary of State decided.   Having  described  the
+    claimant's conviction for possession of a knife and his three  previous
+    convictions for four offences between December 2016 and July 2017,  the
+    Secretary of State said: "as result of your criminality  the  Secretary
+    of State deems your deportation to be conducive to the public good  and
+    as such you are liable to deportation under section 3(5)(a) ...".
+
+65. It will be observed that, in reaching that conclusion, the Secretary of
+    State did not purport to categorise the claimant  as  someone  who  had
+    committed an offence that caused serious harm.  Even if  she  had  done
+    so, however, the Secretary of State's decision  would,  in  any  event,
+    only be susceptible of challenge on "Wednesbury" grounds.
+
+66. The significance of the Secretary of State concluding that  a  person's
+    deportation is conducive to the public  good  was  highlighted  by  the
+    Asylum and Immigration Tribunal in EO (Deportation appeals:  scope  and
+    process) Turkey [2007] UKAIT 00062.  At paragraph 31, the AIT said  the
+    following:-
+
+         "Contrary to what might be supposed, it is  clear  throughout  that
+         the liability to deportation does not arise  from  an  individual's
+         misconduct.  It arises from the Secretary of State taking a view: a
+         person is liable to deportation under s3(5)(a) if the Secretary  of
+         State deems his deportation to be conducive to the public good.  In
+         cases of this sort, therefore, the first stage is  the  process  by
+         which the Secretary of State decides that a person's deportation is
+         conducive to the public good.  It is that decision of the Secretary
+         of State which renders the individual liable to deportation."
+
+67. Since EO was decided, the UK Borders Act 2007 provides  for  "automatic
+    deportation" in the case of a person who is a  "foreign  criminal",  as
+    defined in section 32(1) to (3).  Section 32(4) provides that  for  the
+    purpose of section 3(5)(a) of  the  1971  Act,  the  deportation  of  a
+    foreign criminal is conducive to the public  good.   In  such  a  case,
+    therefore, the Secretary of State is not  required  to  reach  her  own
+    decision on that matter in a  particular  case.   Furthermore,  section
+    32(5) provides that the Secretary of  State  must  make  a  deportation
+    order in respect of a foreign criminal, subject to  the  exceptions  in
+    section 33.  None of this,  however,  impacts  upon  the  Secretary  of
+    State's continuing  ability  to  deem  a  person's  deportation  to  be
+    conducive to the public good, thereby  making  that  person  liable  to
+    deportation.
+
+68. The distinction between the  Secretary  of  State's  power  to  deem  a
+    person's deportation to be conducive to the public  good,  because  the
+    Secretary of State considers that their offending  has  caused  serious
+    harm or that they are a persistent offender, and the task of the First-
+    tier Tribunal in determining an appeal against the Secretary of State's
+    decision to  refuse  a  human  rights  claim  by  a  person  liable  to
+    deportation, is evident from SC (Zimbabwe).  As set out in paragraph 29
+    above, in paragraph 26  of  his  judgment  in  that  case,  McCombe  LJ
+    rejected the submission of Counsel for the Secretary of State that:
+
+        "s.117D(2)(c)  requires  a  court  or  tribunal,  in  applying  that
+       provision to attribute  "significant  weight"  to  the  Secretary  of
+       State's anterior view that paragraph 398(c) of  the  Rules  has  been
+       satisfied for the purposes of her own decision to make a  deportation
+       order in the first place" (our emphasis).
+
+    There is no suggestion there or, indeed,  elsewhere  in  the  Court  of
+    Appeal authorities mentioned above, that a finding  by  the  First-tier
+    Tribunal, in a human  rights  appeal,  that  an  individual  is  not  a
+    "foreign criminal" for the purposes of Part 5A of the  2002  Act  means
+    the Secretary of State's "anterior" decision under section 3(5)(a)  and
+    section 5 of the 1971 Act must, without more, be treated as unlawful.
+
+69. The reason for that is plain.  Section 117A of the 2002 Act  delineates
+    the scope or application of Part 5A.  Subsection (1) explains that Part
+    5A applies where a court or tribunal is required to determine whether a
+    decision made under the Immigration Acts breaches Article 8  and  would
+    as a result be unlawful.  In an  appeal  under  section  82(1)(b),  the
+    decision in question is the refusal by the  Secretary  of  State  of  a
+    human rights claim; that is to say, the refusal of a claim, defined  by
+    section 113(1), that removal from the United Kingdom or  a  requirement
+    to leave it would be unlawful under section 6 of  the  1998  Act.   The
+    First-tier Tribunal is, therefore, not deciding an appeal  against  the
+    decision to make a deportation order and/or the decision  that  removal
+    of the individual is, in the Secretary of State's  view,  conducive  to
+    the public good. It is concerned  only  with  whether  removal  etc  in
+    consequence of the refusal of the human rights  claim  is  contrary  to
+    section 6 of the Human Rights Act 1998. If Article 8(1) is engaged, the
+    answer to that question requires a finding on whether removal etc would
+    be a disproportionate interference with Article 8 rights.
+
+70. As was established by the House of Lords in Huang v Secretary of  State
+    for the Home Department [2007] UKHL 11, on an appeal of this kind,  the
+    First-tier Tribunal must itself  strike  the  proportionality  balance,
+    rather than leaving that matter to the Secretary of State, subject only
+    to a Wednesbury challenge.  Part 5A is intended to guide the First-tier
+    Tribunal in that exercise.  The fact that, in doing so, the  First-tier
+    Tribunal must decide for itself whether the  individual  is  a  foreign
+    criminal within the meaning of section 117D(2) will, of course,  inform
+    the Tribunal's conclusion on whether the refusal of  the  human  rights
+    claim is, or is not, unlawful  and,  accordingly,  whether  the  appeal
+    should be allowed or dismissed.  There is, however, nothing in Part  5A
+    that requires  or  permits  the  First-tier  Tribunal  to  extend  that
+    exercise to the  anterior  deportation  decisions  with  which  we  are
+    concerned.
+
+71. At paragraph 28 of his decision, Judge Kainth purported to rely upon  a
+    decision of the Upper Tribunal that is, in fact, called Charles  (human
+    rights appeal - scope) [2018] UKUT 89 (IAC).  That  decision,  however,
+    underscored the point that a human rights appeal can be determined only
+    through the provisions of the ECHR; usually Article 8.  In Charles, the
+    Upper Tribunal found that, because of the date on  which  the  claimant
+    entered the United Kingdom, the claimant was exempt from deportation by
+    reason of section 7 of the 1971 Act.  Since deportation was  the  means
+    by which the Secretary of State proposed to remove  the  claimant,  the
+    fact that she had no legal power to do  so  was  relevant  in  deciding
+    whether removal would be a disproportionate interference with Article 8
+    rights.
+
+72. By the same token, in  the  present  case,  the  Secretary  of  State's
+    decisions that the claimant's deportation would  be  conducive  to  the
+    public good and that a deportation order should be made in  respect  of
+    him, would have to be  unlawful  on  public  law  grounds  before  that
+    anterior  aspect  of  the  decision-making  process  could  inform  the
+    conclusion to be reached by the First-tier Tribunal in the human rights
+    appeal.  To reiterate, such unlawfulness  is  not  established  by  the
+    judge's conclusion for the purposes of Part 5A of the 2002 Act that the
+    individual is not a "foreign criminal" within the  meaning  of  section
+    117D(2).
+
+73. Ms Childs submitted that, even if Judge Kainth had fallen into error at
+    paragraphs 28 to 30 of his decision, that error was not material.   Had
+    the judge gone on to make an Article 8 proportionality  assessment,  Ms
+    Childs submitted it was inevitable that the assessment would  have  led
+    to the allowing of the claimant's appeal.
+
+74. We are unable to agree.  The fact that, on the finding  of  the  judge,
+    section 117C would not apply does not mean that the claimant  would  be
+    bound to succeed.  Paragraph 396 of the Immigration Rules says:-
+
+         "Where a person is liable to deportation the presumption  shall  be
+         that the public interest requires deportation."
+
+75. It is, therefore, for the claimant to rebut that presumption.  In order
+    to do so, a finding is needed on the effect of deportation, not only on
+    the claimant but also on members of his family in the  United  Kingdom.
+    Judge Kainth made no  findings  on  these  issues.   He  also  made  no
+    findings on the considerations  set  out  in  section  117B.   In  that
+    regard, we observe that section 117B(6)  cannot  assist  the  claimant,
+    since he is a person who is liable to deportation.
+
+76. Accordingly, we find that there is an error of law  in  Judge  Kainth's
+    decision, such that that decision should be set  aside,  save  for  the
+    finding that the claimant's offence of having a knife/bladed article in
+    a public place did not cause serious harm within the meaning of Part 5A
+    and that the claimant is, accordingly, not to be treated as  a  foreign
+    criminal for the purposes of that Part.  For the reasons we have given,
+    the contention that the  claimant  is  a  persistent  offender  is  not
+    available to the  Secretary  of  State,  as  an  alternative  means  of
+    invoking section 117C.
+
+77. In view of the nature and extent  of  the  fact-finding  that  will  be
+    required in order to re-decide the matter, we have concluded  that  the
+    appeal should be remitted to  the  First-tier  Tribunal.   Since  Judge
+    Kainth  has  not  undertaken   the   task   of   deciding   where   the
+    proportionality balance should lie; and given the nature of  the  error
+    of law which has caused us to set aside his decision, we conclude  that
+    it is appropriate to remit the case to Judge Kainth.  The parties  will
+    need to adduce evidence as to the up-to-date position, as it  bears  on
+    the Article 8 issue.
+
+
+
+I. DECISION
+
+The Secretary of State's appeal is allowed. The decision of  the  First-tier
+Tribunal is set aside, subject to what is said in paragraph 76  above.   The
+case is remitted  to  Judge  Kainth  in  the  First-tier  Tribunal  for  its
+reconsideration, on that basis.  If it is  not  reasonably  practicable  for
+Judge Kainth to hear the case, another First-tier Tribunal judge may do  so,
+on the same basis.
+
+No anonymity direction is made.
+
+
+
+
+                      Signed   Mr Justice Lane        Date: 19 November
+                      2020
+
+
+
+
+
+
+                      The Hon. Mr Justice Lane
+                      President of the Upper Tribunal
+                      Immigration and Asylum Chamber

@@ -1,0 +1,731 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: da/00878/2013
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Columbus House, Newport             |Determination Promulgated     |
+|On 7 January 2015                            |On 29 January 2015            |
+|                                             |                              |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE GRUBB
+                 DEPUTY UPPER TRIBUNAL JUDGE J F W PHILLIPS
+
+
+                                   Between
+
+                                     M S
+                         (anonymity direction MADE)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Mr P Nathan instructed by Veale Wasbrough Vizards
+LLP
+For the Respondent:    Mr I Richards, Home Office Presenting Officer
+
+
+                          DETERMINATION AND REASONS
+
+ 1. This appeal is subject to an anonymity order  made  by  the  First-tier
+    Tribunal pursuant to  rule  45(4)(i)  of  the  Asylum  and  Immigration
+    Tribunal (Procedure) Rules 2005 (SI 2005/230).  Neither  party  invited
+    us to rescind the order and we continue it pursuant to rule 14  of  the
+    Tribunal Procedure (Upper Tribunal) Rules 2008 (SI 2008/2698).
+
+
+
+Introduction
+
+ 2. This is a resumed hearing of an appeal by the appellant, a  citizen  of
+    Lithuania who was born on 2 September 1982, against the decision of the
+    First-tier Tribunal (Judge Y J Jones) dismissing his appeal  against  a
+    decision to deport him to Lithuania in accordance with the  Immigration
+    (European Economic Area) Regulations 2006  (SI  2006/1003  as  amended)
+    (the "2006 EEA Regulations") made on 30 April 2013.
+
+ 3. Following the initial hearing of the appeal on 14  November  2013,  the
+    decision of the First-tier Tribunal was set aside by the Upper Tribunal
+    (UTJ Grubb) in a decision dated 4 December 2013.  The UT concluded that
+    the First-tier Tribunal had erred  in  law  in  assessing  whether  the
+    appellant represented a  "genuine,  present  and  sufficiently  serious
+    threat affecting one of the fundamental  interests  of  society"  under
+    reg. 21(5)(c) of the 2006 EEA Regulations.
+
+ 4. The appeal was adjourned for a resumed hearing in order for  the  Upper
+    Tribunal to remake the decision both under the 2006 EEA Regulations and
+    Art 8 of the ECHR.  Following a number of adjournments, principally  to
+    obtain information in relation to the family proceedings begun  by  the
+    appellant for contact with his two  children,  the  appeal  was  listed
+    before us on 7 January 2015.
+
+ 5. At the hearing,  the  appellant  gave  oral  evidence  before  us.   In
+    addition, Mr Nathan, on behalf of the appellant placed  reliance  on  a
+    number of documents not before the First-tier  Tribunal,  including  an
+    expert report by Dr Freda Gardner, a Consultant  Clinical  Psychologist
+    dated 6 October 2014 (at pages 15-56 of the appellant's bundle),  court
+    documents relating to the appellant's contact proceedings including  an
+    agreement between the appellant, his ex-partner and CAFCASS;  a  letter
+    from the appellant's Probation Officer dated 2 October 2014; a  CAFCASS
+    report by Claire Lund dated 13 October 2014; an email dated  6  January
+    2015 relating the views of the CAFCASS Guardian,  Claire  Lund;  and  a
+    number of witness statements for example from  the  appellant  and  his
+    employer at sections B and D of the  bundle.   Mr  Richards  raised  no
+    objection to the admission of this additional evidence and we  admitted
+    it in our discretion under rule 15(2A) of the Tribunal Procedure (Upper
+    Tribunal) Rules 2008 (SI 2008/2698 as amended).
+
+The Background
+
+ 6. As we have indicated, the appellant is a citizen of Lithuania.  He came
+    to the United Kingdom in 2008 together with his partner and  son  ("F")
+    who was born on 12 July 2002.  On 7 November 2008,  the  appellant  and
+    his partner ("KV") had a daughter ("K") who was born in the  UK.   Both
+    the appellant's children and his partner are also Lithuanian nationals.
+
+ 7. On 2 November 2011, the  appellant  was  arrested  in  connection  with
+    allegations of rape made by his partner, KV.  On 13 February 2012,  the
+    appellant pleaded guilty at the Bristol Crown Court  to  two  offences,
+    namely rape of a female over 16 and  attempted  rape.   The  victim  of
+    those offences was the appellant's partner.   On  23  April  2013,  the
+    appellant was sentenced  to  terms  of  three  years'  imprisonment  in
+    relation to both counts to be served concurrently.  Two further  counts
+    on the indictment were ordered to lie on the file and the appellant was
+    ordered to sign the Sex Offenders Register indefinitely.  He  was  also
+    made the subject of a restraining order preventing him from  contacting
+    his (now) ex-partner.
+
+ 8. The appellant served his prison sentence and was  released  on  20  May
+    2013.
+
+ 9. On 18 May 2012, the appellant was  notified  that  the  respondent  was
+    considering whether to deport him on grounds  of  public  policy.   The
+    appellant responded, setting out that he had lived and worked in the UK
+    since 2008; that he had an ex-partner and two children in the UK;  that
+    he was not guilty of the crimes of which he  had  been  convicted;  and
+    that he was working until his arrest in November 2011.
+
+10. On 30 April 2013, the Secretary of  State  made  a  decision  that  the
+    appellant should be deported pursuant to the 2006  EEA  Regulations  on
+    grounds of public policy.
+
+11. The appellant's appeal to the First-tier Tribunal (Judge Y J Jones) was
+    dismissed in a determination dated 23 July 2013.  Permission to  appeal
+    was granted by the Upper Tribunal (UTJ Eshun) on 2 September 2013.   As
+    we have already indicated, the First-tier Tribunal's decision  was  set
+    aside by the Upper Tribunal in a decision dated 4 December 2013.
+
+The Submissions
+
+  12. On behalf of the appellant, Mr Nathan submitted that the Secretary  of
+      State had failed to establish, as required by  reg.  21(5)(c)  of  the
+      2006 EEA Regulations that the appellant's personal conduct represented
+      "a genuine, present and sufficiently serious threat affecting  one  of
+      the fundamental interests of society".   He  submitted  that,  on  the
+      basis of the evidence, we should find that the  appellant  represented
+      at worst a "low" risk to his ex-partner and future  partners  and,  at
+      best, no risk to them.  In those circumstances, he submitted that  the
+      appellant's risk of re-offending did not fall within reg. 21(5)(c).
+
+  13. Mr Nathan relied upon the sentencing remarks of Her Honour Judge Hagen
+      in sentencing the appellant on 23  April  2012  that,  first  his  two
+      offences were "entirely out of character" and secondly,  "I  am  quite
+      satisfied that when  you  are  released  you  will  be  able  to  find
+      employment and take up the threads of your life again and  I  am  also
+      very confident that you will never appear in  any  court  again".   Mr
+      Nathan prayed those comments in aid in submitting that we should  find
+      that the appellant represented a low or no risk of re-offending
+
+  14. Mr Nathan relied upon [32] of the Upper  Tribunal's  determination  in
+      Essa (EEA: rehabilitation/integration) [2013] UKUT 00316  (IAC)  where
+      Blake J (Chamber President) said:
+
+
+         "We observe that for any deportation of an EEA national  or  family
+         member of such national to be  justified  on  public  good  grounds
+         (irrespective of whether permanent residence has been achieved) the
+         claimant must represent a present threat to public policy. The fact
+         of a criminal conviction is not enough. It is not permissible in an
+         EEA case to deport a claimant on the basis  of  criminal  offending
+         simply to deter others. This tends to mean,  in  case  of  criminal
+         conduct short of the most serious threats to the public  safety  of
+         the state, that a candidate for EEA deportation  must  represent  a
+         present threat by  reason  of  a  propensity  to  re-offend  or  an
+         unacceptably high risk of re-offending. In such a case, if there is
+         acceptable evidence of  rehabilitation,  the  prospects  of  future
+         rehabilitation do not enter the balance, save  possibly  as  future
+         protective  factors  to  ensure  that  the  rehabilitation  remains
+         durable."
+
+
+15. Mr Nathan submitted that the risk posed by the appellant, if  any,  did
+    not establish a "propensity to re-offend" or "an unacceptably high risk
+    of re-offending".
+
+16. Secondly, Mr Nathan submitted that even  if  the  requirement  in  reg.
+    21(5)(c)  was  met,  the   appellant's   deportation   would   not   be
+    proportionate for the purposes of EU law or under Art 8  of  the  ECHR.
+    He relied upon the expert report of Dr Gardner and  the  views  of  the
+    CAFCASS Guardian that it was in the best interests of  the  appellant's
+    children, F and K, to maintain direct contact with him in the  UK.   Mr
+    Nathan relied on the fact that the appellant has, pursuant to  a  court
+    order, begun  first,  indirect  contact  with  the  children  and  more
+    recently supervised direct contact.  He  submitted  that  it  would  be
+    "potentially devastating" for F and K to  now  lose  the  contact  with
+    their father that had so recently begun.  .
+
+17. On behalf of the respondent, Mr Richards submitted that the appellant's
+    personal conduct did represent a  "genuine,  present  and  sufficiently
+    serious threat affecting one of the fundamental interests of  society".
+    He accepted that it was necessary to take into account  the  sentencing
+    judge's remarks but he relied upon Dr Gardner's report  that  expressed
+    concerns about the appellant's attitude and his continued denial of his
+    guilt:  his lack of awareness that when under threat he was  not  aware
+    or in control of his behaviour and that he should attend  a  number  of
+    programmes to develop insight.  Mr Richards relied upon the appellant's
+    own evidence that he had not yet attended any courses and  despite  his
+    own evidence that he did not believe he  needed  to,  the  professional
+    view was that he did.
+
+18. Mr Richards invited us to find that the appellant did pose  a  risk  to
+    his former  and  future  partners.   He  accepted  that  he  could  not
+    establish that there was a "high" risk but, consistently with what  was
+    said in [32] of Essa, Mr Richards invited us to find  that,  given  the
+    seriousness of any harm caused by  the  appellant's  future  offending,
+    that risk was "unacceptable".
+
+19. In relation to proportionality, Mr Richards invited us  to  find  that,
+    even though deportation would put an  end  to  any  supervised  contact
+    between the appellant and his two  children,  the  seriousness  of  his
+    offending was such that even taking into account the best interests  of
+    his children, the appellant's deportation was proportionate both  under
+    the 2006 EEA Regulations and also under Art 8 of the ECHR.
+
+
+
+The Legal Framework
+
+20. The appellant is an EU citizen and so his deportation  is  governed  by
+    the provisions of the 2006 EEA Regulations giving effect  to  Directive
+    2004/38/EC.
+
+21. The basis for the appellant's deportation is found in reg. 19(3)(b)  of
+    the 2006 EEA Regulations which provides as follows:
+
+         "An EEA national who has entered the  United  Kingdom  ...  may  be
+             removed if -
+
+         ...
+
+         (b)  the Secretary of State has decided that the  person's  removal
+             is justified on grounds of public policy, public  security  or
+             public health in accordance with regulation 21; ..."
+
+22. Where a decision is taken to remove an individual under reg.  19(3)(b),
+    reg. 24(3) states that:
+
+         "The person is to be treated as if he were a person to whom section
+         3(5)(a) of the 1971 Act (liability  to  deportation)  applied,  and
+         section 5 of that Act (procedure for deportation) and Schedule 3 to
+         that Act (supplementary provision as to deportation) are  to  apply
+         accordingly."
+
+23. Hence, once a lawful decision under the 2006 EEA Regulations  is  taken
+    to remove an individual, then the power to deport found in the 1971 Act
+    can be applied as it was in this case.
+
+24. Regulation 21 is central to  this  appeal  and,  so  far  as  relevant,
+    provides as follows:
+
+         "21(1)   In this regulation a  "relevant  decision"  means  an  EEA
+             decision  taken  on  the  grounds  of  public  policy,  public
+             security or public health.
+
+          (2) A relevant decision may not be taken to serve economic ends.
+
+             ....
+
+         (5)  Where a relevant decision is taken on grounds of public policy
+             or public security it shall, in addition to complying with the
+             preceding  paragraphs  of  this  regulation,   be   taken   in
+             accordance with the following principles-
+
+             (a)   the  decision  must  comply  with   the   principle   of
+                  proportionality;
+
+             (b)  the decision must be based exclusively  on  the  personal
+                  conduct of the person concerned;
+
+             (c)   the  personal  conduct  of  the  person  concerned  must
+                  represent a  genuine,  present  and  sufficiently  serious
+                  threat affecting  one  of  the  fundamental  interests  of
+                  society;
+
+             (d)  matters isolated from the  particulars  of  the  case  or
+                  which relate to considerations of  general  prevention  do
+                  not justify the decision;
+
+             (e)  a  person's  previous  criminal  convictions  do  not  in
+                  themselves justify the decision.
+
+         (6)  Before taking a relevant decision on  the  grounds  of  public
+             policy or public security in  relation  to  a  person  who  is
+             resident in the United Kingdom the decision  maker  must  take
+             account of considerations such as the age,  state  of  health,
+             family and economic situation  of  the  person,  the  person's
+             length of residence in the United Kingdom, the person's social
+             and cultural integration  into  the  United  Kingdom  and  the
+             extent of the person's links with his country of origin.
+
+              ......"
+
+25. We have omitted the provisions dealing with EU  nationals  who  have  a
+    "permanent right of residence" who may  only  be  removed  on  "serious
+    grounds of public policy or public security" and those who may only  be
+    removed on "imperative grounds of public  security"  (see  respectively
+    reg. 21(3) and (4)).  It is accepted in this appeal that the  appellant
+    does not have a permanent right of residence or cannot only be  removed
+    on  "imperative  grounds  of  public  security".    His   removal   and
+    deportation has to be justified on the lowest threshold, namely that of
+    "public policy".
+
+26. In BF (Portugal) v SSHD [2009] EWCA Civ 923, the Court of Appeal at [3]
+    identified the four questions that must be addressed  in  applying  the
+    2006 EEA Regulations to an individual's removal or deportation:
+
+         (1)  What was the relevant personal conduct of the appellant?
+
+         (2)  Having determined that question, does that conduct represent a
+             genuine, present and sufficiently serious threat?
+
+         (3)  If  so,  does  that  threat  affect  one  of  the  fundamental
+             interests of society?
+
+         (4)  Will the appellant's deportation be proportionate in  all  the
+             circumstances?
+
+27. As will shortly become clear, we consider that this appeal is  resolved
+    by answering questions (1)-(3).
+
+Discussion and Findings
+
+28.  It  was  common  ground  between  the  parties  that  the  appellant's
+    deportation could not be justified simply on the basis of his  previous
+    criminal conviction even of such a serious nature as rape and attempted
+    rape.  In order to  represent  a  "genuine,  present  and  sufficiently
+    serious threat affecting one of the fundamental interests of  society",
+    it was at least necessary to establish a future risk  of  re-offending.
+    Only then could the individual present a "present" threat.  Of  course,
+    past offending may be relevant in assessing  future  risk  but,  unlike
+    deportation of a non-EU national, the  seriousness  of  past  offending
+    cannot in itself justify the deportation of an EU national.
+
+29. We begin with the evidence of  the  appellant's  conduct  (BF  Question
+    (1)).
+
+30. We are in no doubt that the appellant's offending is very serious.  The
+    convictions for rape and attempted rape, in themselves, justify such  a
+    characterisation which  is  not  diminished  by  consideration  of  the
+    particular circumstances described by the complainant in  the  criminal
+    proceedings involving forced vaginal  penetration  and  attempted  oral
+    penetration and which led to the appellant's conviction.
+
+31. We turn now to consider the evidence relating to whether the  appellant
+    represents  a  "genuine,  present  and  sufficiently   serious   threat
+    affecting one of the fundamental interests of  society"  (BF  Questions
+    (2) and (3)).
+
+32. In sentencing the appellant, Her Honour Judge Hagen said this:
+
+         "It is clear to me that these two  offences  are  entirely  out  of
+         character.  You were living with the  complainant,  the  mother  of
+         your children, in very  difficult  circumstances.   You  were  both
+         working very hard and working very long hours and  it  was  in  the
+         summer and autumn of last year that the  relationship  between  you
+         broke down; and it is plain from everything I have read  you  found
+         that very difficult to come to terms with.
+
+         These two offences were committed within a  very  short  time  span
+         which mitigates, in my view, their seriousness.  Important, not  to
+         say crucial, forensic evidence only came to light this morning  and
+         I have no doubt that that had some  bearing  on  your  decision  to
+         plead guilty to Count 3, and since it was such  important  evidence
+         and came so very late in the day, I take the unusual step of saying
+         that you should receive the maximum  discount  for  your  pleas  of
+         guilty today.  It has had the undoubted benefit of meaning that the
+         complainant does not have to give evidence and for that you deserve
+         credit.
+
+         I have read much about you, both from  employers,  from  the  rugby
+         club of which you were obviously a valued member and  from  friends
+         who have known you a long time.  All  those  factors  I  take  into
+         account, but of course I  cannot  forget  that  these  are  serious
+         offences.
+
+         Reconciling all those conflicting factors as best I can,  I  impose
+         the least sentence which in my view is appropriate.  That  will  be
+         one of three years imprisonment on each of  the  two  counts.   166
+         days that you have served so far  on  remand  will  be  taken  into
+         account when serving that sentence and I am  quite  satisfied  that
+         when you are released you will be able to find employment and  take
+         up the threads of your life again and I am also very confident that
+         you will never appear in any court again."
+
+33. As we have said, Mr Nathan placed some weight upon  these  comments  in
+    making his submission that the appellant at worst presented a low  risk
+    of future offending and at best presented no risk at all.
+
+34. It is established law that we should take into account the  remarks  of
+    the sentencing judge concerning the circumstances of  the  individual's
+    offending and the view taken as to its seriousness and in  relation  to
+    any future risk of offending, not least because  the  sentencing  judge
+    will have directly addressed his or her mind to those  issues,  on  the
+    basis of the best evidence available at the time, in reaching  what  he
+    or she considers to be the appropriate sentence.
+
+35. Leaving aside the discount given for the appellant's guilty pleas,  the
+    judge's sentencing remarks do not, in our judgment, indicate  that  she
+    thought that the appellant would present no risk in  the  future.   Her
+    comment that his two offences were "entirely out of  character"  is  no
+    more than a description that these offences are the first for which  he
+    had appeared before the courts.  It is a statement which could be  made
+    in relation to any  first  time  offender.   That  said,  however,  her
+    comment that she was "very confident" that the  appellant  "will  never
+    appear in any court again" is a strong comment,  albeit  one  which  we
+    consider to be a statement of hope or aspiration by the judge.  It  is,
+    nevertheless, a matter which we must take into  account  as  reflecting
+    the judge's opinion on the evidence before her.
+
+36. There is, of course, further evidence before us which we must also take
+    into account.
+
+37. First, there is the NOMS Report which appears  undated  but  which  was
+    requested on 4 April 2013.  That report appears to have been based upon
+    the OASys Report dated 6 September 2012.  The report  states  that  the
+    likelihood of the appellant being reconvicted  is  "low"  on  an  OASys
+    score of between 0-40 (section  4).   The  report  concludes  that  the
+    reconviction score is "13 per cent" (see section 6).  The risk  of  re-
+    offending  relates  to  the  appellant's  ex-partner  and  "potentially
+    females  in  future  intimate  relationships"  (see  section  3).   Not
+    surprisingly, given to what the risk of re-offending relates, the  risk
+    of "serious harm" is stated to be "high".  That is, of course,  not  an
+    assessment of the likelihood that the appellant will re-offend but that
+    if he did the level of harm that may result.
+
+38. It was on the basis of that report that Judge Jones concluded that  the
+    appellant presented a "low" risk of re-offending and was the  basis  of
+    her finding that he presented  a  "genuine,  present  and  sufficiently
+    serious threat" within reg. 21(5)(c).
+
+39. We have, in addition, a number of further expert views  concerning  the
+    appellant's  behaviour,  including  the  potential  impact   upon   his
+    behaviour of his desire to seek, and maintain, access to  his  children
+    through the court proceedings.
+
+40. It is not a matter of dispute that the appellant has since the  end  of
+    2014 obtained a court order granting him first, indirect  contact  with
+    his children and now subsequently  direct  conduct  supervised  by  the
+    CAFCASS Guardian, Ms Lund.  We consider these developments significant.
+
+41. Secondly, we turn first to the expert report of Dr Gardner at pages 15-
+    56 of the appellant's bundle.  Dr  Gardner  is  a  Consultant  Clinical
+    Psychologist and her expertise is not challenged.  We  have  considered
+    it carefully and take the view that it is a balanced report based  upon
+    interviews with the appellant, his ex-partner and the CAFCASS Guardian.
+
+
+
+42. It recognises shortcomings in the appellant's behaviour.  At para 4.7.5
+    it states that the appellant:
+
+         "has no real insight into the  behaviour,  which  resulted  in  his
+         conviction for rape/attempted rape against [KV].  He  continues  to
+         say that he never raped or attempted to rape [KV] and that  he  was
+         forced to plead guilty to one offence to reduce his  sentence.   He
+         asserted with evidence of a significant emotional  change  that  he
+         had never done anything to her."
+
+43. We should add that the appellant also maintained his innocence  of  the
+    offences in his oral evidence before us although he  accepted  that  he
+    had to recognise his conviction for the purposes of the appeal.
+
+44. Likewise at para 4.7.8, Dr Gardner states that:
+
+         "It is my view that when he  is  under  threat  and  is  expressing
+         strong feelings he is not  consistently  consciously  aware  or  in
+         control of his behaviour and aware of the effect that his behaviour
+         has on others.  This is consistent with [the appellant] having very
+         little insight."
+
+45. Nevertheless, Dr Gardner  comments  very  positively  indeed  upon  the
+    appellant's commitment to, and love for, his two children, F and K.  At
+    para 1.1.13,  she  comments  both  on  that  attachment  and  also  the
+    appellant's future behaviour as follows:
+
+         "I have provided the view that a very significant protective factor
+         with regard to any risks/potential risks posed by  [the  appellant]
+         is his profound love  and  commitment  to  his  children.   It  was
+         evident during this assessment that [the appellant] has a  profound
+         affection for his children and very much wants to re-establish  his
+         relationship with  [F]  and  develop  his  relationship  with  both
+         children.  It is also important to note that  [the  appellant]  has
+         applied to the court for contact with the children in  an  entirely
+         appropriate manner, which  indicates  his  ability  to  manage  his
+         tendency to inappropriately take  control.   This  compliance  with
+         authority and procedure is in  my  view  a  significant  protective
+         factor and a  positive  indicator  with  regard  to  prognosis  for
+         compliance in arrangements for contact."
+
+46. Dr Gardner's  view  is  that  continued  supervised  contact  with  the
+    appellant's children  is  in  their  best  interests  and  that  it  is
+    desirable for  the  appellant  to  undergo  programmes  concerned  with
+    parenting  and  also  in  relation  to  domestic  physical  and  sexual
+    violence.  At para 4.5.4 she says:
+
+         "It is my view that it would be very much in the interests  of  the
+         children and  also  of  [the  appellant]  if  he  would  engage  in
+         intervention  designed  for  sexual  offenders.   There  are   also
+         programmes associated with the Power to Change Programme  aimed  at
+         facilitating the development of insight in perpetrators of domestic
+         physical and sexual violence."
+
+47. She then continues to comment:
+
+         "If [the appellant] were to engage in  such  intervention  that  is
+         available ... it is my  view  that  he  has  the  intelligence  and
+         potential sensitivity to develop a significant level of insight."
+
+48. Dr Gardner's view concerning  the  importance  of  maintaining  contact
+    between the appellant  and  his  children  and  the  "very  significant
+    protective factor" of his  love  and  commitment  to  his  children  is
+    repeated at para 4.5.6 even after Dr Gardner notes at para  4.5.4  that
+    it is
+
+         "unlikely that [the appellant] would  have  fully  engaged  in  any
+         intervention that would have enabled  him  to  develop  appropriate
+         insight into the offences."
+
+49. That is a reference to the fact that the appellant was unable,  through
+    unavailability, to engage in any programmes whilst in custody.
+
+50. The point nevertheless remains that Dr  Gardner  recommends  supervised
+    contact and emphasises the importance that the programme will  have  in
+    allowing the appellant to address and understand issues concerning  his
+    behaviour.
+
+51. Mr Richards put to the appellant in cross-examination that, in  effect,
+    his  denial  of  his  guilt  made  any  such  courses  pointless.   The
+    appellant's response, which  we  found  persuasive,  was  that  he  was
+    prepared to attend these courses and indeed would be seeking to  do  so
+    shortly because it was important to him to maintain  contact  with  his
+    children and he could only do  so  if  he  attended  these  programmes.
+    That, we  note,  is  part  of  the  agreement  appended  to  the  court
+    proceedings between the appellant, his ex-partner and CAFCASS.
+
+52. Thirdly, the report of the CAFCASS Guardian, Ms Lund dated  13  October
+    2014 also supports supervised contact between the appellant and his two
+    children.  She notes that that is the wish of the elder child,  F,  who
+    is 12 years old and the younger child, K is curious to know  about  her
+    father.  The CAFCASS Guardian also recommends that the appellant attend
+    a parenting skills course and programmes for perpetrators  of  domestic
+    violence and states that:   "I  will  undertake  enquiries  as  to  the
+    availability of both programmes."
+
+53. In cross-examination, Mr Richards explored with the  appellant  whether
+    he was serious about attending such courses.  He had not done so before
+    Christmas.  The appellant's explanation was that he was  working  as  a
+    lorry driver and that was a busy work period when he could earn  enough
+    money to pay his solicitor's bills which he said  were  high.   He  had
+    every intention of attending courses.
+
+54. We entirely accept the appellant's explanation.  There is no doubt that
+    the appellant has been faced with solicitor's bills which have to paid,
+    we were told, on the basis that he is paid something in the order of �8
+    per hour.  His explanation has an undoubted 'ring of truth'  about  it.
+    Equally, the availability of courses seems to be a matter which Ms Lund
+    has undertaken to make enquiries about and provide the  appellant  with
+    an opportunity to  attend.   We  accept  that  it  is  the  appellant's
+    intention to  attend  these  courses.   In  response  to  Mr  Richards'
+    submission,  we  do  not  accept  that  simply  because  the  appellant
+    continues  to  deny  his  offending  that  these  courses  will   prove
+    valueless.  Certainly, Dr Gardner, who is an expert, did not  think  so
+    since she recommended these courses despite being well aware  that  the
+    appellant continued  to  deny  his  offences.   When  he  attends,  the
+    appellant will necessarily have to engage with the programmes in  order
+    to complete them successfully.  That very engagement may well,  in  our
+    view, consistently with Dr Gardner's opinion, enable the  appellant  to
+    gain the relevant "insight" which Dr  Gardner  concludes  he  currently
+    lacks.  The programmes may well provide the key to the currently closed
+    doors in the appellant's mind.   We  had  no  doubt  of  his  sincerity
+    because, like Dr Gardner, we are satisfied that  he  is  determined  to
+    maintain his contact with F and K  with  whom  he  has  a  very  strong
+    paternal attachment.
+
+55. The appellant's resolve to maintain contact and conduct himself  so  as
+    to maintain it is supported  by  the  CAFCASS  Guardian,  Ms  Lund,  as
+    reported in the email of 6 January 2015.  She reports favourably on the
+    contact, initially with F and subsequently with F and K.  She comments:
+
+
+
+         "[The appellant] was very  appropriate  with  both  children,  very
+         sensitive and interacted with them both well.  Both  children  want
+         contact to continue and whereas mother does not want  to  see  [the
+         appellant] she knows that the children want to see their father."
+
+56. Referring to a further contact hearing scheduled for 2 March  2015,  Ms
+    Lund's view is reported that:
+
+         "If things stay the same, she will  be  recommending  that  contact
+         should continue.  It is very beneficial for both  children  to  see
+         and have contact with their father.  She is very supportive of [the
+         appellant] staying in the UK to have contact and agrees that if  he
+         was deported [the appellant] would be unlikely to see his  children
+         for many years as their mother would not take the children  to  see
+         [the appellant] as she does not want to have any contact with  him.
+         It is likely, particularly in  K's  case  that  the  children  will
+         forget their father if he is deported.  The children need  to  have
+         regular contact with their father."
+
+57. Whilst the issue of the  children's  best  interests  is  not  directly
+    relevant in determining the issue under reg. 21(5)(c),  this  evidence,
+    which we accept and which is entirely consistently  with  all  that  we
+    were shown, demonstrates the importance of  continued  contact  between
+    the appellant and his children and that he is endeavouring to  maintain
+    that contact which, in our view, is entirely contingent upon his future
+    good behaviour including attending the required courses.
+
+58. Finally, the appellant's Probation Officer, Ms Fisher in her letter  of
+    2 October 2014 directed to the family court dealing  with  the  contact
+    proceedings, concludes that the appellant has given no indication  that
+    he poses "a risk to  his  children".   Having  noted  the  NOMS  Report
+    assessment shortly  after  the  appellant  was  imprisoned,  Ms  Fisher
+    comments:
+
+         "[The appellant] pleaded not guilty to this  offence  and  has  not
+         shifted on this position, however this does not imply he  poses  an
+         ongoing risk to female partners."
+
+59. She then continues that the risk of "medium harm" relates  not  to  any
+    lack of "progress" or because  of  "any  risk  associated  thoughts  or
+    behaviour" but "due to the seriousness of the charge made against him."
+
+60. We were also told by the appellant in his evidence that he has been  in
+    a new relationship for one year and twelve days.  His new  partner  was
+    present at the hearing.  He was not cross-examined in relation to  that
+    relationship and we have no reason to doubt  the  appellant's  evidence
+    which we accept.
+
+61. It follows, therefore, that since the appellant's release  from  prison
+    in May 2013 he has not re-offended including within the  specific  risk
+    category that he was considered to  fall  within,  namely  to  his  ex-
+    partner or future partners.
+
+62. In assessing what risk, if any, the appellant poses in  the  future  we
+    must take into account all the evidence as at the date of this hearing.
+     We see no reason to doubt that his behaviour has been exemplary  since
+    his release from prison.
+
+63. We now turn to the four question posed in BF (Portugal) set  out  above
+    at para 26.
+
+64. First, the "relevant personal conduct" of the appellant is his criminal
+    offending, namely his conviction for rape and attempted rape of his ex-
+    partner in April 2012 for which he received a prison sentence of  three
+    years.  The appellant has no previous convictions and no offences  have
+    been committed subsequently (BF Question (1)).
+
+65. Secondly, as required by EU law, we must consider whether the appellant
+    represents  a  "genuine,  present  and  sufficiently   serious   threat
+    affecting one of the fundamental interests of  society"  (BF  questions
+    (2) and (3)).
+
+66. In itself, the appellant's previous criminal conviction cannot  justify
+    a decision to deport him as an EU national on "public policy"  grounds.
+    That is because a "present" threat looks  to  the  future  rather  than
+    merely to the past.  In that respect, there is a divergence between the
+    approach in an EU deportation case, as we have already noted above, and
+    a  deportation  concerning  a  non-EU  national  where  past   criminal
+    convictions may, in themselves, be sufficiently serious to  justify  an
+    individual's deportation in the public interest (see OH (Serbia) v SSHD
+    [2008] EWCA Civ 694).
+
+67. There can be no doubt that the nature of any potential re-offending  by
+    the appellant, given the seriousness of those  offences,  would  affect
+    "one of the fundamental interests of society", namely the protection of
+    the public.  The issue in this appeal is whether  or  not  there  is  a
+    "genuine, present and sufficiently serious threat", in effect, of  that
+    offending re-occurring.
+
+68. The NOMS Report classified the appellant's risk as "low"  and  went  so
+    far as to place the risk at "13 per cent".  We have taken into account,
+    as a significant and important factor,  the  views  of  the  sentencing
+    judge.  As we have already noted, we do not  understand  her  views  to
+    exclude the possibility of future offending.  The Judge  was,  however,
+    plainly of the view that the appellant posed  no  real  threat  in  the
+    future.
+
+69. We do consider that the subsequent  expert  and  professional  evidence
+    taken together with the conduct of the appellant since his release from
+    prison does, in our judgment, diminish that "low"  risk  identified  in
+    the NOMS Report.  We are particularly impressed and  persuaded  by  the
+    evidence of the appellant and the experts concerning his commitment  to
+    his children and to maintain contact with them which  provides  a  very
+    strong incentive indeed, in our view, for the appellant both to  attend
+    what professionals consider to be helpful programmes  and  to  maintain
+    future good behaviour, including future offending or  face  the  almost
+    inevitable  consequence  that  contact  with  his  children   will   be
+    significantly reduced or taken away.   We  do  not  consider  that  the
+    appellant's continued denial of the offence is inconsistent  with  that
+    view, indeed, that was the point being made by his  probation  officer,
+    Ms Fisher, in her letter of 2 October 2014 with which we agree.
+
+70. The expert and other evidence in this appeal is of a  singular  quality
+    pointing  in  the  appellant's  favour.   Whilst  we   cannot   exclude
+    altogether a risk of re-offending, the evidence before us  establishes,
+    in our  judgment,  that  that  risk  is  speculative,  remote  and  not
+    concrete.
+
+71. There is no suggestion that the appellant has a "propensity" to  commit
+    sexual offences and, in our judgment, applying Blake J's view in  Essa,
+    we do not  consider  there  is  an  "unacceptably  high"  risk  of  the
+    appellant re-offending such that he would present a  "genuine,  present
+    and sufficiently serious threat" as required by reg. 21(5)(c).  We make
+    that finding bearing  well  in  mind  the  nature  of  the  appellant's
+    offending and the degree of condemnation that will be rightly  directed
+    against his behaviour.  However,  the  legal  regime  for  removing  or
+    deporting EU criminals  is  more  restrictive  than  it  is  for  other
+    "foreign national"  criminals  and  the  public  interest  required  to
+    justify deportation in EU  cases  is  significantly  narrower  than  in
+    cases involving the deportation of non-EU nationals..
+
+72. On the basis of  our  finding,  the  appellant  cannot  be  removed  or
+    deported as an EU national.  The issue  of  proportionality,  does  not
+    arise (BF question 4).  The foundation requirement in reg. 21(5)(c) has
+    not been established by the respondent.
+
+73. As a result of that decision, no purpose is served by  considering  the
+    appellant's deportation under Art 8.
+
+74. For the above reasons, the appellant's appeal is allowed under the  EEA
+    Regulations.
+
+
+
+
+                                                                      Signed
+
+                                                                     A Grubb
+                                                 Judge of the Upper Tribunal
+
+                                                             28 January 2015

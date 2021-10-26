@@ -1,0 +1,642 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number: IA/08127/2015
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Decided on the papers at Field House |Decision & Reasons Promulgated       |
+|On 11 January 2017                   |On 12 January 2017                   |
+|                                     |                                     |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE SMITH
+
+
+                                   Between
+
+                               MR TALHA TAHIR
+                                                                   Appellant
+                                     and
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+                            DECISION AND REASONS
+
+Background
+
+   1. By a decision promulgated on 7  October  2016  ("the  Decision"),  the
+      Tribunal (myself and Deputy Upper Tribunal Judge Davey) found there to
+      be an error of law  in  the  decision  of  First-tier  Tribunal  Judge
+      Chamberlain  promulgated  on  17  December  2015  which  allowed   the
+      Appellant's  appeal.   We  therefore  set  aside  Judge  Chamberlain's
+      decision and gave directions for the re-making of the decision leading
+      to a determination on the papers.  Our  Decision  is  included  as  an
+      appendix to this decision for ease of reference.
+
+   2. Following further directions made on 23  November  2016,  this  matter
+      comes before me to re-make the decision.  In my directions given on 23
+      November 2016, I indicated that  if  either  party  required  an  oral
+      hearing, they should notify the Tribunal  within  fourteen  days  from
+      promulgation of those directions; otherwise the decision would be  re-
+      made based on the written submissions on the  papers.   Neither  party
+      has requested an oral hearing.
+
+The Issues
+
+   3. The factual background to this appeal appears at [2] of the  Decision.
+      As there stated, the Respondent refused  the  Appellant's  application
+      for leave to remain as a Tier 2 (General) Migrant on the basis that he
+      was unable to satisfy  paragraph  14(d)(iii)  of  Appendix  J  to  the
+      Immigration Rules ("paragraph  14(d)(iii)").   This  was  because  the
+      Respondent asserted that the appropriate salary rate was  that  of  an
+      "experienced worker" and not a "new entrant" and  the  salary  in  the
+      certificate of sponsorship  was  at  a  lower  level  (although  would
+      satisfy the "new entrant" rate).
+
+   4.  The  Appellant's  original  grounds  did  not  take  issue  with  the
+      Respondent's  interpretation  of  paragraph  14(d)(iii)  but   instead
+      contended that, if the basis of that rejection was  only  due  to  the
+      period of leave sought (as it was), then the Respondent should  simply
+      have granted leave limited to that period rather  than  rejecting  the
+      application as a whole (there  being  no  other  basis  on  which  the
+      Respondent rejected the  application).   Reference  was  made  in  the
+      grounds to [70] of the Tier 2 policy guidance  which  states  that  an
+      individual would be granted leave up to five years  depending  on  the
+      job start and end dates  in  the  certificate  of  sponsorship.    The
+      Appellant  submitted  however  that  the   Respondent   retained   the
+      discretion to grant leave for a lesser period.
+
+   5. The appeal came before Judge Chamberlain on 1 December 2015.   By  her
+      decision promulgated on 17 December 2015, she allowed the  Appellant's
+      appeal on the basis that  the  Respondent  was  wrong  to  refuse  the
+      application as she found  that  the  Appellant's  salary  fell  to  be
+      considered on the  basis  of  the  "new  entrant"  rate  and  not  the
+      "experienced worker" rate  (paragraph  [10]  of  her  decision).   Her
+      interpretation appears to be founded on the Appellant's submission set
+      out at [8] of the decision that the Appellant's  application  was  not
+      one to extend his stay in Tier 2 but rather to switch from Tier  4  to
+      Tier 2.
+
+   6. The Respondent appealed on the basis that Judge  Chamberlain  had  not
+      considered whether the remainder of  paragraph  14(d)  was  met.   The
+      basis on which the Respondent contended  that  Judge  Chamberlain  had
+      misdirected herself in relation to interpretation  of  the  Rules  was
+      because the Judge had failed to consider the  remainder  of  paragraph
+      14(d).  The Respondent went through  each  of  the  sub-paragraphs  of
+      paragraph 14(d)(i) of Appendix J ("paragraph 14(d)(i)") and  contended
+      that the Appellant could not meet any of those sub-paragraphs. I  note
+      at this point that the Respondent's grounds did not directly challenge
+      the Judge's interpretation  of  paragraph  14(d)(iii)  other  than  to
+      assert that the Judge had erred at [10] of  her  decision  by  finding
+      that the application was a new application under Tier 2.  That  though
+      has to be read in the context of  what  follows  as  relating  to  the
+      Judge's failure to consider paragraph 14(d)(i).
+
+   7. At the error of law hearing, the Appellant  contended  that  he  could
+      meet paragraph 14(d)(i) on the basis that he fell under the  route  of
+      scoring points from the  Post-Study  Work  provisions  of  Appendix  A
+      (14(d)(i)(1)).  That was disputed by the Respondent in her grounds  on
+      the basis only of assertion that the Appellant did  not  score  points
+      from the Post Study Work provisions and  the  Presenting  Officer  who
+      represented the Respondent on that occasion was taken by  surprise  by
+      the Appellant's submission (see [9] of the Decision).  We found in any
+      event an error of law on the basis  that  Judge  Chamberlain  had  not
+      considered whether paragraph 14(d)(i) was met and,  if  so,  how.   We
+      invited written submissions from both parties as to how the  Appellant
+      met the provisions in paragraph 14(d) or why he did not do so.
+
+   8. The Respondent's submissions received on 20 December 2016 accept  that
+      the Appellant is able to meet paragraph 14(d)(i) on the basis that the
+      Appellant asserts, namely that he  can  satisfy  the  post-study  work
+      provisions of Appendix A (and therefore meets paragraph  14(d)(i)(1)).
+      The Respondent submits however that the Appellant  remains  unable  to
+      meet paragraph 14(d) as a whole for her original reasons  namely  that
+      the Appellant is unable to meet paragraph 14(d)(iii).
+
+   9. Paragraph 14(d) of Appendix J reads so far as relevant as follows:-
+
+           "Appendix J: Paragraph 14(d)
+           (d)   Where both 'new entrant' and 'experienced worker' rates
+                 are stated in Tables 1 to 5, the 'new entrant' rate will
+                 only apply if
+           (i)   the applicant:
+           (1)   is applying as a Tier 2 (General) Migrant and scores
+                 points from the Post-Study Work provisions of Appendix A
+           ........    or
+           (4)   was under the age of 26 on the date the application was
+           made;
+           and
+           (ii)  the applicant is applying for entry clearance or leave to
+                 remain (not for indefinite leave to remain); and
+           (iii) the applicant is not applying for a grant of leave that
+                 would extend his total stay in Tier 2 and/or as a Work
+                 Permit Holder beyond 3 years and 1 month".
+
+
+  10. The other relevant provisions of the Immigration Rules are set out  at
+      [7] of the Decision.  Given the narrowness of the issue, however, I do
+      not propose to repeat reference to the other provisions there cited.
+
+  11.  There  remains  therefore  only  one   issue   namely   the   correct
+      interpretation  of  paragraph  14(d)(iii)  of  Appendix   J   to   the
+      Immigration Rules.  That issue too is confined to  what  is  meant  by
+      "applying for a grant of leave that would extend  his  total  stay  in
+      Tier 2 .... beyond 3 years and 1 month".
+
+  12. On this issue, I note that the parties' respective written submissions
+      are surprisingly sparse.   The Appellant focusses on meeting paragraph
+      14(d)(i)(1) and although it is said at [9] of the submissions that the
+      Appellant meets the  requirement  of  paragraph  14(d)(iii)  "for  the
+      following reasons" what follows appears directed to  the  requirements
+      of paragraph 14(d)(i)(1) and not to the period of leave sought or  how
+      the phrase referred to  at  [11]  above  is  to  be  interpreted.  The
+      Respondent for her part submits that, as  the  Appellant  applied  for
+      leave for five years, his salary  fell  to  be  assessed  against  the
+      "experienced worker" rate.  There is no attempt  to  explain  why  the
+      word "extend" is used at paragraph 14(d)(iii) nor is  there  reference
+      to any policy or guidance to explain how the Respondent  construes  or
+      applies this provision.
+
+   Discussion and conclusions
+
+  13. Paragraph 14(d)(iii) refers to a grant of leave which  would  "extend"
+      an applicant's total stay in Tier 2 beyond three years and one  month.
+      Whilst that provision is  not  entirely  free  of  ambiguity,  on  its
+      meaning in immigration terms, that would normally be read as  applying
+      to an "extension" of a grant of leave in the Tier 2 category.   It  is
+      common ground that the Appellant applied to switch from Tier 4 to Tier
+      2.  That is therefore not an  application  to  extend  leave  in  that
+      category but rather an application to  switch  from  being  a  Tier  4
+      migrant to the Tier 2 category ie a new  application  in  that  latter
+      category.
+
+  14. As I have indicated, however, the phrase is not free  from  ambiguity.
+      Without the use of the word "extend", it would be  fairly  clear  that
+      the Appellant could  not  meet  the  terms  of  paragraph  14(d)(iii).
+      Although the application form does  not  state  the  period  of  leave
+      sought, it does state at [L1b] that the Appellant is seeking leave for
+      more than three years.  Generally, the period sought is linked to  the
+      period of employment in the certificate of  sponsorship  and  in  this
+      case that was five years (ending 18 January 2020).
+
+  15. The Immigration Rules are  not  primary  legislation  and  should  not
+      necessarily be interpreted as narrowly as a  statute  which  has  been
+      subjected to intense scrutiny of successive drafts in  the  course  of
+      Parliamentary debates.  The  word  "extend"  is  capable  of  a  wider
+      meaning in other contexts.  It can mean not only to enlarge  something
+      but also to include something or continue something.  On the basis  of
+      that wider meaning, the phrase under consideration might be capable of
+      meaning merely a grant of leave which "leads to" or "culminates in"  a
+      period exceeding three years and one month.
+
+  16. In light of the potential ambiguity, I have had regard to the guidance
+      published by the Respondent when this provision was  first  introduced
+      and the explanatory  statement  from  the  Immigration  Rules  in  the
+      statement of changes  when  paragraph  14(d)(iii)  of  the  Rules  was
+      introduced (6 April  2013).   In  relation  to  the  latter  (HC1039),
+      paragraph 7.9 of the explanatory statement which deals with this  rule
+      change does not refer to paragraph 14(d)(iii) at all.
+
+  17. It is clear though that the new entrant rate  was  introduced  by  the
+      updated  Code  of  Practice  for  sponsors.   Paragraph  9.1  of   the
+      explanatory statement refers to a Statement of Intent in  relation  to
+      the changes to Codes of Practice in this regard. That  might  tend  to
+      support the Respondent's interpretation of this provision as it states
+      (following  the  setting  out  of  what  are  now  the  categories  in
+      14(d)(i)):-
+
+           "In all cases, applicants will not be  classed  as  new  entrant
+           employees if they are applying to extend  their  total  stay  in
+           Tier 2 and/or as a work permit holder beyond 3 years and 1 month
+           (the maximum grant for initial Tier 2 applications)"
+
+      However, that  does  not  assist  for  three  reasons.   Firstly,  the
+      Statement of Intent states  in  terms  that  it  represents  only  the
+      Government's current intentions (in March 2013) and is not necessarily
+      a definitive account of the  Codes  of  Practice.   Secondly,  in  any
+      event, it still uses the same wording as the  provision  in  the  rule
+      which does not  explain  what  is  meant  by  "extend".   Thirdly,  it
+      suggests that the maximum grant for initial  Tier  2  applications  is
+      three years and  one  month  which  might  also  militate  towards  an
+      interpretation that any application beyond that  period  would  be  an
+      extension application.
+
+  18. Finally, the Code of Practice introducing this change  (which  appears
+      to be that dated 1 October 2013 - Version 10/13) does not support  the
+      Respondent's interpretation.  As with the explanatory statement to the
+      Rules, that sets out the categories which mirror  those  in  paragraph
+      14(d)(i) and then continues as follows:-
+
+           "The pay thresholds for experienced workers are set at the  25th
+           percentile for full-time employees in each occupation....  These
+           pay thresholds apply to all other Tier 2  applicants,  including
+           those who were previously classed  as  new  entrants  when  they
+           apply to extend their total stay in Tier 2... beyond 3 years and
+           1 month (the maximum grant for initial Tier 2  applications)..."
+           [my emphasis]
+
+      That then appears to envisage that the maximum period  for  which  the
+      "new entrant" rate applies and for which an initial Tier 2 application
+      could be  granted  is  the  period  of  three  years  and  one  month.
+      Thereafter, those who applied for that maximum period as new  entrants
+      would apply to "extend their  ...  stay".   At  that  point,  the  new
+      entrant rate could not apply.
+
+  19. That is consistent also with the terminology in paragraph  14(d)(iii).
+      The relevance of paragraph 14(d) is to the rate of  salary  which  the
+      applicant has to earn in order to satisfy the requirement for leave to
+      remain as a Tier 2 migrant.  There are  two  options  for  which  rate
+      applies - the "new entrant" rate and the  "experienced  worker"  rate.
+      The Appellant is not an "experienced worker".  His  leave  up  to  the
+      point of this application has been as a student.  As such, he is a new
+      entrant to the Tier 2 category. He has not previously had leave either
+      as a work permit holder.  If the question were asked therefore whether
+      this applicant is a new entrant or an experienced worker,  the  answer
+      would be obvious.
+
+  20. For all of the above reasons, I am persuaded that the better  view  as
+      to the interpretation of paragraph 14(d)(iii) is that the new  entrant
+      rate applies.  The  Respondent  now  accepts  that  the  remainder  of
+      paragraph 14(d) is satisfied.   Accordingly,  the  Appellant's  appeal
+      succeeds.
+
+  21. I also observe  that,  even  if  I  were  wrong  in  relation  to  the
+      interpretation of paragraph 14(d)(iii),  the  Respondent  would  still
+      appear to have the discretion to grant less than the period  specified
+      in the certificate of sponsorship.  The Appellant's skeleton  argument
+      for the hearing before the First-tier Tribunal indicates at  [6]  that
+      the Appellant's prospective employer, Pizza & Pizza Ltd, explained  to
+      the Appellant that there had been other cases in the past  where  they
+      had offered the rate  for  "new  entrants"  to  prospective  employees
+      applying for a period longer than three years and one month and  those
+      cases were successful.  That is  confirmed  also  in  the  Appellant's
+      witness statement at [6].
+
+   Decision
+
+   The Appellant's appeal is allowed
+
+Signed      [pic]Dated:      11 January 2017
+
+
+Upper Tribunal Judge Smith
+                                  APPENDIX
+
+                    ERROR OF LAW DECISION AND DIRECTIONS
+
+                            DECISION AND REASONS
+
+      Background
+
+   1. This is an appeal by the Secretary of State.  For ease  of  reference,
+      we refer below to the parties as they were in the First-Tier  Tribunal
+      albeit that the Secretary of State is  technically  the  Appellant  in
+      this particular appeal.
+
+   2. The Appellant is a  national  of  Pakistan  who  appeals  against  the
+      Respondent's decision dated 13 February 2015 to refuse his application
+      for leave to remain as a Tier  2  (General)  Migrant.   Prior  to  his
+      application as a Tier 2 migrant, the Appellant was in the UK as a Tier
+      4 general student.  The Respondent  refused  his  application  on  the
+      basis that he was unable to satisfy paragraph 14(d) of Appendix  J  to
+      the Immigration Rules as he was applying for a grant  of  leave  which
+      would "extend his total stay in Tier 2" to more than three  years  and
+      one month.  If paragraph 14(d) does not apply,  then  the  appropriate
+      salary rate is that for "experienced workers" and not  that  for  "new
+      entrants".  The new entrant rate at the relevant time and for the code
+      which applies in this case was  �18,800  per  annum.  The  experienced
+      worker's rate would be �26,000 per annum.  It is common  ground  that,
+      since the Appellant's salary in  his  certificate  of  sponsorship  is
+      �21,500 per annum, he could not then satisfy the Rules  as  a  Tier  2
+      migrant.
+
+   3. By a decision promulgated on 17 December 2015 ("the Decision"), First-
+      tier Tribunal Judge Chamberlain allowed the Appellant's  appeal.   She
+      did so on the basis that, since the Appellant's previous leave was  as
+      a tier 4 student and although the certificate of sponsorship  referred
+      to a job offer for more than three years and one month, this  did  not
+      amount to an extension of stay in that category but was a  new  grant.
+      As such,  the  Respondent  had  been  wrong  to  find  that  paragraph
+      14(d)(iii) was not satisfied.  Since that was the only basis  for  the
+      Respondent's refusal, she allowed the appeal.
+
+   4. The Judge also made a finding at [11] of the Decision that  the  other
+      requirements of paragraph 14(d) were satisfied.   In  her  application
+      for permission  to  appeal,  the  Respondent  challenged  the  Judge's
+      finding in relation to paragraph 14(d)(iii)  but  also  raised  a  new
+      issue, namely that the Appellant could not satisfy paragraph  14(d)(i)
+      of Appendix J.  The Respondent pointed out that the Appellant  is  not
+      under the age of twenty-six and  therefore  does  not  meet  paragraph
+      14(d)(i)(4) and nor, she contended did he meet any of the other  three
+      sub-paragraphs of that Rule.
+
+   5. Permission was refused by First-tier Tribunal Judge Pooler on  3  June
+      2016 on the basis  that  the  Respondent's  grounds  did  not  provide
+      reasons why the Appellant could not satisfy paragraph  14(d)(i)(1)  of
+      Appendix J.  Accordingly, the grounds were merely a disagreement  with
+      the outcome.  Upper Tribunal Judge Rintoul granted permission  however
+      on the basis that the Judge  may  have  erred  in  treating  paragraph
+      14(d)(iii) as being in the alternative  to  the  other  conditions  in
+      paragraph 14(d)(i) to (iv) of Appendix J  rather  than  an  additional
+      condition.  As we understand that grant, it is  a  reflection  of  the
+      fact that the Judge may not  have  considered  whether  the  Appellant
+      could also meet paragraph 14(d)(i) of Appendix J.
+
+   6. The appeal comes before us to decide whether the Decision contains  an
+      error of law and if so to either remake  the  decision  or  remit  the
+      appeal to the First-tier Tribunal for redetermination.
+
+
+      The Applicable Immigration Rules
+
+   7. The sections of the Rules relevant  or  potentially  relevant  to  the
+      Appellant's case are as follows (as set out in the Decision and so far
+      as material to it and the parties' arguments):-
+
+           "Appendix J: Paragraph 14(d)
+           (d)   Where both 'new entrant' and 'experienced worker' rates
+           are stated in Tables 1 to 5, the 'new entrant' rate will only
+           apply if
+           (i)   the applicant:
+           (1)   is applying as a Tier 2 (General) Migrant and scores
+                 points from the Post-Study Work provisions of Appendix A
+           ........    or
+           (4)   was under the age of 26 on the date the application was
+      made;
+           and
+             ii) the applicant is applying for entry clearance or leave to
+                 remain (not for indefinite leave to remain); and
+            iii) the applicant is not applying for a grant of leave that
+                 would extend his total stay in Tier 2 and/or as a Work
+                 Permit Holder beyond 3 years and 1 month".
+
+           Appendix A: Post-Study Work
+           78B   In order for a Resident Labour Market  Test  exemption  to
+           apply for post-study work:
+           a) the applicant must be applying for leave to remain
+           b) the applicant must have, or have  last  been  granted,  entry
+              clearance, leave to enter or leave to remain as:
+              ....
+              (6)      a Student
+              ....
+              and
+           c) Where (b)(5) to (12)  apply,  the  applicant  must  meet  the
+              requirements of paragraph 245HD(d) of these Rules
+
+
+           Paragraph 245HD: Requirements for leave to remain
+           To qualify for leave to remain as a Tier 2 (General)  Migrant...
+           under this rule, an applicant must meet the requirements  listed
+           below. If the  applicant  meets  these  requirements,  leave  to
+           remain will be granted.  If the applicant does  not  meet  these
+           requirements, the application will be refused.
+           Requirements:
+           a) The applicant must not fall for  refusal  under  the  general
+              grounds for refusal, and must not be an illegal entrant.
+           b) The applicant must:
+                    i) have, or have last  been  granted,  entry  clearance,
+                       leave to enter or leave remain as:
+                       ....
+                       or
+                   ii) have, or have last  been  granted,  entry  clearance,
+                       leave to enter or leave to remain as:
+                       ....
+                      2) a Student,
+                         ....
+           ....
+           (d)   An applicant under the provisions in  (b)(ii)  above  must
+                 meet the following requirements:
+              i) The applicant must have completed and passed:
+                 1) a UK recognised bachelor's or  master's  degree  (not  a
+                    qualification of equivalent level which is not a degree)
+                 ....
+             ii) The applicant must have studied for the course in (d)(i) at
+                 a UK institution that is a UK recognised or listed body, or
+                 which holds a sponsor licence under Tier 4  of  the  Points
+                 Based System
+           (iii)The applicant must have studied the course referred  to  in
+           (d)(i) during:
+                 ...., or
+                 2) a period of continuous leave  which  includes  his  last
+                    grant of leave (for these purposes continuous leave will
+                    not be considered to have been  broken  if  any  of  the
+                    circumstances set  out  in  paragraphs  245AAA(a)(i)  to
+                    (iii) of these Rules apply)
+           (iv) The applicant's periods of UK study and/or research towards
+           the course in (i) must have been undertaken whilst he had  entry
+           clearance, leave to enter or leave to remain in the UK that  was
+           not subject to a restriction  preventing  him  from  undertaking
+           that course of study and/or research.
+           (v) If the institution studied at is removed  from  the  Tier  4
+           Sponsor Register, the applicant's qualification  must  not  have
+           been obtained on or after the date of removal from  the  Sponsor
+           Register.
+           ....
+           (vii) The applicant must provide an original degree certificate,
+           academic transcript or an academic reference on official  headed
+           paper of the institution, which clearly shows:
+                    1) The applicant's name,
+                    2) the course title/award,
+                    3) the course duration (except in the case of  a  degree
+                       certificate) and
+                    4) unless the course is a PhD course, the date of course
+                       completion and pass (or the date of award in the case
+                       of a degree certificate)
+           ....
+           (f) If applying as a Tier 2  (General)  Migrant,  the  applicant
+           must have a minimum of 50 points under paragraphs 76 to  79D  of
+           Appendix A"
+
+Submissions
+
+   8. Ms Ahmad  relied  on  the  Appellant's  inability  to  meet  paragraph
+      14(d)(i) of Appendix J on the basis that he was aged twenty-six  years
+      at the date of application and was not therefore under twenty-six.
+
+   9. Mr Gajjar submitted  that  paragraph  14(d)(i)  was  met  because  the
+      Appellant could meet paragraph 14(d)(i)(1) of Appendix J.  He referred
+      us to Appendix J as in force at the relevant time and we have set  out
+      the provisions which he says are relevant to this  case  above.   That
+      submission appeared to take Ms Ahmad by surprise.  She referred us  to
+      the case of EG and  NG  (UT  rule  17:  withdrawal;  rule  24:  scope)
+      Ethiopia [2013] UKUT 00143 (IAC).  The relevant part of  the  headnote
+      reads as follows:-
+
+           "[3]  A party that seeks  to  persuade  the  Upper  Tribunal  to
+           replace a decision of the First-tier Tribunal  with  a  decision
+           that would make a material difference  to  one  of  the  parties
+           needs permission to appeal.  The Upper Tribunal cannot entertain
+           an  application  purporting  to  be  made  under  rule  24   for
+           permission to appeal until  the  First-tier  Tribunal  has  been
+           asked in writing for permission to appeal and has either refused
+           it or declined to admit the application"
+
+      Having read the decision in that case, the circumstances of this  case
+      are very different.  Whilst it is correct to point out that there  was
+      no rule 24 notice before us,  the  effect  of  the  Respondent  having
+      appealed the Decision is that the outcome would be either that we find
+      a material error of law in which case the Decision is set aside and we
+      would have to re-make it afresh or we find that there is  no  material
+      error of law in which case the Decision stands (and  the  Respondent's
+      appeal fails).   We  did  not  understand  Ms  Ahmad  to  dispute  the
+      proposition put to her that, in the event of a setting  aside  of  the
+      Decision and re-making, it would be open to us to consider what  seems
+      to be an alternative basis now posited by  the  Appellant  whereby  he
+      could meet paragraph 14(d).
+
+Discussion and conclusions
+
+  10. We start by observing a point which has only occurred to us since  the
+      hearing which  concerns  the  version  of  the  Rules,  in  particular
+      Appendix J, which applies.  The  archived  immigration  rules  suggest
+      that the version of paragraph 14(d) of  Appendix  J  set  out  in  the
+      Decision does not appear to be that in force as at  13  February  2015
+      (the date of the Respondent's  decision).   The  differences  are  not
+      substantial and do not appear to us to be material to the way in which
+      either party puts its case.  We have in any event made directions  for
+      further submissions to be made to us at the end of this  decision  and
+      the parties therefore have the opportunity to respond  to  this  point
+      before the final disposal of this appeal.  In order to avoid confusion
+      in particular in relation to the numbering within paragraph 14(d),  we
+      have continued to refer below to the version of that paragraph as  set
+      out in the Decision even though that version may not  be  the  correct
+      one.
+
+  11. We start by considering the issue relating to paragraph 14(d)(iii)  of
+      Appendix J.  This is dealt with by Judge Chamberlain at  [10]  of  her
+      Decision as follows:-
+
+           "I find that the Appellant applied for further leave to  remain.
+           I find that he was previously in the United Kingdom with a  Tier
+           4 General Student visa, as stated in the notice of decision.   I
+           therefore find that he was not applying for a grant of leave  to
+           "extend his total stay in Tier 2", as he has never been  granted
+           leave before in Tier 2.  The period of the job stated on the CoS
+           is in excess of three years and one month, but this  is  not  an
+           application to "extend" his stay as a Tier 2  migrant.   He  has
+           never been granted leave as a "Work Permit Holder".  I therefore
+           find that the Appellant  meets  the  requirements  of  paragraph
+           14(d)(ii) of Appendix J as he did not apply for a grant of leave
+           which would "extend" his total stay  in  the  categories  stated
+           beyond three years and one month.  I find that  the  wording  of
+           paragraph 14(d)(iii) indicates that the new entrant rate is  not
+           to be used for applicants who are applying to extend their  Tier
+           2 visas beyond the specified time period.  It does not refer  to
+           applicants making their first application for a Tier 2 visa"
+
+  12. We are satisfied that if this were the only issue the Respondent would
+      not have demonstrated that the Decision  contains  an  error  of  law.
+      Whilst paragraph 14(d)(iii) may well be ambiguous, it  is  capable  of
+      bearing the meaning which the Judge found for the  reasons  she  gave.
+      That  is  perhaps  reinforced  when  one  considers  what   is   under
+      consideration in that paragraph, namely whether  a  person  should  be
+      treated as a  "new  entrant"  for  Tier  2  purposes  or  "experienced
+      worker".  That tends to suggest that a person such  as  the  Appellant
+      who has not previously worked but has  been  in  the  UK  for  another
+      purpose is a "new  entrant"  and  should  be  treated  accordingly  in
+      relation to the salary applicable to him.
+
+  13. We are though satisfied that the Decision contains an error of law  in
+      relation to the second of the Respondent's grounds and the  one  which
+      found favour with Judge Rintoul.  Having found that the Appellant  met
+      paragraph 14(d)(iii), Judge Chamberlain continued as follows  at  [11]
+      of the Decision:-
+
+           "I find that the  Appellant  meets  the  other  requirements  of
+           paragraph  14(d).   He  was  awarded  points  as  claimed  under
+           Appendix A for sponsorship, and he is  not  applying  indefinite
+           leave to remain.  Therefore I find that  the  new  entrant  rate
+           applies to the Appellant's application"
+
+  14. We have already noted at [4] above, that the Respondent had not  taken
+      issue in her reasons for  refusal  letter  in  relation  to  paragraph
+      14(d)(i) of Appendix J.  However, neither did she accept it  was  met.
+      The finding in the Respondent's decision is that  paragraph  14(d)  is
+      not met and  that  therefore  the  "experienced  worker"  salary  rate
+      applies.  Although the reason given related to  paragraph  14(d)(iii),
+      it was incumbent on the Judge if she rejected that reason to  consider
+      whether that paragraph was otherwise met as, if it were not, then  the
+      application would still fall to be considered against the "experienced
+      worker" rate and would still fail.
+
+  15. We have looked at the Appellant's  grounds  and  evidence  before  the
+      Judge.   If that clearly showed that the Appellant argued his case  on
+      the basis that paragraph 14(d)(i)(1) was met in the way that Mr Gajjar
+      submitted before us and had produced  evidence  to  substantiate  that
+      case, we might have found that there was no material error of  law  in
+      spite of the lack of reasons given at [11] of the Decision.  As it is,
+      we can find no written record of submissions on  this  point  nor  any
+      evidence which would enable us to  conclude  that  the  provisions  of
+      paragraph  14(d)(i)(1)  of  Appendix  J  read  with  Appendix  A   are
+      undoubtedly met.  We therefore find that there is an error of  law  in
+      relation to the Judge's finding that paragraph 14(d) of Appendix J  as
+      a whole is met.
+
+  16. We canvassed with Ms Ahmad and Mr Gajjar at the  hearing  what  course
+      this appeal should take if we found an error of law as we  have  done.
+      Both representatives accepted that this is a case  where  remittal  is
+      not necessary and that the decision can be re-made in  this  Tribunal.
+      We have noted at [9] above, that Ms Ahmad was taken by surprise by  Mr
+      Gajjar's submissions which were not pre-empted by any rule 24  notice.
+      We have also noted at [15] above, that there does not appear to be any
+      evidence before us on  which  we  could  determine  whether  paragraph
+      14(d)(i)(1) is met.   We therefore consider that the fairest course to
+      both parties is to adjourn the appeal at  this  stage  and  to  permit
+      further submissions and evidence to be produced.   We  therefore  make
+      directions below to deal with the further progress of this appeal.
+
+
+   DECISION
+
+
+   The First-tier Tribunal Decision did involve the making of an error on  a
+   point of law.  We set aside the Decision.
+
+
+   In relation to the re-making of  the  decision,  we  make  the  following
+   directions:-
+
+     1. Within 14 days from the date of promulgation of this decision,  the
+        Appellant shall file and serve submissions in writing  setting  out
+        his position in relation to whether and, if so, how he is  able  to
+        meet paragraph 14(d) of Appendix J (so far as  relevant  read  with
+        Appendix A) to the Immigration Rules (and  which  version  he  says
+        applies).  He shall also, by the same date, submit any evidence  on
+        which he relies in support of those submissions.
+
+     2. Within 14 days from receipt  of  the  Appellant's  submissions  and
+        evidence (if any) at [1] above, the Respondent shall file and serve
+        written submissions in response together with any evidence from the
+        Appellant's file on which she relies.
+
+     3. Within 7 days from receipt  of  the  Respondent's  submissions  and
+        evidence (if any) at [2] above, the Appellant shall file and  serve
+        written submissions in response.
+
+     4. The appeal will thereafter be determined by  the  Tribunal  on  the
+        papers  unless  either  party  notifies  the  Tribunal  with  their
+        submissions that an oral hearing is required.
+
+     5. The parties may apply to the Tribunal on notice to the other  party
+        if they seek a variation of  these  directions  or  any  additional
+        directions.
+
+
+
+
+
+
+
+      Signed      [pic]Date    7 October 2016
+
+      Upper Tribunal Judge Smith
+
+
+

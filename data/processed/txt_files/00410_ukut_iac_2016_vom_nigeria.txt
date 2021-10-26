@@ -1,0 +1,1256 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+VOM (Error of law - when appealable) Nigeria [2016] UKUT 00410 (IAC)
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House, London                 |Decision Promulgated **       |
+|On 19 July 2016                              |                              |
+|                                             |..............................|
+|                                             |.........                     |
+
+
+                                   Before
+
+                  The Hon. Mr Justice McCloskey, President,
+                         Vice President Ockelton and
+                         Upper Tribunal Judge Dawson
+
+                                   Between
+
+                                     VOM
+                                                                   Appellant
+
+                                     and
+
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+Representation:
+
+Appellant:    Mr R Khubber, of counsel, instructed by Lawrence Lupin
+           Solicitors
+Respondent:   Ms J Anderson, of counsel, instructed by the Government Legal
+           Department
+
+
+In a statutory appeal, the right of appeal under s 13 of the 2007 Act does
+not arise until the Upper Tribunal has completed the process required by s
+12.
+
+
+                           INTERLOCUTORY DECISION
+
+
+ 1. Direction Regarding Anonymity -  Rule  14  of  the  Tribunal  Procedure
+    (Upper Tribunal) Rules 2008
+
+    We emphasise at the outset that the Appellant  has  the  protection  of
+    anonymity. Accordingly, unless and until a tribunal  or  court  directs
+    otherwise, the Appellant is granted  anonymity.   No  report  of  these
+    proceedings shall directly or indirectly identify her or any member  of
+    her family.  This direction applies both to the Appellant  and  to  the
+    Respondent.  Failure to  comply  with  this  direction  could  lead  to
+    contempt of court proceedings.
+
+Introduction
+
+
+ 2. This is a case in which both parties have been  granted  permission  to
+    appeal to the Upper Tribunal (the "UT").  We  shall,  for  convenience,
+    continue to describe the original appellant, VOM,  as  "the  Appellant"
+    and the Secretary of  State  for  the  Home  Department,  the  original
+    respondent, as "the Respondent".
+
+The Issue
+
+
+ 3. The issue hereby determined is whether a party to appeal proceedings in
+    the Upper Tribunal (the "UT") has a right to apply  for  permission  to
+    appeal to the Court  of  Appeal  against  a  determination  of  the  UT
+    incorporating the twin elements of (a) finding an error of law  in  the
+    decision of the  First-tier  Tribunal  (the  "FtT")  and  setting  such
+    decision aside accordingly. While these are the  specific  contours  of
+    the question which has arisen in the instant case, it may be said  that
+    the broader question which arises is whether there is a right to  apply
+    for permission to appeal to the Court of  Appeal  against  any  act  or
+    determination of the UT which is not finally dispositive of the  appeal
+    of which it is seized. The resolution  of  this  issue  hinges  on  two
+    provisions of primary legislation, namely Sections 12  and  13  of  the
+    Tribunals, Courts and Enforcement Act 2007 (the "2007 Act").
+
+The Proceedings to Date
+
+
+ 4. The stimulus for the successive appeals to the FtT and the UT in  these
+    proceedings was  a  decision  of  the  Secretary  of  State,  dated  26
+    September 2013, refusing to revoke a deportation order made in  respect
+    of the Appellant, a national of Nigeria aged 38 years.   This  decision
+    has generated the following series of judicial interventions:
+
+ a) By its decision promulgated on 01 August 2014  the  FtT  dismissed  the
+    ensuing appeal under the Immigration Rules and allowed it under Article
+    8 ECHR.
+
+ b) By a decision dated 15 August 2014 a  Judge  of  the  FtT  refused  the
+    Appellant's application for permission to appeal to the UT.
+
+ c) The Secretary of State also applied to the FtT for permission to appeal
+    to the UT and, by oversight, this application was not determined.
+
+ d) By the decision of a Judge of the UT  dated  04  December  2014,  which
+    omitted to take cognisance of the oversight  noted  immediately  above,
+    both parties were granted permission to appeal to the  UT.  As  regards
+    the Appellant, the case made in the grounds of appeal was that  the  UT
+    should have allowed his appeal under the Immigration Rules and  Article
+    3 ECHR.
+
+ e) The last-mentioned decision was set aside in part for irregularity by a
+    further decision of a Judge of the UT dated 19 November 2015.
+
+ f) By a separate  decision  of  the  same  date  the  same  Judge  granted
+    permission to the Secretary of State to appeal  to  the  UT,  based  on
+    arguable error of law in the appeal having been allowed under Article 8
+    ECHR.
+
+ 5. The upshot of this entangled procedural history was a  listing  of  the
+    combined appeals before a Judge of the UT on  12  January  2016.   This
+    gave rise to the following  determination dated 05 February 2016:
+
+         "The making of the decision of the First-tier Tribunal did  involve
+         the making of an error on a point of law insofar as the  assessment
+         of exceptional circumstances in paragraph 398  of  the  Immigration
+         Rules is concerned.  I set aside the decision insofar as it relates
+         to that finding.  The First-tier Tribunal did not err in law in its
+         findings with regard to Article 3 and  I  do  not  set  aside  that
+         decision".
+
+    The  UT  Judge  formulated  certain   consequential   case   management
+    directions  relating  to  the  provision  of  evidence  and,   further,
+    provisionally relisting the appeal for hearing on 15 March 2016 for the
+    purpose of remaking the decision of the FtT.
+
+ 6. The last-mentioned judicial act of  the  UT  was  the  impetus  for  an
+    application by the Appellant, by a notice dated 25  February  2016,  in
+    the following terms:
+
+         "The Appellant seeks permission to appeal to the  Court  of  Appeal
+         against the decision of the UT -
+
+         (i)  On Article 8 ECHR and by way  of  the  UT  setting  aside  the
+             decision of the FtT which had allowed the  Appellant's  appeal
+             previously.
+
+         (ii) On Article 3 ECHR, by way of the UT concluding that there were
+             no material errors of law in the determination of the  FtT  on
+             this ground such that the FtT's decision  should  not  be  set
+             aside and reconsidered".
+
+    In short, the Appellant contends that the twofold conclusion of the  UT
+    Judge (a)  finding an error of law in the decision of the FtT  (to  the
+    Appellant's  detriment)  and  (b)  setting  aside  such   decision   in
+    consequence is vitiated by error of law.   For  the  purposes  of  this
+    decision no exploration of the asserted errors of law is necessary.
+
+Statutory Framework
+
+
+ 7.  The  statutory  lineage  begins  with  certain   provisions   of   the
+    Nationality,  Immigration  and  Asylum  Act  2002  (the  "2002   Act").
+    References in section 82 to "the Tribunal" denote the FtT.
+
+    Section 82
+
+         "Right of appeal to the Tribunal
+
+         (1)  A person ('P') may appeal to the Tribunal where -
+
+             (a)  the Secretary of State has decided to refuse a protection
+                  claim made by P,
+
+             (b)  the Secretary of State has  decided  to  refuse  a  human
+                  rights claim made by P, or
+
+             (c)   the  Secretary  of  State  has  decided  to  revoke  P's
+                  protection status.
+
+         (2)  For the purposes of this Part -
+
+             (a)  a 'protection claim' is a claim made by  a  person  ('P')
+                  that removal of P from the United Kingdom -
+
+                  (i)  would breach the United Kingdom's  obligations  under
+                      the Refugee Convention, or
+
+                  (ii) would breach  the  United  Kingdom's  obligations  in
+                      relation  to  persons  eligible  for   a   grant   of
+                      humanitarian protection;
+
+             (b)  P's protection claim is refused if the Secretary of State
+                  makes one or more of the following decisions -
+
+                  (i)  that removal of P from the United Kingdom  would  not
+                      breach the United  Kingdom's  obligations  under  the
+                      Refugee Convention;
+
+                  (ii) that removal of P from the United Kingdom  would  not
+                      breach the United Kingdom's obligations  in  relation
+                      to persons  eligible  for  a  grant  of  humanitarian
+                      protection;
+
+             (c)  a person has 'protection status' if the person  has  been
+                  granted leave to enter or remain in the United Kingdom  as
+                  a  refugee  or  as  a  person  eligible  for  a  grant  of
+                  humanitarian protection;
+
+             (d)   'humanitarian  protection'  is  to   be   construed   in
+                  accordance with the immigration rules;
+
+             (e)   'refugee'  has  the  same  meaning  as  in  the  Refugee
+                  Convention.
+
+
+
+         (3)  The right of appeal under subsection (1)  is  subject  to  the
+             exceptions and limitations specified in this Part."
+
+    Section 104
+
+         "Pending appeal
+
+         (1)  An appeal under section 82(1) is pending during the period-
+
+             (a)  beginning when it is instituted, and
+
+             (b)  ending  when  it  is  finally  determined,  withdrawn  or
+                  abandoned (or when it lapses under section 99).
+
+         (2)  An appeal under section 82(1) is not  finally  determined  for
+             the purpose of subsection (1)(b) while -
+
+             (a)  an application for permission to appeal under section  11
+                  or 13 of the Tribunals, Courts and  Enforcement  Act  2007
+                  could be made or is awaiting determination,
+
+             (b)  permission to appeal under either of those  sections  has
+                  been granted and the appeal is awaiting determination, or
+
+             (c)  an appeal has been remitted under section  12  or  14  of
+                  that Act and is awaiting determination.
+
+         (4A) An appeal under section 82(1) brought by a person while he  is
+             in the United Kingdom shall be treated  as  abandoned  if  the
+             appellant is granted leave to enter or remain  in  the  United
+             Kingdom (subject to [subsection (4B)] 5 ).
+
+         (4B) Subsection (4A) shall not apply to an appeal in so far  as  it
+             is brought on [a ground specified in section 84(1)(a)  or  (b)
+             or 84(3) (asylum or  humanitarian  protection)]  6  where  the
+             appellant-
+
+              (b) gives notice,  in  accordance  with  [Tribunal  Procedure
+                  Rules]
+
+         These provisions of  primary  legislation  must  be  considered  in
+         tandem with those of the 2007 Act rehearsed above."
+
+ 8. While the principal ingredients of the statutory matrix are Sections 12
+    and 13 of the 2007 Act, we begin with Section  11,  which  provides  in
+    material part:
+
+    Section 11
+
+         "Right to appeal to Upper Tribunal
+
+         (1)  For the purposes of subsection (2), the reference to  a  right
+             of appeal is to a right to appeal to the Upper Tribunal on any
+             point of law arising from a decision made  by  the  First-tier
+             Tribunal other than an excluded decision.
+
+         (2)  Any party to  a  case  has  a  right  of  appeal,  subject  to
+             subsection (8).
+
+         (3)  That right may be  exercised  only  with  permission  (or,  in
+             Northern Ireland, leave).
+
+         (4)  Permission (or leave) may be given by -
+
+             (a)  the First-tier Tribunal, or
+
+             (b)  the Upper Tribunal,
+
+             on an application by the party.
+
+         (5)  For the purposes of subsection (1), an 'excluded decision'  is
+             -
+
+             (a)  any decision of the First-tier Tribunal on an appeal made
+                  in exercise of a right conferred by the Criminal  Injuries
+                  Compensation Scheme in compliance with section 5(1)(a)  of
+                  the  Criminal  Injuries  Compensation  Act  1995  (c.  53)
+                  (appeals against decisions on reviews),
+
+             (aa) any decision of the First-tier Tribunal on an appeal made
+                  in exercise  of  a  right  conferred  by  the  Victims  of
+                  Overseas Terrorism Compensation Scheme in compliance  with
+                  section 52(3) of the Crime and Security Act 2010,
+
+             (b)  any decision of the  First-tier  Tribunal  on  an  appeal
+                  under section 28(4) or (6) of the Data Protection Act 1998
+                  (c. 29) (appeals against national security certificate),
+
+             (c)  any decision of the  First-tier  Tribunal  on  an  appeal
+                  under section 60(1) or (4) of the Freedom  of  Information
+                  Act  2000  (c.  36)  (appeals  against  national  security
+                  certificate),
+
+             (d)  a decision of the First-tier Tribunal under section 9 -
+
+                  (i)  to review, or not to review, an earlier  decision  of
+                      the tribunal,
+
+                  (ii) to take no action, or  not  to  take  any  particular
+                      action, in the  light  of  a  review  of  an  earlier
+                      decision of the tribunal,
+
+                  (iii)    to set aside an earlier decision of the tribunal,
+                      or
+
+                  (iv) to refer, or not to refer,  a  matter  to  the  Upper
+                      Tribunal,
+
+             (e)  a decision of the First-tier Tribunal that is  set  aside
+                  under section 9 (including  a  decision  set  aside  after
+                  proceedings on an appeal  under  this  section  have  been
+                  begun), or
+
+             (f)  any decision of the First-tier  Tribunal  that  is  of  a
+                  description  specified  in  an  order  made  by  the  Lord
+                  Chancellor.
+
+         (6)  A description may be specified under subsection (5)(f) only if
+             -
+
+             (a)  in the case of a decision of that description, there is a
+                  right to appeal to a court,  the  Upper  Tribunal  or  any
+                  other tribunal from the decision and  that  right  is,  or
+                  includes, something other than a right (however expressed)
+                  to appeal on any point of law arising from  the  decision,
+                  or
+
+             (b)  decisions of that description are made in carrying out  a
+                  function transferred under section 30  and  prior  to  the
+                  transfer of the function under section 30(1) there was  no
+                  right to appeal from decisions of that description.
+
+         (7)  Where -
+
+             (a)  an order under subsection (5)(f) specifies a  description
+                  of decisions, and
+
+             (b)  decisions of that description are made in carrying out  a
+                  function transferred under section 30,
+
+             the order must be framed so as to come  into  force  no  later
+             than the time when  the  transfer  under  section  30  of  the
+             function takes effect (but power to revoke the order continues
+             to be exercisable after that time,  and  power  to  amend  the
+             order continues to be exercisable  after  that  time  for  the
+             purpose of  narrowing  the  description  for  the  time  being
+             specified).
+
+         (8)  The Lord Chancellor may by order make provision for  a  person
+             to be treated as being, or to be treated as not being, a party
+             to a case for the purposes of subsection (2)."
+
+    Section 12
+
+         "Proceedings on appeal to Upper Tribunal
+
+         (1)  Subsection (2) applies if the Upper Tribunal, in  deciding  an
+             appeal under section 11, finds that the making of the decision
+             concerned involved the making of an error on a point of law.
+
+         (2)  The Upper Tribunal -
+
+             (a)  may (but need not) set aside the decision of  the  First-
+                  tier Tribunal, and
+
+             (b)  if it does, must either-
+
+                  (i)  remit  the  case  to  the  First-tier  Tribunal  with
+                      directions for its reconsideration, or
+
+                  (ii) re-make the decision.
+
+         (3)  In acting under subsection (2)(b)(i), the Upper  Tribunal  may
+             also -
+
+             (a)  direct that the members of the  First-tier  Tribunal  who
+                  are chosen to reconsider the case are not to be  the  same
+                  as those who made the decision that has been set aside;
+
+             (b)   give  procedural  directions  in  connection  with   the
+                  reconsideration of the case by the First-tier Tribunal.
+
+         (4)  In acting under subsection (2)(b)(ii), the Upper Tribunal-
+
+             (a)  may make any decision which the First-tier Tribunal could
+                  make  if  the  First-tier  Tribunal  were  re-making   the
+                  decision, and
+
+             (b)   may  make  such  findings  of  fact  as   it   considers
+                  appropriate. "
+
+    Section 13
+
+         "Right to appeal to Court of Appeal etc.
+
+         (1)  For the purposes of subsection (2), the reference to  a  right
+             of appeal is to a right to appeal to  the  relevant  appellate
+             court on any point of law arising from a decision made by  the
+             Upper Tribunal other than an excluded decision.
+
+         (2)  Any party to  a  case  has  a  right  of  appeal,  subject  to
+             subsection (14).
+
+         (3)  That right may be  exercised  only  with  permission  (or,  in
+             Northern Ireland, leave).
+
+         (4)  Permission (or leave) may be given by-
+
+             (a)  the Upper Tribunal, or
+
+             (b)  the relevant appellate court,
+
+             on an application by the party.
+
+         (5)  An application  may  be  made  under  subsection  (4)  to  the
+             relevant appellate court only if  permission  (or  leave)  has
+             been refused by the Upper Tribunal.
+
+         (6)  The Lord Chancellor may,  as  respects  an  application  under
+             subsection (4) that falls within subsection (7) and for  which
+             the relevant appellate court is the Court of Appeal in England
+             and Wales or the Court of Appeal in Northern Ireland, by order
+             make provision for permission (or leave) not to be granted  on
+             the application unless the Upper Tribunal or (as the case  may
+             be) the relevant appellate court considers-
+
+             (a)  that the proposed appeal would raise some important point
+                  of principle or   practice, or
+
+             (b)  that there  is  some  other  compelling  reason  for  the
+                  relevant appellate court to hear the appeal.
+
+         (6A) Rules of court may make provision for  permission  not  to  be
+             granted on an application under subsection (4) to the Court of
+             Session that falls within  subsection  (7)  unless  the  court
+             considers -
+
+             (a)  that the proposed appeal would raise some important point
+                  of principle [ or practice] , or
+
+             (b)  that there is some other compelling reason for the  court
+                  to hear the appeal.
+
+         (7)  An application falls within this subsection if the application
+             is for permission (or leave) to appeal from  any  decision  of
+             the Upper Tribunal on an appeal under section 11.
+
+         (8)  For the purposes of subsection (1), an 'excluded decision'  is
+             -
+
+             (a)  any decision of the Upper Tribunal  on  an  appeal  under
+                  section 28(4) or (6) of the Data Protection Act  1998  (c.
+                  29) (appeals against national security certificate),
+
+             (b)  any decision of the Upper Tribunal  on  an  appeal  under
+                  section 60(1) or (4) of the  Freedom  of  Information  Act
+                  2000  (c.   36)   (appeals   against   national   security
+                  certificate),
+
+             (c)  any decision of the  Upper  Tribunal  on  an  application
+                  under section  11(4)(b)  (application  for  permission  or
+                  leave to appeal),
+
+             (d)  a decision of the Upper Tribunal under section 10-
+
+                  (i)  to review, or not to review, an earlier  decision  of
+                      the tribunal,
+
+                  (ii) to take no action, or  not  to  take  any  particular
+                      action, in the  light  of  a  review  of  an  earlier
+                      decision of the tribunal, or
+
+                  (iii)    to set aside an earlier decision of the tribunal,
+
+             (e)  a decision of the Upper Tribunal that is set aside  under
+                  section  10  (including  a  decision   set   aside   after
+                  proceedings on an appeal  under  this  section  have  been
+                  begun), or
+
+             (f)   any  decision  of  the  Upper  Tribunal  that  is  of  a
+                  description  specified  in  an  order  made  by  the  Lord
+                  Chancellor.
+
+         (9)  A description may be specified under subsection (8)(f) only if
+             -
+
+             (a)  in the case of a decision of that description, there is a
+                  right to appeal to a court  from  the  decision  and  that
+                  right is,  or  includes,  something  other  than  a  right
+                  (however expressed) to appeal on any point of law  arising
+                  from the decision, or
+
+             (b)  decisions of that description are made in carrying out  a
+                  function transferred under section 30  and  prior  to  the
+                  transfer of the function under section 30(1) there was  no
+                  right to appeal from decisions of that description.
+
+         (10) Where -
+
+             (a)  an order under subsection (8)(f) specifies a  description
+                  of decisions, and
+
+             (b)  decisions of that description are made in carrying out  a
+                  function transferred under section 30,
+
+             the order must be framed so as to come  into  force  no  later
+             than the time when  the  transfer  under  section  30  of  the
+             function takes effect (but power to revoke the order continues
+             to be exercisable after that time,  and  power  to  amend  the
+             order continues to be exercisable  after  that  time  for  the
+             purpose of  narrowing  the  description  for  the  time  being
+             specified).
+
+         (11) Before the Upper Tribunal decides an application  made  to  it
+             under subsection (4), the  Upper  Tribunal  must  specify  the
+             court that is to be the relevant appellate court  as  respects
+             the proposed appeal.
+
+         (12) The court to be specified under subsection (11) in relation to
+             a proposed appeal is whichever of the following courts appears
+             to the Upper Tribunal to be the most appropriate -
+
+             (a) the Court of Appeal in England and Wales;
+
+             (b) the Court of Session;
+
+             (c) the Court of Appeal in Northern Ireland.
+
+         (13)  In  this  section  except  subsection  (11),  'the   relevant
+             appellate court', as  respects  an  appeal,  means  the  court
+             specified as respects that appeal by the Upper Tribunal  under
+             subsection (11).
+
+         (14) The Lord Chancellor may by order make provision for  a  person
+             to be treated as being, or to be treated as not being, a party
+             to a case for the purposes of subsection (2).
+
+         (15) Rules of court may make provision as to the time within  which
+             an application under subsection (4) to the relevant  appellate
+             court must be made."
+
+ 9. The term "excluded decisions" in Section 13(1) of the 2007 Act is given
+    flesh  by  a  Statutory  Instrument,  namely  the   Appeals   (Excluded
+    Decisions)  Order  2009  (the  "2009  Order").   Article  2  lists  two
+    decisions of the FtT which are  "excluded  decisions".   In  Article  3
+    there is a list comprising thirteen "excluded decisions"  of  both  the
+    FtT and the UT.  While only the last of these, Article 3 (m), which was
+    added by the Tribunals, Courts and Enforcement Act 2007  (Miscellaneous
+    Provisions) Order 2010, effective from 15 February 2010,  falls  to  be
+    considered in the present  context,  it  is  appropriate  to  reproduce
+    Article 3 in full:
+
+         "For the purposes of sections 11(1) and  13(1)  of  the  Tribunals,
+         Courts and Enforcement Act 2007, the  following  decisions  of  the
+         First-tier Tribunal or the Upper Tribunal are excluded decisions -
+
+         (a)  any decision under section 20(7), (8B) or  (8G)(b)  (power  to
+             call for documents of taxpayer and  others),  20B(1B)  or  (6)
+             (restrictions  on  powers  under  sections  20  and  20A)   or
+             20BB(2)(a) (falsification etc.  of  documents)  of  the  Taxes
+             Management Act 1970 1;
+
+         (b)  any decision under section 35A(2) (variation of undertakings),
+             79A(2)  (variation  of  undertakings)  or  219(1A)  (power  to
+             require information) of the Inheritance Tax Act 1984;
+
+         (c)  any decision under section  152(5)  (notification  of  taxable
+             amount of certain benefits) or 215(7)  (advance  clearance  by
+             Board  of  distributions  and  payments)  of  the  Income  and
+             Corporation Taxes Act 1988;
+
+         (d)   any  decision  under  section  138(4)  of  the  Taxation   of
+             Chargeable  Gains  Act  1992  (procedure  for   clearance   in
+             advance);
+
+         (e)   any  decision  under  section  187(5)  or  (6)  (returns  and
+             information) of, or paragraph 3(2)  or  6(2)  of  Schedule  21
+             (restrictions on powers under section 187) to, the Finance Act
+             1993;
+
+         (f)  any decision under paragraph  91(5)  of  Schedule  15  to  the
+             Finance  Act  2000  (corporate   venturing   scheme:   advance
+             clearance);
+
+         (g)  any decision under paragraph  88(5)  of  Schedule  29  to  the
+             Finance Act 2002  (gains  and  losses  from  intangible  fixed
+             assets: transfer of business or trade);
+
+         (h)  any decision under paragraph 2, 4, 7,  9,  10,  11  or  24  of
+             Schedule 13 to the Finance Act  2003  (stamp  duty  land  tax:
+             information powers);
+
+         (i)  any decision under section 306A (doubt as  to  notifiability),
+             308A  (supplemental  information),  313B  (reasons  for   non-
+             disclosure:  supporting  information)  or   314A   (order   to
+             disclose) of the Finance Act 2004;
+
+         (j)  any decision under section 697(4) of the Income Tax  Act  2007
+             (opposed notifications: determinations by tribunal);
+
+         (k)  any decision under regulation 10(3)  of  the  Venture  Capital
+             Trust  (Winding  up  and  Mergers)  (Tax)   Regulations   2004
+             (procedure for Board's approval);
+
+         (l)  any decision under regulation 5A (doubt as to  notifiability),
+             7A  (supplemental  information),   12B   (reasons   for   non-
+             disclosure: supporting information) or 12C (order to disclose)
+             of the National Insurance Contributions (Application of Part 7
+             of the Finance Act 2004) Regulations 20074.
+
+         (m)  any procedural, ancillary  or  preliminary  decision  made  in
+             relation to an appeal against a decision under section 40A  of
+             the  British  Nationality  Act  1981,  [section  82   of   the
+             Nationality, Immigration and Asylum Act 2002] , or  regulation
+             26 of the Immigration  (European  Economic  Area)  Regulations
+             2006."
+
+10. We draw attention also to certain provisions of the Tribunal  Procedure
+    (Upper Tribunal) Rules 2008 (the "2008 Rules") which have  featured  in
+    the debate.  First there is the overriding objective:
+
+    Rule 2
+
+         "Overriding objective and parties' obligation  to  co-operate  with
+         the Upper Tribunal
+
+         (1)  The overriding objective of these Rules is to enable the Upper
+             Tribunal to deal with cases fairly and justly.
+
+         (2)  Dealing with a case fairly and justly includes -
+
+             (a)  dealing with the case in ways which are proportionate  to
+                  the importance of the case, the complexity of the  issues,
+                  the anticipated costs and the resources of the parties;
+
+             (b)  avoiding unnecessary formality and seeking flexibility in
+                  the proceedings;
+
+             (c)  ensuring, so far as practicable,  that  the  parties  are
+                  able to participate fully in the proceedings;
+
+             (d)   using  any  special  expertise  of  the  Upper  Tribunal
+                  effectively; and
+
+             (e)   avoiding  delay,  so  far  as  compatible  with   proper
+                  consideration of the issues.
+
+         (3)  The Upper Tribunal must seek to give effect to the  overriding
+             objective when it -
+
+             (a)  exercises any power under these Rules; or
+
+             (b)  interprets any rule or practice direction.
+
+         (4)  Parties must -
+
+             (a)   help  the  Upper  Tribunal  to  further  the  overriding
+                  objective; and
+
+             (b)  co-operate with the Upper Tribunal generally."
+
+    Next, the UT is given extensive case management powers:
+
+    Rule 5
+
+         "Case management powers
+
+         (1)  Subject to the provisions  of  the  2007  Act  and  any  other
+             enactment, the Upper Tribunal may regulate its own procedure.
+
+         (2)  The Upper Tribunal may give a direction  in  relation  to  the
+             conduct or disposal of proceedings at any  time,  including  a
+             direction amending, suspending or  setting  aside  an  earlier
+             direction.
+
+         (3)  In particular, and without restricting the general  powers  in
+             paragraphs (1) and (2), the Upper Tribunal may -
+
+             (a)  extend or shorten the time for complying with  any  rule,
+                  practice direction or direction;
+
+             (b)   consolidate  or  hear  together  two  or  more  sets  of
+                  proceedings or parts of proceedings raising common issues,
+                  or treat a case as a lead case;
+
+             (c)  permit or require a party to amend a document;
+
+             (d)  permit or require a party or another  person  to  provide
+                  documents, information, evidence  or  submissions  to  the
+                  Upper Tribunal or a party;
+
+             (e)  deal with an issue in the proceedings  as  a  preliminary
+                  issue;
+
+             (f)  hold a hearing to consider any matter, including  a  case
+                  management issue;
+
+             (g)  decide the form of any hearing;
+
+             (h)  adjourn or postpone a hearing;
+
+             (i)  require a party to produce a bundle for a hearing;
+
+             (j)  stay (or, in Scotland, sist) proceedings;
+
+             (k)  transfer proceedings to another court or tribunal if that
+                  other court or tribunal has jurisdiction  in  relation  to
+                  the proceedings and-
+
+                  (i)  because  of  a  change  of  circumstances  since  the
+                      proceedings  were  started,  the  Upper  Tribunal  no
+                      longer  has   jurisdiction   in   relation   to   the
+                      proceedings; or
+
+                  (ii) the Upper Tribunal considers that the other court  or
+                      tribunal  is  a  more  appropriate  forum   for   the
+                      determination of the case;
+
+             (l)  suspend the effect of its own decision pending an  appeal
+                  or review of that decision;
+
+             (m)  in an appeal, or an application for permission to appeal,
+                  against the decision  of  another  tribunal,  suspend  the
+                  effect of that decision pending the determination  of  the
+                  application for permission to appeal, and any appeal;
+
+             (n)  require any person, body or other tribunal whose decision
+                  is the subject of proceedings before the Upper Tribunal to
+                  provide reasons for the decision, or other information  or
+                  documents in relation to the decision or  any  proceedings
+                  before that person, body or tribunal.
+
+         (4)  The Upper Tribunal may direct that a fast-track case cease  to
+             be treated as a fast-track case if -
+
+             (a)  all the parties consent; [or]
+
+             (b)  the Upper Tribunal is satisfied that [...]the  appeal  or
+                  application could not be  justly  determined  if  it  were
+                  treated as a fast-track case [.]
+
+         (5)  In a financial services case, the Upper  Tribunal  may  direct
+             that the effect of  the  decision  in  respect  of  which  the
+             reference has  been  made  is  to  be  suspended  pending  the
+             determination of the reference, if it is satisfied that to  do
+             so would not prejudice -
+
+             (a)   the  interests  of  any  persons   (whether   consumers,
+                  investors or otherwise) intended to be protected  by  that
+                  notice; [...]
+
+             (b)  the smooth operation or integrity of any market  intended
+                  to be protected by that notice [; or]
+
+             (c)  the stability of  the  financial  system  of  the  United
+                  Kingdom.
+
+         (6)  Paragraph (5) does not apply in the case  of  a  reference  in
+             respect of a decision of the Pensions Regulator.
+
+         (7)  In a wholesale energy case, the Upper Tribunal may direct that
+             the effect of the decision in respect of which  the  reference
+             has been made is to be suspended pending the determination  of
+             the reference."
+
+    We would also highlight, briefly, Rule 21,  which  contains  the  power
+    exercised in this case to grant permission  to  appeal  to  the  UT  in
+    circumstances where the FtT has refused to do so  and  the  outworkings
+    thereof, found in Rules 22 and 22A.
+
+11. Completing the statutory jigsaw we  draw  attention  to  the  so-called
+    "second appeal" test viz the test to be applied in the determination of
+    applications for permission to appeal from  the  UT  to  the  Court  of
+    Appeal.  Section 13(6) of the 2007 Act provides:
+
+         "The  Lord  Chancellor  may,  as  respects  an  application   under
+         subsection (4) that falls within subsection (7) and for  which  the
+         relevant appellate court is the Court  of  Appeal  in  England  and
+         Wales or the Court of Appeal in Northern  Ireland,  by  order  make
+         provision for permission (or  leave)  not  to  be  granted  on  the
+         application unless the Upper Tribunal or (as the case may  be)  the
+         relevant appellate court considers -
+
+         (a)  that the proposed appeal would raise some important  point  of
+             principle or practice, or
+
+         (b)  that there is some other compelling reason  for  the  relevant
+             appellate court to hear the appeal.
+
+         (6A) Rules of court may make provision for  permission  not  to  be
+             granted on an application under subsection (4) to the Court of
+             Session that falls within  subsection  (7)  unless  the  court
+             considers -
+
+             (a)  that the proposed appeal would raise some important point
+                  of principle [ or practice] , or
+
+             (b)  that there is some other compelling reason for the  court
+                  to hear the appeal".
+
+    The exercise of the power conferred on  the  Lord  Chancellor  by  this
+    provision is contained in the Constitutional Reform Act 2005.
+
+12. We would also mention the combined Immigration and Asylum  Chambers  of
+    the First-tier Tribunal and  the  Upper  Tribunal  Practice  Direction,
+    dated 10 February 2010, issued by the Senior  President  of  Tribunals.
+    Part 3 of this instrument  reflects  the  staged  nature  of  the  UT's
+    decision making process contemplated by section 12  of  the  2007  Act.
+    Paragraph 3.1 provides:
+
+         "Where permission to appeal to the Upper Tribunal has been granted,
+         then, unless and to the extent that they  are  directed  otherwise,
+         for the purposes of preparing for a hearing in the  Upper  Tribunal
+         the parties should assume that:-
+
+         (a)  the Upper Tribunal will  decide  whether  the  making  of  the
+             decision of the First-tier Tribunal involved the making of  an
+             error on a point of law, such that the decision should be  set
+             aside under section 12(2)(a) of the 2007 Act;
+
+         (b)  except as specified in Practice  Statement  7.2  (disposal  of
+             appeals by Upper Tribunal), the Upper Tribunal will proceed to
+             re-make the decision under section 12(2)(b)(ii), if  satisfied
+             that the original decision should be set aside; and
+
+         (c)  in that event, the Upper Tribunal will consider whether to re-
+             make the decision by reference to  the  First-tier  Tribunal's
+             findings of fact and any new  documentary  evidence  submitted
+             under UT rule 15(2A) which it  is  reasonably  practicable  to
+             adduce for consideration at that hearing."
+
+    The sequencing which the final decision making may involve is reflected
+    in the next three succeeding provisions:
+
+         "3.2  The parties  should  be  aware  that,  in  the  circumstances
+             described  in  paragraph  3.1(c),  the  Upper  Tribunal   will
+             generally expect to proceed, without any further  hearing,  to
+             re-make the decision, where this  can  be  undertaken  without
+             having to hear oral evidence. In  certain  circumstances,  the
+             Upper Tribunal may give directions  for  the  giving  of  oral
+             evidence at the relevant hearing, where it appears appropriate
+             to do so. Such directions may  be  given  before  or  at  that
+             hearing.
+
+         3.3  In a case where no oral evidence is likely to be  required  in
+             order for the Upper Tribunal  to  re-make  the  decision,  the
+             Upper Tribunal will therefore expect any documentary  evidence
+             relevant to the re-making of the decision  to  be  adduced  in
+             accordance with  Practice  Direction  4  so  that  it  may  be
+             considered at the  relevant  hearing;  and,  accordingly,  the
+             party seeking to rely on such  documentary  evidence  will  be
+             expected  to  show  good  reason  why  it  is  not  reasonably
+             practicable  to  adduce  the  same  in  order  for  it  to  be
+             considered at that hearing.
+
+         3.4  If the Upper Tribunal  nevertheless  decides  that  it  cannot
+             proceed as described in paragraph 3.1(c) because  findings  of
+             fact are needed which it is not in a  position  to  make,  the
+             Upper Tribunal will make arrangements for the  adjournment  of
+             the hearing, so that the proceedings may be  completed  before
+             the same constitution of the Tribunal;  or,  if  that  is  not
+             reasonably practicable, for  their  transfer  to  a  different
+             constitution, in either case so as to enable  evidence  to  be
+             adduced for that purpose."
+
+    The exercise of fitting the decision of the UT dated  12  January  2016
+    into the framework of both section 12 and  the  Practice  Direction  is
+    easily performed.
+
+The Parties' Contentions In Outline
+
+
+13. The cornerstone of the submissions of  Mr  Khubber  on  behalf  of  the
+    Appellant was that the words "a decision made by the Upper Tribunal" in
+    Section 13(1) of the 2007 Act embrace - within the compass  of  Section
+    12(1) and (2) - a finding that the decision of  the  FtT  involved  the
+    making of an error on a point of law and/or a consequential decision of
+    the UT setting aside the decision of the  FtT.   Mr  Khubber  submitted
+    that the statutory language is sufficiently broad  and  unqualified  to
+    warrant this construction.  He further submitted that this is supported
+    by the restrictive nature of the second appeal test.   He  argued  that
+    the determination of the UT under scrutiny  in  this  case  is  not  an
+    "excluded decision" within the meaning of  Article  3(m)  of  the  2009
+    Order.  Finally, he submitted that to reject the construction  espoused
+    by him would violate an appellant's right of access to a court.
+
+14. The main thrust of the argument development by Ms Anderson on behalf of
+    the Secretary of State was that the construction of Sections 12 and  13
+    of  the  2007  Act  advocated  by  the  Appellant  would   produce   an
+    unsatisfactory and  unworkable  result  which  Parliament  cannot  have
+    intended.  She submitted  that  the  statutory  regime  contemplates  a
+    single, indivisible appeal (our formula) from the UT to  the  Court  of
+    Appeal only at  the  stage  when  the  UT  appeal  process  is  finally
+    completed.  This, it was submitted, would give effect to  the  presumed
+    parliamentary intention of a sensible,  coherent  and  workable  appeal
+    model.  Ms Anderson's alternative submission was that the appeal  which
+    the Appellant purports to pursue is precluded by Article  3(m)  of  the
+    2009 Order in any event.
+
+Discussion
+
+
+15. We take as our starting point the well known principle that  no  appeal
+    lies to a superior  court  or  tribunal  unless  expressly  created  by
+    statute.  This principle is stated unambiguously in Halsbury's Laws  of
+    England, Volume 37 (4th Edition Reissue), paragraph 1501:
+
+         "An appeal is an application to a superior  Court  or  Tribunal  to
+         reverse, vary or set  aside  the  judgment,  order,  determination,
+         decision or award of an inferior Court or Tribunal in the hierarchy
+         of Courts or Tribunals on the ground that it was  wrongly  made  or
+         that as a matter of justice or law it requires to be corrected.   A
+         right of appeal is conferred by statute or  equivalent  legislative
+         authority; it is not a mere matter of  practice  or  procedure  and
+         neither the superior nor the inferior Court or  Tribunal  nor  both
+         combined can create or take away such a right."
+
+    [Emphasis added.]
+
+    As Lord Atkin stated with  admirable  simplicity  in  Evans  v  Bartlam
+    [1937] AC 473, at 480:
+
+         "Appellate jurisdiction is always statutory................".
+
+    Most recently one finds this fundamental principle illustrated  in  the
+    decision of the Supreme Court in Re D (A Child) [2016]  UKSC  34  which
+    involved the construction of section 40 of  the  Constitutional  Reform
+    Act 2005 and the Brussels II (Revised) Regulation.
+
+16. Next we remind ourselves of some basic  legal  doctrine.   We  commence
+    with the truism that the interpretation of any statute is  a  far  from
+    academic jaunt. Exercises in statutory  interpretation  are,  per  Lord
+    Bingham of Cornhill:
+
+         "...  directed to a particular statute,  enacted  at  a  particular
+         time, to  address  (almost  invariably)  a  particular  problem  or
+         mischief".
+
+    (R v Z [2005] UKHL 35, at [17]).
+
+    In R (Quintavalle) v the Secretary of State for Health [2003] 2 AC 687,
+    Lord Bingham stated at 695:
+
+         "The court's task, within the permissible bounds of interpretation,
+         is to give effect to Parliament's purpose.   So  the  controversial
+         provisions should be read in the context of the statute as a whole,
+         and the statute as a whole should be read in the historical context
+         of the situation which led to its enactment".
+
+17. Bearing in mind  the  latter  principle,  we  would  observe  that  the
+    delivery of swift, inexpensive and uncomplicated justice has long  been
+    the overarching ethos of tribunal adjudication. See, for  example,  the
+    discussion in Wade and Forsyth, Administrative Law (10th Edition),  per
+    pp 773 - 774.  This forms part of the context in which the 2007 Act was
+    introduced.  The background to this enactment includes  the  report  of
+    Sir Andrew Leggatt, followed by  a  White  Paper  (CM.6243/2004)  which
+    accepted many of its recommendations.  Sir Andrew's report contains the
+    following noteworthy passage, at paragraph 1.2:
+
+         "...   Tribunal's  procedures  and  approach  to   overseeing   the
+         preparation of cases and their hearing  can  be  simpler  and  more
+         informal than the courts, even after the civil justice reforms."
+
+    One of the main aims of the legislation which followed, in the form  of
+    the 2007 Act, was to introduce  the  "user-oriented  service"  strongly
+    recommended by Sir Andrew (see paragraph 1.4 of his report).
+
+18. A second, inter-related aspect of the context in which the 2007 Act was
+    devised is the overriding objective, with its emphasis  on  expedition,
+    finality and  the  suppression  of  avoidable  delay.   The  overriding
+    objective was, by 2007, firmly established in  civil  proceedings,  was
+    gaining a foothold in criminal proceedings and was being introduced  in
+    tribunal proceedings, at both tiers.  As regards the Upper Tribunal, it
+    is contained in Rule 2 of the Tribunal Procedure (Upper Tribunal) Rules
+    2008, which came into operation on 3 November 2008.  Generally, in  the
+    United Kingdom  legal  system  the  overriding  objective  and  related
+    measures, including wholesale reform of  rules  of  procedure  in  both
+    courts and tribunals, progressively gained traction during a period  in
+    which the imperative of  defeating  the  so-called  unholy  trinity  of
+    avoidable delay, excessive costs and  unwarranted  complication  became
+    increasingly dominant. By 2007 the Civil Procedure  Rules  were  firmly
+    entrenched, having been introduced on 26 April 1999.
+
+19. While the developments in civil and tribunal procedure noted above have
+    occurred during the last two decades,  there  is  nothing  novel  about
+    them.  The principle that legal  proceedings  should  be  concluded  as
+    expeditiously as possible is expressed in the longstanding Latin  maxim
+    interest rei publicae ut sit finis litium.  Over a century  has  passed
+    since this maxim was recognised as possessing "extreme value": by  Lord
+    Loreburn LC in Brown v Dean [1910] AC 373, at 374.   The  operation  of
+    this maxim in the discrete context of statutory construction and appeal
+    rights is illustrated in R v Pinfold [1988] QB 462, where Lord Lane  CJ
+    stated at 464:
+
+         "...  One must read those provisions against the background of  the
+         fact that it is in the interests of  the  public  in  general  that
+         there should be  a  limit  or  a  finality  of  legal  proceedings,
+         sometimes put in a Latin maxim,  but  that  is  what  it  means  in
+         English".
+
+    This maxim was also applied in a comparable legal  context,  albeit  in
+    matrimonial proceedings, in Hewitson v Hewitson [1995]  1  ALL  ER  472
+    (see particularly per Butler-Sloss LJ at [63] - [65].  Finally, in this
+    context,  we  remind  ourselves  of  the   presumption   of   statutory
+    construction that the law should serve the public interest: Bennion  on
+    Statutory Interpretation (Sixth Edition), page 722.
+
+20. We further take into account that, while this has manifested itself  in
+    contexts other than the present, one of the emerging  features  of  the
+    modern legal system is that of strong resistance  to  what  has  become
+    known as "satellite" litigation.  This species of litigation takes  the
+    form of proceedings in a  higher  court  or  tribunal,  frequently  via
+    judicial review challenges, brought in circumstances where the  process
+    of the lower court or tribunal  is  incomplete.   This  is  illustrated
+    particularly, and perhaps most famously, in  R  v  Director  of  Public
+    Prosecutions, ex Parte Kebeline [2000] 2 AC 326, at 371 per Lord Steyn.
+     This is further  illustrated  in  the  rejection  of  judicial  review
+    challenges to aspects of inquest proceedings pursued at  a  stage  when
+    the process is not complete.  See in particular McLuckie v Coroner  for
+    Northern Ireland [2011] NICA 34, at [26].
+
+21. This feature of contemporary litigation may be viewed as the up-to-date
+    application  of  the  venerable  maxim  discussed  above.   It  is  the
+    rationale of decisions such as Allen v Allen [1985] Fam 8,  which  held
+    that a construction of statutory provisions  requiring  a  litigant  to
+    pursue  separate  and  distinct  courses  of  appeal  against   various
+    decisions arrived at in  the  same  proceedings  will  if  possible  be
+    avoided.  This approximates very closely to the context under  scrutiny
+    in the present case.
+
+22. The key to answering the question of whether the Appellant can seek  to
+    pursue an  appeal  to  the  Court  of  Appeal  at  this  stage  of  the
+    proceedings,  via  an  application  for  permission  to  appeal,  lies,
+    firstly, in the construction of  Section  12  of  the  2007  Act.   Our
+    analysis and dissection of Section 12 are as follows:
+
+ a) The function, and responsibility, of the UT is to determine whether  an
+    appealable decision of the FtT is vitiated by error of law: see Section
+    11.
+
+ b) In performing this function, the first task of the UT is  to  determine
+    whether the decision of the FtT "involved the making of an error  on  a
+    point of law": per Section 12(1).
+
+ c) If the UT "finds" (the statutory word) that the decision of the FtT did
+    not involve the making of an error on a point of  law,  the  appeal  is
+    dismissed and the decision of the FtT affirmed.
+
+ d) If the UT finds that the decision of the FtT involved the making of  an
+    error on a point of law, it must then progress to a second stage  which
+    entails deciding whether to set aside the decision of  the  FtT  -  see
+    Section 12(2)(a) - an exercise which entails the assessment of  whether
+    the error  of  law  diagnosed  is  material.   This  is  the  rationale
+    underpinning the discretionary  power  conferred  on  the  UT  in  this
+    respect.
+
+ e) Where the UT, having found that the decision of the  FtT  involved  the
+    making of an error on a point of law, concludes, at the  second  stage,
+    that the error was  not  material  the  appeal  is  dismissed  and  the
+    decision of the FtT affirmed.
+
+ f) If, on the other hand, the  UT  decides  that  the  error  of  law  was
+    material, this completes the second stage and triggers a  third  stage,
+    at which a further decision must be made, namely whether to  remit  the
+    case to the FtT with directions for its reconsideration  or  to  remake
+    the decision of the FtT.
+
+ g) The operation of Section 12, therefore, throws up a series of  possible
+    steps, stages and outcomes.  The chief characteristic of some of  these
+    is that they are intermediate in nature.  This analysis applies to:
+
+ i) A finding that the decision of the UT was erroneous in law.
+
+ii) A determination, whether in tandem with or separate from  (a),  to  set
+    aside the decision of the FtT.
+
+iii) A determination, normally made in tandem  with  a  positive  set  aside
+    determination, of whether to remit the case to the FtT or retain it  in
+    the forum of the UT for the purpose of remaking the decision.
+
+23. In the present case, the act of the  UT  under  scrutiny  combined  the
+    three elements of finding an error of law of the FtT in  one  specified
+    respect, setting aside the decision of the  FtT  in  such  respect  and
+    retaining the appeal in the forum of the UT for the purpose of remaking
+    the decision of the FtT.  The Appellant's contention is that Section 13
+    of the 2007 Act permits intervention by the Court  of  Appeal  at  this
+    stage.  This contention can be sustained only if the UT decision of  05
+    February 2016 constitutes, in the language of Section 13(1) "a decision
+    made by the Upper Tribunal  other  than  an  excluded  decision".   The
+    question is whether it is a "decision" within the meaning and intent of
+    section 13.
+
+24.  The contention that the Appellant is entitled to  seek  permission  to
+    appeal to the Court of Appeal in order to challenge this type of purely
+    intermediate  determination  possesses,  in   our   view,   superficial
+    attraction  only.   The  fundamental  question  is  whether  Parliament
+    intended that an  interim  determination  of  this  species  should  be
+    challengeable on  appeal  at  an  interlocutory  stage  of  the  appeal
+    process.   We  have  identified  above  a  series  of  principles   and
+    imperatives which, we  consider,  inform  and  illuminate  the  correct
+    answer to this  question.   These  were  canvassed  with  the  parties'
+    counsel in the course of the hearing, eliciting no suggestion that this
+    approach is in any way misguided.  The panel explored with Mr  Khubber,
+    inter alia, the inter-related questions of what imperative is served by
+    the intervention of an appeal to the Court of Appeal at this  stage  of
+    these proceedings and what mischief flows from the assessment that this
+    recourse is not available to the Appellant now but arises only when the
+    process of the UT is completed.  We are unable to identify in counsel's
+    submissions any imperative to be served or any mischief to  be  avoided
+    in the construction advanced on behalf of the Appellant.
+
+25. Quite the contrary.  We consider that the combination of principles and
+    imperatives identified above impel  overwhelmingly  to  the  conclusion
+    that Parliament cannot have intended  to  establish  a  right  to  seek
+    permission to appeal to the Court of  Appeal  against  an  intermediate
+    decision of this genre.  This intermediate decision  will,  ultimately,
+    merge with the final decision of the UT, thereby generating a composite
+    decision and it will be open to the Appellant to seek to challenge  any
+    aspect thereof if so  advised.   Contrary  to  the  submissions  of  Mr
+    Khubber, this does not deny the Appellant the  right  of  access  to  a
+    court.  The Appellant is actively enjoying the exercise of  this  right
+    at present and the only further right which arises is a right  to  seek
+    to pursue an appeal against the final, dispositive decision of  the  UT
+    in accordance with the  terms  which  the  legislature  has  chosen  to
+    prescribe.  There is no denial of this  discrete  right.   Rather,  the
+    correct analysis is that it  does  not  arise  at  this  stage  of  the
+    proceedings.
+
+26.  We  further  consider  that  this  analysis  is  reinforced   by   the
+    finding/decision dichotomy clearly identifiable in section 12 and, as a
+    matter of linguistic construction, the strong indication that in  cases
+    where an error of law is found this will simply constitute one  element
+    of an uncompleted whole, a partial decision at most, a judicial act not
+    constituting a "decision" within the meaning and intent  of  s  13.  We
+    elaborate on this assessment as follows.
+
+27. What is notable is that while there may be pauses in the process, s  12
+    does not allow the UT to stop until it has completed its task.  The  UT
+    is not permitted merely to determine that the FtT decision contains  an
+    error and cannot stand.  If it reaches that stage the UT  is  compelled
+    by the statute (the word in s 12(2)(b)(ii) is 'must')  to  replace  the
+    decision or make arrangements for its replacement,  that  is,  it  must
+    remit the case to the FtT or remake  the  decision  itself.   Both  the
+    language and the process preclude the characterisation of  any  of  the
+    steps on the way to the  conclusion  as  a  'decision'.   The  language
+    precludes it because the section eschews the use of the word 'decision'
+    and its cognates for each of the steps  we  have  set  out  except  any
+    remaking of the decision of the FtT at the end  of  the  process.   The
+    process precludes it because if either of  the  earlier  steps  were  a
+    'decision' within the meaning and intent of the  section  it  would  in
+    principle be appealable; and an appeal would destroy the continuity  of
+    the process enforced by s 12 as a whole, thereby rendering  otiose  and
+    impotent the imperative command  effected  by  the  word  'must'  in  s
+    12(2)(b).
+
+28. Instead, the section begins with a very clear signpost: the  steps  are
+    steps 'in deciding an appeal under s 11'.  This means  that  the  whole
+    process is 'deciding an appeal' (which  expresses  with  precision  the
+    full scope of the statutory power of  the  UT  in  this  context):  the
+    intermediate steps are not deciding anything  at  all  but  are  simply
+    interim stages within the process of 'deciding an appeal' en  route  to
+    the ultimate outcome, namely the UT's decision on the appeal.
+
+29. Of course it goes without saying that the finding that  the  making  of
+    the FtT decision involved the  making  of  an  error  of  law  and  the
+    determination of the question  whether  it  should  be  set  aside  are
+    judicial acts.  But, for the reasons we have given, although  they  are
+    parts of a decision-making  process  they  are  not  themselves  to  be
+    categorised as 'decisions' within the meaning and intent of s 13 .
+
+30. There is a further point, raised by Ms Anderson, which we  consider  to
+    have some force.  There are numerous decisions of the Court of  Appeal,
+    where there has been an appeal against the decision of the  UT  reached
+    after termination of the process  envisaged  by  s  12  and  where  the
+    argument before the court has been that the UT ought not to have  found
+    an error of law.  Sometimes those arguments  are  successful,  and  the
+    Court of Appeal has restored the decision of the FtT  or  remitted  the
+    case to the UT.  If Mr Khubber's argument is  right,  the  argument  in
+    these cases would have been directed to either the first (error of law)
+    or second (set-aside) determination of the UT,  which  would  typically
+    have occurred some time before the final decision  on  the  appeal.  Mr
+    Khubber's argument unavoidably involves the proposition that  countless
+    appeals to the Court of  Appeal  have  been  well  out  of  time.  This
+    reflection,  in  our  judgement,  confounds   further   the   statutory
+    construction espoused on behalf of the Appellant
+
+31. In order to deal with one discrete issue canvassed  at the  hearing  we
+    also indicate what our view would be if we had been persuaded that  the
+    UT had already made in this case a 'decision' carrying in  principle  a
+    right of appeal.  In our judgement, if any of the steps taken so far by
+    the UT constitutes a 'decision' within the meaning and intent of s  13,
+    such is an 'excluded decision' within the meaning of  Article  3(m)  of
+    the 2009 Order.
+
+32. Article  3(m)  excludes  'any  procedural,  ancillary  or  preliminary'
+    decision made in relation to an appeal.  We  consider  that  there  are
+    good reasons for categorising the steps so far taken by the UT in  this
+    appeal as having the characteristics not merely of one but of all three
+    of those categories.  They are 'procedural' because they  are  part  of
+    the statutory procedure prescribed by s 12 and do not finally determine
+    the merits of the appeal.  They are 'ancillary'  because  they  provide
+    necessary support to the prime task of 'deciding an appeal under  s  11
+    (see s 12(1)), an adjunct to the central and ultimate task of  the  UT.
+    They are 'preliminary' because they have to be made at an early  rather
+    than late stage of the process, necessarily preceding  the  performance
+    of the ultimate task of the UT.  If there were any  doubt  about  their
+    exclusion, we would pray in  aid  the  same  reasoning   that  we  have
+    deployed earlier: if these are 'decisions' there is no good  reason  to
+    interpret the 2009 Order so as not to have them 'excluded'   and  there
+    are very good reasons for interpreting the Order as excluding them from
+    any right of appeal.
+
+Conclusion
+
+
+33. The appeal which the Appellant seeks to pursue at this intermediate  of
+    these proceedings would be an expensive  and  delaying  distraction,  a
+    diversion having no discernible  utility,  fulfilling  no  identifiable
+    imperative, countering no mischief and, fundamentally,  vindicating  no
+    legal right.
+
+34. We conclude that an appeal lies to the Court of Appeal only  against  a
+    decision of the UT which is finally dispositive of an appeal  from  the
+    FtT. We thus decide on the ground that this is the correct construction
+    of Sections 12 and 13 of the 2007 Act.  Our alternative  conclusion  is
+    that no appeal lies to the Court of Appeal against any decision of  the
+    UT other than one which is finally dispositive of an  appeal  from  the
+    FtT as this is an excluded decision within the compass of Article  3(m)
+    of the 2009 Order.
+
+
+
+
+                                               THE HON. MR JUSTICE MCCLOSKEY
+                                             PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+
+                                                        Date: 09 August 2016

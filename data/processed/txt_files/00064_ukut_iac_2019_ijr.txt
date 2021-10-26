@@ -1,0 +1,1194 @@
+IN THE UPPER TRIBUNAL	     					
+
+IMMIGRATION AND ASYLUM CHAMBER 
+
+
+
+R (on the application of JS and Others) v Secretary of State for the Home Department (litigation friend – child) [2019] UKUT 00064 (IAC)
+
+
+
+
+
+Heard on 16th October 2018 
+
+At Field House
+
+
+
+BETWEEN
+
+
+
+THE QUEEN (on the applications of 
+
+JS
+
+SJ
+
+SS
+
+NL)
+
+Applicants
+
+- and - 
+
+
+
+SECRETARY OF STATE FOR THE HOME DEPARTMENT 
+
+Respondent
+
+- and -
+
+
+
+
+
+THE LORD CHANCELLOR                            
+
+ Interested party
+
+
+
+Before
+
+
+
+THE HON MR JUSTICE LANE, PRESIDENT 
+
+UPPER TRIBUNAL JUDGE RINTOUL
+
+UPPER TRIBUNAL JUDGE RIMINGTON
+
+
+
+Appearances: 
+
+
+
+Ms J Fisher, instructed by Duncan Lewis, for the applicant NL (the other applicants not being present or represented)  
+
+
+
+Ms H Masood, instructed by the Government Legal Department, for the respondent
+
+
+
+Mr D Blundell, instructed by the Government Legal Department, for the interested party
+
+___________
+
+
+
+JUDGMENT
+
+___________
+
+
+
+(1) Although all cases are fact-specific, the following general guidance represents the approach the Upper Tribunal is likely to adopt in deciding whether a child applicant in immigration judicial review proceedings requires a litigation friend to conduct proceedings on the child’s behalf:
+
+(a) As a general matter, applicants aged 16 or 17 years, without any attendant vulnerability or special educational need or other characteristic denoting difficulty, will be presumed to have capacity and so be able to conduct proceedings in their own right.  They will generally not require a litigation friend.  This is the position even if they are not legally represented.
+
+(b) The appointment of litigation friends for applicants between the ages of 12 years and 15 years inclusive (i.e. 12 and over but younger than 16)  needs to be considered on a case-by-case basis and the circumstances which should be considered, but which are not exhaustive, are:
+
+(i) whether the applicant is legally represented; 
+
+(ii) whether there is an assisting parent;
+
+                     (iii) whether there is a local authority involved; and
+
+(iv) whether the applicant has any type of vulnerability.
+
+(c) If an applicant in this age group is legally represented, the Tribunal will expect the representative specifically to address in writing the issue of whether, in the representative’s view, a litigation friend is necessary, having regard to capacity and the position of any parent.
+
+(d) Applicants under the age of 12 will normally require a litigation friend. 
+
+(2) The above approach is one that, as a general matter, should also be followed in appeal proceedings, whether in the First-tier Tribunal or the Upper Tribunal.
+
+(3) In deciding who is to be a litigation friend in a particular case, the guiding principles, derived from the Civil Procedure Rules, are:
+
+(a) can he or she fairly and competently conduct proceedings on behalf of the child?
+
+(b) does he or she have an interest adverse to that of the child?
+
+
+
+(4) For practical purposes, only one person should normally be nominated as a litigation friend. A parent of a child will often be the obvious choice but not the only option.
+
+
+
+
+
+
+
+
+
+
+
+A. INTRODUCTION
+
+
+
+The applicants are all minors who have issued applications for judicial review.  JS and SJ issued proceedings on their own behalf.  SS and NL issued proceedings by way of a legal representative.  Their applications were linked and heard by a panel in order to determine the principles on the procedural approach of the Immigration and Asylum Chamber of the Upper Tribunal in immigration judicial review proceedings involving an applicant who is a child (that is to say, a person under the age of 18 years).  Although confined to the position of children in such proceedings, our decision touches, where necessary, upon wider issues of capacity.  As we shall also indicate, our approach will also have relevance to statutory appeals, in the Immigration and Asylum Chambers of the First-tier Tribunal and the Upper Tribunal.
+
+
+
+We shall, in particular, have a good deal to say about the nature and role of litigation friends.  The absence of any provisions in the Tribunal Procedure (Upper Tribunal) Rules 2008 (‘the Upper Tribunal Rules’) and practice directions regarding the use of litigation friends in judicial review proceedings mean that there is, at present, a degree of uncertainty when an application for immigration judicial review is made in respect of a child without a litigation friend. 
+
+
+
+Each child in the linked cases presented with a different profile.  The respondent invited guidance on how to approach the conduct of litigation when a child needed a litigation friend.  The Lord Chancellor applied and was joined as an interested party.  Initially, in relation to the appointment of a litigation friend, the following questions were raised:
+
+
+
+Does the Immigration and Asylum Chamber of the Upper Tribunal have power to appoint a litigation friend for children in judicial review proceedings in the Upper Tribunal?
+
+If so, in what circumstances must a litigation friend be appointed to assist a child in such proceedings?  
+
+To what extent, if any, can the Tribunal seek guidance from the approach set out in the Civil Procedure Rules 2018 (‘CPR’) when deciding these questions?
+
+What are the duties of a litigation friend in the proceedings?
+
+A synopsis of each case, the individual claim and the varying responses by the respondent illustrates the need for guidance.
+
+
+
+B. THE APPLICANTS
+
+
+
+JR/10359/2017.   JS is a citizen of India born in the UK on 2nd August 2015 (now aged 3 years).  Her application for leave to remain in the UK was refused by the respondent on 20th September 2017 and following an administrative review that decision was maintained.  Without legal representation, she filed judicial review proceedings on 14th December 2017 on the basis that she was a stateless person under paragraph 403 of the immigration rules.  In this instance the respondent filed an Acknowledgment of Service indicating that reconsideration was to be provided within three months and thus the application for permission was academic.  The respondent said this in the summary grounds of defence served with the Acknowledgment of Service:
+
+
+
+“normally such a JR application is apt for strike out or the UT may be minded to appoint the father of the baby (Mr V A J v SSHD [2005] EWCA Civ 629) as the litigant friend for his daughter since he has signed the application form.  Since the SSHD has decided to reconsider this case and in view of the approaching Acknowledgment of Service deadline where an appointment of a litigation friend and a consent order may not be processed in time, the SSHD files this short form academic AOS, by way of practically dealing with this JR claim.” 
+
+
+
+On 7th February JS’s father indicated that he wished to be considered as  JS’s litigation friend.  The matter was listed for directions on 15th February 2018 but a letter dated 9 October 2018 stated that JS’s mother would be her litigation friend.
+
+
+
+
+
+JR/372/2018   SJ is a citizen of the Philippines born on 12th November 2012 (now aged 5 years).  His application for leave to remain as a stateless person was refused on 8th November 2017.  SJ’s judicial review claim form was filed in his own name but was signed by his mother.  There is now an Acknowledgment of Service dated 4 October 2018, but the respondent had, in fact, written to the Tribunal on 6th February 2018 stating that: 
+
+
+
+“the purported Applicant in this claim is a minor (aged 5 years old).  Accordingly, under CPR 21.2(2), he must have a litigation friend to conduct proceedings on his behalf unless the court makes an order under CPR 21.2. (3).  Any step taken before a child has a litigation friend has no effect unless the court orders otherwise (CPR 21.3(4)).
+
+No litigation friend has been identified in the claim form.  As far as we are aware no application has been made for an order under CPR 21.2(3).
+
+In the circumstances, it cannot be said that these proceedings have been properly brought.  The respondent submits that she does not, at the present time, intend to submit an Acknowledgment of Service to this claim unless and until a litigation friend is appointed. 
+
+The respondent invites the Tribunal to make such directions (for example, to require an application to appoint a litigation friend to be made within 14 days or appoint one of its own motion) as it sees fit.
+
+It is noted that the Applicant does not have legal representation in this matter.  A copy of this letter has therefore been sent to the address specified in Section 1 of the claim form’. 
+
+
+
+The matter was set down for directions on 20th February 2018.
+
+
+
+In a letter to the Tribunal received on 9th March 2018, SJ’s mother stated that she did not wish to involve a litigation friend because she could not afford it and did not want to do so.  She wished the claim to be considered without a litigation friend. 
+
+
+
+JR/797/2918  SS is a Nepalese national born on 4th September 2003 (now aged 15 years).  He had been diagnosed with Nephritic syndrome.  His application for leave to remain in the UK on the basis of his family life with his parents, was refused and certified on 5th November 2017.  The legal representatives filed an application for judicial review on 1st February 2018.  No Acknowledgment of Service was filed but the matter was linked to the cases of SJ and JS.
+
+
+
+JR 4611/2018  NL is a Vietnamese national born on 7th March 2001 (now aged 17 years).  She is an unaccompanied minor and entered the UK on 2nd April 2017 and made a claim for asylum.  She claimed to have been the victim of trafficking. On 24th October 2017 the respondent wrote to NL, confirming that a positive ‘Reasonable Grounds’ decision regarding the trafficking issue had been made under the National Referral Mechanism, but that the respondent was unable to make a ‘Conclusive Grounds’ decision on NL’s claim.  On 4th July 2018 NL’s representatives filed a claim for judicial review on the basis of the delay and failure to make a decision on her outstanding protection claim; the failure to advise of a timeframe for the making of such a decision; and the delay in the decision-making relating to the trafficking issue. It was, however, later stated by the representatives that NL had capacity. On 19th September 2018 the matter was linked to the matters of JS, SJ and MSS and the respondent was directed to serve an application notice with the relevant fee for an extension of time for service.  The AOS was in fact filed prior to the direction on 13th September 2018 and resisted the claim.  No issue was taken as to the need for NL to have a litigation friend.   
+
+
+
+
+
+C. PROCEDURAL HISTORY
+
+At a case management hearing on 20th February 2018, the Upper Tribunal directed the respondent to provide submissions on the ‘requirement of a litigation friend in judicial review proceedings in the Upper Tribunal, and the duties of such a litigation friend’. 
+
+
+
+Pursuant to an order of the Tribunal of 20th February 2018, the respondent submitted submissions.
+
+
+
+On 30th April 2018, the first three cases were linked and a hearing directed to determine whether a litigation friend was necessary in each case; NL was linked on 19 September 2018.
+
+
+
+On 30th August 2018, the Lord Chancellor was granted permission to intervene in the cases of JS, SJ and SS.  At the hearing before us, the Lord Chancellor was granted permission to intervene in the case of NL.  The Lord Chancellor has a clear interest in the issues the Tribunal intended to consider, as he is responsible for allowing and bringing into force the procedure rules for the Upper Tribunal (Schedule 5 to the Tribunals, Courts and Enforcement Act 2007 (‘TCEA’)) and has a statutory responsibility to ensure the efficient functioning of the Tribunal system (section 39 of the TCEA).  As such,  the Lord Chancellor was considered an appropriate person to assist the Upper Tribunal. 
+
+
+
+As can be seen above, in SJ, the respondent refused to file an Acknowledgment of Service prior to the appointment of a litigation friend; in JS a short form acknowledgment of service was filed; whilst in NL the respondent was directed to file an Acknowledgment of Service  (although he did so prior to the issue of that direction).
+
+
+
+
+
+D. THE LEGAL FRAMEWORK
+
+There is no express power in the Upper Tribunal Rules for the appointment of a litigation friend.  The position is the same in the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014. 
+
+
+
+In contrast, the CPR, supported by a Practice Direction, make specific provision for litigation friends, as can be seen in Part 21 (see the Annex to this decision).
+
+
+
+A litigation friend is not a party to the proceedings but has a role to conduct proceedings on behalf of the person concerned.  The duties of a litigation friend are not expressly defined in the CPR but the notes to the ‘White Book’ say that the duty is ‘fairly and competently to conduct proceedings on behalf of a child or patient’ and ‘have no interest in the proceedings adverse to the child or patient and all steps and decisions he takes in the proceedings must be taken for the benefit of the child or patient’.
+
+
+
+As we can see, although the CPR state that a child must have a litigation friend, they also provide that the court may make an order permitting a child to conduct proceedings without a litigation friend, although any step taken before a child has a litigation friend has no effect unless the court orders otherwise.
+
+
+
+The court may make an order appointing a litigation friend and an application for such an order may be made by a person who wishes to be a litigation friend or a party, but the court may not appoint a litigation friend unless it is satisfied that the person satisfies the relevant conditions in 21.4(3).  Any application to the court for an order appointing a litigation friend must be supported by evidence satisfying the court that the proposed friend consents to act and satisfies the relevant conditions. 
+
+
+
+It is possible to become a litigation friend without a court order but to do so the prospective litigation friend must file a certificate of suitability, supported by a statement of truth, confirming that he satisfies the conditions in 21.4(3) including an undertaking to pay any costs which the child may be ordered to pay.  The suitability certificate must be served on every person served with the claim form.  There are provisions for ordering that someone may not act as a litigation friend and for removal from appointment.  
+
+
+
+The Official Solicitor may act on behalf of the child if there is no one else to act. Where it is sought to appoint the Official Solicitor as the litigation friend ‘provision must be made for payment of his charges’. (Practice Direction (supplement to CPR Part 21) paragraph 3.4).
+
+
+
+Further, by virtue of CPR 21.10, where a claim is made by or on behalf of a child 
+
+
+
+“no settlement, compromise or payment (including any voluntary interim payment) and no acceptance of money paid into court shall be valid, so far as it relates to the claim by, on behalf of or against the child or protected party, without the approval of the court.”
+
+
+
+We turn now to the position of the Upper Tribunal.  The power to make Tribunal Procedure Rules is to be found in section 22 of the Tribunals, Courts and Enforcement Act 2007 (“TCEA”) which are set out in the Annex. 
+
+
+
+Although the legislative position as regards courts and tribunals respectively looks starkly different, that is not the position in practice.  We see this from the following cases. 
+
+
+
+In R(C) v First-tier Tribunal [2016] EWHC 707 (Admin), Picken J held that the First-tier Tribunal had the power to appoint a litigation friend and it had been unlawful not to do so in the case in question.  The common law concept of procedural fairness required that a litigation friend be appointed.  Without one, the claimant would not be able to make representations or present the case.   
+
+
+
+The leading case, however, is AM (Afghanistan) [2017] EWCA Civ 1123, where the Court of Appeal (Sir Ernest Ryder, Senior President of Tribunals) said this:
+
+
+
+“41.	In BPP Holdings v The Commissioners for Her Majesty’s Revenue and Customs [2016] EWCA Civ 121, this court approved the practice of the FtT (Tax Chamber) and the UT (Tax Chamber) to look to the CPR for assistance on matters about which the tribunal rules are silent.  The question before the court on that occasion was the applicability in the tribunals of the guidance in Mitchell v News Group Newspapers Ltd [2014] 1 WLR 795 and Denton v TH White Ltd [2014] 1 WLR 3296 and in particular the stricter approach to compliance with rules and directions that the CPR cases describe.  This court held that provided there is no contrary or inconsistent provision in the Tribunals, Courts and Enforcement Act 2007 [‘the TCEA 2007’] or the tribunal rules, the application of the overriding objective in the tribunal rules provides a sufficient basis for the exercise of powers by analogy with CPR that protect procedural fairness including proportionality, cost and timeliness.
+
+42.	I can find nothing in the TCEA 2007 and in particular section 22 which deals with the Rules or in the tribunal rules themselves that is a contrary or inconsistent provision relevant to the power to appoint a litigation friend. The other tribunal rules described in this judgment are, if anything, supportive of the accessible, flexible, specialist and innovative approach that they facilitate. 
+
+43.	There is an apparently contrary decision of Underhill J as he then was in relation to the powers of an Employment Tribunal in Johnson v Edwardian International Hotels Ltd UKEAT/0588/07/ZT.  I would not want to doubt the conclusion reached in that case so far as employment tribunals are concerned without hearing full argument on the question, given the separate status that employment tribunals have from the rest of the tribunals, the "party : party" nature of their proceedings and their discrete rules which are the responsibility of a different rules committee.  However, whether that decision ought still to be regarded as binding on employment tribunals, it is not persuasive in respect of any other tribunals. 
+
+44.	I have come to the conclusion that there is ample flexibility in the tribunal rules to permit a tribunal to appoint a litigation friend in the rare circumstance that the child or incapacitated adult would not be able to represent him/herself and obtain effective access to justice without such a step being taken.  In the alternative, even if the tribunal rules are not broad enough to confer that power, the overriding objective in the context of natural justice requires the same conclusion to be reached.  It must be remembered that this step will not be necessary in many cases because a child who is an asylum seeker in the UK will have a public authority who may exercise responsibility for him or her and who can give instructions and assistance in the provision of legal representation of the child.” 
+
+Following AM (Afghanistan), the Employment Appeal Tribunal (Simler J, President) held in Jhuti v Royal Mail Group Ltd  (UKEAT/0061/17/RN) that the Employment Tribunals have the power to appoint a litigation friend where otherwise there would be no means of accessing justice.  The appointment of a litigation friend was a procedural matter, not a matter of substance, and it fell within the practice and procedure of the Tribunals which, under their Rules, had the power to govern their own procedure [14].  These Rules were wide enough to permit the appointment of a litigation friend.  The EAT looked to the CPR for ‘broad guidance’ only. 
+
+
+
+
+
+
+
+
+
+E. THE HEARING
+
+(a) Application to adjourn
+
+On the morning of the hearing before us Ms Fisher, acting for NL, applied for an adjournment; none of the other applications were represented or attended.  She advised that she had submitted her skeleton argument before the bundles had been served the previous evening.  On 20th September 2018 her instructing solicitors had written advising that the claim was academic.  She agreed that she had seen the joint skeleton argument from Mr Blundell and Ms Masood the previous evening and had seen the Acknowledgment of Service and summary grounds of defence served on 25th September 2018.  She advanced that she may have amended her skeleton argument and undertaken further research, had she been in possession of the bundles.  She agreed that having read her opponents’ skeleton argument they were ‘not miles apart’ but the panel were to establish guidance on the appointment and procedures relating to litigation friends. 
+
+
+
+Ms Masood objected to any adjournment.  Duncan Lewis, NL’s instructing solicitors were aware of the issues being considered by the Tribunal.  The case was linked in September and Ms Fisher had seen the skeleton argument filed by the Lord Chancellor and the respondent. Of all the four cases, NL’s was the most straightforward.  NL was 17 years old and the solicitors had written attesting to the applicant’s capacity. A litigation friend was not required. 
+
+
+
+Mr Blundell applied and was granted permission to be an interested party in NL. 
+
+
+
+We refused the application for an adjournment.  Duncan Lewis had been aware since September that their client’s case was being considered in conjunction with other applicants.  Ms Fisher had submissions from the respondent which enabled her to produce a useful skeleton argument. In the circumstances and in the interest of fairness, a short adjournment, which was acceptable to Ms Fisher was granted, so that she may acquaint herself with the papers.   Should Ms Fisher require it, she was offered the opportunity to  submit further written submissions within 10 working days.  In the event, at the conclusion of the hearing, she declined this option as being unnecessary.
+
+
+
+The parties filed extensive written submissions, prior to the hearing. We are grateful to Ms Fisher, Ms Masood and Mr Blundell and those instructing them for the work involved in preparing these, which we have considered, along with the oral submissions, which we summarise below, and which were also most helpful.
+
+
+
+(b) Oral submissions
+
+Mr Blundell
+
+In his oral submissions Mr Blundell took it as read that there was a power to appoint a litigation friend.  The Tribunal was bound by AM (Afghanistan) as to the power to appoint a litigation friend.  He agreed that the scope of the guidance in the present cases must be limited to the jurisdiction of England and Wales.  Scotland has different law with regard capacity.  He submitted, however, that the principles and guidance within AM (Afghanistan), which emphasised the breadth of the power and ability of the Tribunal to govern its own procedure, and the need for fairness and access to justice, should be equally applicable to judicial review and statutory appeals. 
+
+
+
+Mr Blundell referred to BPP (Holdings) at [23] to illustrate the point that the Tribunal has different rules and may look to the CPR but must exercise caution in their application.  Mere application of the CPR by transliteration was not appropriate.  As BPP (Holdings) identified, some Tribunals extend to the whole of the United Kingdom and apply the same or similar rules:  
+
+“23.	In these circumstances, all tribunals and appellate courts above the level of the UT should be wary of applying or relying on the procedural jurisprudence of the English and Welsh courts without also taking into account that of the Scottish and Northern Irish courts.  As Lord Rodger memorably said in Mucelli v Government of Albania [2009] 1 WLR 276, para 11, in relation to the interpretation of a statute with UK-wide application, 
+
+“In Scotland, the people still walk in darkness and upon them hath the light of the CPR not shined. So there can be no question of interpreting the terms of the statute in the light of the CPR - or of the Scottish or Northern Irish rules, for that matter.”
+
+As for when a litigation friend should be required, Mr Blundell said it was not appropriate to adopt the CPR and often a litigation friend was not required.  The CPR’s starting point was to have a litigation friend but there was possibility of exception.  A litigation friend would only be required where the child was not capable of conducting or giving instructions in relation to the proceedings. Under the CPR any step taken before a child or patient has a litigation friend is of no effect, but the court can, notwithstanding, regularise the position retrospectively.  The exception was illustrated by Masterman-Lister v Brutton & Co (nos 1 and 2) (CA) [2003] 1 WLR which involved a damages action where a minor attempted to re-open litigation.  The courts refused, relying on the principle of the finality of litigation and permitted regularising of the position where 
+
+“to do otherwise would be unjust and contrary to the overriding objective of the Civil Procedure Rules, but in any given case the ultimate decision must depend on the particular facts.”
+
+The test to be applied as to when to appoint a litigation friend was addressed in Masterman-Lister as follows by Chadwick LJ:
+
+“For the purposes of RSC 80 – and, now, CPR 21 - the test to be applied, as it seems to me, is whether the party to legal proceedings is capable of understanding, with the assistance of such proper explanation from legal advisers and experts in other disciplines as the case may require, the issues on which his consent or decision is likely to be necessary in the course of those proceedings.  If he has capacity to understand that which he needs to understand in order to pursue or defend a claim, I can see no reason why the law – whether substantive or procedural – should require the interposition of a next friend or guardian ad litem (or, as such a person is now described in the Civil Procedure Rules, a litigation friend).”
+
+Mr Blundell submitted that many older children could give instructions and there should be no bright line.  The use of the age of 16 was useful as a rule of thumb provided that the rule of thumb was not absolute.  There should always be a fact specific consideration and that was clear from Masterman-Lister.  It was a matter of common sense whether the minor would have capacity.  
+
+
+
+Indeed, the law made a distinction, as could be seen from section 8 of the Family Law Reform Act 1969:
+
+“Section 8.— Consent by persons over 16 to surgical, medical and dental treatment.
+
+
+
+(1)	The consent of a minor who has attained the age of sixteen years to any surgical, medical or dental treatment which, in the absence of consent, would constitute a trespass to his person, shall be as effective as it would be if he were of full age; and where a minor has by virtue of this section given an effective consent to any treatment it shall not be necessary to obtain any consent for it from his parent or guardian.”
+
+
+
+In Scotland, statute intervenes at the age of 16 years to establish differing rights and responsibilities as shown by The Age of Legal Capacity (Scotland) Act 1991.
+
+2.— Exceptions to general rule.
+
+
+
+A person under the age of 16 years shall have legal capacity to enter into a transaction—
+
+
+
+(a)	of a kind commonly entered into by persons of his age and circumstances, and
+
+(b)	on terms which are not unreasonable.
+
+
+
+A person of or over the age of 12 years shall have testamentary capacity, including legal capacity to exercise by testamentary writing any power of appointment.
+
+
+
+A person of or over the age of 12 years shall have legal capacity to consent to the making of an adoption order in relation to him [...] 1
+
+[...] 1
+
+(b)	for section 18(8) (freeing child for adoption) of that Act there shall be substituted the following subsection—
+
+
+
+“(8)	An order under this section shall not be made in relation to a child of or over the age of 12 years unless with the child's consent; except that where the court is satisfied that the child is incapable of giving his consent to the making of the order, it may dispense with that consent.”
+
+A person under the age of 16 years shall have legal capacity to consent on his own behalf to any surgical, medical or dental procedure or treatment where, in the opinion of a qualified medical practitioner attending him, he is capable of understanding the nature and possible consequences of the procedure or treatment.”
+
+
+
+Against this background, there may be children over the age of 16 years who do not have capacity and children under the age of 16 years who do have capacity. 
+
+
+
+There will, Mr Blundell submitted, be cases where parents may be able to assist and where responsible, may act as a litigation friend but there will also be cases where the parent will not be appropriate; for example in cases concerning female genital mutilation or trafficking.  This however, may become apparent later and the Tribunal should respond with a flexible approach.  Where a child is in care there may be good reasons why it is preferable to appoint a litigation friend. 
+
+
+
+As to procedure, NL was a very good example of where the solicitor had provided a witness statement to state that the child had capacity.  The Law Society had produced guidance on ‘Meeting the Needs of Vulnerable Clients’.  Part 4 addressed mental capacity and the ability to instruct a solicitor.  The mere fact of minority did not preclude entering into a contract.
+
+
+
+The question arises as to what to do if it transpires that a child does not have capacity.  There could be retrospective validation.  First, there was no doctrine of automatic invalidity under the Upper Tribunal Rules (rule 7).   Secondly, as cited above the court can regularise post hoc.
+
+
+
+As for who should be a litigation friend, Mr Blundell cited the joint skeleton argument and identified how the CPR offered useful principles from which the Tribunal could borrow.  It was not possible to argue against 21.4.(3)(a) and (b).  Those provisions referred to the litigation friend being able to fairly and competently conduct proceedings and having no adverse interest.  However, 21.4.(3(c), on an undertaking to pay costs, should not be applied.  The judgement of re E (Mental Health Patient) [1984] 1 WLR 320, Sir Robert Megarry V.-C. confirmed that the ‘next friend’ does not become a ‘litigant himself; his functions are essentially vicarious’ but added that:
+
+
+
+“it is an important part of his functions that by acting he makes himself personally liable to the other party to the litigation for the costs of unsuccessful proceedings, and also for any damages under an undertaking in damages.  On the other hand, if it was proper to instate the proceedings, and they have been conducted with propriety, the next friend will be entitled to be indemnified in respect of the costs by the plaintiff or at least out of the plaintiff’s estates: see, eg Steeden v Walden [1910] 2 Ch 393.”
+
+
+
+Mr Blundell submitted, however, that in the Upper Tribunal there will usually be protection through legal aid. Where this was not the case, it would be possible to obtain an undertaking but this should not be a fixed rule. 
+
+
+
+On settlement, depending on the facts, where for example the matter may be settled early and the party is a toddler the Tribunal could require a litigation friend to be appointed in order to approve a consent order under Rule 31(1) of the Upper Tribunal Procedure Rules. Alternatively, it may be possible to have a case management review hearing. 
+
+
+
+In age assessment cases, Mr Blundell suggested that the Tribunal might wish to appoint a litigation friend where there was a conflict between the Local Authority and the minor but, further, may wish to consider whether to dispense with the litigation friend where proceedings had originated in the High Court, but the Tribunal did not consider the appointment was required. There may however be good reason to continue with the appointment.
+
+
+
+In relation to statutory appeals, Mr Blundell submitted that it was difficult to see why the principles in relation to litigation friends should not be transferable. There was no distinction in power or principles between judicial review and statutory appeals. 
+
+
+
+Ms Masood
+
+
+
+In her oral submissions, Ms Masood deferred to the position of the Lord Chancellor on the main principles and she adopted the approach on behalf of the respondent with some additions. 
+
+
+
+Where cases involved a very young child, solicitors should satisfy themselves that they could act consistently with their professional obligations.  If they could only act with a litigation friend, those solicitors should request that a litigation friend be appointed. 
+
+
+
+Added to the conditions for acting as a litigation friend adopted from the CPR 21.4(3)(a) and (b) should be the ‘consent to act’ as a litigation friend.  This was in line with the Practice Direction to Part 21 at paragraphs 2.2 (a) and 3.3(1). 
+
+
+
+Certainty was needed in the realm of litigation friends in the Tribunal as to when and how to appoint a litigation friend and the procedure thereto.  Just because a solicitor was instructed did not necessarily mean that a party had capacity.  The Tribunal was invited to consider an amendment to the existing claim form and advice on the accompanying documentation.  Section 7 on the claim form for judicial review could include an application for a litigation friend.  It would benefit the Tribunal and the respondent to know the applicant’s position as to the need for  a litigation friend at the outset.  Ms Masood indicated that she had no instructions on the position with regard to statutory appeals. 
+
+
+
+
+
+
+
+Ms Fisher
+
+Ms Fisher agreed that it was common ground that there should be no blanket policy with regard to the appointment of a litigation friend.  She drew attention to the very short time frames for judicial review and the possible difficulties of obtaining files from previous solicitors and the identification by representatives of when a litigation friend was needed.  The guidance in this case should, she submitted, be limited to judicial review in the Upper Tribunal.  It was open to the First-tier Tribunal to hear evidence and form a view but guidance should not be imposed. 
+
+
+
+She submitted there should a category where litigation friends should be appointed which included children under 10 or perhaps 12 years, children with vulnerabilities and mental health difficulties and include others for example who were possible victims of trafficking and thirdly where a child was unrepresented. 
+
+
+
+As to when a litigation friend should be appointed, access to justice was important and a child should not be prevented from bringing a claim if there was no litigation friend. Once a claim was brought and it was apparent that a litigation friend should be appointed, then it was open to the Tribunal to make an order. There could not be an exhaustive list of the circumstances when that was so, but the younger the child the more likely it was that a litigation friend would be needed. There should not be a preclusion from bringing a claim particularly in view of the time limits. 
+
+
+
+The matter was fact-sensitive, but Ms Fisher posed the question of what happens in the event that it transpires that a child lacks capacity?  Suppose in this instance it was not a damages claim but an asylum claim.  On oral renewal would it be the case that all the proceedings were void? Procedural fairness was at the heart of the consideration. The whole point of a litigation friend was for the child to understand the proceedings and participate, and, to enable access to justice.  The litigation friend should not take on the extra burden of costs. Often a charity, for example, would be unwilling to pick up the costs. Costs should not be the primary influence.  The respondent should file a complete Acknowledgment of Service not just a short form one. The respondent had a great deal of resources at his disposal.  The child’s age should be on the claim form and the form could be adapted.
+
+
+
+
+
+At this point Ms Masood tendered the option of a skeleton Acknowledgment of Service, followed by the appointment of a litigation friend and then the filing of a full Acknowledgment of Service.  She added that in some instances there was a practice of filing an N235, certificate of suitability, which was a form used in the High Court.  The Tribunal, however, may wish to develop its own form.  The respondent needed guidance on what steps to take when confronted with a claim form from a child with no litigation friend and no explanation why.  This issue might be raised in Section D of the Acknowledgment of Service and a request for directions made.  Further, if the respondent wished to raise the matter in advance of filing an Acknowledgment of Service, he should be permitted to so by letter and not required to make a  paid application.  In NL for example the respondent was asked to make a paid application, but the respondent was merely attempting to regularise the position.  It should be possible to invite directions without the need for a paid application. 
+
+
+
+Mr Blundell demurred that a certificate of suitability from the High Court should be used.  The Tribunal should use its own forms and not poach from the CPR.
+
+
+
+Ms Masood emphasised that the function of the litigation friend was to provide a defendant with security on costs.  The Tribunal could use Rule 10 of the Procedure Rules and this rule directed that in making a costs order the Tribunal should take into account means.  There was, therefore, a degree of protection. Ms Masood pointed out that the courts were always alive to the point of the deterrent effect on litigation friends but still considered the need for appropriate protection regarding costs.
+
+
+
+
+
+F. OBSERVATIONS REGARDING THE INDIVIDUAL APPLICANTS
+
+
+
+NL
+
+
+
+Ms Masood thought this was on the verge of consent as the applicant had now been invited for an interview.  The proceedings appeared academic. Costs, however remained an issue.
+
+
+
+Ms Fisher argued that there had been significant delay in the processing of the asylum claim.  Both agreed that whether the disposal resulted from refusal (being academic) or a consent order there was a need to file submissions on disposal and costs submissions in writing and directions were given. 
+
+
+
+SJ
+
+
+
+An Acknowledgment of Service had been filed and this case was a candidate for a litigation friend.  The mother was a potential candidate and the matter should be case managed.  It was not clear that the mother understood the litigation and to date had not agreed to be a litigation friend. 
+
+
+
+The parent had been responsible for instigating proceedings but had not given her consent to acting as a litigation friend.  She should be directed to appear so that she or someone else could be identified as a litigation friend. 
+
+
+
+JS
+
+
+
+JS is a very young child with no legal representative.  The form was signed by her father who was a candidate for being a litigation friend.  Ms Masood confirmed that the respondent had filed an Acknowledgment of Service and had agreed to withdraw the decision letter under challenge.  There were two letters from the father one identifying him as a possible litigation friend and one identifying the mother.  This was now an academic challenge. The Tribunal might refuse the application without the appointment of a litigation friend and make no order for costs but it questioned whether the matter be dismissed without the appointment of a litigation friend.  Ms Masood suggested a solution might be to write to the parents to invite one of them to be a litigation friend. 
+
+
+
+That raised the question of whether there should be one litigation friend.
+
+
+
+SS
+
+
+
+This was a 15 year old child with legal representatives. The decision under challenge was to be reconsidered by the respondent.  The applicant’s parents were instructing the representatives and there was no need to appoint a litigation friend.  There was a letter of authority on file signed by a parent.  The representatives had filed two draft consent orders seeking leave to withdraw the judicial review claim on the basis of the respondent’s agreement to reconsider. One provided for the appointment of a litigation friend, the other did not but both provided for the respondent to pay the applicant’s reasonable costs.   Ms Masood was content for the Tribunal to dispose of the matter without appointing a litigation friend and that there should be no order for costs, alternatively that the respondent should only pay the applicants costs until 14 March 2018, the date on which it had been agreed to reconsider the decision under challenge.  She submitted that a dispute between the parties as to costs was not a reason to appoint a litigation friend unless the matter was being defended in which case the respondent would be anxious to secure his costs of defending the action.
+
+
+
+Ms Masood agreed that there should be an exchange of submissions on costs given it was in dispute  
+
+
+
+
+
+G. DISCUSSION
+
+It is now firmly established that the Upper Tribunal has power to appoint a litigation friend and that, in certain circumstances, not to do so will amount to a breach of the common law principles of fairness and access to justice.  What was said in this regard in AM (Afghanistan) is as applicable to the Upper Tribunal as it is to the First-tier Tribunal.  
+
+
+
+The present edition of the Equal Treatment Bench Book is therefore right to assume there is a power to appoint a litigation friend and to emphasise the requirement for consideration of whether a litigation friend is necessary. 
+
+
+
+Although our task arises in these immigration judicial review proceedings, the approach we are about to describe has relevance to statutory appeals in the Immigration and Asylum Chambers of both the First-tier Tribunal and the Upper Tribunal, although as we shall see, the costs and procedural regimes have differences.
+
+
+
+
+
+(a) Should the CPR regarding litigation friends be adopted?
+
+
+
+Even if we thought it desirable for the relevant CPR to be adopted for the purposes of immigration judicial review proceedings, we could not do so by saying as much in a judicial decision: see Bovale Ltd and another v SSCLG [2009] EWCA Civ 171.  The making of Tribunal Procedure Rules is a matter for the Tribunal Procedure Committee and the Lord Chancellor under the TCEA. 
+
+
+
+Without wishing to stray beyond our proper remit, we should make it plain that, even if we had the power to make such rules, we would not do so.  Despite their similarities, courts and tribunals are entrusted with delivering justice in their own respective ways, reflecting the characteristics of the parties that come before them and the nature of the disputes upon which they are required to adjudicate. 
+
+
+
+Although this Chamber operates a costs-shifting regime in immigration judicial review proceedings, other Chambers may not do so; and in the appellate jurisdiction, there is usually only limited provision made for one party to pay another party’s costs.
+
+
+
+The question for us, therefore, is to decide for ourselves in what general sets of circumstances it is likely to be necessary for the Tribunal to require the participation of a litigation friend, in order to do justice in a way that is compatible with the overriding objective in rule 2 of the Upper Tribunal Rules.  The parties before the Tribunal, and those acting for them, are entitled to have some prior indication of what is expected of them.
+
+
+
+ Seen in this light, the CPR offer a valuable source of assistance with regard to some of the basic tenets relating to the appointment of a litigation friend and our approach ensures the Tribunal has the advantage of drawing from the well- settled principles of the CPR, whilst at the same time ensuring there is adequate flexibility to tailor those principles to the exigencies of the facts of a particular case. 
+
+
+
+(b) When should there be a litigation friend?
+
+Unlike the CPR, we do not accept that a child must have a litigation friend unless the court (or Tribunal) orders otherwise.  A child applicant by no means automatically requires a litigation friend. That conclusion is mandated by [44] of AM (Afghanistan). 
+
+
+
+We are emboldened in our approach by the Mental Capacity Act 2005 which presumes that a person has capacity.  No power under the 2005 Act may be exercised in relation to a child under the age of 16 merely on the grounds of age.  Section 2 provides as follows:
+
+
+
+“2.	People who lack capacity
+
+
+
+(1)	For the purposes of this Act, a person lacks capacity in relation to a matter if at the material time he is unable to make a decision for himself in relation to the matter because of an impairment of, or a disturbance in the functioning of, the mind or brain. 
+
+(2)	It does not matter whether the impairment or disturbance is permanent or temporary. 
+
+(3) 	A lack of capacity cannot be established merely by reference to— 
+
+(a)	 a person's age or appearance, or 
+
+(b)	a condition of his, or an aspect of his behaviour, which might lead others to make unjustified assumptions about his capacity. 
+
+(4) 	In proceedings under this Act or any other enactment, any question whether a person lacks capacity within the meaning of this Act must be decided on the balance of probabilities. 
+
+(5) 	No power which a person (“D”) may exercise under this Act— 
+
+(a)	in relation to a person who lacks capacity, or 
+
+(b)	where D reasonably thinks that a person lacks capacity, is exercisable in relation to a person under 16.” 
+
+
+
+We conclude that a litigation friend will only be necessary where the child is not capable of conducting or giving instructions in relation to the proceedings.  We note what the Senior President of Tribunals said at the end of [44] of AM (Afghanistan) that a child who is an asylum seeker “will have a public authority who may exercise responsibility for him or her and who can give instructions and assistance in the provision of legal representation of the child”.  That consideration is of particular significance in the case of statutory appeals.  It is, however, likely to be relevant only rarely in immigration judicial review.
+
+
+
+The test of capacity is set out in Masterman-Lister which we repeat for convenience: 
+
+
+
+“- the test to be applied, as it seems to me, is whether the party to legal proceedings is capable of understanding, with the assistance of such proper explanation from legal advisers and experts in other disciplines as the case may require, the issues on which his consent or decision is likely to be necessary in the course of those proceedings.  If he has capacity to understand that which he needs to understand in order to pursue or defend a claim, I can see no reason why the law – whether substantive or procedural – should require the interposition of a next friend or guardian ad litem (or, as such a person is now described in the Civil Procedure Rules, a litigation friend).”
+
+
+
+The test of competence for making decisions by young persons is still that in Gillick v West Norfolk and Wisbech AHA [1986] AC 112; that is:  
+
+
+
+“a sufficient understanding and intelligence to enable him or her to understand fully what is proposed. It will be a question of fact whether a child seeking advice has sufficient understanding of what is involved to give a consent valid in law.”   
+
+
+
+The child should be of sufficient intelligence and maturity to understand the ‘nature and implications’ and weigh up the information and make a decision; and communicate that decision.  The determination of a child's competence has to be decision-specific and child-specific.  In these instances, it will be for the Tribunal to give directions and make specific judgments, where possible with the assistance of legal representatives. 
+
+
+
+The overriding principle must, of course, be that all cases are fact specific. However, as we have said, the parties are entitled to some general guidance as to the Tribunal’s likely approach. 
+
+
+
+Accordingly, as a general matter, we consider that applicants aged 16 or 17 years, without any attendant vulnerability or special educational need or other characteristic denoting difficulty, will be presumed to have capacity and so be able to conduct proceedings in their own right.  They will generally not require a litigation friend.  This is the position even if they are not legally represented. 
+
+
+
+The appointment of litigation friends for applicants between the ages of 12 years and 15 years inclusive (i.e. 12 and over but younger than 16)  will need to be considered on a case-by-case basis and the circumstances which should be considered, but which are not exhaustive, are (a) whether the applicant is legally represented; (see below); (b) whether there is an assisting parent; (c) whether there is a local authority involved (see above); and (d) whether the applicant has any type of vulnerability.
+
+
+
+If an applicant in this age group is legally represented, the Tribunal will expect the representative specifically to address in writing the issue of whether, in the representative’s view, a litigation friend is necessary, having regard to capacity and the position of any parent.
+
+
+
+Applicants under the age of 12 will normally require a litigation friend. 
+
+
+
+Clearly there may be children over the age of 16 years who do not have capacity and those under 16 years who do.  The approach must depend on all the circumstances as to whether to appoint a litigation friend. 
+
+
+
+As regards the identification of children who lack capacity and require a litigation friend,  the Joint Presidential Guidance Note “Child, vulnerable adult and sensitive appellant guidance (No 2 of 2010)” sets out that: 
+
+
+
+“The primary responsibility for identifying vulnerable individuals lies with the party calling them but representatives may fail to recognise vulnerability”.
+
+
+
+An individual’s legal representative is, generally,  best placed and privy to medical and personal information about a particular applicant, rather than the respondent, to identify concerns about vulnerability.
+
+
+
+The Solicitors Regulation Authority Practice Note of 2 July 2015 entitled, “Meeting the Needs of Vulnerable Clients”, and referred to in R (C) v First-tier Tribunal [2016] EWHC 707, sets out how solicitors should identify and communicate with vulnerable clients and where a solicitor has doubts about clients’ capacity, it is their professional duty to satisfy themselves that the client either does or does not have capacity.  Ultimately, it is  for the Tribunal to determine how best child capacity can be demonstrated. Where a child is legally represented, it should be for the solicitor with conduct of the case to file a witness statement attesting to the child’s capacity, as in the case of NL.
+
+
+
+(c) The duties of a litigation friend
+
+The Lord Chancellor adopted the description of the role and duties of the litigation friend as framed, although not precisely defined, in The “White Book” 2018 at 21.2.1:
+
+
+
+“The litigation friend is required to take all measures he or she sees fit for the benefit of the child or protected party, supplementing the want of capacity and judgement of the child or protected party, his or her function being to guard or safeguard the interests of the child or protected party for the purposes of the litigation.  The discharge of that duty involves the assumption by the litigation friend of the obligation to acquaint him or herself of the nature of the action and, under proper legal advice, to take all due steps to further the interests of the child or protected party; see Whittall [1973] 1 WLR 1027, Brightman J v SSHD [2005] EWCA Civ 629 at 1030, cited with approval in OH v Craven [2017] 4 WLR 25, Norris J v SSHD [2005] EWCA Civ 629.”
+
+
+
+This position is reflected in the observations in re E (Mental Health Patient) [1984] 1 WLR 320 at 324 regarding the role of a litigation friend, who was to conduct litigation on behalf of a clamant who lacks competence, in his best interests.  The duties are (i) to act competently and diligently and (ii) to act in the best interests of (and without conflict with) the party for whom he is conducting proceedings (RP v UK [2013] 1 FLR 744).
+
+
+
+We consider that the description of these duties would apply equally in the Upper Tribunal.
+
+
+
+
+
+
+
+(d) Who is to be a litigation friend? 
+
+The Tribunal may, inter alia, appoint the parent, close relative or other person identified in the claim form as proposing to be a litigation friend.  The Tribunal may, further, invite an application for the nomination of a litigation friend and arrange a case management hearing for such an appointment or alternatively appoint on a paper application. 
+
+
+
+On this issue, the guiding principles as to who may be suitable to act may, we find, be derived from the CPR. They are:
+
+
+
+Can he or she fairly and competently conduct proceedings on behalf of the child?
+
+
+
+Does he or she have an interest adverse to that of the child?
+
+
+
+
+
+As to whether the party should consent to be a litigation friend, we consider that only with consent would the litigation friend be able to fulfil the functions outlined in the previous paragraph.  For practical purposes, only one person should normally be nominated as a litigation friend.  A parent of the child will often be the obvious choice but not the only option.  
+
+
+
+In the event that there is no one willing to be a litigation friend, the Official Solicitor has a power, but not a duty to act as a litigation friend in the Upper Tribunal: Senior Courts Act 1981 - section 90(3A) (‘SCA 1981’).  The Lord Chancellor is empowered to direct the Official Solicitor to act in Tribunal proceedings generally but not in specific cases:  SCA 1981- section 90(3) (b).
+
+
+
+We do not consider it should be a requirement to exact an undertaking on costs prior to the appointment of a litigation friend.  That does not, however, preclude the Tribunal from requiring an undertaking on costs, where appropriate.  In immigration judicial review proceedings, the Tribunal has wide powers as to costs: see section 29(2) of the TCEA and rule 10(3)(a) of the Tribunal Procedure (Upper Tribunal) Rules 2008.  These powers enable the Tribunal where necessary to award costs against a person who is involved in the proceedings, otherwise than as a party.  We agree, however, that costs should not be a deterrent to a child accessing justice but we specifically highlight this power in the event that it becomes evident that an adult is choosing to bring judicial review proceedings in the name of a small child; those proceedings are issued with or without a legal representative; the adult refuses to become a litigation friend; and the child is the unsuccessful party.  When making a costs order the means of the person concerned must be taken into account and all cases will be fact- sensitive as regards costs in addition to the substantive issues.
+
+
+
+It should be stressed that the Tribunal will be very unlikely to declare invalid proceedings, which are commenced without a litigation friend,  but which the Tribunal later considers require one.  In view of the sensitive nature of many of the cases before us this would lead to uncertainty and contravene the principle of finality.  Therefore, the Tribunal can normally be expected to respond in one or more of the ways described above.
+
+
+
+We indicated at paragraphs 1 and 72 above that the guidance in these immigration judicial review proceedings may have relevance in statutory appeals.  Apart from the issue of costs and what we say about forms, the general approach described above, involving the three categories of children: under 12, 12 to 15 inclusive; and 16 to 18, is one that as a general matter should be followed in appeal proceedings, whether in the First-tier or the Upper Tribunal.
+
+ 
+
+(e) Procedure
+
+When an application for permission to bring judicial review proceedings is made on behalf of a child, and the person filing the application on the child’s behalf wishes to be appointed by the Tribunal as a litigation friend, that fact should be identified in Box 7 of the application form. The High Court form N235 should not be used in Upper Tribunal proceedings. In due course, the Tribunal may produce its own equivalent form but in the interim, there should, where such an appointment is being sought, be an indication for that application on the claim form.  The matter will be decided and or directions given by the Upper Tribunal on the papers. 
+
+
+
+This procedure does not negate the requirement of the respondent to make an application for consideration of a litigation friend where (having regard to paragraphs 85 to 87 above) that needs (or may need) to be done and no application has been made under the process described in paragraph 102 above. The Acknowledgment of Service should be filed in full, together with any summary grounds of defence and should include in the ‘other directions’ box a requirement to consider the appointment of a litigation friend. In the event that it is necessary to make a further or separate application that should be in the form of a charged application. 
+
+
+
+In other words, the respondent should file an Acknowledgment of Service, and not merely a short form, whether or not a litigation friend has been appointed and highlight the requirement where necessary for a litigation friend on the acknowledgment of service. 
+
+
+
+F. DISPOSAL
+
+JS
+
+A consent order has been drafted and there should be appointed a litigation friend in order to settle the consent order.  The parents should be contacted by the respondent in writing for them to nominate a litigation friend so that the Tribunal may appoint the same and dispose of the matter. 
+
+
+
+
+
+SJ
+
+
+
+In principle there should be a litigation friend because of the age of the child but the mother expressed some misapprehension and confusion as to the process.  We direct that there should be an oral case management hearing as to the appoint of a litigation friend.  The respondent should make investigations as to who other possible litigation friends may be.  Should no litigation friend be appointed the proceedings may be dismissed for abuse of process, lack of cause and be struck out. 
+
+
+
+SS
+
+
+
+The child is 15 years old and legally represented.  There is no indication that the child has any frailties or vulnerabilities.  The respondent has agreed to reconsider the decision under challenge, and a consent order has been filed seeking permission for the withdrawal of the claim.  The outstanding matter remains in relation to costs.  We do not find it appropriate to appoint a litigation friend as the solicitors may assist in finalising the order.  There should, however, be submissions as to costs. 
+
+
+
+ We direct that both parties should make written submissions within the next 14 days. 
+
+
+
+NL
+
+
+
+109.   No further directions are necessary.
+
+Signed     Helen Rimington
+
+Upper Tribunal Judge Rimington
+
+                        31 December 2018
+
+
+Annex  
+
+
+
+ Civil Procedure Rules
+
+“21.2	Requirement for a litigation friend in proceedings by or against children and protected parties
+
+
+
+A protected party must have a litigation friend to conduct proceedings on his behalf.
+
+
+
+A child must have a litigation friend to conduct proceedings on his behalf unless the court makes an order under paragraph (3).
+
+
+
+The court may make an order permitting a child to conduct proceedings without a litigation friend.
+
+
+
+21.3	Stage of proceedings at which a litigation friend becomes necessary
+
+
+
+(1)	This rule does not apply where the court has made an order under rule 21.2(3).
+
+
+
+(2)	A person may not, without the permission of the court –
+
+
+
+(a)	 make an application against a child or protected party before proceedings have started; or
+
+
+
+(b)	 take any step in proceedings except –
+
+
+
+(i)	issuing and serving a claim form; or
+
+
+
+(ii)	applying for the appointment of a litigation friend under rule 21.6, until the child or protected party has a litigation friend.
+
+
+
+(3)	If during proceedings a party lacks capacity to continue to conduct proceedings, no party may take any further step in the proceedings without the permission of the court until the protected party has a litigation friend.
+
+
+
+(4)	Any step taken before a child or protected party has a litigation friend has no effect unless the court orders otherwise.
+
+
+
+21.4	Who may be a litigation friend without a court order
+
+
+
+(1)	This rule does not apply if the court has appointed a person to be a litigation friend.
+
+
+
+(2)	A deputy appointed by the Court of Protection under the 2005 Act with power to conduct proceedings on the protected party’s behalf is entitled to be the litigation friend of the protected party in any proceedings to which his power extends.
+
+
+
+(3)	If nobody has been appointed by the court or, in the case of a protected party, has been appointed as a deputy as set out in paragraph (2), a person may act as a litigation friend if he –
+
+
+
+(a)	 can fairly and competently conduct proceedings on behalf of the child or protected party;
+
+
+
+(b)	 has no interest adverse to that of the child or protected party; and
+
+
+
+(c)	 where the child or protected party is a claimant, undertakes to pay any costs which the child or protected party may be ordered to pay in relation to the proceedings, subject to any right he may have to be repaid from the assets of the child or protected party.
+
+
+
+21.5 	How a person becomes a litigation friend without a court order
+
+
+
+(1)	If the court has not appointed a litigation friend, a person who wishes to act as a litigation friend must follow the procedure set out in this rule.
+
+
+
+(2)	A deputy appointed by the Court of Protection under the 2005 Act with power to conduct proceedings on the protected party’s behalf must file an official copy(GL) of the order of the Court of Protection which confers his power to act either –
+
+
+
+(a)	where the deputy is to act as a litigation friend for a claimant, at the time the claim is made; or
+
+
+
+(b)	where the deputy is to act as a litigation friend for a defendant, at the time when he first takes a step in the proceedings on behalf of the defendant.
+
+
+
+(3)	Any other person must file a certificate of suitability stating that he satisfies the conditions specified in rule 21.4(3) either –
+
+
+
+(a)	where the person is to act as a litigation friend for a claimant, at the time when the claim is made; or
+
+
+
+(b)	 where the person is to act as a litigation friend for a defendant, at the time when he first takes a step in the proceedings on behalf of the defendant.
+
+
+
+(4)	The litigation friend must –
+
+
+
+(a)	 serve the certificate of suitability on every person on whom, in accordance with rule 6.13 (service on a parent, guardian etc.), the claim form should be served; and
+
+
+
+(b)	 file a certificate of service when filing the certificate of suitability.
+
+
+
+(Rules 6.17 and 6.29 set out the details to be contained in a certificate of service.)
+
+
+
+21.6 	How a person becomes a litigation friend by court order
+
+
+
+(1) 	The court may make an order appointing a litigation friend.
+
+
+
+(2) 	An application for an order appointing a litigation friend may be made by –
+
+(a) 	a person who wishes to be the litigation friend; or
+
+
+
+(b)	a party.
+
+
+
+(3)	Where –
+
+
+
+(a)	a person makes a claim against a child or protected party;
+
+
+
+(b) 	the child or protected party has no litigation friend;
+
+
+
+(c)	 the court has not made an order under rule 21.2(3) (order that a child can conduct proceedings without a litigation friend); and
+
+
+
+(d) 	either –
+
+
+
+(i) 	someone who is not entitled to be a litigation friend files a defence; or
+
+
+
+(ii) the claimant wishes to take some step in the proceedings,
+
+
+
+The claimant must apply to the court for an order appointing a litigation friend for the child or protected party.
+
+
+
+(4)	An application for an order appointing a litigation friend must be supported by evidence.
+
+
+
+(5)	The court may not appoint a litigation friend under this rule unless it is satisfied that the person to be appointed satisfies the conditions in rule 21.4(3).
+
+
+
+
+
+Section 22  TCEA – Tribunal Procedure Rules
+
+
+
+(1)	There are to be rules, to be called “Tribunal Procedure Rules”, governing–
+
+
+
+(a) 	the practice and procedure to be followed in the First-tier Tribunal, and
+
+
+
+(b)	 the practice and procedure to be followed in the Upper Tribunal.
+
+
+
+(2)	Tribunal Procedure Rules are to be made by the Tribunal Procedure Committee.
+
+
+
+(3)	In Schedule 5–
+
+
+
+Part 1 makes further provision about the content of Tribunal Procedure Rules,
+
+Part 2 makes provision about the membership of the Tribunal Procedure Committee,
+
+
+
+Part 3 makes provision about the making of Tribunal Procedure Rules by the Committee, and
+
+
+
+Part 4 confers power to amend legislation in connection with Tribunal Procedure Rules.
+
+
+
+(4)	Power to make Tribunal Procedure Rules is to be exercised with a view to securing–
+
+
+
+(a)	 that, in proceedings before the First-tier Tribunal and Upper Tribunal, justice is done,
+
+
+
+(b)	that the tribunal system is accessible and fair,
+
+
+
+(c)	that proceedings before the First-tier Tribunal or Upper Tribunal are handled quickly and efficiently,
+
+
+
+(d)	that the rules are both simple and simply expressed, and
+
+
+
+(e)	that the rules where appropriate confer on members of the First-tier Tribunal, or Upper Tribunal, responsibility for ensuring that proceedings before the tribunal are handled quickly and efficiently.
+
+
+
+
+
+Supplementary powers of the Upper Tribunal
+
+Section 25: Supplementary powers of Upper Tribunal
+
+
+
+(1)	In relation to the matters mentioned in subsection (2), the Upper Tribunal–
+
+
+
+(a)	has, in England and Wales or in Northern Ireland, the same powers, rights, privileges and authority as the High Court, and
+
+
+
+(b)	has, in Scotland, the same powers, rights, privileges and authority as the Court of Session.
+
+
+
+(2)	The matters are–
+
+
+
+(a)	the attendance and examination of witnesses,
+
+
+
+(b)	the production and inspection of documents, and
+
+
+
+(c)	all other matters incidental to the Upper Tribunal's functions.
+
+
+
+(3)	Subsection (1) shall not be taken–
+
+
+
+(a) 	to limit any power to make Tribunal Procedure Rules;
+
+
+
+(b)	to be limited by anything in Tribunal Procedure Rules other than an express limitation.”
+
+
+
+Upper Tribunal Rules: Overriding objective and case management powers
+
+"Overriding objective and parties’ obligation to co-operate with the Upper Tribunal 
+
+	2.—(1)	The overriding objective of these Rules is to enable the Upper Tribunal to deal with cases fairly and justly.
+
+(2)	Dealing with a case fairly and justly includes— 
+
+(a) 	dealing with the case in ways which are proportionate to the importance of the case, the complexity of the issues, the anticipated costs and the resources of the parties; 
+
+(b) 	avoiding unnecessary formality and seeking flexibility in the proceedings; 
+
+(c) 	ensuring, so far as practicable, that the parties are able to participate fully in the proceedings; 
+
+(d) 	using any special expertise of the Upper Tribunal effectively; and
+
+(e)	 avoiding delay, so far as compatible with proper consideration of the issues.
+
+(3)	The Upper Tribunal must seek to give effect to the overriding objective when it—
+
+(a) 	exercises any power under these Rules; or
+
+(b)	 interprets any rule or practice direction. 
+
+ (4) Parties must—
+
+ (a)	 help the Upper Tribunal to further the overriding objective; and 
+
+ (b)	 co-operate with the Upper Tribunal generally.
+
+…
+
+Case management powers
+
+	5.—(1)	Subject to the provisions of the 2007 Act and any other enactment, the Upper Tribunal may regulate its own procedure. 
+
+(2)	The Upper Tribunal may give a direction in relation to the conduct or disposal of proceedings at any time, including a direction amending, suspending or setting aside an earlier direction. 
+
+(3)	In particular, and without restricting the general powers in paragraphs (1) and (2), the Upper Tribunal may—
+
+(a)	extend or shorten the time for complying with any rule, practice direction or direction; 
+
+(b)	consolidate or hear together two or more sets of proceedings or parts of proceedings raising common issues, or treat a case as a lead case; 
+
+(c)	permit or require a party to amend a document; 
+
+(d)	permit or require a party or another person to provide documents, information, evidence or submissions to the Upper Tribunal or a party; 
+
+(e)	deal with an issue in the proceedings as a preliminary issue; 
+
+(f)h	old a hearing to consider any matter, including a case management issue; 
+
+(g)	decide the form of any hearing; 
+
+(h)	adjourn or postpone a hearing; 
+
+(i)	require a party to produce a bundle for a hearing; 
+
+(j)	stay (or, in Scotland, sist) proceedings; 
+
+(k)	transfer proceedings to another court or tribunal if that other court or tribunal has jurisdiction in relation to the proceedings and— 
+
+(i)	because of a change of circumstances since the proceedings were started, the Upper Tribunal no longer has jurisdiction in relation to the proceedings; or 
+
+(ii)	the Upper Tribunal considers that the other court or tribunal is a more appropriate forum for the determination of the case; 
+
+(l)	suspend the effect of its own decision pending an appeal or review of that decision; 
+
+(m)	in an appeal, or an application for permission to appeal, against the decision of another tribunal, suspend the effect of that decision pending the determination of the application for permission to appeal, and any appeal; 
+
+(n)	require any other tribunal whose decision is the subject of proceedings before the Upper Tribunal to provide reasons for the decision, or other information or documents in relation to the decision or the proceedings in that tribunal.”
+
+
+
+
+
+© CROWN COPYRIGHT 2019
+
+
+
+21

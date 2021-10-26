@@ -1,0 +1,1080 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Bossade (ss.117A-D-interrelationship with Rules) [2015] UKUT 00415 (IAC)
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Royal Courts of Justice              |Decision & Reasons Promulgated|
+|On 20 April 2015                              |                              |
+|                                              |..............................|
+|                                              |.........                     |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE STOREY
+                         UPPER TRIBUNAL JUDGE DAWSON
+                                   Between
+
+                 Secretary of State for the Home Department
+                                                                   Appellant
+                                     and
+
+                               MR YAN BOSSADE
+                       (ANONYMITY DIRECTION not made)
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr I Jarvis, Home Office Presenting Officer
+
+For the Respondent:    Mr K Mak, Solicitor, instructed by MKM Solicitors
+
+
+1. For courts and tribunals, the  coming  into  force  of  Part  5A  of  the
+Nationality, Immigration and Asylum Act 2002  (ss.117A-D)  has  not  altered
+the need for a two-stage approach to Article 8 claims.
+
+2. Ordinarily a court or tribunal  will,  as  a  first  stage,  consider  an
+appellant's Article 8 claim by reference to the Immigration Rules  that  set
+out  substantive  conditions,  without  any  direct  reference  to  Part  5A
+considerations. Such considerations have no direct application to  rules  of
+this kind.  Part 5A considerations  only  have  direct  application  at  the
+second stage of the Article 8 analysis. This method  of  approach  does  not
+amount to according priority to  the  Rules  over  primary  legislation  but
+rather of recognising their different functions.
+
+3. In the context of foreign criminal cases (because  the  provisions  found
+in Part 13 of the Rules are a complete code encompassing both stages of  the
+Article 8 assessment), this  means  that  Part  5A  considerations  have  no
+direct role at the first stage when a court or tribunal is deciding  whether
+an applicant meets the substantive conditions of paragraphs 399 or  399A  of
+the Immigration Rules. They only have  direct  application  at  the  second-
+stage, viz. assessment  under  the  rules  that  involve  a  proportionality
+assessment: viz. paragraph 398 and (in revocation cases) paragraph 390A.  In
+cases other than those concerning deportation of  foreign  criminals,  where
+the Rules are not a complete code, it may  still  be  necessary  to  conduct
+this second stage outside the Rules: see Secretary of  State  for  the  Home
+Department v AJ (Angola) [2014] EWCA Civ 1636 at [39].
+
+4. Whilst Part 5A  considerations  may  have  indirect  application  to  the
+Immigration Rules, including those setting out substantive  conditions  such
+as paragraphs 399 and 339A, this is limited to their role as  statements  of
+principles that can be used where appropriate to inform the meaning  of  key
+terms set out in such paragraphs.
+
+5. New paragraph 399A of the Immigration Rules remains similar  to  the  old
+in considering the foreign criminal deportee's situation both in the UK  and
+in the country of return. However, so far as concerns focus  on  a  person's
+situation in the UK, time in the UK is no longer relevant as such except  in
+the context of lawful residence (399A(a)) and paragraph  399A(b)  introduces
+new criteria that relate to social and cultural integration in the  UK.   So
+far as concerns focus on the situation in the country of  return,  paragraph
+399A no longer  looks at 'ties' per se but at the more inclusive  notion  of
+integration and obstacles thereto. By requiring focus  on  integration  both
+in relation to a person's circumstances in the UK as well as in the  country
+of return, the new Rules achieve a  much  more  holistic  assessment  of  an
+appellant's  circumstances.  Thereby  they  bring   themselves   closer   to
+Strasbourg jurisprudence on Article 8 in expulsion cases  which  has  always
+seen  consideration  of  both  dimensions  as   requiring   a   wide-ranging
+assessment: see e.g.  Jeunesse  v  Netherlands  (GC)  App.No.  12738/10,  31
+October 2014, paragraphs 106-109.
+
+                            DECISION AND REASONS
+
+1. The  respondent  (hereinafter  "the  claimant")  is  a  national  of  the
+Democratic Republic of Congo (DRC) aged 29.  On 23 July 2013  the  appellant
+(hereinafter "the SSHD") decided to make a deportation order against him  on
+the ground that  he  was  a  foreign  criminal  sentenced  to  a  period  of
+imprisonment of at least twelve months.
+
+2. In a determination of 24 June 2014, a  First-tier  Tribunal  (FtT)  panel
+comprising Judge Abebrese  and  N.L.M.  Richardson  allowed  the  claimant's
+appeal under Articles 3 and 8 of  the  ECHR  and  paragraph  276ADE  of  the
+Immigration Rules.  On 28 January 2015 we set  aside  the  decision  of  the
+First-tier Tribunal for error  of  law  (the  principal  errors  found  were
+inadequate treatment of Article 3; failure to recognise  that  the  claimant
+was shut out from paragraph 276ADE of the Immigration Rules  by  suitability
+requirements; and failure to assess objectively the issue  of  ties  in  the
+country to which he would be deported).  In our decision  we  observed  that
+whilst ideally the further hearing would not take  place  before  the  Upper
+Tribunal had issued new country  guidance  on  the  Democratic  Republic  of
+Congo, we might find it necessary, if that were  delayed,  to  proceed  with
+the case nonetheless.  We made this observation in light of  the  fact  that
+the Upper Tribunal had taken steps to convene a new  country  guidance  case
+to address the issue of whether there was  a  risk  on  return  to  criminal
+deportees, which Phillips J had had  to  engage  with  P  (DRC)  R  (on  the
+application of) v Secretary of State for the  Home  Department  [2013]  EWHC
+3879 (Admin).
+
+3. At the hearing before us we explained to the  parties  that  rather  than
+adjourn  to  await  the  pending  country  guidance  case,  which  was  then
+imminent, we would hear their submissions and then  give  them  a  specified
+period in which to make written submissions dealing  with  the  implications
+for our decision of the new country guidance once  reported.  Following  the
+reporting of that decision, BM and Others (returnees  -  criminal  and  non-
+criminal) Democratic Republic of Congo (CG) [2015]  UKUT  293  (IAC),  on  2
+June 2015, we duly received submissions. It is convenient  to  say  at  this
+stage that in light of the BM decision we are entirely  satisfied  that  the
+claimant would not face risk on return to the DRC  by  virtue  of  the  fact
+that he is a foreign national offender (FNO). He has never asserted that  he
+falls into any of the risk categories identified in   BM  or  other  country
+guidance cases on the DRC. Mr  Mak's  further  written  submission  that  we
+should find that the claimant would face a real risk of being  detained  for
+more than a day  because  he  had  been  away  from  the  DRC  so  long  was
+unsupported by any evidence and can be rejected as purely  speculative.  Our
+conclusion is that his case cannot succeed  on  asylum-related  grounds;  it
+hinges entirely on Article 8 ECHR.
+
+4. The claimant who was born in 1986 came to the UK when  aged  4.   He  was
+granted indefinite leave to remain  (ILR)  in  1998.   He  began  committing
+offences from 2002, with a history  of  convictions  in  2002,  2004,  2005,
+2006, 2008, 2009, 2010 and 2011, culminating  in  a  conviction  at  Croydon
+Crown Court for robbery  and  related  offences  for  which  he  received  a
+sentence of 42 months' imprisonment.  On 2  August  2006  the  claimant  was
+issued  with  a  "warning  letter"  about  his  criminal  behaviour  (whilst
+imprisoned in HMP Glen Parva).
+
+5. At the hearing before the FtT the  claimant  gave  evidence  as  did  his
+mother.  The claimant stated that he had two brothers born in the UK.   They
+had different fathers.  The claimant had a difficult relationship  with  his
+stepfather.  He entered a life of crime which spiralled  and  eventually  he
+was sentenced to a term of imprisonment.  In his statement of  May  2014  he
+said his most recent spell in prison and the deportation decision  had  made
+him realise he had to change.  He now accepted full responsibility  for  his
+crimes and his behaviour.  He had learnt and developed the right  skills  to
+equip himself better for life outside.  He had no memory of life in the  DRC
+and had always considered  himself  British.   He  had  never  met  his  own
+father.  He had never been outside the UK.  He  did  not  speak  Lingala  or
+French.  In the DRC he would have no friends, family, home or  knowledge  of
+the language or culture.  He was not aware he had uncles in the DRC.
+
+6. The FtT also heard from the claimant's mother.  She explained  that  when
+he was a teenager he refused to listen to instructions  or  be  disciplined.
+She believed it was possible for her son to have changed.
+
+7. Before the FtT there was also an OASys Report indicating that  there  was
+still an element of risk in respect of the claimant  and  that  his  licence
+was due to expire in October  2015.   The  claimant  had  had  a  number  of
+opportunities to stop re-offending which he had not taken advantage of.
+
+8. Shortly after we set aside  the  FtT  decision,  the  parties  were  sent
+directions putting both on notice that it was their responsibility  to  file
+any documentary  evidence  upon  which  reliance  was  placed.   No  further
+evidence was produced in response  to  that  direction  nor  was  there  any
+application for the claimant or any other witness  to  give  oral  evidence.
+In such circumstances we indicated to the parties that  the  hearing  before
+us would be confined to submissions.
+
+Submissions
+
+9. At the outset both parties said that  we  should  decide  the  claimant's
+appeal, not under the version of the Immigration Rules in force at the  date
+of decision but as at the date before us.  That meant looking at  the  Rules
+as they had been amended on 28 July 2014.  Both parties also reminded us  of
+the need to apply Part  5A  of  the  2002  Act,  inserted  by  s.19  of  the
+Immigration Act 2014. Before going further, it is convenient to set  out  in
+full paragraphs 398 and 399A of the Rules (as amended on 28 July  2014)  and
+Part 5A of the Act:
+
+Paragraphs 398 and 399A provide:
+
+
+    "398. Where a person claims that their deportation would be contrary to
+    the UK's obligations under Article 8 of the  Human  Rights  Convention,
+    and
+    (a) the deportation of the person from  the  UK  is  conducive  to  the
+    public good and in the public interest because they have been convicted
+    of an offence for which  they  have  been  sentenced  to  a  period  of
+    imprisonment of at least 4 years;
+    (b) the deportation of the person from  the  UK  is  conducive  to  the
+    public good and in the public interest because they have been convicted
+    of an offence for which  they  have  been  sentenced  to  a  period  of
+    imprisonment of less than 4 years but at least 12 months; or
+    (c) the deportation of the person from  the  UK  is  conducive  to  the
+    public good and in the public interest because,  in  the  view  of  the
+    Secretary of State, their offending has caused serious harm or they are
+    a persistent offender who shows a particular disregard for the law, the
+    Secretary of State  in  assessing  that  claim  will  consider  whether
+    paragraph 399 or 399A applies and, if it does not, the public  interest
+    in deportation will only be outweighed by other factors where there are
+    very  compelling  circumstances  over  and  above  those  described  in
+    paragraphs 399 and 399A.
+    ...
+    399A. This paragraph applies where paragraph 398(b) or (c) applies if -
+
+
+    (a) the person has been lawfully resident in the UK  for  most  of  his
+    life; and
+    (b) he is socially and culturally integrated in the UK; and
+    (c) there would be very significant obstacles to his  integration  into
+         the country to which it is proposed he is deported."
+
+Headed "Article 8 of the ECHR: Public Interest Considerations", Part 5A
+provides:
+      117A Application of this Part
+      (1)  This Part applies where  a  court  or  tribunal  is  required  to
+      determine whether a decision made under the Immigration Acts-
+      (a)  breaches a person's right to respect for private and family  life
+      under Article 8, and
+      (b)  as a result would be unlawful under section 6 of the Human Rights
+      Act 1998.
+      (2)  In  considering  the  public  interest  question,  the  court  or
+      tribunal must (in particular) have regard-
+      (a) in all cases, to the considerations listed in section 117B, and
+      (b) in cases concerning the deportation of foreign criminals,  to  the
+      considerations listed in section 117C.
+      (3)  In subsection (2),  "the  public  interest  question"  means  the
+      question of whether an interference with a person's right  to  respect
+      for private and family life is justified under Article 8(2).
+      117B Article 8: public interest considerations applicable in all cases
+      (1)The maintenance of effective immigration controls is in the  public
+      interest.
+      (2) It is in the public interest, and in particular in  the  interests
+      of the economic well-being of the United  Kingdom,  that  persons  who
+      seek to enter or remain in  the  United  Kingdom  are  able  to  speak
+      English, because persons who can speak English-
+      (a) are less of a burden on taxpayers, and
+      (b) are better able to integrate into society.
+      (3) It is in the public interest, and in particular in  the  interests
+      of the economic well-being of the United  Kingdom,  that  persons  who
+      seek to  enter  or  remain  in  the  United  Kingdom  are  financially
+      independent, because such persons-
+      (a) are not a burden on taxpayers, and
+      (b) are better able to integrate into society.
+      (4) Little weight should be given to-
+      (a) a private life, or
+      (b)  a  relationship  formed  with  a  qualifying  partner,  that   is
+      established by a person at a time when the person  is  in  the  United
+      Kingdom unlawfully.
+      (5) Little weight should be given to a private life established  by  a
+      person at a time when the person's immigration status is precarious.
+      (6) In the case of a person who is  not  liable  to  deportation,  the
+      public interest does not require the person's removal where-
+      (a) the person has a genuine and subsisting parental relationship with
+      a qualifying child, and
+      (b) it would not be reasonable to expect the child to leave the United
+      Kingdom.
+
+
+      117C Article 8 additional considerations in  cases  involving  foreign
+      criminals.
+      (1) The deportation of foreign criminals is in the public interest.
+      (2) The more serious the offence committed by a foreign criminal,  the
+      greater is the public interest in deportation of the criminal.
+      (3) In the case of a foreign criminal ("C") who has not been sentenced
+      to a period of imprisonment of four years or more, the public interest
+      requires C's deportation unless Exception 1 or Exception 2 applies.
+      (4) Exception 1 applies where-
+      (a) C has been lawfully resident in the United Kingdom for most of C's
+      life,
+      (b) C is socially and culturally integrated in the United Kingdom, and
+      (c) there would be very significant obstacles to C's integration  into
+      the country to which C is proposed to be deported.
+      (5)  Exception  2  applies  where  C  has  a  genuine  and  subsisting
+      relationship with a qualifying partner, or a  genuine  and  subsisting
+      parental relationship with a qualifying child, and the effect  of  C's
+      deportation on the partner or child would be unduly harsh.
+      (6) In the case of a foreign criminal who  has  been  sentenced  to  a
+      period of imprisonment of at least four  years,  the  public  interest
+      requires deportation unless there are very  compelling  circumstances,
+      over and above those described in Exceptions 1 and 2.
+      (7) The considerations in subsections (1) to (6) are to be taken  into
+      account where a court or tribunal is considering a decision to  deport
+      a foreign criminal only to the extent that the reason for the decision
+      was the offence or offences for which the criminal has been convicted.
+      117D Interpretation of this Part
+      (1)  In this Part-
+      "Article 8" means Article  8  of  the  European  Convention  on  Human
+      Rights;
+      "qualifying child" means a person who is under the age of 18 and who-
+      (a) is a British citizen, or
+      (b) has lived in the United Kingdom for a continuous period  of  seven
+      years or more;
+      "qualifying partner" means a partner who-
+      (a) is a British citizen, or
+      (b) who is settled in the United Kingdom (within the meaning of the
+      Immigration Act 1971 - see section 33(2A) of that Act).
+      (2)  In this Part, "foreign criminal" means a person-
+      (a) who is not a British citizen,
+      (b) who has been convicted in the United Kingdom of an offence, and
+      (c) who -
+      (i) has been sentenced to a period of  imprisonment  of  at  least  12
+      months,
+      (ii) has been convicted of an offence that has caused serious harm, or
+
+
+      (iii) is a persistent offender.
+      (3)  For the purposes of subsection (2)(b), a  person  subject  to  an
+      order under-
+      (a) section 5 of the Criminal Procedure (Insanity) Act 1964  (insanity
+      etc),
+      (b) section 57 of the Criminal Procedure (Scotland) Act 1995 (insanity
+      etc), or (c) Article 50A of the Mental Health (Northern Ireland) Order
+      1986 (insanity etc), has not been convicted of an offence.
+      (4)  In this Part, references to a person who has been sentenced to  a
+      period of imprisonment of a certain length of time-
+      (a)  do not include a person who has  received  a  suspended  sentence
+      (unless a court subsequently orders that the sentence or any  part  of
+      it (of whatever length) is to take effect);
+      (b)  do not include a person who has been sentenced  to  a  period  of
+      imprisonment of that length of time only by virtue of being  sentenced
+      to consecutive sentences amounting in  aggregate  to  that  length  of
+      time;
+      (c)  include a person who is sentenced to  detention,  or  ordered  or
+      directed to be  detained,  in  an  institution  other  than  a  prison
+      (including, in particular, a hospital  or  an  institution  for  young
+      offenders) for that length of time; and
+      (d)  include a person who is sentenced to imprisonment  or  detention,
+      or ordered or directed to be detained, for  an  indeterminate  period,
+      provided that it may last for at least that length of time.
+      (5) If any question arises for the purposes of this Part as to whether
+      a person is a British citizen, it is for  the  person  asserting  that
+      fact to prove it."
+10. Mr Jarvis for the SSHD contended that  because  the  claimant  had  been
+sentenced to less than 4 years (3 years, 9 months) he fell  under  paragraph
+399A(a)-(c).  As regards paragraph 399A(a), Mr Jarvis accepted the  claimant
+met this condition as he had been lawfully resident in the UK  for  most  of
+his life: he was granted ILR on 24 September 1998, which meant he  had  over
+16� years' lawful residence.
+
+11.  As  regards  paragraph  399A(b),  however,  Mr   Jarvis   argued   that
+notwithstanding he had received all his  schooling  in  the  UK  and  had  a
+mother and two half-brothers who were British citizens, he was not  socially
+and culturally integrated in the UK.  He had spent  significant  periods  of
+his residence in prison and excluded from society.  Even when not in  prison
+his pattern of offending showed his lifestyle was anti-social.  He had  also
+failed to show he was financially  independent  to  any  significant  degree
+whilst he was not  in  prison.   His  offending,  namely  repeated  robbery,
+showed  an  obvious  disregard  for  the  safety  and  wellbeing  of  fellow
+citizens.
+
+12. In any event, even leaving paragraph  399A(b)  aside,  according  to  Mr
+Jarvis the  claimant  could  still  not  meet  the  conditions  set  out  in
+paragraph 399A(c), which required him to  show  that  there  would  be  very
+significant obstacles to his integration into the country  to  which  it  is
+proposed he is deported.  It would be open to the claimant  to  rebuild  his
+private life in the DRC and integrate into that country's society.   It  was
+not  accepted  he  was  not  conversant  in  French,  bearing  in  mind  his
+upbringing with a mother from the DRC.  He could use whatever skills he  had
+accrued in the UK to help him get by in the DRC.  He had  not  produced  any
+evidence of mental or physical disability.  The wording  of  paragraph  399A
+no longer referred anywhere to "ties" as such, but  clearly  the  matter  of
+family connections  was  just  as  relevant  under  the  new  wording.   The
+claimant had not shown he could not look to support from family in  the  DRC
+whether that be financial, emotional etc.  Long residence was not enough.
+
+13. Mr Jarvis said that the claimant could not benefit  from  paragraph  398
+as  he  could  not  meet  the  very  high  threshold  of  "very   compelling
+circumstances over and above those described in paragraphs 399 and 399A".
+
+14. Turning to Part 5A of the 2002  Act,  Mr  Jarvis  said  that  the  Upper
+Tribunal was obliged to take  account  of  its  provisions,  including  when
+making the proportionality assessment under paragraph 398.  Section  117C(3)
+applied to the claimant and as such significant weight should  be  given  to
+the  public  interest  in  deporting  him.   The  claimant  was  a   serious
+recidivist criminal with an appalling  criminal  history  and  as  such  the
+public interest in deportation was  particularly  strong  in  terms  of  the
+historical impact of his offences; the risk of re-offending in  the  future;
+and  the  importance  of  general  deterrence.  The   claimant's   extensive
+involvement with the criminal justice system has also caused  a  substantial
+cost to the public purse.
+
+15. Mr Mak began his submission by taking issue with  the  Upper  Tribunal's
+statement in its error of law decision that the claimant had four uncles  in
+the DRC.  That was not the case and not what the claimant had  said  in  his
+witness statement in May 2014.  He had two uncles in Congo, Brazzaville  and
+two whom he had lost touch with - hence none in  the  DRC.   The  claimant's
+evidence about this was not challenged by the respondent before the FtT.
+
+16. As regards the relevant Immigration Rules, Mr Mak said he did  not  seek
+to argue that the claimant could show "very compelling circumstances"  under
+paragraph 398, but he did not need to as he  met  paragraph  399A.   Mr  Mak
+noted that in that  regard  the  SSHD  agreed  the  claimant  met  paragraph
+399A(a), so there was only dispute over the two other conditions set out  in
+paragraph 399A(b)-(c).  He asked us to find that the  claimant  clearly  did
+meet paragraph 399A(b) by virtue of the fact that  the  UK  was  effectively
+the only country in which he had ever lived,  all  his  schooling  had  been
+here, he only spoke English, his mother and half-brothers were  British  and
+he had shared his upbringing with them.  The fact that he had been  lawfully
+resident in the UK over half his life also fed into  the  paragraph  399A(b)
+assessment.  It was  dangerous  and  wrong  to  read  paragraph  399A(b)  as
+requiring (social and cultural) integrative behaviour  free  of  criminality
+because the provision was predicated on someone  being  a  foreign  criminal
+with less than four years' sentence.  In respect of paragraph  399A(c),  the
+claimant could show that there would be very significant  obstacles  to  his
+integration in the DRC.  He had only lived there as a baby.  He had no  ties
+in the DRC.  He did not speak Lingala.  If the claimant  could  not  satisfy
+paragraph 399A(b) or (c), then who could?  The provision  was  not  intended
+to allow only a small minority to satisfy its requirements.
+
+17. Mr Jarvis enunciated as a general proposition that the  new  version  of
+the Rules dealing with foreign criminals was  not  intended  to  effect  any
+drastic changes but rather to ensure there was closer alignment with  higher
+court decisions. That was true, he said, both of the Rules  in  general  and
+paragraphs 399, 399A and 398 in particular. The main focus  of  this  appeal
+was paragraph 399A. Mr Mak did not seek  to  advance  any  general  argument
+regarding the new Rules but was in agreement with Mr Jarvis  that,  together
+with Part 5A, paragraph 399A was at the heart of the claimant's appeal.
+
+Analysis
+
+The applicable Rules
+
+18. We deal first with the applicable Rules (we  shall  address  more  fully
+later why we start with them rather than with Part 5A considerations).   The
+parties invited us to apply those in force now, rather than those  in  force
+when the SSHD made her decision.  They did not cite authority but  in  light
+of the conclusion set out by Aikens LJ in YM (Uganda)[2014]  EWCA  Civ  1292
+at [37] and AJ (Angola) [2014] EWCA Civ 1636 at [7] they are  clearly  right
+about that. Because we are re-making the decision (having set aside that  of
+the First-tier Tribunal) we must apply the Rules in force  at  the  date  of
+hearing before us.
+
+19. This approach carries with it the difficulty that the Upper Tribunal  is
+determining an appeal under a different version of the Rules than  the  SSHD
+was when she made her decision, but that is one  the  legislative  framework
+caters for (s.85(4) of the 2002 Act) and of course the  SSHD  (in  reply  to
+Tribunal directions and through her representative, Mr Jarvis) was  able  to
+inform us what view she takes.
+
+The new Rules
+
+20.  Whether  (as  Mr  Jarvis  contended)  the  new  Rules  are  largely   a
+codification of existing case law or not, we of course have to approach  the
+meaning of their provisions in the  light  of  the  guidance  given  by  the
+Supreme Court in Mahad (and Others) v Entry Clearance  Officer  [2009]  UKSC
+16.
+
+21. Paragraph 399A,  like  paragraph  399,  only  applies  to  less  serious
+foreign criminal cases falling within paragraph 398(b) or (c).  Put  another
+way, a foreign criminal who has been convicted of an offence  for  which  he
+has been imprisoned for at least 4 years - i.e. a foreign  criminal  falling
+within paragraph 398(a) - is excluded from  consideration  under  paragraphs
+399A and 399A  and can only seek  to  rely  on  the  residual  provision  in
+paragraph 398 which requires him to show that  there  are  "very  compelling
+circumstances over and above those described in paragraphs  399  and  399A".
+
+
+
+
+
+
+
+Paragraph 399A
+
+22.The previous version of paragraph 399A[1] did not  refer  to  integration
+but rather to criteria relating to (i) the  period  of  time  a  person  has
+lived in the UK continuously, discounting any period of imprisonment);  (ii)
+age (if 25 or over, it was necessary to show a 20 year period; if under  25,
+it was necessary to show  he  had  spent  at  least  half  his  life  living
+continuously in the UK); and (iii) the nature of his ties in the country  to
+which he would go if  required  to  leave  the  UK  ("and  he  has  no  ties
+(including social, cultural or family) with the country to  which  he  would
+have to go if required to leave the UK").  These criteria were  set  out  in
+two subparagraphs, one  imposing  a  requirement  of  20  years'  continuous
+residence; the other, applicable only to those under 25,  imposing  a  'half
+of his life in the UK' criterion coupled with a 'no ties' test.  Except  for
+requirements of time, the  focus  was  entirely  on  the  situation  in  the
+applicant's country of return.
+
+23. The new paragraph 399A of the Immigration Rules remains similar  to  the
+old in considering the foreign criminal deportee's situation both in the  UK
+and in the country of return. However, so far as concerns  the  focus  on  a
+person's situation in the UK, time in the UK is no longer relevant  as  such
+except in the context of lawful residence (paragraph 399A(a)) and  paragraph
+399A(b)  introduces  new  criteria  that  relate  to  social  and   cultural
+integration in the UK. As before, the rule is cast  in  the  present  tense:
+"he is socially and culturally integrated in the UK".  So  far  as  concerns
+focus on the situation in the country of  return,  it  no  longer  looks  at
+'ties' per se but at integration and obstacles thereto. By  requiring  focus
+on integration both in relation to a person's circumstances  in  the  UK  as
+well as in the country  of  return,  the  new  Rules  require  a  much  more
+holistic assessment of an  applicant's  circumstances.  Thereby  they  bring
+themselves closer to Strasbourg jurisprudence  on  Article  8  in  expulsion
+cases which has always seen consideration of both dimensions as requiring  a
+wide-ranging assessment:  see  e.g.  Jeunesse  v  Netherlands  (GC)  App.No.
+12738/10, 31 October 2014, paragraphs 106-109. Sections 117A(2)(b) and  3(b)
+of the 2002 Act also utilise the concept of "integration into society".
+
+24. In  our  judgement,  the  gravamen  of  the  new  paragraph  399A(b)  is
+integration in the UK.  Integration must be shown to exist in two  respects:
+social and cultural.  Neither one nor the other  is  sufficient.   The  term
+integration imports a qualitative test: in order to assess whether a  person
+"is" socially and culturally  integrated  in  the  UK,  one  is  not  simply
+looking at how long a person has spent in the UK or  even  at  whether  that
+period comprises lawful residence: but the fact that an applicant has  spent
+some or all of his time  in  the  UK  unlawfully  may  be  of  relevance  in
+deciding whether he has integrated in these two  ways.   Another  difference
+between the old and  the  new  Rules  is  that  whereas  the  previous  rule
+required any period of imprisonment  to  be  discounted,  the  new  rule  is
+silent on the matter. As a result we consider that it must  remain  open  to
+the decision-maker to consider time spent in prison negatively,  because  it
+does not bespeak integrative behaviour; but  the  rule  no  longer  mandates
+that.
+25. Mr Mak submitted that it is implicit in the paragraph 399A context  -  a
+rule dealing with foreign criminals - that merely being a  foreign  criminal
+cannot preclude a person from showing the necessary integration.  With  that
+we can easily agree. Mr Mak further submitted  that  the  rule  cannot  have
+been intended to assist only  a  few  such  persons.  With  that  we  wholly
+disagree. The new Rules make even clearer than the pre-28  July  2014  rules
+that deportation of foreign criminals is always in the public  interest  and
+can only be outweighed in  very  limited  circumstances.  In  general  terms
+imposition of  a  custodial  sentence  is  an  indication  that  the  person
+concerned has not respected the values  of  the  host  society  (cf  in  the
+context of EU  law  on  deportation  of  foreign  criminals,  Case  C-400/12
+Secretary of State v MG ECJI:EU:C2014:9 at [31]). Further, whilst in  prison
+a person cannot be a useful member of society at  large;  during  that  time
+such a person cannot as a  general  rule   show  integration  into  society.
+Thus, although the new rule does not as such preclude time  in  prison  from
+being considered as to whether social and  cultural  integration  is  shown,
+its terms leave very little scope for such argument.
+ Interrelationship between ss. 117A-D  considerations  and  the  Immigration
+    Rules.
+
+26. Both parties were adamant that in deciding the claimant's  case  it  was
+necessary for the Tribunal to apply Part 5A of the Act  in tandem  with  the
+relevant provisions of the Rules  However,  beyond  Mr  Jarvis's  submission
+that to apply Part 5A  was  especially  important  in  the  context  of  the
+paragraph 398 analysis, neither representatives offered any view as  to  how
+the Tribunal should structure its decision-making  so  as  to  address  both
+sets of provisions
+
+27. The coming into force of Part 5A of the 2002 Act  has  complicated  life
+for courts and tribunals. It has meant that in this area of  law  there  are
+now two overlapping sets of domestic  provisions  dealing  with  Article  8.
+Both reflect attempts to codify aspects of  Article  8  jurisprudence  (with
+the Immigration Rules this process was only expressly begun  in  July  2012,
+when the government decided to  incorporate  into  the  Rules  a  number  of
+provisions dealing with Article 8). Just as when the  government  introduced
+the  new  Immigration  Rules  in  June  2012  it  produced  an  "ECHR  memo"
+explaining their purport, so too when it introduced the Immigration Bill  in
+2013 it published an "ECHR Memorandum". Both sets of provisions reflect  the
+will of Parliament although the Rules  do  not  carry  the  same  degree  of
+democratic endorsement as does primary legislation: see MM & Ors, R (On  the
+Application Of) v Secretary of State for the Home Department (Rev 1)  [2014]
+EWCA Civ 985 at [92]; R (on the application of Onkar  Singh  Nagre)  v  SSHD
+[2013] EWHC 720 (Admin) at [25].  In  addition,  their  respective  contents
+heavily overlap. For example, both s.117B(6) and paragraph  399(a)(ii)  deal
+with a person who has a genuine and subsisting  relationship  with  a  child
+under the age of 18 years and is in the  UK  and  the  child  is  a  British
+citizen or the child has lived continuously for at least  7  years;  whereas
+s.117A(6)(b) refers to the circumstances where "it would not  be  reasonable
+to expect  the  child  to  leave  the  United  Kingdom",  paragraph  399A(b)
+requires it to be shown that  it would be "unduly harsh" for  the  child  to
+live in the country to which the person is to be deported and  it  would  be
+"unduly harsh" for the child to remain in the UK without the person  who  is
+to be deported. Both s.117C(5) and paragraph 399(a) (ii) (a) and (b)  employ
+the criterion of "unduly harsh". We have already noted that  both  s.117C(4)
+and paragraph 399A(b) employ the concept of integration.
+
+28. That there should be broad overlap  in  content  is  hardly  surprising;
+indeed something would be amiss otherwise, since both deal with  immigration
+control and both require relevant decision-makers to act in compliance  with
+a person's human rights (paragraph 2 of the Rules; s. 117A(1)  of  the  2002
+Act). Both also reflect  the  desire  on  the  part  of  the  government  to
+regulate  more  fully  the  importance  of  the  public  interest   in   the
+maintenance of effective immigration control and in the Committee  stage  of
+the Bill the then Minister of Immigration described the purpose of  Part  5A
+as being that of "setting out the weight that judges  should  place  on  the
+public interest in relation to certain factors", such a step being  seen  as
+necessary because judges had observed that the Immigration Rules lacked  the
+full democratic legitimacy of primary legislation (see Q194).
+
+29. However, whilst this backdrop clarifies why it  was  felt  necessary  to
+complement the Rules with primary legislation in the form  of  Part  5A,  it
+does not assist us in  clarifying  their  interrelationship.  The  interplay
+between these two regimes, one  of  primary  legislation,  the  other  of  a
+subsidiary status, is one of the important issues arising out of the  recent
+legislative reforms.
+
+30. In seeking to analyse how they co-exist, we should first of all  clarify
+that the coming into force of Part 5A of the  Nationality,  Immigration  and
+Asylum Act 2002 (ss.117A-D)  has  not  altered  the  need  for  a  two-stage
+approach to Article 8 claims. It  is  inexorably  clear  from  higher  court
+guidance, both that preceding the coming into force of  Part  5A  (see  e.g.
+MF (Nigeria)) and that given subsequently (see e.g.  SSHD  v  SS  (Congo)  &
+Ors [2015] EWCA Civ 387), that assessment of Article  8  claims  requires  a
+two-stage analysis.
+
+31. The existing case law    makes  very  clear  that  in  foreign  national
+deportation cases, the two-stage approach must be conducted entirely  within
+the Rules because  they  are  a  "complete  code"  for  these  purposes  (MF
+(Nigeria)[2013] EWCA Civ 1192 at [16]); the same  is  not  necessarily  true
+for other types of cases where there may be gaps.   In  Secretary  of  State
+for the Home Department v AJ (Angola) [2014] EWCA Civ 1636, Sales LJ  stated
+at [39]:
+
+    "The fact that the new rules [on foreign  criminals]  are  intended  to
+    operate as a comprehensive code is significant, because it  means  that
+    an official or a tribunal should seek to take account of any Convention
+    rights of an appellant through the lens of the  new  rules  themselves,
+    rather than looking to apply Convention rights for themselves in a free-
+    standing way outside the new rules. This feature of the new rules makes
+    the  decision-making  framework  in  relation  to   foreign   criminals
+    different from that in relation  to  other  parts  of  the  Immigration
+    Rules, where the  Secretary  of  State  retains  a  general  discretion
+    outside  the  Rules  in  exercise  of  which,  in  some  circumstances,
+    decisions may need to be made in order to  accommodate  certain  claims
+    for leave to remain on the basis of Convention rights, as explained  in
+    Huang and R (Nagre) v Secretary of State for the Home Department [2013]
+    EWHC 720 (Admin)."
+
+32. In SS (Congo) Sales LJ at [45] put matters this way:
+
+     "The latter stage of the [two-stage analysis] analysis will be covered
+    by the text of the Rules  themselves,  as  in  relation  to  the  Rules
+    covering deportation of foreign criminals  reviewed  in  MF  (Nigeria).
+    Those Rules laid down substantive conditions which, if satisfied, would
+    lead to the grant of LTR, but also stated that LTR might be granted  in
+    "exceptional circumstances" if  the  substantive  conditions  were  not
+    satisfied in a particular case. Where the Rules take this form, it  can
+    be said that they form a "complete code", in the sense that both stages
+    of the analysis are covered by the text of the Rules. But this does not
+    take one very far, since under the "exceptional  circumstances"  rubric
+    one still has to allow for consideration of any matters bearing on  the
+    application of Article 8 for the purposes of the second  stage  of  the
+    analysis: see AJ (Angola [], above, at [46] and [55]. This is the basic
+    point made by this court at paragraph. [44]-[46] of its judgment in  MF
+    (Nigeria)."
+
+33. We have seen cases in  which  tribunal  judges  have  regarded  Part  5A
+considerations as provisions that have to be directly  applied  and  without
+qualification  when  deciding  cases  under  the   Immigration   Rules.   We
+respectfully suggest that such an approach cannot be correct  for  a  number
+of reasons.
+
+34.  In  the  first  place,  the  application  of  Part  5A   considerations
+presupposes that the decision-maker has reached the stage in  an  Article  8
+assessment of assessing proportionality. Part 5A considerations  are  not  a
+complete code of the general law on Article 8. Sections 117A-D  do  not  for
+example deal with the meaning of family life or private  life  or  with  the
+issue of interference with the right to respect for private and family  life
+or whether the decision is in accordance with the law. Put in Razgar, R  (on
+the Application of) v. Secretary of State for  the  Home  Department  [2004]
+UKHL 27  terms, ss.117A-D are concerned only with Question 5: as  stated  in
+Dube (ss.117A-117D) [2015] UKUT 90 (IAC) at [25]:  "in  effect  ss.117A-117D
+are essentially a further  elaboration  of  Razgar's  Question  5  which  is
+essentially  about  proportionality  and   justification   (Lord   Bingham's
+Question 5 asks, assuming that in reply to previous questions  it  has  been
+established that there had been an interference with the  right  to  respect
+for private and family life, " [i]f so, is such  interference  proportionate
+to the legitimate public end sought to  be  achieved?").  In  addition,  the
+Part 5A considerations are not and do not purport to be a complete code  for
+the conduct of the proportionality assessment enjoined  by  Razgar  Question
+5. They do not purport to be an exhaustive set of  the  considerations  that
+must be taken into account when assessing proportionality:  section  117A(2)
+provides that the court or tribunal "must (in particular) have regard  to  .
+. . considerations" that are then enumerated: see Dube, AM  (S.117B)  [2015]
+UKUT 260 (IAC).
+
+35. Second, ss.117A-D do not provide that  such  considerations  are  to  be
+applied to the Immigration Rules or in what way. They state that they  apply
+where a court or tribunal is required to determine  a  decision  made  under
+the Immigration Acts, but they  do  not  specify  whether  they  are  to  be
+applied to assessment of Article 8 claims either under the Rules or  outside
+the  Rules.  Correspondingly,  the  Immigration  Rules  contain  no  express
+provision making or requiring reference  to  Part  5A  notwithstanding  that
+this was  brought into force on the same date as  the  new  version  of  the
+Immigration Rules with which we are concerned (28 July 2014).
+
+36. Third, the approach  that  Part  5A  considerations  should  be  applied
+directly and in wholesale fashion to the Rules  misunderstands  that  a  key
+characteristic of the Rules is that for the most part they set out  criteria
+which are or may be determinative of a person's immigration status.  It  was
+this  characteristic which was seen  by  the  Supreme  Court  in  R(Alvi)  v
+Secretary of State for the Home Department [2012] UKSC 33 [2012] 1 WLR  2208
+to constitute their raison d'etre. As was put by Lord Dyson at [94]:
+
+    "...any requirement which, if not satisfied by the migrant,  will  lead
+    to an application for leave to enter or remain being refused is a  rule
+    within the meaning of section 3(2) [of the Immigration Act 1971].  That
+    is what Parliament was interested in when it enacted section  3(2).  It
+    wanted to have a say in the rules which set  out  the  basis  on  which
+    these applications were to be determined".
+
+and at [97]: "The key requirement  is  that  the  immigration  rules  should
+include all those provisions which set out criteria  which  are  or  may  be
+determinative of an application for leave to enter or remain".
+
+37. How this characteristic of the Rules is woven into the rules on  foreign
+criminals headed "Deportation and Article 8" needs some elaboration  because
+of the unusual wording found in  paragraphs  398  and  390A.  The  Rules  on
+foreign criminals include provisions  that  specify  substantive  conditions
+that have to be met  and if they are met result in a decision that a  person
+is or is not "successful" in  their  Article  8  claim  and  in  turn  on  a
+decision whether to grant of limited leave etc. (paragraph  399B).  In  this
+way, meeting these conditions has  a  determinative  effect  on  a  person's
+status. This is the primary function of paragraphs  399  and  399A:  see  MF
+(Nigeria) at  [35].  Being  a  set  of  conditions  they  are  qualitatively
+different to "considerations". Paragraph 398 (like paragraph  390A)  has  to
+be treated as sui generis  because it is settled law that its criterion  for
+those who cannot succeed under paragraphs 399 or  399A  -  "very  compelling
+circumstances over and above those described in paragraph 399  and  399A"  -
+necessitates  a  full-blown  second-stage   Article   8(2)   proportionality
+assessment.
+
+38. There is thus a qualitative difference between the Rules in general  and
+Part  5A.  By  contrast  (and  subject  to  a  possible  argument  regarding
+s.117B(6) and s.117C(4)-(6) in some appropriate future case or  cases),  the
+considerations set out in ss.117A-D are not determinative of whether or  not
+a person qualifies on Article 8 grounds; they do not set out  necessary  and
+sufficient  conditions.  Rather   they   are   obligatory   (non-exhaustive)
+considerations to be applied in addressing the "public  interest  question".
+This crucial difference remains notwithstanding that most of the  provisions
+of Part 5A are either identical or broadly mirror those to be found  in  the
+Rules: see above paragraph 27.
+
+39. We have noted above that  certain provisions of Part 5A,  in  particular
+s.117B(6) and   s.117C(4)-(6),  might  be  argued  to  operate  as  a  self-
+contained set of legal requirements providing  a  complete   answer  to  the
+"public interest question" and we have noted that decision  on  such  issues
+is best left to a future cases or cases. All that we would observe  here  is
+that even if one or both sets of provisions were found to  be  determinative
+of the "public interest question" in a  particular  case,  it  remains  that
+Part 5A is silent about what this means for the success  or  failure  of  an
+Article 8 claim or about a person's consequential immigration status.
+
+40.  Fourth,  the  wholesale  and  unstructured  application  of   Part   5A
+considerations to the Rules would undermine the settled  law  regarding  the
+two-stage approach, by effectively requiring the first stage to be  expanded
+to incorporate or take into account considerations that are integral to  the
+second stage. To apply Part 5A considerations directly and  indiscriminately
+to decision-making under the Rules would subvert the legal certainty of  the
+Rules. Despite the Rules making no reference to Part  5A  considerations  as
+being any kind of "condition" or requirement, courts and tribunals would  in
+effect be treating them as additional conditions or as sub-rules within  the
+Rules. It would also pose  an  impossible  task  logically  since  it  would
+require courts and tribunals to   simultaneously  decide  (i)   whether  the
+substantive conditions of the Rules are met; and (ii) whether  the  Part  5A
+considerations  operate  as  a   further   set   of   specific   substantive
+requirements potentially requiring a different conclusion under  the  Rules.
+The Rules stipulate that an  Article  8  claim  succeeds  if  it  meets  the
+substantive conditions set out in paragraphs 398, 399 or 399A.
+
+41. It might be argued that the above analysis is defeated by the fact  that
+the Rules represent a striking of the Article 8 balance (between  individual
+interests and the  interests  of  the  wider  community)[2]  and  have  been
+formulated to reflect where the public interest lies. We have no  difficulty
+with that argument insofar as it expresses that the new Rules were meant  to
+incorporate more fully principles  of  Article  8  jurisprudence.  But  this
+argument cannot mean that in general the new Rules provide criteria for  how
+the decision-maker is to strike the  balance  in  the  context  of  a  free-
+standing proportionality assessment. Leaving aside  the  unusual  provisions
+to be found in paragraphs 398 (requiring it  to  be  shown  that  there  are
+"other factors where there are very compelling circumstances over and  above
+those described in paragraphs 399 and s99A") and  390A[3]  (requiring  there
+to be "...exceptional circumstances" such that "the public interest  ...will
+be outweighed by other factors"), the new Rules generally reflect a  balance
+that has already been struck. They are designed without more  to  deliver  a
+decision which is compliant with Article 8. This is the core of the  binding
+Court of Appeal decisions which have addressed this fundamental  issues,  in
+particular MM & Ors at [92].
+
+42. It might separately be argued that the above analysis is  undermined  by
+the fact that even when seeking to apply  the  substantive  requirements  of
+the Rules (other than the "very  compelling  circumstances"  and  provisions
+set out in paragraphs 398 and 390A  respectively) a  court  or  tribunal  in
+any individual case has clearly to conduct a  balancing  exercise,  e.g.  in
+deciding whether a person has shown  social  or  cultural  integration  into
+society or has shown that the effect of their deportation on a  child  would
+be unduly harsh. Furthermore, it might  be  argued  that  such  a  balancing
+exercise  is  co-extensive  with  the  proportionality  assessment   to   be
+conducted in deciding the public interest question under Part  5A.  We  find
+any  such  argument  unconvincing.  Of  course  assessment  under  both  the
+substantive  requirements  of  paragraphs  399  and  399A  and   under   the
+proportionality assessment to be made  when  deciding  the  public  interest
+question requires an exercise of judgement  which  may  involve  looking  at
+factors for and against. But under paragraphs 399  and  399A  the  balancing
+exercise is strictly limited to evaluation  of  the  relevant  condition  or
+conditions - e.g. whether there is social or cultural  integration,  whether
+the impact of deportation is unduly harsh. That is quite different from  the
+wide-ranging multi--factored stage two proportionality  assessment  required
+when deciding the  public  interest  question  in  order  decide  whether  a
+decision is justified under Article 8(2).
+
+43. The above analysis does not mean that Part 5A has no  relevance  to  the
+legal regime formed by  the  Rules.  Even  though  imposing  obligations  on
+courts  and  tribunals  only,  Part  5A  contains  a  clear  expression   of
+statements of principle seen to govern identified elements of Article  8  in
+the context of the Immigration Acts. In this way Part 5A could  be  said  to
+underpin the Rules or to  be  overarching.  In  this  context  Part  5A  can
+clearly have indirect application to the Rules, including to  rules  setting
+out substantive conditions such as paragraphs 399 and 339A, for  example  by
+possibly  informing the meaning of key terms set out in such paragraphs,  as
+we have explored at [23] above (see also [54] below).
+
+44. It has been important to the foregoing analysis to emphasise the  degree
+of overlap in subject-matter between Part 5A and certain provisions  of  the
+Rules. However,  in  light  of  what  we  have  just   said  about  Part  5A
+containing  overarching statements of principle, it  is  pertinent  to  note
+that some provisions of Part 5A find no precise  equivalent  in  the  Rules.
+For example, the Rules do not contain a provision stating in terms, as  does
+s.117(4)(a),  that little weight is to be given to a private  life  that  is
+established by a person at a time when the person is in the  UK  unlawfully.
+That  only  goes  to  reinforce  that  the  two  legal   regimes,   although
+complementary, are different in kind, because the  private  life  provisions
+of the Immigration Rules  represent  the  Secretary  of  State's  weighting,
+without more, as to what conditions have to be met in  order  for  leave  to
+remain to be granted on private life grounds.
+
+Should Part 5A considerations be applied first?
+
+45. There is a body of opinion that as a result of the coming into force  of
+Part 5A courts and tribunals must begin their assessment of  all  Article  8
+cases by reference to Part 5A. In this regard it is  emphasised  that  being
+now enshrined in primary  legislation,  Part  5A  considerations  must  have
+priority  over  the  Immigration  Rules  which  are  not   even   subsidiary
+legislation in the strict sense. We think it will already  be  apparent  why
+we must respectfully disagree with this view. The reasons we  have  set  out
+at [26]-[43] above for concluding that Part 5A considerations  are  only  to
+be directly applied to the Rules in carefully limited  ways  also  stand  to
+explain why in our judgement  it would be wrong ordinarily to apply Part  5A
+considerations at the first stage of the analysis. We would  emphasise  that
+in light of our earlier analysis it is not a question of according  priority
+to the Rules over  primary  legislation  but  rather  of  recognising  their
+different functions. Consistent  with  the  two-stage  approach,  the  first
+stage requires that courts and tribunals  first of all determine  whether  a
+person meets the substantive requirements of the Rules. It is  only  at  the
+second stage that Part 5A considerations have direct  application  and  even
+if that second stage takes place within the Rules (as it  must  in  relation
+to foreign criminals), it remains that they are not applied first.
+
+46. Accordingly, it would be wrong as a general proposition to address  Part
+5A considerations first.
+
+Part 5A and the two-stage approach to Article 8 analysis summarised
+
+47. In light of the above analysis it is now possible to summarise how  Part
+5A impacts on the two-stage process.
+
+48. Part 5A does not and is not intended to displace the ongoing need for  a
+two-stage approach to Article 8 analysis.  The  only  question  is  to  what
+extent it modifies it. In our view  it  cannot,  and  is  not  intended  to,
+impact directly or in wholesale fashion on the first-stage.
+
+49. In the context of considering an applicant  under  the  Rules  there  is
+ordinarily no role for direct application in wholesale fashion  of  Part  5A
+considerations. Those considerations only directly arise where  there  is  a
+"public  interest  question"  which  is  defined  at  s.117A(3)  to  mean  a
+proportionality assessment: or more precisely, "the question of  whether  an
+interference with a person's right to respect for private  and  family  life
+is  justified  under  Article  8(2)".  We  use  the  adverb  "directly"   to
+differentiate the situation where the Part 5A  provisions  may  be  seen  to
+have indirect application, by shedding possible  light  on  the  meaning  of
+terms in the Rules - as we have considered above in relation to the  meaning
+of "social and cultural integration" within paragraph 399(b)).
+
+50. For Part 5A considerations to have a  direct  role,  therefore,  it  can
+only be in the context of a proportionality assessment  in  accordance  with
+Article 8(2).
+
+51. Whilst it is now established that in some  respects  the  Rules  do  not
+incorporate a two-stage approach, it is settled law that those dealing  with
+foreign  criminals  do.  What  that  entails  for  the  role  of   Part   5A
+considerations in a foreign criminal deportation  case  is  that  they  only
+have direct application in the context of the unusual  provisions  contained
+in paragraph 398 and paragraph A390  which  require  the  decision-maker  to
+conduct a proportionality assessment in terms of whether there exist  "other
+factors where there are very compelling circumstances over and  above  those
+described in paragraphs  399  and  399A"  or  (in  the  revocation  context)
+"only...in exceptional  circumstances...[where  there  are]  other  factors"
+outweighing the  public  interest.  Assessment  of  such  circumstances  (by
+reference  to  unspecified  "other  factors"  inevitably  requires  a  wide-
+ranging, multi-factored assessment.
+
+52.   It   is   true   that   success    under    the    "very    compelling
+circumstances"/exceptional circumstances" criteria   set  out  in  paragraph
+398 and 390A  (  both  which  have  to  be  applied  to  unspecified  "other
+factors") also results in success in an Article 8 claim and in this  way  is
+also determinative of a person's immigration status. But by  virtue  of  the
+reading given phrases of this kind by the Court of Appeal  in  MF  (Nigeria)
+they must be understood as having a sui generis  character,  since  although
+they can be said to  constitute  a  substantive  criterion,  their  specific
+nature is such that they have no fixed boundaries:  a  decision  on  whether
+these criteria are met requires a full-bodied proportionality assessment  in
+accordance with Article 8(2).
+
+
+
+
+Application of the new rule to the claimant's circumstances
+
+Paragraph 399A(a)
+
+53. The claimant falls for consideration under  paragraph  399A  because  he
+had been convicted of an offence for which he was sentenced to a  period  of
+imprisonment of less than 4 years  (see  paragraph  398(b).  It  is  not  in
+dispute in this case that the claimant meets the requirements  of  paragraph
+399A(a) by virtue of the fact that he had resided in the  UK  lawfully  from
+24 September 1998 (when he  was  granted  ILR)  to  the  date  of  the  SSHD
+decision in July 2013.  What  is  meant  by  lawful  residence  may  require
+interpretation  in  other  cases,  but  the  fact  of  such   residence   is
+uncontroversial in this case.
+
+Paragraph 399A(b)
+
+54.  In  the  claimant's  case,  the  question  of  whether  he  meets   the
+requirements  of  paragraph  399A(b)   requires   us   to   weigh   up   all
+considerations relevant to social and cultural integration into the UK.   In
+the claimant's favour, he has been in the UK since 1991 he  was  4  and  was
+granted ILR in 1998, which means he has been the UK  lawfully  for  most  of
+his life. His mother, sister and half-brother were  naturalised  as  British
+citizens in 2003. He did not start offending until he was around 16. He  has
+been to school in the UK. His mother tongue is English: that such  a  factor
+should count in the claimant's  favour  is  lent  force  by  the  fact  that
+s.117B(3)(b) of the 2002 Act identifies that persons able to  speak  English
+"are better able to integrate into society".  The finding of  fact  made  by
+the FtT was that he had shown an acceptance of his conduct and that  he  had
+engaged in programmes that  will  assist  him  in  deviating  from  criminal
+conduct in the future.
+
+55. On the other hand, his history of offending (repeated robbery)  betokens
+a serious discontinuity in his integration in the UK especially  because  it
+shows blatant disregard for  fellow  citizens.   His  history  of  offending
+includes a conviction for robbery for which he received  a  sentence  of  42
+months imprisonment. The significant period of time he has spent  in  prison
+in consequence of his offending has excluded him from  outside  society  for
+that period. We also agree with Mr Jarvis that even when not in  prison  the
+claimant's lifestyle over the period when he  was  committing  offences  was
+manifestly anti-social.  This  lifestyle  and  his  period  in  prison  have
+contributed to his not able to show he is financially independent.  We  have
+to decide whether he is socially and culturally integrated in the UK in  the
+present. He is now 29. Whilst his recent  acceptance  of  the  reprehensible
+nature of his criminal conduct is  an  important  factor,  we  consider  the
+negative factors we  have  just  mentioned  indicate  that  his  history  of
+criminal  offending  broke  the  continuity  of  his  social  and   cultural
+integration in the UK and he has not regained it. This means that  currently
+he has not shown he is socially and culturally integrated.
+
+Paragraph 399A(c)
+
+56. Even had  we  considered  the  claimant  to  meet  the  requirements  of
+paragraph 399A(b), we would still have concluded he  fails  under  paragraph
+399A because he fails to meet paragraph 399A(c) and (as  explained  earlier)
+to succeed under paragraph 399A, the requirements of both (b)  and  (c)  (as
+well as (a)) must be met and we are not persuaded that there would  be  very
+significant obstacles to his integration into the country  to  which  it  is
+proposed he is deported.  We accept there would  be  significant  obstacles:
+in particular he would be required to overcome the fact  that  he  does  not
+speak Lingala; that he has no experience of living in such a country  as  an
+adult or indeed even as a young person (only as an  infant).  Whilst  we  do
+not accept that the respondent has ever resiled from her  position  set  out
+in her refusal decision that the claimant has uncles in  the  DRC,  for  the
+purposes of this appeal we are also prepared  to  decide  his  case  on  the
+basis of his own claim as set out in his witness statement that  he  has  no
+uncles there.
+
+57. But the paragraph 399A(c) test is more stringent: it is not  met  simply
+by showing that a person has no close family ties in the  country  to  which
+it is proposed he is  deported;  it  requires  "very  significant  obstacles
+to...integration" to be shown. In our judgement the obstacles  the  claimant
+faces do not meet this demanding standard.  In relation to  his  command  of
+language spoken in the DRC, it was his own mother's  evidence  that  he  had
+been brought up in a household where  French  was  spoken.   The  DRC  is  a
+Francophone country. In any event, it was not suggested on his  behalf  that
+there  would  be  any  reasons  related  to  physical  or  mental  inability
+preventing him from learning the local language or dialect.  As regards  his
+lack of knowledge of the  culture,  whilst  it  was  his  evidence  that  he
+identified with British culture, it was not suggested  he  had  specifically
+rejected or no longer understood  his  cultural  origins.   Furthermore,  as
+regards lack of family ties, he is now a young adult and the skills  he  has
+acquired through attending classes in prison will assist him in  being  able
+to earn a living without the need to be  a  dependant.   Further,  we  agree
+with Mr Jarvis that it is reasonable to infer that his mother  and/or  other
+relatives here will seek to help him financially, at least until he has  had
+time to find his own feet.  We agree with Mr Jarvis that  it  has  not  been
+shown that he would be  prevented  by  reason  of  any  physical  or  mental
+ability from developing social and cultural ties in the DRC.  He  is  young,
+able-bodied and of an adaptable age.
+
+58. For the above reasons we conclude that the claimant does  not  meet  the
+requirements of paragraph 399A in full - in particular he  does  not  fulfil
+the requirements of either paragraph 399A(b) or  (c).
+
+59. Given  our  conclusion  that  he  fails  to  meet  the  requirements  of
+paragraphs 399 or 399A, the claimant can only succeed  under  the  Rules  if
+able to  show,  pursuant  to  paragraph  398  (stage  2  of  the  Article  8
+assessment), that "the public interest in  deportation  [is]  outweighed  by
+other factors where there are very compelling circumstances over  and  above
+those described in 399 and 399A".
+
+60. Mr Mak did not entirely abandon the argument  that  the  claimant  could
+succeed under this provision set out in paragraph 398 but he  was  realistic
+enough to accept that it imposed a very high  threshold  and  that,  in  the
+circumstances of the claimant's case, if he could not bring  himself  within
+399A, he was very  unlikely  to  be  able  to  demonstrate  very  compelling
+circumstances.  Furthermore and in any  event,  we  are  entirely  satisfied
+that the claimant's circumstances come nowhere near meeting this  threshold.
+
+
+The claimant's case in relation to Part 5A considerations
+
+61. In reaching our conclusion that the  claimant  cannot  demonstrate  very
+compelling circumstances as set out in paragraph 398 we have  conducted  the
+proportionality  assessment  that  this  requires  by   applying   Part   5A
+considerations directly. As regards s.117B considerations, whilst  s.117B(2)
+ can be said to entitle him to  say  his  ability  to  speak  English  is  a
+characteristic that is in the public interest and makes him "better able  to
+integrate into society", in respect of s.117B(3) he has  not  been  able  to
+show that  he  has  established  financial  independence  free  of  criminal
+behaviour.  He is not a parent. As regards s.117C(1) and (2),  his  offences
+include robbery and related offences for which he received a sentence of  42
+months and being more serious than many others, the public interest  in  his
+deportation must be greater than if that were not  the  case.  He  does  not
+have a qualifying partner or child so as to fall within s.117(5)  (Exception
+2). In relation to  s.117C(4)(Exception  1),  we  find  that  for  the  same
+reasons that he fails to meet the requirements  of  paragraphs  399A(b)  and
+(c) he does not meet the requirements of s.117C (b)  and  (c).  We  note  in
+this regard that the requirements of s.117C(4) (b) and (c) are identical  to
+those set out in paragraph 399A(b) and (c). Indeed in  relation  to  foreign
+criminals if the Rules were more harsh than s.117C, they would no longer  be
+a complete code.
+
+62. For the above reasons we find the  claimant  cannot  succeed  under  the
+Immigration Rules. He cannot succeed under the first-stage of  the  analysis
+of his Article 8 circumstances as embodied in paragraph 399A nor  under  the
+second-stage  analysis  of  his  Article  8  circumstances  conducted  under
+paragraph 398 of the Immigration Rules.
+
+
+Notice of Decision
+
+63. The appeal is dismissed.
+No anonymity direction is made.
+
+
+Signed                                  Date
+
+
+Upper Tribunal Judge Storey
+
+
+
+-----------------------
+[1] This stated:" 399A. This paragraph applies  where  paragraph  398(b)  or
+(c) applies if -
+(a) the person has lived continuously in  the  UK  for  at  least  20  years
+immediately preceding the date of the immigration decision (discounting  any
+period of imprisonment) and he has no ties (including  social,  cultural  or
+family) with the country to which he would have to go if required  to  leave
+the UK; or
+(b) the person is aged under 25 years, he has spent at  least  half  of  his
+life living continuously in the UK immediately preceding  the  date  of  the
+immigration decision (discounting any period of imprisonment) and he has  no
+ties (including social, cultural or family) with the  country  to  which  he
+would have to go if required to leave the UK.
+[2] That is not to say that the Rules are themselves required to guarantee
+compliance with Article  8: see MM & Ors at [134].
+[3]  Paragraph  390A  provides  that:  "Where  paragraph  398  applies   the
+Secretary of State will consider whether paragraph 399 or 399A applies  and,
+if it does not, it will  only  be  in  exceptional  circumstances  that  the
+public interest in maintaining the deportation order will be  outweighed  by
+other factors."
+

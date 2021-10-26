@@ -1,0 +1,1517 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: DA/00292/2019
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at the Royal Courts of Justice          |Decision & Reasons Promulgated|
+|On 19 October 2020                            |On 14 December 2020           |
+|                                              |                              |
+
+
+                                   Before
+
+                        UPPER TRIBUNAL JUDGE JACKSON
+
+                                   Between
+
+                           justyna eliza sobieraj
+                        (ANONYMITY DIRECTION not made)
+                                                                   Appellant
+                                     And
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr T Lindsay, Senior Home Office Presenting Officer
+For the Respondent:    Ms K Reid of Counsel, instructed by Signature Law
+
+
+                            DECISION AND REASONS
+
+
+ 1. In a decision dated 7 February 2020, Upper Tribunal Judge  Allen  found
+    an error of law in the decision  of  First-tier  Tribunal  Judge  Cohen
+    promulgated on 20 November 2019 which allowed  the  Appellant's  appeal
+    against the Respondent's decision to deport her dated 17 May 2019.  For
+    ease I continue to refer to the parties as they were before the  First-
+    tier Tribunal, with Ms Sobieraj as the Appellant and the  Secretary  of
+    State as the Respondent.  This is  the  re-making  of  the  Appellant's
+    appeal against deportation.
+
+The appeal
+
+Applicable law
+
+ 2. Pursuant to regulation 23(6)(b) of the Immigration  (European  Economic
+    Area) Regulations 2016 (the  "EEA  Regulations"),  the  Respondent  may
+    deport an EEA national where that person's removal is justified on  the
+    grounds of public policy, public security or public health.   Any  such
+    deportation must be in accordance with regulation 27 which provides  as
+    follows:
+
+
+        1) In this regulation, a "relevant decision" means an EEA  decision
+           taken on the grounds of public policy, public security or public
+           health.
+        2) A relevant decision may not be taken to serve economic ends.
+        3) ...
+        4) ...
+        5) The public policy and public security requirements of the United
+           Kingdom include restricting rights otherwise conferred by  these
+           Regulations in order to protect  the  fundamental  interests  of
+           society, and where a relevant decision is taken  on  grounds  of
+           public policy or public  security  it  must  also  be  taken  in
+           accordance with the following principles -
+             a)  the  decision   must   comply   with   the   principle   of
+                proportionality;
+             b) the decision must  be  based  exclusively  on  the  personal
+                conduct of the person concerned;
+             c) the personal conduct of the person must represent a genuine,
+                present and sufficiently serious threat affecting one of the
+                fundamental interests of society, taking into  account  past
+                conduct of the person and that the threat does not  need  to
+                be imminent;
+             d) matters isolated from the particulars of the case  or  which
+                relate  to  considerations  of  general  prevention  do  not
+                justify the decision;
+             e)  a  person's  previous  criminal  convictions  do   not   in
+                themselves justify the decision;
+             f) the decision may be taken on preventative grounds,  even  in
+                the absence of a previous criminal conviction, provided  the
+                grounds are specific to the person.
+        6) Before taking a relevant  decision  on  the  grounds  of  public
+           policy and public security in relation to a person ("P") who  is
+           resident in the United Kingdom, the  decision  maker  must  take
+           account of considerations such  as  the  age,  state  of  heath,
+           family and economic situation of P, P's length of  residence  in
+           the United Kingdom, P's social and cultural integration into the
+           United Kingdom and the extent of P's links with P's  country  of
+           origin.
+        7) ...
+        8) A court or tribunal considering whether the requirements of this
+           regulation are met must  (in  particular)  have  regard  to  the
+           considerations contained in Schedule 1 (considerations of public
+           policy, public security and the fundamental interests of society
+           etc).
+
+ 3. Further to regulation 27(8), Schedule 1 provides as follows:
+
+       Considerations of public policy and public security
+
+
+        1. The EU Treaties do not impose a uniform scale of  public  policy
+           or public security  values;  Member  States  enjoy  considerable
+           discretion, acting within the parameters set by the EU Treaties,
+           applied where relevant by the EEA agreement, to define their own
+           standards of public policy and  public  security,  for  purposes
+           tailored to their individual contexts, from time to time.
+
+       Application of paragraph 1 to the United Kingdom
+
+
+        2. An EEA national or the family member of an EEA  national  having
+           extensive familial and societal links with persons of  the  same
+           nationality or language does not amount to  integration  in  the
+           United Kingdom; a  significant  degree  of  wider  cultural  and
+           societal integration must be present  before  a  person  may  be
+           regarded as integrated in the United Kingdom.
+        3. Where an EEA national or the family member of  an  EEA  national
+           has received a custodial sentence, or is a persistent  offender,
+           the longer the sentence, or the more numerous  the  convictions,
+           the greater  the  likelihood  that  the  individual's  continued
+           presence in the United Kingdom represents a genuine, present and
+           sufficiently serious threat affecting the fundamental  interests
+           of society.
+        4. Little weight is to be attached to the  integration  of  an  EEA
+           national or the family member of  an  EEA  national  within  the
+           United Kingdom if the alleged integrating links were  formed  at
+           or around the same time as -
+             a) the commission of a criminal offence;
+             b) an act otherwise  affecting  the  fundamental  interests  of
+                society;
+             c) the EEA national or family member of an EEA national was  in
+                custody.
+        5. The removal from the United Kingdom of an EEA  national  or  the
+           family member  of  an  EEA  national  who  is  able  to  provide
+           substantive evidence of not demonstrating a threat (for example,
+           through demonstrating that the EEA national or the family member
+           of an EEA national has successfully reformed  or  rehabilitated)
+           is less likely to be proportionate.
+        6.  It  is  consistent  with  public  policy  and  public  security
+           requirements in the United Kingdom that  EEA  decisions  may  be
+           taken to refuse,  terminate  or  withdraw  any  right  otherwise
+           conferred by these Regulations in the case of abuse of rights or
+           fraud, including -
+             a) entering, attempting to enter or assisting another person to
+                enter or to attempt to enter, a marriage, civil  partnership
+                or durable partnership of convenience; or
+             b) fraudulently obtaining or attempting to obtain, or assisting
+                another to obtain or to attempt to obtain, a right to reside
+                under these Regulations.
+
+       The fundamental interests of society
+
+
+        7. For the purposes of these Regulations, the fundamental interests
+           of society in the United Kingdom include -
+             a) preventing unlawful immigration and abuse of the immigration
+                laws, and maintaining the integrity and effectiveness of the
+                immigration   control   system   (including   under    these
+                Regulations) and of the Common Travel Area;
+             b) maintaining public order;
+             c) preventing social harm;
+             d) preventing the evasion of taxes and duties;
+             e) protecting public services;
+             f) excluding or removing an EEA national or family member of an
+                EEA national with a conviction (including where the  conduct
+                of that person is likely to cause, or has  in  fact  caused,
+                public  offence)  and  maintain  public  confidence  in  the
+                ability of the relevant authorities to take such action;
+             g) tackling offence likely to cause harm to  society  where  an
+                immediate or direct victim may be difficult to identify  but
+                where there is wider societal harm (such as offences related
+                to  the  misuse  of  drugs  or  crime  with  a  cross-border
+                dimension as mentioned in Article 8391) of the Treat on  the
+                Functioning of the European Union);
+             h) combating the effects of persistent offending  (particularly
+                in relation to offences, which if taken  in  isolation,  may
+                otherwise be unlikely to meet the requirements of regulation
+                27);
+             i) protecting the rights and freedoms of  others,  particularly
+                from exploitation and trafficking;
+             j) protecting the public;
+             k) acting in the best interests of  a  child  (including  where
+                doing so entails refusing a child admission  to  the  United
+                Kingdom, or otherwise  taking  an  EEA  decision  against  a
+                child);
+             l) countering terrorism and  extremism  and  protecting  shared
+                values.
+
+
+ 1. Regulation 7 of the EEA Regulations sets  out  an  increased  level  of
+    protection in certain circumstances as follows:
+
+       (3)    A relevant decision may not be taken in respect  of  a  person
+           with a right of permanent residence under regulation  15  except
+           on serious grounds of public policy and public security.
+
+
+       (4)    A relevant decision may not  be  taken  except  on  imperative
+           grounds of public security in respect of an EEA national who -
+           (a)    has a right of permanent residence  under  regulation  15
+                and who has resided in the United Kingdom for  a  continuous
+                period of at least ten years prior to the relevant decision;
+                or ...
+
+ 2. Regulation 15 of the EEA Regulations  sets  out  the  circumstances  in
+    which a  person  acquires  the  right  of  permanent  residence,  which
+    includes, for present purposes, an EEA national who has resided in  the
+    United Kingdom in accordance with the EEA Regulations for a  continuous
+    period of five years.  An EEA national is entitled to an initial period
+    of residence in the United Kingdom for a period of three  months  under
+    Regulation 13 of the EEA Regulations and thereafter,  under  Regulation
+    14, is entitled to reside here for as long as they remain  a  qualified
+    person (as defined in Regulation 6).
+
+Explanation for the refusal
+
+ 3. The Respondent served the Appellant  with  a  notice  of  liability  to
+    deportation under the EEA Regulations on 20 April  2018  following  her
+    convictions on 29 September 2017 for conspiracy to  act  to  facilitate
+    the commission of a breach of UK immigration law by a non-EU person and
+    on 16 October 2017 for conspiracy to act to facilitate  the  commission
+    of a breach of UK immigration law by a non-EU  person.   The  Appellant
+    was sentenced on 3 November 2019 to seven years' imprisonment  for  the
+    first conspiracy, with a further five years' imprisonment for  the  use
+    or possession of criminal property and six years' imprisonment for  the
+    second conspiracy; all to run concurrently.
+
+ 4. The Respondent decided to make a deportation order on 17  May  2019  on
+    the basis that the Appellant had committed serious criminal offences in
+    the United Kingdom with a real risk  that  she  may  re-offend  in  the
+    future.  The Appellant had not made  any  representations  against  her
+    deportation and overall the Respondent considered  that  the  Appellant
+    posed a genuine, present and sufficiently serious threat to one of  the
+    fundamental interests of society and that her deportation was justified
+    on the grounds of public policy in accordance with regulation  23(6)(b)
+    and overall the decision to deport was proportionate.
+
+ 5. The Appellant appealed against the  decision  on  31  May  2019,  which
+    included details of the Appellant's relationship with her  partner  and
+    daughter; pursuant to which the Respondent sought  further  information
+    which was provided.  As a result, the Respondent issued a supplementary
+    decision letter dated 7 August 2019 which maintained  the  decision  to
+    deport but with much more  detailed  reasons.   First,  the  Respondent
+    considered the Appellant's  claimed  period  of  residence  from  2004.
+    There was no evidence of when  the  Appellant  arrived  in  the  United
+    Kingdom and the documentary evidence she  provided  was  dated  between
+    2017 and 2019.  The Respondent sought further information from HMRC  as
+    to employment, which showed total income,  primarily  from  Southampton
+    PCT, as well as with  Best  Connection  Group  and  Simple  Recruitment
+    services as follows:
+
+
+         2006/07 - Southampton PCT �4423.66
+         2007/08 - Southampton PCT �3105.94
+         2008/09 - Southampton PCT �1593.33
+         2009/10 - Southampton PCT �1100.03
+         2010/11 - Southampton PCT �124.63
+         2011/12 - Best Connection Group �796.02
+         2012/13 - Simple Recruitment Services - �153.52
+         2013/14 - �0
+         2014/15 onwards - no employment recorded.
+
+ 6. The Respondent did not  accept  that  the  earnings  were  genuine  and
+    effective to reflect a whole year's continuous employment such that  it
+    was not accepted that the Appellant had  established  that  she  had  a
+    sufficient employment history  for  exercising  treaty  rights  in  the
+    United Kingdom for a continuous five-year period and it was noted  that
+    the Appellant was involved in criminal activity between 2009 and  2016.
+    The Appellant had  not  acquired  permanent  residence.   Further,  the
+    Respondent did not accept that  the  Appellant  has  been  continuously
+    resident  in  the  United  Kingdom  exercising  treaty  rights  for   a
+    continuous ten year period.  As such, the Appellant was  entitled  only
+    to the basic level of protection on public policy  or  public  security
+    grounds under the EEA Regulations.
+
+ 7. In assessing  the  level  of  risk,  the  Respondent  referred  to  the
+    Appellant's criminal offending, impact  on  the  wider  community,  the
+    sentencing remarks and the OASys assessment.  The overall assessment of
+    the Appellant posing a low risk of reoffending was  however  considered
+    to be in conflict with the written comments in  the  report,  including
+    the Appellant's denial of any involvement in the first  conspiracy  and
+    was yet to accept responsibility for her  actions;  that  the  offences
+    were financially motivated; that any  further  offending  from  similar
+    offences would cause serious harm and that the Appellant has refused to
+    engage in work relating to her past behaviour (with no evidence of  any
+    courses being undertaken in custody).  The Respondent  considered  that
+    there was no evidence that the Appellant has distanced herself from her
+    criminal associates or that  she  would  be  able  to  support  herself
+    financially on release and had previously used a number of alias  names
+    and dates of birth.  Overall, the Respondent decided that the Appellant
+    had a  propensity  to  re-offend  and  posed  a  genuine,  present  and
+    sufficiently serious threat to the public to justify deportation on the
+    grounds of public policy.
+
+ 8. The Appellant's circumstances were considered, including that  she  was
+    in good health, had some employment and  relationships  in  the  United
+    Kingdom, spoke Polish, had spent the majority of her life in Poland and
+    would be able to seek employment and reintegration there.   There was a
+    lack of evidence of rehabilitation in the United Kingdom and no  reason
+    why work  in  this  area  could  not  be  undertaken  in  Poland.   The
+    Appellant's deportation was considered to be proportionate.
+
+ 9. The Respondent gave separate consideration to the Appellant's right  to
+    respect for private and family life under Article  8  of  the  European
+    Convention on Human Rights, finding that she did not meet  any  of  the
+    exceptions to deportation  in  paragraphs  399  and  following  of  the
+    Immigration Rules and there were no very  compelling  circumstances  to
+    outweigh the public interest in deportation.
+
+The appeal
+
+10. The Appellant appeals, in summary, on the basis that she is entitled to
+    a level of enhanced protection against deportation on  the  basis  that
+    she has acquired a permanent right of residence in the  United  Kingdom
+    and further that she has more than  ten  years'  continuous  residence;
+    that she does not pose a  genuine,  present  and  sufficiently  serious
+    threat to one of the fundamental interests of society and  overall  her
+    deportation is not proportionate.   Further,  in  the  alternative  the
+    Appellant appeals on the basis that her deportation would be in  breach
+    of her right to respect for private and family life under Article 8  of
+    the European Convention on Human Rights.
+
+The Appellant's evidence
+
+11. In her  written  statement  signed  and  dated  5  November  2019,  the
+    Appellant states that she came to the United Kingdom in  2004  to  work
+    and study, with her first job as a receptionist in a casino  and  after
+    that she worked as an interpreter on an employed and then self-employed
+    basis.  She states that at all times in the United Kingdom she has been
+    working or job-seeking other than her period of maternity  leave.   The
+    Appellant is unable to recall the exact dates of  her  employment,  but
+    worked as an interpreter in the NHS between 2006 and 2010, with  Access
+    to Communication and Wessex Translation.  Her translation work  varied,
+    with some weeks working every day and other weeks the Appellant was not
+    needed at all.  Other than periods of illness, she never went more than
+    a few days without a shift.
+
+12. The Appellant states that she has lived in the United  Kingdom  for  15
+    years and has no remaining ties to Poland, with no  friends  of  family
+    there and her whole life is based in the United Kingdom, including with
+    her partner and daughter (born in September 2015).
+
+13. In relation to the Appellant's offending, she states  that  she  became
+    involved in sham marriages when she was young  and  single  and  didn't
+    think about the consequences and only understood what  she  had  become
+    involved in through a client who she interpreted for  when  the  police
+    intervened.  The Appellant  had  not  been  involved  in  any  criminal
+    activity for some time before she started  her  relationship  with  her
+    partner.
+
+14. The Appellant describes difficulties with her partner  as  new  parents
+    and at a stressful  time  leading  up  to  her  criminal  trial;  which
+    involved a volatile situation where they both lost control.  The  worst
+    incident involved the  Appellant  stabbing  her  partner  without  even
+    realising what had happened and she can not imagine how they  got  into
+    that position.  As a  result,  social  services  became  involved,  the
+    Appellant's daughter was placed on the child  protection  register  and
+    home assessments were made weekly.  The Appellant believes that  social
+    services did not take a balanced view of the case, having already  been
+    involved  on  a  previous  occasion  of  domestic  violence  when   the
+    Appellant's partner restrained her on the sofa during an  argument  and
+    the police were called; but no further  action  was  taken  then.   The
+    Appellant felt threatened by one social worker and  made  a  complaint.
+    It is not true that she refused to engage  with  any  anger  management
+    course, just that it was not practical for her and her partner to do it
+    at the same time for childcare reasons and  before  the  Appellant  was
+    able to obtain a date for her to do the course, she was  sentenced  for
+    her criminal offences.  In prison she has undertaken  anger  management
+    and other courses to address what happened  and  prevent  it  happening
+    again.
+
+15. The Appellant has maintained regular contact with her  daughter  during
+    her imprisonment, with her  partner  becoming  her  daughter's  primary
+    carer (for which he has had to  give  up  work  and  now  suffers  from
+    depression) with assistance from the Appellant's mother.  The Appellant
+    describes the difficulties of separation for all of them, both everyday
+    and on special occasions.
+
+16. The Appellant anticipates that  leaving  custody  will  be  hard,  with
+    anxiety and stress and does not think that she could manage on  top  of
+    that if she is deported to Poland and separated from her  family.   The
+    Appellant's partner does not speak Polish and would have little if  any
+    job prospects in Poland, he is settled in the United  Kingdom  and  has
+    family here.  There is no support network available to the Appellant on
+    return to Poland, so she does not know how she would  support  herself,
+    find employment or accommodation.  The Appellant's partner and daughter
+    would not be able to afford  regular  visits  to  Poland  and  indirect
+    contact is not the same.
+
+17. The Appellant states she is a different person to  when  she  committed
+    her offences, with her thinking and perception having changed, with her
+    priority being a mother and her relationship  is  also  now  completely
+    different with both parties having the skills now  to  deal  with  each
+    other in a different way and without reacting badly  or  risking  their
+    daughter  seeing  any  further  incidents  between  them.   The  family
+    continued to live together after the most serious incident for  a  year
+    before the Appellant was sentenced and there were no further incidents.
+     The Appellant intends to return to the family  home  on  release  from
+    prison.
+
+18. In prison the Appellant has completed a  number  of  courses  including
+    level 2 beauty, business enterprise level 2 (currently working on level
+    3) and has  started  an  Open  University  course  in  criminology  and
+    psychology.  She intends to find employment on release and  would  like
+    to work in the housing industry or administration and does not think it
+    would be a good idea to return to interpreting.
+
+19. At the oral hearing, the Appellant confirmed her details,  adopted  her
+    written statement and gave oral evidence  in  English.   The  Appellant
+    gave an update as to recent circumstances for her and in particular the
+    impact of Covid-19 on life in  prison  and  on  the  lack  of  physical
+    visits, as well as causing a delay to  her  application  to  study  the
+    second year of her criminology course. The Appellant has been appointed
+    as a peer mentor to emotionally  support  vulnerable  women,  help  new
+    arrivals in prison, help with reading and writing,  reporting  bullying
+    or harassment and as part of her role has a  weekly  meeting  with  the
+    prison governor. The Appellant also stated that she had applied  for  a
+    position with the City of London as a social worker, for which she  was
+    accepted but which she has not been able to commence because of  Covid-
+    19. Following her release from prison she states that a job is  waiting
+    for her doing this (albeit there is no documentary evidence of this).
+
+20. In cross-examination, the Appellant confirmed that she had no remaining
+    connections with anyone or anything in Poland  and  had  not  made  any
+    attempts to search for connections which had been lost. Her mother  had
+    one brother who passed away 15 to 20 years ago who had  never  married.
+    She doesn't know very much about her father's side of  the  family.  Mr
+    Lindsay suggested that this was not credible  but  the  Appellant  said
+    that she only spoke from the heart and did not intend to mislead.  When
+    asked about her criminal trial in that respect, she stated that she had
+    learned from her mistakes and it was not her intention to mislead.  She
+    stated that at the time of her offending, she felt young, inexperienced
+    and na�ve and the offences were about a lack of  maturity  rather  than
+    her age.
+
+21. The Appellant could not remember exactly when her relationship started,
+    at some point between 2014 and 2015 and she was  not  involved  in  any
+    criminal activity for a long time before the start of her relationship.
+    When referred to her conviction for crimes continuing  up  until  2016,
+    the Appellant stated that she could not remember the exact dates, there
+    were efforts to trace a conspiracy over  a  long  period  of  time  and
+    involving other  people  but  she  had  not  been  involved  after  her
+    relationship had started. The Appellant stated  that  she  regrets  her
+    offending, does not deny it and has learned from her mistakes.  It  was
+    not her intention to commit crime at the time and she did not  consider
+    the consequences of her actions.
+
+22. The Appellant has been in prison for some time and has  no  connections
+    in Poland, such that she cannot work or  support  herself.  She  states
+    that her Polish is not as good as it was before she  hasn't  spoken  it
+    for a long time. She accepted that she had worked as an interpreter but
+    could remember for  how  long,  that  she  has  lost  fluency  and  her
+    interpreting  role  was  mainly  on   technical   terms   for   medical
+    appointments rather than conversational. The Appellant  does  not  know
+    whether she would have any access to services employment in  Poland  as
+    she has not been there for a long time.  The  Appellant's  partner  and
+    daughter have never been to Poland, she doesn't  know  the  job  market
+    there and she will also need to adjust  on  release  from  prison.  The
+    couple don't know what they would do if the Appellant was deported  and
+    they had not thought of a scenario of  them  remaining  in  the  United
+    Kingdom with her in Poland, the Appellant stated that  she  didn't  see
+    why she shouldn't have a chance to be in the United  Kingdom  with  her
+    daughter.
+
+23. As to employment  in  the  United  Kingdom,  the  Appellant  could  not
+    remember her highest earnings, stated that it was only  suspicion  that
+    she worked for short periods and overall stated that she has had enough
+    time to think about the past and only wants  to  think  of  the  future
+    without reflecting on what has already gone. The Appellant  again  said
+    that when she offended she had no family and no child,  her  priorities
+    are different now, she has learned from  her  mistakes  and  would  not
+    jeopardise her daughter.
+
+24. I asked the Appellant's supplementary questions.  The  Appellant  could
+    not remember when she arrived in the United Kingdom other than  it  was
+    in 2004, maybe May. She worked as an interpreter but could not remember
+    her working pattern, with some weeks being full-time  and  some  months
+    full-time. The Appellant could not remember when she last worked  other
+    than it was sometime between 2014 and 2016.
+
+25. I asked the Appellant what it was that made  her  stop  offending.  She
+    stated that previously she only had herself to worry about and once you
+    have a partner there was a different priority. Previously she had  less
+    worries and less responsibility. The offending stopped when she changed
+    her mind set, referring to considering the consequences  and  what  you
+    are doing more when you meet a person  that  you  love.  The  Appellant
+    stated that she stopped offending after her  relationship  started  but
+    before her daughter was born. As a new parent in prison  the  Appellant
+    has undertaken a life skills course, which covers parenting, as well as
+    others. This included the enough is enough course. There is no  ongoing
+    contact with social services.
+
+The Appellant's partner's evidence
+
+26. In his  written  statement  signed  and  dated  7  November  2019,  the
+    Appellant's partner stated that he met the Appellant in early 2014  and
+    they started dating in March that year.  The Appellant was working full-
+    time as an interpreter at that time.  In July 2014, the Appellant  told
+    her partner that she was being  investigated  for  sham  marriages  and
+    assured him that she had nothing to do with anything like that anymore.
+
+27. The Appellant and her partner moved in together in June/July  2015  and
+    their daughter was born in September 2015.  After  that  and  with  the
+    stress of the  criminal  proceedings,  the  relationship  suffered  and
+    became  volatile  with  more  arguments.   During  one  argument,   the
+    Appellant's partner thought she was  going  to  hit  him,  he  went  to
+    restrain her and dropped her onto the sofa.   Neither  intended  to  be
+    violent but read each other wrong in the heat of  the  moment  and  the
+    police were called.  After that they learned to control their responses
+    and if things escalated, the Appellant's partner would leave and  spend
+    the  night  elsewhere.   The  Appellant's  partner  had   a   difficult
+    relationship with her mother who lived with them and on  two  or  three
+    occasions she called the police accusing him of attacking the Appellant
+    and locking her in a room and other lies.
+
+28. On one occasion, the Appellant's partner heard  shouting  and  saw  the
+    Appellant being attacked by her mother  (with  their  daughter  in  the
+    room), so he pulled her free and was then attacked by  the  Appellant's
+    mother, who he removed from the house.  The police  were  called  again
+    who told the adults to be cautious given there was a young child at the
+    property.
+
+29. The Appellant and her partner moved to a new property in November 2016,
+    following which there was a significant argument as the Appellant would
+    not let her partner in the property  and  when  he  went  to  give  his
+    daughter a kiss and a cuddle, he thought the Appellant had thumped  him
+    on the back of the shoulder.  Only afterwards did he  realise  that  he
+    had been stabbed, although she did not realise that  is  what  she  had
+    done.   This  incident  is  described  as  a  turning  point   in   the
+    relationship with agreement to change so this would never happen again.
+     The couple decided to stay together make major changes  to  deal  with
+    tensions between them.
+
+30.  As  in  the  Appellant's  written  statement,  her  partner  describes
+    involvement with social services, him undertaking  a  parenting  course
+    and the Appellant simply not  being  able  to  do  so  before  she  was
+    imprisoned.
+
+31. The Appellant's partner made peace with the Appellant's mother and they
+    have supported his daughter since.
+
+32. The Appellant's partner describes his daughter  being  distressed  when
+    the Appellant was imprisoned, initial difficulties  with  contact  with
+    her in prison and then regular visits and contact when  permitted.  The
+    Appellant's partner describes his life being turned upside down and the
+    lack of support from the Appellant, together with him needing to  cease
+    employment for childcare and because of  adverse  effects  on  his  own
+    mental health. He is suffering from depression and has been  prescribed
+    medication for this.
+
+33. The Appellant's partner was born in the  United  Kingdom,  all  of  his
+    family are here, including his father, brother and two sisters,  living
+    locally and with whom he has regular contact. The  Appellant's  partner
+    also has two older daughters and a granddaughter (who attends the  same
+    nursery as the Appellant's daughter). The Appellant's partner would not
+    be able to relocate to Poland, away from his family, where he would  be
+    isolated and where he doesn't speak the language (which he doesn't know
+    if he could now learn) and where he would be unable to find employment.
+    If the Appellant  were  returned  to  Poland,  her  partner  would  not
+    financially be able to keep up regular visits to see her.
+
+34. The Appellant's partner is  confident  that  the  Appellant  would  not
+    commit any further offences, stating that what she did was  years  ago,
+    in completely different circumstances when she wasn't in a relationship
+    and didn't have a child. He says it is not an excuse but at  that  time
+    she had nothing to lose and hadn't thought through the consequences  of
+    what she was doing.
+
+35. The Appellant's  partner  attended  the  oral  hearing,  confirmed  his
+    details, adopted his  written  statement  and  gave  oral  evidence  in
+    English.  He also described the additional difficulties of  maintaining
+    contact with the Appellant during Covid-19, with his daughter not being
+    able to understand why they couldn't see the Appellant. The Appellant's
+    daughter has settled into school well this  year,  making  friends  but
+    wants her mum to be involved. The Appellant's partner has started  work
+    again.
+
+36. In cross examination, the Appellant's partner stated that  he  did  not
+    know what he and his daughter would do if the Appellant is deported  to
+    Poland because he does not understand what the  situation  there  would
+    be, whether there would be access to employment and education and where
+    they would be removed from friends and family in  the  United  Kingdom.
+    The Appellant's partner stated that he was old enough to be able to get
+    on with it and adapt, but it would be difficult for his daughter to  be
+    taken away from everything  that  she  knows.  He  has  not  considered
+    whether there would be any immigration difficulties in relocation.
+
+37. I asked the Appellant's partner supplementary questions. He stated that
+    he met the Appellant around July 2014 and knew of the criminal offences
+    after the Appellant had had a visit from the Home Office and  she  told
+    him about it. The Appellant's partner knew about her involvement in the
+    past, but she had stopped offending probably a year or two before  they
+    were together and before she was pregnant. He believes  that  this  was
+    because the Appellant wanted to settle  down  and  have  a  child.  The
+    Appellant's partner stated that the last contact the  family  had  with
+    social services was about three years ago, not long after the Appellant
+    was imprisoned.
+
+38. In re-examination the Appellant's partner stated that they had complied
+    with social services  requests,  had  already  undertaken  a  parenting
+    course and made  significant  improvements  in  the  relationship  even
+    before the Appellant was imprisoned.
+
+Other written evidence
+
+39. The Appellant's mother made a written statement,  signed  and  dated  7
+    November 2019. She states that she has  lived  in  the  United  Kingdom
+    since 16 April 2004 and since arrival has worked until she  retired  in
+    March 2015. The Appellant and her daughter are the only family that she
+    has in the United Kingdom and as she is  progressively  suffering  from
+    ill health, she is hoping that the Appellant will be  able  to  support
+    her on her  release  from  prison.  The  Appellant's  mother  has  been
+    actively involved in the upbringing of her  granddaughter  and  she  is
+    concerned that if the Appellant is deported, it  is  her  granddaughter
+    who will be punished most.
+
+40. The Appellant relies upon a  Family  Impact  Assessment  from  Laurence
+    Chester, a qualified Social Worker dated 13 October 2019.   The  report
+    was prepared following a visit with  the  Appellant,  her  partner  and
+    their daughter at the prison  and  by  reference  to  relevant  written
+    materials.  In relation to domestic violence, the report refers to both
+    adults saying that they have completed  parenting  courses,  understand
+    how children can be hurt by domestic violence and that they are sure it
+    would not  happen  again.  In  relation  to  the  Appellant's  criminal
+    offending, it is recorded that the Appellant said it  was  the  biggest
+    mistake of her life and that she had already changed by  the  time  her
+    daughter was born.
+
+41. The report records both adults suffering from  mental  health  problems
+    and difficulties caused by the separation from imprisonment.
+
+42. The Social Work report finds that this is a loving  close-knit  family,
+    with the impact  of  the  Appellant's  imprisonment  mitigated  by  the
+    support of the wider family and that if the  Appellant  were  deported,
+    her daughter is likely to experience even  more  significant  emotional
+    distress due to a significant sense of loss. Evidence is referred to as
+    to the adverse impact on a child of  separation  from  a  parent,  with
+    significant emotional developmental harm.  The  author  notes  that  it
+    would also be emotionally harmful to remove the child to live in Poland
+    with her family given the separation from her wider  family  and  given
+    that the Appellant's partner has no knowledge of life in Poland and  no
+    means of support, it was reasonable to be  concerned  that  the  family
+    would face a life of destitution, with no social family connections and
+    no access to financial support or housing from the state.
+
+43. In conclusion, the author considers that  the  Appellant's  deportation
+    would be unduly harsh on both her and her  daughter,  with  a  profound
+    adverse impact on the child's emotional well-being; together  with  the
+    concern about further deterioration of the mental health of the adults.
+    There are concerns as to access to  education,  healthcare  and  public
+    services for the Appellant's partner  and  daughter  in  Poland,  which
+    would represent significant obstacles  to  the  family  being  able  to
+    establish a life there. There is further reference  to  domestic  abuse
+    and the adults presenting as  sincere  in  their  commitment  never  to
+    subject their daughter to  the  impact  of  witnessing  domestic  abuse
+    again.
+
+44. The Appellant's bundle includes a letter from Choice for  Change  dated
+    28 May 2019, confirming that the Appellant has attended 25  counselling
+    sessions between July 2018 and January 2019 during which she  processed
+    separation and related issues about her relationship with her  partner,
+    understanding parenting and learned to be  more  reflective  about  her
+    responses and accepted challenges to her established thinking patterns.
+
+45. The Appellant's bundle contains a number of documents about  education,
+    courses and employment, before and during the Appellant's imprisonment.
+     At the hearing the Appellant also handed in two documents from prison,
+    including a certificate of achievement and details as a mentor. I  have
+    taken all of these into account in my decision,  returning  below  more
+    detail to the evidence of employment that is available.
+
+
+
+Closing submissions
+
+46. On behalf of the Respondent, Mr Lindsay relied on the two  reasons  for
+    refusal letters, subject to accepting that if it  was  found  that  the
+    Appellant had acquired  permanent  residence  and  also  had  10  years
+    residence in the United Kingdom,  that  imperative  grounds  of  public
+    policy or public security could not be met on the facts of  this  case.
+    However, it was submitted that the Appellant has not  established  that
+    she had acquired permanent residence or completed 10 years residence in
+    accordance with the EEA Regulations.
+
+47. The evidence before the Upper Tribunal does not  demonstrate  that  the
+    Appellant has 5 years of continuous residence  in  the  United  Kingdom
+    exercising treaty rights here. The evidence that is available from HMRC
+    shows only that she has worked for at least some part of the years that
+    she has spent in the United Kingdom. The highest earnings recorded when
+    the year 2006/07 which totalled �4423.66, a figure low enough that they
+    may have only been accrued for a short period of work. The  Appellant's
+    lowest earnings were in 2011/12, there are no details of start and  end
+    dates of employment and whether or not employment was part-time or full-
+    time. Given the low level of earnings in multiple years,  the  Tribunal
+    cannot be confident that the Appellant was  in  genuine  and  effective
+    employment during this period.  It  was  submitted  overall,  that  the
+    burden is on the Appellant to establish continuous employment  and  she
+    has simply failed to do so on the documentary  evidence  and  her  oral
+    evidence was unclear, only referring to not wanting  to  dwell  on  the
+    past.
+
+48. In the absence of establishing permanent residence, the Appellant  also
+    cannot show 10 years continuous residence in the United Kingdom because
+    permanent residence is a prerequisite for  this.  The  Respondent  also
+    questioned the Appellant's social and  cultural  integration  into  the
+    United Kingdom in any event given the nature, extent  and  duration  of
+    her criminal offending which would not meet this threshold.
+
+49. In the circumstances, the Respondent submitted that the  Appellant  was
+    entitled  only  to  the  lowest  level  of  protection  under  the  EEA
+    Regulations, that of public policy or public security.
+
+50. Mr Lindsay submitted that the Appellant was not a credible witness. She
+    was someone who had a long and significant  history  of  dishonesty  on
+    immigration matters and had committed  significant  criminal  offences.
+    There was a long course of offending, with  two  separate  conspiracies
+    running between 2009 and 2016, a seven year period of criminality.  The
+    Appellant went through her first trial  protesting  her  innocence  and
+    even during her  OASys  assessment  in  2018,  sought  to  deny  and/or
+    minimise responsibility for her criminal offending. That  approach  has
+    been maintained even in evidence before the Upper Tribunal.
+
+51. The Appellant stated in her written statement that she was not involved
+    in criminal activity for some time  before  her  relationship  started;
+    which was clearly not true and she changed her evidence on  this  point
+    in response to questions.
+
+52. The Respondent does not take any issue with the  Appellant's  partner's
+    credibility, the submissions focusing only on the Appellant.
+
+53. As to whether the Appellant poses a threat to the fundamental interests
+    of society and the United Kingdom, it is noted that in  the  sentencing
+    remarks,  the  Appellant's  offending  struck  at  the  heart  of   the
+    immigration system. The Respondent submits that the risk of reoffending
+    is higher than the conclusion suggests in the OASys  report,  which  is
+    based  on  statistical  calculations  and   static   factors,   without
+    considering that the Appellant committed the crimes for financial  gain
+    and where there was no evidence of any improved financial  security  on
+    release to reduce the risk of reoffending for the same reasons. It  was
+    also submitted that even a low risk of reoffending had to  be  balanced
+    against the nature of the offending and the very serious risk  of  harm
+    if a further similar offence was committed. An  additional  matter  not
+    relevant to  the  statistical  assessment  is  also  the  reference  to
+    previous incidents of domestic violence, which would also be a criminal
+    matter even  in  the  absence  of  charge  or  conviction.  Mr  Lindsay
+    submitted that notwithstanding the courses undertaken by the  Appellant
+    in prison, there  are  real  reasons  for  concern  that  the  risk  of
+    reoffending was at least as high, if not higher than  set  out  in  the
+    OASys report.
+
+54. As to the final proportionality assessment, there has to be  a  balance
+    between the circumstances of the Appellant and her  family  as  against
+    the level of seriousness of the threat of reoffending and in this  case
+    it is sufficiently high to outweigh the family's interests.
+
+55. The social work report sets out the likely adverse impact on  a  child,
+    which is sadly the normal consequences of deportation and in this  case
+    it is open to the family to choose whether  to  remain  in  the  United
+    Kingdom without the Appellant or relocate to Poland. There is no reason
+    why  the  Appellant  cannot  work  and  support  visits  there  and  no
+    immigration  difficulties  have  been  identified  for  the  family  to
+    relocate to Poland. The  burden  is  on  the  Appellant  to  prove  the
+    assertions that there would  not  be  adequate  access  to  employment,
+    healthcare or education for any of the family, but there is a  lack  of
+    evidence of  any  such  difficulties  and  the  Social  Worker  is  not
+    qualified to comment on likely conditions on return to Poland.  It  was
+    submitted that the Appellant has not seriously  turned  her  mind  what
+    would happen return to Poland which undermines the bare assertions that
+    she has made about what would happen on return. Aspects of  the  Social
+    Work report do not reflect reality, in part been based  on  assumptions
+    that a young child with primary attachments could not reasonably locate
+    to another country where this case the family has a choice.
+
+56. In relation to domestic violence, the  Social  Worker  states  that  he
+    found that the adults were sincere, but appears to accept what  he  has
+    been told uncritically, without reference to any the documents, without
+    reference to the Appellant's history  of  dishonesty  and  without  any
+    further questions being asked. There is no apparent resolution  of  the
+    conflict in the evidence.
+
+57. The Social Worker also strays outside of his  role  and  competence  by
+    concluding that the impact of deportation  would  be  unduly  harsh  on
+    family members, which for present purposes is a legal test.
+
+58. In conclusion,  the  Respondent  submits  that  the  appeal  should  be
+    dismissed under the EEA Regulations. Finally,  the  Appellant  has  not
+    directly relied on Article 8 of the European Convention on Human Rights
+    in the alternative but in any event it was submitted that it would  not
+    be unduly harsh on  the  Appellant's  partner  or  daughter  either  to
+    relocate to Poland or to remain  in  the  United  Kingdom  without  the
+    Appellant. Given the Appellant's length of sentence, she would  in  any
+    event need to show very compelling circumstances  over  and  above  the
+    exceptions to deportation to outweigh the significant  public  interest
+    in her deportation. The same submissions as has  previously  been  made
+    were relied upon, that there  were  no  very  compelling  circumstances
+    given the strength of public interest in this case and a legitimate aim
+    which goes beyond reoffending but also clearly includes the maintenance
+    of effective immigration controls.
+
+59. On behalf of the Appellant, Ms Reid relied on her skeleton argument and
+    reiterated the primary submission that the appellant had  acquired  not
+    only permanent residence but also 10 years continuous lawful  residence
+    in the United Kingdom and in those circumstances it was  accepted  that
+    there was insufficient justification for deportation imperative  public
+    policy or public security grounds.
+
+60. The Appellant relied on  the  documentary  evidence  of  her  work  and
+    residence in the United Kingdom, with the documents painting a  picture
+    not of sporadic bookings as an interpreter but a person  whose  working
+    days fluctuated with a different level of bookings. The  Appellant  has
+    accepted that this employment was not sustainable in the long term  and
+    has taken steps  to  look  for  different  employment  in  the  future.
+    However,  her  work  as  an  interpreter  was  genuine  and   effective
+    employment, with fluctuating work and some health problems with periods
+    where the Appellant was unable to work for this reason.
+
+61. The Appellant's first employment was from 17 September 2004 in a casino
+    and five years from that date  takes  her  to  September  2009.  It  is
+    accepted that there were no P60 documents past the  year  ending  April
+    2009 but the HMRC records show some employment in the tax years 2009/10
+    and 2010/11, albeit the latter at a very low level.  It  was  submitted
+    that even low levels of earnings  can  still  however  be  genuine  and
+    effective employment.  It was accepted on behalf of the Appellant  that
+    there was only limited documentary evidence of employment available.
+
+62. Ms Reid submitted that  even  if  the  Appellant  had  not  established
+    permanent residence or 10 years continuous  lawful  residence  and  was
+    only entitled to the basic level of protection, the Respondent has  not
+    shown that her deportation would be justified in particular, it has not
+    been established that the Appellant's  conduct  represents  a  genuine,
+    present  and  sufficiently  serious  threat  to  public  security.  The
+    Appellant has acknowledged that she has made significant past mistakes,
+    but in reality all of her criminality has been around  one  aspect  and
+    there has been no further offending. The OASys assessment is  that  the
+    Appellant is a low risk of reoffending and a low risk of  serious  harm
+    and the Appellant has taken steps to  improve  her  qualifications  and
+    employment prospects  and  therefore  her  financial  circumstances  on
+    release from prison. Specifically, the Appellant has started  a  degree
+    course with the Open University, she  has  been  given  a  position  of
+    responsibility in prison and has given oral evidence  about  employment
+    prospects as a social worker on release.  The  Appellant's  partner  is
+    supportive of her, is in employment and  can  support  the  family.  In
+    addition, there is compelling evidence of the effect on  the  Appellant
+    of responsibility  for  her  daughter,  a  significant  factor  against
+    reoffending. There is documentary evidence  of  courses  undertaken  in
+    prison, including counselling to address the Appellant's behaviours and
+    to lead to improvements in her relationship.
+
+63. The Appellant and her partner have both given written and oral evidence
+    about following advice, engaging with social services and reducing  the
+    risk of any further domestic violence incidents. The  OASys  assessment
+    that the Appellant poses a medium risk of harm to a known adult  and  a
+    known child should be seen in that context.
+
+64. The Appellant relies on the Social Work report on the adverse impact on
+    the Appellant's daughter if she were to be  deported  to  Poland,  with
+    particular reference to the evidence of wider family  relationships  in
+    the United Kingdom and the establishment of their daughter here. In all
+    the circumstances it is submitted that given the  nature  of  offending
+    and the family circumstances and United  Kingdom,  deportation  is  not
+    proportionate.
+
+65. In essence, the same points are relied upon in relation to Article 8 of
+    the European Convention Human Rights, albeit it is  accepted  that  the
+    EEA Regulations offer a high level of protection than these provisions.
+
+Findings and reasons
+
+Level of protection under the EEA Regulations
+
+66. The first issue to determine is what level of protection the  Appellant
+    benefits  from,  determined  by  whether  she  has  acquired  permanent
+    residence in the United Kingdom by five years' continuous residence  in
+    accordance with the EEA Regulations, and if so, whether in addition she
+    has resided in the United Kingdom for a continuous period in excess  of
+    10 years.
+
+67. As acknowledged on behalf of the Appellant by Ms Reid, there is limited
+    documentary evidence as to the Appellant's  employment  in  the  United
+    Kingdom (and no schedule of this was produced  which  would  have  been
+    helpful) and this lack of evidence is not assisted by  any  written  or
+    oral evidence by the Appellant who claims to have  little  recollection
+    of dates or specific information  and  when  asked  specifically  about
+    straightforward employment matters, repeatedly stated that she did  not
+    wish to dwell  on  the  past  and  only  looked  to  the  future.   The
+    Appellant's evidence even on this factual matter was vague, lacking  in
+    any useful detail and was far from comprehensive, amounting  in  places
+    to little more than bare assertion.  The burden is on the Appellant  to
+    establish she has acquired permanent residence, and  if  so,  10  years
+    continuous residence.  For the reasons set out below,  I  do  not  find
+    that she  has  discharged  this  burden  to  establish  even  permanent
+    residence.
+
+68. There is no evidence before the Tribunal of when the Appellant came  to
+    the United Kingdom other than her statement that  it  was  sometime  in
+    2004.  There is no evidence of  any  study  at  anytime  prior  to  her
+    imprisonment and no specific  evidence  of  any  job-seeking;  although
+    there is documentary evidence of an amount  of  �471.26  of  jobseekers
+    allowance for the period to 31 May 2007 and  an  unknown  amount  in  a
+    period to 13 June  2008;  both  of  which  are  inconsistent  with  the
+    Appellant's claim in her written statement to  have  been  continuously
+    employed since her arrival.
+
+69. The Appellant's claim is that she has  been  continuously  employed  in
+    genuine and effective employment since arrival in the  United  Kingdom,
+    save for short, unspecified periods of ill-health  and  her  period  of
+    maternity leave (the dates for which have not been given but it can  be
+    inferred that this was likely to be from mid to late 2015 and into 2016
+    given her daughter was born in September 2015).  The  Appellant  states
+    that she never went more than a few days without a shift.  As confirmed
+    at the oral hearing, the specific period relied  upon  was  five  years
+    from September 2004 (first employment) to September 2009 and  no  other
+    different period was specified by the Appellant as  one  in  which  she
+    claimed five years' continuous residence in  accordance  with  the  EEA
+    Regulations.
+
+70. The first evidence of the Appellant being in the United Kingdom and  in
+    employment is a contract of employment with Stanley Casinos  Ltd  dated
+    17 September 2004, with a leaving date of 7 November 2004  (shown  from
+    the P45) and from the Appellant's tax calculation for the year 2004/05,
+    her total earnings were  �1676  from  this  employment.   There  is  no
+    evidence of any employment or other activity as a qualified person from
+    8 November 2004 to June 2005 and the documents  available  relating  to
+    the tax year 2004/05 shows that the employment at the  casino  was  the
+    only employment during this period.
+
+71. The next evidence of  employment  is  a  contract  of  employment  with
+    Southampton City PCT showing  a  start-date  for  part-time  employment
+    (with reference to the bank system rather than any  specific  hours  or
+    number of hours) of 10 June 2005 (although a separate  letter  confirms
+    employment with Access to Communication from 2 June 2005).   There  are
+    various references of employment with Access to  Communication,  Wessex
+    Translation and Southampton PCT which all appear to refer to  the  same
+    work as an interpreter mainly in the NHS, with Access to  Communication
+    being referred to  as  a  department  within  Southampton  PCT  on  the
+    payslips.  The Appellant states that this employment was  between  2006
+    and 2010, initially as a PAYE employee and  later  on  a  self-employed
+    basis (although the specific periods in  each  capacity  has  not  been
+    stated).  There are a number of interpreter booking  forms  on  various
+    dates in 2006 and 2 bookings in May 2007 as supporting evidence of this
+    employment and some blank travel claim forms from 2007.
+
+72. The Appellant's P60's have been submitted for the  tax  years  2005/06,
+    2006/07, 2007/08 and 2008/09 which show earnings from Southampton  City
+    PCT consistent with the amounts  set  out  by  the  Respondent  in  the
+    reasons for refusal letter (and set out  in  paragraph  8  above).   In
+    addition, payslips have been provided for various amounts ranging  from
+    �5.75 to �441.58 for months between September 2005 and September  2009;
+    albeit some dates and amounts have been omitted from  copies  provided.
+    The monthly payslips that are available and on  which  a  date  can  be
+    identified show earnings as follows:
+
+
+
+    |30 September  |Amount paid omitted    |
+|2005          |from copy              |
+|31 October    |�192.43                |
+|2005          |                       |
+|30 November   |Amount paid omitted    |
+|2005          |from copy              |
+|31 May 2006   |�207.84                |
+|30 June 2006  |�440.60                |
+|31 July 2006  |�353.52                |
+|30 November   |�282.69                |
+|2006          |                       |
+|31 December   |�33.65                 |
+|2006          |                       |
+|31 January    |�42.59                 |
+|2007          |                       |
+|28 February   |�220.66                |
+|2007          |                       |
+|31 March 2007 |�188.35                |
+|30 April 2007 |�349.03                |
+|31 May 2007   |�260.01                |
+|8 June 2007   |Amount unknown         |
+|31 July 2007  |�42.59                 |
+|1 August 2007 |�188.35                |
+|30 September  |�201.84                |
+|2007          |                       |
+|31 October    |�189.08                |
+|2007          |                       |
+|30 November   |�365.67                |
+|2007          |                       |
+|31 December   |�154.78                |
+|2007          |                       |
+|31 January    |�204.82                |
+|2008          |                       |
+|29 February   |�441.58                |
+|2008          |                       |
+|31 March 2008 |�359.51                |
+|30 April 2008 |�364.30                |
+|31 July 2008  |�151.60                |
+|31 August 2008|�231.05                |
+|30 June 2009  |�73.74                 |
+|31 July 2009  |�113.86                |
+|31 August 2009|�79.80                 |
+|30 September  |�5.75                  |
+|2009          |                       |
+
+
+73. The Appellant has not  given  any  evidence  on  whether  payslips  are
+    missing because they are unavailable or whether  the  missing  payslips
+    are because there were no earnings in those months.  It seems from  the
+    HMRC records at least in the earlier years that at least some  payslips
+    are simply missing.  There are significant gaps in the payslip evidence
+    between the end of  2005  and  April  2006;  August  to  October  2006;
+    May/June 2008; and then between September 2008 and May 2009; with  only
+    very low earnings from June to September 2009.  The payslips  that  are
+    available show that the Appellant was not working any  set  or  regular
+    number of hours as the level  of  remuneration  differed  significantly
+    from month to month.  The relatively low level of monthly earnings even
+    in the highest paid months does not support  the  Appellant's  evidence
+    that some weeks and months she was working full-time.
+
+74. The only other evidence available in relation to any income or earnings
+    are bank statements for the Appellant dating from  2011  onwards  which
+    show  receipt  of  state  pension,  pension  credit,  one  payment   of
+    Employment and Support Allowance and earnings from Pro Force  Kent  Ltd
+    (with a name as a reference which is not the Appellant's name or one of
+    her known alias') and from Blue Arrow. Save for a P45  in  2012,  there
+    are no contracts of employment,  payslips,  P60's,  or  self-employment
+    records or any other  documentary  evidence  of  work  for  this  later
+    period.  The sentencing remarks  for  the  Appellant  do  however  show
+    proceeds from her criminal offending of at least �29,000,  although  it
+    is unclear from precisely what period, it is inferred  that  money  was
+    received from this from late 2009 onwards  when  the  first  conspiracy
+    began.
+
+75. On the basis of the  evidence  that  is  available,  I  find  that  the
+    Appellant was employed on  a  full-time  basis  between  September  and
+    November 2004 (her first employment with the casino)  and  irregularly,
+    on a part-time (or bank/zero hours basis) as an interpreter  from  June
+    2005 and on the balance of probabilities up to April or at best  August
+    2008.  There is evidence of some earnings between  June  and  September
+    2009 but only at a very low level, the  last  payslip  being  only  for
+    �5.75 for the month  of  September  2009.   There  is  no  evidence  to
+    establish any employment  or  other  activity  as  a  qualified  person
+    between early November 2004 and June 2005, or  between  September  2008
+    and May 2009.
+
+76. The question for the purposes of establishing  permanent  residence  is
+    whether the Appellant was a qualified person (as defined in  regulation
+    6 of the EEA Regulations) during this period such that she was residing
+    in the United Kingdom in accordance  with  the  EEA  Regulations.   The
+    Appellant  specifically  relies  on  being  a  worker  (as  defined  in
+    regulation 4 of the EEA  Regulations)  and  whilst  there  are  limited
+    references to  studying  and  work-seeking,  there  is  little  if  any
+    evidence of the same and no specification of dates  or  the  period  in
+    which the Appellant was said to be doing either.
+
+77. In certain specified circumstances, set out in Regulation 6(2)  of  the
+    EEA Regulations, a person who is no longer working must continue to  be
+    treated as a worker but there  was  no  submission  on  behalf  of  the
+    Appellant that she satisfied any of these  requirements  to  cover  the
+    gaps in employment identified above.  In relation in particular to  the
+    gap after 7 November 2004 to early June 2005; there is nothing  in  the
+    evidence before me on which  it  could  be  found  that  the  Appellant
+    continued to be a worker during this period.  There is no evidence, for
+    example, of the Appellant being unable to work because  of  illness  or
+    accident; she had not previously been employed for at least a year  and
+    there is no evidence that she was recorded as unemployed  to  undertake
+    vocational training or that she was actively seeking employment.
+
+78. As to the  later  part  of  the  five  year  period  relied  upon,  the
+    Respondent submitted that the Tribunal could not be confident given the
+    low level of earnings that there was genuine and effective employment.
+
+79. The concept of a worker is a broad  one  in  community  law,  with  the
+    leading authorities on  it  being  D  M  Levin  v  Staatsecretaris  van
+    Justititie, C-53/81 and Lawrie-Blum v Land  Baden-Wurttemberg,  C-66/85
+    (as relied upon in numerous cases since, which are not all necessary to
+    cite here).  In summary, to  be  a  worker,  the  person  must  perform
+    services of some economic value to the employer; the services  must  be
+    'genuine and effective' and the services must be more than 'marginal or
+    ancillary'.  This can include part-time and low-paid work; and duration
+    and regularity of work are relevant factors.
+
+80. I have taken into account all of  the  evidence  available  as  to  the
+    Appellant's economic activity within this broad concept;  including  in
+    her favour that she had earnings from the  same  employer  (whether  as
+    Southampton PCT or Access  to  Communication  or  Wessex  Translations)
+    between June 2005 and of September 2009 (albeit  not  on  a  continuous
+    monthly basis and at varying levels); but also that these earnings were
+    irregular, with no set hours or even number of hours  and  towards  the
+    end of the period, earnings were at very low levels indicating that the
+    activity was marginal and ancillary rather than genuine and  effective.
+    There was no evidence at all  as  to  the  Appellant's  actual  working
+    pattern (if any) or wider  circumstances,  particularly  in  the  later
+    years in this period as to how she was supporting herself on such  low,
+    limited and irregular income.
+
+81. Whilst I find that the Appellant had periods of employment during  this
+    five year period from September 2004 to September 2009, I do  not  find
+    that she has established continuous employment during this  time  given
+    the significant gaps in the evidence, both documentary evidence and  in
+    the Appellant's own written and oral evidence.  The gaps are either not
+    explained at all or at best covered by reference to unspecified periods
+    of illness or jobseeking (although the claims for JSA appear to overlap
+    with periods of employment in any event).
+
+82. The Appellant was asked specifically about her  employment  during  the
+    relevant period and I explained the relevance of such evidence  to  her
+    claim to have acquired permanent residence but she  was  unable  and/or
+    unwilling to give any  further  details.   Counsel  on  behalf  of  the
+    Appellant went no further in submissions than  to  simply  assert  that
+    there was a  sufficient  period  of  continuous  employment  which  was
+    genuine and  effect  and  by  reference  to  the  documents  listed  in
+    paragraph 14 of her skeleton argument (to which I have already referred
+    to in detail above);  whilst  acknowledging  the  lack  of  documentary
+    evidence and that these documents did not cover the entire period.
+
+83. On the basis of the evidence set out above, I find that  the  Appellant
+    was a worker and resided in the United Kingdom in accordance  with  the
+    EEA Regulations from September to early November  2004  and  then  from
+    June 2005 to April or at best August 2008.  There is no evidence of any
+    activity as a worker (or otherwise  as  a  qualified  person)  after  7
+    November 2004 to early June 2005 (and nothing to suggest that she would
+    continue to be treated as a worker during this time) and after, at  the
+    latest August 2008, there is no evidence of any earnings on any regular
+    basis and/or above a very low level, such that I do not find that there
+    was genuine and effective employment which was more  than  marginal  or
+    ancillary after this time.  On these findings, the  Appellant  has  not
+    established a continuous period of five  years  living  in  the  United
+    Kingdom in  accordance  with  the  EEA  Regulations,  as  a  worker  or
+    otherwise as a qualified person.
+
+84. As above,  the  Appellant  relied  on  the  initial  five  year  period
+    following  her  arrival  in  the  United  Kingdom/following  her  first
+    employment in September 2004 for the purposes of establishing permanent
+    residence and it was not suggested that  any  other  five  year  period
+    established this.  In any event, the  evidence  of  employment  or  any
+    other activity for later years after September 2009 is even more sparse
+    and could not on any view show continuous residence  for  a  five  year
+    period in accordance with the EEA Regulations; particularly given  that
+    the Appellant was from late 2009 receiving substantial  sums  of  money
+    from criminal activity and it can be inferred  was  supporting  herself
+    primarily from these means.  For these reasons, the Appellant  has  not
+    established that she has acquired permanent  residence  in  the  United
+    Kingdom under Regulation 15 of the EEA Regulations.
+
+85. In the absence of establishing permanent residence, the  Appellant  can
+    not establish ten years' continuous  lawful  residence  in  the  United
+    Kingdom in accordance with the EEA Regulations as this is  a  necessary
+    pre-requisite.  In  any  event,  for  the  reasons  already  given  the
+    Appellant  could  not  on  the  evidence  establish  this.   In   these
+    circumstances, the Appellant is entitled only to the  lowest  level  of
+    protection against deportation in the EEA Regulations, that  of  public
+    policy or public security.
+
+Present, genuine and sufficiently serious threat
+
+86. The Respondent can only deport the Appellant on the grounds  of  public
+    policy or public security in accordance with Regulation 23 of  the  EEA
+    Regulations.  In accordance with those  provisions  set  out  above,  I
+    consider first the personal conduct of this Appellant and  whether  her
+    personal conduct represents a genuine, present and sufficiently serious
+    threat affecting one of the fundamental interests in society.  Although
+    the Appellant's conviction or criminal history does not itself  justify
+    a decision to deport, that is an appropriate place to start.
+
+87. The Appellant's criminal history is set out above, which  included  two
+    separate conspiracies in relation to sham marriages, the first  between
+    30 March 2011 and 13 February 2014 and the second  between  5  November
+    2009 and 31 August 2016.  The sentencing remarks in  relation  to  both
+    include the following:
+
+      "... As I have said and your counsel accept, these offences  are  very
+      serious because they strike at the heart of  our  immigration  system,
+      our immigration controls, and you and Asante were both  major  players
+      in the Ghanian conspiracy and you in the Asian conspiracy also.
+
+      You both, you and Asante,  made  a  lot  of  money  out  of  it.   The
+      conspiracies were well  organised,  well  planned,  sophisticated  and
+      carried out, it would seem, purely for commercial gain  and  for  that
+      type of offence there has to be a significant deterrent element in the
+      sentence.  There  are  problems  with  immigration  controls  in  many
+      countries  and  we  are  no  exception  and  they  cause  the   public
+      considerable concern, considerable and justifiable concern. ..."
+
+88. The Appellant was sentenced to seven years' imprisonment for the  first
+    conspiracy, an additional  five  years'  imprisonment  related  to  the
+    proceeds of crime from it; and six years' imprisonment for  the  second
+    conspiracy; all to run concurrently.  The length of  sentences  imposed
+    reflects the very serious nature of the  offences  and  the  sentencing
+    remarks reiterate that the Appellant was part of two lengthy  and  well
+    planned conspiracies with nothing to suggest that  she  played  only  a
+    minor part in them, she was a major player.
+
+89. An OASys assessment was completed on 27 March 2018  (although  dated  2
+    July 2019, this appears  to  be  the  printing  date  and  nothing  has
+    apparently been updated since the assessment was first completed).   At
+    the time of this  assessment,  the  Appellant  continued  to  deny  any
+    criminal activity or involvement in the conspiracy and  maintained  the
+    defence that was previously rejected that  she  had  documents  in  her
+    possession  only  from  working  as  a  translator.   The  report  also
+    concludes  that  the  Appellant  does  not  recognise  the  impact  and
+    consequences of her offending on the individual  victims  or  on  wider
+    society; although she does state that  she  would  never  commit  crime
+    again because of the negative impact it has had on her and her  family.
+    The were no specific issues identified as linked to offending.
+
+90. Overall, the OASys report assesses the Appellant as posing a  low  risk
+    of reoffending and a low risk of serious harm  to  the  public  in  the
+    community; with a medium risk of serious harm to children and  a  known
+    adult.  The latter is specifically by reference  to  domestic  violence
+    with her partner and the risk to her own child.  The  OASys  assessment
+    refers to child protection conference minutes dated  19  February  2018
+    (following a conference on 13 February 2018) detailing that  there  was
+    previously a  Child  Protection  Plan  in  place  for  the  Appellant's
+    daughter due to her being at risk of serious harm  following  incidents
+    of domestic violence, including  the  Appellant  stabbing  her  partner
+    whilst he was holding their daughter.   That  was  downgraded  at  this
+    conference to the Appellant's daughter being a Child  in  Need  because
+    there were no immediate safeguarding concerns whilst the Appellant  was
+    in custody.  The report however states  that  Childrens  Services  will
+    need to reassess the situation prior to the  Appellant's  release  from
+    prison and the Social Worker is to notify them  prior  to  the  release
+    date.  It is recorded that the Appellant had refused to engage  in  any
+    work with social services in relation to domestic violence and she  did
+    not wish to discuss any aspect of this with the  author  of  the  OASys
+    report.
+
+91. There are therefore two distinct potential  risks  from  the  Appellant
+    which are identified in the OASys report and need to be considered.   I
+    deal first with  the  criminal  offences  committed  and  any  risk  of
+    reoffending of that nature.
+
+92. The Appellant has  given  very  little  evidence  as  to  her  criminal
+    offending, in terms of what led to it or any detail of her involvement,
+    with continuing denial of any wrongdoing as recently as early 2018.  In
+    her evidence before the Tribunal, she states that she acknowledges  the
+    offences and regrets them but  gives  little  detail  of  this  and  no
+    insight into the seriousness or impact of her offending.
+
+93. The Appellant has repeatedly stated in evidence that  at  the  time  of
+    offending she was young and/or immature, had no responsibility, was not
+    in a relationship nor did she have a child and  did  not  consider  the
+    consequences of her actions.  The Appellant was however  29  years  old
+    when the offending began (and much older by the time it stopped 7 years
+    later), had moved to the United Kingdom some five years previously  and
+    been in employment here such that it is difficult to  accept  that  she
+    was simply young or immature as a reason for two lengthy, well  planned
+    criminal conspiracies.
+
+94. In her written and oral evidence the Appellant  initially  stated  that
+    her criminal offending ceased  a  long  time  before  her  relationship
+    started (in 2014 or 2015) and the only reason repeatedly given for  not
+    reoffending  was  that  she  now  had  a  partner  and  a  child,  with
+    responsibility and as such her  outlook  and  priorities  had  changed.
+    However, in oral evidence  the  Appellant  stated  that  her  offending
+    stopped when she began her relationship but  before  her  daughter  was
+    born.  The Appellant's partner  also  stated  that  the  Appellant  had
+    ceased criminal activity before their relationship started.
+
+95. In addition to the difficulties with the inconsistent evidence  of  the
+    witnesses on this point; all of their evidence was wholly  inconsistent
+    with the Appellant's conviction for the  second  conspiracy  which  was
+    between 5 November 2009 and 31 August 2016; continuing  not  only  long
+    after the relationship started in 2014 but also for almost  year  after
+    the Appellant's daughter was born in September 2015.  I do  not  accept
+    as credible the Appellant's evidence (or her partner's  evidence)  that
+    criminal activity ceased before her relationship started and/or  before
+    her daughter was born as this is directly contrary to the facts of  her
+    conviction.  For these reasons I also  do  not  accept  or  attach  any
+    significant weight to the  Appellant's  evidence  that  she  would  not
+    reoffend again because of her changed circumstances with her family  as
+    she continued to offend for a significant period even after  the  birth
+    of her daughter.  The Appellant relies on little else as a reason as to
+    why she does not pose a risk  of  reoffending,  although  I  take  into
+    account that she  has  undertaken  further  education  to  improve  her
+    employment prospects on release from custody and  has  undertaken  some
+    courses in prison (although these seem to be primarily focused  on  her
+    family circumstances which I address below).
+
+96. In relation to the assessment that the Appellant poses a medium risk of
+    harm to her partner and her child, the evidence before the Tribunal  on
+    this is relatively sparse, as it was before the  OASys  report  author.
+    There is no evidence of any criminal charge or proceedings.   There  is
+    no evidence at all from Social Services, nor any update to the position
+    as  recorded  in  the  OASys  assessment.   The  Appellant's  partner's
+    evidence was that there had been no  further  involvement  with  social
+    services, the last involvement being about three years ago; but this is
+    directly contrary to the record of a child protection conference taking
+    place in February 2018 and a specific  plan  for  reassessment  of  the
+    situation prior to the Appellant's release.  I am  not  satisfied  that
+    there is no ongoing social services involvement  or  at  least  planned
+    assessment in the future, the  latest  evidence  available  before  the
+    Tribunal is that the Appellant's daughter is still classed as  a  Child
+    in Need and further assessment is expected.
+
+97. The Appellant and her partner both accept that there were incidents  of
+    domestic violence in the past and both claim to  have  undertaken  work
+    via specific courses and generally reflecting on their relationship  to
+    prevent this happening again in the future; about which there  is  some
+    evidence of counselling  at  least.   Neither  the  Appellant  nor  her
+    partner address in any detail in their evidence the  stabbing  incident
+    and there is no explanation as to why there were no criminal charges in
+    relation to this.  It is also of concern that  the  evidence  from  the
+    Appellant and her partner was that they did not now how  the  situation
+    reached this point and the Appellant  did  not  even  realise  she  had
+    stabbed her  partner  whilst  he  was  holding  their  young  daughter.
+    Without identification of what actually happened or how, even  now,  it
+    is difficult to find that even with some work and time  for  reflection
+    the risk of a future similar incident has  been  significantly  reduced
+    and that appears to be the view  of  Childrens  Services  that  further
+    assessment will be required before release from custody.
+
+98. The social work report refers to past  domestic  violence,  but  in  no
+    detail and with no assessment of future risk of  this  happening  again
+    and simply concludes, without  reasons,  that  the  Appellant  and  her
+    partner are sincere when they say it won't happen again.  I attach very
+    little weight to this conclusion in the absence of any analysis of  the
+    history of events, cause,  work  undertaken  to  address  them  or  any
+    detailed assessment of future risk based on the same; and in  light  of
+    the  adverse  credibility  findings  in  relation  to  the  Appellant's
+    evidence.
+
+99. Overall, I have no reason to depart from the OASys assessment that  the
+    Appellant poses a medium risk  of  serious  harm  to  her  partner  and
+    daughter and that the Appellant's daughter  remains  a  Child  in  Need
+    about whom there are  continuing  concerns  from  social  services  who
+    intend to reassess the situation prior to the Appellant's release  from
+    custody; and I attach significant weight to it.
+
+100. When assessing future risk, I have also taken into account paragraph  3
+    of Schedule 1 to the EEA Regulations as to the  significant  length  of
+    the  Appellant's  custodial  sentence  for  two  convictions  (and  the
+    associated criminal property sentence) and paragraph 5 as to  the  lack
+    of substantial evidence of not posing a threat.  I also note  that  the
+    Appellant's criminal offences are directly covered by  paragraph  6  of
+    Schedule 1 given that they are  for  conspiracy  in  relation  to  sham
+    marriages to facilitate unlawful entry to and residence in  the  United
+    Kingdom, which as in the sentencing remarks, which are  of  significant
+    and particular concern.
+
+101. For all these reasons, on both accounts,  I  find  that  the  Appellant
+    does pose a genuine, present and sufficiently serious threat  affecting
+    one of the fundamental interests of  society  in  the  United  Kingdom,
+    specifically those set out in paragraph 7(a), (c), (e), (f), (g),   and
+    (i) of Schedule 1 to the EEA Regulations.
+
+Proportionality
+
+102. The final issue to consider under the EEA Regulations  is  whether  the
+    Appellant's deportation would be  proportionate  bearing  in  mind  the
+    specific factors set out above in Regulation 23 and Schedule 1  of  the
+    EEA Regulations.  I find it is having considered the following  matters
+    and for the following reasons.
+
+103. There is no dispute that the Appellant is in a genuine  and  subsisting
+    relationship with her partner and their daughter, now aged  five;  both
+    of whom are British citizens  and  who  have  their  own  wider  family
+    members in the United Kingdom.  The Appellant's partner  has  continued
+    to support the  Appellant  through  her  criminal  proceedings,  during
+    custody and throughout these deportation proceedings.  The social  work
+    report also endorses the relationship between the  family  members  and
+    the regular contact with the Appellant in custody  (albeit  subject  to
+    recent restrictions caused by Covid-19).
+
+104. Despite the risks posed to the Appellant's daughter  by  the  Appellant
+    set out above, I accept the evidence of the Appellant's partner  as  to
+    the relationship and adverse impact on his daughter of the  Appellant's
+    imprisonment and the evidence in the social work report to  the  effect
+    that the  Appellant's  daughter  will  be  adversely  affected  if  the
+    Appellant were to be deported and she were  to  remain  in  the  United
+    Kingdom with her father; which even in light of the  domestic  violence
+    issues and risk is in accordance with the evidence and general position
+    that children are adversely affected by the deportation  of  a  parent.
+    It is suggested that in addition to the  harm  already  caused  by  the
+    imprisonment of her mother, the Appellant's daughter  would  experience
+    even more significant emotional distress and  a  significant  sense  of
+    loss if the Appellant were deported.  The author refers to the  adverse
+    of impact from imprisonment being mitigated by support from  her  wider
+    family in the United Kingdom, but no comment is made as to whether this
+    would mitigate the impact of deportation in any way.
+
+105. The social work report goes on  to  state  that  deportation  would  be
+    unduly harsh whether or not the Appellant's partner and  daughter  stay
+    in the United Kingdom or relocate to Poland which unnecessarily  strays
+    into the legal language of section 117C of the Nationality, Immigration
+    and Asylum Act 2002 and is  therefore  of  little  assistance  in  this
+    appeal, which is focused on the EEA Regulations and in the  absence  of
+    the correct test being referred to for unduly harsh in any event.
+
+106. Further, I do  not  accept  or  give  any  significant  weight  to  the
+    conclusions in the social work report as to  the  likely  situation  in
+    Poland if the family relocated given that  the  social  worker  has  no
+    particular experience or expertise in country conditions in Poland  and
+    cites no sources or reasons for his  conclusions  that  go  so  far  as
+    saying the family would face destitution there.   There  is  simply  no
+    basis for this, even if it came from the interview with  the  Appellant
+    and her partner and there is no evidence before the Tribunal to support
+    such a conclusion.
+
+107. It is usually the case that it is accepted to be in the best  interests
+    of a child to remain with both parents in the same country;  albeit  in
+    this case the position is more complicated because of the risk  to  the
+    Appellant's child posed by her own mother and detriment already  caused
+    to her by past domestic violence and  imprisonment.   The  social  work
+    report offers little assistance by way of expert  evidence  to  balance
+    this given that it lacks  any  analysis  of  risk  to  the  Appellant's
+    daughter or of the issue of domestic violence.   However,  on  balance,
+    based on all the evidence in the round I accept in this case that it is
+    in the Appellant's  daughter's  best  interests  to  remain  with  both
+    parents (albeit acknowledged that this  is  a  matter  which  Childrens
+    Services are to assess  further)  and  in  all  the  circumstances,  on
+    balance in her best interests to remain with them in the United Kingdom
+    given her British citizenship and wider family relationships here.  The
+    Appellant's daughter is however in good health, not at a critical stage
+    of education and relatively young such that  there  are  no  particular
+    reasons why she could not adjust and integrate with the support of  her
+    mother, or parents together in Poland.  It would be a matter of  choice
+    for the family if the Appellant were to be deported as to whether  they
+    accompany her to Poland or not.
+
+108. The Appellant is a 40 year old female who is in  good  health  and  who
+    claims to have lived in the United Kingdom since 2004; having spent the
+    first 24 years of her life in  Poland.   The  Appellant  speaks  Polish
+    which although she says is not as fluent as previously, it  is  notable
+    that she worked for many years (even if irregularly)  as  a  translator
+    and I find that she remains fluent as well as being fluent in  English.
+    The  Appellant  has  education  and  qualifications  as  well  as  work
+    experience which would enable her to obtain employment and there  is  a
+    lack of any evidence at all as to the current job market in Poland; nor
+    in relation to access to accommodation, services or support there.   On
+    the evidence before me, there is nothing to suggest that the  Appellant
+    would  not  be  able  to  re-establish  herself  in  Poland,  obtaining
+    appropriate accommodation and employment and be  able  to  reintegrate.
+    As such, there is also nothing to suggest that she would not  similarly
+    be able to support her family in Poland, or support them  and  keep  in
+    contact with them (via modern means of communication as well as visits)
+    in the United Kingdom from there.
+
+109. I accept that it would be likely be difficult and  disruptive  for  the
+    Appellant's partner and daughter to relocate to Poland with  her;  with
+    some language difficulties and adjustment required; but, similar to the
+    Appellant, there is nothing in the evidence to suggest any  immigration
+    difficulties with relocation, or  any  difficulty  for  the  family  in
+    obtaining accommodation, employment, education  or  other  services  in
+    Poland.
+
+110. The Appellant  has  undertaken  some  work  towards  rehabilitation  in
+    prison in the United Kingdom and there is nothing to suggest  that  the
+    Appellant could not pursue any further rehabilitation work in Poland.
+
+111. The Appellant's mother is in the United Kingdom and I accept  that  she
+    has no contact with any other family  in  Poland.   At  least  to  some
+    extent the Appellant is  socially  and  culturally  integrated  in  the
+    United Kingdom given her length of residence and employment  here,  but
+    against that must be balanced her criminal offending over a significant
+    period of time between 2009 and 2016 and that she has  been  in  prison
+    since November 2017 which undermines her level of integration here.
+
+112.  In  all  of  the  circumstances,  I  find  that  the  Respondent   has
+    established that there are grounds of public  policy  and  security  to
+    justify the Appellant's deportation from the United Kingdom; which is a
+    proportionate decision  having  taken  into  account  the  genuine  and
+    present risk she poses to the fundamental interests of society  and  to
+    her own family; even taking into account her length  of  residence  and
+    family in the United Kingdom,  including  the  best  interests  of  her
+    daughter.  I dismiss the appeal under the EEA Regulations.
+
+Article 8 of the European Convention on Human Rights
+
+113. The Appellant relies in the alternative  on  her  deportation  being  a
+    breach of Article  8  of  the  European  Convention  on  Human  Rights,
+    although no detailed submissions were made on  this,  by  reference  to
+    section 117C of the Nationality, Immigration and  Asylum  Act  2002  or
+    otherwise in light of the acceptance that  the  EEA  Regulations  offer
+    greater protection and therefore if the Appellant fails on that  basis,
+    she is not likely to succeed on human rights grounds.
+
+114. The Appellant's length of sentence is such that it  would  only  be  if
+    there are very compelling circumstances over and above  the  exceptions
+    to deportation in section 117C  of  the  Nationality,  Immigration  and
+    Asylum  Act  2002  that  the  very  significant  public   interest   in
+    deportation could be outweighed.  No further circumstances  or  matters
+    have been identified in addition to those  matters  already  identified
+    above in the context of the EEA Regulations and I find that  there  are
+    none.  As accepted on behalf of the Appellant, having not succeeded  in
+    successfully challenging her deportation under the EEA Regulations, for
+    essentially  the  same  reasons,  her  deportation  would  not   be   a
+    disproportionate interference with her right to respect for private and
+    family life.
+
+Notice of Decision
+
+For the reasons given in the decision of UTJ Allen dated  7  February  2020,
+the making of the decision  of  the  First-tier  Tribunal  did  involve  the
+making of a material error of law.  As such it was necessary  to  set  aside
+the decision.
+
+The decision of  the  First-tier  Tribunal  is  set  aside  and  re-made  as
+follows:
+
+The appeal is dismissed  under  the  Immigration  (European  Economic  Area)
+Regulations 2006.
+
+The appeal is dismissed on human rights grounds.
+
+No anonymity direction is made.
+
+
+
+Signed   G Jackson                           Date         3rd December 2020
+
+Upper Tribunal Judge Jackson
+

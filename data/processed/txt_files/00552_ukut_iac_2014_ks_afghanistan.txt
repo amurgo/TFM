@@ -1,0 +1,1968 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+              KS (benefit of the doubt) [2014] UKUT 00552 (IAC)
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                          |Determination Promulgated    |
+|On 2 December 2013,  15 May 2014              |                             |
+|                                              |.............................|
+|                                              |..........                   |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE STOREY
+                         UPPER TRIBUNAL JUDGE COKER
+                        UPPER TRIBUNAL JUDGE O'CONNOR
+
+                                   Between
+
+                                     kS
+                           (ANONYMITY ORDER MADE)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr D Bazini, Counsel instructed by Lawrence & Co
+Solicitors
+For the Respondent:    Ms A Everett, Home Office Presenting Officer
+
+
+(1)  In assessing the credibility of an asylum claim,  the  benefit  of  the
+doubt ("TBOD"), as discussed in paragraphs 203 and 204  of  the  1979  UNHCR
+Handbook on Procedures and Criteria for Determining Refugee Status,  is  not
+to be regarded as a rule of law. It is a  general  guideline,  expressed  in
+the Handbook in defeasible and contingent terms.
+
+(2)  Although the Handbook confines TBOD to the end point of  a  credibility
+assessment ("After the applicant has made a genuine effort  to  substantiate
+his story": paragraph 203), TBOD is not, in fact, so limited. Its  potential
+to be used at earlier stages is not, however, to be understood as  requiring
+TBOD to be given to each and every item of evidence, in isolation.  What  is
+involved is simply no more than an  acceptance  that  in  respect  of  every
+asserted fact when there is  doubt,  the  lower  standard  entails  that  it
+should not be rejected and should rather continue to be kept in  mind  as  a
+possibility at least until the end when the question of  risk  is  posed  in
+relation to the evidence in the round.
+
+(3)  Correctly viewed, therefore, TBOD adds  nothing  of  substance  to  the
+lower standard of proof, which as  construed  by  the  Court  of  Appeal  in
+Karanakaran v Secretary of State for the Home Department  [2000]  3  All  ER
+449, affords a "positive role for uncertainty".
+
+(4) The proposition in paragraph 219 of the Handbook,  that  when  assessing
+the evidence of minors there may need to be a "liberal  application  of  the
+benefit of the doubt" is also not to be  regarded  as  a  rule  of  law  or,
+indeed, a statement of universal application. As a reminder about  what  the
+examiner should  bear  in  mind  at  the  end  point  of  an  assessment  of
+credibility,  the  proposition  adds  nothing  of  substance  to  the  lower
+standard of  proof.  If,  for  example,  an  applicant  possesses  the  same
+maturity as an adult, it may not be  appropriate  to  resort  to  a  liberal
+application of TBOD.
+
+(5)  Article 4(5) of the Qualification Directive is confined to setting  out
+the conditions under which there  will  be  no  need  for  corroboration  or
+"confirmation" of evidence. Although  (unlike  the  Handbook)  Article  4(5)
+does set out conditions that are rules of law, properly read, it is  not  to
+be compared with the scope of TBOD as described above.
+
+                          DETERMINATION AND REASONS
+
+1. This appeal raises two issues:  the  general  issue  of  whether  in  the
+assessment of credibility  the  benefit  of  the  doubt  (hereafter  "TBOD")
+should be a guiding principle; and the more  specific  issue  of  whether  a
+tribunal judge errs in law if he fails when assessing the credibility  of  a
+minor to give to that  person's  evidence  a  "liberal  application  of  the
+benefit of the doubt".
+
+2. TBOD is a commonly invoked rule in asylum law.[1]   Its  locus  classicus
+is to be found in paragraphs 203-204 of the 1979 UNHCR Handbook, wherein  it
+is seen as a rule that it is "frequently necessary" to apply when  assessing
+the credibility of an asylum claim.  It  is  referred  to  in  some  of  the
+literature (and was referred to by us in case management  directions)  as  a
+"principle" but  for  reasons  which  will  become  apparent  we  think,  on
+reflection, that to call it a "principle" or even a "rule" risks  confusion;
+we prefer, depending on the context, to refer to  it  by  the  more  neutral
+term "notion". Paragraphs 203-204 provide:
+
+    "203. After the applicant has made a genuine effort to substantiate his
+    story there may still be a lack of evidence for some of his statements.
+     As explained above (paragraph 196) it is hardly possible for a refugee
+    to 'prove' every  part  of  his  case  and,  indeed,  if  this  were  a
+    requirement the majority of refugees would not be  recognised.   It  is
+    therefore frequently necessary to give the applicant the benefit of the
+    doubt.
+
+
+    204. The benefit of the doubt should, however, only be given  when  all
+    available evidence has been obtained and checked and when the  examiner
+    is  satisfied  as  to  the  applicant's   general   credibility.    The
+    applicant's statements must be coherent and plausible, and must not run
+    counter to generally known facts."
+
+
+3. The notion is also seen by the Handbook as  one  that  needs  a  "liberal
+application" when  assessing  the  credibility  of  asylum  claims  made  by
+minors. Paragraphs 213-219 state:
+
+    "213.There is no special provision in the 1951 Convention  relating  to
+    the refugee status of persons under age.   The  same  definition  of  a
+    refugee applies to all individuals, regardless of their age.   When  it
+    is necessary to determine the refugee status  of  minor,  problems  may
+    arise due to the difficulty of applying the criteria  of  'well-founded
+    fear' in his case.  If a minor is accompanied by one (or both)  of  his
+    parents, or another family member on whom he is dependent, who requests
+    refugee status, the minor's  own  refugee  status  will  be  determined
+    according to the principle of  family  unity  (paragraphs  181  to  188
+    above).
+
+
+    214. The question of whether an unaccompanied  minor  may  qualify  for
+    refugee status must be determined in the first  instance  according  to
+    the degree of his mental development and  maturity.   In  the  case  of
+    children, it will generally be  necessary  to  enrol  the  services  of
+    experts conversant with child  mentality.   A  child  -  and  for  that
+    matter, an adolescent  -  not  being  legally  independent  should,  if
+    appropriate, have a guardian  appointed  whose  task  it  would  be  to
+    promote a decision that will be in the minor's best interests.  In  the
+    absence of parents or of a legally appointed guardian, it  is  for  the
+    authorities to ensure that the interests of an  applicant  for  refugee
+    status who is a minor are fully safeguarded.
+
+
+    215. Where a minor is no longer a child but an adolescent, it  will  be
+    easier to determine refugee status as in the case of an adult, although
+    this again will depend upon  the  actual  degree  of  the  adolescent's
+    maturity.  It can be assumed that - in the absence  of  indications  to
+    the contrary - a person of 16 or over may be regarded  as  sufficiently
+    mature to have a well-founded fear of  persecution.   Minors  under  16
+    years of age may normally be assumed not  to  be  sufficiently  mature.
+    They may have fear and a will of their own, but these may not have  the
+    same significance as in the case of an adult.
+
+
+    216.It should,  however,  be  stressed  that  these  are  only  general
+    guidelines  and  that  a  minor's  mental  maturity  must  normally  be
+    determined  in  the  light  of  his  personal,  family   and   cultural
+    background.
+
+
+    217. Where the minor has not reached a sufficient degree of maturity to
+    make it possible to establish well-founded fear in the same way as  for
+    an adult, it may  be  necessary  to  have  greater  regard  to  certain
+    objective factors.  Thus, if an unaccompanied minor  finds  himself  in
+    the company of a group  of  refugees,  this  may  -  depending  on  the
+    circumstances, indicate that the minor is also a refugee.
+
+
+    218. The  circumstances  of  the  parents  and  other  family  members,
+    including their situation in the minor's country of origin,  will  have
+    to be taken into account.  If there  is  reason  to  believe  that  the
+    parents wish their child to be outside the country of origin on grounds
+    of well-founded fear of persecution, the child himself may be  presumed
+    to have such fear.
+
+
+    219. If the will of the parents cannot be ascertained or if  such  will
+    is in doubt or in conflict  with  the  will  of  the  child,  then  the
+    examiner, in cooperation with the experts assisting him, will  have  to
+    come to a decision as to the well-foundedness of the  minor's  fear  on
+    the basis of the known circumstances, which  may  call  for  a  liberal
+    application of the benefit of the doubt."
+
+
+4. What is said about minors in these paragraphs has  been  supplemented  by
+the UNHCR Refugee Children Guidelines on Protection and Care, 1994 which  at
+page 101 state that:
+
+
+    "(e)  The  problem  of  'proof'  is  great  in  every  refugee   status
+         determination.  It is compounded in the case of children.  For this
+         reason, the decision on  a  child's  refugee  status  calls  for  a
+         liberal application of the principle of the benefit of  the  doubt.
+         This means that should  there  be  some  hesitation  regarding  the
+         credibility of the child's story, the burden is not on the child to
+         provide proof, but the child should be given  the  benefit  of  the
+         doubt."
+
+
+5. They have been further supplemented in 2009 by the  UNHCR  Guidelines  on
+International Protection No. 8: Child Asylum  Claims  under  Articles  1A(2)
+and 1(F) of the 2951 Convention and/or 1967 Protocol relating to the  Status
+of Refugees, which provide that:
+
+
+    "[65]    Due to their young age, dependency  and  relative  immaturity,
+         children  should  enjoy  specific   procedural   and   evidentiary
+         safeguards  to  ensure  that  fair  refugee  status  determination
+         decisions are reached with respect to their claims.   The  general
+         measures  outlined  below  set  out  minimum  standards  for   the
+         treatment of children during the asylum procedure.   They  do  not
+         preclude the application of the detailed  guidance  provided,  for
+         example, in the Action for the Rights of Children Resources  Pack,
+         the Inter-Agency Guiding Principles on Unaccompanied and Separated
+         Children and in national guidelines.
+
+    [68] For unaccompanied and separated child applicants, efforts need  to
+         be made as  soon  as  possible  to  initiate  tracing  and  family
+         reunification with parents or other family members.  There will be
+         exceptions, however, to these priorities where information becomes
+         available suggesting that tracing or reunification could  put  the
+         parents or other family members in danger, that the child has been
+         subjected to abuse or neglect,  and/or  where  parents  or  family
+         members  may  be  implicated  or  have  been  involved  in   their
+         persecution.
+
+
+    [73] Although the  burden  of  proof  usually  is  shared  between  the
+         examiner and the applicant in adult claims, it  may  be  necessary
+         for an examiner to assume a greater burden of proof in  children's
+         claims, especially if the child concerned  is  unaccompanied.   If
+         the facts of the case cannot be ascertained and/or  the  child  is
+         incapable of fully articulating his/her claim, the examiner  needs
+         to make a decision on the basis of all known circumstances,  which
+         may call for a liberal application of the benefit  of  the  doubt.
+         Similarly, the child should be given  the  benefit  of  the  doubt
+         should there be some concern regarding the credibility of parts of
+         his/her claim."
+
+
+6. Given the widespread approval by courts and tribunals  worldwide  of  the
+1979 Handbook as a source of  guidance  on  asylum  law  issues,  one  would
+expect to find  plentiful  use  by  them  of  TBOD  notion  as  set  out  in
+paragraphs 203-204 and 213-219. There  are  some  high-profile  cases  where
+reliance is placed on it: see e.g. in Canada, in  Chan  v  Canada  (Minister
+of Employment and Immigration [1995] 3 S.C.R. 593; in the US, in  Matter  of
+S-M-J, 21 I & N. Dec 722, 725 (B.I.A. 1997); in the  Czech  Republic  in  SN
+(Belarus) Ministry of Interior, (2005) 6 Azs  235/2004-57  Cz.Sup.Admin.Ct.,
+Dec 21, 2005. (We shall deal with the  position  in  the  UK  below  but  it
+suffices to say here that  there  have  not  been  any  high  profile  cases
+directly engaging with the notion).
+
+7.  Although  concerned  not  with  the  Refugee  Convention  but  with  the
+prohibition of ill-treatment in its non-refoulement context to be  found  in
+the ECHR, the European Court of Human Rights has invoked the notion in  many
+cases.  Thus in R.C. v Sweden, App. No. 41827/07, 9 March  2010,  the  Court
+stated at [50]:
+
+     "The Court acknowledges that, owing to the special situation in which
+    asylum seekers often find themselves, it  is  frequently  necessary  to
+    give them the benefit of the doubt  when  it  comes  to  assessing  the
+    credibility of their statements and the documents submitted in  support
+    thereof. However, when information  is  presented  which  gives  strong
+    reasons to question the veracity of an asylum seeker's submissions, the
+    individual must provide a  satisfactory  explanation  for  the  alleged
+    discrepancies (see, among other authorities, Collins and  Akasiebie  v.
+    Sweden  (dec.),  no. 23944/05,  8 March 2007,  and  Matsiukhina  and
+    Matsiukhin v. Sweden (dec.), no. 31260/04, 21 June 2005). In principle,
+    the applicant has to adduce evidence capable of proving that there  are
+    substantial grounds for believing that, if the  measure  complained  of
+    were to be implemented, he would be exposed to a  real  risk  of  being
+    subjected to treatment contrary  to  Article  3  (see  N.  v.  Finland,
+    no. 38885/02, � 167, 26 July 2005 and NA. v. the United Kingdom,  no.
+    25904/07, � 111, 17 July 2008). Where such evidence is adduced,  it  is
+    for the Government to dispel any doubts about it." (see also SHH  v  UK
+    [2013] 57 EHRR 18."
+
+8. In I v Sweden  App.  no.  61204/09  at  [60]  the  Court  drew  upon  its
+reasoning in R.C. v Sweden as follows:
+
+    "The Government have questioned the applicants' credibility and pointed
+    to various inconsistencies in their stories. The Court accepts that, as
+    a general principle, the national authorities are best placed to assess
+    not just the facts but, more particularly, the credibility of witnesses
+    since it is they who have had an opportunity to see,  hear  and  assess
+    the demeanour of the individuals concerned (see  R.C.  v.  Sweden,  no.
+    41827/07, � 52, 9 March 2010). But at the  same  time  it  acknowledges
+    that owing to the special situation in which asylum seekers often  find
+    themselves, it is frequently necessary to give them the benefit of  the
+    doubt when it comes to assessing the credibility  of  their  statements
+    and  the  documents  submitted  in  support  thereof.   However,   when
+    information is presented which gives strong  reasons  to  question  the
+    veracity of an asylum seeker's submissions, the individual must provide
+    a satisfactory explanation for the alleged  discrepancies  (see,  among
+    other authorities, N. v. Sweden, no. 23505/09, � 53, 20 July 2010 )."
+
+9. Yet at least if academic studies are a guide,  cases  decided  under  the
+Refugee Convention utilising the notion  are  surprisingly  few  in  number.
+And, as epitomised by the Chan case, there  has  not  always  been  judicial
+consensus about its scope or precise utility. At [142] of Chan, Major J  for
+the majority stated that:
+
+              "My colleague, La Forest J. argues that no conclusions can  be
+      drawn from individual items of evidence and that  on  each  item  the
+      appellant should  be  given  the  benefit  of  the  doubt,  often  by
+      considering hypotheticals which could support the appellant's  claim.
+      This approach handicaps a refugee determination Board from performing
+      its task of drawing  reasonable  conclusions  on  the  basis  of  the
+      evidence which is presented.  This  approach  is  also  fundamentally
+      incompatible with the concept of "benefit of  the  doubt"  as  it  is
+      expounded in the UNHCR Handbook:
+
+                '204. The benefit of the doubt  should,  however,  only  be
+            given when all available evidence has been obtained and  checked
+            and when the examiner is satisfied as to the applicant's general
+            credibility.  The applicant's statements must  be  coherent  and
+            plausible, and must not run counter to  generally  known  facts.
+            [Emphasis added.]'".
+
+
+ 10. Earlier at [56] La Forest J had stated that:
+
+
+       "The appellant's account of  events  so  closely  mirrors  the  known
+      facts concerning the implementation of China's population policy that,
+      given the absence of any negative finding as to the credibility of the
+      appellant or of  his  evidence,  I  think  it  clear  that  his  quite
+      plausible account is entitled to the benefit of  any  doubt  that  may
+      exist.  With respect, I see no merit in the  approach  taken  by  some
+      members of the court below and by my colleague Major J. to seize  upon
+      sections of the appellant's testimony in isolation.   Indeed,  I  find
+      such a technique antithetical to the guidelines of the UNHCR  Handbook
+      (see paragraph 201)."
+
+11.  James Hathaway and Michelle Foster, The Law of Refugee  Status,  C.U.P.
+2014 construe the notion as an aspect of the lower standard of proof and  in
+that context question whether it adds anything of substance:
+
+    "While it is sometimes said  that  the  claimant  is  entitled  to  the
+    "benefit of the doubt" if there is an insufficiency of  evidence,  this
+    principle in substance adds little to the intentionally  low  threshold
+    of the test of well-founded fear.  That  is,  because  the  applicant's
+    responsibility is only to show that there is a  real  chance  of  being
+    persecuted, this standard already accounts for the possibility of "lack
+    of evidence for some of [the applicant's]  statements" [UNHCR Handbook.
+    para 203] said to justify the application of the "benefit of the doubt"
+    rule. Coupled with the shared duty of  fact-finding  and  the  ultimate
+    responsibility of the decision-maker to recognise refugee  status  when
+    warranted on the merits however the  claim  may  have  been  framed  or
+    argued] , it is doubtful that there is much that a super-added "benefit
+    of the doubt" principle could, or should, add."( pp.120-121).
+
+
+12. In the context of assessment of credibility, some academic studies  have
+highlighted the lack of consistency in state practice over the  relationship
+between TBOD and the burden and standard  of  proof:  see  e.g.  J  Sweeney,
+"Credibility, Proof and Refugee Law" (2009) 21 1JRL 700, 707.
+
+13. The research findings of UNHCR in  its  May  2013  CREDO  study,  Beyond
+Proof: Credibility Assessment in EU Asylum Systems,  in  the  context  of  a
+survey of several EU countries, were that:
+
+    "Some decision-makers may lack a clear understanding of the purpose and
+    relevance of the principle of the benefit of the doubt,  in  particular
+    with regard to:
+
+
+        . The asserted facts in relation to  which  the  principle  of  the
+          benefit of the doubt is considered;
+
+
+        . The point at which a consideration of the benefit of the doubt is
+          undertaken;
+
+        . The criteria and considerations taken into account in determining
+          whether to grant the benefit of the doubt." (pp.229-230).
+
+14. In seeking to improve understanding, UNHCR's conclusion  in  this  study
+(at pp.246-7) was that TBOD should only come into play at the end  point  of
+the credibility assessment, after the decision-maker has  sought  to  accept
+or reject what asserted facts he can:
+
+    "Following such assessment, there may nevertheless  be  an  element  of
+    doubt in the mind of the decision-maker about the credibility  of  some
+    asserted relevant facts.  It is in relation to such facts, and  at  the
+    end  of  the  credibility  assessment,   that   UNHCR   suggests   that
+    consideration must be given, in a separate step, to whether  to  afford
+    the benefit of the doubt."
+
+The EU Qualification Directive 2004/83/EC (QD)
+
+15. Within the EU matters have been further complicated  by  the  fact  that
+the EU Qualification Directive (QD), whilst not making reference to TBOD  as
+such, sets out in Article 4(5)  a  number  of  safeguards  relating  to  the
+assessment of evidence:
+
+    "5.  Where Member States apply the principle according to which  it  is
+         the duty of the  applicant  to  substantiate  the  application  for
+         international protection  and  where  aspects  of  the  applicant's
+         statements are not supported  by  documentary  or  other  evidence,
+         those aspects shall  not  need  confirmation,  when  the  following
+         conditions are met:
+
+
+         (a)  the applicant has made a genuine effort  to  substantiate  his
+             application;
+
+
+         (b)  all relevant elements, at the applicant's disposal, have  been
+             submitted, and a satisfactory explanation regarding  any  lack
+             of other relevant elements has been given;
+
+
+         (c)  the applicant's  statements  are  found  to  be  coherent  and
+             plausible and do not run counter  to  available  specific  and
+             general information relevant to the applicant's case;
+
+
+         (d)  the applicant has applied for international protection at  the
+             earliest possible time, unless the applicant  can  demonstrate
+             good reason for not having done so; and
+
+
+         (e)   the  general  credibility   of   the   applicant   has   been
+             established."
+
+
+16. Opinion as to whether or to what extent the safeguards in  Article  4(5)
+embody the notion of TBOD is divided. UNHCR in its CREDO study  states  that
+it "encourages Member States to interpret Article 4(5) QD as  a  whole,  and
+provisions (d) and (e) in particular in accordance with  the  principles  of
+the UNHCR Handbook".  The  UKBA,  Asylum  Policy  Instructions,  Considering
+Asylum Claims  and  Assessing  Credibility,  February  2012  (hereafter  the
+APIs), state at paragraph 4.3.4 that what Article 4(5) is  saying  is  "that
+if an applicant meets all five criteria, a decision-maker  should  give  the
+benefit of the doubt - there would, after all, be no reason not to...".
+
+17. On the other hand, the IARLJ CREDO study, "Assessment of Credibility  in
+Refugee  and  Subsidiary  Protection  Claims  under  the  EU   Qualification
+Directive: Judicial criteria and  standards",  in  C.Grutters,  E.Guild  and
+S.de Groot (eds) Assessment of Credibility by Judges in Asylum Cases in  the
+EU, observes at p.48 that the optional terms of Article 4(5)  have  resulted
+in a co-existence of two approaches to assessment of credibility, one  under
+Article 4(5) and one relying on the UNHCR principles of  "shared  duty"  and
+"benefit of the doubt":
+
+    "In Member States which consider that it is the duty of  the  claimants
+    to submit all elements needed to substantiate  their  applications  (as
+    expressed in Article 4.1 (first sentence), and 4.5 QD), judges who have
+    residual doubts as to credibility (arising where claimant's  statements
+    are not supported by documentary or other evidence), must resolve  such
+    doubt by applying, at a minimum, Article 4.1 (  second  sentence),  the
+    provisions of Article 4.2 -4.4, and in particular 4.5 (a)-(e).
+    However, in other Member States where the  UNHCR  Handbook  [195]-[205]
+    "shared duty" and "benefit of the doubt" principles (or principles of a
+    like nature) are adopted domestically, judges, noting also the terms of
+    Article 3 QD, should apply these principles (in  lieu  of  Article  4.1
+    (first sentence), and 4.5 QD).[2]"
+
+18. At p.50 the IARLJ study notes that "In Germany and Austria for  example,
+the "benefit of the doubt" principle is a concept in criminal law only,  but
+unfamiliar in  refugee  and  subsidiary  protection  law.  They  follow  the
+approach of Article 4.1  and  4.5  QD."  In  order  to  straddle  these  two
+approaches this IARLJ study prefers use of the concept of "residual  doubt".
+
+
+The UK
+
+19. The notion of TBOD has featured very little in UK case law dealing  with
+international protection issues. The 1979 UNHCR Handbook articulation of  it
+was approved in Jatikay (12658) 15 November 1995 (IAT) but there  have  been
+no AIT or UTIAC cases that have engaged with  it  in  any  significant  way.
+There have been a number of Court of Appeal cases referring  to  the  notion
+of a liberal application of TBOD,  but  these  essentially  cite  the  UNHCR
+formulation  of  this  notion,  e.g.  as  found   in   the   Guidelines   on
+International Protection, 22 December 2009  without  specific  comment:  see
+below para 26. The only Court of Appeal case which touches  squarely  on  it
+is MD (Guinea) v Secretary of State for the Home Department [2009] EWCA  Civ
+733; we shall return to what it has to say below at paragraph 61.
+
+20.  Despite figuring little in UK case law,  TBOD  notion  is  given  great
+prominence in the aforementioned APIs, which also  see  it  as  an  integral
+part of paragraph 339L of the Immigration Rules.  Paragraph  339L  specifies
+that:
+
+
+
+    "It is the duty of the person  to  substantiate  the  asylum  claim  or
+    establish that he is a person eligible for humanitarian  protection  or
+    substantiate his human rights claim. Where aspects of  the  applicant's
+    statements are not supported by documentary or  other  evidence,  those
+    aspects will not need confirmation when all of the following conditions
+    are met:
+    (i) the person has made a genuine effort  to  substantiate  his  asylum
+    claim...;
+    (ii) all material factors at the person's disposal have been submitted,
+    and a satisfactory explanation regarding any lack of material has  been
+    given;
+    (iii) the person's statements are found to be  coherent  and  plausible
+    and do not run counter to available specific  and  general  information
+    relevant to the person's case;
+    (iv) the person has made an asylum claim... at  the  earliest  possible
+    time, unless the person can demonstrate good reason for not having done
+    so; and
+    (v) the general credibility of the person has been established ."
+
+
+21. By way of an attempted gloss on paragraph 339L, paragraph 4.3.4. of  the
+APIs states:
+
+    "4.3.4 Benefit of the doubt and general credibility
+    Facts which are internally credible but lack any external  evidence  to
+    confirm them are deemed  to  be  "unsubstantiated"  or  "uncertain"  or
+    "doubtful". However, a decision  must  be  made  whether  to  give  the
+    applicant the benefit of the doubt on each uncertain or unsubstantiated
+    fact - this means that the decision maker must come to a clear  finding
+    as to whether  the  fact  can  be  accepted  or  rejected.  It  is  not
+    acceptable to come to a final conclusion that  a  claimed  fact  (about
+    which you are uncertain), "may have happened". The benefit of the doubt
+    needs to be considered and applied  appropriately  to  these  uncertain
+    facts when considering all the evidence in the round at the end of  the
+    credibility assessment. This means that the benefit of  the  doubt  can
+    only be considered after a finding on the material facts that are to be
+    accepted or rejected has been made.
+
+
+    ...
+    However,  it  is  important  to  understand  paragraph  339L  and   its
+    limitations. What it is saying is that if  an  applicant  meets  all  5
+    criteria, a decision maker should give the benefit of the doubt - there
+    would, after all be no reason not to do so. However, the reverse is not
+    automatically true. Because an applicant fails to meet one or  more  of
+    the criteria, this in itself  does  not  permit  a  decision  maker  to
+    disregard all unsubstantiated areas of an applicant's claim because  an
+    unsubstantiated statement can be credible if it is generally internally
+    consistent, compatible with known facts  and  plausible.  It  is,  once
+    again, a matter of determining the weight to be given to  these  issues
+    in the light of the material facts of the case.
+
+
+    ...
+
+
+    Decision makers must ensure that wherever possible,  the  applicant  is
+    given the opportunity to provide a  reasonable  explanation  where  and
+    when required under the provisions of 339L. If the  applicant  has  met
+    all 5 of the criteria set out in  Paragraph  339L  of  the  Immigration
+    Rules, the benefit of the doubt should be given to any  unsubstantiated
+    facts. If the applicant has not met all the criteria,  decision  makers
+    nevertheless must consider whether giving the benefit of the  doubt  to
+    any uncertain facts is justified. ...
+
+
+    Any decision not to apply the  benefit  of  the  doubt  to  a  material
+    claimed fact that is otherwise internally credible  must  be  based  on
+    reasonably drawn, objectively justifiable, inferences. "
+
+
+22. The APIs also consider that in relation to children there  should  be  a
+liberal application of  the  notion.   The  respondent's  associated  Asylum
+Policy Guidance (APG) contains the following principles  to  be  applied  in
+the determination of a claim to asylum by a child:
+
+    "(1) more weight must be given to objective indications of risk than to
+         the child's state of mind;
+
+
+    (2)  other factors to consider  might  include:  documentary  evidence,
+         objective country evidence;
+
+
+    (3)  a case owner must not draw  an  adverse  credibility  interference
+         from omissions in the child's knowledge if it is likely that  their
+         age or maturity is a factor  or  if  there  are  logical  or  other
+         reasons for those omissions;
+
+
+    (4)  the benefit of the doubt will need to be applied  more  generously
+         when dealing with a child particularly where a child is  unable  to
+         provide detail on a particular element of their claim."
+
+
+23. It has been confirmed to us by the respondent  that  the  terms  of  the
+Secretary of State's asylum policy guidance  as  expressed  in  [40]  of  AA
+(unattached  children)  Afghanistan  CG  [2012]  UKUT  16  (IAC)  are  still
+current.
+
+24. It is to be borne in mind that in relation to minors, there  is  also  a
+specific immigration Rule that appears  to  reflect  some  aspects  of  BODT
+notion.  Paragraph 351 of the Immigration Rules provides that:
+
+    "A person  of  any  age  may  qualify  for  refugee  status  under  the
+    Convention and the criteria in paragraph 334  [dealing  with  Grant  of
+    Asylum] applied to all cases.  However, account should be taken of  the
+    applicant's maturity and in assessing the claim of a child more  weight
+    should be given to objective indications of risk than  to  the  child's
+    state  of  mind  and  understanding  of  his  situation.    An   asylum
+    application made on behalf of the child  should  not  be  refused  only
+    because the child is too young to  understand  the  situation  or  have
+    formed a well-founded fear of persecution.  Close attention  should  be
+    given to the welfare of the child at all times."
+
+
+25. It is only right to observe that despite TBOD notion as  such  featuring
+very little in UK case law, the notion of a liberal application of TBOD  was
+endorsed by the (former) Asylum and Immigration  Tribunal  in  the  Guidance
+Note No 8 for adjudicators and immigration judges  as  to  how  they  should
+deal with appeals by unaccompanied children under  the  age  of  18  seeking
+asylum. Paragraph 5 gave the following advice in relation to the  assessment
+of evidence:
+
+    "5.1 In assessing the evidence of a child, it  should  not  be  assumed
+    that the child does not have a well-founded fear of persecution, merely
+    because they do not have sufficient maturity to  have  formed  a  well-
+    founded fear. (UNHCR Handbook on  Procedures  for  Determining  Refugee
+    Status, Geneva, 1992, paragraphs 213-219).
+    5.2 It should be borne in mind that the younger a child  is,  the  less
+    likely they are to have full information about the reasons for  leaving
+    their country of origin, or the arrangements made for their travel.
+    5.3 Depending on the maturity of a child  and  the  appropriate  weight
+    which can be attached to their evidence, the  emphasis  might  be  upon
+    documentary and expert evidence,  rather  than  the  oral  evidence  or
+    statement of the child.
+    5.4 The assessment of the well-roundedness of  the  child's  fear  'may
+    call for a liberal application of the  benefit  of  the  doubt'  (UNHCR
+    Handbook, paragraph 219, Jatikay (12658) 15 November 1995 (IAT))."
+26. This was cited without  comment  by  Dyson  LJ  in  ZJ  (Afghanistan)  v
+Secretary of State for the Home Department [2008] EWCA Civ 799 at [16];  see
+also HK (Afghanistan) [2012] EWCA Civ 315, at [34] and  DS  (Afghanistan)  v
+Secretary of State for the Home Department [2011] EWCA Civ 305 at [14].
+
+
+The Appeal
+
+27. The appellant is a national of  Afghanistan.   He  arrived  in  the  UK,
+hidden in a lorry, on 18 June 2008 and had claimed asylum on  19  June  2008
+at which time he claimed to be  aged  14.  By  a  determination  sent  on  8
+January  2013  First-tier  Tribunal  (FtT)  Judge  Knowles   dismissed   the
+appellant's appeal against the decision of the respondent on 6 May  2011  to
+remove  him  from  the  United  Kingdom  after  refusing  him  international
+protection or other relief under the Immigration Rules or the ECHR.
+
+28. The basis of the appellant's claim  was  that  he  would  face  risk  on
+return to  Afghanistan  both  from  the  authorities  (who  would  view  him
+adversely because his father was a Hezb-i-Islami  commander  and  his  elder
+brother was  also active in that organisation)  and  from  the  Taliban  and
+Hezb-i-Islami also (who would seek to forcibly recruit him).  He  said  that
+the incident that made him leave his home area in the  District  of  Khogani
+in the Province of Nangarhar was a bomb explosion  in  2008  which  targeted
+the Americans and also injured  the  district  governor.   His  family  home
+having been searched on at  least  two  occasions  in  2007,  the  appellant
+feared  that  following  this  explosion  his  family  would  be  considered
+suspects.  The appellant said  that  before  he  left  his  home  area,  the
+Taliban had approached him in  what  he  believed  was  a  prelude  to  them
+forcing him to join them.
+
+29. The appellant's screening interview took place  on  19  June  2008;  his
+asylum interview took place on 10 February 2011. In support  of  his  asylum
+claim, the appellant did not provide his own national identity card  but  he
+produced what  he  claimed  was  his  father's  identity  card  and  also  a
+photograph said to show his father with Gulbuddin Hakmatyr,  the  leader  of
+Hezbi-i-Islami.  He also said that since his arrival in the UK he  had  been
+in contact by phone with his mother twice.
+
+30. In her refusal letter the  respondent  stated  that  the  appellant  had
+failed  to  give  a  credible  account  either  of  his  age  or  events  in
+Afghanistan.  The respondent considered the identity  card  and  photographs
+unreliable.
+
+31. The FtT  judge  who  dealt  with  the  appellant's  appeal  against  the
+respondent's decision, heard evidence  from  GS  and  submissions  from  the
+representatives (Mr Bazini was also the  appellant's  representative  then).
+As well as a witness statement from a GS there was also one from a  RS.  The
+judge also had an  expert  report  from  Dr  Giustozzi;  a  Croydon  Council
+assessment report  of  3  July  2008  stating  that  two  workers  from  the
+Unaccompanied Minors'  Service  has  found  that  the  appellant  was  "very
+obviously" over 18; and a report  from  Dr  Michie  drawn  up  following  an
+examination of the appellant on 10 November 2008, who  considered  him  then
+to be 16 years old.
+
+32. The judge decided in relation to  the  appellant's  age  to  prefer  the
+assessment of Dr Michie.  The judge went  on,  however,  to  find  that  the
+appellant  had  not  given  a  credible  account  of  his   experiences   in
+Afghanistan or of his fears about return to that country.  Prior to  setting
+out his main reasons  for  rejecting  the  appellant's  account,  the  judge
+addressed the question of whether he should apply and  follow  the  guidance
+contained in paragraphs 214-215 of the 1979 UNHCR Handbook which enjoin  (as
+we have seen) that, in the case of  a  minor,  there  should  be  a  liberal
+application of the TBOD.  The judge stated at [ 82]-[83]:
+
+
+    "82.  Given this finding, I have had regard to the  guidance  contained
+    in the UNHCR Handbook, Paragraph 214 of which states that the  question
+    whether an unaccompanied minor may qualify for refugee status  must  be
+    determined, in the first instance,  according  to  the  degree  of  his
+    mental development and maturity.  Paragraph 215 advises that, where the
+    minor is an adolescent, it will be easier to determine refugee  status,
+    as in the case of an adult, although this will depend upon  the  actual
+    degree of the adolescent's maturity.  In the absence of indications  to
+    the contrary, a person of 16 or over may be  regarded  as  sufficiently
+    mature to have a well-founded fear of persecution.
+
+
+    83.   I  have  approached  the  record  of  the  appellant's  screening
+    interview with particular caution  because  there  he  is  recorded  as
+    having asked 'who is Gulbuddin?' and as having stated that he  did  not
+    know why he would  be  arrested  if  returned  to  Afghanistan.   Those
+    responses are, in my view, so far out of kilter with the  rest  of  the
+    claim as to give rise to a possibility that,  as  an  adolescent  newly
+    arrived in the UK and having  to  deal  with  officials  in  a  strange
+    country unassisted, the appellant might have been  tired  and  confused
+    and not done himself justice.  Beyond that, however, I can find nothing
+    in the evidence before  me  to  suggest  that  the  appellant's  mental
+    maturity was such that he did not understand the questions he was being
+    asked during his interviews.  Indeed,  any  misunderstandings  are  put
+    down to errors of interpretation.  The appellant appears to  have  been
+    sufficiently independent and mature  to  have  undertaken  successfully
+    what must have been an arduous 5 month journey to  the  UK.   There  is
+    nothing in Dr  Michie's  report  to  suggest  that  the  appellant  was
+    immature for his assessed age.  He was certainly mature enough to  give
+    his solicitor a very comprehensive account of what he claims took place
+    in Afghanistan and the circumstances in which he fled that country.  In
+    the light of all the evidence, it is my view  that  the  appellant  was
+    sufficiently mature to comprehend the nature and severity of any  risks
+    in Afghanistan and to have a  well-founded  fear  of  persecution.   In
+    those circumstances, I do not believe that, where issues of credibility
+    arise, the appellant need necessarily be given the benefit of the doubt
+    on account of his age and maturity.  I have,  nevertheless,  approached
+    the evidence with caution insofar as I  believe  that  the  appellant's
+    relative youth may have affected its credibility."
+
+
+33. It is these paragraphs that are the principal target of the  appellant's
+grounds of appeal which are essentially  twofold.   First  it  is  submitted
+that in reaching the conclusion that the benefit of  the  doubt  should  not
+necessarily be given to someone who was accepted as being 15 years old  when
+he underwent his asylum interview the FtT judge misdirected himself in  law.
+ Second, it is argued that further and in any event  the  reasons  given  by
+the FtT judge for considering that he could depart from the normal  approach
+that  should  be  applied  to  minor  asylum-seekers   were   "impermissibly
+circular/illegal and unreasonable".  In the  latter  respect  it  is  argued
+that since it was the appellant's evidence that he had been brought  to  the
+UK  by  agents,  it  was  perverse  to  see  his  journey  as  evidence   of
+independence  and  maturity.   It  was  also  argued  that  the  judge   had
+misconstrued Dr Michie's opinion that the appellant was mature for his  age;
+that simply meant he was relatively mature, not mature  in  absolute  terms.
+Finally, it was contended that for the judge to treat the  comprehensiveness
+of the appellant's account as evidence of  his  maturity  was  circular  and
+also inconsistent because elsewhere the judge counted against the  appellant
+that his account was not comprehensive.
+
+34. The grounds  raise  several  other  points.   These,  along  with  those
+outlined above, are helpfully encapsulated in [29] of the written  skeleton,
+where it is said that the First-tier Tribunal judge erred in law in:
+
+    (1)  failing to give the appellant TBOD notwithstanding acceptance that
+         he was a minor when he had his asylum interview (this describes the
+         essence of what is set out above);
+
+
+    (2)  failing to  make  any  credibility  findings  in  respect  of  the
+         witnesses called by the appellant;
+
+
+    (3)  failing to have regard to the expert evidence which  suggested  in
+         fact that the evidence on various points was plausible  within  the
+         context of Afghanistan;
+
+
+    (4)  finding that the appellant  had  suffered  no  disadvantage  as  a
+         result of the SSHD's failure to trace; and
+
+
+    (5)  erred in failing to apply the dicta in Singh v Belgium (33210/11),
+         2 October 2012 correctly.
+
+
+35. These points were amplified by Mr Bazini at the two hearings before  us.
+At the hearing on 2 December 2013 Mr Bazini reiterated points  made  in  the
+written grounds and also answered several questions posed by  the  Tribunal.
+He said he accepted it  was  relevant  for  the  judge  to  have  considered
+maturity, but  wrong of him to treat that as a basis for  disapplying  TBOD,
+as that notion (which he termed  a  "principle")  applied  to  minors  as  a
+class.  In the alternative, he submitted, even if  it  could  be  said  that
+when Dr Mitchie and the FtT judge considered  his  age,  he  was  mature  in
+absolute  (as opposed to relative)   terms,  it  remained  that  the  events
+which he recounted took place when he was 13 or 14 and the judge had  simply
+failed to address that problem.
+
+36. In relation to the evidence of Dr Giustozzi, Mr Bazini  highlighted  the
+failure of the  judge  to  engage  with  this  expert's  assessment  of  the
+photograph said to be of the appellant's father together  with  Hekmatyr  or
+the plausibility of the appellant's claim to have met with  approaches  from
+the Taliban and Hezb-i-Islami forewarning of  their  intention  to  forcibly
+recruit him.
+
+37.  As  regards  TBOD  notion,  he  asked  us  to  consider  it  as  having
+application  throughout  all  stages  of  consideration  of  an  applicant's
+evidence, as seemingly in the approach of the Strasbourg Court.
+
+38. Mr Bazini said that in relation to assessing the evidence  of  a  minor,
+if the decision-maker only applied  TBOD  "principle"  at  the  end  of  the
+assessment, that would be too late, because by then (as in this  case,  when
+it  was  not  applied  at  all)  the  decision-maker  may  have  spent  many
+paragraphs scrutinising the evidence with a  rigour  only  appropriate  when
+dealing with the evidence of an adult.
+
+39. At another point in his submissions Mr  Bazini  sought  to  qualify  the
+above argumentation. Stating that he did not wish to assert that  there  was
+only one definitive way of applying the rule: it could  be  throughout  (the
+approach of the Strasbourg Court) or only at  the  end-point  (the  approach
+set out in the UNHCR Handbook).  Both were valid applications.
+
+40. Asked if to apply TBOD both holistically throughout the  assessment  and
+at the end would involve impermissibly giving TBOD  twice  over,  Mr  Bazini
+said that the holistic approach of being  cautious  to  disbelieve  was  not
+strictly an application of TBOD "principle".
+
+
+41. As regards the issue of whether TBOD notion (which  she  also  called  a
+"principle") could have two applications,  Ms  Everett  for  the  respondent
+said that in principle there could only be one application of  it.   It  was
+not clear to her how the holistic version of it was any different  from  the
+lower standard of proof; or at least she  had  difficulty  in  understanding
+how one could apply a lower standard and TBOD "principle" separately.
+
+42. Ms Everett submitted that the judge clearly applied the  lower  standard
+of proof so already employed a liberal approach to the appellant's  evidence
+in that sense.  It was clear that the appellant's age was uppermost  in  the
+judge's mind and he had made a  proper  fact-sensitive  examination  of  its
+implications for how his evidence should be assessed.  Indeed  in  paragraph
+83 the  judge applied the principle in the appellant's  favour  in  relation
+to his apparent ignorance in his screening  interview  of  the  identity  of
+Hekmatyr; the judge had used  that  to  discount  one  of  the  respondent's
+reasons for finding the appellant  not  credible.   She  accepted  that  the
+appellant's interview contained  barely  any  discrepancies.   She  accepted
+that in depicting  the  fact  of  undertaking  the  journey  to  the  UK  as
+probative of the appellant's maturity, the judge had  not  given  "the  best
+reason" and  had  been  "rather  speculative",  but  submitted  that  viewed
+overall  the  judge's  assessment  that   the   appellant   had   a   mature
+understanding comported with the interview record.
+
+
+43. She accepted that the judge did not adequately address some  aspects  of
+Dr Giustozzi's evidence that went to the  plausibility  of  the  appellant's
+account.  In relation to the judge's alleged  failure  to  engage  with  the
+evidence of the witnesses, she said she was  equally  in  difficulties.  She
+said there was nothing perverse, however, about the judge's findings in  the
+documentary evidence.
+
+
+44. We adjourned  the  hearing  with  directions  which  were  confirmed  in
+writing as being:-
+
+    A. The relevance of the application of TBOD to the assessment of  facts
+    and circumtances required under Article 4 [QD] and  paragraph  339L  of
+    the Immigration Rules;
+
+
+    B. Whether the terms of the Secretary of State's Asylum Policy Guidance
+    (APG), as expressed in AA (unattended children) Afghanistan  CG  [2012]
+    UKUT 16 (IAC) at [40] are still current and, if so, how  the  terms  of
+    such guidance are  to  be  applied  to  the  assessment  of  facts  and
+    circumstances required under Article 4 [QD] and paragraph 339L  of  the
+    Immigration Rules;
+
+
+    C. The relevance of the fact that, when assessing the credibility of an
+    asylum  seeker's  claim,  the  European  Court  of  Human  Rights  have
+    frequently concluded that it is necessary to give an asylum seeker  the
+    TBOD (e.g. [71] SHH v UK {2012} 57 EHRR.18);
+
+
+    D. The relevance of the Joint Presidential Guidance Note No 2 of  2010,
+    and whether such Guidelines are consistent with the application of  the
+    TBOD in the assessment of the facts  and  circumstances  of  an  asylum
+    seeker's claim."
+
+
+45. In summary the appellants' response to these questions  was   (in  reply
+to A) to say that logically Article 4(5) and the  corresponding  Immigration
+Rule, paragraph 339L, must be approached applying TBOD  to  the  claim;  (in
+reply to B) the APG  was to be read as lending support  to  the  appellant's
+submission that  TBOD should  be  given  to  each  and  every  aspect  of  a
+particular claim, and even more generously  in  respect  of  a  claim  by  a
+child; (in reply to C) the approach of the  Strasbourg  Court  was  that  if
+after applying  TBOD there are "strong reasons" to question the veracity  of
+a claim, then (but only then) the asylum  seeker  will  need  to  provide  a
+satisfactory explanation for the discrepancies. In  relation  to  assessment
+of the credibility of a child (and in order to give effect to the  principle
+of the liberal application of TBOD) it would require something  very  strong
+to overcome the presumption that child asylum seekers  have  TBOD;  and  (in
+reply to D) the Joint Presidential Guidance  Note  does  not  directly  deal
+with TBOD issue. The respondent's response was to say that (in reply  to  A)
+applying the TBOD to the assessment of facts and circumstances in Article  4
+of the QD and paragraph 339L of the Rules is  relevant  when  deciding  what
+weight to attach to the evidence provided  by  an  applicant.  The  guidance
+given in the UNHCR Handbook together  with  Article  4  together  forms  the
+basis of the  respondent's  policy  guidance  to  decision  makers  entitled
+"Considering asylum claims and assessing credibility".  This  guidance  does
+not affect the burden of proof, which remains on the applicant, nor does  it
+alter the standard of proof. In the respondent's guidance it is stated  that
+a decision must be made whether to  give  an  applicant  the  TBOD  on  each
+uncertain or unsubstantiated fact. TBOD needs to be considered  and  applied
+appropriately to these uncertain facts when considering all the evidence  in
+the round at the end of the credibility  assessment;  in  reply  to  B)  the
+terms of the respondent's  APG  as  expressed  in  [40]  of  AA  (unattended
+children) Afghanistan CG [2012]  UKUT  16  (IAC)  are  still  current.   The
+concept of a more liberal application of TBOD does not change how it  is  to
+be applied to an applicant. Rather it is recognition that  it  may  be  more
+difficult for a child to prove their claim.  TBOD  is not a  separate  legal
+test (see MD (Guinea) at [12]); (in reply to C) the "principle" of  TBOD  is
+well-established in Strasbourg jurisprudence, but by reference to  paragraph
+204 of the UNHCR Handbook it was something that will  "only  be  given  when
+all available evidence had been obtained and checked and when  the  examiner
+is satisfied as to the applicant's general credibility...";  and  (in  reply
+to D) the Joint Presidential Guidance is largely concerned  with  procedural
+matters although at 10.3 Assessing Evidence, judges are reminded of  certain
+factors  that  may  affect  a  child/vulnerable  person's  ability  to  give
+coherent  evidence.  The  guidance  contained  does  not   equate   to   the
+application of TBOD but there is no inherent inconsistency between the  two.
+
+
+46. On 18 March 2014, prompted  by  the  parties'  responses  to  the  above
+questions, we  issued  further  directions  requesting  submissions  on  the
+following further questions:
+
+
+    (a)  Whether or not acceptance of TBOD affects the  standard  of  proof
+         (the respondent submits that it does not);
+
+
+    (b)  Is the (appellant's) contention that it is only after applying the
+         TBOD that one turns to consider whether there are "strong  reasons"
+         to question the veracity of an applicant's claim (and only if there
+         are such reasons should an  applicant  be  required  to  provide  a
+         satisfactory  explanation  for   discrepancies)   consistent   with
+         paragraph 204 of the UNHCR Guidelines?
+
+
+    (c)  In light of developments in the  law  in  Europe,  are  the  UNHCR
+         Guidelines on TBOD still valid?
+
+
+47. At the hearing on 15 May 2014 Mr Bazini rehearsed  UK case  law  on  the
+standard of proof applicable in asylum cases, in particular its  restatement
+by the Court of Appeal in  Karanakaran  [2000]  3  All  ER  449,  especially
+Brooke LJ's statement at p.459 e that he interpreted  the  House  of  Lords'
+judgment  in  R  v  Secretary  of  State  for  the  Home  Department  ex  p.
+Sivakumaran [1988] 1 All ER  193,  [1988]  AC  958  as  "creat[ing]  a  more
+positive role for uncertainty" and  his  endorsement  of  the   approach  in
+leading Australian cases which at p.469h he characterised as follows:
+
+    "This  approach  does  not  entail  the  decision-maker  (whether   the
+    Secretary of State or an adjudicator or the Immigration Appeal Tribunal
+    itself) purporting to find "proved" facts,  whether  past  or  present,
+    about which it is not satisfied on the balance of  probabilities.  What
+    it does mean, on the other hand,  is  that  it  must  not  exclude  any
+    matters from its consideration when it is assessing the  future  unless
+    it feels that it can safely discard them because it has no  real  doubt
+    that they did not  in  fact  occur  (or,  indeed,  that  they  are  not
+    occurring  at  present).  Similarly,  if  an  applicant  contends  that
+    relevant matters did not happen, the decision-maker should not  exclude
+    the possibility that they did not happen (although believing that  they
+    probably did) unless it has  no  real  doubt  that  they  did  in  fact
+    happen."
+
+
+48. Mr Bazini said that Karanakaran left  unclear  how  TBOD  notion  is  to
+work.  The approach in Karanakaran  is  not  easily  reconcilable  with  the
+UNHCR's two-stage approach or  the  two-stage  approach  of  the  Strasbourg
+Court or the approach set out in Article 4 of the QD: in  all  three  it  is
+only applies after the decision-maker  has  first  satisfied  himself  about
+certain aspects of the applicant's account.  But  in  any  event  he  agreed
+with the respondent that the principle could  not  affect  the  standard  of
+proof.
+
+49. As regards (c), Mr Bazini submitted that Article  4  specifies  how  the
+evidence of an appellant should be treated if certain  conditions  are  met;
+it does not say what should happen if they are not met.  The UNHCR  position
+as set out in the 1979 Handbook seemed narrower.  Its  start-point  was  the
+concluding part of assessment when  certain  evidence  had  been  presented.
+The law had moved on since  the  1979  UNHCR  Handbook  so  as  to  be  more
+favourable  to  applicants.   That  was  evident  from  the  modified  UNHCR
+position taken in its CREDO study.
+
+50. So far as concerns (b), Mr Bazini said that this  contention  was  based
+on the approach of the Strasbourg Court,  which  was more  favourable  still
+to applicants.  Whatever approach was adopted, it was essential that it  was
+a holistic one that looked at all the evidence in the round.
+
+51. Ms Everett reiterated the respondent's view that  TBOD  did  not  affect
+the standard of proof. In relation to (b), she did  not  consider  that  the
+Strasbourg and the UNHCR  approaches  were  irreconcilable.   Both  attached
+particular  significance  to  the  fact  that  asylum-seekers  had   special
+difficulties in  obtaining  evidence  from  their  countries  of  origin  to
+support their claim. In relation to (c), she had nothing to add to what  was
+said in the APIs. On any reading the "principle" was not  one  of  universal
+application: if a decision-maker accepted an applicant's story as  credible,
+there was no need to have  recourse  to  TBOD  "principle".   The  different
+approaches were best looked at as different ways  of  getting  to  the  same
+place.
+
+52. Both representatives also addressed us on  the  specific  issue  of  the
+notion of a liberal application of TBOD notion in relation to  children.  It
+will be convenient to deal with their  main  points  when  considering  that
+issue below.
+
+53. Asked how they considered the Upper Tribunal should dispose of the  case
+if we decided to set aside the  decision  of  the  First-tier  Tribunal,  Ms
+Everett said she was content to leave the matter to the Tribunal, Mr  Bazini
+said we should remit it, so as to ensure the applicant  was  not  prejudiced
+by being denied a full set of appeal rights if the outcome was negative.  He
+asked that whichever course the Upper Tribunal took it  bear  in  mind  that
+there was no challenge to the witness evidence.
+
+
+
+
+
+Discussion
+
+Different understandings: two opposite approaches
+
+54. It is clear from our earlier survey that significant  differences  exist
+over the understanding  of  TBOD  in  the  asylum  field.  At  the  risk  of
+caricature, it is possible to discern two approaches at opposite ends  of  a
+spectrum.  At one extreme, there  is  what  we  shall  call  the  "pervasive
+approach" which construes the  notion  as  one  which  must  be  applied  to
+assessment of each and every item  of  evidence.  This  appears  to  be  the
+approach advocated by La Forest J in the Canadian Supreme Court of Chan,  at
+least as his  approach  was  portrayed  by  Major  J  at  [142]:  see  above
+paragraphs 9-10. At the other extreme, there is  the  "end-point"  approach,
+which understands the notion to be one that only applies  at  the  end-point
+of assessment after the examiner has established  certain  facts  about  the
+applicant's story and only when  there  is  doubt  about  certain  remaining
+aspects of that story. The doubt arises because certain  essential  material
+facts are not confirmed (or corroborated) or supported  by  other  evidence.
+As articulated in the discussion of the rule in the  same  Chan  case,  this
+latter approach is seen to be typified by that set out  in  the  1979  UNHCR
+Handbook. One can even find examples where these two  contrasting  positions
+are asserted at the same time, as is done by the respondent in  her  current
+guidance  on  "Considering  asylum  claims  and  assessing  credibility"  at
+paragraph 4.3.4: see above paragraphs 21, 45.
+
+55. Clearly there are variants of both these approaches. We have  identified
+as the "holistic approach"  one  in  which  TBOD  is  given  whenever  doubt
+arises. Certainly at least for some commentators Article 4(5) of the  QD  is
+akin to but  not  on  all  fours  with  the  UNHCR  Handbook's   "end-point"
+approach. The 2013 UNHCR CREDO study records that  in  its  review  of  case
+files in the UK the  rule  is  seen  to  apply  to  intermediate  stages  of
+credibility assessment or more  precisely,  [this  review]  "indicated  that
+some decision-makers may apply the principle of the  benefit  of  the  doubt
+mid-way through the credibility assessment, before considering the  evidence
+in the round" (paragraph 2.4.3.2, p. 233).
+
+56. How are we to resolve these different understandings?
+
+Usual meaning
+
+57. In common idiom, giving  someone  TBOD  is  "to  decide  that  you  will
+believe someone, even though you are  not  sure  that  what  the  person  is
+saying is true" (Cambridge Academic  Content  dictionary).  Insofar  as  the
+term applies to assessment  of  evidence  in  a  legal  context,  a  precise
+definition of the phrase is elusive but it cannot mean much  more  than  the
+following. For TBOD to be given something about  the  evidence  must  be  in
+doubt. For evidence to be in doubt something about it must not  be  certain.
+If it was certain, there would be no  need  to  give  any  benefit.  Benefit
+being given in the  face  of  doubt  indicates  that  the  examiner  is  not
+entirely convinced whether an asserted fact  is true or not,  and  so  gives
+the subject the benefit of the most positive outcome they can, which  is  to
+accept the facts narrated. Thus stated, it is a rule or  practice  that  can
+be applied at any time during an inquiry into some asserted fact(s). It  can
+be applied to the first, or last asserted fact(s) in a  series  of  asserted
+facts, or any asserted  fact(s)  in  between.  But  recourse  to  the  usual
+meaning does not necessarily help in an area of law which is in  many  ways,
+sui generis, and  certainly  (as  emphasised  by  the  Court  of  Appeal  in
+Karanakaran) unlike ordinary civil litigation.
+
+Rationale
+
+58. Looking at recourse made to the rule in asylum law  and  also  in  human
+rights law dealing with the non-refoulement context  -  and  notwithstanding
+the different understandings alluded  to  above  -   there  is  considerable
+consensus about the underlying rationale of TBOD notion, which  is  twofold.
+First it reflects what A. Grahl Madsen described  as  "the  well-known  fact
+that a person who claims to be a refugee may have  difficulties  in  proving
+his allegations": see e.g.  A.  Grahl-Madsen,  The  Status  of  Refugees  in
+International Law, 1966, 145-146); the ECtHR in R.C.  v  Sweden.   We  shall
+term this the "ameliorative" aspect.
+
+59.  Second,  the  notion  helps  insure  against  the  particularly   grave
+consequences of "getting it wrong" in a context  in  which  the  stakes  are
+high:  sending back persons wrongly refused international protection  status
+could result in their death or ill-treatment: see Karanakaran (Brooke LJ  at
+[44], Sedley LJ at [17]).  We shall term this the "precautionary" aspect.
+
+60. It will be observed as well, that very similar reasons  are  also  given
+to explain the adoption of a lower standard of proof or for  there  being  a
+shared burden of proof or a shared duty of cooperation on the applicant  and
+respondent in certain contexts.
+
+Not a rule of law
+
+61. In order to arrive at a proper analysis of the scope and application  of
+TBOD notion, it is first of all important to understand what it is  not.  It
+is not to be considered as a rule of law.   As  stated  by  Laws  LJ  in  MD
+(Guinea) at [12] (in relation to the "liberal application of the benefit  of
+the doubt" notion):
+
+    "... it is of particular  importance  that  the  plethora  of  guidance
+    coming from many sources is not to be degraded into a set  of  concrete
+    rules, departure from any one of which then falls to  be  characterised
+    as an error of law. It is not for example a rule of law that a  child's
+    evidence should be accorded "a liberal application of  the  benefit  of
+    the doubt", a phrase appearing in some of the guidance documents.  That
+    said, the phrase represents or points to  an  approach  which  in  some
+    cases it may be very useful to have in mind."
+
+62. Significantly, even the 1979 UNHCR Handbook recognises that  the  notion
+is a defeasible one: paragraph 203  states  that  it  is  "frequently",  not
+invariably "necessary to give the  applicant  the  benefit  of  the  doubt".
+Likewise the "liberal application of the benefit of the  doubt"  notion  set
+out at paragraph 219 is expressed as being one which it "may"  be  necessary
+to apply to the known circumstances of a minor. Similarly, the ECtHR  states
+that giving TBOD to asylum seekers when it comes  to  assessing  credibility
+is something which it is "frequently", not always,  necessary  to  apply  to
+their evidence: see R.C. v Sweden, supra paragraph 7.
+
+
+Relationship to the burden of proof
+
+63. Manifestly, at least as concerns the position in  UK  law,  TBOD  notion
+cannot as such affect the burden of proof, which remains on  the  applicant:
+see Elias LJ in HK (Afghanistan) at  [34].  In  passing,  we  would  observe
+however that the duty imposed on the Member State by  Article  4(1)  QD)   -
+and on decision makers in the UK by paragraph 339I of the Immigration  Rules
+- to assess the relevant elements of an application "[i]n  cooperation  with
+the applicant..." (emphasis  added)  must  at  least  have  an  ameliorative
+effect in respect of an applicant being able to discharge that burden.
+
+Relationship to the standard of proof
+
+64. Understood in terms of its underlying rationale, it is  relatively  easy
+to regard TBOD notion as an aspect of the lower standard  of  proof  applied
+in the field of asylum (and asylum-related) law. If a  key  feature  of  the
+lower standard of proof is, in  the  words  of  Brooke  LJ  in  Karanakaran,
+affording "a positive role to uncertainty", then at  least  when  confronted
+with doubts about an applicant's account, the decision-maker  must  consider
+resolving at least some of them in his or her  favour.  Because  the  notion
+only applies when there is doubt, it clearly cannot affect the  standard  of
+proof itself. It can only regulate what response is to  be  given  consonant
+with that standard where uncertainty or doubt arises.
+
+65. At the same time (as already noted),  on  the  same  logic,  the  notion
+cannot be a "pervasive" one  to  be  applied  to  each  and  every  item  of
+evidence. To apply it thus  would  be  to  ignore  that  there  are  certain
+asserted facts  which  can  and  should  be  accepted  or  rejected  without
+reference to the notion of TBOD. Thus in the  U.S.  case  law  it  has  been
+emphasised  that  if  an  applicant's  account  lacks  credibility  in   key
+respects, then the notion  has  no  application:   see  e.g.  Sukwanputra  v
+Gonzalez, 434 F.3d 627, 634-35 (3rd Cir, 2006). The point is explained  more
+fully in the 2013 UNHCR CREDO study a 4.2 (p.247)  with  emphases  added  in
+italics:
+
+    "An asserted fact may be accepted because it is sufficiently  detailed,
+    internally consistent, and  consistent  with  information  provided  by
+    family members and witnesses, consistent with  available  specific  and
+    general objective COI, and plausible when considered in  light  of  the
+    applicant's individual and contextual circumstances.  Such facts may be
+    accepted without reference to the  principle  of  the  benefit  of  the
+    doubt.
+
+
+    An asserted fact may be rejected because, when taking into account  the
+    reasonableness of the  explanations  provided  by  the  applicant  with
+    regard  to  the  potentially  adverse  credibility  findings  and   the
+    applicant's individual and contextual  circumstances,  the  applicant's
+    statements about that fact are not sufficiently  detailed,  consistent,
+    and plausible, and/or are contradicted by  other  reliable,  objective,
+    and time appropriate evidence.   Again,  such  facts  may  be  rejected
+    without reference to the principle of the doubt because  the  principle
+    cannot be applied to remedy what is clearly not credible based  on  all
+    the available evidence."
+66. Indeed there is a more fundamental reason why   a  "pervasive"  approach
+should be discouraged. Even considered as one aspect of the  lower  standard
+of  proof,  the  latter  is  ultimately  about  the   proper   approach   to
+establishing proof of a risk and consideration of risk can only properly  be
+made at the end-point. As expressed in slightly different language by  Kirby
+J in Wu Shan Liang (1996) 185 CLR  259  at  [31]  (cited  with  approval  by
+Brooke LJ and Sedley LJ in Karanakaran at [78] and [17] respectively):
+      "Ultimately the question is whether the delegate [i.e. the decision-
+      maker] allowed her mind to consider all the relevant possibilities by
+      looking back at the entirety of the material placed before her and
+      considering it against a test of what the "real", as distinct from
+      fanciful, "chances" would bring if the applicant were returned to
+      China."
+
+67.  Sedley LJ returned to the same theme in SR (Iran) v Secretary of  State
+for the Home Department [2007] EWCA Civ 460 - a case in which Mr Bazini  was
+also Counsel for the appellant in the following terms:
+    "6. Mr Bazini's argument on this issue seems to me to  make  the  basic
+    mistake of seeking to import the ultimate question  of  risk  into  the
+    evaluation of each piece of evidence. For example, he argues  that  the
+    AIT, had it approached its  task  properly  in  �41,  might  well  have
+    accepted "that there was a real risk of [A's] bearing witness" in Iran.
+    On this premise he criticises the finding that A was not likely to bear
+    witness to her friends in Iran as setting too high a standard of proof.
+
+
+     7. It is evidently necessary to say something fairly basic  about  the
+    key exercise of fact-finding and risk evaluation in  asylum  and  human
+    rights cases. In Karanakaran [2000]  3  All  ER  449  this  court  gave
+    guidance which included, at 479, the following:
+      "No probabilistic cut-off operates here: everything capable of  having
+      a bearing has to be given the weight, great or little, due to  it  ...
+      The facts, so far as they can established, are signposts on  the  road
+      to a conclusion on the issues; they are not themselves conclusions."
+    8. Applying this approach to the present case, it was the  AIT's  task,
+    first, to discard any evidence judged to be of no value at  all:  here,
+    for example, the account which, for  better  or  for  worse,  had  been
+    disbelieved on an earlier hearing. For the rest, the AIT  had  to  take
+    each element of evidence into account for what it was  worth.  Some  of
+    the evidence was worth a good deal to the appellant: for example the in-
+    country evidence adopted in  �38  and  expanded  thereafter  about  how
+    Christians are marginalised and subjected to  discrimination  in  Iran.
+    Some of it, in the AIT's judgment, was  less  compelling:  for  example
+    that the appellant would expose herself to persecution by evangelising.
+
+
+    9. There is nothing wrong with the  differential  levels  of  proof  or
+    disproof of primary facts found by the tribunal. In �41,  for  example,
+    they find it likely that the appellant would  continue  with  Christian
+    communion in Iran and that this would bring her to the attention of the
+    authorities, but they do not accept that she would bear witness to  her
+    friends. In �46 they find that the fact that her parents are pensioners
+    does not necessarily mean that they would  be  unable  to  protect  her
+    economically from persecution. The law does not  demand,  at  least  in
+    this field, that each finding of fact, whatever its degree of certainty
+    or uncertainty, be fitted into a  single  matrix  of  risk.  The  fact-
+    finder's task is, to the extent made possible by the evidence, to  find
+    facts, and some facts are more certain than others. It would have  been
+    as unjust to the appellant to treat as mere possibilities things which,
+    on the AIT's findings, were highly likely as it would have been to  the
+    respondent to treat possibilities of hardship as probabilities.
+    10. The critical adjudicative task is to assemble these  findings  into
+    an evaluation which answers the question posed by law.  In  asylum  and
+    human rights claims, that is the question of real risk, and  it  is  at
+    the point of decision and not sooner that it arises."
+68. It is clear from this analysis that it is incorrect for fact-finders  in
+asylum cases to apply  the  lower  standard  to  each  and  every  piece  of
+evidence except insofar as they are seeking to ensure that no asserted  fact
+or item of  evidence  should  be  excluded  unless  there  is  certainty  or
+finality about its value or lack of it: this brings us back to  what  Brooke
+LJ described as "a positive role for uncertainty".
+
+69. But whilst in this holistic but less open-ended  way  the  rule  may  be
+said to inhere in the (lower) standard of proof, it adds  nothing  and  only
+risks confusion to describe it as amounting to a TBOD "principle" or  "rule"
+or "approach" or "basic concept[3]". It is not a rule of law or  universally
+applicable principle, whereas the standard of proof to  be  applied  in  the
+asylum field is a fundamental tenet.
+
+70. Equally, even on the above analysis, it is difficult at least  at  first
+blush to see that the notion can be confined in the way in which it  appears
+to be in the 1979 UNHCR  Handbook  or  in  the  2013  UNHCR  CREDO  analysis
+reformulation according to both of which the notion only comes into play  at
+the end point of the credibility assessment, after  the  decision-maker  has
+sought  to  accept  or   reject   what   asserted   facts   he   can.   (The
+characterisation of this as an "end point" approach  is  clearly  stated  in
+paragraph 4.1 (pp.246-7) of the CREDO study quoted at paragraph 14 above)
+
+
+71. At least when construed as a means of  ensuring  a  "positive  role  for
+uncertainty", it is hard to see  why  TBOD  notion  should  not  potentially
+apply even at an early stage of the credibility  assessment,  e.g.  when  an
+applicant is stating basic particulars (or "biodata") concerning where  they
+live or what is their ethnic origin. If at an initial or intermediary  stage
+there is uncertainty such that some item of evidence points one way,  whilst
+another item points the other way, surely this  is  precisely  the  type  of
+context in which the decision-maker should  (in  this  limited  sense)  give
+TBOD.
+
+72. Taken at face value, then, it is difficult to disagree  with  Mr  Bazini
+that the 1979 UNHCR Handbook "end-point" understanding of the  rule  is  too
+restrictive.
+
+73.  On reflection, however, we agree with Ms Everett (and consider that  Mr
+Bazini at one point acknowledged as much) that it is possible  to  reconcile
+the two approaches. Given  that  the  "pervasive  approach"  overstates  the
+scope of the rule's potential application  (since  if  there  is  no  doubt,
+there is no benefit and the lower standard of  proof  is  essentially  about
+how to approach proof of the ultimate question of risk) what is involved  in
+this wider-ranging (albeit not untrammelled) holistic approach is simply  no
+more than an acceptance that in respect of every asserted  fact  when  there
+is doubt, the lower standard entails that it  should  not  be  rejected  and
+should rather continue to be kept in mind as a possibility  at  least  until
+the end when the question or risk is  posed  in  relation  to  the  evidence
+considered in the round. In our judgment the fact that the Court  of  Appeal
+in Karanakaran did  not  describe  its  espousal  of  a  positive  role  for
+uncertainty  as  a  TBOD  rule  reflects  this  fact.  Their  lordships   in
+Karanakaran built closely on Australian case  law.  Encapsulating  that,  in
+the Australian case of Harjit Singh Randhawa v Milgea [1994]  124  ALR  265,
+Beaumont J stated that decision-makers should take a "liberal  approach"  to
+the assessment of evidence. In  Rajalingam  (Aus.FFC,1999)  the  same  Court
+stated at [240] that:
+
+    "[It] is not always possible for the decision-maker to be satisfied  as
+    to whether alleged past events have occurred  with  certainty  or  even
+    confidence. When the [decision-maker] is uncertain  as  to  whether  an
+    alleged event occurs, or finds that,  although  the  probabilities  are
+    against it, the event might have occurred, it may be necessary to  take
+    into account the possibility that the event took place  in  considering
+    the ultimate question".
+
+74. We also take this to be the underlying reason why  Hathaway  and  Foster
+in the new edition of Law of Refugee Status, 2014, after an analysis  citing
+the Australian case law with approval, conclude that  (what  they  refer  to
+as) "the principle" of TBOD really adds nothing of substance  to  the  lower
+standard of proof or what they call the"intentionally low threshold  of  the
+test of well-founded fear".
+
+75.  We  still  consider,  however,  that  it  is  legitimate  to   continue
+identifying and applying the rule of  TBOD  in  accordance  with  the  "end-
+point" formulation given in the  1979  UNHCR  Handbook  so  long  as  it  is
+understood as no more than useful particularisation of  the  lower  standard
+of proof which, as we have seen, affords a  positive  role  for  uncertainty
+when the decision-maker is confronted with an applicant  who  has  succeeded
+in persuading the  decision-maker  of  certain  asserted  facts  but  cannot
+dispel doubts about all of them and a conclusion has to  be  reached  as  to
+the overall assessment. Whereas we  have  earlier  concluded  that  (i)  the
+"pervasive" approach to the  notion  is  incorrect  (because  it  cannot  be
+applied to each  and  every  item  of  evidence);  and  (ii)  the  "holistic
+approach" does not add anything  of  substance  to  the  lower  standard  of
+proof, we think that  in  the  context  identified  in  the  1979  Handbook,
+reference to the notion does help clarify the  task  in  hand  and  to  make
+clear that before any  "signing-off"  the  evidence  has  to  be  considered
+overall. Such an approach also acts as a  safeguard  against  any  premature
+evaluation of the ultimate question of risk of the type abjured  by   Sedley
+LJ in SR (Iran).
+
+76. To the extent that it can be argued that the  "end-point"  approach  set
+out in the 1979 UNHCR Handbook is too restrictive, it seems to us  that  the
+answer is that just because the rule is  only  (or  should  only  be)  given
+specific articulation at the  "end-point"  does  not  mean  that  an  asylum
+applicant has not had  the  benefit  earlier  on  of  a  positive  role  for
+uncertainty.
+
+77. To the extent that it could be argued  that  to  apply  the  "end-point"
+formulation  of  the   rule   is   tantamount   to   giving   an   applicant
+(impermissibly) TBOD  twice over, our  answer is that since  the  underlying
+premise   of  the  "end-point"  formulation  is  that  earlier  on  in   the
+assessment the decision-maker has afforded throughout a  positive  role  for
+uncertainty (which we take to be the thrust of  paragraphs  195-202  of  the
+UNHCR Handbook),  to  apply  it  in  this  way  simply  ensures  it  is  not
+overlooked at one particular (and particularly important) stage.
+
+
+
+The TBOD in Strasbourg jurisprudence
+
+78. We find it unnecessary  in  this  decision  to  seek  to  interpret  the
+precise import of the  approach  to  TBOD  set  out  by  the  ECtHR  in  its
+jurisprudence relating to Article 3 in the  context  of  assessing  risk  on
+return, but we would make this observation. Whilst that approach is  clearly
+wider than an "end-point" approach, we are  not  convinced  that  it  is  as
+holistic or pervasive as Mr Bazini  submits,  since  the  Court  appears  to
+envisage that in  certain  circumstances  the  notion  is  disapplied  "when
+information  is  presented  which  gives  strong  reasons  to  question  the
+veracity of an asylum  seeker's  submissions":  see  I  v  Sweden,  61204/09
+[2013] ECtHR 813, at [50] (supra paragraph 8.  (  Insofar  as  it  might  be
+suggested that in R.C. v Sweden  the Court was envisaging  that  in  certain
+circumstances  the burden of proof shifts from the applicant to  the  state,
+we would regard ourselves as bound  to  follow  domestic  authority  to  the
+contrary: see PJ (Sri Lanka) [2014] EWCA Civ 1011,  approving  NA  (UT  rule
+45: Singh v Belgium) Iran [2014] UKUT 205 (IAC) and  MJ  (Singh  v  Belgium:
+Tanveer Ahmed unaffected) Afghanistan [2013] UKUT 254 (IAC).)
+
+Article 4(5) of the Qualification Directive (QD)
+
+79. Perhaps unsurprisingly given the dearth of case law, neither  party  was
+able to give us much assistance in relation to the question  as  to  whether
+Article 4(5) QD has replaced or modified the  UNHCR  Handbook's  formulation
+of TBOD notion. Since our hearings dealing with the  appellant's  case  some
+light has been shed on Article 4(5) by Advocate  General  Sharpston  in  her
+Opinion in  Joined Cases C-148/13, C-149/13 and C-150/13, A,  B  and  C,  17
+July  2014.  At  [50]  she  observes  that  in  general  terms  neither  the
+Qualification Directive  nor  the  Procedures  Directive  (2005/85/EC)  make
+specific provision for the manner in which an applicant's credibility is  to
+be assessed and that "the general position is that, in  the  absence  of  EU
+rules on a subject, it is for the  domestic  legal  system  of  each  Member
+State to determine  the  procedural  conditions  governing  actions  at  law
+intended to ensure the protection conferred by EU law."  Earlier,  at  [42],
+she observed that:
+    "42.      Article 4(1) allows Member States to  place  the  onus  upon
+    applicants '... to submit as soon as possible all  elements  needed  to
+    substantiate the application for international protection  ...'.   That
+    provision also places a positive  duty  on  Member  States  to  act  in
+    cooperation with the applicant to assess the relevant elements  of  his
+    application. The assessment should be  carried  out  on  an  individual
+    basis and should include taking into account the applicant's individual
+    position and personal circumstances.  Article 4(5) of the Qualification
+    Directive acknowledges that an applicant may  not  always  be  able  to
+    substantiate  his  claim  with  documentary  or  other  evidence.  Such
+    evidence is therefore not required where the cumulative  conditions  of
+    Article 4(5)(a) to (e) are met."
+80. The Advocate General goes on to emphasise  at [56]-[57] that "  it  does
+not follow from the lack of any express wording in the Directive  regulating
+Member States' discretion regarding the practices or methods  for  assessing
+an  applicant's  credibility,  that  EU  law  places  no  limits   on   that
+discretion." She highlights the role of the Charter:
+    "57.      The Charter provides  overarching  standards  that  must  be
+    applied in the  implementation  of  any  directive.  The  Qualification
+    Directive harmonises by introducing  minimum  standards  for  obtaining
+    refugee status within the European Union.  It would undermine the CEAS,
+    in particular the Dublin system, if Member States were to apply  widely
+    divergent practices when  assessing  such  applications.  It  would  be
+    undesirable  if  the  differences  in   its   implementation   led   to
+    applications being more likely to succeed in one jurisdiction  than  in
+    another because the evidentiary requirements were easier to satisfy. "
+81. In light of this  Opinion  and  other  academic  commentary  it  can  be
+discerned that the effect of Article 4(5) (for those Member States  who  opt
+to apply the principle according to which it is the duty  of  the  applicant
+to substantiate the application for international protection) is limited  to
+the situation where aspects of the applicant's statements are not  supported
+by documentary or other evidence (i.e. a situation where there is a lack  of
+corroboration). By Article 4(5) the applicant in such a situation  will  not
+need to provide confirmation (corroboration) when the conditions  enumerated
+under (5) are  cumulatively  met[4].  These  conditions  relate  to  genuine
+effort (4(5)(a)), satisfactory explanation (4.5(b)), plausibility  (4(5)(c),
+earliest possible application (4(5)(d) and general credibility (4(5)(e)).
+
+82. As such, does Article 4(5)  enunciate  a  TBOD  rule?  We  have  already
+referred to the position taken by the respondent in the APIs which  is  that
+this provision does enunciate such a  rule  (see  above  paragraphs  18,21).
+That is lent some degree of support by the observation made  by  Hailbronner
+in EU Immigration and Asylum Law-Commentary, 2010, at p.1030 that  the  text
+of Article 4(5) was based in part on the UNHCR Handbook.
+
+83. However, stating that Article  4(5)  is  based  "in  part"  on  the  HCR
+Handbook does not demonstrate that this provision codifies such a  rule  and
+the idea that it does so  is  not  shared  by  the  most  in-depth  academic
+commentary so far, that by Gregor Noll, "Evidentiary assessment and  the  EU
+qualification directive", UNHCR Working Paper  no.  117  in  New  Issues  in
+Refugee Research, June 2005. Describing Article 4(5) as  comprising  overall
+"a qualified alleviating evidentiary rule", Noll cautions at p.12:
+
+    "The wording  of  [this  rule]  signifies  a  heavier  burden  for  the
+    applicant than the analogue principle of "benefit  of  the  doubt",  as
+    this is described in UNHCR's handbook. In addition to the  requirements
+    given in the handbook, article  4.5  places  at  least  one  additional
+    condition on the applicant', s/he  is  required  to  have  applied  for
+    international protection as early as possible unless s/he  can  provide
+    good reasons for not doing so".
+
+
+84. Of course, had we accepted that Article 4(5) of the QD is to be read  as
+codifying a TBOD rule, then we would have to revise  our  earlier  statement
+that this notion is not a rule of law. That is because, in the  UK,  Article
+4(5) has been implemented by paragraph 339L of the  Immigration  Rules  (see
+above, paragraph 20) which for most purposes do have the force of law.
+
+85. But (like Noll)  we  think  it  unwise  to  refer  to  Article  4(5)  as
+reflecting or encapsulating  a TBOD rule. In part that is because  we  think
+that the provision seeks primarily to identify  one  particular  application
+of the lower standard of proof (which in our view affords  a  positive  role
+for uncertainty). In  part  this  relates  to  the  point  we  have  already
+emphasised, namely that this provision is, limited to cases where  there  is
+a lack of corroboration: viz., "where aspects of the applicant's  statements
+are not supported by documentary or  other  evidence"  (chapeau  to  Article
+4(5)); that on its face is more limited in scope than the notion as set  out
+in paragraph 204 of the UNHCR Handbook (where the precondition is that  "all
+available evidence has been obtained and checked and when  the  examiner  is
+satisfied as to the applicant's general credibility"). In  part  is  because
+whereas the notion is formulated in the UNHCR  Handbook  in  defeasible  and
+contingent  terms,  Article  4(5)  sets  out  in  mandatory  terms[5]   four
+conditions which have to be cumulatively met in order for an  applicant  not
+to be required to substantiate his application. As  such  we  think  Article
+4(5) (and paragraph 339L of the Rules)  should be applied as it  is  without
+any gloss or reference to  the  UNHCR  Handbook  "analogue".  We  understand
+UNHCR's concern, as expressed in the 2013 CREDO study, that if not  read  in
+the light of the UNHCR Handbook, Article 4(5) could operate as a policy  for
+withholding TBOD from asylum-seekers; but we  consider  that  danger  to  be
+offset by (i) the fact that the ambit of Article 4(5) is  limited  to  cases
+of  non-corroboration/confirmation;  and  (ii)  the  fact  that   applicants
+benefit throughout the assessment of credibility from the lower standard  of
+proof, which in the terminology of Karanakaran, ensures  that  the  entirety
+of that assessment affords a positive role for uncertainty.
+
+TBOD and children
+
+
+86. We are now in a position to address the  main  specific  issue  in  this
+case,  which  concerns  whether  a  decision-maker  must  make  a   "liberal
+application" of TBOD notion when it comes to assessing the credibility of  a
+minor. In essence Mr Bazini's central contention on this issue was that,  in
+general, when  assessing  the  credibility  of  minors  the  "principle"  of
+liberal application of TBOD should  be  applied,  and  certainly  cannot  be
+disapplied on the basis of a child's maturity. Ms Everett disagreed.
+
+87. We deal first with the notion of a liberal application of TBOD as it  is
+expressed in paragraph 219 of the 1979 UNHCR Handbook.
+
+88. It is clear from the language of paragraphs  213-219  of  this  Handbook
+(which deal with assessment of the credibility of minors and  paragraph  219
+(which expressly refers to "a liberal application  of  the  benefit  of  the
+doubt") that the notion has a broader scope than  the  "end-point"  analysis
+set out in paragraph 203.  Notably, paragraph  217  states  that  where  the
+minor has not reached a sufficient degree of maturity to  make  it  possible
+to establish well-founded fear in the same way as for an adult, "it  may  be
+necessary  to  have  greater  regard  to  certain  objective  factors"   and
+paragraph 219 states that:
+
+    "219. If the will of the parents cannot be ascertained or if such  will
+    is in doubt or in conflict  with  the  will  of  the  child,  then  the
+    examiner, in cooperation with the experts assisting him, will  have  to
+    come to a decision as to the well-foundedness of the  minor's  fear  on
+    the basis of the known circumstances, which  may  call  for  a  liberal
+    application of the benefit of the doubt."
+
+89. Both of these paragraphs envisage that (a liberal application  of)  TBOD
+may need to be given to assessment of the credibility of a  child  at  every
+stage; certainly there is no confinement to just an "end-point". This  might
+appear to suggest that in relation to children TBOD notion has a  conceptual
+life of its own.
+
+90. By taking trouble to first set out the learning in  the  asylum  context
+on the notion of TBOD in general, we hope it will be apparent that  (and  we
+do  not  understand  either  party  to  submit  otherwise),   the   "liberal
+application"  concept  can  only  be   adjectival  and  cannot  affect   the
+underlying nature of the notion. If, as we have  held,  TBOD  is  neither  a
+legal rule nor a principle nor a notion to be applied invariably, it  cannot
+be converted into one by a more liberal application of it.  (The  fact  that
+is not a rule to be applied invariably  is  clear  in  any  event  from  the
+wording of the Handbook which itself treats  it  as  a  discretionary  rule:
+paragraph 219 states that a minor's known circumstances  "may"  call  for  a
+liberal application of  the  notion.)  Accordingly,  except  insofar  as  it
+operates as a useful reminder of what a  decision-maker  should  do  at  the
+"end-point" of the assessment of the credibility of a minor, the  notion  of
+a liberal application of TBOD is best understood simply as an expression  of
+how the lower standard  of  proof  is  to  be  applied  in  making  such  an
+assessment. Application of that standard  when  the  subject-matter  is  the
+evidence of a child must take account of the fact that the  applicant  is  a
+child and that children in general are vulnerable in a way most  adults  are
+not.
+
+91. There are, however, arguably two extra dimensions to  this  notion  that
+arise in the UK context. The first possible  dimension  brings  us  back  to
+paragraph 351 of the Immigration Rules which, we recall, provides that:
+
+    "A person  of  any  age  may  qualify  for  refugee  status  under  the
+    Convention and the criteria in paragraph 334  [dealing  with  Grant  of
+    Asylum] applied to all cases.  However, account should be taken of  the
+    applicant's maturity and in assessing the claim of a child more  weight
+    should be given to objective indications of risk than  to  the  child's
+    state  of  mind  and  understanding  of  his  situation.    An   asylum
+    application made on behalf of the child  should  not  be  refused  only
+    because the child is too young to  understand  the  situation  or  have
+    formed a well-founded fear of persecution.  Close attention  should  be
+    given to the welfare of the child at all times."
+
+92. The second possible dimension consists of  the  Asylum  Policy  Guidance
+(APG) whose key provisions we also cited earlier but for ease  of  reference
+we set out again here. They  state  that  the  following  principles  to  be
+applied in the determination of a claim to asylum by a child:
+
+    "(1) more weight must be given to objective indications of risk than to
+         the child's state of mind;
+
+
+    (2)  other factors to consider  might  include:  documentary  evidence,
+         objective country evidence;
+
+
+    (3)  a case owner must not draw  an  adverse  credibility  interference
+         from omissions in the child's knowledge if it is likely that  their
+         age or maturity is a factor  or  if  there  are  logical  or  other
+         reasons for those omissions;
+
+
+    (4)  the benefit of the doubt will need to be applied  more  generously
+         when dealing with a child particularly where a child is  unable  to
+         provide detail on a particular element of their claim."
+
+
+93. As to the first possible extra dimension, we  note  that  paragraph  351
+does not articulate  any  TBOD  notion  and  quintessentially  its  contents
+primarily convey what is necessary  in  order  for  an  examiner  to  ensure
+sensitive application of the lower standard  of  proof  in  respect  of  the
+evidence of a child. As to the second possible  dimension,  we  straightaway
+acknowledge that if the APG provisions are more generous than the notion  as
+expressed in the 1979 Handbook, then it would be not in accordance with  the
+law for a decision-maker to fail to apply a more generous policy:  see  Abdi
+v Secretary of State for the Home Department [1995] EWCA  Civ  27.  However,
+first of all the APG places reliance on the guidelines set out in  the  1979
+Handbook and does not purport to go beyond them; and secondly,  the  factors
+that are highlighted as ones the examiner should bear in  mind  are,  again,
+best understood as  expressing  what  is  entailed  in  applying  the  lower
+standard  of  proof  to  the  assessment  of  the  evidence  of   a   child.
+Accordingly, we consider on analysis  that  neither  paragraph  351  of  the
+Rules nor the APG provisions relating to the evidence of children alter  the
+general position we have reached in relation to the TBOD notion in  general.
+
+
+94. However, whether understood in the way we have just set out or  (as  the
+parties contended) as a distinct "principle", we still need to  engage  with
+Mr Bazini's  underlying  argument  that,  in  general,  when  assessing  the
+credibility of minors liberal application  of  TBOD  should  be  given,  and
+certainly cannot be disapplied on the basis of a child's  maturity.   Indeed
+it was the failure to appreciate this point, he said, that  led  the  First-
+tier Tribunal judge into one of a number of  legal errors. He  submits  that
+valid reasons for disapplying the notion should only have  to  do  with  the
+nature of the applicant's evidence (there being no reason to apply  it,  for
+example, if the applicant has given a credible story in all respects or  has
+failed to establish any elements of his claim).  Such reasons should not  or
+cannot relate to characteristics of an individual applicant.   According  to
+Mr Bazini, characteristics such as age, education, intelligence, health  etc
+may have a bearing on credibility but do not in themselves provide  a  basis
+for disapplying TBOD.
+
+95. Even leaving aside whether (as we have held) the  notion  of  TBOD  adds
+nothing of substance to the lower standard of proof, we  are  not  persuaded
+that Mr Bazini's general proposition as regards the liberal  application  of
+TBOD to children is tenable. The UNHCR Handbook itself emphasises more  than
+once that in asking whether a minor may  qualify  for  refugee  status  that
+must be "determined in the first instance according to  the  degree  of  his
+mental development and maturity": see paragraph 214. Further,  the  Handbook
+only describes it as being necessary  to  have  greater  regard  to  certain
+objective factors - one of the main consequences of applying a liberal  TBOD
+- if "the minor has not reached a sufficient degree of maturity to  make  it
+possible to establish a well-founded fear in the same way as for an  adult":
+see paragraph 217.
+
+96. To our understanding that indicates that for the  Handbook  the  liberal
+application of TBOD, which is expressed in defeasible terms anyway, may  not
+necessarily be given if the applicant has equivalent maturity to an adult.
+
+97. Mr Bazini  sought  to  argue  that  if  the  FtT  judge's  approach  (of
+considering that maturity justified disapplying TBOD notion)  were  correct,
+it would call into question the  "very  principle  of  the  benefit  of  the
+doubt" applied to asylum-seekers generally. Even again assuming this  notion
+amounts to a distinct rule, we cannot agree.  For  a  judge  to  proceed  to
+assess the evidence of a minor without any indication that  he  or  she  has
+considered the modified approach enjoined by paragraph 351 may often  result
+in an error of law, because under that provision more weight must  be  given
+to objective evidence. But that is quite different from the situation  where
+a judge  considers  whether  either  paragraph  351  considerations  or  the
+(liberal application) of TBOD should be given and decides not  to  give  it.
+We disagree with Mr Bazini's reasoning for two main reasons. First  of  all,
+the fact that the notion per se  is  a  defeasible  not  a  categorical  one
+entails that it is capable of being  disapplied  in  certain  circumstances.
+Second, contrary to what Mr Bazini asserts,  one  does  when  assessing  the
+evidence even of adult asylum-seekers, distinguish between for example  more
+or less  intelligent  or  educated  individuals.  Indeed,  failure  to  take
+account of such differences may well infringe the rule set  out  in  Article
+4(3)(c) of the Qualification Directive (also expressed  in  paras  41-43  of
+the  UNHCR  Handbook),  that  assessment  of  a  claim   for   international
+protection  includes  taking  into  account  "the  individual  position  and
+personal  circumstances  of  the  applicant  including   factors   such   as
+background, gender and age..."
+
+An adult applicant's evidence about events when he was a child
+
+98. In his skeleton argument at [11] Mr Bazini stated that:
+
+    "In respect of adults who are relying on events that took  place  at  a
+    time when they were minors, it is submitted that insofar as  they  rely
+    on any evidence given in interviews and statements etc  when  they  are
+    still minors, the more liberal benefit of the doubt principle should be
+    applied.  One could not expect the same  principle  to  be  applied  to
+    evidence generally given after they had attained the age  of  majority.
+    However, if an adult (e.g. a 20 year old) is giving  evidence  that  he
+    experienced/observed when he was a minor it has to be noted that memory
+    and understanding of these  events  will  have  been  as  a  minor  and
+    therefore this specific evidence should have the liberal benefit of the
+    doubt approach applied to it.  It would be  irrational  to  accept  the
+    evidence of a 15 year old in respect of a particular account of  events
+    but reject that some account given  three  years  later,  once  he  had
+    turned 18, unless it could clearly be shown that his understanding  and
+    knowledge  of  the  events  should  have   become   greater   or   more
+    sophisticated over the three year period etc."
+
+99. Whilst we have declined to follow Mr  Bazini's  view  that  the  liberal
+application of TBOD is a cardinal principle, we would concur at  least  that
+a child-sensitive application of the lower standard of proof may still  need
+to be given to persons if they are  recounting  relevant  events  that  took
+place at a time when they were minors or were even younger minors
+
+100. It is also necessary to keep in mind that there is  not  necessarily  a
+"bright-line" for assessment of evidence in the context  of  asylum  between
+the stage at which a person is a minor and the  stage  at  which  he  is  an
+adult: see e.g. KA (Afghanistan) and others v Secretary  of  State  for  the
+Home Department [2012] EWCA Civ 1014 at [18].
+
+Joint Presidential Guidance Note No.2 of 2010
+
+101. For completeness (in order to address a further question  we  posed  to
+the parties),  we  agree  with  the  parties  that  the  Joint  Presidential
+Guidance Note No.2 of  2010  (which  is  based  on  the  Senior  President's
+Practice Direction First-tier and Upper  Tribunal  Child,  Vulnerable  Adult
+and Sensitive Witnesses October 2008) is neutral as to the issue of  whether
+applicants are entitled to TBOD, although they do  reinforce  the  important
+point (also set out in paragraph 351 of the Immigration Rules and in  Asylum
+Policy Instructions) that when  assessing  the  evidence  of  children  (and
+other vulnerable  persons)  certain  factors  may  affect  such  a  person's
+ability to give coherent evidence.
+
+Summary of main conclusions on the two main issues
+
+102. Drawing together the points we have made in the course of our  analysis
+so far we conclude:
+
+a) In the context of assessing the  credibility  of  an  asylum  claim,  the
+notion of TBOD as set out in paragraphs 203-204 of the 1979  UNHCR  Handbook
+is not a rule of law and  even  as  a  general  guideline  is  expressed  in
+defeasible and contingent  terms.
+
+b) In its usual meaning the notion can potentially apply  at  any  stage  of
+the assessment of credibility and is not limited, as it  is   in  paragraphs
+203-204 of the Handbook, to consideration of  its "end-point"; but  even  so
+it cannot to be applied to each and every item of evidence, irrespective  of
+whether there is doubt about it.
+
+c) Seen as a notion applying holistically TBOD adds nothing of substance  to
+the lower standard of proof, which, as construed by Brooke  and  Walker  and
+Sedley LLJ in Karanakaran v Secretary of State [2000]  3  All  ER,  449-480,
+affords a "positive role for uncertainty".
+
+d) Nevertheless, as  formulated  within  the  limited  context  set  out  in
+paragraphs 203-204 of the 1979  UNHCR  Handbook,  the  notion  serves  as  a
+useful reminder of one of the most important things  a  decision-maker  must
+do at the "end-point" of any credibility assessment. To apply it within  the
+limited context set out in these paragraphs of the Handbook does not  entail
+in effect giving an applicant TBOD twice over; it simply  particularises  in
+a specific way what it means to apply  the  lower  standard  of  proof  when
+certain,  but  not  all,  aspects  of  an  applicant's   claim   have   been
+established.
+
+e) Whilst the notion of TBOD as articulated in the 1979 UNHCR  Handbook  was
+one source for the drafting of Article 4(5) of the Qualification  Directive,
+and whilst there is some overlap with this provision, the latter,  which  is
+confined in any event to setting out the conditions  under  which  the  need
+for corroboration or "confirmation" can be dispensed with, must  be  applied
+in its own terms. Unlike the Handbook Guidelines,  it  sets  out  conditions
+that are rules of law.
+
+f) The notion as set out in paragraph 219 of the UNHCR  Handbook  that  when
+assessing  the  evidence  of  minors  there  may  need  to  be  a   "liberal
+application of the benefit  of  the  doubt"  is,  like  its  parent  notion,
+neither a rule of law not a rule of universal application  and,  save  as  a
+reminder about what the examiner should bear in mind at the  "end-point"  of
+assessment of credibility, adds nothing of substance to the  lower  standard
+of proof. Further, depending on individual circumstances  of  the  case,  it
+may be a reason not to apply the notion if an applicant possesses  the  same
+maturity as an adult.
+
+  Decision on error of law
+
+103. In light of the above, we turn to consider whether the FtT judge  erred
+in law. We observe that in the appellant's case he was not someone  who  had
+failed to submit any corroborative evidence; he had submitted  his  father's
+ID card and a photograph of his father with  the  Hezb-i-Islami  leader.  We
+recall to mind that Mr  Bazini's  submissions  advanced  five  grounds:  see
+above paragraph 34.
+
+104. In respect of the first ground we would  reject  Mr  Bazini's  argument
+that the mere fact of declining to apply the liberal benefit of  doubt  rule
+to the appellant amounted to an error  of  law.   As  explained  above,  the
+parent rule of the TBOD is not to be understood as a legal  rule  nor  as  a
+principle and even in its  classic  formulation  it  is  not  understood  as
+requiring invariable application. The  same  cannot  be  any  less  true  in
+relation to the concept of a liberal application of  this  notion  which  is
+also, in any event, expressed in defeasible terms.
+
+105. We would, however, agree with Mr Bazini that some of the reasons  given
+by the judge for disapplying (the liberal application of) the  notion,  even
+when understood as a rule ensuring a positive  role  for  uncertainty,  were
+tenuous.  If the  judge  wished  to  construe  the  appellant's  journey  to
+journey to the UK as evidence of maturity, then he needed to explain why  he
+did not accept that the appellant was being  chaperoned  by  agents  or  had
+left all the arrangements to them.  If the judge  wished  to  rely  in  this
+regard on the comprehensivity of the appellant's account, then he needed  to
+explain why at [87] he held against him the fact that he  was  not  able  to
+give a detailed picture of his brother's activities.
+
+106. These failures of explanation were of particular importance  because  -
+irrespective of whether he needed to apply a benefit of  the  doubt  rule  -
+the judge should have started from the position that (at least  in  relation
+to the appellant's recounting of events when he was a minor)  paragraph  351
+had potential application and hence that "in assessing the claim of a  child
+more weight should be given to objective indications of  risk  than  to  the
+child's state of mind and understanding of his  situation".   That  in  turn
+would have enhanced the potential of the expert report of  Dr  Giustozzi  (a
+report which drew on various country of origin reports)  to  shed  light  on
+the appellant's case. Unlike TBOD notion  set  out  in  the  UNHCR  Handbook
+paragraph 351 identifies obligations on the decision maker  which  have  the
+force of law.
+
+107. From the above it will be apparent that  the  judge  nowhere  addressed
+the issue of to what extent his assessment  should  take  into  account  the
+accepted fact that the key events recounted by the  appellant  had  occurred
+when he was a minor: for example, on the judge's account when the  appellant
+said his family home had been visited by the  authorities  on  two  previous
+occasions, at most he would have been no more than 14-16. The judge  nowhere
+suggested he thought that when aged 14-16 the appellant was mature  for  his
+age; hence no  reason  whatsoever  is  given  for  not  affording  a  child-
+sensitive approach to this aspect  of  his  claim  (so  as  to  ask  whether
+recollection of things that had happened when  the  appellant  was  a  child
+might have been less reliable than if they  had  happened  when  he  was  an
+adult).
+
+108. We also consider that the determination was  vitiated  by  legal  error
+through a failure to engage sufficiently with the  evidence  of  the  expert
+witness, Dr Giustozzi.  The judge does refer  to  his  report  when  dealing
+with the issue of general risk on return: see [94]  and  in  the  first  two
+sentences of [88].  In the remainder of [89] the judge notes:
+
+    "According to the evidence, the appellant's father was well-regarded as
+    a Hezb-i-Islami commander in the area while his elder  brother  started
+    to dress as a Hezb-i-Islami member and to carry a Kalashnikov  rifle  a
+    year before he left home.  The appellant  says  he  became  aware  that
+    people were reporting his father and brother  for  their  Hezb-i-Islami
+    connections.  Dr Giustozzi states that  the  Afghan  security  services
+    have  a  wide  network  of  informers  in  the  villages,  passing   on
+    information  about  the  movement  of  suspect  individuals.   He  also
+    expresses the view that the fact that the appellant's father  was  with
+    Hezb-i-Islami in the past would be seen by the  security  forces  as  a
+    member of the pro-insurgency inclinators of the whole family."
+
+
+109. Yet, having set out this evidence, the judge's  immediate  response  in
+the next paragraph, [89], is to  state  "against  this  background,  I  have
+substantial doubts about the credibility of  the  appellant's  account  that
+the security forces were looking for him".  If by this background  he  meant
+to  include  Dr  Giustozzi's  evidence,  then  his  statement  that  he  has
+"substantial doubts about the credibility of the appellant's account"  is  a
+non-sequitur.  That background supported the  appellant's  account.  If  the
+judge meant something different by the reference  here  to  "background"  he
+should have said so.  In any event, the judge's summary  of  Dr  Giustozzi's
+evidence leaves out the fact that the latter had also  stated  that  in  his
+opinion the photograph showed Hekmatyr with his "key men".  Since the  judge
+went on to find that at best the photo showed the appellant's father  to  be
+a mere Hezb-i-Islami member, it can be deduced that he  disagreed  with  the
+expert, but no reasons are given.  Presumably as well (in finding  that  the
+appellant's whereabouts would have been well-known to  the  authorities  for
+some time), the judge disagreed with Dr  Giustozzi  that  it  was  plausible
+that the authorities only started paying an interest in the  appellant  when
+the situation in Nangarhar deteriorated in  2006-2007.   Dr  Giustozzi  also
+considered there was  a  plausible  explanation  for  the  authorities  only
+having made a "perfunctory" search of the appellant's home on  two  previous
+occasions.  Again the judge does not address that:  he  simply  reached  the
+opposite conclusion.
+
+110. Whilst it is unnecessary to address the other grounds,  we  would  note
+that we think that the judge did sufficiently  engage  with,  and  evaluate,
+the evidence of the other witnesses.  We think the  judge's  conclusions  on
+the family tracing issue were viable.  We  see  nothing  in  the  contention
+that somehow the judge was bound  by  Singh  v  Belgium  app.no.33210/11  to
+approach the issue of the reliability  of  the  documents  differently:  see
+above paragraph 78.
+
+111. For the above reasons the FtT judge erred in law and in ways making  it
+necessary to set his decision aside.
+
+112. We raised with the parties how, if we decided  to  set  aside  the  FtT
+decision, we should proceed to deal with it.  Mr Bazini  submitted  that  in
+fairness we should remit it to the First-tier.   Such  a  course  would,  he
+said, be in accordance with the Senior President's  Practice  Statement.  We
+observe that the Practice  Statement  (which  has  now  been   amended  with
+effect from 13 November 2014) does not prescribe which course of  action  is
+to be adopted and  that  paragraph  7.3  states:  "  Re-making  rather  than
+remitting will nevertheless constitute the normal  approach  to  determining
+appeals where an error of law is found, even if some  further  fact  finding
+is necessary."  Whilst in the appellant's case the  nature  of  the  judge's
+errors are such that no finding of fact can be preserved, we  are  conscious
+that this case has now been in the  appellate  process  for  a  considerable
+time and was in fact remitted to the First-tier once before, on 21  November
+2012, an error of law having been found in an  earlier  determination  by  a
+FtT on 3 August 2011.
+
+113. If the only consideration were speed, remittal might ordinarily  result
+in a quicker rehearing, but we intend to give directions to ensure that  the
+case is kept in the Upper Tribunal and is expedited.
+
+114. Mr Bazini submits that to  decline  to  remit  would  be  to  deny  the
+appellant his full panoply of onward appeal rights, but that is true of  any
+case retained in the Upper Tribunal when an error of law is  found  and  the
+decision is set-aside.
+
+115. Mr Bazini appeared to submit at one  point  that  whichever  course  we
+chose to adopt we should preserve the findings  made  by  Judge  Knowles  in
+relation to the witnesses which,  he  says,  were  not  challenged.  Leaving
+aside  that  the  judge's  determination  does  record  concerns  about  the
+evidence of the witnesses as well as the  appellant  (see  e.g.  [86],  line
+17), we consider that given our reasons for concluding that the judge  erred
+in his overall approach to credibility regarding  events  which  took  place
+when the appellant was a minor (which the  witnesses  also  sought  to  give
+evidence about), it would be quite wrong to try and pick and choose  certain
+findings and say they were unaffected by this error.
+
+116. For the above reasons:
+
+The First-tier Tribunal erred in law in a way necessitating that we set  his
+    decision aside.
+
+The case is to be listed before the  Upper  Tribunal  with  directions  that
+this (re-) hearing be expedited.
+
+Pursuant to Rule 14 of the Tribunal Procedure (Upper  Tribunal)  Rules  2008
+(SI 2008/269) I make an anonymity order. Unless the Upper Tribunal or  Court
+directs  otherwise,  no  report  of  these  proceedings  shall  directly  or
+indirectly identify the Appellants.  This  direction  applies  to  both  the
+appellants and  to  the  respondent  and  a  failure  to  comply  with  this
+direction could lead to Contempt of Court proceedings.
+
+Signed                                  Date
+
+
+Upper Tribunal Judge Storey
+-----------------------
+[1] We venture nothing here about use of the notion  more  generally  except
+to note that  its  origins  trace  back  to  Aristotle.  In  Roman  law  (as
+expressed in the maxim  in  dubio  pro  reo)  and  some   continental  legal
+systems it has been seen in criminal law as a corollary of  the  presumption
+of innocence and the burden of proof of beyond reasonable doubt (in  Germany
+in that context it is a  constitutional  principle).  It  plays  a  part  in
+international criminal law: see e.g. Natetilic and Martinovic, Case No.  IT-
+03-66-A, cited in  Fatmir  Limaj  et  al,  Appeals  Chamber  ICTY,  27.9.07,
+paragraphs 20-22. Seeming use of the  principle  is  made  in  international
+humanitarian law in the context of the  presumption in favour of  protection
+of civilians: see  Article 50(1)  of  Additional  Protocol  I  to  the  1949
+Geneva Conventions which  states that "[i]n case of doubt whether  a  person
+is a civilian, that person shall  be  considered  to  be  a  civilian".  See
+further E. Wilmshurst and  S.  Breau,  Perspective  on  the  ICRC  Study  on
+Customary International Humanitarian Law (CUP, 2007),  pp.  10-11,  111-112,
+406. Domestically, the  benefit  of  the  doubt  rule  has  been  frequently
+applied in age assessment cases: see e.g. TS v  London  Borough  of  Croydon
+[2012] EWHC 2389 (Admin), but here, as in its deployment  in  UKBA  guidance
+to caseworkers on Assessing Age, 17 June 2011, at para 2.21, it is  seen  as
+a criterion derived from asylum law.
+[2] Article 4 of the QD provides that "Member States  may  consider  it  the
+duty of the applicant to submit as soon as possible all elements  needed  to
+substantiate the application for international  protection.  In  cooperation
+with the applicant it is  the  duty  of  the  Member  State  to  assess  the
+relevant elements of the application".
+[3] The term used by J.Sweeney, op.cit.,707.
+[4] In the IARLJ study (op.cit. at para 9) the requirements of Article  4(5)
+are said to "form an exhaustive list and each  must  be  satisfied  for  the
+claimant to have the benefit of that lack of  need  for  confirmation.  This
+gives partial statutory effect in those circumstances to the concept of  the
+application of the 'benefit of  the  doubt'  to  which  the  UNHCR  Handbook
+refers at paragraphs 203 and 204. Article 4.5, however, applies only  'where
+Member States apply the principle according to which it is the duty  of  the
+applicant to substantiate the application' - that is where the MS  exercises
+its option to rely on the first sentence of Article 4.1 either  specifically
+or because  this  principle  forms  part  of  its  national  law  concerning
+evidential requirements".
+[5] Albeit only "[w]here Member States apply the
+prin[pic][6]2345=[afghi��ϼ�~?yhWhF?5!hZ05?>*[pic]B*[pic]OJQJ^J[7]ph!hI�h�E�
+B*[pic]OJQJ^J[8]ph!hI�h�a
+B*[pic]OJQJ^J[9]ph!hI�hZ0B*[pic]OJQJ^J[10]ph!hI�h�q�B*[pic]OJQJ^J[11]phhZ0B*
+[pic]OJQJ^J[12]ph!hf}�h${B*[pic]OJQJ^J[13]ph$hf}�h�p�5?B*[pic]OJQJ^J[14]ph$h
+f}�h��5?B*[pic]OJQJ^J[15]ph!hf}�h�J�B*[pic]OJQJ^J[16]ph,hf}�h��;?B*[pic]CJOJ
+ciple according to which it is the duty of the applicant to substantiate
+the application for international protection ..." (Article 4(5)).
+

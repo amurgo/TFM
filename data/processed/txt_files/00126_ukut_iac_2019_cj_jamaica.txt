@@ -1,0 +1,1402 @@
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+CJ (international video-link hearing: data protection) Jamaica [2019]  UKUT
+00126(IAC)
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House                          |Decision & Reasons Promulgated|
+|on 24 and 25 January 2019                     |                              |
+|                                              |..............................|
+|                                              |.........                     |
+
+
+                                   Before
+
+                     THE HON. MR JUSTICE LANE, PRESIDENT
+                        UPPER TRIBUNAL JUDGE WIKELEY
+                        UPPER TRIBUNAL JUDGE O'CONNOR
+
+                                   Between
+
+                                     CJ
+                                                                   Appellant
+
+                                     and
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+Representation:
+
+For the appellant:     Mr R de Mello and  Mr  T  Muman  instructed  by  J  M
+Wilson,
+     Solicitors
+For the respondent:    Mr S Kovats QC, instructed by  the  Government  Legal
+Department
+
+   1) The arrangements made to enable the appellant to give evidence in  his
+      human rights appeal by video link between the British High  Commission
+      in Kingston, Jamaica and the Tribunal's hearing centre in  the  United
+      Kingdom did not involve the transfer of data to a third  country,  for
+      the  purposes  of  the  General  Data  Protection   Regulation   ((EU)
+      2016/679).
+
+   2) Even if that were not the case, the  transfer  was  lawful  under  the
+      derogation in Article 49(1)(e) of the Regulation  (transfer  necessary
+      for establishment, exercise or defence of legal claims).
+
+
+Direction Regarding Anonymity - Rule 14 of  the  Tribunal  Procedure  (Upper
+Tribunal) Rules 2008 (SI 2008/2698)
+
+Unless and until a Tribunal or Court  directs  otherwise,  the  claimant  is
+granted  anonymity.  No  report  of  these  proceedings  shall  directly  or
+indirectly identify the claimant or any member  of  the  claimant's  family.
+Failure to comply with this  direction  could  lead  to  contempt  of  court
+proceedings.
+
+
+                            DECISION AND REASONS
+
+     Introduction
+
+    1. This is the decision of the panel. It concerns an appeal against the
+       decision of  the  First-tier  Tribunal  ('the  FTT')  which  sat  in
+       Birmingham on 17 July 2018 to hear the  appellant's  appeal  against
+       the respondent's deportation decision. The appellant,  who  by  that
+       date  had  already  been  deported,  participated  in  the   hearing
+       (effectively under protest) by way of a video-link from the  British
+       High Commission ('the BHC') in Kingston, Jamaica.  In  summary,  the
+       appellant's case  is  that  the  FTT  materially  erred  in  law  in
+       dismissing his preliminary objection to the video-link  arrangement.
+       The appellant contended that this method of giving his live evidence
+       necessarily  involved  a  breach  of  both  EU  and  domestic   data
+       protection law. He also argued that he was the  victim  of  unlawful
+       discrimination by reason of the processing  of  his  personal  data,
+       including the transmission of the appeal bundles, through  the  link
+       to the BHC in Kingston.
+
+
+    The factual background
+
+
+    2. The bare facts of the case and the chronology are  not  in  dispute.
+       The appellant was born in Jamaica on 30 April 1993 and is a Jamaican
+       citizen. He arrived in the UK at the age of 8 on a 6-month visitor's
+       visa in December 2001. He became an overstayer in June 2002 and  his
+       immigration status was never regularised.  He  and  his  partner  (a
+       British citizen) had a daughter in  October  2012  (who  is  also  a
+       British  citizen).  He  has  been  convicted  of  several  offences,
+       starting at the age of 15 (three offences of  robbery  in  September
+       2008, two counts of burglary in 2011, possession of cannabis in July
+       2013 and travelling on the railway without  a  ticket  in  September
+       2014), culminating in convictions at Winchester Crown  Court  on  14
+       April 2015 for conspiracy to supply crack cocaine and heroin. He was
+       sentenced to 3 years' imprisonment, to be served  concurrently,  for
+       each of those latter offences.
+
+
+    3. The appellant was served with IS151A papers as an overstayer  on  14
+       June 2013. Following his conviction for the last and by far the most
+       serious offences, he was served on 29 July 2015 with notice  of  the
+       respondent's decision to remove him to Jamaica. In  August  2015  he
+       submitted representations arguing he should not be  removed  because
+       of his durable relationship with a British citizen and young  child.
+       In March 2016 the appellant applied  for  further  leave  to  remain
+       ('FLR') based on his family life. On 15 April  2016  the  respondent
+       served the appellant with  a  stage  1  deportation  decision  under
+       section 32(5) of the UK Borders Act 2007. In August 2016,  following
+       his release from prison,  the  appellant  was  immediately  detained
+       under the Immigration Acts. On  22  September  2016  the  respondent
+       refused the appellant's  FLR  application,  finalised  the  stage  2
+       deportation decision and issued a certificate under section  94B  of
+       the Nationality, Immigration and Asylum Act 2002 ('the  2002  Act').
+       As a result, of course, the  appellant  could  only  challenge  that
+       decision by way of an out of country appeal once he had left the UK:
+       see section 92(3)(a) of the 2002 Act.
+
+
+    4. On 7 April 2017 the appellant was deported to Jamaica  (there  being
+       no statutory bar on deportation before  an  appeal  is  lodged:  see
+       section 79(3) of the 2002 Act) and on  5  May  2017  he  lodged  his
+       appeal  with  the  FTT  against  the  respondent's  decision  of  22
+       September 2016 to refuse his human rights  claim.  This  appeal  was
+       brought under section 82(1)(b)  of  the  2002  Act.  Meanwhile,  the
+       appellant's challenge to the  section  94B  certificate  by  way  of
+       judicial review reached the end of the road when it was dismissed by
+       the Court of Appeal on 24 October 2017. It followed  that  the  sole
+       substantive issue  before  the  FTT  was  whether  the  respondent's
+       decision of 22 September 2016 was unlawful under section  6  of  the
+       Human Rights Act 1998. As the appellant fell within  the  definition
+       of a foreign criminal (section 117D(2) of the 2002 Act), the FTT was
+       charged with assessing  the  public  interest  in  his  deportation,
+       bearing in mind the possibility that he might fall within one of the
+       exceptions in section 117C(3).
+
+
+
+    The decision of the First-tier Tribunal
+
+
+    5. Following various case management directions, a three-judge panel of
+       the FTT (Judge Clements P, Designated FTT  Judge  McCarthy  and  FTT
+       Judge Carter) duly heard the appellant's appeal, as noted above,  in
+       Birmingham on 17 July 2018. In the morning  session  the  FTT  heard
+       legal argument from counsel on the preliminary issue relating to the
+       lawfulness of the proposed video-link facilities. In the  afternoon,
+       the FTT having decided to dismiss  the  preliminary  objection,  the
+       panel proceeded to hear the substantive human rights appeal.  On  14
+       August 2018 the FTT promulgated its detailed and lengthy decision on
+       the appeal (running to some 58 pages and 314 paragraphs).
+
+
+    6. In short, the FTT dismissed the  appellant's  human  rights  appeal.
+       However, the bulk of the FTT's decision and reasoning related to the
+       preliminary  issue  about   the   lawfulness   of   the   video-link
+       arrangement. The FTT recorded that the appellant  had  given  notice
+       that he did not consent to giving oral evidence  by  the  video-link
+       with  the  BHC  in  Jamaica  (or  for  the  appeal  bundle   to   be
+       electronically transmitted to the BHC). The  appellant  argued  that
+       the Home Office's proposed methods of transferring his personal data
+       involved a breach of Regulation (EU) 2016/679,  otherwise  known  as
+       the General Data Protection Regulation ('the GDPR').
+
+
+    7. On the day of the hearing, the FTT  gave  summary  reasons  for  its
+       determination on the preliminary issue in the following  terms  (FTT
+       decision at paragraph [126]):
+
+         "Decision:
+
+         The essential question we have had to decide  in  this  preliminary
+         hearing is whether the transfers of data via video link and of  the
+         appeal bundle from the UK to Jamaica would  entail  any  breach  of
+         data protection law.
+
+         We have decided that it would not.
+
+         We agree with the parties that the  GDPR  applies  to  all  of  the
+         processing we have been considering.
+
+         We do not however consider it necessary, for the purposes  of  this
+         preliminary  matter,  to  consider  the  appropriateness   of   the
+         safeguards in place, the effective rights or remedies available  to
+         [CJ] as,
+
+         a)   either there is no  transfer  of  personal  data  to  a  third
+         country such that article 46 does not arise; or
+
+         b)   assuming there has been a transfer to  a  third  country,  the
+         derogation under article 49(1)(e) applies such that  the  transfers
+         are necessary for the establishment, exercise or defence  of  legal
+         claims.
+
+
+         We do not consider that any issue around the lack  of  a  mandatory
+         provision requiring retention within the EU  is  relevant  to  this
+         case, noting in any event that there is not to be any retention  of
+         [CJ]'s personal data outside of the EU beyond 7  days  unless  [CJ]
+         wishes himself to retain a copy of  the  bundle,  which  of  course
+         would be his choice and is highly unlikely  to  give  rise  to  any
+         breach of data protection.
+
+
+         In these circumstances, we have taken the view that the  video-link
+         may go ahead and the bundle be transferred.
+
+
+         Full written reasons will be given in the written determination  of
+         this appeal."
+
+
+
+     The application for permission to appeal
+
+    8. On 11 September 2018 the appellant made an application  to  the  FTT
+       for permission to appeal to  the  Upper  Tribunal.  The  grounds  of
+       appeal as set out in the application were divided into two  parts  -
+       Part A concerned the preliminary issue and the  EU  data  protection
+       provisions, while Part B referred to various human  rights  grounds,
+       both procedurally and substantively.
+
+
+    9. On 19 September 2018 the FTT Chamber President, who had presided  at
+       the hearing, granted permission to appeal. As to the various grounds
+       in Part A, the President observed that the EU data protection issues
+       were novel matters, not previously  considered  in  the  context  of
+       immigration appeals, and so it was appropriate to  give  permission.
+       In doing so, the President added one caveat.  The  final  ground  of
+       appeal in Part A was a discrimination challenge, namely  that  there
+       was no objective justification for  treating  the  appellant's  case
+       differently  from  that  of  an  appellant  under  the   Immigration
+       (European Economic Area) Regulations 2016 (SI  2016/1052),  who  may
+       apply for permission to be temporarily admitted to the UK solely for
+       the purpose of making submissions in person at their appeal  hearing
+       (see regulation 41). Counsel for the appellant  conceded  that  this
+       point had  not  been  fully  argued  before  the  FTT.  When  giving
+       permission, the President accordingly observed that it  would  be  a
+       matter for the Upper Tribunal to determine the extent to which  that
+       point could be argued.
+
+
+   10. As to Part  B,  the  grounds  of  appeal  broadly  fell  into  three
+       categories. The first was that the respondent  had  been  given  too
+       much leeway in providing video-link facilities  from  overseas.  The
+       second was that the FTT had failed to  appreciate  the  difficulties
+       the appellant had in  preparing  and  presenting  his  case  in  the
+       absence of legal aid. The third was that - in consequence  of  those
+       first two failures - the FTT had  reached  several  unsound  factual
+       findings. The President gave permission to appeal given these issues
+       also related to the novel procedures adopted on the appeal.
+
+
+   11. We had several written submissions in advance of the  oral  hearing.
+       We  also  had  the  advantage  of  reading  the   multiple   written
+       submissions made in the FTT proceedings. We held an oral hearing  at
+       Field House in London on 24 and 25 January 2019. The  appellant  was
+       represented by Mr R de Mello and Mr T Muman, acting  pro  bono.  The
+       respondent was represented by Mr S Kovats QC. At the outset of  that
+       hearing we indicated to counsel that in  all  the  circumstances  we
+       were prepared to hear full  argument  on  the  discrimination  issue
+       despite the fact it had not been fully argued before the FTT.
+
+
+   12. Both parties recognised that the present appeal was in effect a test
+       case about such video-link arrangements. We also had  before  us  an
+       uncontested draft witness statement from Mr Andrew Bennett,  a  Home
+       Office official,  confirming  that  FTT  substantive  hearings  with
+       overseas video-links in section 94B appeals had  been  completed  in
+       respect of the following countries:  Albania,  Bangladesh,  Ecuador,
+       Gambia, India, Jamaica, Pakistan and Nigeria. In addition, the  Home
+       Office was in the process of putting in place  similar  arrangements
+       for the following further countries: Democratic Republic  of  Congo,
+       Dominica, Grenada, Kosovo, Nepal, South Africa,  Sri  Lanka,  Turkey
+       and Vietnam (and possibly also Cameroon and Trinidad & Tobago).
+
+
+
+    The framework of data protection law
+
+
+   13. We now turn to consider the framework of data protection law  as  it
+       applies for our purposes. The GDPR replaced Directive  95/46/EC  and
+       came into force on 25 May 2018. The GDPR was made  in  pursuance  of
+       Article 16 of the Treaty on the Functioning of  the  European  Union
+       (TFEU), which provides as follows:
+         "Article 16
+         1. Everyone has the  right  to  the  protection  of  personal  data
+       concerning them.
+         2. The European Parliament and the Council,  acting  in  accordance
+         with the ordinary legislative procedure, shall lay down  the  rules
+         relating to the  protection  of  individuals  with  regard  to  the
+         processing of personal data by Union institutions, bodies,  offices
+         and agencies, and by the Member States when carrying out activities
+         which fall within the scope of Union law, and the rules relating to
+         the free movement of such data. Compliance with these  rules  shall
+         be subject to the control of independent authorities.
+         The rules adopted on the basis of this  Article  shall  be  without
+         prejudice to the specific rules laid down  in  Article  39  of  the
+         Treaty on European Union."
+   14. It will be observed at  the  outset  that  the  right  enshrined  in
+       Article 16(1) applies irrespective  of  citizenship  or  nationality
+       ("Everyone  has  the  right  to  the  protection  of  personal  data
+       concerning them"); see to similar effect recital (2) of the GDPR.
+
+
+   15. The GDPR is divided into a total of 11  Chapters.  However,  we  are
+       principally concerned with certain provisions in Chapters I (general
+       provisions), II  (principles  for  processing  personal  data),  III
+       (rights of the data subject) and V (transfers of  personal  data  to
+       third  countries  or  international   organisations).   As   an   EU
+       Regulation, the GDPR is (at least both as at the material  time  and
+       at present) directly applicable in domestic law (see Article 288  of
+       the TFEU). However, the scope of the GDPR has been  widened  by  the
+       Data  Protection  Act  2018  ('the  DPA  2018'),  meaning  the   two
+       instruments must be read in tandem (and see especially section 22(1)
+       of the DPA 2018).
+
+
+   16. The DPA 2018 is arranged in 7 Parts, as explained by the overview in
+       section 1 of the  Act.  We  are  primarily  concerned  with  certain
+       provisions in  Part  2  (general  processing),  notably  sections  8
+       (lawfulness of processing) and 15 (exemptions), along with  Schedule
+       2  (exemptions  etc.  from  the  GDPR),  as  well  as   section   22
+       (application of  the  GDPR  to  processing  to  which  this  Chapter
+       applies). Part 2 of the DPA 2018 accordingly  supplements  the  GDPR
+       (see also section 1(3)).
+
+
+   17. As the DPA 2018 itself states, "most processing of personal data  is
+       subject to the GDPR" (section 1(2)).  However,  the  DPA  2018  also
+       refreshes parts of the world of data protection that the GDPR cannot
+       reach. It achieves this by deploying the  concept  of  the  "applied
+       GDPR". This means "the GDPR as applied by Chapter 3 of Part 2"  (see
+       section 3(11) of the DPA  2018).  Section  21(1)  of  the  DPA  2018
+       provides that Chapter 3 of Part  2  "applies  to  the  automated  or
+       structured processing of personal data  in  the  course  of  (a)  an
+       activity which is outside the scope of European Union law",  subject
+       to certain exceptions which  do  not  arise  for  present  purposes.
+       Section 22(2) in turn stipulates that  Chapter  2  of  Part  2  (the
+       provisions governing general processing) "applies for  the  purposes
+       of the applied GDPR as it applies for the purposes of the GDPR".  As
+       section 1(3) of the DPA 2018 sums up, Chapter 3 of Part 2 "applies a
+       broadly equivalent regime to certain types of  processing  to  which
+       the GDPR does not apply".
+
+
+   18. For present purposes there is no  material  difference  between  the
+       GDPR and the applied GDPR. It followed, Mr  Kovats  submitted,  that
+       there was no need to consider and determine whether  the  processing
+       of data in this case fell within the material scope of  EU  law.  Mr
+       Kovats's position was that  the  data  processing  in  question  was
+       governed under domestic law by the DPA  2018  and  thereby  also  by
+       either the GDPR (by direct  application)  or  by  the  applied  GDPR
+       regime (as supplemented by the DPA  2018).  The  FTT  accepted  that
+       analysis (paragraph [134]), as do we. Insofar  as  there  remains  a
+       live issue on this point, Mr de Mello submits that the GDPR  applies
+       in its pure form, as he says the appellant's data was transferred to
+       a non-EU third country, whereas Mr Kovats  contends  that  the  data
+       processing took place at all times under the jurisdiction of the UK.
+       We return to that issue further below in our  consideration  of  the
+       potential application and impact of Chapter V of the GDPR (Transfers
+       of personal data to third countries or international organisations).
+
+
+
+    Key definitions in data protection law
+
+
+   19. Before turning to consider  the  specific  challenges  made  by  the
+       appellant to the arrangements for processing his  personal  data  we
+       need to outline some of the definitions of the key terminology  used
+       under the GDPR and the DPA 2018. As a general principle, we note the
+       DPA 2018 provides in this context that "Terms used in Chapter  2  of
+       this Part and in the GDPR have the same meaning in Chapter 2 as they
+       have in the GDPR" (section 5(1)).
+
+
+   20. Personal data means "any information relating to  an  identified  or
+       identifiable  natural  person  ('data  subject');  an   identifiable
+       natural person is one who can be identified, directly or indirectly,
+       in particular by reference to an  identifier  such  as  a  name,  an
+       identification number, location data, an online identifier or to one
+       or more factors specific to the  physical,  physiological,  genetic,
+       mental, economic,  cultural  or  social  identity  of  that  natural
+       person" - see GDPR Article 4(1); see also DPA 2018 section 3(2).  It
+       is not in dispute  that  information  relating  to  the  appellant's
+       criminal convictions amounts to  sensitive  personal  data  that  in
+       principle qualifies for an extra layer  of  protection  -  see  GDPR
+       Article 10 and DPA  2018  section  10(4)  and  (5)  (but  note  also
+       paragraph 34 of Schedule 1 to the  Act,  providing  in  effect  that
+       processing such data is lawful "if the processing is necessary  when
+       a court or tribunal is acting in its judicial capacity").
+
+   21. Processing means "any  operation  or  set  of  operations  which  is
+       performed on personal data or on sets of personal data,  whether  or
+       not by automated means, such as collection, recording, organisation,
+       structuring,   storage,   adaptation   or   alteration,   retrieval,
+       consultation, use,  disclosure  by  transmission,  dissemination  or
+       otherwise making available, alignment or  combination,  restriction,
+       erasure or destruction" - see GDPR Article 4(2); see also  DPA  2018
+       section 3(4).
+
+
+   22. Controller means "the natural or  legal  person,  public  authority,
+       agency or other body which, alone or jointly with others, determines
+       the purposes and means of the processing of personal data; where the
+       purposes and means of such processing are  determined  by  Union  or
+       Member State law, the controller or the specific  criteria  for  its
+       nomination may be provided for by Union or Member State law"  -  see
+       GDPR Article 4(7). This definition is modified by DPA  2018  section
+       6, which makes it subject to section 209 (and section 2010, which is
+       not relevant for present purposes). However, section 209(1) provides
+       for the Act to bind the Crown while section 209(2)  stipulates  that
+       "For the  purposes  of  the  GDPR  and  this  Act,  each  government
+       department is to be treated as a  person  separate  from  the  other
+       government departments (to  the  extent  that  is  not  already  the
+       case)."
+
+   23. Processor means "a natural or legal person, public authority, agency
+       or other body  which  processes  personal  data  on  behalf  of  the
+       controller" - see GDPR Article 4(7); see also DPA 2018 section 3(6).
+
+
+   24. Data subject means the identified or identifiable living  individual
+       to whom personal data relates - see DPA section 3(5).
+
+
+   25. Consent (of the data subject) means  "any  freely  given,  specific,
+       informed and unambiguous indication of the data subject's wishes  by
+       which he or she, by a statement or by a  clear  affirmative  action,
+       signifies agreement to the processing of personal data  relating  to
+       him or her" - see GDPR Article 4(11).
+
+
+
+
+    A reminder of the appellant's grounds of appeal and a summary of our
+    approach
+
+
+   26. Mr de  Mello's  written  and  oral  submissions  on  behalf  of  the
+       appellant ranged far and wide, mounting  a  concerted  challenge  to
+       both the procedure adopted by the FTT and the substantive outcome of
+       the human rights appeal. In the first instance we consider  we  need
+       to focus on the FTT's treatment of three specific challenges put  to
+       it by the appellant and based on  the  protection  of  his  personal
+       data. The first of these concerned the appellant's right  to  object
+       to the processing of his personal data.  The  second  challenge  was
+       premised on his right to the erasure of his personal data  that  had
+       been processed. The  third  aspect  centred  on  what  Mr  de  Mello
+       submitted was the transfer of the appellant's  personal  data  to  a
+       third country. We then turn to consider the more general  attack  on
+       the video-link arrangement based on discrimination arguments.  Those
+       heads of challenge deal with the primary grounds of appeal  set  out
+       in Part A of the application for permission to appeal. We then  turn
+       to consider the Part B human rights arguments,  which  have  both  a
+       procedural and a substantive focus.
+
+
+
+
+    Data protection and the right to object
+
+
+   27. Following the overview in section 1, the first substantive provision
+       in  the  DPA  2018  is  section  2,  which  is  concerned  with  the
+       overarching goal of the protection of personal data. Section 2(1)(a)
+       provides that "the GDPR, the  applied  GDPR  and  this  Act  protect
+       individuals with regard to  the  processing  of  personal  data,  in
+       particular by - (a) requiring personal data to be processed lawfully
+       and fairly, on the basis of the data subject's  consent  or  another
+       specified  basis"  (emphasis  added).  It  follows   that   "another
+       specified basis" may provide the basis  for  fair  and  lawful  data
+       processing,  notwithstanding  the  absence  of  the  data  subject's
+       consent.
+
+
+   28. Article 6(1) of the GDPR then sets out the  circumstances  in  which
+       data processing is lawful:
+
+
+         "1.   Processing shall be lawful only if and to the extent that at
+         least one of the following applies:
+             (a) the data subject has given consent to  the  processing  of
+             his or her personal data for one or more specific purposes;
+             (b) processing is necessary for the performance of a  contract
+             to which the data subject is party or in order to  take  steps
+             at the request of the data subject prior to  entering  into  a
+             contract;
+             (c) processing  is  necessary  for  compliance  with  a  legal
+             obligation to which the controller is subject;
+             (d) processing is necessary in  order  to  protect  the  vital
+             interests of the data subject or of another natural person;
+             (e) processing is necessary for  the  performance  of  a  task
+             carried out in the public  interest  or  in  the  exercise  of
+             official authority vested in the controller;
+             (f) processing is necessary for the purposes of the legitimate
+             interests pursued by the  controller  or  by  a  third  party,
+             except where such interests are overridden by the interests or
+             fundamental rights and freedoms  of  the  data  subject  which
+             require protection of personal data, in particular  where  the
+             data subject is a child.
+
+
+         Point (f) of the first subparagraph shall not apply  to  processing
+         carried out by public  authorities  in  the  performance  of  their
+         tasks."
+
+
+   29. As the appellant had not given his consent (i.e. for the purposes of
+       Article  6(1)(a)),  the  issue  here  was  whether  processing   was
+       "necessary for the performance of a task carried out in  the  public
+       interest" within the meaning of Article  6(1)(e).  In  this  context
+       Article 6(3) further provides that "the  basis  for  the  processing
+       referred to in point (c) and (e) of paragraph 1 shall be laid  down
+       by (a) Union law; or (b) Member State law to which the controller is
+       subject." To that end, section 8 of the DPA 2018  in  turn  provides
+       that:
+
+
+         "In Article 6(1)  of  the  GDPR  (lawfulness  of  processing),  the
+         reference in point (e) to  processing  of  personal  data  that  is
+         necessary for the performance of a task carried out in  the  public
+         interest or in the exercise of the controller's official  authority
+         includes processing of personal data that is necessary for-
+         a) the administration of justice."
+
+   30. Article 9 of the GDPR  provides  special  protection  for  sensitive
+       personal data, in that processing such data is prohibited unless one
+       of a number of defined exceptions applies, one of which is where the
+       "processing is necessary for the establishment, exercise or  defence
+       of legal claims or whenever courts  are  acting  in  their  judicial
+       capacity (Article 9(1)(f)). Likewise,  the  processing  of  personal
+       data relating to criminal convictions  must  be  carried  out  "only
+       under the control of official authority"  or  when  authorised  with
+       appropriate safeguards (Article 10).
+
+
+   31. Chapter 3 of the GDPR then sets out  a  data  subject's  rights,  of
+       which the most significant for present purposes is  in  Article  21,
+       otherwise known as the 'right to object'. So, in particular, Article
+       21(1) provides as follows:
+
+
+         "The data subject shall  have  the  right  to  object,  on  grounds
+         relating to his  or  her  particular  situation,  at  any  time  to
+         processing of personal data concerning him or her which is based on
+         point (e) or (f) of Article  6(1),  including  profiling  based  on
+         those provisions.  The  controller  shall  no  longer  process  the
+         personal  data  unless  the  controller   demonstrates   compelling
+         legitimate grounds for the processing which override the interests,
+         rights and freedoms of the data subject or for  the  establishment,
+         exercise or defence of legal claims."
+
+
+   32. The right to object in Article 21(1) is not absolute. The  terms  of
+       that provision itself provide some qualifications  (i.e.  where  the
+       data controller demonstrates compelling legitimate  grounds,  etc.).
+       In addition, Article 23 of the GDPR ('Restrictions') makes provision
+       for a range of potential restrictions, of which we  need  only  cite
+       two:
+
+
+         "Union or  Member State  law  to  which  the  data  controller  or
+         processor is subject may restrict by way of a  legislative  measure
+         the scope of the obligations and rights provided for in Articles 12
+         to 22 and Article 34, as well as  Article 5  in  so  far  as  its
+         provisions correspond to the rights and obligations provided for in
+         Articles 12 to 22, when such a restriction respects the essence of
+         the fundamental rights and freedoms and is a
+         necessary and proportionate measure  in  a  democratic  society  to
+         safeguard:
+         ...
+         (f)  the  protection  of   judicial   independence   and   judicial
+    proceedings
+         ...
+
+
+         (j) the enforcement of civil law claims"
+
+
+   33. This is amplified for domestic purposes by section 15(1) of the  DPA
+       2018, introducing Schedule 2 to the Act, which makes "provision  for
+       exemptions from, and restrictions and adaptations of the application
+       of, rules of the GDPR". Specifically, section  15(2)(a)  notes  that
+       Part 1 of Schedule 2 "makes provision adapting  or  restricting  the
+       application of rules contained in Articles 13 to 21 and  34  of  the
+       GDPR in specified circumstances, as allowed for by Article 6(3)  and
+       Article 23(1) of the GDPR". There are two provisions  under  Part  1
+       which may be relevant in the present context. The first is that  the
+       relevant GDPR provisions "do not apply to  personal  data  processed
+       for any of the following purposes-(a) the maintenance  of  effective
+       immigration control" (paragraph 4(1)(a)). However, before  both  the
+       FTT and ourselves Mr Kovats expressly disavowed any reliance on that
+       provision, which we understand is being tested in other proceedings.
+       That leaves in play the second  possibility,  namely  the  exemption
+       provided for by paragraph 5(3) of Schedule 2:
+
+
+         "(3) The listed GDPR provisions do not apply to personal data where
+         disclosure of the data-
+             (a) is necessary for the purpose of, or  in  connection  with,
+             legal proceedings (including prospective legal proceedings),
+             (b) is necessary for the purpose of obtaining legal advice, or
+             (c) is otherwise necessary for the purposes  of  establishing,
+             exercising or defending legal rights,
+         to the extent  that  the  application  of  those  provisions  would
+         prevent the controller from making the disclosure."
+
+
+   34. It should not be overlooked that Part 2 of Schedule  2  also  "makes
+       provision restricting the application of rules contained in Articles
+       13 to 21 and 34 of the GDPR in specified circumstances,  as  allowed
+       for by Article 23(1) of  the  GDPR"  (see  section  15(2)(b)).  This
+       brings in paragraph 14(3) of Schedule 2, which  provides  that  "the
+       listed  GDPR  provisions  do  not  apply  to  the  extent  that  the
+       application  of  those  provisions  would  be  likely  to  prejudice
+       judicial independence or judicial proceedings".
+
+
+   35. Bearing in  mind  those  relevant  statutory  definitions,  the  FTT
+       concluded that  the  Tribunal  itself  was  the  controller  of  the
+       appellant's personal data for the purposes of the  appeal  and  that
+       the Home Office was at times (depending on the  factual  context)  a
+       controller and at other times a processor (paragraph [149]). The FTT
+       identified no other controllers or  processors  of  the  appellant's
+       data in relation to the appeal proceedings (paragraph [150]).  There
+       has been no challenge to those findings of fact.  Having  regard  to
+       the provisions of the GDPR and DPA 2018  as  cited  above,  and  the
+       statutory constraints laid down by the section 94B certificate,  the
+       FTT concluded as follows:
+
+
+         "156.  We  conclude  from  all  these  considerations  that  it  is
+         necessary for the Appellant  to  participate  in  the  appeal  from
+         overseas because no less restrictive measure  is  available,  which
+         will entail the processing of his personal data.
+
+
+         157. We  find  that  it  is  necessary  and  proportionate  in  the
+         circumstances of this appeal to override the Appellant's  right  to
+         object  to  the  processing  of  his  personal  data  because  such
+         processing is necessary in relation to judicial proceedings  and/or
+         is necessary for the  purposes  of  or  in  connection  with  legal
+         proceedings or establishing, exercising or defending legal  rights.
+         The former exemption applies to the processing by the Tribunal  and
+         the latter two exemptions to the processing by the  respondent,  in
+         particular where that is otherwise than under the direction of  the
+         Tribunal.
+
+         158. In summary, we find the Appellant's right  to  object  to  the
+         processing of his personal  data  by  the  respondent  and  by  the
+         Tribunal, which he has exercised under article 21 of the GDPR, does
+         not apply on account of the qualification in article 21(1)  of  the
+         GDPR, and by  the  application  of  the  exemptions  in  paragraphs
+         5(3)(a) and (c), and 14(3) of schedule 2 to the DPA 2018."
+
+
+   36. So how is the challenge to this  finding  by  the  FTT  framed?  The
+       appellant's most  ambitious  and  far-reaching  submission  was  the
+       contention that the FTT had erred in law in concluding that it could
+       only deal with the case as an out of country  appeal.  This  primary
+       ground of appeal further argued that the FTT was bound to apply  the
+       test of proportionality as understood in EU  law.  Had  it  properly
+       done so, Mr de Mello submitted, the FTT would have  been  duty-bound
+       to disapply  the  section  94B  certificate  as  there  was  a  less
+       restrictive measure available, namely to  permit  the  appellant  to
+       return to give live evidence before the FTT in  Birmingham.  Suffice
+       to say we remained unconvinced by this line of argument  and  agreed
+       with Mr Kovats, who characterised the extant section 94B certificate
+       as the inevitable starting point for any analysis of the  lawfulness
+       of the arrangements that had been put in place. Thus,  the  FTT  was
+       fixed  with  both  a  valid  section  94B  certificate  and   lawful
+       deportation, which then acted as the springboard for the inquiry  as
+       to  whether  the  video-link  arrangement  was  necessary.  On  that
+       question we cannot fault the FTT's analysis.
+
+
+   37. The only other ground of appeal from Part A that is relevant in this
+       context is the bare and  unparticularised  assertion  that  the  FTT
+       erred in law by holding that the appellant's right to  object  under
+       Article 21 of the GDPR did not apply. However, the more we  listened
+       to Mr de Mello the more it seemed  to  us  that  he  was  revisiting
+       submissions on the construction of the GDPR and the DPA  2018  which
+       had already been ventilated before the FTT and roundly rejected. The
+       FTT's central finding in this context (at paragraph [158]) was  that
+       the right to object did not apply because of the  cumulative  effect
+       of:
+
+
+       a) the qualification in article 21(1) of the GDPR  (i.e.  where  the
+          data controller demonstrates compelling legitimate grounds, etc);
+       b) the application of the exemptions in paragraphs 5(3)(a)  and  (c)
+          of Schedule 2 to the DPA 2018 (i.e. "necessary  for  the  purpose
+          of, or in  connection  with,  legal  proceedings"  or  "otherwise
+          necessary  for  the  purposes  of  establishing,  exercising   or
+          defending legal rights"); and
+       c)  paragraph 14(3) of  Schedule  2  to  the  DPA  2018  (where  its
+          application "would be likely to prejudice  judicial  independence
+          or judicial proceedings").
+
+   38. In our judgment the FTT directed itself entirely properly as to  the
+       interpretation  and  application  of  those   provisions.   Finally,
+       however, we should note that in an additional written submission (22
+       January 2019) Mr de Mello sought to argue that paragraph 5(3)(a) and
+       (c) of Schedule 2 to  the  DPA  2018  went  "way  beyond"  what  was
+       permitted by Article 23 of the GDPR and should be disapplied. We  do
+       not accept this submission. Article 23 clearly envisages that  there
+       may be restrictions on a data subject's rights, including  e.g.  the
+       right to object under Article 21(1). Any such restriction must be "a
+       necessary and proportionate  measure  in  a  democratic  society  to
+       safeguard" one of several specified  interests.  As  already  noted,
+       these include both "the  protection  of  judicial  independence  and
+       judicial proceedings" (Article 23(1)(f))  and  "the  enforcement  of
+       civil law claims" (Article 23(1)(j)). In oral argument Mr  de  Mello
+       submitted  that  "the  enforcement  of  civil  law  claims"  was  an
+       autonomous concept that  did  not  include  public  law  immigration
+       appeals under the 2002 Act. However, we agree with  Mr  Kovats  that
+       "civil law" is used here in  contradistinction  to  "criminal  law",
+       rather than in any narrower sense as  that  term  is  understood  in
+       English and Welsh law. This interpretation is supported  by  Article
+       2(2)(d), which excludes the processing  of  personal  data  for  the
+       purposes of the criminal justice system from the material  scope  of
+       the  GDPR  (see  also  recital  (19)  and  Regulation  2016/680/EU).
+       Finally, section 15(2)(a) and (b) explains that  the  exemptions  in
+       Part 1 of Schedule 2 restrict the data subject's rights "as  allowed
+       for by Article 6(3) and Article 23(1) of the  GDPR"  (and  see  also
+       paragraph 1 of Schedule 2).  Rather  than  being  incompatible  with
+       Article 23(1), we consider that on an  ordinary  reading  paragraphs
+       5(3)(a) and (c) of Schedule 2 are entirely consistent with the terms
+       of Article 23(1)(f) and (j) - and indeed Article 6(3).
+
+
+
+
+    Data protection and the right to be forgotten
+
+
+   39. The second principal challenge mounted by the appellant concerns the
+       statutory right to erasure or  the  'right  to  be  forgotten'.  The
+       appellant's concern revolved around  the  retention  of  the  appeal
+       bundle by the BHC. Article 17(1)(a) of the GDPR provides as follows:
+
+
+
+
+          "The data subject  shall  have  the  right  to  obtain  from  the
+          controller the erasure of personal data  concerning  him  or  her
+          without undue delay and the controller shall have the  obligation
+          to erase personal data without  undue  delay  where  one  of  the
+          following grounds applies:
+          a) the personal data are no longer necessary in relation  to  the
+             purposes  for  which  they   were   collected   or   otherwise
+             processed;".
+
+
+   40. However, the FTT set out the  assurances  that  were  given  by  the
+       respondent in the course of the proceedings, namely that  the  staff
+       handling the appellant's data at the  BHC  were  Home  Office  staff
+       (rather than, e.g., FCO officials) and that the appeal bundle  would
+       be retained for no more than 7  days  after  the  hearing.  The  FTT
+       concluded that the assurances were reliable, not least as they  were
+       made in  response  to  the  FTT's  directions,  and  that  any  data
+       protection breach was unlikely, given that if the data was  retained
+       beyond the 7-day period "it would be at the behest of the  appellant
+       himself" (paragraph [161]). There was no serious challenge by Mr  de
+       Mello to those findings of fact. In those circumstances we  conclude
+       that the FTT properly directed itself as to the right to erasure.
+
+
+
+
+    Data protection and transfer of data to a third country
+
+
+   41. The third principal area of dispute revolved around the question  of
+       the transfer of the appellant's personal data to a third country. We
+       start with the relevant legal framework. Article 44 of the GDPR sets
+       out the general principle for transfers, namely that:
+
+
+         "Any transfer of personal data which are undergoing  processing  or
+         are intended for processing after transfer to a third country or to
+         an international organisation shall take place only if, subject  to
+         the other provisions of this Regulation, the conditions  laid  down
+         in this Chapter are complied with by the controller and  processor,
+         including for onward transfers of  personal  data  from  the  third
+         country or an international organisation to another  third  country
+         or to another international organisation. All  provisions  in  this
+         Chapter shall be applied in order  to  ensure  that  the  level  of
+         protection of natural persons guaranteed by this Regulation is  not
+         undermined."
+
+
+   42. Article 45(1) of the GDPR  provides  that  a  transfer  to  a  third
+       country may take place without specific authorisation providing that
+       the European Commission has made  what  is  known  as  an  'adequacy
+       decision', i.e. a  decision  that  the  third  country  in  question
+       ensures an adequate level of data protection. It  is  common  ground
+       that the Commission has not made an adequacy decision in relation to
+       Jamaica. In the absence of any such adequacy decision, then  a  data
+       controller or processor may only transfer personal data to  a  third
+       country if appropriate safeguards are  provided  and  "on  condition
+       that enforceable data subject rights and  effective  legal  remedies
+       for  data  subjects  are  available"  (Article  46(1)).  There  are,
+       however, some derogations for specific situations, as  provided  for
+       by Article 49:
+
+
+                                 "Article 49
+
+
+                     Derogations for specific situations
+
+
+         1.   In  the  absence  of  an  adequacy  decision   pursuant   to
+         Article 45(3), or of appropriate safeguards pursuant to Article 46,
+         including binding corporate rules, a transfer or a set of transfers
+         of  personal  data  to  a  third  country   or   an   international
+         organisation  shall  take  place  only  on  one  of  the  following
+         conditions:
+
+
+          a) the data subject has  explicitly  consented  to  the  proposed
+             transfer, after having been informed of the possible risks  of
+             such transfers for the data subject due to the absence  of  an
+             adequacy decision and appropriate safeguards;
+          b) the transfer is necessary for the performance  of  a  contract
+             between  the  data  subject  and   the   controller   or   the
+             implementation of pre-contractual measures taken at  the  data
+             subject's request;
+          c) the transfer is necessary for the conclusion or performance of
+             a contract concluded in  the  interest  of  the  data  subject
+             between the controller and another natural or legal person;
+          d) the transfer is necessary  for  important  reasons  of  public
+             interest;
+          e) the transfer is necessary for the establishment,  exercise  or
+             defence of legal claims;
+          f) the transfer is  necessary  in  order  to  protect  the  vital
+             interests of the data subject or of other persons,  where  the
+             data subject is physically  or  legally  incapable  of  giving
+             consent;
+          g) the transfer is made from a register which according to  Union
+             or Member State law is intended to provide information to  the
+             public and which is open to consultation either by the  public
+             in general or by any person who can demonstrate  a  legitimate
+             interest, but only to the extent that the conditions laid down
+             by Union or Member State law for consultation are fulfilled in
+             the particular case.
+
+
+         Where a transfer could not be based on a provision in Article 45 or
+         46, including the provisions on binding corporate rules,  and  none
+         of the derogations for a specific  situation  referred  to  in  the
+         first subparagraph of this paragraph is applicable, a transfer to a
+         third country or an international organisation may take place  only
+         if the transfer is not repetitive, concerns only a  limited  number
+         of data subjects, is  necessary  for  the  purposes  of  compelling
+         legitimate interests  pursued  by  the  controller  which  are  not
+         overridden by the interests or rights  and  freedoms  of  the  data
+         subject, and the controller  has  assessed  all  the  circumstances
+         surrounding the  data  transfer  and  has  on  the  basis  of  that
+         assessment  provided  suitable  safeguards  with  regard   to   the
+         protection of  personal  data.  The  controller  shall  inform  the
+         supervisory authority of the transfer.  The  controller  shall,  in
+         addition to providing the information referred to  in  Articles 13
+         and 14, inform  the  data  subject  of  the  transfer  and  on  the
+         compelling legitimate interests pursued.
+         2.   A transfer pursuant to point (g) of the first subparagraph of
+         paragraph 1 shall not involve the entirety of the personal data  or
+         entire categories of the personal data contained in  the  register.
+         Where the register is intended for consultation by persons having a
+         legitimate interest, the transfer shall be made only at the request
+         of those persons or if they are to be the recipients.
+         3.   Points (a), (b) and (c) of the first subparagraph of paragraph
+         1 and the second subparagraph thereof shall not apply to activities
+         carried out by public authorities in the exercise of  their  public
+         powers.
+         4.   The public interest referred to in point  (d)  of  the  first
+         subparagraph of paragraph 1 shall be recognised in Union law or  in
+         the law of the Member State to which the controller is subject.
+         5.   In the absence of an adequacy decision, Union or Member State
+         law may, for important reasons of public  interest,  expressly  set
+         limits to the transfer of specific categories of personal data to a
+         third country or an international organisation. Member States shall
+         notify such provisions to the Commission.
+         6.   The controller or processor shall document the assessment  as
+         well  as  the  suitable  safeguards  referred  to  in  the   second
+         subparagraph of paragraph 1 of this Article in the records referred
+         to in Article 30."
+
+   43. In the event, the FTT decided not to determine whether the  transfer
+       of personal data between the Tribunal in Birmingham and the  BHC  in
+       Kingston involved such data leaving the jurisdiction of the UK.  The
+       FTT, in summarising the  parties'  respective  submissions  on  that
+       issue,  recognised   that   its   resolution   was   by   no   means
+       straightforward. The FTT found on the facts that there was no reason
+       why the appellant's personal data would have to be  transmitted  to,
+       or shared with, the Jamaican authorities and also no  evidence  that
+       it was liable to being hacked.  The  FTT  therefore  concluded  that
+       either there was no transfer of personal data  to  a  third  country
+       (and so GDPR Article 46 did not apply) or,  alternatively,  even  if
+       the appellant's personal data  was  being  transferred  to  a  third
+       country, the derogation in Article 49(1)(e) would apply, namely that
+       the transfer was  "necessary  for  the  establishment,  exercise  or
+       defence of legal claims".
+
+
+   44. We have had the benefit of more detailed argument on both points and
+       consider that it is appropriate that we should deal with them both.
+
+
+   45. Thus, the first question  is  whether  the  video-link  arrangements
+       between Birmingham and Kingston did indeed involve  a  "transfer  of
+       personal data ... to a third country" within the meaning of  Article
+       44 of the GDPR. We may summarise the parties'  submissions  on  this
+       point as follows.
+
+
+   46. Mr Kovats submitted that the personal data being  processed  was  at
+       all times under the control of Home Office  officials.  He  did  not
+       seek to argue that UK domestic law applied within the four walls  of
+       the BHC in Kingston. Rather, he pointed to the principles of  public
+       international law as guaranteeing the  inviolability  of  diplomatic
+       and  consular  premises.  He   contended   that   on   a   purposive
+       interpretation of the GDPR, and on the facts of this case, there was
+       in effect no transfer of data to a third country.
+
+
+   47. Mr de Mello, to the contrary, submitted that the appeal  necessarily
+       involved the transfer and retention of the appellant's personal  and
+       sensitive data to a third country, notwithstanding the processing of
+       that data in Jamaica took place within the BHC. The main  thrust  of
+       his submissions was that because there was a  transfer  of  data  to
+       Jamaica then that third country had to ensure an adequate  level  of
+       protection for the appellant's data.
+
+
+   48. We agree with the FTT (at  paragraph  [171]),  that  if  the  proper
+       approach to be applied is a simple geographical test, then there  is
+       considerable force in Mr de Mello's argument that the data was being
+       transferred to a third country outside the EU.  But,  in  our  view,
+       such an analysis is not  just  simple  but  overly  simplistic.  The
+       starting point is that the GDPR has a  degree  of  extra-territorial
+       effect. The GDPR defines its territorial reach in Article 3:
+
+
+         "1.   This Regulation applies to the processing of personal data in
+         the context of the activities of an establishment of  a  controller
+         or a processor in the Union, regardless of whether  the  processing
+         takes place in the Union or not.
+         2. [omitted as not relevant]
+         3.   This Regulation applies to the processing of personal data by
+         a controller not established in the Union, but  in  a  place  where
+         Member State law applies by virtue of public international law."
+
+
+   49. We should also observe that Article 3 of the GDPR reflects the terms
+       of recital (25) which provides that:
+
+
+         "Where Member State law applies by virtue of  public  international
+         law,  this  Regulation  should  also  apply  to  a  controller  not
+         established in the Union, such as in a  Member  State's  diplomatic
+         mission or consular post."
+
+
+   50. The DPA 2018 is likewise extensive in its territorial scope. Section
+       207(2) expressly provides that the Act "applies to the processing of
+       personal data in the context of the activities of  an  establishment
+       of a controller or processor in the United Kingdom, whether  or  not
+       the processing takes place in the United Kingdom" (emphasis added).
+
+
+   51. So far as the relevant public international law is  concerned,  both
+       Jamaica and the UK are signatories of, and have ratified, the Vienna
+       Convention on Diplomatic Relations (1961). This treaty,  of  course,
+       provides that "the premises of  the  mission  shall  be  inviolable"
+       (Article 22), along with its archives and documents (Article 24) and
+       its official correspondence (Article 27.2). Similar safeguards apply
+       under  the  Vienna  Convention  on  Consular  Relations  (1963;  see
+       Articles 31, 33, 35  and  70),  which  again  has  been  signed  and
+       ratified by both states concerned.  Mr  de  Mello  argued  that  the
+       appeal bundle in the present case before the FTT did not count as  a
+       consular document. However, that is not to ask the  right  question.
+       We observe that "consular functions" are defined very broadly by the
+       Vienna  Convention   (1963),   specifically   so   as   to   include
+       "transmitting judicial and extrajudicial documents" (Article  5(j)).
+       Mr de Mello also contended that the giving of live evidence by video-
+       link was not a consular function.  However,  the  Vienna  Convention
+       (1963) again provides  more  generally  a  catch-all  definition  of
+       consular functions as  including  "performing  any  other  functions
+       entrusted to a consular post by the sending State ...  to  which  no
+       objection is taken by the receiving State" (Article 5(m)). From  the
+       principle of inviolability, it follows that the Jamaican authorities
+       have no legal basis for gaining access to the  appellant's  personal
+       data, and the integrity of that data is effectively secured  to  the
+       same extent as if the data processing was  taking  place  wholly  in
+       Birmingham.
+
+
+   52. In support of his argument that Jamaica was required  to  ensure  an
+       adequate level of data protection, Mr de Mello placed great store by
+       the decision of the Court of Justice of the European Union in Case C-
+       362/14  Schrems  v  Data  Protection  Commissioner  [2016]  QB  527.
+       However, Schrems concerned the transfer of  data  from  Austria  (Mr
+       Schrems's home Member State) via Ireland to Facebook  Inc's  servers
+       in the United States. The Grand Chamber's judgment does not  address
+       the special position of mission premises and so does not  assist  Mr
+       de Mello's cause.
+
+
+   53. We agree with Mr Kovats that it makes good sense for the GDPR itself
+       to apply to an EU Member State's diplomatic  and  consular  premises
+       overseas, rather than to treat any data transfer to such premises as
+       a transfer to a third country. This is  because  for  all  practical
+       purposes the data remains under  the  sole  control  of  the  Member
+       State.
+
+
+   54. If we are wrong on that first question, and there is a  transfer  of
+       data to a third country, we must also consider the second  question,
+       namely whether one of the derogations in  Article  49  of  the  GDPR
+       applies. The first of these is that the data subject has  explicitly
+       consented to  the  proposed  transfer  (Article  49(1)(a)).  In  the
+       present case we recognise the appellant has  expressly  refused  his
+       consent. It follows that Article 49(1)(a) cannot apply. However, the
+       fact that Article 49(1)(a) is a freestanding basis for derogation by
+       definition means that any of the other heads of  Article  49(1)  may
+       apply irrespective  of  the  data  subject's  consent  (as  is  also
+       consistent with section 2(1)(a) of the DPA 2018).
+
+
+   55. Mr Kovats did not seek to  suggest  that  Article  49(1)(d)  applied
+       ("the  transfer  is  necessary  for  important  reasons  of   public
+       interest"). Rather, he  submitted  that  Article  49(1)(e)  applied,
+       namely that  "the  transfer  is  necessary  for  the  establishment,
+       exercise or defence of legal claims". Mr de Mello sought to persuade
+       us  that  the  formulation  in  Article  49(1)(e)  applied  only  to
+       preliminary steps taken before judicial proceedings  were  launched,
+       rather  than  to  steps  taken  in  the  course  of  those  judicial
+       proceedings themselves. However, as Mr Kovats argued, such a reading
+       cuts across both the natural meaning of the words and the purpose of
+       the derogation. We are accordingly satisfied that if the appellant's
+       appeal did involve the transfer of his  personal  data  to  a  third
+       country, then such transfer  was  lawful  under  the  derogation  in
+       Article 49(1)(e). That being so, it is unnecessary to consider Mr De
+       Mello's further submissions on the applicability of  the  'read-out'
+       at the end of Article 49(1).
+
+
+
+    Data protection and the discrimination ground
+
+
+   56. That  takes  us  to  the  appellant's  challenge  based  on  alleged
+       discrimination. In the proceedings before the FTT, this was  put  in
+       terms of the data processing involved in the video-link  arrangement
+       as amounting to a breach of Article 14, taken together with  Article
+       8 of the ECHR. The FTT dealt with this argument shortly as follows:
+
+
+         "163. We have considered if there is any merit in Mr de  Mello  and
+         Mr Muman's argument that the proposed processing of the appellant's
+         personal data would violate article 14 taken with article 8 of  the
+         ECHR. In the context of the preliminary issue,  we  understand  the
+         appellant to be relying on the provision in article 8 of  the  ECHR
+         that requires respect for  his  private  life,  which  includes  an
+         element of a right to data protection in relation  to  a  right  to
+         privacy. To this extent, we appreciate that article 14 of the  ECHR
+         might apply.
+
+
+         164. However, the argument suggesting discrimination is undeveloped
+         and unclear.  We find the argument has been included  merely  as  a
+         'catch all' provision. There is  no  evidence  that  the  appellant
+         would be treated any differently from another person in  a  similar
+         situation. The Tribunals, Courts and various government departments
+         employ video link and other modern means of communication  to  take
+         evidence from people who cannot attend  a  venue,  whether  through
+         some physical or legal restriction. The only comparator cited is  a
+         British citizen but such a person is not an appropriate  comparator
+         because they are not subject to immigration control. We reject  the
+         argument based on article 14 as being without merit in relation  to
+         the issue of data protection."
+
+
+   57.  Given the limited way in which the point had been argued before the
+       FTT, we consider that its treatment in the decision in  the  passage
+       at paragraphs [163]-[164] above was entirely proportionate.  We  had
+       the advantage  of  further  written  and  oral  submissions  on  the
+       discrimination point. Before us, Mr de Mello  framed  his  arguments
+       not in terms of ECHR Articles  8  and  14  but  rather  the  broader
+       principles of EU law and the Charter of Fundamental  Rights  of  the
+       EU. He argued that the video-link  arrangements  that  were  put  in
+       place amounted to  both  direct  discrimination  (on  the  basis  of
+       nationality) and indirect discrimination (on the ground of race  and
+       ethnicity)  and  (as  regard  the  latter)  was   not   capable   of
+       justification.
+
+
+   58. Furthermore, and more specifically, Mr de Mello submitted there  was
+       no  objective  justification  for  treating  the  appellant's   case
+       differently from that of an appellant under  regulation  41  of  the
+       Immigration  (European   Economic   Area)   Regulations   2016   (SI
+       2016/1052). This provides that an EEA  national  who  is  a  foreign
+       criminal may apply for permission to be temporarily admitted to  the
+       UK solely for the purpose of making submissions in person  at  their
+       appeal hearing. Details of the relevant arrangements are to be found
+       in the relevant Home Office guidance to staff (Regulations 33 and 41
+       of the Immigration (European  Economic  Area)  Regulations  2016,  3
+       August 2017). We understand that most of those who  are  allowed  to
+       return to the UK on this basis are housed in  immigration  detention
+       centres for the duration of their stay.
+
+
+   59. We agree with Mr Kovats that these  submissions  on  behalf  of  the
+       appellant conflate and confuse  two  distinct  matters,  being  data
+       protection rights and immigration rights.
+
+
+   60. So far as data protection is concerned, we have already  noted  that
+       the GDPR and the DPA 2018 do not  discriminate  on  the  grounds  of
+       nationality. Furthermore, and in any event, Mr Kovats disavowed  any
+       reliance on the specific restriction that applies to  personal  data
+       processed for the maintenance of effective immigration controls (see
+       paragraph 4 of Part 1 of  Schedule  2  to  the  DPA  2018;  and  see
+       paragraph 33 above). Nor does Mr de Mello's invocation of Article 16
+       TFEU advance his argument, for the simple reason that it matters not
+       whether the data processing in this case is or  is  not  within  the
+       material scope of EU law (see paragraph 18 above).  The  reason  for
+       that was that the very same issues arose whether this case was dealt
+       with under the GDPR or the parallel applied GDPR regime.
+
+
+   61. As regard immigration, the appellant is undeniably a  third  country
+       national. Of course, EU citizens have the right  of  free  movement,
+       subject  to  carefully  defined  restrictions.  In  contrast  non-EU
+       citizens are subject to  the  Immigration  Acts  and  have  no  such
+       rights. By virtue of that fundamental  distinction,  EU  and  non-EU
+       citizens cannot be seen as being in an analogous position in respect
+       of immigration. It follows that e.g. discrimination on the basis  of
+       nationality is entirely permissible in, and indeed  fundamental  to,
+       immigration law. The simple fact of the matter is that the appellant
+       is a non-EU national who thereby lacks EU free movement rights.  For
+       that reason, the purported comparison with the EEA foreign  criminal
+       who has the possibility of admittance under regulation 41 so  as  to
+       attend his appeal hearing in person is based on a false analogy.
+
+
+   62. In sum, we agree with Mr Kovats that the  whole  edifice  of  Mr  de
+       Mello's wide-ranging submissions on discrimination is founded on the
+       premise  that  whenever  any  immigration  decision  involving   the
+       processing of personal data - in practical terms nearly  every  such
+       decision - a non-EU citizen might be given the same rights as an  EU
+       citizen. Obviously, that is not what the law mandates.
+
+
+   63. Furthermore, it seems to us that, at least in substance  if  not  in
+       form, the appellant's challenge is  in  reality  an  attack  on  the
+       section 94B certificate. However, as the FTT  correctly  identified,
+       case law has consistently stated that the  FTT  does  not  have  the
+       power to set aside a section 94B certificate. In  the  present  case
+       the section 94B certificate was  challenged  through  the  available
+       route of judicial review  but  foundered  at  every  stage  and  was
+       ultimately  dismissed.  The  inevitable  consequence  was  that  the
+       certificate stood (paragraph [141]). Thereafter, given  the  Supreme
+       Court's judgment in R (Kiarie and Byndloss) v Secretary of State for
+       the Home Department [2017] UKSC 42; [2017] 1 WLR 2380, the issue was
+       whether the procedure adopted for the  appellant's  out  of  country
+       appeal  satisfied  the   procedural   requirements   of   guaranteed
+       effectiveness and fairness. We therefore also turn to address  those
+       arguments.
+
+
+
+
+    The procedural challenge under human rights law
+
+
+   64. The appellant's case before the FTT - putting to one side  his  data
+       protection  concerns  -  was   that   the   arrangements   for   his
+       participation in the hearing and giving his evidence by way of video-
+       link did not amount to a fair procedure for the determination of the
+       substantive human rights  issues  arising  on  his  out  of  country
+       deportation appeal. The FTT considered this challenge in  depth.  It
+       began by setting the relevant legal framework, directing  itself  at
+       length in accordance with the principles set out in  R  (Kiarie  and
+       Byndloss) and further explained in R (Nixon et al)  v  Secretary  of
+       State for the Home Department [2018] EWCA  Civ  3  and  AJ  (s  94B:
+       Kairie  and  Byndloss  Questions)  Nigeria  [2018]  UKUT  115  (IAC)
+       (paragraphs [184]-[189]). The FTT then considered  the  difficulties
+       faced by the appellant  in  instructing  his  legal  representatives
+       (paragraphs [190]-[201]), as well as those encountered  in  securing
+       expert reports and other professional  evidence  (paragraphs  [202]-
+       [213]). The FTT also had regard to the absence  of  the  appellant's
+       partner in the context of other possible witnesses (paragraphs [216]-
+       [221]), before reviewing whether the process for the evidence  given
+       by means of the video-link was satisfactory.  The  FTT  reached  the
+       overall conclusion that the appellant had been able  to  participate
+       effectively in the hearing and that being out of country and  giving
+       evidence by video-link did  not  impinge  on  the  fairness  of  the
+       proceedings (paragraphs [222]-[230]).
+
+
+   65. The appellant's grounds of appeal to the Upper Tribunal  under  this
+       segment of Part B of the  application  are  a  medley  of  disparate
+       complaints. The first ground is that the video-link in  the  present
+       case was established in a technically sophisticated manner  (as  the
+       FTT itself acknowledged at paragraph [223]) that would not always be
+       replicated in other out of country appeals. This takes the appellant
+       nowhere; as Mr Kovats observed, it is effectively an admission  that
+       the video-link procedure  adopted  in  this  case  was  fair  whilst
+       speculating that this may not be so for other cases.  However,  this
+       is the appellant's appeal, not some other appeal. The other  grounds
+       as  pleaded  and  directed  at  the  mechanics  of  the   video-link
+       arrangements are likewise concerned  with  the  generality  of  such
+       cases rather than the appellant's own case. The remaining grounds of
+       appeal that attack the fairness of the procedure  adopted  (e.g.  as
+       regard  the  appellant's   undoubted   practical   difficulties   in
+       instructing  his  solicitors  and  the  absence  of  other   witness
+       evidence) all come down to an attempt to re-argue the fairness issue
+       on the facts. However, we  are  satisfied  that  the  FTT  correctly
+       identified itself as to the relevant law and then grappled with  the
+       realities of the situation, ultimately reaching sustainable findings
+       on the evidence which demonstrate no error of law.
+
+
+
+
+    The substantive challenge under human rights law
+
+
+   66. Most of the argument before both the FTT and this  Tribunal  centred
+       on the preliminary issue. So  far  as  the  substantive  appeal  was
+       concerned, the appellant submitted his deportation  to  Jamaica  was
+       unlawful under section 6 of the Human Rights Act 1998 as it breached
+       his Article 8 ECHR right to respect for his family and private life.
+       The legal framework for resolving such a claim is  well-established.
+       Given the appellant's 3-year sentence of imprisonment, the Secretary
+       of State was required by section 32 of the 2007 Act to deport him as
+       a "foreign criminal" unless one of  the  exceptions  in  section  33
+       applied.  The  appellant  relied  on  Exception   1,   namely   that
+       deportation involved a breach  of  his  Convention  rights  (section
+       33(2)(a)). That being so, Part 5A of the 2002  Act  applies  (namely
+       sections 117A-117D, inserted by section 19 of  the  Immigration  Act
+       2014). In the present  context  two  provisions  from  Part  5A  are
+       particularly relevant.
+
+
+   67. The first is that the appellant had been an  overstayer  in  the  UK
+       since 26 June 2002. Section 117B(4) is relevant as it provides  that
+       little weight should be given  to  a  person's  private  life  or  a
+       relationship formed with a qualifying partner (and  it  was  not  in
+       dispute that  the  appellant's  partner  met  that  definition:  see
+       section 117D(1)) that is established  at  a  time  when  the  person
+       concerned is in the UK unlawfully.
+
+
+   68. The second is the statutory directive on  the  approach  to  foreign
+       criminals as enshrined in section 117C, the material parts of  which
+       read as follows:
+
+
+         "Article 8: additional considerations in  cases  involving  foreign
+       criminals
+         117C - (1) The deportation of foreign criminals is  in  the  public
+      interest.
+         (2)  The more serious the offence committed by a foreign  criminal,
+            the greater  is  the  public  interest  in  deportation  of  the
+            criminal.
+         (3)  In the case of a foreign  criminal  ("C")  who  has  not  been
+            sentenced to a period of imprisonment of four years or more, the
+            public interest requires C's deportation unless Exception  1  or
+            Exception 2 applies.
+   4) Exception 1 [omitted as not relevant]
+   5) Exception 2 applies where C has a genuine and subsisting  relationship
+      with a qualifying  partner,  or  a  genuine  and  subsisting  parental
+      relationship  with  a  qualifying  child,  and  the  effect   of   C's
+      deportation on the partner or child would be unduly harsh."
+
+
+   69. In addition, paragraphs A398 to 399 of the Immigration Rules,  which
+       deal further with consideration of deportation and Article  8  ECHR,
+       also fell for consideration. Realistically the only live issue  here
+       was whether it would be "unduly harsh" for the appellant's  daughter
+       to remain in the UK without him (see paragraph 399(a)). Furthermore,
+       as the FTT recognised, section 55 of the  Borders,  Citizenship  and
+       Immigration Act 2009 requires the Secretary of State to ensure  that
+       her immigration functions are discharged having regard to  the  need
+       to safeguard and promote the welfare of children who are in the  UK,
+       in which context the best interests of a British child are a primary
+       consideration (see ZH (Tanzania) v Secretary of State for  the  Home
+       Department [2011] UKSC 4; [2011] 2 AC 166).
+
+
+   70. The FTT dealt with the substantive appeal in meticulous  detail.  It
+       reviewed  the   appellant's   evidence   (paragraphs   [231]-[254]),
+       summarised the parties' submissions  (paragraphs  [255]-[270]),  set
+       out  the  legal  framework  with  copious  reference  to   statutory
+       authority (paragraphs [271]-[274]) and then analysed the case  under
+       the Immigration Rules (paragraphs [275]-[287]) and by  reference  to
+       the strength of the public interest (paragraphs [288]-[297])  before
+       addressing whether the effect of  the  appellant's  deportation  was
+       unduly harsh on  his  daughter  (paragraphs  [298]-[306]).  The  FTT
+       concluded that none of the exceptions under  the  Immigration  Rules
+       applied, before also considering whether the appellant could benefit
+       from any other Part 5A issues. In summary, the FTT  found  that  the
+       strength of the public interest was very strong and  was  sufficient
+       to outweigh the private and family life rights which were  adversely
+       affected.
+
+
+   71. The appellant's grounds of appeal  to  the  Upper  Tribunal  on  the
+       substantive human rights issues, as set out in the  application  for
+       permission to appeal, are six-fold. They are that the FTT was  wrong
+       to conclude that (i) the appellant's  fear  of  harm  from  Jamaican
+       criminal gangs was irrelevant; (ii) the appellant's residence  as  a
+       minor in the UK was a "neutral" factor; (iii) it  would  be  "unduly
+       harsh" for the appellant's child to live in the UK without him; (iv)
+       the public interest in the appellant's deportation remained  strong;
+       (v) the appellant's deportation had not had an "unduly harsh" impact
+       on his daughter; and (vi) contact  between  the  appellant  and  his
+       daughter could be maintained by phone from Jamaica.
+
+
+   72. The fundamental difficulty with all these grounds of appeal is  that
+       they amount to a thinly disguised attempt to  re-argue  the  factual
+       merits of the substantive human  rights  appeal  that  was  properly
+       determined by the FTT.  It  is  axiomatic  that  the  weight  to  be
+       attached to individual items of evidence is a question of  fact  for
+       the first instance tribunal to determine.  The  only  one  of  these
+       grounds which comes remotely close  to  a  potential  error  of  law
+       argument is ground (iii), where it is said that  the  FTT  erred  in
+       relying solely on the Court of Appeal's judgment in  MM  (Uganda)  v
+       Secretary of State for the Home Department [2016] EWCA  Civ  617  in
+       determining whether the  appellant's  deportation  would  be  unduly
+       harsh on his daughter. Instead, Mr de Mello  submits  that  the  FTT
+       should  have  considered  R  (MA   (Pakistan)   v   Upper   Tribunal
+       (Immigration and Asylum Chamber) [2016] EWCA Civ 705; [2016]  1  WLR
+       5093). This argument is  unpersuasive,  not  least  as  MM  (Uganda)
+       concerned deportation of a foreign criminal while R  (MA  (Pakistan)
+       did not. In addition, the central issue  in  R  (MA  (Pakistan)  was
+       whether it was reasonable to expect the child in question  to  leave
+       the UK. In the  present  case,  on  the  other  hand,  the  FTT  had
+       expressly rejected the respondent's argument that it was  reasonable
+       to expect the appellant's  partner  and  daughter  to  join  him  in
+       Jamaica (see paragraph [298]).
+
+
+   73. We have not overlooked the fact that the case law on the meaning  of
+       "unduly harsh" has moved on. In October 2018, and so after  the  FTT
+       hearing, the Supreme Court delivered its judgment in KO (Nigeria) et
+       al v Secretary of State for the  Home  Department  [2018]  UKSC  53;
+       [2018] 1 WLR 5273. The Supreme Court, in effect clarifying  the  law
+       with retrospective effect, held that the  statutory  test  does  not
+       bring  into  consideration  the  seriousness  of   the   appellant's
+       offending when considering whether the  effect  of  deportation  was
+       unduly  harsh  on  his  child  (see  Lord  Carnwath's  judgment   at
+       paragraphs [23] and [42]). However, notwithstanding the FTT  decided
+       this appeal before KO (Nigeria), we are  satisfied  that  the  FTT's
+       approach did not result in any material  error  of  law.  The  FTT's
+       finding that the effect  of  the  appellant's  deportation  was  not
+       unduly harsh on his daughter  was  plainly  based  on  a  close  and
+       careful analysis of the facts of the case, quite independent of  any
+       consideration of the seriousness of the appellant's  offending  (see
+       paragraphs [299]-[305]). Mr de Mello undoubtedly  takes  issue  with
+       both the details and the outcome of the FTT's analysis, but that  is
+       at root a disagreement over the factual findings. In short, we agree
+       with Mr Kovats's submission that the FTT was entitled  to  make  the
+       findings of fact it  did  on  the  evidence  before  it  as  to  the
+       substantive human rights issues.
+
+
+
+    Decision
+
+
+   74. We uphold the decision of the First-tier Tribunal on the  basis  set
+       out above and dismiss the appellant's appeal. However, whilst  doing
+       so it would be remiss of us not to put on  record  our  appreciation
+       for the considerable assistance we received from Mr de Mello and  Mr
+       Muman, and their instructing solicitors, acting pro bono.
+
+
+
+
+
+
+       Signed
+
+
+
+
+                  Upper Tribunal Judge Wikeley
+
+
+                  8 March 2019
