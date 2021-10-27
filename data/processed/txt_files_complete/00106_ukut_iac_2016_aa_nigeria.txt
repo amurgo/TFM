@@ -1,0 +1,1027 @@
+
+[pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Abdul (section 55 - Article 24(3) Charter) [2016] UKUT 00106 (IAC)
+
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House, London           |Decision promulgated                |
+|On 9 December 2015                     |                                    |
+|                                       |                                    |
+|                                       |....................................|
+|                                       |...                                 |
+
+
+                                   Before
+
+                  The Hon. Mr Justice McCloskey, President
+
+
+                                   Between
+
+                                ADEBAYO ABDUL
+                                                                   Appellant
+                                     and
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation
+
+Appellant:    Mr S Knafler QC and Mr A Grigg  (of  Counsel),  instructed  by
+             Wilson Solicitors LLP
+
+Respondent:   Mr D Blundell, of Counsel, instructed by the Government  Legal
+             Department
+
+ i)  There  is  no  hierarchy  of  weight  or  importance  in  the  various
+    considerations recited in regulation 21(6) of the EEA Regulations.  The
+    weight to be attributed to each factor will vary according to the  fact
+    sensitive context of the individual case.
+
+ii) Where it is contended that the decision  maker  and/or  the  First-tier
+    Tribunal (FtT) has acted in contravention of section 55 of the Borders,
+    Citizenship  and  Immigration  Act  2009,  the  Upper   Tribunal   will
+    scrutinise the degree of engagement with all material evidence and,  in
+    particular, will search for clear findings in the decision of  the  FtT
+    of what the best interests of any affected child are.
+
+iii) Article 24(3) of the EU Charter of Fundamental Rights  creates  a  free
+    standing right (although not absolute).
+
+iv) Where this right is engaged, a failure by the decision maker and/or the
+    FtT to acknowledge it  and  to  decide  accordingly  may  constitute  a
+    material error of law.
+
+
+                            DECISION AND REASONS
+
+Introduction
+
+ 1. This appeal has its origins  in  a  decision  made  on  behalf  of  the
+    Secretary of State for the Home Department (the "Secretary of  State"),
+    dated 12 December 2013, to make an order deporting the  Appellant  from
+    the United Kingdom.   By its decision promulgated on 03 March 2015, the
+    First-tier  Tribunal  (the  "FtT")  dismissed   the   ensuing   appeal.
+    Permission to appeal to this Tribunal was  granted  by  Upper  Tribunal
+    Judge Rintoul in the following terms:
+
+         "It is arguable that the [FtT] erred in failing, in the context  of
+         an appeal  under  the  EEA  Regulations,  to  have  regard  to  the
+         provisions of the European Charter of Fundamental Rights .....
+
+
+         Permission is granted on all grounds."
+
+ 2. The effect of the grant of permission to appeal is that there  are  two
+    issues to be determined:
+
+    (i)  Did the FtT err  in  law  by  failing  to  conduct  (adopting  the
+         Appellant's  formulation)  a  composite  proportionality   exercise
+         and/or, in particular, by failing to properly  recognise  and  give
+         substantial weight to the Appellant's long residence in the  United
+         Kingdom and integration in United Kingdom society?
+
+    (ii) Did the FtT err in law by failing to consider Article 24(3) of the
+         Charter of Fundamental Rights of the  European  Union  (hereinafter
+         "the Charter")?
+
+ 3. I have been assisted by a detailed chronology  of  material  dates  and
+    events prepared by the Appellant's representatives.  This  is  attached
+    as Appendix 1. In very brief compass,  the  Appellant,  a  national  of
+    Nigeria, is now aged 41 years and has been continuously  resident  here
+    since aged 16.  He has two daughters, both British  citizens,  who  are
+    aged 13 and 11 years respectively.  He has been convicted of  a  series
+    of fraud offences, beginning in 2002 and subsequently in 2003, 2006 and
+    2012.  In 2006, the convicting court made a deportation recommendation.
+     Following a series of subsequent  challenges,  the  Appellant  avoided
+    deportation and, in February 2011, he acquired  a  residence  card  qua
+    family member  of  an  EEA  national.    His  offending  has  attracted
+    custodial sentences, most recently (in January 2012) a sentence of 4  �
+    years imprisonment.  This was the impetus for the Secretary of  State's
+    impugned decision.
+
+Statutory Framework
+
+ 4. The Secretary of State's decision was made under the framework  of  the
+    Immigration  (European  Economic  Area)  Regulations  2006  (the   "EEA
+    Regulations").  Within Part 4 of  this  measure  there  are  provisions
+    relating to the exclusion  and  removal  of  persons  from  the  United
+    Kingdom.  Regulation 19(3) provides:
+
+         "Subject to paragraphs (4) and (5), an EEA national who has entered
+         the United Kingdom or the family member of such a national who  has
+         entered the United Kingdom may be removed if-
+
+
+           (a) that person does not have or ceases to have a right to
+           reside under these Regulations;
+
+
+           (b) the Secretary of State has decided that the person's removal
+           is justified on grounds of public policy, public security or
+           public health in accordance with regulation 21; or
+
+
+           (c) the Secretary of State has decided that the person's removal
+           is justified on grounds of abuse of rights in accordance with
+           regulation 21B(2)."
+
+    The discrete topic of decisions taken on public policy, public security
+    and  public  health  grounds  is  addressed  in  regulation  21,  which
+    provides, in material part:
+
+
+         "(1) In this regulation a "relevant decision" means an EEA decision
+         taken on the grounds of public policy, public  security  or  public
+         health.
+
+         (2) A relevant decision may not be taken to serve economic ends.
+
+
+         (3) A relevant decision may not be taken in respect of a person
+         with a permanent right of residence under regulation 15 except on
+         serious grounds of public policy or public security.
+
+
+         (4) A relevant decision may not be taken except on imperative
+         grounds of public security in respect of an EEA national who-
+
+
+           (a) has resided in the United Kingdom for a continuous period of
+           at least ten years prior to the relevant decision; or
+
+
+           (b) is under the age of 18, unless the relevant decision is
+           necessary in his best interests, as provided for in the
+           Convention on the Rights of the Child adopted by the General
+           Assembly of the United Nations on 20th November 1989.
+
+
+         (5) Where a relevant decision is taken on grounds of public policy
+         or public security it shall, in addition to complying with the
+         preceding paragraphs of this regulation, be taken in accordance
+         with the following principles-
+
+
+           (a) the decision must comply with the principle of
+           proportionality;
+
+
+           (b) the decision must be based exclusively on the personal
+           conduct of the person concerned;
+
+
+           (c) the personal conduct of the person concerned must represent
+           a genuine, present and sufficiently serious threat affecting one
+           of the fundamental interests of society;
+
+
+           (d) matters isolated from the particulars of the case or which
+           relate to considerations of general prevention do not justify
+           the decision;
+
+
+           (e) a person's previous criminal convictions do not in
+           themselves justify the decision.
+
+
+         (6) Before taking a relevant decision on the grounds of public
+         policy or public security in relation to a person who is resident
+         in the United Kingdom the decision maker must take account of
+         considerations such as the age, state of health, family and
+         economic situation of the person, the person's length of residence
+         in the United Kingdom, the person's social and cultural integration
+         into the United Kingdom and the extent of the person's links with
+         his country of origin."
+
+    It is common case that regulation  21(3)  applies  to  this  Appellant.
+    Thus it was incumbent on the Secretary of State to address the standard
+    of "serious grounds of public policy or  public  security"  and  decide
+    accordingly.
+
+First Ground of Appeal
+
+ 5. The argument developed by Mr Knafler QC on behalf of the Appellant  had
+    several inter-related strands.  It was submitted that the FtT failed to
+    properly analyse all material factors and,  thus,  failed  to  adopt  a
+    composite approach in the proportionality exercise;  did  not  properly
+    recognise  the  strength  of  the  Appellant's   long   residence   and
+    integration in the United Kingdom  and,  therefore,  failed  to  accord
+    these factors  the  requisite  weight;  conducted  an  inadequate  best
+    interests of children assessment; and, in breach of  the  principle  of
+    equal treatment (or consistency of outcomes), reached an outcome  which
+    does not bear comparison with other cases.
+
+ 6. In  the  now  well  developed  jurisprudence  relating  to  deportation
+    decisions under the EEA Regulations, certain general principles can  be
+    readily identified.  In Land Baden - Wurttenberg v Tsakouridis [2011] 2
+    CMLR 11, the issue of integration featured with some prominence in  the
+    decision of the Court of Justice of the European  Union  (CJEU),  which
+    stated:
+
+         "[24]    According to recital  23  in  the  preamble  to  Directive
+         2004/38, the expulsion of Union citizens and their  family  members
+         on grounds of public policy or public security can  seriously  harm
+         persons who, having availed themselves of the rights  and  freedoms
+         conferred on them by the Treaty, have become  genuinely  integrated
+         into the host Member State.
+
+
+         [25] That is why Directive 2004/38, as follows from recital  24  in
+         the preamble, establishes a system of protection against  expulsion
+         measures which is based on  the  degree  of  integration  of  those
+         persons in the host Member State, so that the greater the degree of
+         integration of Union citizens and their family members in the  host
+         Member  State,  the  greater  the  degree  of  protection   against
+         expulsion should be.
+
+         [26] In this context, Article  28(1)  of  that  directive  provides
+         generally that, before taking an expulsion decision on  grounds  of
+         public policy or public security, the host Member State  must  take
+         account in particular  of  considerations  such  as  how  long  the
+         individual concerned has resided on its territory, his or her  age,
+         state of health, family and economic situation, social and cultural
+         integration into the host Member State and the extent of his or her
+         links with the country of origin.
+
+
+         [27] Under Article 28(2), Union citizens or their  family  members,
+         irrespective of  nationality,  who  have  the  right  of  permanent
+         residence in the territory of the host  Member  State  pursuant  to
+         Article 16 of the directive cannot be the subject of  an  expulsion
+         decision 'except on serious grounds  of  public  policy  or  public
+         security'.
+
+
+         [28] In the case of Union citizens who have  resided  in  the  host
+         Member State for the previous 10 years, Article 28(3) of  Directive
+         2004/38 considerably strengthens their protection against expulsion
+         by providing that such a measure may not be taken except where  the
+         decision is based on 'imperative grounds  of  public  security,  as
+         defined by Member States'."
+
+    As this decision and others make clear, one  of  the  purposes  of  the
+    underlying measure of EU Law, Directive  2004/38/EC  (the  "Citizenship
+    Directive") was to establish a more prescriptive regime in the realm of
+    expulsion and removal, containing appropriate safeguards for the person
+    concerned.
+
+ 7. Mr Knafler's submissions placed particular reliance on two decisions of
+    the United Kingdom courts.  The first is B v Secretary of State for the
+    Home Department [2000] EWCA Civ 158, another deportation case in  which
+    the Appellant, an Italian national aged 45, had  lived  in  the  United
+    Kingdom since aged 7.  The Secretary of State proposed  to  deport  the
+    Appellant  on  the  ground  that  he  had  subjected  his  daughter  to
+    "prolonged and systematic child abuse" between the ages of  12  and  18
+    years, giving rise to a punishment  of  five  years  imprisonment:  see
+    [19].  The evidence was that he had a propensity to  re-offend,  albeit
+    restricted by limited opportunity.   Delivering  the  judgment  of  the
+    Court, Sedley LJ described the Appellant's 38 years  residence  in  the
+    United Kingdom as a "factor of real weight": see [35].  He continued:
+
+         "What  in  my  judgment  renders  deportation  a   disproportionate
+         response to this appellant's offending, serious as it  is,  and  to
+         his propensity to offend such as it may now be, is the fact that it
+         will take him from the country in which he has grown up, has  lived
+         his whole adult life  and  has  such  social  relationships  as  he
+         possesses.  It would  negate  both  his  freedom  of  movement  and
+         respect for his private life in the one place, the United  Kingdom,
+         where these have real meaning for him."
+
+     See [37].
+
+    While the Court acknowledged that the  Secretary  of  State's  decision
+    would  withstand  an  irrationality  challenge  based   on   Wednesbury
+    principles, it concluded that the decision was unlawful on  the  ground
+    that it was disproportionate in both EU law and ECHR (Article 8) terms.
+     Ward LJ and Simon Brown LJ expressed their views  in  essentially  the
+    same terms.
+
+ 8. Mr Knafler also relied on the decision of the  Asylum  and  Immigration
+    Tribunal (AIT)  in  LG  and  CC  (EEA  Regs:  residence;  imprisonment;
+    removal) Italy [2009] UKAIT 00024, a case involving regulation 21(4) of
+    the EEA Regulations.  There it was held that the tribunal had erred  in
+    law  in  applying  the  highest  level  of  protection.   The  decision
+    continues, at [116]:
+
+         "However, even if one judges their reasoning by  reference  to  the
+         second level of protection .....  they erred in our view in failing
+         to consider the particular circumstances of LG's position, his long
+         residence in this country, including more than ten years  residence
+         before any offences were committed  and  his  lack  of  links  with
+         Italy."
+
+         The effect in law of this failing was assessed thus, at [117]:
+
+         "This failure  meant  that  the  second  Tribunal's  assessment  of
+         proportionality  was   fatally   flawed.    In   our   view,   even
+         acknowledging the seriousness of  the  offence  in  2000,  and  the
+         possible risk of re-offending, we do not think that expulsion is  a
+         proportionate response for someone who came here as  a  child,  has
+         acquired a right of permanent residence in this country, has  lived
+         here for some 15 years before the crime was committed  and  has  no
+         significant links with Italy.  In such a case we think that  public
+         policy considerations should carry little weight."
+
+         The appeal of LG was allowed accordingly.
+
+ 9. As noted above, one discrete limb of this ground of appeal concerns the
+    best interests of children assessment carried  out  by  the  FtT.   The
+    arguments on behalf of the Appellant  reminded  this  Tribunal  of  its
+    decision in JO and Others (section 55 duty)  Nigeria  [2014]  UKUT  517
+    (IAC) and, in particular,  the  duty  imposed  by  section  55  of  the
+    Borders, Citizenship and Immigration Act 2009 (the "2009 Act")  on  the
+    decision maker (in the first instance) and the tribunal (on appeal)  to
+    identify all facts and factors bearing on the  best  interests  of  any
+    affected child.  To this I would add that the  next  step  is  to  make
+    clear findings relating to  the  child's  best  interests.   These  are
+    essential  pre-requisites  to  a  proper  balancing  of  all   factors,
+    including the public interest, in  the  proportionality  exercise.   In
+    this context, the parties'  submissions  also  drew  attention  to  the
+    decision of this Tribunal in MK (section 55 - Tribunal options)  Sierra
+    Leone [2015] UKUT 00223 (IAC).
+
+10. Peart v Secretary of State for the Home Department [2012] EWCA Civ 568,
+    another decision to which Mr  Knafler  directed  my  attention,  is  an
+    illustration of an assessment by the Court of Appeal that the  tribunal
+    below erred in its  application  of  section  55  in  failing  to  give
+    sufficient consideration to what was in the child's best  interests  or
+    to give the child's welfare the degree of importance  it  merited:  see
+    [15].  The second error of law  identified  by  the  Court  of  Appeal,
+    namely the tribunal's failure to assess the  totality  of  the  factors
+    bearing on the Appellant's family and private life and "to consider the
+    overall significance of the different individual relationships" in play
+    (see [16] - [17]), is also worthy of note.   I observe that  these  are
+    plainly fact sensitive.
+
+11. The submissions of Mr Blundell on behalf  of  the  Secretary  of  State
+    highlighted the importance of considering the decision of  the  FtT  in
+    substance and as a whole, in accordance with  the  exhortation  of  the
+    Court of Appeal in AD Lee v Secretary of State for the Home  Department
+    [2011] EWCA Civ 348 at [17]:
+
+         "[Counsel] criticises the form in which the Judge has expressed his
+         conclusion ...
+
+
+         He contends that  it  prioritises  the  case  for  deportation  and
+         considers only whether the impact on the family is so great  as  to
+         outweigh it, when it ought to be  approaching  the  issues  in  the
+         opposite order, prioritising [his client's]  interests  and  asking
+         whether they are outweighed by the case for deportation.  It  seems
+         to us that, at least in the present context, this is  a  matter  of
+         form, not of substance .....
+
+
+         Provided both the child's interests and the  case  for  deportation
+         have been properly appraised, the question  whether  one  outweighs
+         the other can be approached from either direction."
+
+    Mr Blundell further  submitted  that  the  exercise  of  comparing  the
+    factual frameworks of different cases urged  on  the  Tribunal  by  the
+    Appellant is inappropriate.  He  also  reminded  the  Tribunal  of  the
+    decision in EO (Nigeria) v Secretary of State for the  Home  Department
+    [2014] EWCA Civ 1418 at [8].  Mr Blundell's central submission  on  the
+    first ground of appeal, in substance, resolved to the  contention  that
+    this Tribunal should guard against the temptation of microanalysis  and
+    excessive forensic examination of the decision of the FtT.
+
+12. There is one piece of evidence which has a particular bearing  on  this
+    ground of appeal, namely the report of the independent  social  worker,
+    to which I now turn.  This report was received in  paper  form  by  the
+    FtT.  Based  on  interviews  of  all  of  the  protagonists   and   the
+    consideration of other materials, the report  focuses  particularly  on
+    the relationship between the Appellant and his younger  daughter,  aged
+    11  years.   It  contains  the  following  material   assessments   and
+    conclusions:
+
+    (a)  While children form attachments to any consistent care  giver  who
+          is sensitive and responsive  in  their  social  interactions  with
+          them, the quality of the social engagement is more influential  in
+          developing that attachment than the amount of time spent.  In  the
+          Appellant's case, the quality of his interaction with his daughter
+          when they are together is so positive and  involves  such  a  high
+          degree of  involvement  that  their  relationship  has  grown  and
+          flourished in consequence.
+
+       b) The Appellant has taken positive steps to initiate a  relationship
+          between his daughter and her half-sister  (the  Appellant's  older
+          daughter, aged 13).
+
+
+       c)  The  Appellant  and  this  daughter   have   "a   strong,   close
+          relationships and (that) their relationship is both meaningful and
+          valuable to both of them".
+
+       d) This  relationship  is  extremely  important  to  the  Appellant's
+          daughter who ".... sees what he offers her in terms  of  emotional
+          and psychological support  as  being  essential  to  her  positive
+          functioning and complementing, not duplicating,  what  her  mother
+          offers".
+
+       e) The Appellant "....  has consciously thought about the  manner  of
+          his interaction with [his daughter] as she  has  grown  older  and
+          more mature .... [she] is  very  emotionally  and  psychologically
+          dependent on her father presently, because of all he  is  able  to
+          offer her".
+
+       f) The loss of the Appellant from his daughter's life would be  "very
+          psychologically difficult to manage and  ....  would  be  like  an
+          abandonment to her".
+
+       g) Research establishes the importance of the continued presence of a
+          person  contributing  substantially   to   a   child's   emotional
+          stability, security and self-esteem.
+
+       h)  Research  further  demonstrates  that  the  deportation  of   the
+          Appellant would render his daughter more likely to show  signs  of
+          depression and experience  feelings  of  loss  and  sadness.  Long
+          distance contact would be no substitute.
+
+       i)  Research  also  establishes  the   phenomenon   of   "significant
+          behavioural changes amongst  most  children  who  had  experienced
+          parental deportation ..."
+
+       j) Such children have "a consistently lower score  on  a  variety  of
+          moral indexes."
+
+       k) Moreover, such children "...  are, on average, more likely  to  be
+          academic under-achievers .... more likely to experience  behaviour
+          problems at school such as having difficulty paying  attention  or
+          being disobedient ...."
+
+       l) The extreme distress which the Appellant's daughter is  likely  to
+          suffer in consequence of his deportation "... will endure in  some
+          form beyond the immediate and medium term" and is unlikely  to  be
+          adequately managed by her mother, giving  rise  to  a  deleterious
+          impact on this relationship also.
+
+    This report was not challenged by any other evidence.
+
+13. In its decision, the  FtT,  in  summarising  the  documentary  evidence
+    available to it, referred to the aforementioned report and quoted  from
+    certain passages which have a correlation to parts of [12] above.  In a
+    later passage, in its consideration of the best interests  of  children
+    issue, the FtT stated:
+
+         "[The  report]  ...  refers  to  academic  research   showing   the
+         importance  of  children  maintaining  a  relationship  with  their
+         fathers.  The Presenting Officer accepts that this would be in  the
+         best interests of both [children].  I too accept that but, even  if
+         the Appellant were to remain living in the UK, the  Appellant  will
+         not be able to maintain an active and  positive  relationship  with
+         his daughters if he resumes a  life  of  crime  and  risks  further
+         lengthy terms of imprisonment.  There is a significant risk of  him
+         continuing to do so and  this  must  be  taken  into  account  when
+         assessing  the  impact  of  his  deportation.  Conversely  if   the
+         Appellant  relocates  to  Nigeria,  he  does  have  the  option  of
+         maintaining the relationship through regular indirect  contact  via
+         Skype etc".
+
+
+         [my emphasis]
+
+    At this point of its decision, the FtT's assessment of  the  children's
+    best interests terminates  and  the  Judge  embarks  upon  a  balancing
+    exercise and the formulation of a series of conclusions.  These include
+    a recognition that the Appellant's departure from  the  United  Kingdom
+    would have an (unspecified) "adverse impact" on the children.  This  is
+    followed by the statement in the concluding paragraph:
+
+
+         "....  The family life of the Appellant and that  of  his  children
+         will be placed in some jeopardy by his removal  and  the  potential
+         effect on the children is undoubtedly the strongest factor  in  his
+         favour."
+
+
+         [Emphasis added.]
+
+14. In my judgment, the FtT failed to engage properly with the  assessments
+    and conclusions of the expert concerned. I agree with Mr Blundell that,
+    where issues of this kind are concerned, it will rarely be  appropriate
+    for an appellate tribunal to conclude that the evidence under  scrutiny
+    was simply disregarded by the lower tribunal.  This conclusion  is  not
+    open to this Tribunal in the present case, since the judge was  clearly
+    aware of the expert report. However, the  best  interests  of  children
+    exercise, where it falls  to  be  performed,  is  one  of  unmistakable
+    importance and gravity.  It is not enough to pay  lip  service  to  the
+    evidence bearing on this issue.  Rather,  an  appellate  tribunal  will
+    invariably search for indicators that  the  lower  tribunal  has  fully
+    considered the evidence, has understood it  and  has  properly  engaged
+    with it. I find no such indicators in  the  present  case.   The  short
+    sentence confining the expert  evidence  to  a  rehearsal  of  academic
+    research  demonstrating  the  importance  of  children  maintaining  "a
+    relationship" between the Appellant and his children with their  father
+    fails to satisfy these  elementary  touchstones.   While  the  FtT  was
+    probably correct to conclude that "regular indirect contact  via  Skype
+    etc" would secure the  aim  of  the  maintenance  of  "a  relationship"
+    between the Appellant and his  children,  the  use  of  the  indefinite
+    article is striking.  This falls well short of a proper  assessment  of
+    the children's best  interests  and,  further,  represents  a  manifest
+    dislocation from the detailed and undisputed expert evidence.
+
+
+15.  Furthermore, the appellate tribunal will always  search  for  a  clear
+    formulation, or identification, of the best interests of the  child  or
+    children concerned in the decision of the first instance tribunal. This
+    should normally be the subject of a  clear  finding  or  findings,  all
+    material evidence first having been examined. I consider that this  too
+    is lacking in the decision of the FtT.  This  failure  flows  naturally
+    from the main shortcoming identified above. Finally, the conclusion  of
+    the FtT that the removal of the Appellant from the United Kingdom would
+    (merely) place the family life enjoyed by the children and him "in some
+    jeopardy" is simply unsustainable.  Their family life, as  enjoyed  and
+    experienced by the three persons involved,  would  be  decimated,  left
+    hanging by the thread of occasional long distance communications.
+
+16. This analysis impels to the inexorable conclusion  that  the  challenge
+    based on section 55 of the 2009 Act  must  succeed.   Furthermore,  the
+    materiality of this error of law is beyond plausible dispute, given the
+    obvious importance  of  the  children  issues  in  the  proportionality
+    assessment.  Accordingly, the Appellant's challenge to the decision  of
+    the FtT succeeds.
+
+17. In proceeding to consider the second element the first  ground  of  the
+    Appellant's challenge, I consider that the standard in play is that  of
+    proportionality.   The   distinction   between   the    standards    of
+    proportionality and rationality was highlighted by this Tribunal in its
+    recent decision in R (SA) v Secretary of State for the Home  Department
+    (Human Rights Challenges: Correct Approach) IJR [2015] UKUT 536  (IAC),
+    at [20] particularly:
+
+         "At this juncture, it is appropriate  to  recall  that  many  human
+         rights decisions involve balancing exercises. These are  evaluative
+         processes which normally entail weighing the  individual,  personal
+         interests of  the  person  concerned  with  some  competing  public
+         interest  or  interests.  For  immigration  judges   the   dominant
+         Convention right in this respect is Article 8. It is a truism  that
+         in a large majority of Article  8  challenges  in  the  immigration
+         sphere the question to be determined by the  tribunal  is  that  of
+         proportionality, the last of the stages specified in R (Razgar)  v
+         SSHD [2004] 2AC 368. In such cases the question for  the  Tribunal
+         is not whether the impugned decision is irrational or is vitiated
+         by the application of the Wednesbury principles or is procedurally
+         unfair or contravenes some other public law standard.  The  correct
+         question is, rather, whether the  decision  is  a  disproportionate
+         means of pursuing  the  legitimate  aim  in  play.  If  "yes",  the
+         conclusion is that the Convention right has been breached: not that
+         the  decision  is  unlawful  on  account   of   some   public   law
+         misdemeanour."
+
+    Further,  it  is  timely  to  recall  the   correct   approach   in   a
+    proportionality assessment.  It involves consideration of the following
+    questions:
+
+
+       i) Is the objective sufficiently  important  to  justify  limitation
+          upon a fundamental right?
+
+
+      ii) Is the measure rationally connected to the objective?
+
+     iii) Could a less intrusive measure have been adopted?
+
+      iv) Has a fair balance been struck between individual rights and  the
+          interests of the community?
+
+
+
+    See Bank Mellat v HM Treasury (No 2) [2013] UKSC 39, at [20].
+
+
+18. I refer also to the more recent consideration of  these  principles  by
+    the Supreme Court in R (Tigere) v Secretary  of  State  for  Business,
+    Innovation and Skills [2015] UKSC 57, at [23]-[33]. Having  regard  to
+    the profound reflections  on  proportionality  in  Keyu  and  Others  v
+    Secretary of State for Foreign and Commonwealth Affairs [2015] UKSC 69,
+    there is clearly scope for further development and  refinement  in  the
+    role of the court, or tribunal, in cases involving the  proportionality
+    of an interference with a Convention right.
+
+19. This dimension of the Appellant's  challenge  involves  the  submission
+    that the FtT erred in law by giving insufficient  weight  to  the  twin
+    factors of the Appellant's long residence in the United Kingdom and his
+    integration in UK society. I  consider  that,  properly  analysed,  the
+    contention formulated by Mr Knafler was that the  FtT  was  obliged  to
+    accord greater weight to these two considerations and was thus mandated
+    by the decisions in B and LG  and  CC.   It  seems  to  me  that  these
+    decisions, at their zenith, go no  further  than  holding  that,  in  a
+    particular factual  matrix,  long  residence  in  the  United  Kingdom,
+    coupled with a right of permanent residence in one of  the  cases,  may
+    qualify for the allocation of significant weight in the proportionality
+    balancing exercise.  Thus a lower tribunal could be considered to  have
+    erred in law if the appellate court or tribunal, forming its  own  view
+    of proportionality, makes this assessment.
+
+20. To summarise, I consider that neither the Court of Appeal in B nor  the
+    AIT in LG and CC purported to formulate any legal principle or rule  to
+    the effect that the factors of  long  residence  and  integration  must
+    invariably attract substantial weight.  My analysis of these  decisions
+    is that the Court of Appeal and AIT,  giving  determinative  weight  to
+    these stand out factors, decided that deportation was  not  appropriate
+    and  necessary  to  its  legitimate  aim  on  the   particular   facts.
+    Furthermore,  the  consideration  that  the  appellate  court  was  the
+    ultimate arbiter of  proportionality  and  that  proportionality  is  a
+    sharper tool than its common law cousin rationality shines brightly  in
+    the judgments of the Court of Appeal in B, particularly that of  Sedley
+    LJ.  As he noted at [27]:
+
+         "... Once we have taken the primary facts from the IAT, this  is  a
+         case in which we are as well placed as that tribunal to decide what
+         to make of them."
+
+
+    This analysis also disposes of the inequality  of  treatment  argument.
+    In short, no disparity arises when one is comparing apples with pears.
+
+
+21. I consider that Mr Knafler's argument on this discrete issue is further
+    confounded by  the  statutory  language.   Regulation  21  of  the  EEA
+    Regulations imposes two particular duties on  the  Secretary  of  State
+    and, on appeal, the  tribunal.   First,  the  principles  enshrined  in
+    regulation 21(5) must be applied.  Second,  the  inexhaustive  list  of
+    factors in regulation 21(6) must be  considered.   These  include  "the
+    person's length of residence in the United Kingdom [and]  the  person's
+    social and cultural integration into the  United  Kingdom".   The  duty
+    imposed is to consider these factors.  This  mirrors  recital  (23)  of
+    Directive 2004/38/EC which, in the context  of  considering  expulsion,
+    states:
+
+         "The scope  for  such  measures  should  therefore  be  limited  in
+         accordance with the principle of proportionality to take account of
+         the degree of integration of the persons concerned, the  length  of
+         their residence in the host  Member  State,  their  age,  state  of
+         health, family and economic situation  and  the  links  with  their
+         country of origin."
+
+     The corresponding substantive provision of  the  Directive  is  Article
+    28, which is couched in precisely  the  same  terms.   So  too  is  the
+    equivalent part of Regulation 21.
+
+22. I consider that neither  the  Directive  nor  the  transposing  measure
+    contains  any  indication  that  the  factors  of  long  residence  and
+    integration  automatically  qualify  for  greater  weight  than   other
+    material considerations.    Furthermore,  while  the  factors  of  long
+    residence and integration are specifically  recognised  in  the  regime
+    created, they are the gateway to increased protection against expulsion
+    via the higher criteria. To conclude,  I  consider  that  there  is  no
+    hierarchy in the weight to be attributed to the  factors  evaluated  in
+    the Regulation 21 exercise. The quantum of weight to  be  allocated  to
+    each factor will vary according to the fact sensitive nature  of  every
+    case.
+
+23. It follows from the above analysis that it is open to this Tribunal, in
+    principle, to hold that the decision of the FtT infringes the principle
+    of proportionality if it considers that greater weight should have been
+    given to the factors of long residence and integration.  This being  an
+    Article  8  ECHR   challenge,  I  consider  this  to  be  the   correct
+    formulation of the question: to be contrasted with the tests which  one
+    would be posing in a judicial review  challenge  or  a  pure  error  of
+    domestic law appeal (per Edwards v Bairstow [1956] AC 14)  with  no  EU
+    or human rights overlay, that is to  say  (in  shorthand)  whether  the
+    decision of the lower tribunal and/or the decision maker is vitiated by
+    irrationality  or  a  failure  to  take  into  account   all   material
+    considerations or permitting the intrusion of something immaterial,  or
+    a combination of any of these vitiating agents.
+
+24. I apply this approach to the decision of the FtT in the following  way.
+    The Judge began with the unexceptional self-direction that, pursuant to
+    Regulation 21, it was incumbent upon him to consider  factors  such  as
+    "(the Appellant's) length of residence in the UK, social  and  cultural
+    integration into the UK  ......".  He then noted in particular:
+
+         "The Appellant has resided continuously in the UK since 1990 and he
+         has integrated into the UK during that period  in  a  positive  way
+         such as through his studies ....."
+
+
+    Next, the Judge gave consideration to other factors bearing  indirectly
+    on the Appellant's connections with the United Kingdom,  in  particular
+    his enduring links with family members in Nigeria and his ability to re-
+    establish himself in his country of origin if obliged to return  there.
+    The Judge then considered the  circumstances  of  the  Appellant's  two
+    children  in  the  United  Kingdom.    This   was   followed   by   his
+    acknowledgement of a previous positive assessment of the  Appellant  by
+    an earlier tribunal  prior  to  his  most  recent  offending.   At  the
+    conclusion of these passages, the Judge stated:
+
+
+         "I conclude that the Appellant's removal is justified under the EEA
+         Regulations in the interests of public security."
+
+    He then gave separate consideration to the question of  proportionality
+    in the context of Article 8(2) ECHR.  In doing  so,  he  observed  that
+    this exercise was one overlapping considerably with that which  he  had
+    conducted under regulation 21.  I  consider  that  there  is  indeed  a
+    significant merger between these two exercises and the contrary was not
+    contended.
+
+25. The ultimate conclusion of the FtT was that the  public  interest  must
+    prevail.  The discrete public  interest  engaged  was  that  of  public
+    security.  The scales tipped  in  favour  of  the  public  interest  on
+    account of the seriousness of the Appellant's offending,  his  role  in
+    the offences, the repeated nature  of  his  offending,  the  protracted
+    period  during  which  he  had  offended,  his  previous  failures   to
+    rehabilitate, his abuse of trust and  his  neglect  of  his  children's
+    interests.  Drawing all of these factors together,  the  FtT  concluded
+    that the statutory test of "a genuine, present and sufficiently serious
+    threat affecting one of  the  fundamental  interests  of  society"  was
+    satisfied.  This, in the FtT's assessment, outweighed  the  factors  on
+    the other side of the scales.  For the reasons given in [14]  and  [15]
+    above, I consider the proportionality assessment and conclusion of  the
+    FtT to be legally flawed. The flaws identified permeate and infect  the
+    exercise in its entirety. While I have rejected the terms in which this
+    aspect of the Appellant's challenge was advanced, in this sense and  to
+    this  extent  this  discrete  feature  of  the  Appellant's  case  also
+    succeeds.
+
+Second ground of appeal:  EU Charter of Fundamental Rights
+
+26. The Charter entered into force, in tandem with the Lisbon Treaty, on 01
+    November 2009.  Constitutionally, it  is  one  of  the  three  dominant
+    instruments of governance of the EU. Notably, one of  the  recitals  in
+    its preamble proclaims the necessity of strengthening the protection of
+    fundamental rights.  This is reflected in  its  contents.   Thus  while
+    many of its provisions approximate closely to the  European  Convention
+    on Human Rights and Fundamental Freedoms (the "ECHR"), the reach of the
+    Charter is  more  expansive.   In  some  specific  instances,  it  goes
+    demonstrably further than the ECHR.  Furthermore, it  enshrines  rights
+    which the ECHR does not contain, such as economic  and  social  rights,
+    cultural rights and others belonging to the realms of the  environment,
+    consumer protection and criminal justice.  The adoption of the  Charter
+    is, by some measure, the most important  development  in  human  rights
+    protection in Europe since the introduction of the ECHR over  60  years
+    ago.
+
+27. Article 24 of the Charter bears the title "The Rights  of  the  Child".
+    Under this banner, it provides:
+
+         "(1) Children shall have the right to such protection and  care  as
+             is necessary for their  well-being.  They  may  express  their
+             views freely.  Such views shall be taken into consideration on
+             matters which concern them in accordance with  their  age  and
+             maturity.
+
+
+         (2)  In all actions relating to children, whether taken  by  public
+             authorities  or  private  institutions,   the   child's   best
+             interests must be a primary consideration.
+
+
+         (3)  Every child shall have the right  to  maintain  on  a  regular
+             basis a personal relationship and direct contact with both his
+             or her  parents,  unless  this  is  contrary  to  his  or  her
+             interests."
+
+    I have highlighted paragraph (3), as this is the provision  of  Article
+    24  which  the  Appellant  invokes.   Having  regard  to  the   gateway
+    provisions of Article 51, it is clear that, by virtue  of  the  EU  law
+    context, Article 24 applied to both  the  underlying  decision  of  the
+    Secretary of State and that of the FtT on  appeal.   This  was  not  in
+    dispute.  The parties were  also  agreed  that  Article  24(3)  extends
+    beyond the narrow context of disputes relating to the residence of  and
+    contact with children.
+
+28. Article 24 has been considered by the  CJEU.   In  Deticek  v  Sgueglia
+    [2009]  EUECJ  C-403/09   the   Court   gave   consideration   to   the
+    interpretation of Council Regulation  (EC)  2201/2003.   This  concerns
+    jurisdiction and  the  recognition  and  enforcement  of  judgments  in
+    matrimonial matters and, specifically, the  question  of  whether  this
+    permits a provisional child custody measure in  certain  circumstances.
+    The Court, having noted that the Charter features in  the  preamble  to
+    the Regulation, described the rights of the child contained in  Article
+    24 as "fundamental", at [53], continuing:
+
+         "[54]    One of those fundamental rights of the child is the right,
+         set out in Article 24(3) of the Charter, to maintain on  a  regular
+         basis a personal relationship and direct contact with both parents,
+         respect for that right undeniably merging into the  best  interests
+         of any child.
+
+
+         [55] Article 20 of Regulation No 2201/2003 cannot be interpreted in
+         such a way that it disregards that fundamental right.
+
+
+         [56] In this respect, it is clear that the wrongful  removal  of  a
+         child, following a  decision  taken  unilaterally  by  one  of  the
+         parents, more often than not deprives the child of the  possibility
+         of maintaining on a  regular  basis  a  personal  relationship  and
+         direct contact with the other parent.
+
+
+         [57] Article 20 of Regulation  No  2201/2003  cannot  therefore  be
+         interpreted in such a way that it can be used by the parent who has
+         wrongfully removed the child as an instrument  for  prolonging  the
+         factual situation caused by his or  her  wrongful  conduct  or  for
+         legitimating the consequences of that conduct.
+
+
+         [58] It is true that,  under  Article  24(3)  of  the  Charter,  an
+         exception may be made to the child's fundamental right to  maintain
+         on a regular basis a personal relationship and direct contact  with
+         both parents if that interest proves  to  be  contrary  to  another
+         interest of the child."
+
+
+         This analysis gave rise to the following conclusion:
+
+         "[59]    It follows that a measure which prevents  the  maintenance
+         on a regular basis of a personal relationship  and  direct  contact
+         with both parents can be justified only by another interest of  the
+         child of such importance that it takes priority over  the  interest
+         underlying that fundamental right."
+
+29. In a later decision, McB v El E [2010] EUECJ C-400/10, a case which had
+    a Hague Convention context involving the disputed  return  of  a  child
+    from the United Kingdom to the Republic of Ireland, the CJEU  said  the
+    following, at [60]:
+
+         "It must also be borne in mind  that  Article  7  of  the  Charter,
+         mentioned by the referring court in its question, must be read in a
+         way which respects the obligation to take  into  consideration  the
+         child's  best  interests,  recognised  in  Article  24(2)  of  that
+         Charter, and taking into account the fundamental right of  a  child
+         to maintain on a regular basis personal  relationships  and  direct
+         contact with both of his or her parents, stated  in  Article  24(3)
+         (see, to that effect, Case C-540/03 Parliament v Council [2006] ECR
+         I-5769, paragraph 58). Moreover, it is apparent from recital 33  in
+         the preamble  to  Regulation  No 2201/2003  that  that  regulation
+         recognises the fundamental rights and observes  the  principles  of
+         the Charter, while, in particular, seeking to  ensure  respect  for
+         the fundamental rights of the child as set out in Article 24 of the
+         Charter. Accordingly, the provisions of that regulation  cannot  be
+         interpreted in such a way  that  they  disregard  that  fundamental
+         right of the child, the respect for which  undeniably  merges  into
+         the best interests of the child  (see,  to  that  effect,  Case  C-
+         403/09 PPU Deti?ek [2009] ECR I-0000, paragraphs 53 to 55)."
+
+    There was some focus in the arguments of  counsel  on  the  "undeniably
+    merges into" part of the above passage.  In my  judgment,  taking  into
+    account its approach in Deticek, to which explicit reference  is  made,
+    the Court was  not  suggesting  that  Article  24(3)  adds  nothing  of
+    substance to Article 24(2).
+
+
+30. I am of the opinion that Article 24(3) creates a free  standing  right.
+    It may, of course, be viewed  as  the  unequivocal  articulation  of  a
+    concrete  "best  interests"  right  and,  on  this   analysis,   is   a
+    development, or elaboration, of Article 24(2).  Furthermore, given  the
+    exception formulated in the final clause of Article  24(3),  the  nexus
+    with Article 24(2) is unmistakable. However, I consider it  clear  that
+    Article 24(3) was designed to create  a  discrete  right,  an  analysis
+    which is harmonious with general principles of EU law.   These  include
+    the well known principle that every part of a  measure  of  EU  law  is
+    presumed to have a separate and individual effect and impact.   Article
+    24(3) may also be viewed through the prism of the principle that  where
+    one has an amalgam of  specific  and  general  provisions,  the  former
+    should  normally  be  considered  in  advance  of  the  latter.    This
+    construction is further fortified by the Commentary of the  Charter  of
+    Fundamental Rights of the European Union (published by the  EU  Network
+    of Independent Experts on Fundamental Rights), at p207:
+
+
+         ".....  Children are no longer considered  as  mere  recipients  of
+         services or beneficiaries of  protective  measures  but  rather  as
+         rights holders and participants in actions affecting them."
+
+31. Notwithstanding that Article 24(3) of the Charter was canvassed in  the
+    Appellant's written argument at first instance, the decision of the FtT
+    is silent on this issue.  This failure is reflected in the  submissions
+    of Mr Blundell which, reduced to their  essential  core,  advanced  the
+    contention that no material error  of  law  had  been  committed.   The
+    outworkings of this argument were that the FtT was clearly aware of the
+    issue of separation of the Appellant from his children, something which
+    is, in Mr Blundell's words, an "ever present" in cases of this kind.
+
+32. The main flaw in this argument, in my view, is that  it  overlooks  the
+    profound nature of the flaw in the decision of the FtT.  In short,  the
+    Judge failed to acknowledge the existence of a right conferred on  both
+    children by one of the constitutional measures of EU law.   Ipso facto,
+    he also failed  to  appreciate  that  this  has  been  characterised  a
+    "fundamental" right in the jurisprudence of the CJEU.   If  this  error
+    had been avoided, it is as a minimum possible, as  Mr  Knafler  argued,
+    that the Judge's analysis in the passages to quoted in [13] above would
+    have been quite different. In particular, it seems to me  inconceivable
+    that the vague  "a  relationship"  and  the  limp  "in  some  jeopardy"
+    assessments would have featured.  I  conclude,  accordingly,  that  the
+    FtT's error of law on this issue cannot be dismissed as immaterial.
+
+Omnibus Conclusion
+
+33. Having found that the decision of the FtT is infected by  two  material
+    errors of law, I order that it be set aside.
+
+34. The Upper Tribunal is fully equipped to re-make the  decision  and  the
+    appeal is, therefore, retained in this forum for such purpose.
+
+35. If  either  party  wishes  to  propose  any  specific  case  management
+    directions, this must be effected in writing not later than 15  January
+    2016.  Directions and/or a case management review may follow.
+
+
+                                                                       [pic]
+                                              THE  HON. MR JUSTICE MCCLOSKEY
+
+          PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+                                                    Date:   15 December 2015
+
+
+
+                                  APPENDIX
+
+
+
+
+|Date                |Event                                               |
+|29/08/1974          |Appellant born in Nigeria                           |
+|14/07/1981          |Appellant entered UK for the first time             |
+|16/11/1981          |Leave to remain in the UK granted until 31/10/1982  |
+|06/10/1982          |Leave to remain in the UK granted until 31/10/1983  |
+|21/10/1983          |Leave to remain in the UK granted until 31/10/1984  |
+|17/07/1984          |Appellant returned to Nigeria                       |
+|31/07/1990          |Leave to remain in the UK granted for 6 months      |
+|22/08/1990          |Appellant re-entered UK to find school              |
+|09/11/1990          |Appellant returned to Nigeria                       |
+|13/12/1990          |Leave to remain in the UK granted for 6 months      |
+|31/12/1990          |Appellant re-enters UK for a third time and is      |
+|                    |granted leave to remain in the UK until 30/10/1992  |
+|04/11/1992          |Appellant granted leave to remain in the UK until   |
+|                    |31/10/1993                                          |
+|17/09/1993          |Appellant granted leave to remain in the UK until   |
+|                    |31/10/1994                                          |
+|18/11/1994          |Appellant granted leave to remain in the UK until   |
+|                    |31/10/1995                                          |
+|31/08/1995          |Appellant granted leave to remain in the UK until   |
+|                    |31/10/1996                                          |
+|1996                |Appellant married AO, (British National)            |
+|11/11/1996          |Appellant granted leave to remain in the UK until   |
+|                    |31/10/1997                                          |
+|31/10/1997          |Appellant becomes over-stayer                       |
+|2001                |Appellant begun relationship with  RT (Swedish      |
+|                    |National)                                           |
+|07/09/2001          |Application for leave to remain on basis of marriage|
+|                    |to AO (British citizen)                             |
+|12/11/2001          |Application refused                                 |
+|18/07/2002          |Appellant had daughter A with  RT                   |
+|January 2003        |Appellant divorced  AO                              |
+|                    |                                                    |
+|18/04/2003          |Appellant married RT                                |
+|27/01/2004          |Appellant had daughter M with British National SW   |
+|04/07/2004          |Appeal (Appeal 1) against refusal of application    |
+|                    |made on 07/09/2001                                  |
+|18/08/2004          |Appeal dismissed                                    |
+|07/09/2004          |Appeal Rights Exhausted                             |
+|17/05/2005          |EEA Application submitted on grounds of Appellant's |
+|                    |marriage to EEA national                            |
+|15/11/2005          |Application Refused                                 |
+|03/02/2006          |Appeal (Appeal 2) heard against refusal of          |
+|                    |application made on 17/05/2005                      |
+|04/03/2006          |Appeal dismissed                                    |
+|10/05/2006          |Appeal Rights Exhausted                             |
+|06/12/2006          |Conviction- 2 counts of conspiracy to defraud (3    |
+|                    |years  imprisonment)                                |
+|21/07/2008          |Served with notice to make deport order             |
+|20/01/2009          |Appeal (Appeal 3) against decision to make          |
+|                    |deportation order                                   |
+|30/01/2009          |Appeal dismissed                                    |
+|06/04/2009          |Appeal rights exhausted                             |
+|11/09/2009          |Application to revoke deportation order submitted   |
+|06/10/2009          |Application refused                                 |
+|01/12/2009          |Appeal (Appeal 4) heard against refusal of          |
+|                    |application to revoke deportation order             |
+|10/12/2009          |Appeal allowed                                      |
+|21/12/2009          |Deport Order Revoked                                |
+|18/02/2010          |EEA Application submitted                           |
+|17/09/2010          |Application refused                                 |
+|11/11/2010          |Appeal (Appeal 5) against refusal of EEA application|
+|                    |heard                                               |
+|16/11/2010          |Appeal allowed                                      |
+|08/02/2011          |Issued EEA residence card                           |
+|27/01/2012          |Conviction- Conspiracy to defraud (54 months)       |
+|16/12/2013          |Served Reasons for deport                           |
+|16/02/2015          |Appeal (Appeal 6) against decision to make          |
+|                    |deportation order                                   |
+|03/03/2015          |Appeal dismissed by Immigration Judge Talbot        |
+|17/03/2015          |Application made for permission to appeal to the    |
+|                    |First Tier Tribunal                                 |
+|30/03/2015          |Application for permission to appeal to First Tier  |
+|                    |Tribunal Refused by Immigration Judge Parks         |
+|09/04/2015          |Application made for permission to appeal to the    |
+|                    |Upper Tribunal                                      |
+|24/06/2015          |Application for permission to appeal to the Upper   |
+|                    |Tribunal Granted by Upper Tribunal Judge Rintoul    |
+|21/08/2015          |Notice of Hearing issued                            |
+|09/09/2015          |Upper Tribunal Hearing listed                       |
+
+
+
+
+

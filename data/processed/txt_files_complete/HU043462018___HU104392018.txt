@@ -1,0 +1,477 @@
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Numbers: HU/04346/2018
+                                                               HU/10439/2018
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Glasgow                              |Decisions & Reasons sent out  |
+|                                              |on                            |
+|On 19 December 2019                           |On 18 May 2020                |
+|                                              |                              |
+
+                                   Before
+
+                    MR C. M. G. OCKELTON, VICE PRESIDENT
+
+
+                                   Between
+
+                                 ISRAR AHMED
+                                SUMAIRA AHMED
+                                                                  Appellants
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellants:    Mr Caskie, instructed by Maguire Solicitors
+(Scotland).
+For the Respondent:    Mr A Govan, Senior Home Office Presenting Officer.
+
+
+                            DECISION AND REASONS
+
+ 1. The appellants are nationals of Pakistan.  They appealed to the  First-
+    tier Tribunal against decisions of the respondent on  25  January  2018
+    refusing the first appellant's  application  for  indefinite  leave  to
+    remain on the grounds of ten years lawful residence, and  on  16  April
+    2018 refusing the second appellant's  application  under  Appendix  FM.
+    Judge Gillespie dismissed their  appeals.   They  now  appeal  to  this
+    Tribunal, with permission.
+
+
+ 2. As the second appellant's claim is as a  family  member  of  the  first
+    appellant, it is clear that these appeals stand or fall  together.   In
+    what follows, references to "the appellant" are to the first appellant.
+     His application was refused under paragraph 322(5) of the Statement of
+    Changes in Immigration Rules, HC 395 (as amended).
+
+
+ 3. This is an 'earnings discrepancy' case.  Three such cases were  in  the
+    Tribunal's list on a single day.  They are not  otherwise  linked,  but
+    the legal principles are the same in each case.   Thus,  the  following
+    analysis appears in each of the judgments.
+
+
+ 4. In these cases, the appeal is against the refusal of  indefinite  leave
+    to remain on the basis of ten years' lawful residence, under  paragraph
+    276B of the Statement of Changes  in  Immigration  Rules,  HC  395  (as
+    amended).  The reason for the refusal is not that the applicant did not
+    meet the basic requirements of  paragraph  276B,  but  on  one  of  the
+    'General  Grounds  for  Refusal',  paragraph  322(5).   That  paragraph
+    indicates that leave 'should normally be refused' on the ground of:
+
+
+         "the undesirability of permitting the person concerned to remain in
+         the  United  Kingdom  in  the  light  of  his  conduct   (including
+         convictions which do not fall within paragraph 322(1C)),  character
+         or associations or the fact that he represents a threat to national
+         security."
+
+
+ 5. Among the various ways in which a  person  may  accumulate  ten  years'
+    lawful residence, some, including in particular, presence in the United
+    Kingdom under the points-based system as a  Tier  1  (General)  Migrant
+    ("T1GM"), will have required the person concerned to obtain  extensions
+    of leave.  The applications for the extensions  in  turn  required  the
+    applicant to declare a particular level of earnings.  The next steps in
+    the story so far as the Home Office is concerned are set out as follows
+    by Underhill LJ,  giving  the  judgment  of  the  Court  of  Appeal  in
+    Balajigari and others v SSHD [2019] EWCA Civ 673:
+
+
+         "4. The Home Office became concerned that there  was  a  widespread
+         practice of applicants for leave  to  remain  as  a  T1GM  claiming
+         falsely inflated earnings, particularly  from  self-employment,  in
+         order to appear to meet the required  minimum;  and  from  2015  it
+         began to make use of its powers under section 40 of the UK  Borders
+         and Immigration Act 2007 to obtain information from  Her  Majesty's
+         Revenue  and  Customs  ("HMRC")  about  the  earnings  declared  by
+         applicants in their tax returns  covering  the  equivalent  period.
+         This information disclosed significant  discrepancies  in  a  large
+         number of cases. It also revealed what appeared to be a pattern  of
+         taxpayers who had in earlier years submitted  tax  returns  showing
+         earnings that attracted little or no liability to tax  subsequently
+         submitting amended returns showing much higher levels of  earnings,
+         over the required minimum, in circumstances  which  suggested  that
+         they  were  aware  that  the   previous   under-declaration   might
+         jeopardise a pending application for leave to  remain.  There  were
+         also instances of returns being submitted belatedly where none  had
+         been submitted at the time and where an application for  leave  was
+         pending ....
+
+
+         5.   It has been Home Office practice to  refuse  applications  for
+         ILR in all, or in any event the  great  majority  of,  cases  where
+         there are substantial discrepancies between the earnings originally
+         declared to HMRC by a T1GM applicant (even if subsequently amended)
+         and the earnings declared in the application for ILR or a  previous
+         application for leave to  remain  ("earnings  discrepancy  cases"),
+         relying on the "General Grounds for  Refusal"  in  Part  9  of  the
+         Immigration Rules. Initially it relied  specifically  on  paragraph
+         322 (2), which applies in cases where an applicant has made a false
+         representation in relation to  a  previous  application.  Latterly,
+         however,  it  has  relied,  either  additionally  or  instead,   on
+         paragraph 322 (5), which embraces more general misconduct....
+
+
+         6.  It is the  Secretary  of  State's  case  that  his  policy  and
+         practice is only to rely on paragraph 322  (5)  where  he  believes
+         that  an  earnings  discrepancy  is  the   result   of   deliberate
+         misrepresentation either to HMRC or to the Home  Office,  in  other
+         words only where it is the result of dishonesty. But a large number
+         of migrants have claimed that in their cases errors which were  the
+         result only of carelessness or ignorance have wrongly been  treated
+         as dishonest, and that the Home Office has been too ready  to  find
+         dishonesty without an adequate evidential basis or a fair procedure
+         ...."
+
+
+ 6. In Balajigari, the Court had before it cases where  the  challenge  had
+    been by way of Judicial Review, because there was no  right  of  appeal
+    against the decisions taken by the Secretary of State.  It considered a
+    range of arguments in support of the  challenges.   It  concluded  that
+    paragraph 322(5) is not limited to cases of criminal  conduct,  threats
+    to national security, war crimes or travel bans (para  [31]),  although
+    the dishonest submission of false figures to either the Home Office  or
+    HMRC would be criminal conduct  (para  [37(3)]).   Thus  the  paragraph
+    could properly and lawfully be deployed against a person who  had  made
+    different statements of his income for the purposes of obtaining  leave
+    and for the purposes of tax (para [35]).  But the  applicant's  conduct
+    must be dishonest in the Adedoyin v SSHD [2010] EWCA Civ 773 sense:  it
+    was not enough simply to show that the statements (or one  or  more  of
+    them) were factually  inaccurate.   Further,  the  misconduct  must  be
+    sufficiently serious to merit refusal in these terms: 'the rule is only
+    concerned with conduct of a serious character'; but again the dishonest
+    and deliberate submission of false  earnings  figures  would  meet  the
+    threshold, wherever that were to be pitched (para [37(2)]).
+
+
+ 7. The Secretary of State is not bound  to  make  further  enquiries  with
+    HMRC, and the lack of action by HMRC does not conclude  the  matter  in
+    the applicant's favour (paras [67], [72], [76]).  Procedural  fairness,
+    however, requires that the applicant be given notice of  the  Secretary
+    of State's suspicion, and a proper opportunity to meet  any  allegation
+    of dishonesty and to put forward any other reason  why  if  there  were
+    dishonesty it should not in the present case  lead  to  refusal  (paras
+    [55]-[56]).  If that is done, the Secretary of State  is  not  required
+    simply to accept an assertion that there has  been  an  honest  mistake
+    (para [106]).  The Court endorsed at [40] the general guidance given by
+    Martin Spencer J in R (Shahbaz Khan) v SSHD [2018] UKUT 00384 (IAC)  at
+    [37(iv)-(vii)], which adds that the Secretary of State is  to  look  at
+    the explanations given, will expect evidence supporting them, and  will
+    and consider  them  in  context,  for  example  in  the  light  of  the
+    applicant's knowledge and what was done to remedy the error  and  when.
+    Further, the Secretary of State is not required to accept an  assertion
+    of an error  made  by  an  accountant,  but  again  will  consider  the
+    evidenced facts about the applicant's dealings with the accountant.
+
+
+ 8. The burden of proof of showing dishonesty  lies  on  the  Secretary  of
+    State, the standard being the balance of probabilities (Balajigari para
+    [43]).   The  question  is  whether  there  is  a   credible   innocent
+    explanation for the discrepancy: is the applicant  merely  careless  or
+    does the evidence show him to have been dishonest?  There will then  be
+    in principle a second issue  of  whether  paragraph  322(5)  should  be
+    applied or not, given that it is discretionary, because  there  may  be
+    factors outside article 8 that might impact on whether  leave  of  some
+    sort should be granted (para [39], but see para [20]).
+
+
+ 9. The Court also concluded that a decision to refuse leave on this  basis
+    would be likely to involve an interference with article 8 rights, which
+    would need separate examination.  Because both Balajigari and Khan were
+    judicial review cases, there were procedural  issues  relating  to  the
+    possibility of raising an article 8 issue not advanced previously,  and
+    adducing  further  evidence.   I  am  not  concerned  here  with  those
+    considerations.  What is important for present purposes  is  the  clear
+    decision justifying treatment of a refusal in cases of this sort  as  a
+    refusal raising human rights issues.  It is that part of  the  decision
+    that has led the Secretary of State now to make decisions incorporating
+    a refusal on human rights grounds, as  the  Court  indicated  would  be
+    possible (para [102]) and perhaps desirable.  Those decisions  carry  a
+    right of appeal under s 82(1)(b).
+
+
+10. All the Balajigari appellants succeeded because the Court held that  in
+    each case the Secretary of State's decision-making was at fault and the
+    decisions could therefore not stand.  In three of the cases  there  had
+    been no  opportunity  to  rebut  what  amounted  to  a  presumption  of
+    dishonesty arising from the figures alone; in the fourth case there had
+    been an opportunity, but no finding of dishonesty.  In one of the cases
+    the decision to refuse leave was quashed by the Court;  in  the  others
+    the question was remitted to the Upper  Tribunal  for  redetermination,
+    but the inquiry and the remedy  were  limited  to  those  available  in
+    judicial review.
+
+
+11. In these appeals Mr Govan for the Secretary of State  argues  that  the
+    appeals process itself gives an opportunity to put all  relevant  facts
+    before a judge, and that  the  procedural  difficulties  faced  by  the
+    Secretary of State in the Balajigari cases do not  arise.   Subject  to
+    one important reservation, I agree.  The landscape of  appeal  is  very
+    different from that  of  judicial  review.   The  appeal  is  for  most
+    purposes limited to human rights grounds, but  there  needs  to  be  an
+    examination of whether the appellant ought to have succeeded under  the
+    Rules.   Thus  there  is  room  for  a  factual  investigation  of  the
+    appellant's  acts  and  motives  and  whether  paragraph   322(5)   was
+    applicable to him.  There is also a full opportunity for evidence to be
+    adduced and considered, whether or not it has been deployed previously,
+    on both the underlying events and any present factors going to  article
+    8.  What is more, there is no free-standing ground of appeal  that  the
+    decision was not in accordance with the law.
+
+
+12. These points make it clear that where there is an appealable  decision,
+    the role of the appellant and the Tribunal  will  be  to  undertake  an
+    examination of the evidence and decide whether the  refusal  should  be
+    upheld or struck out, not on the grounds applicable in judicial review,
+    but on determination of all the relevant  facts.   The  appeal  process
+    fills both the gaps  identified  by  the  Court  in  Balajigari  -  the
+    procedural  fairness  gap  because  the  appeal  gives   the   relevant
+    opportunity, and the article 8 gap because the appeal  encompasses  the
+    human rights issues.  By the end of an appeal process the appellant has
+    had every opportunity to put his case.
+
+
+13. I note, of course, what the Court said in Balajigari at paragraphs [59]-
+    [61], that the opportunity to make submissions only  after  a  decision
+    has been made will usually be insufficient to meet the requirements  of
+    procedural fairness.  But, for a number of reasons, I do not think that
+    those observations can be taken as applying to appeals  of  this  sort.
+    First, they were specifically made in the context of  judicial  review,
+    by reference to leading authorities on judicial review  and  procedural
+    fairness,  and  including  observations  about  the  limited  role   of
+    statutory administrative review, which is available only where there is
+    no  right  of  appeal.   Secondly,  it  is  not  easy  to  detect   any
+    reservations  of  this  sort  in  the  Court's  consideration  of   the
+    possibility of affording a right of appeal in part C of its decision at
+    [95]-[106], where the scope of its  observations  would  appear  to  be
+    severely limited if the underlying decision on the merits  were  to  be
+    considered as potentially  unlawful  even  within  the  context  of  an
+    appeal.  Thirdly, and most important, although  judicial  review  is  a
+    remedy lying outside  any  specific  statutory  regime,  the  statutory
+    regime itself includes  the  right  of  appeal.   Where  an  appealable
+    decision is made the entire process, including the notification of  the
+    decision to the individual, envisages the possibility of the correction
+    of the decision by an appeal.  In  this  sense,  the  decision  is  not
+    finally 'taken' until any appeal is over; and indeed,  judicial  review
+    can have virtually no role until an appellant has exhausted  his  right
+    to have the decision set aside on appeal.
+
+
+14. I said above that there was one reservation.  It is this.   The  appeal
+    process ought to provide an opportunity for an individual to raise  all
+    the relevant matters he wishes to raise.  But it may not do so  if,  at
+    the time the appeal is heard, there is a restriction  (imposed  by  the
+    judge either of his own motion or from a current understanding  of  the
+    law) which proves to have been itself unlawful.  If the appeal  allowed
+    the appellant to raise questions going in substance to whether  he  was
+    dishonest, the appeal to that extent will have  filled  the  procedural
+    unfairness gap even if that was the first opportunity he  had;  but  if
+    the appeal proceeded on the basis that the figures gave rise themselves
+    to a presumption of dishonesty, it may be that the evidence adduced was
+    in practice curtailed by what it was thought might be a possible ground
+    of challenge.  Each  case  is  likely  to  depend  on  its  facts.   In
+    particular, if all the evidence going to the issue was in fact adduced,
+    a judge's error in the application of the law to that evidence will not
+    necessarily prevent the Upper Tribunal from correcting  the  error  and
+    substituting a decision on the basis of the evidence.  But  it  is  not
+    difficult to envisage cases where a misunderstanding of the  law  might
+    require there to be an opportunity to take further evidence.  For these
+    reasons it cannot be said that in every case the actual appeal provided
+    all the opportunities to which  the  appellant  was  entitled  by  law,
+    although the general position is that the appeal process satisfies  the
+    demands of procedural fairness.
+
+
+15. I turn now to the facts of the present appeal.
+
+
+16. In the present case  the  appellant's  income  was,  in  the  years  in
+    question, derived (except for a small amount) from his partnership in a
+    family business, A & S Properties of Perth.  According to the  material
+    produced by the  Secretary  of  State,  (including  documentation  from
+    HMRC), the discrepancies were as follows.  In March 2011, as part of an
+    application for leave to remain, the appellant  claimed  an  income  of
+    �40,074.00 from all sources.  His tax  return  for  that  year,  ending
+    three weeks later, showed total income of �21,782.00 from all  sources.
+    In an application for leave to remain made 5 June 2013,  the  appellant
+    claimed to have an income of �41,289.00 from all sources between 1 July
+    2012 and 27 May 2013.  The appellant's tax return for the year ending 5
+    April 2013 showed a total income received of �26,000.00, all from self-
+    employment.
+
+
+17. The appellant has subsequently amended  his  tax  returns  to  coincide
+    (more or less: there is  a  difference  of  a  few  hundred  pounds  in
+    relation to the earlier return) with the  figures  he  claimed  in  his
+    applications for leave to remain.  The respondent takes the  view  that
+    the appellant deliberately and dishonestly provided  different  figures
+    to the two government departments in order to secure the advantages  of
+    obtaining leave but paying less tax.
+
+
+18. The appeals of the appellant and his wife were heard by Judge Gillespie
+    on 20 September 2018.  Mr Bryce represented  the  appellants,  and  had
+    prepared a full skeleton argument, based to an extent on,  and  citing,
+    Khan.  There was oral and written evidence from the appellant, from the
+    partnership's accountant, Mr Stewart Tough FCCA, and from  one  of  the
+    other partners, Afzal Noor Muhammad.  The judge's decision contains his
+    conclusions about the evidence he  heard.   It  was  challenged  by  Mr
+    Bryce, who drafted the grounds of appeal, on the basis that  the  judge
+    appeared to have ignored his written skeleton argument, which  set  out
+    the basis for distribution of the profits of the partnership.  What is,
+    however, clear is that the judge took the view  that  it  was  for  the
+    appellant to discharge the burden of proof by showing that he  had  not
+    been dishonest.  As Balajigari shows, that was not correct.   In  these
+    circumstances it is  clear  that  the  judge  erred  in  law.   As  the
+    application for permission proposed that if the  judge's  decision  was
+    set aside, the decision on the appeal ought to be  made  in  the  Upper
+    Tribunal, there being no real issues of fact to determine, I  indicated
+    at the beginning of the hearing that I would set aside the decision for
+    error of law; and  Mr Caskie and Mr Govan thereupon made submission  on
+    the impact of the evidence.
+
+
+19. There are two elements of the grounds which, as it seems to me, have no
+    bearing on the outcome of the appeal, and I  deal  with  them  straight
+    away.  First, Mr Bryce submits  that  the  Secretary  of  State  is  in
+    difficulties in this case because the original applications  for  leave
+    to remain have not been produced.  I can understand that there might be
+    some cases where that would be of importance, but this is  not  one  of
+    them: as Mr Bryce also submits,  there  is  no  real  doubt  about  the
+    external facts in this case.  Secondly, it is suggested  that,  because
+    the appellant adjusted his tax returns, with the result that there  has
+    been no financial loss to HMRC in the end, that in some  way  mitigates
+    the appellant's position.  It is true that it does mean that he is  not
+    liable,  as  he  otherwise  would  be,  to  further   proceedings   for
+    underpayment of tax.  It does not, however, affect the position at  the
+    time the various statements were made.  The question  is  whether  they
+    were dishonest then.
+
+
+20. Dealing first with the events  relating  to  the  2011  tax  year,  the
+    appellant's clear evidence is that his share of the partnership profits
+    for that year was two thirds, leaving only  one  third  for  the  other
+    partners, Mr Afsal Muhammad and  his  wife.   The  relevant  two-thirds
+    share was the amount that he claimed on his application  for  leave  to
+    remain.  Mr Tough, the accountant, endorses that; he wrote a letter  at
+    the time, which has been  produced,  indicating  that  the  appellant's
+    share of the partnership profit for the period from 1 July  2010  to  8
+    March 2011 was �40,074, of a total profit of �60,111.  In  his  written
+    statement, Mr Tough  explains  that  the  reason  why  the  partnership
+    profits were shared in that way  was  because  of  the  other  business
+    interests of Mr and Mrs Afsal Muhammad, and for tax planning  purposes.
+    Mr Afsal Muhammad agrees with the statements of the  appellant  and  Mr
+    Tough.
+
+
+21. So far as the tax return is concerned, the appellant says that  it  was
+    prepared by Mr Tough,  who  acted  on  the  instructions  of  Mr  Afsal
+    Muhammad.  He says that he had family difficulties  at  the  time,  and
+    implies that he did not attend very closely  to  the  contents  of  the
+    return.  Mr Tough refers to "the apportionment of the  profit  for  tax
+    purposes".  Again, Mr Afsal Muhammad is content to  endorse  what  both
+    the appellant and Mr Tough have said.
+
+
+22. In the course of submissions on behalf of  the  appellant,  Mr  Bryce's
+    position was that it was unlikely that the appellant had actually drawn
+    the two thirds of the income to which he was entitled.  Tax,  he  said,
+    had been paid  on  the  basis  that  one  third  of  the  profits  were
+    attributable to each partner, not only for the tax year ending 5  April
+    2011, but for subsequent tax years, apparently up to May 2016.
+
+
+23. The explanation provided  at  one  stage  by  Mr  Bryce  that,  if  the
+    appellant had a two-third share in the profits, he might not have drawn
+    the whole of that share is irrelevant: he would still be liable to  tax
+    on his share.  But the truth of the matter is that the  evidence  taken
+    as a whole shows that the partners must have been complicit in what the
+    accountant was doing, which was to prepare tax  returns  on  the  basis
+    that the profits were shared equally, but  to  provide  other  evidence
+    indicating that they were not.  Although it is said that the reason for
+    the unequal distribution of profits was tax planning by Afsal  Muhammad
+    and his wife, that would  have  completely  failed,  given  the  actual
+    returns, reflecting equal distribution, made to HMRC.  Further,  if  it
+    is right that there was an unequal distribution for this  purpose,  the
+    fact that it had gone wrong would  be  quickly  apparent  to  Mr  Afsal
+    Muhammad and his wife when they received  their  tax  bills.   On  this
+    hypothesis, they would have agreed to allow the appellant to  have  two
+    thirds of the partnership income in order to reduce  their  tax  bills,
+    but would find that their tax bills were not reduced.  Given the  clear
+    evidence of the declaration that was actually made for tax purposes,  I
+    regard it as wholly incredible that there was an agreement between  the
+    partners for unequal distribution of profits in order to avoid tax.  It
+    follows, that the appellant's story, that he really did have an  income
+    of �40,000 from the partnership,  but  had  not  appreciated  that  his
+    income had been understated for tax purposes, cannot be the truth.
+
+
+24. I do not need to investigate further where the truth  lies.   The  fact
+    that the appellant has, in order to prepare himself for his application
+    for indefinite leave to remain, made adjustments to  his  tax  returns,
+    does not show that, in the years in question, he genuinely did have the
+    income claimed for immigration purposes.  The position is that  in  the
+    tax year 2011 there was a discrepancy, and  that  discrepancy  has  not
+    even now been satisfactorily explained; in particular, the  explanation
+    given by the appellant and those giving evidence on his behalf  is  not
+    the truth.  I am wholly satisfied that the difference between  the  sum
+    declared to HMRC and that claimed to the Secretary of State was knowing
+    and deliberate, not accidental.
+
+
+25. So far as the events of 2013 are concerned, the position is less clear,
+    because the end of the period that was  relevant  for  the  immigration
+    application was not near the end of a financial year.  In  relation  to
+    the 2013 application and the 2013 tax return, the explanation given  is
+    that the appellant was entitled, by agreement of the partners,  to  one
+    half of the income of the  partnership.   Apart  from  that,  the  only
+    difference is that the other partners would have by then had a  further
+    two years to appreciate that the returns being made to the  tax  office
+    and the tax they were paying did not reflect the agreed distribution of
+    partnership income, if that was the case.  Again, I regard the  account
+    of the agreement for the distribution of the income as  not  worthy  of
+    credit.
+
+
+26. I would regard either of the discrepancies identified  as  reasons  for
+    the refusal of the  application  for  indefinite  leave  to  remain  as
+    sufficiently serious to merit refusal under  paragraph  322(5)  if  the
+    appellant was complicit.  I have found that he was complicit  in  both.
+    For these reasons, I conclude that the decision under appeal was wholly
+    merited.
+
+
+27. This is, however, a human rights appeal.  The appellant  and  his  wife
+    have family life together, and they have two children, one of which  is
+    aged over seven and so is a "qualified child" within the meaning  of  s
+    117D(1).  However, Mr Govan pointed  out  that  there  is  very  little
+    evidence of that child's needs other than the medical needs  which  are
+    on record; and there is no evidence that it would  be  unreasonable  to
+    expect either of the children to leave the United Kingdom.  So  far  as
+    the evidence adduced in this appeal, there is no article 8  reason  why
+    this family, all citizens of Pakistan, should not be expected  to  live
+    in Pakistan.
+
+
+28. For the foregoing reasons  I  dismiss  the  appeal  of  the  appellant.
+    Because his wife's appeal is dependent upon his, I dismiss  her  appeal
+    also.
+
+
+
+
+
+                                                           C. M. G. OCKELTON
+                                        VICE PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+                                                         Date: 28 April 2020

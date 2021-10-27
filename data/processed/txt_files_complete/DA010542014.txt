@@ -1,0 +1,736 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: DA/01054/2014
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Newport (Columbus House)             |Decision & Reasons Promulgated|
+|On 19 July 2016                               |On 28 July 2016               |
+|                                              |                              |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE GRUBB
+
+                                   Between
+
+                                    K G A
+                         (ANONYMITY DIRECTION MADE)
+
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+Representation:
+
+For the Appellant:     Mr S Khan instructed by CASA UK, Solicitors
+For the Respondent:    Mr I Richards, Home Office Presenting Officer
+
+
+                            DECISION AND REASONS
+
+ 1. The anonymity order imposed in my decision sent on 26 May 2016  remains
+    in force.
+
+Introduction
+
+ 2. The appellant is a citizen of the Cameroon who was born on  [  ]  1976.
+    He entered the United Kingdom on 16 June 2010 with leave as the  spouse
+    of a British citizen ("M") whom he had married in Venice on 31  October
+    2008.  On 10 September 2012, the appellant was granted indefinite leave
+    to remain as a spouse.
+
+ 3. On 18 February 2014, the appellant was  convicted  at  the  Blackfriars
+    Crown Court, after a trial, of the offence of "possession  of  a  false
+    identity document with intent".   He  was  sentenced  to  a  period  of
+    fifteen months' imprisonment.
+
+ 4. On 11 March 2014, the  appellant  was  served  with  a  notice  of  his
+    liability to automatic deportation  under  the  provisions  of  the  UK
+    Borders Act 2007 (the "2007 Act").  In response,  representations  were
+    made by the appellant that he should not be deported because to  do  so
+    would breach Art 8 of the ECHR.  In particular,  the  appellant  relied
+    upon his relationship with his wife and her children and grandchild.
+
+ 5. On 3 June  2014,  the  Secretary  of  State  rejected  the  appellant's
+    representations and made a  decision  that  s.32(5)  of  the  2007  Act
+    applied because the appellant's deportation would not breach Art 8.
+
+The Appeal
+
+ 6. The appellant appealed to the First-tier Tribunal.  In a  determination
+    promulgated on 15 May 2015, Judge  I  Ross  dismissed  the  appellant's
+    appeal.  The judge found that the appellant could not succeed under the
+    Immigration Rules (HC 395 as amended), in particular para 399(b) on the
+    basis of his "genuine and subsisting relationship" with his wife (which
+    the judge accepted existed) because he concluded that  the  appellant's
+    deportation would not be "unduly harsh" either for the appellant's wife
+    or  for  the  appellant  and  that  there  were  not  "very  compelling
+    circumstances over and above those described in paragraphs 399 or 399A"
+    to outweigh the public interest in deportation.  The judge  also  found
+    that  Exceptions  1  and  2  set  out  in  s.117C(4)  and  (5)  of  the
+    Nationality, Immigration and Asylum Act (the "NIA Act  2002")  did  not
+    apply.
+
+ 7. The appellant appealed to the Upper Tribunal against that  decision  on
+    the basis that the judge had failed properly to consider the  issue  of
+    whether his deportation would be "unduly harsh".
+
+ 8. Permission to appeal was initially refused by the FtT but  was  granted
+    by the Upper Tribunal (UTJ Blum) on 4 August 2015.
+
+ 9. The appeal initially came before me on 17  May  2016.   In  a  decision
+    dated 26 May 2016, I concluded that the First-tier Tribunal  Judge  had
+    erred in law and set aside his decision.  The appeal was  adjourned  to
+    be listed for a resumed hearing in order  to  remake  the  decision  in
+    respect of Art 8.
+
+10. That resumed hearing was listed before me on 19 July 2016.
+
+The Resumed Hearing
+
+11. Neither the appellant  nor  his  wife  attended  the  resumed  hearing.
+    Following enquiries, Mr Khan, who represented the  appellant,  informed
+    me that the appellant was  providing  support  to  his  niece  who  was
+    receiving medical treatment and  neither  he  nor  his  wife  would  be
+    attending the hearing.  His  instructions  were  to  proceed  with  the
+    hearing on the  basis  of  submissions  only  in  the  absence  of  the
+    appellant.
+
+12. I note that the appellant did not attend the  previous  Upper  Tribunal
+    hearing although he and his wife did  attend  the  First-tier  Tribunal
+    hearing.  In the circumstances, I considered it proper to proceed  with
+    the hearing, on the  basis  proposed  by  Mr  Khan  on  behalf  of  the
+    appellant, in the interests of justice.
+
+The Applicable Law
+
+13. The appellant relies upon  Art  8  of  the  ECHR.   He  is  a  "foreign
+    criminal" falling within para 398 of the Immigration Rules (HC  395  as
+    amended) and s.117D(2) of the  NIA  Act  2002  as  a  result  of  being
+    sentenced to a period of imprisonment of at least twelve months.
+
+14. It is clear from a consistent series  of  decisions  of  the  Court  of
+    Appeal that the Rules (in particular paras 398-399A) read with Part  5A
+    of the NIA Act 2002 (in particular s.117C) create a "complete code" for
+    determining, in deportation cases, whether a decision  breaches  Art  8
+    (see MF (Nigeria) v SSHD [2013] EWCA Civ 1192; LC (China) v SSHD [2014]
+    EWCA Civ 1310;  SSHD  v  AJ  (Angola)  [2014]  EWCA  Civ  1636  and  NA
+    (Pakistan) and Others v SSHD [2016] EWCA Civ 662).
+
+15. As a "foreign criminal" falling  within  s.32  of  the  2007  Act,  the
+    appellant is subject to the automatic  deportation  provision  in  that
+    Act.  As a consequence, his deportation is  "conducive  to  the  public
+    good" (see s.32(4)) and the Secretary of State is required  to  make  a
+    deportation order  unless  the  individual  falls  within  one  of  the
+    exceptions set out in s.33 of  the  2007  Act.   In  this  appeal,  the
+    appellant claims to fall within Exception 1 in s.32(2)(a) of  the  2007
+    Act, namely that his deportation would breach Art 8 of the ECHR.
+
+16. As applicable to the appellant, para  398  of  the  Rules  provides  as
+    follows:
+
+         "Where a person claims that their deportation would be contrary  to
+         the  UK's  obligations  under  Article  8  of  the   Human   Rights
+         Convention, and
+
+         .... (b) the deportation of the person from the UK is conducive  to
+         the public good and in the public interest because they  have  been
+         convicted of an offence for which they have  been  sentenced  to  a
+         period of imprisonment of less than four years but at least  twelve
+         months;
+
+         .... the Secretary of State in assessing the  claim  will  consider
+         whether paragraph 399 or 399A applies and,  if  it  does  not,  the
+         public interest in deportation will only  be  outweighed  by  other
+         factors where there are  very  compelling  circumstances  over  and
+         above those described in paragraphs 399 and 399A."
+
+17. In this appeal, the appellant  does  not  rely  upon  para  399A  which
+    addresses any claim based upon the appellant's private life.  He cannot
+    satisfy the requirement in 399A(a) that he has been "lawfully  resident
+    in the UK for most of his life".
+
+18. Instead, the appellant relies upon  para  399(b)  which  addresses  the
+    appellant's claim based upon his relationship with his wife.  So far as
+    relevant, para 399(b) provides as follows:
+
+         "This paragraph applies where paragraph 398(b) or (c) applies if -
+
+         .... (b) the person has a genuine and subsisting relationship  with
+         a partner who is in the UK and is a British citizen or  settled  in
+         the UK, and
+
+             (i)  the relationship was formed at a  time  when  the  person
+                  (deportee) was in the UK lawfully  and  their  immigration
+                  status was not precarious; and
+
+             (ii)     it would be unduly harsh for that partner to live  in
+                  the country to which the person is to be deported, because
+                  of compelling circumstances over and above those described
+                  in paragraph EX.2. of Appendix FM; and
+
+             (iii)    it would be unduly harsh for that partner  to  remain
+                  in the UK without the person who is to be deported."
+
+19. Paragraph EX.2. of Appendix FM which is relevant when considering  para
+    399(b)(ii) provides that:
+
+         "'Insurmountable obstacles' means the very significant difficulties
+         which  would  be  faced  by  the  applicant  or  their  partner  in
+         continuing their family life together  outside  the  UK  and  which
+         could not be overcome or would entail very serious hardship for the
+         applicant or their partner."
+
+20. Mr Khan, on behalf of the appellant submits that it  would  be  "unduly
+    harsh" for the appellant's wife to live with him in  the  Cameroon  and
+    further that it would be "unduly harsh" for his wife to remain  in  the
+    UK if he were deported to the Cameroon.
+
+21. As para 398 states, if an individual cannot  establish  that  he  falls
+    within either para 399 or 399A then the public interest will "only"  be
+    outweighed by other factors where:
+
+         "there are very  compelling  circumstances  over  and  above  those
+         described in paragraph 399 and 399A."
+
+22. In applying that provision, all factors  must  be  taken  into  account
+    including factors that fell, in principle, within para 399 or para 399A
+    even though they did not result in a finding in the individual's favour
+    under the respective rule (see NA (Pakistan) and Others v SSHD at [28]-
+    [37]).
+
+23. The relevant Immigration Rules must, however, be applied in conjunction
+    with Part 5A of the NIA Act 2002.  That set outs a  number  of  matters
+    concerned with the "public interest question" which a Court or Tribunal
+    must "have regard" to when determining whether there is a breach of Art
+    8 (see s.117A(1) and (2)).  The "public interest  question"  refers  to
+    the proportionality issue under Art 8.2 (s.117A(3)).
+
+24. Section  117B  (apart  from  s.117B(6))  deals  with  "public  interest
+    considerations applicable in all cases"  including  deportation  cases.
+    Section 117B provides as follows:
+
+         "117B Article 8: public interest considerations applicable  in  all
+         cases
+
+         (1)  The maintenance of effective immigration controls  is  in  the
+             public interest.
+
+         (2)  It is in  the  public  interest,  and  in  particular  in  the
+             interests of the economic well-being of  the  United  Kingdom,
+             that persons who seek to enter or remain in the United Kingdom
+             are able to speak  English,  because  persons  who  can  speak
+             English-
+
+             (a)  are less of a burden on taxpayers, and
+
+             (b)  are better able to integrate into society.
+
+         (3)  It is in  the  public  interest,  and  in  particular  in  the
+             interests of the economic well-being of  the  United  Kingdom,
+             that persons who seek to enter or remain in the United Kingdom
+             are financially independent, because such persons -
+
+             (a)  are not a burden on taxpayers, and
+
+             (b)  are better able to integrate into society.
+
+         (4)  Little weight should be given to -
+
+             (a)  a private life, or
+
+             (b)  a relationship formed with a qualifying partner, that  is
+                  established by a person at a time when the  person  is  in
+                  the United Kingdom unlawfully.
+
+         (5)  Little weight should be given to a private life established by
+             a person at a time when the  person's  immigration  status  is
+             precarious.
+
+         (6)  In the case of a person who is not liable to deportation,  the
+             public interest does not require the person's removal where -
+
+             (a)   the  person  has  a  genuine  and  subsisting   parental
+                  relationship with a qualifying child, and
+
+             (b)  it would not be reasonable to expect the child  to  leave
+                  the United Kingdom."
+
+25. Additional considerations to be applied in deportation cases  involving
+    foreign criminals are set out in s.117C as follows:
+
+         "117C Article  8:  additional  considerations  in  cases  involving
+         foreign criminals
+
+         (1)   The  deportation  of  foreign  criminals  is  in  the  public
+             interest.
+
+         (2)  The more serious the offence committed by a foreign  criminal,
+             the greater is the  public  interest  in  deportation  of  the
+             criminal.
+
+         (3)  In the case of a foreign  criminal  ("C")  who  has  not  been
+             sentenced to a period of imprisonment of four years  or  more,
+             the public interest requires C's deportation unless  Exception
+             1 or Exception 2 applies.
+
+         (4)  Exception 1 applies where -
+
+             (a)  C has been lawfully resident in the  United  Kingdom  for
+                  most of C's life,
+
+             (b)  C is socially and culturally  integrated  in  the  United
+                  Kingdom, and
+
+             (c)   there  would  be  very  significant  obstacles  to   C's
+                  integration into the country to which C is proposed to  be
+                  deported.
+
+         (5)  Exception 2 applies where  C  has  a  genuine  and  subsisting
+             relationship with a  qualifying  partner,  or  a  genuine  and
+             subsisting parental relationship with a qualifying child,  and
+             the effect of C's deportation on the partner or child would be
+             unduly harsh.
+
+         (6)  In the case of a foreign criminal who has been sentenced to  a
+             period of imprisonment of at  least  four  years,  the  public
+             interest requires deportation unless there are very compelling
+             circumstances, over and above those described in Exceptions  1
+             and 2.
+
+         (7)  The considerations in subsections (1) to (6) are to  be  taken
+             into account where  a  court  or  tribunal  is  considering  a
+             decision to deport a foreign criminal only to the extent  that
+             the reason for the decision was the offence  or  offences  for
+             which the criminal has been convicted."
+
+26. As will be apparent, Exception  1  in  s.117C(4)  and  Exception  2  in
+    s.117C(5) closely mirror para 399A and para  399  respectively  of  the
+    Rules.  Likewise s.117C(6) mirrors the provision in para 398 (where the
+    individual has been sentenced to a period of imprisonment of  at  least
+    four years) namely that deportation will  be  in  the  public  interest
+    unless there are "very compelling circumstances, over and  above  those
+    described in Exceptions 1 and 2".
+
+27. In NA (Pakistan) and Others, the  Court  of  Appeal  acknowledged  that
+    Parliament had sought to reflect the same substantive content in s.117C
+    as the Rules as amended following the  inclusion  of  Part  5A  by  the
+    Immigration Act 2014 with effect from 28 July 2014  (see  [26])  .   In
+    that regard, the Court of Appeal held that s.117C(6) - which is on  its
+    face restricted to foreign criminals  who  have  been  sentenced  to  a
+    period of imprisonment of at least four years  -  must  also  apply  to
+    foreign criminals who have been sentenced to a period of at  least  one
+    year but less than four years  where  neither  Exceptions  1  or  2  in
+    ss.117C(4) and (5) do not apply.  In that instance, the Court reasoned,
+    the public interest will require the  individual's  deportation  unless
+    there are "very compelling circumstances over and above those described
+    in Exceptions 1 and 2" (see [27]).
+
+28. In this appeal, Mr Khan's submission focused on  the  impact  upon  the
+    appellant's spouse such that it would, he submitted, be "unduly  harsh"
+    for her to live in the Cameroon or to remain in the UK if the appellant
+    were deported.  That is in substance a reliance  upon  para  399(b)(ii)
+    and (iii) and Exception 2 in s.117C(5).  In addition,  Mr  Khan  relied
+    upon the "very compelling circumstances"  provision  in  para  398  and
+    s.117C(6) of the NIA Act 2002.  In  addition  to  not  relying  on  the
+    private life provisions in para 399a and Exception 1 in  s.117C(4),  Mr
+    Khan did not rely upon any  "parental  relationship"  with  his  wife's
+    children and the impact upon them being "unduly harsh".
+
+29. What, then, is meant by "unduly harsh"?  There had been a different  of
+    view expressed in the Upper Tribunal in the two decisions of MAB [2015]
+    UKUT 435 (IAC) and KMO [2015]  UKUT  543  (IAC).  The  former  excluded
+    consideration of the gravity of the offender's criminality and required
+    focus simply upon the impact on the  individual;  the  latter  included
+    consideration of the gravity of the offending as part  of  a  balancing
+    exercise weighting the public interest against all  the  circumstances.
+
+
+
+30. In MM (Uganda) v SSHD [2016] EWCA Civ 450, the Court of Appeal approved
+    the approach in KMO and overruled MAB.  The Court of  Appeal  concluded
+    that the phrase "unduly harsh" required a decision maker to have regard
+    "to all the circumstances  including  the  criminal's  immigration  and
+    criminal  history"  (see  [26]).   The  Court  of  Appeal  subsequently
+    considered itself bound by MM even where the Court expressed doubts  as
+    to its correctness tentatively preferring  the  approach  in  MAB  (see
+    R(MA(Pakistan) and others) v Upper Tribunal [2016] EWCA Civ 705 at [43]
+    per Elias LJ with whom King LJ and Sir Stephen Richards agreed).
+
+31. At [24] in MM Laws LJ (with whom Vos and Hamblen LJJ  agreed)  set  out
+    the correct approach as follows:
+
+         "Accordingly the more pressing the public interest in his  removal,
+         the harder it will be to show that  the  affect  on  his  child  or
+         partner will be unduly harsh.  Any other approach  in  my  judgment
+         dislocates the 'unduly harsh' provisions  from  their  context,  it
+         would mean that the question of undue  hardship  would  be  decided
+         wholly without regard to  the  force  of  the  public  interest  in
+         deportation in the particular case.  But  in  that  case  the  term
+         'unduly' is mistaken for  'excessive'  which  imports  a  different
+         idea.  What is due or undue depends on all the  circumstances,  not
+         merely the impact on the child or partner in the  given  case.   In
+         the present context relevant circumstances  certainly  include  the
+         criminal's immigration and criminal history."
+
+32. The impact upon an individual must, no doubt, reach a  relatively  high
+    threshold to be characterised as "harsh"  at  all  rather  than  merely
+    producing a situation which is difficult,  inconvenient  or  disruptive
+    but whether any particular impact is "undue" must take into account the
+    public interest reflected in the deportee's  offending.   The  stronger
+    the public interest reflected  in  the  individual's  criminality,  the
+    greater the impact will need to be for it to be "undue" than where  the
+    public interest is weaker and a comparatively lesser impact may suffice
+    for it to be "unduly" harsh.
+
+The Submissions
+
+33. On behalf of the appellant, Mr Khan relied  upon  a  witness  statement
+    from the appellant (at pages 1-2 of  the  FtT  bundle)  and  a  witness
+    statement from his wife (at pages 3-6 of the FtT bundle).  Whilst  both
+    the  appellant  and  his  wife  gave  evidence  before  the  First-tier
+    Tribunal, Judge Ross merely recorded that they gave "oral  evidence  in
+    accordance with witness statements adopted as  true".   There  was,  of
+    course, no oral evidence given at the hearing before me.
+
+34. Mr  Khan  first  addressed  the  issue  of  the  "seriousness"  of  the
+    appellant's offence.  In addition, Mr Khan drew attention  to  passages
+    in the OASys assessment dated 5 August 2014 (at pages 8-39 of  the  FtT
+    bundle).  Mr Khan also placed  reliance  upon  a  number  of  documents
+    dealing with courses undertaken by the appellant whilst in  prison  (at
+    pages 88-108 of  the  FtT  bundle).   Mr  Khan  also  relied  upon  the
+    sentencing  remarks  of  the  Crown  Court  Judge  (at  B1-B4  of   the
+    respondent's bundle).
+
+35. Mr Khan accepted that the appellant had been sentenced to a  period  of
+    fifteen months' imprisonment but,  he  submitted,  on  examination  the
+    offence was towards the "less serious end of the  scale"  reducing  the
+    public interest  in  deporting  the  appellant.   He  relied  upon  the
+    sentencing judge's remarks that the  appellant  was  a  "foot  soldier"
+    within the organisation when the appellant used a false French ID  card
+    to obtain money.  Mr Khan submitted that the appellant was not  someone
+    who was involved in the planning or organisation of the offence.
+
+36. In addition, Mr Khan pointed out  that  the  appellant  was  a  man  of
+    previous good character.  He referred me  to  the  OASys  Report  which
+    identified that the appellant was at a "low" risk of re-offending (page
+    32), that the offence was "not indicative of serious  harm"  (page  15)
+    and that the appellant had no adjudications or  write-ups  against  him
+    whilst in prison (page 26).  Mr Khan submitted that the  appellant  had
+    shown remorse and there had been no subsequent  offending.   He  relied
+    upon the certificates at pages 88-108 of the bundle demonstrating  that
+    the appellant had made efforts to reform.
+
+37. In respect of the appellant's  relationship  with  his  wife,  Mr  Khan
+    pointed out that they had been married since 2010.   The  evidence  was
+    that his wife was in the middle of a degree course in childminding  and
+    that she had just set up a business in childminding.  She would have to
+    give these up if she was to move to the Cameroon.  Mr Khan also pointed
+    out that the appellant's wife had an 18 year old daughter  who  was  in
+    college and lived with her and the appellant.  She was still  dependent
+    on the appellant's wife.  He  also  relied  on  the  evidence,  in  the
+    statements, that the granddaughter of the  appellant's  spouse  visited
+    and stayed with them on weekends.
+
+38. Mr Khan submitted that the appellant's wife, who was a British citizen,
+    had no links with the Cameroon and did not speak French, which  is  the
+    main language in the Cameroon and that it would be unduly harsh for her
+    to relocate there.  He further submitted that without the appellant  in
+    the UK, it would be unduly harsh for  his  wife  to  remain  here.   He
+    relied upon her evidence in her witness statement that she would not be
+    able to continue her studies and business without him.
+
+39. Mr Khan submitted therefore, that the appellant met the  "unduly  harsh
+    requirement" in the Rules and  s.117C(5)  and  that  there  were  "very
+    compelling circumstances" to outweigh the public interest.
+
+40. On behalf of the Secretary of State, Mr Richards invited me to conclude
+    that the appellant's offending  was  "serious".   He  relied  upon  the
+    sentencing judge's remarks that  the  offence  was  "extremely  serious
+    indeed".  Mr  Richards  acknowledged  that  the  sentencing  judge  had
+    commented that the appellant's offence did not involve a "sophisticated
+    forgery" but, Mr  Richards  submitted,  he  was  being  used  by  other
+    criminals in order very possibly to launder money which was  a  serious
+    offence.
+
+41. Mr Richards submitted that the position of the appellant's wife had  to
+    be seen in  the  light  of  the  seriousness  of  that  offending.   He
+    submitted that the  likely  adverse  consequences  of  the  appellant's
+    deportation, in particular to his wife were  not  "unduly  harsh"  when
+    viewed against the seriousness of the appellant's offending.   Although
+    the appellant's wife did not want to go to the Cameroon because she was
+    studying and in business, it was inevitable that there  would  be  some
+    disruption to their family life if the  appellant  were  deported.   Mr
+    Richards submitted that there were no insurmountable obstacles  to  her
+    living in the Cameroon with the appellant.  The appellant  had  studied
+    and  obtained  qualifications  which  would  no  doubt,   Mr   Richards
+    submitted, stand him in  good  stead  in  the  Cameroon.   Mr  Richards
+    submitted that there was no reason why his wife could not continue  her
+    line of  business  in  the  Cameroon  and  the  difficulties  could  be
+    overcome.  Likewise, Mr Richards submitted that as regards  her  family
+    in the UK, contact could be maintained.
+
+42. Mr Richards submitted that given the  seriousness  of  the  appellant's
+    offending, the difficulties faced by the  appellant  or  his  wife  and
+    family did not reach the threshold of "unduly harsh".
+
+Discussion
+
+43. The appellant met his wife in Venice in  2008  and  they  were  married
+    shortly thereafter on 31 October 2008.  They have, therefore, now  been
+    married for seven years.  I accept that they have lived together in the
+    UK since the appellant entered with leave as a spouse on 16 June  2010.
+    They have a genuine and subsisting marriage.
+
+44. I also appears from the witness statement of the appellant's wife  that
+    she has two children (see para 4 of her statement).  Mr  Khan  was  not
+    able to clarify the position with any certainty but one of the children
+    (whom it is not suggested is  a  minor)  appears  to  live  in  Bristol
+    although not with the appellant and his wife.  I will  proceed  on  the
+    basis that there is a 'second' (albeit  adult)  daughter.   She  has  a
+    child - the grandchild of the appellant's wife - and the  granddaughter
+    visits and spends every other weekend with the appellant and his  wife.
+    The other daughter of the appellant's wife is now 18 years of age.  She
+    is in education but continues to live with the appellant and his wife.
+
+45. The appellant's wife in her statement dated 15 May 2015 states that she
+    has finished the first year of a three year degree course in childcare.
+     That is a year ago and (in the absence of any updating evidence to the
+    contrary) it is logical to conclude that she has now completed  two  of
+    the  three  years  of  her  degree.   In  addition,  she  has  begun  a
+    childminding business.
+
+46. The home of the appellant and his wife, at least in part, is subject to
+    a mortgage which his wife states, in her witness statement, as  at  May
+    2015 had ten years remaining.
+
+47. I accept the appellant's evidence that he has no close  family  in  the
+    Cameroon.  Both his parents are dead and there is no evidence  that  he
+    has any siblings there.  His aunt, in  the  Cameroon,  has  also  died.
+    Nevertheless, the appellant is not without any family in the  Cameroon.
+    His wife refers in her witness statement to a visit to the Cameroon  in
+    2009 when they saw "very distant relatives".
+
+48. I accept that there would be some difficulties for the appellant if  he
+    were deported to the Cameroon.  It was not made  clear  to  me  at  the
+    hearing either  in  submissions  or  by  evidence  when  precisely  the
+    appellant left the Cameroon.  Prior to him coming to the  UK  in  2010,
+    clearly he had been living in Italy for some years as he met  his  wife
+    there in 2008.  He was resident there  (see  para  12  of  Judge  Ross'
+    determination).  It was not  suggested  before  me,  and  there  is  no
+    evidence supporting a contrary position, that the  appellant  has  lost
+    all his cultural ties with the Cameroon.  It is not suggested  that  he
+    no longer speaks French.
+
+49. Nevertheless, I do not accept that the appellant would, as he  and  his
+    wife claim, be destitute on return to the Cameroon.  He managed to live
+    and reside without any apparent problems in Italy for some years and he
+    has worked in the UK.  Further, as the many certificates in the  bundle
+    illustrate, he has studied here and I am in no doubt that  he  has  the
+    resources and wherewithal to  obtain  employment  and  support  himself
+    (indeed himself and his wife) in the Cameroon.
+
+50. The position of the appellant's wife is somewhat different.  She  is  a
+    British citizen and has her roots in the UK even though originally  she
+    came from Jamaica.  She  has  family  in  the  UK,  in  particular  two
+    daughters and a grandchild.  I accept that she has a close relationship
+    with her family and her one daughter lives with her whilst in education
+    as an adult.  She has close contact with her grandchild who stays  with
+    her and the appellant every other weekend and, as she sets out  in  her
+    witness  statement,   she   also   has   other   involvement   in   her
+    granddaughter's life, for example picking her up from nursery from time
+    to time.
+
+51. In addition, the appellant's wife is undertaking a  three  year  degree
+    course of which she would appear to be completing her second year.  She
+    also has a childminding business which she has commenced in the UK.
+
+52. If the appellant's wife moved to the  Cameroon  with  the  appellant  I
+    accept that there  would  be  a  significant  disruption  to  her  life
+    including her current course of study and her work.  Likewise,  despite
+    modern methods of communication  including  Skype,  there  would  be  a
+    significant disruption to her  relationship  with  her  grandchild  who
+    could not be expected to leave the UK.  No submissions were made to  me
+    in relation to the "best interests" of that child but, it seems to  me,
+    on the material before me that it would be  in  her  grandchild's  best
+    interest to maintain her existing  relationship  with  the  appellant's
+    wife.   Further,  there  would  undoubtedly  be  difficulties  for  the
+    daughter who currently lives with the appellant and his wife if left in
+    the UK without her mother.  It is far from clear that the appellant and
+    his  wife  would  be  able  to  maintain  their  home  in  the  UK  and
+    consequently, there is a risk that the daughter would have to find  her
+    own accommodation.  There was no evidence of her ability  or  inability
+    to do so but I note that  she  is  currently  a  student.   There  may,
+    therefore, be difficulties for her but there was no evidence  that  she
+    would not be able to support herself as a student.  She could  not,  of
+    course, be expected to leave the UK and live with  her  mother  in  the
+    Cameroon.  There was no material before me about the  circumstances  of
+    the 'second' daughter.
+
+53. I will turn shortly to deal with the "seriousness" of  the  appellant's
+    offending which, following MM (Uganda),  I  must  balance  against  the
+    impact upon the appellant's wife in determining  whether  it  would  be
+    "unduly harsh" for her to continue her family life with  the  appellant
+    in the Cameroon.  I have reached the conclusion that  the  impact  upon
+    the appellant's wife of leaving the UK to live in the Cameroon would be
+    of such significance that it would be "harsh"  and,  even  taking  into
+    account the seriousness of  the  appellant's  offending,  it  would  be
+    "unduly harsh".
+
+54. That, however, is not sufficient for the appellant to succeed  in  this
+    appeal.  In addition, he must establish that, if he were  deported,  it
+    would be unduly harsh for his wife to remain in the UK.
+
+55. As  I  have  already  indicated,  there  would  be  disruption  to  the
+    appellant's relationships both with his wife and her family with  whom,
+    I accept, he has contact including one daughter living with them  since
+    he came to the UK in 2010.  I have no specific evidence concerning  his
+    relationship with his step-daughters or  his  step-grandchild.   I  am,
+    however, on the basis of the written statements of both  the  appellant
+    and his wife content to accept that he has a  close  relationship  with
+    them.  His deportation to the Cameroon would inevitably  disrupt  those
+    relationships.  However, such disruption is the natural consequence  of
+    the deportation of a foreign criminal in accordance with the  automatic
+    deportation provisions of the 2007 Act.
+
+56. I do not accept that, if the appellant is deported, his wife  will  not
+    be able to continue to any significant degree her life in the UK.   She
+    is currently studying and working and there is nothing in the  evidence
+    to suggest she was unable to do so whilst the appellant was in  prison.
+    No doubt his absence added some burden to her  life  but  she  survived
+    both financially and practically without him.  I do not accept that she
+    would be unable to continue to work and study if he were deported.  The
+    impact upon her would not, in my judgment, be "harsh" despite the  loss
+    of her husband's support and marital companionship.
+
+57. Further, I do not accept that there are insurmountable obstacles to the
+    appellant living in the Cameroon despite the absence of  close  family.
+    The  threshold  for  that   is   high   requiring   "very   significant
+    difficulties".  As I have already indicated, I see no reason  to  doubt
+    that he is a sufficiently resourceful and educated man  that  he  could
+    not financially survive and live in the Cameroon.   Any  disruption  to
+    the relationship that he has  with  his  step-grandchild,  and  to  the
+    extent that it is in her best interests to maintain a relationship with
+    him,  cannot  in  my  judgment  prevent  his  deportation.   His  step-
+    grandchild will  continue  to  live  with  her  mother  and  enjoy  her
+    relationship with her grandmother in the UK.
+
+58. Whilst, therefore, I accept that there will be some disruption  to  the
+    appellant's family and private life on deportation, I am not  satisfied
+    that that disruption is significant to be characterised as "harsh" and,
+    in any event, as "unduly" harsh when seen in the light of his offending
+    despite what was said  on  his  behalf  by  Mr  Khan  about  his  post-
+    conviction circumstances.
+
+59. I accept that the appellant was prior to his offending a person of good
+    character.  He had no previous convictions.  I also accept,  albeit  on
+    the limited evidence before me, that he is remorseful and that  he  has
+    not committed any further offending.  I also  accept  that,  whilst  in
+    prison, he had no adjudications or write-ups against him.
+
+60. Nevertheless, as the sentencing judge stated the appellant's  offending
+    was  "extremely  serious"  indeed.   His  offending  was  part  of   an
+    activities of an organisation  as  the  sentencing  judge  made  clear.
+    Whilst I accept that the appellant was not involved in the planning  or
+    organisation of the criminal enterprise - the judge described him as  a
+    "foot soldier" - his offending remained "serious" in itself.  I  accept
+    that the OASys Report puts the risk of re-offending as  "low".   Whilst
+    the offending, including the sentence of fifteen months'  imprisonment,
+    did not put the appellant in the higher category of  offending  (namely
+    imprisonment of four years or  more),  it  fell  within  the  automatic
+    deportation provisions and, as the sentencing judge  pointed  out,  the
+    money obtained could  be  used  "very  possibly  for  money  laundering
+    purposes".
+
+61. Applying the approach set out in MM (Uganda), I take into  account  all
+    the circumstances of the appellant and the seriousness of his  offence.
+    Section 117C(1) states that the deportation of foreign criminals is "in
+    the public interest".  Section 117C(2) states that:  "the more  serious
+    the offence committed by a foreign criminal, the greater is the  public
+    interest in deportation of the criminal."
+
+62. Carrying out that balancing exercise,  I  am  not  satisfied  that  the
+    impact upon the appellant (and his wife and family) if he  is  deported
+    would be "unduly harsh" for the purposes of para 399(b) and Exception 2
+    in s.117C(5).
+
+63. Consequently, the  appellant  can  only  succeed  if  there  are  "very
+    compelling circumstances, over and  above  those"  in  Exception  2  in
+    s.117C(5) and para 399(b) of the Rules (see s.117C(6)).
+
+64. Mr Khan did not identify any aspects of the appellant's  case  specific
+    to his claim that there were  "very  compelling  circumstances"  beyond
+    those relevant to the issue of "unduly harsh".  In my  judgment,  there
+    are plainly none.  I fully  take  into  account  all  the  circumstance
+    including the circumstances (considered above) relevant to para  399(b)
+    and s.117C(5) (see SSHD v JZ  (Zambia)  [2016]  EWCA  Civ  116  and  NA
+    (Pakistan) at [21]).  In NA (Pakistan) at  [32]  the  Court  of  Appeal
+    explained the approach to the "very compelling circumstances" issue  as
+    follows:
+
+         "... in principle there may be cases in which ... an  offender  can
+         say that features of his case of a kind described in  Exceptions  1
+         and 2 have such great force for Article 8  purposes  that  they  do
+         constitute such very compelling  circumstances,  whether  taken  by
+         themselves or in conjunction with other factors relevant to Article
+         8 but not falling within the factors described in Exceptions 1  and
+         2.  The decision maker, be it the Secretary of State or a Tribunal,
+         must look at all the matters relied upon collectively, in order  to
+         determine whether they are sufficiently compelling to outweigh  the
+         high public interest in deportation."
+
+65. At [33] the Court of Appeal continued:
+
+         "Although there is no 'exceptionality' requirement,  it  inexorably
+         follows from the statutory screen  that  the  cases  in  which  the
+         circumstances are sufficiently  compelling  to  outweigh  the  high
+         public interest in deportation  would  be  rare.   The  commonplace
+         incidents of family life, such as aging parents in poor  health  or
+         the  natural  love  between  parents  and  children,  will  not  be
+         sufficient."
+
+66. In this appeal, nothing put  forward  by  Mr  Khan  on  behalf  of  the
+    appellant falling within para 399(b) and Exception 2 is of "such  great
+    force" to amount to  very  compelling  circumstances.   The  inevitable
+    disruption to the appellant's family life with his wife,  step-children
+    and step-grandchild cannot, in my judgment, amount to "very  compelling
+    circumstances".
+
+67. Mr Khan placed no reliance upon para 399A or Exception 1 in  s.117C(4).
+    The focus of his submissions was on the  impact  upon  the  appellant's
+    family life if deported.  He did not address me on  any  other  matters
+    dealt with in s.117B of the NIA Act 2002.  The focus was, again, on the
+    deportation context and the matters set out in s.117C and para  399(b).
+
+
+
+68. For the above reasons, the appellant has failed to establish  that  the
+    public interest in deporting him is outweighed by all the circumstances
+    of his case.  He has failed to establish a breach of Art 8 of the ECHR.
+
+
+
+Decision
+
+69. The decision of the First-tier  Tribunal  having  previously  been  set
+    aside, I remake the decision dismissing the appellant's appeal  on  the
+    basis that it has not  been  established  that  his  deportation  would
+    breach Art 8 of the ECHR.
+
+
+                                      Signed
+
+
+
+                                      A Grubb
+                                      Judge of the Upper Tribunal
+                                      28 July 2016

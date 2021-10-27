@@ -1,0 +1,1492 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Abbasi (rule 43; para 322(5): accountants' evidence) [2020] UKUT 00027
+(IAC)
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House                          |Decision & Reasons Promulgated|
+|On 25 November 2019                           |                              |
+|                                              |..............................|
+|                                              |.........                     |
+
+                                   Before
+
+                     THE HON. MR JUSTICE LANE, PRESIDENT
+                        UPPER TRIBUNAL JUDGE LINDSLEY
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+
+                                     and
+
+                           MUHAMMAD KAMRAN ABBASI
+                                                                  Respondent
+
+Representation:
+
+For the appellant:     Mr P Singh, Senior Home Office Presenting Officer
+For the respondent:    Mr J Gajjar, instructed by Awan Legal Associates
+                  Limited
+
+
+   1) The Upper Tribunal can apply rule 43 of the Tribunal Procedure  (Upper
+      Tribunal) Rules 2008 of its own motion.
+   2) The use of fraud before the Upper Tribunal  constitutes  an  abuse  of
+      process such as to amount  to  a  "procedural  irregularity"  for  the
+      purposes of rule 43(2)(d).
+   3) In  a  case  involving  a  decision  under  paragraph  322(5)  of  the
+      immigration rules, where an individual  relies  upon  an  accountant's
+      letter admitting fault in the submission of incorrect tax  returns  to
+      Her Majesty's Revenue and Customs, the First-tier or Upper Tribunal is
+      unlikely to place any material weight on that letter if the accountant
+      does not attend the hearing  to  give  evidence,  by  reference  to  a
+      Statement of Truth, that explains in detail the circumstances in which
+      the error came to be made; the basis and nature of  any  compensation;
+      and whether the firm's insurers and/or any  relevant  regulatory  body
+      have been informed. This  is  particularly  so  where  the  letter  is
+      clearly perfunctory in nature.
+
+
+                            DECISION AND REASONS
+
+A. INTRODUCTION
+
+ 1. The appellant in this case is the  Secretary  of  State  for  the  Home
+    Department.  However, for the sake of clarity, we shall use the  titles
+    by which the parties were known before the  First-tier  Tribunal,  with
+    the Secretary of State referred to as "the respondent" and Mr Abbasi as
+    "the appellant".
+
+ 2. The appellant is a citizen of  Pakistan.   He  arrived  in  the  United
+    Kingdom as a student in 2006.  In 2010 he applied for leave  to  remain
+    as a Tier 1 HS (General) Migrant and was granted leave in that capacity
+    until March 2012.  Further such applications were also successful.
+
+ 3. In March 2016, the appellant applied for indefinite leave to remain  as
+    a Tier 1 HS (General) Migrant.  The application was subsequently varied
+    to an  application  for  indefinite  leave  to  remain  based  on  long
+    residence.
+
+ 4.  The  appellant's  application  in  that  regard  was  refused  by  the
+    respondent in September 2016.  That refusal also comprised the  refusal
+    of a human rights claim by the appellant, which  meant  that  he  could
+    appeal to the First-tier Tribunal. Appeals were also made to the First-
+    tier Tribunal by the appellant's wife and one of their children.
+
+ 5. The reason for the refusal by the  respondent  centred  upon  paragraph
+    322(5) of the Immigration Rules, whereby leave to enter  or  remain  in
+    the United Kingdom should normally be refused if, in the light  of  the
+    conduct, character or associations of the applicant (or the  fact  that
+    he represents a threat to national security), it would  be  undesirable
+    to permit the person concerned to remain in the United Kingdom.
+
+ 6. In the case of the appellant,  the  respondent  was  concerned  by  the
+    following matters.  In his application for leave to remain of 2011, the
+    appellant claimed to have an income  of  �51,036.51  from  all  sources
+    between 1 February 2010 and 31 January 2011, including �35,056.00  from
+    self-employment.  If that were true,  the  appellant  was  entitled  to
+    30 points under the  "previous  earnings"  category  in  the  relevant
+    Immigration Rules.  As part of his application for leave to  remain  in
+    2013, the appellant claimed to have an income of  �57,506.20  from  all
+    sources  between  1  February  2012  and  31  January  2013,  including
+    �45,777.77 from dividends.  This entitled the appellant to the award of
+    35 points.
+
+ 7. The respondent wrote to the appellant in May  2017  and  asked  him  to
+    complete  a  tax  questionnaire.   The  appellant   answered   in   the
+    affirmative to the question "Have you ever needed  to  correct  or  re-
+    submit your tax return ... ?".
+
+ 8. A revised tax calculation for the appellant dated 10  May  2016  showed
+    that he initially declared to HMRC a  total  income  for  2010/2011  of
+    �13,612.  That level of earnings would have meant  that  the  appellant
+    received 0 points for previous earnings, leaving him 30 points short of
+    the tally required to obtain leave.
+
+ 9. The same revised tax calculation showed that the appellant amended  the
+    figures declared to HMRC in order to show total income received for the
+    relevant period of �51,036,  including  �37,424  from  self-employment.
+    That amendment meant that the relevant earnings were "more in line with
+    those claimed" to the respondent as part of the appellant's application
+    for leave.
+
+10. The revised tax calculation of the appellant for 2012/2013, also  dated
+    10 May 2016, showed that  the  appellant  initially  declared  a  total
+    income to HMRC of �7,488.   Again,  that  would  have  meant  that  the
+    appellant received 0 points for previous earnings and would  have  been
+    35 points short of the tally required to obtain leave to remain.
+
+11. The amended tax calculation for 2012/2013  resulted  in  the  appellant
+    declaring to HMRC a total income for the  relevant  period  of  �58,517
+    including �44,222 from dividends.  Again, this amendment was  "more  in
+    line" with what the appellant had claimed to  the  respondent  was  his
+    total income.
+
+12. The tax re-calculations, which followed from the  amendments,  resulted
+    in the appellant's tax  liability  for  2010/2011  rising  from  �0  to
+    �4,487.45.  For  2010/2011,  the  tax  liability  rose  from  �0.40  to
+    �11,454.12.
+
+13. The respondent concluded that:-
+
+         "The delay of several years in correcting your declaration to  HMRC
+         indicates that you had little intention of  correcting  the  errors
+         promptly and as such show little respect for the UK tax laws.
+
+         It would not be considered a credible explanation that a registered
+         accountant would submit  a  self-assessment  tax  return  declaring
+         earnings which are considerably lower than  their  client's  actual
+         earnings.  It was your  responsibility  to  ensure  that  your  tax
+         return  was  submitted  to  HMRC  on  time  and  with  the  correct
+         information.
+
+         The Secretary of State considered that it would be undesirable  for
+         you to remain in the United Kingdom in light of your character  and
+         conduct.   She  is  satisfied  that  you  have  misrepresented  you
+         earnings at various times and from time to time have  changed  what
+         you have represented in respect of your earnings to HM Revenue  and
+         Customs and/or UK Visas and Immigration for the purpose of reducing
+         your tax liability or for the purpose of obtaining leave to  remain
+         or both."
+
+    The appellant appealed to the First-tier Tribunal. Following a  hearing
+    in September 2018, a First-tier Tribunal Judge allowed the  appellant's
+    appeal and that of his wife and daughter.
+
+
+
+B. THE DECISION OF THE FIRST-TIER TRIBUNAL
+
+14. The First-tier  Tribunal  Judge  considered  that  the  respondent  had
+    supplied evidence  of  significant  discrepancies  between  the  income
+    figures submitted by the appellant to  HMRC  and  for  the  purpose  of
+    obtaining leave to remain.  She found, however, that:-
+
+         "41. ... the appellant put forward an innocent explanation for  the
+             discrepancy.   He  states  that  he   was   relying   on   the
+             professional services of his accountants who submitted the tax
+             form online which he did not see.  I  accept  the  explanation
+             that he has provided as often those instructing  professionals
+             rely on their expertise and have confidence in their work.   I
+             also accept that professionals such as  accountants  can  make
+             mistakes.  As soon as the [appellant] became aware of this  he
+             changed his accountants, notified the HMRC and he is  repaying
+             the overdue tax to HMRC.
+
+         ...
+
+         45.  The [appellant] states that when he became aware of the  error
+             made  by  his  accountants  he   contacted   his   accountants
+             immediately and notified them of the  error,  for  which  they
+             apologised.  The [appellant's] accountants provided  a  letter
+             confirming that there was an unreported income  for  the  year
+             2010-2011 and 2012-2013 (See respondent's  bundle  D15  letter
+             from Tax Assist Accountants).
+
+         ...
+
+         47.  Looking at all the evidence in the round, I conclude that  the
+             respondent has not discharged his burden of demonstrating that
+             it is more probable than not that the appellant used deception
+             in declaring his income to either the  HMRC  or  inflated  his
+             earnings to the respondent.  The most that can be  said  about
+             him is that he was somewhat na�ve, placed too  much  trust  in
+             his accountant, and failed  to  exercise  sufficient  scrutiny
+             himself ...."
+
+15. Having concluded,  for  these  reasons,  that  the  appellant  met  the
+    requirements of the Immigration Rules, it followed that it would  be  a
+    disproportionate interference with the appellant's  Article  8  rights,
+    and those of his family in  the  United  Kingdom,  if  he  were  to  be
+    removed.   Accordingly,  the  First-tier  Tribunal  Judge  allowed  the
+    appeals.
+
+16. It is evident from the First-tier Tribunal Judge's  decision  that  she
+    placed significant weight on a letter to be found at D14 of the  bundle
+    of documents before her.  The letterhead reads "TaxAssist Accountants -
+    The Accountancy and Tax Service for Small  Business".   The  letter  is
+    dated 25 May 2017.  It is addressed "To Whom it May Concern".  It reads
+    as follows:-
+
+         "Dear Sir/Madam,
+
+         This is to confirm that Mr Muhammad  Kamran  Abbasi  has  appointed
+         TaxAssist Accountants as his HMRC authorised Agent and  Accountants
+         for all his Self-Employment and tax related services.
+
+         We are enclosing Mr Abbasi 2010-11 to 2015-16  tax  returns,  SA302
+         and tax overviews.  Please note that Mr Abbasi 2016-17  tax  return
+         is not submitted as it is due to HMRC by 31 January 2018.
+
+         I am writing to confirm that our client's tax returns for the years
+         2010/11 and 2012/13 were submitted with incorrect details.
+
+         The mistake was from our side as we  inadvertently  mixed  earnings
+         details of two clients.
+
+         Late, We approached our client and pointed out this mistake and  we
+         amended the HMRC records accordingly and client was compensated.
+
+         Although we always try to maintain high level of standards  in  our
+         professional work and engagement, but as a human being  errors  and
+         mistakes can't be ruled out.
+
+         Please  consider  this  as  a  genuine  mistake  which  should  not
+         adversely affect Mr Abbasi application.  If you have any questions,
+         please do not hesitate to contact us.
+
+         Yours faithfully,
+
+         [Signature]
+
+         TaxAssist Accountants
+
+         Samantha Skyring - ACCA Membership no. [redacted]"
+
+17. Pro-forma information at the bottom of the letter gives the address  of
+    TaxAssist Accountants as 390 Hoe Street, Walthamstow.  It  also  states
+    that the business is  "A  TaxAssist  Accountants  Franchise  owned  and
+    operated under licence by Nadeem Iqbal.  Directors: Nadeem Iqbal".
+
+C.  THE DECISION OF THE UPPER TRIBUNAL
+
+18. The respondent obtained permission to  appeal  to  the  Upper  Tribunal
+    against the decision of the First-tier Tribunal Judge.  The appeal came
+    before Deputy Upper Tribunal Judge Chamberlain on 8 January 2019.  In a
+    decision dated 28 January 2019, she found that the First-tier  Tribunal
+    Judge's decision contained an error of law.   The  First-tier  Tribunal
+    Judge had "failed to conduct a proper analysis  of  the  evidence,  and
+    failed to give adequate reasons for  finding  that  the  appellant  was
+    na�ve rather than dishonest".  The judge  had  made  no  clear  finding
+    regarding when the appellant found out about the errors and  had  given
+    no reasons for accepting the claim that the appellant did  not  realise
+    until January 2016 that anything was amiss.  The judge had also made  a
+    factual error when setting  out  the  evidence  of  how  the  appellant
+    discovered the true position.  Deputy Upper Tribunal Judge  Chamberlain
+    accordingly set aside the decision of the First-tier Tribunal.
+
+19. Deputy Upper Tribunal Judge Chamberlain re-heard  the  matter  in  June
+    2019.  The Deputy Upper Tribunal Judge considered that, in the light of
+    the judgment of the Court of Appeal in Balajigari v Secretary of  State
+    for the Home  Department  [2019]  EWCA  Civ  673,  the  respondent  was
+    required to state, in terms, in her  decision  that  a  person  in  the
+    position of the appellant had used  dishonesty.   It  was  "not  enough
+    merely to set out that there is a discrepancy" (paragraph 15).   Since,
+    in the present case, the respondent had not  contended  expressly  that
+    the appellant had been guilty of dishonesty, the Deputy Upper  Tribunal
+    Judge concluded that the respondent had not discharged  the  evidential
+    burden upon her in cases involving the application of paragraph  322(5)
+    of the Immigration Rules.
+
+20. The Deputy Upper Tribunal Judge, nevertheless, went on to make findings
+    in the event that she was wrong about her  application  of  Balajigari.
+    She concluded that the appellant had,  in  any  event,  discharged  the
+    burden on him to show that dishonesty and deception were  not  employed
+    and had provided an explanation for the discrepancy in the figures.
+
+21. The Deputy Upper Tribunal Judge  considered  it  significant  that  the
+    appellant had "voluntarily informed the respondent  that  he  had  made
+    amendments to his tax return" in March 2016, when  his  solicitors  had
+    written to the respondent to say that the appellant "has  also  revised
+    his income tax returns for the period of 2010-11,  2012-13  because  of
+    some  errors  and  he  has  provided  updated  copies  of  returns  and
+    accounts".
+
+22. Having found that "the appellant used and relied on accountants, and  I
+    find that there is nothing implausible or unusual in  this"  (paragraph
+    23), the Deputy Upper Tribunal Judge's decision continued as follows:-
+
+         "24. It was submitted by Mr Karim that  the  accountant  had  taken
+             responsibility for the error.  I was referred  to  the  letter
+             from Samantha Skyring, an accountant at TaxAssist Accountants,
+             dated 25 May 2017 (D14 of the Respondent's bundle).   She  has
+             given her ACCA membership number.  Ms Skyring states:
+
+                  "I am writing to confirm that our client's tax returns for
+                  the years 2010/11 and 2012/13 was submitted with incorrect
+                  details.
+
+                  The mistake was from our side as  we  inadvertently  mixed
+                  earnings details of two clients."
+
+         25.  It was  submitted  by  Mr  Karim  that  it  was  dangerous  to
+             underplay the consequences of an accountancy firm admitting to
+             such a mistake as it opened the firm up to being sued.  It was
+             implausible that any professional would put pen  to  paper  in
+             this way  if  he  was  not  responsible,  given  the  possible
+             repercussions.  It was submitted that full  weight  should  be
+             given to the admission by the accountants.
+
+         26.  I find that  there  is  force  in  this  submission.   It  was
+             submitted by Mr  Avery  that  there  were  some  discrepancies
+             between the evidence of the [appellant] and  the  evidence  in
+             the letter, in relation to how the mistake had been  made.   I
+             find that these are not significant given that the  accountant
+             has admitted the mistake.  The core of the [appellant's] claim
+             is that the accountant made the mistake, which is supported by
+             the  letter.   The  [appellant's]   evidence   is   that   the
+             accountants did not declare his self-employment income at all.
+              In the letter it states that they mixed the earnings  details
+             of  two  clients.   However,  these  two  are   not   mutually
+             exclusive.  There is nothing inconsistent."
+
+23. At paragraph 30, the Deputy Upper Tribunal Judge considered it did  not
+    detract from the appellant's evidence that he was still using the  same
+    accountants.  That appears to conflict with the evidence given  by  the
+    appellant to the First-tier Tribunal Judge who recorded at paragraph 21
+    of  her  decision  that  when  the  appellant  came  to  learn  of  the
+    discrepancies "he changed his accountant in 2016".  Be that as it  may,
+    the  Deputy  Upper  Tribunal  Judge's  decision  concluded   that   the
+    respondent  had  "wrongly  applied  paragraph  322(5)"  and  that   the
+    appellant met the requirements of "paragraph 276B  of  the  Immigration
+    Rules".  That being so, the Deputy Upper Tribunal Judge concluded  that
+    the human rights appeal of the appellant and his wife and child  should
+    be allowed, since it would  be  a  disproportionate  interference  with
+    their Article 8 rights if they were to be removed.
+
+D. SUBSEQUENT EVENTS
+
+24. The Deputy Upper Tribunal Judge's decision was promulgated on  10  July
+    2019.  On 16 September 2019, the Upper Tribunal received an e-mail from
+    TaxAssist Direct Limited.  The e-mail  caused  the  Upper  Tribunal  to
+    convene a hearing, which took place on 25  November  2019.   The  Upper
+    Tribunal indicated that it intended to consider  whether  it  would  be
+    appropriate to use its powers  under  rule  43(2)(d)  of  the  Tribunal
+    Procedure (Upper Tribunal) Rules 2008 to set aside the decision of  the
+    Deputy Upper Tribunal Judge.
+
+25. So far as relevant, rule 43 provides as follows:-
+
+         "Setting aside a decision which disposes of proceedings
+
+         43.(1)   The Upper Tribunal may set aside a decision which disposes
+                of proceedings, or part of such a decision, and re-make  the
+                decision or the relevant part of it, if-
+
+                (a)    the Upper  Tribunal  considers  that  it  is  in  the
+                    interests of justice to do so; and
+
+                (b)    one or more of the conditions in  paragraph  (2)  are
+                    satisfied.
+
+           (2)    The conditions are-
+
+                (a)    a document relating to the proceedings was  not  sent
+                    to, or was not received at an  appropriate  time  by,  a
+                    party or a party's representative;
+
+                (b)    a document relating to the proceedings was  not  sent
+                    to the Upper Tribunal at an appropriate time;
+
+                (c)    a party, or a party's representative, was not present
+                    at a hearing related to the proceedings; or
+
+                (d)    there has been some other procedural irregularity  in
+                    the proceedings.
+
+           (3)    Except where paragraph (4) applies, a party applying  for
+                a decision, or part of a decision, to  be  set  aside  under
+                paragraph (1) must make a written application to  the  Upper
+                Tribunal so that it is received no later than 1 month  after
+                the date on which the Upper  Tribunal  sent  notice  of  the
+                decision to the party."
+
+26. On 14 November  2019,  Ms  Skyring  filed  a  witness  statement.   The
+    relevant paragraphs read as follows:-
+
+         "3.  I am employed by TaxAssist Direct Limited  and  have  been  in
+             their employment since November 2014.
+
+         4.    My  current  day  to  day  role  is   Senior   Training   and
+             Communications Manager.
+
+         5.    My  qualifications  are:  FCCA  (Fellow  of  Association   of
+             Certified  Chartered  Accountants),  MAAT   (Member   of   the
+             Association of Accounting Technicians) & ACIPP  (Associate  of
+             the Chartered Institute of Payroll Professionals).
+
+         6.   TaxAssist is a franchise network.  TaxAssist  Direct  Ltd,  by
+             whom I am employed, is the franchisor.  There are a number  of
+             franchisees  of  which  Nadeem  Iqbal  trading  as   TaxAssist
+             Walthamstow is one.  For the avoidance  of  doubt,  therefore,
+             TaxAssist Walthamstow is an independent and different  trading
+             entity from TaxAssist Direct ltd.
+
+         7.   I have read and fully examined document D14 that is  a  letter
+             dated 25 May 2017, purportedly signed by  me,  in  respect  of
+             which I would comment as follows:
+
+             a.    It  is  on  the  notepaper  of   TaxAssist   Accountants
+                  Walthamstow which as stated  above  is  a  franchisee  and
+                  hence a separate legal entity, by which I am not employed.
+                   However,  it  clearly  purports  to  suggest  that  I  am
+                  employed or engaged by that business when this is not  the
+                  case.
+
+             b.   I did not create this letter and I am not aware  of  this
+                  document having been created by any  member  of  staff  at
+                  TaxAssist Direct Ltd.
+
+             c.   I did not sign this letter and nor do any  colleagues  of
+                  mine sign or have authority to sign letters on my  behalf.
+                  The signature is not only not mine but does  not  resemble
+                  my signature.
+
+             d.   I had no knowledge that this document  existed  until  it
+                  was brought  to  my  attention  by  a  colleague  on  13th
+                  September 2019.
+
+             e.   I do not have any knowledge of D15 that appears to  be  a
+                  letter from the franchisee to HMRC or of E1 that seems  to
+                  be a related tax calculation.
+
+             f.   I would not in any event be asked  to  produce  a  letter
+                  such as this or to be involved in the creation of  such  a
+                  document.  It is not within my  remit  or  qualifications.
+                  Whilst  TaxAssist  Direct  Ltd  provides  a  service   for
+                  franchisees, when the franchisee does not  itself  have  a
+                  certain qualification under which circumstances a suitably
+                  qualified employee of  TaxAssist  Direct  Ltd  can  assist
+                  them, I do not prepare letters covering in  this  area  or
+                  work in any event.  Indeed, not only is this  not  of  the
+                  type of document I would sign off but I would be in breach
+                  of the  Association  of  Certified  Chartered  Accountants
+                  professional rules in doing so.
+
+             g.   I have never met and have no knowledge of Muhammed Kamran
+                  Abbasi and nor have I ever been asked to assist him in any
+                  way whatsoever through TaxAssist Direct Limited, TaxAssist
+                  Accountants  Walthamstow  or  directly.    I   have   only
+                  corresponded with Nadeem Iqbal through email and maybe the
+                  odd phone call but not very often.
+
+             h.   The style of the letter is not mine.   It  contains  some
+                  punctuation and  style  errors.   Generally  it  does  not
+                  'read' as the professionally drafted letter that  I  would
+                  ever create.
+
+             i.   I would not ordinarily deploy my ACCA Membership  in  any
+                  form of correspondence or emails.  I am suspicious  as  to
+                  how  that  membership  number  has  been  acquired  to  be
+                  included in this document.  The only way  I  believe  they
+                  could have obtained this would be by  my  handing  it  out
+                  where a student for either ICAEW or ACCA needed me to sign
+                  off their work  experience  to  become  a  member  of  the
+                  relevant body.  In order for me to do this I  have  to  be
+                  appointed as their supervisor via the body and as a result
+                  need to give the student my ACCA membership number so they
+                  can add me.  In this regard  I  should  add  that  Mansoor
+                  Malik Ahmed (an employee of Nadeem Iqbal) added me as  his
+                  supervisor in February 2017  and  therefore  had  my  ACCA
+                  number.  Although he added me he did not  actually  submit
+                  any work experience for me to sign off.  So to date I have
+                  not signed off any work experience for him.  This  is  one
+                  possible explanation as to how my number came to appear on
+                  the letter in question.
+
+             j.   In short Document 14 is one the  purports  to  have  been
+                  created and signed by me but this is entirely false.
+
+         8.   I have no personal knowledge of Documents D1 to D13 that  also
+             consist of what appears to be a letter from Douglas  Blake  (a
+             colleague of mine who was employed by TaxAssist Direct Ltd and
+             not by the franchisee) and related items.  From investigations
+             conducted by TaxAssist Direct Ltd I am able to say that to the
+             best of my own knowledge and belief this document was also not
+             created by any TaxAssist Direct Ltd member of staff  including
+             Douglas Blake.  Further D1  also  refers  to  Douglas  Blake's
+             ICAEW membership that would not  normally  appear  on  letters
+             drafted by us and, moreover, the inclusion  of  his  name  and
+             details at the bottom right of the letter would never be  used
+             as part of the letter head as it would imply  he  works  there
+             when he does not.
+
+         9.   I regard myself as  a  person  of  the  utmost  integrity  and
+             honesty.  My name and accreditation  have  clearly  been  used
+             without my knowledge.  I am  very  angry  and  upset  that  my
+             details have been used without my  knowledge  or  consent  and
+             also feel violated as a result of this."
+
+27. At the hearing on 25 November 2019,  Ms  Skyring  adopted  her  witness
+    statement.  Neither Mr Singh nor Mr Gajjar had  any  questions  to  ask
+    her.  We are entirely satisfied that Ms Skyring is  a  wholly  credible
+    witness.  We accept that, despite what is set out in the letter  of  25
+    May 2017 at D14, Ms Skyring did not sign the letter.  Indeed,  she  had
+    nothing at all to do with its composition.
+
+E.  THE UPPER TRIBUNAL'S POWER TO SET ASIDE ITS DECISION
+
+28. Mr Gajjar's skeleton argument on behalf of the appellant contended that
+    the Upper Tribunal lacked jurisdiction to  re-open  the  appeal,  since
+    rule 43  was  confined  to  procedural  errors.   Mr  Singh's  skeleton
+    argument concurred:-
+
+         "It should be recalled that this is not a situation where  a  party
+         is seeking a set-aside,  and  the  question  of  "jurisdiction"  is
+         conditional on whether any part of Rule 43 is arguably met  in  the
+         eyes of the Tribunal.  That is the very issue in contemplation.  It
+         is, however, the Secretary of State's view that  the  provision  of
+         information to the Tribunal after the appeal has been  disposed  of
+         cannot in any way be classified as a  procedural  irregularity  "in
+         the proceedings".  The  proceedings  had  been  concluded  and  the
+         Tribunal was functus  officio.   Whereas  subsequent  evidence  can
+         potentially found an error of law by reason of error of fact,  that
+         question can only be  considered  in  extant  proceedings.   It  is
+         another matter whether the Secretary of State  may  in  due  course
+         seek to act upon the ramifications of the allegation which has come
+         to light."
+
+(a) The respondent's ability to take action
+
+29. There is a body of caselaw that considers the  circumstances  in  which
+    the respondent may refuse to give effect to a  decision  of  (now)  the
+    First-tier Tribunal or the Upper  Tribunal,  in  an  immigration  case,
+    which has not been  disturbed  on  appeal,  on  the  basis  that  fresh
+    evidence has come to light which shows that the Tribunal  was  deceived
+    as to the facts of the case.  There is a detailed consideration of  the
+    earlier cases in the judgment of McCombe LJ in  Ullah  v  Secretary  of
+    State for the Home Department [2019] EWCA Civ 550:-
+
+         "22. Turning to the cases, the first case to which we were referred
+             was R (Boafo) v Secretary of State for the Home Department (in
+             later citations "SSHD") [2002] 1 WLR 1919.  There the SSHD had
+             refused the claimant's  application  for  ILR.   The  claimant
+             appealed successfully to an adjudicator, but  the  adjudicator
+             failed to give directions as  to  the  implementation  of  the
+             appeal  decision,  as  then  required  by   s.19(3)   of   the
+             Immigration Act 1971.  The SSHD did  not  appeal  against  the
+             adjudicator's decision but rather reconsidered the application
+             in the light  of  fresh  information  and  again  refused  it,
+             directing  the  claimant  to  leave  the  UK  forthwith.   The
+             claimant's claim for judicial review was refused in  the  High
+             Court, but her appeal was allowed in this  court.   The  court
+             held that the absence of directions under s.19(3) of the  1971
+             Act did not deprive  the  adjudicator's  decision  of  binding
+             force and that, in the absence of an appeal by the  SSHD,  the
+             adjudicator's decision was binding upon him and ILR had to  be
+             granted.
+
+
+         23.  There are two important  passages  for  our  purposes  in  the
+             judgment of Auld LJ (with whom Ward LJ and  Robert  Walker  LJ
+             (as he then was) agreed).  First, in paragraphs 25 and 26,  at
+             p. 1927 D-G, Auld LJ said this:
+
+
+                  "25. ...Nevertheless, it is  a  salutary  example  of  the
+                      importance, as Rose  J  emphasised  in  Ex  p  Yousuf
+                      [1989] Imm AR 554, 558, of the executive  making  use
+                      of available machinery  of  appeal  when  seeking  to
+                      challenge the decision of an adjudicator, rather than
+                      attempting to  circumvent  it  by  reconsidering  the
+                      matter, whether on evidence going to the original  or
+                      new facts.  That is especially so where, as in a case
+                      like  this,   any   fresh   executive   decision   is
+                      unappealable save by way of judicial review.
+
+
+                  26.  On the question whether, as  a  matter  of  law,  the
+                      Secretary of State  was  entitled  to  disregard  the
+                      adjudicator's  determination  and  to  consider   the
+                      matter afresh  because  it  was  not  accompanied  by
+                      directions, I take the first two propositions of  the
+                      judge as  starting  points.   First,  this  appellate
+                      machinery is one of review, not rehearing,  and  both
+                      an adjudicator and the tribunal are normally bound to
+                      determine appeals on the facts as they  were  at  the
+                      date of the decision under challenge.   And,  second,
+                      an unappealed decision of an adjudicator  is  binding
+                      on the parties.  However, I disagree with  the  judge
+                      in  his  decision  that  an  adjudicator's   decision
+                      without directions is, by reason  of  their  absence,
+                      not binding on the Secretary of  State  and  that  he
+                      may, in consequence consider the matter afresh in the
+                      light of new information."
+             Secondly, in paragraph 28, at p. 1928, the Lord Justice said:
+                  "28. There may be circumstances in which the executive may
+                      reopen a decision without appealing  a  determination
+                      of an adjudicator,  for  example,  because  there  is
+                      fresh evidence, say of deception of  the  adjudicator
+                      about the facts on which the challenged decision  was
+                      based, or where, as in the entry clearance case of Ex
+                      p Yousuf [1989] Imm AR 554 the  very  nature  of  the
+                      second decision calls for decision on contemporaneous
+                      facts.  But even in such cases, it would be wrong, in
+                      my view, for the Secretary of State, as a generality,
+                      to regard the matter as hinging on  the  presence  or
+                      absence of directions."
+             It was, of course, that second passage that was quoted in  the
+             administrative review decision in the present case.
+         24.  Next, there was the decision of Moses J (as he  then  was)  in
+             Saribal v SSHD [2002] EWHC 1542 (Admin).  The outline facts of
+             that case were stated by Moses J at paragraphs 1 and 2 of  his
+             judgment as follows:
+
+
+                  "1.  On 12th October 2000 the Immigration Appeal  Tribunal
+                      allowed the claimant's appeal from a decision of  the
+                      Special  Adjudicator,  given  on  28th  April   1999,
+                      dismissing  the   claimant's   appeal   against   the
+                      Secretary of State's refusal  to  grant  him  asylum.
+                      Notwithstanding the successful outcome of his appeal,
+                      the Secretary of State refused to grant the  claimant
+                      refugee status or leave to remain.  On the  contrary,
+                      on the 14th September 2001  the  Secretary  of  State
+                      served him with notice of his decision to  deport  on
+                      the basis that his presence in the United Kingdom  is
+                      not conducive to the public good.
+
+
+                  2.   The Secretary of State's decision was  based  on  the
+                      ground that the favourable IAT decision was  obtained
+                      by fraud, the evidence of which had not come  to  the
+                      Secretary of State's attention until  after  the  IAT
+                      hearing.  The claimant has appealed that decision but
+                      contends that the Secretary of  State's  decision  to
+                      issue the Notice of Intention to Deport  was  illegal
+                      and irrational.  In essence, he asserts the Secretary
+                      of State failed to ask himself the correct  questions
+                      in relation to the evidential basis for setting aside
+                      the decision of the IAT."
+
+
+         25.  Moses J cited the two passages from Boafo which I have  quoted
+             above. He then said (at paragraph 17):
+
+
+                  "17. The  decision  in  ex  parte  Boafo  demonstrates  an
+                      important   principle   at   the   heart   of   these
+                      proceedings.  The Secretary of State is not  entitled
+                      to disregard the determination of the IAT and  refuse
+                      a claimant's right to indefinite leave to remain as a
+                      refugee unless he can set aside that determination by
+                      appropriate   procedure   founded   on    appropriate
+                      evidence."
+             He continued at paragraph 19 as follows:
+                  "19. The Secretary of State has not sought to  appeal  the
+                      IAT decision in the Court of Appeal on the  basis  of
+                      the evidence before  the  IAT  at  the  time  of  its
+                      determination.  Thus  he  can  only  impugn  the  IAT
+                      decision on the basis  of  fresh  evidence  of  fraud
+                      which  is  relevant,  credible  and  not   previously
+                      available without due diligence  in  accordance  with
+                      the  well  known  principles  enunciated  in  Ladd  v
+                      Marshall [1954] 1 WLR 1489."
+
+
+         26.  Moses J also cited Taylor v Lawrence [2002] EWCA Civ 90  in  a
+             passage of Lord Woolf CJ's judgment in that  case  emphasising
+             the importance of finality in litigation  and  said  that  the
+             principles were no different in immigration cases.  He cited R
+             v SSHD, ex  p.  Momin  Ali  [1984]  1  WLR  663  in  which  an
+             application to adduce fresh evidence in the Court of Appeal in
+             judicial review proceedings was refused on the ground that  it
+             could not be shown that  the  evidence  could  not  have  been
+             obtained with reasonable diligence for use at  the  trial.  In
+             the Momin Ali case Sir John Donaldson  MR  (as  he  then  was)
+             said:
+
+
+                  "23. ...
+
+
+                           Just as I think the doctrine  of  issue  estoppel
+                           has, as such, no place in public law or  Judicial
+                           Review.... so I think that the decision in Ladd v
+                           Marshall has, as such, no place in that  context.
+                           However  I  think  that  the   principles   which
+                           underlay issue estoppel and the decision in  Ladd
+                           v Marshall, namely  there  must  be  finality  in
+                           litigation, are applicable, subject always to the
+                           discretion of the Court to depart  from  them  if
+                           the wider interests of justice so require."
+
+
+         27.  There follows a passage of interest in  the  present  case  in
+             which  the  SSHD  was  arguing  that   judicial   review   was
+             inappropriate because that applicant had a right of appeal  to
+             an adjudicator.  In contrast here, it is Ms  Naik  who  argues
+             (beyond the range of her client's permission to  appeal)  that
+             the  Respondent  should  have  agreed  to  the  issue  of  the
+             Appellant's alleged fraud being remitted to  the  FTT  in  any
+             appeal by the Appellant from any refusal of his  still  extant
+             further claim for ILR based upon human rights considerations.
+
+
+         28.  Moses J said that the parties before him did not  dispute  the
+             principles of finality in litigation or those upon which fresh
+             evidence  is  sometimes  admitted  upon   appeals   in   legal
+             proceedings. He continued at  paragraphs  25  and  26  of  his
+             judgment as follows:
+
+
+                  "25. As I have said, neither party was disposed to dispute
+                      these principles. There was, however a dispute as  to
+                      the appropriate procedure.  There is  no  restriction
+                      within the statute  on  the  issue  of  a  notice  of
+                      intention to deport.  Once it has been issued, it  is
+                      open to the claimant to  appeal  in  accordance  with
+                      those provisions to which I  have  already  referred.
+                      The Secretary of State submits that an appeal  to  an
+                      adjudicator is a more convenient process.  It  avoids
+                      duplication and a hearing before the adjudicator is a
+                      more suitable forum for hearing  contested  evidence.
+                      There is, indeed, judicial support for that  approach
+                      in ex parte Momin Ali where  Sir  John  Donaldson  MR
+                      said:-
+
+
+                           "It is unfortunate that the  instant  application
+                           has  arisen  in  circumstances   in   which   the
+                           applicant  has  no  right   of   appeal   to   an
+                           adjudicator, who  would  be  better  equipped  to
+                           resolve the issues than is a  court."  (See  page
+                           666).
+
+
+                  26.  Mr Blake QC, on behalf of the claimant, accepted that
+                      there would be cases where it is appropriate to issue
+                      a Notice of Intention to Deport without first seeking
+                      to set aside a determination either by an out of time
+                      appeal or by Judicial Review.  Such a course would be
+                      appropriate, he concedes,  where  fraud  is  admitted
+                      after an IAT determination.  But in the instant  case
+                      he contends that it is incumbent upon  the  Secretary
+                      of State to ask  himself  the  correct  questions  in
+                      relation to the nature of the evidence  on  which  he
+                      relies  for  the  purpose  of   setting   aside   the
+                      determination. ..."
+
+
+         29.  In contrast, in Saribal, the claimant  did  have  a  right  of
+             appeal to an adjudicator and Moses J referred to the  argument
+             of counsel for the SSHD as follows (at paragraph 35):
+
+
+                  "35.     Mr Kovats starts from the proposition that  since
+                      there is nothing in the statute which  prohibits  the
+                      issue of a notice an intention to deport, there is no
+                      inhibition  on  the  Secretary  of  State  doing   so
+                      providing only  that  he  asks  himself  the  correct
+                      questions.   That  he  did  so  is  demonstrated   by
+                      paragraph  30  of  Mr  Bentley's  witness  statement.
+                      There is, he submits, no disadvantage to the claimant
+                      in issuing such a notice.  Should  the  Secretary  of
+                      State be unable to adduce the necessary  evidence  at
+                      the hearing, an adjudicator on  appeal  can  so  rule
+                      when he considers the Ladd  v  Marshall  tests  as  a
+                      preliminary  issue  (see   Immigration   and   Asylum
+                      Procedure Rules 2000, rule 30(4)(c)(i)).   There  is,
+                      moreover, every advantage in  a  hearing  before  the
+                      adjudicator  which   is   appropriate   for   hearing
+                      contested evidence and avoids duplication."
+             The judge continued in paragraphs 36 and 37 in these terms:
+                  "36.  I  do  not  think  that  this  case  turns  on   the
+                      appropriate forum for setting aside the determination
+                      of the IAT.  But, to my mind it does turn on  whether
+                      the Secretary of State asked himself those  questions
+                      which are appropriate to the issue as to whether  the
+                      determination can successfully  be  set  aside.   The
+                      acceptance, on behalf of the Secretary of State, that
+                      some questions  as  to  that  issue  must  be  asked,
+                      carries  with  it  the  acceptance  that  it  is  not
+                      sufficient merely to  form  a  view  that  there  are
+                      grounds for issuing a Notice of Intention to  Deport;
+                      he  must  also  consider  whether  the  evidence  for
+                      supporting those  grounds  satisfies  the  principles
+                      underlying  Ladd  v  Marshall.   If  it  were  merely
+                      sufficient to issue the Notice and then hope that the
+                      evidence will emerge by the time of  the  hearing  of
+                      the appeal, then there  would  be  no  need  for  the
+                      Secretary of State to consider  any  question  as  to
+                      setting  aside  the  existing  determination.    But,
+                      rightly, the Secretary of State has  not  adopted  so
+                      insouciant a stance.  To do so would be to ignore the
+                      determination.
+
+
+                  37.  I start, accordingly from the position that,  in  the
+                      light of the existence of  the  IAT's  determination,
+                      the Secretary of State must consider the question  as
+                      to whether the Ladd v Marshall tests are satisfied."
+
+
+         30.  Moses J concluded that the  SSHD  had  not  addressed  himself
+             sufficiently to the question of whether the principles in Ladd
+             v Marshall had been satisfied in that case before deciding  to
+             issue the Notice of Intention to Deport in a case where  there
+             had been an earlier decision of the Tribunal.  He quashed  the
+             decision.
+
+         31.  This case is, therefore, High Court authority  to  the  effect
+             that, in cases where there has  been  an  antecedent  Tribunal
+             decision that an immigrant is entitled to ILR, in  considering
+             whether to take action which has the effect  of  revoking  the
+             leave, the SSHD must give proper attention to principles  akin
+             to those identified for the admission  of  fresh  evidence  on
+             appeals in legal proceedings, as set out in Ladd  v  Marshall.
+             If he does not do so, his decision is liable to be  set  aside
+             on judicial review.
+
+
+         32.  That brings me to the decision in [Secretary of State for  the
+             Home Department v TB [2008] EWCA Civ 997].  In that case,  the
+             respondent  Jamaican  national  did  not  have  an  attractive
+             immigration record and on 1 August 2003 in the Crown Court  at
+             Guildford  he  pleaded  guilty  to  an  offence  of  supplying
+             controlled drugs of class A (heroin and  crack  cocaine).   He
+             was sentenced to four years and  three  months'  imprisonment,
+             reduced on appeal to three years and ten months.   By  letters
+             of 24 August and 28 September  2004  the  SSHD  signified  his
+             intention to make a deportation order against the  respondent.
+             The respondent claimed asylum and  alleged  that  his  removal
+             would constitute breaches of  Articles  2,  3  and  8  of  the
+             European Convention on Human Rights ("ECHR").  The  claim  was
+             refused on 6 April 2005, without the SSHD contending that  the
+             respondent was a danger  to  the  community  or  that  he  was
+             excluded from the  benefit  of  Article  33.1  of  the  Asylum
+             Convention.  The claim was rejected  on  credibility  grounds,
+             and also, in any event, on the basis that there was no risk of
+             harm to  him  on  return  to  Jamaica  and  further  that  any
+             interference with his private and family life was justified.
+
+
+         33.  There was an appeal to the  Asylum  and  Immigration  Tribunal
+             ("AIT").  Again, no point as to danger to the community or  of
+             exclusion from  the  benefit  of  the  Asylum  Convention  was
+             argued.  The Immigration Judge allowed the appeal on the basis
+             of all three of the  Articles  of  the  ECHR  upon  which  the
+             respondent had relied.
+
+
+         34.  The SSHD did not seek to have the AIT decision reconsidered or
+             set aside. Instead,  on  25  January  2006  he  wrote  to  the
+             respondent's solicitors raising the issues that the respondent
+             posed a danger to the public and that he was properly excluded
+             from  benefit  of  the  Asylum  Convention.   The  solicitors'
+             response was that the  SSHD's  new  stance  was  an  abuse  of
+             process in view of the fact that those  points  had  not  been
+             raised at any stage up to and including the AIT decision.
+
+
+         35.   In  the  Administrative  Court,  on  review  of  the   SSHD's
+             subsequent decision to grant only limited 6 month  periods  of
+             discretionary leave, instead of the 5 years normally  afforded
+             to a refugee, Bean J (as he then was)  held  that  the  SSHD's
+             decision was an abuse of process.  He founded his decision  on
+             principles of finality in litigation:  Henderson  v  Henderson
+             (1843) 3 Hare 100 and Johnson v Gore-Wood  [2002]  AC  1.   It
+             seems, as recorded in this court's judgment  on  appeal,  that
+             Bean J said that it was  incumbent  upon  the  SSHD  to  bring
+             forward  his  entire  case  before  the  AIT  on  any  appeal:
+             "Otherwise, the applicant is  relegated  to  seeking  judicial
+             review of the Secretary of State's  decision...which  [counsel
+             for the Secretary of  State]...realistically  accepted  was  a
+             less advantageous remedy which would make  it  more  difficult
+             for him to succeed."(Emphasis added in the argument of Ms Naik
+             before us): see [2008] EWCA Civ 977 at paragraph 27.
+
+
+         36.  This court dismissed the SSHD's appeal. Stanley Burnton LJ (in
+             a judgment with which Rix  and  Thorpe  LJJ  agreed)  said  at
+             paragraph 32 this:
+
+
+                  "32. As a matter of principle, it cannot be right for  the
+                      Home Secretary to be able to circumvent the  decision
+                      of the IAT by administrative decision.  If she  could
+                      do  so,  the  statutory  appeal   system   would   be
+                      undermined; indeed, in a case such  as  the  present,
+                      the  decision  of  the  Immigration  Judge   on   the
+                      application of the Refugee Convention would  be  made
+                      irrelevant.  That  would  be  inconsistent  with  the
+                      statutory scheme."
+             He then referred to R (Mersin) v SSHD [2000] EWHC 348  (Admin)
+             and to Boafo (from the latter: "...an unappealed  decision  of
+             an adjudicator is binding on the parties").   He  also  quoted
+             the judgment of Moses J in Saribal  (supra)  at  paragraph  17
+             (quoted above) where "the principle" was that the SSHD is  not
+             entitled to disregard an adjudicator's decision "unless he can
+             set aside that determination by appropriate procedure  founded
+             on appropriate evidence".
+         37.  There then followed the  important  paragraph,  paragraph  35,
+             which was at the heart of the UT's decision in this  case  and
+             of Singh LJ's limited permission to appeal order. At paragraph
+             35 of TB, Stanley Burnton LJ said:
+
+
+                  "35.  Of course, different considerations may apply  where
+                      there  is  relevant  fresh  evidence  that  was   not
+                      available at the date of the hearing, or a change  in
+                      the law, and the principle has no  application  where
+                      there is a change in circumstances or there  are  new
+                      events after the date of the decision: see Auld LJ in
+                      Boafo at [28]. But this is not such a case."
+
+
+30. In Ullah itself, the court held, in the light of that earlier  caselaw,
+    that the Ladd v Marshall requirements had to be satisfied where,  after
+    the First-tier Tribunal had allowed an appeal  against  a  decision  to
+    refuse to grant indefinite leave to remain, the respondent was informed
+    by a third party that the original claim to indefinite leave to  remain
+    had been fraudulent, in that it had been  obtained  under  a  different
+    identity and that the individual concerned, in his true  identity,  had
+    not been resident in the United Kingdom throughout  the  fourteen  year
+    period that was then required in order to give rise to  a  decision  in
+    his favour.
+
+31.  The court dismissed the appellant's appeal against the decision of the
+    Upper Tribunal, which had refused permission to bring  judicial  review
+    proceedings against the respondent's decision to revoke  the  grant  of
+    indefinite leave to  remain  that  had  resulted  from  the  First-tier
+    Tribunal's allowing of the appeal.  McCombe LJ  (with  whom  the  other
+    members of the court agreed) considered it clear "that the  UT  in  the
+    present case reviewed the respondent's decision through  the  prism  of
+    the Ladd v Marshall criterion".
+
+(b) Takhar v Gracefield Developments Limited and others
+
+32. After the hearing in Ullah, the Supreme Court gave judgment in Takhar v
+    Gracefield Developments Limited and Others [2019] UKSC 13.  Mrs  Takhar
+    claimed that certain properties had been transferred to Gracefield as a
+    result of undue influence or other conscionable conduct on the part  of
+    Dr and Mrs Krishan.  The High Court rejected Mrs Takhar's  claim.   The
+    judge placed weight on the fact that the last page of a  version  of  a
+    profit share agreement appeared to have  survived  in  the  form  of  a
+    scanned copy, which bore Mrs Takhar's signature.  The original  of  the
+    agreement had never been found.  Mrs Takhar sought permission to obtain
+    evidence from a handwriting expert to  examine  the  signature  on  the
+    document that had been adduced but that application was refused because
+    it was not made until the trial was imminent.   At  trial,  Mrs  Takhar
+    gave evidence that she could not say the signature was not hers but she
+    was unable to explain how it had got there.
+
+33. After the trial, Mrs Takhar's new solicitors obtained a report  from  a
+    handwriting expert, who stated conclusively that the signature  on  the
+    profit share agreement had been transposed from a letter  of  24  March
+    2006 which had been sent to the solicitors acting for the Krishans.
+
+34. On the strength of that report, Mrs Takhar issued proceedings  to  have
+    the judgment of the High Court and its order set  aside  on  the  basis
+    that these had been obtained by fraud.  On the trial of the preliminary
+    issue of whether Mrs Takhar's claim amounted to an  abuse  of  process,
+    Newey J held that a party who seeks to set  aside  a  judgment  on  the
+    basis that it was obtained by fraud did not have to demonstrate that he
+    could not have discovered the  fraud  by  the  exercise  of  reasonable
+    diligence.  The claim was, accordingly, not an abuse of process.
+
+35. The Court of Appeal disagreed.  Patten LJ held that the "due  diligence
+    condition" needed to be satisfied.
+
+36. The Supreme Court unanimously allowed Mrs Takhar's appeal  against  the
+    judgment of the Court of Appeal and restored  the  order  of  Newey  J.
+    Lord Kerr gave the leading judgment, with whom three other  members  of
+    the seven-judge panel unequivocally agreed.  At paragraph 19, Lord Kerr
+    examined the reliance placed by the Court of Appeal on the judgment  of
+    Wigram VC in Henderson v Henderson (1843)  3  Hare  100  (mentioned  at
+    paragraph 35 of McCombe LJ's judgment in Ullah: see above).  Lord  Kerr
+    held, at paragraph 20, that although Henderson was  authority  for  the
+    "general principle that parties must normally advance the  totality  of
+    their case on the first bout of litigation" and that it was  "not  open
+    to them, save in exceptional circumstances, to bring up a  point  which
+    should have been raised  in  that  litigation  and  which  could,  with
+    reasonable diligence, have been discovered and canvassed on  the  first
+    trial", Henderson had nothing to say on whether  such  a  rule  applied
+    "where the new point was not in issue between the parties on the  first
+    trial and where, if it had been and evidence on the point had been led,
+    a different outcome might have ensued"; nor "where the new issue raises
+    an allegation of fraud by which, it is claimed, the original  judgement
+    was obtained".
+
+37. Lord Kerr found that there was nothing in the judgments of the  Supreme
+    Court in Virgin Atlantic Airways Ltd v Zodiac Seats  UK  Ltd  (formerly
+    Contour Aerospace Ltd) [2014] AC 160 or the judgments of the  House  of
+    Lords in Arnold v National Westminster Bank plc [1991]  2  AC  93  that
+    precluded the course  taken  by  Newey  J.   In  this  regard,  it  was
+    important that the "case before Judge Purle [in the High Court] did not
+    involve an allegation of fraud on the part of the Krishans.  The points
+    which "had to be or were decided" in Mrs  Takhar's  case  before  Judge
+    Purle were not concerned with possible fraud" (paragraph 27).
+
+38. At paragraphs 40 to 42, Lord Kerr rejected the reliance placed  by  the
+    Court of Appeal on the judgments in Owens Bank Ltd v Etoile Commerciale
+    SA [1995] 1 WLR 44 and Owens Bank Ltd v Bracco [1992] 2 AC 443  on  the
+    basis that the rule to be derived from them -  namely  that  the  party
+    alleging fraud must prove it by fresh evidence  not  available  at  the
+    time and not discoverable with  reasonable  diligence  -  applied  only
+    "where there is a proposed re-litigation of the issue  of  fraud  which
+    has been determined  in  the  earlier  litigation.   That  is  not  the
+    position here" (paragraph 42).
+
+39. Beginning at paragraph 43, Lord Kerr examined the  authorities  to  the
+    effect that fraud is "a thing apart" which does "unravels all":-
+
+         "43. In HIH Casualty and General Insurance Ltd  v  Chase  Manhattan
+             Bank [2003] 2 Lloyds Rep 61, para 15, Lord Bingham of Cornhill
+             said that:
+                  "... fraud is a thing apart.  This is not a  mere  slogan.
+                  It also reflects an old legal rule that fraud unravels all
+                  ...  once  fraud  is  proved,  'it   vitiates   judgments,
+                  contracts  and  all  transactions   whatsoever':   Lazarus
+                  Estates Ltd v Beasley [1956] 1 All ER 341 at 345, [1956] 1
+                  QB 702 at 712 per Denning LJ.   Parties  entering  into  a
+                  commercial contract will no doubt recognise and accept the
+                  risk  of   errors   and   omissions   in   the   preceding
+                  negotiations, even negligent errors  and  omissions.   But
+                  each party will assume the honesty and good faith  of  the
+                  other; absent such an assumption they would not deal."
+         44.  This reflects the basic principle that the law does not expect
+             people to arrange their affairs on the basis that  others  may
+             commit fraud.  It also carries echoes of what Lord Wilberforce
+             said in The Ampthill Peerage [1977] AC 547, 569:
+                  "... any determination of disputable  fact  may,  the  law
+                  recognises, be imperfect: the law aims  at  providing  the
+                  best and safest  solution  ...  and  having  reached  that
+                  solution it closes the book ... in the interest of  peace,
+                  certainty and security it  prevents  further  inquiry  ...
+                  there are cases where the certainty  of  justice  prevails
+                  over the possibility of truth  ...  and  these  are  cases
+                  where the law  insists  on  finality.   For  a  policy  of
+                  closure to be compatible with justice, it must be attended
+                  with safeguards: so the law allows appeals:  so  the  law,
+                  exceptionally, allows appeals out  of  time:  so  the  law
+                  still more exceptionally allows judgments to  be  attacked
+                  on the ground of fraud."
+         45.  This passage from Lord  Wilberforce's  speech  resonates  with
+             earlier authority.  In Hip Foong Hong v H Neotia &  Co  [1918]
+             AC 888, 894, Lord Buckmaster said:
+                  "In all applications  for  a  new  trial  the  fundamental
+                  ground must be  that  there  has  been  a  miscarriage  of
+                  justice.  If no charge of fraud  or  surprise  is  brought
+                  forward, it is not  sufficient  to  show  that  there  was
+                  further evidence that could have been adduced  to  support
+                  the claim of the losing parties;  the  applicant  must  go
+                  further and show that the evidence was of such a character
+                  that it would, so far as can be foreseen,  have  formed  a
+                  determining factor in the result.  Such considerations  do
+                  not apply to questions of  surprise,  and  still  less  to
+                  questions of  fraud.   A  judgment  that  is  tainted  and
+                  affected by fraudulent conduct is tainted throughout,  and
+                  the whole must fail ..."
+         46.  The clear implication from this statement is that in cases  of
+             fraud, unlike  other  instances  of  claimed  miscarriages  of
+             justice, it is not necessary to show that the further evidence
+             would have been a determining factor in the result.   And,  if
+             it was not necessary to show that, it  could  hardly  be  said
+             that it would have to be shown  that  evidence  of  the  fraud
+             could not have been obtained before the  first  trial  by  the
+             exercise of reasonable diligence (a more rigorous requirement,
+             by any standard).
+         47.  A need to show reasonable diligence did not feature in Jonesco
+             v Beard [1930] AC 298, where an application was  made  to  set
+             aside a judgment obtained by fraud. At p 300, Lord  Buckmaster
+             said
+                  "the proper method of impeaching a completed  judgment  on
+                  the ground of fraud is by action in which, as in any other
+                  action based on fraud, the particulars of the  fraud  must
+                  be exactly given and the allegations  established  by  the
+                  strict proof such a charge requires."
+         No mention was made of a need to show that evidence  of  the  fraud
+         could not have been uncovered by reasonable diligence. If that  was
+         deemed to be a requirement, it would surely have been mentioned  at
+         this point.  This is particularly so because affidavits relating to
+         evidence other than fraud, which  had  not  been  produced  at  the
+         trial, were said by Lord Buckmaster not to be capable of sustaining
+         the case for setting aside  the  judgment  because  "there  was  no
+         sufficient explanation of  why  the  evidence  had  not  been  made
+         available at the trial" (at p 300).  The  same  stricture  was  not
+         applied to the argument in relation to fraud."
+40. Having examined caselaw from Australia and Canada to the  same  effect,
+    Lord Kerr reached the following conclusions:-
+
+         "54. For the reasons that I have given, I do not consider that  the
+             Etoile and Bracco cases  are  authority  for  the  proposition
+             that, in cases  where  it  is  alleged  that  a  judgment  was
+             obtained by fraud, it may only be set aside  where  the  party
+             who makes that application  can  demonstrate  that  the  fraud
+             could not have been uncovered  with  reasonable  diligence  in
+             advance of the obtaining of the judgment.  If,  however,  they
+             have that effect, I consider that they should not be followed.
+              In my view, it ought now to be recognised that where  it  can
+             be shown that a judgment has been obtained by fraud, and where
+             no allegation of fraud had been raised at the trial which  led
+             to that judgment, a requirement of reasonable diligence should
+             not be imposed on the party seeking to set aside the judgment.
+         55.  Two qualifications to that general conclusion should be  made.
+             Where fraud has been raised at  the  original  trial  and  new
+             evidence as to the existence of the fraud is prayed in aid  to
+             advance a case for setting aside the judgment, it seems to  me
+             that it can be argued that the court having to deal with  that
+             application  should  have  a  discretion  as  to  whether   to
+             entertain the application.  Since that question does not arise
+             in the present appeal, I do not express any final view on  it.
+             The  second  relates  to  the  possibility   that,   in   some
+             circumstances, a deliberate decision may have been  taken  not
+             to investigate the possibility of  fraud  in  advance  of  the
+             first trial, even if that had been suspected.  If  that  could
+             be established, again, I believe that a discretion whether  to
+             allow an application  to  set  aside  the  judgment  would  be
+             appropriate but, once more, I express no  final  view  on  the
+             question.  In Mrs Takhar's case, she did  suspect  that  there
+             may have been fraud but it is clear that she did  not  make  a
+             conscious decision not to investigate it.   To  the  contrary,
+             she sought permission to engage  an  expert  but,  as  already
+             explained, this application was refused.
+         56.  At para 26 of his judgment, Newey J said that  the  principles
+             which govern applications to set aside judgments for fraud had
+             been summarised by Aikens LJ in Royal Bank of Scotland  plc  v
+             Highland Financial Partners lp [2013] 1  CLC  596,  para  106.
+             There, Aikens LJ said:
+                  "The principles are, briefly: first, there  has  to  be  a
+                  'conscious and deliberate dishonesty' in relation  to  the
+                  relevant evidence given, or action taken,  statement  made
+                  or matter concealed, which is relevant to the judgment now
+                  sought to be impugned.  Secondly, the  relevant  evidence,
+                  action, statement or concealment (performed with conscious
+                  and deliberate dishonesty) must be 'material'.  'Material'
+                  means that the fresh evidence that is  adduced  after  the
+                  first judgment has been given is such that it demonstrates
+                  that the previous relevant evidence, action, statement  or
+                  concealment was an operative cause of the court's decision
+                  to give judgment in the way it did.  Put another  way,  it
+                  must be shown that the fresh evidence would have  entirely
+                  changed the way in which the first  court  approached  and
+                  came to its decision.  Thus  the  relevant  conscious  and
+                  deliberate dishonesty must be causative  of  the  impugned
+                  judgment being obtained in the terms it was.  Thirdly, the
+                  question of materiality of the fresh  evidence  is  to  be
+                  assessed by  reference  to  its  impact  on  the  evidence
+                  supporting the original decision, not by reference to  its
+                  impact on what decision might be made if the claim were to
+                  be retried on honest evidence."
+         57.  I agree that these are the relevant principles to be  applied.
+             I also agree with Newey J's view (expressed at para 47 of  his
+             judgment) that Mrs  Takhar's  application  to  set  aside  the
+             judgment  of  Judge  Purle  has  the  potential  to  meet  the
+             requirements which Aikens LJ  outlined.   She  should  not  be
+             fixed with a further obligation to show that the  fraud  which
+             she now alleges could not  have  been  discovered  before  the
+             original trial by reasonable diligence on her part."
+41. Lord Sumption, agreeing with Lord Kerr, added some observations of  his
+    own "because the disorderly state of the authorities is apt to make the
+    question  before  us  appear  more  complicated  than  it  really   is"
+    (paragraph 59).  Lord Sumption considered an action  to  set  aside  an
+    earlier judgement for fraud "is not  a  procedural  application  but  a
+    cause of action" (paragraph 60).  It "is independent of  the  cause  of
+    action asserted in the earlier proceedings.  It relates to the  conduct
+    of  the  earlier  proceedings  and  not  to  the  underlying   dispute"
+    (paragraph 61).  That meant there could be  no  question  of  cause  of
+    action estoppel.  The rule in Henderson v Henderson, although -
+
+         "commonly treated as a branch of  the  law  of  res  judicata"  was
+         "better  analysed  as  part  of  the   juridically   distinct   but
+         overlapping principle which empowers the court to  restrain  abuses
+         of process ...  Whereas res judicata is a rule of substantive  law,
+         abuse of process is a concept which informs  the  exercise  of  the
+         court's  procedural  powers.   These  are   part   of   the   wider
+         jurisdiction of the court to protect its process from wasteful  and
+         potentially oppressive duplicative litigation even in  cases  where
+         the relevant question was not raised  or  decided  on  the  earlier
+         occasion."  (paragraph 62).
+
+42. At paragraph 63, Lord Sumption held that -
+
+         "... the basis on which the  law  unmakes  transactions,  including
+         judgments, which have been procured by fraud is that  a  reasonable
+         person is entitled to assume honesty in those with whom  he  deals.
+         He is not expected to conduct himself or his affairs on the footing
+         that other persons are dishonest unless he  knows  that  they  are.
+         That is why it is not a defence to an action in deceit to say  that
+         the victim of the deceit was foolish or negligent to allow  himself
+         to be taken in."
+
+43. Lord Sumption concluded his judgment as follows:-
+
+         "66. I would leave open the question whether the position as I have
+             summarised it is any different where the fraud was  raised  in
+             the earlier proceedings but  unsuccessfully.   My  provisional
+             view is that the position is the same, for the  same  reasons.
+             If decisive new evidence is deployed to establish  the  fraud,
+             an action to set aside the judgment will lie  irrespective  of
+             whether it could reasonably have been deployed on the  earlier
+             occasion unless a deliberate decision was then  taken  not  to
+             investigate or rely on the material.
+         67.  I recognise the risk of frivolous or extravagant litigation to
+             set aside judgments on the ground of  fraud,  but  like  other
+             members of the court, I think that  the  stringent  conditions
+             set out by Aikens LJ in Royal Bank of Scotland plc v  Highland
+             Financial Partners lp [2013] 1 CLC  596,  para  106,  combined
+             with the professional duties of counsel, are  enough  keep  it
+             within acceptable limits. I do not think that  the  imposition
+             of further conditions  would  be  consistent  with  the  long-
+             standing policy of equity of reversing  transactions  procured
+             by fraud."
+(c) The respondent's powers to take action, following Takhar
+44. It is, of course, important to recognise that Takhar involved  a  civil
+    action between individuals, rather than public law proceedings, such as
+    an appeal under the Nationality, Immigration and Asylum Act  2002.   It
+    is,  nevertheless,  doubtful   whether   the   "reasonable   diligence"
+    requirement in Ladd v Marshall should now be held to apply, in  a  case
+    where the Secretary of State has lost an appeal under the 2002 Act,  in
+    circumstances where she has not raised the issue of fraud, but where it
+    later transpires that fraud has been  employed,  such  as  occurred  in
+    Ullah.
+
+45.  So far as concerns an appeal that involves an allegation of dishonesty
+    in relation to paragraph 322(5), the position may be  less  clear  cut.
+    It would seem that, in such a case, we are in  the  realm  of  judicial
+    discretion, of the kind described by  Lord  Kerr  at  paragraph  55  of
+    Takhar.  If so, then a relevant  criterion  for  exercising  discretion
+    might be the inability to have discovered the  fraud,  with  reasonable
+    diligence; although paragraph 66 of Lord Sumption's judgment (with whom
+    three of his colleagues agreed) leaves the matter in some doubt.
+
+(d) The scope of rule 43
+
+46. Interesting though they are, these questions are not for  determination
+    in the present case.  The question for us concerns what light, if  any,
+    the caselaw sheds on the ability of the Upper Tribunal to  invoke  rule
+    43 where it appears that evidence relied upon by  the  Tribunal  in  an
+    appeal was forged or is otherwise bogus.
+
+47. The first point to make is that an application under rule  43(3)  by  a
+    party is not a pre-condition of the Tribunal's power to set aside under
+    rule 43(1).  If that had been the legislature's intention,  rule  43(1)
+    would have said so.  The Tribunal may, accordingly, apply  rule  43  of
+    its own motion.
+
+48. The second point is that,  contrary  to  Mr  Gajjar's  submission,  the
+    decision of Deputy Upper Tribunal Judge Chamberlain, on  the  re-making
+    of the appeal, was a decision that disposed of the proceedings  in  the
+    Upper Tribunal. The fact that an appeal could be made to the  Court  of
+    Appeal, with permission granted either by the Upper  Tribunal  or  that
+    court, in no way affects the character of the Deputy Judge's  decision.
+
+
+
+49. Thirdly, the caselaw, culminating in Ullah, makes  it  plain  that  the
+    respondent can,  in  certain  circumstances,  respond  to  the  fact  a
+    Tribunal may have been deceived into allowing an appeal, otherwise than
+    by seeking to have the Tribunal's decision  overturned  or  set  aside.
+    But that ability on the part of the respondent does not mean the  ambit
+    of rule 43(1) is thereby restricted, so as  to  preclude  the  Tribunal
+    from taking  action  to  set  aside  its  own  decision.   Rather,  the
+    respondent's ability to act in such a matter will be a factor  for  the
+    Upper Tribunal  to  consider  in  deciding,  in  the  exercise  of  its
+    discretion, whether its decision should be set aside.
+
+50. Fourthly, the submissions of Mr Gajjar and  Mr  Singh  that  the  Upper
+    Tribunal has no power to act, even where it appears that fraud "was  an
+    operative cause of the [Tribunal's] decision to give  judgment  in  the
+    way it did" (Takhar,  paragraph  56)  sit  very  ill  indeed  with  the
+    judgments in Takhar and the earlier caselaw  that  "fraud  is  a  thing
+    apart", which "unravels all", vitiating "judgments, contracts  and  all
+    transactions whatsoever" (Takhar, paragraph 43).
+
+51. Both representatives submitted that, even  if  Ms Skyring's  name  and
+    signature on the letter were bogus, rule 43 was not engaged because the
+    proffering of that evidence was not a "procedural irregularity  in  the
+    proceedings" within the meaning of section 43(2)(d).   We  emphatically
+    reject  those  submissions.   Any  issue  as  to  what  constitutes   a
+    "procedural irregularity" falls to be determined by reference  to  rule
+    2.  Rule 2(1) states that the overriding objective of the Rules "is  to
+    enable the Upper Tribunal to deal with cases fairly and justly".   Rule
+    2(3) states that the Upper Tribunal "must seek to give  effect  to  the
+    overriding objective when it ... (b) interprets any  rule  or  practice
+    direction".
+
+52.  Having regard to the overriding objective, it would be wholly inimical
+    to the status of the Upper Tribunal, as a superior court of record,  if
+    it were to be powerless to correct an abuse of its own process, of  the
+    kind with which we may be concerned.  Although it was  dealing  with  a
+    cause of action to set aside a judgement, the Supreme Court  in  Takhar
+    regarded fraud as relating to "the conduct of the earlier  proceedings,
+    and not to the underlying dispute" (paragraph  61).   A  case  that  is
+    advanced by reference to evidence that turns out to be forged  involves
+    an irregularity in the Tribunal's process.
+
+53. The correctness of that finding can be tested as follows. If, say,  the
+    Tribunal hears evidence from the spouse of  an  individual,  who  gives
+    evidence in support of that individual in an Article 8 appeal,  and  it
+    later transpires that the person giving the evidence was  an  imposter,
+    it is plain that rules 2(3)(b) and 43(2)(d) enable the  Upper  Tribunal
+    to correct what has been a serious abuse of process, resulting from the
+    use of the imposter.  By the same token, the Upper  Tribunal  must,  in
+    our view, be able to set aside a  decision  taken  by  reference  to  a
+    document put in evidence purporting to come from an individual who  has
+    in truth had nothing to do with it.
+
+54. In conclusion on this aspect, rule 43 enables the Upper Tribunal to set
+    aside a decision and to re-make that decision  where  the  Tribunal  is
+    satisfied that (as summarised by Aikens LJ in Royal  Bank  of  Scotland
+    plc v Highland Financial Partners LP)  there  has  been  conscious  and
+    deliberate dishonesty in relation to evidence given  to  the  Tribunal,
+    which was material to the Tribunal's decision: Takhar, paragraph 56.
+
+55. The Upper Tribunal  must,  however,  consider  whether  it  is  in  the
+    interests of justice to set aside the decision.  In that  regard,  each
+    case will  be  fact  and  context-specific.   Amongst  the  matters  of
+    potential relevance will be the existence and/or nature of the  party's
+    involvement in the malfeasance; whether the malfeasance  is,  or  could
+    be, the subject of an appeal; and whether it  could  result  in  action
+    being taken by the Secretary of State to cancel  or  revoke  any  leave
+    that might fall to be granted  in  the  light  of  the  decision  (see,
+    however, paragraph 60 below).
+
+(e)  The accountants' letter of 4 November 2019
+
+56. Mr Gajjar submitted that  TaxAssist  Accountants  of  390  Hoe  Street,
+    Walthamstow had, in fact, provided  an  innocent  explanation  for  the
+    letter of 25  May  2017,  purporting  to  be  from  Ms  Skyring.   This
+    explanation is said to have been given in a  letter  dated  4  November
+    2019.  The letter reads as follows:-
+
+         "To Whom It May Concern
+
+         Re: Mr Muhammad Kamran Abbasi
+
+         Dear Sir/Madam
+
+         This is in relation to our  client's  query  regarding  the  letter
+         issued to him on 25.05.2017 from our office under reference KAM001.
+
+
+
+         I the undersigned confirm that  TaxAssist  Accountants  Walthamstow
+         have a membership and do  practice  under  Institute  of  Financial
+         Accountants Practicing Licence No: 245404 and  we  are  part  of  a
+         Franchise Network namely TaxAssist Accountants.  We held our office
+         at 390 Hoe street London E17 9AA (sic).
+
+         I can confirm that the letter in question dated  25  May  2017  was
+         issued from our franchise office by one of our  senior  accountants
+         at 390 Hoe Street London E17 9AA to Mr Muhammad Kamran Abbasi.
+
+         It is important to mention here that Ms Samantha Skyring is a  part
+         of Franchisor Technical  team  for  200  franchisees  of  TaxAssist
+         Accountants, whose name was mentioned in the aforementioned letter.
+          In fact, it was issued on behalf of our  franchise;  nevertheless,
+         it shows Ms Skyring's name who does not directly sign the letter of
+         engagement with our clients.  She would have known  Mr  Abbasi,  if
+         Home Office would have referred her  that the query is with regards
+         to the franchise based in Walthamstow at 390 Hoe street London  E17
+         9AA where client record is held (sic).
+
+         Should you have any further queries, please feel free to contact us
+         at local franchise office at Walthamstow 390 Hoe street London  E17
+         9AA and we will be pleased to assist.
+
+         Yours faithfully
+
+         [Signature]
+
+         Mansoor Ahmed
+         TAXASSIST ACCOUNTANTS"
+
+
+
+
+57. Mr Gajjar informed us at the  hearing  that  TaxAssist  Accountants  of
+    Walthamstow had been asked by  those  instructing  him  if  they  would
+    attend the hearing but they had not done so.  Mr Gajjar said  he  would
+    have liked to have an opportunity to call the relevant person  to  give
+    evidence.
+
+58. We duly note this.  As matters stand, the letter of 4 November 2019 is,
+    on its face, manifestly  problematic.   It  fails  to  explain  why  Ms
+    Skyring's name and ACCA membership number occur  at  the  foot  of  the
+    letter of 25 May 2017, underneath the signature.  It is  manifest  that
+    whoever wrote the letter of 25 May 2017 intended it to be  regarded  as
+    having been written by Ms Skyring.  That is precisely how Deputy Upper
+    Tribunal  Judge  Chamberlain  regarded  it.   We  accept  Ms  Skyring's
+    unchallenged evidence that she does not  know  the  appellant.   It  is
+    unclear why the writer of the letter of 4 November 2019 thinks  it  was
+    the responsibility of the respondent to have referred  anything  to  Ms
+    Skyring.  The letter of 25 May 2017 is now said to  have  been  "issued
+    from our franchise office by one of our senior  accountants".   We  are
+    not told, however, who that is.  The  letter  of  4 November  2019  is
+    signed by Mansoor Ahmed.  His status in the  organisation  is  unknown.
+    The sole director is still, according to foot  of  the  letter,  Nadeem
+    Iqbal.
+
+59. As matters stand, the position is,  in  short,  highly  unsatisfactory.
+    However, notwithstanding that, for the reasons we have given,  rule  43
+    would otherwise have been available  to  the  Upper  Tribunal  to  make
+    relevant findings and, in the light of them, to decide whether  to  set
+    aside the decision of the Deputy Upper Tribunal Judge,  it  is  now  no
+    longer possible to deploy that power.  The reason  is  that,  following
+    receipt of Deputy Upper  Tribunal  Judge  Chamberlain's  decision,  the
+    respondent on 21 October 2019 granted the appellant indefinite leave to
+    remain.  This was nine days before the Upper Tribunal sent  its  notice
+    of hearing and directions, drawing attention to  the  information  from
+    the TaxAssist Group that Samantha Skyring had not written the letter of
+    25 May 2017.
+
+F. ABANDONMENT OF THE APPEAL
+
+60. The consequence of the grant of leave is that on 21  October  2019  the
+    appellant's human rights appeal ceased to exist.   Section  104(4A)  of
+    the 2002 Act provides as follows:-
+
+         "(4A)    An appeal under section 82(1) brought by a person while he
+                is in the United Kingdom shall be treated  as  abandoned  if
+                the appellant is granted leave to enter  or  remain  in  the
+                United Kingdom ...".
+
+61. The effect of section 104(4A) is to terminate the jurisdiction  of  the
+    Upper  Tribunal.   Since  the  appeal  of  the  appellant  against  the
+    respondent's decision  to  refuse  his  human  rights  claim  has  been
+    abandoned, the Upper Tribunal cannot invoke rule 43(1) in order to  re-
+    make the decision in that appeal.
+
+62. The upshot is that it will be for the respondent to  decide,  what,  if
+    any, investigations to make and, in  the  light  thereof,  whether  she
+    considers grounds exist for revoking the appellant's  indefinite  leave
+    to remain in the United Kingdom.
+
+G.   EVIDENCE FROM ACCOUNTANTS IN PARAGRAPH 322(5) CASES
+
+63. Both the First-tier  Tribunal  and  the  Upper  Tribunal  have  seen  a
+    considerable number of human rights appeals stemming from  the  refusal
+    of the respondent of  indefinite  leave  to  remain,  by  reference  to
+    paragraph 322(5).  In many such appeals, appellants have sought to  lay
+    the  blame  for  discrepancies  in  disclosed  earnings  provided   to,
+    respectively, the respondent and Her Majesty's Revenue and Customs,  at
+    the  door  of  their  accountants.   As  in  the  present  case,  those
+    accountants have frequently written "To whom it  may  concern"  letters
+    acknowledging responsibility for what are often large discrepancies.
+
+64. We consider that  particularly  where,  as  in  the  present  case,  an
+    accountant's letter is clearly perfunctory ("... we inadvertently mixed
+    earnings details of two clients ...  The  client  was  compensated  ...
+    Errors and mistakes can't be ruled out"), the  First-tier  Tribunal  or
+    Upper Tribunal, as the case may be, should  expect  the  accountant  in
+    question to attend the hearing, having provided in advance a  Statement
+    of Truth, in order to explain in detail the circumstances in which  the
+    error came to be made; the basis and nature of  any  compensation;  and
+    whether the firm's insurers and/or any relevant  regulatory  body  have
+    been informed.  In the  absence  of  such  evidence,  the  Tribunal  is
+    unlikely to be able to place any material weight  on  letters  of  this
+    kind.
+
+
+                      Signed                     Date: 7 January 2020
+
+
+
+
+
+
+                      The Hon. Mr Justice Lane
+                      President of the Upper Tribunal
+                      Immigration and Asylum Chamber
+
+
+

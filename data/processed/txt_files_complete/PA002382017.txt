@@ -1,0 +1,743 @@
+
+[pic]
+
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: PA/00238/2017
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                      |Decision & Reasons Promulgated    |
+|On 13 June 2017                           |On 10 July 2017                   |
+|                                          |                                  |
+
+
+                                   Before
+
+                      THE HON. MRS JUSTICE CHEEMA-GRUBB
+                      DEPUTY UPPER TRIBUNAL JUDGE ESHUN
+
+                                   Between
+
+                              CHINH VAN NGUYEN
+                       (ANONYMITY DIRECTION not made)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr P Asiimwe, instructed by Pillai & Jones
+Solicitors
+For the Respondent:    Mr P Deller, Home Office Presenting Officer
+
+
+                            DECISION AND REASONS
+
+
+ 1. This is the appellant's appeal against the decision of Judge  Fox  made
+    following a hearing at Harmondsworth on 1 March 2017, promulgated on 21
+    March.
+
+Background
+
+ 2. This is a case about the application of Section 32 of  the  UK  Borders
+    Act 2007 which  states  that  the  Secretary  of  State  for  the  Home
+    Department must make a deportation order  in  the  case  of  a  foreign
+    criminal subject to the exceptions particularised in Section 33 of that
+    Act.
+
+ 3. The appellant, Chinh Van Nguyen is 38 years old  having  been  born  in
+    Vietnam on 22 October 1988.  We should say that this is  the  date  the
+    appellant has given as his date of birth although  as  pointed  out  at
+    this hearing there were proceedings for age assessment when he made his
+    original asylum claim in 2005 which resulted in a finding  against  his
+    claim.  The age assessment is  not  directly  relevant  to  the  matter
+    before us today.
+
+ 4. The appellant's case is that  he  entered  the  United  Kingdom  on  15
+    November 2004 using a false document, namely a passport which bore  his
+    photograph but belonged to  someone  else.   On  17  November  2004  he
+    claimed asylum  on  the  basis  of  religious  persecution  as  he  had
+    distributed Buddhist literature with his father in Vietnam.  His  claim
+    was refused in a notice dated 4 April 2005.  He failed  to  attend  his
+    appeal hearing which was dismissed in his absence on 23  May  2005  and
+    the appellant exhausted his appeal rights  on  3  June  of  that  year.
+    After a break he was granted indefinite leave to remain on 13 July 2010
+    on the basis of the legacy casework exercise.  However on  18  December
+    2014 he was sentenced to 51 months' imprisonment  for  causing  serious
+    injury whilst  driving.   We  shall  come  on  to  the  facts  of  that
+    conviction  in  due  course.   On  the  basis  of  the  conviction  the
+    respondent made a decision to deport the appellant pursuant to  Section
+    32, sub-Section (5) of the UK Borders Act 2007.  That decision is dated
+    6 April 2016.  She also concluded  that  this  decision  complied  with
+    Section 55 of the Borders, Citizenship and Immigration Act  2009.   The
+    appellant made human rights representations which were refused  by  the
+    respondent in a decision dated 6 May 2016.  He then claimed  asylum  on
+    the basis of political activities in  the  United  Kingdom.   This  was
+    refused in a notice dated 28 December 2016.
+
+Law: Deportation of foreign criminals: the applicable legislation
+
+ 5. The Secretary of State's power to deport non-UK nationals derives  from
+    Section 3, sub-Section (5) of the Immigration  Act  1971,  as  amended,
+    which reads so far as material:
+
+         "A person who is not a British citizen  is  liable  to  deportation
+         from the United Kingdom if -
+
+         (a)  the Secretary of State deems his deportation to  be  conducive
+             to the public good."
+
+ 6. The UK Borders Act 2007 provides for a regime governing the deportation
+    of non-nationals who are convicted in the United  Kingdom  of  criminal
+    offences.  Section 32 reads so far as material as follows:
+
+         "(1) In this section 'foreign criminal' means a person -
+
+
+             (a)  who is not a British citizen,
+
+
+             (b)  who is convicted in the United Kingdom of an offence, and
+
+
+
+
+             (c)  to whom Condition 1 or 2 applies.
+
+
+         (2)  Condition 1 is that the person is sentenced to a period of
+             imprisonment of at least 12 months.
+
+
+         (4)  For the purpose of section 3(5)(a) of the Immigration Act 1971
+             ...the deportation of a foreign criminal is conducive to the
+             public good.
+
+
+         (5)  The Secretary of State must make a deportation order in
+             respect of a foreign criminal (subject to section 33)."
+
+
+ 7. Section 33 as referred to above contains a number of exceptions to  the
+    obligation on the respondent to deport a  foreign  criminal.   On  this
+    appeal only exception 1 is relevant which  by  sub-Section  2  applies,
+    "where removal of the foreign criminal in pursuance of the  deportation
+    order  would  breach  (a)  a  person's  Convention  rights....".    The
+    consideration by a court or Tribunal of whether a decision  made  under
+    the immigration legislation is in breach of the rights  of  any  person
+    under Article 8 ECHR is subject to the provisions of  part  5A  of  the
+    Nationality, Immigration and Asylum Act 2002 which  was  introduced  by
+    the Immigration Act 2014 with effect from 28 July 2014.   Section  117A
+    (2) provides  that  in  considering  whether  an  interference  with  a
+    person's right  to  respect  for  their  private  and  family  life  is
+    justified  under  Article  8(2)  "the  court  or  tribunal   must   (in
+    particular) have regard (a) in all cases to the  considerations  listed
+    in Section 117B and (b) in cases concerning the deportation of  foreign
+    criminals to the considerations listed in Section 117C":
+
+         "117B:   Article 8: public interest  considerations  applicable  in
+                all cases
+
+                (1)    The maintenance of effective immigration controls  is
+                    in the public interest.
+
+                (2)    It is in the public interest, and  in  particular  in
+                    the interests of the economic well-being of  the  United
+                    Kingdom, that persons who seek to enter or remain in the
+                    United  Kingdom  are  able  to  speak  English,  because
+                    persons who can speak English -
+
+                    (a)    are less of a burden on taxpayers, and
+
+                    (b)    are better able to integrate into society.
+
+                (3)    It is in the public interest, and  in  particular  in
+                    the interests of the economic well-being of  the  United
+                    Kingdom, that persons who seek to enter or remain in the
+                    United Kingdom are financially independent, because such
+                    persons -
+
+                    (a)    are not a burden on taxpayers, and
+
+                    (b)    are better able to integrate into society.
+
+                (4)    Little weight should be given to -
+
+                    (a)    a private life, or
+
+                    (b)    a relationship formed with a qualifying partner,
+
+                    that is established by a  person  at  a  time  when  the
+                    person is in the United Kingdom unlawfully.
+
+                (5)    Little weight should  be  given  to  a  private  life
+                    established by a person at  a  time  when  the  person's
+                    immigration status is precarious.
+
+                (6)    In the  case  of  a  person  who  is  not  liable  to
+                    deportation, the public interest does  not  require  the
+                    person's removal where -
+
+                    (a)    the person has a genuine and subsisting  parental
+                        relationship with a qualifying child, and
+
+                    (b)    it would not be reasonable to expect the child to
+                        leave the United Kingdom."
+
+         Section  117C  Article  8:  Additional  considerations   in   cases
+         involving foreign criminals provides:
+
+             (1)  the deportation of foreign criminals  is  in  the  public
+                  interest.
+
+             (2)  The more serious  the  offence  committed  by  a  foreign
+                  criminal,  the  greater  is   the   public   interest   in
+                  deportation of the criminal.
+
+             (3)  In the case of a foreign criminal ("C") he was not  being
+                  sentenced to a period of imprisonment  of  four  years  or
+                  more, the public interest requires C's deportation  unless
+                  Exception (1) or Exception (2) applies.
+
+             ...
+
+             (5)   Exception  (2)  applies  where  C  has  a  genuine   and
+                  subsisting relationship with a qualifying  partner,  or  a
+                  genuine  and  subsisting  parental  relationship  with   a
+                  qualifying child, and the effect of C's deportation on the
+                  partner or child would be unduly harsh.
+
+             ...
+             (7)  The considerations in sub-sections (1), (2), (6) are to
+                  be taken into account where a court or Tribunal is
+                  considering a decision to deport a foreign criminal only
+                  to the extent that the reason for the decision was the
+                  offence or offences for which the criminal has been
+                  convicted."
+
+Appeal
+
+ 8. It was the decision of 28 December 2016 which was the  subject  of  the
+    appeal before  the  Immigration  Judge.   In  his  judgment  the  judge
+    dismissed the appeal  on  asylum,  humanitarian  protection  and  human
+    rights (i.e. Articles 2, 3 and 8 ECHR) grounds.   His  findings  appear
+    below at paragraphs 41-47 as follows:
+
+         "41. The appellant has failed to satisfy the burden  of  proof.   I
+             firstly consider the appellant's asylum  claim.   My  starting
+             point is  the  Tribunal  decision  dated  25  May  2005  which
+             affirmed the adverse credibility findings of the  respondent's
+             corresponding decision; Devaseelan applied.
+
+         42.   The  appellant  has  raised  a   new   claim   in   different
+             circumstances.  He now relies  upon  political  opinion  as  a
+             convention reason  rather  than  religion.   I  have  had  the
+             benefit of observing the  appellant.   When  asked  about  his
+             historic asylum claim he had difficulty in recalling it.
+
+         43.  Once coached on the substance of that claim he confirmed  that
+             he  had  claimed  asylum  on  the  basis  of  religion.    The
+             appellant's evidence that Buddhism is regarded  as  camouflage
+             for Viet Tan is unconvincing at best.  There  is  no  reliable
+             evidence of a credible nexus between the appellant's 2  asylum
+             claims.
+
+         44.  Upon the available evidence it is reasonable to conclude  that
+             the appellant had forgotten the basis of his  historic  asylum
+             claim as it was false.  The appellant failed  to  engage  with
+             the first appeal.  This is a modus operandi he adopted  during
+             the course of his criminal trial which required a  warrant  to
+             cause the appellant to appear.
+
+         45.  I do not accept the  appellant's  claims  that  detention  has
+             frustrated the collation of  corroborative  evidence.   It  is
+             reasonable to conclude that the appellant has been given ample
+             time to contact his  alleged  political  associates  with  the
+             benefit of formal legal representation.
+
+         46.  Nor do I accept his explanation that political operations  are
+             conducted in secret which prevents  his  representatives  from
+             obtaining evidence on his behalf.  When the available evidence
+             is considered in the round it is reasonable to  conclude  that
+             the absence of reliable evidence is due to the absence of  any
+             political activity as claimed.
+
+         47.  When the available evidence is considered in the round  it  is
+             reasonable to conclude that the appellant advances a false and
+             opportunistic claim in an attempt to frustrate  his  departure
+             from the UK.  The appeal fails in accordance with the  Refugee
+             Convention, humanitarian protection and Articles 2 and 3  ECHR
+             for these reasons."
+
+    At paragraphs 48-55 the judge stated:
+
+         "48. I now consider Article  8  ECHR.   It  is  apparent  that  the
+             appellant  cannot  satisfy  the  respondent's  definition   of
+             Article 8 ECHR.  I therefore turn to consider the 5 stage test
+             as set out in Razgar [2004] UKHL 29.  I remind myself that the
+             respondent  is  entitled  to  control  the  entry  of  foreign
+             nationals into the territory and  she  afforded  a  margin  of
+             appreciation in the administration of this.   A  fair  balance
+             must  be  struck  between  the  competing  interests  of   the
+             individual and the needs of wider society.
+
+         49.  There is no reliable evidence of family life for  the  purpose
+             of  Article  8  ECHR.   The  appellant   concedes   that   his
+             relationship with the child's mother has come to  an  end  and
+             that she has embarked upon a new relationship.
+
+         50.  As the appellant's credibility  is  damaged  for  the  reasons
+             stated above I do  not  accept  the  appellant's  self-serving
+             evidence that he is the biological father of the child despite
+             another name  appearing  on  the  child's  birth  certificate.
+             There is no reliable nexus between the father's name as stated
+             on the child's birth certificate and the appellant's name.
+
+         51.  However for completeness I consider the appellant's  claim  to
+             have a child in the UK.  I firstly remind myself that there is
+             no suggestion that the child is expected to leave the UK.  The
+             appellant has stated that he  has  maintained  remote  contact
+             with the  child  whilst  in  prison.   There  is  no  reliable
+             evidence to demonstrate why this arrangement  cannot  continue
+             when the appellant returns to Vietnam.
+
+         52.  I also note the absence of the child's  mother  who  chose  to
+             prioritise her work commitments over the  appellant's  alleged
+             need  to  maintain  physical  contact  with  the  child.   The
+             available evidence taken at its  highest  also  leads  to  the
+             reasonable conclusion that the child has been subsumed into  a
+             new family unit with the mother's new partner.  This does  not
+             assist the appeal.
+
+         53.  I also remind myself that the length of the appellant's prison
+             sentence engages the higher threshold of  public  interest  in
+             favour of his removal; EJA, MF (Nigeria) and  section  117  of
+             the 2002 Act applied.  Any mitigation has  been  addressed  at
+             the point of sentencing and I  remind  myself  that  I  remain
+             bound by the higher threshold.
+
+         54.  For the reasons  stated  there  is  no  reliable  evidence  to
+             demonstrate that the appellant has  satisfied  the  evidential
+             burden upon  him  to  override  the  public  interest  in  his
+             removal.
+
+         55.  I do not accept that the appellant has no ties to  Vietnam  as
+             claimed.  In examination-in-chief he stated that he has had no
+             contact  with  anyone  in  Vietnam  since  2004.   In   cross-
+             examination he revealed that he has contact with  the  child's
+             maternal  grandmother.   When  the   available   evidence   is
+             considered in the round it is reasonable to conclude that  the
+             appellant seeks to suppress evidence of his ties to Vietnam in
+             an attempt to bolster his appeal."
+
+ 9. The judge's decision is said to be flawed on the basis that -
+
+    (1)  He did not provide adequate reasons for  concluding  "hastily  and
+         unfairly" that the appellant's account was not credible, and
+
+     (2) He failed to engage with the appellant's claim based on  political
+         opinion and dismissed it without giving any  or  adequate  reasons.
+         In addition
+
+    (3)  The Article 8 decision was insubstantially reasoned.
+
+10. Permission to appeal was granted by the First-tier Tribunal Judge Keane
+    on 20 April 2017 on the basis that absent the arguable  errors  of  law
+    alleged the outcome of the  appeal  might  have  been  different.   The
+    respondent, in writing, contests the  appeal  on  the  basis  that  the
+    Immigration  Judge  did  not   make   any   error,   directed   himself
+    appropriately and gave adequate reasons why the appellant's account was
+    not believed and that the judgment read as a whole makes clear why  the
+    appeal against the 28 December 2016 decision failed.  In the  same  way
+    that the First-tier Judge did we remind  ourselves  of  the  burden  of
+    proof which lies on the appellant:
+
+    (1)  As to the Section 32 UK Borders Act 2007  he  has  to  demonstrate
+         compelling reasons why he should not be deported;
+
+    (2)  As to his refugee claim he has to prove on a reasonable degree  of
+         likelihood that he has a well-founded fear  of  persecution  for  a
+         Convention reasons;
+
+    (3)  As to humanitarian protection he has to prove substantial  grounds
+         for fearing a risk of serious harm;
+
+    (4)  For his  human  rights  claim  he  has  to  demonstrate  that  the
+         Secretary of State for the Home Department's obligations under  the
+         European Convention on Human Rights are engaged and that there is a
+         real risk of harm to him at the date of the hearing.  The  standard
+         is of course the balance of probabilities.
+
+11. We have had assistance today from submissions by  Counsel  representing
+    the appellant and the Home Office Presenting Officer  representing  the
+    respondent.  We have had the opportunity to consider all  the  evidence
+    that was before the First-tier Tribunal.  In particular we have  regard
+    to:
+
+    (1)  The appellant's screening interview record dated 17 November  2004
+         in which he relied on a fear of persecution  due  to  his  Buddhist
+         religion;
+
+    (2)  His Statement of Evidence Form dated 15 March 2005 which sets  out
+         the basis of his claim for asylum, namely his fear  of  persecution
+         in Vietnam because he  had  assisted  his  father  in  distributing
+         Buddhist books to people in their commune.  The books and  leaflets
+         had, he said, contained a section criticising  the  government  for
+         its repression of various religions including Buddhists although he
+         and his father had not known that when they had taken  delivery  of
+         the material from people who did not live in Vietnam.   His  father
+         had been arrested and he believed his own life to be in danger.  He
+         had been arrested and held for a few hours and threatened.  He  had
+         not reported any incidents of persecution to the police in  Vietnam
+         as the police were the agents of government control.
+
+    (3)  His Asylum Interview Record dated 15 March 2005 in  which  he  was
+         asked in detail about his activities prior to leaving Vietnam.   He
+         could not remember some dates because it had been a long time since
+         the events concerned.  He  said  his  mother  had  died  some  time
+         earlier and although he had written once to his family  in  Vietnam
+         since arriving in the United Kingdom he had  not  heard  back.   He
+         sought protection in the UK until his father was released  and  any
+         charges he faced were dropped.
+
+    (4)  The refusal letter dated 4 April 2005 set out eight  paragraph  of
+         reasoning with details including details of apparent  discrepancies
+         in the information the appellant had provided.
+
+    (5)  The First-tier Tribunal's decision rejecting  his  appeal  against
+         that determination by the respondent.
+
+    (6)  His application for a  certificate  of  approval  for  a  marriage
+         together with the birth certificate of a child the  appellant  says
+         is his daughter although a different name has been used to register
+         the details of the father of that child.
+
+    (7)  The respondent's decision  granting  indefinite  leave  to  remain
+         dated 13 July 2010.
+
+    (8)  A transcript of  the  sentencing  remarks  of  His  Honour,  Judge
+         Critchlow at Guildford Crown Court on 18 December 2014 in which  he
+         describes the offences for which the appellant had to be  sentenced
+         as follows:
+
+             "You have to be sentenced for two offences of causing  serious
+             injury by dangerous driving.  You were driving a motor car,  a
+             Lexus 300 containing your wife and two young children  on  the
+             A30 near Camberley when without warning you decided to perform
+             a U-turn out of a layby.  Something that had gone  on  in  the
+             vehicle had  caused  you,  an  unlicensed  and  uninsured  and
+             inexperienced driver  to  take  over  the  driving,  that  was
+             something you should not have done and it was  immediately  an
+             unlawful act...  You plainly either did not look or failed  to
+             see Mr Cox and his pillion passenger approaching and they were
+             there to be seen on this straight road.  By your manoeuvre you
+             gave Mr Cox no chance of avoiding a collision  as  you  turned
+             right across his path and it is  plain  from  the  photographs
+             that he hit  you  amidships  on  the  driver's  door  and  the
+             consequence for him and for  his  passenger  were  immediately
+             extremely serious and could have been  fatal....  No  sentence
+             within the  guidelines  permitted  and  legally  permitted  by
+             Parliament can restore the health and mobility of Mr  Cox  who
+             is in court today and his life at 27 has changed  forever  and
+             he will spend his life now  coping  with  paralysis  from  the
+             chest down.  I have read the victim  impact  statement  and  I
+             recognise the courage he is showing in coping with the effects
+             of that day and the serious injuries  he  sustained.   I  have
+             also read the statement of Miss Maria Bello, a student  nurse,
+             his girlfriend, and the effect on her of the  spinal  injuries
+             have been serious, though plainly not as serious as  those  to
+             Mr Cox.... In the view of this court this is  a  most  serious
+             example of this offence.  You have  to  be  sentenced  on  two
+             counts reflecting that two people were very seriously  injured
+             and I have to consider whether or not a  consecutive  sentence
+             should be imposed to reflect the culpability and harm that was
+             caused. ...I consider that this was at the top  of  the  range
+             without any specific guidelines for this  offence  because  of
+             the nature of what you did and  the  aggravating  factors.   I
+             therefore consider that giving you some credit for your guilty
+             plea the  sentence  in  respect  of  count  1  is  51  months'
+             imprisonment, that is  four  and  a  quarter  years  and  that
+             reflects a 15 percent discount from the maximum sentence. ...I
+             do impose a consecutive sentence because this was an  incident
+             which involved a danger to a motor cycle with  two  people  on
+             it, resulting  in  two  serious  separate  injuries  to  those
+             individuals  and  motor  cyclists  are  vulnerable,   and   so
+             therefore I impose a consecutive  sentence  of  21  months  on
+             count 2 to reflect the totality as well as  having  regard  to
+             the injuries.  It would have been longer but for the  fact  of
+             totality.  That makes a total sentence of 72 months,  that  is
+             six years' imprisonment."
+
+    Returning to the list of evidence that we have before us:
+
+    (9)  The order of the  Court  of  Appeal  Criminal  Division  when  the
+         consecutive sentence on count 2 to which we have just referred  was
+         quashed and ordered to run concurrently to the sentence on count  1
+         making a sentence of 51 months' imprisonment rather than 72 months.
+
+    (10) Media articles about the circumstances of the offences.
+
+    (11) The subsequent notice  of  deportation  dated  5  April  2016  and
+         reasons.
+
+    (12) The appellant's solicitor's letter dated 6 May 2016 which contains
+         some inaccuracies but in essence asserts  that  the  appellant  had
+         been in the United Kingdom for a long time, had  been  well-behaved
+         apart from the events leading to his convictions in 2014 and he had
+         a child who would suffer if he were deported.
+
+         Reliance was also placed on his fears of  persecution  in  Vietnam.
+         The respondent sought further information about these  matters  and
+         although the appellant's second asylum claim in totality itself  is
+         not included in our papers, the content can  be  gleaned  from  the
+         next document we have seen which is
+
+    (13) The appellant's political asylum statement made  in  January  2017
+         which is relatively short and reads as follows in its body:
+
+             "Basis of claim for asylum in the United Kingdom
+
+             I have been in the UK legally for ten years and have spent  my
+             formative life in this country.  I have  no  family,  friends,
+             home or job to return to in Vietnam, a country I barely  know.
+             It certainly has a government I despise and a political system
+             I have campaigned against and  as  a  result  of  my  previous
+             activities and my activities in the UK it is unsafe for me  to
+             return to Vietnam.  My parents were sympathisers  and  members
+             of Viet Tan and were faced persecution and eventually possible
+             death for their activities.  I was forced to flee as I was  in
+             danger too and the government was searching for me.   Since  I
+             have been in the UK I have developed a more keen  interest  in
+             politics and especially since  2010  I  have  been  an  active
+             volunteer with Viet Tan.  I have distributed leaflets for them
+             in the UK, I have written to the Vietnamese government and  to
+             the Vietnamese embassy through my friends who  translated  the
+             letters into English and other relevant bodies campaigning for
+             the release of many  people  illegally  detained  in  Vietnam.
+             People like father Nguyen Van Dai, Le Quoc Quan and others.  I
+             have also arranged and signed many petitions.  I  was  also  a
+             very active social media blogger and had  a  very  interactive
+             twitter and pro democracy  Facebook  account.   Democracy  for
+             Vietnam is something I cannot give  up  campaigning.   I  have
+             attended demonstrations and protests  outside  the  Vietnamese
+             embassy.  I believe that the Vietnamese Government is aware of
+             me since I left the country and is aware of my  activities  in
+             the UK as many protests the Vietnamese embassy officials  took
+             many photographs  of  the  protestors  by  mingling  with  the
+             protestors in casual clothes.  I cannot give up  my  political
+             beliefs as I believe that democracy and human rights is  every
+             Vietnamese national's God given right and the CVP cannot  deny
+             us this right.  I have campaigned for this right in the UK and
+             have sincerely believed in it and sacrificed my money and time
+             in this country despite  living  here  and  having  indefinite
+             leave to remain....".
+
+     Under the heading 'Conclusions':
+
+         "I  apologise  for  not  recollecting  everything  in   detail   as
+         remembering such  events  is  painful  and  disturbing.   If  I  am
+         returned to Vietnam I fear for my life, safety and freedom from the
+         Vietnamese government, I have no family or friends to look after me
+         in Vietnam.  I need help please."
+
+     It is right to point out that in the  signed  copy  of  this  statement
+    that Mr Asiimwe provided to us today there is further reference to  the
+    closing of his social media accounts while he has been in  custody  and
+    other difficulties in obtaining material referred to in the passages we
+    have just set out.
+
+     Returning to the material before us:
+
+    (14) The decision letter dated 28 December 2016 which extends  to  over
+         twelve pages of  reasoning  for  the  refusal  of  the  appellant's
+         subsequent human rights claim and which  points  out  that  he  had
+         supplied no documentary  evidence  to  support  the  assertions  of
+         political activity he had made.
+
+12. The First-tier Tribunal Judge heard the  appellant  give  evidence  and
+    made adverse findings  about  him  and  his  evidence.   The  appellant
+    adopted his statement and explained that he is father to a girl but  he
+    had used a different name to register her birth.   No  explanation  was
+    given for this.  He was in touch with the child who had not been living
+    with him because he was separated from the mother who had  gone  on  to
+    form another relationship but he said  he  had  maintained  contact  by
+    telephone and in writing.  He was not  able  to  provide  corroborative
+    evidence of his activities because he was in custody and a third  party
+    could not approach the organisation he had  worked  with.   His  social
+    media accounts had been suspended due to inactivity  while  he  was  in
+    custody and he  had  no  means  of  contacting  any  of  his  political
+    associates.  He would as a result of these activities be  a  person  of
+    interest were he returned to Vietnam.  The mother of his  daughter  had
+    not attended the hearing but if he were at liberty he would be able  to
+    gather further evidence.
+
+Submissions
+
+13. Mr Asiimwe relied on his grounds and submitted that the judge  had  not
+    adequately reasoned his decision in refusing the appellant's appeal:
+
+    (1)  He did not consider fresh  evidence  presented  by  the  appellant
+         about his sur place activities  and  relied  on  the  fact  that  a
+         previous asylum claim had been refused in 2005.  At paragraph 46 it
+         is submitted the judge was wrong to conclude that  there  had  been
+         ample time for the appellant to provide corroboration.  Mr  Asiimwe
+         submitted that it was simply not reasonable to  conclude  that  the
+         lack of evidence was due to the absence of political activity.   If
+         the appellant had been given further time he may have been able  to
+         obtain evidence in support of his assertions.
+
+    (2)  However Mr Asiimwe had to concede that he could  not  point  to  a
+         single class of evidence not sought or enquiry that was not carried
+         out because  the  appellant  was  in  custody  nor  was  there  any
+         particular line of enquiry that he had been able  to  instruct  his
+         solicitors to conduct but which had  been  frustrated  because  the
+         appellant has been in  custody.   Indeed  the  appellant  has  been
+         represented throughout these proceedings  and  certainly  since  28
+         December 2016.  It is also to be noted that the appellant  obtained
+         bail and release from detention on 26 May 2017.  He does not attend
+         this hearing.   He  has  not  provided  any  further  statement  or
+         information of any form setting out what further material if any he
+         would wish to be able to put before a decision maker or  an  appeal
+         court.
+
+    (3)  As to submissions, in respect of Article 8 Mr Asiimwe submits that
+         in the decision of Judge Fox he did not  explain  sufficiently  why
+         the family connection was not  present.   On  the  contrary  it  is
+         submitted an obvious family connection was present and this will be
+         interrupted by the deportation and should counter the  requirements
+         of the respondent to deport a foreign criminal.
+
+14. Mr Deller, Home Office Presenting Officer submitted  that  the  grounds
+    had no merit. With conspicuous fairness  he  did  articulate  potential
+    inadequacies in the determination of the First-tier Judge which we have
+    considered with particular care.  Regarding paragraph 41, he points out
+    that this support for an adverse credibility finding arose from a claim
+    made in 2005 at which the appellant was not heard  in  evidence.   That
+    claim resulted in a dismissed appeal which has been relied upon by  the
+    First-tier Tribunal Judge as support for his own credibility  findings.
+    In our view the judge was entitled to take the decision into account to
+    some extent and certainly his concise expression at paragraph 41 fairly
+    reflects the Tribunal's decision on 25 May 2005.
+
+15. Mr Deller also drew our attention to the formulation used by the  judge
+    in his decision, "it was reasonable to conclude" against the  appellant
+    and Mr Deller invites us to consider whether that may  demonstrate  the
+    use of a burden and standard of proof higher than the lower standard of
+    which the appellant bore the burden.  In this  regard  we  can  observe
+    that earlier in his decision at paragraphs 17 to  22  Judge  Fox  dealt
+    with the burden of  proof  in  respect  of  the  asylum  claim  and  in
+    paragraph 19 he says the following:
+
+         "The burden lies with the appellant, to prove that he has  a  well-
+         founded fear of persecution, for a Convention reason.  The standard
+         of  proof  is  the  lower  standard,  on  a  reasonable  degree  of
+         likelihood, in accordance with Ravichandran [1996] Imm AR 97.   The
+         evidence to prove this is assessed according to the  principles  of
+         Karanakaran [2000] Imm AR 271."
+
+    This is a correct statement of  the  law  and  we  find  no  reason  to
+    conclude other than the judge applied the burden and  standard  he  set
+    out there.
+
+16. In response to Mr Asiimwe's submissions Mr Deller  notes  the  lack  of
+    evidence including any evidence from his associates.   He  encapsulates
+    his submissions in this way, that this was not "an impressive case"  as
+    presented to the Tribunal and remains so.  In particular he  draws  our
+    attention to the shift from a religious claim  in  2004  to  sur  place
+    political activity claim in 2016.  Secondly, he points to the  lack  of
+    evidence to support the appellant's asserted activities and he  reminds
+    us that the appellant has been represented  throughout.   In  reply  Mr
+    Asiimwe urges us to allow the appeal on the basis that there has been a
+    material error in the decision and the only just  outcome  would  be  a
+    remittal for a re-hearing.
+
+
+
+Findings and Conclusions
+
+17. Do paragraphs 41 to 47 adequately express  a  fair  assessment  of  the
+    merits of the appeal?  Do they disclose a failure to apply the  correct
+    burden and standard of proof?  On Mr Asiimwe's first  point  the  judge
+    was bound to reflect upon the evidence presented and to have regard  to
+    relevant background information where available such as the history  of
+    a previous asylum claim.  He had to apply the burden  and  standard  of
+    proof and he had to express his decision in a way that  was  clear  and
+    fully explained when he reached the conclusion that the appeal  had  to
+    fail.  The parts of the decision we have set  out  earlier  demonstrate
+    that  the  judge  did  consider  the  appellant's  claim  of  political
+    activities and he looked specifically  for  evidence  in  support.   He
+    found that the appellant had been given ample time to obtain  evidence.
+    He was entitled to do so.  He found that there were inconsistencies  in
+    the account the appellant gave about his historical claim but  although
+    he could have pointed out in  the  appellant's  favour  that  time  had
+    passed and recollections may fade, nevertheless the judge was  entitled
+    to take the inconsistencies into account.
+
+18. The findings of a lack of actual political activity  as  claimed  which
+    the judge reached in paragraph 46 could have been more  fully  set  out
+    both in terms of the evidence the appellant had provided  (which  would
+    have meant a summary of his short statement  set  out  above)  and  the
+    burden and standard of proof which  the  judge  applied.   Nonetheless,
+    even today there is no corroborative evidence and we can  but  conclude
+    that the judge was entitled to come to the conclusion that  he  did  on
+    the evidence provided to him.
+
+19. As to the Article 8 argument which is dealt with at paragraphs 48 to 53
+    again an unhelpful degree of compression is displayed.  But there is  a
+    difference between concision and superficiality in setting out reasons.
+     Here the judge has failed to set out the five stage test Razgar [2004]
+    UKHL 29.  He does deal with the question of a family life  and  whether
+    the decision interferes with it.  Having answered that  first  question
+    effectively in the negative albeit  acknowledging  that  the  appellant
+    claimed to have some form of contact with the child  he  said  was  his
+    daughter even while in prison it was not  strictly  necessary  for  the
+    judge to then go on and consider the remaining questions in Razgar  but
+    even if he should have gone on to consider  the  fifth  question,  i.e.
+    proportionality, the need to  conduct  a  balancing  exercise  and  the
+    findings at paragraphs 54 and 55 concerning the public interest in  the
+    appellant's removal and the lack of hardship in his return to  Vietnam,
+    demonstrate that even if  not  addressed  directly  the  outcome  of  a
+    proportionality judgment would have been the same.
+
+20. Drawing these threads together and having considered  the  matter  with
+    care we do find an error of law in  the  decisions  of  the  First-tier
+    Tribunal Judge but this  is  restricted  to  the  lack  of  transparent
+    demonstration  of  his  reasoning  for  the  conclusions  reached.   In
+    particular as Judge Keane  observed  paragraphs  41  to  47  provide  a
+    limited expression of the judge's findings.  However that is not an end
+    of the matter.  We must go on to  consider  whether  this  error  is  a
+    material error in all the  circumstances  i.e.  does  it  lead  to  the
+    decision being set aside and require a new decision which may  have  to
+    be made in this Tribunal or after remittal.  As  we  have  pointed  out
+    this is not a case in which we  are  invited  to  receive  any  further
+    evidence nor is the appellant able to point to  any  line  of  enquiry.
+    Having considered the evidence presented before the First-tier Tribunal
+    Judge which amounts to a dearth of material to  support  the  political
+    asylum claim we conclude that the judge was bound to have come  to  the
+    decision he did in this case. There was a conspicuous lack  of  weighty
+    private and family life considerations in this case and that which  did
+    appear to be present, including his relationship  with  his  biological
+    daughter, are equally incapable of defeating  the  public  interest  in
+    deportation in this case.
+
+Notice of Decision
+
+21. In the circumstances this appeal must fail and the  decision  of  Judge
+    Fox is affirmed.
+
+22. No anonymity direction has been made previously in this case,  none  is
+    sought today and none is made.
+
+
+Signed                                  Date:  4 July 2017
+
+The Hon. Mrs Justice Cheema Grubb
+

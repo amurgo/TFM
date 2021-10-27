@@ -1,0 +1,818 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Numbers: OA/11033/2014
+     OA/11037/2014
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Newport                           |Decision & Reasons Promulgated   |
+|On 19 July 2016                            |On 31 August 2016                |
+|                                           |                                 |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE GRUBB
+
+
+                                   Between
+
+                      ENTRY CLEARANCE OFFICER, NAIROBI
+                                                                   Appellant
+                                     and
+
+                                     AMK
+                                     FKN
+                         (ANONYMITY DIRECTION MADE)
+                                                                 Respondents
+
+
+Representation:
+For the Appellant:     Mr I Richards, Home Office Presenting Officer
+For the Respondents:   Mr C Jowett, instructed by Albany Solicitors
+
+
+                          DETERMINATION AND REASONS
+
+ 1. I make an anonymity order under  Rule  14  of  the  Tribunal  Procedure
+    (Upper Tribunal) Rules 2008 (SI  2008/2698  as  amended)  in  order  to
+    protect the anonymity of the respondents one of whom is a child.   This
+    order prohibits the disclosure directly or indirectly (including by the
+    parties) of the identity of the respondents.  Any disclosure and breach
+    of this order may amount to a contempt  of  court.   This  order  shall
+    remain in force unless revoked or varied by a Tribunal or court.
+
+Introduction
+
+ 2. In these  appeals,  the  Entry  Clearance  Officer  appeals  against  a
+    decision of the First-tier Tribunal (Judge N J Osborne) promulgated  on
+    20 October 2015 in which the appeals of the respondents (hereafter "the
+    claimants" - "A1" and "A2" respectively) were allowed under  Art  8  of
+    the ECHR.
+
+ 3. The claimants are citizens of the Democratic Republic of Congo  ("DRC")
+    and were born respectively on 29 May 1997 and 21 May 2002.  In 2014, A1
+    and A2 made applications for entry clearance to join their uncle  ("the
+    sponsor") who had come to the UK in 2008 and had been  granted  refugee
+    status in April 2010.   He,  together  with  his  wife  ("F")  who  had
+    subsequently joined him, were granted indefinite leave to remain in May
+    2015.  The claimants' applications were made under  para  352D  of  the
+    Immigration Rules (HC 395 as amended) which allows for  family  reunion
+    between a child and a parent who is a refugee in the UK.
+
+ 4. On 13 August 2014, the ECO refused the claimants' applications  on  the
+    basis that the sponsor was not their "parent" as required by the  Rule.
+    In  addition,  the  ECO  concluded  that  there  were  no   exceptional
+    circumstances which justified the grant  of  leave  outside  the  Rules
+    under Art 8 of the ECHR.
+
+ 5. Both claimants appealed to the First-tier Tribunal.   It  was  accepted
+    before Judge Osborne that the claimants could  not  succeed  under  the
+    Immigration Rules,  in  particular  para  352D  or  Appendix  FM.   The
+    claimants' case was made solely under Art 8 and Judge  Osborne  allowed
+    both claimants' appeals under Art 8.
+
+ 6. The ECO sought permission to appeal on the basis that Judge Osborne had
+    erred in law by  failing  to  identify  "compelling  circumstances"  to
+    justify the grant of leave outside the Rules.
+
+ 7. On 21 April 2016, the First-tier Tribunal (Judge Simpson)  granted  the
+    ECO permission to appeal on that basis.
+
+ 8. In a notice under Rule 24 dated 9 September 2015, the claimants  sought
+    to uphold the decision of Judge Osborne.
+
+The Issues
+
+ 9. In these appeals, the Entry Clearance Officer argues that Judge Osborne
+    erred in law in his approach  to  Art  8.   The  ECO  argues  that,  in
+    determining whether the claimants could succeed under Art 8 outside the
+    Rules, the judge was required to apply the well-known 'two-stage  test'
+    first identified in R (Nagre)  v  SSHD  [2013]  EWHC  720  (Admin)  and
+    subsequently approved on numerous occasions by the Court of Appeal, for
+    example in SSHD v SS (Congo) and Others [2015] EWCA Civ 389  and  Singh
+    and Khalid v SSHD [2015] EWCA Civ 74.  That approach required first,  a
+    consideration  of  whether  an  individual  can   succeed   under   the
+    Immigration Rules applicable  to  Art  8  (in  particular  Appendix  FM
+    dealing with 'family life') and  para  276ADE  (dealing  with  'private
+    life').  Then, secondly if  an  individual  cannot  succeed  under  the
+    relevant Rules dealing with Art 8 then the decision maker must consider
+    whether  there  are   "compelling   circumstances"   not   sufficiently
+    recognised in the Immigration Rules  to  justify  the  grant  of  leave
+    outside the Rules under Art 8.  The ECO  argues  that  approach  should
+    have been, but was not, applied by Judge Osborne in his  decision  who,
+    instead, adopted a 'free-standing' assessment under Art 8 applying  the
+    five stage test in R (Razgar) v SSHD [2004] UKHL 27 and  SSHD  v  Huang
+    [2007] UKHL 11.  Further, the  ECO  argues  that,  in  any  event,  the
+    circumstances identified by Judge Osborne  though  "unusual"  were  not
+    "compelling" so as to justify the grant of leave outside the Rules.
+
+10. The claimants argue that the 'two-stage test' was not applicable as the
+    claimants' applications were not under Art  8  but  rather  for  family
+    reunion under para 352D of the Rules which is not  part  of  the  Rules
+    which "incorporate" Art 8.  Secondly, in any event, the claimants argue
+    that if the 'two-stage test' is applicable,  it  is  clear  from  Judge
+    Osborne's reasoning that, in fact, he properly identified circumstances
+    that were "compelling" and his finding was not perverse  or  irrational
+    that the public interest was outweighed by the circumstances given  the
+    unusual features of the claimants' circumstances and  the  strength  of
+    their family life both with their uncle and his wife (their  aunt)  who
+    are both recognised refugees with ILR in the UK.
+
+The Rules
+
+11. The claimants' applications were made under  para  352D  of  the  Rules
+    which deal with the grant of entry clearance to the "child of a parent"
+    who is currently a refugee in the UK.  Para 352D provides as follows:
+
+         "352D.   The requirements to be met by a person  seeking  leave  to
+                enter or remain in the United Kingdom in order  to  join  or
+                remain with the parent who is currently  a  refugee  granted
+                status as such under the immigration  rules  in  the  United
+                Kingdom are that the applicant:
+
+                (i)    is the child of a parent who is currently  a  refugee
+                    granted status as such under the  immigration  rules  in
+                    the United Kingdom; and
+
+                (ii)   is under the age of 18, and
+
+                (iii)  is not leading an independent life, is unmarried  and
+                    is  not  a  civil  partner,  and  has  not   formed   an
+                    independent family unit; and
+
+                (iv)   was part of the family unit  of  the  person  granted
+                    asylum at the time that the person granted  asylum  left
+                    the country of his habitual residence in order  to  seek
+                    asylum; and
+
+                (v)    would not be excluded from protection  by  virtue  of
+                    article 1F of the United Nations Convention and Protocol
+                    relating to the Status of Refugees if he  were  to  seek
+                    asylum in his own right; and
+
+                (vi)   if seeking leave  to  enter,  holds  a  valid  United
+                    Kingdom entry clearance for entry in this capacity."
+
+12. It was accepted before the judge that the claimants could  not  succeed
+    under this Rule as the sponsor, their uncle was not a "parent".  He had
+    not formally adopted the claimants and neither was  there  a  de  facto
+    adoption (see definitions in paras 6 and 309A of the Rules).  That,  as
+    I say, was not  a  matter  in  dispute.   The  claimants'  applications
+    therefore necessarily failed under para 352D.
+
+13. Equally, before the judge it was accepted that the claimants could  not
+    succeed under Appendix FM.  That follows, no doubt,  from  the  reality
+    again that the claimants could not establish  that  they  were  seeking
+    leave to enter as the child of a "parent" within Section EC-C (see,  in
+    particular E-ECC.1.6).  A further reason would be that this route under
+    Appendix FM only applies where the parent is in the  UK  with  "limited
+    leave to enter or remain" and, of course, even if the  sponsor  was  "a
+    parent" he was in the UK with indefinite leave to remain.
+
+14. The private life provisions in para 276ADE had no  application  to  the
+    claimants because para 276ADE is concerned with the grant of "leave  to
+    remain" and hence is concerned with  the  situation  of  an  individual
+    already in the UK rather than someone seeking entry clearance and leave
+    to enter the UK.
+
+15. On that basis, it was common ground before me that the claimants had no
+    claim under the Immigration Rules.
+
+16. Whilst I am content to determine this appeal on that basis, I  do  note
+    that neither representative drew  my  attention  to  para  297  of  the
+    Immigration Rules which deals with  the  requirements  for  "indefinite
+    leave to enter the United Kingdom as the child of a parent, parents  or
+    a relative present and settled or being admitted for settlement in  the
+    United Kingdom".  That provision,  albeit  dealing  with  ILR,  is  not
+    restricted to a child seeking to join a "parent" in the UK but includes
+    "a relative" who is present and  settled  here.   That,  on  its  face,
+    contemplates the sponsor's situation.  Under para 276(i)(f) ILR may  be
+    granted, inter alia, where there are "serious and compelling family  or
+    other considerations which make exclusion of the child undesirable  and
+    suitable arrangements have been made for the child's care".
+
+17. As I have already indicated, I was not referred  to  para  297  at  the
+    hearing before me and no reliance was placed upon it in argument or  in
+    the documents and no reliance appears  to  have  been  placed  upon  it
+    before Judge Osborne.  It is, in any event, a  rule,  like  para  352D,
+    that is not intended to be an explicit incorporation of Art 8  but,  in
+    substance, its requirements ("serious and  compelling"  considerations)
+    closely reflect  the approach set out in the case law for the grant  of
+    leave outside the Rules in an Art 8 case.
+
+18. I need say nothing more about para 297  as  nothing,  in  my  judgment,
+    turns upon it  in  determining  these  appeals  as  will  become  clear
+    shortly.
+
+The Application of the 'Two-Stage Test'
+
+19. The 'two-stage test' is well established in  the  senior  courts'  case
+    law.  The approach reflects the introduction from 8 July 2012 of  rules
+    seeking to reflect how under Art 8 of the ECHR the  balance  should  be
+    struck between an individual's right for respect to his or her  private
+    and family life and the  public  interest.   In  the  case  of  "family
+    members" those provisions are found in Appendix FM and in  relation  to
+    private life issues are  found  in  para  276ADE  and,  in  respect  of
+    deportation, in paras 398-399B.  In these appeals, of course, I am  not
+    concerned with the provisions dealing with deportation  in  respect  of
+    which the Rules (when read with part 5A of the Nationality, Immigration
+    and Asylum Act 2002) amount to a "complete code" for determining Art  8
+    claims (see, e.g. MF (Nigeria) v SSHD  [2013]  EWCA  Civ  1192  and  NA
+    (Pakistan) v SSHD [2016] EWCA Civ 662).
+
+20. The position in non-deportation cases was stated by Sales J (as he then
+    was) in Nagre at [29] as follows:
+
+         "It is only if, after [refusing the  application  under  the  Rules
+         incorporating the Art 8], there remains an arguable case that there
+         may be good grounds for granting leave to remain outside the  Rules
+         by reference to Art 8 that it will be necessary for Art 8  purposes
+         to go on to consider whether there are compelling circumstances not
+         sufficiently recognised under the new Rules to require the grant of
+         such leave." (emphasis added)
+
+21. That approach has been endorsed by the  Court  of  Appeal  in  numerous
+    other cases including Singh and Khalid at [62] and SS (Congo) at  [40]-
+    [41] - the latter concerned with entry clearance  -  with  the  proviso
+    that it does not create a 'threshold' question.
+
+22. Although not referred to by Mr Richards in his submissions on behalf of
+    the  ECO,  the  grounds  suggest  that  the  proper  test  is  one   of
+    "exceptional circumstances" but, as the case law makes clear, there  is
+    no  test  of   "exceptionality"   but   rather   one   of   "compelling
+    circumstances" (see Nagre at [49] and SS (Congo) at [49]).
+
+23. The underlining rationale recognised in the case law is that the  Rules
+    introduced from 8 July 2012 set out in general the balance to be struck
+    between the public interest and an individual's private and family life
+    protected by Art 8.  If their circumstances do not  bring  them  within
+    the Rule then only if there are "compelling" circumstances  either  not
+    covered by the Rules or which are not sufficiently accommodated  within
+    the Rules will the public interest be outweighed.  That assessment  is,
+    of course, a fact-sensitive one and a matter of judgment to be made  by
+    the decision maker.
+
+24. In these appeals, Mr  Jowett  submitted  that  this  approach  was  not
+    applicable as the claimants had not made an  application  under  Art  8
+    governed by the Rules dealing with Art 8 but rather under para 352D for
+    family reunion.  The family reunion Rules, he submitted, did  not  seek
+    to incorporate and strike a balance between the claimants' family  life
+    and the public interest.  He  submitted  that  in  the  absence  of  an
+    applicable Rule which explicitly sought to  strike  that  balance,  the
+    'two-stage  test'  was  not  relevant  but  rather  a   'free-standing'
+    assessment of Art 8 had to be undertaken applying Razgar and Huang.
+
+25. Whilst I accept  that  the  claimants  did  not  specifically  make  an
+    application for entry clearance based  on  Art  8,  nevertheless  their
+    applications were dealt with under Art 8, initially by the  ECO  having
+    refused entry clearance under para 352D and ultimately by Judge Osborne
+    as the only basis relied upon by the claimants before him.  It seems to
+    me that once Art 8 is relied  upon  and  properly  forms  part  of  the
+    appeal, the fact that  the  claimants  did  not  initially  seek  entry
+    clearance based upon Art 8 does not detract  from  the  fact  that,  by
+    their own choice, they have now sought to rely upon Art 8 to which,  at
+    least in principle, the initial consideration of their case  must  fall
+    under the Rules dealing with Art 8.   That  is,  I  apprehend,  why  Mr
+    Jowett accepted before Judge  Osborne  that  the  claimants  could  not
+    succeed under Appendix FM.
+
+26. I see no basis for differentiating between an appeal hearing where  the
+    initial application is made not on the basis of Art 8 but is relied  on
+    in the appeal proceedings and a case where Art 8  has  been  relied  on
+    from the start.  Providing Art 8 is properly raised and can  be  relied
+    upon in the appeal, the balance struck by Parliament by  approving  the
+    relevant Rules dealing with 'family life' (in Appendix FM) and 'private
+    life' (in para 276ADE) has equal force and relevance to  an  assessment
+    of the individual's Art 8 claim.
+
+27. In these proceedings, the claimants were  relying  upon  their  'family
+    life' with the sponsor, their uncle  and  his  wife,  F.   Appendix  FM
+    contains provisions dealing with situations  in  which  a  child  could
+    obtain entry to the UK to join a person in the UK.   That  Appendix  FM
+    was restricted to a claim to join a "parent" did not dilute the  impact
+    of the Art 8 Rule simply because the claimants could not establish that
+    they had a "parent" in the UK.  The  Rule  applied  but  could  not  be
+    satisfied by the claimants.  In principle, that is no different from  a
+    situation where, applying the "partner" Rule in Appendix FM, a  partner
+    cannot establish, as required, that  he  or  she  meets  the  financial
+    requirements of the Rules.  The  absence  of  a  rule  in  Appendix  FM
+    dealing with a child seeking entry clearance to join someone who is not
+    a "parent" merely reflects the strength of the public interest limiting
+    entry by a child to join anyone who is not their "parent".
+
+28. That, then, becomes the starting point in applying the second-stage  of
+    determining whether there are "compelling"  circumstances  (given  that
+    the child is not seeking  to  join  a  "parent"  and  cannot  therefore
+    succeed under the Rules)  such  as  to  outweigh  the  public  interest
+    reflected in the limitation of who a child may join in the UK  set  out
+    in Appendix FM.
+
+29. Against this view, Mr Jowett relied upon  the  decision  of  the  Upper
+    Tribunal in AT and another (Article 8 ECHR -  child  refugee  -  family
+    reunification) Eritrea [2016] UKUT  00227  (IAC).   In  that  case,  he
+    pointed out that the Upper Tribunal (McCloskey J, President) applied  a
+    "free-standing" approach to Art 8 in a case where  the  appellants  had
+    sought entry clearance to join a refugee in the UK who was respectively
+    their son and brother.  Mr Jowett submitted the present appeals were on
+    all-fours with the situation in AT and another.  The  appellants  there
+    could not succeed under the Refugee Family Reunion Rule in paras  352A-
+    352F as there was no provision that allowed family members  to  join  a
+    child refugee in the UK.  Mr Jowett submitted that, therefore,  AT  and
+    another supported his primary submission that the 'two-stage test'  did
+    not apply when a claim for entry clearance based  upon  family  reunion
+    with a refugee failed under the Rules and the Tribunal was  considering
+    whether the refusal of entry clearance breached Art 8.
+
+30. I acknowledge that AT and another is, on its face, consistent  with  Mr
+    Jowett's primary submission in these appeals.  It  is,  however,  clear
+    from reading the determination in AT and  another  that  the  arguments
+    raised in these appeals were not raised before the President in AT  and
+    another.
+
+31. As in these appeals, the appellants in AT and another do not appear  to
+    have argued that they had any claim under Appendix FM.  Indeed,  as  in
+    these appeals, the case proceeded on the basis that the  only  argument
+    was whether they could succeed under Art  8  outside  the  Rules.   The
+    Upper Tribunal proceeded  on  the  basis  that  there  was  a  "blanket
+    prohibition" in operation under the Rules where  an  individual  sought
+    family reunification with a child (see [10]-[11]).   That  may  not  be
+    precisely analogous to these appeals where there is,  at  least,  Rules
+    dealing with family reunification by children with a sponsor who  is  a
+    "parent" including an adoptive parent.   The  Rules,  in  other  words,
+    contemplate  family  reunification  with  a  refugee  in   a   parental
+    relationship but limited to a person defined as a  "parent"  under  the
+    Rules.
+
+32. The appellants in AT and  another  were,  before  the  Upper  Tribunal,
+    relying upon their "family life" and, as presently advised, that in  my
+    judgment engaged the provisions of Appendix FM but which they, like the
+    claimants in these appeals, could not succeed under.  As I have already
+    indicated, the arguments raised in these appeals were simply not raised
+    in AT and another.  I am unable to discern, therefore,  what  view  the
+    President would  have  expressed  in  respect  of  them.   For  obvious
+    reasons, he does not engage with the arguments made by the  parties  in
+    the appeals before me.   Even  so,  it  is  with  some  hesitation  and
+    caution, given the President's approach, that I reach the conclusion on
+    the applicability of the 'two-stage test' that I have  above.   In  the
+    absence of any reasoned authority to the  contrary,  I  have  concluded
+    that in the circumstances of  these  claimants,  in  determining  their
+    claims under Art 8, Judge Osborne was required to apply the  'two-stage
+    test' and to consider whether, given that they could not succeed  under
+    the Art 8 Rules, there were "compelling" circumstances which  were  not
+    recognised adequately or at all under the Rules  which  outweighed  the
+    public interest so as to justify the grant of leave under Art 8 outside
+    the Rules.
+
+Judge Osborne's Decision
+
+33. In form, I am satisfied that Judge Osborne did not apply the 'two-stage
+    test' but, in substance, he did.  For the reasons that I now give, I am
+    satisfied  that  Judge   Osborne   properly   identified   "compelling"
+    circumstances in the case of the claimants  based  upon  their  unusual
+    circumstances and strength of their  family  life.   His  finding  that
+    those circumstances outweighed the public interest such that the  ECO's
+    decisions were disproportionate was a rational finding  based  properly
+    upon all the evidence and is legally unassailable.
+
+34. I turn, therefore, to Judge Osborne's reasoning.  His  full  reasoning,
+    which is detailed and thorough, is found in  para  14(i)-(xxxvii).   At
+    para 14(ii)-(xvii), Judge Osborne set out the background  circumstances
+    of the claimants (whom he refers to as the "appellants"), the  sponsor,
+    his wife "F" and their family leading to the  sponsor  gaining  refugee
+    status and ILR in the UK as follows:
+
+         "(ii)    Neither of the Appellants are the natural children of  the
+                Sponsor.  Neither  of  the  Appellants  have  been  formally
+                adopted by the Sponsor.
+
+         (iii)    A1 is now aged 18 years and so is not a minor.
+
+         (iv) Having heard the evidence of [the sponsor] and his wife F  and
+                having compared  their  oral  evidence  with  their  written
+                statements I find that  despite  skilled  and  appropriately
+                probing cross-examination by Miss  Eleanor  Jefferies  (Home
+                Office Presenting  [Officer])  no  material  inconsistencies
+                emerged in their evidence.  Additionally, I find that  their
+                evidence was  given  in  a  disarmingly  understated,  open,
+                relatively  anxious,  and  genuinely   caring   manner.    I
+                unhesitatingly  assess  both  the  Sponsors  as  honest  and
+                credible witnesses who attempted throughout  their  evidence
+                to genuinely assist the decision making process.
+
+         (v)  [The sponsor] confirms in his statement that  his  own  father
+                died in 1997 whereafter he continued to live at  the  family
+                home with his mother and  two  younger  brothers,  [B1]  and
+                [B2].  His brother [B3] was the father  of  A2  (the  second
+                Appellant).  [B3] was not married to A2's mother and in 2004
+                when A2 was 2 years, [B3] brought A2 to live at  the  family
+                home as her mother did not wish to care for her.
+
+         (vi) [A1] is the son of the Sponsor's sister [S].   [S]  had  lived
+                with her husband, A2 and their other son [J].  Both [S]  and
+                her husband died of AIDS in 2006.  From 2005 the Sponsor and
+                his mother had assumed care of both A1 and [J].
+
+         (viii)   The Sponsor's sister [E] never married or left the  family
+                home.  Her son [D] was born in 2006 and lived at the  family
+                home with the Sponsor and the rest of the family.   [E]  and
+                the Sponsor's brother [B3] were killed  in  a  road  traffic
+                accident in 2007 in which six other  people  in  total  were
+                also killed.
+
+         (ix) The Sponsor married his wife [F] in 2000.  They have never had
+                any natural children of their  own.   [F]  and  the  Sponsor
+                cared for all six children who  had  been  left  by  various
+                family members  at  the  family  home  by  reason  of  their
+                respective deaths or abandonment.  The Sponsor's mother  was
+                also ill and was cared for by  [F].   The  Sponsor's  mother
+                died in 2011 by which time the Sponsor was living in the  UK
+                as he had fled to this country in search of asylum.
+
+         (x)  The [sponsor] was arrested and detained in the DRC on  several
+                occasions due to his involvement with the UDPS (and  due  to
+                his political opinion).  He did not see  his  wife  nor  his
+                mother or any  of  the  children  during  his  detention  or
+                following his escape from custody prior to fleeing from  the
+                DRC.  He was detained in Congo for  the  last  time  between
+                January and October 2008.  He then fled to Kenya but due  to
+                the risk of being deported from there back to Congo, he made
+                his way to the UK where  he  applied  for  and  was  granted
+                refugee status.
+
+         (xi) He applied  for  guardianship  orders  for  the  six  children
+                because [F]  and  he  were  for  all  intents  and  purposes
+                responsible for all six children from 2006 onwards.  It  had
+                become  difficult  dealing   with   schools,   doctors   and
+                formalities on a day-to-day basis without  formal  paperwork
+                confirming that he was responsible for them and able to make
+                decisions on their behalf.  The Sponsor had a formal meeting
+                (the minutes of which have been adduced  in  evidence)  with
+                his extended family members who confirmed their  consent  to
+                the Sponsor being appointed as the legal guardian of the six
+                children.  [F] had hoped that they would be  able  to  adopt
+                the children as their own but they were legally advised that
+                in cases where a couple have been married for five years  or
+                more, they would only be able to adopt  a  large  number  of
+                children if they already had at least  one  child  of  their
+                own.  They had no such natural  child.   Consequently,  they
+                proceeded to obtain guardianship orders instead of  adoption
+                orders.
+
+         (xii)    The Sponsor was granted refugee status in the UK in  April
+                2010.
+
+         (xiii)   The Sponsor applied for family reunion  for  his  brothers
+                [B2] and [B1].  The  Respondent  refused  that  application.
+                [B2] and [B1] appealed but their  appeal  was  dismissed  by
+                Immigration Judge Woolley in  a  determination  and  reasons
+                promulgated 18 November 2011 on the basis of the  particular
+                facts of those appeals as they applied at that time.
+
+         (xiv)    [F] and the other four children were finally  issued  with
+                passports in 2012.  [D] became ill in  2011  with  pulmonary
+                problems.  The Sponsor earned money which he sent to [F]  to
+                pay for [D]'s medical care.  Payment of those  medical  fees
+                prevented the Sponsor from saving money for airfares for the
+                remainder of his family.  [D] died in 2011.  His  death  has
+                profoundly upset [F], [A2] and [A1].
+
+         (xv) [J] turned 18 and was told by the Sponsor that he was now  too
+                old to be the subject of an application for family  reunion.
+                [J] and [B1] now live their own independent lives.
+
+         (xvi)    Applications for family reunion were made  for  [F],  [A2]
+                and [A1] in 2014.  [F]'s application proved  successful  and
+                she has travelled to  join  the  Sponsor  in  this  country.
+                Although [F] was tempted to remain in  the  DRC  caring  for
+                [A2] and [A1], the Sponsor and [F] considered  that  if  she
+                did not leave at that stage she would be unlikely to ever be
+                reunited with him.  They had not seen each other since  2008
+                when the Sponsor had been arrested, detained, and then  fled
+                the country.  Unfortunately, the applications  of  [A2]  and
+                [A1] were refused.  It is those appeals which now fall to be
+                decided.
+
+         (xvii)   In  May  2015  both  [F]  and  the  Sponsor  were  granted
+                indefinite  leave  to  remain  in  the   UK   as   refugees.
+                Meanwhile, the Sponsor had persuaded his  old  friend,  [PM]
+                (whom he calls [P]) to care for [A2] and [A1] for  three  to
+                six months  whilst  their  appeals  were  processed.   Their
+                appeals have taken  longer.   The  Sponsor  has  on  several
+                occasions had to beg [P] to continue with  the  arrangement.
+                The Sponsor sends [P] money  for  their  financial  support.
+                The money has, for the most part, been sent through  Western
+                Union transfers to [B2] who has thereafter provided [P] with
+                agreed  sums.   Although  an  inconsistency  arose  in   the
+                Sponsor's evidence as to precisely who collected  the  money
+                he sent to the DRC for the support  of  [A2]  and  [A1],  on
+                balance I am satisfied that he has over a protracted  period
+                sent sums of money to his home  country  for  the  continued
+                financial support of the two Appellants."
+
+35. Whilst the judge refers to A1 as being an adult, in fact, at  the  date
+    of the ECO's decision on 13 August 2014 both claimants  were  children.
+    A1 was 17 years old and A2 was 12 years old.  As  the  judge  correctly
+    noted at paragraph 8 of his determination, in assessing the  claimants'
+    Art 8 claims he was required to take account of the fact as at the date
+    of the ECO's decision.
+
+36. The judge (at para 14(xviii)-(xxiv)) carefully  analysed  the  evidence
+    and made findings as to the  relationship  between  the  claimants  and
+    their uncle and aunt - which he described as their "effective  parents"
+    - and the impact (and inevitability) of separation if A1  and  A2  were
+    not granted entry clearance:
+
+         "(xviii)      [A1] is now aged 18 years.  He has had to  leave  his
+                studies as the Sponsor has been unable to afford to pay  for
+                him and [A2] to be educated.  [A2] is age 13 years  and  has
+                continued in education.  [A1] was upset that he had to leave
+                his education but the Sponsor explained to  him  that  older
+                members of a family must make sacrifices to help the younger
+                members.
+
+         (xix)    [F] and the Sponsor usually telephone [A2] and [A1] once a
+                week but the day they speak varies.  They  use  a  telephone
+                landline from a friend's house; they  use  telephone  cards;
+                they also exchange messages via Viber  (a  facility  whereby
+                they are able to communicate through  the  internet).   [A1]
+                and [A2] are not happy living with [P].  They  miss  [F]  in
+                particular.  She has been their de  facto  mother  for  many
+                years.
+
+         (xx)     The Sponsor has been employed through an agency  for  over
+                two years as a mental health support  worker  for  Pro  Care
+                Nursing.  He works nightshifts but the number of  nights  he
+                works varies as he is engaged in agency work.  He  does  not
+                claim working tax credit or housing  benefit.   He  supports
+                himself and [F] in the UK and the children in the  DRC  from
+                his wages.  He believes that it  is  his  responsibility  to
+                support his family as he always has done.  In due course [F]
+                would like to obtain employment and she presently is engaged
+                in  attending  English  lessons  so  that  she  can   better
+                communicate in the English language.
+
+         (xxi)    [F] and the Sponsor have been  the  effective  parents  to
+                [A2]  and  [A1]  since  2004  and  2006  respectively.   [F]
+                provided their day-to-day care until September 2014 when she
+                joined the Sponsor in the UK.  They remain  responsible  for
+                the financial support of both [A2] and [A1]  and  they  make
+                the decisions which affect their lives.
+
+         (xxii)   The evidence of the Sponsor was entirely  corroborated  by
+                [F].
+
+         (xxiii)  Neither the Sponsor nor [F] can reasonably be expected  to
+                return to live in the DRC.  I have no hesitation in  finding
+                as a fact upon hearing the evidence of the Sponsor  and  [F]
+                and upon reading all the evidence  which  has  been  adduced
+                that there is a well-established  family  and  private  life
+                between the Sponsor, [F], [A2], and  [A1].   They  have  all
+                been part of the  same  family  unit  since  2004  and  2006
+                respectively.  The circumstances of this family and  private
+                life are unusual and have been marked by a series of  family
+                tragedies caused by the abandonment of [A2]  by  her  mother
+                and then the premature death of  [A2]'s  father  and  [A1]'s
+                actual  parents.   I   find   that   the   Sponsor   assumed
+                responsibility for them as their natural uncle.  He and  his
+                wife [F] had unfortunately not had natural children of their
+                own and so have throughout, treated [A2] and [A1]  as  their
+                children.  [A2] cannot remember her own mother and so [F] is
+                effectively the only mother she has known.
+
+         (xxiv)   As I have already said above, I find that the  appeals  of
+                the  Appellants  fall  outside   paragraph   352D   of   the
+                Immigration Rules and outside Appendix FM of the Immigration
+                Rules.  However I find that all  four  .....  (sic)  of  the
+                Sponsor, [F], [A2], and [A1] are members of the same  family
+                unit by reason of the private and family life that they  led
+                together in the DRC and have continued to  lead  as  far  as
+                they have been able since first the  Sponsor  and  then  [F]
+                have left the DRC and set up their own family  life  in  the
+                UK.
+
+37. At paragraph 14(xxvii), the judge set out the  five  step  approach  in
+    Razgar and at para  14(xxviii),  the  judge  found  that  Art  8.1  was
+    engaged.  The claimants had established family life  with  the  sponsor
+    and his wife which would be interfered with if  they  remained  in  the
+    DRC:
+
+         "(xxviii)     I resoundingly find that family life  exists  between
+                the Sponsor, [F],  [A2]  and  [A1].   The  Sponsor  and  [F]
+                financially support [A2] and [A1] and they speak  with  them
+                on at least a weekly basis over the telephone.  I find  that
+                the Respondent's Decision interferes with  the  respect  for
+                that family and private  life.   I  further  find  that  the
+                interference is in accordance with the law as the Appellants
+                have failed to fulfil the requirements  of  the  Immigration
+                Rules as set out above.  In that  context  the  Respondent's
+                Decision has  the  legitimate  aim  of  immigration  control
+                insofar as that is in itself a legitimate aim. "
+
+38. As can be seen, for the purposes of Art  8.2  the  judge  accepted  the
+    decisions were in accordance with the law and  had  a  legitimate  aim.
+    Consequently,  the  judge  then  went  on  to  consider   whether   the
+    interference with their family life was proportionate.  He  did  so  at
+    para 14(xxxi)-(xxxvii) in the context of Part 5A  of  the  Nationality,
+    Immigration and Asylum Act 2002.  The judge said this:
+
+         "(xxxii) Section 117A applies where a court or Tribunal is required
+                to determine whether a Decision made under  the  Immigration
+                Act breaches a person's right to  respect  for  private  and
+                family life under  Article  8  and  as  a  result  would  be
+                unlawful under Section 6 of the Human Rights Act  1998.   In
+                considering the public interest question, regard must be had
+                to the considerations listed in Section  117B.   The  public
+                interest  question  means  the  question   of   whether   an
+                interference with a person's right to  respect  for  private
+                and family life is justified under Article 8(2).
+
+         (xxxiii) In Section 117B, the proper consideration should be  given
+                to the maintenance of effective immigration  controls  which
+                are in the public  interest.   Additionally  it  is  in  the
+                public  interest  and  in  the  interests  of  the  economic
+                wellbeing of the United Kingdom that  persons  who  seek  to
+                enter or remain in the United  Kingdom  are  able  to  speak
+                English, because persons who can speak English are less of a
+                burden on taxpayers and are better able  to  integrate  into
+                society.
+
+         (xxxiv)  The Sponsor and [F] each gave evidence through  a  Lingala
+                interpreter.  They are not fluent in the  English  language.
+                There is no evidence that [A2] and [A1] are  able  to  speak
+                English.  It is up to  the  Appellants  to  establish  their
+                cases.  They have not established that they  can  speak  the
+                English language.
+
+         (xxxv)   It is also in the public interest and in the interests  of
+                the economic wellbeing of the United  Kingdom  that  persons
+                who seek to enter  or  remain  in  the  United  Kingdom  are
+                financially independent because such persons also are not  a
+                burden on taxpayers and are better able  to  integrate  into
+                society.
+
+                The Sponsor has given evidence that he considers himself  to
+                be financially responsible for his family  and  he  has  not
+                contemplated claiming state benefits.  I find therefore that
+                to that extent [A2] and [A1] are  and  will  be  financially
+                independent and to that extent  will  not  be  a  burden  on
+                taxpayers and are better able  to  integrate  into  society.
+                There  are  no   other   issues   which   require   specific
+                consideration.
+
+         (xxxvi)  This family has been separated by reasons which have  been
+                reflected in the grant of refugee status to the Sponsor  and
+                his wife [F].  Since  2004  and  2006  they  have  been  the
+                effective day-to-day parents of [A2] and [A1].  Guardianship
+                orders have been obtained which reflect that [A2]  and  [A1]
+                are the responsibility of the Sponsor, their natural  uncle.
+                The guardianship orders are dated 5 September 2007  made  by
+                the Peace Court of Kinshasa/Lemba.  [A2]  remains  a  minor.
+                [A1], although having attained the age of 18 years  has  not
+                established an independent  life  of  his  own  and  remains
+                living and being cared for by [P] the person with  whom  the
+                Sponsor has made arrangements for the care of both [A2]  and
+                [A1].
+
+         (xxxvii) Having taken  account  of  all  the  evidence  and  having
+                carefully balanced  the  same  between  the  rights  of  the
+                individual and the interests of the UK public, for  all  the
+                above reasons I find that the Respondent's Decision and  the
+                interference caused by that Decision is not proportionate in
+                a democratic society to the legitimate aim to be achieved."
+
+39. It is clear beyond peradventure that Judge Osborne made clear  findings
+    based upon a careful and detailed consideration of  the  evidence.   He
+    found that there was family life between A1 and A2 and the sponsor  and
+    his wife.  He found that family life could  not  continue  in  the  DRC
+    because the sponsor and his wife were refugees in the UK and could  not
+    return to the DRC.   The  decisions  to  refuse  entry  clearance  were
+    maintained, therefore, the separation between the claimants and sponsor
+    and his wife would be inevitable.  The judge also  identified,  in  his
+    assessment of the evidence,  the  tragic  circumstances  in  which  the
+    family including A1 and A2 had been subjected to and that  the  sponsor
+    and his wife had become the de facto parents of A1 and A2 but had  been
+    unable to adopt them as they did not have a child of  their  own.   The
+    judge also had well in mind that the claimants  were  currently  looked
+    after by an "old friend" but on a temporary basis.   Financial  support
+    and all important decisions were made by the sponsor and his wife.
+
+40. In the ECO's grounds, it is argued that the judge failed to  take  into
+    account that the father of the sponsor's wife and her brother  remained
+    in the local area in the DRC.  Whilst that was F's evidence in outline,
+    in fact in her statement (A10 of FtT bundle at paras  15  and  20)  she
+    identified that her parents were elderly and that her brother supported
+    them.  However, her parents were too elderly to care for the  claimants
+    and her brother, who was unmarried, would not be able to care  for  the
+    claimants as he had to work and earn money to support himself  and  his
+    parents.  The evidence before Judge Osborne,  which  he  accepted,  was
+    that A1 and A2 had been cared for and brought up as the children of the
+    sponsor and F since 2004 and 2006 respectively.  Mr  Richards  did  not
+    seek to address me on this point in his oral evidence and I see nothing
+    in the evidence to undermine the judge's finding that the sponsor and F
+    were and are the de facto parents (as they have been for many years) of
+    the claimants and that the effect of these decisions is  inevitably  to
+    separate children from those  who  act  as  their  parents.   There  is
+    nothing in the evidence that could have led the judge to conclude  that
+    satisfactory alternative arrangements could be made for their long term
+    care in the DRC.
+
+41. Mr Jowett also placed reliance upon the Supreme Court's decision in  AA
+    (Somalia) v Entry Clearance Officer [2014] 1 WLR 43.  In that case, the
+    Supreme Court was also  concerned  with  a  decision  to  refuse  entry
+    clearance to a child in order to join a family member who was a refugee
+    in the UK.  He was the husband of the applicant's sister and  had  been
+    granted refugee status having left Somalia as a  result  of  the  civil
+    war.  In seeking entry clearance under para 352D as  the  "child  of  a
+    parent" who is a refugee in the UK, the applicant  argued  that,  as  a
+    result of Islamic law and the institution  of  Kafala,  having  been  a
+    member of the sponsor's family unit  she  was  to  be  treated  as  his
+    "child".  The Supreme Court rejected that argument on  the  basis  that
+    the sponsor was not  the  applicant's  "parent"  whether  by  de  facto
+    adoption as defined in  the  Rules  or  otherwise.   Nevertheless,  the
+    applicant succeeded - indeed it was not challenged in the Supreme Court
+    - because the First-tier Tribunal (whose decision had  been  upheld  on
+    appeal) had allowed the applicant's appeal under Art 8.
+
+42. Before Judge Osborne, Mr Jowett relied upon AA (Somalia)  and  drew  an
+    analogy between these appeals and the outcome under Art 8 in that case.
+     In particular, Mr Jowett submitted before me that  the  Supreme  Court
+    had recognised the utility of Art 8 in a case such as  AA  (Somalia)  -
+    and Mr Jowett submitted likewise in these appeals -  where  the  Family
+    Reunion Rule was narrowly drawn in respect of definition of a "parent".
+     Judge Osborne, having cited a number of passages in  the  judgment  of
+    Lord Carnwath JSC noted at para 14(xvi) that:
+
+         "In AA (Somalia) [2013] the Appellants lost their appeal under  the
+         Rules but those appeals were allowed under Article 8 ECHR.  If  the
+         positions of the Appellants in AA (Somalia) is not identical to the
+         positions of A2  and  A1,  they  are  for  every  practical  effect
+         directly analogous."
+
+43. Of course, the individual assessment required  in  determining  whether
+    there are compelling circumstances and a breach of Art 8 necessarily is
+    fact-sensitive.  However, the general observation by Judge Osborne  is,
+    in my view, well made and is reflective of the fact that,  albeit  that
+    these claimants cannot succeed under the Family Reunion Rule or  indeed
+    under the Art 8 Rules, they have an  analogous  relationship  with  the
+    sponsor and his wife in these appeals to that of a "parent" or,  as  in
+    AA (Somalia), are de facto parents.  That, in my judgment, was, and is,
+    a matter properly to be taken into account in determining  whether  the
+    claimants' circumstances were "compelling".
+
+44. In my judgment, Judge Osborne properly considered  the  balance  to  be
+    struck between the  public  interest,  having  regard  to  the  matters
+    required to be taken into account under s.117B of the 2002 Act and,  in
+    substance, the 'best interests' of the  claimants  which  were  engaged
+    despite the fact that they were not in  the  UK  and  so  s.55  of  the
+    Borders, Citizenship and Immigration Act 2009  did  not  apply  (see  T
+    (s.55 BCI 2009 - entry clearance) Jamaica [2011] UKUT 00483 (IAC)).
+
+45. In my  judgment,  Judge  Osborne's  reasoning  identifies  "compelling"
+    circumstances which outweighed the public  interest  reflected  in  the
+    fact that the claimants could not succeed under any Rule.  None of  the
+    judge's primary findings of fact are challenged and, in substance  even
+    if not in form,  Judge  Osborne  carried  out  the  required  balancing
+    exercise outside the Rules and came to a wholly sustainable  conclusion
+    that the  public  interest  was  outweighed  by  the  strength  of  the
+    claimants' individual circumstances.
+
+46. Consequently, any error  of  law  made  by  the  judge  in  failing  to
+    explicitly apply the 'two-stage test' was not material to his  decision
+    that the ECO's decisions in respect of each of the  claimants  breached
+    Art 8 of the ECHR.
+
+Decision
+
+47. Thus, for these reasons, the First-tier Tribunal's  decision  to  allow
+    each of the claimants' appeals under Art 8 did not involve  a  material
+    error of law.  The First-tier Tribunal's decisions stand.
+
+48. Accordingly,  the  Entry  Clearance  Officer's  appeals  to  the  Upper
+    Tribunal are dismissed.
+
+
+                                                                      Signed
+
+                                                                     A Grubb
+                                                 Judge of the Upper Tribunal
+                                                       Date 31st August 2016
+
+
+TO THE RESPONDENT
+FEE AWARD
+
+Judge Osborne made a full fee award in favour of each of  the  claimants  in
+the sum of �140 and I see no reason to decide otherwise  and  accordingly  I
+affirm that order.
+
+
+                                                                      Signed
+
+                                                                     A Grubb
+                                                 Judge of the Upper Tribunal
+                                                       Date 31st August 2016
+

@@ -1,0 +1,1581 @@
+
+[pic]
+
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Hamat (Article 9 - freedom of religion) [2016] UKUT 00286 (IAC)
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                |Promulgated                  |
+|On 18 March 2016                    |                             |
+|                                    |.............................|
+|                                    |..........                   |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE JORDAN
+
+                                   Between
+
+                            Mr KASHMIR KHAN HAMAT
+                                                                   Appellant
+
+                                     and
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation
+
+For the Appellant:     Mr S. Saeed, Solicitor Advocate for Aman
+                  Solicitors
+For the Respondent:    Mr S. Kandola, Senior Presenting Officer
+
+    (i) Article 9 -  the  right  to  freedom  of  thought,  conscience  and
+    religion - is a distinctive feature of  the  Human  Rights  Act  to  be
+    considered separately from Article 8 when it applies.
+
+
+    (ii) Article 9 permits the same structured approach to  the  assessment
+    of an Article 8 human rights claim identified by Lord Bingham in his 5-
+    stage approach set out in paragraph 17 of Razgar [2004]  UKHL  27  save
+    for the omission of the 'economic well-being of the country'  criterion
+    in Article 9(2).
+
+    (iii) In an appeal where the violation is alleged to occur by reason of
+    removal from the United Kingdom, the test  of  proportionality  governs
+    the exercise of Article 9 rights and not the  more  stringent  approach
+    involving whether the returnee is at risk of a flagrant denial or gross
+    violation in his home country.
+
+
+    (iv) A further distinctive feature is the creation of a statutory right
+    in s.13 of the  Human  Rights  Act  1998,  independent  of  Article  9,
+    enabling a religious organisation to benefit from the Convention  right
+    to freedom of thought, conscience and religion  alongside  its  members
+    collectively and individually.
+
+
+    (v) Matters relied  on  by  way  of  a  positive  contribution  to  the
+    community are capable in principle of affecting the weight to be  given
+    to the maintenance of effective immigration control and should  not  be
+    excluded from consideration altogether but are unlikely in practice  to
+    carry much weight.
+
+
+    (vi) The operation of the Immigration  Rules  will  not  amount  to  an
+    unlawful interference in the selection of a religious leader  when  the
+    personality of the appellant has not influenced the decision and  where
+    anybody in the same position as the appellant who  fails  to  meet  the
+    requirements of the Rules is likely to be refused.
+
+                            DECISION AND REASONS
+
+Introduction and immigration history
+
+    1. The appellant is a citizen of Afghanistan, who was born on 1 January
+       1989 and  is  now  aged  27.   He  was  encountered  by  immigration
+       officials on 8 January 2007 concealed in the back of a lorry and was
+       notified of his liability to be removed.  At  interview  he  claimed
+       that he was 17 years of age but an age assessment concluded that  he
+       was over the age of 18. He claimed asylum but  his  application  was
+       refused on 29 May 2007. He appealed against that decision on  asylum
+       and  human  rights   grounds,   his   appeal   was   dismissed   and
+       reconsideration was refused. His statutory rights of  appeal  became
+       exhausted  in  October  2007.  Eventually,  in  February  2011,  the
+       appellant sought judicial review  of  the  respondent's  refusal  to
+       treat his further submissions as a fresh claim. Those were summarily
+       refused by Thirlwall J on  1  June  2011  who  considered  that  the
+       respondent's decision-making  process  had  been  lawful,  that  the
+       proceedings were bound to fail and that renewal would not operate as
+       a bar to removal.
+
+
+    2. It was at this stage that the Afghanistan  Islamic  Cultural  Centre
+       (AICC) sought to intervene as an  interested  party  in  support  of
+       further submissions which resulted in a hearing on 11 November  2011
+       at which permission to seek judicial review was  ordered,  it  being
+       arguable that the Secretary of State had unlawfully failed  to  take
+       into  account  the  benefit  that  the  appellant  provided  to  the
+       community  and  the  impact  on  the  community  of   his   removal,
+       demonstrated by numbers of letters of support and a petition, signed
+       by some 945 signatories in terms that the appellant 'contributed  to
+       serving  our  community,  maintaining  a  peaceful  and   harmonious
+       society'. The Secretary of State agreed to reconsider the claim  and
+       a further decision was made on 17 August 2012  refusing  his  claims
+       both under the Refugee Convention and the ECHR. This was subject  to
+       an appeal which was heard on 1 February 2013. At the appeal hearing,
+       the appellant withdrew his asylum claim as well as his claims  under
+       Articles 3 and for humanitarian protection.
+
+    3. The appellant then placed reliance on Articles 8, 9 and s. 13 of the
+       Human Rights Act. In support of  this  application  he  submitted  a
+       report of April 2009 dealing with the  Afghan  Muslim  community  in
+       England, a report to which I shall make reference later. Eventually,
+       the respondent conducted a comprehensive reassessment  of  the  case
+       and a further decision was made as long ago as  20  September  2013.
+       On  24  September  2013  the  Secretary  of  State  issued   removal
+       directions.
+
+
+    4. The appellant appealed against these decisions repeating  the  claim
+       that his removal would be a breach of his rights  under  Articles  8
+       and 9 of the ECHR and s. 13 of the Human Rights Act 1998.
+
+
+    5. First-tier Tribunal  Judge  Petherbridge  promulgated  his  decision
+       dismissing the appellant's appeal on 25 May 2014.  Subsequent  to  a
+       successful challenge in accordance with the principles identified in
+       Cart v The Upper Tribunal [2011] UKSC 28, permission  to  appeal  to
+       the Upper Tribunal was granted by Mr C. M.  G.  Ockelton,  the  Vice
+       President, on 21 May 2015. In granting permission to pursue the Cart
+       challenge, Singh J identified a double failure to address Article  9
+       of the ECHR as well as s. 13 of the Human Rights Act.
+
+
+    6. Deputy Upper Tribunal Judge Saini decided on  19  August  2015  that
+       Judge Petherbridge's decision should be set aside  adopting  as  his
+       reason the Judge's failure to address Article 9  and  s.  13.   Both
+       Article 9 of the Convention and s.13 of the Human  Rights  Act  1998
+       are largely unfamiliar to practitioners and this is one of  the  few
+       cases to come before  the  Tribunal  which  expressly  raises  these
+       provisions as a distinct and separate challenge to the  respondent's
+       removal decision.  It was only this aspect of the  appeal  that  was
+       pursued before me.
+
+
+The Afghan Community within the United Kingdom
+
+    7. Reliance was placed  by  the  appellant  and  AICC  on  the  general
+       conditions in which the Afghan Muslim community lives in the  United
+       Kingdom.  A report entitled 'The Afghan Muslim Community in  England
+       - Understanding Muslim Ethnic Communities' is one of 13  reports  on
+       England's Muslim ethnic communities  commissioned  by  the  Cohesion
+       Directorate of Communities and Local Government (CLG).  It describes
+       the Afghan community in these broad terms:
+
+      In Afghanistan the dominant religion has traditionally been  the  sect
+           of Sunni Islam following the Hanafi School of  Jurisprudence.  A
+           large proportion of the Sunni  population  in  Afghanistan  also
+           adheres to the Deobandi tradition, which is believed to have had
+           a strong influence on the Taliban. The majority  of  Afghans  in
+           the UK are also  Sunni  Muslims,  but  there  is  a  significant
+           minority of Shi'a,  particularly  those  of  the  Hazara  ethnic
+           group. There are  also  reported  to  be  some  'important  Sufi
+           families' in London and a large  Afghan  Sikh  community.  Views
+           about religion are  contradictory.  Some  sources  suggest  that
+           there is a 'stricter' form of Islamic practice driven by  people
+           who have arrived during the later stages of the recent conflicts
+           in Afghanistan, as well as a visible  tendency  towards  greater
+           religiosity among young people. Others however suggest that most
+           Afghans in the UK are more  culturally  Muslim  than  devout  in
+           their religious practice, and that there is a sizeable  part  of
+           the community with communist sympathies that does not  subscribe
+           to any form of religion at all. Culture and ethnicity appear  to
+           play a  more  significant  role  in  the  way  Afghans  identify
+           themselves  than  religion.  Most  respondents  expressed  their
+           relationship  with  Islam  as  something  personal  and  in  the
+           background, something that informs their values and attitudes to
+           life, but which does not play an outwardly visible role. In  the
+           past, Afghans attended mosques established by other communities,
+           including  contributing  to   the   building   of   mosques   in
+           collaboration with other Muslim groups. However Afghan  cultural
+           practices, particularly  funereal  rites,  differ  substantially
+           from those of other  Muslim  communities,  and  this  factor  is
+           thought to have contributed significantly to the development  of
+           separate mosques for the community. It certainly seems  to  have
+           been a strong influential factor in the decision  to  build  the
+           Afghan  mosque  in  Neasden,  along  with  pressure  from  other
+           communities concerning accepted rituals and forms of worship.
+
+    8. Reliance, in particular, is placed on the passage above which refers
+       to the differences in practice between Afghan  Muslims  and  others:
+       'Afghan cultural  practices,  particularly  funereal  rites,  differ
+       substantially from those of other Muslim communities'.
+
+Facts
+
+
+    9. There is very little dispute about the activities performed  by  the
+       appellant.  These are described in his statement dated 2  May  2014.
+       The appellant described how  over  the  years,  he  had  established
+       strong links with the Afghan community in the  United  Kingdom.  For
+       many years, he had performed the voluntary work for the AICC and has
+       built up strong and close relationships with many people  there  and
+       in the Afghan embassy. He describes how he performed this  voluntary
+       work out of a desire to help others. In paragraphs 20 to 24  of  his
+       statement he describes  his  activities  as  including  helping  and
+       advising the community on Islamic issues, organising  prayer  times,
+       leading the congregation in  daily  prayers  and  congregate  Friday
+       prayers. In particular, he led prayers during Ramadan  reciting  the
+       Qu'ran which he has committed to memory in its  entirety  (a  Hafiz,
+       lit. a guardian or  memoriser  of  the  Qu'ran).   He  also  assists
+       families with funerals, arranging memorial  services,  participating
+       in and leading the ceremonies for the dead and visiting families  in
+       their homes. He  assists  in  mediating  in  domestic  problems.  He
+       conducts Islamic Nikah ceremonies in what he asserts is  a  somewhat
+       complex procedure for which he is qualified (and has  been  for  the
+       last six years). In addition he teaches over  100  children  at  the
+       AICC. He works with the young and with the local  police  on  issues
+       concerning youth, street crimes and public disorder. He is concerned
+       with the building of community relations as well as seeking to build
+       a more unified Muslim community in the United Kingdom.  At  present,
+       he  is  not  permitted  to  take  up  paid  employment.  The   above
+       description of his functions is confirmed by a number  of  witnesses
+       who have made statements.
+
+
+   10. The  material  in  support  of  the  appellant's  claim  included  a
+       petition,  letters  of  support  from   various   Afghan   community
+       associations, correspondence from, and to, members of Parliament and
+       numerous other  supporting  letters  from  councillors,  solicitors,
+       friends and supporters. This support included a Note Verbal dated 15
+       April 2014 from London's Ambassador at the embassy  of  the  Islamic
+       Republic of Afghanistan.
+
+   11. Although the ambassador is  plainly  speaking  only  in  a  personal
+       capacity, his words echoed much of what others had said.   He  spoke
+       of his contact with the appellant through the embassy. Embassy staff
+       visited the AICC during the last 10 days of Ramadan in 2013.  There,
+       the prayers were led by the appellant  who  also  leads  the  weekly
+       Friday prayers at the AICC and funeral  prayers.  He  also  leads  a
+       regular weekly service on Sundays at the AICC. The  embassy  was  so
+       much impressed by the appellant's recitation of the Qu'ran that,  in
+       the Note Verbal of 15 April 2014, the ambassador spoke  of  inviting
+       him to recite suitable verses at large events or anniversaries.  The
+       appellant also acts providing advice on  issues  within  the  Afghan
+       community  and,  as  a  minister  of  religion,  the  appellant   is
+       appreciated throughout the Afghan  community.   He  teaches  at  the
+       Madrasa.  He speaks Pashtu and Dari fluently, which is  said  to  be
+       rare.
+
+   12. The bundle supplied by the appellant's  solicitors  on  6  May  2014
+       contains over  100  pages  of  witness  statements  and  letters  of
+       support.  It includes support from the Chairman and the Trustees  of
+       the  AICC.   He  is  described  as  having  a   strong   charismatic
+       personality with a good positive influence upon those around him.  I
+       have no reason to doubt the high regard in which  the  appellant  is
+       held by the Afghan Muslim community.
+
+   13. More recently there has been unfortunate division amongst the Muslim
+       community and on 6 March 2016,  according  to  the  evidence  of  Mr
+       Zubair Mohammadi, the Secretary of the AICC, a group of its  members
+       attempted to stage a coup against the board of  the  AICC.   He  has
+       been locked out of his  office.   He  described  how  the  situation
+       became quite  ugly  and  the  police  were  called.  Fortunately  no
+       violence ensued. Mr Mohammadi maintains his view that the AICC could
+       not function without the appellant  and  cites  the  view  of  those
+       involved in the attempted coup that, although they tried  to  depose
+       the appellant, they could not do so  because  there  was  nobody  to
+       replace him.
+
+   14. Mr Mohammadi describes the AICC  placing  an  advertisement  in  the
+       Eastern Eye newspaper in which a replacement for  the  appellant  is
+       advertised in these terms:
+
+                     Wanted: Farsi-Pashto Speaking Imam
+                         Salary - �27,000 per annum
+
+      Minimum requirements-the applicant must:
+    . Be an experienced  Hafiz  and  Qari  (i.e.  must  have  memorised  all
+      Holy Qu'ran with correct recitation)
+    . Be fluent in Farsi and Pashto
+    . Have minimum three years experience as an imam in a      mosque
+    . Have minimum three years of experience in teaching  Holy   Qu'ran  and
+      Islamic Studies to kids
+    . Possess high degree of Islamic etiquette
+    . Provide minimum five references from the prominent members     of  the
+      Afghan Muslim community in London
+
+
+   Main duties
+    . Leading all daily prayers
+    . Teaching Holy Qu'ran and Islamic Studies to children
+    . Carrying out marriage and funeral services etc
+
+   15.  Mr  Mohammadi  told  me  there  had  been  no  response   to   that
+       advertisement.  In addition, in paragraph 10 of his statement  of  2
+       May 2014 [Tab B pages  52-3]  he  had  said  that,  in  response  to
+       advertisements, he had received 8 applications and had interviewed 5
+       candidates from the Afghan community as  well  as  other  nationals.
+       The candidates interviewed were either not Hafiz of  the  Qu'ran  or
+       had little knowledge of Afghan cultures and could not  speak  Pashto
+       and Dari or understand Islamic law.
+
+
+
+
+
+The Secretary of State's response
+
+
+   16. The appellant's work is not disputed by  the  respondent.   However,
+       the issue  arises  as  to  whether  the  applicant  is,  in  effect,
+       irreplaceable. If he is not absolutely irreplaceable, the respondent
+       contends the appellant and the AICC  have  failed  to  establish  he
+       cannot be replaced for all reasonable and practical purposes.
+
+
+   17.    The  Secretary  of  State  relies  upon  the   appellant's   poor
+       immigration history and the public interest in the removal of  those
+       who have flouted immigration law,  the  fact  that  the  Immigration
+       Rules permit ministers of religion (a wide-ranging term  that  would
+       include the appellant) to enter the United Kingdom lawfully and that
+       there are in any event some 56,000 Afghans in the United Kingdom  as
+       a potential source of recruitment for an individual to replace  him.
+       She points  out  that  there  has  been  no  extensive  national  or
+       international effort at recruitment.  Further, the respondent  noted
+       that the appellant's educational background is limited:  he  arrived
+       in the United Kingdom at the age of 17 or 18 and had only previously
+       received 3� years study at a Madrasa.
+
+
+The Convention and Statutory Provisions
+
+   18. Article 9 ECHR states as follows:
+
+         ARTICLE 9
+         Freedom of thought, conscience and religion
+         1. Everyone has the right to freedom  of  thought,  conscience  and
+         religion; this right includes freedom to  change  his  religion  or
+         belief and freedom, either alone or in community with others and in
+         public or private, to manifest his religion or belief, in  worship,
+         teaching, practice and observance.
+         2. Freedom to manifest one's religion or beliefs shall  be  subject
+         only to such limitations as are prescribed by law and are necessary
+         in a democratic society in the interests of public safety, for  the
+         protection of public order, health or morals, or for the protection
+         of the rights and freedoms of others.
+
+
+
+    1. A distinctive feature of the Human Rights  Act's  treatment  of  the
+       right to freedom of thought, conscience and religion is to place  it
+       in a distinct category of protection and to create a statutory right
+       which is independent of the Article 9  Convention  right.   This  is
+       found in s.13:
+
+
+
+
+
+         13. Freedom of thought, conscience and religion
+         (1) If a court's determination of any question arising  under  this
+         Act might affect the exercise by a religious  organisation  (itself
+         or its members collectively) of the Convention right to freedom  of
+         thought, conscience and religion, it must have particular regard to
+         the importance of that right.
+         (2) In this section "court" includes a tribunal.
+
+
+   19. It is first necessary to consider the relationship between Article 8
+       and  9.   The  two  Articles  are  quite  separate;  nether  one  is
+       subservient to the  other.   Any  suggestion  that  the  appellant's
+       Article 8 rights were improperly assessed by reason of  the  failure
+       to consider his Article 9  rights  is  misplaced.   An  individual's
+       Article 9 rights are free-standing.  So much is clear from s.  1  of
+       the Human Rights Act which incorporates the ECHR into  domestic  law
+       and does so without creating a hierarchy of rights such that Article
+       9 rights are seen as a constituent part of the individual's  Article
+       8 rights:
+
+
+            1 The Convention RightsE+W+S+N.I.
+
+       (1)In  this  Act  "the  Convention  rights"  means  the  rights   and
+           fundamental freedoms set out in-
+            (a)Articles 2 to 12 and 14 of the Convention,
+
+
+   20. The Convention rights are domesticated into United  Kingdom  law  by
+       s.6:
+
+
+            6 Acts of public authoritiesE+W+S+N.I.
+
+      (1)It is unlawful for a public authority to act  in  a  way  which  is
+           incompatible with a Convention right.
+
+
+   21. Turning to  s.  13  of  Human  Rights  Act,  the  reference  to  the
+       'importance of the right' to  freedom  of  thought,  conscience  and
+       religion is striking in that no other Convention right  is  afforded
+       this treatment.
+
+
+   22. Secondly the right to freedom of thought, conscience and religion is
+       protected not only for the benefit of individuals but organisations:
+       'a  religious  organisation...itself'.   This  is  something  of   a
+       contradiction in terms:  a human right enjoyed by  an  organisation.
+       This  is  comprehensible  by  reference  to  the   members   of   an
+       organisation enjoying  human  rights  but  s.  13  goes  further  by
+       distinguishing between the human rights of its members and the human
+       rights of the organisation: 'a religious organisation (itself or its
+       members collectively)'.  Thus, for example, the  Church  of  England
+       has the Convention right  to  freedom  of  thought,  conscience  and
+       religion alongside its members collectively and individually.
+
+   23. Section 13 of the Human Rights Act appears to be the result  of  the
+       decision of the ECtHR in X and the Church of  Scientology  v  Sweden
+       (Case 7805/77) in which  the  Court  considered,  as  a  preliminary
+       issue,  whether  the  Church  of  Scientology,   which   had   legal
+       personality, was capable of exercising Article  9  (1)  rights.  The
+       Commission, reversing its  earlier  position,  considered  that  the
+       distinction  between  Church  and  its   members   was   essentially
+       artificial.  The Court upheld the  Commission's  revised  view:  the
+       church in its application was in reality doing so on behalf  of  its
+       members.
+
+   24.  Thirdly, s.13 is itself free-standing.   It  is  entirely  separate
+       from the domestication into United Kingdom law of the  ECHR.   Hence
+       the  right  to  freedom  of  thought,  conscience  and  religion  is
+       protected by two independent sections of the Human Rights  Act:  s.6
+       and s.13.  In granting permission Deputy Upper Tribunal Judge  Saini
+       said
+
+
+      The Tribunal erred in its consideration of Article 8 in  relation  to
+           the appellant's functions for the Afghan Islamic Cultural Centre
+           ("AICC") and the effect his removal will have upon the Article 9
+           ECHR rights of the congregation through s. 13 HRA 1998.
+
+   25. Insofar as this  passage  might  suggest  there  was  a  correlation
+       between Article 8 and 9 such that the Article 9  claim  is  advanced
+       through the medium of Article 8 and, further, that Article 9 is  the
+       prism through which s.13 is assessed, I have concluded that this  is
+       not the correct analysis of the relationship between  these  various
+       provisions for the reasons I shall later give.  Each is  independent
+       of the other and requires separate assessment.
+
+
+   26. Fourthly, it is directed towards Courts and Tribunals.   They  alone
+       bear the statutory duty to apply it.  Nevertheless,  out  of  a  due
+       sense of deference, decision makers themselves might  properly  take
+       its provisions into effect, if they are not already doing so.
+
+Articles 8 and 9 compared
+
+   27. Both Article 8 and Article 9 are expressed in  terms  that  are  not
+       absolute.  Each is a qualified right.  However, the qualified nature
+       of the  right  is  expressed  in  different  terms.   This  is  best
+       demonstrated by a synoptic version of the two Articles:
+
+
+
+|                        |                          |
+|ARTICLE 8               |ARTICLE 9                 |
+|                        |                          |
+|Right to respect for    |Freedom of thought,       |
+|private and family life |conscience and religion   |
+|1. Everyone has the     |1. Everyone has the right |
+|right to respect for his|to freedom of thought,    |
+|private and family life,|conscience and religion;  |
+|his home and his        |this right includes       |
+|correspondence.         |freedom to change his     |
+|                        |religion or belief and    |
+|                        |freedom, either alone or  |
+|                        |in community with others  |
+|                        |and in public or private, |
+|                        |to manifest his religion  |
+|                        |or belief, in worship,    |
+|                        |teaching, practice and    |
+|2. There shall be no    |observance.               |
+|interference by a public|                          |
+|authority with the      |2. Freedom to manifest    |
+|exercise of this right  |one's religion or beliefs |
+|except such as is in    |shall be subject only to  |
+|accordance with the law |such limitations as are   |
+|and is necessary in a   |prescribed by law and are |
+|democratic society in   |necessary in a democratic |
+|the interests of        |society in the interests  |
+|national security,      |of public safety, for the |
+|public safety or the    |protection of public      |
+|economic wellbeing of   |order, health or morals,  |
+|the country, for the    |or for the protection of  |
+|prevention of disorder  |the rights and freedoms of|
+|or crime, for the       |others.                   |
+|protection of health or |                          |
+|morals, or for the      |                          |
+|protection of the rights|                          |
+|and freedoms of others. |                          |
+
+
+
+   28. It is readily understandable that an individual's human  rights  may
+       be outweighed by the economic well-being of  the  country:  hence  a
+       claim to remain which operates as a burden upon the state may  be  a
+       legitimate reason for refusing the claim; it is often  expressed  as
+       the  public  interest  in  maintaining  immigration  control.    The
+       economic well-being of the  country  is  however  omitted  from  the
+       factors that qualify the right to freedom of thought, conscience and
+       religion. Whilst the concept of  a  right  to  freedom  of  thought,
+       conscience and religion can less obviously be seen as  operating  in
+       the realm of economic activity (the  biblical  antithesis,  perhaps,
+       between God and mammon) the fact that a person who claims the  right
+       to exercise his freedom of religion may result in his being a burden
+       on the state or the public at large is just as significant a  factor
+       in an Article 9 case as it is in an Article 8 case.
+
+
+The applicability of the Razgar test
+
+
+   29. The concept of  proportionality  nowhere  finds  expression  in  the
+       qualified nature of an individual's Article 8 or 9  rights.   It  is
+       most often articulated in Article  8  cases  by  reference  to  Lord
+       Bingham's 5-stage approach identified  in  paragraph  17  of  Razgar
+       [2004] UKHL 27:
+
+
+      In considering whether  a  challenge  to  the  Secretary  of  State's
+           decision to remove a person must  clearly  fail,  the  reviewing
+           court must, as it seems to me, consider how an appeal  would  be
+           likely to fare before [the First-tier Tribunal], as the tribunal
+           responsible for deciding the appeal if  there  were  an  appeal.
+           This means that the reviewing court must ask itself  essentially
+           the questions which would have to be answered by [the First-tier
+           Tribunal Judge]. In a case where removal is resisted in reliance
+           on Article 8, these questions are likely to be:
+
+           1) Will the proposed removal be  an  interference  by  a  public
+              authority with the  exercise  of  the  applicant's  right  to
+              respect for his private or (as the case may be) family life?
+           2) If so, will  such  interference  have  consequences  of  such
+              gravity as potentially to engage the operation of Article 8?
+           3) If so, is such interference in accordance with the law
+           4) If so, is such interference necessary in a democratic society
+              in the interests of national security, public safety  or  the
+              economic well-being of the country,  for  the  prevention  of
+              disorder or crime, for the protection of health or morals, or
+              for the protection of the rights and freedoms of others?
+           5) If so, is such interference proportionate to  the  legitimate
+              public end sought to be achieved?
+
+   30. Such a structured approach to the assessment of a human rights claim
+       has equal force when considering Article 9 save of  course  for  the
+       omission of the economic well-being  of  the  country  criterion  in
+       Article 9.
+
+The case law
+
+   31. In El Majjaoui  &  Stichting  Touba  Moskee  v.  the  Netherlands  -
+       25525/03 [2007] ECHR 1124 the Grand Chamber of the European Court of
+       Human Rights considered an application by the Dutch  authorities  to
+       strike out the applicant's claim to which the Court acceded.  It did
+       not therefore consider that the Court was required to continue to  a
+       full examination of the application. The principal applicant  was  a
+       Moroccan national but the mosque (Stichting Touba Moskee)  in  which
+       he worked as an imam had legal personality under Netherlands law and
+       joined in the application to the ECHR.  Together, they alleged  that
+       the refusal to issue a work permit to the applicant to enable him to
+       work as imam for the mosque constituted an unjustified  interference
+       with their right to freedom of religion as guaranteed by  Article  9
+       of the Convention and was also in violation of  Article  18  of  the
+       Convention.  Dutch domestic law provided that a work-permit  was  to
+       be refused where there was an available supply of 'priority  labour'
+       (loosely similar to the resident labour test) and if the vacancy had
+       not  been  previously  notified  to  the  Dutch  equivalent  of  the
+       Jobcentre.  This  latter  requirement  had  not  been  met  and,  in
+       refusing the application, it was said that  insufficient  steps  had
+       been taken to find priority workers to fill the vacancy.  The  Dutch
+       government stated that Article 9 could not be construed as entitling
+       a religious community  to  employ  as  a  teacher  and  minister  of
+       religion a foreign national who did not meet statutory  requirements
+       set for the purpose of preserving peace and public order, the  rough
+       equivalent  of  the  public  interest  in  maintaining   immigration
+       control.
+
+
+   32. The Dutch government applied to strike out the claim  under  Article
+       37 because in the course of the proceedings, the government informed
+       the Court that a new application for a work permit on behalf of  the
+       applicant had been successful; a work permit had been issued because
+       the foundation  had  established  that  the  statutory  requirements
+       necessary which included that the mosque had then established it had
+       made sufficient efforts to fill the position  with  priority  labour
+       and had notified the authorities in due form of the vacancy. Indeed,
+       the applicant had been granted a residence permit.  In resisting the
+       attempt to strike out the claim, the applicants relied on  the  fact
+       that the principal applicant had effectively been  deprived  of  his
+       work as an imam, and the local Moroccan community had been  deprived
+       of an imam, until the work permit was finally issued.
+
+   33. In its decision to strike out the claim without a full consideration
+       of the merits, the Court asked itself two questions, the  second  of
+       which was whether the applicants had been provided  with  sufficient
+       redress.  The Court stated in paragraph 31 of its decision:
+
+      As regards the second question, the  Court  considers  that  the  mere
+           fact that the applicant foundation had to  comply  with  certain
+           requirements before it was able to employ the applicant does not
+           as such raise an issue under Article 9. The  Court  agrees  with
+           the former Commission that that  provision  does  not  guarantee
+           foreign nationals a right to obtain a residence permit  for  the
+           purposes of taking up employment in a Contracting State, even if
+           the employer  is  a  religious  association  (see  H�sn�  �z  v.
+           Germany, no. 32168/96, Commission decision of 3 December  1996).
+           After all, the Convention does not lay down for the  Contracting
+           States any given manner for ensuring within their  internal  law
+           the effective implementation of the Convention. The choice as to
+           the most appropriate means of achieving this is in  principle  a
+           matter for the  domestic  authorities,  who  are  in  continuous
+           contact with the vital forces of their countries and are  better
+           placed to assess the possibilities  and  resources  afforded  by
+           their respective domestic  legal  systems  (see  Swedish  Engine
+           Drivers' Union v. Sweden, judgment of 6 February 1976, Series A
+           no. 20, p. 18, � 50; Chapman v. the United  Kingdom  [GC],  no.
+           27238/95, � 91, ECHR 2001-I;  and  Sisojeva  and  Others,  cited
+           above, � 90).
+
+
+   34. Thus, in a somewhat oblique way in the course of an  application  to
+       strike out, the ECtHR gave its view on the scope of, and limitations
+       upon, the right to freedom of thought, conscience and religion.  The
+       decision had followed the decision using its  earlier  procedure  in
+       Cha'are Shalom Ve Tsedek v. France 27417/95 [2000] ECHR 351 in which
+       a Jewish liturgical association, Cha'are Shalom Ve Tsedek, alleged a
+       violation of Article 9 of the Convention on account  of  the  French
+       authorities' refusal to grant it the approval necessary  for  access
+       to slaughterhouses with a view to  performing  ritual  slaughter  in
+       accordance with the ultra-orthodox religious  prescriptions  of  its
+       members.   The  French  authorities  had  granted  approval  to   an
+       organisation (the ACIP) that satisfied the majority  of  the  Jewish
+       community in France but  the  applicants  were  not  satisfied  this
+       resulted in the slaughtered meat being ritually pure.  In France, as
+       in many other European countries, the ritual slaughter  required  by
+       Jews and Muslims for religious reasons came into conflict  with  the
+       principle that an animal to be slaughtered, after being  restrained,
+       must first be stunned in order to spare  it  any  suffering.  Ritual
+       slaughter was nevertheless authorised under  French  law  but  might
+       only be performed by authorised slaughterers and the  applicant  had
+       not obtained that authorisation.
+
+
+   35. The Conseil d'Etat had in another earlier case held:
+
+      In requiring ritual slaughter performed  under  conditions  derogating
+           from the provisions of ordinary law to be carried  out  only  by
+           ritual slaughterers authorised by religious bodies  approved  by
+           the Minister of Agriculture on a proposal by the Minister of the
+           Interior, the Prime Minister did not interfere in the affairs of
+           religious bodies and did not infringe the freedom of worship but
+           took the measures needed for  exercise  of  that  freedom  in  a
+           manner consistent with public policy.
+
+   36. The de facto monopoly enjoyed by the  ACIP  with  regard  to  ritual
+       slaughter was not, however, the result of any  deliberate  intention
+       on the part of the State, which would not have failed to  grant  the
+       approval sought by the applicants if it had been able to prove  that
+       it was essentially a religious body and had wider support within the
+       Jewish community.  The fact that the exceptional rules  designed  to
+       regulate  the  practice  of  ritual  slaughter  permit  only  ritual
+       slaughterers authorised by approved religious bodies to engage in it
+       did not in itself lead to the conclusion  that  there  has  been  an
+       interference with the freedom to manifest one's religion. The  Court
+       considered, like the Government, that it was in the general interest
+       to  avoid  unregulated  slaughter,  carried  out  in  conditions  of
+       doubtful hygiene, and that it was therefore preferable, if there  is
+       to be ritual slaughter, for it to be  performed  in  slaughterhouses
+       supervised by the public authorities. Importantly, the Court held:
+
+
+      In the Court's opinion, there would be interference with the  freedom
+           to manifest one's religion only if the illegality of  performing
+           ritual slaughter made it impossible for ultra-orthodox  Jews  to
+           eat  meat  from  animals  slaughtered  in  accordance  with  the
+           religious prescriptions they considered applicable.
+
+   37. That was not the case because the  applicants  would  easily  obtain
+       supplies of ritually pure meat in Belgium.  Furthermore,  there  was
+       evidence that a  number  of  butcher's  shops  operating  under  the
+       control of the ACIP made ritually pure meat available to Jews.   Two
+       strands might be detected in this decision.  First,  the  Convention
+       right to freedom of thought, conscience and  religion  includes  the
+       practical implementation of that belief in  the  form  of  religious
+       practice or ritual (that is, it was not simply a freedom of thought)
+       and secondly a distinction was drawn between circumstances where the
+       domestic regulation rendered the observance of religious practice or
+       ritual impossible and  those  where  practical  observance  remained
+       possible,  through  constrained  by  domestic  legislation  lawfully
+       imposed.
+
+A flagrant denial or gross violation test?  Ullah and Do
+
+   38. In Ullah and Do, R (on the Application  of)  v  Special  Adjudicator
+       [2004] UKHL 26, the specific right  in  question  in  the  conjoined
+       appeals was the right to freedom of thought, conscience and religion
+       guaranteed by Article 9 of the  Convention  and  in  particular  the
+       freedom "either alone or in community with others and in  public  or
+       private, to manifest his religion or belief, in  worship,  teaching,
+       practice and observance".
+
+
+   39. Mr Ullah had applied for asylum, claiming that, as an active  member
+       of the Ahmadhiya faith, he had a well-founded fear of persecution in
+       Pakistan as a result of his religious  beliefs.   His  asylum  claim
+       failed.  He also relied on Article 9 but this, too, was rejected  by
+       the Adjudicator.  She found that although Articles 9, 10 and  11  of
+       the Convention could be engaged in a  situation  of  this  kind,  Mr
+       Ullah would suffer  no  serious  infringement  of  these  rights  in
+       Pakistan; the Secretary of State was acting lawfully in pursuance of
+       the legitimate aim of  immigration  control;  and  his  decision  to
+       remove Mr Ullah to Pakistan was proportionate to any difficulties he
+       might face on his return.
+
+   40. The other appellant, Miss Do, was a citizen of Vietnam  and  entered
+       the United Kingdom in November 2000. She applied for  asylum,  based
+       on her fear  of  persecution  as  a  practising  Roman  Catholic  in
+       Vietnam.
+
+   41. The House of Lords drew a  distinction  between  what  Lord  Bingham
+       defined as 'domestic cases' and 'foreign  cases'  in  which  in  the
+       latter category it was not claimed that the state  had  violated  or
+       would violate the  applicant's  Convention  rights  within  its  own
+       territory but in which it is claimed that the conduct of  the  state
+       in removing a person from its territory  (whether  by  expulsion  or
+       extradition) to another territory will lead to a  violation  of  the
+       person's Convention rights in that other territory. Although Article
+       1 of the Convention provides that the signatories  shall  secure  to
+       everyone within their jurisdiction the defined rights and  freedoms,
+       it sets a territorial limit on  the  reach  of  the  Convention.  In
+       particular, the Convention does not  govern  the  actions  of  other
+       states, nor does it require the  signatories  to  impose  Convention
+       standards on other  States.  Thus,  Article  1  cannot  be  read  as
+       justifying a general principle to the effect  that,  notwithstanding
+       its extradition obligations, a Contracting State may  not  surrender
+       an individual unless satisfied that the conditions awaiting  him  in
+       the country of destination are in  full  accord  with  each  of  the
+       safeguards of the Convention.
+
+
+   42. Ullah and Do, as is readily apparent,  were  'foreign  cases'.   The
+       Court of Appeal had concluded at paragraph 64:
+
+      This appeal is concerned with Article 9. Our reasoning  has,  however,
+           wider implications. Where the Convention is invoked on the  sole
+           ground of the treatment to which an alien, refused the right  to
+           enter or remain, is likely to  be  subjected  by  the  receiving
+           state, and that treatment is not sufficiently severe  to  engage
+           Article 3, the English court is not required to  recognise  that
+           any other Article of the Convention is, or may be, engaged."
+
+   43. The Court of Appeal ruled out as a matter  of  law  the  possibility
+       that any Article other than Article 3 could  ever  be  engaged.  The
+       crucial issue in the House of Lords was whether, in a foreign  case,
+       reliance might be placed on any article of the Convention other than
+       Article 3, and in particular  whether  reliance  may  be  placed  on
+       Article 9.
+
+   44.  Having  examined  the  nature  of  the  rights  conferred  by   the
+       Convention, the House of Lords decided that the Court of Appeal  was
+       in error in making the categorical statement that in  foreign  cases
+       it was only Article 3 that  had  to  be  considered.   Instead,  the
+       correct approach was a  more  stringent  approach,  namely,  a  test
+       involving whether the returnee was at risk of a flagrant  denial  or
+       gross violation.  It was this test that  had  been  adopted  by  the
+       Immigration Appeal Tribunal (Mr C M G Ockelton, deputy president, Mr
+       Allen and Mr Moulden) in Devaseelan v Secretary  of  State  for  the
+       Home Department [2002] IAT 702, paragraph 111:
+
+      The reason why flagrant denial or gross violation is to be taken  into
+           account is that it is only in such a case - where the right will
+           be completely denied or nullified in the destination  country  -
+           that it  can  be  said  that  removal  will  breach  the  treaty
+           obligations of the signatory  state  however  those  obligations
+           might be interpreted or whatever might be said by or  on  behalf
+           of the destination state.
+
+   45. Having reviewed the case law, Lord Steyn concluded in  paragraph  50
+       by stating:
+
+      It will be apparent from the review of Strasbourg jurisprudence  that,
+           where other Articles may become engaged, a high  threshold  test
+           will always have to  be  satisfied.  It  will  be  necessary  to
+           establish at least a real risk of a flagrant  violation  of  the
+           very essence of the right before  other  Articles  could  become
+           engaged.
+
+   46. In the appeal before me, the Senior Presenting Officer, Mr  Kandola,
+       relies upon the high threshold test when the  appellant  is  relying
+       upon a violation of his human rights where  Article  9  is  engaged.
+       This is, however, misplaced in the cases of a domestic  claim,  that
+       is, a claim which is based on an allegation that  his  or  another's
+       human rights will be violated in the United Kingdom by his  removal.
+       Nor is it necessary to impose such a high threshold if and when  the
+       test is one of proportionality because in such a case the  competing
+       interests of the community at large in enforcing immigration control
+       and the interests of the  individuals  or  the  religious  community
+       affected can be balanced.
+
+
+Discrimination
+
+
+   47. Cases involving discrimination on the basis of the Convention  right
+       to freedom of thought, conscience and religion offer  no  or  little
+       assistance.  It is not suggested that the government  is  unlawfully
+       discriminating and the AICC is certainly not doing  so.   Thus,  for
+       example, Eweida v British Airways Plc [2010] EWCA Civ  80,  was  the
+       well-publicised cases in which the appellant's  employer  adopted  a
+       practice of not permitting jewellery to be worn and visible  at  the
+       open neck of the uniform that all employees were  required  to  wear
+       who had contact with the general public.  The appellant wore a cross
+       at her neck.  Her attitude in doing this was severely criticised  by
+       the Court of Appeal and formed part  of  an  unjustified  but  wide-
+       ranging attack that her employer was anti-Christian.  The  appellant
+       adopted as a principal plank of her claim the provisions of  Reg.  3
+       of the Employment Equality (Religion or Belief) Regulations 2003:
+
+
+            3. Discrimination on grounds of religion or belief
+            (1) For the  purposes  of  these  Regulations,  a  person  ("A")
+           discriminates against another person ("B") if -
+      ....
+            (b) A applies to B a provision, criterion or practice  which  he
+           applies or would apply  equally  to  persons  not  of  the  same
+           religion or belief as B, but -
+            (i) which puts or would put persons  of  the  same  religion  or
+           belief as B at a  particular  disadvantage  when  compared  with
+           other persons,
+            (ii) which puts B at that disadvantage, and
+      (iii) which A cannot show to be a proportionate means of  achieving  a
+           legitimate aim.
+
+   48. Her case failed in the Court of Appeal  but  she  succeeded  in  the
+       ECtHR, (Eweida and Others v.  the  United  Kingdom  (nos.  48420/10,
+       59842/10, 51671/10 and 36516/10), [2013] ECHR 37).  The case  is  of
+       interest in the context of this appeal only by reason  of  the  high
+       importance the Court attached to the right to  freedom  of  thought,
+       conscience and religion as well as the  scope  of  the  right.   The
+       reasoning is to be found in paragraphs 79-84:
+
+
+      The Court  recalls  that,  as  enshrined  in  Article  9,  freedom  of
+           thought, conscience and religion is one of the foundations of  a
+           "democratic society" within the meaning of  the  Convention.  In
+           its religious dimension it is one of  the  most  vital  elements
+           that  go  to  make  up  the  identity  of  believers  and  their
+           conception of  life,  but  it  is  also  a  precious  asset  for
+           atheists, agnostics, sceptics and the unconcerned. The pluralism
+           indissociable from a democratic society, which has  been  dearly
+           won over the centuries, depends on it (see Kokkinakis v. Greece,
+           25 May 1993, � 31, Series A no. 260-A).
+      Religious freedom is primarily a  matter  of  individual  thought  and
+           conscience. This aspect of  the  right  set  out  in  the  first
+           paragraph of Article 9, to hold any  religious  belief  and  to
+           change religion or belief, is absolute and unqualified. However,
+           as further set out in Article 9 � 1, freedom  of  religion  also
+           encompasses the freedom to manifest one's belief, alone  and  in
+           private but also to practice in community  with  others  and  in
+           public. The manifestation of religious belief may take the  form
+           of worship, teaching, practice and observance.  Bearing  witness
+           in words and deeds is bound up with the existence  of  religious
+           convictions (see Kokkinakis, cited above, � 31  and  also  Leyla
+           ?ahin v. Turkey [GC], no. 44774/98, � 105, ECHR 2005-XI, 44 EHRR
+           5). Since  the  manifestation  by  one  person  of  his  or  her
+           religious belief may have an impact on others, the  drafters  of
+           the Convention qualified this aspect of freedom of  religion  in
+           the manner set out in Article 9 � 2.
+      The right to freedom  of  thought,  conscience  and  religion  denotes
+           views that attain  a  certain  level  of  cogency,  seriousness,
+           cohesion and importance.
+      Even where the belief  in  question  attains  the  required  level  of
+           cogency and importance, it cannot be said that every  act  which
+           is  in  some  way  inspired,  motivated  or  influenced  by   it
+           constitutes a "manifestation" of the belief. Thus, for  example,
+           acts or omissions which  do  not  directly  express  the  belief
+           concerned or which are only remotely connected to a  precept  of
+           faith fall outside the protection of Article 9 �  1....In  order
+           to count as a "manifestation" within the meaning of  Article  9,
+           the act in question must be intimately linked to the religion or
+           belief. An example would be an act of worship or devotion  which
+           forms part of  the  practice  of  a  religion  or  belief  in  a
+           generally  recognised  form.  However,  the   manifestation   of
+           religion or belief is not limited to such acts; the existence of
+           a sufficiently close and direct nexus between the  act  and  the
+           underlying belief must be determined on the facts of each  case.
+           In particular, there is  no  requirement  on  the  applicant  to
+           establish that he or she acted in fulfilment of a duty  mandated
+           by the religion in question (see Cha'are  Shalom  Ve  Tsedek  v.
+           France [GC], no. 27417/95, �� 73-74, ECHR 2000-VII
+      ...if a person is able  to  take  steps  to  circumvent  a  limitation
+           placed on his or her freedom to  manifest  religion  or  belief,
+           there is no interference with the right under Article 9 � 1  and
+           the limitation does not therefore require to be justified  under
+           Article 9 � 2.
+           According to its settled  case-law,  the  Court  leaves  to  the
+           States party to the Convention a certain margin of  appreciation
+           in deciding whether  and  to  what  extent  an  interference  is
+           necessary. This margin of appreciation goes hand  in  hand  with
+           European supervision embracing both the law  and  the  decisions
+           applying it. The  Court's  task  is  to  determine  whether  the
+           measures taken at national level were justified in principle and
+           proportionate.
+
+
+The analysis
+
+   49. Having set out the legal principles that are engaged, it is as  well
+       to recap the scope of the issues before  the  Upper  Tribunal.   The
+       appellant, now aged 27, had spent some 3�  years  at  a  Madrasa  in
+       Afghanistan prior to his coming  to  the  United  Kingdom.   He  was
+       encountered by immigration officials on 8 January 2007, aged  17  or
+       18, concealed in the back  of  a  lorry  and  was  notified  of  his
+       liability to be removed. His asylum claim was refused on 29 May 2007
+       and his appeal rights became exhausted in October 2007. In  February
+       2011, the appellant  sought  judicial  review  of  the  respondent's
+       refusal to treat his further submissions as  a  fresh  claim.  Those
+       were summarily refused on 1 June 2011, it  being  thought  that  the
+       respondent's decision-making process had been lawful  and  that  the
+       proceedings were bound to fail.  I am  now  bound  to  consider  his
+       claim under Article 9.
+
+
+   50. The appellant's personal claim to avoid removal  was  (and  remains)
+       hampered by  this  poor  immigration  history.  Attention  therefore
+       focuses on the intervention  of  the  Afghanistan  Islamic  Cultural
+       Centre (AICC) and the effect that the appellant's removal will  have
+       on it as an a organisation and as acting on  behalf  of  the  Afghan
+       Muslim community in the United Kingdom, and London in particular.
+
+   51. This decision requires consideration to be given  to  the  following
+       elements:
+
+        i) The AICC as a religious organisation.
+       ii) The effect of  the  appellant's  positive  contribution  to  the
+           Afghan Muslim community in the United Kingdom and its  interface
+           with the wider community.  This positive  contribution  is,  not
+           inappropriately, sometimes referred to as 'good works'.
+      iii) The claim by the AICC  of  an  unlawful  interference  with  its
+           freedom of choice in the selection of a minister.
+       iv)  Findings  of  fact  in  relation  to  the  availability  of   a
+           replacement to serve the needs of the Afghan Muslim Community in
+           the event of the appellant's departure.
+        v) The competing  interests  of  the  Afghan  Muslim  community  in
+           retaining the presence  of  the  appellant  and  preserving  the
+           benefits he provides to the community on the one  hand  and,  on
+           the other, the wider community whose interests the Secretary  of
+           State represents in the maintenance of a system  of  immigration
+           control.
+
+
+   52. I shall deal with each of these matters in turn.
+
+
+The AICC as a religious organisation
+
+   53. Judge Petherbridge was not satisfied that the AICC was  a  religious
+       organisation.  I have not explored  what  material  was  before  him
+       although in finding that there was a material error  of  law,  Judge
+       Saini referred to the statement of Mr Hanafi and the  AICC  Chairman
+       which cumulatively reflected upon whether the organisation  was  one
+       that is principally or substantially religious in character, thereby
+       engaging Article 9. Judge Saini found the First-tier Tribunal  Judge
+       failed to have due regard to this material.
+
+
+   54.  I  suspect  that  I  have  a  much  more  complete  picture.  In  a
+       supplementary bundle there is a Certificate  of  Registration  of  a
+       Place for Religious Worship in the registration district  of  Brent.
+       The  certificate  emanates  from  the  General  Register  Office  in
+       Southport and states that the premises are registered as a place  of
+       meeting for religious worship  in  accordance  with  the  Places  of
+       Worship Registration Act, 1855. There are also entries  provided  by
+       the Charity Commission in relation to the Afghan Islamic and Culture
+       Centre naming the trustees, the date of registration,  the  adoption
+       of the Constitution and providing that its charitable object  is  to
+       advance Islamic religion in accordance with  the  teachings  of  the
+       Qu'ran and Sunnah Prophet Mohammed (S.A.W.) to the Muslim community.
+       I have no doubt that  the  Judge  would  have  reached  a  different
+       conclusion  had  he  seen  these   documents.   In   addition,   the
+       Constitution of the AICC has been  provided,  the  object  of  which
+       (alongside offering facilities for recreation  and  leisure  in  the
+       interests of social welfare) is that of advancing  Islamic  religion
+       to the Muslim community. There is, therefore, overwhelming  evidence
+       that this is both an organisation in the sense that it  is  a  legal
+       entity as well as a religious organisation.
+
+   55. For my part,  I  would  not  regard  it  as  a  requirement  of  the
+       definition of religious organisation that  the  organisation  should
+       have a legal  personality.  Whilst  many  religious  communities  or
+       organisations may well have a distinct legal personality, it may not
+       always be the case. Some may  have  charitable  status  such  as  to
+       provide them with a legal personality but not all will. However,  an
+       established community  of  believers  (or,  perhaps,  non-believers)
+       whose activities are organised in the sense of  having  a  group  of
+       elders, a board  or  governing  committee  might  well  be  able  to
+       establish that, collectively, it is an organisation  sufficient  for
+       the purposes of s. 13. The purpose, I assume, of making reference to
+       an organisation is that, if the organisation may properly be treated
+       as a separate entity, the elders, board or  committee  are  able  to
+       speak as a collective voice on behalf of the community  as  a  whole
+       and thereby carry greater weight than  the  individual  members  who
+       write or speak. Whilst the weight that is  to  be  attached  to  the
+       voice of an organisation will depend upon the specific circumstances
+       of that organisation, its membership and decision-making  capability
+       (and will vary from case to case), it is reasonable that a religious
+       community as a whole should have its views and interests taken  into
+       account.
+
+Good works and the appellant's activities as a benefit to the community
+
+   56. In UE (Nigeria) & Ors v Secretary of State for the Home Department
+       [2010] EWCA Civ 975, the Jjudge took into account the fact that  the
+       appellants had known for many years that they had no legal status in
+       the United Kingdom and had taken no steps to bring themselves to the
+       attention of the authorities for two-and-a-half  years  after  their
+       return from Ireland. In addition he took account of  the  effect  of
+       removal on each of the  appellants  in  terms  of  their  individual
+       activities: in one case as a writer, poet and  performer;  in  other
+       cases on their educational progress  and  their  work  and  cultural
+       activities.  The judge was not, however, prepared to  put  into  the
+       balancing exercise the value of the appellants'  various  activities
+       to the community in the United Kingdom.  The question for the Court
+       of Appeal was whether it was relevant on any basis that  the  person
+       in question is of value to the community in the  United Kingdom,  a
+       value of which that community would be deprived if  he  were  to  be
+       removed.
+
+
+   57. Sir David Keene described this as a separate consideration from  the
+       consequences for the appellant himself but concluded that it  was  a
+       material and lawful factor:
+
+
+      9. It should be noted that this is a different  question  from  asking
+           what would be the  impact  on  the  individual  in  question  of
+           removing him, even  though  that  question  also  would  involve
+           considering the extent to which he may  have  been  involved  in
+           community  activities.  That  latter  question  is  directed  at
+           ascertaining the strength of the individual's own ties  to  this
+           country and the degree, consequently, of private life  which  he
+           has established here, whether in terms  of  friends,  education,
+           work or leisure activities. That latter question  considers  the
+           extent to which his right to private life  would  be  interfered
+           with by removal, an issue which arises both under  Article  8(1)
+           and then if there would be such interference again under Article
+           8(2) as part of the balancing exercise. But the first  question,
+           that now under scrutiny, is  dealing  with  the  effect  of  his
+           removal on the community in the United Kingdom... .
+      35. For my part, therefore, I conclude that it is open to  this  court
+           to find that the loss of such public benefit is capable of being
+           a relevant consideration when assessing the public interest side
+           of proportionality under Article 8 and as a matter of  principle
+           I do  so  find.  That  is  where  this  aspect  comes  into  the
+           proportionality exercise.
+
+   58. Richards LJ, though  saying  that  there  was  very  little  between
+       himself and Sir David Keene on the issue, did in fact articulate the
+       approach is somewhat different terms:
+
+
+      40. Factors are relevant to the assessment  of  proportionality  under
+           Article 8 in such a case only in so far as they impact either on
+           the  weight  to  be  given  to  the  maintenance  of   effective
+           immigration control  or  on  the  weight  to  be  given  to  the
+           individual's private life. It is not a question of dropping into
+           the scales all aspects of the public  interest  for  or  against
+           removal or anything that might be relevant to the exercise of  a
+           discretion under the statute or Immigration Rules. It is a  more
+           specific and targeted exercise.
+      41. For those reasons I consider that contribution to the community is
+           not a freestanding or stand-alone factor  to  be  put  into  the
+           Article 8 balance as an independent  consideration  in  its  own
+           right. It can affect the  balance  only  in  so  far  as  it  is
+           relevant to the legitimate aim or the private life claim.
+      42. It is common ground  that  community  activities  may  affect  the
+           strength of the private life claim, and this was something  that
+           the Immigration Judge had properly in mind in his determination.
+
+
+      43. As to the other side of the balance, in  MA  (Afghanistan)  [2006]
+           EWCA Civ 1440 at paragraph 28 Moses LJ suggested  that  "It  may
+           well be that the benefit of the community of the work  performed
+           by the applicant diminishes the weight to be given to the public
+           interest in immigration control." So far as I can recall and can
+           discern from the material we have been shown, that judgment  was
+           not drawn to the  court's  attention,  and  the  possibility  of
+           contribution to the community being factored into  the  analysis
+           in that way was not explored or even raised, in RU  (Sri  Lanka)
+           [2008] EWCA Civ 753. Faced with the issue in the  present  case,
+           however, I would accept that the matters relied on here  by  way
+           of contribution to the community are indeed capable in principle
+           of affecting the weight  to  be  given  to  the  maintenance  of
+           effective immigration control. I agree that that public interest
+           aim can and should be viewed sufficiently widely and flexibly to
+           accommodate such considerations. But they do not have as obvious
+           a bearing as, for example, delay by the Secretary  of  State  in
+           processing  a  claim  or  the  applicability   of   a   specific
+           immigration policy favouring the applicant, and I doubt if  they
+           would in practice carry a lot of weight even on  the  relatively
+           favourable facts of the present case. But I do agree  that  they
+           should not be excluded from consideration altogether.
+
+
+   59. This line of reasoning must apply with  equal  force  to  Article  9
+       cases but there is this difference: s. 13 of the  Human  Rights  Act
+       provides the express requirement that in any question arising  under
+       the Human Rights Act that might affect the exercise by  a  religious
+       organisation  of  the  Convention  right  to  freedom  of   thought,
+       conscience and religion, it  must  have  particular  regard  to  the
+       importance of that right.  This is an  express  requirement  of  the
+       religious community's  interests  as  distinct  from  those  of  the
+       appellant.
+
+
+Unlawful interference with the AICC's freedom of choice
+
+   60. The appellant claims that the actions of the  respondent  amount  to
+       interference with the AICC selection of a religious  leader.  In  so
+       submitting they rely upon the decision of the  ECtHR  in  Hasan  and
+       Chaush v. Bulgaria, 30985/96 [2000] ECHR 511.  This  case  concerned
+       the actions of the Bulgarian government in relation to what the  two
+       applicants said was the forced replacement of the leadership of  the
+       Muslim religious community in Bulgaria.  One of the  applicants  was
+       the Chief Mufti of the Bulgarian Muslim who claimed that  the  state
+       authorities had interfered in the organisational life of the  Muslim
+       community by refusing to register  its  leadership  which  had  been
+       elected. The Court found that the authorities had failed  to  remain
+       neutral and that led to the conclusion that they violated Article 9;
+       the government had proclaimed  changes  in  the  leadership  of  the
+       Muslim community which were not justified.
+
+
+   61. The application of Hasan and Chaush  v.  Bulgaria,  30985/96  [2000]
+       ECHR 511 does not assist the appellant in this appeal.   Whilst  the
+       effect of the appellant's  removal  inevitably  has  the  effect  of
+       depriving the AICC and its membership of the imam of  their  choice,
+       this was not the motive of  the  respondent's  actions  (unlike  the
+       motive of  the  Bulgarian  authorities  which  was  to  deprive  the
+       applicant  of  his  position).   In  contrast,  the  United  Kingdom
+       authorities were applying immigration law as  they  saw  it  to  be.
+       Even if they were wrong, the decision had not  interfered  with  the
+       freedom of choice of  the  Afghan  Muslim  community  because  their
+       actions have not been prompted by a wish to  favour  one  imam  over
+       another. The personality of the appellant  has  not  influenced  the
+       decision: anybody in the same position as the appellant who does not
+       meet the requirements of the Rules is likely to be refused.
+
+
+The availability to the Afghan Muslim Community of finding a replacement
+
+
+   62. It must be noted that the appellant and, more importantly, the  AICC
+       and the worshipping community served by the appellant have a  lawful
+       route available to secure the care of the appellant or another imam.
+        The requirements or attributes for Tier 2 (Ministers  of  Religion)
+       Migrants are set out in Appendix A to the Immigration Rules.  I have
+       set out the Rules as an appendix to this decision.  In essence  they
+       provide for a valid  Certificate  of  Sponsorship  in  circumstances
+       where the sponsor must confirm that the applicant is being sponsored
+       to perform religious duties of a nature specified; confirms that the
+       applicant will receive pay and conditions as  specified;  meets  the
+       requirements of the resident labour  market  test;  establishes  the
+       applicant is qualified to do the job  in  respect  of  which  he  is
+       seeking leave as a minister  of  religion  and  demonstrates,  where
+       necessary, that a national recruitment search was undertaken.
+
+
+   63. The  appellant  will  himself,  of  course,  face  the  prospect  of
+       mandatory refusal  of  entry  clearance  or  leave  to  remain  most
+       obviously under paragraph 320(7B).  Whilst the appellant  will  face
+       real practical difficulties in making an out-of-country  application
+       for entry clearance as a minister of religion, this  arises  because
+       of his own poor immigration record, compounded  by  his  failure  to
+       mitigate his position by  a  voluntary  return.   Nevertheless,  the
+       option of returning to  Afghanistan  and  making  an  out-of-country
+       application for entry clearance is reasonable  in  the  case  of  an
+       individual who has no right to enter or remain  in  accordance  with
+       Chikwamba principles, Chikwamba v Secretary of State  for  the  Home
+       Department [2008]  UKHL  40.   Such  a  person  cannot  advance  the
+       argument that his immigration history  renders  it  unreasonable  to
+       require an out-of-country application  because  he  is  at  risk  of
+       refusal by reason of past  breaches  of  immigration  law.  Were  it
+       otherwise, the reasonable requirement to regularise an  individual's
+       immigration status by an out-of-country application would favour  an
+       individual with a poor immigration history at the expense of  others
+       because his application is more  likely  to  fail.   This  principle
+       affects both the Article 9  consideration  of  the  appellant's  own
+       claim as well as the consideration that  must  be  afforded  to  the
+       rights of the religious organisation.
+
+The appellant's personal claim to avoid removal
+
+   64. For the reasons I have given, the  AICC,  whose  interests  are  co-
+       extensive with the Muslim worshipping community in the  Centre  and,
+       more generally, in London is entitled to  due  consideration  as  an
+       organisation and through its collective membership.  The community's
+       interest is distinct from the appellant's personal claim seeking  to
+       avoid removal on proportionality  grounds.   Given  the  appellant's
+       immigration history, for which he is  responsible,  the  appellant's
+       personal claim to avoid removal is easily out-weighed by the  public
+       interest  in  enforcing  immigration  controls  either   where   the
+       individual does not  meet  the  requirements  to  remain  under  the
+       Immigration Rules or where the individual is an illegal  entrant  or
+       overstayer or otherwise in breach of immigration law.   There is  no
+       doubt an  interference  sufficient  to  engage  Article  9  but  the
+       interference is in accordance with  the  law  and  is  necessary  to
+       provide the sanction of removal in the case of illegal entrants  and
+       overstayers and/or to  discourage  others  who  enter  illegally  or
+       extend their stay unlawfully.  As a result of his  poor  immigration
+       history and the legitimate  process  of  seeking  his  removal,  the
+       appellant's personal claim  to  remain  is  extremely  weak  and  is
+       clearly outweighed by the wider public interest engaged  by  Article
+       9.  He will be free to practice his  religion  without  any  obvious
+       constraint when he returns to Afghanistan and he  cannot  claim  the
+       right to practice it  in  the  United  Kingdom  notwithstanding  his
+       breaches of immigration law.
+
+The Communities' interest in the exercise of proportionality
+
+   65. I use the term 'Communities' (in  the  plural)  because  the  appeal
+       engages the interest of two communities: the relevant Afghan  Muslim
+       community on the one hand, whose  interests  have  been  extensively
+       articulated in the wealth of the supporting  material  and,  on  the
+       other, the wider community whose interests the  Secretary  of  State
+       represents but in circumstances where that  interest  is  less  well
+       articulated (in the sense that  it  is  not  expressed  by  personal
+       letters or expressions of opinion).  However, the  public  at  large
+       has an interest in maintaining a system of immigration control  that
+       distinguishes between those entitled to remain and  others  and,  in
+       the case of the latter, provides a means of removal without  thereby
+       infringing protected rights, including the right to right to freedom
+       of thought, conscience and religion.  This appeal therefore raises a
+       proportionality balance to be exercised between  one  community  and
+       another.
+
+
+   66. The general principle that such a body as the AICC is  not  entitled
+       to employ as a teacher and minister of religion a  foreign  national
+       who does not meet the statutory requirements properly identified  as
+       forming part of  the  public  interest  in  maintaining  immigration
+       control was not disputed by the ECtHR in  El  Majjaoui  &  Stichting
+       Touba Moskee v. the Netherlands.  Article 9  does  not  guarantee  a
+       foreign national the right to obtain permission to reside in another
+       country even for the purpose of working as  a  religious  leader  or
+       teacher. The domestic authorities have a margin of  appreciation  in
+       setting the rules that permit (or prevent) entry or leave to  remain
+       for such purposes, see paragraph 31 of El Majjaoui,  cited  in  [21]
+       above.
+
+   67. The Immigration Rules cannot properly be construed as  a  deliberate
+       attempt to stifle  the  free  exercise  of  the  practice  of  their
+       religion by the AICC and  Afghan  Muslim  community  in  the  United
+       Kingdom and London in particular. The Rules  (see  the  appendix  to
+       this determination which sets out the material provisions  in  full)
+       are permissive and allow ministers of religion to enter  and  remain
+       subject to reasonable conditions as to the terms of their employment
+       and the protection of the resident labour market.
+
+   68. I recognise that it is not permissible in the implementation of  the
+       Rules  (notwithstanding  the  fact  that   they   normally   operate
+       consistently with Article 9) to make the free exercise of religion a
+       practical impossibility. Thus in  the  case  of  Cha'are  Shalom  Ve
+       Tsedek v. France if a religious community genuinely needed  meat  to
+       have been ritually slaughtered in a way prevented by  domestic  law,
+       the prescription contained in domestic law would be a  violation  of
+       their Article 9 rights.
+
+   69. I would however regard the general  principle  referred  to  in  the
+       preceding paragraph to be subject to reasonable  limitations.  Thus,
+       the practice which is said to be made impossible must have  obtained
+       a  sufficient  level  of   'cogency,   seriousness,   cohesion   and
+       importance' (to adopt the expression used by  the  ECtHR)  to  merit
+       protection notwithstanding its contravening domestic law.  I suggest
+       this means that alterations to traditional practice brought about by
+       domestic laws (for example, hygiene or health  and  safety)  do  not
+       demand protection but only do so when the prohibition  goes  to  the
+       core of what it means to the individual to be a Muslim, a Hindu or a
+       Christian.
+
+   70. In the context of this appellant the functions that he performs (and
+       which his removal would prevent occurring) must reach a  level  such
+       that the AICC or its membership cannot properly function without him
+       as a worshipping Muslim community.
+
+   71. It must be noted that, in  the  context  of  a  religious  community
+       transplanted into another  country  by  the  process  of  migration,
+       religious  practices  often  or  always   adapt   to   the   changed
+       environment. Thus, for example,  the  practice  of  cremating  human
+       remains  in  ghats  and  committing  the  ashes  to  the  Ganges  is
+       inevitably different in the diaspora and  practice  has  changed  to
+       reflect that difference.
+
+   72. The issue in this appeal, therefore, is whether it is impossible for
+       the Afghan religious community to operate in accordance  with  their
+       religious  beliefs  and  practices  without  the  presence  of   the
+       appellant.  In addressing this issue, the Tribunal must be alive  to
+       the possibility that, in  seeking  to  retain  the  appellant  as  a
+       religious worker, the community may formulate a job description that
+       effectively excludes any applicant  save  the  claimant.  Thus,  for
+       example,  a  job  description  for  an  individual  to  replace  the
+       appellant might prescribe the following requirements:
+
+            The applicant must be a male, aged between 25 and 30,  and  have
+           been in the United Kingdom for at least eight years.  He must be
+           a Hafiz and speak Pashtu and Dari. He must have  had  experience
+           in teaching in  a  Madrasa  and  have  experience  in  community
+           building. He must have a charismatic personality  and  have  the
+           respect of the Afghan Muslim community as a whole.  He  must  be
+           able to deal with Embassy functions.
+
+   73. There is a marked similarity between this description  of  the  work
+       that the appellant has described doing and the advertisement which I
+       have set out in paragraph  [14]  above.  The  AICC  claim  that  the
+       appellant is uniquely able to perform the functions  they  wish  and
+       that attempts to advertise for a replacement have failed to  produce
+       a suitable candidate. Caution should be exercised  when  considering
+       the weight to be attached to the responses to an advertisement.   If
+       the job description is tailored to the specific attributions of  the
+       appellant, it will not be surprising that only the appellant himself
+       will readily qualify.  It should be remembered  that  the  applicant
+       himself would not have qualified for the job if he  had  been  faced
+       with the same criteria as those set out in paragraph  [14]  when  he
+       started working for the AICC in 2007.
+
+
+   74. I have concluded that the AICC has  failed  to  establish  that  the
+       Afghan  Muslim  community  cannot  operate  without  the   continued
+       presence of the appellant.  First, it is  accepted  that  there  are
+       some 56,000 Muslim Afghans in the United Kingdom and  this  provides
+       an adequate source of suitable  alternative  candidates,  albeit  an
+       individual may not presently have the same experience and  qualities
+       as the appellant.
+
+   75.  Second,  the  Immigration  Rules  do  not  prevent  the  AICC  from
+       recruiting a suitable applicant from abroad.
+
+   76. Third, it is not necessary  that  the  various  functions  currently
+       performed by the applicant continue to  be  performed  by  a  single
+       person. If he performs several roles,  it  is  not  a  violation  of
+       Article 9 that those roles are carried out by several  others.  This
+       is so even if it is more costly and less convenient to  use  several
+       individuals.
+
+   77. Fourth,  it  cannot  reasonably  be  said  that  the  Afghan  Muslim
+       community in the UK would cease to continue as a religious community
+       were the appellant to be removed. The community operated without his
+       presence prior to 2007.  The appellant has only been in  the  United
+       Kingdom since then, when he arrived aged 17 or 18, having spent some
+       3� years at a Madrasa. His undoubted popularity and ability must  be
+       the result, in part at least, of his  growing  experience  developed
+       over time. Hence it cannot be a violation of Article 9 if  the  AICC
+       were placed in the position that a less experienced religious worker
+       has to be retained. This merely replicates the position in which the
+       AICC must have found themselves when the applicant joined them.
+
+   78. Finally, it  cannot  reasonably  be  said  that  the  Afghan  Muslim
+       community in the United Kingdom would similarly face the prospect of
+       the  practical  inability  to  practice  their  religion  were   the
+       appellant to die or become so seriously  ill  as  to  be  unable  to
+       continue his work or if the appellant himself decided to leave.   If
+       that is correct as it relates  to  a  cessation  of  his  activities
+       brought about by circumstances beyond the control of the AICC or its
+       members, it must also apply in the case of an enforced removal.
+
+Conclusion
+
+   79. It is inevitable in  an  application  of  this  nature,  as  I  have
+       suggested in paragraph 47 above, that the evidence will be  directed
+       towards reasons why the appellant should not be removed. This is all
+       the more so when the religious  organisation  is  articulate,  well-
+       educated, committed and focused. Their  support  does  them  credit.
+       However, their claim leaves out of the account  the  fact  that  the
+       appellant is an illegal entrant and an overstayer.
+
+   80. I have no doubt that the public interest criteria  which  come  into
+       play have to be assessed having regard to the views of the AICC  and
+       its members. In doing so, I  accept  that  in  accordance  with  the
+       judgment   of   Richard's   LJ   in   UE   (Nigeria)   &    Ors    v
+       Secretary of State for the Home Department the benefit  to  the
+       community of the work  performed  diminishes  the  weight  given  to
+       immigration control. Nevertheless, it would be a curious result  if,
+       as a result of a petition containing 1000 signatures, the system  of
+       United Kingdom law and regulation were to be  suspended.  That  does
+       not mean those who petition  should  not  influence  legislators  or
+       local councillors or decision makers. Their views  should  be  taken
+       into account. That however is a far cry  from  claiming  that  their
+       views should be determinative or, indeed, very influential; all  the
+       more so when the interest they  represent  is  local,  perhaps  even
+       parochial.
+
+   81. For these reasons I  am  satisfied  that  notwithstanding  the  keen
+       interest  shown  by  the  AICC  and  its  membership   (itself   and
+       collectively) in retaining the appellant, the public interest in his
+       removal outweighs it. I accept his positive place in  the  community
+       diminishes the public interest in his removal. I also accept that it
+       is comparatively rare for any  community  (not  simply  a  religious
+       community) to rally round and offer such vocal support to an illegal
+       immigrant and overstayer. However, for the reasons I have given,  it
+       is not easy to attach significant weight  to  a  section  of  public
+       opinion such as to render it a proportionate  response  to  make  an
+       exception to the operation of the Immigration Rules.  Although  this
+       is an Article 9 claim, based on the right  to  freedom  of  thought,
+       conscience and religion, I do not  regard  that  it  operates  in  a
+       markedly different way from  the  proportionality  exercise  in  the
+       related Article 8 case or that, in doing so, it favours the AICC and
+       its members on the issue of Article 9 proportionality.
+
+DECISION
+
+      The Judge made an  error  on  a  point  of  law  and  I  substitute  a
+determination dismissing the appeal on all the grounds advanced.
+
+
+
+
+
+
+
+
+
+                                                               ANDREW JORDAN
+                                                        UPPER TRIBUNAL JUDGE
+                                                               12 April 2016
+
+
+                                  Appendix
+
+
+Appendix A
+
+
+
+Attributes for Tier 2 (Ministers of Religion) Migrants
+
+
+   85. An applicant applying for entry clearance or leave  to  remain  as  a
+   Tier  2  (Ministers  of  Religion)  Migrant  must  score  50  points  for
+   attributes.
+   86. Available points are shown in Table 12 below.
+   87. Notes to accompany Table 12 appear below that table.
+
+
+
+
+
+
+
+Table 12
+
+|Criterion         |Poin|
+|                  |ts  |
+|Certificate of    |50  |
+|Sponsorship       |    |
+
+
+Notes
+
+   88. In order to obtain points for sponsorship, the applicant will need to
+   provide a valid Certificate  of  Sponsorship  reference  number  in  this
+   category.
+   89. A Certificate of Sponsorship reference number will only be considered
+   to be valid for the purposes of this sub-category if:
+        (a) the number supplied  links  to  a  Certificate  of  Sponsorship
+        Checking Service entry that names the applicant as the Migrant  and
+        confirms that the sponsor is sponsoring him as a Tier  2  (Minister
+        of Religion) Migrant, and
+        (b) the Sponsor is an A-rated Sponsor, unless:
+              (1) the application is for leave to remain, and
+              (2) the applicant has, or was last granted, leave as a Tier 2
+              (Minister of  Religion)  Migrant,  a  Minister  of  Religion,
+              Missionary or Member of a Religious Order, and
+              (3) the applicant is applying to work for the  same  employer
+              named on the Certificate of Sponsorship which led to his last
+              grant of leave or, in the case of  an  applicant  whose  last
+              grant of leave was as a Minister of Religion,  Missionary  or
+              Member of a Religious Order, the same employer for  whom  the
+              applicant was working or stated he was intending to work when
+              last granted leave.
+   90. The  sponsor  must  have  assigned  the  Certificate  of  Sponsorship
+   reference number to  the  migrant  no  more  than  3  months  before  the
+   application is made and the reference number must not have been cancelled
+   by the Sponsor or by the United Kingdom Border Agency since then.
+   91. The migrant must not previously have  applied  for  entry  clearance,
+   leave to  enter  or  leave  to  remain  using  the  same  Certificate  of
+   Sponsorship reference number, if that application was either approved  or
+   refused (not  rejected  as  an  invalid  application,  declared  void  or
+   withdrawn).
+   92. In addition, the Certificate of Sponsorship  Checking  Service  entry
+   must:
+        (a) confirm that  the  applicant  is  being  sponsored  to  perform
+        religious duties, which:
+              (i) must be work which is within the Sponsor's  organisation,
+              or directed by the Sponsor's organisation,
+              (ii) may include preaching, pastoral work  and  non  pastoral
+              work,
+              (iii) must not involve mainly non-pastoral  duties,  such  as
+              school  teaching,  media  production,   domestic   work,   or
+              administrative or clerical work, unless the role is a  senior
+              position in the Sponsor's organisation, and
+        (b) provide an outline of the duties in (a),
+        (c) if the Sponsor's organisation is  a  religious  order,  confirm
+        that the applicant is a member of that order,
+        (d) confirm that the applicant will receive pay and  conditions  at
+        least equal to those given to settled workers  in  the  same  role,
+        that the remuneration complies with  or  is  exempt  from  National
+        Minimum Wage regulations, and provide details of the remuneration,
+        (e) confirm that the requirements of  the  resident  labour  market
+        test, as set out in paragraph 92A below, in  respect  of  the  job,
+        have been complied with, unless the applicant is applying for leave
+        to remain and the Sponsor is the same Sponsor as in his last  grant
+        of leave,
+        (f) confirm that the migrant:
+              (i) is qualified to do the job in  respect  of  which  he  is
+              seeking leave as a Tier 2 (Minister of Religion) Migrant,
+              (ii) intends to base himself in the UK, and
+              (iii) will comply with the conditions of his  leave,  if  his
+              application is successful, and
+        (g) confirm that the  Sponsor  will  maintain  or  accommodate  the
+        migrant.
+   92A. To confirm that the Resident Labour Market Test has been  passed  or
+   the role is exempt from the test, and  for  points  to  be  awarded,  the
+   Certificate of Sponsorship Checking Service entry must confirm:
+        1. (a) That the role is supernumerary, such that  it  is  over  and
+           above the Sponsor's normal  staffing  requirements  and  if  the
+           person filling the role was not there, it would not need  to  be
+           filled by anyone else, with a full  explanation  of  why  it  is
+           supernumerary; or
+           (b) That the role involves living  mainly  within  and  being  a
+           member of  a  religious  order,  which  must  be  a  lineage  of
+           communities or of people who live in some  way  set  apart  from
+           society in accordance with their  specific  religious  devotion,
+           for example an order of nuns or monks; or
+           (c) That the Sponsor holds national  records  of  all  available
+           individuals, details of those records and confirmation that  the
+           records show that no suitable settled  worker  is  available  to
+           fill the role; or
+           (d) That a national recruitment search was undertaken, including
+        the      following details:
+              (i) Where the role was advertised, which must be at least one
+              of the following:
+                    (1)  a  national  form  of  media  appropriate  to   the
+                    Sponsor's religion or denomination,
+                    (2) the Sponsor's  own  website,  if  that  is  how  the
+                    Sponsor usually  reaches  out  to  its  community  on  a
+                    national scale, that is  where  it  normally  advertises
+                    vacant  positions,  and   the   pages   containing   the
+                    advertisement  are  free  to  view  without   paying   a
+                    subscription fee or making a donation, or
+                    (3) Jobcentre Plus (or in  Northern  Ireland,  JobCentre
+                    Online) or in  the  employment  section  of  a  national
+                    newspaper, if there is  no  suitable  national  form  of
+                    media  appropriate  to   the   Sponsor's   religion   or
+                    denomination;
+                 (ii) any reference numbers of the advertisements;
+                 (iii) the period the role was advertised for,  which  must
+                 include  at  least  28  days  during  the  6  month  period
+                 immediately  before  the  date  the  Sponsor  assigned  the
+                 Certificate of Sponsorship to the applicant; and
+                 (iv) confirmation that no  suitable  settled  workers  are
+                 available to be recruited for the role;  or  the  applicant
+                 must be applying for leave to remain and the  Sponsor  must
+                 be the same Sponsor as in his last grant of leave.
+
+

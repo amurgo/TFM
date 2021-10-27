@@ -1,0 +1,2598 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Elsakhawy (immigration officers: PACE) [2018] UKUT 00086 (IAC)
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House                          |Decision & Reasons Promulgated|
+|On 13 and 17 November 2017                    |                              |
+|                                              |..............................|
+|                                              |.........                     |
+
+                                   Before
+
+                     THE HON. MR JUSTICE LANE, PRESIDENT
+                        UPPER TRIBUNAL JUDGE JACKSON
+
+                                   Between
+
+                     Mahmoud ahmed abdel-samia elsakhawy
+                       (ANONYMITY DIRECTION not made)
+                                                                   Appellant
+
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+Representation:
+
+For the Appellant:       Ms J E Norman, instructed by Sterling Law
+Associates
+For the Respondent:    Ms S Broadfoot QC, instructed by the Government
+                    Legal Department
+
+
+1. The  respondent's  instructions  and  guidance  to  immigration  officers
+correctly reflect the operation of sections 66 and  67  of  the  Police  and
+Criminal Evidence Act 1984 (PACE) and of  the  Immigration  (PACE  Codes  of
+Practice) Direction 2013, in drawing a  distinction  between  administrative
+enquiries and formal criminal enquiries. The fact that immigration  officers
+have powers of investigation,  administrative  arrest  and  criminal  arrest
+does not require them to follow the PACE codes of  practice  concerning  the
+giving of  a  "criminal"  caution,  when  questioning  a  person  whom  they
+reasonably  suspect  of  entering  into  a  marriage  of   convenience,   in
+circumstances  where  the  investigation   is   merely   into   whether   an
+administrative breach has occurred.
+
+2.  Section 78 of PACE, which gives a criminal  court  power  to  refuse  to
+allow evidence which, if admitted, would have such an adverse effect on  the
+fairness of the proceedings that the  court  ought  not  to  admit  it,  has
+little to say about the task facing a Tribunal, in civil  proceedings  under
+the EEA Regulations.
+
+                            DECISION AND REASONS
+
+
+ 1. This is the decision of  the  Tribunal,  to  which  both  members  have
+    contributed. The appellant appeals against the decision  of  First-tier
+    Tribunal Judge Millar promulgated  on  31  March  2016,  in  which  the
+    appellant's appeal against the decision  to  give  directions  for  his
+    removal under section 10 of the Immigration and Asylum Act 1999 on  the
+    basis of abuse of rights under regulation  21B(2)  of  the  Immigration
+    (European Economic Area) Regulations 2006 (the "EEA Regulations") dated
+    27 February 2015 was dismissed.
+
+ 2. The appellant is a national of Egypt, born on 13 January 1987, who came
+    to the United Kingdom briefly as a visitor in 2011  and  entered  again
+    with entry clearance as a visitor in early  2012.   Save  for  a  brief
+    visit to Egypt, he has remained in the United Kingdom since 2012, being
+    granted an EEA Residence Card as the family member of an  EEA  national
+    (Ewelina Wrzesniewska, whom he married on 28 March 2013) on 15  January
+    2014.
+
+ 3. On 27 February 2015,  the  appellant  was  encountered  by  Immigration
+    Officers at  Denzil Road (who attended the premises to investigate  the
+    marriage of Mr Osaa Said Fetouh  Hefnawy,  an  Egyptian  national  also
+    married to a Polish national), which led to respondent's decision.
+
+ 4. The respondent set removal directions for the appellant  under  section
+    10 of  the  1999  Act  on  the  basis  that  his  marriage  to  Ewelina
+    Wrzesniewska (his "wife") was a sham.
+
+The appeal
+
+ 5. The appellant appealed the respondent's decision on the basis that  the
+    appellant did not enter into a marriage of convenience and it  was  not
+    for him to prove that he did not, the burden  of  proof  being  on  the
+    respondent who has failed to give adequate  reasons  for  the  decision
+    made.  The decision was further appealed on the basis that the decision
+    was in breach of the rights of the appellant and  his  wife  under  the
+    Community  Treaties  and  in  breach  of  Article  8  of  the  European
+    Convention on Human Rights.
+
+ 6. Although not forming part of the written grounds of  appeal,  an  issue
+    raised  by  the  appellant  before  the  First-tier  Tribunal  was  the
+    admissibility of evidence (or at least the weight  to  be  attached  to
+    such evidence) obtained during the questioning of the appellant  on  27
+    February 2015 on the basis  of  whether  or  not  the  questioning  was
+    properly conducted in accordance with the Immigration  (PACE  Codes  of
+    Practice) Direction 2013 ("PACE") (or whether it needed to be so).
+
+ 7. Judge Millar dismissed the appeal in a decision promulgated on 31 March
+    2016 on all grounds.   Judge  Millar  found  that  the  respondent  had
+    reasonable grounds to suspect a  sham  marriage  and  it  was  for  the
+    appellant to rebut those allegations and  he  did  not  do  so  on  the
+    evidence before the First-tier Tribunal.
+
+ 8. Permission to appeal was sought on the  basis  that  Judge  Millar  had
+    failed to deal with the appellant's submissions on PACE; failed to give
+    adequate reasons; failed to apply the correct test for  a  marriage  of
+    convenience and made various errors of fact.  Permission to appeal  was
+    granted by Judge Lambert on 23 August 2016 on all grounds.
+
+ 9. In a decision promulgated on 7 October  2016  (attached  as  the  first
+    Appendix to this decision), Upper Tribunal  Judge  Rimington  found  an
+    error  of  law  in  Judge  Millar's  determination,  further  to  which
+    directions were issued on various dates to the  parties  for  this  re-
+    making of the decision.
+
+Findings and reasons
+
+The Law
+
+ 1. Regulation 21B of the EEA Regulations provides, so far as  relevant  to
+    this appeal:
+
+
+    1) The abuse of a right to reside includes -
+        a) engaging in conduct which appears to be  intended  to  circumvent
+           the requirement to be a qualified person;
+        b) ...
+        c) entering, attempting to enter  or  assisting  another  person  to
+           enter or attempt to enter, a marriage  or  civil  partnership  of
+           convenience;
+        d) fraudulently obtaining or  attempting  to  obtain,  or  assisting
+           another to obtain or attempt to obtain, a right to reside.
+
+ 2. A marriage of convenience is defined in a  Council  Resolution  of  the
+    Council of the European Union  dated  4  December  1997  and  has  been
+    approved repeatedly by the domestic courts.  A marriage of  convenience
+    is:
+
+      "a marriage concluded between a national of a member state or a third-
+      country national legally resident in  a  member  state  and  a  third-
+      country national, with the sole aim  of  circumventing  the  rules  on
+      entry and residence of third-country nationals and obtaining  for  the
+      third-country national a residence permit or authority to reside in  a
+      Member State."
+
+ 3. The legal burden of proof of  a  marriage  of  convenience  is  on  the
+    respondent, however the evidential burden shifts to the appellant  once
+    the  respondent  evidences  reasonable  suspicion  of  a  marriage   of
+    convenience: Papajorgji (EEA spouse - marriage of  convenience)  Greece
+    [2012] UKUT 00038 (IAC) and Rosa v Secretary  of  State  for  the  Home
+    Department [2016] 1 WLR 1206.
+
+
+
+Evidence on behalf of the appellant
+
+Appellant
+
+ 4. In his written statements signed and dated  20  September  2017  and  2
+    October 2017, the appellant set out his background and details  of  how
+    he met his wife and how their relationship  started.   He  stated  that
+    they began living together after their Islamic  marriage  on  28  March
+    2013.
+
+ 5. The appellant's wife went to visit her family in Poland for three weeks
+    in February 2015 as her mother  was  sick.   The  appellant  could  not
+    travel with her as he did not  have  any  annual  leave  remaining  and
+    during that time he stayed with a friend for company.  It was  at  that
+    friend's address that Immigration Officers visited on 27 February 2015.
+     The appellant described his experience of that  visit,  in  particular
+    stating that he was treated in a very rude manner; that he requested an
+    interpreter but was not offered one; that he asked to call  his  lawyer
+    but was not permitted to do so and that he was questioned when  he  had
+    not even properly woken up.  He also disputed a number of points of the
+    record from the interview, in particular that he gave his full  address
+    in New Eltham and it was only the postcode that he could not  remember.
+
+
+
+ 6. The  appellant  went  on  to  describe  what  had  happened  since  the
+    respondent's decision, the impact it has had on his relationship and on
+    his life more generally.  He stated that his relationship with his wife
+    started breaking down in October 2015  but  that  his  wife  was  still
+    prepared to support him in his  appeal  up  until  the  adjournment  in
+    January 2016 when she said she could not handle the pressure any  more.
+    The  appellant's  wife  refuses  to  communicate  with  him  until  his
+    immigration status is resolved, fearing  for  her  own  future  in  the
+    United Kingdom.
+
+ 7. In the second witness statement, the appellant responded in  detail  to
+    the written evidence of IO Hale and Mr  Toleman.   In  particular,  the
+    appellant did not recall being cautioned at any  point  by  Immigration
+    officers; he never claimed to be on holiday  from  Egypt;  he  did  not
+    willingly show IO Hale texts on his  phone  and  that  his  wife's  new
+    number was stored under the contact "Ewelina Lovely#".   The  appellant
+    stated that they called and texted each other as well as using Whatsapp
+    and Viber to stay in touch but records of contact were  lost  when  his
+    phone broke about 2 years ago.  The appellant was not asked to  contact
+    his wife or show any further evidence of contact with her.
+
+ 8. In relation to a suitcase found at Denzil Road during  the  enforcement
+    visit by the respondent's immigration officers,  the  appellant  stated
+    that it had been there for about six months and left  with  his  friend
+    because the appellant had used it to bring back items  from  Egypt  for
+    his friend.  The appellant's documents were in a small bag  within  the
+    suitcase which he kept with him when staying with his friend because he
+    was moving address at the time and wanted to keep them safe.
+
+ 9. In relation to his wife's travel movements, the appellant  stated  that
+    she travelled to and from Poland in October  2014,  February  2015  and
+    attended a wedding in May 2014 in Poland.  She  has  been  continuously
+    living in the United Kingdom.
+
+10. The appellant could not explain why his wife's brother-in-law  referred
+    in his marriage interview to his wife coming to visit  her  sister  and
+    brother-in-law  in  the  United  Kingdom  with  her  baby   and   noted
+    discrepancies within that marriage interview.  Further,  the  appellant
+    did not recognise the Facebook page referred to by the  respondent  nor
+    all of the photographs within it.  He did recognise  the  name  of  his
+    wife's sister and brother listed on the Facebook page but  not  any  of
+    the other friends.  He denied that his wife was single and that she had
+    any children.  The appellant did not know who the man in  many  of  the
+    photos was and he could not confirm when the photographs were taken.
+
+11. The appellant attended the oral hearing, confirmed his details, adopted
+    his written statements and gave oral evidence through a court-appointed
+    Arabic interpreter.  The appellant confirmed that he first came to  the
+    United Kingdom in 2011, staying  for  four  days  before  returning  to
+    Egypt.  He returned to the United Kingdom in February 2012  with  entry
+    clearance as a visitor for six months which expired in July 2012.   The
+    appellant did not return to Egypt before the expiry of his visa on  the
+    basis that he would prefer to stay in the  United  Kingdom  considering
+    the economic and political situation at the time in  Egypt.   From  the
+    first moment he came to the United Kingdom he said that  he  wanted  to
+    spend the rest of his life here and have a family here.  In 2011 he was
+    checking things out in the United Kingdom for this purpose. When he had
+    returned to the United Kingdom in 2012, in possession of a visit  visa,
+    it had been with the intention of remaining here  permanently.  He  had
+    therefore brought with him a sum of money to cover his living  expenses
+    until such time that he could work.  The appellant applied for a  visit
+    visa because entry as a visitor or entry as a  student  were  the  only
+    options available to secure entry to the United Kingdom. The  appellant
+    accepted that he knew his visa was granted on the basis of a visit only
+    and that he lied to secure entry.
+
+12. After about 3 months in the United Kingdom, the appellant asked  around
+    and was advised that the only  lawful  means  of  staying  were  if  he
+    married or studied.  He could not afford to study due to the  cost  and
+    would in any event have had to return to Egypt to make  an  application
+    to do so from there.  He therefore decided that he  had  to  marry  and
+    find a lady to spend his life with in the United Kingdom.
+
+13. The appellant was asked about his Islamic marriage certificate dated  5
+    April 2013, as there was no translation of it available in the  hearing
+    bundle.  The appellant clarified that he was married in the Islamic way
+    in a mosque and after that on a different date  went  to  the  Egyptian
+    Consulate to certify the marriage, on 5 April 2013.   That  certificate
+    contains three references to  George's  Drive  in  Pimlico,  which  the
+    appellant  said  was  the  address  that  he  and  his  wife  used  for
+    correspondence. It was his  sister-in-law's  address  and  was  a  more
+    secure one to use.  The appellant and his wife  were  not  sure  of  an
+    address where they would settle as husband and wife and so used this as
+    an alternative.  The three  questions  on  the  certificate,  to  which
+    "George's Drive" was answered, were for the  appellant's  address,  the
+    appellant's correspondence address and the address where the  appellant
+    and his wife were going to live.  When asked why this address was given
+    for all answers when it  was  to  be  used  only  as  a  correspondence
+    address, the appellant  stated  that  the  same  was  used  to  prevent
+    anything being mixed up.
+
+14. The witnesses at the appellant's marriage were  a  friend  of  his  and
+    Hussain Ahmed Sayed Ali, his wife's brother-in-law, whom the  appellant
+    met for the first time at the wedding.
+
+15. The appellant stated that he had never lived at  Denzil  Road,  but  he
+    had a friend who lived at this address and used it when he  first  came
+    to the United Kingdom, to open a bank account and  for  correspondence.
+    He could not remember what documents he had used to prove he was living
+    there, so as to be able to open a bank account showing that address. He
+    thought he might have had "a letter or something".
+
+16. The appellant was asked about his work history and also  about  meeting
+    his wife.  They met at a birthday party and  friends  mediated  between
+    them so that they could communicate as  the  appellant  did  not  speak
+    Polish and his wife did not speak any Arabic.  A friend introduced  the
+    appellant's  wife  and  explained  his  feelings  for  her;  then   the
+    relationship started.  After the birthday party they saw each  other  a
+    week to 10 days later and then every three or four days on  an  ongoing
+    basis.  The appellant's wife knew that he was  in  the  United  Kingdom
+    without lawful leave to remain and knew that he needed to find  someone
+    to marry to obtain a visa.
+
+17. The appellant proposed to his wife around the middle of February  2013.
+    He did so in English but did not need to say very much because his wife
+    had been prepared in advance by a friend about what  he  was  going  to
+    say.  When the couple met, the appellant stated that they  didn't  need
+    to talk much and instead used body language to express their feelings.
+
+18. After the wedding, the appellant and  his  wife  moved  to  Stonebridge
+    Park.  The appellant used the address on Denzil Road in  November  2014
+    to apply for a driver's licence as his friend offered him advice to use
+    this address on his application as it was an important document and  he
+    had had problems receiving mail at his own address.  He  accepted  that
+    he received bank statements at his home address but said  that  it  was
+    easier to get replacement bank statements if needed than it would be to
+    get a replacement driving licence, if not received.
+
+19. At the end of 2014 or the beginning of 2015,  the  appellant  moved  to
+    Inca Drive.  He stated that, when interviewed by  immigration  officers
+    in February 2015, he did know that address, but not its postcode.
+
+20. The appellant had converted one of his bank accounts into a joint  bank
+    account after his marriage, but could not remember  exactly  when  this
+    happened.  It was a joint account that he said both of them paid  into.
+    He could not explain who paid in different sums to the account, nor who
+    could he initially explain payments out of significant  sums  of  money
+    (�3500 and �7500). He then said they were made to his brother  who  was
+    in financial trouble in Egypt.  He borrowed  the  money  from  a  large
+    group of friends.  The appellant had other accounts in his  name,  some
+    of which were inactive. He denied having multiple accounts  to  prevent
+    someone tracing his finances.
+
+21. In relation to his wedding, the appellant stated that he did  not  know
+    that an Islamic marriage  was  not  a  legal  marriage  in  the  United
+    Kingdom.  The appellant stated  that  there  were  photographs  of  his
+    wedding which were submitted to the respondent with his application for
+    an  EEA  Residence  Card,  and  which  were  returned  to  him  by  the
+    respondent.  No explanation was given as to why none were available  in
+    the course of this appeal.
+
+22. The appellant was asked about the Facebook evidence  submitted  by  the
+    respondent and evidence regarding his wife's travel  to  and  from  the
+    United Kingdom.  He did not necessarily agree  with  information  about
+    the first  flight  his  wife  took.   He  accepted  that  there  was  a
+    photograph of his wife taken outside the Egyptian Consulate on the  day
+    that their marriage was registered there.  He called this their wedding
+    as well on the basis that at the Egyptian embassy you had to repeat the
+    marriage ceremony.  The appellant was able to positively  identify  his
+    wife in a number of the Facebook photographs but did not recognise  all
+    of the other people in them and could not be certain that some of  them
+    were his wife.  He did not accept that these photos were  accurate  and
+    said that anyone could  use  Photoshop  and  put  them  on  a  Facebook
+    account.  He did not accept any information about his  wife  suggesting
+    that she had three children.
+
+23. Overall, the appellant stated that he did not  recognise  the  Facebook
+    account as belonging to his wife and stated that someone had fabricated
+    all of it.
+
+24. The appellant's wife moved out in March 2016, after his appeal  hearing
+    was adjourned for the second time.  He could not explain why the  draft
+    statement said to be from her prepared for his appeal hearing  had  not
+    been signed.  He stated that she was  willing  to  assist  him  in  his
+    appeal but that there had been too many adjournments.
+
+25. The appellant stated that he did know anything about the statement made
+    by Mahmoud Shamakh. The appellant did not know much about him  and  had
+    not been in touch with him since the date of the letter in the  bundle.
+    He stated that people now hesitated to  help  him  because  he  was  in
+    trouble with the Home Office.
+
+26. The appellant was then asked about the interview with  him  during  the
+    enforcement visit to Denzil Road.  He stated he  was  living  with  his
+    wife at that time.  When asked about phone contact with his  wife,  the
+    appellant stated that he  was  asleep  when  the  immigration  officers
+    arrived, was totally confused and he couldn't understand other than  to
+    say that his solicitor should be contacted if there were any  concerns.
+    The Immigration Officer asking him questions was screaming at him,  was
+    very aggressive and the appellant could not understand what  he  wanted
+    in terms of contact with his wife in Poland.   The  appellant  was  not
+    given a chance to explain that the contact telephone number  looked  at
+    by the Immigration Officer on the appellant's mobile telephone was  his
+    wife's old number.  The phone subsequently broke and the appellant  had
+    lost it.  The appellant did not agree the contents of  the  Immigration
+    Officer's record of the visit.
+
+27. In February 2015, the appellant's wife travelled Poland by car to visit
+    her sick mother. She travelled with friends who happened  to  be  going
+    back at the same time.
+
+28. The last time the appellant had any  contact  with  his  wife  was  via
+    Facebook Messenger when he told her that he had  good  news  but  never
+    received any reply.  The appellant thought  that  his  wife's  concerns
+    about starting a family were always in  her  mind  and  in  particular,
+    consideration of what would happen if the couple had children  and  the
+    appellant had to return to Egypt.  The appellant's wife wanted security
+    in the United Kingdom. They had a good relationship.  It was not a sham
+    marriage and their relationship only went wrong after  the  enforcement
+    visit.
+
+29. We  asked  the  appellant  further  questions  about  the  evidence  he
+    submitted that he said was his wife's true Facebook account,  which  he
+    had used to communicate with her.  That single Facebook page was on its
+    face said to have been created on 13 October  2016  but  the  appellant
+    stated that this was the account that he used to communicate  with  her
+    prior to that date.
+
+Osama Hefnawy
+
+30. In his written statement signed  and  dated  12  November  2017,  Osama
+    Hefnawy set out his background and experience of the immigration  visit
+    at his property on 27 February 2015.  Mr Hefnawy  opened  the  door  to
+    Immigration Officers who said they were from the Home  Office  but  did
+    not show him any form of warrant or ID and did not make him aware  that
+    he had the choice as to whether to let them in or that  he  could  seek
+    legal advice.  He stated that IO Hale was very aggressive  and  hostile
+    when questioning the appellant, raising his voice and shouting at  him,
+    behaving in a way that was aggressive and threatening.   He  heard  him
+    tell the appellant that he would be sent  back  to  his  country.   The
+    Immigration Officer interviewing Mr Hefnawy was rude, did not offer him
+    an interpreter, suggested that  he  was  lying  and  told  him  on  two
+    occasions that his answers were "bullshit".  Mr Hefnawy was  not  shown
+    what was recorded in the Immigration Officer's notebook and he was  not
+    asked to sign anything during the visit.
+
+31. Mr Hefnawy attended the oral hearing, confirmed  his  details,  adopted
+    his written statement and gave oral evidence through a court  appointed
+    Arabic interpreter.  In cross-examination  he  confirmed  that  he  had
+    known the appellant in Egypt and they were good  friends.   Mr  Hefnawy
+    came to the United Kingdom on 14 October 2011.  He stated that  he  had
+    seen the appellant's wife's brother-in-law on one or two occasions  but
+    they didn't know him as such.
+
+32. Following the visit, Mr Hefnawy's application for an EEA Residence Card
+    was refused on the basis  that  he  had  entered  into  a  marriage  of
+    convenience.  His appeal against that refusal was allowed by the First-
+    tier Tribunal in a determination promulgated on  30  October  2015.   A
+    copy of that determination was exhibited to the written statement.
+
+33. In relation to the immigration  visit  to  his  property.   Mr  Hefnawy
+    stated that he could not remember if he had been showed an ID badge  by
+    IO Hale; he was not sure if they did  or  not.   He  did  not  remember
+    signing any of the officers' notebooks when they came in.
+
+34. Mr Hefnawy described his bedroom at his premises which had  one  double
+    bed and one single bed in it.  The double was for himself and his  wife
+    and in the single bed was the appellant.
+
+35. Mr Hefnawy stated that he could recognise IO Hale  but  had  only  been
+    told what his name was the day before the hearing when he attended  the
+    solicitor's offices and they showed him a picture.  He stated  that  he
+    was asked to give a witness statement because of what happened  at  his
+    flat and he had not previously been asked to do so.  Mr Hefnawy  stated
+    that despite being interviewed by a different IO, he could hear what IO
+    Hale was saying to the appellant because IO Hale  was  speaking  loudly
+    and was being aggressive and threatening  towards  him.   He  expressly
+    stated that he recalled when the officer  was  leaving,  the  appellant
+    asked if his solicitor should contact the IO and was told  in  response
+    that he could do that when they were sending him back to  his  country.
+    He stated that he heard IO Hale laugh at  the  appellant  when  he  was
+    leaving.  He denied exaggerating the behaviour of officers to help  his
+    friend.
+
+36. We asked Mr  Hefnawy  some  further  questions.   He  stated  that  the
+    appellant had been staying with him for 7 to 10 days at the time of the
+    immigration visit but not permanently.  He stated  that  the  appellant
+    had used Mr Hefnawy's address for his driving licence on the basis that
+    the appellant did not at that time have a fixed address and that it was
+    Mr Hefnawy's idea for him to do that.  He stated that his  address  was
+    not used by  the  appellant  for  anything  else.   In  further  cross-
+    examination, Mr Hefnawy stated that the appellant only used address for
+    the driving licence and when asked about its use for the appellant open
+    a bank account  in  May  2012,  he  stated  friends  who  were  without
+    permanent addresses could use his address and there had never been  any
+    problems with his mail.  He stated that he moved to the address in  May
+    2011 and there were a number of Egyptians living there,  some  of  whom
+    came and went.  He said he did not know the appellant's wife's brother-
+    in-law who was living at the same address when he moved in until  April
+    2012.
+
+Mr Ryzhko & Mrs Sokolowska-Ryzhko
+
+37. In their written statements signed and dated  4  and  11  October  2017
+    respectively,  Mr  Ryzhko  and  Mrs  Sokolowska-Ryzhko  set  out  their
+    details.  Mr Ryzhko is a Ukrainian national and his wife  is  a  Polish
+    national.  When Mr Ryzhko applied for an EEA Residence Card, they  were
+    visited by three male Immigration Officers at their home in  the  early
+    morning of 17 March 2016.   Neither  could  remember  being  shown  any
+    warrant or the officers introducing themselves and were not aware  they
+    could have refused the officers entry.
+
+38. Mr Ryzhko says that IO Hale was unpleasant and intimidated him, telling
+    him that he would not get any residence documents, that  he  was  lying
+    and should wait for the refusal.  He was  rude  throughout  the  visit,
+    speaking in a nasty tone of voice and acting in  an  aggressive  manner
+    throughout the visit.  At the end of the visit IO Hale  sneered  at  Mr
+    Ryzhko.  Mr Ryzhko and his wife were left scared and  intimidated  from
+    the visit.
+
+39. Mrs Sokolowska-Ryzhko stated that  she  heard  IO  Hale  say  that  her
+    husband "must be gay" which she considered  to  be  inappropriate.   IO
+    Hale was described as being very rude, talking in a nasty tone of voice
+    and with  an  aggressive  manner  throughout  the  visit,  leaving  Mrs
+    Sokolowska-Ryzhko and her husband feeling scared and intimidated.
+
+40. The couple were not asked whether they wanted to speak to a lawyer  and
+    were not informed that they could refuse to answer questions during the
+    visit.  No interpreter was offered and at times  Mrs  Sokolowska-Ryzhko
+    had to act as an interpreter for her husband.
+
+41. The application for an EEA Residence Card was refused on the basis that
+    the couple  had  entered  into  a  marriage  of  convenience  but  they
+    successfully appealed this decision on 6 September 2017.
+
+42. Mrs Sokolowska-Ryzhko attended the oral hearing, confirmed her  details
+    and adopted her statement and gave oral evidence in English.  In cross-
+    examination, she stated that she knew that it was IO Hale who was  rude
+    and made derogatory comments as she had identified him from  a  picture
+    sent to  her  by  her  solicitors  (who  also  acted  for  the  present
+    appellant).  Mrs Sokolowska-Ryzhko confirmed that around  the  time  of
+    the visit she made a complaint against IO Muir but did  not  know  this
+    had been investigated following her statement.  She stated that she had
+    not mistaken IO Hale for IO Muir.
+
+43. At the visit, IO Hendry asked most of the questions and wrote  them  in
+    his notebook, with some additional questions from IO  Hale  which  were
+    not recorded in the Q&A record of the interview.
+
+44. Mr Ryzhko attended the oral hearing, confirmed his details and  adopted
+    his written statement.  He gave oral evidence with the assistance of  a
+    Ukrainian interpreter.  In cross-examination, he confirmed that he  did
+    not know the appellant and had only seen him for the first time at  the
+    oral hearing.  When asked why he  was  giving  evidence  in  court,  Mr
+    Ryzhko stated that this was to see justice  prevail  as  he  understood
+    that the gentleman from the Home Office didn't do his job properly.
+
+45. Mr Ryzhko identified IO Hale from being sent a single photograph by his
+    solicitors, after his appeal hearing in September  2017.   He  did  not
+    mistake IO Hale for IO Muir.
+
+46. Mr Ryzhko did not remember making  a  complaint  personally  after  the
+    visit but thought that maybe his solicitors did  this.   He  could  not
+    remember if there was any response to this complaint.  A complaint  was
+    made in October 2017 but Mr Ryzhko did not know if this  had  yet  been
+    responded to.
+
+47. During the enforcement visit, IO Hale was  said  to  have  acted  in  a
+    superior manner and his behaviour  made  it  look  as  if  he  was  the
+    decision-maker.  He was rude and it was not just what he said  but  the
+    way he said it.
+
+48. Mr Ryzhko  stated  that  he  understood  English  and  was  capable  of
+    responding to some questions in English but not all of them  during  an
+    interview.  His wife helped him other than  on  simple  questions.   He
+    stated that when previously arrested on 11 June 2014 he did not  refuse
+    an interpreter. He was not offered one.  In  re-examination  he  stated
+    that after his arrest in 2014, when given details of his  removal  from
+    the United Kingdom them, he did have access to an interpreter.
+
+The respondent's evidence
+
+Jamie Toleman
+
+49. In his written statement signed and dated 29 December  2016,  Mr  Jamie
+    Toleman set out his professional background working for the respondent,
+    his qualifications and his investigations about the  appellant's  wife.
+    He  accessed  the  appellant's  wife's  Facebook   account   and   took
+    screenshots of what he found, which included information about her; the
+    places that she has  lived;  contacts  including  family,  friends  and
+    relationships; life events and multiple photographs.
+
+50. Separately Mr Toleman conducted online  searches  for  the  appellant's
+    wife's employer, named on her alleged payslips as  "Samiramies  Salon".
+    This had no internet presence and the  only  company  of  such  a  name
+    registered with Companies House was dissolved on 20 October 2015.
+
+51. Mr Toleman  attended  the  oral  hearing,  confirmed  his  professional
+    details, adopted his written statement  and  gave  oral  evidence.   In
+    cross-examination he stated that he is a criminal  investigator  and  a
+    digital  media  investigator  using  open  source  material  with   the
+    appropriate level 3 qualification to do so.  Open  source  material  is
+    limited to what is publicly available online. What can  be  seen  would
+    depend  on  a  person's  privacy  settings.   Mr  Toleman  used  Google
+    Translate as a guide to assist him in his work and in this case it  was
+    used because he does not speak Polish.  He stated that he was unable to
+    confirm whether the photographs on Facebook were  contemporaneous  with
+    the dates on which  they  were  posted,  as  Facebook  strips  out  the
+    "metadata" from the photograph.
+
+IO Richard Hale
+
+52. In his written statements signed and  dated  10  January  2017  and  30
+    November 2017, IO Richard Hale  set  out  his  professional  background
+    working for the respondent, his response  to  the  appellant's  written
+    statement dated 2 October 2017  and  recollection  of  the  enforcement
+    visits to both the appellant/Mr Hefnawy and to Mr and Mrs Ryzhko.
+
+53. As to the visit on 27th February 2015, IO Hale stated that he  attended
+    Denzil Road with IO Whittaker.  IO Hale showed Mr Hefnawy  his  warrant
+    card and asked him to come in to speak to him.  Mr Hefnawy consented to
+    them entering and signed IO Whittaker's notebook to confirm  this.   IO
+    Hale made notes in his official notebook throughout the visit.
+
+54. IO Hale woke up the appellant and asked to see his passport, which  the
+    appellant stated was at another address, but his  driving  licence  was
+    provided.  IO Hale heard Mr Hefnawy stating that the appellant  was  on
+    holiday from Egypt but the appellant's driving licence  was  issued  to
+    the address of the visit and the appellant claimed to be married  to  a
+    Polish lady.  IO  Hale  then  suspected  that  the  appellant  was  not
+    lawfully in the United Kingdom.  He cautioned the  appellant,  recorded
+    as "C+2" in his notebook and asked him further questions.
+
+55. The appellant was asked for his address, but he could not give it  save
+    for the fact that it was in New Eltham.  When asked  to  show  IO  Hale
+    contact with his wife, the appellant  unlocked  his  mobile  phone  and
+    handed it to IO Hale, displaying on its screen a number on the  phone's
+    contact list, which read "Ewelina Lovely". The appellant  consented  to
+    IO Hale looking at the text.  IO Hale considered the text to  be  about
+    the appellant's wife rather than to or from her.  There were  no  texts
+    of a personal nature and nothing to indicate any direct contact between
+    the appellant and his wife.  The last call made  to  or  received  from
+    this contact was on 6 September 2014.  IO Hale called  the  number  and
+    spoke to a man who turned out to be the appellant's wife's  brother-in-
+    law who had not had contact with her for over six months.
+
+56. Overall, IO Hale was satisfied that there was sufficient evidence  that
+    the appellant's marriage was a sham and that the couple  did  not  live
+    together in a  subsisting  relationship.   The  case  was  referred  to
+    Immigration Inspector Smith who authorised service  of  papers  on  the
+    appellant, including the respondent's decision under challenge in  this
+    appeal.
+
+57. IO Hale did not offer the appellant an interpreter during the visit  as
+    it appeared him that his English was sufficient, that he understood the
+    questions and was able to respond in English.  IO Hale denied the other
+    allegations against him, stating in particular that he did not shout at
+    the appellant; was not rude and did not laugh at him; did  not  ask  to
+    see his notes; did not ask for an interpreter and did not say he wanted
+    to call his lawyer save for where this was recorded at the end  of  the
+    notes.
+
+58. Checks were conducted by the respondent on the movement history of  the
+    appellant's wife, showing that she had only visited the United  Kingdom
+    for a total of six days  in  the  last  five  years,  spread  over  two
+    different trips, both of which originated in Poland.  IO Hale said  not
+    all passenger movements were recorded prior to 2014, so it may be  that
+    flights in 2013 would not show up.  The passenger movement check system
+    was expanded to cover all travellers by air, sea and rail  on  8  April
+    2015 but there were no records of the appellant's  wife  travelling  to
+    Poland by car, i.e. using channel or ferry.
+
+59. On 2 August 2013, a marriage interview  was  conducted  with  both  the
+    appellant's wife's sister  and  her  brother-in-law,  which  named  the
+    appellant's wife and referred to her visiting the United Kingdom for  a
+    week in April 2013 with her baby.
+
+60. IO Hale also searched for the appellant's wife on Google  and  found  a
+    Facebook page which appeared to belong to her. He confirmed  that  this
+    is the same page referred to in and exhibited to the  statement  of  Mr
+    Toleman.
+
+61. In response to the appellant's written statement, IO Hale  stated  that
+    the appellant did not make any attempt to show  any  other  listing  or
+    conversation with his wife on his  mobile  phone  as  claimed  and  was
+    satisfied that he saw no second listing for "Ewelina Lovely#".
+
+62. IO Hale exhibited Experian credit records  to  his  written  statement,
+    showing that the address given on the appellant's marriage  certificate
+    from the Egyptian Consulate was that of the appellant's wife's brother-
+    in-law, who was linked  to  that  address  between  December  2012  and
+    September 2013.  That person was also linked to the address  at  Denzil
+    Road between February/March 2010 and April 2010  or  April  2012.   The
+    appellant was also showing to be linked to the address at  Denzil  Road
+    on 25 May 2012 when he  opened  a  Barclays  bank  account  using  that
+    address.
+
+63. In relation to the enforcement visit to Mr & Mrs Ryzhko, IO Hale stated
+    that he did not recognise the claims relating to him and believes  that
+    he may have been mistaken for IO Muir.  He was aware that there  was  a
+    complaint against IO Muir at the time which was fully instigated by HMI
+    Stratton.  He did not remember any trouble communicating with Mr Ryzhko
+    during the visit that he had previously in 2014 refuse the  use  of  an
+    interpreter.
+
+64. IO Hale attended the oral hearing, confirmed his professional  details,
+    adopted his written statement and gave oral evidence.  He  stated  that
+    he had worked in the West London Arresting  Team  since  2001  and  had
+    never been specifically crime trained, nor  had  he  had  any  specific
+    training on PACE, other than a short lecture when he first started.  He
+    had not had any specific training on or after  the  2013  direction  on
+    PACE.  IO Hale specialises in marriages of  convenience  and  confirmed
+    that although it is not a criminal offence to enter into a marriage  of
+    convenience it would potentially be one to seek an EEA  Residence  Card
+    on that basis.  Overstaying is also a criminal offence, as is breach of
+    conditions and he did not know about any potential offences  under  the
+    Perjury Act.
+
+65. IO Hale's work does not involve any criminal prosecution  and  although
+    he has a power of arrest it is not normally used in connection with the
+    kind  of  work  he  undertakes.   His  role  is  to  examine   marriage
+    applications by individuals and he did not  go  on  enforcement  visits
+    with the objective of finding offenders or arresting them.   He  speaks
+    to them and if relevant information arises, he transfers the case to  a
+    Chief Immigration Officer or investigator to consider further.   As  to
+    the visits undertaken, these are targeted  at  those  as  regards  whom
+    there is intelligence to suggest  that  there  may  be  a  marriage  of
+    convenience. It was not possible to make such visits  in  the  case  of
+    every EEA marriage application.  It may be, for example, that those who
+    were already immigration offenders when they got married were  targeted
+    for investigation.   IO  Hale  described  his  visits  as  including  a
+    "pastoral" element and explained that  this  was  a  phrase  coined  by
+    management to show that he was not  there  in  order  to  identify  and
+    arrest offenders but as part of a wider  investigation.   The  pastoral
+    element was to speak to people about their application and life in  the
+    United Kingdom.  This did include the  provision  of  some  advice  and
+    support on genuine marriage  applications  and  other  colleagues,  for
+    example the family team, may  give  advice  about  leaving  the  United
+    Kingdom.
+
+66. IO Hale explained what a caution was and repeated  the  exact  phrasing
+    used.  He stated that it  means  a  person  does  not  have  to  answer
+    questions but if they do not, then  inferences  may  be  drawn  against
+    them.  It was important because it is part of English criminal law that
+    the suspect has a right to silence.
+
+67. In relation to the visit to Mr Hefnawy's address, Mr Hefnawy  had  been
+    identified by someone else as  a  suspected  party  to  a  marriage  of
+    convenience and IO Hale was part of the team tasked  to  undertake  the
+    visit.  He knocked at the door, showed his warrant card, explained  the
+    purpose of his visit and Mr Hefnawy  signed  IO  Whittaker's  notebook.
+    There was an explanation that Mr Hefnawy was not required  to  let  the
+    immigration officers into the premises.
+
+68. Inside the premises, IO Hale woke the appellant up and  asked  him  for
+    his ID, further to which the  appellant  handed  IO  Hale  his  driving
+    licence.  IO Hale identified a number  of  reasons  why  the  appellant
+    might not be lawfully in the United Kingdom (that he had  no  passport;
+    that Mr Hefnawy had said that the  appellant  was  on  holiday  in  the
+    United Kingdom; and that he had a driving licence which was  issued  to
+    the address some four months before  the  visit).  At  that  point  the
+    appellant was cautioned.
+
+69. As to the appellant's contacts for his wife, IO  Hale  stated  that  he
+    looked beyond the first contact  listed  for  her  on  the  appellant's
+    mobile phone and was sure he had made a wider search, despite the  fact
+    that this was not in his record made at the time.  He was asked how  he
+    remembered this from February 2015 and he stated that he remembered the
+    text that he had seen did not show any direct contact with her and  had
+    desperately looked through the phone to find anything else.  It was not
+    recorded in his pocket book as it did not seem important at  the  time.
+    IO Hale checked the appellant's call history and other information.
+
+70. The appellant was not offered an interpreter as IO  Hale  thought  that
+    his English was fine when he spoke to him and there was  no  need.   He
+    had no doubts about that even when there was a  misunderstanding  about
+    the  word  'cleaner'.   When  the  appellant  said  to  him  he  didn't
+    understand, IO Hale thought that this wasn't a  lack  of  understanding
+    due to language reasons but a lack of understanding on the substance as
+    to why his wife's relatives had given the  information  that  they  did
+    about contact on his phone.   The  appellant  was  not  prevented  from
+    speaking to a lawyer and IO Hale told him at  the  end  that  he  could
+    contact one.  IO Hale stated that the appellant did not repeatedly  ask
+    for a lawyer nor did he repeatedly say that he  could  not  understand.
+    He also stated that the appellant did not give him  his  full  address.
+    When asked specifically about the following points, IO Hale stated that
+    he did not rely on the appellant not knowing his  rights;  he  did  not
+    rely on him not understanding any questions; he did  not  rely  on  the
+    lack of interpreter; he was not rude; he did not laugh or swear at  the
+    appellant.
+
+71. IO Hale was asked about his visit to Mr and Mrs Ryzhko  and  he  cross-
+    referred to written statements from IO Hendry and IO Hendry's  notebook
+    about what  happened  on  that  occasion.   He  denied  being  rude  or
+    intimidating and denied making any comment about the  sexuality  of  Mr
+    Ryzhko, on which  there  were  notes  and  a  statement  from  IO  Muir
+    referring to evidence suggesting that he may be gay.   IO  Hale  denied
+    making any derogatory comments; telling Mr Ryzhko that his  application
+    was going to be refused; denied telling him he  would  need  a  lawyer;
+    denied laughing at  him  and  denied  having  any  concerns  about  his
+    language  ability.   He  did  not  recall  Mrs  Ryzhko  providing   any
+    interpretation for her husband.  IO Hale was unable  to  offer  a  view
+    from the notes available to him as to whether IO Farnham followed  PACE
+    in this interview.
+
+72. IO Hale was not able to provide any details of the  proportion  of  his
+    visits which resulted in further action about marriages of  convenience
+    as he did not keep any  statistics.   His  job  was  to  write  up  the
+    evidence and someone else would then decide if  it  was  sufficient  to
+    find image of convenience or not.
+
+73. In re-examination, IO Hale confirmed that he had powers under paragraph
+    17(1)  of  Schedule  2  to  the  Immigration  Act  1971  to  arrest  an
+    immigration offender, which was  not  a  criminal  but  an  immigration
+    power.  He does not directly exercise any powers covered  by  PACE  and
+    does not directly gather evidence for any  criminal  prosecution.   Any
+    intelligence received would be passed on to criminal  teams  who  would
+    then visit and as needed arrest the  person  themselves.   He  believes
+    that an individual would be re-interviewed on such occasions.  In terms
+    of the pocketbooks used, IO Hale stated that he  was  not  supposed  to
+    write down every word which was spoken.
+
+74. At the time  of  the  visit  to  the  appellant,  IO's  Hale  team  was
+    instructed to administer  a  "caution  +2"  on  marriage  visits  if  a
+    person's status was uncertain, so they could be questioned about  that,
+    and then, if warranted, to serve them  papers  such  as  an  IS151A  or
+    IS151B  (now  RED001).   IO  Hale  only  dealt  administratively   with
+    immigration offenders.  From around August 2016, the PACE  caution  was
+    no longer used by any officer who is not trained in  the  investigation
+    of criminal offences.  There is  no  option  for  such  an  immigration
+    officer to arrest under section 28A of the  1971  Act  (arrest  without
+    warrant), on suspicion that an immigration criminal  offence  has  been
+    committed. They can only use the powers of paragraph 17(1) of  Schedule
+    2.  The PACE caution was not therefore used in this situation.  It  had
+    been replaced by an administrative  caution.   Members  of  a  criminal
+    investigation team would use the powers under section 28A.
+
+Closing submissions on the evidence
+
+75. On behalf of the respondent  in  closing,  Ms  Broadfoot  set  out  the
+    relevant legal framework which was not in dispute between the  parties.
+    She submitted that on the evidence, the respondent had  discharged  the
+    burden of proof showing that the appellant had entered into a  marriage
+    of convenience with the predominant purpose of achieving an immigration
+    advantage for the following reasons:
+
+      i) The appellant was candid in stating his intentions on coming to the
+         United Kingdom on a false  basis  in  2012  and  needing  to  marry
+         someone to regularise his stay to remain here.
+
+     ii) The appellant's evidence as to how he met his wife was very limited
+         and contained no real detail.  It was clear that the  couple  could
+         not communicate with each other and had to rely on friends to do so
+         for them; and yet within a few months they were married.
+
+    iii) The appellant married in a mosque on 28 March 2013 but  there  were
+         no wedding photos.  The mosque was nowhere near where the appellant
+         was living  and  there  are  distinct  oddities  in  the  documents
+         relating to the  registration  of  his  marriage  at  the  Egyptian
+         Embassy on 5 April 2013.  This included repeated use of an  address
+         at which the appellant had never lived.
+
+     iv) The appellant's evidence was lacking in detail about the period  of
+         his marriage between March 2013 and March 2016, when his  wife  was
+         said to have moved out.  There are very few photos of  the  couple,
+         those which were available are undated and of low quality  with  no
+         explanation for the circumstances of the photographs.  It would  be
+         reasonable to expect much more would be  provided  for  a  marriage
+         which had subsisted for three years.
+
+      v) There was no evidence at all from  the  appellant's  wife  herself.
+         The unsigned witness statement from her is almost identical to  the
+         first unsigned statement of the appellant and appeared to have been
+         made up as a hopeful first draft rather than based  on  any  direct
+         instructions for her.
+
+     vi) The appellant's evidence as to  addresses  used  by  him  was  both
+         suspicious and unsatisfactory.  He used an address on his  marriage
+         certificate and a different one on his driver's licence but claimed
+         that he never lived at either property.  The explanations given for
+         the use of these addresses were unsatisfactory,  particularly  when
+         post was clearly being received at the address which he said he did
+         live at that time.  There  was  a  question  mark  as  to  how  the
+         appellant was able to obtain a driver's license,  a  document  used
+         for identification and proof of address purposes, at an address  at
+         which he had never lived and for which he could  provide  no  other
+         documentary link.
+
+    (vii) There was also limited evidence connecting the  appellant's  wife
+         to the address in Stonebridge Park consisting only of a TV  licence
+         and a few letters from HSBC.
+
+    (viii) There was some evidence linking  the  appellant's  wife  to  the
+         address at Inca Drive, including joint  bank  statements  but  this
+         account was previously in the appellant's sole name  to  which  she
+         was added.  No evidence  has  been  submitted  on  the  process  of
+         converting this to a joint  account  and  it  was  clear  that  the
+         appellant had been able to  open  numerous  bank  accounts  without
+         identity documents.  In any event, it was impossible to  tell  from
+         the bank statements whether the appellant's wife undertook  any  of
+         the activity contained therein.
+
+    (ix)  There were  payslips  between  May  and  December  2015  for  the
+         appellant's wife linked to the address at Inca Drive,  but  it  was
+         submitted that such documents were easy to produce to maintain  the
+         fiction of a genuine marriage.  It was noted that the pay on  these
+         payslips fell just below the threshold for payment of tax  and  any
+         other deductions were very small.  The last few payslips post-dated
+         the dissolution of the company that they were said to emanate from.
+          In the circumstances it was submitted that  no  weight  should  be
+         attached to this evidence.
+
+    (x)   There was evidence from the  respondent  as  to  the  appellant's
+         wife's travel in and out of the United Kingdom  which  showed  that
+         there were only two records of such travel by air,  both  of  which
+         originated and finished in Poland, albeit air travel was not  fully
+         recorded prior to 2014.  Similarly, although there were no  records
+         of travel by car prior to 8 April 2015, there were  no  records  of
+         such travel  since  that  date  for  the  appellant's  wife.   This
+         evidence does not fit with the appellant's explanation of  how  his
+         wife travelled  to  and  from  Poland.   The  suggestion  that  the
+         appellant's wife was able to travel with  friends  by  car  at  the
+         particular moment when she needed  to  return  to  visit  her  sick
+         mother was implausible.
+
+    (xi)  As to the Facebook evidence generally, it was submitted  that  on
+         the  balance  of  probabilities,  the  details  produced   by   the
+         respondent in evidence were  of  the  appellant's  wife's  Facebook
+         account.  First, it has her name on it with the  correct  spelling.
+         Secondly, the Facebook shows connections to 2  people  to  whom  we
+         knew that the appellant's wife  is  connected  in  real  life:  her
+         sister and her brother.  Thirdly, the appellant  accepted  that  it
+         contained pictures of his wife.  It would have to be questioned who
+         else would create such a page in the appellant's wife's name,  with
+         her details and photographs on it.  There was no reason for that to
+         have been done.  As to the photographs,  comparisons  can  be  made
+         between the person who is in them and in particular  the  identical
+         clothing worn by person identified  as  the  appellant's  wife.   A
+         partner and child are evident in many of the pictures and there  is
+         a record (in the marriage interview of her sister and her  brother-
+         in-law) of the appellant's wife having visiting the United  Kingdom
+         in April 2013 with her baby.
+
+    (xii)  The Experian credit records submitted by the respondent show the
+         connections between the appellant and certain addresses, as well as
+         others connected with those addresses, including his wife's brother-
+         in-law.
+
+76. Overall, it was submitted that there  was  overwhelming  evidence  that
+    this was a marriage of convenience.  It was not necessary in  light  of
+    the above to have any regard to or reliance  on  the  evidence  of  the
+    interview at the immigration visit on 27 February  2014  to  reach  the
+    conclusion that this was a marriage of convenience.
+
+77. As to the immigration enforcement visit, the appellant's evidence shows
+    matters  of  perception  only.   It  was  submitted  that  it  was  not
+    surprising that someone who was woken  early  and  unexpectedly  by  an
+    immigration officer would think that  the  experience  was  unpleasant.
+    This is not the same as establishing that IO Hale was rude, aggressive,
+    sneering and so on.
+
+78. Counsel for the respondent also  raised  concerns  about  the  evidence
+    given by others  about  IO  Hale  and  the  process  by  which  he  was
+    identified with those being shown a single photograph of him  and  none
+    of the other officers involved.  In particular, Mr & Mrs Ryzhko made  a
+    formal complaint against IO Muir following the visit made  to  them  no
+    further action was taken.  It was only in recent weeks  that  they  now
+    claimed the behaviour complained of was that of IO Hale and a complaint
+    had been made against him.  The only reason that this had been made now
+    was to allow the appellant to try to  cast  doubt  on  the  Immigration
+    Officer's credibility and not because of any  genuine  complaint.   The
+    substance  of  that  complaint  was  not  put  to  IO  Hale  in  cross-
+    examination.  It was submitted that IO Hale's evidence was clear as  to
+    his role in enforcement visits relating to marriages of convenience and
+    that  there  was  a  similarity  between  his  oral  evidence,  written
+    statement and his pocketbook record.
+
+79. As to Mr Hefnawy's evidence, it was submitted that he  had  exaggerated
+    his evidence to help out his childhood friend from Egypt.
+
+80. On behalf of the appellant, Ms Norman submitted on  the  evidence  that
+    the respondent had failed to discharge the burden of proving  that  the
+    appellant had entered into a marriage of convenience on the balance  of
+    probability.  She submitted that the fact that the appellant was candid
+    about his plan to stay in the United Kingdom did  not  of  itself  mean
+    that his marriage was one of convenience.  It was submitted that people
+    limit their potential dating pool on many different grounds  and  there
+    was no reason why the appellant could not legitimately have  restricted
+    his to EEA nationals or someone who was in a position  to  support  his
+    application for leave to  remain.   It  was  stated  that  there  is  a
+    difference between a convenient marriage and a marriage of convenience.
+     In any event, this was not a  "shotgun"  wedding.  There  were  a  few
+    months between the couple meeting and getting married and therefore  no
+    significant urgency in doing so.
+
+81. As to the wedding itself, little turned on the location of  the  mosque
+    and as to the address used on the forms with the Egyptian  embassy,  it
+    was plausible that the appellant had no fixed or permanent  address  to
+    use and therefore used a correspondence address.
+
+82. There is documentary evidence consisting  of  a  TV  licence  and  bank
+    statements, including a joint bank statement showing the appellant  and
+    his wife at the same address and also of moving frequently.  As to  the
+    payslips, it was not suggested that the documents were not genuine  and
+    not all businesses are registered at Companies House.
+
+83. It was submitted that  it  was  not  inherently  implausible  that  the
+    appellant's relationship with his  wife  broke  down  in  the  face  of
+    ongoing court proceedings and that this was the reason why there was no
+    evidence directly from her in these proceedings.
+
+84. Counsel submitted that the travel records added nothing of significance
+    to the respondent's case around the date of the  marriage.   There  was
+    nothing inherently implausible about the appellant's wife travelling to
+    Poland to visit her mother at the time of the enforcement visit.
+
+85. As for the Facebook evidence, it was submitted that this was limited to
+    what was  publicly  available  in  2016,  only  when  accessed  by  the
+    respondent.  In any event, social media was not necessarily a  complete
+    or accurate reflection but  was  an  opportunity  for  that  person  to
+    "curate" their life.  There was no evidence as  to  what  the  Facebook
+    profile said in  2013.  It  was  possible  that  there  were  different
+    Facebook accounts and it was possible that there may be children from a
+    past or new relationship.
+
+Conclusions on the evidence
+
+86. For the reasons set out in paragraphs 96 to 101  below,  which  do  not
+    rely on any evidence obtained during the questioning of  the  appellant
+    on 27 February 2017, we find that the  respondent  has  discharged  the
+    legal burden of establishing, on the balance of probabilities, that the
+    appellant entered into a marriage of convenience with his wife; that is
+    to  say,  the  marriage  was  entered  into  with  the  sole   aim   of
+    circumventing the rules on residence for a third-country national.
+
+87. The appellant's evidence to rebut the  respondent's  suspicions  as  to
+    whether he was in a  marriage  of  convenience  is  very  limited.   In
+    totality, it includes an Islamic marriage certificate, an  untranslated
+    marriage certificate from the Egyptian Embassy, statements for a  joint
+    bank account (converted from an account in the appellant's sole  name),
+    bank statements and letters addressed to the  appellant  and  his  wife
+    individually at  the  same  addresses,  a  TV  licence  issued  to  the
+    appellant's wife at one of those addresses, payslips and a P60 for  the
+    appellant's wife, a mobile phone letter, a letter  of  support  from  a
+    friend and a small number of photographs.
+
+88. Some of the evidence that has been submitted on behalf of the appellant
+    carries little weight for the following reasons.  First, although there
+    are  two  marriage  certificates,  the  documents  give  rise  to  some
+    concerns.  In particular, the one from the  Egyptian  Embassy  has  not
+    been translated (save in part, orally  by  the  appellant  through  the
+    court appointed interpreter at the hearing)  and  contains  information
+    which the appellant has confirmed is and was false as to  his  address.
+    The marriage certificate  asks  for  an  address  for  three  different
+    purposes (current address, intended address and correspondence address)
+    to which George's Drive was given for all three questions, despite  the
+    fact that the appellant had never lived there and had no  intention  of
+    doing so.  His explanation that  this  was  used  as  a  correspondence
+    address because there was no firm plan of where he and  his  wife  were
+    going to live therefore does not withstand scrutiny.
+
+89. Secondly, there is no evidence as to when and how the appellant's  bank
+    account was converted into a joint account and it is not clear  on  the
+    face of the statements  who  was  using  the  account  or  whether  the
+    appellant's wife paid in or withdrew from it.
+
+90. Thirdly, the letter of support from Mahmoud Shamakh  dated  10  January
+    2016 refers to seeing the appellant and his  wife  regularly  at  their
+    home at Inca Drive and refers to them being a genuine couple.  However,
+    by this date, the Applicant's evidence was that their relationship  was
+    under strain and shortly thereafter the  Applicant's  wife  moved  out.
+    The Applicant has also not been in contact  with  this  person  at  all
+    since the statement and he did not attend the appeal  hearing  to  give
+    oral evidence.
+
+91. Fourthly, the payslips for the appellant's wife  do  not  include  full
+    details of her employer and the only trace that can  be  found  of  the
+    company she worked for shows that it  was  dissolved  over  two  months
+    prior to the last payslip being issued.  This casts  significant  doubt
+    on the genuineness of those documents.
+
+92. Finally, the photographs submitted are of poor quality, are undated and
+    are very limited in number.  There is no explanation from the appellant
+    about the photographs at all.
+
+93. The appellant fails by some margin to discharge the  evidential  burden
+    on  him.  Indeed,  that  evidence  fully  supports   the   respondent's
+    conclusion that the appellant's marriage is one of  convenience.  There
+    are conspicuous gaps  in  the  evidence  submitted  on  behalf  of  the
+    appellant in the evidence which it would  be  reasonable  to  expect  a
+    person who undertook a genuine marriage, not  one  of  convenience,  to
+    have produced.  First, there is no evidence of either marriage ceremony
+    by way of invitations, cards, photographs;  and  so  on.   There  is  a
+    photograph in the Facebook evidence of the appellant's wife outside  of
+    the Egyptian Embassy on the day of that ceremony, but she is in  casual
+    clothing and photographed with her sister and not  the  appellant.   It
+    seems strange at the very least that this was the only photograph taken
+    on the day/outside the place of a ceremony which the appellant said was
+    akin to a marriage ceremony.
+
+94. Secondly, there is no evidence at all of any  direct  personal  contact
+    between the appellant and his wife prior to their marriage and at best,
+    a short series of messages from the appellant to  which  there  were  2
+    short responses in October 2016.  There is no evidence of any tokens of
+    affection, phone calls, messages or other electronic communications  at
+    all.  The appellant states that all electronic communication  was  lost
+    when his phone broke two years ago but  this  was  after  the  decision
+    under challenge and after he lodged his notice of appeal when  he  knew
+    the respondent was of the view that he had entered into a  marriage  of
+    convenience,  such  that  it  would  be  reasonable  to   expect   such
+    information to have been preserved prior to that.  In the  alternative,
+    there is nothing to suggest that the appellant has made any attempt  to
+    obtain, for example, copies of phone records to show contact;  nor  has
+    he made any attempt to explain the lack of other evidence that would it
+    would be normal and reasonable to expect in a genuine marriage.
+
+95. Thirdly, other than the bank statements, there is no  evidence  of  any
+    other joint bills or even bills addressed to one of the couple  at  the
+    same address, such as utility bills or council tax bills; nor  are  any
+    tenancy agreements available.
+
+96.  Fourthly,  no  witnesses  attended  the  hearing  to  vouch  for   the
+    genuineness of the appellant's marriage.
+
+97. Finally, and  strikingly,  there  was  no  evidence  at  all  from  the
+    appellant's wife.  Although the appellant stated that she was  prepared
+    to support him up until the second adjournment of his appeal hearing in
+    January 2016, there was no signed statement from her in advance of that
+    hearing, nor  since.   There  is  no  statement  from  the  appellant's
+    solicitors that she attended either of the first  two  hearings  (which
+    were adjourned only on the day) prepared to give evidence or that  they
+    had any direct contact with her.   Although  it  is  plausible  that  a
+    relationship may have broken down in the way the appellant claimed,  it
+    is less plausible that a person who was also at risk of a finding  that
+    she entered into a marriage of convenience with potential  consequences
+    for her own stay in the United Kingdom would  not  take  any  steps  to
+    defend herself against the allegations of a marriage of convenience.
+
+98. For these reasons, the appellant fails to meet the evidential burden of
+    showing his marriage was not one of convenience. This  is  so,  if  his
+    evidence  was  considered  alone,  without  taking  into  account   the
+    respondent's evidence, including that from the enforcement visit on  27
+    February 2015.  When the respondent's evidence is taken  into  account,
+    as well as the context of the appellant's position at the time  of  the
+    marriage, we find it is overwhelmingly  the  case  that  the  appellant
+    entered into a marriage of convenience.
+
+99. First, the appellant's own evidence was  that  he  entered  the  United
+    Kingdom in 2012 using deception by applying for a visit visa  when  his
+    prior intention (supported by  his  gathering  of  funds  in  Egypt  to
+    support  himself  long-term  in  the  United  Kingdom)  was  to  settle
+    permanently in the United Kingdom.  He candidly stated  that  his  only
+    realistic option to remain longer term in the  United  Kingdom  without
+    becoming an overstayer was to find a person  to  marry  to  support  an
+    application for leave to remain.  We find that the appellant  succeeded
+    in doing just that, although not in a genuine or lawful way.   Although
+    it was submitted on behalf of the appellant that it would be  perfectly
+    permissible for him to look for a partner from  a  pool  of  those  who
+    could help him achieve his objective of remaining in the United Kingdom
+    and the one he found was convenient to do so, there was no evidence  of
+    this from the appellant himself.  In fact, the evidence of how  he  met
+    his wife was very limited and it was clear from his evidence that  they
+    had no direct means of communication prior to their  marriage  as  they
+    had no common language and had to use friends to interpret for  them  -
+    even to the extent that the marriage proposal was effectively  made  in
+    advance by a third party.  This context does not provide any support to
+    it being a genuine relationship or marriage.
+
+100. As we  have  seen,  on  his  own  evidence,  the  appellant  also  used
+    addresses for official purposes which were not ones which he  had  ever
+    lived at, showing at least  some  element  of  dishonesty  on  his  own
+    marriage certificate, in applying  for  a  bank  account  (which  would
+    require proof of  identity/address)  and  in  applying  for  a  driving
+    licence  (which  would  also  require  proof  of  identity/address  and
+    importantly would be used as a form of ID).
+
+101.  Secondly,  we  find  that  the  Facebook  evidence  submitted  by  the
+    respondent shows a genuine account belonging to the  Applicant's  wife.
+    The account uses her name, numerous  photographs  which  the  appellant
+    accepts are her and contains personal information and references (eg to
+    family members) which we know the appellant's wife has and  he  accepts
+    are true.  There is no plausible explanation for why such a page  would
+    be set up containing real information other than that it is  a  genuine
+    account.  In these circumstances, there  is  no  reason  to  doubt  the
+    remaining information on that Facebook page, which is in many  respects
+    supported by other evidence.  This includes that the  appellant's  wife
+    was resident  in  Poland  (as  supported  by  the  passenger  movements
+    information which included travel only on 2 occasions for a total of  6
+    days, both trips originating in Poland); that she had  a  partner  (the
+    photographs  of  this  show  the  appellant's  wife  wearing  virtually
+    identical clothing to that worn by the woman in photographs  which  the
+    appellant accepts are of his wife) and that she had at least one  child
+    (as supported by information  in  the  appellant's  wife's  sister  and
+    brother-in-law's marriage interview and the photographs).
+
+102. We do not find the alternative Facebook page submitted at  the  hearing
+    before us to be credible.  This page was created  only  on  13  October
+    2016, contains very little personal information and only 2 posts  about
+    the appellant's wife's relationship status.  The  appellant  stated  in
+    evidence that this was the means by  which  he  communicated  with  her
+    prior to the date on which the page was created,  which  is  of  course
+    impossible.  We find on the balance of probabilities that this  account
+    was created for the sole purpose of supporting the  appellant's  appeal
+    and is inherently unreliable.
+
+103. As referred to above, the respondent has  submitted  evidence  to  show
+    that the appellant's wife travelled to the United Kingdom only twice in
+    2014 and not otherwise and that her  travel  started  and  finished  in
+    Poland on both occasions.  Although records were not complete for other
+    travel prior to 2015, there is no evidence of  any  other  travel  once
+    they were comprehensive and this directly contradicts  the  appellant's
+    evidence.  This evidence, together with the  above,  strongly  suggests
+    that the appellant's wife was resident in Poland through  the  time  of
+    her claimed relationship and marriage to the appellant.
+
+104. In conclusion, we find that the appellant entered into  a  marriage  of
+    convenience and the respondent  has  discharged  the  legal  burden  of
+    establishing this on the balance of probabilities.  In so  finding,  we
+    have not needed to have recourse to any information  arising  from  the
+    enforcement visit on 27  February  2015,  none  of  which  was  in  the
+    appellant's favour.
+
+
+
+
+Enforcement visit of 27 February 2015: Immigration (PACE Codes of  Practice)
+Direction 2013
+
+
+105. As has been explained, the  Upper  Tribunal  has  found  that,  without
+    regard to any evidence arising from the  enforcement  visit  which  may
+    support the respondent's case, she has amply discharged the  burden  of
+    showing that the appellant's marriage was one of convenience.   Should,
+    however, that evidence be excluded from consideration?
+
+106. Section 66 of the Police and Criminal Evidence  Act  1984  provides  as
+    follows:-
+
+
+    "66. Codes of practice
+
+
+   1) The Secretary of State shall issue codes  of  practice  in  connection
+      with-
+
+        (a)   the exercise by police officers of statutory powers -
+             (i)  to search a person without first arresting him;
+             (ii) to search a vehicle without making an arrest; or
+             (iii)    to arrest a person.
+        (b)   the detention, treatment, questioning  and  identification  of
+             persons by police officers;
+        (c)   searches of premises by police officers; and
+        (d)   the seizure of property found by police officers on persons or
+        premises.
+
+
+    (2)  Codes shall (in particular) include provision in  connection  with
+        the exercise by police officers of powers under section 63B above.
+    ..."
+
+107. Section 145 of the Immigration and Asylum Act 1999, so far as  material
+    for present purposes, provides:-
+
+
+    "145 - Codes of Practice
+
+
+    (1)  An immigration officer exercising any specified power to-
+         (a)  arrest, question, search or take fingerprints from a person,
+         (b)  enter and search premises, or
+         (c)  seize property found on persons or premises,
+         must have regard to such provisions of a code as may be specified.
+
+
+   2) Subsection (1) also applies to an  authorised  person  exercising  the
+      power to take fingerprints conferred by section 141.
+
+
+    (2A) A person exercising a power under regulations made  by  virtue  of
+         section 144 must have regard to such provisions of a code as may be
+         specified.
+
+   3) Any specified provision or a code may have effect for the purposes  of
+      this section subject to such modifications as may be specified.
+
+
+   4) "Specified" means specified in a direction given by the  Secretary  of
+      State.
+
+
+   5) "Authorised person" has the same meaning as in section 141.
+
+
+    (6)  "Code" means -
+         (d)  in relation to England and Wales, any code of practice for the
+             time being in force under the Police and Criminal Evidence Act
+             1984.
+    ... "
+
+108. Part VII of the 1999 Act is  entitled  "Power  to  arrest,  search  and
+    fingerprint".   Its  provisions  largely  involve  amendments  to   the
+    Immigration Act 1971, in the form of new provisions relating to  powers
+    to arrest and search and to take fingerprints.
+
+
+109. The Explanatory Notes to Part VII say the following:-
+
+    "The White Paper explains that immigration officers currently  have  to
+    rely on the police to perform certain tasks relating to the enforcement
+    of  immigration  law  and  announced  that  in  order  to  reduce  this
+    dependency ... the government intended to extend the existing powers of
+    arrest to immigration officers and to provide immigration officers with
+    powers of search, entry and seizure in respect of immigration  offences
+    equivalent to those the police already have.  Part VII gives effect  to
+    this but imposes certain limitations on the exercise of  these  powers.
+    The new powers - and associated safeguards  -  have  been  modelled  on
+    those contained in the Police and Criminal Evidence Act 1984 ..."
+
+
+110. The Explanatory Notes to section 145 state as follows:-
+
+    "This section allows the Secretary of State to direct that  immigration
+    officers must have regard to relevant provisions of the  existing  PACE
+    Codes  of  Practice  in  England,  Wales  and  Northern  Ireland   when
+    exercising its specified powers to arrest,  question,  search  persons,
+    enter and search premises, take fingerprints or seize properties.   The
+    direction issued under this  section  must  specify  which  powers  are
+    covered, which provisions of the existing PACE Codes  of  Practice  are
+    relevant and list any modifications necessary to ensure consistency  of
+    approach.  The section will reinforce  the  existing  commitment  under
+    section 67(9) of PACE which requires any person charged with a duty  to
+    investigate offences to have regard  to  the  relevant  PACE  Codes  of
+    Practice.  It will extend this commitment to immigration officers  when
+    they are exercising specified powers under Schedule 2 to the  1971  Act
+    and also  to  any  authorised  person  exercising  the  power  to  take
+    fingerprints conferred by section 141 of this Act."
+
+
+111. In exercise of the powers conferred by section 145  of  the  1999  Act,
+    the Secretary of State made the Immigration (PACE  Codes  of  Practice)
+    Direction 2013.  A copy of this Direction is to be found in the  second
+    Appendix to this decision.
+
+112. It is common ground that, in the present case,  the  provision  of  the
+    table in Schedule 1 to the Direction which is of material  significance
+    is that in which the words in the left hand column are "Interview under
+    caution to establish an offence or  breach".   The  right  hand  column
+    provides that, in this situation, certain provisions of Codes C, E  and
+    F apply.  Code C deals with the detention, treatment and questioning of
+    persons.   Code  E  deals  with  audio  recording  of  interviews  with
+    suspects.   Code  F  concerns  the  visual  recording  with  sound   of
+    interviews with suspects.
+
+113. The case for the appellant is that the  questioning  of  the  appellant
+    during the enforcement visit comprised an "interview ...  to  establish
+    an offence or breach" and that IO Hale failed to administer  a  caution
+    to the appellant, as required by PACE Practice Code C paragraph 10.
+
+114. The relevant provisions of paragraph 10 are as follows:-
+
+    "(a)  When a caution must be given
+
+    10.1     A person whom there are grounds to suspect of an offence,  see
+         Note 10A, must be cautioned before any questions about an  offence,
+         or further  questions  if  the  answers  provide  the  grounds  for
+         suspicion, are put to them  if  either  the  suspect's  answers  or
+         silence,  (i.e.  failure   or   refusal   to   answer   or   answer
+         satisfactorily)  may  be  given  in  evidence  to  a  court  in   a
+         prosecution. A person need not be cautioned if  questions  are  for
+         other necessary purposes, e.g. -
+
+         (a)  ...
+         (b)   to  obtain  information  in  accordance  with  any   relevant
+             statutory requirement, see paragraph 10.9;
+         (c)  in furtherance of  the  proper  and  effective  conduct  of  a
+             search, e.g. to determine the need to search in  the  exercise
+             of powers of stop and search or  to  seek  co-operation  while
+             carrying out a search; or
+         (d)  to seek verification of  a  written  record  as  in  paragraph
+         11.13.
+
+
+    10.2     Whenever a person not under arrest is initially cautioned,  or
+         reminded they are under caution, that person must at the same  time
+         be told they are not under arrest and informed of the provisions of
+         paragraph 3.21 which explain  how  they  may  obtain  legal  advice
+         according to whether they are at a  police  station  or  elsewhere.
+         See Note 10C.
+
+    ...
+
+    (b)  Terms of the caution
+
+    10.5     The caution which must be given on:
+
+         (a)  arrest; or
+         (b)  all other occasions before a person  is  charged  or  informed
+             they may be prosecuted; see section 16,
+
+
+         should, unless the restriction on drawing adverse  inferences  from
+         silence applies, see Annex C, be in the following terms:
+
+         "You do not have to say anything.  But it may harm your defence  if
+         you do not mention when questioned something which you  later  rely
+         on in Court.  Anything you do say may be given in evidence."
+
+         ...
+
+
+
+
+
+
+
+    Notes for Guidance
+
+    10A      There must be  some  reasonable,  objective  grounds  for  the
+         suspicion, based on known facts or information which  are  relevant
+         to the likelihood the offence has been committed and the person  to
+         be questioned committed it.
+
+    10B      An arrested person must be  given  sufficient  information  to
+         enable them to understand that they have  been  deprived  of  their
+         liberty and the reason they have been arrested, e.g. when a  person
+         is arrested on suspicion of committing  an  offence  they  must  be
+         informed of the suspected offence's nature, when and where  it  was
+         committed.  The suspect must also be  informed  of  the  reason  or
+         reasons why the arrest is considered necessary. Vague or  technical
+         language should be avoided.
+
+    10C      The restriction on drawing inferences from silence, see  Annex
+         C, paragraph 1, does not  apply  to  a  person  who  has  not  been
+         detained and who therefore cannot be prevented from  seeking  legal
+         advice if they want, see paragraph 3.21."
+
+
+115. In her submissions, Miss Broadfoot made reference to a number  of  Home
+    Office instructions.  The first is entitled  "Enforcement  interviews".
+    This   guidance   "tells   immigration   enforcement   officers   about
+    interviewing suspects and witnesses".  It includes  information  as  to
+    "the different kinds of enforcement interview and  when  and  how  they
+    should be conducted".  At page 5, we find the following:-
+
+
+    "Types of enforcement interview
+
+    Immigration enforcement officers may  choose  to  try  and  engage  any
+    person they encounter in normal conversation but, where the purpose  of
+    a conversation is to gather information for a law  enforcement  purpose
+    it is a formal interview and must be conducted in accordance with  this
+    guidance.   An  enforcement  interview  is  distinct  from   a   normal
+    conversation  in  that  its  purpose  is  to  seek  out  and   evaluate
+    information for a specific purpose.
+
+    The different types of enquiry or investigation commonly  conducted  by
+    Immigration Enforcement officers are:
+
+    Administrative enquiries - interview(s) that follow 3 distinct stages:
+
+    .    Exploratory questioning.
+
+    .    Initial examination under paragraphs 2 or 2A of Schedule 2 to  the
+   Immigration Act 1971.
+
+    .    Further examination - usually away from the scene.
+
+    Formal criminal enquiries - an interview conducted under PACE where  it
+    is intended to actively pursue prosecution  -  a  criminal  caution  is
+    given and the person is notified that they are entitled to  free  legal
+    advice.  Usually conducted  in  a  police  station  following  criminal
+    arrest - recorded via electronic audio recording: see: Investigation of
+    criminal offences in assessing harm.
+
+    This guidance concerns  investigative  interviews  in  connection  with
+   administrative enquiries."
+
+
+116. At page 11, we find the following:-
+
+    "Initial administrative interviews: purpose and conduct
+
+    The purpose of an initial administrative interview is formally to:
+
+    .     establish  whether  a  person  has  committed  a  breach  of  the
+   immigration law and/or
+
+    .    gather evidence or supporting information in relation to (1)  from
+   a third party ...
+
+    .    identify whether a person is liable to  be  detained  and  removed
+         under administrative powers.
+
+    ...
+
+    The following principles must  be  observed  or  considered  during  an
+    initial administrative interview:
+
+    .    A caution should  not  be  given  for  an  initial  administrative
+         interview where questioning is intended to  establish  basic  facts
+         such as identity, relationships or ownership of property - but  you
+         must identify yourself and your purpose.
+
+    .    Where an initial examination leads to reasonable suspicion that an
+         administrative breach or criminal offence may have  been  committed
+         by the person, he  must  be  arrested  and  immediately  given  the
+         administrative explanation or criminal caution  as  appropriate  as
+         per instructions given within "arrest and restraint" guidance."
+
+
+117. The guidance on "arrest and restraint" "tells  Immigration  Enforcement
+    officers when and how they may  make  an  arrest  using  administrative
+    immigration or criminal powers".  At page 8, there begins a section  of
+    the guidance entitled "Making  an  administrative  arrest".   The  most
+    common power of administrative arrest is under paragraph 17 of Schedule
+    2 to the Immigration Act 1971.  Immigration  Enforcement  officers  are
+    told that:-
+    "You must reasonably suspect that the person in question is  liable  to
+    be held in immigration detention under paragraph 16 of  that  Schedule.
+    This suspicion may arise as a result of known information, the person's
+    actions or information discovered during the course of an enquiry.
+
+    ...
+
+    In general, reasonable suspicion for the purposes  of  arrest  requires
+    facts or circumstances that would lead a reasonable person  to  suspect
+    that the individual requires leave under the Immigration Act  1971  and
+    either:
+
+    .    the individual has no leave;
+
+    .    there are grounds  on  which  the  individual's  leave  should  be
+   curtailed.
+
+    The arrest must be necessary to progress the case, this could include:
+
+    .    establishing identity in order to determine status;
+
+    .    interviewing further to determine status;
+
+    .    searching  for  documents  post-arrest  to  establish  status  and
+   progress removal;
+
+    ...
+
+    When it is not appropriate to administratively arrest
+
+    It is important to consider whether arrest and detention  is  necessary
+    ... for the operation of effective immigration control.  Officers  must
+    consider whether an arrest is necessary to determine a person's  status
+    and to consider whether the person should be removed from the UK.
+
+    It is unlikely to be appropriate to arrest a person if we already  know
+    their immigration status and no progression on the case will be made by
+    arresting them.   ...   Where  administrative  arrest  powers  are  not
+    available, officers must consider whether it would  be  appropriate  to
+    "criminally arrest the individual" (original emphasis).   There  follow
+    guidance on:
+
+    Information to be given on administrative arrest
+
+    A person  who  is  administratively  arrested  under  paragraph  17  of
+    Schedule 2 to the Immigration Act 1971 as a person who may  be  removed
+    from the UK must also be informed that:
+
+    .    they are under arrest and not free to leave;
+
+    .    the reason for the arrest;
+
+    .    why it is necessary to arrest them.
+
+    You must give the following explanation to the person:
+
+    "I am an immigration officer.  I am arresting you on suspicion that you
+    are a person liable  to  immigration  detention.   This  is  because  I
+    suspect you [give reason] e.g. "have entered the UK  illegally",  "have
+    overstayed your leave", "have breached the condition  of  your  leave",
+    and so on".  This is not an arrest for a criminal offence.
+
+    Do you understand?"
+
+
+118. At page 41, the guidance begins on "Criminal arrest".  It is said  that
+    "This page tells Immigration Enforcement officers about compliance with
+    the Police and Criminal Evidence Act 1984  (PACE)  Codes  of  Practice,
+    following an arrest for a criminal offence".  On the same  page,  there
+    is the following:-
+
+    "Compliance with PACE
+
+    The Police and Criminal Evidence Act 1984 (PACE),  and  its  associated
+    Codes of Practice,  applies  to  all  those  arrested  for  a  criminal
+    offence.  Where immigration officers (IOs) use criminal powers to  make
+    an arrest they must comply with PACE Code  of  Practice  on  Powers  of
+    Entry Search and Seizure and Code of Practice G on Powers of Arrest.
+
+    Persons arrested or detained under Schedule 2 to  the  Immigration  Act
+    1971 (the 1971 Act),  including  those  who  were  taken  to  a  police
+    station, are not subject to PACE.  Such persons  must  be  notified  of
+    their detention and reasons for detention under  the  1971  Act  by  an
+    immigration officer, either verbally or in writing.  Where a  detention
+    is authorised verbally, the person  and  detaining  authority  must  be
+    provided with written confirmation as soon as practicable."
+
+
+119. At page 42, an explanation is given of the circumstances  in  which  an
+    immigration officer can exercise a criminal power of arrest:
+
+    "To exercise a criminal power of arrest, you must:
+
+    .    be investigating an immigration related offence and have a genuine
+         intention to prosecute the individual:
+
+    �    if you have no intention of investigating  a  criminal  matter  or
+         referring it to  the  Crime  Prosecution  Service  (CPS)  then  use
+         administrative powers (see making an administrative arrest)
+
+    .    be investigating an offence for which a power of arrest exists;
+
+    .    have reasonable grounds to suspect that the person:
+
+    �    has committed or attempted to commit the offence
+
+    �    is committing or attempting to commit the offence
+
+    ...
+
+    In England and Wales you must caution the subject as follows:
+
+    "You do not have to say anything but it may harm your defence if you do
+    not mention, when questioned, something which  you  later  rely  on  in
+    court.  Anything you say may be given in evidence".
+
+
+120.  Separate  Home  Office  Guidance  has  been  published  on   "Marriage
+    investigations".  Page 3 is said to provide "A summary of  the  various
+    removals pathways for individuals involved in sham marriages  or  civil
+    partnerships, and marriages or durable  partnerships  of  convenience".
+    In the table, against the words in the left hand  column  "Marriage  of
+    convenience.  EEA residence card issued" we find the following  in  the
+    right hand column:-
+
+    "Administrative removal decision
+
+    EEA administrative removal procedures under EEA Regulation  23(6)(a)  -
+    which automatically invalidates the extant EEA card".
+
+
+121. Before engaging  with  Counsels'  submissions  on  this  issue,  it  is
+    necessary to mention previous Home Office guidance on what was known as
+    "Caution + 2".  The caution could be used when an  immigration  officer
+    was exercising administrative powers.  It  consisted  of  the  criminal
+    caution and the "+ 2" reference was to the need to add to that caution,
+    first, the words "You are not under arrest"  and,  secondly,  "You  are
+    free to leave at any time".
+
+122. Importantly, however, the use of "Caution + 2" was not mandatory,  even
+    in the circumstances described in the previous guidance when  it  might
+    be appropriate to give it.  This was where during  initial  questioning
+    an individual "states something that suggests that they may be a person
+    to whom removal directions can be given".  In particular the "Caution +
+    2 interview is only appropriate in  straightforward  immigration  cases
+    where the sole intention is to administratively remove".
+
+123. As we have seen from the written and oral evidence,  IO  Hale  said  he
+    administered a "Caution + 2", recording this as C+2  in  his  notebook.
+    His written statement makes plain that  this  "was  not  done  for  the
+    purposes of any criminal proceedings".
+
+124. For the appellant, Ms Norman puts the case in the following  way.   The
+    immigration officers who conducted the enforcement visit fell,  in  her
+    submission, within section 67(9) of PACE, which provides:-
+
+
+    "(9) Persons other than police officers who were charged with the  duty
+    of investigating offences or charging offenders shall in the  discharge
+    of that duty have regard to any relevant provision of ... a code."
+
+
+125. According to Ms Norman,  the  fact  that  IO  Hale  and  his  colleague
+    considered that they were not investigating a possible criminal offence
+    did not matter.  Once they had reasonable cause  to  suspect  that  the
+    appellant may have entered into a marriage of convenience, they  should
+    have given the appellant a "criminal" caution.  At  that  point,  there
+    were reasons to suspect  that  the  appellant  may  have  committed  an
+    immigration criminal offence under  the  1971  Act,  by  being  in  the
+    country without leave, and that he may have  committed  an  offence  of
+    perjury.
+
+126. Ms Norman submitted that, so far as the Home Office guidance  materials
+    attempted to circumscribe the circumstances in which a criminal caution
+    needed to be administered, these materials were simply wrong.
+
+127.  In  support  of  her  submission  that  section  67(9)  falls  to   be
+    interpreted widely, Ms Norman relied upon a number of  authorities;  in
+    particular, R v Gill and Another [2003] EWCA Crim 2256.   In  Gill  the
+    Inland Revenue had undertaken a so-called "Hansard interview" with  two
+    brothers, regarding their tax returns for a business that they  jointly
+    ran.  Those interviewing the brothers were three officers "all of  whom
+    work for the Special Compliance  Office  ...  which  is  the  Revenue's
+    investigation  branch  charged  with   investigating   serious   fraud"
+    (paragraph 12).  Later, the brothers were convicted of  six  counts  of
+    cheating the Inland Revenue.  They appealed against the convictions  on
+    the basis that the trial judge ought not to have admitted into evidence
+    material arising from the Hansard interview.  They relied upon  section
+    78(1) of PACE, which states:-
+
+
+    "78  Exclusion of unfair evidence
+
+    (1)  In any proceedings the court may refuse to allow evidence on which
+         the prosecution proposes to rely to be given if it appears  to  the
+         court that, having regard to all the circumstances,  including  the
+         circumstances in which the evidence was obtained, the admission  of
+         the evidence would have such an adverse effect on the  fairness  of
+         the proceedings that the court ought not to admit it."
+
+
+128. The Court of Appeal held that the  interviewing  officers  fell  within
+    section 67(9) of PACE.  The Hansard interview was not, as  the  Revenue
+    claimed, "part of a civil process designed to gather in money and not a
+    criminal investigation:-
+
+
+    "37. While we fully understand the importance of the Revenue being able
+    to recover the tax owed to it and the value of the Hansard procedure in
+    that regard, we are unable to accept  the  Revenue's  submission.   The
+    statement of the Chancellor of the Exchequer made in Parliament  on  18
+    October 1990 makes it quite clear that, while in cases of tax fraud the
+    Revenue will be influenced by a full confession in deciding whether  to
+    accept  the  money  settlement  (including  presumably  an  appropriate
+    penalty), it  gives  no  undertaking  to  do  so  or  to  refrain  from
+    instituting criminal proceedings.  Tax fraud involves the commission of
+    a criminal offence or offences, so that it is in our view evident  that
+    the role of the SCO investigating tax fraud involved the  investigating
+    of a criminal offence.
+
+    38.  Although we recognise that a caution had not been administered  in
+    the past to the Hansard Interview because such  an  interview  has  not
+    been regarded by the Revenue as subject to Code C,  in  our  judgement,
+    that is to give too narrow an interpretation of the expression "charged
+    with a duty of investigating offences" in section 67(9) of  PACE.   The
+    officers of the SCO were charged with investigating serious fraud  and,
+    since serious fraud inevitably involves the commission of an offence or
+    offences, it seemed to us to follow that they were charged with a  duty
+    of investigating offences.
+
+    39.  ...  Thus we cannot see why a caution should reduce the chances of
+    a taxpayer making a full confession,  which  was  the  purpose  of  the
+    process.  However that may be, since the Revenue expressly reserved the
+    right to prosecute for fraud, it appears to us that one of the purposes
+    of asking the questions must have been the "obtaining of evidence which
+    may be given to a court in a prosecution", even if the  Revenue's  main
+    ain was to arrive at a monetary settlement."
+
+
+129. We do not find  that  Gill  compels  the  conclusion  which  Ms  Norman
+    contends.   The  fact  that  immigration  officers   have   powers   of
+    investigation, administrative arrest and criminal arrest does not  mean
+    that all three functions are to be regarded as a single entity, for the
+    purposes of section 67(9).  It is, in our view, quite apparent that, in
+    carrying out  the  enforcement  visit  of  27  February  2015  and  the
+    questioning which followed, the immigration officers  were  not  acting
+    "in the discharge of"  any  duty  they  might  have  "of  investigating
+    offences or charging offenders".  By contrast, the  Revenue's  officers
+    were, as the Court of  Appeal  held  at  paragraph  38,  "charged  with
+    investigating serious fraud".  When they interviewed the brothers, this
+    is what they were doing.  The fact that they reserved the right not  to
+    prosecute, if they  achieved  what  they  regarded  as  a  satisfactory
+    outcome from the interview, was immaterial.
+
+130. In the present case, there is no  corresponding  inevitability  between
+    the appellant having entered into a marriage  of  convenience  and  his
+    having committed  a  criminal  offence.   The  most  obvious  potential
+    offence under the 1971 Act is that created by section  24(1)(b),  which
+    provides that it is an offence for a person knowingly to remain in  the
+    United Kingdom beyond the time  limited  by  his  or  her  leave.   The
+    prosecution would, accordingly, have to prove beyond  reasonable  doubt
+    the person's state of mind.  There is, in any case,  a  great  deal  of
+    difference between "serious fraud" and "entering  into  a  marriage  of
+    convenience".  Serious  fraud  is  criminal  conduct,  per  se,  whilst
+    entering a marriage of convenience only may involve the  commission  of
+    some offence.
+
+131. The subject matter of the other cases referred to by Ms  Norman,  which
+    she provided as case summaries, likewise do  not  disclose  a  material
+    similarity in subject matter  with  the  carrying  out  by  immigration
+    officers of marriage investigations.
+
+132. We accordingly find  that  Miss  Broadfoot  was  entitled  to  ask  the
+    Tribunal to place weight upon the distinction drawn in the Home  Office
+    Instructions and Guidance between administrative enquiries  and  formal
+    criminal enquiries.  The articulation in the instructions and  guidance
+    as to where and when PACE requirements apply is,  we  find,  compatible
+    with section 67(9).  It reflects the correct legal position.   It  also
+    acknowledges  the  important  fact  that,  in  the  immigration  field,
+    relatively very few of those who are adjudged to be illegal entrants or
+    overstayers  find  themselves  subject  to  criminal  prosecution.  The
+    respondent's main aim is to  ensure  such  persons  are  recognised  as
+    having no immigration status and, where  appropriate,  to  remove  them
+    from the United Kingdom.
+
+133. Having made these findings, we  address  the  submissions  on  what  is
+    meant by "interview under caution to establish an offence or breach" in
+    Schedule 1 to  the  PACE  Codes  of  Practice  Correction  2013.   Miss
+    Broadfoot submitted that an offence must mean a criminal  offence.   We
+    agree.  She also submitted that the same  must  be  true  of  the  word
+    "breach", although she accepted that the respondent has, in  the  past,
+    used the word "loosely".
+
+134. At page 11 of the Enforcement Interviews General  Instructions,  it  is
+    stated that where an initial  administrative  examination  leads  to  a
+    reasonable suspicion that an administrative breach or criminal  offence
+    may have been  committed  by  a  person  "they  must  be  arrested  and
+    immediately given the administrative explanation or criminal caution as
+    appropriate as per instructions given within the 'arrest and restraint'
+    guidance".
+
+135. The statement that reasonable suspicion  of  an  administrative  breach
+    should lead to immediate administrative arrest under  paragraph  17  of
+    Schedule 2 to the Immigration Act 1971 appears somewhat curious,  given
+    what is said at pages 8 and 9 of the Arrest and Restraint guidance (see
+    above).   It  is,  nevertheless,  manifest  that  on  page  11  of  the
+    Enforcement Interviews Instructions an administrative breach  is  being
+    contrasted with a criminal offence.  This means, we find, that when one
+    looks at the PACE  entry  "Interview  under  caution  to  establish  an
+    offence or breach", the word "breach" must be interpreted  in  the  way
+    Miss Broadfoot says.  If it were otherwise, then there will be no scope
+    for an "administrative explanation" as opposed to a "criminal caution".
+     It is the failure to give a criminal  caution  upon  which  Ms  Norman
+    relies.
+
+136. We have set out the wording of 10.1  (Caution)  of  Code  C  above.   A
+    close examination of that wording favours the respondent's stance.  The
+    words "If either the suspect's answers or silence ... may be  given  in
+    evidence to a court in a prosecution" highlight  the  fact  that  there
+    needs to be a real likelihood of prosecution.  As we have said, reality
+    in the immigration field is  otherwise.   Secondly,  10.1  specifically
+    records that a person "need not be cautioned if questions are for other
+    necessary purposes".  The list which is then given is non-exhaustive.
+
+137. For these reasons,  we  find  that  the  immigration  officers  on  the
+    occasion of the enforcement visit did not breach  PACE  by  failing  to
+    give the appellant a criminal caution.
+
+138. Miss Broadfoot submitted that, if the position were otherwise, then  we
+    should nevertheless admit the evidence.  She pointed to the fact  that,
+    by reason of section 85(4) of the Nationality, Immigration  and  Asylum
+    Act 2002,  as  applied  by  paragraph  1  of  Schedule  1  to  the  EEA
+    Regulations, the Tribunal may  consider  any  matter  which  it  thinks
+    relevant to the substance of the decision.
+
+139. Ms  Norman  submitted  that,  where  evidence  have  been  obtained  in
+    contravention of PACE, the Tribunal should be disinclined to admit  the
+    evidence.
+
+140. We have no hesitation in accepting Miss  Broadfoot's  submission.   The
+    admissibility in criminal proceedings of evidence obtained contrary  to
+    PACE is to be determined in accordance with section 78 of that Act (see
+    above).  What fairness demands is highly  context-specific.   The  fact
+    that a judge in a criminal trial may decide that certain evidence ought
+    to be excluded, as having an adverse effect  on  the  fairness  of  the
+    proceedings, has little to say about the task  facing  a  Tribunal,  in
+    civil proceedings, which must determine a  person's  entitlement  under
+    the EU Treaties to be  in  the  United  Kingdom.   Plainly,  a  grossly
+    abusive set of failures may incline the Tribunal, in such  proceedings,
+    to the view that - for its purposes - admission of the  evidence  would
+    be inappropriate; for example, if admission would be seen as  endorsing
+    highly problematic behaviour on the part of immigration officers.
+
+141. That is not, however, the position in the present case.  We have  taken
+    account of the criticisms levelled at IO Hale.  We  also  note  that  a
+    similar criticism was made of him in  the  Administrative  Court  (Ait-
+    Rabah v Secretary of State for the Home  Department  [2016]  EWHC  1099
+    (Admin).  Having heard the appellant's  witnesses  (and  the  appellant
+    himself), we do not find them to be reliable  on  this  issue.   Having
+    made our own assessment of IO Hale, we  consider  that,  at  best,  the
+    criticisms made have been substantially exaggerated.
+
+
+Notice of Decision
+
+The appeal is dismissed.
+
+No anonymity direction is made.
+
+
+Signed   [pic]             Date     29th January 2018
+
+Upper Tribunal Judge Jackson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 Appendix 1
+
+
+
+
+Upper Tribunal
+(Immigration and Asylum Chamber)                                  Appeal
+Numbers: IA/09729/2015
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House                          |Decision and Reasons           |
+|On 6th October 2016                           |Promulgated                    |
+|                                              |On 7th October 2016            |
+|                                              |                               |
+
+                                   Before
+
+                        UPPER TRIBUNAL JUDGE RIMINGTON
+
+                                   Between
+
+                   MR MAHMOUD AHMED ABDEL-SAMIA ELSAKHAWY
+                                  Appellant
+
+                                     And
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+Representation:
+
+For the Appellant:     Ms K Pal, Home Office Presenting Officer
+For the Respondent:    Ms J Norman instructed by Sterling and Law
+                    Associates
+
+                            DECISION AND REASONS
+
+
+ 1. The appellant is a spouse of an EEA national and appealed  against  the
+    Secretary of State's decision to give removal directions in  accordance
+    with Section 10 of the Immigration and Asylum Act  1999,  justified  on
+    the grounds of abuse of rights in accordance with Regulation 21B (2) of
+    the Immigration (European Economic  Area)  Regulations  2006.   It  was
+    asserted that the appellant had undergone a sham marriage.
+
+ 2. On 31st March 2016  First-tier  Tribunal  Judge  Miller  dismissed  the
+    appellant's appeal.
+
+ 3. The appellant  filed grounds for permission to appeal on the bases that
+
+
+
+       i) The judge failed properly to  deal  with  submissions  under  the
+          Police and Criminal Evidence Act 1984 (PACE).  Specifically  that
+          when  the  Immigration  Officer  interviewed  the  appellant   on
+          encounter (on 27the February 2015), he  had  not  administered  a
+          caution, failed to offer an  interpreter,  failed  to  produce  a
+          contemporaneous note, and failed to allow the appellant to obtain
+          legal advice.
+
+      ii) the judge failed to acknowledge a  central  submission  that  the
+          documentary evidence predated the 'visit' and could not  possibly
+          have been arranged in anticipation of the proceedings
+
+     iii) the judge applied the wrong test for the marriage of  convenience
+          and appeared to  conflate  the  'sole  aim'  test  with  that  of
+          'genuine and subsisting' marriage under the immigration rules.
+
+      iv) the absence of the sponsor was explained but the  explanation  (a
+          build up of stress on the part of the wife) was not addressed  by
+          the judge.  The appellant's evidence was  that  the  relationship
+          had begun to break down in October 2015.
+
+ 4. Ms Pal submitted that PACE did not apply  to  immigration  matters  and
+    only applied to criminal matters. She did, however, appear  to  concede
+    that the judge appeared to have conflated the test of 'sole  aim'  with
+    that  under  the  Immigration  Rules   of   'genuine   and   subsisting
+    relationship'.
+
+ 5. Ms Norman expanded on her written grounds.
+
+ 6. I am satisfied that there was an error of law in the decision which may
+    have materially affected the outcome.
+
+ 7. With regards ground (iii) the judge, in his approach to  the  evidence,
+    concentrated on the evidence from 2015.   The  parties,  however,  were
+    said to have married on 28th March 2013.   The  relevant  date,  albeit
+    that later evidence may also have an impact on the assessment,  is  the
+    date of the marriage and the intention of the  parties  at  that  date,
+    hence the reference  by  Ms  Norman  to  'sole  aim'.   Throughout  the
+    decision the judge appears to consider the circumstances only  of  2015
+    (which included the interview dated February 2015).  For  the  purposes
+    of applying the Immigration (European Economic Area) Regulations  2006,
+    the  appellant  is  still  married  and  would  be  treated  under  the
+    Immigration (European Economic Area)  Regulations  2006,  as  a  spouse
+    until formal divorce, unless of course it was a sham  marriage  and  it
+    would be important to consider the aim of the  marriage  at  the  time.
+    The judge appears to ignore this previous evidence and for  example  at
+    paragraph [25] states
+
+    'There are, I accept, statements in both names, the address being given
+    as Stonebridge Court, London NW10. - However, these all seem to predate
+    the marriage of the parties'.
+
+ 8. Thus the judge does not make reference to the circumstances as  at  the
+    date of the marriage, which is of key importance, or,  in  relation  to
+    ground (ii) tackle the point that the documentary evidence was said not
+    to have been prepared for the proceedings.
+
+ 9. In response to ground (iv) the judge did not  address  the  explanation
+    for the absence of the wife but again at paragraph [22] stated 'she  is
+    not residing with the appellant'.  This approach, too, concentrated  on
+    the events of 2015 which in my view was an error.
+
+10. With regards ground (i), I was encouraged, also, to find  an  error  of
+    law in relation to the judge's treatment of the  submissions  regarding
+    PACE.  As I have found an error stemming from the other grounds, I  set
+    the decision aside and as it must be remade, those arguments  regarding
+    PACE may be fully rehearsed in the resumed hearing before me.
+
+11. For the avoidance of doubt the  decision  of  the  First-tier  Tribunal
+    Judge is set aside in its entirety. Having found an error  of  law  the
+    matter is to be set down for a resumed hearing before me.
+
+12. Any further evidence should be produced at least 14 days prior  to  the
+    substantive hearing.
+
+
+
+
+
+Signed            Helen Rimington
+
+
+
+Upper Tribunal Judge Rimington
+
+Dated    7th  October  2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 Appendix 2
+
+
+     [pic]
+
+
+
+
+ The Immigration (PACE Codes of Practice) Direction 2013
+
+ Made: 15 July 2013
+
+ Coming into Operation: 15 July 2013
+
+ The Secretary of State, in exercise of the powers conferred by section 145
+ of the Immigration and Asylum Act 19991 hereby makes the following
+ Direction:
+
+ 1.  This Direction may be cited as the Immigration (PACE Codes of Practice
+ Direction) 2013.
+
+
+ 2.  In this Direction:
+   a. "the 1971 Act" means the Immigration Act 19712;
+   b. "the 1999 Act" means the Immigration and Asylum Act 1999;
+   c. "the 2004 Act" means the Asylum and Immigration (Treatment of
+   Claimants etc.) Act
+     20043;
+   d. "the 2007 Act" means the UK Borders Act 20074;
+   e. "PACE" means the Police and Criminal Evidence Act 19845; and
+   f. "the PACE Code(s) of Practice" means any code of practice issued
+   under sections 60, 60A
+     or 66 of PACE.
+
+
+ 3.  This Direction does not apply in Scotland or Northern Ireland.
+
+
+ 4.  Nothing in this Direction affects the operation of section 67(9) of
+ PACE.
+
+
+ 5.  Subject to paragraphs 6 and 7 and the modifications set out in Schedule
+    2, an immigration officer exercising a power that is specified in Column
+    1 of Schedule 1 of this Direction, must have regard to any provision of
+    the corresponding PACE Code(s) of Practice that is
+    specified in Column 2 of that Schedule.
+
+
+
+
+
+
+ 1  1999 c.33
+ 2  1971 c.77
+ 3  2004 c.19
+ 4  2007 c.30
+ 5  1984 c.60
+ 6.  The specified provisions of the PACE Code(s) of Practice in Schedule 1
+    shall apply to immigration officers exercising the corresponding
+    specified power as if the words and phrases in Column 1 of Part 1 of
+    Schedule 2 include reference to the words and phrases in Column 2 of
+    that Part.
+
+
+ 7.  Where in the specified provisions of the PACE Code(s) of Practice, any
+    thing is or is not to be done by a constable, police force or a member
+    of police staff, that thing shall also be done or not done by an
+    immigration officer.
+
+
+ 8.  The Immigration (PACE Codes of Practice) Direction 2000 and the
+    Immigration (PACE Codes of Practice No 2 and Amendment) Direction 2000
+    are revoked, but only insofar as they relate to immigration officers
+    exercising specified powers in England and Wales.
+
+
+
+ 9.  Nothing in this Direction affects the operation of the Immigration
+    (PACE Codes of Practice) Direction 2000 and the Immigration (PACE Codes
+    of Practice No 2 and Amendment) Direction 2000, insofar as they require
+    immigration officers exercising powers in Northern Ireland to have
+    regard to specified provisions of a code of practice issued under the
+    Criminal Evidence (Northern Ireland) Order 19896.
+
+
+
+
+
+
+    Mark Harper
+    Minister for Immigration
+    Home Office
+    15 July 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 6  SI 1989/1341
+
+                                                                           2
+                                 SCHEDULE 1
+
+
+ Column 1
+ (powers exercised under the following provisions)
+ Section 28A of the 1971 Act (arrest without warrant) Section 28AA of the
+ 1971 Act (arrest with warrant)
+ Paragraph 24 of Schedule 2 to the 1971 Act (arrest for breach of bail)
+
+ Paragraph 33 of Schedule 2 to the 1971 Act (arrest for breach of bail)
+
+ Paragraph 7(1) of Schedule 3 to the 1971 Act (arrest for breach of court
+ restrictions pending deportation)
+ Section 109A of the 1999 Act (arrest for section 105 or 106 offence)
+ Section 142(3) of the 1999 Act (arrest for failing to attend for
+ fingerprinting)
+
+ Section 2(10) of the 2004 Act (arrest without warrant for an offence under
+ 2(1) or 2(2) - failure to produce a passport or travel document)
+
+ Section 14(1) of the 2004 Act (arrest without warrant for offences listed
+ in 14(2))
+
+ Section 35(5) of the 2004 Act (arrest without warrant for an offence under
+ 35(3) - failure to co-operate with documentation process for removal or
+ deportation)
+
+ Section 23(1) of the 2007 Act (arrest without warrant for an offence under
+ section 22(1) - assaulting an immigration officer)
+Column 2
+(code provisions for England and Wales)
+Code C - 2.1A, 2.6, 2.6A, 2.7; 6.4; 10.1-10.7, 10.9
+
+Code G - 1.1-1.4; 2.3A; 3; 4
+ Paragraph 17(1) of Schedule 2 to the 1971 Act (arrest without warrant)
+ Section 28B of the 1971 Act (search and arrest by warrant) Paragraph
+ 17(2)(a) of Schedule 2 to the 1971 Act (warrant to enter
+ premises for the purpose of arresting person liable to detention)
+
+ Section 125 of the 1999 Act (entry to accommodation provided under section
+ 95 or 98 for a supported person by warrant)
+
+ Section 45 of the 2007 Act (search for evidence of nationality by warrant)
+Code C - 2.1A, 2.1, 2.6, 2.6A, 2.7
+
+Code G -  1.2, 1.3, 3.3, 4 (not 4.5)
+Code B - 1; 2 (not 2.4, 2.7, 2.11-2.13); 3 (not 3.4, 3.7); 5; 6 (not 6.3,
+6.3B, 6.14, 6.15); 8; 9
+ Section 28D of the 1971 Act (entry and search of premises by warrant)
+
+ Section 28FB of the 1971 Act (searching business premises with a warrant)
+ Section 28C of the 1971 Act (search and arrest without a warrant)
+
+ Section 28CA of the 1971 Act (search and entry of business premises without
+ a warrant)
+Code B - 1; 2 (not 2.4, 2.7, 2.11-2.13); 3 (not 3.4, 3.7); 5; 6 (not
+6.3B, 6.14, 6.15); 7 (not 7.14); 8; 9
+
+
+
+
+Code B - 1; 2 (not 2.4, 2.7, 2.11-2.13); 5; 6 (not 6.1, 6.3, 6.3A, 6.3B,
+6.14, 6.15); 8; 9
+ Section 28E of the 1971 Act (entry and search of premises following
+ arrest)
+
+ Section 28F of the 1971 Act (entry and search of premises following arrest
+ under sections 25, 25A & 25B)
+
+ Section 44 of the 2007 Act (search for evidence of nationality)
+Code B - 1; 2 (not 2.4, 2.7, 2.11-2.13); 5; 6 (not 6.1, 6.3A, 6.3B, 6.14,
+6.15); 7 (not 7.14); 8 (not 8.2, 8.3); 9
+ Section 28FA of the 1971 Act (searching for personnel records without a
+ warrant)
+Code B - 1; 2 (not 2.4, 2.7, 2.11-2.13); 5; 6 (not 6.1, 6.3A, 6.3B, 6.4,
+6.6, 6.13-6.15); 7 (not 7.14); 8 (not 8.2, 8.3); 9
+ Paragraph 25A of Schedule 2 to the 1971 Act (entry and search of premises)
+Code B - 1; 2 (not 2.3-2.5, 2.7, 2.11-2.13); 5; 6 (not 6.1, 6.3A, 6.3B,
+6.14, 6.15); 7 (not 7.14); 8 (not 8.2, 8.3); 9
+ Section 28G of the 1971 Act (searching arrested persons)
+
+ Paragraph 25B of Schedule 2 to the 1971 Act (searching persons arrested by
+ immigration officers)
+
+ Section 28H of the 1971 Act (searching persons in police custody)
+ Paragraph 25C of Schedule 2 to the 1971 Act (searching persons in
+ police custody)
+Code A -1.1, 1.2, 1.5  2.2-2.5 2.9, 2.10, 3.1, 3.2, 3.4-3.7, 3.9, 3.11;
+Annex F
+
+Code B -7 (not 7.14)
+
+Code C - 10.1(c); Annex A Part B; Annex E para 12; Annex L Code A - 3.1,
+3.2
+
+Code B - 7 (not 7.14
+
+Code C -  1 (not 1.11-1.17), 4; Annex A Part B; Annex E para 12; Annex L
+ Paragraph 18(2) of Schedule 2 to the 1971 Act Section 141 of the 1999 Act
+ (fingerprinting) Section 142(4)(b) of the 1999 Act (fingerprinting)
+ Section 35(2)(c) of the 2004 Act (to provide fingerprints etc. for
+ documentation purposes)
+Code D - 4.10
+
+ Sections 5-15 of the  2007 Act (BIDS) Immigration (Biometric Registration)
+ Regulations 2008 (taking fingerprints and or photograph for the issue of a
+ BID)
+ Section 46 of the 2007 Act (seizure of nationality documents)
+ Code B - 7.16, 7.17.
+
+ Section 8(1) PACE
+                        Code B - All provisions (not 2.11-2.13, 3.4, 3.7, 4,
+ 6.14. 6.15 and
+                                     10)
+
+
+ Paragraph 12, Schedule 1 PACE
+              Code B - All provisions (not 2.11-2.13, 3.4(b), 4 and 10).
+ Section 17(1)(a)(i) PACE
+                      Code B - All provisions (not 2.4, 2.11-2.13, 3, 4.2,
+ 4.3, 6.1, 6.3A,
+                                                           6.3B, 6.14,
+                                                           6.15, 7 and 10).
+ Section 18 PACE
+                         Code B - All provisions (not 2.4, 2.11-2.13, 3,
+ 4.1, 4.2, 6.1, 6.3A,
+                                                           6.3B, 6.14,
+                                                           6.15, 7 and 10).
+
+ Section 24(1) to (3) PACE
+                     Code C - 2.1A, 2.6, 2.7; 6.4; 10.1-10.7, 10.9
+
+                                                           Code G - All
+                                                           provisions
+ Section 19 PACE
+                         Code B - 7
+
+ Section 32(1) and (2) PACE
+
+                                                            Code A -1.1,
+                                                           1.2, 1.5, 2.2-
+                                                           2.5 2.9, 2.10,
+                                                           3.1, 3.2, 3.4-
+                                                           3.7, 3.9, 3.11;
+                                                           Annex F
+
+                                                           Code B - 1; 2
+                                                           (not 2.4, 2.7,
+                                                           2.11-2.13); 5; 6
+                                                           (not 6.1, 6.3A,
+                                                           6.3B, 6.14,
+                                                           6.15); 7; 8 (not
+                                                           8.2, 8.3); 9
+
+                                                           Code C - 1.0,
+                                                           1.4, 1.6, 1.7,
+                                                           10.1(c); Annex A
+                                                           Part B; Annex E
+                                                           para
+                                 12, Annex L
+
+ Interview under caution to establish an offence or breach
+    Code C - 1 (not 1.1A - 1.3, 1.9, 1.11, 1.13 - 1.17); 2.6, 2.6A; 6.1,
+ 6.4,
+                                                           6.6-6.17; 10
+                                                           (not 10(c),
+                                                           10.11A); 11; 12;
+                                                           13; 16 (not
+                                                           16.1A, 16.1B,
+                                                           16.2, 16.3,
+                                                           16.6, 16.10);
+                                                           Annex B, C, D
+                                                           and G
+
+                                                           Code E - All
+                                                           provisions (not
+                                                           1.6(a), 1.6(b),
+                                                           1.8, 1.9, 3.2)
+                                                           Code F - All
+                                                           provisions (not
+                                                           1.6(a), 1.6(b),
+                                                           3.2)
+
+
+ Part 1
+SCHEDULE 2
+ Column 1                                                     Column 2
+
+ Police/police force                                        Immigration
+ Enforcement Police officer/constable/police staff              Immigration
+ Officer Inspector
+ Chief Immigration Officer
+
+ Part 2
+ Code Provision (England and Wales)       Modification
+
+
+
+
+
+
+
+ Code A
+
+
+
+
+
+
+
+
+
+
+ 2.2, 2.3, 2.4, 2.5, 2.9, 2.10
+
+
+All references to 'stop and search' or to a person being 'stopped' are to
+be construed as including a reference to an arrested person being searched.
+
+Nothing in the application of this Code shall entitle an immigration
+officer to conduct an intimate search of a person.
+
+Where reference is made to 'suspicion'
+also read 'belief'
+
+ Code B
+ 1.1A
+
+
+
+
+
+
+
+
+
+
+ 2.3
+
+
+
+
+
+
+
+
+ 4.1
+
+
+
+ 6.1
+
+
+
+
+ 7.1(b)
+At the end, insert the further bullet points:
+ . nationality documents, as defined by section 44(5) of the UK Borders Act
+   2007
+ . relevant documents, as defined by paragraph 25A(9) of Schedule 2  to  the
+   Immigration Act 1971
+
+After sub-paragraph (d) insert '(e) under the specified powers of search in
+the Immigration (PACE Codes of Practice) Direction 2013'
+
+After 'section 17' insert 'and section 28C
+of the Immigration Act 1971.'
+
+After 'three calendar months' insert '(or one calendar month for a warrant
+issued under the Immigration Acts)'
+
+Substitute with 'covered by the powers of search and seizure specified in
+the Immigration (PACE Codes of Practice) Direction 2013'
+ 7.5
+
+
+
+
+
+
+
+
+ 7.15
+
+ Code C
+
+
+
+
+ 6.6(b)(i), 6.10, 6.11, 11.18
+
+
+
+
+
+
+
+ 13.1
+
+
+
+
+
+ Code E
+
+
+
+
+ 3.1
+
+
+
+
+
+
+ 3.3
+
+
+
+ 4.18
+
+
+
+
+
+ Code G
+
+ 1.4
+
+
+
+
+
+
+
+
+ 2.3A
+
+
+
+ 3.4
+
+
+
+ 4.1
+Delete 'An officer must have regard to their statutory obligation to retain
+an original document or other article only when a photograph or copy is not
+sufficient.'
+
+Delete the reference to paragraph 7.14
+
+
+All references to 'police station(s)' shall
+be taken to include a reference to
+'immigration office(s)'
+
+Where reference is made to an 'officer of
+superintendent rank' also read
+'immigration inspector or equivalent grade (only when the interview is
+being carried out elsewhere than at a police station)'
+
+Where reference is made to a 'chief officer' also read 'immigration
+Inspector or equivalent grade'
+
+Where reference is made to 'police station(s)', this shall be taken to
+include a reference to 'immigration office(s)'.
+
+After sub paragraph (c) insert '(d) with a
+person cautioned under Code C, section
+10 in respect of any suspected immigration
+offence or breach'
+
+Where reference is made to 'custody officer' also read 'chief immigration
+officer'.
+
+Where reference is made to 'custody officer' also read 'chief immigration
+officer'.
+
+
+
+
+
+After the reference to section 24 of PACE insert 'and the specified powers
+of arrest in the Immigration (PACE Codes of Practice) Direction 2013'
+
+Where reference is made to 'suspicion'
+also read 'belief'
+
+After sub paragraph (b) insert '(c) the arrest is under paragraph 17(1) of
+Schedule 2 to the Immigration Act 1971'.
+
+After 'the nature and circumstances of the offence leading to the arrest'
+insert
+'why the person is liable to be detained
+
+
+                                        under paragraph 16 of Schedule 2 to
+                              the
+                                        Immigration Act 1971'
+
+                                   After 'the reason or reasons why the
+                                  arrest was necessary' insert 'only if
+                                  arrested under section 24 of PACE'
+
+
+
+
+
+
+-----------------------
+
+
+8
+
+
+

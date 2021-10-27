@@ -1,0 +1,451 @@
+Appeal Number: HU/18277/2019
+
+
+
+
+
+
+
+	Upper Tribunal 
+
+	(Immigration and Asylum Chamber)                        Appeal Number: HU/18277/2019
+
+		
+
+THE IMMIGRATION ACTS
+
+
+
+Heard at Manchester CJC 
+
+On 19 November 2020
+
+Decision & Reasons Promulgated
+
+On 25 November 2020
+
+At a remote hearing via Skype
+
+
+
+
+
+
+
+Before
+
+
+
+ UPPER TRIBUNAL JUDGE PLIMMER
+
+
+
+Between
+
+
+
+MEHRUL ALAM
+
+Appellant
+
+and
+
+
+
+SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+Respondent
+
+
+
+Representation:
+
+
+
+	For the appellant:	Mr Youssefian, Counsel
+
+	For the respondent:	Mrs Aboni, Senior Home Office Presenting Officer
+
+	
+
+	DECISION AND REASONS (V)
+
+	
+
+	Introduction
+
+
+
+The appellant contends that the particular circumstances of his private life together with his assertion that but for a brief period of overstaying he was continuously lawfully resident in the United Kingdom (‘UK’) for the requisite 10 years in order to (nearly) meet the requirements of paragraph 276B of the Immigration Rules (‘the Rules’), are such that his appeal should be allowed on Article 8, ECHR grounds.  
+
+
+
+This decision should be read alongside my ‘error of law’ decision sent on 2 October 2020, in which I found that the decision of the First-tier Tribunal (‘FTT’) sent on 11 February 2020 (‘the 2020 FTT’), contained errors of law such that it was set aside, to be remade in the Upper Tribunal (‘UT’).   
+
+
+
+I now remake the decision arising from the appellant’s appeal against the respondent’s decision dated 24 October 2019 to refuse his human rights claim.  
+
+
+
+Background
+
+
+
+The appellant is a citizen of Bangladesh, where he was born in 1982.  On 12 October 2009, when he was 27, he entered the UK as a student, with leave expiring on 30 January 2013.  The appellant has not left the UK since that date.  His immigration history is lengthy and complex, but it is only necessary to summarise it by reference to three stages.  
+
+
+
+The first stage relates to the appellant’s time in the UK as a student.  Whilst on his student visa, he completed a Master’s Degree in Business Administration from the University of Wales on 22 August 2012.  An in-time application to remain in the UK on a ‘Tier 1 post-study’ basis was unsuccessful and the appellant then made an in-time application to remain on human rights grounds. 
+
+
+
+The second stage relates to the appellant’s time in the UK when his leave to remain was lawfully extended by statute pursuant to s. 3C of the Immigration Act from 30 January 2013 to 10 November 2016, when he became appeals-rights exhausted (‘ARE’).  During this period the appellant submitted a number of in-time variation applications.  He was also ultimately successful in judicial review proceedings challenging the failure to grant him an appeal before the FTT.  In a decision promulgated on 24 March 2016 (‘the 2016 FTT’), FTT Judge Meah dismissed the appellant’s appeal on Article 8 grounds, finding inter alia that his private life was unremarkable and limited to links with friends in the UK and a wish to continue with studies and employment here, whereas he came from an affluent family in Bangladesh and could reasonably re-settle there.  His appeal to the UT against that decision was unsuccessful.  It is unnecessary to delve into this second stage of the appellant’s immigration history in any further detail because it is no longer disputed that the appellant was lawfully in the UK during the entirety of this period – see the 2020 FTT’s un-appealed findings at [44] to [54].
+
+
+
+The third stage relates to the period after the appellant became ARE in November 2016.  I turn to this stage in more detail during the course of this decision.
+
+ 
+
+Issues in dispute
+
+
+
+The parameters of this appeal were agreed by the parties at the ‘error of law’ hearing.  It was accepted that the 2020 FTT’s factual findings up to and including [59] were open to it and preserved, in particular the appellant was continuously lawfully resident in the UK from the date of his arrival on 12 October 2009 to 10 November 2016, when he became ARE.  
+
+
+
+Although at the ‘error of law’ hearing the appellant’s case was that he met the 10-year requirement in 276B of the Rules and could demonstrate continuous lawful residence beyond the ARE date to October 2019, his position has now been further clarified by Mr Youssefian both in writing (in his skeleton argument) and before me in oral submissions.  The appellant now accepts that as a matter of law he must be treated as an overstayer after he became ARE, because his further application for leave was made outside the applicable 14-day period (in order for this period of overstaying to be disregarded) on 6 December 2016.  Mr Youssefian conceded that this intervening period of overstaying could not be disregarded when 276B and 34E of the Rules are properly applied.  For reasons I set out below this concession was properly made.
+
+
+
+Mr Youssefian nevertheless submitted that the compelling circumstances relevant to that November-December 2016 period are relevant because the appellant acted in good faith and inadvertently fell through the cracks of a complex change in the applicable legal framework.  Mr Youssefian also submitted that the 6 December 2016 application was not refused until the October 2019 decision.  It was contended on behalf of the appellant that this claimed version of the third stage of his immigration history, taken together with his length of lawful residence in the UK and private life are such that his appeal should be allowed on Article 8 grounds.
+
+
+
+Mrs Aboni on behalf of the respondent submitted that the 6 December 2016 application was refused on 29 June 2017 and belatedly lodged a copy of that decision, the day before the resumed hearing before me.  This rejected the appellant’s outstanding application as invalid and returned the relevant documents.  The appellant submitted that this was never served on him or his solicitors and he varied the outstanding application of his own volition on 17 July 2017.  The respondent’s position was that the appellant’s private life is weak and there remains a strong public interest in his removal.
+
+
+
+Legal framework 
+
+
+
+Paragraph 276B of the Rules
+
+ 
+
+Before considering the parties respective positions and evidence relied upon in further detail, it is convenient at this stage to summarise the legal framework relevant to 276B.  Paragraphs 276A-276D of the Rules have recently been the subject of detailed analysis by the Court of Appeal in Hoque v SSHD [2020] EWCA Civ 1357.  Underhill LJ set out the Rules relevant to paragraph 276B in detail at [7] to [15]. 
+
+
+
+Paragraph 276B provides (so far as material): 
+
+
+
+“The requirements to be met by an applicant for indefinite leave to remain on the ground of long residence in the United Kingdom are that:
+
+(i) (a) he has had at least 10 years continuous lawful residence in the United Kingdom.
+
+(ii) having regard to the public interest there are no reasons why it would be undesirable for him to be given indefinite leave to remain on the ground of long residence, … and
+
+(iii) the applicant does not fall for refusal under the general grounds for refusal.
+
+(iv) the applicant has demonstrated sufficient knowledge of the English language and sufficient knowledge about life in the United Kingdom…
+
+(v) [A] the applicant must not be in the UK in breach of immigration laws, [B] except that, where paragraph 39E of these Rules applies, any current period of overstaying will be disregarded. [C] Any previous period of overstaying between periods of leave will also be disregarded where –
+
+(a) the previous application was made before 24 November 2016 and within 28 days of the expiry of leave; or
+
+(b) the further application was made on or after 24 November 2016 and paragraph 39E of these Rules applied.”
+
+
+
+As Underhill LJ noted, 276B(v) consists of the primary “requirement” ([A]), followed by provision for two circumstances in which periods of overstaying may be “disregarded” ([B] and [C]), the first of which relates to “current … overstaying” and the second to “previous … overstaying between periods of leave”.  
+
+
+
+Paragraph 39E reads: 
+
+
+
+“This paragraph applies where:
+
+(1) the application was made within 14 days of the applicant's leave expiring and the Secretary of State considers that there was a good reason beyond the control of the applicant or their representative, provided in or with the application, why the application could not be made in-time; or
+
+(2) the application was made:
+
+(a) following the refusal of a previous application for leave which was made in-time; and
+
+(b) within 14 days of…”
+
+
+
+Paragraph 39E therefore defines the circumstances in which the fact that an applicant for further leave to remain is an overstayer, may be disregarded. 
+
+
+
+Article 8
+
+
+
+The Nationality Immigration and Asylum Act 2002 (‘the 2002 Act’), as amended, sets out relevant factors to consider when assessing Article 8, ECHR claims. S. 117A(2)(a) requires the judicial decision maker to “have regard to the considerations listed in section 117B ... in considering the public interest question”. The “public interest question” is, in turn, defined in s. 117A(3) as being “the question of whether an interference with a person's right to respect for private and family life is justified under Article 8(2)”.
+
+ 
+
+S. 117B so far as relevant set outs the following “public interest considerations applicable in all cases”: 
+
+
+
+“(1) The maintenance of effective immigration controls is in the public interest. 
+
+(2) It is in the public interest, and in particular in the interests of the economic well-being of the United Kingdom, that persons who seek to enter or remain in the United Kingdom are able to speak English, because persons who can speak English - (a) are less of a burden on taxpayers, and (b) are better able to integrate into society. 
+
+(3) It is in the public interest, and in particular in the interests of the economic well-being of the United Kingdom, that persons who seek to enter or remain in the United Kingdom are financially independent, because such persons - (a) are not a burden on taxpayers, and (b) are better able to integrate into society. 
+
+(4) Little weight should be given to –
+
+(a) a private life, ... that is established by a person at a time when the person is in the United Kingdom unlawfully. 
+
+(5) Little weight should be given to a private life established by a person at a time when the person's immigration status is precarious…”
+
+
+
+Consideration of the effect of a person's immigration status being precarious was given in Rhuppiah v SSHD [2018] UKSC 58; [2018] 1 WLR 5536 and in CL v SSHD [2019] EWCA Civ 1925; [2020] 1 WLR 858 at [58 to 65].
+
+
+
+Hearing before the UT
+
+
+
+Documentary evidence
+
+
+
+Mr Youssefian relied upon a helpful skeleton argument together with a chronology of events starting from 10 November 2016.  This was contained in a 90-page bundle of documents relevant to that chronology (‘the chronology bundle’), not available to the FTT.  These materials were served in compliance with my directions, as set out in the ‘error of law’ decision.  Reliance was also placed on the 197-page bundle before the FTT containing a witness statement from the appellant dated 30 January 2020.
+
+ 
+
+The respondent regrettably responded to directions late and not until the day before the resumed hearing.  Mrs Aboni relied upon a short 2-page ‘response to directions’.  This attached the letter refusing the appellant’s claim as invalid dated 29 June 2017.  This was addressed to the appellant c/o PGA Solicitors, who continue to represent him.  This letter was accompanied by a screenshot from the respondent’s internal computer system.  This records that the application in relation to a case created on 6 December 2016 fell to be rejected because the request for biometric information was ignored and the relevant documents were returned to PGA Solicitors by recorded delivery. 
+
+
+
+Preliminary application 
+
+
+
+At the beginning of the hearing Mr Youssefian invited me to decline to admit the three documents belatedly relied upon by the respondent.  After hearing from both parties I ruled that this evidence would be admitted and gave reasons for this, which I now summarise.  
+
+
+
+There has been regrettable delay in serving this evidence.  All three documents could and should have been placed before the FTT.  The respondent’s decision letter made it clear that she regarded the 6 December 2016 application to have been rejected on 29 June 2017, yet this letter was not provided to the FTT. However, as I noted in my error of law decision the respondent was not represented before the FTT.  At the ‘error of law’ hearing the respondent conceded that the FTT erred in law in accepting that a 29 June 2017 letter rejected the 6 December 2016 application, without hearing submissions from the appellant on this issue.  It is with this in mind that I permitted both parties to adduce further evidence not before the FTT in order for this issue to be fully addressed and gave directions to this effect.  
+
+
+
+The appellant took up this opportunity by providing the additional ‘chronology bundle’.  His representatives did not comply with rule 15(2)(A) of the Tribunal Procedure (Upper Tribunal) Rule 2008 and nor did I expect them to.  This is because: a) it was made clear and by both parties that they wished the UT to consider evidence not before the FTT; b) this evidence was relevant to the chronology after the appellant became ARE including in particular the issue of service of the 29 June 2017 letter; c) the respondent had thus far delayed in serving this letter but it remained relevant to the disputed issues; d) I accepted this evidence was relevant and should be adduced, hence the directions to that effect.  In these circumstances, I rejected Mr Youssefian’s submission that the failure to comply with the requirements of rule 15(2)(A) on the part of the respondent, prevented her from relying upon the materials served. The appellant should have fully expected to receive evidence not before the FTT from the respondent.  
+
+
+
+The respondent’s failure to comply with directions is unfortunate.  Mrs Aboni explained that there were unavoidable IT and sickness absence issues.  She has apologised for the breach of directions and late service of the documents.  In these circumstances I indicated to Mr Youssefian that the real question was whether the appellant had been prejudiced by the late service. I specifically offered Mr Youssefian the opportunity to take further time with his lay and professional client and also indicated that if an adjournment was sought I would be sympathetic to such an application.  Mr Youssefian made it clear that his instructions were that he was ready to proceed and did not require an adjournment. 
+
+
+
+Although there has been delay in the service of the respondent’s documents in breach of directions, Mr Youssefian confirmed that they were relevant to an issue in dispute in the proceedings and he was not prejudiced in continuing with the hearing.  In these circumstances and having considered rule 15 in the specific context of the procedural history of this case and the overriding objective at rule 2, I determined that it was in the interest of justice to admit the documents. 
+
+
+
+Oral evidence
+
+
+
+Arrangements were made for the appellant to give evidence by way of telephone.  I am grateful to the appellant for making himself available for the hearing at what must have been a difficult time for him.  Mr Youssefian had informed me that the appellant’s mother had passed away the night before, but he was nonetheless keen to continue with the hearing and did not want it to be adjourned.  
+
+  
+
+The appellant confirmed the truth of his witness statement before the FTT and the chronology of events prepared on his behalf for this hearing.  He was briefly cross-examined by Mrs Aboni and I asked a few questions to clarify his evidence.  The appellant said that he did not receive the 29 June 2017 letter.  He accepted that he had received letters before this requesting biometrics.  I asked the appellant if there was any reason why his solicitors letter of 17 July 2017 did not refer to the 6 December 2016 application having been varied, but he was unable to assist.  I invited Mr Youssefian to re-examine on this point if he considered it appropriate but he indicated he was content to make submissions on the issue.
+
+
+
+Submissions
+
+
+
+I then heard submissions from both representatives which followed the respective positions I have summarised above.  I refer to those submissions in more detail when making my findings below.
+
+
+
+At the end of the hearing both representatives confirmed that they were content that the hearing, which took place over the course of the morning via Skype for Business, was conducted fully and fairly and they had no concerns whatsoever.  They were satisfied, as was I, that this mode of hearing involved no prejudice to their interests. This was a public hearing as I sat in court at Manchester CJC.  I am satisfied that the mode of hearing was necessary, appropriate and proportionate.
+
+
+
+
+
+Findings
+
+
+
+Period of overstaying between 10 November 2016 and 6 December 2016
+
+
+
+As Underhill LJ noted when setting out the drafting history of 276B in Hoque (supra) at [36], with effect from 24 November 2016, paragraph 34E replaced an earlier regime under which (broadly) any period of overstaying of up to 28 days was overlooked. Mr Youssefian conceded that 34E and not the previous 28-day regime applied to this appellant’s period of overstaying in November / December 2016.  He was right to do so because the relevant implementation provisions made it clear that 39E took effect from 24 November 2016 in relation to applications made on or after that date, and this appellant made his application on 6 December 2016.  It follows that for the purposes of determining whether this period of overstaying could be disregarded, one must turn to 34E and not the previous 28-day regime.  The two circumstances which attract the disregard in 34E are of different characters, but in both the application for further leave needs to have been made within 14 days of the expiry of the previous leave.  Given this, Mr Youssefian was correct to concede that the relevant application for further leave was made 26 days after the appellant became ARE and the appellant therefore could not rely upon the disregard provisions in 34E.
+
+
+
+Given those concessions, the appellant’s period of overstaying from the date he became ARE, i.e. 10 November 2016, could not be disregarded pursuant to any incarnation of policy or the Rules, notwithstanding his application 26 days later on 6 December 2016.  In those circumstances at the date of the respondent’s decision the appellant was unable to meet paragraph 276(i)(a) or 276(v) of the Rules, and that remains the position.
+
+
+
+Mr Youssefian submitted that the appellant inadvertently ‘fell through the cracks’ because at the time he became ARE on 10 November 2016 he had 28 days to make a further application for leave pursuant to a longstanding policy, but that was abandoned on 24 November 2016 and in all the circumstances “discretion should be exercised in his favour”.  During oral argument Mr Youssefian clarified that he meant that this was a relevant factor to be considered as part of the Article 8 balancing exercise, to which I turn to below.  
+
+
+
+29 June 2017 refusal
+
+
+
+As the appellant began overstaying once he became ARE, and that overstaying cannot be disregarded, the issue concerning the date the 6 December 2016 application was determined takes on less significance.  Whatever view is taken on this issue the appellant clearly cannot meet the requirements of 276B.  Mr Youssefian nonetheless submitted that the issue continued to be relevant to a proper determination of Article 8.  He invited me to conclude that as the 29 June 2017 decision letter was not served or at least was unknown to the appellant, it lent support to his claim that he was at all material times acting under the genuine belief that his residence in the UK continued to be lawful.  This is because the appellant believed that the earlier 26 days overstaying could be disregarded and the 6 December 2016 application was not finally determined until 24 October 2019.  I have already found that the former belief was mistaken and I now turn to the latter assertion.  This includes the submission on behalf of the appellant that the respondent cannot displace the burden on her of establishing that the 29 June 2017 letter was served, which I address first.
+
+
+
+Mr Youssefian invited me to find that the respondent did not comply with the requirements of service contained in Appendix SN, which deals with the service of notices of non-appealable immigration decisions, such as the one applicable here – a rejection of an application as invalid, see SN1.2(a).  Such a notice may be given by postal service to the person’s representative, see SN1.3(c).  Where a notice is sent in accordance with paragraphs SN1.2 to SN1.4, SN1.9 states that:
+
+
+
+“it shall be deemed to have been given to the person affected, unless the contrary is proved: 
+
+(a) where the notice is sent by postal service: 
+
+(i) on the second day after it was sent by postal service in which delivery or receipt is recorded if sent to a place within the United Kingdom;…”
+
+
+
+I am satisfied that, pursuant to Appendix SN, the 29 June 2017 letter is deemed to have been given to the appellant because it was sent by recorded delivery postal service to his representatives, and the appellant has not proved the contrary.  In R (Alam) and (Rana) v SSHD [2020] EWCA Civ 1527, Floyd LJ concluded at [31] that “unless the contrary is proved” as contained in Article 8ZB(1) of the Immigration (Leave to Enter and Remain) Order 2000, in relation to notices varying leave “…will not be lightly discharged.  In particular it will not be discharged by evidence, far less by mere assertion, that the notice did not come to the attention of the person affected.”  Mr Youssefian was unable to explain why a different approach should apply to the wording found in Appendix SN 1.9.  In this case there no more than the appellant’s evidence that the letter did not come to his attention.  
+
+
+
+I note the appellant has consistently maintained that he never received the letter.  That is not necessarily surprising as it was addressed to his solicitors and not him.  I was not taken to any evidence from PGA solicitors to confirm that the relevant files were checked and or confirmation from them that this letter was not received.  I appreciate that the respondent served the letter very late, albeit the appellant was aware that reliance was placed upon the service of such a letter since the October 2019 decision letter.  This is why I gave Mr Youssefian every opportunity to apply for an adjournment in the event that it was considered that further rebuttal evidence would be helpful.  Having considered all the evidence in the round, I am satisfied that the letter dated 29 June 2017 was properly served on PGA solicitors and there was therefore lawful service.  First, the contents of the letter itself i.e. that the application was rejected as invalid because the appellant did not provide the relevant biometric information is consistent with the appellant’s own chronology of events prior to May 2017 i.e. he received but ignored requests to provide biometric information.  Second, the letter was addressed to PGA Solicitors and the screenshot confirms that it was sent to them by recorded delivery with a number provided. Although Mr Youssefian asked me to note that he was unable to find such a number in the post office system he acknowledged that this was said to have taken place over three years ago.  Third, the overall chronology including the timing of the 17 July 2017 application is consistent with the earlier application having been rejected. Fourth, I have not been taken to any cogent or compelling evidence to support the appellant’s assertion that the letter was not served upon or received by his solicitors.  
+
+
+
+It is of course possible that the solicitors were properly served with the letter but failed to inform the appellant of its contents.  I note that the appellant has consistently maintained, including as part of his evidence before me that he had no knowledge of the 29 June 2017 letter until reference was made to it in the October 2019 decision.  I have carefully considered this evidence in the round.  It is important to note the terms of the 17 July 2017 solicitors’ letter.  This takes the form of a detailed 4-page covering letter that accompanied a FLR(HRO) i.e. an application for human rights claim,  leave outside the Rules and other routes not covered by other forms.  The covering letter makes no reference to any variation of a previous application and reads as an entirely freestanding initial application.  It also entirely omits to refer to the respondent’s requests for biometric information in letters addressed to PGA Solicitors dated 15 February 2017 and 31 March 2017.  Both these letters noted that the appellant had been requested to provide biometric information and had failed to do so with this warning: “If you do not enroll your biometric information your application will be rejected as invalid.”  In the chronology accepted to be accurate and true by the appellant it is explicitly confirmed that the appellant received these two letters but it is said that as he knew he could not satisfy Rules in the FLR(FP) form he instructed his solicitors to vary that application to FLR(HRO).
+
+
+
+The appellant maintained that he did not receive a letter dated 8 May 2017 addressed to him at home address.  It may well be that this letter was missed by the appellant as it was sent to his home address and was not sent like the previous two letters c/o his solicitors.  I have not been told who the appellant resided with but note in the papers that the address is said to be above a Chinese take-away.  The non-receipt of this letter matters little.  This is because the appellant and his solicitors were well-aware that the FLR(FP) application was bound to fail and that the appellant had failed to respond to two requests for biometric information.  In these circumstances and given that history, it is odd that the 17 July 2017 covering letter made no reference to variation.  As Mr Youssefian acknowledged, although this is unnecessary it represents good practice.  I note that subsequent applications varying the appellant’s original application do make variation explicit – see the covering letters dated 25 July 2018 (pg 46 of the ‘chronology’ bundle) and 18 October 2019 (pg 83 of the ‘chronology’ bundle).  In this context the 17 July 2017 application reads as a free-standing initial application and not a variation application.  In my judgment it reads as such because that is what it was.  The 29 June 2017 letter was served on the appellant’s solicitors.  There is no reason to consider that they would not have sought instructions on this from the appellant.  The appellant must have been expecting a refusal decision because he knew he did not meet the requisite requirements and had ignored requests for biometrics.  The 17 July 2017 application followed closely after the 29 June 2016 rejection.  That history and the terms of the 17 July 2017 letter are consistent with both the appellant and his solicitors knowing that his earlier claim had been rejected.  
+
+
+
+
+
+
+
+Article 8, ECHR
+
+
+
+I now turn to the requisite balancing exercise to be undertaken pursuant to Article 8, ECHR. I begin with reminding myself that the maintenance of effective immigration controls is in the public interest.  
+
+
+
+Although it has not been disputed that the appellant benefitted from continuous lawful leave from the time of his arrival in October 2009 to November 2016, when he became ARE, it is relevant to note the appellant’s exact immigration status during the two stages of that period I have referred to above. In the first stage he was in the UK as a student, and therefore in the UK in a temporary capacity with a declared intention at the time (as part of his visa requirements) to return to Bangladesh, with such leave only valid to January 2013.  For the duration of the second stage the appellant only benefitted from s. 3C leave culminating in the decision of the 2016 FTT that it would not be a disproportionate breach of his private life for him to be removed to Bangladesh.  That conclusion was based at least in part upon the appellant’s inability to meet the requirements of the Rules.  That state of affairs continued.  The 6 December 2016 application was not based upon any assertion that the requirements of the Rules were met.  Indeed the variation application of 17 July 2017 and the further variation application dated 25 July 2018 relied in the main upon the assertion that the appellant had invested time resources and energy into his studies and new life in the UK, and it would be difficult for him to return to Bangladesh.  Although these applications included assertions based upon Article 3, ECHR these were never pursued with any vigour and are absent from the ILR application dated 18 October 2019 (which is predicated upon 276B).  For the avoidance of doubt, Article 3 was not relied upon before either FTT or before me.  It follows that the appellant only met the substantive requirements of the Rules when he was a student.  From February 2013 to becoming ARE, he was in the UK lawfully but pursuant to s. 3C leave.  The appellant then became an overstayer once ARE, albeit I accept he sought on many occasions to regularise his immigration status from December 2016 to October 2019.
+
+
+
+The appellant has therefore not been able to meet any substantive aspect of the Rules for many years.  In addition, even after knowing that the 2016 appeal proceedings had been unsuccessful, the appellant allowed himself to remain in the UK in breach of immigration laws by becoming an overstayer.  Mr Youssefian conceded that the appellant continues to be unable to meet any aspect of the Rules, in particular he cannot meet 276B or the Rules relevant to private life.  Although 276ADE was relied upon in previous applications, this has (quite properly) not been pursued.  Mr Youssefian highlighted the aspects of the appellant’s evidence in which he articulated that he would find life in Bangladesh difficult for reasons relating to the length of time he had been away, his ambitions, the challenging political climate in Bangladesh including his claim that two cousins had been killed and both parents are now passed away.  This is relevant to the overall balancing exercise and I bear these matters in mind but they come nowhere close to meeting the high threshold of ‘very significant obstacles’ required for the purposes of 276ADE.
+
+
+
+The appellant has therefore been unable to meet the substantive requirements of the Rules for a lengthy period and this continues.  There is therefore a prima facie strong public interest in removing him in order to maintain immigration control.  Mr Youssefian argued on the appellant’s behalf that this public interest must be assessed as having been reduced by a number of matters to which I now turn.
+
+
+
+First, the appellant has resided in the UK for a lengthy continuous period in excess of 10 years, the majority of which (up to when he became ARE) was lawful and as a consequence he now has few ties to Bangladesh.  The appellant is unable to meet the requirements of 276B (or any other Rule) for reasons that have already been explained. He spent the first 27 years in Bangladesh, where he was born and where he remains a citizen.  Although the appellant’s parents have sadly both passed away, he has siblings and other family contacts in Bangladesh.  He is educated to tertiary level and given his family contacts, his employment prospects in Bangladesh should be better than for most.  Whilst I accept the current pandemic will make it more difficult for the appellant to start again in Bangladesh, he will have the support of family members and sufficient remaining ties to settle into life there.  The appellant has not been able to work in the UK for a lengthy period and has had to rely upon friends and family.  I note there are many letters written in support of the appellant from friends in the UK.  There is no reason to doubt their evidence that the appellant is a good friend who has done his best in difficult circumstances.  However, I am satisfied that despite the appellant’s lengthy residence in the UK he will be able to reasonably re-integrate to life and employment in Bangladesh where he continues to have ties.
+
+
+
+Second, this is said to be a ‘near miss’ case with compelling and compassionate circumstances.  For the avoidance of doubt I accept in principle that this is not wholly irrelevant particularly where compelling circumstances may exist. This is because the detrimental impact on the public interest will be somewhat less than in a case where the gap between the applicant's position and the Rules is greater - see SS (supra) at [54] to [56]. 
+
+
+
+The appellant may well have been unlucky in the timing of the 6 December 2020 application.  As Mr Youssefian pointed out his position would have been different if he had made his application a few days earlier on 23 November 2016.  He would have then benefitted from the 28-day regime.  However, this ‘near miss’ must be seen in the context of all the relevant circumstances.  The application that was made at the time was bound to fail, as the appellant’s own chronology acknowledges.  In addition, at that time the 2016 FTT had as recently as March 2016 undertaken a full assessment of the appellant’s circumstances.  On the material available to me, there was no material change in these circumstances by November 2016, far less any change capable of supporting a viable fresh human rights claim with reasonable prospects of success.  I appreciate that changes to immigration law are notoriously fast changing and complex and PGA Solicitors may have been working under a misapprehension that the 28-day regime continued (as they noted within the 6 December 2016 covering letter that the application was being made within 28 days of ARE).  However, the undeniable fact remains that the appellant and his advisors appeared content for him to become an overstayer.   They would have known that the appellant  was soon to become ARE and risked breaching immigration laws by becoming an overstayer when the UT refused permission to appeal the 2016 FTT decision on 4 November 2016. The 28-day regime did not obviate overstaying but made it possible for that particular period of overstaying to be disregarded for the purposes of 276B.  Given that the appellant had legal representatives at the time and presumably access to legal advice, it remains difficult to understand why the appellant did not make an in-time application for further leave before he became ARE, rather than becoming an overstayer, with all the risks and difficulties that inevitably entails.
+
+
+
+I have already noted that further applications in 2017 and 2018 contained claims that the appellant would face very significant obstacles reintegrating to Bangladesh and a breach of Article 3, ECHR but these have not been pursued.  In addition, at those times the appellant’s private life in the UK could not be classified in a manner otherwise than that set out within the 2016 FTT decision.  I also note that a further application based upon the same underlying facts (but this time as a SET(O) application) was made on 2 January 2019.  Although this was refused by the respondent in April 2019, after judicial review proceedings she agreed to reinstate the application in August 2019.  Shortly after this the appellant made the application based upon his 10 years of residence in the UK.  
+
+
+
+That above summary of the chronology and my findings in relation to key aspects of it, demonstrate that the appellant may have nearly missed the requirement to be met for his period of overstaying in November / December 2016 to be disregarded, but he came nowhere close to establishing that he could meet any substantive Rule or had any otherwise firm basis to remain in the UK on human rights grounds.  That is so notwithstanding the extensive evidence before me demonstrating that the appellant instructed legal representatives at almost every stage of the many applications he made.   
+
+
+
+I therefore do not accept the straightforward submission that the appellant ‘inadvertently feel through the cracks’.  He may have been unlucky given the change in the legal framework relevant to disregarding overstaying in November / December 2016, but he clearly became an overstayer.  He did so in the knowledge that the 2016 FTT had recently concluded that he had no basis to remain in the UK pursuant to the Rules or on human rights grounds.  He failed to respond to the respondent’s relatively prompt and entirely reasonable requests for biometric information in February and March 2017 and delayed in seeking to correct his application from FLR(FP) to FLR(HRO).  It follows that this is not a ‘near miss’ scenario involving compelling circumstances, that are capable of tipping the balance in the appellant’s favour.  For the reasons I have provided above, I would have reached the same conclusion even if I accepted the appellant’s evidence that he had no knowledge of the 29 June 2017 decision and it was not properly served.  In other words, even if I am wrong to make the findings I did regarding the 29 June 2017 letter, I would have still concluded that the other aspects of the appellant’s immigration history are such that the asserted ‘near miss’ regarding 276B considered in context, are not capable of giving rise to compelling and compassionate factors capable of reducing the prima facie strong public interest in maintaining immigration control in this case.
+
+
+
+My findings on the 29 June 2017 letter are such that the appellant cannot properly categorise his failure to meet the requirements of 276B as a ‘near miss’.  Even if there was a ‘near miss’ regarding the period of overstaying in November – December 2016, there was further overstaying beyond the requisite period to be disregarded between 29 June 2017 and 17 July 2017, which increases the gulf between the appellant’s circumstances and his corresponding ability to demonstrate continuous lawful residence for a 10 year period.  
+
+
+
+The third point relied upon by Mr Youssefian to support his submission that the weight to be attached to the public interest should be reduced relates to the alleged delay on the part of the respondent in making a decision on the appellant’s applications.  The submission that it took the respondent close to four years to determine the 6 December 2016 submission fails to take into account that this application was bound to fail (as acknowledged in the appellant’s chronology), and then the appellant changed the nature of his application on three occasions.  The delay in this case is not solely attributable to the respondent.  Mr Youssefian accepted that this is not a case wherein the appellant was simply waiting for a response to an application for some four years.  
+
+
+
+I do not accept that McCombe LJ’s observations during the course of his minority judgment in Hoque materially assist the appellant, in the light of the majority judgments.  I nonetheless note, as did McCombe LJ, that if this appellant’s applications had been dealt with more promptly by the respondent, he may not have come as close as he did to meeting the requirements of 276B.  I am unable to see how this assists the appellant in an Article 8 claim wherein there is shared responsibility for the delays and where the very delay predicated the alleged ‘near miss’ regarding the long residence pursuant to 276B.
+
+
+
+It should also be noted that at [95] McCombe LJ agreed with the conclusion reached by Dingemans LJ in respect of the Article 8 arguments in each of the cases. He observed that whilst the result in one case seemed particularly harsh, the room for success in such Article 8 cases had become “very slender indeed”.  In all the circumstances, this is not one of those cases where the respondent’s delay can be properly said to undermine the strong public interest in removal – see EB (Kosovo) v SSHD [2008] UKHL 41. 
+
+
+
+I entirely reject the fourth submission that a less stringent approach should be taken to the public interest in this case on the basis that the appellant was, to use the wording of Mr Youssefian’s skeleton argument, “under a reasonable misapprehension that his life in the UK would take a more permanent form as he inched closer” to accruing the 10 year residence in the UK.  The reliance upon [53] of Agyarko v SSHD [2017] UKSC 11 is misplaced.  That case concerned assumptions to be made on the basis of well-established family life in the UK as opposed to weak private life and repeated applications on this basis.
+
+
+
+Finally, the appellant speaks English and has not claimed public funds but these are neutral factors.
+
+
+
+Having considered all matters relevant to the public interest cumulatively I am satisfied that the public interest in this appellant’s removal remains strong.  I now balance the strong public interest in removing the appellant against his private life.  
+
+
+
+The appellant’s immigration status had been precarious (for the purposes of s. 117B) for the first two stages of his immigration history.   To the appellant’s credit he completed an MBA in 2012.  Since that time he has not been in a position to work or study.    He has been an overstayer and unlawfully in the UK since November 2016, albeit he has been diligent in making applications in support of his many attempts to regularise his immigration status.  
+
+
+
+Although the appellant’s private life has been formed when the appellant’s immigration status has been precarious and then unlawful, I am prepared to attach some weight to it given the flexible approach endorsed in Rhuppiah.  Although the appellant has lived in the UK for a relatively lengthy period of over 10 years, he lived in Bangladesh for 27 years and continues to have close family members there.  He has not relied upon any relevant family relationships in the UK.   He has demonstrated that he has made friendships in and has bonds with the UK but he continues to have close ties to Bangladesh and after initial difficulties, no doubt made more challenging by the pandemic, will be able to re-integrate and settle there.   The appellant is in reasonable health and remains relatively young with a good educational background.  Mr Youssefian acknowledged that the 2016 FTT decision was a starting point for my consideration of the appellant’s circumstances but submitted that matters had moved on since then.  Having carefully examined all the evidence relied upon by the appellant before me I agree with the 2016 FTT’s description of the appellant’s private life in the UK at [20].  The appellant has not relied on any features of his private life per se which can be said to be very compelling.  Indeed, it is difficult to see why he has pursued such an uncertain existence in the UK for such a lengthy period when his private life is so weak.  He has been unable to access any employment or studies in the UK for a lengthy period and his ties to the UK beyond the length of his residence and friends are weak.   
+
+
+
+There is insufficient material to demonstrate that the strong public interest in the maintenance of effective immigration controls is outweighed by the appellant’s private life protected under Article 8, ECHR.   In short, on my findings the appellant’s private life is too weak and the public interest too strong to support any other conclusion.  For the avoidance of doubt, this is a conclusion I would have reached even assuming that for whatever reason, the appellant did not actually receive and / or digest the contents of the 29 June 2017 letter.  In such an eventuality his private life remains weak for the reasons I have already outlined and the public interest in removal remains strong for all the other reasons I have outlined, viewed cumulatively. 
+
+Decision
+
+I dismiss the appeal on human rights grounds. 
+
+	
+
+	
+
+	Signed:  Ms Melanie Plimmer							
+
+	Judge of the Upper Tribunal
+
+	
+
+	Dated: 22 November 2020
+
+
+
+
+
+2
+
+
+
+©CROWN COPYRIGHT 2020

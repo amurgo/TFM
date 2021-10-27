@@ -1,0 +1,528 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: DA/01395/2014
+
+                            THE IMMIGRATION ACTS
+
+|Heard at the Royal Courts of Justice          |Decision & Reasons Promulgated|
+|On 2 March 2015                               |On 24 March 2015              |
+|                                              |                              |
+
+                                   Before
+
+                        UPPER TRIBUNAL JUDGE O'CONNOR
+
+                                   Between
+
+                            mr abdullatif mohamed
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Ms G Thomas, instructed by Freemans Solicitors
+For the Respondent:    Mr T Melvin, Senior Presenting Officer
+
+                            DECISION AND REASONS
+
+Introduction
+
+ 1. The appellant is a citizen of Somalia born  on  29  December  1983.  He
+    entered the United Kingdom unlawfully in  1995,  with  his  mother  and
+    three siblings.  Shortly  thereafter  the  appellant's  mother  claimed
+    asylum - the appellant  and  his  siblings  being  dependants  on  such
+    application.  This application was refused in 1996; however, the family
+    were granted exceptional leave to remain until February 1997, which was
+    subsequently extended until February 2000. The  appellant  was  granted
+    indefinite leave to remain on 12 July 2002.
+
+ 2. Between 1999 and 2008 the appellant was convicted of 23  offences.   In
+    January 2009 he was convicted of dangerous driving and was sentenced to
+    ten months' imprisonment and on  7  April  2009  he  was  convicted  of
+    possession of class A and B controlled drugs and sentenced to a further
+    three months' imprisonment.
+
+ 3. As a consequence of this offending behaviour  the  Secretary  of  State
+    decided to make a deportation order against the appellant and  informed
+    him of such by way of a decision of 9 June 2009. The appellant appealed
+    this decision  to  the  Asylum  and  Immigration  Tribunal  and,  in  a
+    determination promulgated on 21 August 2009,  a  panel,  comprising  of
+    Immigration Judge Cooper and Mr P Bompas ("the 2009 Panel"),  dismissed
+    the appeal on asylum grounds but allowed it on Article 3 ECHR  grounds.
+
+
+
+ 4. Of particular  relevance  to  the  instant  appeal  are  the  following
+    passages from the 2009 Panel's determination:
+
+        "[8.15]   (164)[1]: "We accept that  as  compared  with  the  early
+               1990s clan protection is no longer as effective as it was...
+               We think the preponderance of evidence  is  crystallised  in
+               the words of Matt Bryden (see Nairobi evidence) as  follows:
+               "Clans remain important but are no longer  able  to  provide
+               the level of protection or  support  that  they  used  to"".
+               These  findings  contribute  to  our  conclusion  that   the
+               prospects of the  Appellant  securing  protection  from  the
+               Marehan clan are slim.
+
+          [8.16]  (178)[2]: This paragraph makes it clear that an individual
+               such as the Appellant returning to  Mogadishu,  without  any
+               close connections with powerful actors in  the  city,  would
+               face a real risk of persecution or serious harm.
+
+           ...
+
+          [8.21]:  Looking at all the  Appellant's  circumstances,  we  find
+               that there is no obvious part of Somalia to which  he  could
+               relocate, having no  family  or  other  connections  in  the
+               country as a whole.  He is a young man who has  never  lived
+               in that country as an adult, who has a  limited  command  of
+               the language, and who  will  be  perceived  as  a  potential
+               target for robbery or abduction as someone recently returned
+               from Europe.  We also find that he is at  risk  of  forcible
+               conscription into one of the various militias.  We find that
+               on being returned to Mogadishu the  Appellant  would  be  at
+               real risk of treatment contrary to Article 3,  and  that  it
+               would be unduly harsh to require the Appellant  to  relocate
+               to another part of the  country.   We  therefore  allow  his
+               appeal on Article 3 grounds."
+
+ 5. The appellant was convicted  of  yet  a  further  criminal  offence  at
+    Kingston-upon-Thames Crown Court on 20 April 2012; this  time  for  for
+    attempted  robbery.   He  was  subsequently  sentenced  to  38  months'
+    imprisonment.  The Secretary of State informed  the  appellant  of  his
+    liability to deportation on 5 July 2012,  and  the  appellant  made  an
+    asylum claim on 28 August 2013.  On 15 July 2014 the Secretary of State
+    informed the appellant that Section 32(5) of the UK  Borders  Act  2007
+    applies to him and served him with a deportation order, dated  30  June
+    2014, on the following day.
+
+ 6. In a determination promulgated on 30 December 2014 First-tier  Tribunal
+    Judge Miles dismissed, on  all  grounds,  the  appeal  brought  by  the
+    appellant to the First-tier Tribunal; however, on 19 January 2015 First-
+    tier Tribunal Judge Andrew granted the appellant permission  to  appeal
+    to the Upper Tribunal. Thus the matter came before me.
+
+Error of Law - Discussion and Conclusions
+
+ 7. The appellant's grounds of challenge to the decision of Judge Miles can
+    be summarised thus:
+
+      i)  Judge  Miles  either  failed  to  provide  adequate  reasons   for
+         departing, or perversely departed, from the decision  of  the  2009
+         Panel, when concluding that the appellant; (a) had not  established
+         that he would be unable to seek assistance from members of his clan
+         upon his return to Mogadishu and/or (b) "will have no difficulty in
+         communicating because of his command of a Somali language".
+
+     ii) Judge Miles unlawfully concluded "that it is reasonably likely that
+         the appellant would receive financial support in the form of  money
+         transfer remittances from the United Kingdom if deported" from  his
+         mother, in circumstances where his mother's  only  income  is  from
+         receipt of disability benefit.
+
+ 8. Before turning to a consideration of the specific  challenges  made  by
+    the appellant it is prudent to set out the binding  guidance  given  by
+    the Tribunal in the starred determination of  Devaseelan  [2004]  UKIAT
+    00282; a decision which has been widely approved of  by  the  Court  of
+    Appeal.
+
+ 9. Devaseelan concerned a second appeal made on human rights grounds by an
+    asylum seeker whose asylum appeal had previously been  dismissed.   The
+    IAT gave guidance as to the weight to be attached to  the  findings  of
+    the Adjudicator who had rejected the  asylum  appeal.   It  is  not  in
+    dispute that this guidance is of application  in  the  instant  appeal.
+    Insofar as it is relevant, the IAT said as follows in paragraphs 39  to
+    42 of its decision:
+
+          1) The first Adjudicator's determination  should  always  be  the
+             starting point.  It is the  authoritative  assessment  of  the
+             Appellant's status at the  time  it  was  made.  In  principle
+             issues such as whether the Appellant was properly represented,
+             or whether he gave evidence, are irrelevant to this.
+
+          2) Facts happening since the  first  Adjudicator's  determination
+             can always be taken into account by the second Adjudicator.
+
+          3) Facts happening before the first  Adjudicator's  determination
+             but having no relevance to the issues before him can always be
+             taken into account by the second Adjudicator.
+
+          4) Facts personal to the Appellant that were not brought  to  the
+             attention  of  the  first  Adjudicator,  although  they   were
+             relevant to the issues before him, should be  treated  by  the
+             second  Adjudicator  with  the  greatest  circumspection.   An
+             Appellant who seeks, in a later appeal, to add  the  available
+             facts in an effort to obtain  a  more  favourable  outcome  is
+             properly regarded with suspicion from the  point  of  view  of
+             credibility ... for this reason, the adduction of  such  facts
+             should  not  usually  lead  to  any  reconsideration  of   the
+             conclusions reached by the first Adjudicator.
+
+          5) Evidence of other facts - for example country guidance  -  may
+             not suffer from the  same  concerns  as  to  credibility,  but
+             should be treated with caution.
+
+          6) If before the second Adjudicator the Appellant relies on facts
+             that are not materially different from those put to the  first
+             Adjudicator, and proposes to support the claim by what  is  in
+             essence the same evidence as available  to  the  Appellant  at
+             that time, the second Adjudicator should regard the issues  as
+             settled by the first Adjudicator's determination and make  his
+             findings in line with that determination rather than  allowing
+             the matter to be re-litigated ...
+
+          7) The force of the reasoning underlying guidelines (4)  and  (6)
+             is greatly reduced if there is some very good reason  why  the
+             Appellant's failure to adduce  relevant  evidence  before  the
+             first Adjudicator should not be as it were held  against  him.
+             We think such reasons will be rare."
+
+10. Moving on to a consideration of the first of the appellant's grounds of
+    challenge i.e. that Judge Miles erred in  his  conclusions  as  to  the
+    ability of the appellant to secure assistance from his clan members  in
+    Mogadishu.
+
+11. In his determination, at [10] & [11], Judge Miles accurately summarises
+    the findings of the 2009 Panel, including its  conclusions  as  to  the
+    prospects of the appellant securing the protection from members of  his
+    clan in Mogadishu - such conclusions being set out at [4] above.
+
+12. Having set out both the evidence before him and  the  entirety  of  the
+    headnote to the most recent country guidance decision on Somalia -  MOJ
+    & Others (Somalia) CG [2014] UKUT 00442 (IAC) - Judge  Miles  concluded
+    as follows [24]:
+
+         "I must apply that guidance in the light of the  findings  which  I
+         have set out above.  I accept that the  appellant  has  no  nuclear
+         family to whom he can return in  Mogadishu.   However,  I  am  also
+         satisfied he could look to members of the Darod clan for assistance
+         if need be.  That is a majority clan and the appellant is  part  of
+         one of its sub-clans and the fact that he has no  interest  in  his
+         clan identity at the moment does not, in my judgment, mean that  he
+         would not be able to seek assistance from that quarter if minded so
+         to do."
+
+13. Ms Thomas asserts that the aforementioned  conclusion  is  inconsistent
+    with the decision of the 2009 Panel and, in particular,  the  following
+    findings therein:
+
+          "[8.11] The Appellant is a member of the Marehan clan by virtue of
+         his parentage, but knows nothing of their heritage or customs,  and
+         has no connection with any members of the clan in Somalia."
+
+    and
+
+          "[8.15] ...the prospects of the Appellant securing protection from
+         the Marehan clan are slim."
+
+14. The background situation that pertained in Mogadishu at the time of the
+    2009 Panel made its decision were very different to those in  existence
+    when Judge  Miles  considered  the  appellant's  appeal  in  2014.  The
+    circumstances  in  Mogadishu  that  the  2009  Panel  were  faced  with
+    considering were  comprehensively  set  out  in  the  country  guidance
+    decision of AM & AM; the head note to which materially reads at [6(i)]:
+
+         "There is now an internal armed  conflict  within  the  meaning  of
+         international humanitarian law and Article  15(c)  of  the  Refugee
+         Qualification Directive throughout central  and  southern  Somalia,
+         not just in and around Mogadishu.  The armed conflict taking  place
+         in Mogadishu currently amount to indiscriminate violence at such  a
+         level of severity as to place the great majority of the  population
+         at risk of a consistent pattern of indiscriminate violence.  On the
+         present evidence Mogadishu is no longer safe as a place to live  in
+         for the great majority of returnees whose home area is Mogadishu."
+
+15. The 2009 Panel's  conclusions  at  [8.15]  of  its  determination  flow
+    directly from its citation of the relevant passages of the decision  in
+    AM & AM, such passages identifying that whilst clan membership remained
+    important, clans were no longer able to provide the level of protection
+    and support that had previously been the case.  It followed,  concluded
+    the 2009 Panel, that the prospects  of  the  appellant  being  able  to
+    obtain  protection  from  his  fellow  majority   clan   members   from
+    indiscriminate violence in Mogadishu were slim.
+
+16. By the time Judge Miles considered the appellant's appeal in 2014 there
+    had been a significant change in the circumstances in  Mogadishu  -  as
+    identified in the country guidance decision of  MOJ;  the  headnote  to
+    which states at [vii] to [viii] :
+
+         "A person returning to Mogadishu after a  period  of  absence  will
+         look to his nuclear family, if he has one living in the  city,  for
+         assistance in re-establishing himself and  securing  a  livelihood.
+         Although a returnee may also seek assistance from his clan  members
+         who are not close  relatives,  such  help  is  only  likely  to  be
+         forthcoming for majority clan members, as minority clans  may  have
+         little to offer.
+
+         The significance of  clan  membership  in  Mogadishu  has  changed.
+         Clans now  provide,  potentially,  social  support  mechanisms  and
+         assist with access to livelihoods, performing less of a  protection
+         function than previously.  There are no clan militias in Mogadishu,
+         no clan violence and no clan-based discriminatory  treatment,  even
+         for minority clan members."
+
+17. It was in this context that Judge Miles concluded  that  the  appellant
+    could look to members of his majority clan for assistance, if required.
+     It cannot be said, in my view, that Judge Miles was  not  entitled  to
+    find as he did, given the  extent  of  the  change  in  the  background
+    circumstances in Mogadishu between 2009 and 2014. The finding that  the
+    appellant would be able to seek assistance in Mogadishu from members of
+    the majority clan  he  belongs  to  is  entirely  consistent  with  the
+    conclusions set out in MOJ - both as set out in the Tribunal's  general
+    guidance and in its application of that guidance to the  cases  of  the
+    individual appellants[3].
+
+18. Turning to the second of the appellant's grounds, i.e. that Judge Miles
+    erred in concluding that the appellant  would  have  no  difficulty  in
+    communicating in Mogadishu: this has at its  foundation  the  following
+    paragraphs from 2009 Panel's decision:
+
+        "[8.9]:  He is a 25 year old Somali male in good  health.   He  has
+        spent more than half his life in the United Kingdom, having arrived
+        here at the age of 11.  Despite his claim  to  speak  'very  little
+        Somali' we are satisfied that he does speak that language, it being
+        the main  means  of  communication  between  him  and  his  mother.
+        However, we accept that his command of a language is likely  to  be
+        considerably less than a person who has spent his life in  Somalia,
+        particularly as his education has been in English.
+
+        ...
+
+        [8.21]:  Looking at all the appellant's circumstances, we find that
+        there is no obvious part of Somalia to  which  he  could  relocate,
+        having no family or other connections in the country  as  a  whole.
+        He is a young man who has never lived in that country as an  adult,
+        who has limited command of the language, and who will be  perceived
+        as a potential target..."
+
+19. In her submissions Ms  Thomas  focused  on  the  latter  of  these  two
+    paragraphs, but it is important  that  one  considers  the  finding  at
+    [8.21] in its proper context. Paragraphs  8.9  and  8.21  of  the  2009
+    Panel's determination must be read together in order to garner  a  full
+    understanding of both  the  2009  Panel's  reasoning  process  and  its
+    conclusions. When identifying in [8.21] of its determination  that  the
+    appellant had a "limited command of  the  [English]  language",  it  is
+    clear that the 2009 Panel were simply using that  phrase  as  shorthand
+    for its more detailed conclusion on this very issue set out earlier  in
+    its determination at [8.9].
+
+20. It was Ms Thomas' case that the finding in paragraph 29 of Judge Miles'
+    determination i.e. that "he [the appellant] will have no difficulty  in
+    communicating because of  his  command  of  the  Somali  language."  is
+    inconsistent with the conclusions of the 2009 Panel and was, therefore,
+    a finding that breached the Devaseelan principles.   I  do  not  accept
+    that this is so.
+
+21. In paragraph 19 of his determination Judge Miles stated as follows:
+
+         "In terms of his language skills, he [the appellant] claimed at his
+         previous appeal that he spoke very little Somali but  the  Tribunal
+         was satisfied that he did speak the language,  it  being  the  main
+         means of communication between him and his mother.  However, it was
+         accepted that  his  command  of  the  language  was  likely  to  be
+         considerably less than a person who had spent his life in  Somalia,
+         particularly as his education has been in English (paragraph  8.9).
+         In this appeal the appellant again asserted that he does not  speak
+         Somali anymore and, indeed, that he had forgotten that language and
+         Arabic.  In my judgment that was contradicted to some extent by the
+         submissions of his Counsel who referred to him  as  a  person  with
+         limited command of the language.  In answer to questions from me he
+         stated that he continued to speak Somali until he was aged 15 or 16
+         years, i.e. some four years  after  his  entry.   In  his  previous
+         appeal  the  panel  noted  that  Somali  was  the  main  means   of
+         communication between him and his mother.  Although his mother  did
+         not give evidence in this appeal she submitted a letter/document in
+         English language on his behalf and reference to her as  a  possible
+         witness was made in the reply filed on the appellant's  behalf  for
+         the case management review.  That  document  was  received  by  the
+         tribunal administration  on  14  August  2014  and  refers  to  the
+         appellant's  mother  as  a  witness  who  would  require  a  Somali
+         interpreter.  I find that the appellant can  speak  Somali  to  the
+         point where  he  can  communicate  effectively  with  other  Somali
+         speakers because that is the language he uses with his mother.   In
+         my judgment a person does not forget completely a language which he
+         spoke exclusively for the first sixteen years of his life,  and  he
+         was found to be a Somali speaker by  the  previous  Tribunal  which
+         noted that that was  the  main  means  of  communication  with  his
+         mother.  When  she  was  identified  as  a  potential  witness  his
+         representative stated unequivocally that she would  need  a  Somali
+         interpreter, and in her letter  of  support  she  stated  that  she
+         speaks to the appellant every day by telephone.  In my judgment  he
+         would not be at a disadvantage through inability to communicate  in
+         Somalia if deported.  He is also fluent in, and has a high level of
+         understanding of English."
+
+22. I find that Judge Miles had well in mind, and used as a starting point,
+    the findings made by the 2009 Panel as to the appellant's abilities  in
+    the Somali language. Although 2009 Panel accepted that as a consequence
+    of the time the appellant had spent in the United  Kingdom  his  Somali
+    language abilities would be considerably less than those of someone who
+    had lived their entire lives in Somalia, it did not conclude  that  the
+    appellant could not communicate effectively with other Somali  speakers
+    - indeed it found that  it  was  the  main  language  of  communication
+    between him and his mother.
+
+23. Judge Miles took full account of this finding and thereafter considered
+    the up-to-date position insofar as the evidence allowed him to  do  so.
+    Judge Miles gave clear and cogent reasons for rejecting the appellant's
+    assertions  that  he  no  longer  speaks  Somali  and  I  can  find  no
+    contradiction between his conclusions on this issue and the conclusions
+    of the 2009 Panel. Neither do I accept that Judge Miles failed to  give
+    adequate reasons for rejecting the appellant's evidence in this  regard
+    or that such conclusion is perverse.
+
+24. Turning finally then  to  the  third  of  the  grounds  raised  by  the
+    appellant.  The issue to be determined centres on paragraph 21 of Judge
+    Miles' determination, which reads:
+
+         "In terms of his clan, the appellant states that he has no interest
+         in clan affiliation in Somalia, but that does not  alter  the  fact
+         that he is from the Marehan, a sub clan of the Darod,  which  is  a
+         major clan.  That was accepted on his behalf at his previous appeal
+         and the appellant has never sought to move away from that position.
+          I accept that he has  no  immediate  or  extended  family  members
+         living in Somalia.  In terms of the prospect of  financial  support
+         if deported the appellant stated that his mother was in receipt  of
+         benefits because of the serious back condition which I am  prepared
+         to accept.  However, he also stated that one of his brothers is  in
+         employment, but when asked if that brother  could  support  him  he
+         stated that he could not be dependent on him  because  he  was  the
+         older brother and should be the head and leader of the family.   He
+         'doubted' if his brother would support him.  In  my  judgment  that
+         response clearly did not state that his brother would  not  support
+         him and his brother made no witness statement and therefore has not
+         provided any evidence that he would not provide financial  support.
+         Furthermore, and despite the fact that his mother is in receipt  of
+         benefits it is not uncommon for persons in receipt of that type  of
+         income to provide financial support for other close  relatives  who
+         need it.  In those circumstances I find on this evidence that it is
+         reasonably  likely  that  the  appellant  would  receive  financial
+         support in the form of money transfer remittances from  the  United
+         Kingdom if deported."
+
+25. In the written grounds Ms Thomas asserts that  the  approach  taken  by
+    Judge Miles is inconsistent with the legal principle established in  MN
+    (Pakistan) [2002] UKIAT 0139, that; "when benefits are paid to a person
+    in respect of a disability, it is simply improper to conclude,  without
+    more, that that person would be maintained adequately if he or she made
+    the benefits available to someone else."
+
+26. I accept as a matter of legal principle, although not  necessarily  one
+    which can be derived from the decision in MN (Pakistan), that it is not
+    reasonable to expect or require an individual whose income  is  derived
+    solely from public funds in the United  Kingdom  to  provide  financial
+    assistance to a person such as the appellant - who is to be deported.
+
+27. However, in my conclusion Judge Miles was not,  in  his  determination,
+    considering  whether  it  was  reasonable  to  expect  or  require  the
+    appellant's mother to provide financial assistance to the appellant  if
+    he were to be deported, but rather whether she would  in  fact  provide
+    such support if he were to be deported.
+
+28. It cannot be sensibly be argued that if,  as  a  matter  of  fact,  the
+    appellant's mother were to send monies to the  appellant  in  Mogadishu
+    (whether it was reasonable to expect her to do so or not)  the  receipt
+    of such monies by the appellant would be an irrelevant consideration in
+    the assessment of whether his deportation would lead  to  a  breach  of
+    Article 3 ECHR.  The question of whether  the  appellant's  deportation
+    would breach Article 3 must be considered on the basis  of  the  actual
+    circumstances that he would be faced with in Mogadishu. In  particular,
+    the assessment of whether the appellant would be destitute  and  forced
+    to live in a camp upon return to Mogadishu  must  be  informed  by  the
+    appellant's actual financial circumstances there.
+
+29. As I read paragraph 21 of the Judge Miles' determination, the judge was
+    saying no more than that the appellant had not  demonstrated  that  his
+    mother would not provide him with financial assistance if he were to be
+    removed to Mogadishu.  That, in my conclusion, is  a  finding  of  fact
+    that Judge Miles was entitled reach on the available evidence.
+
+30. If I am wrong about this and  Judge  Miles  treated  the  appellant  as
+    though he would have access to monies from his mother - not because his
+    mother would, as a matter of fact, send such monies to him, but  rather
+    because it is reasonable to expect her to do so, I find that such error
+    is not capable of affecting the outcome of the appeal.
+
+31. Irrespective of the  possibility  of  remittances  being  made  by  the
+    appellant's mother, Judge Miles also found,  as  he  was  entitled  to,
+    that; (i) the appellant's brother would provide  financial  support  to
+    the appellant upon his return to Mogadishu, (ii)  the  appellant  could
+    seek assistance from clan members there and (iii)  in  any  event,  the
+    appellant's  skills  are  such  that  he  would  obtain  employment  in
+    Mogadishu.
+
+32. In particular, Judge Miles found in paragraph 26 of  his  determination
+    that:
+
+         "While the appellant  may  well  not  have  access  immediately  to
+         financial resources on return I find that the skills  that  he  has
+         obtained and used in the United Kingdom, particularly in  the  area
+         of  computer  repairs,  would  be  of  significant  advantage   and
+         assistance in improving his chances of security  a  livelihood  and
+         that there is a reasonable likelihood that he could achieve  either
+         employment  or  self-employment  within  a  reasonable  period   of
+         arrival.  I am also satisfied that it is  reasonably  likely  there
+         would be remittances sent to him from the United  Kingdom  for  the
+         reasons which I have given.  I reiterate that I am  satisfied  that
+         he can speak Somali  and  would  therefore  have  no  communication
+         problems in terms of language on return."
+
+33. This is a significant finding when viewed in the context of the country
+    guidance decision of MOJ, the Tribunal  stating  therein  in  its  head
+    note:
+
+         "(x) Put another way, it will be for the person  facing  return  to
+             explain why he would  not  be  able  to  access  the  economic
+             opportunities that have been produced by  the  economic  boom,
+             especially as there is evidence to the effect  that  returnees
+             are taking jobs at the expense of those who  have  never  been
+             away.
+
+         (xi) It will, therefore, only be  those  with  no  clan  or  family
+             support who will not be in receipt of remittances from  abroad
+             and who  have  no  real  prospect  of  securing  access  to  a
+             livelihood on return who will face the prospect of  living  in
+             circumstances  falling  below  that  which  is  acceptable  in
+             humanitarian protection terms."
+
+34. For all of these reasons  I  reject  Ms  Thomas'  submissions  made  in
+    relation to the third of the appellant's grounds.
+
+35. When the First-tier Tribunal's determination is considered as a  whole,
+    I find that it discloses  clear  and  cogent  reasons  as  to  why  the
+    appellant would not face a real risk of being the subject of  treatment
+    contrary to Article  3  ECHR  if  removed  to  Mogadishu,  despite  the
+    conclusions of the 2009 Panel to the contrary which  Judge  Miles  paid
+    proper regard to. The conclusions reached by  the  First-tier  Tribunal
+    were in my view entirely open to it on the available evidence.
+
+
+
+
+
+Notice of Decision
+
+For all of the reasons given above, I find that  the  First-tier  Tribunal's
+determination should remain standing and this appeal is dismissed.
+
+Signed:
+[pic]
+Upper Tribunal Judge O'Connor
+Date: 12 March 2015
+
+
+-----------------------
+[1] This being reference to paragraph 164 of the country guidance decision
+of AM & AM (armed conflict: risk categories) Somalia CG [2008] UKAIT 00091
+[2] This being reference to paragraph 178 of the decision of AM & AM
+[3] See, for example, at [476] to [481] in  which  the  tribunal  considered
+the application of its guidance to appellant SMM, who had left Somalia  when
+he was aged 12,  had lived in the United Kingdom for 17 years  and  who  had
+no connections to Somalia.
+

@@ -1,0 +1,522 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: DA/00246/2018
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                 |Decision & Reasons Promulgated       |
+|On 8 October 2019                    |On 17 October 2019                   |
+|                                     |                                     |
+
+                                   Before
+
+                       THE HONOURABLE MR JUSTICE WARBY
+                        UPPER TRIBUNAL JUDGE CANAVAN
+
+
+                                   Between
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                        JOAO PAULO MONTEIRA FERREIRA
+                       (ANONYMITY DIRECTION NOT MADE)
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Ms S. Cunha, Senior Home Office Presenting Officer
+For the Respondent:    Mr D. Lemer, instructed by Duncan Lewis
+
+
+                            DECISION AND REASONS
+
+ 1. This is an appeal by the Secretary of State against a decision  of  the
+    First-tier Tribunal ("FtT"), in a  case  of  removal  pursuant  to  the
+    Immigration   (European   Economic   Area)   Regulations   2016   ("the
+    Regulations").  The appeal is brought with the permission of the  Upper
+    Tribunal.  The respondent, ("Mr Ferreira"), is a citizen  of  Portugal,
+    born on 2 November 1962.
+
+ 2. On 8 March 2018, the Secretary of State decided to remove  Mr  Ferreira
+    from the UK on grounds of public policy ("the Decision").  Mr  Ferreira
+    challenged the Decision by way of an appeal to the First-tier Tribunal.
+    His case  was  that  the  Decision  was  not  in  accordance  with  the
+    regulation 27 and Schedule 1 of the Regulations,  and/or  that  it  was
+    incompatible with his rights under Articles 3 and 8 of the  Convention,
+    and thus unlawful by reason of s 6 of the Human Rights Act 1998.
+
+ 3. By a decision and reasons promulgated on 25 March 2019, the FtT  (Judge
+    O'Keefe) allowed the appeal, holding  that  the  Decision  was  not  in
+    accordance with the Regulations. The judge did not  need  to,  and  did
+    not, consider the Convention grounds.
+
+ 4. The Secretary of State appealed,  with  the  permission  of  the  Upper
+    Tribunal. In summary, the grounds of appeal were that the judge  failed
+    to apply or misapplied the Regulations and binding precedent,  reaching
+    findings of fact which were not open to her, and provided  insufficient
+    reasons for her proportionality assessment. We heard the  appeal  on  8
+    October 2019. At the end of the hearing we announced  our  decision  to
+    dismiss the appeal, for reasons to be given later. This is  the  formal
+    decision and our reasons for it.
+
+    Factual background
+
+ 5. The key factual background is relatively straightforward, and  was  not
+    contentious before us.  It is set out in detail in the decision of  the
+    judge, from paragraph [22]  onwards,  where  the  judge  sets  out  her
+    findings of fact. We can outline it shortly.
+
+ 6. Mr Ferreira came to the UK in 1991 and, apart from visits  to  Portugal
+    from time to time, he has resided here since then. He has  a  long-term
+    drug addiction. Between 1994 and the date  of  the  hearing  below,  he
+    accumulated 58 convictions for 121 offences, including  99  convictions
+    for shoplifting. These  offences  were  mostly  low-level  thefts  from
+    supermarkets, carried out to fund his addiction to Class A  drugs.  The
+    judge found that all of the offending was "directly related to his long-
+    standing addiction to heroin."  The judge also  found  that  whilst  Mr
+    Ferreira's record showed that he had offended almost every  year  since
+    1994, there had been no convictions between  March  2013  and  December
+    2016, and the most recent conviction was in December 2017.
+
+ 7. Before the judge, Mr Ferreira  sought  to  dispute  or  play  down  his
+    offending to some extent, whilst at the same  time  expressing  remorse
+    and shame. The judge rejected his attempts to dispute his guilt of some
+    of the offences, and found that he  did  himself  no  favours  by  this
+    contradictory stance. She found, however, that there was  a  wealth  of
+    evidence that he was now seeking "professional and targeted support" to
+    deal with his addiction.
+
+ 8. He had completed a six-week course with Mind, and engaged with a  local
+    Wellbeing  Centre.  The  offender  manager  assigned  to  Mr   Ferreira
+    following his most recent  custodial  sentence  reported  that  he  had
+    attended most of  his  appointments,  and  had  engaged  with  offender
+    management. His engagement with  treatment  was,  found  the  judge,  a
+    factor in the reduction in the rate of his offending.  He had been drug-
+    free  since  his  release  from  custody,  save  for   one   "relapse",
+    unaccompanied by further offending. Since 29 January 2019 he  had  been
+    screened weekly, and found to be drug-free.
+
+ 9. In late 2013, Mr Ferreira met Emma Mitchell, a British  national,  with
+    whom he established a relationship. They became a couple in 2014. There
+    had been a break in their relationship, and at one time they had  lived
+    separately, and they seem to have had differing  views  as  to  whether
+    they were or were not engaged to be married.   But  the  judge,  having
+    considered the evidence about this relationship, found, contrary to the
+    case of the Secretary of State, that this was a genuine and  subsisting
+    relationship. This was supported by a report from an independent social
+    worker, indicating that the couple lived  together  in  Folkestone.  It
+    was, she found "clear ... that this relationship has had an  impact  on
+    the appellant's offending behaviour although not stopped it entirely."
+
+    The Law
+
+10. Regulation 27 of the Regulations provides, so far as relevant:
+
+         27.- Decisions taken on grounds of public policy, public  security
+      and public health
+
+
+         (1)  In this  regulation,  a  "relevant  decision" means  an  EEA
+         decision taken on the grounds of public policy, public security  or
+         public health.
+
+
+         (2) ...
+
+
+         (3)  A relevant decision may not be taken in respect of  a  person
+         with a right of permanent residence under regulation 15  except  on
+         serious grounds of public policy and public security.
+
+
+         (4)  A relevant decision may not be  taken  except  on  imperative
+         grounds of public security in respect of an EEA national who-
+
+
+             (a)  has a right of permanent residence under  regulation  15
+             and who has resided in the United  Kingdom  for  a  continuous
+             period of at least ten years prior to the  relevant  decision;
+             or
+
+
+             (b)  is under the age of 18, unless the relevant decision  is
+             in the best interests of the person concerned, as provided for
+             in the Convention on the Rights of the Child  adopted  by  the
+             General Assembly of the United Nations on 20th November 19892.
+
+
+         (5)  The public policy and public  security  requirements  of  the
+         United Kingdom include restricting rights  otherwise  conferred  by
+         these Regulations in order to protect the fundamental interests  of
+         society, and where a relevant  decision  is  taken  on  grounds  of
+         public  policy  or  public  security  it  must  also  be  taken  in
+         accordance with the following principles-
+
+
+             (a)  the  decision  must  comply  with  the   principle   of
+          proportionality;
+
+
+             (b)  the decision must be based exclusively on  the  personal
+             conduct of the person concerned;
+
+
+             (c)  the personal conduct of  the  person  must  represent  a
+             genuine, present and sufficiently serious threat affecting one
+             of the fundamental interests of society, taking  into  account
+             past conduct of the person and that the threat does  not  need
+             to be imminent;
+
+
+             (d)  matters isolated from the particulars  of  the  case  or
+             which relate to considerations of general  prevention  do  not
+             justify the decision;
+
+
+             (e)  a person's  previous  criminal  convictions  do  not  in
+             themselves justify the decision;
+
+
+             (f)  the decision may be taken on preventative grounds,  even
+             in the absence of a previous criminal conviction, provided the
+             grounds are specific to the person.
+
+
+         (6)  Before taking a relevant decision on the  grounds  of  public
+         policy and public security in relation to a  person  ("P")  who  is
+         resident in the  United  Kingdom,  the  decision  maker  must  take
+         account of considerations such as the age, state of health,  family
+         and economic situation of P, P's length of residence in the  United
+         Kingdom, P's  social  and  cultural  integration  into  the  United
+         Kingdom and the extent of P's links with P's country of origin.
+
+
+         ...
+
+
+         (8)  A court or tribunal considering whether the  requirements  of
+         this regulation are met must (in particular)  have  regard  to  the
+         considerations contained in Schedule 1  (considerations  of  public
+         policy, public security and the fundamental  interests  of  society
+         etc.).
+
+
+11. Schedule 1 contains the following relevant provisions:
+
+         "3.  Where an EEA national or the family member of an EEA  national
+         has received a custodial sentence, or is a persistent offender, the
+         longer the sentence, or the  more  numerous  the  convictions,  the
+         greater the likelihood that the individual's continued presence  in
+         the United Kingdom represents a genuine, present  and  sufficiently
+         serious threat affecting of the fundamental interests of society.
+
+
+         4.   Little weight is to be attached to the integration of  an  EEA
+         national or the family member of an EEA national within the  United
+         Kingdom if the alleged integrating links were formed at  or  around
+         the same time as-
+
+
+         (a) the commission of a criminal offence;
+
+
+         (b)  an  act  otherwise  affecting  the  fundamental  interests  of
+         society;
+
+
+         (c) the EEA national or family member of an EEA national was in
+         custody."
+
+
+         5.   The removal from the United Kingdom of an EEA national or  the
+         family member of an EEA national who is able to provide substantive
+         evidence of  not  demonstrating  a  threat  (for  example,  through
+         demonstrating that the EEA national or the family member of an  EEA
+         national has successfully reformed or rehabilitated) is less likely
+         to be proportionate.
+
+
+         ...
+
+
+         7. For the purposes of these Regulations, the fundamental interests
+         of society in the United Kingdom include-
+
+
+         ...
+
+
+         (c) preventing social harm;
+
+
+         ...
+
+
+         (f) excluding or removing an EEA national or family  member  of  an
+         EEA national with a conviction (including where the conduct of that
+         person is likely to cause, or has in fact caused,  public  offence)
+         and maintaining public confidence in the ability  of  the  relevant
+         authorities to take such action;
+
+
+         (g) tackling offences likely to cause  harm  to  society  where  an
+         immediate or direct victim may be difficult to identify  but  where
+         there is wider societal harm  (such  as  offences  related  to  the
+         misuse of drugs or crime with a cross-border dimension as mentioned
+         in Article 83(1) of the Treaty on the Functioning of  the  European
+         Union);
+
+
+         (h) combating the effects of persistent offending (particularly  in
+         relation to offences, which if taken in isolation, may otherwise be
+         unlikely to meet the requirements of regulation 27);
+
+
+         ...
+
+
+         (j) protecting the public; ..."
+
+
+    The Decision
+
+12. The Secretary of State noted that Mr Ferreira had not demonstrated that
+    he had been residing in the UK in accordance with the Regulations,  and
+    that he had not acquired a permanent right of residence.  Consideration
+    had therefore been given to whether his deportation  was  justified  on
+    grounds of public policy or public security. The evidence was found  to
+    demonstrate a propensity to offend, such that Mr Ferreira represented a
+    genuine, present and sufficiently  serious  threat  to  the  public  to
+    justify deportation. The language is that of Regulation 27(5)(c).
+
+13.  The  decision  letter  went  on   to   consider   the   principle   of
+    proportionality  (Regulation  27(5)(a)).  It  reviewed  Mr   Ferreira's
+    offending history, the extent to which he had demonstrated respect  for
+    the law, remorse,  and  progress  towards  rehabilitation.  The  letter
+    considered his age, his health - including his drug use and his  mental
+    health -  and his connections with Portugal, before concluding that his
+    deportation was proportionate and in the public interest.
+
+    The decision of the FtT judge
+
+14. The judge recorded that  it  was  common  ground  before  her  that  Mr
+    Ferreira did not qualify for the higher levels  of  protection  against
+    deportation enshrined in Regulations 27(2) and (3). His entitlement was
+    to the lesser protection conferred by Regulation 27(5)  in  combination
+    with Schedule 1, which has been  described  as  "the  basic  level"  of
+    protection.
+
+15. Unsurprisingly, the judge had  no  hesitation  in  concluding  that  Mr
+    Ferreira was a persistent offender, within paragraph 3 of  Schedule  1:
+    [31]. She was also satisfied that his personal  conduct  represented  a
+    genuine, present and sufficiently serious threat affecting one  of  the
+    fundamental interests of society. She  identified  in  particular,  the
+    fundamental interest specified in Schedule 1, para 7(f).   Mr  Ferreira
+    has not sought to challenge those conclusions. The issue, therefore, is
+    whether the judge was wrong to allow the appeal, as  she  did,  on  the
+    issue of proportionality.
+
+16. The judge's reasoning on that issue was detailed, but can be summarised
+    as follows. Mr Ferreira was 56. He was born in Portugal and lived there
+    until 1991, and speaks Portuguese. His mother lives in Portugal, but is
+    in a care home due to dementia. He has a  daughter  in  Portugal,  with
+    whom (contrary to his own account) he  had  been  in  contact  to  some
+    extent. On the other hand, he has been here since 1991,  and  is  in  a
+    genuine and subsisting relationship with a British national, with  whom
+    he is living. He was reliant on benefits and his partner's income,  but
+    looking for employment.  There was much evidence to show links  to  the
+    community in Folkestone, including a  petition  signed  by  almost  500
+    people, opposing his deportation.  That  said,  Mr  Ferreira  had  been
+    offending for most of his long residence  in  the  UK.  The  Regulation
+    required little weight to be given to  integration  achieved  during  a
+    period of offending. There had however been times, including the period
+    since 2017, when no offending had occurred, to which some weight  could
+    be given. In addition, although his criminal activity was prolific,  no
+    single crime could be considered particularly serious; his  record  was
+    one of acquisitive crime; he showed no propensity to commit violent  or
+    public order offences.
+
+17. The judge  referred  to  the  medical  and  other  evidence  about  the
+    appellant's health, and the  practical  support  given  to  him  by  Ms
+    Barlett. He had chronic physical health conditions  which  limited  his
+    mobility. His condition was progressive and likely to  deteriorate.  Ms
+    Bartlett provided support and a high level of care  in  the  community.
+    The judge accepted that without that support  he  was  likely  to  lose
+    motivation and experience  debilitating  loneliness,  and  to  fail  to
+    engage with  the  medical  and  therapeutic  supports  he  required  to
+    maintain his physical and mental health.
+
+18. The  judge  considered  the  evidence  relating  to  the  prospects  of
+    integration in Portugal. There was evidence from a  Chartered  Clinical
+    Psychologist, Roy Shuttleworth, that  the  outcome  of  deportation  to
+    Portugal "could be quite catastrophic" for Mr Ferreira's  physical  and
+    mental health. His mental state would make it very difficult for him to
+    provide adequately for his day to day  existence.  Maintenance  of  his
+    current regime of treatments was crucial to  his  physical  and  mental
+    health. Significant changes would "hasten his deterioration and  reduce
+    his life expectancy ..." The judge's conclusion was that  the  evidence
+    demonstrated that Mr Ferreira was suffering from  mental  and  physical
+    ill health for which he would require ongoing treatment. Deporting  him
+    to Portugal would have a significant adverse effect on both aspects  of
+    his health.
+
+19. A material issue, therefore, was the  prospect  of  rehabilitation,  an
+    issue considered by this Tribunal in Essa. The judge's approach to  the
+    issue was to direct herself by reference to this Tribunal's decision in
+    MC (Essa Principles Recast) Portugal [2015]  UKUT  00520  (IAC),  which
+    summarised the law in the light of the decision in SSHD  v  Dumliauskas
+    [2015] EWCA Civ 145. She found as facts that:-
+
+    1) The risk was that the appellant  would  continue  to  offend  if  he
+       continued to misuse drugs, in order to feed his habit. But he  would
+       be "highly unlikely to reoffend if he was able to remain drug free".
+       He had engaged with local services successfully, bar a brief relapse
+       which did not lead to reoffending [44], [48].
+
+    2) There was a reasonable prospect of rehabilitation  in  the  UK;  the
+       reduction  in  his  offending  behaviour  "can  be  linked  to   his
+       engagement with treatment and the positive influence of" Ms Bartlett
+       [45]; her role in ensuring he continued to take his  medication  and
+       attended appointments was crucial [46].
+
+    3)  His  prospects  of  continued  rehabilitation  in   Portugal   were
+       "considerably lower than they are in the UK"; he  had  forged  links
+       with relevant drug  and  alcohol  services  and  other  health  care
+       professionals here;  there  was  no  evidence  to  suggest  that  Mr
+       Ferreira's daughter would be willing or able to  take  on  the  role
+       adopted by Ms Bartlett in the UK [46]; there  was  a  risk  that  he
+       would not engage with the facilities available in  Portugal  without
+       the support he has in the UK: [49].
+
+    4) There was a very real risk to his mental and physical health,  given
+       the risk that he would fail to engage promptly with the  appropriate
+       services in Portugal: [51].
+
+20. Summarising (at [50-51]) her chief conclusions, the  judge  gave  "some
+    weight" to Mr Ferreira's integration into the UK and "some  weight"  to
+    the better prospects of rehabilitation in the UK; she gave "substantial
+    weight" to his health problems and the  risk  of  harm  to  his  health
+    attendant on deportation. She took account of his  links  to  Portugal,
+    but noted that they were limited. She took into account the strength of
+    the relationship with Ms Mitchell and the support she  provided  to  Mr
+    Ferreira.   Overall,  she   concluded   that   deportation   would   be
+    disproportionate, and hence not in accordance with the Regulations
+
+    The appeal
+
+21. Ms Cunha did not press the written grounds, which asserted a failure to
+    consider factors specified in Schedule 1. Rightly so, in our  judgment.
+    The judge made clear reference to Schedule 1, and we are  in  no  doubt
+    that she gave consideration to all the listed factors,  in  so  far  as
+    they are material to this case.
+
+22. Ms Cunha did seek to persuade us that the judge had made  one  or  more
+    errors of law in her approach to the question of  proportionality  and,
+    in particular, the application of the Essa principles.  The  judge  had
+    accepted that Mr Ferreira's continuing presence in the UK represented a
+    threat to society. Rehabilitation, on the authorities, is an  issue  to
+    be given little weight in a case concerning someone with  no  right  to
+    reside in the UK. The judge had given the matter undue  weight.  In  Mr
+    Ferreira's  case,  there  was  no  evidence  the   he   had   in   fact
+    rehabilitated, nor was there any evidence that there was a  "reasonable
+    prospect" of rehabilitation which might limit his risk  to  society  in
+    the UK. Ms Cunha argued that there had been a one-sided approach to the
+    assessment of the prospects of rehabilitation.  She  further  submitted
+    that the judge had failed to ask herself a key question: what were  the
+    prospects of Ms Bartlett continuing to provide the  support  which  the
+    judge considered so crucial, given the differing views of the couple as
+    to whether or not they were engaged? The reality was that  the  highest
+    it could be put was that there was a possibility of rehabilitation.
+
+23. The Tribunal queried whether some of  these  points  could  fairly  and
+    properly be advanced. In paragraph [44] of her decision the  judge  set
+    out in full the headnote  to  MC  (Essa  Principles  Recast)  Portugal,
+    including  paragraph  5,  which  reads,  "Reference  to  prospects   of
+    rehabilitation concerns reasonable prospects of  a  person  ceasing  to
+    commit crime ... not  the  mere  possibility  of  rehabilitation."   In
+    paragraph [45], the judge found in terms that  there  were  "reasonable
+    prospects" of rehabilitation.   It  also  seemed  to  us  difficult  to
+    maintain that the judge had given undue  weight  to  the  prospects  of
+    rehabilitation, when she  twice  reminded  herself  of  what  the  Essa
+    principles say about the weight that should be  given  to  the  matter.
+    Pressed by the Tribunal to encapsulate the Secretary of State's grounds
+    of appeal, Ms Cunha confirmed that she was not seeking to suggest  that
+    these passages amounted to nothing more than lip service.  Her  central
+    contention was that the judge's decision on this aspect of the case was
+    Wednesbury irrational.
+
+    Our assessment
+
+24. The issue before the FtT was whether the decision was proportionate  to
+    the public interest aim  pursued,  having  regard  to  the  appellant's
+    health, family and economic situation, his length of residence  in  the
+    UK, his social and cultural integration here, and  the  extent  of  his
+    links abroad, as well as  the  public  interest  factors  specified  in
+    Schedule 1 to the Regulations.  The  judge  was  required  to  make  an
+    evaluative judgment, that took account of all the material facts.  This
+    Tribunal would not  interfere  with  such  an  assessment,  unless  the
+    appellant in this Tribunal was able  to  show  that  the  decision  was
+    infected by an error of law.
+
+25. We see no merit in the criticisms contained in the grounds  of  appeal,
+    and initially advanced in argument by Ms Cunha, that the  judge  failed
+    to have regard to the factors listed in Schedule 1 to the  Regulations,
+    or failed to apply the relevant authorities. As we have indicated,  the
+    decision of Judge O'Keefe expressly cites the legal materials to  which
+    she  is  alleged  to  have  failed  to  have  regard,  identifies   the
+    appropriate tests, and expressly applies them.
+
+26. A suggestion was made in the grounds  and  skeleton  argument  for  the
+    Secretary of State, that there was a conflict or inconsistency  between
+    (1) the judge's acceptance that Mr Ferreira represents a present threat
+    to society and (2) her findings in relation to rehabilitation. This  is
+    a false dichotomy. The first issue concerns the situation as it  stands
+    at the time of the Tribunal's decision, and is concerned with the  risk
+    that something may happen in the future. The second issue is  what  may
+    come to pass in the future, and the degree of likelihood of it happing;
+    the  question,  to  be  precise,  is   whether   the   "prospects"   of
+    rehabilitation are reasonable. The fact  that  Mr  Ferreira  could  not
+    demonstrate that he was already rehabilitated was relevant,  but  could
+    not properly be viewed as determinative of  what  might  reasonably  be
+    expected in the future.
+
+27. The grounds of appeal, and to some extent Ms Cunha's submissions to us,
+    criticised Judge O'Keefe for allegedly overlooking material  facts,  or
+    failing to make  findings,  or  providing  an  insufficiently  reasoned
+    decision. We see no merit in  any  of  those  criticisms.  The  grounds
+    complain, for example, that  the  judge  made  no  finding  as  to  the
+    likelihood of Mr Ferreira's rehabilitation if Ms Barrett  travelled  to
+    Portugal with him, if he was deported. But, as the  judge  recorded  at
+    [16], Mr Ferreira's case was that he could not expect her to  do  this,
+    her whole life being in the UK. We see no sign that this was challenged
+    on behalf of the Secretary of State.
+
+28. In our judgment, Mr Lemer was right to submit  that  the  Secretary  of
+    State comes nowhere near making out a case of irrationality. The  judge
+    identified the applicable principles, reviewed the  relevant  evidence,
+    made findings of fact which were open to  her  on  that  evidence,  and
+    arrived at an assessment of proportionality which cannot be impugned as
+    irrational.
+
+29. The reality is that this appeal is borne of  little  if  anything  more
+    than disagreement with the decision of the FtT  judge.   That  decision
+    was one which the judge was entitled to reach on  the  evidence  before
+    her. The Secretary of State has failed to establish any of  the  errors
+    of law which have been alleged, and the decision of the FtT must stand.
+
+
+Notice of Decision
+
+The appeal is dismissed
+
+No anonymity direction is made.
+
+
+Signed        Mark Warby         Date 16 October 2019
+The Hon Mr Justice Warby, sitting as an Upper Tribunal Judge

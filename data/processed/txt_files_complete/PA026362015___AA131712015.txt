@@ -1,0 +1,807 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)                Appeal Numbers:
+PA/02636/2015
+
+                                        AA/13171/2015
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House                  |   Decision & Reasons Promulgated    |
+|On 17 October 2018                    |On 22 May 2019                       |
+|                                            |                              |
+
+
+                                   Before
+
+                      MR C M G OCKELTON, VICE PRESIDENT
+                        UPPER TRIBUNAL JUDGE O'CONNOR
+
+                                   Between
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                                     NF
+                                     KKA
+                         (Anonymity directionS made)
+                                                                 Respondents
+
+Representation:
+
+For the SSHD:        Ms M Bayoumi, instructed by the Government Legal
+Department
+For NF:     Ms A Weston QC, instructed by Luqmani Thompson & Partners For
+KKA:  Ms R Chapman, instructed by Birnberg Pierce & Partners
+
+Direction Regarding Anonymity - Rule 14 of  the  Tribunal  Procedure  (Upper
+Tribunal) Rules 2008
+
+Unless and until a Tribunal or court directs  otherwise,  NF  and  KKA  (the
+respondents herein) are granted anonymity.  No report of  these  proceedings
+shall directly or indirectly  identify  the  respondents  or  any  of  their
+family members.  Failure  to  comply  with  this  direction  could  lead  to
+contempt of court proceedings.
+
+
+                            DECISION AND REASONS
+
+
+Introduction
+
+ 1. NF is the husband of KKA and both are nationals of Kenya. These appeals
+    are brought before the Upper Tribunal by the Secretary of State for the
+    Home  Department  ("SSHD")  challenging  decisions  of  the  First-tier
+    Tribunal ("FtT") allowing the appeals of NF and KKA.
+
+
+
+
+ 2. The SSHD accepted before the FtT that removing  NF  and  KKA  to  Kenya
+    would lead to a breach of Article 3 ECHR.
+
+
+
+ 3. The central issue in NF's appeal before the FtT was whether  he  should
+    be  excluded  from  the  protection  of  the  Refugee   Convention   by
+    application of Article 1F(c) thereof. The FtT found in NF's  favour  on
+    this issue, concluding that he "is a refugee".
+
+
+
+ 4. The issues before  the  FtT  in  KKA's  appeal  were  (i)  whether  the
+    requirements of Article 1A(2) of the Refugee Convention  were  met  and
+    (ii) whether she should  be  excluded  from  a  grant  of  Humanitarian
+    Protection pursuant  to  application  of  paragraph  339D(iii)  of  the
+    Immigration Rules. The FtT found for KKA on both issues and allowed her
+    appeal on Refugee Convention grounds.
+
+
+
+ 5. The appeals before the Upper Tribunal centre on the approach by the FtT
+    to application of Article 1F(c) of the Refugee Convention (in  relation
+    to NF) and paragraph 339D(iii) of the Immigration Rules (in relation to
+    KKA). For this reason,  consideration  of  the  appeals  by  the  Upper
+    Tribunal was stayed pending a decision from  the  Court  of  Appeal  in
+    Youssef & N2 v SSHD [2018] EWCA Civ 933, which was handed  down  on  26
+    April 2018, and the writing of  this  judgment  was  delayed  with  the
+    intention of being able to take into account the decision of the  Upper
+    Tribunal on that remitted appeal.
+
+
+
+Factual Background
+
+
+
+
+ 6. NF entered the United Kingdom on 6 October 2007 with leave to enter  to
+    study aerospace engineering. His leave was subsequently extended so  as
+    to expire on 15 December 2012. KKA was granted leave in line  with  her
+    husband.
+
+
+
+
+ 7. On 4 December 2011 both were stopped at Heathrow airport  on  returning
+    to the UK from Kenya. A property search  revealed  an  iPod  containing
+    images of armed persons with flags associated with Al Shabaab, and also
+    included  photographs  featuring  both  male  and  female  'terrorists'
+    training on a beach with weapons. None of the photos said to feature Al
+    Shabaab also featured either NF or KKA. The iPod also contained a large
+    number of audio files that suggested to the interviewing  officer  that
+    NF had an "extremist mindset".  It is said that some of the audio files
+    were  produced  directly  by  Al  Qaeda  and  were  considered  to   be
+    motivational  in  nature  and  designed  to  encourage/glorify  suicide
+    operations, giving advice on conducting Jihad.
+
+
+
+ 8. NF stated in interview that he had downloaded  these  photographs  from
+    the internet approximately four months earlier because he  was  curious
+    about why so many Somali people were coming over the border into  Kenya
+    and he thought Al Shabaab were  responsible  for  this  migration.  The
+    Kenyan Army were fighting against Al Shabaab and he was "very  keen  on
+    events" involving his country. He had downloaded  the  speeches  of  Dr
+    Omar Bakri in 2008. Dr Bakri was a "visiting Sheikh" who  had  given  a
+    talk about understanding prayer. NF had "curiosity about this  person".
+    KKA stated that the iPod in her husband's possession had been found  by
+    him in Africa and  that  anything  found  on  this  iPod  was  not  her
+    husband's responsibility.
+
+
+
+ 9. It was later discovered that on the day NF and KKA returned home  after
+    being released from the airport, NF deleted  many  thousands  of  files
+    from a computer registered to KKA's name. KKA asserted  that  she  said
+    she had never used this computer.
+
+
+
+10. On 17 April 2012, the police searched the family residence.   Detective
+    Sergeant Anthony Horrocks, of the North  West  Counter-Terrorism  Unit,
+    and his team seized various electronic devices including  KKA's  mobile
+    telephone, NF's mobile telephone, KKA's  laptop,  the  iPod  previously
+    examined at Heathrow Airport and a digital  hard  drive.  The  material
+    discovered  on  these  devices  was  described  by  Detective  Sergeant
+    Horrocks,  as  seeking  to  "glorify,  explain,  justify  or  otherwise
+    encourage acts of terrorism".
+
+
+
+11. NF was charged on three counts  of  possessing  information  useful  to
+    terrorism contrary to section 58(1)(b) of the Terrorism Act 2000:
+
+
+
+         Count 1 - Possessing a document referred to as "Inspire  2",  which
+         contained instructions that were used by others  recently  to  make
+         the pressure cooker bombs that were detonated in  the  Boston,  USA
+         attacks.  It also contained practical  instructions  on  encrypting
+         sensitive terrorist  information.   Encryption  software  had  been
+         downloaded and used by NF as per these instructions.
+
+
+
+
+         Count 2 - Possessing a document referred to as "39  Ways  to  Serve
+         and Participate in Jihad", the details of which are set out in  the
+         FtT's decision.
+
+         Count 3 - possession a document referred to as "Physical Planning".
+
+12. KKA was not charged with a criminal offence, although her telephone was
+    found to contain a contacts list which included an entry relating to  a
+    "a convicted terrorist" and another relating to "a  leading  figure  in
+    Muslims Against Crusaders". KKA was also said to be in contact with (i)
+    the wife of a leading member  of  Supporters  of  Taweed,  such  person
+    having himself been convicted of supporting  proscribed  organisations,
+    and (ii) Ruksana Begum, a person who received a 12 month  sentence  for
+    possessing documentation useful for terrorism and  who's  brothers  are
+    respectively serving sentences of 16  and  12  years  imprisonment  for
+    engaging in conduct in preparation for a terrorist act.
+
+
+
+13. NF pleaded not guilty to all three counts on  the  indictment  but  was
+    convicted on 14 March 2013 at the Central Criminal Court  on  Count  2.
+    NF was acquitted on Counts 1 and 3 of the indictment.   In  respect  of
+    Count 2, NF was sentenced to nine months' imprisonment and  recommended
+    for deportation.  In sentencing, the judge commented:
+
+
+
+
+         "You have been convicted by the jury of one count of  possessing  a
+         record containing information likely  to  be  useful  to  a  person
+         committing or preparing an  act  of  terrorism.   The  material  in
+         question consisted of a version of 39 Ways to Serve and Participate
+         in Jihad, best described in my view as a terrorists manual.  It  is
+         available over the net which is how you got it and it is  right  to
+         say you are not the first person to be convicted in the  courts  of
+         this country for possession or versions of it. ...
+
+
+
+
+         It was, as far as you are concerned, part  of  a  very  substantial
+         quantity of material that you had downloaded  and  stored  on  your
+         computer and external hard drive.   I  make  clear,  however,  that
+         despite the volume this is not put forward and never has  been  put
+         forward as a specimen charge, although there was other material  of
+         an encouraging to Jihad nature which of course is  not  an  offence
+         under the section.  ...
+
+
+
+
+         ... Parliament has determined that such is the need to protect  the
+         public or sections of  it  anywhere  in  the  world  from  acts  of
+         terrorism  that  even  possessing  material  that  may  help  those
+         contemplating terrorism in a practical way should  be  against  the
+         law and those doing it should be punished, in particular  in  order
+         to deter others.  There remains the question of deportation in your
+         case since the sentence is one of less than  twelve  months  and  I
+         have considered whether or not I should make such a recommendation.
+         In my view such is the need to protect the public that  looking  at
+         all the circumstances of your conduct it is  proper  to  make  that
+         recommendation."
+
+
+
+14. On 24 April 2013, NF was served with a 'notice of decision to  deport',
+    but this decision was withdrawn on 7 June 2013in  order  to  allow  the
+    SSHD to consider NF's asylum claim. A subsequent negative decision  was
+    also withdrawn, and both NF and KKA were given  6-months  discretionary
+    leave (pursuant to the SSHD's Restrictive  Leave  policy)  -  it  being
+    acknowledged by the SSHD that each would be at risk of ill treatment if
+    returned to Kenya.
+
+
+
+15. On 2 November 2015, the SSHD made a decision excluding NF from  Refugee
+    Convention protection. On the same date a decision was made in relation
+    to KKA refusing her Refugee Convention claim and excluding her  from  a
+    grant of Humanitarian Protection.  NF and KKA appealed these  decisions
+    to the FtT.
+
+Legal Background
+
+16. Article 1F(c) of the Refugee Convention provides:
+
+
+
+         "The provisions of this Convention shall not apply  to  any  person
+         with respect to whom there  are  serious  reasons  for  considering
+         that:
+
+         ...
+
+
+
+
+         (c)      he has been guilty of acts contrary to  the  purposes  and
+         principles of the United Nations."
+
+
+
+
+17. Paragraph 339D of the Immigration Rules states that a person  will  not
+    be eligible for a grant of  humanitarian  protection  in  circumstances
+    where:
+
+
+
+
+       "(ii)      there are serious  reasons  for  considering  that  he  is
+           guilty of acts contrary to the purposes and  principles  of  the
+           United Nations or has committed,  prepared  of  instigated  such
+           act;
+
+
+
+
+       (iii)       there  are  serious  reasons  for  considering  that   he
+           constitutes a danger to the community or to the security of  the
+           United Kingdom".
+
+
+
+
+18. In Al-Sirri v Secretary of State for the Home Department [2012] UKSC 54
+    the Supreme Court stated, when considering Article 1F(c):
+
+
+
+      "16.  ... The article should be interpreted restrictively and  applied
+           with caution.  There should be  a  high  threshold  'defined  in
+           terms of the gravity of the act in question, the manner in which
+           the act is organised, its  international  impact  and  long-term
+           objectives, and the implications  for  international  peace  and
+           security'.  And there should be serious reasons for  considering
+           that the person concerned  bore  individual  responsibility  for
+           acts of that character."
+
+
+
+
+19. In Youssef, the Court of Appeal, in dismissing  the  applicant's  first
+    two grounds, rejected the contention that the Upper Tribunal had  erred
+    in finding that  individual  responsibility  for  acts  falling  within
+    Article  1F(c)  can  arise  solely  by  way  of  implicit  or  explicit
+    encouragement of such acts, in the absence of evidence that the offence
+    has been committed or attempted. In the considering the  third  ground,
+    in which it was asserted that the  Upper  Tribunal  had  erred  in  its
+    consideration of whether the applicant's own activities  of  publishing
+    speeches and sermons was sufficient to engage article 1F(c), Irwin  LJ,
+    with whom McCombe and Rafferty LJJ agreed, summarised the  guidance  to
+    be drawn from Al-Sirri in the following terms:
+
+       "83. ... There is a high threshold before Article 1F(c) is triggered.
+            The activity must be capable of affecting  international  peace
+           and security.   However,  the  Court  concluded  that  'inducing
+           terror in  the  civilian  population  or  putting  such  extreme
+           pressures upon a government will  also  have  the  international
+           repercussions referred to ...'.  That is clearly  an  issue  for
+           specific  consideration  by  the  relevant  court  or  tribunal.
+           Finally, the question whether such  international  repercussions
+           may be established by  a  person  plotting  in  one  country  to
+           destabilise another is a question  of  fact.   The  question  is
+           whether the 'resulting acts have the requisite serious  effect'.
+           In short, do the relevant acts have the necessary character  and
+           the necessary gravity?
+
+
+       84.  In considering that guidance it is worth bearing  in  mind  that
+           the decision in Al-Sirri pre-dated  the  2014  Security  Council
+           Resolution.  I have set out the relevant terms of the Resolution
+           in paragraph 41 above.  The terms of the  Resolution  underscore
+           the State's obligation to 'prevent  terrorists  from  exploiting
+           technology, communications and resources to incite  support  for
+           terrorist acts' and 'to ensure ... that refugee  status  is  not
+           abused by the ... facilitators of terrorist acts', in all  cases
+           acting 'in conformity with ... international refugee law'.  This
+           Resolution is very direct in its call to action.
+
+
+       85.  It may be helpful to consider separately the quality of the acts
+           in question,  and  their  gravity  or  severity.   To  adopt  an
+           illustration which arose in argument, it is easy to conceive  an
+           immature 18 year old going online from his suburban bedroom, and
+           using the most lurid terms in calling for  international  jihad.
+           The nature or quality of this would, it seems to me, satisfy the
+           requirements  of  Article  1F(c).   It  would  represent  active
+           encouragement or incitement of international  terror.   However,
+           it would be unlikely, without more, to be grave  enough  in  its
+           impact to satisfy the approach  laid  down  in  Al-Sirri.   That
+           might  well  require  more:  evidence  of   wide   international
+           readership,  of  large-scale  repetition  or   re-tweeting,   or
+           citation by those who were moved to join an armed struggle,  for
+           example.
+
+
+       86.  It is obviously right, for the  reasons  given  by  the  Supreme
+           Court in Al-Sirri, that careful consideration is  given  to  the
+           gravity or impact of any acts relied on.  This is the answer  to
+           the  Appellant's  arguments  as  to  the  vital  importance   of
+           protection of refugees, and that such protection should  not  be
+           lost for 'mere speech'.  Freedom of speech is a qualified  right
+           under the United Nations Convention, as under the  ECHR  or  the
+           European Charter."
+
+
+Decision and Discussion - NF
+
+20. In a decision promulgated on the 26 October  2016,  the  FtT  made  the
+    following findings  of  fact,  which  have  not  been  the  subject  of
+    challenge:
+
+
+
+        i) NF accepted that he had an "extremist mindset" [28];
+
+       ii) NF had in his possession all of the items that  he  was  charged
+           with possessing, notwithstanding that he was acquitted on counts
+           1 and 3 of the indictment that he faced at the Central  Criminal
+           Court [54].
+
+      iii) NF did not provide a credible explanation as to why he  had  the
+           material stored on his computer [53];
+
+       iv) There was no evidence that NF had been a member of any terrorist
+           group [54];
+
+        v) There was no evidence that NF had incited others  to  terrorism,
+           and he had not been charged with participating in  terrorism  or
+           inciting it [54];
+
+       vi) The mass of evidence accumulated against NF did not  disclose  a
+           case to pursue these more serious charges [54];
+
+      vii) NF was someone with an obsessive interest in  Islamic  terrorism
+           and possibly he still has that interest [54];
+
+     viii) NF has developed sympathies with Al Shabaab in Kenya [54];
+
+       ix) It is a matter of speculation whether he would  have  joined  Al
+           Shabaab upon return to Kenya on completion of his studies [54];
+
+        x) NF has been in contact with known extremists [64].
+
+
+
+
+21. In concluding that NF is  not  excluded  from  the  Refugee  Convention
+    pursuant to Article 1F(c), the FtT said:
+
+
+
+
+         [59] ... The question I have to ask in this appeal is  whether  the
+         appellant's possession of all of this material at the time when  he
+         must have had the "mindset" of a terrorist or at the very  least  a
+         sympathiser with these groups, when  viewed  with  his  association
+         with "known extremists" was enough to constitute "serious  reasons"
+         for  believing  that  the  appellant's  conduct  was   capable   of
+         constituting an act or acts contrary to the  purposes  of  the  UN.
+         This begs the question whether the possession of this material  and
+         the appellant's "mindset" at the time he collected all of this  and
+         his association with "known extremists" and sympathy  with  Islamic
+         terrorism is enough to meet  this  test.   I  have  had  difficulty
+         notwithstanding the serious concern anyone would have about someone
+         downloading and storing all of this  when  in  contact  with  known
+         extremists, in elevating the appellant's conduct to  a  level  that
+         could properly be called an act or acts contrary to the purposes of
+         the UN.  The totality of the evidence before me suggests that  this
+         appellant was of a mindset that would have helped explain  any  act
+         of terrorism committed  by  the  appellant  had  the  appellant  so
+         behaved.  The problem faced by the respondent  in  this  appeal  is
+         that the appellant has not taken this disturbing  interest  further
+         into the realms of terrorism or incitement to terrorism.  If he had
+         then Article 1F(c) would certainly apply. ... [emphasis added]
+
+
+
+
+         [65] ... Notwithstanding the volume of evidence to  show  that  the
+         appellant possessed what Detective Sergeant Horrocks has  described
+         as a "terrorist mindset" there is a paucity  of  evidence  to  show
+         that the appellant has actually  committed  any  criminal  offence,
+         other than the three counts on the indictment that he  was  charged
+         with.  I have taken as my starting point in this analysis that I am
+         satisfied on the balance of probabilities that  the  appellant  had
+         committed all three of the offences charged in  the  indictment  at
+         his trial, not just count 2 of the indictment that he was convicted
+         on.  But having reached  that  conclusion  and  having  taken  into
+         account the disturbing evidence that  the  appellant  has  been  in
+         contact with known extremists in the United Kingdom, I find that it
+         is not enough to meet the threshold of Article 1F[c] set out  above
+         by the Supreme Court in Al-Sirri v SSHD.  Therefore the appellant's
+         appeal against  the  Secretary  of  State's  decision  that  he  is
+         excluded from protection of the Refugee  Convention  under  Article
+         1F(c) is allowed.  It is already conceded by the respondent that in
+         these circumstances he is a refugee by reason of being at risk upon
+         return to Kenya by reason of his imputed political  opinion  as  an
+         Islamist extremist."
+
+
+
+
+22. The core of the SSHD's challenge to the FtT decision is summarised thus
+    in the grounds of appeal:
+
+
+
+        "The respondent contends that the IJ  strayed  into  material  error
+        when he considered that the threshold in Article 1F was not  met  on
+        the basis that the appellant had not committed or  incited  acts  of
+        terrorism.  On the  basis  of  the  findings  of  fact  he  made  at
+        paragraphs 53, 54 and 59 of the Decision, the proper application  of
+        the relevant test can only lead to  one  conclusion  -  namely  that
+        exclusion is justified."
+
+
+
+
+23. Permission was subsequently granted for the SSHD to amend  his  grounds
+    so as to rely upon the Court  of  Appeal's  decision  in  Youssef.  The
+    substance of the challenge, nevertheless, remained the same.
+
+
+
+
+24. At the hearing, Ms Bayoumi maintained that the FtT erred in  concluding
+    that the acts relied upon by the SSHD could  not  in  principle  engage
+    Article 1F(c) on the basis that they were not in  themselves  completed
+    or attempted terrorist acts, nor could they be shown  to  have  led  to
+    specific completed or attempted terrorist acts by others.  She  further
+    submitted that the "huge volume" of extremist material held by NF, NF's
+    extremist mindset, the type of material collected by NF which  included
+    a manual on how to serve  and  participate  in  Jihad,  the  number  of
+    devices used by NF to collect/store the  material,  and  his  continued
+    actions after having been  detained  at  the  airport,  provided  ample
+    justification for NF's exclusion pursuant to Article 1F(c). We did  not
+    call on counsel for NF or KKA
+
+
+
+
+25. Taking the issues  in  turn,  we  first  determine  whether  the  FtT's
+    decision contains an error of law. The focus of the SSHD's attention in
+    this regard is the penultimate sentence of paragraph 59  of  the  FtT's
+    decision (set out above) which, it is said, runs contrary to the  ratio
+    of the Supreme Court's decision in Al-Sirri and the Court  of  Appeal's
+    decision in Youssef.  Support is drawn for  this  submission  from  the
+    terms of paragraph 63 of the FtT's decision, in which the FtT  conclude
+    that NF's possession of the extremist material  "...does  not  overcome
+    the absence of  reliable  evidence  that  [NF]  has  been  involved  in
+    terrorism. Not even indirectly and innocently.  There  is  no  evidence
+    that [NF] has been involved in any terrorist act."
+
+
+
+26. We reject this submission. When the penultimate sentence  of  paragraph
+    59 is analysed in the context of that paragraph as a whole it is  clear
+    that the it does not bear the interpretation Ms Bayoumi seeks to  place
+    on it. When read in its proper context the sentence is clearly intended
+    to convey no more than a finding which rules out the possibility of the
+    SSHD succeeding on the basis that NF had committed a terrorist  act  or
+    incited others to do so, because the facts do not  establish  as  much.
+    Contrary to Ms Bayoumi's contention it does not close the door  on  the
+    possibility of the SSHD  demonstrating  the  applicability  of  article
+    1F(c) on an alternative basis.
+
+
+
+27. This interpretation is re-enforced by  the  three  pages  of  reasoning
+    which follow paragraph 59. Subsequently the FtT lawfully directs itself
+    on multiple occasions, including setting  out  the  core  analysis  and
+    conclusion of the Supreme court in Al-Sirri:
+
+
+
+         "There should be a high threshold defined in terms of  the  gravity
+         of the act in question, the manner in which the act  is  organised,
+         its  international  impact  and  long-term   objectives   and   the
+         implications for international peace and security. And there should
+         be serious reasons for  considering  that  persons  concerned  bore
+         individual responsibility for acts of that character."
+
+
+
+28. We take the same approach to paragraph 61 off the FtT's  decision.  The
+    observations therein must be read in the context of the decision  as  a
+    whole. Significantly, the SSHD did not assert before the  FtT  that  NF
+    had completed or attempted terrorist acts, or that his acts had led  to
+    specific or attempted  terrorists  acts  by  others.  If  the  FtT  had
+    intended to treat the existence of such matters as a  pre-requisite  to
+    the application of article 1F(c) there would have been no need  for  it
+    to have undertaken such a detailed consideration to  other  aspects  of
+    the NF circumstances. It could simply have relied upon the  absence  of
+    evidence of a commission or incitement of  a  terrorist  act  as  being
+    determinative of the appeal.
+
+
+
+
+29. When the FtT's decision is read as a whole we are  driven  to  conclude
+    that it did not reach its conclusion on the basis "that  the  threshold
+    in Article 1F was not met on the  basis  that  the  appellant  had  not
+    committed or incited acts of terrorism" but rather it applied its  mind
+    to the relevant matters identified in Youssef and Al-Sirri and  reached
+    a conclusion on the evidence as a whole which was open to it.
+
+
+
+
+30. In any event, if we are wrong in our analysis of the approach taken  by
+    the FtT we find that the asserted error in  its  decision  is  not  one
+    which is capable of affecting the outcome of the appeal.
+
+
+
+31. On the basis of the findings of  fact  made  by  the  FtT,  which  were
+    largely not in dispute and have not been the subject  of  challenge  by
+    either party, we conclude that there was no lawful basis upon which the
+    FtT could have found that the SSHD had made out his case under  Article
+    1F(c).
+
+
+
+32. The activity of NF relied upon by the SSHD must  be  such  that  it  is
+    capable of affecting  international  peace  and  security  (Youssef  at
+    [83]).  At the hearing we invited  Ms  Bayoumi  to  draw  attention  to
+    evidence before the FtT that could support  the  contention  that  NF's
+    actions were capable of affecting  international  peace  and  security.
+    Unsurprisingly she accepted that there was none. There was no  evidence
+    before the FtT that there had been any outwardly-facing  exposition  by
+    NF of his beliefs or mindset at any time. There was also no evidence of
+    NF inciting or encouraging others to  follows  his  extremist  beliefs;
+    indeed, there was no evidence that NF had even discussed his beliefs or
+    mindset with anyone other than his wife and the Home  Office  employees
+    dealing with his case.
+
+
+
+33. Whilst NF was a hoarder of extremist  material  and  he  had  extremist
+    thoughts and beliefs, Article 1F(c) is not triggered by an individual's
+    potential  to  undertake  activity  which  attacks  the  basis  of  the
+    international communities' existence and threatens international  peace
+    and security, but by the undertaking  of  an  activity  which  has  the
+    potential  to  attack  the  basis  of  the  international  communities'
+    existence and  threatens  international  peace  and  security.  On  the
+    evidence available to the FtT no rational person could conclude that NF
+    had undertaken such an activity.
+
+
+
+34. For these reasons we  dismiss  the  SSHD's  appeal  against  the  FtT's
+    decision in NF's case.
+
+Decision and Discussion - KKA
+
+35. In his decision letter of 2 November 2015, the SSHD concluded that  KKA
+    did  not  meet  the  requirements  of  Article  1A(2)  of  the  Refugee
+    Convention (the inclusionary provision) and, consequently,  was  not  a
+    refugee. The FtT concluded  that  KKA  did  meet  the  requirements  of
+    Article 1A(2) - a finding which is not the subject of challenge by  the
+    SSHD.
+
+
+
+
+36. The SSHD did not assert in her decision letter of the 2  November  2015
+    that KKA should  be  excluded  from  the  Refugee  Convention,  as  was
+    correctly observed by the FtT at [20] of its  decision,  nor  was  this
+    issue pursued by the SSHD before the FtT. Consequently, the FtT allowed
+    KKA's appeal on Refugee Convention grounds. No challenge is brought  to
+    the FtT's decision that KKA  is  entitled  to  the  protection  of  the
+    Refugee Convention.
+
+
+
+37. During the course of its decision the FtT made findings in relation  to
+    the humanitarian protection ground, in particular  concluding  that  it
+    had not been established  that  KKA  fell  to  be  excluded  from  such
+    protection  pursuant  to  paragraph  339D  of  the  Immigration  Rules.
+    However, nowhere in the FtT's determination can an explicit decision be
+    found on the issue of whether the appeal should be allowed or dismissed
+    on the humanitarian protection ground. Although  the  FtT  observed  at
+    [33] that the appeal would be allowed "if it could  be  said  that  the
+    respondent was correct to refuse Refugee Convention protection  on  the
+    ground that  there  was  no  risk  of  persecution...for  a  convention
+    reason", this is wholly unsatisfactory. The FtT was required  to  state
+    definitively whether it allowed or dismissed the appeal and  it  failed
+    to do so.
+
+
+
+38. The  answer  though  is  clear.  The  appeal  brought  on  humanitarian
+    protection grounds must be dismissed as a consequence of the  operation
+    of paragraph 339C(ii)  if  the  Immigration  Rules,  i.e.  because  KKA
+    qualifies as a refugee.
+
+
+
+39. Nevertheless,  despite  it  being  clear  that  KKA's  appeal  must  be
+    dismissed, insofar as it is brought on humanitarian grounds,  and  that
+    any appeal to the Upper Tribunal in relation to such ground is entirely
+    academic as a consequence of the unchallenged decision of  the  FtT  to
+    allow KKA's appeal on Refugee Convention grounds,  the  SSHD  persisted
+    with appeal.  For the sake of completion, we deal with  the  appeal  as
+    pursued.
+
+
+
+
+40. In a decision  promulgated  on  9  November  2016,  the  FtT  made  the
+    following findings of fact [28]:
+
+
+
+
+        i) KKA is not a witness of truth;
+
+       ii) KKA knew that NF was storing material of an extremist nature  on
+           the computer and that he  had  an  obsessive  interest  in  that
+           material;
+
+      iii) KKA shared NF's interest in the extremist material although  her
+           interest did not go as deep as NFs;
+
+       iv) KKA has had contact with those persons identified  in  paragraph
+           12 above, although it does not follow that KKA was  involved  in
+           any criminal activity.
+
+
+
+
+41. The SSHD's challenge to the FtT's decision in KKA's appeal was  brought
+    on substantially the same basis as the challenge  to  the  decision  in
+    NF's appeal:
+
+
+
+
+        "That the FtT failed to properly apply the test for  exclusion,  and
+        wrongly found that there was no basis to exclude the appellant  from
+        humanitarian protection given she did not  actually  participate  in
+        any criminal acts.  The respondent submits that the IJ strayed  into
+        material error when he considered that the threshold  for  exclusion
+        was not met on the basis that the appellant had not participated  in
+        actual criminal acts.  On the basis of the findings of fact he  made
+        at paragraphs 28  and  31  of  the  determination  ...,  the  proper
+        application of the relevant tests can only lead to one conclusion  -
+        namely that exclusion is justified."
+
+
+
+42. As in NF's appeal, permission was subsequently granted for the SSHD  to
+    amend his grounds so as to rely on the Court of  Appeal's  decision  in
+    Youssef, but the substance of the challenge remained the same.
+
+
+
+
+43. Turning to the reasons provided by the FtT, insofar as they  relate  to
+    the application of the exclusionary provisions in paragraph 339D of the
+    Rules:
+
+
+
+         "[31] I approach the question as to whether the appellant would  be
+         excluded from humanitarian protection as though  she  was  excluded
+         from refugee status under Article 1F[c], applying the case law  and
+         approach to the issues in the decision  I  made  in  her  husband's
+         appeal.  It is unnecessary to repeat  all  that  again  here.   The
+         parties are referred to the decision I have made in the appellant's
+         husband's appeal where  I  found  that  the  respondent  could  not
+         exclude the appellant's husband from exclusion under Article 1F(c).
+          And I make the same findings in respect of  this  appellant  whose
+         culpability, if culpability is the correct word, is less  than  her
+         husbands ... This requires an individualised consideration  of  the
+         facts of the case, which will include an assessment of the person's
+         involvement in the cat concerned, his/her mental state and possible
+         grounds for rejecting individual responsibility. ...there be a high
+         threshold "defined in terms of the gravity of the act in  question,
+         the manner in which the act is organised, its international  impact
+         and long-term objectives, and the  implications  for  international
+         peace and security". ...The  acts  that  this  appellant  has  been
+         engaged in amount to  the  tacit  acceptance  or  approval  of  her
+         husband's obsessive interest in extremist materials and the storage
+         of that material on electronic devices which they shared.  She  has
+         been in contact with known extremists: but her contact  with  these
+         people without more does not establish any act to fall within these
+         definitions.  Neither  does  the  tacit  approval  of  her  husband
+         storing materials of this kind on  electronic  devices  which  they
+         shared, neither does approving of and supporting Islamic  terrorism
+         without actual participation in criminal acts.  It follows, to take
+         matters  shortly,  that  the  respondent's  evidence  against  this
+         appellant fails to meet this high threshold also, the threshold  in
+         paragraph 339D."
+
+
+
+44. Whilst we accept that the FtT could have expressed  itself  in  clearer
+    terms, we conclude that when read as a whole the FtT's reasoning cannot
+    bear the interpretation Ms Bayoumi seeks to  place  upon  it.  The  FtT
+    lawfully directed itself to the  appropriate  consideration,  and  then
+    considered the facts of the case in accordance with its direction.
+
+45. In any event, for the same reasons we identified  in  our  decision  in
+    NF's case, on the unchallenged findings of fact made by  the  FtT,  KKA
+    has not undertaken any activity which is capable  of  engaging  Article
+    1F(c) i.e. which attacks the basis of  the  international  communities'
+    existence and threatens international peace and security.
+
+
+
+
+46. For these reasons we  dismiss  the  SSHD's  appeal  against  the  FtT's
+    decision in KKA's case.
+
+
+
+Notice of Decision
+
+
+
+The SSHD's appeals are dismissed. The decisions of the FtT are to stand.
+
+
+
+
+
+Signed:
+
+Mark O'Connor
+
+Upper Tribunal Judge O'Connor
+
+
+
+
+

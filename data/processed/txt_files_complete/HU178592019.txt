@@ -1,0 +1,855 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: HU/17859/2019 (p)
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Decided Without a Hearing under Rule |Decision & Reasons Promulgated       |
+|34                                   |                                     |
+|On 19 October 2020                   |On 26 October 2020                   |
+|                                     |                                     |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE GRUBB
+
+
+                                   Between
+
+                            KASSIM ADEWALE SHITTU
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     CW Law Solicitors (Written Submissions)
+For the Respondent:    No representative or submissions
+
+
+                            DECISION AND REASONS
+
+Introduction
+
+ 1. The appellant is a citizen of Nigeria who was born on 22 May 1972.   He
+    entered the United Kingdom on 8 October 2006 with entry clearance as  a
+    student valid until 31  October  2007.   That  leave  was  subsequently
+    extended as a student, as a Tier 1 dependent partner, as a Tier 1 (Post-
+    Study) Migrant and as a Tier 1 (General) Migrant until 25  April  2016.
+    On 22 April 2016, the appellant applied for indefinite leave to  remain
+    (ILR) as a Tier 1 (General) Migrant which was refused  on  14  December
+    2018.  On 26 December 2018, the appellant applied for an Administrative
+    Review but that was withdrawn on 12 January  2019  when  the  appellant
+    made a human rights application seeking ILR on the basis of ten  years'
+    continuous  lawful  residence  in  the  UK  under  para  276B  of   the
+    Immigration Rules (HC 395 as amended).
+
+ 2. On 16 October 2019, the Secretary  of  State  refused  the  appellant's
+    application under para 276B and Art 8 of the ECHR.  In relation to para
+    276B, the Secretary of State concluded  that  the  appellant  had  been
+    dishonest in the levels of income he had claimed in his application for
+    leave as a Tier 1 (General) Migrant in 2016 in relation to the tax year
+    2012/2013 and in his declared income to the HMRC for that tax year.
+
+The Appeal to the First-tier Tribunal
+
+ 3. The appellant appealed to the  First-tier  Tribunal.   His  appeal  was
+    heard on 9 January 2020 by Judge J Hillis.   The  appellant  gave  oral
+    evidence before the judge and sought to explain the discrepancy in  his
+    declared income to the Home Office  and  the  HMRC  for  the  tax  year
+    2012/2013.  He sought to explain the omission of �43,454 of  undeclared
+    income to the HMRC which he had only declared to the HMRC in June  2016
+    following his application for ILR as a Tier 1 (General) Migrant.
+
+ 4. Judge Hillis did not accept the appellant's explanation and that he had
+    been honest in his declarations to the Home  Office  and  HMRC.   Judge
+    Hillis concluded that para 322(5) of  the  Immigration  Rules  applied,
+    which set  out  a  general  ground  of  refusal,  where  there  was  am
+    "undesirability" of permitting  an  individual  to  remain  in  the  UK
+    because of his cduct, character or  associations.   As  a  result,  the
+    appellant could not succeed under  para  276B  because,  applying  para
+    276B(iii), a ground of refusal under the general  grounds  for  refusal
+    applied.  Further, the judge found that the appellant's  removal  would
+    not breach Art 8, in particular the  judge  did  not  accept  that  the
+    appellant had a continuing relationship with his children.
+
+The Appeal to the Upper Tribunal
+
+ 5. The appellant sought  permission  to  appeal  to  the  Upper  Tribunal.
+    Permission was initially refused by the First-tier Tribunal but, on  26
+    June 2020,  the  Upper  Tribunal  (UTJ  Reeds)  granted  the  appellant
+    permission to appeal only on the ground challenging the judge's finding
+    under para 322(5).  The judge refused permission on  grounds  2  and  3
+    which challenged the judge's application of Art 8.
+
+ 6. In granting permission, UTJ Reeds also made directions in the light  of
+    the COVID-19 crisis.  She expressed the provisional view that it  would
+    be appropriate to  determine  the  issues  of  whether  the  First-tier
+    Tribunal erred in law and whether, if it did, the  decision  should  be
+    set aside without a hearing.  The directions invited  submissions  from
+    the parties both on the substantive issues and on whether the error  of
+    law could be determined without a hearing.
+
+ 7. In response, the appellant filed submissions  (together  with  evidence
+    not apparently available before the First-tier Tribunal) on 2 September
+    2020.  Those submissions  raised  no  objection  to  the  appeal  being
+    determined, at the error of law stage, without a hearing.  The grounds,
+    instead, focused exclusively  upon  the  substantive  issue  under  the
+    ground upon which UTJ Reeds had granted  permission.   The  submissions
+    also  invited  the  UT  to  consider  the  other  grounds  of   appeal,
+    challenging Art 8, upon which permission was refused.
+
+ 8. The respondent did not file a rule 24 reply or submissions in  response
+    to UTJ Reeds' directions.
+
+ 9. In the absence of any objection from either party, and having regard to
+    the interests of justice and the overriding  objective  of  determining
+    the appeal justly and fairly and the nature of the legal issues raised,
+    I am satisfied that it is appropriate to determine this appeal  without
+    a hearing under rule 34 of  the  Tribunal  Procedure  (Upper  Tribunal)
+    Rules 2008 (SI 2008/2698 as amended) and para 4 of the Amended  General
+    Pilot Practice Directions: Contingency Arrangements in  the  First-tier
+    Tribunal and the Upper Tribunal (14 September 2020)  issued  by  (then)
+    Senior Vice President and (now) Senior President of Tribunals, the  Rt.
+    Hon. Sir Keith Lindblom.
+
+The Law
+
+10. The appellant's application for ILR was made under  para  276B  on  the
+    basis of ten years' lawful continuous residence.  So far  as  relevant,
+    para 276B provides as follows:
+
+         "276B    The requirements to be met by an applicant for indefinite
+                leave to remain on the ground of long residence in the
+                United Kingdom are that:
+
+                (i)    (a)  he has had at least 10 years' continuous lawful
+                    residence in the United Kingdom.
+
+                (ii)   Having regard to the public interest there are no
+                    reasons why it would be undesirable for him to be given
+                    indefinite leave to remain on the ground of long
+                    residence, taking into account his:
+
+                    (a)    age; and
+
+                    (b)    strength of connections in the United Kingdom;
+                        and
+
+                    (c)    personal history, including character, conduct,
+                        associations and employment record; and
+
+                    (d)    domestic circumstances; and
+
+                    (e)    compassionate circumstances; and
+
+                    (f)    any representations received on the person's
+                        behalf; and
+
+                (iii)  the applicant does not fall for refusal under the
+                    general grounds for refusal.
+
+                    .... ."
+
+    As regards the general grounds of refusal, the  relevant  provision  is
+    para 322(5) which provides:
+
+         "322(5)  the undesirability of permitting the person concerned to
+                remain in the United Kingdom in the light of his conduct
+                (including convictions which do not fall within paragraph
+                322(1C)), character or associations ....;"
+
+11. That general ground of refusal is  a  ground  on  which  leave  "should
+    normally be refused", consequently it is a  discretionary  rather  than
+    mandatory ground of refusal.
+
+12. In Balajigari and Others v SSHD [2019]  EWCA  Civ  673,  the  Court  of
+    Appeal accepted that there were two-stages in applying  para  322(5)  -
+    "undesirability" and "discretion".  At [33], Underhill LJ  (giving  the
+    judgment of the Court) said this:
+
+         "33. ... Mr Biggs submitted that, properly  interpreted,  paragraph
+         322 (5) involves a two-stage analysis. The first stage is to decide
+         whether paragraph 322 (5) applies at all -  that  is,  that  it  is
+         "undesirable" to grant leave in the light of the specified matters.
+         If it does, the second stage  -  since  such  undesirability  is  a
+         presumptive rather than mandatory ground of refusal - is to  decide
+         as a matter of discretion whether leave should be  refused  on  the
+         basis of it. That analysis seems to us correct in principle."
+
+13. The Court of Appeal identified that in relation to the  first  stage  -
+    "undesirability" - there were three limbs.  At [34], Underhill LJ said:
+
+         "34. As to the first stage, Mr Biggs submitted that there are three
+         limbs to the analysis. There must be: (i) reliable evidence of (ii)
+         sufficiently reprehensible conduct; and (iii) an assessment, taking
+         proper account  of  all  relevant  circumstances  known  about  the
+         applicant at the date of decision, of whether his or  her  presence
+         in the UK is undesirable (this should include evidence of  positive
+         features of their character). Again, that seems to us a correct and
+         helpful analysis of the exercise required at the first  stage,  but
+         it will be useful to say something more about the elements  in  it,
+         especially as they apply to an earnings discrepancy case."
+
+14. As regards limb (ii), at least in a "earnings discrepancy" case such as
+    this appeal, the Court in  Balajigari  recognised  the  need  to  prove
+    "dishonesty" by the individual (at [35]-[37]).  At [35],  Underhill  LJ
+    said:
+
+         "35. ...Mr Biggs' position was that an  earnings  discrepancy  case
+         could constitute sufficiently reprehensible conduct for the purpose
+         of paragraph 322 (5) if but only if the discrepancy was the  result
+         of dishonesty on the part of the applicant. That was  not  disputed
+         on behalf of the Secretary of State, and in our view it is correct.
+         The provision of inaccurate earnings figures either to HMRC  or  to
+         the Home Office in support of an application for leave  under  Part
+         6A as a result of mere carelessness or  ignorance  or  poor  advice
+         cannot  constitute  conduct  rendering  it  undesirable   for   the
+         applicant to remain in  the  UK.  Errors  so  caused  are,  however
+         regrettable, "genuine" or "innocent" in the  sense  that  they  are
+         honest, and do not meet the necessary threshold."
+
+15. At [37], Underhill LJ added the following in respect of requirement for
+    'dishonesty' when applying para 322(5):
+
+         "37. We should make three other  points  about  dishonesty  in  the
+         context of an earnings discrepancy case:
+
+             (1)  We were referred to the recent decision  of  the  Supreme
+             Court in Ivey v Genting Casinos (UK) Ltd [2017]  UKSC,  [2018]
+             AC 391, considering the correct approach to  what  constitutes
+             dishonesty. The principles summarised by Lord Hughes at  para.
+             74 of his judgment in that case will apply  in  this  context,
+             but we cannot think that in practice either the  Secretary  of
+             State or a tribunal will need specifically to refer to them.
+
+             (2)  Mr Biggs submitted that even dishonest conduct may not be
+             sufficiently reprehensible to justify use of paragraph 322 (5)
+             in all cases and that it would depend  on  the  circumstances,
+             the  guiding  principle   being   that   the   threshold   for
+             sufficiently reprehensible conduct is very  high.  We  do  not
+             find  it  helpful  to  generalise  about  the  height  of  the
+             threshold,  though  it  is  obvious  that  the  rule  is  only
+             concerned with conduct of a serious character. We would accept
+             that as a matter  of  principle  dishonest  conduct  will  not
+             always  and  in  every  case  reach  a  sufficient  level   of
+             seriousness, but in the context  of  an  earnings  discrepancy
+             case it is very hard to see how the deliberate  and  dishonest
+             submission of false earnings figures, whether to  HMRC  or  to
+             the Home Office, would not do so.
+
+             (3)  Mr Biggs submitted that dishonest conduct would  only  be
+             sufficiently reprehensible if it  were  criminal.  We  do  not
+             accept that that is so as a matter of principle,  although  it
+             is not easy to think of examples  of  dishonest  conduct  that
+             reached the  necessary  threshold  which  would  not  also  be
+             criminal. The point is, however, academic in  the  context  of
+             earnings discrepancy cases since the dishonest  submission  of
+             false earnings figures to either HMRC or the Home Office would
+             be an offence."
+
+16. Then, at [38], Underhill LJ said in relation to limb (iii) of stage one
+    and the "balancing exercise":
+
+         "38. As for the third limb of the first stage of the  analysis,  Mr
+         Biggs submitted that the assessment of undesirability requires  the
+         decision-maker to conduct a balancing exercise informed by weighing
+         all relevant factors.  That  would  include  such  matters  as  any
+         substantial positive contribution to the UK made by  the  applicant
+         and also circumstances relating to the  (mis)conduct  in  question,
+         e.g. that  it  occurred  a  long  time  ago.  In  support  of  that
+         proposition he relied on the judgment of Foskett J in R  (Ngouh)  v
+         Secretary of  State  for  the  Home  Department  [2010]  EWHC  2218
+         (Admin), which also concerned the application of paragraph 322 (5),
+         albeit in relation to a different kind of conduct: see paras.  110,
+         120 and 121. While we would not say that  it  would  always  be  an
+         error of law for a decision-maker to fail to conduct the  balancing
+         exercise explicitly, we agree that it would be  good  practice  for
+         the Secretary of State to incorporate it in  his  formal  decision-
+         making process. In so far as Lord  Tyre  may  be  thought  to  have
+         suggested otherwise in Oji  v  Secretary  of  State  for  the  Home
+         Department [2018] CSOH 127 (see para. 28) and Dadzie v Secretary of
+         State for the Home Department [2018] CSOH 128 (para. 28)  we  would
+         respectfully disagree."
+
+17. The Court then noted that even if the first stage was established, para
+    322(5) required the decision-maker to exercise discretion  and  factors
+    which might outweigh, albeit only exceptionally, the  presumption  that
+    leave should be  refused  on  grounds  of  "undesirability".   At  [39]
+    Underhill LJ said:
+
+         "39. Mr Biggs submitted that at this second stage of  the  analysis
+         the  Secretary  of  State   must   separately   consider   whether,
+         notwithstanding the conclusion that  it  was  undesirable  for  the
+         applicant to have leave to remain, there were  factors  outweighing
+         the presumption that leave should for that reason  be  refused.  He
+         submitted that it is at this stage that the Secretary of State must
+         consider such factors as the welfare of any minor children who  may
+         be affected adversely by the decision and any human  rights  issues
+         which arise. That seems to us in  principle  correct.  There  will,
+         though no doubt only exceptionally, be cases where the interests of
+         children or others, or serious  problems  about  removal  to  their
+         country of origin, mean that it would be wrong to refuse  leave  to
+         remain (though not  necessarily  indefinite  leave  to  remain)  to
+         migrants whose presence is undesirable."
+
+18. The burden of proof, on a  balance  of  probabilities,  lies  upon  the
+    Secretary  of  State  to  establish  the  general  ground  of  refusal,
+    including the individual's dishonesty.
+
+19. In Yaseen v SSHD [2020] EWCA Civ 157, the Court  of  Appeal  recognised
+    that the similar "undesirable" provision found in para 276B(ii) equated
+    in large measure to para 322(5), despite each representing  a  discrete
+    test, and the approach to para 276B(ii) mirrored that to  para  322(5).
+    The Court adopted the approach in Balajigari.
+
+The Judge' Decision
+
+20. Although I have set out both para 276B(ii) and  para  322(5),  in  fact
+    before Judge Hillis the respondent only relied upon para 322(5) despite
+    having also relied upon para 276B(ii) in the decision  letter.   Before
+    Judge Hillis the  respondent's  representative  accepted  that  if  the
+    discrepancy in the income submitted  by  the  appellant  in  his  leave
+    application and HMRC tax return for 2012/2013 had been made innocently,
+    rather than dishonestly, then para 322(5) would not apply (see para  22
+    of the  determination).   The  respondent's  submission  was  that  the
+    discrepancy had been made dishonestly.  The appellant's contention  was
+    that it had been made innocently and the respondent had not established
+    to the required standard that the appellant had been dishonest.
+
+21. The judge identified the sole legal issue under the Rules in para 33 of
+    his determination as follows:
+
+         "33. The sole issue to be  resolved  in  this  appeal  is  did  the
+             Appellant deliberately enter false  figures  in  his  previous
+             application  to  mislead  or  deceive  the  Home  Office  into
+             granting him leave to remain when he did not meet the  minimum
+             annual  income  under  the  Rules?   I  am  grateful  to  [the
+             Respondent's representative] for his very  proper  submissions
+             that if the figures in the Appellant's application and in  his
+             Tax Returns were an  innocent  mistake  that  his  application
+             could not have been refused pursuant to  para  322(5)  of  the
+             Rules".
+
+22. At para 34, the judge noted, somewhat curiously, that the appellant had
+    submitted a document saying that he had withdrawn instructions from his
+    legal   representatives   because   of   their   "sub-standard,    poor
+    communication and poor preparation of his appeal" but then, before  the
+    judge, they represented the appellant.
+
+23. Then at paras 35-41, the judge dealt  with  the  appellant's  oral  and
+    documentary evidence which sought to explain the discrepancy of �43,454
+    between his declared income in his 2012/2013 tax return and in his 2016
+    application for further leave:
+
+         "35. The Interim Financial Information document at  AB13  is  dated
+             25th February, 2013.  I  note  that  he  has  not  signed  the
+             declaration at AB15 dated 7th March,  2013  which  states  'In
+             accordance with the engagement letter, I approve  the  Interim
+             Financial Information which comprises the Trading  and  Profit
+             and Loss account, the Balance Sheet and related notes for  the
+             period  ended   February   25,   2013.    I   acknowledge   my
+             responsibility  for   the   Interim   Financial   Information,
+             including the  appropriateness  of  the  applicable  financial
+             reporting framework as set out in note 1.1 and  for  providing
+             Mantax   Consulting   Limited   with   all   information   and
+             explanations for their compilation'.  I conclude that this  is
+             an  acknowledgement  by  the   Appellant   that   he   accepts
+             responsibility for the information given  to  the  accountants
+             used to compile the document.
+
+         36.  At AB17 the gross turnover for the business Kassim Shittu T/AS
+             Dewtech Engineering Services was GB�11,906 and the net  profit
+             was GB�5,773.  The balance  sheet  shows  net  liabilities  of
+             GB�377 and a bank balance of GB�173.  In  my  judgment,  those
+             figures  are  vastly  different  from  the  contents  of   the
+             Santander  Bank  statement  of  Dewtech  Engineering  Services
+             submitted dated from 26th April, 2012 to 5th  April,  2013  at
+             AB21 to AB22.
+
+         37.  This account started with an opening balance of GB�1 and had a
+             closing balance at the end of the year of GB�1,368.11.  By  my
+             calculations they show deposits  totalling  GB�16,525.   These
+             figures are wholly at odds with the tax returns at AB25  which
+             claims to show a UK income of GB�21,611  with  a  grand  total
+             income from all sources of GB�65,065 which includes the figure
+             of GB�43,454.  The Tax Return at AB26 shows an income  in  the
+             UK of GB�26,534 and a grand total of GB�69,3232.
+
+         38.  The accounts submitted for Qitech  Services  Limited  for  the
+             period 1st August, 2012 to 31st July,  2013  are  'abbreviated
+             and audited accounts' and include a  Balance  Sheet  detailing
+             fixed assets of GB�267 for 2012 and GB�159 for 2013,  cash  at
+             bank and in hand of GB�1,600 for 2012 and Nil for 2013.   They
+             also show trading losses of GB�4,300 for 2012 and GB�9,218 for
+             2013.  The Balance Sheet for 31st July, 2014 at AB83 shows net
+             liabilities of GB�9,218 for 2013 and GB�11,298 for 2014.
+
+         39.  The accounts at AB97 for Dewtech Engineering Services  Limited
+             for 31st July, 2016 show a  profit  of  GB�269  for  2015  and
+             GB�10,786  for  2016  and  the  Balance  Sheet   shows   total
+             liabilities of GB�11,029 and GB�96 for 2016.
+
+         40.  The PAYE summaries at AB110 to AB116 do not, in  my  judgment,
+             show tax paid  which  is  commensurate  with  the  Appellant's
+             claimed income from employment.  Additionally, the schedule of
+             'Employee Total Pay Levels' for Dewtech  Engineering  Services
+             Limited for 2018 to 2019 are not for the relevant period being
+             considered   in   this   appeal.    Additionally,   they   are
+             inconsistent with the levels of turnover in the previous years
+             of  accounts  set  out  above.   They  claim  that  the  total
+             employees' pay for GB�62,475.29 which is  wholly  inconsistent
+             with the turnover shown in the previous years and no  evidence
+             has been submitted to  show  the  source  of  the  very  large
+             increase in turnover which would be needed to pay these wages.
+
+         41.  I further conclude that the contents  of  the  Santander  Bank
+             statements at AB120 to  AB147  are,  in  my  judgment,  wholly
+             inconsistent with the figures submitted in the Appellant's tax
+             returns and his previous application for leave  to  remain  in
+             the UK as shown above".
+
+24. In other words, the judge concluded that the documents did not  support
+    the appellant's claim that he had income for 2012/2013,  including  the
+    discrepant figure of �43,454, as he  had  claimed  in  his  2016  leave
+    application and formed part of his amended income disclosed to the HMRC
+    in 2016.
+
+25. Then, at para 42, the judge rejected the appellant's account  and  that
+    he had made an honest mistake:
+
+         "42. I do not find the Appellant to be honest and reliable  in  his
+             oral testimony before me. He  was  wholly  unable  to  give  a
+             credible explanation to the 'coincidences' and inconsistencies
+             in   the   figures   highlighted    by    [the    respondent's
+             representative] during his cross-examination.   The  Appellant
+             has failed to produce documentation  of  his  claimed  foreign
+             income from his now dissolved business in Nigeria".
+
+26. The "coincidences" that the judge refers to in  para  42  is  that  the
+    discrepancy in income made in his tax return for 2012/2013  of  �43,454
+    and said to be from "Dividends from foreign companies" exactly  matched
+    the sum of the additional income he  claimed  that  he  had  earned  in
+    additional salary set out in the 2016 amendments he made  to  the  HMRC
+    and his 2012/2013 tax return.
+
+27. At para 43 the judge reached his conclusion on the evidence as follows:
+
+         "43. In my judgment, following a careful and  anxious  scrutiny  of
+             all the documents submitted by the  Appellant,  including  his
+             accounts and in addition to the Appellant's oral  testimony  I
+             conclude that the  Respondent  has  shown,  on  a  balance  of
+             probabilities, that the Appellant submitted false figures  for
+             his  income  to  the  HMRC  and  with  his  relevant  previous
+             application for leave to remain in the UK".
+
+28. Reading paras 42 and 43 together, therefore, the judge found  that  the
+    respondent had established that the appellant had dishonestly submitted
+    false figures either in his income to the HMRC or  in  his  application
+    for leave.
+
+29. The judge then went on in paras 44-46, to find that the  appellant  had
+    not established a breach of Art 8, in particular based  upon  the  best
+    interests of his children whom the judge found  now  lived  with  their
+    mother in Scotland and with whom the appellant had no contact.
+
+The Grounds
+
+30. It is helpful to read  the  appellant's  grounds  of  appeal  with  the
+    submissions made more recently in response to  UTJ  Reeds'  directions.
+    As I have already stated, the appellant sought permission to appeal  on
+    three grounds: ground 1 relates to  the  application  of  para  322(5).
+    Grounds 1 and 2 relate to the judge's approach to Art 8, in  particular
+    in relation to his finding that the appellant had no contact  with  his
+    children.  UTJ Reeds only granted permission on ground 1.  She  refused
+    permission on ground 2 and 3 as not being arguable.  I will  return  to
+    these later.  I focus, therefore, upon ground 1.
+
+31. In ground 1, the appellant  raises  a  number  of  points.   First,  he
+    contends that the decision was procedurally unfair on  the  basis  that
+    the Secretary of State  had  not  carried  out  a  "minded  to  refuse"
+    notification in relation to the appellant's tax affairs as required  by
+    Balajigari.  Secondly, it is contended that  the  judge  was  wrong  to
+    apply the same approach to para 276B(ii) as to para  322(5).   Thirdly,
+    the judge's adverse finding on the appellant's credibility and that  he
+    was dishonest is said to be  inadequately  reasoned.   Finally,  it  is
+    contended that the judge failed to carry out the  "balancing  exercise"
+    required by Balajigari in taking into account not only, if established,
+    that the appellant  was  dishonest  but  also  his  whole  history  and
+    conduct.
+
+Discussion
+
+    Ground 1
+
+32. I will deal with each of the points raised in Ground 1 in turn.
+
+33. First, whilst the Court of Appeal in Balajigari indicated that fairness
+    required the Secretary of State,  before  making  an  adverse  decision
+    based upon dishonesty in a 'discrepant income  or  earnings'  case,  to
+    allow the  appellant  an  opportunity  to  deal  with  that  allegation
+    principally through an interview, that complaint has no  traction  when
+    the appellant has exercised a right  of  appeal  and  has  had  a  full
+    opportunity at an appeal hearing to provide an  'innocent  explanation'
+    (see Ashfaq (Balajigari: appeals) [2020] UKUT 226 (IAC)).  It is  noted
+    in the headnote:
+
+         "If the decision of the Secretary  of  State  carries  a  right  of
+         appeal, the  availability  of  the  appeals  process  corrects  the
+         defects of justice identified in Balajigari".
+
+34. Secondly, to the extent that the grounds contend  that  the  judge,  in
+    some way, misapplied para 276B(ii), that ground also has  no  merit  in
+    this appeal.  As I have already indicated, although  the  Secretary  of
+    State in her decision letter dealt not only with para 322(5)  but  also
+    para 276B(ii), before the judge the respondent only  relied  upon  para
+    322(5).  The judge's findings relate exclusively to that general ground
+    of refusal which, of course, the  judge  found  had  been  established.
+    Even  if  there  were  some,  albeit  fine,  distinction  between   the
+    application in this sort of case of para 276B(ii) and para 322(5),  the
+    judge only applied para 322(5).
+
+35. Thirdly, the appellant contends that the judge erred  in  finding  that
+    the appellant was  dishonest.   The  correct  approach  in  'discrepant
+    income/earnings' cases is set out by Martin Spencer J in R(Khan) v SSHD
+    (Dishonesty, tax return, paragraph 322(5)) [2018] UKUT 384  (IAC).   It
+    suffices to refer to the detailed judicial headnote:
+
+         "(i) Where there has been  a  significant  difference  between  the
+             income claimed in a previous application for leave  to  remain
+             and the income declared to HMRC, the  Secretary  of  State  is
+             entitled to draw an inference  that  the  Applicant  has  been
+             deceitful or dishonest and therefore he should be refused  ILR
+             within paragraph 322(5) of the  Immigration  Rules.   Such  an
+             inference could  be  expected  where  there  is  no  plausible
+             explanation for the discrepancy.
+
+         (ii) Where an  Applicant  has  presented  evidence  to  show  that,
+             despite  the  prima  facie  inference,  he  was  not  in  fact
+             dishonest but only careless, then the Secretary of State  must
+             decide whether the explanation and evidence is sufficient,  in
+             her  view,  to  displace  the   prima   facie   inference   of
+             deceit/dishonesty.
+
+         (iii)    In approaching that fact-finding task,  the  Secretary  of
+             State should remind herself that,  although  the  standard  of
+             proof is the "balance of probability", a finding that a person
+             has been deceitful  and  dishonest  in  relation  to  his  tax
+             affairs with the consequence that he is denied  settlement  in
+             this  country  is  a  very  serious   finding   with   serious
+             consequences.
+
+         (iv) For an Applicant simply to blame his or her accountant for  an
+             "error" in relation to the historical tax return will  not  be
+             the end of the matter,  given  that  the  accountant  will  or
+             should have asked the tax payer to confirm that the return was
+             accurate and to have signed the tax  return.  Furthermore  the
+             Applicant will have known of his or her earnings and will have
+             expected to pay tax thereon.  If the Applicant does  not  take
+             steps within a reasonable time to remedy  the  situation,  the
+             Secretary of State may  be  entitled  to  conclude  that  this
+             failure justifies a conclusion that there has been  deceit  or
+             dishonesty.
+
+         (v)  When considering whether or not the Applicant is dishonest  or
+             merely careless the Secretary of  State  should  consider  the
+             following matters, inter alia, as well as the extent to  which
+             they are evidenced (as opposed to asserted):
+
+             i.   Whether the explanation for the error by  the  accountant
+                  is plausible;
+
+             ii.  Whether the documentation which can be assumed  to  exist
+                  (for example, correspondence between the Applicant and his
+                  accountant at  the  time  of  the  tax  return)  has  been
+                  disclosed or there is a plausible explanation for  why  it
+                  is missing;
+
+             iii. Why the Applicant did not realise that an error had  been
+                  made because his liability to pay tax  was  less  than  he
+                  should have expected;
+
+             iv.  Whether, at any stage, the Applicant has taken  steps  to
+                  remedy the situation and, if so,  when  those  steps  were
+                  taken and the explanation for any significant delay."
+
+36. In Balajigari, the Court of Appeal largely  approved  the  approach  of
+    Martin Spencer J in Khan (at [40]-[44])  with  one  caveat.   At  [42],
+    Underhill LJ pointed out a "danger" in the  "starting-point"  in  paras
+    (i) and (ii) of the headnote as follows:
+
+         "42. Although Martin Spencer J clearly makes  the  point  that  the
+         Secretary of State must carefully consider any case  advanced  that
+         the  discrepancy  is  the  result  of  carelessness   rather   than
+         dishonesty, there is in our view a danger that his "starting-point"
+         mis-states  the  position.  A  discrepancy  between  the   earnings
+         declared to HMRC and to the Home Office may justifiably  give  rise
+         to a suspicion that it is the result of dishonesty but it does  not
+         by itself justify a conclusion to that effect. What it does  is  to
+         call for an explanation. If  an  explanation  once  sought  is  not
+         forthcoming, or is unconvincing, it may at that point be legitimate
+         for the Secretary of State to infer dishonesty; but  even  in  that
+         case the position is not that  there  is  a  legal  burden  on  the
+         applicant to disprove  dishonesty.  The  Secretary  of  State  must
+         simply decide, considering the discrepancy  in  the  light  of  the
+         explanation (or lack of it),  whether  he  is  satisfied  that  the
+         applicant has been dishonest."
+
+37. In this appeal, the judge correctly identified that the respondent  had
+    to establish that the appellant had been dishonest (see para 43 of  the
+    determination).   There was a significant discrepancy and the appellant
+    put forward  an  'innocent  explanation'.   The  judge  gave  extensive
+    reasons at paras 35-42 (based  on  the  material  relied  upon  by  the
+    appellant) and at paras 42-43 (looking at the appellant's evidence more
+    generally) why he did not accept the appellant's 'innocent explanation'
+    as to why his tax return in 2012/2013  failed  to  disclose  income  of
+    �43,454.  The grounds,  and  the  submissions  made,  do  not  seek  to
+    identify errors  in  the  judge's  reasoning.   The  challenge  is,  as
+    expressed in the grounds, one of inadequacy of reasons.
+
+38. The appellant's explanation was undoubtedly a  detailed  one.   It  was
+    not, however, always consistent.  Although there is some suggestion  in
+    the appellant's documents that the mistake was that of his  accountants
+    at the time, that does not appear  to  have  featured  as  a  principal
+    contention before the judge.  It would have, in any event,  lacked  any
+    real  strength  in  the  absence  of  supporting  evidence,   including
+    potentially evidence given orally  and  subject  to  cross-examination,
+    from his accountants  (see  Khan;  Abbasi  [2020]  UKUT  27  (IAC)  and
+    Ashfaq).
+
+39. The appellant's contention was, in essence,  that  there  was  no  real
+    mistake and that all his income  had  been  appropriately  reported  to
+    HMRC, albeit not exclusively in the tax year 2012/2013 (see his  letter
+    dated 9 March 2018 at pages 8-10 of the appellant's  bundle).   It  was
+    this contention which the judge dealt with in detail when examining the
+    supporting evidence relating to the appellant's claimed further  income
+    totalling �43,454.  As I have said, that reasoning in  paras  36-41  is
+    not subject to any reasoned challenge either in the appellant's grounds
+    or in the further submissions.
+
+40. The appellant refers to the fact that the appellant did  not  sign  the
+    Interim Financial Information document (at page 15 of  the  appellant's
+    bundle) which had been the initial basis upon which the appellant's tax
+    return for 2012/2013 was submitted.  It is not entirely clear to me why
+    the grounds contend that the judge erred by noting that the  appellant,
+    even though it had not  been  signed,  was  responsible  (at  least  in
+    principle) for that submission.  He clearly was (see Khan  at  headnote
+    para (iv)) and that the accountant should have asked him to confirm the
+    contents of his tax return even if the accounts were not signed.
+
+41. Further, there remained the somewhat surprising  coincidence  that,  in
+    retrospect, the appellant's now  asserted  income  and  dividends  from
+    foreign companies of �43,454 exactly mirrored each other.  That  was  a
+    coincidence that the judge was entitled to take into account as was the
+    fact that the correction to his income for the 2012/2013 year was  made
+    with HMRC shortly after he made his application for ILR in 2016.
+
+42. In my judgment, the judge  gave  adequate  reasons  for  rejecting  the
+    appellant's innocent explanation and his finding that  the  significant
+    discrepancy in the income which  he  had  claimed  in  his  2016  leave
+    application and in his tax return  for  2012/2013  was  dishonest  and,
+    therefore, fell within para 322(5) of the Rules.
+
+43. The final issue raised in the grounds is that, having  found  that  the
+    appellant was dishonest, the judge failed to carry  out  the  balancing
+    exercise required by limb (iii) taking into account both  the  negative
+    aspects of the appellant's circumstances (principally  the  dishonesty)
+    and any other positive aspects  of  his  circumstances  in  determining
+    whether the "undesirability" element was satisfied.
+
+44. The Court of Appeal, as I have already noted, in Balajigari  recognised
+    that a "balancing  exercise  informed  by  weighing  all  the  relevant
+    factors"   was   required   in   order   to   determine   whether   the
+    "undesirability" element in para 322(5) was met (see  [38]).   However,
+    it is important to notice that the Court of Appeal also stated that:
+
+         "We would not say that it would always be an error  of  law  for  a
+         decision-maker  to  fail  to   conduct   the   balancing   exercise
+         explicitly".
+
+45. On the face  of  it,  Judge  Hillis  concluded  that  para  322(5)  was
+    satisfied on establishing that the appellant had been dishonest in  his
+    dealings with  the  Home  Office  and/or  HMRC.   In  the  most  recent
+    submissions made on behalf of the appellant, it is stated  at  para  20
+    that the judge
+
+         "misdirected himself by failing to balance up  appellant's  overall
+         conduct and his historical past throughout his over thirteen years'
+         lawful residence in the UK".
+
+    The submissions do not, however, point to any particular aspect of  the
+    appellant's "history" that the judge should  have  taken  into  account
+    other than the fact that the appellant had been, so the grounds assert,
+    in the UK lawfully for thirteen years.  At best, it could be said  that
+    the appellant has, on the evidence, not been guilty of any offending or
+    does not have any other bad character factor which would be relevant to
+    his circumstances.  He is, therefore, apart from the dishonesty  issue,
+    a person of good character.
+
+46. The appellant relies upon the Court  of  Appeal's  decision  in  Yaseen
+    where the court remitted to the Tribunal an appeal in  order  that  the
+    balancing exercise could be carried out.  At [46], Irwin LJ (with  whom
+    Simler LJ and Sir Jack Beatson agreed) said this:
+
+         "46. In my judgment this appeal should  succeed  on  a  simple  but
+             important ground.  In all but the most  extreme  cases,  where
+             the conduct complained of is such that on any view the balance
+             must fall  against  an  applicant,  even  where  a  sufficient
+             character or conduct issue is proved, a balancing exercise  is
+             required.  In this instance there was at least  some  positive
+             material.  I would remit the matter for a re-hearing to permit
+             such an exercise".
+
+47. In that case, positive material including character references as  well
+    as material  showing  his  employment  and  earnings  and  letters  and
+    materials from successive firms of accountants were  submitted  on  his
+    behalf (see [11] of the judgment).  Whilst in that case, the  Court  of
+    Appeal was not content to conclude that the  balance  must  necessarily
+    fall against that applicant, I am satisfied that  it  would  inevitably
+    fall against this applicant.  Outside of the issues concerning  Art  8,
+    there is little, or no, positive  material  that  could  weigh  in  his
+    favour so as to outweigh the dishonesty established by  the  respondent
+    to the judge's satisfaction.  His lawful residence  in  the  UK  for  a
+    period which would, otherwise, fall within para 276B will  not  suffice
+    to override the inevitability of his dishonesty leading to a conclusion
+    that  the  "undesirability"  element  in  para  322(5)  was  satisfied.
+    Neither the grounds  nor  the  more  recent  submissions  identify  any
+    discrete matters of any significance that might  lead  to  the  balance
+    being struck in the appellant's favour.  Consequently, any error by the
+    judge in failing to carry out the balancing exercise was  not  material
+    to his decision that para 322(5) applied.  There  is  no  proper  basis
+    upon which the Upper Tribunal should set aside his  decision  for  that
+    immaterial error.
+
+48. Consequently, I reject ground 1.  The judge was entitled to  find  that
+    para 322(5) applied on the basis of the appellant's dishonesty and,  as
+    a result, the appellant could not succeed under para  276B  because  of
+    sub-para (iii).
+
+    Grounds 2 and 3
+
+49. As regards the remaining grounds of appeal, as I  have  already  noted,
+    the appellant was not granted permission by  UTJ  Reeds  on  either  of
+    these grounds.  That was because she did not  consider  them  arguable.
+    They plainly are not arguable and, if permission had  been  granted,  I
+    would have rejected these grounds.
+
+50. As regards ground  2,  the  appellant  relies  upon  s.117B(6)  of  the
+    Nationality, Immigration and Asylum Act 2002 (as amended) and  that  he
+    has a "genuine and subsisting parental relationship" with  his  British
+    citizen child (or children) in the UK.  If that is the case, then if it
+    would not be reasonable for his children  to  leave  the  UK  then  the
+    appellant's removal is not in the public  interest.   The  judge  dealt
+    with this at paras 44-45 of his determination:
+
+         "44. The letter from the Appellant to the mother of their  children
+             dated 20th August, 2013 at AB152 shows that the Appellant  was
+             not living with his wife and children as at the  date  of  the
+             letter.  There is no indication in his witness statement  that
+             he is living with his children or has any access [or] physical
+             contact with them.  The documents submitted at AB161 to AB165,
+             in my judgment, show, on a balance of probabilities, that  the
+             children's mother is now living in Scotland with them and that
+             he has no contact with them and does not know  their  address.
+             There is no evidence before me to  show  that  there  are  any
+             pending legal proceedings before the Courts by  the  Appellant
+             to seek contact or access to his children.
+
+         45.  I infer from the evidence taken as a whole that  the  children
+             are living happily and safely with their mother  in  Scotland.
+             There is no suggestion before me that they would  be  required
+             to leave the UK with the Appellant, I conclude it is in  their
+             best interests to remain with their mother living in the  UK".
+
+
+
+51. Looking at the birth certificates at pages 149-151 of  the  appellant's
+    bundle, the appellant would appear to have three  children  in  the  UK
+    aged 9, 6 and 4 years old.  The eldest child has a different mother  to
+    the other two children: she  is  the  appellant's  ex-wife.   There  is
+    mention in his witness statement  of  a  "partner"  (para  14)  but  no
+    evidence to support the claim or that she is the mother of the  younger
+    two children.
+
+52. The appellant has, with the grounds of appeal, appended evidence  which
+    seeks to support a contention that he is pursuing contact  through  the
+    courts in Scotland.  That application only relates to the eldest child.
+     It is wholly unclear what was  (and  now  is  being)  said  about  the
+    appellant's relationship with the younger two  children.   The  grounds
+    and documents are wholly opaque.  There  is  (and  was)  no  supporting
+    evidence  relating  to  them.   Importantly,  however,   the   material
+    concerning the eldest child was not available to Judge  Hillis  as  UTJ
+    Reeds  noted  in  refusing  permission  on  this  ground.    The   only
+    information before Judge Hillis  was  that  the  last  court  documents
+    dealing with contact in England dated back to 2014.   These  also  only
+    relate to the eldest child.  The most recent information refers to  the
+    appellant as having not seen his child for eight years.  The judge  was
+    undoubtedly entitled to find that the appellant's  eldest  child  lived
+    with his mother in Scotland.  There were no ongoing contact proceedings
+    since the most recent document dated back to 2014.  The appellant  does
+    not claim that he has any ongoing relationship with  his  eldest  child
+    since the move to Scotland  with  his  mother.   There  is  nothing  to
+    support any on-going relationship with the other  children.   In  those
+    circumstances, the appellant simply could not establish that he  had  a
+    "genuine and subsisting parental relationship" with  is  child/children
+    such that s.117B(6) could apply and require the judge to decide whether
+    it would be "reasonable" for them to leave the UK.
+
+53. For these reasons, therefore, ground 2 has no merit and I reject it.
+
+54. Turning to ground 3, this seeks to  challenge  the  judge's  conclusion
+    that Art  8  was  not  breached  but  again  seeks  to  rely  upon  his
+    relationship with his child who lives with his mother in Scotland.  The
+    contention appears to be that it was in that child's  "best  interests"
+    to continue to have a relationship with the appellant,  his  biological
+    father.  Whilst that is no doubt true as a generalisation, in this case
+    the appellant had no relationship with his child whom he had  not  seen
+    for some years.  His child lived with his mother in  Scotland  and,  in
+    the absence of evidence that the appellant's separation from his  child
+    was having a deleterious effect upon his child, it was entirely open to
+    the judge to find that the best interests of  his  son  were  currently
+    fulfilled by his  living  with  his  mother  in  Scotland.   For  these
+    reasons, ground 3 is also without merit.
+
+55. There is no other challenge to the dismissal of the appeal under Art 8.
+
+
+
+Decision
+
+56. The decision of the First-tier  Tribunal  to  dismiss  the  appellant's
+    appeal under Art 8 did not involve the making of a  material  error  of
+    law.  That decision stands.
+
+57. Accordingly, the appellant's appeal to the Upper Tribunal is dismissed.
+
+
+                                                                      Signed
+
+                                                                Andrew Grubb
+
+                                                 Judge of the Upper Tribunal
+                                                             21 October 2020
+
+
+
+TO THE RESPONDENT
+FEE AWARD
+
+Judge  Hillis  made  no  fee  award  as  the  appellant's  appeal  had  been
+dismissed.  That decision also stands.
+
+
+                                                                      Signed
+
+                                                                Andrew Grubb
+
+                                                 Judge of the Upper Tribunal
+                                                              21 October 202
+

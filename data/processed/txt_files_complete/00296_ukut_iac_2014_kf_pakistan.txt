@@ -1,0 +1,1527 @@
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Fayyaz (Entrepreneurs: paragraph 41-SD(a)(i) - "provided  to")  [2014]  UKUT
+00296 (IAC)
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House, London                  |Determination Promulgated    |
+|On 08 April and 13 May 2014                   |On 13 June 2014              |
+|                                              |                             |
+
+
+                                   Before
+
+
+                The President, The Hon. Mr Justice McCloskey
+                       Upper Tribunal Judge Clive Lane
+
+
+                                   Between
+
+                                KIRAN FAYYAZ
+                                                                   Appellant
+                                     and
+
+                THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+Representation:
+
+Appellant:    Mr I McDonald QC and Mr M Iqbal (of Counsel), instructed by
+                    Farani Javid Taylor Solicitors
+
+Respondent:   Mr P Duffy, Senior Home Office Presenting Officer
+
+
+   The words "provided to"  in  paragraph  41-SD(a)(i)  (9)  of  Appendix  A
+   (Attributes for Tier 1 (Entrepreneur) Migrants) have the same meaning  as
+   "available to."  Whilst the Rule has now been amended to this effect, the
+   previous wording of the Rule did not give rise to any absurdity or  doubt
+   in construction.
+
+
+
+                          DETERMINATION AND REASONS
+
+Introduction
+
+   1. Ms Kiran Fayyaz (hereinafter  "the  Appellant")  appeals  against  the
+      decision of the First-tier Tribunal  ("the  FtT")  promulgated  on  27
+      November 2013.  This  appeal  was  heard  together  with  three  other
+      appeals, those of Hazrat Waqas Durrani,  Parvaiz  Akhter  and  Chandni
+      Maqbool.[1]  These appeals  were  heard  together  because  they  have
+      certain common features.  Fundamentally, the factor which  unites  all
+      four cases is that  they  raise  issues  of  construction  of  certain
+      aspects of the provisions of the Immigration Rules  which  govern  the
+      acquisition of the status known as "Tier  1  (Entrepreneur)  Migrant".
+      For convenience, we shall describe this  as  "entrepreneurial  migrant
+      status". We would add that  these  four  cases,  while  comparable  in
+      certain respects, are not identical.
+
+
+   2. This Appellant, in common with the other three litigants,  applied  to
+      the Secretary of State  for  the  Home  Department  (hereinafter  "the
+      Secretary of State") for this status.  All of  the  applications  were
+      refused on the  ground  that  they  were  non-compliant  with  certain
+      requirements  of  the  Rules.   Each  of  the  refusal  decisions  was
+      challenged by appeal to the FtT.  The appeals of this Appellant and Mr
+      Durrani were dismissed.  This  Appellant  and  Mr  Durrani  have  been
+      granted permission to appeal to this Tribunal, contending that the FtT
+      erred in law in dismissing their appeals.  The appeals in the cases of
+      Ms Maqbool and Mr Akhter were allowed.  The distinguishing feature  in
+      their cases is that their  applications  for  entrepreneurial  migrant
+      status had been made as partners of the proposed business  enterprise.
+       The Secretary of State has been granted permission to  challenge  the
+      decision of the FtT in their cases before this Tribunal.
+
+
+   3. Accordingly, there are four inter-related appeals  altogether.   While
+      the case management  decision  to  list  and  hear  all  four  appeals
+      together was vindicated, time and cost undoubtedly having  been  saved
+      thereby,  we  have  decided,  in  the   interests   of   clarity   and
+      comprehension, and taking  into  account  distinguishing  as  well  as
+      common features,  to  prepare  separate  determinations.   We  further
+      consider that this segregation is likely to be of  greater  assistance
+      to the Court of Appeal in two cases in which permission to appeal  has
+      been granted, namely Secretary of State for the Home Department - v  -
+      AI (Pakistan) and Others [2014]  EWCA  Civ  173  and  UT  (India)  and
+      Another - v - Secretary of State for the Home Department C5/2014/0212.
+
+
+
+
+   4. Permission to appeal in the aforementioned cases  was  granted  on  11
+      February 2014 and 23 April 2014.  We have been provided with the grant
+      of permission  to  appeal  in  each  case.   In  the  first  case,  AI
+      (Pakistan), Sullivan LJ stated:
+
+         "[4] ....  It was common ground that the documents relied  upon  by
+             the Appellant  did  not  comply  with  paragraph  41-SD(a)  as
+             literally interpreted .....
+
+
+         [9]  The Upper Tribunal (decided) that  the  requirements  of  sub-
+             paragraphs (a) and (b) and possibly (c) were cumulative ....
+
+
+         [10] In my judgment that does raise an important point of principle
+             as to the proper interpretation of the Rules which potentially
+             affects a number of would be Tier One (Entrepreneur)  Migrants
+             who are relying on third party rather than their own funds."
+
+
+
+     In the second case, UT (India), in granting permission to appeal  Moses
+      LJ stated:
+
+         "There  is  a  lack  of  coherence  in  the  way   the   evidential
+         requirements are being interpreted which requires clarification."
+
+   5. We have given consideration to whether our  decisions  in  these  four
+      appeals should be deferred until determination of the two  appeals  to
+      the  Court  of  Appeal.   Making  the  best  prediction  possible,  we
+      acknowledge that the decisions in AI (Pakistan)  and  UT  (India)  may
+      have some bearing on how the present appeals should  be  decided.   On
+      the other hand, the two grants of permission to appeal to the Court of
+      Appeal are of recent vintage and we are alert to the delays which  may
+      ensue.  Furthermore, the uncertainty  for  these  litigants,  who  are
+      attempting to plan their futures and who have already  had  to  endure
+      not insubstantial delay, will merely be exacerbated if  we  put  their
+      appeals on hold for a period  which  will  be  of  more  than  minimal
+      dimensions.  We also take into account that if there is a challenge to
+      any of our decisions in these appeals, the ultimate resolution in  the
+      wake of promulgation of the Court of Appeal decisions  should  not  be
+      unduly delayed.  Finally, we are mindful  of  the  strictures  of  the
+      Court of Appeal in AB (Sudan) - v - SSHD [2013] EWCA Civ 921, at  [24]
+      - [32].  The central theme of  these  passages  is  expressed  in  the
+      following pithy statement of Jackson LJ:
+
+
+          "[32] In my view the power to stay  immigration  cases  pending  a
+          future appellate decision in other litigation  is  a  power  which
+          must be exercised cautiously and only when, in  the  interests  of
+          justice, it is necessary to do so."
+
+      His Lordship added:
+
+
+          "It may be necessary to grant a stay if  the  impending  appellate
+          decision is likely to  have  a  critical  impact  on  the  current
+          litigation."
+
+
+   6. What is required of the court or tribunal seized of a stay issue is  a
+      reasonable, balanced forecast made on as fully  informed  a  basis  as
+      possible and giving effect to the values and principles  enshrined  in
+      the  overriding  objective.   Adopting  this  approach,  applying  the
+      principles in AB (Sudan) and having given the parties  an  opportunity
+      at the hearing to make representations  on  this  discrete  issue,  we
+      consider that all of these appeals  should  be  decided,  rather  than
+      delayed.  We are satisfied that this course is more likely to  promote
+      the efficient and expeditious administration of justice.
+
+The Immigration Rules
+
+   7.  The  provisions  of  the  Immigration  Rules  which  the  Appellant's
+      application  had  to  satisfy  are  contained  in   paragraph   245DD,
+      paragraphs 35 - 43 of Appendix A (in particular paragraph  41-SD)  and
+      Table 4 of Appendix A.  As these are somewhat bulky and unwieldy, they
+      are reproduced in an appendix  hereto.  While  any  summary  of  these
+      lengthy and intricate provisions will  inevitably  be  inadequate,  we
+      attempt the following overview.
+
+   8. Paragraph 245DD and its sister provisions may properly be viewed as  a
+      self-contained   code   within   the   Immigration   Rules   governing
+      applications for leave to remain in the United Kingdom  as  a  Tier  1
+      (Entrepreneur) Migrant.  The scheme of  these  provisions  is  that  a
+      person who has, or has last been granted, entry clearance or leave  to
+      enter or remain in a specified guise  may  apply  for  Entrepreneurial
+      Migrant Status. There is no dispute  between  the  parties  about  the
+      meaning of paragraph 245DD of the  Rules.  Every  applicant  for  this
+      status must comply with all of  the  requirements  pertaining  to  the
+      particular  application.   A  failure  to  comply  with  any  of   the
+      applicable requirements results in refusal.  One of  the  requirements
+      is  that  the  applicant  must  have  a  minimum  of  75  points,   or
+      "attributes".  The acquisition of the necessary points is governed  by
+      Tables 4, 5 and 6 in Appendix A.  In all of these appeals, Table 4  is
+      the focus of the contentious issues.
+
+
+   9. During  the  hearing,  both  parties  concurred  with  the  Tribunal's
+      suggestion that the detailed requirements  prescribed  in  this  self-
+      contained  code,  particularly  in  Table  4,  have  two  identifiable
+      purposes.  The first is to  ensure  that  the  person  or  partnership
+      concerned is making a bona fide application for  the  desired  status.
+      The second is to establish  that  the  proposed  business  venture  is
+      financially viable.  Compliance  with  the  relevant  requirements  of
+      Table 4 is necessary in order to secure 25 of the requisite 75 points.
+       Under Table 4, there are four possible mechanisms for scoring the  25
+      points concerned.  The first is that the applicant has "access to"  at
+      least �200,000.  Pursuant to the other three mechanisms, the applicant
+      must have "access to" at least �50,000.  Under all four mechanisms the
+      applicant must comply with the relevant requirements of paragraphs  41
+      and 41-SD.  These require the production of "specified documents".  As
+      stated in paragraph 41-SD(a), the purpose of the  specified  documents
+      is "to show evidence of the money available to invest" in the proposed
+      venture.  This theme is also expressed in  paragraph  41(a)  and  (b),
+      which states that the specified documents must be  provided  "to  show
+      cash money to the amount required" and "to show that the applicant has
+      permission to use the money to  invest  in  a  business  in  the  UK".
+      Paragraph 41(c) is concerned with the source of the finance:  it  must
+      be "either  held  in  a  UK  regulated  financial  institution  or  is
+      transferrable to the UK".  By paragraph 41(d), the money must  "remain
+      available to the applicant until such time  as  it  is  spent  in  the
+      establishment or running of the applicant's business  or  businesses".
+      We consider that the provisions of paragraph  41  inform  the  correct
+      construction of what follows, namely paragraph 41-SD and its elaborate
+      regime.
+
+
+  10. The interconnecting nature and operation of paragraph 245DD, Table  4,
+      paragraph 41 and paragraph 41-SD is apparent from the opening words of
+      the latter, which are:
+
+         "The specified documents  in  Table  4  and  paragraph  41  are  as
+         follows: ......"
+
+
+      This is followed immediately by paragraph 41-SD(a):
+
+
+         "The specified documents to show evidence of the money available to
+         invest are one  or  more  of  the  following  specified  documents:
+         ......."
+
+
+      This is followed by three separate provisions within which a series of
+      requirements  is  rehearsed.   These  provisions   contemplate   three
+      different scenarios:
+
+
+        i) The necessary funds are held in a financial institution  outside
+           the United Kingdom.
+
+
+       ii) The necessary funds are held in a financial institution  in  the
+           United Kingdom.
+
+      iii) The provider of the funds is a "Venture Capital" firm,  a  "Seed
+           Funding Competition" or a "UK Government Department".
+
+
+      These are clearly disjunctive scenarios, or categories, as the parties
+      accepted in argument.  It is the first of these three which has  given
+      rise to the main issue canvassed before us in the three  appeals.   We
+      shall describe this as "the first category".
+
+
+  11. The requirements relating to the "specified documents"  in  the  first
+      category are detailed in paragraph 41-SD(a)(i). We shall describe this
+      for convenience as "section (i)".  Within this category  provision  is
+      made for two possibilities, which are  not  mutually  exclusive.   The
+      first is that the necessary funds are provided in whole or in part  by
+      the applicant.  The second is that they are provided in  whole  or  in
+      part by a third party.  We draw attention to the opening words in this
+      category, contained in paragraph 41-SD(a)(i):
+
+         "A letter from each financial institution  holding  the  funds,  to
+         confirm the amount of money available  to  the  applicant  (or  the
+         entrepreneurial team if applying under the provisions in  paragraph
+         52 of this Appendix).  Each letter must: ........."
+
+      There follows a schedule of 11 disjunctive requirements.  Thus, in the
+      first category, the "specified document" is a letter from the relevant
+      financial institution or  institutions  which  must  accord  with  the
+      requirements listed to the extent that these are applicable.  We  have
+      added the qualification "to the  extent  that  these  are  applicable"
+      because it  is  clear,  for  example,  that  requirement  (8)  has  no
+      application in a case (such as the present)  where  the  applicant  is
+      dependent exclusively on third party funding.
+
+  12. The requirements in category (i) which have given rise to  controversy
+      are those contained in sub-paragraphs (6) and (8)  -  (10)  inclusive.
+      The contentious requirements are that the letter must:
+
+         "(6) state the applicant's name and his team partner's name if  the
+             applicant is applying under the provisions in paragraph 52  of
+             this Appendix ....
+
+
+         (9)  confirm the amount of money provided to the applicant from any
+             third party (if applicable) that is held in  that  institution
+             .....
+
+
+         (10) confirm the  name  of  each  third  party  and  their  contact
+             details, including their full address including  postal  code,
+             landline phone number and any email address ...."
+
+      There is also some controversy about the word "applicant" in  category
+      (i):
+
+
+         "A letter from each financial institution  holding  the  funds,  to
+         confirm the amount of money available  to  the  applicant  (or  the
+         entrepreneurial team if applying under the provisions in  paragraph
+         2 of the Appendix)."
+
+      This is followed by the words "Each letter must ..." and the  11  sub-
+      paragraphs mentioned above.
+
+
+  13. Where the provider of the necessary funds is a "third party", category
+      (i) of paragraph 41-SD(a) of  the  Rules  is  not  exhaustive  of  the
+      requirements relating to the "specified documents". This is clear from
+      the opening words of paragraph 41-SD(b), which are:
+
+         "If the applicant is applying using money from a  third  party,  he
+         must provide all of the following specified documents ....."
+
+      This is followed by two further and separate categories of  "specified
+      documents" (i) and (ii).  The use of the word "AND" makes  clear  that
+      these are cumulative, not alternative, requirements.   Thus,  where  a
+      third  party  funder  is  involved,  the  requirements  pertaining  to
+      "specified documents" are more rigorous.  The two additional specified
+      documents which must be provided with the application are:
+
+
+        i) Per paragraph 41-SD(b)(i), an original  declaration  from  every
+           third party that they have made  the  money  available  for  the
+           applicant to invest in a business in the United  Kingdom.   This
+           declaration  must  have  the  contents  specified  in  the  sub-
+           paragraphs which follow.
+
+
+       ii) Per paragraph 41-SD(b)(ii), a letter from a legal representative
+           (described in the shorthand "legal letter" in some places).
+
+      The aforementioned letter must  comply  with  four  stipulations.  The
+      first is that it must confirm that the signatures of  the  signatories
+      of each third party declaration are authentic.  Secondly, it  must  be
+      an  original  letter.   Thirdly,  its   author   must   be   a   legal
+      representative permitted to practise in the country  where  the  third
+      party or the money is located.  Fourthly,  the  letter  "must  clearly
+      show", to the extent applicable, the information and matters  detailed
+      in   the   seven   sub-paragraphs   which   follow.     The   parties'
+      representatives  agreed  with  this  Tribunal's  analysis   that   the
+      requirements enshrined in columns (i) and (ii)  are  freestanding  and
+      cumulative.  We would add that none of the four appeals generates  any
+      issue relating to the construction of any of these provisions.
+
+The Secretary of State's Decision
+
+  14. The completed application form disclosed  that  the  Appellant  is  of
+      Pakistani nationality, aged 23 years at the material time.    She  was
+      the holder of a United Kingdom Biometric Residence Permit,  issued  in
+      September 2010 and scheduled to expire on  27  August  2012.  She  had
+      originally entered the United Kingdom pursuant to a visa issued in May
+      2009, as a student.  This remained her immigration status. Section  3A
+      of the application is concerned  with  points  and  "attributes".   In
+      completing this section, the Appellant indicated that she was applying
+      as a sole entrepreneur.  She  represented  that  she  was  relying  on
+      "funds held overseas ....  third party funding".  Paragraph G6 of  the
+      form states:
+
+         "The applicant must provide a letter of permission from each  third
+         party providing funds together with a letter from a  legal  advisor
+         confirming the validity of the permissions."
+
+      The form then makes provision for attaching each of  these  documents.
+      In completing this discrete section, the Appellant stated that she was
+      submitting a "Letter of Permission from third party  funds  provider".
+      She did not  complete  the  box  adjacent  to  the  words  "Letter  of
+      Confirmation from a legal advisor".  In completing paragraph G10,  she
+      represented that she was submitting a letter from  the  "Allied  Bank"
+      and that the "amount of money available" was �693,011.  It  is  common
+      ground that the Appellant  had  to  demonstrate  the  availability  of
+      minimum funding  of  �200,000.   In  response  to  paragraph  J1,  the
+      Appellant stated that "all the funds are disposable in the UK".  In  a
+      later passage in the form,  under  the  heading  "Attributes",  it  is
+      stated:
+
+
+         "In order for an extension application to be approved the applicant
+         must score 75 points in the Attributes  section.  If  they  do  not
+         score 75 points the application will be refused.  In addition,  the
+         applicant must score 10 points in each of the English language  and
+         maintenance sections."
+
+
+      These latter two requirements are prescribed by the Immigration  Rules
+      and give rise to no controversy in this series of appeals.
+
+  15. The final two pages of the application form (Section 7) consist  of  a
+      "Summary Sheet".  In completing  this  discrete  part,  the  Appellant
+      indicated the following:
+
+      (a) She was claiming 25 points for  having  access  to  the  requisite
+           funding and was providing an affidavit for this purpose.
+
+
+      (b) She was claiming a further 25 points in respect  of  the  relevant
+           financial  institution  and  was   providing   a   bank   letter
+           accordingly.
+
+
+      (c) She was claiming 25 points for the money being disposable  in  the
+           United Kingdom and was providing an affidavit accordingly.
+
+    This discrete part of the form broadcasts the following warning:
+
+
+         "Failure to submit required evidence is likely to lead to  refusal
+    of the application."
+
+  16. Bearing in mind the issues raised in this appeal, it is  necessary  to
+      draw attention to  only  two  of  the  documents  submitted  with  the
+      Appellant's application for entrepreneurial migrant status.  The first
+      is the document entitled "Declaration of Availability  of  Funds  used
+      for an Application for Entrepreneur Status".   This  is  addressed  to
+      UKBA.  In it, the named person "solemnly declares" the following:
+
+      (i) He is a national and resident of Pakistan.
+
+
+      (ii)    He has available funds of �693,011 in the Allied Bank (Lahore,
+           Pakistan), specifying the account number.
+
+
+      (iii)   He "will make the said money available to" the  Appellant  for
+           the purpose of investing in business in the United Kingdom.
+
+
+      (iv)    The Appellant is a family friend and the investor has  "agreed
+           to invest the mentioned money in a business  of  his  choice  on
+           business terms".
+
+    The declaration also contains particulars of the investor's address and
+    telephone.  On its face, it was executed and witnessed in the  presence
+    of a lawyer.
+
+  17. The second of the accompanying documents on which attention is focused
+      bears the title "Account Maintenance Certificate".  This  recites,  in
+      material part:
+
+         "This is to certify that Mr  [XY]  is  ............................
+         [sterling]   Account   [number   ..............]    since    [date]
+         ..................... the current balance of account is �693,011."
+
+      Particulars of the account holder's name, the account number  and  the
+      date of commencement are provided. The document further states that it
+      is "issued on specific request of the client".  On  its  face,  it  is
+      signed by the Customer Services Manager of Allied Bank Limited.
+
+  18.  On  7  February  2013,  some  six  months  after  submission  of  the
+      Appellant's  application,  UKBA  communicated  in  writing  with   her
+      solicitors.  The communication  indicated  that  the  application  was
+      being processed and continued:
+
+         "Unfortunately we are unable to continue as  your  client  has  not
+         submitted the required documentation.  As such  we  are  requesting
+         that your client submits an original bank  letter  from  the  third
+         party account (Allied Bank) that  states  her  name,  how  much  is
+         available from the account, the regulatory body for  the  bank  and
+         that the money is disposable in the United Kingdom.   This  request
+         for  the  documents  is  therefore  being  made  under   the   UKBA
+         flexibility provision.  You should  also  note  that  the  required
+         documents should meet the  full  requirements  of  the  Immigration
+         Rules."
+
+         [Emphasis added.]
+
+    This request elicited a response from the Appellant to UKBA, by  letter
+    dated 12 February 2013, attaching a letter dated 8 February  2013  from
+    the Allied  Bank  of  Lahore,  Pakistan.   The  latter  identified  the
+    relevant account number and stated:
+
+
+         "We refer to the above and your recent request to provide a  letter
+         confirming the balance amount and the transfer of the  same  to  Ms
+         Kiran Fayyaz (26/08/1988) who is residing in  the  UK  for  her  to
+         invest the same in her business venture.  As per our Bank Policy we
+         can only confirm  the  available  funds  and  the  availability  of
+         transfer to the UK upon the request of the Account Holder.  In view
+         of that we hereby confirm that the available balance of  the  above
+         mentioned Account is �320,098.27 as  at  08/02/2013  and  the  same
+         amount can be instantly transferred to any Bank Account  holder  in
+         the United Kingdom upon your request."
+
+     The letter was  signed  by  a  person  describing  himself  as  "Branch
+Manager".
+
+  19. Chronologically, the next material event was the Secretary of  State's
+      refusal decision, contained in a letter dated 13 May 2013. The  stated
+      reasons for the refusal were twofold.  First, it was stated  that  the
+      Appellant had failed to provide a  letter  from  the  Allied  Bank  of
+      Pakistan which, inter alia, specified -
+
+         "...... the name of each third party  and  their  contact  details,
+         including their full address including postal code, landline  phone
+         number and any email address."
+
+     The second reason for refusal was expressed in these terms:
+
+         "In  addition,  no  Legal  Letter  has  been  submitted  with  your
+         application as required under Appendix A of the Immigration Rules."
+
+           "Legal Letter" is understood as a term of art:  see the  relevant
+      description in [13] above. Having rehearsed these two defects  in  the
+      application, the decision letter stated:
+
+         "As a result of the above you have not demonstrated that  you  meet
+         the requirements of the Immigration  Rules  to  be  awarded  points
+         under provision B of Table 4 of the Immigration Rules."
+
+    Continuing, the letter explained that while the Appellant  had  claimed
+    25  points  in  respect  of  "funds   held   in   regulated   financial
+    institutions" and "funds disposable" in the United Kingdom", by  virtue
+    of the aforementioned failures to comply with the Rules  she  qualified
+    for an award of no points in  both  respects.  This  was  described  in
+    argument as the "domino" effect.  The letter concluded:
+
+
+      "Therefore you do not satisfy  the  requirements  of  the  Immigration
+      Rules and it has been decided to refuse your application ....  as  you
+      do not meet the requirement at paragraph 245DD(b)."
+
+
+FtT decision
+
+  20. It would appear from the determination of the FtT that the Appellant's
+      appeal against the Secretary of State's refusal decision proceeded  on
+      two grounds.  First, it  was  argued  that  the  requirements  of  the
+      Immigration Rules (outlined above) pertaining to the  letter  required
+      from the third party funder's bank are tainted by  absurdity  and  are
+      unlawful in consequence:  [11]  of  the  Determination.   Second,  the
+      Appellant  challenged  the  failure  to  apply  to   the   "evidential
+      flexibility" mechanism in respect of the missing letter from the legal
+      representative (the "legal letter").  The Judge  rejected  the  second
+      ground in the following terms:
+
+         "[10]    The fact is that having received the  letter  from  Allied
+         Bank dated 07/02/2013, no further evidence could have  resulted  in
+         success for the Appellant."
+
+    As regards the first ground, the Judge rejected the absurdity argument.
+     He reasoned that the "crux" of the relevant requirements  is  that  an
+    applicant must demonstrate access to the requisite  level  of  funding,
+    describing this as "purpose driven". The Judge's omnibus conclusion  is
+    formulated in these terms:
+
+
+          "[18] In the absence of the mandatory  evidence  from  the  Allied
+          Bank and no reliable evidence that the funds are available, I  see
+          no reason for the SSHD to have sought any further evidence because
+          the application was bound to fail."
+
+
+    The rationale for this conclusion appears to have been the Judge's view
+    that the third party funder should properly have transferred the  funds
+    to the Appellant's bank account in  the  United  Kingdom,  whereby  the
+    availability  of  the  finance  would  have  been   demonstrated.    He
+    considered the Secretary of State's decision to have been in accordance
+    with the law.
+
+The Issues
+
+  21. The two fundamental issues in the further appeal to this Tribunal  are
+      unchanged.  Most of the argument was devoted to the absurdity  ground.
+      This ground focuses on the "specified documents" requirements relating
+      to the necessary letter from the  third  party  financial  institution
+      listed in category (i) of paragraph 41-SD(a) of the Immigration Rules.
+       The contentious  requirements  of  paragraph  41-SD(a)(i)  are  those
+      enshrined in sub-paragraphs (6),  (9)  and  (10).   These  three  sub-
+      paragraphs prescribe that the  necessary  letter  from  the  financial
+      institution holding the funds must:
+
+      (a) state the applicant's name;
+
+      (b) confirm the amount of money provided to  the  applicant  from  any
+        third party that is held in such institution; and
+
+     c) confirm the name of each third party  and  their  contact  details,
+        including their full address,  to  include  postal  code,  landline
+        phone number and any email address.
+
+      The Appellant's arguments were based on an  acknowledgement  that  her
+      application was governed by paragraph 41-SD(a)(i)  and  paragraph  41-
+      SD(b)(i) and (ii).
+
+  22.  It  was  submitted  on  behalf  of  the  Appellant  that  a   literal
+      interpretation of the  three  requirements  in  paragraph  41-DS(a)(i)
+      under scrutiny  produces absurd results.  Thus, it was contended that,
+      giving effect to the principle in Stock - v - Jones [1978] 1 WLR  231,
+      this Tribunal would  be  justified  in  departing  from  the  apparent
+      meaning of the words in question.  Counsel's submissions drew  to  our
+      attention a series of decisions which have held that  the  Immigration
+      Rules should be construed less strictly  than  a  statute,  reaffirmed
+      most recently by the Supreme Court in Mahad  -  v  -  Entry  Clearance
+      Officer [2009] UKSC 16.  In that case, Lord Brown  exhorted  that  the
+      Rules be construed:
+
+         ".... sensibly according to the natural and ordinary meaning of the
+         words used, recognising that they are statements of  the  Secretary
+         of State's administrative policy".
+
+     We are also mindful  of  the  statement  of  Bingham  J  in  R  -  v  -
+    Immigration Tribunal, ex parte Shaikh [1981] 3 All ER 29, at 35:
+
+
+         "....  It is, in my judgment, incumbent  upon  anybody  seeking  to
+         give effect to these Rules to read what they say  and,  so  far  as
+         possible, give effect to the language used, unless of  course  that
+         leads to absurdity or  inconvenience  so  gross  as  to  have  been
+         clearly outside anyone's contemplation."
+
+      This approach, which was common ground between  the  parties,  imports
+      the Stock - v - Jones principle to  the  exercise  of  construing  the
+      Immigration Rules.
+
+  23. The specific contentions advanced on  behalf  of  the  Appellant  with
+      reference to the contentious requirements  listed  in   paragraph  41-
+      SD(a)(i) were:
+
+      (a) In requirement (6), the word "applicant's" should be  deleted  and
+           substituted by "account holder's", with deletion of all  of  the
+           words following "name" where this first appears.
+
+
+      (b) In requirement (9), the words "provided to the applicant from  any
+           third party (if applicable)" should be deleted  and  substituted
+           by "available to the account holder".
+
+
+      (c) In requirement (10), the words "third party" should be deleted and
+           substituted by "account holder".
+
+
+      This  exercise,  it  was  submitted,   would   involve   a   purposive
+      construction and is necessary to avoid absurdity or anomaly.
+
+24. The second ground of appeal entails, in substance,  a  contention  that
+    the Secretary of State's failure to make  an  "evidential  flexibility"
+    request was unlawful.  After some bilateral  vacillation,  the  parties
+    were agreed that the following version of paragraph  245AA  applied  to
+    the Appellant's application for entrepreneurial migrant status:
+
+         "(a) Where Part 6A or any appendices referred to in Part  6A  state
+             that specified documents  must  be  provided,  the  UK  Border
+             Agency will only consider documents that have  been  submitted
+             with  the  application  and  will  only   consider   documents
+             submitted after the application where they  are  submitted  in
+             accordance with subparagraph (b).
+
+
+         (b)  If the applicant has submitted:
+
+
+              i) a sequence of documents and some of the  documents  in  the
+                 sequence have  been  omitted  (for  example,  if  one  bank
+                 statement from a series is missing);
+
+
+             ii) a document in the wrong format; or
+
+            iii) a document that is a copy and not an original document
+
+             The  UK  Border  Agency  may  contact  the  applicant  or   his
+             representative in writing and  request  the  correct  documents
+             ....
+
+         (c)  The UK Border  Agency  will  not  request  documents  where  a
+             specified document has  not  been  submitted  (for  example  an
+             English language certificate  is  missing),  or  where  the  UK
+             Border Agency does not anticipate that addressing the  omission
+             or error referred to in subparagraph (b) will lead to  a  grant
+             because the application will be refused for other reasons."
+
+     [our emphasis]
+
+      The remaining provisions of paragraph  245AA  are  immaterial  in  the
+      present context.  For completeness,  we  add  that  the  Tribunal  was
+      informed  that  while  paragraph  245  AA  has  been  the  subject  of
+      subsequent amendments, on 13 December 2012 and  1  October  2013,  the
+      provisions  rehearsed  above  governed   all   of   the   applications
+      culminating in this series of appeals.
+
+Our Conclusions
+
+  25. The Appellant's absurdity argument is confined to the first of the two
+      reasons  proffered  by  the  Secretary  of  State  for  refusing   her
+      application. We remind ourselves that the ingredients  of  this  first
+      reason for refusal were that the letter from the Allied Bank  was  (or
+      letters  were)  non-compliant  with  the  requirements  of  the  Rules
+      enshrined  in  sub-paragraph  (10)  of  paragraph  41-SD(a)(i).   This
+      discrete requirement prescribes that the bank letter contain specified
+      particulars relating to the third party  funder:  name,  full  address
+      including postal code, landline phone number and  any  email  address.
+      The first communication (labelled "Account  Maintenance  Certificate")
+      from the Allied Bank contained the name of  the  third  party  funder.
+      However, neither of the two communications contained any of the  other
+      prescribed particulars viz the third party funder's address,  landline
+      phone number and  any  email  address.  While  the  "Declaration"  (or
+      affidavit) of the third party submitted with the application contains,
+      inter alia, his address and cell phone number, it was not argued  that
+      this sufficed to satisfy requirement (10) in section (i).  Plainly, it
+      did not do so.
+
+  26. It is tolerably clear that the bank was not requested to  provide  the
+      second,  third  and  fourth  items  of   information   prescribed   by
+      requirement (10) in section (i).  This is apparent  from  the  opening
+      paragraph of its letter dated 08 February 2013.  We  acknowledge  that
+      the  "evidential  flexibility"   request   contained   in   the   UKBA
+      communication of 07 February 2013 to the  Appellant's  solicitors  did
+      not specify precisely that  these  three  items  of  information  were
+      required.   Rather, the express request was  for  an  original  letter
+      from the Allied Bank stating the Appellant's name, the amount of money
+      available to her from the account, the regulatory body  for  the  bank
+      and confirmation that the money was disposable in the United  Kingdom.
+      However, the letter did not purport to detract from, dilute  or  waive
+      the requirements of the Rules and  the  contrary  was  not  contended.
+      Moreover, the UKBA request for an original letter from the Allied Bank
+      contained the admonition:
+
+         "You should also note that the required documents should  meet  the
+         full requirements of the Immigration Rules."
+
+      In the event, only three of the four items  of  information  expressly
+      requested were provided.  The remaining item, which can be  linked  to
+      requirement (5) in paragraph 41-SD(a)(i), namely confirmation that the
+      bank is regulated by the appropriate body, was not provided.
+
+  27. The ingredients of the  first  refusal  reason  were,  therefore,  the
+      failure  of  the  Pakistani  Bank  to  provide  in   either   of   its
+      communications the full address, landline phone number and  any  email
+      address of the third party funder. The conclusion that the requirement
+      in the Rules that the bank letter contain this  information  does  not
+      give rise to any absurdity or anomaly is, in our  view,  easily  made.
+      This conclusion is driven by two considerations.  The  first  is  that
+      there is no evidence  lending  weight  to  the  Appellant's  argument.
+      Evidence of absurdity could conceivably  have  been  provided  by  the
+      Appellant, her solicitors, the bank or the third party funder.   There
+      is no evidence from any of these sources.  The second consideration is
+      that, viewed purely objectively and  in  the  abstract,  there  is  no
+      detectable absurdity  or  anomaly.   The  requirement  that  the  bank
+      provide this information does  not  give  rise  to  any  ascertainable
+      insurmountable hurdle or impossibility.  On the contrary,  we  readily
+      infer that the information in question would be easily available  and,
+      further, that a genuine third party funder would be willing to provide
+      it to the bank and to authorise its disclosure  to  the  Secretary  of
+      State. The Appellant's absurdity argument is further confounded by the
+      evidence of a fully compliant bank letter (albeit provided  belatedly)
+      in two of the related  appeals,  the  combined  cases  of  Akhter  and
+      Maqbool: see [9] of our determination in  those  cases.   Furthermore,
+      there  was  no  contention  or,  more  important,  evidence  that  any
+      provision of Pakistani banking law OR internal bank rule on regulation
+      OR bank/customer contract  precludes  disclosure  of  the  information
+      required by the Rules and we have no warrant for making  an  inference
+      to this effect.  Thus the first ground of appeal must fail.
+
+  28. Having regard to the Secretary of State's  reasons  for  refusing  the
+      Appellant's application, the submissions relating to the  construction
+      of the words "provided to" in paragraph 41-SD(a)(i), sub-paragraph (9)
+      do not arise.  Notwithstanding, we consider  it  appropriate  to  make
+      clear our view that this discrete argument has no merit.  It is  trite
+      that in construing these words  the  whole  of  the  context  must  be
+      considered.  This includes  Appendix  A,  Table  4,  which  repeatedly
+      employs the terminology "access to" a minimum sum of money.   This  is
+      repeated in the opening words of paragraph 41.  In paragraph 41(b) and
+      (c), the language includes "permission to use the money to invest in a
+      business in the UK" and  "transferrable  to  the  UK".   In  paragraph
+      41(d),  the  phraseology  is  "available  to".  This  is  repeated  in
+      paragraph 41-SD(a)(i).  In sub-paragraph (8) of the latter, one  finds
+      the words "available from".  In paragraph  41-SD(b)(i),  the  language
+      used is "available for".  In our view, it  is  clear  that  the  words
+      "provided to" in sub-paragraph (9)  of  paragraph  41-SD(a)(i)  denote
+      "available to".  We note, in passing, that this discrete provision  of
+      the Rules has now been amended to this effect.  While  this  amendment
+      serves the interests of maximum clarity, we do not  consider  that  it
+      was necessary to remove any  doubt  or  obscurity  or  to  remedy  any
+      absurdity.
+
+  29. We have outlined the gist of the  second  ground  of  appeal  in  [24]
+      above.  The argument advanced in support  of  this  ground  was  that,
+      viewed through the lens of paragraph 41-SD, the letter from the  legal
+      representative required by paragraph 41-SD(b)(ii) forms  part  of,  in
+      the language of paragraph 245AA(b)(i), a "sequence of  documents"  and
+      is  to  be  considered  a  document  omitted  therefrom.    While   we
+      acknowledge the resourcefulness of this  argument,  we  are  satisfied
+      that this provision of paragraph 245AA does not contemplate or embrace
+      a case such as the present  where  the  single  document  required  by
+      paragraph 41-SD(b)(ii) has not been provided with the application.  In
+      our judgement, this document does  not  form  part  of  any  sequence.
+      Rather, its provision is decreed by a freestanding requirement.  It is
+      one of several documents which, in a case such  as  the  present,  are
+      prescribed by  the  Rules.   To  characterise  these  documents  as  a
+      "sequence" is to distort the ordinary and natural meaning of this word
+      and to neglect the context. It  also  fails  to  give  effect  to  the
+      evident intention underlying  paragraph  245AA.  We  consider  that  a
+      document dictated by a substantive requirement of the Rules,  even  if
+      one of several, is not  contemplated  by  the  intention  and  purpose
+      underpinning paragraph 245AA. If any reinforcement of this  conclusion
+      is needed, it is provided by the example of a bank  statement  missing
+      from a series.  Its correctness is reaffirmed beyond  peradventure  by
+      sub-paragraph (c) of paragraph 245AA, which states unequivocally  that
+      where a "specified document" has not been submitted  UKBA  "will  not"
+      request same.  The "legal letter", where  required  (as  here),  is  a
+      discrete, separate  "specified  document".   Accordingly,  the  second
+      ground of appeal must fail.
+
+Decision
+
+  30. While our analysis and  reasoning  are  rather  different  from  those
+      adopted by the FtT, we conclude that the appeal must be dismissed.
+
+31.  We dismiss the appeal and affirm the decision of the FtT.
+
+
+
+                                                                       [pic]
+
+
+
+
+                                               THE HON. MR JUSTICE MCCLOSKEY
+                                             PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+
+                                                          Date: 24  May 2014
+                                  APPENDIX
+
+        Relevant provisions of Immigration Rules [HC 395, as amended]
+
+Part 6A - Points-based system
+
+Tier 1 (Entrepreneur) Migrants
+
+245D. Purpose of this route and meaning of business
+
+(a) This route is for migrants who wish to establish, join or take over  one
+or more businesses in the UK.
+
+(b) For the purpose of paragraphs 245D to 245DF and paragraphs 35 to  53  of
+Appendix A 'business' means an enterprise as:
+
+   (i) a sole trader,
+   (ii) a partnership, or
+   (iii) a company registered in the UK.
+
+245DA. Entry to the UK
+
+All migrants  arriving  in  the  UK  and  wishing  to  enter  as  a  Tier  1
+(Entrepreneur) Migrant must have a valid entry  clearance  for  entry  under
+this route. If they do not have a  valid  entry  clearance,  entry  will  be
+refused.
+
+245DB. Requirements for entry clearance
+
+To qualify for entry clearance  as  a  Tier  1  (Entrepreneur)  Migrant,  an
+applicant must meet the requirements listed below. If  the  applicant  meets
+those requirements, entry clearance will be granted. If the  applicant  does
+not meet these requirements, the application will be refused.
+
+Requirements:
+
+(a) The applicant must not fall for refusal under the  general  grounds  for
+refusal.
+
+(b) The applicant must have a minimum of 75 points under  paragraphs  35  to
+53 of Appendix A.
+
+(c) The applicant must have a minimum of 10 points under paragraph 1  to  15
+of Appendix B.
+
+(d) The applicant must have a minimum of 10 points under paragraph  1  to  2
+of Appendix C.
+
+(e) An applicant who has, or was last granted,  leave  as  a  Student  or  a
+Postgraduate Doctor or Dentist, a Student  Nurse,  a  Student  Writing-Up  a
+Thesis, a Student Re-Sitting an Examination or as a Tier 4 Migrant and:
+
+   (i) is  currently  being  sponsored  by  a  government  or  international
+   scholarship agency, or
+   (ii) was being sponsored by a  government  or  international  scholarship
+   agency, and that sponsorship came to an end 12 months ago or less,
+   must  provide  the  unconditional  written  consent  of  the   sponsoring
+   Government or agency to the application and must  provide  the  specified
+   documents as  set  out  in  paragraph  245A  above,  to  show  that  this
+   requirement has been met.
+
+(f) Except where the applicant has had entry clearance, leave  to  enter  or
+leave to remain as a Tier 1 (Entrepreneur) Migrant, a Businessperson  or  an
+Innovator in the 12 months immediately before the date  of  application  and
+is being assessed under Table 5 of Appendix A, the Entry  Clearance  Officer
+must be satisfied that:
+
+
+   (i) the applicant genuinely intends and is able to establish,  take  over
+   or become a director of one or more businesses in the UK within the  next
+   six months;
+   (ii) the applicant genuinely intends to invest the money referred  to  in
+   Table 4 of Appendix A in the business or businesses referred to in (i);
+   (iii) that the money referred to in Table 4 of Appendix  A  is  genuinely
+   available to the applicant, and will remain available to him  until  such
+   time as it is spent by his business or  businesses.  'Available  to  him'
+   means that the funds are:
+
+     (1) in his own possession,
+     (2) in the financial accounts of a UK incorporated business of which he
+     is the director, or
+     (3) available from the third party or parties named in the  application
+     under the terms of the declaration(s) referred to in paragraph 41-SD(b)
+     of Appendix A;
+
+   (iv) that the applicant does not intend to take employment in the  United
+   Kingdom other than under the terms of paragraph 245DC;
+
+(g) In making the assessment  in  (f),  the  Entry  Clearance  Officer  will
+assess the balance of probabilities. The Entry Clearance  Officer  may  take
+into account the following factors:
+
+   (i) the evidence the applicant has submitted;
+   (ii) the viability and credibility of the source of the money referred to
+   in Table 4 of Appendix A;
+   (iii) the viability and credibility of the applicant's business plans and
+   market research into their chosen business sector;
+   (iv) the applicant's previous educational  and  business  experience  (or
+   lack thereof); (v)  the  applicant's  immigration  history  and  previous
+   activity in the UK; and
+   (vi) any other relevant information.
+
+(h) The Entry Clearance Officer reserves the  right  to  request  additional
+information and evidence to support the assessment in  (f),  and  to  refuse
+the application  if  the  information  or  evidence  is  not  provided.  Any
+requested documents must be received by the UK Border Agency at the  address
+specified in the request within 28 working days of the date of the request.
+
+(i) If the Entry Clearance Officer is not satisfied with the genuineness  of
+the application in relation to a points-scoring requirement in  Appendix  A,
+those points will not be awarded.
+
+(j) The Entry Clearance Officer will not carry out the assessment in (f)  if
+the application already falls for refusal on  other  grounds,  but  reserves
+the right to carry  out  this  assessment  in  any  reconsideration  of  the
+decision.
+
+245DC. Period and conditions of grant
+
+(a) Entry clearance will be granted for a period of 3 years and four  months
+and will be subject to the following conditions:
+
+   (i) no recourse to public funds,
+   (ii) registration with the police, if this is required by  paragraph  326
+   of these Rules, and
+   (iii) no employment other than working for the business(es) the applicant
+   has established, joined or taken over, and
+   (iv) no employment as a professional sportsperson (including as a  sports
+   coach).
+
+245DD. Requirements for leave to remain
+
+To qualify for leave to remain as a  Tier  1  (Entrepreneur)  Migrant  under
+this rule, an applicant must meet the  requirements  listed  below.  If  the
+applicant meets these requirements, leave to remain will be granted. If  the
+applicant  does  not  meet  these  requirements,  the  application  will  be
+refused.
+
+Requirements:
+
+(a) The applicant must not fall for refusal under the  general  grounds  for
+refusal, and must not be an illegal entrant.
+
+(b) The applicant must have a minimum of 75 points under  paragraphs  35  to
+53 of Appendix A.
+
+(c) The applicant must have a minimum of 10 points under paragraphs 1 to  15
+of Appendix B.
+
+(d) The applicant must have a minimum of 10 points under paragraphs 1  to  2
+of Appendix C.
+
+(e) The applicant who is applying for leave to remain  must  have,  or  have
+last been granted, entry clearance, leave to enter or remain:
+
+   (i) as a Highly Skilled Migrant,
+   (ii) as a Tier 1 (General) Migrant,
+   (iii) as a Tier 1 (Entrepreneur) Migrant,
+   (iv) as a Tier 1 (Investor) Migrant,
+   (v) as a Tier 1 (Graduate Entrepreneur) Migrant
+   (vi) as a Tier 1 (Post-Study Work) Migrant,
+   (vii) as a Businessperson,
+   (viii) as an Innovator,
+   (ix) as an Investor,
+   (x) as a Participant in the Fresh Talent: Working in Scotland Scheme,
+   (xi) as a Participant in  the  International  Graduates  Scheme  (or  its
+   predecessor, the Science and Engineering Graduates Scheme),
+   (xii) as a Postgraduate Doctor or Dentist,
+   (xiii) as a Self-employed Lawyer,
+   (xiv) as a Student,
+   (xv) as a Student Nurse,
+   (xvi) as a Student Re-sitting an Examination,
+   (xvii) as a Student Writing Up a Thesis,
+   (xviii) as a Work Permit Holder,
+   (xix) as a Writer, Composer or Artist,
+   (xx) as a Tier 2 Migrant
+   (xxi) as a Tier 4 Migrant, or
+   (xxii) as a Prospective Entrepreneur
+
+(f) An applicant who has, or was last granted,  leave  as  a  Student  or  a
+Postgraduate  Doctor  or  Dentist,  Student  Nurse,  Student  Re-Sitting  an
+Examination, a Student Writing-Up a Thesis or as a Tier 4 Migrant and:
+
+   (i) is  currently  being  sponsored  by  a  government  or  international
+   scholarship agency, or
+   (ii) was being sponsored by a  government  or  international  scholarship
+   agency, and that sponsorship came to an end 12 months ago or less,
+
+must provide the unconditional written consent of the sponsoring  Government
+or agency to the application and must provide  the  specified  documents  as
+set out in paragraph 245A above, to show  that  this  requirement  has  been
+met.
+
+(g) The applicant must not be in  the  UK  in  breach  of  immigration  laws
+except that any period of overstaying for a period of 28 days or  less  will
+be disregarded.
+
+(h) Except where the applicant has, or was last granted, leave as a  Tier  1
+(Entrepreneur) Migrant, a  Businessperson  or  an  Innovator  and  is  being
+assessed under Table  5  of  Appendix  A,  the  UK  Border  Agency  must  be
+satisfied that:
+
+   (i) the applicant genuinely:
+
+     (1) intends and is able to establish, take over or become a director of
+     one or more businesses in the UK within the next six months, or
+     (2) has established, taken over or become a director  of  one  or  more
+     businesses in  the  UK  and  continues  to  operate  that  business  or
+     businesses; and
+
+   (ii) the applicant genuinely intends to invest the money referred  to  in
+   Table 4 of Appendix A in the business or businesses referred to in (i);
+
+
+   (iii) that the money referred to in Table 4 of Appendix  A  is  genuinely
+   available to the applicant, and will remain available to him  until  such
+   time as it is spent by his business or  businesses.  'Available  to  him'
+   means that the funds are:
+
+
+     (1) in his own possession,
+     (2) in the financial accounts of a UK incorporated business of which he
+     is the director, or
+     (3) available from the third party or parties named in the  application
+     under the terms of the declaration(s) referred to in paragraph 41-SD(b)
+     of Appendix A;
+
+   (iv) that the applicant does not intend to take employment in the  United
+   Kingdom other than under the terms of paragraph 245DE.
+
+(i) In making the assessment in (h), the UK Border Agency  will  assess  the
+balance of probabilities. The UK Border Agency may  take  into  account  the
+following factors:
+
+   (i) the evidence the applicant has submitted;
+   (ii) the viability and credibility of the source of the money referred to
+   in Table 4 of Appendix A;
+   (iii) the viability and credibility of the applicant's business plans and
+   market research into their chosen business sector;
+   (iv) the applicant's previous educational  and  business  experience  (or
+   lack thereof);
+   (v) the applicant's immigration history and previous activity in the UK;
+   (vi) where the applicant has  already  registered  in  the  UK  as  self-
+   employed or as the director of a business, and the nature of the business
+   requires mandatory accreditation, registration and/or insurance,  whether
+   that accreditation, registration and/or insurance has been obtained; and
+   (vii) any other relevant information.
+
+(j)  The  UK  Border  Agency  reserves  the  right  to  request   additional
+information and evidence to support the assessment in  (h),  and  to  refuse
+the application  if  the  information  or  evidence  is  not  provided.  Any
+requested documents must be received by the UK Border Agency at the  address
+specified in the request within 28 working days of the date of the  request.
+
+
+(k) If the UK Border Agency is not satisfied with  the  genuineness  of  the
+application in relation to  a  points-scoring  requirement  in  Appendix  A,
+those points will not be awarded.
+
+(l) The UK Border Agency will not carry out the assessment  in  (h)  if  the
+application already falls for refusal on other  grounds,  but  reserves  the
+right to carry out this assessment in any reconsideration of the decision.
+
+245DE. Period, conditions and curtailment of grant
+
+(a) Leave to remain will be granted:
+
+   (i) for a period of 2 years,  to  an  applicant  who  has,  or  was  last
+   granted, leave as a Tier 1 (Entrepreneur) Migrant,
+   (ii) for a period of 3 years, to any other applicant.
+
+(b) Leave to remain under this  route  will  be  subject  to  the  following
+conditions:
+
+   (i) no recourse to public funds,
+   (ii) registration with the police, if this is required by  paragraph  326
+   of these Rules, and
+   (iii) no employment, other than working for the  business  or  businesses
+   which he has established, joined or taken over, and
+   (iv) no employment as a professional sportsperson (including as a  sports
+   coach).
+
+(c) Without prejudice to the grounds for curtailment  in  paragraph  323  of
+these Rules, leave to enter or remain granted to  a  Tier  1  (Entrepreneur)
+Migrant may be curtailed if:
+
+   (i) within 6 months of the date specified in paragraph (d), the applicant
+   has not done one or more of the following things:
+
+
+     (1) registered with HM Revenue and Customs as self-employed,
+     (2) registered a new business in which he is a director, or
+     (3) registered as a director of an existing business, or
+
+
+   (ii) the funds referred to in the relevant sections of Appendix  A  cease
+   to be available to  him,  except  where  they  have  been  spent  in  the
+   establishment or running of his business or businesses. 'Spent'  excludes
+   spending on the applicant's own remuneration. 'Available  to  him'  means
+   that the funds are:
+
+     (1) in his own possession,
+     (2) in the financial accounts of a UK incorporated business of which he
+     is the director, or
+     (3) available from the third party or parties named in the  application
+     under the terms of the declaration(s) referred to in paragraph 41-SD(b)
+     of Appendix A.
+
+(d) The date referred to in paragraph (c) is:
+
+   (i) the date of the applicant's entry to  the  UK,  in  the  case  of  an
+   applicant granted entry clearance as  a  Tier  1  (Entrepreneur)  Migrant
+   where there is evidence to establish the applicant's date of entry to the
+   UK,
+   (ii) the date of the grant of entry clearance to the  applicant,  in  the
+   case of an applicant granted entry clearance as a Tier  1  (Entrepreneur)
+   Migrant where there is no evidence to establish the applicant's  date  of
+   entry to the UK, or
+   (iii) the date of the grant of leave to remain to the applicant,  in  any
+   other case.
+
+(e) Paragraph 245DE(c) does not apply where the applicant's  last  grant  of
+leave prior to the grant of the leave that he currently has was as a Tier  1
+(Entrepreneur) Migrant, a Businessperson or an Innovator.
+
+245DF. Requirements for indefinite leave to remain
+
+To qualify for indefinite  leave  to  remain  as  a  Tier  1  (Entrepreneur)
+Migrant, an applicant must  meet  the  requirements  listed  below.  If  the
+applicant meets these requirements,  indefinite  leave  to  remain  will  be
+granted. If the applicant does not meet these requirements, the  application
+will be refused.
+
+Requirements:
+
+(a) DELETED
+
+(b) The applicant must not fall for refusal under the  general  grounds  for
+refusal, and must not be an illegal entrant.
+
+(c) The applicant must have a minimum of 75 points under  paragraphs  35  to
+53 of Appendix A.
+
+(d) The applicant must have sufficient knowledge  of  the  English  language
+and sufficient knowledge about life in the  United  Kingdom,  in  accordance
+with paragraph 33BA, unless the applicant is under the age of 18 or aged  65
+or over at the date the application is made.
+
+(e) The applicant must not be in  the  UK  in  breach  of  immigration  laws
+except that any period of overstaying for a period of 28 days or  less  will
+be disregarded.
+
+Appendix A
+
+Attributes for Tier 1 (Entrepreneur) Migrants
+
+35. An applicant applying for entry clearance, leave to remain or
+indefinite leave to remain as a Tier 1 (Entrepreneur) Migrant must score 75
+points for attributes.
+
+36. Subject to paragraph 37, available points for applications for entry
+clearance or leave to remain are shown in Table 4.
+
+36A. An applicant who is applying for leave to remain and has, or was last
+granted, entry clearance, leave to enter or leave to remain as:
+
+   (i) a Tier 4 Migrant,
+   (ii) a Student,
+   (iii) a Student Nurse,
+   (iv) a Student Re-sitting an Examination, or
+   (v) a Student Writing Up a Thesis,
+
+will only be awarded points under the provisions in (b) in Table 4.
+
+37. Available points are shown in Table 5 for an applicant who:
+
+(a) has had entry clearance, leave to enter or leave to remain as a Tier 1
+(Entrepreneur) Migrant, a Businessperson or an Innovator in the 12 months
+immediately before the date of application, or
+
+(b) is applying for leave to remain and has,  or  was  last  granted,  entry
+clearance, leave to enter or leave to remain  as  a  Tier  1  (Entrepreneur)
+Migrant, a Businessperson or an Innovator.
+
+38. Available points for applications for indefinite leave to remain are
+shown in Table 6.
+
+39. (a) Notes to accompany Table 4 appear below Table 4.
+
+(b) Notes to accompany Tables 4, 5 and 6 appear below Table 6.
+
+Table 4: Applications for entry clearance or leave to remain referred to  in
+paragraph 36
+
+|Investment and business activity                            |Points       |
+|(a) The applicant has access to not less than �200,000, or  |25           |
+|                                                            |             |
+|(b) The applicant has access to not less than �50,000 from: |             |
+|                                                            |             |
+|(i) one or more registered venture capitalist firms         |             |
+|regulated by the Financial Services Authority,              |             |
+|(ii) one or more UK Entrepreneurial seed funding            |             |
+|competitions which is listed as endorsed on the UK Trade &  |             |
+|Investment website, or                                      |             |
+|(iii) one or more UK Government Departments, or Devolved    |             |
+|Government Departments in Scotland, Wales or Northern       |             |
+|Ireland, and made available by the Department(s) for the    |             |
+|specific purpose of establishing or expanding a UK business,|             |
+|or                                                          |             |
+|                                                            |             |
+|(c) The applicant:                                          |             |
+|                                                            |             |
+|(i) is applying for leave to remain,                        |             |
+|(ii) has, or was last granted, leave as a Tier 1 (Graduate  |             |
+|Entrepreneur) Migrant, and                                  |             |
+|(iii) has access to not less than �50,000, or               |             |
+|                                                            |             |
+|(d) The applicant:                                          |             |
+|                                                            |             |
+|(i) is applying for leave to remain,                        |             |
+|(ii) has, or was lasted granted, leave as a Tier 1          |             |
+|(Post-Study Work) Migrant,                                  |             |
+|(iii) was, on a date falling within the three months        |             |
+|immediately prior to the date of application,               |             |
+|                                                            |             |
+|(1) registered with HM Revenue and Customs as self-employed,|             |
+|or                                                          |             |
+|(2) registered as a new business in which he is a director, |             |
+|or                                                          |             |
+|(3) registered as a director of an existing business,       |             |
+|                                                            |             |
+|(iv) is working in an occupation which appears on the list  |             |
+|of occupations skilled to National Qualifications Framework |             |
+|level 4 or above, as stated in the Codes of Practice in     |             |
+|Appendix J, and provides the specified evidence in paragraph|             |
+|41-SD. "Working" in this context means that the core service|             |
+|his business provides to its customers or clients involves  |             |
+|the business delivering a service in an occupation at this  |             |
+|level. It excludes any work involved in administration,     |             |
+|marketing or website functions for the business, and        |             |
+|                                                            |             |
+|(v) has access to not less than �50,000                     |             |
+|The money is held in one or more regulated financial        |25           |
+|institutions                                                |             |
+|The money is disposable in the UK                           |25           |
+
+Investment: notes
+
+40.DELETED.
+
+41. An applicant will only be considered to have access to funds if:
+
+(a) The specified documents in paragraph 41-SD are provided to show cash
+money to the amount required (this must not be in the form of assets);
+
+(b) The specified documents in paragraph 41-SD are provided to show that
+the applicant has permission to use the money to invest in a business in
+the UK;
+
+(c) The money is either held in a UK regulated financial institution or is
+transferable to the UK; and
+
+(d) The money will remain available to the applicant until such time  as  it
+is spent in the establishment or running  of  the  applicant's  business  or
+businesses. 'Spent' excludes spending on the applicant's  own  remuneration.
+The UK Border Agency reserves the  right  to  request  further  evidence  or
+otherwise verify that the money will remain available,  and  to  refuse  the
+application  if  this  evidence  is  not  provided  or  it  is   unable   to
+satisfactorily verify. 'Available to him' means that the funds are:
+
+   (1) in his own possession,
+   (2) in the financial accounts of a UK incorporated business of which he
+   is the director, or
+   (3) available from the third party or parties named  in  the  application
+   under the terms of the declaration(s) referred to in  paragraph  41-SD(b)
+   of Appendix A.
+
+
+41-SD. The specified documents in Table 4 and paragraph 41 are as follows:
+
+(a) The specified documents to show evidence of the money available to
+invest are one or more of the following specified documents:
+
+   (i) A letter from each financial institution holding the funds, to
+   confirm the amount of money available to the applicant (or the
+   entrepreneurial team if applying under the provisions in paragraph 52 of
+   this Appendix). Each letter must:
+
+
+     (1) be an original document and not a copy,
+     (2) be on the institution's official headed paper,
+     (3) have been issued by an authorised official of that institution,
+     (4) have been produced within the three months immediately  before  the
+     date of your application,
+     (5) confirm that the institution is regulated by the appropriate body,
+     (6) state the applicant's name, and his team partner's name if the
+     applicant is applying under the provisions in paragraph 52 of this
+     Appendix,
+     (7) state the date of the document,
+     (8) confirm the amount of money available from the applicant's own
+     funds (if applicable) that are held in that institution,
+     (9) confirm the amount of money provided to the applicant from any
+     third party (if applicable) that is held in that institution,
+     (10) confirm the name of each third party and their contact details,
+     including their full address including postal code, landline phone
+     number and any email address, and
+     (11) confirm that if the money is not in an  institution  regulated  by
+     the FSA, the money can be transferred into the UK;
+
+
+   or
+
+
+   (ii) For money held in the UK only, a recent personal  bank  or  building
+   society statement from each UK financial institution holding  the  funds,
+   which confirms the amount of money available to  the  applicant  (or  the
+   entrepreneurial team if applying under the provisions in paragraph 52  of
+   this Appendix). The statements must satisfy the following requirements:
+
+
+     (1) The statements must be original documents and not copies;
+     (2) The bank or building society holding the money must be based in the
+     UK and regulated by the Financial Services Authority;
+     (3) The money must be in cash in the account,  not  Individual  Savings
+     Accounts or assets such as stocks and shares;
+     (4) The account must be in the applicant's own name only (or both names
+     for an entrepreneurial team), not in the name of a  business  or  third
+     party;
+     (5)  Each  bank  or  building  society  statement  must   be   on   the
+     institution's official stationary and confirm the applicant's name and,
+     where relevant, the applicant's entrepreneurial  team  partner's  name,
+     the account number, the  date  of  the  statement,  and  the  financial
+     institution's name and logo;
+     (6) The bank or building society statement must have been issued by  an
+     authorised official of that institution and produced within  the  three
+     months immediately before the date of the application; and
+     (7) If the statements are printouts of electronic  statements  from  an
+     online account, they must either be accompanied by a supporting  letter
+     from the bank, on company headed paper, confirming the authenticity  of
+     the statements, or bear the official stamp of the bank in  question  on
+     each page of the statement;
+
+
+   or
+
+
+   (iii) For �50,000 from a Venture Capital firm, Seed Funding Competition
+   or UK Government Department only, a recent letter from an accountant, who
+   is a member of a recognised UK supervisory body, confirming the amount of
+   money made available to the applicant (or the entrepreneurial team if
+   applying under the provisions in paragraph 52 of this Appendix). Each
+   letter must:
+
+
+     (1) be an original document and not a copy,
+     (2) be on the institution's official headed paper,
+     (3) have been issued by an accountant engaged by  the  Venture  Capital
+     firm, Seed funding competition or UK Government Department  to  provide
+     the information,
+     (4) have been produced within the three months immediately  before  the
+     date of the application,
+     (5) state the applicant's name, and his  team  partner's  name  if  the
+     applicant is applying under the provisions  in  paragraph  52  of  this
+     Appendix,
+     (6) state the date of the document,
+     (7) confirm the amount of money  available  to  the  applicant  or  the
+     applicant's business  from  the  Venture  Capital  firm,  Seed  funding
+     competition or UK Government Department, and
+     (8) confirm  the  name  of  the  Venture  Capital  firm,  Seed  funding
+     competition or UK Government Department and the contact details  of  an
+     official of that organisation, including  their  full  address,  postal
+     code, landline phone number and any email address,
+
+
+(b) If the applicant is applying using money from a  third  party,  he  must
+provide all of the following specified documents:
+
+   (i) An original declaration from every third party that they have made
+   the money available for the applicant to invest in a business in the
+   United Kingdom, containing:
+
+     (1) the names of the third  party  and  the  applicant  (and  his  team
+     partner's name if the applicant is applying  under  the  provisions  in
+     paragraph 52 of this Appendix),
+     (2) the date of the declaration;
+     (3) the applicant's signature and the signature of the third party (and
+     the signature of the applicant's  team  partner  if  the  applicant  is
+     applying under the provisions in paragraph 52 of this Appendix),
+     (4) the amount of money available to the applicant from the third party
+     in pounds sterling,
+     (5) the relationship(s) of the third party to the applicant,
+     (6) if the third party is a venture capitalist  firm,  confirmation  of
+     whether this body is an Financial Services Authority-registered venture
+     capital firm, in the form of a document confirming the  award  and  the
+     amount  of  money,  and  including  the  Financial  Services  Authority
+     registration number that the firm's permission to operate as a  Venture
+     Capital firm is listed as permitted under,
+     (7)  if  the  third  party  is  a  UK  entrepreneurial   seed   funding
+     competition, a document confirming that the applicant has been  awarded
+     money and that the competition is listed as endorsed on the UK Trade  &
+     Investment website, together with the amount of the  award  and  naming
+     the applicant as a winner,
+     (8) if the third party  is  a  UK  Government  Department,  a  document
+     confirming that it has made money available to the  applicant  for  the
+     specific purpose of establishing or expanding a UK  business,  and  the
+     amount, and
+     (9) confirmation that the money will remain available to the applicant
+     until such time as it is transferred to the applicant or the
+     applicant's business.
+
+
+   and
+
+
+   (ii) A letter from a legal  representative  confirming  the  validity  of
+   signatures on each third-party declaration provided, which confirms  that
+   the declaration(s) from the third party/parties contains  the  signatures
+   of the people stated. It can be a single letter covering all  third-party
+   permissions, or several letters from several  legal  representatives.  It
+   must be an original letter and not a copy, and it must be  from  a  legal
+   representative permitted to practise in the country where the third party
+   or the money is. The letter must clearly show the following:
+
+
+     (1) the name of the legal representative confirming the details,
+     (2) the registration  or  authority  of  the  legal  representative  to
+     practise legally in the country in which the permission or  permissions
+     was/were given,
+     (3) the date of the confirmation letter,
+     (4) the applicant's name (and the name of the applicant's team  partner
+     if the applicant is applying under the provisions in  paragraph  52  of
+     this Appendix),
+     (5) the third party's name,
+     (6) that the declaration from the third party is signed and valid, and
+     (7) if the third party is not a venture capitalist firm,  seed  funding
+     competition or UK  Government  Department,  the  number  of  the  third
+     party's identity document (such as  a  passport  or  national  identity
+     card), the place of issue and dates of issue and expiry.
+
+
+(c) If the applicant is applying under the provisions in (d) in Table 4, he
+must provide:
+
+   (i) his job title,
+   (ii) the Standard Occupational Classification (SOC) code of the
+   occupation that the applicant is working in, which must appear on the
+   list of occupations skilled to National Qualifications Framework level 4
+   or above, as stated in the Codes of Practice in Appendix J,
+   (iii) one or more of the following specified documents:
+
+
+     (1) Advertising or marketing material, including  printouts  of  online
+     advertising, that has been published locally or nationally, showing the
+     applicant's name (and the name of the business if applicable)  together
+     with the business activity,
+     (2) Article(s) or online links to article(s) in a  newspaper  or  other
+     publication showing the applicant's name (and the name of the  business
+     if applicable) together with the business activity,
+     (3) Information from a trade fair(s), at which the applicant has had  a
+     stand or given a presentation  to  market  his  business,  showing  the
+     applicant's name (and the name of the business if applicable)  together
+     with the business activity, or
+     (4) Personal registration with a trade's body linked to the applicant's
+     occupation.
+
+
+   and
+
+   (iv) one or more contracts showing trading. If a contract is not an
+   original the applicant must sign each page of the contract. The contract
+   must show:
+
+     (1) the applicant's name and the name of the business,
+     (2) the service provided by the applicant's business; and
+     (3) the name of the other party or parties involved in the contract and
+     their contact details,  including  their  full  address,  postal  code,
+     landline phone number and any email address.
+
+
+42. Points will only be awarded to an applicant to whom Table 4, paragraph
+(b) applies if the total sum of those funds derives from one or more of the
+sources listed in (b)(i) to (iii) in Table 4.
+
+43. A regulated financial institution is one,  which  is  regulated  by  the
+appropriate  regulatory  body  for  the  country  in  which  the   financial
+institution operates.
+
+
+-----------------------
+[1] Durrani (Entrepreneurs: bank  letters;  evidential  flexibility)  [2014]
+UKUT 00295 (IAC) and Akhter and  another  (paragraph  245AA:  wrong  format)
+[2014] UKUT 00297 (IAC)
+
+

@@ -1,0 +1,570 @@
+
+
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Jan (Upper Tribunal: set-aside powers) [2016] UKUT 00336 (IAC)
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                          |Promulgated on               |
+|22 January 2016                               |                             |
+|                                              |.............................|
+|                                              |..........                   |
+
+                                   Before
+
+                      MR C M G OCKELTON, VICE PRESIDENT
+                        UPPER TRIBUNAL JUDGE O'CONNOR
+
+                                   Between
+
+                                  FAWAD JAN
+                                                                   Applicant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+Representation:
+
+For the Applicant:     Ms Keelin McCarthy, instructed by  Derby  Immigration
+                    Aid Consultants
+For the Respondent:    Mr  Steven  Walker,  Senior  Home  Office  Presenting
+Officer.
+
+
+The decision of the Court of Appeal in Patel [2015] EWCA  Civ  1175  entails
+the view that the Upper Tribunal's powers to set  aside  its  own  decisions
+are limited to those in rules 43 and 45-6 of the Upper Tribunal Rules.
+
+                        DETERMINATION OF APPLICATION
+
+ 1. The applicant, a national  of  Pakistan,  appealed  to  the  First-tier
+    Tribunal against the respondent's decision on 6 January 2015 to  refuse
+    to vary his leave and to give directions for his removal.  He  appealed
+    to the First-tier Tribunal and after a hearing on 21 April  2015  Judge
+    Mather gave her determination on 1 May 2015 dismissing his appeal.   He
+    applied for permission to appeal against that decision: permission  was
+    refused by Judge Chohan in the First-tier Tribunal on 13 July 2015.  He
+    renewed  his  application  for  permission  to  the   Upper   Tribunal.
+    Permission was refused by Upper Tribunal Judge McGeachy on 3  September
+    2015.  The decision was sent to the applicant and his then  solicitors,
+    as well as to the respondent, on 9 September 2015,  under  cover  of  a
+    letter reading, in part, as follows:
+
+          "There is no further right of appeal in  these  circumstances.   A
+          decision by the Upper Tribunal refusing permission  to  appeal  to
+          itself is an "excluded decision" and therefore no appeal lies from
+          such  a  decision  to  the  Court  of  Appeal:  Section   13(a)(c)
+          Tribunals, Courts and Enforcement Act 2007."
+
+ 2. The applicant then changed his representatives and by letter  dated  16
+    October 2015 Derby Immigration Aid Consultants applied  on  his  behalf
+    for the decision of Judge McGeachy to be reviewed under s.  10  of  the
+    Tribunals, Courts and Enforcement Act 2007.  The grounds supporting the
+    letter refer to rule 43 of  the  Tribunal  Procedure  (Upper  Tribunal)
+    Rules 2008 (as amended), which we set out below.  The grounds appear to
+    be based on an assertion that, because Judge McGeachy had not  referred
+    specifically to part of the wording of Judge Mather's  decision,  there
+    was a "serious procedural irregularity" in Judge  McGeachy's  decision;
+    and that it would  be  in  the  interests  of  justice  to  review  the
+    decision.  Thus, the application argued that the relevant  requirements
+    of the Rules were met.  The application acknowledged that it  was  made
+    outside the time limited by rule 43, but argued  that  it  was  in  the
+    interests of justice for time to be extended, for reasons given in  the
+    application.   We extend time because it is in the interests of justice
+    to consider the issues arising from the application.
+
+ 3. The Tribunal had seen a number  of  similar  applications  and  it  was
+    considered advisable to  list  one  for  full  consideration  with  the
+    assistance of submissions by the parties.  Thus  this  application  was
+    listed before us.   At  the  beginning  of  the  hearing,  Ms  McCarthy
+    indicated that she  conceded,  for  reasons  set  out  in  her  written
+    submissions, the application could not succeed.  As we indicated at the
+    time, we agree that  the  application  could  not  succeed.   In  these
+    circumstances the case has provided an opportunity to  reflect  on  the
+    Tribunal's jurisdiction to set aside its own decisions, particularly in
+    the light of the recent decision of the Court  of  Appeal  in  Manorama
+    Patel and Others  v SSHD [2015] EWCA Civ 1175 ("Patel").
+
+The position before Patel
+
+ 4. Before the decision of the Court of Appeal in Patel, it  appeared  that
+    there were four possible sources of a power in the  Upper  Tribunal  to
+    set aside its own decisions.
+
+ 5. First, r 43 of the UT Rules provides as follows:
+
+          "(1) The Upper Tribunal may set aside a decision which disposes of
+          proceedings, or part of such a decision, and re-make the  decision
+          or the relevant part of it, if -
+               a) the Upper Tribunal considers that it is in the  interests
+                  of justice to do so; and
+            b)  one  or  more  of  the  conditions  in  paragraph  (2)  are
+               satisfied.
+
+
+          (2) The conditions are -
+               (a)    a document relating to the proceedings was  not  sent
+                  to, or was not received at  an  appropriate  time  by,  a
+                  party or a party's representative;
+               (b)    a document relating to the proceedings was  not  sent
+                  to the Upper Tribunal at an appropriate time;
+               (c)    a party, or a party's representative, was not present
+                  at a hearing related to the proceedings; or
+               (d)    there has been some other procedural irregularity  in
+                  the proceedings."
+
+    Paragraphs (3)-(5) limit the time during  which  an  application  under
+    rule 43 may be made.  The rule applies to the Upper Tribunal as a whole
+    with the exception  of  the  Lands  Chamber;  but  there  are  separate
+    provisions for the timing of an application in relation  to  an  asylum
+    case or an immigration case, as defined.
+
+ 6. Rule 43 is made in the exercise of specific powers derived from  s.  22
+    of the 2007 Act and set out in paragraph 15 of Schedule 5 to that  Act.
+    Paragraph 15(2) of the Schedule allows rules for the setting aside of a
+    decision in proceedings before the First-tier  Tribunal  or  the  Upper
+    Tribunal in the circumstances mentioned in  sub-paragraphs  (a)-(d)  of
+    rule 43(2).   Paragraph 15(1) also permits a  "slip  rule".   Paragraph
+    15(3) of the Schedule is of some interest:
+
+          "Sub-paragraphs (1) and (2) shall not be taken to prejudice, or to
+          be prejudiced by,  any  power  to  correct  errors  or  set  aside
+          decisions that is exercisable apart from rules made by  virtue  of
+          those sub-paragraphs.
+
+ 7. The power under rule 43 is, as the rule itself makes clear, limited  to
+    cases where the decision to be set aside  is  one  which  "disposes  of
+    proceedings".  As well as the setting-aside being in the  interests  of
+    justice, one of the reasons in paragraph (2) has to be present.   These
+    are all what may be termed procedural reasons.  A refusal of permission
+    to appeal to the  Upper  Tribunal  is  a  decision  which  disposes  of
+    proceedings; but rule 43 does not permit such  a  decision  to  be  set
+    aside on grounds which are wholly substantive.  The challenge to such a
+    decision on  substantive  grounds  is  therefore  brought  by  judicial
+    review, as the decision of the Supreme Court in R (Cart)  v  The  Upper
+    Tribunal [2011] UKSC 28 makes clear.  There is no reference in rule 43,
+    or  in  the  enabling  legislation,  to  the  notion  of  an  "excluded
+    decision": if the decision is one which disposes of proceedings, it  is
+    potentially within the ambit of rule 43.
+
+ 8. Although rule 43 contains provisions about the timing of an application
+    for a decision to be set aside, no application is required.  Thus,  the
+    Tribunal can exercise its jurisdiction under rule 43 on its own motion.
+
+
+
+ 9. Secondly, the 2007 Act includes a power of review.  So far as the Upper
+    Tribunal is concerned, the principal provisions are in s. 10:
+
+           "10. Review of decision of Upper Tribunal
+
+
+            1) The Upper Tribunal may review a decision made  by  it  on  a
+               matter in a case, other than a decision that is an  excluded
+               decision  for  the  purposes  of  section  13(1)  (but   see
+               subsection (7)).
+            2) The Upper Tribunal's power under subsection (1) in  relation
+               to a decision is exercisable -
+            a) of its own initiative, or
+                 b) on application by a  person  who  for  the  purposes  of
+                    section 13(2) has a   right of appeal in respect of  the
+                    decision.
+        3) Tribunal Procedure Rules may -
+                 a) provide that the Upper Tribunal may not under subsection
+                    (1)  review  (whether  of  its  own  initiative  or   on
+                    application under subsection (2)(b))  a  decision  of  a
+                    description specified for the purposes of this paragraph
+                    in Tribunal Procedure Rules;
+                 b) provide that the Upper Tribunal's power under subsection
+                    (1) to review a decision of a description specified  for
+                    the purposes of this  paragraph  in  Tribunal  Procedure
+                    Rules  is  exercisable  only  of  the   tribunal's   own
+                    initiative;
+                 c) provide that an application under subsection (2)(b) that
+                    is of a description specified for the purposes  of  this
+                    paragraph in Tribunal Procedure Rules may be  made  only
+                    on grounds specified for the purposes of this  paragraph
+                    in Tribunal Procedure Rules;
+                 d) provide, in relation to  a  decision  of  a  description
+                    specified for the purposes of this paragraph in Tribunal
+                    Procedure Rules, that the Upper Tribunal's  power  under
+                    subsection  (1)  to  review  the  decision  of  its  own
+                    initiative is exercisable only on grounds specified  for
+                    the purposes of this  paragraph  in  Tribunal  Procedure
+                    Rules.
+            4) Where the Upper Tribunal has under subsection (1) reviewed a
+               decision, the Upper Tribunal may in the light of the  review
+               do any of the following -
+        a) correct accidental errors in the decision or in a record of  the
+           decision;
+        b) amend reasons given for the decision;
+        c) set the decision aside.
+            5) Where under subsection (4)(c)  the  Upper  Tribunal  sets  a
+               decision aside, the Upper Tribunal must re-decide the matter
+               concerned.
+            6) Where the Upper Tribunal is acting under subsection (5),  it
+               may make such findings of fact as it considers appropriate.
+            7) This section has effect as if a  decision  under  subsection
+               (4)(c) to set aside an earlier decision were not an excluded
+               decision for the purposes of section 13(1),  but  the  Upper
+               Tribunal's only  power  in  the  light  of  a  review  under
+               subsection (1) of a decision under subsection (4)(c) is  the
+               power under subsection (4)(a).
+
+            8) A decision of the Upper Tribunal may not be  reviewed  under
+               subsection (1) more than once, and once the  Upper  Tribunal
+               has decided that an earlier decision should not be  reviewed
+               under subsection (1) it may not then decide to  review  that
+               earlier decision under that subsection.
+            9) Where under this section a decision is  set  aside  and  the
+               matter concerned is then re-decided, the decision set  aside
+               and the decision made in re-deciding the matter are for  the
+               purposes of subsection (8)  to  be  taken  to  be  different
+               decisions."
+
+10. As permitted by sub-s (3), the Upper Tribunal Rules provide, at r 45(1)
+    and  r  46(1)  that  review  may  be  undertaken  in  the   course   of
+    consideration of an application for permission to appeal from the Upper
+    Tribunal to the appropriate Appeal Court (in  England  and  Wales,  the
+    Court of Appeal), but not under any other  circumstances.   Further,  a
+    decision may be reviewed only on the grounds set out in r 45(1)(a)  and
+    (b), which are as follows:
+
+           "(a) when making the decision the Upper  Tribunal  overlooked  a
+           legislative provision or binding authority which could have  had
+           a material effect on the decision; or
+           (b) since the Upper Tribunal's decision,  a  court  has  made  a
+           decision which is binding on the Upper Tribunal and  which,  had
+           it been made before the Upper Tribunal' decision, could have had
+           a material effect on the decision."
+
+    Thus the apparent general  power  in  s.  10  is  firmly  and  severely
+    restricted by rules made as permitted by rule 10(3)(a).
+
+11. The right of appeal to the relevant Appeal Court lies, by s.  13(1)  of
+    the 2007 Act, "on any point of law arising from a decision made by  the
+    Upper Tribunal other than an excluded  decision".   Excluded  decisions
+    are set out in s. 13(8) and in subordinate legislation  made  under  s.
+    13(8)(f).  The definition includes, at s. 13(8)(c):
+
+           "Any decision of the Upper  Tribunal  on  an  application  under
+           section  11(4)(b)  (application  for  permission  or  leave   to
+           appeal)."
+
+12. Thus, the combined effect of the 2007 Act  and  the  Rules  is  that  a
+    decision of the Upper Tribunal other than an excluded decision  carries
+    a right of appeal to the  Court  of  Appeal.   If  an  application  for
+    permission to appeal to the Court of Appeal is made, the  decision  may
+    be reviewed under s. 10.  But if the decision is an excluded  decision,
+    it does not carry a right of  appeal  to  the  Court  of  Appeal,  and,
+    because of the provisions of s. 10(1), it cannot  be  reviewed  either.
+    Rules 45 and 46 exclude review in any other circumstances.
+
+13. The third potential source of a power in  the  Upper  Tribunal  to  set
+    aside its own decisions is that apparently recognised by the  Court  of
+    Appeal in Akewushola v SSHD [1999] Imm AR 594, and perhaps by the Privy
+    Council in Hip Foong Hong v H. Neotia & Co. [1918] AC 888.
+
+14. In Akewushola the Immigration Appeal  Tribunal,  a  statutory  tribunal
+    created by the Immigration Act 1971, had before it an appeal against an
+    adjudicator's decision.  At the hearing the appellant's representatives
+    were not present.  The Tribunal, constituted by a  Vice  President,  Mr
+    O'Brien Quinn QC, and two lay members proceeded and, in the absence  of
+    submissions on behalf of the appellant, dismissed  the  appeal.   Their
+    decision was  sent  out  in  writing  in  the  usual  way.   Some  time
+    afterwards, Mr O'Brien  Quinn  became  aware  that  there  had  been  a
+    properly supported application for an adjournment of the  hearing.   He
+    considered that the adjournment ought to have been  granted.   On  that
+    basis he purported to rescind the determination of  the  Tribunal  over
+    which he had presided;  and  he  directed  a  fresh  hearing  before  a
+    differently constituted Tribunal.  At  that  hearing,  chaired  by  the
+    President, His Honour Judge Pearl, a preliminary issue was whether  the
+    appeal was properly before the Tribunal, given the determination by the
+    earlier Tribunal.  The question, in other words, was whether Mr O'Brien
+    Quinn had had power to  set  aside  the  Tribunal's  determination  and
+    direct a re-hearing.  The second Tribunal  examined  the  powers  of  a
+    Chairman of the Immigration Appeal Tribunal acting alone, and concluded
+    that, whether or not the Tribunal had any general power  to  set  aside
+    its own decisions, Mr O'Brien Quinn acting by himself did not have that
+    power.
+
+15. The appellant  then  appealed  to  the  Court  of  Appeal.   The  Court
+    considered both the substantive issues (that is to say, on appeal  from
+    the first determination) and the question whether the  second  Tribunal
+    was right to consider that it had no jurisdiction.   The  judgment  was
+    given by Sedley LJ, with whom Peter Gibson and Laws LJJ agreed.
+
+16.  Sedley  LJ's  judgment  decides  the  substantive  issue  against  the
+    appellant.  On the procedural question, Sedley LJ noted that the powers
+    of a Chairman acting alone were set  out  in  its  rules  and  did  not
+    include the setting aside of a decision of the Tribunal.  He then  went
+    on to consider the wider issue of whether even a  full  Tribunal  could
+    rescind its own or another Tribunal's decision.  There was no  explicit
+    power in the Rules, and he said that he could see a number  of  reasons
+    why no such power should be inferred or implied.  The  first  was  that
+    rule 38 of the Tribunal's Rules allowed "any irregularity" to be  cured
+    "before  an  appellate  authority  has  reached  its  decision".   That
+    appeared to impose a time limit (at least) on the exercise of  a  power
+    such as was under consideration.
+
+17. But there was a more general difficulty.  After citing a  passage  from
+    the then current edition of Wade and Forsyth on Administrative Law, and
+    referred to the slip rule in the Rules of the  Supreme  Court  and  the
+    decision in Hip Foong Hong v H. Neotia & Co., Sedley LJ  said  this  at
+    600:
+
+           "For my part I do not  think  that,  slips  apart,  a  statutory
+           tribunal  -  in  contrast  to  a  superior  court  -  ordinarily
+           possesses any inherent  power  to  rescind  or  review  its  own
+           decisions.   Except  where  the  High  Court's  jurisdiction  is
+           unequivocally excluded by privative  legislation,  it  is  there
+           that the power of correction resides.
+
+
+           This  is  particularly  so  where,  as  is  the  case  with  the
+           Immigration Appeals (Procedure) Rules 1984,  repeated  provision
+           is made for the circumstances in which a Tribunal can decide for
+           itself what steps to take. ... Although  there  may  be  further
+           powers which arise by necessary implication from  those  spelled
+           out  in  the  rules  -  for  example,  to  make  provision   for
+           interpreters - it is  not  feasible  to  deduce  from  them  the
+           interstitial existence of an internal  power  of  rescission  or
+           review.  If something  has  gone  procedurally  wrong  which  is
+           capable of having affected the outcome, it is to the High  Court
+           - if necessary on a consensual application - that recourse  must
+           be had."
+
+18. That discussion appears to recognise,  in  the  first  sentence  quoted
+    above, that a Superior Court does have an inherent power to rescind  or
+    review its own decisions.  That is, of course, not necessarily  to  say
+    that the power is unrestrained.  Hip Foong  Hong  v  H.  Neotia  &  Co.
+    concerned the exercise of the jurisdiction where a judgment was said to
+    have been obtained by fraud, but it, and many other decisions including
+    that of the Court of Appeal in Taylor v Lawrence  [2002]  EWCA  Civ  90
+    appear to recognise an inherent power to reopen a case  even  after  an
+    order has been perfected and reconsider the decision in  the  interests
+    of justice.
+
+19. By s. 3(5)  of  the  2007  Act,  the  Upper  Tribunal  is  (unlike  the
+    Immigration Appeal Tribunal) a Superior  Court  of  Record.   It  might
+    therefore be supposed that the Upper Tribunal has the  inherent  powers
+    of a Superior Court of Record, whatever they may be.
+
+20. The fourth possible source of a power to set decisions aside is  s.  25
+    of the 2007 Act, which is as follows:
+
+           "Supplementary powers of the Upper Tribunal
+        1) In relation to the matters  mentioned  in  subsection  (2),  the
+           Upper Tribunal -
+                 a) has, in England and Wales or in  Northern  Ireland,  the
+                    same powers, rights, privileges  and  authority  as  the
+                    High Court, and
+                 b) has, in Scotland, the same  powers,  rights,  privileges
+                    and authority as the Court of Session.
+        2) The matters are -
+            a) the attendance and examination of witnesses,
+            b) the production and inspection of documents, and
+            c)  all  other  matters  incidental  to  the  Upper  Tribunal's
+               functions.
+        3) Subsection (1) shall not be taken -
+            a) to limit any power to make Tribunal Procedure Rules;
+                 b) to be limited by anything in  Tribunal  Procedure  Rules
+                    other than an express limitation.
+           (4)    A power, right, privilege or  authority  conferred  in  a
+           territory  by  subsection  (1)  is  available  for  purposes  of
+           proceedings in the Upper Tribunal that take place  outside  that
+           territory (as  well  as  for  purposes  of  proceedings  in  the
+           tribunal that take place within that territory)."
+
+    It might well be thought that regulating its own  procedure,  including
+    setting aside its own previous decisions in appropriate  circumstances,
+    are "matters incidental to the Upper Tribunal's functions".  Section 25
+    provides that in such matters the Upper Tribunal has the powers of  the
+    High Court  and  any  other  powers  that  the  High  Court  including,
+    presumably, both its inherent powers and those conferred by legislation
+    or rule.
+
+21. Looking more generally, it is to be noted that  the  third  and  fourth
+    possible sources are applicable to the Upper Tribunal as a whole.   The
+    first and second are applicable to those Chambers of the Upper Tribunal
+    to which the Upper Tribunal Rules apply, that is to  say  all  Chambers
+    with the exception of the  Lands  Chamber.   Both  paragraph  15(3)  of
+    Schedule 5 to, and s. 25(3) of  the  2007  Act  have  provisions  which
+    counter the effect of any expressio unius exclusio  alterius  argument;
+    but those provisions apply  only  to  the  first  and  fourth  possible
+    sources.  There is no similar provision in s. 10(3); and  clearly  such
+    an argument might have effect in relation to the inherent jurisdiction.
+
+
+
+22. Finally, we remind ourselves that both the Upper Tribunal Rules  (at  r
+    42) and the Procedure Rules of the First-tier Tribunal include  a  slip
+    rule, in terms similar to that in CPR 40.12.  The  Upper  Tribunal  has
+    held that the First-tier Tribunal's slip rule is not available for  the
+    purpose of reversing a decision already communicated  to  the  parties:
+    Katsonga v SSHD [2016] UKUT 00228 (IAC).
+
+
+
+Patel
+
+23. In Patel there was a long procedural  history.   The  two  most  recent
+    steps prior to the hearing before the  Upper  Tribunal  were  that  the
+    Upper Tribunal had refused permission to appeal,  and  the  High  Court
+    had,  in  judicial  review  proceedings,  quashed  that  refusal.   The
+    application for permission thus awaited  lawful  determination  by  the
+    Upper Tribunal, and a hearing was arranged in  order  to  determine  it
+    and, if appropriate, any resulting appeal.  The Tribunal considered the
+    substantive grounds and decided to grant permission.  It then commenced
+    the hearing of the appeal and discovered what had not  previously  been
+    made clear either to the Tribunal or to the judge who  dealt  with  the
+    judicial review, that the application which the Tribunal had originally
+    refused was substantially out  of  time.   It  thereupon  purported  to
+    rescind its decision granting leave, substituted  a  decision  refusing
+    leave, and declined to consider the substantive appeal.  The  applicant
+    appealed to the Court of Appeal on the basis that the Tribunal  had  no
+    power to rescind its grant of permission.  We add, because as presently
+    constituted we are authoritatively able to do  so,  that  the  Tribunal
+    thought that it was exercising the inherent jurisdiction of a  Superior
+    Court of Record, the third possible source.
+
+24. The judgment of the Court of Appeal was given by  Sir  Richard  Aikens,
+    with whom Lewison LJ agreed.  The Court was faced with  the  difficulty
+    that the Tribunal had clearly made two decisions.  If the Tribunal  had
+    no jurisdiction to set aside  its  decision  granting  permission,  the
+    second decision, refusing permission, nevertheless had to be dealt with
+    as it stood unless quashed by an appropriate Superior Court.  We do not
+    need to concern ourselves with that difficult  question  of  procedure.
+    What is important for present purposes is the Court's decision  on  the
+    question whether the Tribunal indeed had  the  power  it  purported  to
+    exercise.
+
+25. Sir Richard  Aikens'  treatment  of  that  issue  is  perfectly  clear.
+    Section 10 of the 2007 Act permits review of a decision, but not if the
+    decision is an excluded decision.  There had in the present case been a
+    decision; but, being a decision on an  application  for  permission  to
+    appeal, it was an excluded decision.  The Tribunal accordingly  had  no
+    power to review its decision under s. 10 and accordingly  no  power  to
+    set aside the grant of permission.
+
+26. In reaching his decision to that effect, Sir  Richard  Aikens  rejected
+    submissions made on behalf of the Secretary of State about the  nature,
+    timing and form of decisions of the Upper Tribunal.  He  noted  that  r
+    40(1) permits a decision to be given orally at a hearing, and that  the
+    UT Rules do not require a decision of this sort  (as  distinct  from  a
+    decision refusing permission)  to  be  given  in  writing.   Thus,  the
+    decision given orally could not be regarded as merely provisional until
+    it was reduced to writing.  The learned judge also pointed out that, in
+    the procedure of the Upper  Tribunal,  there  is  not  the  distinction
+    between judgment and order that applies in the High Court.  Any general
+    or inherent power to vary a judgment before the order was drawn up  and
+    sealed therefore had no relevance to the Upper Tribunal.  None  of  the
+    points raised by the Secretary of State therefore deflected the learned
+    judge from his conclusion that the decision granting  permission  could
+    not be the subject of review and therefore once taken,  albeit  orally,
+    it could not be rescinded.
+
+27. Evidently the Court of Appeal thought it desirable  to  deal  with  the
+    matter in those general terms.  Reaching the view that it did,  it  did
+    not need to point out that the decision could not have been the subject
+    of review under s.10  in  any  event,  because  the  Tribunal  was  not
+    considering an application for permission to appeal  to  the  Court  of
+    Appeal: see rr 45 and  46,  and  s.  10(3)(a),  discussed  above.   The
+    judgment is clearly binding on the Upper Tribunal in all its  Chambers,
+    and it is in our judgment of considerable importance as much  for  what
+    it does not say as for what  it  does.   The  Court  was  concerned  to
+    discover whether the Upper Tribunal had power to set aside  a  decision
+    that, in the Tribunal's view, had been reached in the absence of a full
+    appreciation  of  the  facts.   In  these  circumstances  the   Court's
+    concentration on the review power under s. 10 of the 2007 Act  and  the
+    absence of any reference to either the inherent  power  of  a  Superior
+    Court of Record or the powers given by s. 25 must constitute a decision
+    that those powers either do not exist  or,  if  they  do,  were  wholly
+    irrelevant to the issue before the Court.  It appears to us, therefore,
+    that Patel puts to an end any speculation  based  on  the  judgment  of
+    Sedley LJ in Akewushola and, further, decides that whatever powers  are
+    granted by s. 25 of the 2007 Act, they do  not  include  any  power  to
+    rescind that deserved examination in the circumstances of the facts  of
+    Patel.  That is important.  It appears to mean that  the  Tribunal  (in
+    all its Chambers) has no inherent power to set aside its decisions, and
+    no power derived from the powers of the High  Court;  further,  in  the
+    Chambers governed by the UT Rules, it has no power  to  set  aside  its
+    decisions other than in the circumstances set out in rules 43 and 45-46
+    respectively.  That means that the power to set  aside  a  decision  is
+    limited to (i) setting aside a decision that terminates proceedings, on
+    the ground of procedural error, and (ii) setting aside  a  decision  by
+    way of review, where an application for permission  to  appeal  to  the
+    Court of Appeal is being considered and one of the two circumstances in
+    rule 45(1) applies.
+
+The present application
+28. Having set out the  circumstances  in  which  the  Upper  Tribunal  has
+    jurisdiction to set aside decisions of the Upper Tribunal,  we  proceed
+    to apply the  law  to  the  present  application.   It  is  immediately
+    apparent that, potentially, rule 43 applies,  but  rule  45  does  not.
+    Rule 43  applies,  because  the  decision  refusing  permission  was  a
+    decision disposing of the proceedings before the Tribunal;  the  review
+    power does not apply, because the Tribunal was and is  not  considering
+    an application for  permission  to  appeal  to  the  Court  of  Appeal.
+    Further, that power could not be applicable, because the decision under
+    consideration is an "excluded decision".
+
+29. Ms McCarthy's concession that the application cannot succeed  is  based
+    on her recognition that the decision under challenge  is  an  "excluded
+    decision".   That  characterisation  is,  however,  only  relevant   in
+    relation to the power of review; it has  no  application  to  the  only
+    power which could be applicable in the  present  case,  which  is  that
+    under rule 43.  Rule 43 does not apply here, however, because  none  of
+    the conditions in paragraph (2) of that  rule  is  present.   Evidently
+    none of sub-paragraphs  (a)  (b)  or  (c)  applies;  and  although  the
+    applicant sought to  suggest  that  there  was  "a  serious  procedural
+    irregularity",  the  truth  is  that  there  has  been  no   procedural
+    irregularity at all.  The applicant's complaint is based solely on  the
+    substance of the decision.  Further, bearing in mind the  interests  of
+    both parties, the basis for suggesting that the  interests  of  justice
+    require the decision to be set aside is wholly elusive.  Indeed, if the
+    Tribunal had the wider powers now authoritatively  excluded  by  Patel,
+    the result would have been the same:  there  is  no  proper  basis  for
+    exercising a set-aside power in the present proceedings.
+
+Conclusion
+
+30. Our conclusions are as follows.
+
+     1) Following the decision of the Court of Appeal in Patel, it  appears
+        that the Tribunal's powers  to  set  aside  its  own  decision  are
+        limited to those in rules 43 (set-aside) and 45-6 (review).
+
+
+     2) The power under rule 43 (but not the power  under  rules  45-6)  is
+        exercisable in relation to an "excluded decision",  but  only  when
+        the decision has been reached following a procedural  irregularity.
+
+
+
+     3) In the present case there was no procedural  irregularity  and  the
+        application is therefore refused.
+
+
+
+
+
+
+
+
+                                                           C. M. G. OCKELTON
+                                        VICE PRESIDENT OF THE UPPER TRIBUNAL
+
+
+
+                                              IMMIGRATION AND ASYLUM CHAMBER
+                                                          Date: 29 June 2016

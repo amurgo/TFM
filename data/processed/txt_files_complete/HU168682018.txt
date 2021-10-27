@@ -1,0 +1,576 @@
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number: HU/16868/2018
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House                            |Decision & Reasons           |
+|On Tuesday 10 March 2020                        |Promulgated                  |
+|                                                |On 19 March 2020             |
+|                                                |                             |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE SMITH
+
+                                   Between
+
+                     ENTRY CLEARANCE OFFICER, SHEFFIELD
+                                                                   Appellant
+                                     and
+
+                               MRS PARVIN MANI
+                                                                  Respondent
+Representation:
+For the Appellant:      Mr S Whitwell, Senior Home Office Presenting
+                 Officer
+For the Respondent: Mr R Alavi (Appellant's husband and sponsor)
+
+
+                            DECISION AND REASONS
+
+      BACKGROUND
+
+    1. This is an appeal by the  Entry  Clearance  Officer.   For  ease  of
+       reference, I refer to the parties as they were before the First-tier
+       Tribunal.  The Respondent appeals against a decision  of  First-Tier
+       Tribunal Judge C  H  Bennett  promulgated  on  22  July  2019  ("the
+       Decision") allowing the Appellant's appeal against the  Respondent's
+       decision dated 16 July 2018 refusing her entry for settlement as the
+       wife of a British citizen.  The Appellant is  a  national  of  Iran.
+       She is married to Mr Alavi, who attended the appeal on  her  behalf.
+       I refer to him hereafter as the Sponsor.
+
+
+    2. The Appellant and the Sponsor lived together in Northern Cyprus  for
+       about seventeen months prior to the application for entry clearance.
+        The Sponsor has returned to the UK.  The Appellant currently  lives
+       in Iran.
+
+
+    3. The Respondent refused the Appellant's application on the basis that
+       she could not meet the financial  requirements  of  the  Immigration
+       Rules ("the Rules").  The couple are required to show that they meet
+       the Minimum Income Threshold ("the MIR").  The  Respondent  was  not
+       satisfied that there were "exceptional circumstances" justifying the
+       grant of entry outside the Rules.
+
+
+    4. The Appellant and the Sponsor are both retired.  Both are in receipt
+       of pension.  The  Respondent  accepted  that  the  Sponsor  received
+       �14,072.42 per annum by way of pension but made no reference to  the
+       Appellant's pension income when refusing  entry.   The  couple  also
+       receive rental income from a property in Iran.  The Respondent  took
+       that  into  account  but  was  not  satisfied  that  the   documents
+       demonstrating that income met the requirements of Appendix FM-SE  to
+       the Rules.  That appendix contains stringent requirements as to  the
+       documentation to show that the relevant paragraph of  the  Rules  is
+       met.  In any event, the Respondent calculated the rental  income  as
+       �3,577.08 which was insufficient to meet the MIR which  is  in  this
+       case �18,600.
+
+
+    5. Based on his assessment of the evidence, both documentary  and  oral
+       (given by the Sponsor), the Judge expressed himself to be  satisfied
+       that this showed that the couple do meet the MIR.   Accordingly,  he
+       found that the Appellant met the financial requirements of the Rules
+       and, since that was the only reason for refusal within the Rules, he
+       allowed the appeal on that basis and within the Rules.
+
+
+    6. The Respondent appeals on the basis that the  Judge  has  materially
+       misdirected himself in law.  It is contended that the  Judge  failed
+       to consider paragraph 10 of Appendix FM-SE concerning the  documents
+       required to evidence the Appellant's own pension  income.   Although
+       the Judge refers to paragraph 10 at [10]  of  the  Decision,  it  is
+       asserted that the reasoning which follows as to how those provisions
+       are met is inconsistent with the nature of  the  specified  evidence
+       regime and accordingly has led to an error of law.   The argument is
+       neatly encapsulated in the renewed application to this  Tribunal  as
+       follows:
+
+
+           "... the grounds argue that the First Tier  Tribunal  Judge  has
+           overlooked  the  requirement  for  the  appellant   to   produce
+           financial information in  a  format  that  meets  the  specified
+           evidence requirements of paragraph 10 of Appendix FM SE  of  the
+           Immigration rules.  It is argued that by accepting oral evidence
+           as a way of circumventing these  requirements,  the  First  Tier
+           Tribunal Judge has materially erred in law ..."
+
+
+    7. Permission to appeal was refused by Resident Judge J F W Phillips on
+       4 October 2019 in the following terms (so far as relevant):
+
+
+            "... 3.    There is no arguable  error  of  law.   The  grounds
+           quote selectively from the very detailed  decision.   The  Judge
+           details very clearly (at para 20) the  Appellant's  evidence  of
+           the source of the payments into his bank account.   He  explains
+           at para 23 why he accepts this evidence.  The Judge was entitled
+           to come to his own conclusion on the evidence and has  explained
+           clearly how he reached that conclusion."
+
+
+    8. Permission to appeal was granted following  renewed  application  by
+       Upper Tribunal Judge Kekic on 24 January 2020 in the following terms
+       (so far as relevant):
+
+
+           "... The respondent argues that the judge erred in finding  that
+           the requirements of paragraph 10 of Appendix FM SE had been  met
+           despite his acknowledgement that the  bank  statements  did  not
+           evidence the pension payments as required (at 22).  It is argued
+           that his acceptance of the sponsor's oral evidence  in  lieu  of
+           the specified documentary evidence (at 23) was a misdirection in
+           law.
+
+
+           It is arguable that the judge sought to circumvent the rules  by
+           accepting oral evidence in place of documentary  evidence  in  a
+           specified format and permission is, therefore, granted."
+
+
+    9. The matter comes before me to decide whether  there  is  a  material
+       error of law in the Decision and, if I so find, to either remit  the
+       appeal to the First-tier Tribunal or re-make the  Decision  in  this
+       Tribunal.
+
+
+      ERROR OF LAW
+
+
+   10. Mr Whitwell relied on the grounds.  He referred me to  paragraph  10
+       of Appendix FM-SE and in particular paragraph 10(e) which relates to
+       the evidence required to show income from a  pension  received  from
+       abroad (as is the position with the Appellant's own pension).   That
+       paragraph reads as follows:
+
+           "(e) To evidence a pension:
+           (i) Official documentation from:
+               (1) ...;
+               (2) An overseas pension authority; or ...
+           confirming pension entitlement and amount (and, where
+           applicable, reflecting any funds withdrawn from the pension
+           account or fund).
+           (ii) At least one personal bank statement in the 12-month period
+           prior to the date of application showing payment of the pension
+           into the person's account."
+
+
+   11. That paragraph is cited at [10(e)] of the Decision.  Thereafter,  in
+       relation  to  the  Appellant's  pension,  the  Judge  recorded   the
+       following evidence:
+
+
+            "17. No statements of any account which Mrs  M  held  with  any
+           bankers, and into which either the  pension  payments  from  the
+           Retirement Fund Institute of the Iran National Copper Industries
+           Company or the rent  from  Mrs  M's  flat  had  been  paid  were
+           submitted in support of the appeal before the hearing on 21 June
+           2019.  Mr A did not, at the hearing, produce any  statements  of
+           Mrs M's accounts with her bankers.  Mr Pareek obtained from  the
+           entry  clearance  officer's  (on  line)  file  details  of   the
+           documents which the entry clearance officer had recorded that he
+           had been seen, and which he had returned to  Mr  A.   That  file
+           showed (16 July 2018 at 1140:02) that
+                 'Income from other non-employment sources (rental  income).
+                 Title Deed for property owned in  Iran  by  the  applicant,
+                 along with lease agreement and bank  statements  showing  6
+                 month rent payment. Specified  docs  not  provided.  Income
+                 from  property  is  �3,577.08.   Income  from   pension   &
+                 permitted  benefits  TFL   Pension   �14,072.42.    Capital
+                 Combined Income: �17,649.50.  Maintenance not met'...
+           The entry clearance officer's record shows that  the  supporting
+           documents had been returned to  Mr  A  on  17  July  2018.   The
+           documents recorded as having been returned do  not  include  any
+           document from the Retirement Fund Institute of the Iran National
+           Copper Industries Company.
+           18.   Over and above the fact that the entry clearance officer's
+           record (above)  makes  no  reference  to  his  having  seen  any
+           document from the Retirement Fund Institute of the Iran National
+           Copper Industries Company,  it  is  apparent  that  he  recorded
+           having seen bank statements showing only  6  months  payment  of
+           rent.
+           19.   Mr A told me that
+           (a)   Mrs M had submitted statements of her account with Tejarat
+                 Bank (in Iran) covering a period of 6  months  (implicitly,
+                 to vouch her pension and rental income), and
+           (b)   he had been informed  in  an  e-mail  from  UK  Visas  and
+                 Immigration (27 July 2018) [footnote omitted]
+                       'In response to your query, your bank statements must
+                       show evidence from the last 6 months for the  correct
+                       amount of the finances you have been receiving',
+           (c)   it was not possible for the statements of Mrs M's  account
+                 to be printed out in western script -  and  that,  if  they
+                 were to be printed out, they would have to be  printed  out
+                 in Iranians script, and
+           (d)   it would not be easy  to  obtain  statements  (in  western
+                 script) covering the 12 month period, but he would  do  his
+                 best to obtain them and bring them to Taylor House by  1630
+                 hours on Friday 28 June 2019.
+           I informed Mr A that,
+           [A]   if he provided statements of Mrs M's account with  Tejarat
+           Bank covering the 12 month period  prior  to  the  date  of  the
+           application (11 May 2018) printed in western script and/or  with
+           necessary translations and showing credit entries in respect  of
+           Mrs M's rental  and  pension  income,  I  would  consider  them,
+           provided that
+                 (1)   they were received at Taylor  House  no  later  than
+                 1630 hrs on Friday 28 June 2019,
+                 (2)   copies of  any  such  statements  were  sent  to  Mr
+                 Pareek, to arrive no later than the above  time  and  date,
+                 and
+           [B]   if he experienced significant  difficulties  in  obtaining
+                 the statements  covering  the  12  month  period  (and  any
+                 necessary translations)  within  the  above  timescale,  he
+                 should explain the difficulties.
+           20.    Following  the  hearing,  Mr  A  sent  me  the  following
+                 documents.
+           (a)   His e-mail to UK Visas and Immigration  sent  on  26  July
+                 2018...
+           (b)   A printout of the statement of Mrs M's  account  with  the
+                 Tejarat Bank (vouched by the stamp of  the  Kerman  Bahonar
+                 University Branch) covering the period 16 March 2017  until
+                 29 April 2018.  The statement shows  the  following  credit
+                 entries.  The sources  of  those  credit  entries  are  not
+                 themselves identified in the text of the statement.  But Mr
+                 A marked the statement to identify  the  sources  as  shown
+                 below..."
+
+
+       There then follows a tabulated analysis of the credit entries in the
+       statements  with  a  column  recording  "Mr  A's  explanation".   Mr
+       Whitwell confirmed that the Respondent does not take issue with  the
+       substance of the evidence there recorded.  Her point is rather  that
+       the bank statement does not speak for  itself;  the  source  of  the
+       credit entries can only be established when read with the  Sponsor's
+       explanation.   That  is  inconsistent  with  the   requirement   for
+       specified evidence.
+
+
+   12. The Judge goes on to make  the  following  findings  based  on  that
+       evidence:
+
+
+            "21. There is no difficulty in identifying the rental  payments
+           from the credit entries in the statement of Mrs M's account with
+           the Tejerat Bank - since  the  payments  made  accord  (broadly,
+           although that on the 24 March 2018 is Rls 2,000,000 short of the
+           Rls 19,000,000 required under the agreement extending the  term)
+           with those provided for under the  Lease  Contract  (see  above,
+           paragraph 15(c)).  I am therefore satisfied that,  although  the
+           statement of the account  does  not  specifically  identify  the
+           source of the payments, those credit entries which I have listed
+           in the 2nd column of the above table are payments in respect  of
+           rent.  I  am  also  satisfied  that,  in  the  12  month  period
+           immediately prior to the date on which Mrs M applied  for  entry
+           clearance, 11 May  2018,  the  total  rental  income  which  she
+           received, as  vouched  by  the  above  credit  entries  was  Rls
+           230,400,000.
+            22.  The credit entries relating to the sums stated by Mr A  to
+           be payments in respect  of  Mrs  M's  pension  are  less  easily
+           identifiable as such, because (as above) the  statement  of  the
+           account does not specifically identify the source of each credit
+           entry.  Additionally, it is apparent from the above table  that,
+           although there are monthly payments, the sums  paid  each  month
+           are not the same, and the payments were not, in each month, made
+           on the same day.  Nor was the same amount paid each month.   The
+           sum of the 3 credit entries on 22 August 2017,  Rls  25,300,000,
+           is approximately the sum stated  as  being  the  monthly  amount
+           payable, Rls 25,392,444.  But it is difficult to  see  that  any
+           other sum paid in any particular month after August 2017  is  or
+           approximates to Rls 25,392,444.  The position is complicated  by
+           this further point, namely  that  the  stated  increase  in  the
+           pension of Rls 203,040 to Rls 25,392,244 per month  was  plainly
+           not (as stated in the letter),  an  increase  of  12%.   If  the
+           monthly pension of Rls 25,392,244 represented  a  12%  increase,
+           the monthly pension before the  increase  would  have  been  Rls
+           25,392,244�1.12 = Rls 22,671,646 and  the  increase  would  have
+           been  Rls  25,392,244-  Rls  22,671,646  =  Rls  2,720,598.   By
+           contrast, if the increase  in  pension  had  been  (merely)  Rls
+           203,040 per  month,  the  monthly  pension  payable  before  the
+           increase took effect would have  been  Rls  25,189,204  and  the
+           percentage increase would have been (only) 0.806%.
+            23.  On the basis that the increase took effect on 11 June 2017
+           and that there were credit entries on the 12 and  15  June  2017
+           (Rls 2,200,000 and 10,671,000),  those  credit  entries  are,  I
+           conclude payments at the increased rate.  I  therefore  conclude
+           that, during the 12 month period, there were 11 months in  which
+           payments at the increased rate were made and 1 (16 May 2017)  at
+           the lower (pre-increase) rate.  Taking the figures which I  have
+           calculated in paragraph 22, the total payable over the 12  month
+           period from 11 May 2017 would therefore have been as follows.
+                 1 x Rls 22,671,646          Rls 22,671,646
+                 11 x Rls 25,392,244         Rls 279,314,684
+                 Total                  Rls 301,986,330
+            By contrast, if the position was that the increase  which  took
+           effect on the 11 June 2017 was of Rls 203,040 (and not 12%), the
+           total for the 12 month period would have been
+                 12 x Rls 25,392,244         Rls 304,706,928
+                 Less 1 x Rls 203,040               Rls 203,040
+                 Total                  Rls 304,503,888
+           Whether the true position  is  that  the  increase  was  of  Rls
+           203,040  or  12%,  the  total  of  the  actual   receipts,   Rls
+           298,469,000 is approximately equal to, but slightly  less  than,
+           the sum to be expected on the basis of the document to  which  I
+           have referred in paragraph 15(a).  The evidence relating to  the
+           pension payments is significantly less than satisfactory.   But,
+           as against that,
+                  a) The document to which I  have  referred  in  paragraph
+                     15(a) indicates clearly, and I am satisfied, that  Mrs
+                     M was entitled to a monthly pension,  which,  from  11
+                     June 2017, was to be increased to Rls 25,392,444,
+                  b) The statement of the account with Tejarat  Bank  shows
+                     the above credit entries (albeit  that  the  statement
+                     does not identify the source of the  credit  entries),
+                     and
+                  c)  The  total  amount  paid  to  Mrs  M's  account   (as
+                     identified by Mr A) amounts approximately to,  but  is
+                     slightly  less  than,  the  sum  which,  whether   the
+                     increase which took effect in July 2017 was either Rls
+                     203,040 or the 12%, as stated in the  above  document,
+                     she should have received by way of pension.
+           Paragraph 10(e) does not specifically require  that  the  credit
+           entries in the relevant bank statement identify  the  source  of
+           the relevant payment.  Although I  accept  that  permitting  the
+           source of the relevant credit entries vouching  receipt  of  the
+           pension payments to be  established  by  oral  evidence  (and  a
+           fortiori oral evidence from either an  appellant  or  a  sponsor
+           does not appear to be consistent with the  general  'regime'  of
+           Appendix FM-SE (which, in general terms, requires that  receipts
+           be vouched by independent documentary evidence), I do not accept
+           that the Appendix prohibits the establishment of the  source  of
+           the credit entries in the above manner (even though that is,  to
+           a degree, dependent on Mr A's  identification  of  the  relevant
+           credit entries).  It is unclear how he was able to identify  the
+           particular credit entries as being payments of Mrs M's  pension.
+           It is to be expected that there are other documents which  would
+           have identified the source (if only because it is to be expected
+           that, on making any  payment  to  Mrs  M,  the  Retirement  Fund
+           Institute would have notified her in writing  that  the  payment
+           either had been made or was about to be made and of its  amount.
+           I am not satisfied that there are no other such documents  which
+           could have been produced and which  would  have  identified  the
+           source of each of the credit entries identified by Mr A as being
+           the pension payments.  There is no apparent good reason (and  Mr
+           A did not place any such reason before me) why  any  such  other
+           documents (with appropriate translations) could  not  have  been
+           placed before me.  There is no evidential basis for  concluding,
+           and I am not satisfied, that  that  would  have  involved  undue
+           difficulty or expense.  But despite my doubts (as above), in the
+           light of what I have said in sub-paragraphs  (a),  (b)  and  (c)
+           above, and because there is no specific requirement in  Appendix
+           FM-SE that the bank statements should identify the source of the
+           relevant credit entries and no  specific  provision  prohibiting
+           the sources from being identified by oral  or  written  evidence
+           from a sponsor, I conclude that the pension receipts  have  been
+           established in the manner provided for by  paragraph  10(e)(ii),
+           i.e. by the provision of
+                 'at least one  personal  bank  statement  in  the  12-month
+                 period prior to the date of application showing payment  of
+                 the pension into [Mrs M's] account'.
+           Since, consistently with paragraph 13(g)(ii) of Appendix  FM-SE,
+           the gross annual income from a  foreign  pension  is  the  gross
+           annual pension income received, my concern is  with  the  actual
+           sum received, in the  circumstances  of  this  appeal,  the  Rls
+           298,469,000.  I am therefore satisfied that the  pension  income
+           during the relevant 12 month period was Rls 298,469,000."
+           [my emphasis]
+
+
+   13. Having made those findings, the Judge applied the exchange  rate  to
+       the foreign pension and rental to reach figures of �4,045.11 for the
+       rental receipts (Rls 230,400) and �5,240.20  for  the  pension  (Rls
+       298,469,000).  Added to the Sponsor's  pension  that  gave  a  total
+       joint annual gross income of �23,357.73.  Based on  those  findings,
+       the Judge concluded at [25] of the Decision that the  Appellant  met
+       the Rules in relation to the MIR by providing  "specified  evidence"
+       that the Appellant and Sponsor were  in  receipt  of  the  requisite
+       level of funds. The appeal was therefore allowed within the Rules.
+
+
+   14. Mr Whitwell's submission was a short one.  In essence, he says  that
+       paragraph 10 of Appendix FM-SE is clear - on  a  plain  reading,  it
+       requires that the bank statement itself  shows  the  source  of  the
+       credit entry.  As the Judge himself observed, the specified evidence
+       regime is a strict one.  True it is that there is provision for some
+       evidential flexibility. In particular in this context paragraph D(e)
+       allows for  discretion  to  be  exercised  to  allow  an  evidential
+       requirement to be waived or for alternative evidence to be  provided
+       where a requirement cannot be met due to different  regimes in other
+       countries - the Sponsor says that bank statements  in  Iran  do  not
+       show source of credit as a matter of course.    The  difficulty  for
+       the Appellant in this regard, though, is what the Judge says at [23]
+       as recorded above about other possible documentary sources.
+
+
+   15. As the Judge also observes,  the  general  tenor  of  the  specified
+       evidence regime is  to  require  independent  documentary  evidence.
+       Whether oral evidence is permitted is  something  which  has  to  be
+       considered in context.  It might be so if,  for  example,  an  entry
+       clearance officer  conducted  an  interview  with  an  applicant  to
+       establish the content of documentary evidence which, taken together,
+       was capable of showing that the requirement was met.  However,  even
+       on the Judge's own findings, in this case, the evidence was not that
+       of the Appellant but of the Sponsor.  As the Judge himself found, it
+       was not clear how the Sponsor came to know the information which  he
+       provided.  There is no formal witness statement from the  Appellant.
+       Her own evidence could not be tested.  The  Judge  also  noted  some
+       discrepancies between the documents and the explanation given.
+
+
+   16. Mr Whitwell fairly  conceded  the  Rules  are  intended  to  provide
+       guidance to caseworkers. However, the Tribunal is bound to apply the
+       requirements in order to establish whether the  Rules  are  met  and
+       therefore whether an  appellant  qualifies  in  a  certain  category
+       within the  Rules.   Paragraph  E-ECP.3.1  of  Appendix  FM  clearly
+       requires the "specified income" to  be  demonstrated  by  "specified
+       evidence".  If paragraph E-ECP.3.1 is not met, then the requirements
+       of E-ECP.1.1 cannot be met either as  that  provides  that  all  the
+       requirements of E-ECP.2.1 to E-ECP.4.2 must be met.
+
+
+   17. Whilst I  accept  therefore  that  there  is  no  express  provision
+       excluding oral evidence, in circumstances where the general tenor is
+       to require independent documentary evidence and where the Judge  was
+       not satisfied that such evidence could not be provided (even if  not
+       strictly in accordance with  paragraph  10  of  Appendix  FM-SE),  I
+       conclude that  the  Judge  has  materially  misdirected  himself  by
+       allowing the appeal under the Rules  on  the  basis  that  specified
+       evidence had been provided.
+
+
+   18. For those reasons, I set aside the Decision.  Mr  Whitwell  accepted
+       however that the Respondent did not  take  issue  with  the  Judge's
+       findings as to the substance of the evidence  considered.   Nor  did
+       she challenge the Judge's findings as to other income, including the
+       rental income from Iran.  I therefore preserve  paragraphs  [15]  to
+       [23] of the Decision with the exception of  the  part  of  paragraph
+       [23] which I have emboldened in the citation at [12] above and which
+       includes the Judge's conclusions which were under challenge.
+
+
+    RE-MAKING OF DECISION
+
+
+   19. The effect of my  conclusions  as  to  error  of  law  is  that  the
+       Appellant is unable to show by specified evidence that she meets the
+       financial requirements of the Rules for entry clearance and as  such
+       her appeal cannot succeed within the Rules.   No  further  documents
+       have been provided to clarify  the  source  of  the  credits  as  to
+       pension income.  Paragraph EX.1 of Appendix FM has no purchase in an
+       entry clearance case (in  comparison  with  the  position  where  an
+       applicant seeks to remain).  That is  though  not  the  end  of  the
+       matter. I still have to consider the appeal outside the Rules  based
+       on Article 8 ECHR.
+
+
+   20. I canvassed with Mr Whitwell the position as to  outcome  if,  as  I
+       have done, I were to adopt the  Judge's  findings  as  to  what  the
+       evidence  shows  (when  the  documents  are  taken  with  the   oral
+       explanation).  He did not disagree that the effect of those findings
+       is that the spirit although not the substance of  the  Rules  as  to
+       financial requirements is met.  That he also accepted  is  pertinent
+       to the public interest when I turn then to the only issue for me  to
+       decide, namely whether the decision to refuse the Appellant's  claim
+       is unlawful under the Human Rights Act 1998 as contrary to Article 8
+       ECHR.
+
+
+   21. As I explained to the Sponsor, if I were to allow the appeal outside
+       the Rules, the Appellant would be granted the same period  of  leave
+       to remain but on the "10-year route" to settlement rather  than  the
+       "5-year route" which applies if  an  appeal  is  allowed  under  the
+       Rules.  In other words, it would take her ten years to  qualify  for
+       settlement.  The Sponsor was not unduly concerned about this.   Both
+       he and Mr Whitwell were therefore  content  for  me  to  proceed  to
+       consider the Article 8 case on the evidence before  me  and  without
+       further submissions.
+
+
+   22.  I  begin  by  noting  that  there  is  no  dispute  concerning  the
+       genuineness of  the  relationship  between  the  Appellant  and  the
+       Sponsor.  The only basis for the refusal of entry clearance was that
+       the financial requirements were not met.  As such,  I  am  satisfied
+       that there is family life between  the  Applicant  and  the  Sponsor
+       notwithstanding that they have been kept apart  by  the  refusal  of
+       entry clearance and  subsequent  appeal.   They  lived  together  in
+       Northern Cyprus for about  seventeen  months  (from  November  2016)
+       before marrying in March 2018 and making the application  which  led
+       to the refusal under appeal.
+
+
+   23. I am also satisfied therefore that the refusal  of  entry  clearance
+       which has maintained the separation  of  the  couple  is  sufficient
+       interference to require justification.  I was told  by  the  Sponsor
+       that the Appellant is living in difficult circumstances in Iran,  in
+       particular due to her age coupled with the  Corona  virus  problems.
+       Although I have no evidence as to this, I do  not  consider  that  I
+       require it.  The Appellant may  not  be  elderly  (she  is  aged  53
+       years).  However, media  coverage  suggests  that  Corona  virus  is
+       prevalent in Iran.  The Sponsor also told  me  that  he  has  health
+       problems as is confirmed by some of the documents and he  is  living
+       alone as his adult children live abroad.  He is aged 66 years.
+
+   24. The main issue is therefore one of proportionality.  In  considering
+       that issue, I take into account as I am bound  to  do  Section  117B
+       Nationality, Immigration  and  Asylum  Act  2002  ("Section  117B").
+       Certain of the provisions of Section 117B have no relevance in  this
+       case - the Appellant is not in the UK and so there  is  no  need  to
+       give any reduced weight due to her status here.  Nor are  there  any
+       minor children involved.  In relation to the Appellant's ability  to
+       speak English, that is not disputed.  It is though a neutral factor.
+        Similarly, the  fact  that  the  couple  can,  on  Judge  Bennett's
+       findings, maintain and accommodate themselves  without  recourse  to
+       public funds is also neutral.
+
+
+   25. In this case, the public interest is the  maintenance  of  effective
+       immigration control.   I  take  into  account  of  course  that  the
+       Appellant is unable to meet the Rules to  qualify  for  entry  as  a
+       spouse.  She is unable to show by specified evidence that she  meets
+       the financial requirements.  However, as I have already recorded, Mr
+       Whitwell accepted that Judge Bennett's findings are that the  spirit
+       if not the substance of that particular sub-rule is met.   Moreover,
+       the Appellant meets all the other  requirements.   Accordingly,  the
+       question is whether I am still required to give  significant  weight
+       to the public interest due to the Appellant's inability to meet  the
+       Rules.  I have concluded that  I  am  not.   I  accept  that  it  is
+       relevant that the Appellant cannot meet the substance of the  Rules.
+       However, it is also relevant  that,  apart  from  the  form  of  the
+       evidence which she has produced to show that she  meets  the  Rules,
+       she is  able  to  demonstrate  that  she  does  meet  the  financial
+       requirements which is the only issue between the parties.  The joint
+       earnings of the Appellant and the Sponsor,  as  a  matter  of  fact,
+       based on the Judge's findings which I  have  preserved  and  on  the
+       balance of probabilities, exceed the MIR by some margin.
+
+
+   26. Balancing the interference with the family lives  of  the  Appellant
+       and the Sponsor against that level of public interest, therefore,  I
+       conclude  that  the  decision   to   refuse   entry   clearance   is
+       disproportionate.  It therefore breaches the Appellant's  Article  8
+       rights and is for that reason unlawful under the  Human  Rights  Act
+       1998.
+
+      DECISION
+    I am satisfied that the Decision contains a material error  of  law.  I
+    set aside the  decision  of  First-tier  Tribunal  Judge  C  H  Bennett
+    promulgated on 22 July 2019.  I preserve paragraphs [15] to [23] of the
+    Decision save for the findings under challenge by  the  Respondent  (as
+    emboldened at [12] above).
+    I allow the Appellant's  appeal  on  the  basis  that  removal  of  the
+    Appellant  would  breach  the  Appellant's  Article  8   rights.    The
+    Respondent's decision is for  that  reason  unlawful  under  the  Human
+    Rights Act 1998.
+
+
+    The appeal is allowed on human rights grounds (Article 8 ECHR).
+
+
+      Signed           [pic]      Dated:  13 March 2020
+      Upper Tribunal Judge Smith
+

@@ -1,0 +1,682 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+R (on the application  of  Khurram)  v  Secretary  of  State  for  the  Home
+Department (effective service; 2000 Order) IJR [2016] UKUT 00281(IAC)
+
+
+             IN THE MATTER OF AN APPLICATION FOR JUDICIAL REVIEW
+
+|Heard at Field House                          |                              |
+|On 16 March 2016                              |                              |
+|                                              |                              |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE GRUBB
+
+                                   Between
+
+             the queen (on the application of muhammad khurram)
+                                                                   Applicant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+Representation:
+
+For the Applicant:     Mr A Syed-Ali, instructed by Ropemakers Solicitors
+For the Respondent:    Mrs J Gray, instructed by the Government Legal
+Department
+
+   1. For the purposes of Art 8ZA(2) of the Immigration (Leave to Enter  and
+      Remain) Order 2000 (SI 2000/1161)(as  inserted  by  SI  2013/174  with
+      effect from 12 July 2013), a notice is not sent to  a  postal  address
+      "provided for correspondence by the person" if the address is provided
+      to the Secretary  of  State  by  a  third  party  such  as  a  sponsor
+      educational institution unless the third party is the authorised agent
+      of the person.
+
+
+   2.  However,  where  no  postal   address   (or   e-mail   address)   for
+      correspondence has been provided, an address provided by a third party
+      may be the "last-known or usual place of abode" of the  person  within
+      Art 8ZA(3)(a) to which a notice may be sent.
+
+
+
+                                  JUDGMENT
+
+JUDGE GRUBB:
+
+ 1. The applicant seeks to challenge by way of judicial review the decision
+    of the Secretary of State taken on 30 July 2014 refusing him  leave  to
+    remain based upon his private life in  the  UK  under  the  Immigration
+    Rules (HC 395 as amended) and Art 8 of the ECHR.
+
+ 2. The applicant does not challenge  the  substance  of  the  respondent's
+    decision.  Instead, the applicant contends that he  has  an  in-country
+    right of appeal against that decision to the First-tier Tribunal.
+
+The Claim
+
+ 3. The basis of that claim is as follows.  The applicant entered the UK on
+    5 February 2013 with entry clearance (taking effect as leave to  enter)
+    valid until 13 June 2014 as a Tier 4  (General)  Student  to  study  at
+    Cranford College.
+
+ 4. The applicant claims that when he  made  his  application  for  further
+    leave on 4 June 2014 that was before the expiry of his leave  to  enter
+    and that, therefore, he had an in-country right of appeal under s.82(1)
+    and 82(2)(d) of the Nationality, Immigration and Asylum Act  2002  (the
+    "NIA Act 2002").
+
+ 5. The applicant contends that the respondent's decision  to  curtail  his
+    leave with effect to 20 January 2014 set  out  in  a  letter  dated  21
+    November 2013, based upon the applicant having completed  his  studies,
+    was ineffective.
+
+ 6. The applicant contends that the respondent's letter of 21 November 2013
+    was not sent in accordance with the provision of the Immigration (Leave
+    to Enter and Remain) Order 2000 (SI 2000/1161 as  amended  by  SI/1749)
+    (the  "2000  Order")  and  was  not,  therefore,  properly  "given"  in
+    accordance with s.4(1) of the Immigration Act 1971.
+
+ 7. Whilst it is accepted that the letter was sent by recorded delivery  to
+    an address provided by the applicant's  sponsor  to  the  Secretary  of
+    State on request, the applicant contends that was not a  proper  method
+    of service falling within Art 8ZA of the 2000 Order, in particular  Art
+    8ZA of the 2000 Order.
+
+ 8. The applicant also contends, though somewhat more weakly, that -  even
+    if the curtailment decision was sent in accordance with Art 8ZA -  the
+    applicant had rebutted the presumption that notice  was  "given"  under
+    Art 8ZB of the 2000 Order.
+
+ 9. It is not contended by the applicant that the curtailment decision  was
+    other  than  a  lawful  decision  under  para  323A(a)(ii)(2)  of   the
+    Immigration Rules on the basis that Cranford College had  informed  the
+    Secretary of State on 4 September 2013 that the  applicant  had  ceased
+    studying with them.
+
+10. The only issue is whether that curtailment notice was  properly  served
+    ("given") so as to lawfully  curtail  the  applicant's  leave,  by  its
+    terms, to 20 January 2014.
+
+11. If the curtailment was lawful and so effective, then the applicant  did
+    not have leave thereafter and he has no right  of  appeal  against  the
+    refusal of his leave on 30 July  2014.   By  contrast,  if  his  leave
+    continued until  13  June  2014,  because  it  had  not  lawfully  been
+    curtailed, then his application for further leave made on 6  June  2014
+    was in time and the refusal to vary (by extension) his leave would give
+    rise to a right of appeal under s.82(1) against an immigration decision
+    falling within s.82(2)(d) of the NIA Act 2002.
+
+Preliminary Matters
+
+12. Two preliminary matters were raised by the Secretary of  State  in  the
+    detailed grounds of defence and in the skeleton argument of  Mrs  Gray,
+    who represented the respondent.
+
+13. The first concern, the issue  of  the  timeliness  of  the  applicant's
+    application for judicial review.  That matter arises in this way.   The
+    decision to refuse the applicant  leave  was  made  on  30  July  2014.
+    However,  the  claim  form  sought,  on  its  face,  to  challenge  the
+    respondent's response on 1 September 2014 to the  pre-action  Protocol
+    letter refusing to reverse her decision of 30  July  2014.   The  claim
+    form was sealed by UTIAC  on  1  December  2014.   It  was,  therefore,
+    outside the three month limit for challenging the decision of  30  July
+    2014.
+
+14. This was not a point raised by the respondent in the acknowledgement of
+    service or at the oral renewal hearing on  10  September  2015  when  I
+    granted permission to bring these proceedings.   The  matter  was  only
+    raised by Mrs Gray in the detailed grounds of  defence  dated  "October
+    2015" (and therefore subsequent to the oral renewal hearing) and in her
+    skeleton argument for the substantive hearing dated 4 March 2016.
+
+15. Before me, Mrs Gray accepted that she could not take the time point  at
+    this stage of the proceedings.  She referred me to a  decision  of  the
+    House of Lords in R v Criminal Injuries Compensation Board, ex parte  A
+    [1999] 2 AC 330.  She accepted that the House of Lords, in  the  speech
+    of Lord Slynn of  Hadley  (with  whom  the  other  Law  Lords  agreed),
+    concluded that a timeliness issue,  and  in  particular  the  issue  of
+    extending time, could not be considered  at  the  substantive  hearing.
+    Lord Slynn said this:
+
+         "If leave is given, then unless set aside, it does not fall  to  be
+         re-opened at the substantive hearing on the basis that there is  no
+         ground  for  extending  time  under  Order  53,  R4(1).    At   the
+         substantive hearing there is no 'application for leave to apply for
+         judicial review' leave having already been given."
+
+16. Mrs Gray accepted that, in the light of this, it was not  open  to  the
+    Secretary of State to now take the point that the applicant's claim was
+    out of time and that time should not be extended.
+
+17. That concession, in my judgment, disposes  of  this  point.   It  is  a
+    matter of some regret that the  issue  of  timeliness  was  not  raised
+    earlier  in  the  proceedings  and  was  only  raised,  in  effect,  in
+    preparation for the  substantive  hearing  after  permission  had  been
+    granted at the oral hearing.
+
+18. I would simply  add  that,  applying  the  approach  to  the  issue  of
+    extending time set out in SS (Congo) and Others v SSHD [2015] EWCA  Civ
+    387, in particular at [93], I would consider this to be a  proper  case
+    to extend time.  The delay of  a  month  is  substantial  and  I  would
+    conclude that it is "serious" though not "significant".  There has been
+    no explanation for the delay offered.  However,  there  is  little,  if
+    any, prejudice to the respondent beyond the fact of the decision  being
+    subject to challenge and the claim raises an  important  point  on  the
+    proper application of the 2000 Order.  This would, I venture to say, be
+    a proper case to extend time.  However, given the stance taken  by  Mrs
+    Gray the issue of timeliness does not arise.
+
+19. The second matter raised  by  Mrs  Gray  concerned  the  state  of  the
+    applicant's grounds of claim.  At the  oral  renewal,  the  applicant's
+    (then) Counsel sought to rely upon grounds different from those set out
+    in the claim form.  Although there was no formal direction  to  prepare
+    amended grounds reflecting the basis upon  which  permission  had  been
+    granted, Mrs Gray (who represented the respondent at that hearing also)
+    indicated that she had been expecting a set of amended grounds from the
+    applicant's representatives.  None have, in the result, been filed with
+    the Tribunal with the appropriate application to amend.
+
+20. At the hearing, I suggested that a possible course  was  to  treat  the
+    skeleton argument of Mr Syed-Ali (who now represented the applicant) as
+    being the amended grounds.  Mrs Gray accepted  that  the  Secretary  of
+    State had in her detailed grounds  of  defence  and  skeleton  argument
+    anticipated the amended grounds and the basis of the applicant's  claim
+    that the curtailment decision was ineffective,  that  being  the  basis
+    upon which permission had been granted.  She  did  not  demur  from  my
+    taking Mr Syed-Ali's skeleton argument as a set of amended grounds.   I
+    am content to do so and grant the applicant  permission  to  amend  his
+    grounds accordingly.  To do otherwise would elevate form over substance
+    given the absence of any prejudice or misunderstanding as to the  basis
+    of the applicant's claim in this case.
+
+21. With those preliminary matters put aside, I turn to  the  substance  of
+    the applicant's claim.
+
+The Relevant Provisions
+
+22. The relevant legal provisions concerned with the giving of  notice  are
+    contained within s.4(1) of the Immigration Act 1971 and 2000  Order  as
+    amended by the Immigration (Leave to Enter and Remain) Amendment  Order
+    2013 (SI 2013/1749) with effect from 12 July 2013.   The  latter  deals
+    with the provision of notice of decisions not subject to appeal to  the
+    First-tier Tribunal under the NIA Act 2002 such as the decision in this
+    case to curtail the applicant's leave but not  with  immediate  effect.
+    The provisions are considered and analysed in my recent decision  in  R
+    (Arslan Mahmood) v SSHD (effective service - 2000  Order)  IJR  [2016]
+    UKUT 0057 (IAC) from which judgment I gratefully borrow what follows.
+
+23. Section 4(1) of the Immigration Act 1971 requires notice in writing  to
+    be given of a decision, inter alia, to  vary  a  person's  leave  under
+    s.3(3)(a) of the 1971 Act.  So  far  as  relevant  s.4(1)  provides  as
+    follows:
+
+         "The power under this act to give or  refuse  leave  to  enter  the
+         United Kingdom shall be exercised by immigration officers, and  the
+         power to give leave to remain in the United Kingdom, or to vary any
+         leave  under  section  3(3)(a)  (whether  as  regards  duration  or
+         conditions), shall be exercised by the  Secretary  of  State;  and,
+         unless otherwise allowed by or under this act, those  powers  shall
+         be exercised by notice in writing given to  the  persons  affected,
+         except that the powers  under  section  3(3)(a)  may  be  exercised
+         generally in respect of any class  of  persons  by  order  made  by
+         statutory instrument."
+
+24. The power to vary an individual's limited  leave  to  enter  or  remain
+    includes "restricting ... the limitation of its duration and  ..."  and
+    thus encompasses the power to curtail an individual's  leave.   Section
+    4(1) provides that "notice in writing" of  such  a  decision  shall  be
+    "given" to the person affected.
+
+25. Section 3A of the 1971 Act empowers the Secretary of State by Order  to
+    make provision with respect  to  varying  leave  to  enter  in  the  UK
+    (s.3A(1)) and, in particular, to provide for the "form  or  manner"  in
+    which leave may be varied (s.3A(2)(a)).  Similar powers can be found in
+    s.3B of the 1971 Act in respect of varying leave to remain.
+
+26. Prior to 12 July 2013, there was no statutory  instrument  which  dealt
+    with the giving of notice for non-appealable decisions.  The giving  of
+    notice of decisions which were appealable to  the  First-tier  Tribunal
+    under the NIA Act 2002 was provided for in  the  Immigration  (Notices)
+    Regulations 2003 (SI 2003/658 as  amended).   Non-appealable  decisions
+    remained subject to the common law and, as the Upper Tribunal  held  in
+    Syed (curtailment of leave - notice)  [2013]  UKUT  00144  (IAC),  the
+    requirement that  the  decision  (there  a  non-appealable  curtailment
+    decision) should be "communicated to the person concerned" (see  [28]).
+    As a consequence, a notice served "to file" had  not  been  "given"  in
+    accordance with s.4(1) of the 1971  Act  and  was,  as  a  consequence,
+    ineffective to curtail an individual's leave.
+
+27. As a consequence of Syed, the 2000 Order was amended with  effect  from
+    12 July 2013 to contain provisions dealing with the  giving  of  notice
+    and presumptions in respect of receipt  in  respect  of  non-appealable
+    immigration decisions such as the curtailment decision  in  this  case.
+    Those provisions are in Arts 8ZA and 8ZB of  the  2000  Order  and  are
+    central to this case.
+
+28. Article 8ZA sets out the methods and means by which a notice in writing
+    may be "given":
+
+         "Grant, refusal or variation of leave by notice in writing
+
+         (1)  A notice in writing -
+
+             (a)  giving leave to enter or remain in the United Kingdom;
+
+             (b)  refusing leave to enter or remain in the United Kingdom:
+
+             (c)  refusing to vary a person's leave to enter or  remain  in
+                  the United Kingdom: or
+
+             (d)  varying a person's leave to enter or remain in the United
+                  Kingdom,
+
+         may be given to the person affected as required by section 4(1)  of
+         the Act as follows:
+
+         (2)  The notice may be -
+
+             (a)  given by hand;
+
+             (b)  sent by fax;
+
+             (c)  sent by postal service to a postal address  provided  for
+                  correspondence   by   the   person   or    the    person's
+                  representative;
+
+             (d)  sent electronically to an  e-mail  address  provided  for
+                  correspondence   by   the   person   or    the    person's
+                  representative;
+
+             (e)  sent by document exchange to a document  exchange  number
+                  or address; or
+
+             (f)  sent by courier.
+
+         (3)  Where no postal or e-mail address for correspondence has  been
+             provided, the notice may be sent -
+
+             (a)  by postal service to -
+
+                  (i)  the last-known or usual  place  of  abode,  place  of
+                      study or place of business of the person; or
+
+                  (ii) the last-known or usual  place  of  business  of  the
+                      person's representative; or
+
+             (b)  electronically to -
+
+                  (i)   the  last-known  e-mail  address  for   the   person
+                      (including at the person's last-known place of  study
+                      or place of business); or
+
+                  (ii)  the  last-known  e-mail  address  of  the   person's
+                      representative.
+
+         (4)  Where attempts to give notice in  accordance  with  paragraphs
+             (2) and (3) are not possible or have failed, when the decision-
+             maker records the reasons for this and places  the  notice  on
+             file the notice shall be deemed to have been given.
+
+         (5)  Where a notice is deemed to have been given in accordance with
+             paragraph (4) and then subsequently the person is located, the
+             person shall as soon as is practicable be given a copy of  the
+             notice and details of when and how it was given.
+
+         (6)  A notice given under this article may, in the case of a person
+             who  is  under  18  years  of  age  and  does   not   have   a
+             representative, be given to the parent,  guardian  or  another
+             adult who for the time  being  takes  responsibility  for  the
+             child."
+
+29. Article 8ZB provides for certain rebuttable presumptions of when notice
+    has "been given" when a notice is sent in accordance with Art 8ZA.   So
+    far as relevant, it is in the following terms:
+
+         "Presumptions about receipt of notice
+
+         (1)  Where a notice is sent in  accordance  with  article  8ZA,  it
+             shall be deemed to have been given  to  the  person  affected,
+             unless the contrary is proved -
+
+             (a)  where the notice is sent by postal service -
+
+                  (i)  on the second day after it was sent by postal service
+                      in which delivery or receipt is recorded if sent to a
+                      place within the United Kingdom;
+
+                  (ii) on the 28th day after it was  posted  if  sent  to  a
+                      place outside the United Kingdom;
+
+             (b)  where  the  notice  is  sent  by  fax,  e-mail,  document
+                  exchange or courier, on the day it was sent.....".
+
+30. The scope and application of these  provisions  was  considered  in  my
+    recent decision of R (Arslan Mahmood) v SSHD.  At [37], I summarise the
+    effect of Art 8ZA as follows:
+
+         "As will be seen, Art 8ZA(2) provides a number of methods by  which
+         a notice "may be given to  the  person  affected"  as  required  by
+         s.4(1) of the 1971 Act.  Notice may be given by hand; sent by  fax;
+         sent by post to the address  provided  by  the  individual  or  his
+         representatives for correspondence or electronically by  e-mail  to
+         the e-mail address given "for correspondence" by the individual  or
+         his representatives.  Art 8ZA(3) provides that where no postal or e-
+         mail correspondence address is given, the notice  may  be  sent  by
+         post or electronically to a  number  of  other  possible  addresses
+         relating to the applicant or his representatives such as  the  last
+         known place of abode or  study  or  e-mail  address.   Finally,  by
+         virtue of Art 8ZA(4) where attempts to give notice by these methods
+         have failed or are not possible, then the decision  may  be  served
+         "on file" and is deemed to  have  been  given.   Although  in  this
+         latter situation, where the person is subsequently located he  must
+         be given a copy of the  notice  as  soon  as  is  practicable  (Art
+         8ZA(5))."
+
+    In Mahmood, the central issue was whether a curtailment  decision  sent
+    to an e-mail address provided by the individual in his visa application
+    form had been "given" in accordance with s.4(1) and the 2000  Order  in
+    circumstances where the individual claimed that he had no access to the
+    e-mail account at that address.
+
+31. In Mahmood, I concluded that a notice of decision was "given"  when  it
+    was "sent" in accordance with a method set  out  in  Art  8ZA  and  was
+    delivered to the  individual's  postal  or  e-mail  address  given  for
+    correspondence according to that method.  I  concluded  that  Art  8ZB,
+    when it applied, created rebuttable presumptions of both  delivery  and
+    the date of delivery.  There was no  requirement  that  the  individual
+    should  have  actual  knowledge  of  the  notice   or   its   contents.
+    Consequently, subject to rebuttal, a  notice  of  curtailment  decision
+    attached to an e-mail sent to an individual's  e-mail  (correspondence)
+    address was "given" on the  day  it  was  sent  and  delivered  to  the
+    individual's e-mail address.
+
+32. In this claim, Mr Syed-Ali's principal point  is  that  the  notice  of
+    curtailment sent to  a  postal  address  provided  by  the  applicant's
+    sponsor institution was not, as required  by  Art  8ZA(2)(c),  sent  by
+    postal service to a postal address "provided for correspondence by  the
+    person" (my emphasis).
+
+33. In my judgment, that submission is correct.  Article 8ZA(2)(c) does not
+    contemplate the provision of a correspondence address to the  Secretary
+    of State by an applicant through a third party in general.  That, in my
+    judgment, is the natural and ordinary meaning of  the  words  "provided
+    ... by the person".   As a matter of ordinary usage of language,  where
+    the source of the address (postal or  e-mail)  is  not  the  individual
+    themselves, it will not, in general,  be  provided  by  the  person  if
+    provided to the Secretary of State by a  third  party.   It  is  rather
+    provided by  the  third  party  and  that  does  not  fall  within  Art
+    8ZA(2)(c).
+
+34. Of course, if the third party is an authorised agent of the individual,
+    for example his legal representatives, then provision by  them  of  the
+    applicant's postal address can properly be said to be a postal  address
+    provided for correspondence "by the person".  A sponsor institution  of
+    a student cannot, without more, properly be said to be  acting  as  the
+    agent of the student if it supplies  to  the  Secretary  of  State  the
+    individual's address held by the sponsor for its purposes.
+
+35. Mrs Gray sought to argue that the phrase encompassed the  provision  to
+    the respondent of the individual's address by any third party  (subject
+    to data protection concerns), but in particular by a Tier 4 sponsor  by
+    reference to the report in Parliament of the legislative history of the
+    amendment to the 2000 Order introducing Arts 8ZA and 8ZB.  She referred
+    me to a passage in the statement made by the minister  for  immigration
+    (Mark Harper) in a committee debate on the amendment to the Order on  3
+    July 2013 (at tab 5, page 3-9) in the following terms:
+
+         "If the migrant enters the country having been  issued  with  their
+         visa overseas, it is likely that we  will  not  have  a  UK  postal
+         address for the migrant on record. We can seek to serve the  notice
+         via the migrant's representative, if they have one. If that is  not
+         possible, or if it fails, we  try  to  serve  the  notice  via  the
+         migrant's sponsor. In both cases, however, it is very hard to prove
+         service of the notice on the individual. We  now  ask  sponsors  to
+         provide the migrant's contact details with the notification, or  we
+         write to the sponsor if no details have  been  provided.  That  has
+         improved our ability to serve such notices, but the provision of an
+         address does not guarantee service, as the address could be  false,
+         defective or no longer in use by the migrant."
+
+36. Mrs Gray submitted that it was  specifically  contemplated,  therefore,
+    that the Order would by amendment  encompass  the  Secretary  of  State
+    seeking a migrant's contact details from a sponsor.
+
+37. Mrs Gray further placed reliance upon the Secretary of State's guidance
+    to sponsors under the Tier 2, 4 and 5 Points-Based System (at  page  9)
+    that a sponsor must keep a record  of:  "a  history  of  the  migrant's
+    contact details (United Kingdom residential address, telephone  number,
+    mobile telephone number).   This  must  be  updated  regularly."   That
+    obligation, Mrs Gray relied upon, to support her  contention  that  Art
+    8ZA(2)(c) should not be construed as if the words "to the Secretary  of
+    State" were added to the words of the provision, namely that the notice
+    was sent to a  postal  address  "provided  for  correspondence  by  the
+    person".
+
+38. As I have already indicated, the ordinary and natural  meaning  of  the
+    words in Art 8ZA(2)(c) seem to me to require that  the  postal  address
+    (or an e-mail address under Art 8ZA(2)(d)) be provided by the person to
+    the Secretary of State, rather than through a third party  unless  that
+    third party is the  individual's  authorised  agent.   Nothing  in  the
+    minister's speech  or,  indeed  in  the  guidance,  mandates  that  Art
+    8ZA(2)(c) must be construed so as to cover the situation where,  as  in
+    this  case,  the  individual  has   not   personally   provided   their
+    correspondence address to the Secretary of  State  but,  instead,  that
+    address has  been  provided  by  the  sponsor  institution.   There  is
+    undoubtedly good reason why a sponsor should retain contact details  of
+    those persons studying at its institution and, to the extent requested,
+    provide those details to the Secretary of State.  As the minister  made
+    clear, where an individual has entered the UK on a visa it is  unlikely
+    that they have provided a UK postal address.  If they  have  failed  to
+    subsequently remedy that omission, it makes perfectly  practical  sense
+    that the Secretary of State should be able to obtain that address  from
+    the institution at which they have been studying.  That does not  mean,
+    however, that notice given to that address falls within Art  8ZA(2)(c).
+
+
+
+39. In fact, in such a situation contemplated by the minister  notice  sent
+    to that address would fall within Art 8ZA(3)(a)(i).  In the absence  of
+    any  postal  or  e-mail  address  given  for  correspondence   by   the
+    individual, the notice may be sent by post to the "last-known or  usual
+    place of abode".  The address provided by the sponsor is very likely to
+    amount to the "last-known or usual place of abode" of the individual.
+
+40. In truth, the provisions in Arts 8ZA(2), (3) and (4) provide a  panoply
+    of mechanisms for giving notice by the Secretary of State.   There  is,
+    in my judgment, no need to distort the ordinary and natural meaning  of
+    Art 8ZA(2)(c) to include a situation where a third party (apart from an
+    agent) has provided the individual's address to the Secretary of State.
+
+
+
+41. First, the Secretary of State can send a notice  by  post  (1)  to  the
+    address for correspondence provided by the person; or (2)  the  address
+    of the person's representative.  It is clear to me that  "the  person's
+    representative"  in   Art   8ZA(2)(c)   (and   (d))   refers   to   his
+    representatives in immigration matters.  Art 1(2)  of  the  2000  Order
+    defines "representative" as a person who:
+
+             "appears to the decision-maker - (a) to be the  representative
+             of the person referred to in Article 8ZA(1); and (b) not to be
+             prohibited from acting as a representative by  section  84  of
+             the Immigration and Asylum Act 1999".
+
+42. Leaving aside the partial circularity of  the  definition,  the  person
+    must be "representing" the individual and the  cross-reference  to  the
+    1999 Act's prohibition on those who may provide "immigration advice  or
+    services" clearly contemplates legal representatives who  provide  such
+    advice or representation  in  litigation  and  are  "representing"  the
+    individual.  It cannot encompass an educational institution which  does
+    no more than provide educational services to an individual.
+
+43. Secondly, notice can be given electronically by being sent  to  the  e-
+    mail address provided for correspondence: (1) by the person themselves;
+    or (2) by the person's representatives (Art 8ZA(2)(c) and (d)).
+
+44. Thirdly, where no postal or e-mail address for correspondence has  been
+    provided by the person or his representatives, the notice may  be  sent
+    by post to, for example, the last-known or usual place of abode of  the
+    individual, their place of study or their place of business or  may  be
+    sent electronically to the last-known e-mail address of the  person  or
+    their representative (see Art 8ZA(3)).
+
+45. Finally, if none of those methods  are  possible,  the  notice  may  be
+    served "to file" in accordance with Art 8ZA(4).
+
+46. In a case such as the present where the applicant has not provided a UK
+    postal address, and it was not suggested by either representative  that
+    the applicant's address in Pakistan included on  his  visa  application
+    was a "correspondence address", the Secretary of  State  may  send  the
+    notice  electronically  by  e-mail  to  an  address  provided  by   the
+    individual (as occurred in Mahmood) or, in its absence as in this case,
+    to the individual's postal address provided by the sponsor on the basis
+    that that amounts to his "last-known or usual place of abode".
+
+47. Mrs Gray raised the difficulty that may be faced by  the  Secretary  of
+    State if the facts were other than in  the  present  case  because  the
+    applicant had, subsequent to arrival in  the  UK  perhaps  following  a
+    further but earlier application for  leave  provided  a  correspondence
+    address and, on inquiry from  the  sponsor,  a  different  address  was
+    provided by the sponsor.  On the face of it, the correspondence address
+    "provided by the person" would not appear to  be  the  most  up-to-date
+    address.  But, on  the  proper  interpretation  of  Art  8ZA(2)(c)  the
+    apparently more up-to-date address is not one to which the  notice  can
+    properly be sent. Likewise, Art 8ZA(3)(a)(i) could not  apply  because,
+    although the new address was likely to  be  the  "last-known  or  usual
+    place of abode" of the individual, that provision could not apply as it
+    was not a case where "no postal ...  address  for  correspondence"  had
+    been provided by the applicant.
+
+48. Clearly, in the  circumstances  as  I  have  baldly  stated  them,  the
+    Secretary of State would be in some difficulty in the  sense  that  the
+    only address to which a notice could be  properly  sent  would  be  the
+    earlier (and apparently out of date) address provided by the applicant.
+     To send it to that  address  might  well  not  seem  sensible  if  the
+    underlying purpose is to provide effective notice to an  individual  of
+    the adverse immigration decision.
+
+49. However, the practical solutions in  general  are  clear.   First,  the
+    applicant may well have provided an  e-mail  address  (as  occurred  in
+    Mahmood) as a correspondence address.  In those circumstances,  sending
+    the  notice  electronically  to  that  address  will  fall  within  Art
+    8ZA(2)(d) as a proper method  of  sending  notice.   Secondly,  in  any
+    event, whilst there appears to be  no  obligation  upon  an  individual
+    subject to immigration control to notify the Secretary of  State  of  a
+    change of postal or, indeed e-mail address as I pointed out in  Mahmood
+    at [65]: "nevertheless any sensible individual who wishes to deal  with
+    the Home Office bona fide would inform the Home Office of any  change."
+    The fact that the notice would have to be directed to an apparently out
+    of date address is a direct function of the applicant's failure to keep
+    up-to-date, albeit voluntarily, his  correspondence  addresses  whether
+    postal or electronic.
+
+50. It remains a matter of some surprise to me, as I was  told  in  Mahmood
+    (but on which Mrs Gray had no instructions in this case), that there is
+    no obligation upon an individual  subject  to  immigration  control  to
+    notify the Home Office of  a  change  of  address,  whether  postal  or
+    electronic.  Given the very many obligations imposed on  those  subject
+    to immigration control and sponsors, this obvious "gap" in  the  system
+    could relatively easily be plugged without, it seems to me, imposing an
+    unreasonable burden on an individual.  This is  a  matter  which  might
+    well benefit from further consideration by the Secretary of State.
+
+This Claim
+
+51. Applying the above analysis to the applicant's circumstances, his claim
+    cannot succeed.
+
+52. First, it was not disputed by Mr Syed-Ali that the respondent  sent  by
+    recorded delivery the curtailment notice to the address provided by the
+    sponsor on 18 November 2013.  Secondly, whilst that was not  a  "postal
+    address provided for correspondence" by the applicant (Art  8ZA(2)(c)),
+    it was properly to be taken as the "last-known or usual place of abode"
+    of the applicant (Art 8ZA(3)(a)(i)).  Thirdly, in the  absence  of  the
+    applicant  providing  a  postal  or  e-mail  address,  notice  of   the
+    curtailment decision was sent in accordance with Art  8ZA(3)(a)(i)  for
+    the purposes of s.4(1) of the 1971  Act.  Fourthly  by  virtue  of  Art
+    8ZAB(1), as it was sent by recorded delivery, unless  the  contrary  is
+    proved, notice is deemed to have been "given" in  the  sense  of  being
+    delivered on the second day after it was  sent  (Art  8ZB(1)(a)(i)  and
+    Mahmood).
+
+53. As I have said, Mr Syed-Ali did not dispute that the  notice  had  been
+    sent by recorded delivery.  Indeed, it is not disputed that the  letter
+    was received at the address as it was not returned  to  the  respondent
+    undelivered.  In his submissions, Mr  Syed-Ali  informed  me  that  his
+    instructions were that the applicant had  prior  to  21  November  2013
+    moved from that address and had informed both the Home Office  and  the
+    sponsor.  He accepted, however, that there was no evidence before me of
+    that.
+
+54. The basis of Mr Syed-Ali's instructions is not consistent with the fact
+    that the sponsor retained the applicant's address on its files  as  his
+    contact address at the time of its response to the Home  Office  on  18
+    November 2013.  There is nothing in the Home Office's documentation  to
+    support the Mr Syed-Ali's instructions.  The GCID record sheet (at page
+    31 of the bundle) contains no  entry  suggesting  that  the  applicant,
+    prior to 21 November 2013, informed the Home Office  of  a  change  of
+    address.  Mr Syed-Ali sought to place some weight on the CID record  at
+    page 29 which sets  out  a  different  address  for  the  applicant  in
+    Buntingford.  However, that is clearly a "snapshot" taken on 13 October
+    2015 of the then current details of the applicant.  It casts  no  light
+    upon what the record showed in November  2013  and,  as  I  have  said,
+    nothing in the  relevant  entries  supports  any  notification  by  the
+    applicant of a new  address  prior  to  the  Home  Office  sending  the
+    curtailment notice on 21 November 2013.
+
+55. In my judgment, therefore, the Secretary of State has established  that
+    the notice was sent through the postal service by recorded delivery  to
+    the applicant's last-known or usual place of abode.  The presumption in
+    Art 8ZB(1) applies that  it  was  delivered  two  days  later  and  was
+    therefore "given" in accordance with  s.4(1)  of  the  1971  Act.   The
+    applicant has failed to rebut the presumption that notice was  "given".
+    Indeed, Mr Syed-Ali, in his submissions, expressly accepted that if the
+    notice had been sent to a proper address under Art 8ZA  then,  applying
+    Art 8ZB and its interpretation in Mahmood, it followed that notice  had
+    been properly given.
+
+56. Neither party's submissions addressed  at  length  whether  the  proper
+    approach in this case was to apply public law principles, in particular
+    Wednesbury principles, or to treat the issue of whether notice had been
+    "given" as a question of 'precedent fact'.  In her  skeleton  argument,
+    Mrs Gray submitted (at para 23)  that  the  issue  did  not  arise  for
+    resolution in this case but, if it did,  Wednesbury  principles  should
+    apply.   I referred to this issue in Mahmood at [70]-[71]  leaving  the
+    point open.  It is not necessary for me to reach  a  decision  in  this
+    case.  Whichever approach applies, the applicant  has  failed  to  make
+    good his claim that lawful notice was not given of the  curtailment  of
+    his leave in  the  letter  of  21  November  2013  to  take  effect  on
+    20 January 2014.  That proper notice was "given" is, in  my  judgment,
+    established on the evidence.
+
+57. It follows, therefore, that the respondent's  decision  to  refuse  the
+    applicant leave to remain on 30 July 2014 was not  a  decision  against
+    which the applicant has an in-country right of appeal under  s.82(2)(d)
+    of the NIA Act 2002 as he did not make an in-time application on 4 June
+    2014.  The claim, therefore, fails.
+
+Decision
+
+58. For these reasons, the claim is dismissed.
+
+
+                                                                      Signed
+
+
+
+
+                                                                     A Grubb
+                                                 Judge of the Upper Tribunal
+
+

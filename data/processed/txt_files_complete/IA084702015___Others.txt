@@ -1,0 +1,376 @@
+
+                                    [pic]
+Upper Tribunal
+
+(Immigration and Asylum Chamber)                 Appeal Numbers:
+IA/08470/2015
+
+
+                                               IA/08501/2015
+
+                                            IA/08507/2015
+
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Birmingham                     |Decision & Reasons Promulgated      |
+|On 29 August 2019                       |On 06 September 2019                |
+|                                        |                                    |
+
+                                   Before
+
+                        UPPER TRIBUNAL JUDGE PLIMMER
+
+                                   Between
+
+                               CHARANJIT SINGH
+                               GURBINDER KAUR
+                                SURPREET KAUR
+                                                                  Appellants
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+Representation:
+
+For the Appellants:    Mr Jafferji, Counsel
+For the Respondent:    Mr Mills, Senior Home Office Presenting Officer
+
+                            DECISION AND REASONS
+
+
+      1. The first appellant is a citizen of India ('the  appellant').   His
+         wife and child are the second and third appellants in this  matter.
+         They are dependents upon his claim.   The  appellant  has  appealed
+         against a decision of the First-tier Tribunal ('FTT') dated 10 July
+         2015, in which it dismissed his appeal on human rights grounds.
+
+Background
+
+      2.  The  appellant's  background  in  the  United  Kingdom  ('UK')  is
+         summarised in the chronology below.
+
+         2.6.08   A enters the  UK  with  entry  clearance  as  a  religious
+    worker.
+
+         5.11.08  A granted further leave as a religious worker.
+
+         9.12.10  A's application for further leave as a Tier 2 (Minister of
+                  Religion) Migrant ('Tier 2 Migrant') refused.
+
+         7.3.11   FTT Judge Parker allows A's appeal on Article  8  grounds.
+                  The FTT noted that A scored the maximum points  under  the
+                  PBS but he was unable to meet para  245ZF(e)  because  his
+                  leave to remain was not included in the list  of  relevant
+                  categories i.e. he was unable to meet  the  'no-switching'
+                  requirement.  This is because the A had been granted leave
+                  as a religious worker under the old Rules and not leave as
+                  a Tier 2 Migrant.  It was accepted that A  performed  this
+                  role   at   all   material   times   and   it   would   be
+                  disproportionate to expect him and his family  members  to
+                  return to India to apply for entry clearance.
+
+         12.4.11  A granted discretionary leave ('DL') for  three  years  to
+    12.4.11.
+
+         11.4.14  A applies for leave to remain as a Tier 2 Migrant.
+
+         16.2.15  SSHD refuses  application  because:  a)  A  was  not  last
+                  granted leave in that capacity (but was last granted  DL);
+                  b) the Certificate  of  Sponsorship  ('CoS')  provided  by
+                  Sponsor had been cancelled; c) the Sponsor was  unable  to
+                  certify maintenance.
+
+         10.7.15  FTT Judge Place  dismisses  A's  appeal  on  human  rights
+             grounds.
+
+         23.11.15 A's application for permission to appeal against the FTT's
+                  decision refused by the Upper Tribunal ('UT').
+
+         4.2.16   Collins J grants permission to challenge the UT's  refusal
+                  of permission, observing it arguable, inter alia, that the
+                  relevant  transitional  arrangements  were  material   and
+                  should have been considered by the FTT.
+
+         29.6.18  UT grants permission to appeal.
+
+         25.7.19  UT hearing adjourned with directions for  the  parties  to
+                  file skeleton arguments.
+
+      3. The matter now comes before me to  determine  whether  Judge  Place
+         made an error of law.
+
+Hearing / issues in dispute
+
+      4. At the hearing before me the representatives agreed that  the  main
+         issues raised in the grounds  of  appeal  could  be  summarised  as
+         follows:
+
+          i) Did Judge Place commit an error of law in failing to take into
+             account the respondent's policy  on  DL  when  conducting  the
+             Article 8 ECHR balancing exercise?
+
+
+
+
+         ii) If the answer to (i) is yes, would that have made any material
+             difference to the outcome, as the SSHD's position was that the
+             circumstances  before  Judge  Place  were  different  to   the
+             circumstances before Judge Parker.
+
+      5. At the beginning of the hearing, Mr  Mills  accepted  that  as  the
+         appellant had been granted DL before 2 July 2012, the 'Statement of
+         Intent: Family Migration' policy dated June  2012  was  potentially
+         applicable.  This states that those who were granted  DL  before  9
+         July 2012, like this appellant, would be  subject  to  transitional
+         arrangements and not necessarily the requirements  of  the  amended
+         Immigration Rules.  The policy also states this:
+
+             "...you will continue to be dealt with under the discretionary
+             leave policy through to settlement if you qualify for it."
+
+      6. The DL policy as in force at the date of the hearing  before  Judge
+         Place  (version  6)  repeats  this  in  section  10  dealing   with
+         transitional arrangements. It also states that  an  application  to
+         extend DL should be made shortly before  DL  expires  and  will  be
+         subject to an active review.  This will depend on the  reasons  why
+         DL was granted.   The policy then states this:
+
+             "-   Decision makers must consider whether  the  circumstances
+                prevailing at the time  of  the  original  grant  of  leave
+                continue at the date of  decision.   If  the  circumstances
+                remain the same  and  the  criminality  thresholds  do  not
+                apply, a further period  of  3  years  Discretionary  Leave
+                should be granted.
+
+              - If there have been significant  changes  or  the  applicant
+                fails to meet the criminality thresholds...the  application
+                for further leave will be refused."
+
+      7. Mr Mills accepted that pursuant to  that  policy,  DL  was  usually
+         extended unless there was any material change in circumstances.
+
+      8. Both representatives  then  made  helpful  submissions  and  placed
+         reliance upon their respective skeleton arguments.
+
+      9. Mr Jafferji submitted that it is implicit from  the  Judge  Place's
+         decision that reliance  was  being  placed  upon  the  transitional
+         arrangements within the policy  documents  and  these  should  have
+         informed the correct approach to  the  applicable  legal  framework
+         relevant to Article 8.
+
+     10. Mr Mills submitted that it was fundamental that the  appellant  did
+         not apply for an extension of DL, but rather  made  an  application
+         for leave under the Rules.  He submitted that it followed that  the
+         transitional arrangements relevant to applications for an extension
+         of DL were irrelevant in those circumstances and Judge  Place  made
+         no material error of law.
+
+     11. After hearing from both representatives I reserved my decision.   I
+         also heard from both representatives on the appropriate disposal of
+         the appeal, should I find an error of law.  They agreed that any re-
+         making would involve substantial fact-finding.  This is because the
+         person said to have sponsored the appellant in the  earlier  stages
+         of his time in the UK was sentenced to nine years imprisonment  for
+         facilitating illegal workers and the appellant has  been  named  as
+         one of these.
+
+     12. I now provide my decision with reasons.
+
+Error of law discussion
+
+     13. I must first of all address whether Judge Place  erred  in  law  in
+         failing to apply the  policies  I  set  out  above.  Mr  Mills  has
+         submitted that there was no obligation to do this because this  was
+         not argued before Judge Place and there could be no  such  argument
+         in this case because the appellant did not apply for  an  extension
+         of DL but leave as a Tier 2 Migrant.
+
+     14. Although I am told that the appellant was represented  by  Counsel,
+         there was no skeleton argument before Judge Place.  The grounds  of
+         appeal to the FTT against the SSHD's decision did not  specifically
+         rely on any argument based upon the policies referred to above.   I
+         also note that the application to the SSHD (which  was  drafted  by
+         solicitors) did not rely on the policies or seek  an  extension  of
+         DL, but rather made an application for leave to remain as a Tier  2
+         Migrant.
+
+     15. As conceded before Judge Place, the application under the Rules was
+         bound to fail for the obvious reason set out in the decision letter
+         - the appellant did not have leave in a category that permitted him
+         to apply in-country for leave.  He had DL and was therefore  caught
+         by the 'non-switching' requirement of the relevant Rule.
+
+     16. When the decision is read as a whole I am  satisfied  that  it  was
+         argued  on  behalf  of  the  appellant,  that  when  assessing  the
+         proportionality of his removal, the FTT should consider whether  or
+         not he could benefit from the relevant policies in the light of the
+         findings made by Judge Parker.  Immediately under the  heading  'my
+         findings'  at  [14]  of  the  decision,  the  appellant's   Counsel
+         submission is recorded as follows:
+
+             "...nothing had changed since Judge Parker's determination  in
+             2011, other than that the Appellant had been here  longer  and
+             therefore his ties to the UK were stronger.  He  asked  me  to
+             find that the Appellant met all the requirements for leave  to
+             remain as a Tier 2 (Minister of Religion) Migrant, other  than
+             the fact that he does  not  fall  into  one  of  the  required
+             categories for transition to that  category  set  out  in  the
+             Immigration Rules.  There would be  no  benefit  in  terms  of
+             immigration control in requiring the Appellant to leave the UK
+             to make an application from India."
+
+     17. The reference to nothing having changed must be viewed in the light
+         of Judge Parker's findings and the DL policy  I  have  quoted  from
+         above.  I am satisfied that the case being presented on  behalf  of
+         the  appellant  was  that  the  respondent's  own  policy  guidance
+         required his DL to be extended  because  there  had  not  been  any
+         significant changes and there was no question of  him  not  meeting
+         the criminality thresholds.  I also  note  that  the  statement  of
+         intent policy was in the appellant's bundle before Judge Place.
+
+     18. Judge Place failed to address the fact that the submission recorded
+         was predicated upon and supported by the policies.  Moreover, in so
+         far as the FTT entirely accepted at [16]  and  [20]  that  the  new
+         legal framework applicable to Article 8 cases as  contained  in  s.
+         117 of the Nationality, Immigration and Asylum Act 2002 ('the  2002
+         Act') applied without more,  that  constituted  an  error  of  law.
+         Whilst the FTT was obliged to apply the new legal framework, it was
+         also required to take into  account  the  policies  when  assessing
+         proportionality for the purposes of Article 8  of  the  ECHR.   AMA
+         (Article 1C(5)) - proviso -  internal  relocation)  Somalia  [2019]
+         UKUT 11 (IAC) says this at [36]:
+
+             "The only issue before the FTT in this case  was  whether  AMA
+             continued  to  qualify  for  protection  under   the   Refugee
+             Convention. It is important to read the  headnote  in  SF  and
+             others (Guidance - post-2014  Act)  Albania  [2017]  UKUT  120
+             (IAC) 10 to the effect that even in the absence of a  'not  in
+             accordance with the law' ground of appeal, the Tribunal  ought
+             to take the SSHD's guidance into account if it points  clearly
+             to a particular outcome, in its proper context. SF involved an
+             assessment of the reasonableness of expecting a child to leave
+             the UK, and the SSHD's own guidance was relevant to  assisting
+             the Tribunal to make judgments, consistent with  the  approach
+             that would be taken by the SSHD - see [10] to [12]."
+
+     19. Although the appeal before FTT Place  was  an  'old  style'  appeal
+         capable of determining whether the decision under appeal  was  'not
+         in accordance with the law', it is clear that the submission  being
+         made on behalf of the appellant was not on  this  basis  -  it  was
+         entirely  predicated  upon  Article  8.   Nevertheless,  where  the
+         respondent's own guidance points clearly to a  particular  outcome,
+         this is relevant when determining the proportionality of a decision
+         taken in relation to Article 8.  I  entirely  accept  that  the  DL
+         policy focuses upon those who make an application for an  extension
+         of DL.  This  appellant  did  not.   However  the  wording  of  the
+         policies make it clear that a person such as  the  appellant  would
+         continue to be dealt with under the DL policy.  The spirit of  that
+         policy protects those  granted  DL  prior  to  the  change  in  the
+         Immigration Rules.  In my judgment, even though the  appellant  did
+         not apply to extend his DL, the  decision-maker  and  the  FTT  was
+         still bound to take into account that the appellant's circumstances
+         in the light of the guidance in the  policies.   It  was  therefore
+         important to consider, for the reasons contained  in  the  policies
+         whether the appellant's circumstances had significantly changed.
+
+     20. Whilst (as Collins J observed when  granting  permission)  s.  117B
+         "moves the goalposts", it was important  to  treat  Judge  Parker's
+         decision as the starting point and to expressly  consider  what  if
+         anything, had changed in the light of the policies.  In failing  to
+         do so the FTT committed an error of law.
+
+     21. Mr Mills invited me to find that even if Judge  Place  should  have
+         considered the policies, there was no material error of law because
+         there was a change in circumstances from Judge  Parker's  decision:
+         i.e.  whereas  before  Judge  Parker  the  appellant  met  all  the
+         requirements of the relevant rule  except  for  the  'no-switching'
+         requirement, the situation had changed as the appellant was  unable
+         to meet other aspects of the relevant Rules, in particular having a
+         valid CoS.  Judge Place expressly found at [19] that  matters  were
+         now different because the appellant did not have a valid CoS.
+
+     22. Mr Mills submitted that  the  absence  of  a  valid  CoS  was  key.
+         Although  the  decision  letter  refers  to  the  CoS  having  been
+         cancelled (on 22  November  2014)  and  the  failure  to  meet  the
+         maintenance requirement, Mr Mills accepted that these are likely to
+         be interlinked.  As Mr Mills acknowledged, those  refused  for  not
+         having a valid CoS, are almost inevitably  refused  on  maintenance
+         grounds as well because the employer would not be able to  properly
+         certify maintenance in the absence of a CoS.
+
+     23. I note the observations of Collins J when  granting  permission  in
+         the judicial review proceedings in this matter:
+
+             "Whilst I recognise that those representing the claimants  did
+             not investigate why the [CoS] had been cancelled by  the  Home
+             Office, the FTT judge arguably ought to have appreciated  that
+             the SSHD should have explained this, since it seemed  contrary
+             to the GURWARA's letters and created the difference from Judge
+             Parker's assessment."
+
+     24. Although Judge Place mentioned at [19] that  the  reasons  for  the
+         cancellation of the CoS  had  not  been  addressed,  there  was  an
+         overriding need to determine why it was cancelled  when  addressing
+         the relevant policies.  As Mr Mills acknowledged it could have been
+         cancelled simply because the appellant was not entitled to leave as
+         a Tier 2 Migrant in the light of  the  'no-switching'  requirement,
+         and once this  was  recognised  by  the  respondent,  the  CoS  was
+         cancelled.  This seems to me to be the more likely reason.  If  the
+         SSHD was not satisfied that the sponsor was genuine or appropriate,
+         it would have been rather important for that to have been  said  at
+         the time.  Mr Mills was unable to access the appropriate system  to
+         determine the reason for the cancellation of the CoS.
+
+     25. Furthermore, although Judge Place stated that the CoS issue was not
+         addressed, this is difficult to reconcile with the clearly recorded
+         submission at [14] that  the  Rules  are  met  save  for  the  "no-
+         switching" requirement, as was the case before Judge  Parker.   Had
+         Judge Place appreciated the relevance of considering the appeal  in
+         the light of the potentially applicable policies, that  would  have
+         led to an enquiry into the reasons  for  cancelling  the  CoS.   As
+         Collins J observed, the evidence before the FTT  from  the  Gurwara
+         supported the appellant's entitlement to a CoS.
+
+     26. In all the circumstances, the failure to apply the policy may  have
+         made  a  material  difference  to  the  outcome  of   the   appeal,
+         notwithstanding the position adopted by  the  respondent  regarding
+         the CoS.
+
+     27. It follows that the FTT's decision contains  a  material  error  of
+         law.
+
+Disposal
+
+     28. The findings of fact that need to be made may  well  be  extensive.
+         Mr Mills pointed out that it  is  most  likely  that  even  if  the
+         appellant has amassed the requisite 10 years lawful  residence  and
+         even assuming that the DL policy has the potential to be applied in
+         the appellant's favour, it will be necessary to investigate  assess
+         the evidence said to link the appellant to the criminal  enterprise
+         that led to a nine year sentence for a previous sponsor.   I  heard
+         no evidence on this issue and have  made  no  findings.   I  merely
+         observe  that  the  factual  matrix  will  need  to  be   carefully
+         considered.
+
+     29. I have had regard to para 7.2 of the  relevant  Senior  President's
+         Practice Statement  and  the  nature  and  extent  of  the  factual
+         findings required in remaking the decision, and I have decided that
+         this is an  appropriate  case  to  remit  to  the  FTT.   Extensive
+         findings of fact are  necessary  and  this  is  likely  to  involve
+         detailed  oral  evidence  and  cross-examination  on   wide-ranging
+         matters.
+
+Decision
+
+     30. The FTT decision contains an error of law and I set it aside.
+
+     31. The decision is remitted to the FTT, where it shall be re-made by a
+         judge other than Judge Place.
+
+
+
+Signed UTJ Plimmer                               Date
+
+Upper Tribunal Judge Plimmer                     30 August 2019

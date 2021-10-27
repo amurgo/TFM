@@ -1,0 +1,741 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: DA/00724/2014
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                 |Decision & Reasons Promulgated       |
+|On 30 November 2015                  |On 1 February 2016                   |
+|                                     |                                     |
+
+                                   Before
+
+                        UPPER TRIBUNAL JUDGE GLEESON
+
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                                     A C
+                           [ANONYMITY ORDER MADE]
+                                                                  Respondent
+
+
+Representation
+For the appellant:     Mr N Bramble, a Senior Home Office Presenting
+Officer
+For the respondent:    Mr M Moriarty, counsel instructed by Luqmani
+                    Thompson Solicitors
+
+
+                            DECISION AND REASONS
+
+ 1. The Secretary of State appeals with permission against the decision  of
+    the First-tier Tribunal allowing  the  claimant's  appeal  against  her
+    decision to remove him to Italy, his country of origin.  The  Secretary
+    of State's decision to remove him was made pursuant to Regulation 21 of
+    the Immigration (European Economic Area) Regulations 2006 (as amended).
+
+ 2. This appeal has been heard in the First-tier Tribunal on two occasions,
+    on 25 November 2014 before First-tier Tribunal Judge Widdup  and  Dr  C
+    Winstanley, a Non-Legal Member. That decision was set aside because the
+    panel erroneously applied the  highest  level  of  protection  pursuant
+    Regulation 21(4).
+
+ 3. The appeal was heard again on 12 June 2015 before  First-tier  Tribunal
+    Judge Grant and Mrs S Hewitt JP, a Non-Legal Member. The  Secretary  of
+    State's  challenge  is  that  the  First-tier  Tribunal's  reasons  are
+    inadequate.  Permission to appeal was granted on that basis.
+
+Error of law decision
+
+ 4. There is a material error of law in the First-tier Tribunal's  decision
+    in that its reasoning is inadequate, as Mr Moriarty  for  the  claimant
+    conceded at the hearing.  The  question  of  whether  the  claimant  is
+    entitled to the imperative grounds level of  protection  in  Regulation
+    21(4) remains in issue.
+
+ 5. By consent, the First-tier Tribunal decision will be  set  aside.   The
+    decision will be remade,  in  the  light  of  any  written  submissions
+    received from the parties within 7 days of the error  of  law  hearing,
+    with particular reference to the issue  of  the  appropriate  level  of
+    protection and the additional material submitted by  the  appellant  in
+    Bundle B.
+
+ 6. It is not considered that any evidence from the claimant is required in
+    order for the decision  in  this  appeal  to  be  properly  determined.
+    Neither party has applied for a further oral hearing. I  consider  that
+    having regard to  the  submissions  received,  and  to  the  overriding
+    objective, the decision can justly be remade on the documents before me
+    without a further oral hearing.
+
+ 7. I now proceed to remake the decision in this appeal on that basis.
+
+Legal framework
+
+ 8. The appeal falls to be decided under Regulation 21 of  the  Immigration
+    (European Economic Area) Regulations 2006 (as amended):
+
+         "Decisions taken on  public  policy,  public  security  and  public
+         health grounds
+
+         21.-(1)  In this regulation a  "relevant  decision"  means  an  EEA
+             decision  taken  on  the  grounds  of  public  policy,  public
+             security or public health.
+
+             (2)  A relevant decision may not be taken  to  serve  economic
+             ends.
+
+             (3)  A relevant decision may not be  taken  in  respect  of  a
+             person with a permanent right of residence under regulation 15
+             except on serious grounds of public policy or public security.
+
+             (4)  A relevant decision may not be taken except on imperative
+             grounds of public security in respect of an EEA national who-
+
+                  (a)  has resided in the United Kingdom  for  a  continuous
+                  period of  at  least  ten  years  prior  to  the  relevant
+                  decision; ...
+
+             (5)  Where a relevant decision is taken on grounds  of  public
+             policy or public security it shall, in addition  to  complying
+             with the preceding paragraphs of this regulation, be taken  in
+             accordance with the following principles-
+
+                  (a)  the  decision  must  comply  with  the  principle  of
+                  proportionality;
+
+                  (b)   the  decision  must  be  based  exclusively  on  the
+                  personal conduct of the person concerned;
+
+                  (c)  the personal conduct of  the  person  concerned  must
+                  represent a  genuine,  present  and  sufficiently  serious
+                  threat affecting  one  of  the  fundamental  interests  of
+                  society;
+
+                  (d)  matters isolated from the particulars of the case  or
+                  which relate to considerations of  general  prevention  do
+                  not justify the decision;
+
+                  (e)  a person's previous criminal convictions  do  not  in
+                  themselves justify the decision.
+
+             (6)   Before taking a relevant  decision  on  the  grounds  of
+             public policy or public security in relation to a  person  who
+             is resident in the United Kingdom the decision maker must take
+             account of considerations such as the age,  state  of  health,
+             family and economic situation  of  the  person,  the  person's
+             length of residence in the United Kingdom, the person's social
+             and cultural integration  into  the  United  Kingdom  and  the
+             extent of the person's links with his country of origin. ..."
+
+ 9. That provision implements the provisions of Article 28(3) of  Directive
+    2004/38/EC.  The Upper Tribunal  in  2012  referred  to  the  Court  of
+    Justice of  the  European  Union  two  cases  for  preliminary  rulings
+    concerning  the  proper  interpretation  of  Article  28(3)(a)  for  in
+    relation to imprisonment in the host state, in Onuekwere  (imprisonment
+    - residence) Nigeria [2012] UKUT 269 (IAC) and in MG (EU deportation  -
+    Article 28(3) - imprisonment) Portugal [2012] UKUT 268 (IAC).
+
+10. In Onuekwere (Judgment of the Court) [2014] EUECJ C-378/12,  the  Court
+    of Justice held that:
+
+         "1.   Article  16(2)  of  Directive  2004/38/EC  of  the   European
+         Parliament and of  the  Council  of  29  April  2004  ...  must  be
+         interpreted as meaning that the periods of imprisonment in the host
+         Member State of a third-country national, who is a family member of
+         a Union citizen who has acquired the right of  permanent  residence
+         in that Member State during those periods,  cannot  be  taken  into
+         consideration in the context of the acquisition by that national of
+         the  right  of  permanent  residence  for  the  purposes  of   that
+         provision.
+
+         2.   Article 16(2) and (3) of Directive 2004/38 must be interpreted
+         as meaning that the  continuity  of  residence  is  interrupted  by
+         periods of imprisonment in the host Member State of a third-country
+         national who is a family member of a Union citizen who has acquired
+         the right of permanent residence in that Member State during  those
+         periods."
+
+11. In MG's case,  the Court of Justice held that:
+
+         "1.  On a proper construction  of  Article  28(3)(a)  of  Directive
+         2004/38/EC of the European Parliament and  of  the  Council  of  29
+         April 2004 ...the 10-year period of residence referred to  in  that
+         provision must, in principle, be continuous and must be  calculated
+         by counting back  from  the  date  of  the  decision  ordering  the
+         expulsion of the person concerned.
+
+         2.   Article 28(3)(a) of Directive 2004/38 must be  interpreted  as
+         meaning that a period of imprisonment  is,  in  principle,  capable
+         both of interrupting the continuity of the period of residence  for
+         the purposes of  that  provision  and  of  affecting  the  decision
+         regarding  the  grant  of  the  enhanced  protection  provided  for
+         thereunder, even where the person concerned  resided  in  the  host
+         Member State for the 10 years prior to imprisonment.  However,  the
+         fact that that person resided in the host Member State for  the  10
+         years prior to imprisonment may be taken into consideration as part
+         of the overall assessment required in order  to  determine  whether
+         the integrating links previously forged with the host Member  State
+         have been broken."
+
+12. In the light of that decision, the Upper Tribunal in MG (prison-Article
+    28(3) (a) of Citizens Directive) [2014] UKUT 392 (IAC) held as follows:
+
+         "(1)  Article  28(3)(a)  of  Directive  2004/38/EC   contains   the
+         requirement that for those who have  resided  in  the  host  member
+         state for the previous 10 years, an expulsion decision made against
+         them must be based upon imperative grounds of public security.
+
+         (2)  There is a tension in the judgment of the Court of Justice  of
+         the European Communities in Case C-400/12 Secretary of State v  MG,
+         [2014] EUECJ C-400/12, in respect of the meaning of  the  "enhanced
+         protection" provision.
+
+         (3)  The judgment should be understood as meaning that a period  of
+         imprisonment during those 10 years does not necessarily  prevent  a
+         person from qualifying for enhanced protection if  that  person  is
+         sufficiently integrated. However, according to the same judgment, a
+         period of imprisonment must have a negative impact  in  so  far  as
+         establishing integration is concerned."
+
+13. The Upper Tribunal  has  drawn  together  the  various  authorities  on
+    rehabilitation in MC (Essa principles recast) [2015] UKUT 520 (IAC), as
+    follows:
+
+         "1.  Essa rehabilitation principles are specific to decisions taken
+         on public policy, public security and public health  grounds  under
+         regulation 21 of the 2006 EEA Regulations.
+
+         2.   It is only if the personal conduct of the person concerned  is
+         found to represent a  genuine,  present  and  sufficiently  serious
+         threat affecting  one  of  the  fundamental  interests  of  society
+         (regulation 21(5)(c)) that it becomes relevant to consider  whether
+         the  decision  is  proportionate  taking  into  account   all   the
+         considerations identified in regulation 21(5)-(6).
+
+         3.   There is no specific reference in the expulsion provisions  of
+         either  Directive  2004/38/EC  or  the  2006  EEA  Regulations   to
+         rehabilitation, but it has been seen by the Court of Justice as  an
+         aspect of integration, which is one of the factors referred  to  in
+         Article 28(1) and regulation 21(6) (Essa (2013) at [23]).
+
+         4.   Rehabilitation is not an issue to be addressed  in  every  EEA
+         deportation or removal decision taken under regulation 21; it  will
+         not be relevant, for example, if rehabilitation  has  already  been
+         completed (Essa (2013) at [32]-[33]).
+
+         5.   Reference to prospects of rehabilitation  concerns  reasonable
+         prospects of a person ceasing  to  commit  crime  (Essa  (2013)  at
+         [35]), not the mere possibility of rehabilitation. Mere  capability
+         of rehabilitation is not to be equated with reasonable prospect  of
+         rehabilitation.
+
+         6.   Where relevant (see (4) above) such prospects are a factor  to
+         be taken into account in the proportionality assessment required by
+         regulation 21(5) and (6) (Dumliauskas [41]).
+
+         7.   Such prospects are to be taken into account even if not raised
+         by the offender (Dumliauskas [52]).
+
+         8.    Gauging  such  prospects  requires  assessing  the   relative
+         prospects of rehabilitation in the host Member  State  as  compared
+         with those in the Member State of origin, but, in  the  absence  of
+         evidence, it is not to be assumed  that  prospects  are  materially
+         different in that other Member State (Dumliauskas  [46],  [52]-[53]
+         and [59]).
+
+         9.   Matters that are relevant when examining the prospects of  the
+         rehabilitation   of   offenders    include    family    ties    and
+         responsibilities, accommodation, education,  training,  employment,
+         active membership of a community and  the  like  (Essa   (2013)  at
+         [34]). However, lack of access to a Probation Officer or equivalent
+         in  the  other  Member  State  should  not,  in  general,  preclude
+         deportation (Dumliauskas [55])
+
+         10.  In the  absence  of  integration  and  a  right  of  permanent
+         residence, the future prospects of integration cannot be a  weighty
+         factor (Dumliauskas [44] and [54]). Even when such  prospects  have
+         significant weight they are not a trump card, as what the Directive
+         and the 2006 EEA Regulations require  is  a  wide-ranging  holistic
+         assessment. Both recognise  that  the  more  serious  the  risk  of
+         reoffending, and the offences that a person may commit, the greater
+         the right to interfere with the right of residence (Dumliauskas  at
+         [46] and [54])."
+
+14. That then is the basis on which I approach this appeal.
+
+Factual matrix: the claimant's history
+
+15. The claimant was born in Milan in 1963.  He had a twin brother and  two
+    other brothers, as well as a sister.  He left school in 1977,  age  14,
+    and went into hairdressing.  In 1981, he  opened  his  own  salon.   In
+    1985, his twin brother died of complications from an operation  on  his
+    heart.  His mother rejected the claimant, because he reminded  her  too
+    much of his dead twin.  The claimant  began  taking  drugs  every  day;
+    heroin, crack cocaine, cannabis, and any other drug  he  could  obtain.
+    He lost interest in his hairdressing salon: his sister tried to  manage
+    it but was less successful.
+
+16. The claimant visited London for a few months in 1989, taking  odd  jobs
+    to survive, but also shoplifting.  He was convicted of shoplifting  and
+    theft on 3 occasions that year, served 2 weeks of  a  4-week  sentence,
+    and returned to Italy, where he entered a drug rehabilitation programme
+    in Milan.
+
+17. In 1991 or 1992, the claimant returned  to  London  with  his  partner,
+    another Italian citizen whom he had  met  on  the  drug  rehabilitation
+    programme; she has continued to use drugs with him over the years,  and
+    has longstanding mental health problems.  The claimant signed on at the
+    job centre, and asked around for work.  He did not speak English so  he
+    sought work in the Italian community.  He did whatever came  along  and
+    they found a home together in Lambeth.
+
+18. In about 1995, the claimant became ill and was diagnosed  HIV-positive.
+    He has been looked after by the South London  and  Maudsley  NHS  Trust
+    since then, now for 20 years.  His older brother  came  to  London  and
+    also became ill about the same time.  The  claimant  looked  after  his
+    brother and his partner.
+
+19. The claimant was still  using  drugs  and  in  September  1995  he  was
+    cautioned for possession of a controlled drug (heroin).  He  cared  for
+    his brother until his brother died in 1996.
+
+20. The claimant and his partner  continued  to  use  drugs  together.   In
+    October 2002, after importing  a  quantity  of  controlled  drugs  from
+    Jamaica  to  the  United  Kingdom,  he  was  sentenced   to   2   years
+    imprisonment. The claimant served about 9 months then was  released  on
+    home detention curfew.
+
+21. In January  2008,  the  claimant  was  convicted  at  Camberwell  Green
+    Magistrates' Court of possession of a  controlled  drug  (heroin),  and
+    fined.
+
+22. In 2009, the claimant and his partner had a crisis and lost their  home
+    in Lambeth because they had been allowing other  people  to  use  drugs
+    there.  His partner was sectioned and hospitalised with  mental  health
+    problems: she was paranoid  and  hearing  voices.   Their  relationship
+    ended, although their friendship continues.
+
+23. After a month in hospital, the claimant's ex-partner was provided  with
+    hostel  accommodation.  The  claimant  was  homeless,  moving   between
+    hostels, visiting his ex-partner and trying to  look  after  her.   The
+    claimant and his ex-partner saw each other  every  day.   The  claimant
+    stopped taking his antiretroviral medication; he thought a break  would
+    be all right as he had been taking it so long, but he continued to  use
+    heroin and crack cocaine.
+
+24. In January  2009,  the  claimant  was  convicted  at  Camberwell  Green
+    Magistrates' Court of possession of heroin and cocaine,  and  sentenced
+    to a community order and drug rehabilitation for  6  months.  In  March
+    2009, he was again convicted of possession of cocaine and heroin, fined
+    and sentenced to 1 day's imprisonment.
+
+25.  In  May  2012,  the  claimant  was  convicted  at  South  West  London
+    Magistrates Court of possession of heroin, and again  fined.  In  April
+    2013, the claimant was given a  community  order  and  a  curfew  after
+    conviction at South London Magistrates Court for destroying or damaging
+    property with a value of �5000 or less.
+
+26. The claimant claims to have very little memory of events in 2013. On 18
+    October 2013, he was convicted at Kingston upon Thames Crown  Court  of
+    having an offensive weapon in a public place  and  destroying  property
+    valued at �5000 or less. He had been asked to leave a restaurant, waved
+    a bread knife at the chef, threw the knife on the floor and then walked
+    out, smashing one of the tables en route before crossing  the  road  to
+    order a takeaway.  He was  sentenced  to  4  months'  imprisonment  and
+    remained in immigration detention thereafter.   The  claimant  did  not
+    appeal that conviction.  On 8 November 2013, the claimant  was  sent  a
+    liability to deportation letter, but he did not respond.
+
+27. During his imprisonment, records show that the claimant spent some time
+    in the prison healthcare wing and was briefly transferred  to  hospital
+    for diagnosis of an HIV/AIDS related illness.  His behaviour in  prison
+    from September 2013 became increasingly odd: by December 2013,  he  was
+    constantly banging on his cell door. His  demeanour  was  odd,  but  he
+    denied having hallucinations. By early January 2014,  his  hygiene  was
+    poor and he was agitated and odd in his behaviour.   The  furniture  in
+    his cell was damaged, the shelves were broken, and  the  floor  of  his
+    cell was strewn with teabags, eating utensils and general rubbish.   By
+    late January, the prison officers were beginning to  suspect  that  the
+    claimant had dementia: he  had  fluctuating  levels  of  cognition  and
+    alertness, was not oriented as to time and place, appeared confused and
+    disorientated,  was  moving  around  the  cell   and   often   yelling,
+    incomprehensibly  and   mostly   in   Italian.    Hospitalisation   was
+    recommended, but there were concerns as to whether the claimant had the
+    capacity to consent to hospital treatment.
+
+28. A CT brain scan on 29 January 2014 showed an old small  stroke  but  no
+    acute intracranial pathology.  By  mid-February,  he  had  deteriorated
+    further, shouting incoherently in his cell, throwing a cup of hot water
+    through a hatch at  a  member  of  staff,  unpredictable  in  mood  and
+    constantly seeking food and  hot  water.   By  late  February,  he  was
+    demanding food and sex and making references to stains on his  trousers
+    and underpants being caused by masturbation.
+
+29. In February 2014, the claimant was diagnosed with HIV-related dementia,
+    chronic pancreatitis, and Hepatitis C. His behaviour and  comprehension
+    began to improve towards the end of February and in early  March  2014,
+    by which time he had been back on anti-retroviral treatment for about 2
+    months.  In early 2014, the claimant described himself as having 'woken
+    up' in prison with no memory of the events which had  resulted  in  his
+    conviction  and  imprisonment.   The  claimant's  physician,   Dr   Lau
+    considered that his aggressive and erratic behaviour  might  have  been
+    largely due  to  his  having  been  ill  with  HIV  encephalopathy,  an
+    infection of the brain as a result of HIV infection, which appeared  to
+    have resolved on anti-retroviral therapy.
+
+30. It seems, however, that the claimant's memory was permanently  affected
+    even after he his behaviour improved. In September 2014,  the  claimant
+    was noted to have no long term memory and to be unable to explain  past
+    events. On 13 November 2014, his consultant physician, Dr Sean Waldron,
+    stated that  the  event  which  led  to  his  conviction  was  probably
+    temporally associated with his advanced HIV encephalopathy, which could
+    recur if he did not keep up his anti-retroviral  therapy.  He  did  not
+    give  as  his  opinion  that  the  event  was   caused   by   the   HIV
+    encephalopathy, but that it occurred  at  the  same  time  ('temporally
+    associated').
+
+31. The claimant served his sentence and  was  then  moved  to  immigration
+    detention, from which he was released at the end  of  March  2015.   He
+    signs on weekly with the immigration authorities in Croydon  but  finds
+    it stressful as it is a considerable distance away  and  he  'does  not
+    know the area well'.
+
+32. In the United Kingdom, the claimant has no friends and has not been  in
+    any relationship since he broke up with his Italian ex-partner in 2009;
+    they remain close as friends, and he sees her about  4  times  a  week.
+    The claimant has been away from Italy for over 20  years.   He  remains
+    estranged from his mother and has little  contact  with  his  surviving
+    sister and brother.  He  does  not  know  how  he  would  get  his  HIV
+    medication in Italy.
+
+33. On 16 June 2015, following a meeting with the claimant on 1  June  2015
+    at the Helen Bamber Foundation, Professor Cornelius Katona gave as  his
+    opinion that:
+
+         "[The claimant's] risk of reoffending
+
+         10.1 [The claimant's] past offences (with the exception of his 2013
+         offence) were all related to his drug use.  His 2013 offence was in
+         my view related to his progressive HIV-related brain disease.
+
+         10.2 [The claimant] is in my view at low risk of reoffending if  he
+         continues to abstain from illicit drug use and if his HIV infection
+         remains treated and  monitored  closely  and  if  he  continues  to
+         benefit from the close support of [his  ex-partner]  who  sees  him
+         several times a week, speaks to him daily by telephone and  ensures
+         that  he  attends  appointments  (as  was  evident  by  her  having
+         accompanied him to his appointment with me).
+
+         10.3 If [the claimant] resumes his use of illicit  drugs  he  would
+         then become at high risk  of  committing  further  drug  possession
+         offences.
+
+         10.4  [The  claimant  appears  to  have  been  compliant  with  his
+         medication since March 2014 (i.e. for more than a  year).   If  his
+         HIV treatment is disrupted for any reason then he would  become  at
+         increasing risk of developing a recurrence of his HIV-related acute
+         confusional state and associated  erratic  behaviour.   This  would
+         significantly increase his risk of further impulsive and aggressive
+         behaviour 'driven' by his confusion.
+
+         11.  What effects on [the claimant] might deportation to Italy have
+         had in 2014 and what effects might such deportation have now or  in
+         the future?
+
+         11.1 [The claimant] is currently being monitored  by  an  HIV  team
+         here in the United Kingdom.  He was unable to give  me  details  of
+         his current  treatment  and  I  am  concerned  that  without  close
+         monitoring he would be very likely to interrupt his treatment.  The
+         risk of mental (and physical) worsening would be particularly  high
+         if he became unable to access his antiretroviral treatment or found
+         it so difficult to do so that he chose to take another  ill-advised
+         'break'  from  his  treatment.   His  mild   persisting   cognitive
+         impairment increases the risk that he might  do  so  without  fully
+         understanding the potential risks and consequences.
+
+         11.2 If [the claimant] were deported to Italy he  would  experience
+         the loss of support he currently receives from [his ex-partner] and
+         from his medical team  in  Lambeth.   He  would  feel  increasingly
+         stressed - which would result in increasing  temptation  to  resume
+         illicit drug use.  If he experienced difficulties  (even  temporary
+         ones) in accessing his HIV treatment, there is a  very  significant
+         risk that he would discontinue his treatment.
+
+         11.3 I therefore share Dr  Waldron's  concern  that  ...under  such
+         circumstances  [the  claimant]  would  ...'be  at  high  risk   for
+         regressing to the very poor state of health in which  he  presented
+         to St George's Hospital from Wandsworth  HMP.   This  could  easily
+         reactivate the apparent retroviral encephalopathy that seems likely
+         to have been strongly associated with his  difficult  behaviour  in
+         the past'."
+
+34. Towards the end of June 2015, not long after that  report  was  written
+    and less than a month after  meeting  Professor  Katona  at  the  Helen
+    Bamber Foundation, the  claimant  got  into  an  altercation  with  the
+    Immigration Officer when signing on, began swearing  at  him,  and  was
+    sent away without signing.  He signed without  incident  the  following
+    week.
+
+35. At the hearing on 30 November 2015, Mr  Moriarty  disclosed  a  further
+    drugs offence.  The claimant had been arrested  on  28  November  2015,
+    with some friends, in possession of a 'spliff' (a cannabis  cigarette).
+    He had  been  charged  and  was  due  to  appear  at  Camberwell  Green
+    Magistrates Court on 15 December 2015.
+
+Submissions
+
+36. For the Secretary of State, Mr Bramble relied on the  decision  of  the
+    Court of Justice of the European Union in  MG  and  in  Onuekwere.   He
+    argued that the effect, taken together,  of  those  decisions  is  that
+    continuity of residence is broken by any  period  of  imprisonment  but
+    that where the 10 years continuous residence could be established prior
+    to the prison sentence beginning, it is not automatically lost  by  the
+    fact that the EEA national spends time in prison thereafter,  but  that
+    the time spent in prison must be taken  into  account  in  determining,
+    along with all relevant factors, the proportionality of the decision to
+    deport. He  relied  on  paragraph  18  of  the  preamble  to  Directive
+    2004/38/EC and argued that the residence in question must be lawful and
+    'in accordance with the Regulations' throughout.
+
+37. In this appeal, Mr Bramble observed that  although  the  appellant  had
+    been physically present for a number of years in  the  United  Kingdom,
+    there was  insufficient  evidence  that  he  had  ever  been  a  person
+    exercising Treaty rights and thus advancing towards permanent residence
+    or any higher level of protection from removal.  The claimant could not
+    show 10 years' continuous residence before the decision to  deport  him
+    was made, nor could he show permanent residence  and  a  period  of  10
+    years in accordance with the Regulations, at any earlier time.  He  was
+    not, therefore, to be regarded as entitled to the  enhanced  protection
+    afforded by the imperative grounds provision in Regulation 21(4).
+
+38. Mr Bramble relied upon the Upper Tribunal's decision on the question of
+    rehabilitation in Essa (EEA:  rehabilitation/integration)  [2013]  UKUT
+    00316 (IAC), which had been considered and interpreted by the Court  of
+    Appeal in Secretary of State for the Home Department  v  Dumliauskas  &
+    Ors [2015] EWCA Civ 145.  The appellant had at best only shown  limited
+    future prospects of integration, which could not be a weighty factor in
+    this appeal.  Such prospects were never a trump card: the Directive and
+    the Regulations required a wide-ranging, holistic response.   The  more
+    serious the risk of reoffending, and  the  more  serious  the  offences
+    which might be committed, the greater the right to interfere  with  the
+    right of residence.
+
+Claimant's submissions
+
+39. The  claimant's  solicitors,  Luqmani  Thompson,  on  4  December  2015
+    submitted that the claimant should be treated  as  having  the  highest
+    'imperative grounds' protection, relying on the decision in MG's  case.
+    They also relied on the decision of the Upper Tribunal in MG (prison  -
+    Article 28(3)(a) of Citizens  Directive)  [2014]  UKUT  392  (IAC)  and
+    argued that in the light of the appellant's medical circumstances,  the
+    integrating links should not be found  to  have  been  broken  in  this
+    appeal.  They contended that the claimant had not been shown to present
+    the high level of risk which the 'imperative grounds' test required.
+
+40. In relation to Regulations 21(5) and 21(6), Luqmani Thompson sought  to
+    rely on the 2014 First-tier Tribunal decision, which was overturned and
+    is no longer relevant to the assessment of the claimant's appeal.  That
+    part of the claimant's submissions is of no assistance in remaking  the
+    decision now.
+
+41. The claimant argued that there were strong reasons for concluding  that
+    he does not represent a  'genuine,  present  and  sufficiently  serious
+    threat'  to  the  public  interest;  that  it  was  probable  that  the
+    commission of the offence arose from his abnormal state of  mind;  that
+    the offence was impulsive; that the claimant was now in  remission  and
+    that there was no previous pattern of violent offending.  The  claimant
+    had been imprisoned only twice, in 2002 and 2012.
+
+42. The Secretary of State's refusal  letter  was  inaccurate  in  that  it
+    stated that the claimant was believed to be in good health; in fact, he
+    had well-documented medical issues and complex healthcare needs,  which
+    would be likely to be interrupted in Italy, at least for a  time.   His
+    Italian ex-partner had been his de facto carer for over 20 years.   The
+    claimant was fully integrated into the  United  Kingdom  and  had  very
+    little to which to return in Italy.  His  removal  to  Italy  would  be
+    disproportionate given his drug problems, health, and background.
+
+43. If the Upper Tribunal did not consider  that  the  claimant  was  fully
+    rehabilitated, he would rely on Essa (EEA:  rehabilitation/integration)
+    [2013] UKUT 00316 (IAC) at paragraphs [33]-[36] and on paragraphs  [27]
+    and [36] of the Upper Tribunal's decision in MG.
+
+44. The claimant invited the Upper Tribunal to restore the 2014  First-tier
+    Tribunal  decision,  or  to  remake  the  second  First-tier   Tribunal
+    decision, confirming that the claimant  could  not  be  deported  under
+    Regulation 21(4) and/or Regulation 21(5).
+
+Discussion
+
+45. It will always be a question of fact for the decision maker whether the
+    applicant has spent 10 years continuously in  the  United  Kingdom.  In
+    this appeal, the claimant cannot show 10 years of continuous  residence
+    before the decision to deport him was taken.  He  was  in  prison  from
+    September 2013, when he was arrested for the  index  offence  to  March
+    2015. The decision to deport him was served upon  the  claimant  on  11
+    November 2013.   Nor  is  there  satisfactory  evidence  of  continuous
+    residence here during all of that  period,  and  the  claimant  himself
+    cannot assist, because he has no memory of past events.   Applying  MG,
+    save for the reservation about earlier integration, the claimant is not
+    entitled to the enhanced 'imperative grounds' protection in  Regulation
+    21(4).
+
+46. The next task is to consider whether the claimant had acquired a  right
+    of permanent residence at any time prior to his imprisonment.  In order
+    to do so, he would need to  be  resident  in  the  United  Kingdom  'in
+    accordance with the Regulations'.  The evidence in this appeal does not
+    reach that standard because the claimant did not  produce  evidence  of
+    working, nor of his claimed registration at a job  centre  in  1991  or
+    1992.   There are no tax and National Insurance  records  or  bills  to
+    support continuity of residence.  In 2002,  he  was  imprisoned  for  9
+    months and thereafter it is not  suggested  in  his  evidence  that  he
+    worked.  The claimant has not satisfied me, on the evidence before  me,
+    that he acquired a right of permanent residence under Regulation 15  at
+    any time while he was in the United Kingdom.
+
+47. The claimant is entitled,  therefore,  only  to  the  basic  protection
+    provided by Regulations 21(1),  21(2),  21(5)  and  21(6)  of  the  EEA
+    Regulations. In considering  his  appeal,  I  remind  myself  that  the
+    decision must comply with the principle  of  proportionality,  that  it
+    must be based exclusively on his personal conduct,  that  such  conduct
+    must represent a  genuine,  present  and  sufficiently  serious  threat
+    affecting one of the fundamental interests of society  (in  this  case,
+    public safety); that matters isolated from the particulars of the case,
+    or considerations of general prevention do not justify  a  decision  to
+    remove him; and that his previous convictions are  not  sufficient  'in
+    themselves' to justify removal.
+
+48. The claimant is a drug user of more than 20 years' standing, along with
+    his ex-partner.  He has twice been given the opportunity to cease using
+    drugs in a drug rehabilitation programme, once in Italy and once in the
+    United Kingdom.  He has been unable or unwilling to do so, and  he  has
+    failed to cooperate with treatment  for  his  HIV/AIDS  for  a  lengthy
+    period from 2009-2014 when the drugs regime was  recommenced  while  he
+    was in prison.
+
+49. In the past, he imported drugs into the United Kingdom on at least  one
+    occasion, and he was found guilty of  a  violent  offence  involving  a
+    knife, and threats. He has a  long  history  of  drug-related  criminal
+    offending, and his impulsive behaviour, which his doctor  described  as
+    aggressive, has not ceased:  as recently as June 2015,  he  behaved  in
+    such a way when signing on before an  Immigration  Officer  at  Croydon
+    that he was told to leave and come back the following week.
+
+50. His criminal behaviour has also resumed: just a  few  days  before  the
+    Tribunal hearing, the claimant was again  arrested  for  possession  of
+    cannabis, which is a criminal offence. He has therefore  returned  both
+    to drug taking and to crime.
+
+51. The medical evidence is clear:  now that the claimant has  returned  to
+    drug use, he is likely to  stop  taking  his  HIV/AIDS  medication,  if
+    indeed he has not already done so,  and  to  become  ill  and  unstable
+    again, which on the last occasion led him  to  violence  and  on  other
+    occasions  has  led  him  to  theft  and  to  aggressive  language  and
+    behaviour. The claimant's HIV encephalopathy  and  other  AIDS-defining
+    ailments are attributed to his long drug abuse and  poor  self-care  in
+    the United Kingdom.  The  evidence  of  Dr  Waldron  was  that  if  the
+    claimant returned to drug taking, or ceased taking his medication,  his
+    HIV encephalopathy and the confusion of mind it entailed was likely  to
+    recur.
+
+52. Professor Katona's opinion was that with the close support of  his  ex-
+    partner, and medical treatment and monitoring, the claimant was at  low
+    risk of reoffending, but that if he resumed  using  illicit  drugs,  he
+    would be at high risk of committing further drug  possession  offences.
+    I recall that despite the strength of the bond between them,  both  the
+    claimant and his ex-partner are  long-term  drug  users  and  that  she
+    herself has had mental problems, including paranoia, arising out of her
+    own drug use.  It is not clear that her support of  him  is  enough  to
+    keep him away from drugs, and certainly in the past that has  not  been
+    the case.
+
+53. In reaching my decision,  I  am  required  to  take  into  account  the
+    claimant's age, state of health, family  and  economic  situation,  his
+    social and cultural integration into the United Kingdom, and the extent
+    of his links with his country of origin, Italy. The  claimant's  health
+    is poor, due to his extended drug  use,  but  for  at  least  one  long
+    period, he was unable or unwilling to use the support available in  the
+    United Kingdom. The claimant relies on his connection  with  the  South
+    London and Maudsley NHS Trust, dating back to 1995, but it appears that
+    he  lost  touch  with  them  and  ceased  taking  his   anti-retroviral
+    medication in 2009 or 2010, and that this was not picked  up  until  he
+    was ill in prison in early 2014. They were able to support him while he
+    was in prison, but he was released in March 2015, and by June  2015  he
+    was abusive to an Immigration Officer, shouting and  swearing,  and  by
+    late November 2015, he had  returned  to  crime  and  was  arrested  in
+    possession of  cannabis.   It  is  unclear  whether  the  claimant  has
+    disengaged again from the support provided by the Trust, or whether his
+    impulse towards drug-taking  is  so  strong  that  the  support  cannot
+    prevent it.
+
+54. Professor Katona's concerns have  been  borne  out  by  the  claimant's
+    return to drug taking and thus to crime, by possession of the drugs for
+    which he was arrested, which occurred only a few months after Professor
+    Katona prepared his report.  There is no evidence before me to indicate
+    whether the claimant continues to take his medication in these  changed
+    circumstances. There is an unsourced assertion  in  Professor  Katona's
+    report, that he has doubts as to the availability of HIV/AIDS treatment
+    in Italy.  However, as set out at (8) in the Upper Tribunal's  decision
+    in MC, that is not evidence of sufficient strength  to  require  me  to
+    presume that  no  appropriate  treatment  will  be  available  for  the
+    claimant in Italy.  I note, in particular, that the claimant did access
+    drug rehabilitation treatment in Milan in 1992, where he  met  his  ex-
+    partner.
+
+55. The claimant's integration into the United Kingdom is not  strong.   He
+    has no friends here: he does not work or study and his only  friendship
+    is with his ex-partner, whose own status is unclear and who is also  an
+    Italian citizen.  The claimant has a  very  long  history  of  criminal
+    offences, all connected to his apparent inability to stop using heroin,
+    cocaine, and crack cocaine.  A drug rehabilitation programme  in  Milan
+    in the early 1990s was ineffective, except that he met  his  ex-partner
+    there, and  she  has  been  part  of  his  life  ever  since.   Another
+    requirement to undertake a drug rehabilitation  programme,  imposed  in
+    January 2009 by Camberwell Green  Magistrates  Court,  was  ineffective
+    because the claimant was re-convicted of drugs offences 2 months later.
+
+
+
+56. The claimant seems to be a loner:  in  neither  Italy  nor  the  United
+    Kingdom has he friends or family relationships, save  his  relationship
+    with his  ex-partner,  who  also  has  a  history  of  drug  use.   The
+    claimant's evidence is that he has spent a  long  time  outside  Italy,
+    where he has a brother and sister with whom his links  are  not  close,
+    and a mother from whom he is estranged, and has lost his links  to  his
+    country of origin.  However, the claimant is still only  52  and  lived
+    more than half his life in Italy, where he was educated  and  grew  up.
+    He still has family there, and as he went to school in Italy, there are
+    likely to be other people he knows, who  have  not  been  mentioned  in
+    evidence in these proceedings.  A  drug  rehabilitation  programme  was
+    available in Italy and there is  no  reliable  evidence  before  me  to
+    suggest that he could not receive such support as  he  would  need,  or
+    use, in his country of origin.
+
+57. On the evidence before me, I conclude  that  this  claimant  remains  a
+    genuine, present and sufficiently serious threat to public  safety  and
+    that his removal to Italy under Regulation 21 of the EEA Regulations is
+    not disproportionate, and is lawful.
+
+DECISION
+
+58. For the foregoing reasons, my decision is as follows:
+
+    The making of the previous decision involved the making of an error  on
+    a point of law.
+
+    I set aside the previous decision and substitute a decision  dismissing
+    the claimant's appeal against the  Secretary  of  State's  decision  to
+    deport him to Italy.
+
+
+Date:    Signed   Judith AJC Gleeson
+         Upper Tribunal Judge Gleeson

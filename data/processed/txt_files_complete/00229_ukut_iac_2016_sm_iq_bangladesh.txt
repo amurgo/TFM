@@ -1,0 +1,2829 @@
+
+[pic]
+
+Upper Tribunal
+                                            (Immigration and Asylum Chamber)
+
+SM and Qadir v Secretary of State for the Home Department (ETS - Evidence -
+Burden of Proof) [2016] UKUT 00229 (IAC)
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House, London                  |Decision Promulgated         |
+|On 05 and 08  February and                    |                             |
+|03, 04 and 07 March 2016                      |.............................|
+|                                              |....                         |
+|                                              |                             |
+
+                                   Before
+
+                  The Hon. Mr Justice McCloskey, President
+                      Deputy Upper Tribunal Judge Saini
+
+
+                                   Between
+
+                             SM and Ihsan Qadir
+                                                                  Appellants
+                                     and
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+Representation:
+
+First  Appellant:   Mr  M  Biggs,  of  counsel,  instructed   by   Universal
+                  Solicitors
+Second Appellant: Mr Z Malik, of counsel, instructed by AWS Solicitors
+Respondent:   Mr R Dunlop, of counsel, instructed by  the  Government  Legal
+                  Department
+
+
+     i) The Secretary  of  State's  generic  evidence,  combined  with  her
+        evidence particular to these two appellants, sufficed to  discharge
+        the evidential burden of proving that their TOEIC certificates  had
+        been procured by dishonesty.
+
+    ii) However, given the  multiple  frailties  from  which  this  generic
+        evidence was considered to suffer and, in the light of the evidence
+        adduced by  the  appellants,  the  Secretary  of  State  failed  to
+        discharge the legal burden of proving dishonesty on their part.
+
+
+Glossary of Terms
+
+Mindful of the proliferation of jargon and acronyms in the sphere  to  which
+these appeals belong, we preface  our  judgment  with  the  following  short
+glossary:
+
+"ACCA":           Association of Chartered Certified Accountants
+
+"CCL":            Central College of London
+
+"ETS":                            "Educational   Testing   Services",    the
+                  international entity which provided the Home  Office  with
+                  services relating  to  English  language  testing  in  the
+                  United Kingdom.
+
+"False positive": An incorrect finding that a TOEIC testing student  cheated
+                  in some unspecified way.
+
+"False negative": An incorrect finding that a TOEIC student  did  not  cheat
+                  in the testing.
+
+"GCID":           General Case Information Database
+
+"IELTS":          International English Language  Testing  System",  one  of
+                  the recognised  English  language  qualifications  in  the
+                  Immigration Control system.
+
+"Invalid":             The ETS assessment  of  TOEIC  testing  scores  which
+must be rejected.
+
+ "LSBF":          London School of Business and Finance
+
+"Questionable":    The  ETS  assessment  of  TOEIC  scores  which  must   be
+                  considered doubtful.
+
+"SELT":           Secure English Language Test
+
+"TOEIC":          Test of English for International Communication
+
+"TOEFL":          Test of English as a Foreign Language
+
+"UKBA":           The United Kingdom Borders Agency.
+
+"UKVI":           UK Visas and Immigration
+
+
+
+
+                       DECISION
+
+Introduction
+
+ 1. These appeals belong to the relatively substantial cohort of  so-called
+    "ETS/TOEIC" cases. In each case the Secretary of  State  for  the  Home
+    Department (the "Secretary of State") has made  a  decision  cancelling
+    the Appellants' leave to remain in the United  Kingdom  on  the  ground
+    that they secured an English  language  qualification,  recorded  in  a
+    "TOEIC" certificate, by fraud. Each Appellant appealed, unsuccessfully,
+    to  the  First-tier  Tribunal  (the  "FtT"),   whose   decisions   were
+    subsequently set aside by this Tribunal as erroneous  in  law.  In  the
+    case of the Appellant SM, the error of law identified was, in  essence,
+    a  disproportionate  reliance  on  the  Secretary  of  State's  generic
+    evidence without dealing adequately with the Appellant's evidence and a
+    lack of adequate reasons. In the case of the Appellant  Mr  Qadir,  the
+    FtT was held to have erred in law on the issue of burden of  proof.  It
+    now falls to this Tribunal to remake the decisions of the FtT.
+
+ETS/TOEIC Cases Generally
+
+ 2. The general background of this  particular  sphere  of  litigation  was
+    explained in R (Gazi) v Secretary of State for the Home Department (ETS
+    - judicial review) (IJR) [2015] UKUT 327 (IAC)  at [1] in these terms:
+
+         "The  litigation  context  in  which  this  challenge  unfolds   is
+         conveniently identified in an earlier decision of this Tribunal,  R
+         (Mahmood) v Secretary of State for the Home Department [2014]  UKUT
+         439 (IAC), at [1]:
+
+
+             "This is another of the currently plentiful crop of soi-disant
+             "ETS" judicial review cases. These have gained  much  currency
+             during recent months, stimulated by action taken on behalf  of
+             the Secretary of State for the Home Department ("the Secretary
+             of State"), the Respondent herein, in  the  wake  of  the  BBC
+             "Panorama" programme broadcast  on  10  February  2014.  "ETS"
+             denotes  Educational  Testing  Services,   a   global   agency
+             contracted  to  provide  certain   educational   testing   and
+             assessment services to the Secretary of  State.  In  order  to
+             secure leave to remain in the United Kingdom, by virtue of the
+             relevant provisions of the Immigration Rules it was  incumbent
+             on the Applicant to provide evidence that he  had  obtained  a
+             specified type of English language qualification.  The  action
+             taken on behalf of the Secretary of State, which the Applicant
+             challenges by these proceedings, was based  on  an  assessment
+             that the English language certificate on which he  relied  had
+             been procured by deception."
+
+
+         "The decision in Mahmood was promulgated in September 2014. At  the
+         outset, it is convenient to be aware that the  vocabulary  in  this
+         sphere includes in particular the following:-
+
+         "TOEIC":  this  denotes  "Test   of   English   for   International
+         Communication".
+         "ETS": this denotes the entity Educational Testing Service Limited,
+         one of the  Home  Office  suppliers  of  "secure  English  language
+         testing".
+
+ 3. The "broader landscape" was outlined, at [45], as follows:
+
+
+         "Some of  the  decisions  in  the  broad  ETS/TOEIC  category  have
+         generated a right of appeal to the First-tier Tribunal ("FtT"),  in
+         country. This has occurred typically in  cases  where  the  student
+         concerned has been challenged at port upon returning to the  United
+         Kingdom from, for example,  a  visit  to  the  country  of  origin,
+         followed by an in-country appealable decision of the  Secretary  of
+         State. Others have generated a right of appeal exercisable only out
+         of country (as in the present case). Other cases,  believed  to  be
+         the majority, have generated  judicial  review  challenges,  as  in
+         Mahmood and the present case. Thus there is a slowly expanding body
+         of case law in this sphere. In all of these cases, the Secretary of
+         State has relied on evidence of a generic kind.  This  consists  of
+         the witness statements of Rebecca Collings  and  Peter  Millington,
+         both dated 23 June 2014. The statements of these two witnesses have
+         neither evolved nor altered since then. In some cases,  as  in  the
+         present one, these statements are supplemented by a further witness
+         statement of another Home Office official."
+
+
+    The "evolving landscape", noted in [47], has continued to develop.
+
+
+ 4. Notably in Gazi, there was some emphasis on judicial  review  providing
+    an inadequate forum for the determination of legal challenges  of  this
+    species,  to  be  contrasted  with  the  several  advantages  of   such
+    challenges unfolding within the statutory appeals  framework.   See  in
+    particular [36]:
+
+
+         "At this juncture  it  is  convenient  to  consider  the  issue  of
+         alternative remedy, given the inextricable nexus between this issue
+         and the Applicant's first ground of challenge. In my  judgment  the
+         substance and contours of the  Applicant's  improper  purpose  case
+         confirm that an appeal to the FtT, pursued out  of  country,  is  a
+         demonstrably superior mechanism for this species of challenge  than
+         an application for judicial review which, as  has  been  repeatedly
+         observed, invokes a judicial supervisory jurisdiction and is not an
+         appellate  process.  The  presentation  of  the  Applicant's   case
+         involved a detailed,  forensic  examination  of  the  Secretary  of
+         State's evidence, coupled with a lengthy  exposition  of  the  main
+         issues raised in the expert report of Dr Harrison.  I  consider  it
+         appropriate to highlight what this judicial review hearing  lacked:
+         there was no examination in  chief  or  cross  examination  of  the
+         Applicant or any witness on his behalf;  nor  was  there  any  live
+         evidence from any witness on behalf of the Secretary of State;  and
+         there was no examination  in  chief  or  cross  examination  of  Dr
+         Harrison or any other expert witness. All of these missing  factors
+         arise in a litigation context in which the bona fides and character
+         of the Applicant  are  important  issues.  However,  there  was  no
+         opportunity to evaluate the Applicant's demeanour or to assess  his
+         performance under cross examination."
+
+ 5. This area of litigation is nothing if not organic, as  is  demonstrated
+    by the growing body of jurisprudence.  In July 2015 the Court of Appeal
+    promulgated two decisions: R (Mehmood and Ali) v Secretary of State for
+    the Home Department [2015] EWCA Civ 744 and R  (Sood)  v  Secretary  of
+    State for the Home Department [2015] EWCA Civ 831.  The  next  landmark
+    occurred in the several decisions of this  Tribunal  made  in  December
+    2015: R (Jakhu) v Secretary of State  for  the  Home  Department  (ETS:
+    legitimate expectations)  (IJR)  [2015]  UKUT  693  and  R  (Roohi  and
+    Another) v Secretary of State for the Home Department (2014 Act:  saved
+    appeal rights) (IJR) [2015] UKUT 685.
+
+ 6. The present appeals are the first of several heralding a new  phase  in
+    Upper Tribunal litigation in this field. They are said to  raise  fresh
+    issues,  not  previously  the  subject  of  judicial  consideration  or
+    determination. In particular, litigants  are  now  concentrating  their
+    attentions on (in summary) the strength and quality of the Secretary of
+    State's evidence, the exacting burden  of  proving  deception  and  the
+    range of evidence which can be adduced by litigants  in  aid  of  their
+    cause.
+
+The Appellants' Cases
+
+ 7. Reduced to their main  essentials,  the  Appellants'  cases  have  four
+    components. First, it is contended that the  evidence  upon  which  the
+    Secretary of State's decision was taken is  insufficient  to  discharge
+    the burden of establishing that either Appellant engaged  in  deception
+    in the matter of his TOEIC Certificate.  Second, the Appellants rely on
+    their own evidence, central to which is the claim that they  have  been
+    proficient in the English language  for  some  considerable  time,  are
+    persons of good character and had no need or incentive to cheat.   They
+    also rely on their evidence relating to how they say  the  testing  was
+    undertaken by them and the surrounding circumstances.  In addition, the
+    Appellants pray in aid the evidence of  two  witnesses  in  particular.
+    The first is Dr Harrison, an expert in voice recognition, whose  report
+    was considered  in  Gazi.   The  second  is  Richard  Watson,  the  BBC
+    investigative journalist who was involved in the production of the  now
+    infamous "Panorama" programme broadcast on 10 February 2014.
+
+The Secretary of State's Evidence
+
+8.   In order to succeed in these appeals the onus rests  on  the  Secretary
+    of State to prove that both Appellants  were  guilty  of  deception  in
+    procuring  their  respective  TOEIC  Certificates.  Appropriately,  the
+    evidence on behalf of the Secretary of State was adduced  first.   This
+    is reflected in the framework of this judgment.
+
+9.   We record that on behalf of the Secretary of State  a  heavily  delayed
+    application was made at the beginning  of  the  five  day  hearing  for
+    permission to adduce certain further evidence. In a preliminary  ruling
+    (see Appendix 1), the Tribunal acceded to this in part.   When  two  of
+    the five days of hearing had been completed, a further application  was
+    made on behalf of the Secretary of State.  The gist of this application
+    was that directions were sought from  the  Tribunal  to  accommodate  a
+    desire to engage an expert witness.  For the reasons rehearsed  in  its
+    second ruling the Tribunal refused this application (see  Appendix  2).
+
+
+
+10.  The evidence adduced on behalf of the Secretary of State consisted  of,
+    firstly, certain documentary evidence. We summarise this thus:
+
+      a) The computerised spreadsheet entries  derived  from  the  "Look  up
+         Tool" relating to the two Appellants, with accompanying explanatory
+         witness statement.
+
+
+      b) An "Explanation of IELTS Scoring" document.
+
+      c) Evidence relating to SELT  Centres  in  Leeds  in  January/February
+         2012.
+
+      d) Mr Qadir's interview record.
+
+      e) Certain  bank  statements  relating  to  an  account  held  by  the
+         Appellant SM.
+
+      f) A document certifying  SM's  attendance  at  a  college  ("Kaplan")
+         between August and September 2006.
+
+
+      g) A UKVI letter relating to the  revocation  of  the  Tier  2  and  4
+         licence held by the London School of Business and Finance ("LSBF").
+
+
+
+
+      h) A letter relating to the revocation of the sponsor licence  of  the
+         Central College of London ("CCL").
+
+      i) Certain UKVI "GCID" case records pertaining to the Appellant SM.
+
+11.  Some of the above documents were  produced  piecemeal  as  the  hearing
+    progressed.  The further evidence adduced in this way  included  slides
+    originating from an international workshop in  human  assisted  speaker
+    recognition held in 2010, organised by the USA  National  Institute  of
+    Standards and Technology.
+
+12.  Mr Green, a Home Office employee, gave  written  evidence  relating  to
+    the two spreadsheet computer printouts purporting to record the outcome
+    of the ETS testing of the voice samples purporting to relate to the two
+    Appellants.  He  did  not  have  the  expertise  or  qualifications  to
+    elaborate on these two brief documents. On the face  of  the  documents
+    ETS devised a dichotomy of  "invalid"  and  "questionable"  TOEIC  test
+    results.  The Home Office, in turn, has developed a system whereby upon
+    receipt of the ETS testing analysis outcomes these are matched  to  the
+    person who  has  the  name,  date  of  birth  and  nationality  of  the
+    certificate holder. This is known as the "Lookup Tool". Mr Green  added
+    that some 200,000 student  visas  are  issued  in  the  United  Kingdom
+    annually.  There are 1,700 Government approved colleges, of which 1,300
+    have the kitemark of "highly trusted".   ETS  is  one  of  the  largest
+    English testing organisations in the world, assessing some  50  million
+    tests per annum.  Pursuant to the  mechanisms  noted  above,  the  Home
+    Office has made decisions that  TOEIC  certificates  were  procured  by
+    fraud in some 33,000 cases.
+
+13.  The evidence adduced on behalf of the Secretary of State was  completed
+    by the witness statements and oral testimony of  Rebecca  Collings  and
+    Peter Milllington.  As all who have any familiarity with this sphere of
+    litigation know,  the  evidence  of  these  two  witnesses,  in  purely
+    documentary form, has been adduced on behalf of the Secretary of  State
+    in a substantial number  of  "ETS/TOEIC"  cases  (possibly  all),  both
+    statutory appeals (mainly) and judicial review challenges  (see  Gazi).
+    One of the landmark features of the hearing of these appeals  was  that
+    this was the first occasion upon which these two witnesses  have  given
+    viva voce evidence.  They had not previously  been  cross  examined  or
+    judicially questioned on the contents of their  witness  statements  in
+    any other case.  Their two witness statements have become known as  the
+    Secretary of State's "generic  evidence",  rolled  out  in  every  case
+    belonging to this cohort.
+
+Ms Collings
+
+14.  A synopsis of Ms Collings' witness statement is contained in  Gazi,  at
+    [6] - [8].  It is convenient to reproduce this here:
+
+           "[6]   The generic witness statement of Ms Collings is  made  in
+                 the context of a regulatory  era  wherein  the  Immigration
+                 Rules and/or Home Office policies require large numbers  of
+                 immigrants to demonstrate English language competence to  a
+                 certain standard and via prescribed  mechanisms.   The  ETS
+                 entity is one of a small number of Home Office suppliers of
+                 so-called "Secure English Language  Testing"  ("SELT")  and
+                 was appointed in 2011  following  a  procurement  exercise.
+                 ETS  notifies  those  examined  of  their   grades   by   a
+                 certificate.  It operates test centres where the  requisite
+                 examination   is   undertaken.    The   Home   Office   has
+                 consistently been alert  to  the  risk  of  fraud  in  this
+                 sphere.
+
+
+           [7]    The Home Office  was  first  alerted  to  "the  potential
+                 issues with testing at ETS" upon receipt of a letter  dated
+                 06 January 2014 from the BBC.  The makers of the "Panorama"
+                 programme claimed to have uncovered evidence of fraud which
+                 included  the  active  collusion   and   participation   of
+                 employees at  the  ETS  test  centres.   The  investigation
+                 focused on two specific  centres.  One  of  these  is  Eden
+                 International College, where the  Applicant  underwent  his
+                 test. On 06 February 2014 the Home  Office  made  a  public
+                 announcement that ETS testing in  the  United  Kingdom  was
+                 being suspended.  At this  stage  ETS  had  been  operating
+                 tests for  almost  three  years.   The  Panorama  programme
+                 followed,  on  10  February  2014.   The  contents  of  the
+                 programme convinced the Home Office that there had been  "a
+                 serious breach of the licence and of use of the immigration
+                 system".  In particular:
+
+
+                       ".....  In relation to ETS test centres,  individuals
+                       were able to pay to pass the English  language  test.
+                       Proxy test  takers  were  seen  taking  the  speaking
+                       element of the test and answers were  seen  read  out
+                       from  the  front  of  a  class  supposedly  taking  a
+                       multiple choice element of the test."
+
+
+                 Immediately thereafter, ETS interacted with the Home Office
+                 in the provision of unspecified "data, trend  analysis  and
+                 other evidence".  Next, in late March 2014, the Home Office
+                 was informed by ETS -
+
+
+                       "...  that it had been able to identify impersonation
+                       and proxy testing using voice  recognition  software.
+                       Early analysis demonstrated evidence of cheating, but
+                       ETS confirmed that it would  take  time  to  complete
+                       analysis for all tests taken since the licence  began
+                       in April 2011 ...
+
+
+                 ETS sent the Home Office the results of the analysis of the
+                 first batch of test centres on 24 and 28 March 2014."
+
+
+                 Ms Collings averments continue:
+
+
+                       "Following the provision of this data the Home Office
+                       had a teleconference with ETS  on  01  April  [2014].
+                       The discussion focused on the  first  batch  of  test
+                       analysis.  ETS described that any test categorised as
+                       cancelled (which later became known as  invalid)  had
+                       the  same  voice  for  multiple  test   takers.    On
+                       questioning they advised that they were certain there
+                       was evidence of proxy test taking of impersonation in
+                       those cases."
+
+
+                 [Emphasis supplied.]
+
+                 It is agreed that the Applicant's  case  is  one  of  those
+                 belonging to this initial tranche.
+
+
+           [8]    Continuing, Ms Collings explains  that  ETS  devised  two
+                 categories, namely "invalid" and "questionable".  All  were
+                 subject to the same  sanction:  cancellation  of  the  test
+                 certificate.  At this, the initial, stage some 10,000  test
+                 scores had been analysed by ETS.   The  majority  of  these
+                 were cancelled as invalid, while the others were  cancelled
+                 as questionable.
+
+
+                 The rationale of the ensuing decisions made  under  section
+                 10 of the 1999 Act is explained thus:
+
+
+                       "We recognised that where ETS had  cancelled  a  test
+                       score because of impersonation and proxy test  taking
+                       that test score had been obtained by  deception.   We
+                       further recognised that persons in that position  who
+                       then used that test score had sought to obtain  leave
+                       by deception."
+
+
+          Ms Collings also makes the following claim:
+
+
+                       "Where the details of the  certificate  on  the  Home
+                       Office file matched those provided in the  data  from
+                       ETS  as   an   invalid   result,   we   undertook   a
+                       consideration of all relevant factors (including  for
+                       example possible human rights  grounds)  which  might
+                       mean that removal was not appropriate.  Where no such
+                       circumstances existed, we took a decision  to  remove
+                       the applicant ....  under section 10(1)(b) ...."
+
+
+                 It is far from clear  whether  this  exercise  entailed  an
+                 examination of each  case  individually.  The  averment  is
+                 opaque.  As  the  deponent  notes,  upon  service  of  such
+                 decisions section 10(8) operates to invalidate the leave to
+                 enter or remain previously granted to the person concerned.
+                 While such decisions generate a right of  appeal,  this  is
+                 exercisable from abroad only."
+
+15. In evidence Ms Collings adopted her witness statement. Her evidence was
+    augmented in cross examination and in  response  to  certain  questions
+    from the panel.  She explained that a Home Office delegation  travelled
+    to the ETS Headquarters in the United States in June 2014. Ms  Collings
+    was not a member. This was considered necessary in order to  understand
+    better the ETS voice testing processes. The  first  batch  of  the  ETS
+    analysis results had been received by 28 March 2014, at which stage  it
+    was acknowledged that further scientific analysis would  be  necessary.
+    This would entail the use of voice recognition  software.   During  the
+    period January to  March  2014  there  were  frequent  Home  Office/ETS
+    communications, usually by the medium of teleconference,  resulting  in
+    agreed notes of the discussions.  None of these has been provided.  Nor
+    did Ms Collings bring to the hearing any  of  the  emails  and  letters
+    identified in, but not attached to, her witness statement.  We  observe
+    that this is not harmonious with elementary  good  litigation  practice
+    and is in breach of every litigant's duty of candour owed to the  court
+    or tribunal: see  R  (Mahmood)  v  Secretary  of  State  for  the  Home
+    Department (Candour/Reassessment of Duties;  ETS:  Alternative  Remedy)
+    IJR [2014] UKUT 00439 (IAC), at [24] especially.
+
+16. At this point it is convenient to identify the  categorisation  devised
+    and applied by ETS in its review of the batches of test  results  under
+    scrutiny:
+
+    (i)  Invalid.
+
+
+    ii) Questionable.
+
+
+    In her evidence, Ms Collings disclosed that the Home  Office  (and  not
+    ETS) operated a third class, constituted by students whose test results
+    were categorised neither invalid nor questionable  (by  ETS)  but  were
+    considered illegitimate by the Home Office on the sole ground that such
+    students had taken their test  at  a  centre  where  large  numbers  of
+    invalid and questionable results had been diagnosed.  The existence  of
+    this further, third category had not  been  disclosed  in  the  witness
+    statements of either Ms Collings or the  other  principal  Home  Office
+    witness, Mr Millington (infra).  It emerged for the first  time  in  Ms
+    Collings'  evidence.   There  was  a  vague  suggestion,  without   any
+    supporting evidence (such as figures) whatsoever, that some students in
+    the "questionable" category were offered the opportunity to undergo the
+    test a second time.
+
+
+17.  Ms Collings confirmed that while the Panorama  programme  provided  the
+    impetus for the extensive Home  Office/ETS  interaction  from  February
+    2014, the Home Office had previously  expressed  to  ETS  its  concerns
+    about the apparently high numbers of top score  results  emerging  from
+    certain TOEIC testing centres.  ETS was deputed to investigate this and
+    duly reported that no cheating was taking place. However, the  Panorama
+    documentary which focused on two TOEIC test centres (Eden  College  and
+    Universal Training Centre), establish that 11 students who had achieved
+    full marks took their tests at  these  centres.  Ms  Collings  did  not
+    challenge the suggestion that this reflected adversely on ETS.
+
+18.  Ms Collings was unable to specify with precision the  date  upon  which
+    the Home Office and ETS agreed that  a  process  of  voice  recognition
+    analysis should be undertaken. As the results of this  analysis  became
+    available, the Home Office relied on them and in all cases in which ETS
+    made an "invalid" designation action  was  taken  against  the  student
+    concerned, subject only to consideration of whether  there  were  human
+    rights grounds militating against removal of the person concerned  from
+    the United Kingdom.  Based on  the  information  provided  by  ETS,  Ms
+    Collings and  her  Home  Office  colleagues  considered  it  "extremely
+    likely" that cheating had taken place. She was unable to  instance  any
+    student with an "invalid" result  against  whom  action  had  not  been
+    taken. Ms Collings agreed that certain shadows have been cast over  the
+    reliability of the ETS testing methods. These  included  in  particular
+    her evidence relating to  concerns  emerging  in  May  2013  (i.e.  the
+    previous year) about the ETS  verification  of  suspect  "top  scores".
+    Furthermore, a number of these suspect scores had been obtained at  the
+    two test centres involved in the Panorama broadcast.
+
+19.   Questioning  readily  identified  the  limitations  of  Ms   Collings'
+    evidence. She professes no expertise or qualifications relating to  the
+    quintessentially scientific subject  matter.   She  is  a  graduate  in
+    European and Urban Regional Studies.  She had no  involvement  in  this
+    saga until mid-January 2014.  Her direct involvement terminated  around
+    June 2014.  Her evidence was not supported by any of the records  which
+    evidently exist (supra).  It  is  evident  that  she  and  Home  Office
+    colleagues were entirely dependent on what was relayed to them by  ETS.
+    We shall comment on this infra.
+
+Mr Millington
+
+20.  The decision in Gazi  contains,  at  [9]  -  [15],  a  synopsis  of  Mr
+    Millington's witness statement, which we reproduce at this juncture:
+
+           "[9]   The second  generic  witness  statement  is  that  of  Mr
+                 Millington. This discloses that his rank  within  the  Home
+                 Office  is  that  of  Assistant  Director,   with   current
+                 responsibility  for  the  network  of  "Sponsor  Compliance
+                 Officers" in certain parts of the United  Kingdom.  He  had
+                 previously directed the unit  which  processed  in  country
+                 Tier 4 student applications.  This confirms that there  was
+                 a first phase, which dated from February to June  2014.  At
+                 this juncture, it is appropriate to  highlight  the  single
+                 piece of documentary evidence relating to the  decision  in
+                 the  Applicant's  case  which  has  been  produced  by  the
+                 Secretary of State.  It consists of a  photocopied  excerpt
+                 from a spreadsheet taking the form  of  a  horizontal  line
+                 containing six pieces of information: the "ETS Registration
+                 ID", the Applicant's first and last names, the  test  date,
+                 the Applicant's date of birth and  the  name  of  the  test
+                 centre.  Neither the word "invalid"  or  "cancellation"  or
+                 any derivative of either appears.
+
+
+           [10]   The active enquiries and  other  steps  described  by  Mr
+                 Millington in his statement did not begin until June  2014,
+                 at which stage, accompanied by a government solicitor and a
+                 colleague, a visit was made to ETS headquarters in the USA.
+                  ETS is described as  "the  world's  largest  private  non-
+                 profit educational testing  and  assessment  organisation",
+                 administering approximately 50 million  tests  annually  in
+                 25,000 test centres in 192 countries.   Its  systems  allow
+                 for the scoring of around 64,000 tests daily.  It is  also,
+                 supposedly, a "world leader in respect of fraud  prevention
+                 and detection".  ETS receives, and stores,  the  electronic
+                 files relating to the spoken and written responses of  each
+                 student.  Random marking of individual files is  undertaken
+                 by multiple accredited "markers".  The analysis  of  speech
+                 recordings is one of the anti-fraud measures which ETS  has
+                 developed  during   recent   years.    Conscious   of   the
+                 limitations attendant upon these measures, ETS  had,  prior
+                 to the Panorama programme, begun testing and developing so-
+                 called "biometric voice  recognition".   The  mechanics  of
+                 this are described in these terms:
+
+
+                       "The basic  technology  extracts  biometric  features
+                       from an individual's speech to generate  voice  print
+                       (the voice equivalent of a finger print).  This voice
+                       print can then be run against  samples  to  establish
+                       whether the sample is likely a recording of the  same
+                       person  who  had  generated  the  voice  print  or  a
+                       different person."
+
+
+              It is  claimed  that  in  2011  ETS  procured  the  necessary
+                 software from a provider which  had  successfully  operated
+                 this technology in other sectors.  No  particulars  of  the
+                 provider, software or the arrangement, have been  disclosed
+                 due to a confidentiality agreement.
+
+
+           [11]   ETS claims (per Mr Millington)  that  technology  testing
+                 undertaken in 2012/13 entailed over 70,000 pairings of non-
+                 matching comparisons.  This was a pilot testing scheme and:
+
+
+                       "The  results  ....   were  that   matching   samples
+                       produced values that were higher than values from the
+                       non-matching samples the majority of the time, with a
+                       less than 2% error rate ....
+
+
+                       ETS  accepted  that  voice  biometric  technology  is
+                       currently imperfect ...   too  many  false  positives
+                       would fatally undermine the integrity  of  the  voice
+                       biometric system ...."
+
+
+                 As a result, it  is  claimed  that  the  "thresholds"  were
+                 reformulated conservatively, with a consequential reduction
+                 in "the probability of false positives".  The trial of  the
+                 technology  was  considered  to  have   been   "successful"
+                 prompting a decision to extend its use to the TOEIC  arena.
+                 Making due  allowance  for  the  opacity  of  some  of  the
+                 averments which follow in the  witness  statement,  neither
+                 the  date  of  this  decision   nor   the   date   of   its
+                 implementation is disclosed.  It appears, however, that the
+                 Panorama programme was  the  stimulus  for  implementation,
+                 notwithstanding that ETS "...  had not  originally  planned
+                 to roll out its voice biometric technology on TOEIC at that
+                 point or to use it as a retrospective fraud  identification
+                 tool ...."  The precise particulars of the decision said to
+                 have been taken in the wake of the Panorama  programme  are
+                 unclear.
+
+
+           [12]   At this stage, comprehension of the terminology  used  is
+                 essential.  The "electronic files" are those which  contain
+                 each person's spoken responses made during  the  course  of
+                 the  test.   For  the  purpose  of  the   biometric   voice
+                 recognition exercise:
+
+
+                       "The electronic files generated at the testing  stage
+                       required  a  two  step   audio   conversion   process
+                       ..........."
+
+                 It appears that through this conversion they  mutated  into
+                 "audio files".  Continuing, Mr Millington explains that the
+                 "Office of Testing Integrity" ("OTI"), an internal division
+                 of ETS, were -
+
+
+                       "....  provided with electronic files  and  for  each
+                       test taken identified the six audio files which  were
+                       most appropriate for comparison."
+
+                 The most appropriate files were considered to be  "usually"
+                 the   largest/longest;   those   providing   the   clearest
+                 responses; or those where all test takers were required  to
+                 read a set text.  As regards the mechanics of what occurred
+                 thereafter:
+
+
+                       "Tests from a test centre were batched into groups of
+                       300 - 400 test takers ...
+
+
+                       These audio files were then  run  through  the  voice
+                       biometrics   engine.    Each   batch    would    take
+                       approximately two hours to process.  The engine would
+                       compare each test to all other tests  in  that  batch
+                       and flag all suspicious results (those  that  were  a
+                       'match') in  line  with  the  probability  thresholds
+                       discussed above.  The  output  would  be  a  list  of
+                       flagged cases ranked in  order  of  the  most  likely
+                       match through to least likely."
+
+
+                 These averments conjure up the image of a sliding scale, to
+                 be  contrasted  with  the  dichotomy   of   "invalid"   and
+                 "questionable" described in Ms Collings' witness statement.
+
+
+           [13]   During the visit of Mr Millington and his colleagues, the
+                 briefing which they received included the following:
+
+
+                       "They [ETS] acknowledged  that  the  technology  they
+                       used  was  imperfect  and  that  samples   could   be
+                       incorrectly   flagged   as   matches   (i.e.    false
+                       positives).  This could occur due  to  noise  in  the
+                       background of a recording (e.g. an  air  conditioning
+                       system) or the detection  of  another  noise  in  the
+                       background which matches another test taker (although
+                       ETS notes that test takers should not be  sitting  so
+                       close to one another  that  they  can  overhear  each
+                       other's responses)."
+
+
+                 In recognition of the risk  of  "false  positives",  it  is
+                 claimed that ETS ".... subjected each flagged  match  to  a
+                 further human verification  process".   This  required  the
+                 recruitment of additional staff who, it is  said,  received
+                 "mandatory training in voice recognition analysis" and were
+                 "initially mentored by experienced OTI analysts".   Neither
+                 the date when this recruitment was undertaken nor the  date
+                 when it was completed is disclosed.  Equally, there  is  no
+                 disclosure of  the  period  during  which  the  supervision
+                 endured.   It  is  acknowledged  that  various  numbers  of
+                 redeployed staff were discarded "because they did not  have
+                 the necessary aptitude for the task".  Having  engaged  the
+                 necessary number of analysts, the process operated was that
+                 each  "flagged  comparison"  would  be  considered  by  two
+                 analysts separately.   Each  analyst  would  then  form  an
+                 opinion.  The purpose of  the  exercise  was  to  establish
+                 whether, in both analysts' opinion, the samples constituted
+                 a "match", having been thus designated  by  the  "biometric
+                 engine" initially. It would appear that  this  verification
+                 exercise is a purely human one.
+
+
+           [14]    Mr  Millington  then  describes  certain  demonstrations
+                 provided by ETS.  Neither the duration of this exercise nor
+                 the number of individual cases considered is disclosed.  He
+                 makes the following claim:
+
+
+                       "It was very clear to me, from the samples  I  heard,
+                       that those samples were of the same person  speaking.
+                       I  was  able  to  compare  tone,   accent   and   the
+                       distinctive and instinctive expressions used to  fill
+                       hesitations in speech."
+
+
+                 One observes, inevitably, that  this  description  of  what
+                 actually occurred is lean in detail and, further, as  noted
+                 above,  Mr  Millington  can  lay  claim  to   no   relevant
+                 credentials or expertise in the field of voice recognition.
+                  The same observations apply to his ensuing averments  that
+                 non-verified matches were "confidently"  identified  by  Mr
+                 Millington and his  colleagues.   There  is  a  discernible
+                 element of bombast in these claims.
+
+
+           [15]   The novel and evolving (if not embryonic) nature  of  the
+                 voice  biometric  technology  emerges  strikingly  in   the
+                 following averments of Mr Millington:
+
+
+                       "During the demonstration, the senior analyst advised
+                       that the OTI were constantly updating their  guidance
+                       and sharing information to ensure that analysts could
+                       hone their skills.   For  example,  they  shared  the
+                       distinctive use of  particular  idioms,  verbal  tics
+                       and/or answers being structured in exactly  the  same
+                       way between test takers.  We were also advised  that,
+                       in  order  to  maintain   accuracy,   analysts   were
+                       encouraged to take regular breaks  and  every  effort
+                       was taken to avoid an analyst dealing with  the  same
+                       testing centre or the same questions repetitively."
+
+
+          [My emphasis.]
+
+
+               There  is  an  unmistakable  self-serving  element  in   the
+               averments which follow:
+
+
+                       "ETS statistics bear out the  underlying  reliability
+                       of the voice biometrics technology.  Of  over  33,000
+                       possible matches identified by the  system  80%  were
+                       confirmed  after  human  verification.   As   already
+                       discussed, many of these 'non-verified matches' would
+                       have been because of the presence  of  noise  in  the
+                       background of  recordings.   The  analysts  adopt  an
+                       approach whereby any doubt about the  validity  of  a
+                       match  will  result  in  it  being  rejected.  I   am
+                       confident this mitigates  significantly  against  the
+                       risk of a false positive."
+
+
+               [Emphasis added.]
+
+
+               Given the terms in which Mr Millington's  ensuing  averments
+               are  framed,   they   invite   reproduction,   rather   than
+               paraphrase:
+
+
+                       "ETS have identified thousands of cases where  speech
+                       samples display marked similarities, leading  OTI  to
+                       believe an imposter was involved and  in  such  cases
+                       scores will be cancelled. Within the  tests  analysed
+                       the OTI  has  identified  many  instances  where  the
+                       speech sample indicates the same individual has taken
+                       tests in place of numerous candidates.  Where a match
+                       has been identified their approach is  to  invalidate
+                       the test result ...  ETS has informed the Home Office
+                       that  there  was  evidence  of  invalidity  in  those
+                       cases."
+
+
+               The  dichotomy  of  "invalidity"   and   "irregularity"   is
+               identifiable in the immediately ensuing averments:
+
+
+                       "Where a match has not been identified and  verified,
+                       an individual's test result may still be  invalidated
+                       on the  basis  of  test  administration  irregularity
+                       including the fact that their test was taken at a  UK
+                       testing centre where numerous other results have been
+                       invalidated on the basis  of  a  'match'.   In  those
+                       cases the individual would usually be invited to take
+                       a   free   re-test.    These   cases   are    clearly
+                       distinguished by ETS in its spreadsheets provided  to
+                       the Home Office from tests where there is substantial
+                       evidence of invalidity."
+
+
+           No exhibited illustration of this distinction, even in  redacted
+           form, is provided.  Finally, it is  clear  from  the  concluding
+           averments in Mr Millington's witness  statement  that  the  Home
+           Office invariably accepts the deception assessment  provided  by
+           ETS , without more."
+
+21. Mr Millington was a member of the Home Office delegation which met with
+    ETS representatives in the United States in June  2014.   He  confirmed
+    that this was the only event of its kind.  He explained that he was not
+    a first choice member of the  Home  Office  delegation  to  the  United
+    States.  He was enlisted only because of the unavailability of  others.
+    The delegation did not include any voice recognition expert or, indeed,
+    any scientist.  Mr Millington was accompanied by two colleagues  and  a
+    solicitor.  The judicial review challenge in the case of  Gazi  (supra)
+    was the impetus for this excursion.   The  information  obtained,  duly
+    reproduced in Mr Millington's and Ms Collings' witness statements,  was
+    provided in the course of a single day during interaction with some six
+    ETS representatives.
+
+
+22. This exercise did not entail the  provision  or  consideration  of  any
+    voice recordings. Mr Millington testified that  to  his  knowledge  the
+    Home Office  has  at  no  time  requested  ETS  to  provide  the  voice
+    recordings in respect of any individual.  Nor, he added, has  the  Home
+    Office ever asked for the software used by ETS. Mr Millington explained
+    that during the one day meeting in the United States,  ETS  made  clear
+    its unwillingness to disclose the software  on  the  ground  that  they
+    considered it "confidential".  We were informed mid-trial that ETS  had
+    communicated its unwillingness to provide any of the voice  recordings,
+    absent judicial compulsion to do so.
+
+23. In common with Ms Collings, Mr Millington professes no expertise in the
+    science of voice recognition.   He  is  a  graduate  in  geography  and
+    economics and obtained a post graduate diploma in human  resources  and
+    training.  He has no  experience,  much  less  any  expertise,  in  the
+    science of voice analysis and speech recognition.  He  became  involved
+    at around  the  time  of  the  Panorama  programme  by  reason  of  his
+    responsibilities in the Home Office response  and  compliance  network.
+    He readily acknowledged the expertise and credentials of Dr Harrison.
+
+24. Mr Millington indicated that the 2% error rate suggested in his witness
+    statement relates to false positive results only.   He  was  unable  to
+    elaborate on the "conservative thresholds" which ETS  claimed  to  have
+    established in its voice biometric testing system.   He  did  not  know
+    whether, as  this  testing  evolved,  the  number  of  false  positives
+    actually decreased.  He confirmed that  "invalid"  and  "questionable",
+    the  two  classifications  devised  by  ETS,  were  not  the  only  two
+    categories operated by  the  Home  Office.   Rather,  the  Home  Office
+    operated a  third category, constituted by students who did not  belong
+    to  either  of  the  other  categories  but  whose  test  results  were
+    considered illegitimate on the sole ground that they  emanated  from  a
+    testing centre where "numerous other results" belonging  to  the  other
+    two categories had been  ascertained.   (This  is  acknowledged  in  Mr
+    Millington's witness statement: see the  passage  quoted  in  [20]/(15)
+    above.)   Mr  Millington  was   unable   to   dilate   on   "numerous".
+    Furthermore, while  averring  that  persons  belonging  to  this  third
+    category were "usually" invited to undergo a fresh test, he was  unable
+    to elaborate on "usually".  Nor could he say what "substantial evidence
+    of invalidity", a term used in his witness statement, denotes.
+
+25. Mr Millington was unable to provide any evidence of the error rates  in
+    the ETS human verification process.  He did not  challenge  or  dissent
+    from any aspect of Dr Harrison's detailed critique.  He agreed that the
+    automated testing system employed by ETS could generate false  positive
+    results in up to 22.5% of cases.  He further agreed that this could  be
+    as high as 30% in the human verification analysis  process.   While  he
+    made these concessions with reluctance, it was manifestly clear that he
+    had nothing with which to counter Dr Harrison's analysis  and  opinion.
+    He  was  unable  to  provide  the  date  when  ETS   introduced   human
+    verification.  He agreed that "contaminants" included air  conditioning
+    in the test centre room, other human voices and other sources of noise,
+    inexhaustively.  Mr Millington  confirmed  that  ETS  reported  to  the
+    delegation that the 2%  false  positive  rate  which  it  was  claiming
+    related to the automatic voice  recognition  process  concerning  TOEFL
+    (not TOEIC) English language  tests.   He  was  unable  to  address  Dr
+    Harrison's observation that the comparability of the samples  used  for
+    the "proof of concept" testing and the TOEIC testing  was  undisclosed.
+    He could not provide any evidence relating to the security of  UK  test
+    centre voice recordings prior to transition to ETS.  The witness had no
+    involvement in the Home Office investigation of suspect test centres.
+
+
+26. Mr Millington's evidence confirmed that the actual false positive error
+    rate at the automated testing (i.e. first) stage is an incognito.   ETS
+    reported that at the human verification (i.e. second) stage 20% of  the
+    automated test results were rejected.  Subject to the  imponderable  of
+    the fallibility of the human verification results (my qualification) he
+    agreed that this could indicate a false positive error rate of  20%  at
+    the former stage.
+
+The Appellants' Case
+
+27. We begin our consideration of the evidence adduced  on  behalf  of  the
+    Appellants with the testimony of Dr Harrison, who  adopted  his  report
+    dated  05  February  2015  in  full  and  amplified  its  contents   in
+    questioning.   There  is  no  dispute  about   Dr   Harrison's   expert
+    credentials. He  is,  fundamentally,  an  acknowledged  expert  in  the
+    science of voice recognition. He describes this, in technical terms, as
+    the   "authentication,   enhancement,   transcription    and    speaker
+    comparison".   He  is  clearly  an  experienced  expert  witness.   The
+    decision of this Tribunal in Gazi contains, at [17] - [20], a pr�cis of
+    Dr Harrison's report which is conveniently reproduced at this juncture:
+
+
+
+
+           "[17].  The  report  of  Dr  Harrison  contains  a   series   of
+                 assessments,   commentaries   and   opinions   which    are
+                 susceptible to the following breakdown:
+
+
+                 (i)    In  criminal  proceedings  the  mechanism   commonly
+                       employed is  that  of  "forensic  speaker  comparison
+                       analysis" which he describes as generally  recognised
+                       and employed throughout much of western  Europe.   It
+                       involves:
+
+
+                  "Analysing different  aspects  of  the  voice  and  speech
+                       patterns found in a recording. The  profiles  of  the
+                       features that are found are then compared across  the
+                       recordings.   The  analysis  process  usually   takes
+                       between 10 and 15  hours  for  a  comparison  of  two
+                       samples."
+
+
+                   ii) The editing of audio files prior to  expert  analysis
+                       is standard practice.
+
+
+                  iii) Segmental analysis of speech samples is  carried  out
+                       in accordance with the methodology  approved  by  the
+                       International Phonetic Association and is designed to
+                       identify the "fine-grained nuances of speech".
+
+
+                   iv) The mechanics  of  analysing  voice  quality,  pitch,
+                       intonation,  rhythm  and  tempo  form  part  of   the
+                       exercise.
+
+
+                    v) In appropriate cases, it is also necessary to examine
+                       patterns of language  and  grammar  or  to  undertake
+                       acoustic-phonetic analysis or other  specified  forms
+                       of analysis.
+
+
+                   vi) Automatic speaker recognition systems have the  modus
+                       operandi  of  "[taking]  the   recorded   voices   of
+                       individuals,   [performing]   complex    mathematical
+                       operations on them and [reducing] them to statistical
+                       representations or models."
+
+
+                  vii)  "The  results  produced  by  automatic  systems  are
+                       numeric scores which reflect the degree of similarity
+                       between two samples - larger  numbers  reflect  great
+                       similarity and  smaller  numbers  reflect  a  greater
+                       dissimilarity between samples .....
+
+
+                  changing the threshold alters  the  errors  rates  of  the
+                       system since results from some pairs will change from
+                       a yes to a no or vice-versa .....  as  the  threshold
+                       increases the false  negative  error  rate  increases
+                       whilst the false positive error rate  decreases  ....
+                       Therefore the  choice  of  threshold  is  crucial  in
+                       determining the errors rates and performance  of  the
+                       system".
+
+
+                 viii) Thus under automatic speaker comparison systems  both
+                       false positives and  false  negatives  are  possible,
+                       with the consequence that "for a quoted error rate to
+                       be meaningful, the type of error that  it  refers  to
+                       must be stated". Mr  Millington's  witness  statement
+                       does not provide this information.
+
+
+                   ix)  The  performance  of  automatic  speaker  comparison
+                       systems is affected by many  factors,  in  particular
+                       the duration of samples and the quality  of  samples,
+                       which embraces surrounding and background noise.
+
+
+           [18]   Dr Harrison is critical of the level of  detail  provided
+                 in the generic witness statements of  Ms  Collings  and  Mr
+                 Millington. He describes it as insufficient.  The norm,  he
+                 says, is that the analyst concerned, rather  than  a  third
+                 party recipient of information,  makes  the  statement  (or
+                 compiles  the  report).   He   criticises   the   lack   of
+                 information concerning the initial testing.  He  highlights
+                 that there  is  a  dearth  of  information  concerning  the
+                 comparability of the test samples with the  TOEIC  samples.
+                 There is no detail concerning either duration  or  quality.
+                 Nor is there any clear description of the configuration  of
+                 the automatic system which was used in these  two  separate
+                 phases.  The Respondent's evidence is silent on  the  issue
+                 of  manufacturer's  updates.   The  non-disclosure  of  the
+                 identity of the manufacturer or the  model  of  the  system
+                 erects a barrier.  There is no indication  of  whether  the
+                 files selected were combined to form  a  longer  recording,
+                 nor  is  the  specific   duration   of   individual   files
+                 particularised.  It is possible that  short,  poor  quality
+                 samples of reading may have been selected.  It  is  unclear
+                 whether the selection process  was  conducted  manually  or
+                 automatically.  Nor is there any indication of whether  the
+                 consistency  of  the  speaker  across  the  six  files  was
+                 assessed by the automatic system.
+
+
+           [19]   Dr Harrison also examines, with accompanying critique and
+                 commentary,  the  discrete  issues  of  factors   affecting
+                 performance; the typical performance of human verification;
+                 the definition of thresholds; the explicit  acknowledgement
+                 of human errors; the lack of testing of the performance  of
+                 analysts; the dubious touchstone of  "confidence"  (see  Mr
+                 Millington's witness statement); the dearth of  information
+                 about the actual analysis methodology; the lack  of  detail
+                 about the experience and knowledge of  both  the  recruited
+                 analysts and their supervisors;  the  indication  that  any
+                 training of the newly recruited analysts was  hurried;  the
+                 shortcomings  in   Mr   Millington's   speech   recognition
+                 averments; and the clear acknowledgement on the part of ETS
+                 that false identifications  (viz  false  positive  results)
+                 have  occurred.  One  passage   relating   to   the   human
+                 verification process is especially noteworthy:
+
+
+                       "... although  the  analysts  only  verified  matches
+                       where they had no doubt about their validity  -  i.e.
+                       where they were certain about their judgments -  this
+                       should not be taken as a reliable  indicator  of  the
+                       accuracy of those judgments.  This approach does  not
+                       remove the risk of false positive results."
+
+                 Dr Harrison also highlights that both the automatic  system
+                 and the  human  analysts  are  capable  of  false  positive
+                 errors.   The  Secretary  of  State's  evidence  does   not
+                 disclose either  the  percentage  or  the  volume  of  such
+                 errors.
+
+
+           [20]   Dr Harrison  summarises  his  opinion  in  the  following
+                 terms:
+
+
+                    i)      In principle, the ETS methodology constitutes "a
+                       reasonable approach".  However, the specifics of  its
+                       implementation are insufficiently  particularised  in
+                       the Respondent's evidence, which suffers from "a lack
+                       of technical information and detail".
+
+
+                   ii)      The  Secretary  of  State's  evidence  fails  to
+                       acknowledge that the human verification mechanism "is
+                       almost certain to have  resulted  in  false  positive
+                       results".
+
+
+                  iii)      The fact of an unknown number of false  positive
+                       results in "an unknown number of test takers who have
+                       been incorrectly identified  as  having  fraudulently
+                       taken the TOEIC test".
+
+
+                   iv)      The accuracy and reliability of the ETS  results
+                       overall cannot be gauged in the absence of sufficient
+                       technical knowledge of the process.
+
+                    v) This inadequacy could be rectified to some extent  by
+                       disclosure of  the  audio  material  from  individual
+                       tests, which would  facilitate  independent  auditing
+                       through  the   auditory-acoustic   phonetic   testing
+                       methodology."
+
+28. In addition to adopting his report, Dr Harrison  relied  on  a  witness
+    statement.  This supplemented his report in one respect  only.  Therein
+    he avers that he has listened to "TOEIC test audio files"  and,  having
+    done so,  his  opinion  and  conclusions  remain  unchanged.  In  cross
+    examination he explained that these files contained some  five  or  six
+    recordings of  the  answers  provided  by  a  single  candidate  during
+    testing.  He could not recall whether there were any  interruptions  in
+    the recordings. He re-affirmed that  the  quality  of  automatic  voice
+    recording systems generally is  affected  by  several  well  recognised
+    factors, in particular the duration of  samples,  the  quality  of  the
+    samples and  "reference  population  mismatch".   Elaborating  in  this
+    context, Dr Harrison gave the example of a number of speakers with very
+    different language backgrounds.  He added that  there  is  no  evidence
+    which would enable the comparability of the TOEFL pilot population with
+    the TOEIC population to be assessed.
+
+29. Elaborating, Dr Harrison agreed that the better the recording  quality,
+    the  lower  the  error  rate  in  voice  analysis.  He  confirmed  that
+    background noise detrimentally affects quality.  In  this  context,  Dr
+    Harrison observed that in the Panorama programme there was quite a  lot
+    of  background  sound,  generated  in  particular  by  others  speaking
+    simultaneously.  He was unable to comment on whether headphones were in
+    use.  The recordings to which he listened were of reasonable  -  to  be
+    contrasted with good - quality.  He listened to them in their  totality
+    on two separation occasions.
+
+
+30. Dr Harrison described the quality of the test material used in the  ETS
+    automated voice analysis process as "the main variable".  He  suggested
+    that if a system  of  this  kind  is  performing  well,  the  generally
+    recognised range of error will be 2% to 10%.  For the best systems  the
+    error rate is typically between 1% and 3%.  In "non-ideal  conditions",
+    error rates can be as high as 30%.  Such conditions would be caused  by
+    very degraded recordings (for example due to background noise) and/or a
+    significant voice recording file mismatch and/or differing  directions.
+    He highlighted the  lack  of  technical  data  and  particulars  in  Mr
+    Millington's assertion that (per  ETS)  "conservative  thresholds"  had
+    been set in the  analysis  exercise,  thus  confirming  the  Tribunal's
+    reservation that this is a relatively meaningless assertion.
+
+31. Dr Harrison described the phenomenon of recommended  minimum  durations
+    of voice recording files in the voice recognition industry. This is one
+    of the stipulations  of  the  software  manufacturer  (BATVOX4).   This
+    standard is directly linked to the accuracy and reliability of the  end
+    product.  In this context he noted Mr Millington's acknowledgement that
+    of the six audio files used by ETS  in  its  automated  voice  analysis
+    process, only three were of the requisite minimum length.  Dr  Harrison
+    further observed that Mr Millington's written statement  did  not  make
+    clear whether these six  audio  files  were  tested  separately  or  in
+    unison.
+
+32. Accordingly, the ETS automated testing of the voice samples  considered
+    was compliant with the bare minimum required in only  50%  of  the  six
+    audio files per suspect student.  This is a minute  percentage  of  the
+    total audio files relating to each of the students concerned.  In  this
+    context he referred to certain published empirical evidence,  to  which
+    we have referred in [11] above.  This involved  150  voice  recognition
+    trials.  Each of the voice samples had a duration ranging from 3  to  5
+    minutes. In this way the analysts  concerned  were  (in  Dr  Harrison's
+    words) able to consider  a  "long  stretch  of  speech".   Dr  Harrison
+    testified that, subject to the quality of  the  individual  recordings,
+    testing of this kind would optimise the prospects of  an  accurate  and
+    reliable result.  He explained  further  that  manufacturers  of  voice
+    recognition software recommend minimum durations  of  speech  recording
+    files to enable the analyst to gradually build up a picture and develop
+    familiarity with the voice.  He described minimum durations of 3  to  5
+    minutes as "common place".
+
+
+33. Dr Harrison testified that human voice analysis systems when performing
+    at their best can be expected to generate an error rate  of  some  20%.
+    He described the subjectivity of the individual  human  tester  as  the
+    main imponderable, adding other factors such as  fatigue,  distraction,
+    indisposition and quality of training.  He accepted  that  since  human
+    analysts were introduced by ETS in an attempt to reduce false  positive
+    outcomes, the risk of false negative outcomes was thereby created.   He
+    agreed that the human analysts were incapable of increasing the  number
+    of false  positives.  He  criticised  the  apparent  assumption  in  Mr
+    Millington's statement of an equal error rate in  false  positives  and
+    false negatives, highlighting the absence  of  evidence  of  the  false
+    positives rate. In this  context  Dr  Harrison  also  referred  to  the
+    international workshop evidence noted in  [11]  above  which  contains,
+    inter alia, the results of the analysis of human voice files  by  seven
+    different systems.  Of these, the best performing system had  some  24%
+    false negative results and 28%  false  positive  results.  The  average
+    false negative rate was 36%.  Dr  Harrison  testified  that  this  data
+    amply supported the opinion expressed in his report.
+
+
+34. Dr Harrison highlighted the absence of any  evidence  relating  to  the
+    duration, quality, sample matching and configuration of the  system  in
+    the ETS  automated  testing  exercise.   He  contrasted  scientifically
+    demonstrable accuracy in a voice identification exercise  (on  the  one
+    hand) and human confidence, even to  a  high  degree  (on  the  other),
+    emphasising that these are  not  synonymous.   Summarising  his  expert
+    opinion, Dr Harrison testified:
+
+    (a)  While the ETS automated voice sample analysis is in  the  abstract
+         reasonable,  the  available  evidence  fails   to   demonstrate   a
+         satisfactory level of reliability.
+
+    (b)   The  significant  shortcomings  in  the   technical   information
+         available mean that one cannot have confidence in  the  reliability
+         and accuracy  of  either  the  automated  testing  results  or  the
+         results, modified  or  otherwise,  flowing  from  the  later  human
+         intervention exercise.
+
+35. Dr Harrison's testimony  was  completed  by  his  response  to  certain
+    written questions which, with the leave of the Tribunal, were addressed
+    to him after his oral evidence had finished.  He confirmed that by  the
+    methodology of multiplying the number  of  matches  identified  by  the
+    automated testing system to be the same speaker by the  false  positive
+    rate, the total number of false positives can be calculated. His answer
+    to the next question confirms what we consider  to  be  the  difficulty
+    posed by both the first and second questions, namely the absence of any
+    definition of "false positive rate".   The remaining written  questions
+    addressed to Dr Harrison sought his agreement with the proposition that
+    the false positive rate was as low as 1% and invited him to accept that
+    the false positive rate postulated in  his  report  is  excessive.   In
+    response, Dr Harrison  maintained  firmly  that  any  dilution  of  his
+    evidence on this discrete issue would be  inappropriate.   Elaborating,
+    he explained, in persuasive terms, that the methodology adopted by  him
+    was conservative, summarised in these terms:
+
+         "The calculation of the number of false positives using the  method
+         proposed [in the questions posed] will always result  in  a  higher
+         number of false positives than the method I have used  because  the
+         number of non-pairs will always be  greater  than  the  true-pairs.
+         Therefore, my method is conservative in estimating  the  number  of
+         false positives since this is calculated from the number  of  true-
+         pairs which is always smaller."
+
+36. In response to a  question  from  the  panel,  Dr  Harrison,  following
+    reflection,  testified  that  all  of  the   shortcomings,   omissions,
+    questions and reservations concerning the Secretary of State's evidence
+    (viz that of Mr Millington and Ms Collings) highlighted in  his  report
+    remain unexplained and unanswered.  These are contained in  the  pr�cis
+    reproduced in [25] above and consist of the following:
+
+
+    (i)  The  technical  characteristics  of  the  TOEIC  test  recordings,
+         including duration and background noise levels.
+
+
+     ii)  The  performance  of  the  automatic  system  when  operated  with
+         recordings representative of the TOEIC samples.
+
+
+    iii) The comparability of the  TOEIC  tests  materials  with  the  TOEFL
+         materials used in the file of the automatic system.
+
+     iv) The specific operation and configuration of  the  automatic  system
+         including whether samples from individual tests were combined,  the
+         use of appropriate reference populations and chosen thresholds.
+
+      v) The performance of the human analysts.
+
+     vi) The expertise, training and knowledge of the analysts.
+
+    vii) The training given to the newly recruited ETS employees.
+
+   viii) Details of the methods used by the human analysts.
+
+     ix) The time spent by the human analysts on comparisons.
+
+      x) The familiarity of the human analysts with  the  range  of  foreign
+         accented English and specific knowledge of common  features  within
+         those varieties.
+
+    Most of the components of this  extensive  list  concern  gaps  in  the
+    Secretary of State's written evidence which, in  the  event,  were  not
+    addressed or rectified in the further evidence adduced at the hearing.
+
+37. Finally, Dr Harrison's evidence to the Tribunal confirmed the following
+    statement in his report:
+
+
+         "Without this information it is not possible to provide a  detailed
+         objective assessment of the overall reliability of ETSs method  and
+         the likely number of false positive results, i.e.  how  many  tests
+         considered as verified matches were not the result of a fraud ....
+
+
+         Since there are an unknown number of false positive results,  there
+         are also an unknown number of test takers who have been incorrectly
+         identified as having fraudulently taken the TOEIC test. At present,
+         for any specific case,  there  is  no  independent  way  to  assess
+         whether the individual in question committed fraud or whether their
+         result is a false positive. The only information available  is  the
+         verified match result from ETS.  Since  the  performance  of  ETS's
+         process is unknown it is not  possible  to  assess  the  degree  of
+         confidence that can be placed in the results provided by ETS."
+
+    This passage embodies a useful synopsis of  Dr  Harrison's  unremitting
+    critique of the Secretary of State's evidence.
+
+The First Appellant: SM
+
+38. On 28 July 2014 an Immigration Officer,  a  servant  or  agent  of  the
+    Secretary  of  State,  made  an  "at  port"  decision  concerning  this
+    Appellant in the following terms:
+
+         "You are seeking entry as a returning student and  you  were  given
+         leave to remain until 08/10/2015 as a student but  I  am  satisfied
+         that false representations were employed or material facts were not
+         disclosed for the purpose  of  obtaining  your  previous  leave  to
+         remain here as a student.  Therefore in your case the current leave
+         that was granted should be cancelled.  This  is  because  you  were
+         required to submit, as part of your application for leave to remain
+         as a student, a valid certificate showing you had properly attended
+         an English Testing Centre and taken a test is  listening,  speaking
+         and writing English ......
+
+
+         I am satisfied that you obtained your English Language  Certificate
+         by deception and have written evidence to substantiate  this  .....
+         After an investigation into the circumstances  of  how  you  obtain
+         your particular  English  Certificate  it  has  been  found  to  be
+         fraudulently obtained."
+
+    The Appellant's leave to remain in the  United  Kingdom  was  cancelled
+    under paragraph 2A(8) of Schedule 2 to the  Immigration  Act  1971  and
+    paragraph 321A(2) of the Immigration Rules accordingly.
+
+39.  This  Appellant  challenged  the  Secretary  of  State's  decision  by
+    appealing to the First-tier Tribunal  (the  "FtT").   By  its  decision
+    promulgated on 27 April 2015 the FtT dismissed his appeal.   A  further
+    appeal to the Upper Tribunal followed.  By its decision promulgated  on
+    04 January 2016, the appeal was allowed by the Upper  Tribunal  to  the
+    extent of setting aside the decision of the FtT on the basis  of  error
+    of law: see [1] above.
+
+
+40. This Appellant is a national of Bangladesh, aged  32  years.   In  June
+    2005 he  entered  the  United  Kingdom  in  accordance  with  an  entry
+    clearance visa for the purpose of study.   Several  grants  of  further
+    leave to remain followed.  Prior to the expiry of the penultimate  such
+    grant, in November 2013, he applied for and was granted  further  leave
+    to remain, valid from 15 November 2013  to  07  October  2015  for  the
+    purpose of undertaking an MBA Degree.  The  impugned  decision  of  the
+    Secretary of State occurred in circumstances where this  Appellant  had
+    returned to his country of origin on a home visit and was attempting to
+    re-enter the United Kingdom.
+
+41. At this juncture, it is convenient to outline the evidence relating  to
+    this Appellant's proficiency  in  the  English  language  and  academic
+    qualifications.  In summary:
+
+    (a)  Prior to first  entering  the  United  Kingdom  in  June  2005  he
+         obtained an IELTS  (International English Language Testing  System)
+         Certificate, achieving an overall  score  of  6  out  of  9.   This
+         Certificate was required to facilitate  his  entry  to  the  United
+         Kingdom for the purpose of study.
+
+    (b)  Between July 2005 and February 2006 he pursued a foundation  level
+         English course which he completed with distinction.
+
+      c) He then completed with distinction intermediate and advanced  level
+         English courses, in March and November 2006 respectively.
+
+
+      d) On 31 August 2007 this Appellant achieved a "pass" grade in an ACCE
+         Level 4 course.
+
+      e) On 26 April 2010 he secured a Diploma in Business Studies.
+
+      f) On 12 April 2012 he obtained a "pass" grade  in  an  ACCA  Level  5
+         course.
+
+
+      g) On 08 October 2013 he obtained a postgraduate diploma in  strategic
+         management and leadership.
+
+      h) On 26 March 2012 he obtained  the  TOEIC  Certificate  which  later
+         became the impetus for the Secretary  of  State's  cancellation  of
+         leave decision. His grade was B2.
+
+      i) On 20 December 2013, in accordance with a university requirement to
+         undertake an English course, the Appellant secured a score of 77%.
+
+
+      j) Between January 2014  and  June  2015  the  Appellant  completed  a
+         University MBA (Masters  in  Business  Administration),  succeeding
+         with "Merit".
+
+
+42. This Appellant's evidence includes an account of his  interaction  with
+    UKBA officials upon his return to the United Kingdom on  28  July  2014
+    following a visit to his parents in Bangladesh.   During  a  period  of
+    some ten hours he was interviewed extensively by  immigration  officers
+    regarding his previous history - study, work, continuing education  and
+    English language qualifications.  At the conclusion of this process  he
+    was handed a letter stating that his leave was being cancelled  on  the
+    ground that he had obtained his TOEIC  Certificate  fraudulently.   His
+    immediate response,  notably,  was  a  demand  to  see  the  supporting
+    evidence.  In his witness statement he avers:
+
+         "The immigration officers said that they are satisfied that I am  a
+         genuine student and that  my  command  of  English  is  very  good.
+         However they said that since I had taken a TOEIC exam, they had  no
+         choice but to cancel my visa.  He also advised me to  go  to  Court
+         and to prove that I did not cheat."
+
+    The Appellant testified that he was so outraged that he demanded to see
+    the Senior Immigration Officer, without success.
+
+43. The next steps  taken  by  this  Appellant  are  also  noteworthy.   He
+    notified his university of what had happened and made efforts to obtain
+    advice and assistance from this quarter.  He  then  engaged  solicitors
+    for the purpose of advice and mounting appeal against the  cancellation
+    decision.  He took steps to secure confirmation from UKBA that he could
+    remain lawfully in  the  United  Kingdom  while  pursuing  his  appeal.
+    Significantly, he went to considerable lengths to contact  ETS  in  the
+    United States, in an  attempt  to  obtain  verification  of  his  TOEIC
+    Certificate and copies of his voice recordings.  He  contacted  several
+    ETS offices in the United States and, eventually, secured  the  details
+    of an ETS London office  with  which  he  then  communicated.   In  his
+    witness statement he avers:
+
+         "Someone from ETS finally assured me  that  they  would  verify  my
+         certificate but would do so only if my lawyer writes to them."
+
+    A solicitor's request to this end, coupled with a renewed  request  for
+    copies of the Appellant's voice recordings, ensued.   This  elicited  a
+    response from ETS Global which was rather evasive, stating that a  test
+    could be invalidated for a number of reasons and suggesting  that  this
+    Appellant make his case to the Secretary of  State.   The  request  for
+    provision of the voice recordings was refused.
+
+44. Leaving no stone unturned, the Appellant then turned his attentions  to
+    Mr Watson of the BBC, the  investigative  journalist  involved  in  the
+    "Panorama programme".  A  meeting  with  Mr  Watson  and  his  producer
+    colleague materialised.  The Appellant thereby had the  opportunity  to
+    demonstrate his proficiency in the English language and to produce  his
+    documentary qualifications.  The upshot was a  communication  from  the
+    gentleman  concerned  approximately  one  month  later,  assuring   the
+    Appellant that they found him credible and the issue  of  a  letter  of
+    support.
+
+45. In his witness statement the Appellant describes, in impressive detail,
+     the steps taken by him to secure a place at one of the  TOEIC  testing
+    events and his success in doing so.  He  provided  particulars  of  the
+    venue, the cost, his interview with the  college's  administration  and
+    other administrative arrangements.   He  described  in  detail  how  he
+    travelled to the centre and the events  which  unfolded  following  his
+    arrival.  He detailed the various components of the test. He  described
+    extensively the topography of the premises, the contents and layout  of
+    the test room, the conduct of the invigilator and related matters.   He
+    also recounted particulars of questions posed, answers given  and  like
+    matters.
+
+46. This Appellant's case was supported by evidence from Mr Watson, the BBC
+    journalist involved in the Panorama programme. This took the form of  a
+    witness statement supplemented by  the  witnesses'  responses  to  some
+    brief questions in cross examination.  There was also evidence from  an
+    acquaintance. The evidence of the acquaintance was adduced through  the
+    medium of a witness statement and Mr Dunlop, on behalf of the Secretary
+    of State, confirmed that he was not  proposing  to  cross  examine  the
+    witness. Both gave essentially character  evidence  strongly  endorsing
+    this Appellant's integrity.
+
+47. There is no controversy in what is outlined in [35] - [37]  above.  The
+    description of this Appellant's evidence in the succeeding  paragraphs,
+    [38] - [42], is based on his written statements and a schedule  of  his
+    qualifications prepared for the purpose of the hearing. At  the  outset
+    of his testimony to the Tribunal, this Appellant adopted his main (i.e.
+    most recent) witness statement in its entirety.  All  of  the  evidence
+    from him which followed was elicited by cross examination,  questioning
+    from the panel and some brief re-examination.  We  shall  revisit  this
+    infra.
+
+The Second Appellant: Ihsan Qadir
+
+48. As we have done with the first  Appellant,  we  shall  begin  with  the
+    written evidence of and pertaining to the second  Appellant.  He  is  a
+    native of Pakistan, where he was born on 13 July 1979.   There,  having
+    completed his higher secondary education,  he  secured  a  third  level
+    qualification, namely Bachelor of Computer Science. On 10 July 2010  he
+    obtained a "pass" grade in the IELTS,  a  recognised  English  language
+    test, in Pakistan.  He then secured a visa permitting him to enter  the
+    United Kingdom for the purpose of pursuing  accountancy  studies  as  a
+    "Tier 4" student. On 17 December 2010 he  entered  the  United  Kingdom
+    accordingly. One year later the Tier 4 licence of the college where  he
+    was studying was  suspended.  Following  some  effort  he  successfully
+    secured admission to another college to continue the same course. On 23
+    January and 22 February 2012 he claims  that  he  underwent  the  TOEIC
+    test.  His two TOEIC "Official Score Reports" are dated 23 January 2012
+    and 22 February  2012  respectively.   Duly  equipped  with  his  TOEIC
+    certificate, on 08 May 2012 he was granted further leave to remain as a
+    Tier 4 student, with a scheduled expiry date of 31 December 2014.
+
+49. At this juncture we outline this Appellant's evidence relating  to  his
+    proficiency in the English language:
+
+    (i)  On 10 July 2010, in Pakistan, he passed the IELTS English language
+         test, securing a rating of 5.5 (out of a maximum of 10).
+
+    (ii) He has resided  continuously  in  the  United  Kingdom,  with  the
+         exception of  home  visits,  since  securing  his  leave  to  enter
+         authorisation dated 17 December 2010.
+
+
+    (iii)     The TOEIC tests which he claims to have undertaken in January
+         and February 2012 are the only examinations of their kind which  he
+         has undertaken in the United Kingdom.
+
+50. Some two years later, having passed six of the  ACCA  exams  and  while
+    awaiting the results of three others, he  made  a  visit  to  his  home
+    country.  On 24 August 2014 he sought to re-enter the  United  Kingdom.
+    He was questioned by UKBA  officials  and  arrangements  were  made  to
+    interview him  on  08  September  2014.   A  17  minute  interview  was
+    transacted on this date, in  English.   The  Appellant  was  questioned
+    about the circumstances in which he had secured his TOEIC  certificate.
+    He provided prima facie appropriate answers to all questions except one
+    asking the name of the centre  in  London  where  he  claimed  to  have
+    undergone the examination.  He  was,  however,  able  to  describe  its
+    location in general terms ("near the Stock Exchange").
+
+51. On 14 September 2014 the Secretary of State  made  a  "Cancellation  of
+    Leave"  decision  in  respect  of  this  Appellant.   Its  essence   is
+    ascertainable from the following passages:
+
+         "I have reason to believe that you made  false  representations  in
+         order to obtain your leave to remain, because I am satisfied  on  a
+         balance of probability that you have fraudulently obtained your ETS
+         English Language Certificate submitted as part of your  application
+         for leave to remain in the United Kingdom .... your ETS Certificate
+         is deemed to be invalidated ....
+
+
+         The Home Office were able to confirm that the  passenger's  English
+         test which he had sat in the UK on 22 February 2012 had been marked
+         as 'Invalid'.  See Appendix A.  The background to the HO's decision
+         are [sic] explained  in  the  witness  statements  provided  by  HO
+         employees Peter Millington and Rebecca Collings (see  Appendices  B
+         and C) .....
+
+
+         [The Appellant] was unable to recall the name of  the  test  centre
+         except that it  was  in  London  or  even  which  area  of  London.
+         Furthermore he was unable to recall  the  cost  of  the  test.   He
+         insisted he had taken the test in person and took it over a two day
+         period."
+
+    Two immediate observations are apposite.  First, no  specific  question
+    relating to the area of London where the test centre  is  situated  was
+    put to the Appellant in interview.  Second, there is no mention of  one
+    of the Appellant's responses noted above.
+
+52. This Appellant's first witness statement, though undated,  was  clearly
+    made in the context of his appeal to the FtT, which was decided  on  30
+    January 2015.  As recorded by the Judge, the Appellant gave evidence at
+    the hearing. Around one year later, he made a second witness statement,
+    date 15 January 2016, with a view  to  the  remaking  hearing  in  this
+    forum. In both statements he identifies the person who drove  him  from
+    Leeds to London and he also identifies the friend who was  instrumental
+    in "booking" the test for him.  The most striking feature of his second
+    witness statement is the considerably greater detail which it contains,
+    relating to the following matters in particular: the amount he paid for
+    undergoing the test; the name of the college  where  he  took  it;  the
+    location of the  college  in  London;  the  name  of  the  building  in
+    question; events on the date of the examination; the approximate number
+    of students taking the test; the duration of the test; and the  various
+    components of the examination and how these were tested.
+
+53. In his first statement, the Appellant avers that the test  was  carried
+    out "in January 2012".  In his second statement, he provides a concrete
+    date, namely 23 January 2012, which coincides with the  date  specified
+    in the TOEIC certificate.  The  detailed  description  of  the  testing
+    which follows clearly relates to this date.  No  second  or  subsequent
+    date  is  mentioned,  though  the  certificate  makes  clear  that  the
+    examination was split between two dates.   On  the  first,  23  January
+    2012, the skills of listening and reading were tested. On  the  second,
+    22 February 2012, speaking and writing tests were undertaken.  In  this
+    context, it is appropriate to highlight two  successive  paragraphs  in
+    the Appellant's second witness statement:
+
+        "I remember that the test  involved  both  speaking  and  listening
+        elements.  The listening and reading tests lasted for about  140  -
+        150 minutes (approx 02.30 hours) ....
+
+
+        The TOEIC listening and reading test  take [sic] about  two  hours.
+        It was divided in two part/sections, approximately 45  minutes  for
+        listening and 75 minutes  for  reading.   The  TOEIC  speaking  and
+        writing test take [sic] about 1 hour and 20 minutes.  It  was  also
+        divided in two sections, namely 20 minutes  for  speaking  and  one
+        hour for writing."
+
+    It  is  common  case  that  all  TOEIC  testing  exercises  have   four
+    components, namely listening and reading (examined on  the  first  test
+    date) and speaking and writing (examined  on  the  second  test  date).
+    This division  is  accurately  reflected  in  the  Appellant's  witness
+    statement.
+
+54. In common with the first Appellant, this Appellant, in his evidence  to
+    the Tribunal, adopted his two written statements.  The remainder of his
+    evidence was elicited by some very brief examination  in  chief,  cross
+    examination, questioning from the panel and some brief  re-examination.
+    We shall assess all of this Appellant's evidence infra.  His  case  was
+    supported by an acquaintance, whom we  shall  describe  as  Mr  A,  who
+    recounted transporting the Appellant by car from Leeds  to  the  London
+    test centre.  Mr A was able to attend the hearing on one  of  the  five
+    days only and, by  agreement,  his  evidence  was  adduced  by  witness
+    statement.
+
+Governing Legal Rules and Principles
+
+55. Paragraph 321A of the Immigration Rules provides, insofar as material:
+
+         "The following grounds for the cancellation of a person's leave  to
+         enter or remain which is in force on his arrival in, or while he is
+         outside, the United Kingdom apply:
+
+
+         (1)  There has been such a change  in  the  circumstances  of  that
+             person's  case  since  leave  was  given  that  it  should  be
+             cancelled; or
+
+         (2)  False  representations  were  made  or  false  documents  were
+             submitted (whether or not  material  to  the  application  and
+             whether or not to the holder's knowledge), or  material  facts
+             were not disclosed, in relation to the application  for  leave
+             ...."
+
+    This is  the  provision  upon  which  the  impugned  decisions  of  the
+    Secretary of State were made in each appeal.
+
+
+56. The legal principles engaged are set forth below.  While we are content
+    to proceed on this basis, we  observe  that  there  may  be  scope  for
+    further argument on the correct approach in law in  some  future  case.
+    We thus observe on account of two factors in  particular.   First,  the
+    Secretary of State, in all of these cases, is making the positive  case
+    that the student concerned dishonestly obtained  the  English  language
+    qualification by the use of a proxy test taker.  Second, the  Secretary
+    of State seeks to make good this allegation to the  requisite  standard
+    by adducing in evidence, in addition  to  the  generic  evidence  noted
+    above, a flimsy spreadsheet emanating from ETS which, in a single line,
+    contains, in substance, only the name of the student concerned and  the
+    categorisation of either "questionable" or "invalid".
+
+57. Both the applicable principles and the jurisprudence were  reviewed  by
+    this Tribunal in  its  recent  decision  in  Muhandiramge  (Section  S-
+    LTR.1.7) [2015] UKUT 00675 (IAC), at [9] - [11]:
+           "9.    Burdens and standard of  proof  have  progressively,  and
+                 almost with  stealth,  become  an  established  feature  of
+                 decision making in the field of immigration and asylum law.
+                 Their emergence may properly be described as organic.  They
+                 have featured particularly in cases where it is alleged  by
+                 the Secretary of State that the applicant  has  engaged  in
+                 deception  or  dishonesty  with   the   result   that   the
+                 application in question should be  refused.  This  discrete
+                 line of authority is not recent,  being  traceable  to  the
+                 decision of the Immigration Appeal  Tribunal  in  Olufosoye
+                 [1992] IMM AR 141. In tribunal jurisprudence,  the  origins
+                 of this particular lineage can be traced to the decision of
+                 the House of Lords in R v Secretary of State for  the  Home
+                 Department, ex parte Khawaja [1984] AC 74, which  concerned
+                 the inter-related issues of procuring entry to  the  United
+                 Kingdom by deception and precedent fact in the Secretary of
+                 State's  ensuing  decision  making  process.  It  is   well
+                 established that in such cases the burden of proof rests on
+                 the Secretary of State and the standard of proof belongs to
+                 the higher end of the balance of probabilities spectrum.
+           10.          One of the more recent reported decisions belonging
+                 to this stable is that  of  Shen  (Paper  Appeals:  Proving
+                 Dishonesty)  [2014]  UKUT  236  (IAC).  This  decision   is
+                 illustrative of the moderately complex exercise required of
+                 tribunals from time to time. Here the Upper Tribunal  held,
+                 in harmony with  established  principle,  that  in  certain
+                 contexts the evidential pendulum swings three times and  in
+                 three different directions:
+                 (a)            First, where the Secretary of  State alleges
+                       that  an  applicant  has  practised   dishonesty   or
+                       deception in an  application  for  leave  to  remain,
+                       there is an evidential burden  on  the  Secretary  of
+                       State. This  requires  that  sufficient  evidence  be
+                       adduced to raise an issue as to the existence or non-
+                       existence  of  a  fact  in  issue:  for  example,  by
+                       producing the completed application  which  is  prima
+                       facie deceitful in some material fashion.
+                 (b)             The  spotlight  thereby   switches   to the
+                       applicant. If he discharges the burden  -  again,  an
+                       evidential one - of raising an innocent  explanation,
+                       namely an account which satisfies the  minimum  level
+                       of plausibility, a further transfer of the burden  of
+                       proof occurs.
+                 (c)             Where (b) is satisfied, the burden rests on
+                       the Secretary of State to establish, on  the  balance
+                       of probabilities, that the  Appellant's  prima  facie
+                       innocent explanation is to be rejected.
+                 A veritable burden of proof boomerang!
+           11.         Shen is  preceded  by  a  lengthy  line  of Tribunal
+                 jurisprudence to this effect: see  JC  (Part  9  HC  395  -
+                 Burden of Proof) China [2007]  UKAIT  00027,  at  [10];  MZ
+                 (Pakistan) v Secretary of State  for  the  Home  Department
+                 [2009] EWCA Civ 919, at [25]; Mumu (Paragraph 320;  Article
+                 8;  Scope)  [2012]  UKUT  143  (IAC);  and  Kareem   (Proxy
+                 marriages - EU law) [2014] UKUT  24  (IAC).  In  short,  in
+                 cases of alleged deceit, the legal rules are well settled."
+    In this context, we highlight what was stated at [11] of Shen:
+     "At the end of the day the SSHD bears the burden of proof.  This is  a
+        proposition which is uncontroversial and has been confirmed on many
+        occasions."
+    We record here the submission of Mr  Biggs  on  behalf  of  the  second
+    Appellant, with which we agree, that, doctrinally, a  legal  burden  of
+    proof does not "shift".
+58. It is well established that proof of dishonesty  on  the  part  of  the
+    immigrant concerned is required in order  to  establish  either  "false
+    representations" or "false  documents"  under  paragraph  321A  of  the
+    Rules: see AA (Nigeria) v Secretary of State for  the  Home  Department
+    [2010] EWCA Civ  773,  at  [44]  and  [51]  especially.  Following  the
+    consumption of large quantities of judicial ink, the legal  rule  which
+    has emerged with unmistakable clarity  is  that  in  civil  proceedings
+    there is but one standard of proof, namely  proof  on  the  balance  of
+    probabilities.  One of the clearest expositions of this rule  is  found
+    in the judgment of Richards LJ in R (N) v Mental Health Review Tribunal
+    (Northern Region) [2006] QB 468, at [62]:
+
+        "Although there is a single civil standard of proof on the  balance
+        of probabilities, it is flexible in its application. In particular,
+        the  more  serious  the  allegation  or  the   more   serious   the
+        consequences if the allegation is proved, the stronger must be  the
+        evidence before a court will find  the  allegation  proved  on  the
+        balance of probabilities. Thus the flexibility of the standard lies
+        not in any adjustment to the degree of probability required for  an
+        allegation to be proved (such that a more serious allegation has to
+        be proved to a higher degree of probability), but in  the  strength
+        or quality of the evidence that will in practice be required for an
+        allegation to be proved on the balance of probabilities."
+
+    In short, as emphasised by Lord Carswell in Re D  [2008]  UKHL  33,  at
+    [28], the fundamental judicial task is to decide whether, having regard
+    to the context, the  evidence  adduced  is  of  sufficient  cogency  to
+    warrant the conclusion that the burden of proof has been discharged  to
+    the civil standard.
+
+
+59. At this juncture we note Mr Dunlop's submission that the principles  in
+    Tanveer Ahmed (Documents unreliable and forged) Pakistan  [2002]  UKIAT
+    00439 are engaged. These principles  are  formulated  at  [38]  of  the
+    Report in the following terms:
+
+        "1.   In asylum and human rights  cases  it  is  for  an  individual
+             claimant to show that a document on which he seeks to rely can
+             be relied on,
+
+
+          2. The decision maker should consider whether a document is one on
+             which reliance should properly be placed after looking  at  all
+             the evidence in the round.
+
+
+          3. Only very rarely will there be the need to make  an  allegation
+             of forgery, or evidence  strong  enough  to  support  it.   The
+             allegation should not be made without such  evidence.   Failure
+             to establish the allegation on the balance of probabilities  to
+             the higher civil standard does not  show  that  a  document  is
+             reliable.  The decision maker still needs to apply principles 1
+             and 2."
+
+    We highlight the caution  with  which  the  phrase  "the  higher  civil
+    standard" is to be treated.
+
+60. This contention was raised for the first  time  in  Mr  Dunlop's  final
+    written submission.  This implies no criticism of him.  However,  as  a
+    result, we have not received detailed argument on the  issue.   We  are
+    mindful that as this is neither an asylum nor a human rights case there
+    are strong indications  that  the  Tanveer  Ahmed  principles  have  no
+    application.  Second, we consider it highly unlikely that  the  Tanveer
+    Ahmed  principles  displace  or  alter  the  legal   rules   enunciated
+    unambiguously in Shen, Muhandirange and their precursors, which include
+    MZ (Pakistan) v Secretary of State for the Home Department [2009]  EWCA
+    Civ 919, at [25].  The contention that a claimant, or appellant,  bears
+    the legal burden of demonstrating that a document upon which he  relies
+    is reliable in a litigation context where the legal burden  rests  upon
+    the Secretary of State gives rise to an evident incongruity.  There  is
+    a persuasive argument that the Tanveer Ahmed  principles  are,  as  the
+    decision itself states unequivocally,  confined  to  asylum  and  human
+    rights claims. Indeed, there may also be scope for  the  argument  that
+    these principles may  have  no  enduring  application  in  such  cases.
+    However, this issue does not fall to be determined in these appeals and
+    we note that it did not arise in the recent Court of Appeal decision in
+    MA (Bangladesh) v SSHD [2016] EWCA Civ 175.
+
+61. As these appeals are  crying  out  for  expeditious  determination  and
+    finality, we decline to develop or be diverted by what we  have  mooted
+    immediately above.  Rather, driven by pragmatism, we propose to proceed
+    on the basis that the Secretary of State's argument on  this  issue  is
+    correct, without deciding whether this is so.  On this  issue  we  make
+    one further observation, namely that the submissions of Mr Dunlop  rely
+    on both Shen  and  Tanveer  Ahmed.  That  this  may  give  rise  to  an
+    infelicitous marriage is evident.
+
+The Secretary of State's Evidence: Our Findings and Conclusions
+
+62. As the onus rests  on  the  Secretary  of  State  to  prove  that  both
+    Appellants were guilty of fraud in the respects alleged, we shall begin
+    with our findings and conclusions in respect of the evidence adduced on
+    her behalf.
+
+63. We have considered all  of  the  evidence  adduced  on  behalf  of  the
+    Secretary of State. The evidence of Ms Collings and Mr Millington forms
+    the backbone of the Secretary of State's case. We have interspersed our
+    consideration  of  this  evidence  above  with  certain  comments   and
+    observations, which do not require repetition.  We are  satisfied  that
+    Ms Collings and Mr Millington  gave  truthful  evidence.  However  this
+    neither  counterbalances  nor  diminishes  the  shortcomings  in  their
+    testimony. We summarise the principal shortcomings thus:
+
+    (i)  Neither witness has any qualifications or expertise, vocational or
+        otherwise, in the  scientific  subject  matter  of  these  appeals,
+        namely voice recognition technology and techniques.
+
+
+     ii) In making its decisions in individual cases, the  Home  Office  was
+         entirely dependent on the information provided by ETS.  At a  later
+         stage viz from around June 2014 this dependency  extended  to  what
+         was reported by its delegation which went to the United States.
+
+
+    iii)  ETS  was  the  sole  arbiter  of  the  information  disclosed  and
+         assertions made to the delegation. For its part, the  delegation  -
+         unsurprisingly, given its lack  of  expertise  -  and  indeed,  the
+         entirety of the Secretary of State's officials and decision  makers
+         accepted uncritically everything reported by ETS.
+
+     iv) The Home Office has at no time had advice or input from a  suitable
+         expert.
+
+      v) There was no evidence from any ETS witness -  this  notwithstanding
+         the elaborate critique of Dr Harrison compiled over one year ago.
+
+     vi) The test results of the 33,000 suspect TOEIC scores,  coupled  with
+         the information disclosed and assertions made to the  Secretary  of
+         State's  delegation  during  a  one  day  meeting,  constitute  the
+         totality of the material provided by ETS.
+
+    vii)  Almost  remarkably,  ETS  provided  no   evidence,   directly   or
+         indirectly, to this Tribunal.   Its refusal to  provide  the  voice
+         recordings  of  these  two  Appellants  in  particular  is   mildly
+         astonishing.
+
+   viii) While the judgment of this Tribunal in  Gazi,  promulgated  in  May
+         2015, raised significant questions about the witness statements  of
+         Ms Collings and Mr Millington, these were not addressed, much  less
+         answered, in their evidence at the hearing.  See in particular Gazi
+         at [9]-[15] (reproduced in [19] above).
+
+     ix) While certain documentary  evidence,  highlighted  in  [15]  above,
+         might have fortified  the  Secretary  of  State's  case,  none  was
+         produced.
+
+      x) Similarly, although requested, none of the  voice  recording  files
+         pertaining  to  the  Appellants  was  provided  for  analysis   and
+         consideration by Dr Harrison.
+
+64. The frailties in the Secretary of  State's  evidence  are  thrown  into
+    still sharper relief when juxtaposed with the  expert  evidence  of  Dr
+    Harrison.  Until the hearing of these appeals  Dr  Harrison's  evidence
+    had been considered by tribunals  in  documentary  form  only.  Perhaps
+    unsurprisingly, given the factors we have highlighted above, there  was
+    no challenge of substance  to  Dr  Harrison's  analyses,  opinions  and
+    conclusions. We consider that his evidence was balanced,  measured  and
+    truthful, containing no hint of exaggeration or conjecture. He  engaged
+    impressively with the Tribunal, providing  forthright  answers  to  all
+    questions. Furthermore, following  the  hearing,  he  provided  prompt,
+    lucid and comprehensive answers to  the  written  questions  which  the
+    Tribunal permitted to be addressed to him.
+
+65. We refer particularly  to  those  aspects  of  Dr  Harrison's  critique
+    outlined in [25]-[35] above.  Dr Harrison's report has  been  available
+    to the Secretary of State for a period exceeding one  year.  It  raises
+    profound questions about the witness statements  of  the  Secretary  of
+    State's officials and the  information  emanating  from  ETS  rehearsed
+    therein.  At this remove, the Secretary of State  has  failed  to  deal
+    with the main criticisms, satisfactorily  or  at  all,  either  in  the
+    evidence adduced  at  this  hearing  or  in  cross  examination  of  Dr
+    Harrison.  His main criticisms continued to feature in his evidence  to
+    the Tribunal.   While  it  is  essential  to  consider  each  of  these
+    individually, as we have done, they are conveniently summarised in [31]
+    - [34] above, culminating in the conclusion expressed by Dr Harrison in
+    [35].  In  our  judgment  Dr  Harrison's  criticisms  and  reservations
+    continue to hold good.  He was unshaken in  cross  examination  and  we
+    have no hesitation in accepting his expert opinion and conclusions.
+
+66. While we do not overlook the evidence of Mr Green, summarised  in  [12]
+    above, it was, as we have observed already, intrinsically limited.  Nor
+    do we overlook the  documentary  evidence  adduced  on  behalf  of  the
+    Secretary of  State,  listed  in  [10]  above.   This  adds  little  of
+    substance, an analysis reflected by the fact that  it  barely  featured
+    during the hearing or in counsel's submissions.  Furthermore,  some  of
+    it, a paradigm example being the "SELTINFO" document, is so  incomplete
+    and opaque as to be virtually meaningless. Finally, we find nothing  in
+    the Secretary of State's  other  documents  to  offset  our  assessment
+    above.
+
+The Appellants' Evidence: Our Findings and Conclusions
+
+67. We begin by  asking  ourselves  whether  the  Secretary  of  State  has
+    discharged the evidential burden of proving that the  Appellants  were,
+    or either of them was, guilty of dishonesty in  the  respects  alleged.
+    Bearing in mind that, as noted above, all of the Secretary  of  State's
+    evidence was adduced first, reflecting  the  burden  of  proof,  it  is
+    appropriate to record that at the stage when the Secretary  of  State's
+    case closed there was no submission on behalf of either Appellant  that
+    the aforementioned evidential burden had not been discharged.  We  draw
+    attention, en passant, to a procedural issue which  may  be  worthy  of
+    fuller consideration  in  an  appropriate  future  appeal,  namely  the
+    question of whether in a case where the Secretary of  State  bears  the
+    evidential burden of establishing sufficient evidence of deception and,
+    at the hearing, goes first in the order of batting, the Tribunal should
+    invite submissions from the parties' representatives at the stage  when
+    the Secretary of State's evidence is completed.
+
+68. As our analysis and conclusions in the  immediately  preceding  section
+    make clear, we have substantial reservations  about  the  strength  and
+    quality of the Secretary of State's  evidence.   Its  shortcomings  are
+    manifest. On the other hand, while bearing in mind that the context  is
+    one of alleged deception, we  must  be  mindful  of  the  comparatively
+    modest threshold which an evidential burden entails. The calls  for  an
+    evaluative assessment on the part of the  tribunal.  By  an  admittedly
+    narrow margin  we  are  satisfied  that  the  Secretary  of  State  has
+    discharged this burden.  The effect of this is that there is a  burden,
+    again an evidential one, on  the  Appellants  of  raising  an  innocent
+    explanation.
+
+69. We turn thus to  address  the  legal  burden.  We  accept  Mr  Dunlop's
+    submission that in considering an  allegation  of  dishonesty  in  this
+    context the relevant factors to be weighed include (inexhaustively,  we
+    would add) what the person accused has to gain  from  being  dishonest;
+    what he has to lose from being  dishonest;  what  is  known  about  his
+    character; and the culture or environment in  which  he  operated.   Mr
+    Dunlop also highlighted the importance of three further considerations,
+    namely how the Appellants performed under  cross  examination,  whether
+    the Tribunal's assessment of  their  English  language  proficiency  is
+    commensurate  with  their  TOEIC  scores  and  whether  their  academic
+    achievements are such that it was unnecessary or illogical for them  to
+    have cheated.
+
+70. We begin with the expert  evidence  of  Dr  Harrison  upon  which  both
+    Appellants rely.  We have already made our assessment of Dr  Harrison's
+    evidence in the context of our evaluation of the evidence on behalf  of
+    the Secretary of State: see [58] - [61] above.   There  is  nothing  of
+    substance to add to this.  In short, the evidence adduced on behalf  of
+    the Secretary of State  emerged  paled  and  heavily  weakened  by  the
+    examination to which it was subjected.  By the stage when Dr Harrison's
+    evidence was completed, the Secretary of State's evidence had paled and
+    wilted.  In the sporting world a verdict of no contest would have  been
+    appropriate at this juncture.  The Appellants' cases are  enhanced  and
+    fortified by Dr Harrison's evidence, which we accept in its entirety.
+
+The First Appellant: SM
+
+71. At this juncture, we turn to consider the case of the first  Appellant,
+    SM.  In his two witness statements this Appellant  makes  a  reasonably
+    impressive case.  His account of what he claims to  have  done  at  the
+    conclusion of the interview giving rise to the  impugned  decision  was
+    unchallenged.  Nor was there any challenge to his  description  of  the
+    various steps taken by him subsequently: see [41] - [42] above. We have
+    no reason to doubt any aspect of this evidence,  all  of  which  points
+    towards a finding of honesty rather than deceit.  However, we  must  of
+    course consider this purely documentary evidence  with  all  the  other
+    evidence, including this Appellant's testimony under cross examination,
+    bearing on the question of deception.
+
+72. Next we turn to the evidence of this Appellant's proficiency in English
+    relating to the period preceding the date of the TOEIC Certificate,  26
+    March 2012.  This evidence focuses particularly on the years  2005  and
+    2006: see the summary in [39] above.  The authenticity of this evidence
+    was not seriously challenged and, having considered it  critically,  we
+    have no reason to doubt it.  The IELTS  Certificate  obtained  by  this
+    Appellant prior to first entering the United Kingdom in  June  2005  is
+    one of the recognised  qualifications  in  the  system  of  immigration
+    control. The Appellant's score was impressive.
+
+73. We find that subsequently, during a period of around  16  months,  this
+    Appellant participated in  an  intensive  English  language  programme,
+    securing  both   intermediate   and   advanced   qualifications,   with
+    distinction (85%).  Thereafter, during a period of some four years,  he
+    attended a series  of  colleges,  underwent  various  examinations  and
+    obtained qualifications in  the  realms  of  accountancy  and  business
+    studies.  All of these  courses  and  modules  were  conducted  in  the
+    English language.  Furthermore,  throughout  these  years  he  was,  in
+    essence, permanently resident in the United Kingdom.
+
+74. While we acknowledge that certain documents were explored and probed in
+    Mr Dunlop's cross examination,  this  was  undertaken  in  hopeful  and
+    speculative mode.  In our judgment there was no serious suggestion that
+    any of the documents was  falsified  or  forged.  Nor  was  any  direct
+    evidence of such impropriety adduced.  We find, further, that there  is
+    no evidence from which this could be properly inferred.  We  find  that
+    they are genuine.  We elaborate on this finding below.
+
+75. The letters and certificates relating to this Appellant  purporting  to
+    emanate from Kaplan College were challenged in cross  examination.   It
+    was highlighted that the various dates do not tally.  Furthermore,  the
+    Appellant's suggestion that during this period he pursued a ACCA course
+    at Kaplan and, simultaneously, an English language course at CITEC  was
+    challenged as being implausible. It was suggested that he  was  unclear
+    about the precise level of the Kaplan course and the ACCA  examinations
+    he had undertaken.  Certain discrepancies  in  his  witness  statements
+    were also highlighted in this context and, further, in relation to  the
+    documentary evidence that he had studied  at  London  Reading  College.
+    There was a similar  challenge  relating  to  his  evidence  of  having
+    studied at the London School of Business and  Finance  and  the  London
+    School of Management Education.
+
+76. We consider it important to recognise that this Appellant  was  at  all
+    material times a student, a person having no  reason  to  anticipate  a
+    penetrating forensic dissection of the  documentation  bearing  on  his
+    sojourn in the United Kingdom some ten years after it  began.  We  take
+    note that various pieces of correspondence were issued in  anticipation
+    of studying a course, or having been accepted provisionally to study  a
+    course, or having commenced a course, or  with  a  view  to  completing
+    courses to move to a further college, or  simply  for  the  purpose  of
+    having  secured  a  place  at  a  college  and  using   the   college's
+    documentation to obtain an extension of his student  leave  to  remain.
+    Given the multiplicity and variety of letters  produced,  it  does  not
+    seem plausible to us that a  package  of  this  sort  could  have  been
+    concocted  or  created  to  assist  the  Appellant  in  defrauding  the
+    Secretary of State during such a protracted period.  In  this  respect,
+    the significant limitations in the Panorama documentary  as  persuasive
+    evidence must be recognised.
+
+77. While the cross-examination of this Appellant  and  Mr  Dunlop's  final
+    submissions included a suggestion that some of the documentary evidence
+    is not reliable, there was no frontal or sustainable challenge  to  its
+    authenticity.  Having taken the  precaution  of  calling  for  original
+    documents to be produced and having perused the same, we have no  basis
+    for  questioning  their  authenticity.  In  this  context,  we   remind
+    ourselves that Judges are not expert document examiners.  There was  no
+    evidence,  expert  or  otherwise,  suggesting  that  the  documents  in
+    question were  fabricated  and  none  from  which  such  finding  could
+    properly be inferred.  We find specifically that  this  Appellant,  who
+    was sufficiently proficient in English to be  admitted  to  the  United
+    Kingdom for the purpose of study in 2005 and, further, demonstrated  an
+    elevated level of proficiency by 2007 was, during  the  ensuing  years,
+    expanding and enhancing his English language abilities via his  studies
+    and daily living. The probabilities are that he was  highly  proficient
+    in English by the time he underwent the TOEIC examination in 2012.   He
+    had no reason  whatsoever  to  jeopardise  his  career  and  future  by
+    cheating in the test.
+
+78. The events of 2012 are of obvious significance.  The TOEIC  Certificate
+    was, on its face, obtained  by  this  Appellant  after  undergoing  the
+    necessary testing on two separate dates, 20  and  26  March  2012.   We
+    acknowledge that,  in  the  abstract,  his  score  in  the  modules  of
+    listening and reading is very high indeed, being 930 out of a  possible
+    990 (circa 90%).  In the modules of speaking  and  writing  the  scores
+    recorded are also high, being 160/200 in  each  instance  (circa  80%).
+    Duly armed with his TOEIC Certificate, this Appellant applied for leave
+    to remain in the United Kingdom.  His application was  refused,  giving
+    rise to  a  hearing  before  the  First-tier  Tribunal  ("FtT")  on  05
+    September 2012.
+
+79. We consider this aspect of the evidence to  be  of  some  significance.
+    From the  Tribunal's  determination  one  learns  that  this  Appellant
+    attended the hearing, gave evidence, was cross  examined  and  was  re-
+    examined. No interpreter was required and there is no indication of the
+    slightest  difficulty  in  communication  or  comprehension.   We  note
+    further that during the period of  (approximately)  September  2010  to
+    February 2012 this Appellant claims that he was pursuing courses at two
+    colleges simultaneously, which we accept.  We  infer  from  this  fact,
+    coupled with the successful outcomes, that his mastery of  English  was
+    of a high and progressively improving level.
+
+80. We consider that in appeals of this nature evidence  of  this  kind  is
+    likely to be of  substantially  greater  force  and  cogency  than  the
+    tribunal's  own  assessment  of   an   appellant's   English   language
+    proficiency based on  performance  at  the  appeal  hearing.   This  is
+    especially pertinent in the present case, given that some  three  years
+    have elapsed since this Appellant claims  to  have  secured  his  TOEIC
+    certificate. In some of the FtT  decisions  in  this  field  one  finds
+    observations  concerning  the  appellant's  apparent  fluency  in,  and
+    command of, the English language.  We consider that  Judges  should  be
+    cautious in adopting this approach for at  least  three  reasons.   The
+    first is the passage of time.   The  second  is  that  Judges  are  not
+    language testing or linguistics experts.  The third is that,  to  date,
+    there has been no expert linguistic evidence in any of these cases.
+
+81. Our quest to determine where the truth lies (within the  parameters  of
+    burdens  and  standards  of  proof)  is  further  illuminated  by   the
+    documentary evidence relating  to  one  of  the  Appellant's  two  bank
+    accounts.  This records the various movements in the account during the
+    period early February to early April 2012.  As highlighted  above,  the
+    two important events which unfolded during this period were  the  TOEIC
+    tests and, at the end of the period, the  Appellant's  application  for
+    further leave to remain in the United Kingdom.  Given the  requirements
+    of the Immigration Rules which this latter application had to  satisfy,
+    the relatively substantial credits to the Appellant's bank account  are
+    readily  understandable.   Furthermore,  we  accept   the   Appellant's
+    evidence that the person whose  deposit  transaction  (on  27  February
+    2012) credited the account in the amount  of  �4,000  is  someone  well
+    known to him and his family who, on occasion, was given money  for  the
+    Appellant upon her visits to Pakistan. The specific point  put  to  the
+    Appellant in cross examination was that the withdrawal of  �1,500  from
+    the account on 27  February  2012  is  indicative  of  him  paying  the
+    necessary price to secure a bogus  TOEIC  Certificate.   The  Appellant
+    denied this vehemently  and,  in  general,  dealt  with  the  questions
+    relating to this particular issue firmly and  persuasively.   This  was
+    one of the more important passages during his evidence.
+
+82. This Appellant was also  questioned  closely  about  his  BTEC  Edexcel
+    certificate in strategic management and leadership.   Discrepancies  in
+    the Appellant's written and oral  evidence  were  highlighted  in  this
+    context.  His  account  was  that  he  was  asked  to  submit   certain
+    documentation when seeking a visa to  study  for  his  MBA  course.  He
+    claimed that he had travelled to Glasgow to attend an interview with  a
+    Home Office caseworker regarding that application. He further  asserted
+    that he duly submitted  documentation  from  Opal  College  and  London
+    School of Technology to the caseworker.  He identified this  person  by
+    name.  The Appellant claimed that several days passed, after which  the
+    caseworker called and told him that she had confirmed the  accuracy  of
+    his studies with the various  colleges  and  Edexcel,  the  independent
+    examining  body.  That  detailed  account  was  not  rebutted  by   any
+    countervailing evidence from the Secretary of State.
+
+83. It is distinctly possible that a frontal challenge to  this  aspect  of
+    this Appellant's case, supported by evidence, would, in principle, have
+    been available to the Secretary of State.  However, none  materialised.
+    There was no rebutting evidence and nothing concrete  was  put  to  the
+    Appellant in cross  examination.   Having  considered  the  Appellant's
+    account with care, we are satisfied that it is plausible.
+
+84. In this context Mr Dunlop drew to our attention  the  decision  of  the
+    Administrative Court in R (Cranford College) v SSHD  [2015]  EWHC  1090
+    (Admin).  Having  juxtaposed  this  decision  with   this   Appellant's
+    certificates, we consider that it provides  little  sustenance  to  the
+    Secretary of State's quest to discharge her legal burden of proof.   We
+    note in particular  that  while  Edexcel  certificates  were  evidently
+    obtained by students at  Cranford  College,  no  aspersions  were  cast
+    against the Edexcel organisation.  Moreover, the coursework and testing
+    which generated the certificates awarded to students were  orchestrated
+    and marked undertaken  in  a  purely  internal  context,  involving  no
+    independent examiner:  see  [27]  and  [28]  especially.    This  falls
+    measurably short of demonstrating that  all  Edexcel  certificates  are
+    tainted irredeemably by fraud. Furthermore, we accept this  Appellant's
+    evidence that the tests he  underwent  with  Opal  College  and  London
+    School of Technology were exported to be marked externally, by Edexcel.
+     In this context we highlight  further  the  absence  of  any  concrete
+    evidence adduced by the Secretary of State, on whom the legal burden of
+    proof rests. In summary, this is a paradigm illustration of the tilting
+    at windmills which characterised much of the Secretary of State's case.
+
+85. We must consider also the evidence contained in the Panorama programme.
+    There is no  specific  evidence  relating  to  either  Appellant.   The
+    programme focused on TOEIC  testing  centres.   It  suggested  that  an
+    unspecified number of TOEIC certificates was procured by the use of so-
+    called "proxies".  Furthermore, it demonstrated that such  certificates
+    could be purchased (on a black  market  of  sorts)  by  payment  of  an
+    appropriate sum and, further, that the commodity of an  entire  package
+    of visa documents was also available for purchase. This  programme  was
+    the stimulus for the evidence upon which the Secretary of State  relies
+    in these appeals.  In this context it  is  appropriate  to  recall  the
+    supportive evidence of Mr Watson, the journalist  concerned,  noted  in
+    [46] above.
+
+86. We now turn  to  consider  this  Appellant's  performance  when  giving
+    evidence. We had  the  advantage  of  assessing  him  during  a  period
+    exceeding one day. In several respects his evidence to the Tribunal was
+    unsatisfactory.  Many of the  questions  put  to  him  related  to  the
+    Certificates, letters and other materials emanating from the series  of
+    colleges concerned and  were  of  an  intricate  and  detailed  nature.
+    Comprehensive and accurate replies to all of the questions  would  have
+    required a mastery of a substantial body of documents.   The  Appellant
+    plainly - and understandably  enough  -  did  not  have  this  command.
+    However, he rushed into answers; attempted to answer every question put
+    to him; failed to acknowledge that he was  truly  not  able  to  answer
+    certain questions; and also failed to state, where appropriate, that he
+    simply was  not  certain  or  confident  of  the  correct  answer.   In
+    addition, many of his replies, frequently  to  very  simple  questions,
+    were of such  prolixity,  quite  unnecessarily,  as  to  be  difficult,
+    sometimes impossible, to comprehend.  Intermittent advice and  warnings
+    from  the  Tribunal  to  the  Appellant  had  little  or   no   impact.
+    Furthermore, he had a clear tendency  to  attempt  to  provide  answers
+    which he thought  the  Tribunal  would  like  to  hear.   All  in  all,
+    therefore, this Appellant was an unsatisfactory witness.
+
+87. The key question to be addressed is whether, taking  into  account  the
+    shortcomings and frailties  listed  above,  and  bearing  in  mind  the
+    burdens of proof and  standard  of  proof  in  play,  this  Appellant's
+    evidence on the core issue of  whether  he  was  guilty  of  deceit  in
+    procuring his TOEIC Certificate is believable.  Some measure of  credit
+    is due to the Appellant for confronting every question put to him.   He
+    sought to evade nothing. He also sought to engage with the panel at all
+    times.  Some credit is also due  for  the  efforts  to  which  he  went
+    following the first day of  his  evidence  to  search  for  and  obtain
+    certain further material documents.  In addition, while  the  dates  in
+    certain documents were not easily explained,  in  common  with  certain
+    sequences of dates, we must bear in mind that the Appellant was not the
+    author  of  any  of  the  documents  concerned.  Many  of   them   were
+    bureaucratic and formulaic in  nature  and,  further,  used  codes  and
+    abbreviations  which  complicated  the   task   of   assimilation   and
+    comprehension.  The Appellant cannot be faulted for  his  inability  to
+    deal with some of the questions relating to these  materials.  We  must
+    also take into account that he has been studying in the United  Kingdom
+    for a very long time, almost 11 years, throughout which period  he  has
+    pursued a veritable proliferation of courses and modules.  Furthermore,
+    much of the questioning  of  the  Appellant  related  to  events  which
+    occurred many years ago.  Thus, to summarise, the imperfections in this
+    Appellant's evidence to the Tribunal  are  tempered  and  mitigated  in
+    several ways.  Ultimately, we find that he was a witness of truth.
+
+88. Having reviewed all of  the  documentary  evidence  with  care  we  are
+    satisfied that it accords  with  the  Tanveer  Ahmed  principles.   The
+    specific challenge to the reliability of some  discrete  documents  has
+    not been made out.  We find  that  through  his  oral  and  documentary
+    evidence this Appellant has discharged the evidential burden of raising
+    a satisfactory explanation for the various matters which  are  advanced
+    as constituting dishonesty on his part.
+
+89. The final question is whether the Secretary of State has discharged the
+    legal burden of establishing on the balance of probabilities that  this
+    Appellant procured his TOEIC certificate by deceit.  The answer to this
+    question requires a balancing of all of  the  findings  and  evaluative
+    assessments rehearsed above.  We are satisfied,  objectively,  that  at
+    the stage when this Appellant took the tests in question there  was  no
+    need for him to engage in any form of cheating.   He  would  have  been
+    sufficiently  proficient   in   English   to   secure   the   necessary
+    qualification   legitimately.    Furthermore,   given   his   extensive
+    familiarity with the immigration system, he would have  been  aware  of
+    the grave consequences of any form of deception.  To have cheated would
+    have entailed engaging in a game of risk with very high stakes  indeed.
+    Furthermore, having considered all the evidence, we have no  reason  to
+    question the Appellant's good character generally.
+
+90. In addition, as already highlighted, this Appellant's case is fortified
+    by the unchallenged evidence of the steps which  he  took  in  his  own
+    defence from the moment when the illegitimacy of his TOEIC  certificate
+    was first questioned.  We  find  no  reason  to  doubt  this  evidence.
+    Moreover, there was very little exploration in cross-examination of the
+    Appellant's  account  of  the  tests  undertaken  and  the  surrounding
+    circumstances.  Finally, we must  weigh  our  findings  concerning  the
+    marked shortcomings in the Secretary of State's evidence, coupled  with
+    our acceptance of the Appellants' expert evidence.
+
+91. The non-specific and generalised nature of  the  Secretary  of  State's
+    case against both Appellants  is  emphasised  by  the  four  hypotheses
+    canvassed in Mr Dunlop's written submissions.  These are:-
+
+     i) The Appellants may have bought their TOEIC certificates as part  of
+        a package of false documents.
+
+
+    ii) Alternatively, they may have attended a test centre with bona  fide
+        intentions and then,  upon  discovering  "the  fraud",  voluntarily
+        participated therein.
+
+    (iii)     In the further alternative, even though likely to succeed  on
+        their own merits,  they  opted  to  cheat  in  order  to  secure  a
+        guaranteed result.
+
+    (iv) Finally, their command of English may have  improved  between  the
+        date of the tests and the hearing of their appeals.
+
+    We observe that while we have been consistently open to all  reasonable
+    possibilities, as Mr Biggs emphasised in his submissions none of  these
+    theories was canvassed in any substantial or  detailed  manner  in  the
+    cross examination of either Appellant.  Having regard to  our  analysis
+    of all the evidence and the findings rehearsed above, we find that none
+    of the first three scenarios has  been  established.   As  regards  the
+    fourth, we have placed no reliance on  the  apparent  English  language
+    proficiency of either Appellant as displayed in their evidence  to  the
+    Tribunal.
+
+92. Our overarching conclusion is that  the  Secretary  of  State  has  not
+    discharged the legal burden of  proving  that  this  Appellant's  TOEIC
+    certificate was procured by dishonesty.
+
+    The Second Appellant: Mr Qadir
+
+93.  It  is  unnecessary  to  rehearse  those  assessments,  findings   and
+    conclusions above which apply as fully to  this  Appellant  as  to  the
+    first Appellant.
+
+94. We shall now switch our focus to the case of the second  Appellant,  Mr
+    Qadir.  In  cross  examination,  this  Appellant  was   questioned   in
+    particular about the following issues and topics: the contents  of  his
+    two witness statements; his qualifications obtained  in  Pakistan;  his
+    employment history in Pakistan; his IELTS English  language  test;  his
+    primary motivation in coming to the United Kingdom;  colleges  attended
+    and courses pursued since his arrival  in  late  2010;  his  places  of
+    residence in England; his choice of the centre where he claims to  have
+    taken the TOEIC test; the details  of  the  test  and  the  surrounding
+    circumstances; his full marks  (200/200)  in  the  speaking  test;  the
+    content of the four test components; the financing of his education  in
+    the United Kingdom; and,  finally,  certain  answers  provided  by  him
+    during interview.  As in the case of the other  Appellant,  the  issues
+    canvassed with this Appellant in cross examination,  both  individually
+    and collectively, sounded on his character, reliability and veracity.
+
+95. Generally, the evidence given by this  Appellant  and  adduced  on  his
+    behalf  was  simpler  and  less  voluminous  than  that  of  the  other
+    Appellant.  This is, in the main,  a  reflection  of  this  Appellant's
+    substantially shorter period of sojourn in the  United  Kingdom.  While
+    both Appellants obviously rely on the expert evidence of  Dr  Harrison,
+    this Appellant, like the other Appellant, also relies substantially  on
+    his own evidence both oral and documentary. Furthermore, as in the case
+    of the first  Appellant,  the  Tribunal  requested  this  Appellant  to
+    produce as many original documents as  he  could  and  he  too  did  so
+    overnight.
+
+96. Addressing the main issues canvassed in Mr Dunlop's final  submissions,
+    which contain an impressive forensic analysis of the evidence:
+
+      i) Objectively, it is relatively unsurprising that, following a period
+         of two years living  and  studying  in  the  United  Kingdom,  this
+         Appellant's proficiency in English was  substantially  better  than
+         during his second level education. Furthermore, we formed the clear
+         impression that he is a serious and studious individual.  While  he
+         did not undertake any English foundation course following  arrival,
+         there is no evidence to suggest that  his  English  was  not  of  a
+         sufficient standard to participate in and progress through  various
+         third level education courses.  We take note  of  this  Appellant's
+         full score (200/200) in the English  speaking  component.  However,
+         the Secretary of State, on whom the legal burden rests, has adduced
+         no benchmark or comparative evidence or, indeed, expert evidence to
+         cast shadows over this discreet score.  There was, for instance, no
+         suggestion that only a  tiny  elite  of  brilliant  students  could
+         genuinely achieve this mark.
+
+
+     ii) This Appellant provided impressive evidence when  questioned  about
+         the substance of the various components of the TOEIC  testing.   We
+         are satisfied that he was not prevaricating in his descriptions  of
+         reading a passage, identifying the gist of the  passage  concerned,
+         describing a picture, responding to short questions and  solving  a
+         problem. Further we take judicial notice  of  the  subjectivity  of
+         language examiners, a factor which is capable  of  giving  rise  to
+         apparent imbalances and surprisingly high - or surprisingly  low  -
+         marks.
+
+    iii) The Appellant's evidence about why he chose to take his TOEIC  test
+         at the particular centre in London, namely because of waiting lists
+         and delays, was plausible.  The Secretary of State led no  evidence
+         to counter it.
+
+     iv) It was not possible for the Appellant to adduce evidence  from  the
+         acquaintance  who  recommended  the  centre   concerned   whom   he
+         identified, as he is no longer in the United Kingdom.
+
+      v) Having studied the TOEIC "Official Score Reports" with care, we are
+         satisfied that all of the formal entries (name, registration,  date
+         of birth et al) were made by an official at the centre and not  the
+         Appellant. While his first name is misspelt in  one  of  these  two
+         documents, we find no basis for making an inference adverse to  the
+         Appellant accordingly.
+
+     vi) We acknowledge that this  Appellant's  witness  statements  do  not
+         spell out the different dates  upon  which  the  testing  occurred.
+         However,   they   clearly   identify   the   multiple   components.
+         Furthermore, the Appellants first witness statement was made  in  a
+         context in which the Official Score  Reports  formed  part  of  his
+         documentary evidence to the FtT.  We incline to the view  that  any
+         deficiency in the witness statements is to be  attributed  more  to
+         the solicitor or case worker concerned than the Appellant.
+
+    vii) We consider it unremarkable that,  given  that  he  made  only  two
+         relatively brief visits to the test centre  in  London  during  the
+         whole of his sojourn in  the  United  Kingdom,  the  Appellant  was
+         unable to provide a precise address or name.
+
+   viii) We find nothing adverse to this Appellant in the  "port"  interview
+         record.  The questioning of him was objectively,  entirely  capable
+         of eliciting the response made, namely his description of  securing
+         the IELTS English language qualification. Furthermore, we  consider
+         it obvious that  the  interviewer  was  adhering  strictly  to  the
+         prepared, pro-forma  text,  with  the  result  that  there  was  no
+         spontaneity in reacting to any of the  Appellant's  responses.   We
+         further take into account that, as is recorded, the  Appellant  was
+         somewhat indisposed at the time of interview.
+
+     ix) Finally, we construe this  Appellant's  description  of  his  first
+         semester of study and the later revocation of the  college  licence
+         as benign, giving rise to  no  major  or  objectively  demonstrable
+         discrepancy.
+
+    In summary, we prefer the submissions of Mr Malik on these issues.
+
+97.  We  are  satisfied  that  in  the  explanations,   illuminations   and
+    elaborations provided by this Appellant in  response  to  detailed  and
+    penetrating questioning no  significant  discrepancy  or  inconsistency
+    emerged. Without attempting  a  comprehensive  inventory  of  how  this
+    Appellant fielded the main interrogatories put to him, we are satisfied
+    that he provided adequate explanations of  the  main  issues  canvassed
+    with: him his English language and academic qualifications; his reasons
+    for coming to the United Kingdom; the location of some  of  his  course
+    examinations; the centre where he arranged to undertake the TOEIC test;
+    his reasons for taking the test at this centre; the descriptions of the
+    test provided in his witness statements; the spelling of  his  name  in
+    the two "Official Score Reports"; his familiarity with the  area  where
+    the test centre is located; his full marks in the  speaking  test;  and
+    his answers during interview.
+
+98. We take into account  the  submission  that  this  Appellant's  grammar
+    appeared to be less than perfect.  Having done so, we  would  highlight
+    that this contention was  advanced  through  the  medium  of  counsel's
+    submissions,  rather  than  any  evidence  adduced  on  behalf  of  the
+    Secretary of State.  Furthermore,  it  is  undermined  by  our  various
+    findings rehearsed above.  We further remind ourselves in this  context
+    of the cautionary approach espoused in [76] and [80] above.   While  no
+    tribunal will turn a blind eye to the obvious, we  find  no  basis  for
+    concluding that this Appellant's apparent English language proficiency,
+    based on his oral evidence, whether on its own or in  combination  with
+    other factors,  contributes  to  the  Secretary  of  State's  quest  to
+    discharge the legal burden of  establishing  that  his  dishonesty  was
+    instrumental in procuring his TOEIC certificate.
+
+99. Finally, our task of  evaluating  the  cogency  and  veracity  of  this
+    Appellant's  evidence  in  its  totality  has  been  assisted  by   the
+    opportunity which we had to study his demeanour and presentation during
+    a period of some two hours when testifying to the Tribunal.   We  found
+    no  indications  of  invention,  exaggeration  or  evasiveness.    This
+    Appellant was attentive to all questions and provided his answers in  a
+    careful, pensive fashion.  He at all times sought to  engage  with  the
+    Tribunal and clearly realised the importance of telling the truth.  His
+    answers to the vast majority of questions were of  appropriate  length,
+    comprehensible  and  intelligible.    In   demeanour   this   Appellant
+    consistently presented as a witness of truth.
+
+
+
+Omnibus Conclusions
+
+100. The evidence adduced on behalf of the Secretary of State  suffers  from
+    the multiple frailties and  shortcomings  identified  above.  The  oral
+    evidence of the first Appellant, SM, was a classic  curate's  egg.   We
+    have exposed its mix of strengths and imperfections above. Having  done
+    so, we have concluded that the core elements of his case are plausible.
+    The oral evidence of the second Appellant, Mr Qadir, was, in  contrast,
+    impressive in its entirety.  We have accepted the central thrust of his
+    case  also.   The  documentary  evidence  adduced  by  both  Appellants
+    contains no significant flaws.  While certain  questions  deserving  of
+    consideration  and  reflection  have  been  raised  (reflected  in  our
+    conclusion that the Secretary of State's  evidential  burden  has  been
+    satisfied), these are insufficient to displace our  omnibus  conclusion
+    that, viewing all the evidence in the round and  having  subjected  the
+    Appellants' testimony to the Tribunal to critical scrutiny, the core of
+    their respective cases is truthful and plausible. Finally,  the  expert
+    evidence of Dr  Harrison  significantly  undermines  the  Secretary  of
+    State's case, fortifies and reinforces the case of both Appellants and,
+    ultimately, has emerged not merely unshaken but enhanced .
+
+101. We have already held that the evidential burden  of  proof  resting  on
+    the Secretary of State has been narrowly discharged.  For  the  reasons
+    which we have  given,  we  are  satisfied  that  both  Appellants  have
+    discharged their burden of raising an innocent explanation of the prima
+    facie indications of deception  on  their  part  in  the  Secretary  of
+    State's evidence. For the  reasons  elaborated,  we  conclude,  without
+    hesitation, that the Secretary of State has failed to establish, on the
+    balance of probabilities, that the  Appellants'  prima  facie  innocent
+    explanations are to be rejected. The legal burden of proof  falling  on
+    the Secretary of State has not  been  discharged.  The  Appellants  are
+    clear winners.
+
+102. We take this opportunity to re-emphasise that every case  belonging  to
+    the ETS/TOEIC stable will invariably be fact sensitive.  To this we add
+    that every appeal will be determined  on  the  basis  of  the  evidence
+    adduced by the parties. Furthermore, the hearing of these  appeals  has
+    demonstrated beyond peradventure that judicial review  is  an  entirely
+    unsatisfactory litigation vehicle for the determination of disputes  of
+    this kind: see Gazi at [36] - [37].
+
+103. We take note of the indications in the conduct of these  appeals  that,
+    in some future case, the Secretary of State may seek to adduce  further
+    evidence, likely to be expert in  nature.  Should  this  eventuate  the
+    evidential  framework  of  future  appeals  will  not  merely  be  fact
+    sensitive but may include  an  entirely  new  ingredient.  As  we  have
+    emphasised, all appeals will be decided on the basis  of  the  evidence
+    actually adduced.
+
+104. The factors which were of particular significance in  the  exercise  of
+    making our findings and conclusions in these appeals are  evident  from
+    what we have written in this judgment.   We  are  conscious  that  some
+    future appeals may be of the "out  of  country"  species.   It  is  our
+    understanding that neither the FtT nor this tribunal has experience  of
+    an out of country appeal of this kind, whether through  the  medium  of
+    video link or Skype or otherwise.  The question of  whether  mechanisms
+    of this kind are satisfactory and, in particular, the legal question of
+    whether they provide an appellant with a fair hearing will depend  upon
+    the particular context and circumstances of the individual case.  This,
+    predictably,  is  an  issue   which   may   require   future   judicial
+    determination.
+
+Decision
+
+105. We re-make the decision of  the  FtT  in  each  case  by  allowing  the
+    Appellants' appeals.
+
+
+
+
+Postscript
+
+106. We consider it appropriate to record that,  following  the  circulation
+    of this judgment in draft in  the  usual  way,  having  considered  the
+    response on behalf of the Secretary of State the author of the judgment
+    took the precaution of listening  to  the  recording  of  Ms  Collings'
+    evidence  in   particular.    This   was   an   arid   exercise   since
+    (notwithstanding repeated judicial  exhortations)  Ms  Collings  failed
+    consistently to speak sufficiently audibly to enable her evidence to be
+    efficaciously recorded.
+
+107. Finally, we take the opportunity to emphasise strongly the caution  and
+    respect with which parties and  representatives  must  treat  embargoed
+    judgments. All forms of unauthorised dissemination  will  be  met  with
+    rigorous measures.  Any  slightest  doubt  should  be  proactively  and
+    timeously raised with the Tribunal.
+
+
+
+
+
+
+                                                                       [pic]
+                                               THE HON. MR JUSTICE MCCLOSKEY
+                                             PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+
+
+                                                         Date: 31 March 2016
+
+                                 APPENDIX 1
+
+                                    [pic]
+Upper Tribunal
+                                            (Immigration and Asylum Chamber)
+
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House                  |Ruling given orally on 05 February   |
+|05 February 2016                      |2016                                 |
+|                                      |.....................................|
+|                                      |..                                   |
+
+                                   Before
+
+                  THE HON. MR JUSTICE McCLOSKEY, PRESIDENT
+                      DEPUTY UPPER TRIBUNAL JUDGE SAINI
+
+                                   Between
+
+                                     SM
+                           (Anonymity Order made)
+                                      &
+                                 IHSAN QADIR
+                                                                  Appellants
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+Representation
+
+First Appellant:        Mr M Biggs,  of  counsel,  instructed  by  Universal
+             Solicitors
+Second Appellant:  Mr Z Malik, of counsel, instructed by AWS Solicitors
+Respondent:          Mr R  Dunlop,  of  counsel,  instructed  by  Government
+             Legal Department
+
+                                   RULING
+
+ 1. The following is our ruling on the Secretary of State's application for
+    the admission of belatedly served  evidence.   By  'belatedly'  I  mean
+    served on the Appellants' legal representatives yesterday  and  brought
+    to the attention of the Tribunal for the first time this morning.
+
+ 2. The evidence consists of two basic categories.  The first  category  is
+    the police materials.  This aspect of the application  is  particularly
+    contentious.  The second category  is  the  remaining  materials  which
+    gives rise to substantially less  controversial issues.
+
+ 3. As regards the first category, namely  the  police  reports,  the  main
+    features or issues to be highlighted are, first of  all,  the  lateness
+    per se and related to that the absence of any appropriate  application,
+    timeous or otherwise, to the Tribunal on behalf of  the  Respondent  in
+    advance of today's hearing, taking into account the specially  convened
+    CMR on 17 December 2015. It is difficult to conceive of evidence  being
+    served any later than this was.   Linked to this there is  the  absence
+    of anything even approaching a  satisfactory  explanation.   There  is,
+    indeed, a detectable element of the cavalier in approaching the hearing
+    in this way.
+
+ 4. The next main issue is linked to the first and that is fairness to  the
+    Appellants.  Having regard to  the  nature  of  this  evidence,  it  is
+    fundamentally and manifestly unfair to expect the  Appellants  to  deal
+    with it, quite irrespective of timing.  This requires no elaboration.
+
+ 5. The third and fourth points are interrelated,  as  are  the  first  and
+    second.  They concern  the  content  of  the  evidence,  its  potential
+    probative value and its likely prejudicial effect.  The evidence is not
+    produced in any conventional  or  acceptable  form.   It  is,  properly
+    analysed,  multiple  hearsay.   It  contains   mere   allegations   and
+    assertions.  Its likely probative value is as  close  to  zero  as  one
+    could imagine, while its potentially prejudicial effect could be  quite
+    significant.  Given that, if it is to be admitted by the Tribunal  that
+    can only be  for  the  purpose  of  persuading  the  Tribunal  to  make
+    inferences adverse to the Appellants and indeed to simply smear them.
+
+ 6. Furthermore, it is not without  good  reason  that  in  legislating  in
+    matters of this nature, Parliament has for many  decades  made  a  very
+    careful distinction between criminal convictions on the  one  hand  and
+    anything falling short of a criminal conviction on the other.  Evidence
+    of criminal convictions can be adduced by statute in civil  proceedings
+    only if certain conditions are satisfied.  We  are  not  even  at  that
+    level in relation to this evidence  as  it  consists  of  mere  hearsay
+    allegations, comment  and  speculation.   Even  if  there  were  formal
+    charges or indictments evidence of these  too  would  be  inadmissible.
+    The consideration that these are tribunal proceedings does  not  affect
+    this analysis, particularly given the gravity of the misconduct, namely
+    fraud, alleged by the Secretary of State against both Appellants.
+
+ 7. For this combination of reasons the application to  adduce  the  Police
+    Reports falls to be refused without any hesitation whatsoever.
+
+ 8. I turn now to address the remaining materials which are,  firstly,  the
+    witness statements of Mr Green and the two attachments, each in what is
+    now familiar form in this sphere of litigation,  namely  a  spreadsheet
+    entry.  Secondly, there is the interview of  the  second  Appellant  at
+    port.  Thirdly, there is a  document  entitled  "Explanation  of  ILETS
+    Scoring".  Fourthly, there is evidence relating to the SCLT Centres  in
+    Leeds in January and February 2012.
+
+ 9. The various  shortcomings  and  objections  pertaining  to  the  Police
+    Reports do not apply, by and large, to this other category of evidence.
+     We  shall,  accordingly,  admit  Mr  Green's  witness  statements  and
+    attachments.  That will, of course, be subject to any submission  which
+    may properly be made concerning the timing of  this  evidence  and  the
+    weight to be attached to it.   With  some  reluctance  and  subject  to
+    precisely the same  qualification,  which  could  potentially  be  more
+    important in this instance, we shall admit also the  document  entitled
+    "Explanation  of  ILETS  Scoring".  Further,  we  can  see  sustainable
+    objection to admitting the port interview of the second Appellant.
+
+10. We have considered also the nature of the evidence provided  under  the
+    rubric of "Evidence Relating to SELT Centres in Leeds  in  January  and
+    February 2012".  There may, legitimately, be  substantial  reservations
+    about the probative value  of  this  evidence  and  the  weight  to  be
+    attached to it.  However, on balance, we take the course  of  admitting
+    this evidence with that important qualification,  thereby  leaving  the
+    Appellants in the following position.  As regards the admission of  the
+    various components of what we have identified as the second category in
+    the Secretary of State's belated bundle,  the  Appellants  will  be  at
+    liberty to advance such submissions relating to  timing,  fairness  and
+    probative value and weight as they see fit.
+
+11. One further preliminary issue was raised faintly and without notice  to
+    either the Tribunal or the Appellants' representatives.  An enquiry was
+    made by Mr Dunlop as to whether  one  member  of  the  judicial  panel,
+    Deputy Upper Tribunal Judge Saini, had previously acted as an  advocate
+    in any case of this kind.  As I pointed out, this was an  inappropriate
+    and misconceived enquiry, for two reasons.  First, it was based on  the
+    unspoken premise that, without advance notice or formality of any kind,
+    it was open to a representative to direct questions of this kind  to  a
+    Judge in open court.  The impropriety of such a procedure  requires  no
+    elaboration.  Second, on its merits, the issue  raised  was  devoid  of
+    substance.  As the leading authority on this  topic,  Locabail  -  v  -
+    Bayfield Properties [1999] EWCA Civ  3004  makes  clear,  a  part  time
+    Judge's previous involvement in a comparable  case  does  not,  without
+    more, justify recusal.  Lord Bingham MR stated, at [25]:
+
+         "We  cannot,  however,  conceive  of  circumstances  in  which   an
+         objection could be soundly based on  ...................   previous
+         receipt of instructions to act for or against any party,  solicitor
+         or advocate engaged in a case before him ...."
+
+              [My emphasis]
+
+12. I also consider it appropriate to draw attention to the statutory  oath
+    of office which must be sworn or affirmed, by all deputy judges and, in
+    particular, the words "without fear or favour". Finally,  the  Locabail
+    issue has arisen in a very recent decision  of  the  Court  of  Appeal,
+    which considered it in extenso.  See Watts v Watts [2015] EWCA Civ 1297
+    and, in particular, the following passages in [28]:
+
+
+         "(i) The notional fair-minded  and  informed  observer  would  know
+              about the professional  standards  applicable  to  practising
+              members of the Bar and to barristers who serve  as  part-time
+              deputy judges and would understand that those  standards  are
+              part of  a  legal  culture  in  which  ethical  behaviour  is
+              expected and high ethical standards are achieved,  reinforced
+              by  fears  of  severe  criticism  by  peers   and   potential
+              disciplinary action if  they  are  departed  from:  Taylor  v
+              Lawrence [2001] EWCA Civ 119, [33]-[36];  Taylor  v  Lawrence
+              [2002] EWCA Civ 90; [2003] QB 528, [61]-[63].  These  aspects
+              of the legal culture of the Bench and legal professionals are
+              not undermined by the fact that some litigation is now funded
+              by means of CFAs;
+
+
+          ii)    The  notional  fair-minded  and  informed  observer  would
+              understand that a part-time judge's approach to the case  she
+              is trying and to her relationships with  other  professionals
+              will be governed by these professional standards. There is no
+              reason to think that a judge  would  allow  her  professional
+              training and ethics to be overridden  by  a  concern  not  to
+              upset a junior counsel she is leading  in  other  litigation.
+              Moreover, the judge would know that the junior counsel  would
+              himself understand that she is bound by  strict  professional
+              standards, and hence would have no expectation that she would
+              do anything other than act in accordance with  them.  So  the
+              judge would not expect any disgruntlement  or  difficulty  to
+              arise in her relationship with the junior counsel even if she
+              makes a decision adverse to him in the case  she  is  trying.
+              Accordingly,  the  idea  that  the  judge  would  adjust  her
+              behaviour as judge to avoid upsetting the junior  counsel  is
+              far-fetched indeed. The  notional  fair-minded  and  informed
+              observer would  not  consider  that  there  was  any  genuine
+              possibility of this occurring;"
+
+13. As it happens, Deputy Upper Tribunal Judge Saini has indeed acted as an
+    advocate  in  a  couple  of  "ETS"  cases  at   first   instance   and,
+    notwithstanding the two fundamental defects identified above, this  was
+    immediately broadcast by me in open court.
+
+                                                                       [pic]
+
+                                               THE HON. MR JUSTICE McCLOSKEY
+                                             PRESIDENT OF THE UPPER TRIBUNAL
+
+
+
+                                              IMMIGRATION AND ASYLUM CHAMBER
+
+
+                                                      Date: 09 February 2016
+                                 APPENDIX 2
+
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+
+                            THE IMMIGRATION ACTS
+
+
+|                                              |Direction Promulgated        |
+|                                              |                             |
+|                                              |.............................|
+|                                              |..........                   |
+
+
+
+                                   Between
+
+                             SM and Ihsan Qadir
+                                                                  Appellants
+
+                                     and
+
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+
+                          Ruling / Direction of The Hon Mr Justice
+McCloskey, President
+
+ 1. The Secretary of  State  brings  this  application  for  Directions  in
+    circumstances where all of her evidence has been adduced, pursuant to a
+    sequential framework approved by the Tribunal, and  her  case  has  now
+    closed in consequence. This follows two days  of  evidence,  which  has
+    included the testimony of two of the Appellants'  witnesses,  including
+    their expert witness, on 05 and 06 February 2016. On the latter date, a
+    necessary third day of hearing, 03 March 2016, was arranged and  agreed
+    by all representatives. Only the two Appellants remain to give evidence
+    and thereby complete the trial.
+
+ 2. These appeals have been in gestation for  some  considerable  time  and
+    have been the subject of pre-trial management.
+
+ 3. The trial has already been disrupted and delayed by  the  Secretary  of
+    State's belated quest to have new evidence admitted, on the first day.
+
+ 4. The essence of this further application is to permit new evidence,  not
+    yet in existence, to be adduced from an  expert.  This  application  is
+    made far too late. No satisfactory explanation  for  its  lateness  has
+    been provided.  The Appellants' expert report has been  in  the  public
+    and litigation arenas for over one year. To accede to  the  application
+    will, as a matter of high probability, significantly disrupt and  delay
+    the trial further. Having regard to [1] above, it will  also  skew  the
+    trial  unacceptably.  The  overriding  objective  impels  strongly   to
+    refusal.
+
+ 5. Insofar as it is suggested that the expert's report could be  ready  by
+    03 March 2016, this fails to address [2] - [4]  above.  Furthermore,  I
+    have grave concerns about such indecent haste, given the extensive  and
+    protracted preparations and research which would, in my  judgement,  be
+    required of a serious expert witness.
+
+ 6. The Secretary of State may, of course, seek to adduce such evidence  in
+    some future case.
+
+ 7. For the reasons elaborated above, the application is refused.
+
+ 8. Finally, I make clear that I discern no impropriety in the  conduct  of
+    the Secretary of State's legal representatives.
+
+
+                                               Signed:     Bernard McCloskey
+
+                                         PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+
+
+                                                     Date:  25 February 2016
+
+

@@ -1,0 +1,2201 @@
+
+[pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Arranz (EEA Regulations - deportation - test) [2017] UKUT 00294 (IAC)
+
+                            THE IMMIGRATION ACTS
+
+                                   PART 1
+
+|Heard at Field House, London           |                                    |
+|On 16 and 30 January and 02 February   |Date of promulgation: 22 February   |
+|2017                                   |2017                                |
+|                                       |                                    |
+|                                       |                                    |
+
+
+                                   Before
+
+                  The Hon. Mr Justice McCloskey, President
+  The Hon. Mr Justice Supperstone, sitting as a Judge of the Upper Tribunal
+
+                                   PART 2
+
+Heard at Field House, London
+On 09 May 2017     Date of promulgation: 22 August 2017
+
+
+                                   Before
+
+                  The Hon. Mr Justice McCloskey, President
+                          Upper Tribunal Judge Blum
+
+                                   Between
+
+                           Antonio Troitino Arranz
+                                                                   Appellant
+                                     and
+
+                 Secretary Of State for the Home Department
+                                                                  Respondent
+
+Representation
+
+For the Appellant:     Ms L Dubinsky, of  counsel,  instructed  by  Birnberg
+             Pierce Solicitors
+For the  Respondent:     Ms  J  Anderson,  of  counsel,  instructed  by  the
+             Government Legal
+                                      Department
+   i) The burden of proving that a person represents a genuine, present  and
+      sufficiently serious threat affecting one of the fundamental interests
+      of society under Regulation 21(5)(c) of the EEA Regulations  rests  on
+      the Secretary of State.
+
+
+  ii) The standard of proof is the balance of probabilities.
+
+
+ iii) Membership of an organisation proscribed under the laws of  a  foreign
+      country does not without more satisfy the aforementioned test.
+
+
+  iv) The "Bouchereau"  exception  is  no  longer  good  law:  CS  (Morocco)
+      applied.
+
+Preface
+
+This, the composite judgment of the Upper Tribunal, is in two  parts.   Part
+1 contains the error of law decision promulgated on 22 February 2017.   Part
+2 is the remade determination of this appeal.
+
+
+                                  DECISION
+
+                                   PART 1
+
+Introduction
+
+ 1. This  is  the  judgment  of  the  panel  to  which  both  members  have
+    contributed.  At this stage  of  these  appeal  proceedings,  the  sole
+    question for the Upper Tribunal is whether the First-tier Tribunal (the
+    "FtT") committed a material error of law  within  the  compass  of  the
+    permitted grounds of appeal.
+
+
+ 2. The Appellant, Antonio Troitino Arranz, is a Spanish national, aged  59
+    years.  The Respondent, the Secretary of State for the Home  Department
+    (the "Secretary of State") is the author  of  the  decision  underlying
+    this appeal.  The impugned decision, which is  dated  18  August  2015,
+    notified the Appellant that  he  would  be  deported  from  the  United
+    Kingdom under regulation 19(3)(b) of the Immigration (European Economic
+    Area) Regulations 2006 (the "EEA Regulations") on the ground of  public
+    policy.  The reason proffered was that the Appellant was considered  to
+    represent "a genuine, present and sufficiently serious  threat  to  the
+    public ....".
+
+
+The Statutory Framework
+
+ 3. The underlying legislative instrument is a measure of  EU  law,  namely
+    Directive 2004/38/EC (the "Citizen's Directive").  This,  as  its  long
+    title states, regulates "the right of citizens of the Union  and  their
+    family members to move and reside freely within the  territory  of  the
+    Member States".   The  topic  of  expulsion  from  a  Member  State  is
+    addressed in Article 27, which provides:
+
+
+         "1.  Subject to the provisions of this Chapter, Member  States  may
+             restrict the  freedom  of  movement  and  residence  of  Union
+             citizens   and   their   family   members,   irrespective   of
+             nationality, on grounds of public policy, public  security  or
+             public health.  These grounds shall not be  invoked  to  serve
+             economic ends.
+
+
+         2.   Measures taken on grounds of public policy or public  security
+             shall comply with the principle of proportionality  and  shall
+             be based exclusively on the personal conduct of the individual
+             concerned.  Previous  criminal  convictions   shall   not   in
+             themselves constitute grounds for taking such measures.
+
+
+         The personal conduct of the individual concerned must  represent  a
+         genuine, present and sufficiently serious threat affecting  one  of
+         the fundamental  interests  of  society.  Justifications  that  are
+         isolated  from  the  particulars  of  the  case  or  that  rely  on
+         considerations of general prevention shall not be accepted.
+
+
+         3    In order to ascertain whether the person concerned  represents
+             a danger for public policy or public  security,  when  issuing
+             the  registration  certificate  or,  in  the  absence   of   a
+             registration system, not later than three months from the date
+             of arrival of the person concerned on its  territory  or  from
+             the date of reporting his/her presence within  the  territory,
+             as provided for in Article 5(5), or when issuing the residence
+             card, the host Member  State  may,  should  it  consider  this
+             essential, request the Member State of origin and, if need be,
+             other Member States  to  provide  information  concerning  any
+             previous police record the person  concerned  may  have.  Such
+             enquiries shall not be made  as  a  matter  of  routine.   The
+             Member State consulted shall give its reply within two months.
+
+
+         4    The Member State which issued the passport  or  identity  card
+             shall allow the holder of the document who has  been  expelled
+             on grounds of public policy, public security, or public health
+             from another Member State to re-enter  its  territory  without
+             any formality even if the document is no longer valid  or  the
+             nationality of the holder is in dispute."
+
+
+
+ 4. The United Kingdom transposing instrument is the EEA Regulations  2006.
+    Regulation 19 is the sister provision of Article 27 of  the  Directive.
+    It provides, under the rubric of "Exclusion and Removal from the United
+    Kingdom", in material part:
+
+
+         "(3) Subject to paragraphs (4) and (5), an  EEA  National  who  has
+             entered the United Kingdom or the  family  member  of  such  a
+             National who has entered the United Kingdom may be removed  if
+             -
+
+
+             ...
+
+
+             (b)  The Secretary of State  has  decided  that  the  person's
+                  removal is justified on grounds of public  policy,  public
+                  security or public health in accordance with regulation 21
+                  ...."
+
+
+         [Paragraphs  (4)  and  (5)  have  no  application  in  the  present
+         context.]
+
+
+    Regulation 21 is concerned  with  decisions  taken  on  public  policy,
+    public security and public health grounds.  It provides:
+
+
+         "(1) In this regulation a "relevant decision" means an EEA decision
+             taken on the grounds of  public  policy,  public  security  or
+             public health.
+
+
+         (2)  A relevant decision may not be taken to serve economic ends.
+
+
+         (3)  A relevant decision may not be taken in respect  of  a  person
+             with a permanent right of residence under regulation 15 except
+             on serious grounds of public policy or public security.
+
+
+         (4)  A relevant decision may not  be  taken  except  on  imperative
+             grounds of public security in respect of an EEA national who-
+
+
+             (a)  has resided in the United Kingdom for a continuous period
+                  of at least ten years prior to the relevant decision; or
+
+
+             (b)  is under the age of 18, unless the relevant  decision  is
+                  necessary in his best interests, as provided  for  in  the
+                  Convention on the Rights  of  the  Child  adopted  by  the
+                  General Assembly of the United Nations  on  20th  November
+                  1989.
+
+
+         (5)  Where a relevant decision is taken on grounds of public policy
+             or public security it shall, in addition to complying with the
+             preceding  paragraphs  of  this  regulation,   be   taken   in
+             accordance with the following principles-
+
+
+             (a)   the  decision  must  comply  with   the   principle   of
+                  proportionality;
+
+
+             (b)  the decision must be based exclusively  on  the  personal
+                  conduct of the person concerned;
+
+
+             (c)   the  personal  conduct  of  the  person  concerned  must
+                  represent a  genuine,  present  and  sufficiently  serious
+                  threat affecting  one  of  the  fundamental  interests  of
+                  society;
+
+
+             (d)  matters isolated from the  particulars  of  the  case  or
+                  which relate to considerations of  general  prevention  do
+                  not justify the decision;
+
+
+             (e)  a  person's  previous  criminal  convictions  do  not  in
+                  themselves justify the decision.
+
+
+         (6)  Before taking a relevant decision on  the  grounds  of  public
+             policy or public security in  relation  to  a  person  who  is
+             resident in the United Kingdom the decision  maker  must  take
+             account of considerations such as the age,  state  of  health,
+             family and economic situation  of  the  person,  the  person's
+             length of residence in the United Kingdom, the person's social
+             and cultural integration  into  the  United  Kingdom  and  the
+             extent of the person's links with his country of origin."
+
+
+ 5. In the context of this appeal, the key provision of  Regulation  21  is
+    paragraph (5)(c).  The mirror provision in the Directive is Article  27
+    (2).
+
+
+The Secretary of State's Decision
+
+ 6. It is necessary to analyse the  Secretary  of  State's  decision  in  a
+    little detail.  The decision refers to the Order  of  a  Spanish  Court
+    dated 07 November 1989 whereby  the  Appellant  was  convicted  of  the
+    murder of 12 civil  guards  and  injury  to  43  civil  guards  and  17
+    civilians, all perpetrated  on  14  July  1986.   These  offences  were
+    committed in the name of the terrorist organisation ETA.  The  decision
+    letter states:
+
+
+         "In appraising the interests of public policy and security,  it  is
+         determined that your involvement  in  these  serious  offences,  as
+         evidenced by the imposition of a custodial sentence of 30 years  in
+         Spain, are evidence of your personal conduct constituting a present
+         threat to the requirement of  that  policy.   Therefore  your  past
+         terrorist conduct itself justifies your deportation."
+
+
+
+
+ 7. The second reason given for the deportation decision  is  expressed  in
+    the following passage:
+
+
+         "Furthermore, there is no evidence that you have severed your links
+         to Basque terrorists ....
+
+
+         The Metropolitan Police have provided  copies  of  forged  identity
+         cards (which contained your photograph) found  at  [address]  where
+         you were living with a man named .... [who] was wanted in Spain for
+         his involvement in ETA Basque separatist related offences.  He  was
+         accused of being a member of  an  armed  group  and  possession  of
+         explosives .... [and] on 16 August 2013 [he]  was  extradited  from
+         the United Kingdom to Spain in order to be tried for this matter."
+
+
+    The decision continues:
+
+
+         "Falsified documents can be used to  enable  identity,  theft,  age
+         deception, illegal  immigration,  terrorism  and  organised  crime.
+         There can be no legitimate reason to hold such documents.   Bearing
+         in  mind  your  previous  conviction,  your  possession  of   these
+         documents and  your  association  with  a  man  implicated  in  ETA
+         terrorist offences strongly suggests that you present a significant
+         risk of harm to the public."
+
+
+    Thus the deportation decision was, in substance, based on two grounds.
+
+
+ 8. The decision maker then purported to give effect to regulation 21(5)(a)
+    of the EEA Regulations, which stipulates that any deportation  decision
+    must comply with  the  principle  of  proportionality  and  details  an
+    inexhaustive list of factors to be taken into account:  age,  state  of
+    health, family and economic  situation,  length  of  residence  in  the
+    United Kingdom, social and cultural integration and links with  country
+    or origin.  This discrete assessment yielded the following conclusion:
+
+
+         "...  Given the threat of serious harm you pose to the  public,  it
+         is considered that your personal circumstances do not preclude your
+         deportation being pursued.  It is considered that the  decision  to
+         deport you is proportionate ...."
+
+
+    It was further noted that there was no evidence that the Appellant  was
+    engaged in any form of rehabilitation in the United Kingdom.
+
+
+
+
+ 9. Next, the Secretary of State's  decision  maker  considered  Article  8
+    ECHR, in the following terms:
+
+
+         "You have not provided  any  evidence  of  Article  8  family  life
+         existing in the United Kingdom ...
+
+
+         It is accepted that you may have developed a degree of private life
+         ....
+
+
+         Your deportation is conducive to the public good and in the  public
+         interest because you have been convicted of an  offence  for  which
+         you have been sentenced to a period of  imprisonment  of  at  least
+         four years."
+
+
+
+
+    The decision  maker  noted  that  the  deportation  provisions  of  the
+    Immigration Rules - paragraphs A362 and A398 - 399D - and  Part  5A  of
+    the Nationality, Immigration and Asylum Act 2002 did not apply  to  the
+    Appellant's case.  However,  these  had  been  "used  as  a  guide  for
+    considering your Article 8 claim".  This exercise entailed  posing  the
+    question of whether there were very compelling circumstances sufficient
+    to  outweigh  the  public   interest   underpinning   the   Appellant's
+    deportation.   The  conclusion  made  was  that  there  were  no   such
+    circumstances.
+
+
+The European Arrest Warrant
+
+10. By reason of certain aspects of the permitted grounds of appeal, it  is
+    necessary to outline some features of the evidential framework.  Two of
+    the key components of this framework are the  European  Arrest  Warrant
+    (the "EAW") and the Appellant's two witness statements.  The background
+    to this evidence is that on 13 April  2011,  having  served  24  years'
+    imprisonment  with  six  years'  remission  for  good  behaviour,   the
+    Appellant was released from prison.  The only evidence of what occurred
+    during the immediately ensuing  phase  is  what  is  contained  in  the
+    Appellant's witness statements.
+
+
+11. There is no dispute that the  Appellant  travelled  through  Spain  and
+    entered France.  There he  remained  for  an  unspecified  period.   He
+    admits to having procured  false  identity  documents  at  this  stage.
+    Next,  equipped  with  these  documents,  he  travelled   to   England.
+    Following arrival he resided in London, sharing  accommodation  with  a
+    fellow countryman, whom we shall describe as "LS", until his arrest  on
+    29 June 2012.
+
+
+12. The ensuing extradition proceedings in this  jurisdiction  have  become
+    complex and protracted,  involving  the  transmission  by  the  Spanish
+    authorities  of  a  series  of  EAWs,  each  replacing  its   immediate
+    predecessor and three decisions of the  Divisional  Court:  see  [2016]
+    EWHC 3029 (Admin) at [3] - [7].  We shall refer  only  to  the  current
+    EAW.
+
+
+13.  Sandwiched between the first two  Divisional  Court  decisions  was  a
+    significant decision of the Grand Chamber of  the  ECtHR,  in  Del  Rio
+    Prada v Spain [2014] 58 EHRR 37.  This was  followed  by  a  successful
+    appeal  against  the  second  EAW,  the  issue  of  a  third  EAW,   an
+    unsuccessful first instance appeal  and  a  successful  appeal  to  the
+    Divisional Court: see Spanish Judicial Authority v Arranz (No 3) [2015]
+    EWHC 2305.  This was the impetus for the issue of the fourth -  current
+    - EAW by the Spanish Judicial authority
+
+
+14. The most recent judicial decision is that of the Divisional Court noted
+    in [12] above which  upheld  the  decision  of  Senior  District  Judge
+    Riddle, dated 14 June 2016, ordering  the  Appellant's  extradition  to
+    Spain.  We were informed that  there  is  at  present  an  undetermined
+    application for permission to appeal to the Supreme Court.
+
+
+15. The current, operative EAW, is dated  23  October  2015.   It  contains
+    several  references   to   "ETA",   a   proscribed   Basque   terrorist
+    organisation.  It  identifies,  in  section  2,  the  offences  of  (a)
+    actively participating in a terrorist organisation or  group  or  being
+    part thereof and  (b)  falsifying  a  public,  official  or  commercial
+    document, contrary to specified provisions of the Spanish Codigo Penal.
+     Both offences are punishable by imprisonment.  In a later  section  of
+    the EAW one finds the following detail:
+
+
+         "[The Appellant] was set free in accordance with a ruling issued on
+         April 2011 ....
+
+
+         Subsequently, the same Division upheld  an  appeal  lodged  by  the
+         State  Prosecutor  and  ordered  the  search  and  arrest  of  [the
+         Appellant]  who  went  underground  and  hid,  initially,   in   an
+         unidentified place in Spain. From there, he contacted the terrorist
+         organisation ETA again so they would help him flee from Spain, thus
+         making the search and arrest warrant against him  ineffective.   By
+         doing so he accepted submission  to  the  terrorist  organisation's
+         instructions regarding what is known as the Group of  Refugees  [El
+         Colectivo de  Refugiados],  a  branch  that  groups  ETA  militants
+         together in countries other than Spain and France, placing  himself
+         at the disposal of ETA ...
+
+
+         Thus, around 19 April 2011, to  evade  the  search  warrant  issued
+         against him [the Appellant] sent a photograph  of  himself  to  the
+         terrorist organisation ETA's branch  for  forging  documents  [FAL]
+         which belongs to ETA's logistics department  ....   [which]  forged
+         six Spanish identification documents with his  photograph  and  the
+         following identities ....  [names] ....
+
+
+         Said documents, analysed by the Forensic Services, were of the same
+         origin as other  documents  seized  from  several  members  of  the
+         terrorist organisation ...
+
+
+         The same documents were found on 29 June 2012 in the possession  of
+         [the Appellant] in the house he occupied with another member of the
+         organisation [LS] at [London address] where they were  arrested  by
+         the British police."
+
+
+
+
+    The text continues:
+
+
+         "In addition, two forged driving permits in the  names  of  [names]
+         both of which had a photograph of [the Appellant] where seized from
+         the latter.  Moreover, two European health cards  in  the  name  of
+         [names] were also found in his possession."
+
+
+
+
+    Referring to the person with whom the Appellant was living  in  London,
+    the EAW continues:
+
+
+         "Previously, [LS] had lodged [the Appellant].   Both  men  followed
+         the guidelines received beforehand from the terrorist  organisation
+         ETA, in accordance with the groups internal  rules  and  [its]  so-
+         called Protocol for Refugees".
+
+
+         ["Lodged" in this context denotes providing accommodation.]
+
+
+
+
+16. The EAW then addresses the issue of alleged membership of ETA:
+
+
+         "The  presence  of  [the  Appellant]  in  said   place   with   the
+         aforementioned individual is not a casual circumstance. Rather,  it
+         shows that [the Appellant] belongs to the  terrorist  organisation.
+         The entire process by which an ETA militant goes underground is not
+         due  to  an  independent,  individual  decision.   It   obeys   the
+         organisation's  internal  rules  and  the  so-called  Protocol  for
+         Refugees ....
+
+
+         In the case of [the Appellant], it meant a reintegration  into  the
+         terrorist organisation when he was released from prison".
+
+
+
+
+    The EAW then  provides  an  outline  of  the  evidence  supporting  the
+    allegation that the Appellant is a member of ETA: police  reports,  the
+    entry and search at the London address,  items  and  documents  seized,
+    experts' reports and police analyses and  certain  documents  recovered
+    from LS when searched in France following his arrest in 2008.
+
+
+
+
+17. The identity of the requesting Spanish judicial authority  is  of  some
+    significance.  It is the Juzgado Central de  Instruccion  (the  Central
+    Examining Magistrates' Court).  This indicates that the proceedings  in
+    Spain relating to the two offences of which the Appellant is  suspected
+    have not proceeded beyond the investigative phase and,  in  particular,
+    have not reached the stage of indictment or prosecution, for the reason
+    that the Appellant's presence in the Court is a necessary prerequisite.
+
+
+
+
+
+
+
+The Appellant's Witness Statements
+
+18. In juxtaposing the EAW with the  Appellant's  two  witness  statements,
+    which are dated 01 May 2014 and 12  July  2016  respectively,  each  of
+    which formed part of the evidence before the FtT, we are conscious that
+    the Appellant did not give  evidence  at  first  instance  and,  hence,
+    neither of these statements has been tested.  On the  other  hand,  the
+    FtT stated, in substance, that its determination of the appeal did  not
+    turn on these statements: see [5] of its decision.
+
+
+19. In his first statement the Appellant asserts that upon his release from
+    prison on 13 April 2011 he travelled directly to his daughter's home in
+    Hendaye, South Western France.  He did so in order to avoid the  effect
+    of the so-called "Parot" doctrine, which exposed him  to  the  risk  of
+    reimprisonment for a considerable period.  His flight through Spain  to
+    France appears to have been accomplished within a  period  of  some  24
+    hours.  He claims that he entered France without having to display  any
+    identification document.  His Spanish national  identity  card,  though
+    returned to him by the prison authorities, was out of date.  He asserts
+    that he obtained multiple false identity documents from an unidentified
+    person in France at a cost of E600, claiming that he is unaware of  any
+    ETA involvement in this exercise.  He felt unsafe in France on  account
+    of the  French/Spanish  Governments'  collaboration  and,  following  a
+    clandestine existence there,  he  entered  the  United  Kingdom  on  an
+    unspecified date.  He was able to make contact with  LS  in  London  by
+    virtue of information given to him by a  fellow  prisoner.   He  claims
+    that LS was previously unknown to him.
+
+
+20. In his statements the Appellant asserts that he is no longer  a  member
+    of ETA.  He claims to support the permanent ETA ceasefire and expresses
+    regret for his terrorist activities.
+
+
+The Operative Extradition Decision
+
+21. The second intervention by the Divisional Court  noted  above  was  the
+    impetus for the issue  of  the  fourth  EAW  by  the  Spanish  Judicial
+    Authority, on  23  October  2015.   The  Appellant  appealed.   By  his
+    decision dated 14 June 2016 the Senior District Judge found that  there
+    was no bar to extradition and made the Order culminating in  the  third
+    of the Divisional Court's decisions, which is dated 25  November  2016.
+    It is pertinent to note that by this stage the  extradition  order  was
+    confined to the first of the two offences specified in the  fourth  EAW
+    namely membership of a proscribed  terrorist  organisation  (ETA),  the
+    Senior District Judge having discharged the Appellant in respect of the
+    document falsification offence.  It is also appropriate to note that in
+    the extradition proceedings, the Appellant's case relied heavily on the
+    evidence of two experts, Mr Woodworth and Mr  Casanova.   All  of  this
+    evidence, with the exception of some modest updating, was  laid  before
+    the FtT.
+
+
+First Instance Decision
+
+22. The Secretary of State's decision to  deport  the  Appellant  from  the
+    United Kingdom was challenged by  appeal  to  the  FtT  which,  in  its
+    decision, made three principal conclusions.  First, the Appellant  will
+    not be  "at  risk  for  a  Convention  reason"  in  the  event  of  his
+    deportation to Spain (the "Convention" being the  Refugee  Convention).
+    Second, the Appellant's deportation will  not  involve  any  breach  of
+    Articles 5 or 6 ECHR (contrary to section 6 of  the  Human  Rights  Act
+    1998).  Third, the Appellant's deportation "...  is  justified  and  in
+    accordance with Regulation 19(3)(b)  and  Regulation  21  of  the  2006
+    Regulations".  Giving effect to these conclusions,  the  FtT  dismissed
+    the appeal on asylum grounds, under Articles 5 and 6 ECHR and under the
+    EEA Regulations.
+
+
+23. It is appropriate to highlight certain aspects of the  FtT's  decision.
+    This can be conveniently undertaken in list form. The FtT:
+
+
+      a) noted that  the  Appellant  was  entitled  to  the  first  tier  of
+         protection from deportation only, in light of his status under  the
+         EEA Regulations;
+
+
+      b) accepted that the Appellant's witness, Mr Woodworth, is  an  expert
+         in the realm of Basque and Spanish affairs;
+
+
+      c) stated that the burden of proof rested on the Appellant in  certain
+         specified respects and that the standard of proof was  the  balance
+         of probabilities;
+
+
+      d) acknowledged that the Secretary of State's decision maker erred  in
+         stating that the Appellant's personal conduct itself warranted  his
+         deportation, but considered this immaterial having  regard  to  the
+         decision as a whole;
+
+
+      e) accepted Mr Woodworth's evidence that ETA is a defunct organisation
+         whose members have engaged  in  no  acts  of  terrorism  since  the
+         declaration of its permanent ceasefire in 2011  and  that  ETA  has
+         never posed any threat to the security of the United Kingdom;
+
+
+      f) found that when the Appellant was encountered  in  London,  certain
+         "false identity documents" were discovered;  that  he  admitted  to
+         using forged documents to evade the UK and Spanish authorities; and
+         that he was living with "a terrorist who was subsequently convicted
+         of terrorism related offences";
+
+
+      g) found that the Appellant  had  not  "addressed"  or  regretted  his
+         offending and, linked to this, found that ETA continues to function
+         "insofar as it provides logistical support and a welfare  role"  of
+         which the Appellant had been  the  beneficiary  in  his  successful
+         transition from Spain to the United Kingdom;
+
+
+      h) further found, on this basis, that  the  Appellant  has  continuing
+         links to ETA "in its non-violent supportive role"; and
+
+
+      i) made no finding of whether the Appellant is still a member of ETA.
+
+
+
+
+24. The main conclusion of the FtT entailed a finding that the  Appellant's
+    "personal conduct" represented  a  genuine,  present  and  sufficiently
+    serious threat affecting one of the  fundamental  interests  of  United
+    Kingdom society under regulation 21(5)(c) of the EEA Regulations.   The
+    dismissal of the appeal entailed a rejection of all of the  Appellant's
+    grounds which were, in brief compass, that  the  Secretary  of  State's
+    decision was unlawfully based on the Appellant's  previous  convictions
+    alone; amounted to "disguised extradition"; was contrary to the Refugee
+    Convention; infringed the Appellant's rights under  Articles  5  and  6
+    ECHR; and infringed his rights under Article 47 of the EU Charter.
+
+
+25. Permission to appeal  was  sought,  and  granted,  on  several  grounds
+    (Grounds 1, 2 (in the alternative to 1), and 4-8).  These, in  essence,
+    resolve to arguable errors of law  consisting  of  a  failure  to  make
+    necessary findings, misdirection in law, failing to apply  the  correct
+    legal test and inadequate reasoning.  We shall  concentrate  mainly  on
+    what we consider to be the two principal grounds of appeal.
+
+
+The Principal Grounds of Appeal
+
+  26. In this section of our judgment we consider the following  grounds  of
+      appeal: no  finding  of  identification  of  genuine,  present  threat
+      (Ground 1), together with misdirection as to the  evidence  and  facts
+      (Ground 4).  In addition we shall consider the burden of  proof  issue
+      forming part of Ground 1.
+
+  27. The main ground of appeal is that the FtT made no sustainable  finding
+      that, in the language of regulation 21(5) of the EEA Regulations,  the
+      Secretary of State's decision was -
+
+
+         "... based exclusively on the personal conduct of  the  [Appellant]
+         ....
+
+         [representing] .... a genuine,  present  and  sufficiently  serious
+         threat affecting one of the fundamental interests of society."
+
+    This omnibus formulation (ours) encompasses the  several  inter-related
+    strands and alternatives of which this ground consists, both as pleaded
+    and as developed in argument.
+
+
+
+  28. The evidence of one of the two Appellant's experts, Mr  Woodworth,  is
+      of particular relevance to this ground.  Mr Woodworth's report  formed
+      part of the documentary evidence assembled and was supplemented by his
+      oral testimony.  Mr Woodworth's evidence on  what  we  term  the  "ETA
+      issue" is ascertainable from the following passages in his most recent
+      report:
+
+
+         "I am as certain as it is possible to be about such things that
+         ETA's terrorism has now ended permanently ....
+
+
+         There is no active ETA left to join .... "
+
+
+     At [17] of its decision the FtT comments:
+
+         "It was the evidence of Mr Woodworth,  in  particular  at  [114]  -
+         [115], [177] and [184]  of  his  report,  that  ETA  is  a  defunct
+         terrorist organisation.  None of the  high  profile  ETA  prisoners
+         have [sic] returned to violence.  Further,  there  is  no  evidence
+         that any ETA terrorist has returned to violence since ETA  declared
+         its  permanent  ceasefire,  nor  is  there   any   active   violent
+         organisation for them to join if they wished to do so.  No  serious
+         observer of the Spanish security scene believes that ETA will  ever
+         launch a new campaign of terrorism.  Mr Woodworth is as certain  as
+         it is possible to be about such things  that  ETA's  terrorism  has
+         ended permanently ....
+
+
+         ETA has never operated in the United Kingdom or Northern Ireland in
+         any way that involves risk to UK citizens or our  security  forces.
+         Mr Woodworth is of the opinion that ETA activity here is limited to
+         some of its members taking refuge  in  or  moving  through  the  UK
+         utilising false documents possibly provided  by  ETA  in  order  to
+         avoid detection and extradition to Spain."
+
+
+
+
+  29. Following  this  passage  the FtT reminded itself that the deportation
+      of the Appellant "... must be justified on grounds of  public  policy,
+      public security or public health in accordance with Regulation 21(5)".
+       In the next five paragraphs the judge rehearses some of the arguments
+      developed by the parties' respective counsel.  This is followed by the
+      key paragraph in his decision, [24]:
+
+
+         "I  accept  that  there   is   no   presumption   of   reoffending.
+         Nevertheless,  there  was  no  evidence  that  the  Appellant   has
+         addressed the  issues  which  caused  him  to  engage  in  acts  of
+         terrorism.  The Appellant did not adopt his statement, nor  did  he
+         give oral evidence, for example,  to  acknowledge  regret  for  his
+         terrorist activities.  The only  evidence  to  suggest  a  lack  of
+         potential to further offend is not by  way  of  rehabilitation  ...
+         but the view of Mr Woodworth that ETA is a defunct organisation and
+         its terrorism has come to an end on a permanent basis.   While  ETA
+         might be defunct in terms of carrying out  acts  of  terrorism,  it
+         appears  to  be  functioning  at  least  insofar  as  it   provides
+         logistical support and a welfare role.   There  was  no  suggestion
+         that the Appellant was assisted  in  leaving  Spain  with  multiple
+         false identities and directed to a house in  London  where  an  ETA
+         terrorist was residing by any organisation other than  ETA,  albeit
+         in a welfare role; there was no other credible explanation. In that
+         sense, then, I find the Appellant at least has links to ETA in  its
+         non-violent supportive role (albeit still proscribed), even  if  he
+         cannot be said to be still a member of the organisation, although I
+         make  no  finding  in  that  regard.   Whatever  justification  the
+         Appellant might have considered  entitled  him  to  flee  Spain  in
+         possession of  forged  false  identities  to  reside  with  an  ETA
+         terrorist wanted by the Spanish authorities in  London,  I  do  not
+         accept that either Article 31 of the Refugee Convention or  section
+         31 of  the  Immigration  and  Asylum  Act  1999  are  authority  to
+         legitimise the Appellant's continued association with ETA  and  the
+         means by which he facilitated his exit from  Spain,  entry  to  the
+         United Kingdom and residence here with an ETA terrorist."
+
+
+30.  In the next comparable passage of substance, at  [27],  the  judge,  in
+    giving consideration to the argument  that  the  Secretary  of  State's
+    decision was flawed as it was  based  exclusively  on  the  Appellant's
+    previous convictions, states:
+
+
+         "... but she went on to comment as part of her  overall  assessment
+         that there was no evidence the Appellant had severed his  links  to
+         ETA  (a  proscribed  organisation  in   Spain   and   in   the   UK
+         notwithstanding the ceasefire), that the  Metropolitan  Police  had
+         provided copies of the forged identity  cards  found  here  in  the
+         possession of the Appellant and that he was living in  London  with
+         an ETA member wanted for terrorist  offences  in  Spain.   In  such
+         circumstances, I find that leaving aside  the  Appellant's  claimed
+         motives ....  the fact that in all likelihood he  left  Spain  with
+         ETA's facilitation and supply of numerous false identities and  was
+         directed to an address in London where he might live with  [LS]  is
+         sufficient evidence to satisfy Regulation 21(5)(c)."
+
+
+    The judge then summarises his conclusions on  this  ground  of  appeal.
+    These include this omnibus conclusion:
+
+
+         "I find that the Appellant's  personal  conduct  does  represent  a
+         genuine, present and sufficiently serious threat affecting  one  of
+         the  fundamental  interests  of  society  in  terms  of  regulation
+         21(5)(c)."
+
+
+
+
+31.  There are certain objectively demonstrable errors in  the  two  lengthy
+    passages reproduced above.  First, the comment that the  Appellant  did
+    not  give  oral  evidence  to  acknowledge  regret  for  his  terrorist
+    activities is strictly correct.  However, there is  no  recognition  of
+    the  expressions  of  regret  contained  in  the  Appellant's   witness
+    statements.  Second, there was  no  evidence  that  the  Appellant  had
+    departed Spain and entered France  "with  multiple  false  identities".
+    This error was  repeated.   Once  again,  the  judge  gave  no  express
+    consideration to the Appellant's witness statements.  Third, the  judge
+    thrice describes LS as an "ETA terrorist" and once as a  "ETA  member".
+    This too is erroneous, as the evidence establishes only that  LS  is  a
+    suspect with alleged ETA links in  whom  the  Spanish  authorities  are
+    interested.  Furthermore,  the  judge  erroneously  states   that   the
+    Appellant's extradition to Spain relates to the two offences  specified
+    in the fourth EAW, overlooking that the Appellant had  been  judicially
+    discharged in respect of one of these.  Finally,  no  consideration  is
+    given  to  the  evidence  relating  to  the  Colectivo  de   Refugiados
+    organisation.
+
+  32. Properly analysed and considered in their full context these  are  not
+      egregious errors.  However, they provide some illumination in our task
+      of determining the first ground of appeal.  In the course of  argument
+       we suggested to counsel that in determining an issue of this kind viz
+      whether the requirements of regulation 21(5)(c) are  satisfied  it  is
+      incumbent on every first instance court or tribunal to  discharge  the
+      three  inter-related  duties  of  engaging  with  the  most  important
+      evidence bearing on the issue, making clear  findings  and  expressing
+      sufficient and intelligible reasons for the findings made.  As regards
+      both the "ETA issue" and the Appellant's possession of false  identity
+      documents when arrested, we consider that the first  of  these  duties
+      was acquitted.  However, for  the  reasons  we  shall  give,  we  find
+      ourselves unable to make the same conclusion regarding the second  and
+      third, having regard to the key passages in [24], [27] and [28] of the
+      FtT's decision.
+
+  33. The absence  of  clearly  expressed  findings  coupled  with  adequate
+      supporting reasons is not fatal per se.  That is so  because  we  must
+      nevertheless ask ourselves whether adequate  findings  and  sufficient
+      supporting reasons can be deduced from what the FtT has written.  This
+      exercise places the spotlight firmly on  the  three  paragraphs  noted
+      immediately above.  In the first of these paragraphs there  are  eight
+      references to ETA.  In the second, there are three.  Read as  a  whole
+      and considered in their full  context  these  passages  impel  to  the
+      inescapable conclusion that the judge's  finding  that  the  Appellant
+      poses a genuine, present and sufficiently serious threat affecting one
+      of the fundamental interests of United Kingdom society  was  based  on
+      two aspects  of  his  personal  conduct,  namely  (a)  his  continuing
+      association  with  ETA  and  (b)  his  possession  of  false  identity
+      documents when arrested.  Significantly, the  judge  did  not  make  a
+      finding that the  Appellant's  past  offending  posed  a  sufficiently
+      serious threat to one of the fundamental interests of society; rather,
+      he focussed upon the "potential to further offend"  (para  24).   That
+      being so it  is  not  necessary  for  us  to  consider  the  competing
+      submissions  we  heard  as  to  whether  the  decision  in  Marchon  v
+      Immigration Appeal Tribunal [1993] IMAR 384 remains good law.
+
+
+  34. The factual dimension of (a) cannot be criticised, given the  evidence
+      of the Appellant's conduct since his release from prison.   There  was
+      undoubtedly sufficient evidence to underpin it.  However, the  overall
+      assessment is unsustainable as it is  confounded  by  expert  evidence
+      which the judge clearly accepted: see [23]  (e)  and  [27]  above.  It
+      follows that this discrete conclusion was irrational.  It suffers from
+      the further flaw of being unreasoned.
+
+  35. Similarly there is no factual  flaw  in  the  second  of  the  judge's
+      discrete conclusions: leaving aside technical  questions  relating  to
+      the offence of "possession" of  something,  the  evidence  that  false
+      identity documents were recovered  from  the  property  in  which  the
+      Appellant was residing - or from the Appellant's person,  this  detail
+      being unclear - at the time of his arrest was not disputed.   However,
+      this represents the beginning  and  end  of  the  judge's  assessment.
+      There  is  no  examination  of  any  possible  risks  or  consequences
+      associable with this fact, with particular reference to the regulation
+      21(5) (c) test.  Furthermore,  the  discrete  conclusion  is  entirely
+      unreasoned. It is unsustainable in law in consequence.
+
+  36. For the reasons given, the first ground of appeal succeeds.
+
+
+The Burden of Proof Issue
+
+ 37. Though embedded in Ground 1, this emerged in  argument  as  a  discrete
+     ground of appeal.  The gist of this ground is that the FtT erred in law
+     by imposing a burden on the Appellant to demonstrate that his  personal
+     conduct does not pose  a  genuine,  present  and  sufficiently  serious
+     threat affecting one of the fundamental interests  of  society.   While
+     this was formulated as one of the strands, or alternatives, of the main
+     ground of appeal, we consider that it has a free standing status.
+
+ 38. In the introductory paragraphs of its  decision,  the  FtT,  under  the
+     rubric "Burden and Standard of Proof" states, at [8]:
+
+
+         "The Appellant claims he is at risk of  persecution  on  return  to
+         Spain.  Alternatively or in addition, that there will be  a  breach
+         of Articles 5 and 6.  The burden is on the Appellant to show as  of
+         today's date that there are substantial grounds for believing  that
+         he  meets  the  requirements  of  the  Qualification   Regulations.
+         Insofar as the appeal relies upon the 2006 Regulations, the  burden
+         is also on  the  Appellant,  the  standard  being  the  balance  of
+         probabilities."
+
+
+         [Emphasis added.]
+
+
+
+
+    At the beginning of [24] the judge states:
+
+
+         "I accept that there is no presumption of reoffending."
+
+
+
+
+    This is followed by the passage which we have  reproduced  in  full  in
+    [28] above.  Next, at [27],  the  judge  makes  reference  to  how  the
+    Secretary  of  State  has  "attempted  to   justify   the   Appellant's
+    deportation ...".  This is  followed  by  the  passage  which  we  have
+    reproduced at [29] above.
+
+
+
+
+  39. The last passage of significance in the context of this ground  is  at
+      [28] (a):
+
+
+         "Considering the provisions of Regulation 21(5),  I  find  for  the
+         reasons I have set out at [21] - [24] above, the Secretary of State
+         has not justified her  decision  to  deport  based  only  upon  the
+         Appellant's previous criminal convictions."
+
+
+     Followed by [28] (d):
+
+         "I find that the Appellant's  personal  conduct  does  represent  a
+         genuine, present and sufficiently serious threat affecting  one  of
+         the  fundamental  interests  of  society  in  terms  of  regulation
+         21(5)(c)."
+
+
+    In a later passage in this paragraph, the  FtT  adverts  to  "...   the
+    Appellant's continued association with ETA and the means  by  which  he
+    facilitated his exit from  Spain,  entry  to  the  United  Kingdom  and
+    residence here with an ETA terrorist".
+
+
+
+
+  40. We link the above passages to [27], where  the  FtT  refers  to  those
+      parts of the Secretary of  State's  decision  which  highlighted  that
+      there was no evidence of severance by the Appellant of  his  links  to
+      ETA, together with  the  forged  identity  cards  discovered  "in  the
+      possession of the Appellant" and his residing in London "with  an  ETA
+      member wanted for terrorist offences in Spain".
+
+
+    This is followed by the conclusion:
+
+
+         "...  the fact that in all likelihood  he  left  Spain  with  ETA's
+         facilitation and  supply  of  numerous  false  identities  and  was
+         directed to an address in London where he might live with [name] is
+         evidence sufficient to satisfy Regulation 21(5)(c)."
+
+
+
+
+ 41. The argument of Ms Dubinsky on behalf  of  the  Appellant  invoked  the
+     decision of the Court of Appeal in Rosa v Secretary of  State  for  the
+     Home Department [2016] EWCA Civ 14, [2016] 1 WLR 1206 which held, in an
+     EEA Regulations context, that the legal burden of proof rested  on  the
+     Secretary of State to prove that a marriage was one of convenience,  to
+     the standard of the balance of probabilities.  Richards LJ,  delivering
+     the unanimous judgment of the Court, expressed this conclusion in  [24]
+     and elaborated in [25] as follows:
+
+
+         "I do not accept Mr Kellar's submission that the burden of proof is
+         a matter for national law alone.  The EEA Regulations  have  to  be
+         interpreted and applied in  line  with  the  Directive  which  they
+         implement. Although the Directive is silent as to burden of  proof,
+         the Commission's guidance (paragraph 20 above) provides the key  to
+         the correct  approach  under  it.   Article  35  of  the  Directive
+         provides that the rights otherwise conferred by the  Directive  may
+         be refused, terminated or withdrawn in the case of abuse of  rights
+         or fraud, such as marriages of convenience.  As a matter of general
+         principle, one would expect that the  burden  of  proving  that  an
+         exception applies should lie on the authorities of the Member State
+         seeking to restrict rights conferred by the  Directive  -  in  this
+         case, that it should lie on the Secretary of State when seeking  to
+         rely on the existence of a marriage of convenience as a reason  for
+         refusing a residence card  to  which  the  applicant  is  otherwise
+         entitled.  That is the approach set out clearly in the Commission's
+         guidance, and there is no reason to doubt the  correctness  of  the
+         guidance on the point."
+
+
+
+
+    He said further regarding the Commission's guidance, at [26]:
+
+
+         "The  guidance  also  shows  the  subsidiary  role  that   national
+         procedural rules have in this context.  As a matter of EU law,  the
+         burden of proof lies on the authorities of the Member State seeking
+         to restrict rights under the Directive, but it is for the  national
+         court to verify the existence of the abuse relied on,  evidence  of
+         which must be adduced in accordance  with  the  rules  of  national
+         law."
+
+
+
+
+    The judgment quotes from the Commission's guidance, at [20] and we were
+    shown a copy of the entire instrument.  It is not confined to marriages
+    of convenience.  Rather, it extends to several of the discrete  subject
+    areas covered by the Citizen's Directive.
+
+
+
+
+ 42. Ms Anderson accepted that the legal  burden  of  proof  rested  on  the
+     Secretary of State.  She suggested, faintly, that  [24]  of  the  FtT's
+     decision is to be rationalised on the basis that the judge, in  effect,
+     was stating that an evidential burden had transferred to the Appellant.
+      She further submitted that in substance and read as a whole, there had
+     been no misdirection by the FtT on this issue.
+
+ 43. We consider that, logically, the reasoning of the Court  of  Appeal  in
+     Rosa, which was concerned with  a  decision  which  would  require  the
+     removal of the Appellant from the United Kingdom, extends to  exclusion
+     and removal decisions  made  under  Regulation  19.   We  can  identify
+     nothing in the Directive, the Regulations or in principle impelling  to
+     a different assessment.  It follows that the legal burden rested on the
+     Secretary of State of establishing, on the  balance  of  probabilities,
+     that the removal of the Appellant from the United Kingdom was justified
+     on public policy grounds.
+
+
+ 44. Two inter-related questions arise.  Did the FtT  appreciate  where  the
+     legal burden of proof lay and  did  it  give  effect  to  same  in  its
+     decision?  We have reproduced in [37] - [39] above, the passages in the
+     FtT's decision bearing most prominently on this issue.  The  thrust  of
+     Ms Dubinsky's argument is that the  error  is  patent  in  [8],  quoted
+     above, and we should deduce it from the other passages.
+
+ 45. It is indisputable that the FtT's first reference to burden of proof  -
+     in [8] of its decision - in relation to regulation 21(5) is  incorrect.
+     The misstatement here that the Appellant bore the burden of proof,  the
+     standard  being  the  balance  of  probabilities  is  unambiguous   and
+     unqualified.  It is not remedied in any other part of the decision.  We
+     acknowledge that in [28] (a) the FtT uses language of the Secretary  of
+     State not justifying something.   The  difficulty  with  this  discrete
+     sentence is that, considered in its full context, it is far from  clear
+     that this can properly be construed as a recognition of  the  Secretary
+     of State's burden of proof sufficient to correct the stark misstatement
+     of the burden of proof in [8] of the decision (see [37] supra).
+
+ 46. We elaborate thus.  The judge had just devoted a lengthy  paragraph  to
+     considering Ms Dubinsky's submission that the Secretary of  State  "...
+     has attempted to justify the Appellant's deportation in reliance on  ex
+     post facto arguments ...".  We consider that there is some confusion in
+     what follows.  It seems  to  us  that  this  submission  was  based  on
+     arguments advanced by Ms Anderson at the hearing: we refer particularly
+     to [15] - [17] of the FtT's decision in this context.  It might be said
+     that quite substantial swathes of the submissions therein  recorded  do
+     not readily bear comparison with the text of the Secretary  of  State's
+     decision.   Be  that  as  it  may,  the  judge,  having  rehearsed  the
+     Appellant's "ex post  facto"  argument,  turned  to  the  Secretary  of
+     State's decision letter and embarked upon an assessment  of  this.   He
+     rejected the submission that the Secretary of State had, impermissibly,
+     based her decision on the Appellant's  previous  convictions.   Rather,
+     the judge  found,  there  were  clear  references  to  the  Appellant's
+     continuing links with  ETA  and  the  recovery  of  falsified  identity
+     documents from his place of residence in London.  This was the stimulus
+     for the judge's conclusion that these two factors were  "sufficient  to
+     satisfy regulation 21(5)(c)".
+
+ 47. One of the consequences of this is that the Appellant's "ex post  facto
+     justification" challenge was neither considered nor  resolved.   As  we
+     have observed above, the extensive arguments addressed to  the  FtT  by
+     counsel for the Secretary of State, summarised in [15] -  [17]  of  the
+     decision, did indeed purport to add - significantly  and  substantially
+     so - to the text of the Secretary of State's decision.  It seems to  us
+     that the FtT  failed  to  grasp  the  thrust  of  the  "ex  post  facto
+     justification" argument.  In our judgment, it would not have been  open
+     to the FtT to allow many of the arguments outlined in [15]  -  [17]  of
+     the decision to influence the conclusion that the  regulation  21(5)(c)
+     test was satisfied.  However, reading  the  decision  as  a  whole,  it
+     appears to us that this is what occurred.
+
+ 48. It is also necessary to  reflect  on  the  underpinning  of  the  FtT's
+     conclusion at [28] (a) of its decision.   It  is  underpinned  by  "the
+     reasons I have set out  at  [21]  -  [24]  above".   This  invites  the
+     following analysis:
+
+
+    (i)  Paragraph [21] of the decision is a  mixture  of  a  rehearsal  of
+         certain submissions advanced in the Secretary of  State's  Skeleton
+         Argument, some commentary by the judge on the Secretary of  State's
+         decision  letter  and,  finally,  the  Appellant's  "response"   in
+         argument.  This paragraph is essentially discursive in nature.   It
+         contains no findings or conclusions.
+
+
+    (ii) Paragraph [22] consists exclusively of a reference to the decision
+         of the Court of Appeal in R v Benabbas [2005] EWCA Crim 2113 and  a
+         lengthy quotation from the report.
+
+
+    (iii)    Paragraph [23] continues the exercise begun  in  [22]  without
+         making any clear conclusion regarding the  governing  principle  or
+         principles to be applied.
+
+
+    (iv) Paragraph [24] has been extensively analysed by us above.
+
+
+
+
+ 49. We continue our analysis as follows.  In  the  key  passages,  the  FtT
+     began by stating that there was no  evidence  that  the  Appellant  had
+     addressed the issues which caused him to engage in acts  of  terrorism.
+     In context and in reality, only  the  Appellant  could  have  been  the
+     source of evidence of this kind.  Next, the judge highlighted that  the
+     Appellant had not given any oral evidence:  in particular, he had  not,
+     by oral testimony,  acknowledged  regret  for  his  crimes.   The  only
+     evidence suggestive of a lack of potential to reoffend was,  the  judge
+     said, that of the Appellant's expert,  Mr  Woodworth.   He  highlighted
+     that, furthermore, the Appellant had not testified ETA had not assisted
+     him in leaving Spain and  entering  the  United  Kingdom  and  securing
+     accommodation there.
+
+ 50. We have acknowledged that it is necessary to consider the  decision  of
+     the FtT as a  whole,  rather  than  in  isolated  fragments.   The  key
+     passages in its decision bearing on this ground of appeal are assembled
+     in [24] - [27].  That these passages must be considered  in  unison  is
+     confirmed by the conclusion expressed at the  end  of  [27].   The  FtT
+     nowhere refers to the Secretary of State bearing  a  burden  of  proof.
+     Reading the decision as a whole, we are satisfied  that  the  essential
+     thrust of the critical passages is that the Appellant had not persuaded
+     the Tribunal that his removal was not satisfied on  grounds  of  public
+     policy.
+
+ 51. This analysis, in our judgment, follows from the series of failures  on
+     the part of the Appellant identified by the FtT:  the Appellant  failed
+     to formally adopt his witness statements, failed to give oral evidence,
+     failed to testify that he  regretted  his  heinous  crimes,  failed  to
+     testify that he was not assisted by ETA in his  flight  to  the  United
+     Kingdom and in securing accommodation there and failed to  explain  the
+     documents recovered by the police upon his arrest.   In  our  judgment,
+     the FtT applied the wrong legal prism  to  all  of  these  issues  and,
+     ultimately, to the  overarching  statutory  precondition  enshrined  in
+     regulation  19(3)(b).   This  constitutes  an  error   of   law.    The
+     materiality  of  this  error  is  clear  beyond  peradventure,  as  the
+     conclusion expressed at the end  of  [27]  demonstrates.   Finally,  Ms
+     Anderson's somewhat tepid submission about a shifting burden  of  proof
+     was made without reference to supporting authority and we consider that
+     [24] of the FtT's decision does not bear this analysis in any event.
+
+
+ 52. We return to the use of the verb 'justify 'in two  places,  in  [27]  -
+     [28].  This might, in theory, lend some force  to  the  view  that  the
+     manifest misdirection in [8] was on the road to  redemption.   However,
+     we decline to adopt this assessment in light of our concerns about [28]
+     (a), elaborated  above,  which  cannot,  in  our  judgment,  provide  a
+     reliable basis for correcting the clear error of law  in  [8],  coupled
+     with the other aspects of our analysis and construction  of  the  FtT's
+     decision above.
+
+
+
+Other Grounds of Appeal
+
+  53. We have addressed above what we consider to be the  principal  grounds
+      of appeal.  While remaining grounds  appear  to  us  supplementary  in
+      nature we shall  consider  them  in  the  interests  of  finality  and
+      certainty.
+
+  54. Grounds 5, 6 and 7 of the grounds  of  appeal  challenge  the  judge's
+      findings in relation to the issue of "judicial  engineering"  and  the
+      risk of the Appellant not receiving a fair trial in Spain.   We  shall
+      consider the points that arise under these grounds under the four sub-
+      headings set out below.
+
+
+
+
+(i)  Misunderstanding The Evidence
+
+
+ 55.  This  element  of  the  challenge  to  the  decision  of  the  FtT  is
+     encapsulated in the grounds of appeal in these terms:
+
+
+         "The Designated Immigration judge materially misdirected himself as
+         to the evidence and facts.  He held that the Appellant is currently
+         sought by the Spanish authorities in relation  to  the  forgery  of
+         official  documents.    He   clearly   considered   that   it   was
+         uncontroversial that the Appellant had obtained false documents  in
+         Spain.  He also held that there was 'no suggestion' that any  group
+         other than ETA had furnished the Appellant with the forged identity
+         documents with which  the  Appellant  was  arrested  in  London  or
+         directed him to another former ETA militant on the run  in  London.
+         All this was either incorrect or in dispute."
+
+
+
+
+    In argument emphasis  was  placed  on  the  evidence  relating  to  the
+    Colectivo de Refugiados organisation, its undisputed peaceful aims  and
+    methods, its non-proscribed status in France and what is said about  it
+    in the EAW.
+
+
+
+
+ 56. The riposte of Ms Anderson on behalf of the Secretary of State  is,  in
+     summary, that the decision in E v  Secretary  of  State  for  the  Home
+     Department; R v Secretary of State for the Home Department [2004]  EWCA
+     Civ 49; [2004] QB 1044 is not satisfied; there is a distinction  to  be
+     made between the evidence of Mr Woodworth recited in [42] of the  FtT's
+     decision and the content of the  EAW;  the  FtT's  findings  about  the
+     Appellant's flight from Spain through France to the United Kingdom  and
+     his  subsequent  settlement  in  this  jurisdiction  accord  with   the
+     Appellant's own statements; and that no material error  of  fact  which
+     could constitute a material error of law is demonstrated.  The  E  &  R
+     test is formulated at [63] of the report in these terms:
+
+         "In our view, the CICB case points the way to a separate ground  of
+         review, based on the principle of fairness.  It is true  that  Lord
+         Slynn distinguished between "ignorance of fact" and "unfairness" as
+         grounds  of  review.  However,  we  doubt  if  there  is   a   real
+         distinction.  The decision turned, not on issues of fault  or  lack
+         of fault on either side; it was sufficient that "objectively" there
+         was unfairness.  On  analysis,  the  "unfairness"  arose  from  the
+         combination of five factors:
+
+
+               i) An erroneous impression created by a  mistake  as  to,  or
+                  ignorance  of,  a  relevant  fact  (the  availability   of
+                  reliable evidence to support her case);
+
+
+              ii)  The  fact  was  "established",  in  the  sense  that,  if
+                  attention  had  been  drawn  to  the  point,  the  correct
+                  position  could  have  been   shown   by   objective   and
+                  uncontentious evidence;
+
+
+             iii) The claimant could not fairly be held responsible for  the
+                  error;
+
+
+             iv)  Although there was no duty on the Board  itself,  or  the
+                  police, to do the claimant's work of proving her case, all
+                  the participants had a shared interest in co-operating  to
+                  achieve the correct result;
+
+
+             v)   The mistaken impression played a  material  part  in  the
+                  reasoning."
+
+
+      And at [66]:
+
+
+             "Without seeking to lay  down  a  precise  code,  the  ordinary
+             requirements for a finding of unfairness are apparent from  the
+             above analysis of CICB.  First, there must have been a  mistake
+             as  to  an  existing  fact,  including  a  mistake  as  to  the
+             availability of evidence on a particular matter.  Secondly, the
+             fact or evidence must have been  "established",  in  the  sense
+             that it was uncontentious and objectively verifiable.  Thirdly,
+             the appellant  (or  his  advisers)  must  not  been  have  been
+             responsible for the mistake.  Fourthly, the mistake  must  have
+             played a  material  (not  necessarily  decisive)  part  in  the
+             Tribunal's reasoning."
+
+
+
+
+ 57. The overlapping nature  of  this  ground  of  appeal  is  confirmed  by
+     reference to [31] above.  This does not, however, deprive  this  ground
+     of its free standing character. The evidence bearing  thereon  includes
+     the Appellant's two statements (outlined in [10] -  [15]  above).   The
+     FtT highlighted, twice, that the Appellant had not  given  evidence  in
+     that forum.  First, at [5]:
+
+
+         "The Appellant declined to give oral evidence, nor did he adopt his
+         statements, which inevitably affects the weight I  can  place  upon
+         that evidence, although for reasons I will  explain,  in  my  view,
+         nothing material turns upon it.  See [24] below."
+
+
+    Next, at [24]:
+
+         "...  There was no evidence that the Appellant  has  addressed  the
+         issues which caused him  to  engage  in  acts  of  terrorism.   The
+         Appellant did not  adopt  his  statement,  nor  did  he  give  oral
+         evidence, for example, to  acknowledge  regret  for  his  terrorist
+         activities."
+
+
+    The description of the Appellant's written evidence in the singular
+    ("statement") is, of course, erroneous.
+
+
+
+
+ 58. We consider that there was a  duty  on  the  FtT  to  engage  with  the
+     Appellant's two written  statements.   In  [5]  the  judge,  correctly,
+     recognised the existence of this duty and the related  duty  to  assess
+     the weight to be attributed to this evidence.  However, this represents
+     the beginning and end of this discrete exercise.  In  what  follows  in
+     the decision, there is no engagement with the statements, no assessment
+     of their weight and no associated  findings  with  supporting  reasons.
+     Our assessment is that this failure is to be evaluated  in  conjunction
+     with the factual errors identified above.   Individually,  the  factual
+     errors are not egregious in nature.  However, collectively they  assume
+     a more substantial hue.  We add to this the further failure on the part
+     of the FtT which we have just identified. This assessment impels to the
+     conclusion that this ground of appeal is also established.
+
+
+(ii)  Misunderstanding the Second Divisional Court's Decision
+
+ 59. This ground of appeal  draws  attention  to  certain  passages  in  the
+     decision of the Divisional Court in Spanish Judicial Authority v Arranz
+     (No 3) [2015] EWHC 2305 (Admin).  The  context  is  ascertainable  from
+     [20] - [26] of the judgment of the Court, delivered by the  Lord  Chief
+     Justice.  In these passages, consideration is given to  the  ground  of
+     appeal which is termed,  in  shorthand,  "judicial  engineering".   The
+     substance of this ground, in very  brief  compass,  was  that  the  EAW
+     should be  set  aside  on  the  ground  that  it  was  the  product  of
+     submission, or surrender, by the Spanish Judicial Authority to pressure
+     from and the expectations of the Spanish public and State.   In  common
+     law terms, the asserted vitiating factor was improper motive.  In human
+     rights terms, the vitiating factor advanced was an  apprehended  breach
+     of Articles 5 and 6 ECHR, in contravention of section 6  of  the  Human
+     Rights Act 1998.   The  Lord  Chief  Justice  outlined  the  supporting
+     evidence, the sources whereof were Mr Woodworth and the Spanish lawyer,
+     Mr Casanova.
+
+ 60. Having set the context, we now identify those passages upon which  this
+     ground of appeal is promoted:
+
+
+    Paragraph 27
+
+
+        "We ourselves have very carefully considered the evidence that  was
+        before the Senior District Judge.  In addition we have  also  taken
+        into account the failure  of  the  Spanish  Judicial  Authority  to
+        terminate the underlying Spanish proceedings relating to  EAW1,  in
+        breach of their express undertaking to this court.  However, as  we
+        explain at paragraph 39 below, the Spanish Judicial  Authority  has
+        remedied that matter.  As is  apparent  from  the  Senior  District
+        Judge's careful and considered judgment, he was also very concerned
+        at the evidence put before him and the weight it carried."
+
+
+    Paragraph 28
+
+
+        "Nonetheless, despite the careful and  meticulous  argument  of  Mr
+        Summers QC, we cannot conclude that the Senior District  Judge  was
+        wrong in the conclusion he reached on the  evidence.   He  had  the
+        benefit of hearing the witnesses and  of  carefully  weighing  that
+        testimony.   We  cannot  in  those  circumstances  see,   on   well
+        established principles, that he came to a  decision  that  was  not
+        open to him on the evidence.  It would not therefore be the  proper
+        function of an appellate court to set his findings aside.   In  the
+        result therefore this particular submission fails ...".
+
+
+     We interpose here paragraph 39 of the judgment:
+
+         "Our view was communicated to the Spanish  Judicial  Authority  who
+         immediately took action  to  bring  the  proceedings  in  Spain  in
+         respect of the original sentence to an end. The  documentation  has
+         been provided to the court and to the appellant.   It  is  accepted
+         that the proceedings in respect of the conviction are  at  an  end.
+         The  issue  on  specialty  therefore  no  longer  forms  a  bar  to
+         extradition."
+
+
+
+ 61. The final passage invoked by the Appellant in support  of  this  ground
+     relates to the issue of whether there was a bar  to  extradition  under
+     section 12A of the 2003 Act on the basis that a decision  to  prosecute
+     the Appellant had  not  been  made  in  Spain.   The  Spanish  Judicial
+     Authority had formally certified that no prosecution decision had  been
+     possible on the ground that by reason of the Appellant's  absence  from
+     Spain, the preliminary investigation ("Instruccion") phase could not be
+     concluded.  The Divisional Court stated, at [56]:
+
+
+        "It is clear in our view that,  where  evidence  is  adduced  which
+        shows that a means of examination of a defendant is possible either
+        through the use  of  the  Mutual  Legal  Assistance  Convention  or
+        otherwise before the decision to prosecute is made, then it is  for
+        the requesting European judicial authority  to  prove  by  adducing
+        evidence to the requisite  standard  of  proof  that  the  test  in
+        s.12A(1)(b)(ii) has been met.  In  the  present  case  the  Spanish
+        Judicial Authority has given no reasons.  On the face of it, on the
+        evidence before the court, it therefore has not shown that the sole
+        reason for the decision to prosecute not having been  made  is  the
+        appellant's absence from Spain."
+
+    This was a prelude to the particular passage  on  which  the  Appellant
+    places much reliance.
+
+
+
+
+    Paragraph 60
+
+
+        "It seems to us, following the decision in Kandola, that the Senior
+        District Judge was wrong on the facts of this case to  act  on  the
+        unreasoned statement of the Spanish judge.
+         (1)  Proper evidence had been adduced before the court  that  there
+             was a means of examining the appellant in the United  Kingdom;
+             therefore the sole reason for the decision  to  prosecute  not
+             having been made was not his absence from Spain.
+         (2)  There are real concerns about the delay  in  this  case.   The
+             matter with which the appellant is charged relates  to  events
+             in April 2011 and further delay would not be acceptable.
+         (3)  It would not have been  difficult  for  the  Spanish  Judicial
+             Authority to have responded on this point. It could easily set
+             out its reasons, taking into account that the purpose of s.12A
+             was to ensure that there would be no delays.
+         (4)  It is inexplicable in  these  circumstances  why  the  Spanish
+             Judicial Authority did not  seek  to  take  advantage  of  the
+             invitation which we extended to put  in  evidence  during  the
+             course  of  the  appeal.   We  are  very  concerned  that  our
+             invitation was expressly declined on the instructions  of  the
+             CPS,  in  contradistinction  to  acceptance  by  the   Spanish
+             Judicial Authority of the need to  terminate  the  proceedings
+             underlying EAW1.
+         (5)  In the light of these matters and of evidence  which  we  have
+             considered under the first issue, "judicial engineering",  and
+             the concerns we have expressed,  the  failure  to  answer  the
+             simple points raised by Mr Casanova cannot be accepted in this
+             particular case.
+         (6)  Even if Kandola was wrongly decided (which  we  think  it  was
+             not) and the usual position  is  that  it  is  permissible  to
+             accept the unreasoned statement of a  judicial  authority,  it
+             would not in the circumstances of this case be appropriate  to
+             accept  the  unreasoned  statement  of  the  Spanish  Judicial
+             Authority."
+
+
+
+Followed by, at [61]:
+
+         "It follows that we consider the judge was wrong. We must therefore
+         allow the appeal and discharge the Appellant."
+
+
+
+ 62. The Appellant's argument also invokes the decision  of  the  Divisional
+     Court in Puceviciene v Lithuanian Judicial Authority [2016]  EWHC  1862
+     (Admin) and, in particular, [72]:
+
+         "There may be, in what we  would  anticipate  would  be  very  rare
+         cases, circumstances in  which  mutual  trust  and  confidence  has
+         broken down, or where there is cogent evidence of bad faith  or  of
+         abuse.  In those circumstances, it may well be  appropriate  to  go
+         behind the answers and seek  more  information.   Spanish  Judicial
+         Authority v Arranz [2015] EWHC 2305 (Admin) provides a rare example
+         of the problems, there described as "judicial  engineering",  which
+         justify that different approach, and what it says should be read in
+         the context of the  very  special  circumstances  of  that  unusual
+         case."
+
+
+    [Per Thomas LCJ]
+
+
+    The correctness of this principle was not  disputed  in  the  arguments
+    advanced to us.
+
+
+
+
+ 63. In evaluating this ground of appeal,  we  consider  it  appropriate  to
+     identify the duty resting on the FtT.  In our  judgment,  the  FtT  was
+     under a duty to, firstly, consider and, secondly, understand  correctly
+     the judgment of the Divisional Court considered extensively in  [60]  -
+     [61] above.  Was this twofold duty discharged?  The answer turns mainly
+     on what the FtT stated in [35] of its  decision.   Having  acknowledged
+     the discrete argument of Ms Dubinsky on this issue, the FtT stated:
+
+         "I do not accept ...  nor was it demonstrated to me that  the  Lord
+         Chief Justice expressed such concern  in  the  manner  Ms  Dubinski
+         claims.  See [72] of Vanda Puceviciene."
+
+
+    The FtT is to be commended  for  its  alertness  to  the  necessity  of
+    confronting this submission and resolving  it.   However,  we  consider
+    that its conclusion suffers from three material flaws.   The  first  is
+    that it is expressed in bald and unreasoned terms.  The second is  that
+    it fails to engage with the passages in the Divisional  Court  Judgment
+    highlighted above.  The third is that it is irreconcilable with [72] of
+    Vanda Puceviciene, to which the FtT made express reference.
+
+
+
+ 64. The materiality of these flaws cannot be gainsaid having regard to  the
+     formulation of the Appellant's  grounds  of  appeal  to  the  FtT.   We
+     conclude that this ground is also made out.
+
+
+
+
+
+
+
+
+(iii)  The FtT's Treatment of the "Judicial Engineering" Evidence
+
+ 65. While this discrete  ground  of  appeal  overlaps  somewhat  with  that
+     addressed in [59]-[64] above, we consider that its contours and content
+     suffice to endow it with a free standing existence.
+
+ 66. Evidentially, the colourful and evocative term  "judicial  engineering"
+     can be traced to Jacobo  Tteijelo  Casanova,  a  Spanish  lawyer  whose
+     evidence to the Senior District Judge in  the  extradition  proceedings
+     was both written and oral and whose written statement  formed  part  of
+     the evidence considered by the FtT.  In his  written  statement,  Senor
+     Casanovo  gave  consideration  to,  inter  alia,  the   phenomenon   of
+     "ingeneria judicial".  As his evidence makes  clear,  this  phrase  was
+     first coined, in public, by the Spanish Home Secretary  (El  Ministerio
+     del Interior).  This issue was also addressed in the written  and  oral
+     evidence of the Appellant's expert, Mr Woodworth.   The  gist  of  this
+     ground of appeal is that the FtT failed to engage adequately with  this
+     evidence and failed to give adequate reasons for rejecting it.
+
+ 67. We have, in [63] - [64] above, diagnosed a material error of law in the
+     FtT's treatment of this discrete issue.  The thrust of this  ground  of
+     appeal  may  properly  be  viewed  through  the  prism  which  we  have
+     formulated in [32] above.  In short, it is based upon the inter-related
+     first instance Tribunal's duties of engagement with material  evidence,
+     making appropriate findings and providing sufficient  and  intelligible
+     reasons.
+
+ 68. The key passages in the decision of the FtT bearing on this  ground  of
+     appeal are found at [38] - [46].  It is  not  insignificant  that  this
+     section of the judgment has  the  title  "Articles  5,  6  and  Refugee
+     Convention".  It begins at [30].  We have considered  this  section  in
+     its entirety and in conjunction with all that precedes it.
+
+ 69. In [38] of its decision, upon which much of the  spotlight  is  thrust,
+     the FtT records:
+
+          "The Appellant has made  grave  allegations  against  the  Spanish
+          judiciary and authorities supported by the expert evidence  of  Mr
+          Woodworth who gives specific examples of 'judicial engineering' or
+          bad faith with regard to ETA cases: ..."
+
+    This is followed by ten subparagraphs, each containing instances of the
+    phenomenon espoused in the evidence of the experts.  This  is  followed
+    by, in [39] - [41], a further recitation of  parts  of  Mr  Woodworth's
+    evidence.  In [43] the FtT repeats its earlier  acknowledgement  of  Mr
+    Woodworth's expertise,  while  observing  that  he  is  not  a  lawyer.
+    Considered in its full context, the significance of this observation is
+    at best opaque.  In [44] the FtT focuses exclusively on  the  topic  of
+    persecution.  In [44] and [47] the FtT articulates the conclusion  that
+    the deportation of the Appellant will not give rise to  any  breach  of
+    his rights under Articles 5 and 6 ECHR.
+
+
+ 70. The FtT purported to base its decision on this  discrete  challenge  on
+     "the reasons ...  set out ...".  There is no identifiable reasoning  in
+     [43] - [45] of its decision.  In  [46],  the  FtT  refers  to  "complex
+     historic, cultural and political issues which require  equally  complex
+     academic study inappropriate to my  analysis  on  the  discrete  issues
+     before me".   This is followed  by  a  reiteration  of  the  Tribunal's
+     recognition of Mr Woodworth's expertise and some undeveloped references
+     to the scope for discussion relating  to  the  IRA  and  the  interface
+     between academic historians and Tribunals.  In  our  judgment  none  of
+     this amounts to a proper engagement  with  the  "judicial  engineering"
+     evidence.  Nor are there any identifiable findings.  Absent the latter,
+     the lack of supporting reasons follows virtually as a matter of course.
+      In the passages in question, one finds  nothing  more  than  bare  and
+     unreasoned conclusions.
+
+
+(iv) The Article 6 ECHR Issue
+
+ 71. The essence of this ground of appeal is that the FtT failed to consider
+     the question of whether  the  Appellant  would  be  tried  by  (in  the
+     language of Article 6 ECHR)  an  "independent  and  impartial  tribunal
+     established by law" in both the subjective and objective senses of this
+     criterion.
+
+ 72. We are of the opinion that, properly analysed, this ground is  subsumed
+     within the ground which we  have  considered  in  [65]  -  [71]  above.
+     Accordingly, it adds nothing of substance to the Appellant's appeal.
+
+
+ 73. Ground 8 of the Grounds  of  Appeal  concerns  the  "systemic  failure"
+     issue.  It is based on what the FtT stated in [45] of its decision:
+
+
+         "In summary, the evidence I have been asked to  consider  does  not
+         disclose a systematic failure on the part of the Spanish  judiciary
+         to discharge their duties in a fair and impartial manner."
+
+
+    This statement formed part of the FtT's rejection  of  the  Appellant's
+    contention that his removal to Spain would give rise to a breach of his
+    fair trial rights under Article 6 ECHR.
+
+
+
+
+ 74. Insofar as the FtT was purporting to formulate the test to  be  applied
+     to this aspect of the Appellant's challenge, we consider that it was in
+     error.  "Systematic failure" was not the test to be applied (see R  (EM
+     Eritrea) v SSHD [2014] AC 1321 per Lord Kerr at [68]).  Elaboration  is
+     unnecessary.  To the extent that this ground adds anything of substance
+     to that considered in [65] - [70] above, we conclude that it succeeds.
+
+ 75. We would add that we accept  Ms  Dubinsky's  submission  that  flagrant
+     breach is not the touchstone to be applied in cases  where  apprehended
+     breaches of Articles 5 and 6 ECHR are raised in resistance to expulsion
+     decisions involving transfer between the High Contracting  Parties  who
+     have subscribed to the ECHR.  We contrast the test applicable in  cases
+     involving expulsion to third country  states:  see  R  (Ullah)  v  SSHD
+     [2004] 2 AC 329 at [24], [29]  and  [69].   Furthermore,  no  flagrancy
+     threshold  is  specified  in  Article  47  of  the  EU  Charter.    The
+     uncluttered and straightforward question for the FtT in this appeal was
+     whether there were substantial grounds for believing that there  was  a
+     real risk of a breach of the Appellant's rights under Articles 5 and  6
+     ECHR, Article 47 of the EU Charter and the Refugee  Convention  in  the
+     event of expulsion to Spain. The FtT failed to formulate and apply this
+     test.
+
+
+
+Conclusion
+
+ 76. Based on the foregoing, we conclude that the decision  of  the  FtT  is
+     vitiated by the material errors of law identified above.
+
+
+Decision and Directions
+
+ 77. We decide as follows:
+
+
+      a) The decision of the FtT is set aside.
+
+
+      b) Taking into account the nature of the errors of law  diagnosed  and
+         having regard to the Practice Statements of the Upper Tribunal, the
+         remaking of said decision will be undertaken in this forum.
+
+
+      c) The remaking will be carried out by any judge or panel of judges of
+         the Upper Tribunal, with the President presiding if available.
+
+
+      d) The Appellant's solicitors  will  review,  revise  and  update  the
+         appeal and authorities bundles as appropriate.
+
+
+      e) The relisting of this  appeal  for  the  purpose  of  remaking  the
+         decision will be not later than the week commencing 10 April  2017.
+
+
+
+
+
+                                   PART 2
+
+
+ 78. This, the second part of our  decision,  follows  the  further  hearing
+     conducted  on  09  May  2017  in  the  wake  of  which   the   parties'
+     representatives have provided further written submissions as  directed.
+     We preface what follows with  the  detail  that  the  Appellant's  long
+     battle against extradition has ultimately failed.  He was extradited to
+     Spain on 05 May 2017.
+
+ 79. The underlying decision of the Secretary of State  was  to  deport  the
+     Appellant from the United Kingdom  under  Regulation  19(3)(b)  of  the
+     Immigration  (European  Economic  Area)  Regulations  2006  (the   "EEA
+     Regulations") on the ground of public policy  based  on  an  assessment
+     that the Appellant represented "a  genuine,  present  and  sufficiently
+     serious threat to the public".  The  Appellant  will  potentially  gain
+     both practical and reputational  benefit  if  his  appeal  against  the
+     Secretary of State's decision is successful.  Accordingly this  is  not
+     an academic appeal and the contrary was not argued.
+
+ 80. The legal criteria to be applied are enshrined in Regulation 21 of  the
+     EEA Regulations, the domestic law counterpart  of  Article  27  of  the
+     Citizens Directive.  Regulation 21 provides in material part:
+
+         "(1) In this Regulation a "relevant decision" means an EEA decision
+             taken on the grounds of  public  policy,  public  security  or
+             public health.
+
+         (2)  A relevant decision may not be taken to serve economic ends.
+
+         (3)  A relevant decision may not be taken in respect  of  a  person
+             with a permanent right of residence under regulation 15 except
+             on serious grounds of public policy or public security.
+
+         (5)  Where a relevant decision is taken on grounds of public policy
+             or public security it shall, in addition to complying with the
+             preceding  paragraphs  of  this  regulation,   be   taken   in
+             accordance with the following principles -
+
+             (a)   the  decision  must  comply  with   the   principle   of
+                 proportionality;
+             (b)  the decision must be based exclusively  on  the  personal
+                 conduct of the person concerned;
+             (c)   the  personal  conduct  of  the  person  concerned  must
+                 represent  a  genuine,  present  and  sufficiently  serious
+                 threat  affecting  one  of  the  fundamental  interests  of
+                 society;
+             (d)  matters isolated from the  particulars  of  the  case  or
+                 which relate to considerations of general prevention do not
+                 justify the decision;
+             (e)  a  person's  previous  criminal  convictions  do  not  in
+                 themselves justify the decision.
+         (6)  Before taking a relevant decision on  the  grounds  of  public
+             policy or public security in  relation  to  a  person  who  is
+             resident in the United Kingdom the decision  maker  must  take
+             account of considerations such as the age,  state  of  health,
+             family and economic situation  of  the  person,  the  person's
+             length of residence in the United Kingdom, the person's social
+             and cultural integration  into  the  United  Kingdom  and  the
+             extent of the person's links with his country of origin."
+
+ 81.      We remind ourselves that Secretary of  State  bears  the  onus  of
+     proof and the standard of proof is the balance  of  probabilities:  see
+     [43] above.  Furthermore, it is not in  dispute  that  the  country  in
+     which the requisite genuine present and sufficiently serious threat  of
+     offending  must  arise  is  the  United  Kingdom.   We  further  remind
+     ourselves that the sole basis of the Appellant's extradition  to  Spain
+     has been his alleged continuing association with ETA. We also take into
+     account that the extradition proceedings against  the  Appellant  were,
+     ultimately successful.  See, generally, [10] - [17] above.
+
+
+
+
+
+The Evidence of Professor Silke
+
+ 82. Professor Silke spoke to his central thesis  in  both  examination  in-
+     chief and cross-examination.  An exhaustive rehearsal of his  testimony
+     is not necessary.  Professor Silke elaborated  on  the  empirical  data
+     touched on in  his  report  and  also  highlighted  the  low  rates  of
+     psychiatric illness among politically motivated offenders.  He  further
+     developed the discrete thesis of  subjective  altruism  which  features
+     commonly in the psyche of such offenders.  In addition,  he  elaborated
+     on the distinction between "core" and  "fringe"  former  members  of  a
+     terrorist cell and the factor of an offender's age  -  which,  in  this
+     Appellant's case - would fortify the low risk of reoffending thesis.
+
+ 83. In cross-examination Professor Silke contended that his thesis is in no
+     way undermined by either the standard "OASYS" model or  the  "Extremism
+     Risk Guidance" ("ERG") model.  He testified that, in  real  terms,  the
+     reoffending rate for most convicted  terrorists  is  in  single  figure
+     percentages.  He illustrated this by reference to  empirical studies in
+     different areas of the globe, in particular Northern  Ireland  and  Sri
+     Lanka.  He further opined that, in an evolving national context, access
+     to political power for former terrorists is not a key factor.  Finally,
+     he acknowledged that "one size does not fit all".
+
+ 84. The key elements of Professor Silke's thesis  were  not  challenged  or
+     contradicted by  any  competing  expert  evidence.   They  were  probed
+     appropriately in both cross-examination and questions from  the  bench.
+     Professor Silke emerged as an impressive  witness.   His  evidence  was
+     demonstrably balanced and well researched.  Furthermore, his contention
+     that he was advancing an orthodox thesis  was  not  controversial.   He
+     engaged well with questions and there was no element  of  impermissible
+     advocacy in his evidence. Overall, we accept the  main  tenets  of  his
+     evidence.
+
+The Battle Lines Drawn
+
+ 85. The submissions of Ms Anderson on behalf  of  the  Secretary  of  State
+     placed considerable emphasis on the Appellant's  protracted  membership
+     of the proscribed terrorist organisation ETA and the atrocious loss  of
+     life perpetrated by him: see [6] supra.  We recall that the murders and
+     other terrorist offences perpetuated by the Appellant or  in  which  he
+     participated spanned  the  period  1983  -  1987,  culminating  in  his
+     conviction of multiple offences on 07 November 1989.  Ms Anderson  also
+     drew attention to the various strands of evidence underpinning the  EAW
+     giving rise to the Appellant's extradition.   She  further  highlighted
+     the Appellant's use of forged identity documents in order to enter  the
+     United Kingdom and his continued possession of such materials,  exposed
+     at the time of his  arrest,  together  with  the  allegation  that  the
+     Appellant was harbouring a fugitive from justice, LS - (supra).
+
+ 86. At the core of Ms Andersons' submissions lay the  contention  that  the
+     Appellant has demonstrated by his personal conduct that he  is  willing
+     and able to breach United Kingdom laws by his  possession  and  use  of
+     forged documents with the intention of deceiving  the  authorities  and
+     aiding an ETA fugitive to evade justice.  Building on this  foundation,
+     Ms Anderson submitted that there are reasonable grounds to expect  that
+     if the Appellant considered  it  in  his  interests  to  breach  United
+     Kingdom laws again, he would do so.  The Appellant is, she submitted, a
+     person who considers himself not bound by the rule of law.  Ms Anderson
+     contrasted the Appellant with other  ETA  prisoners  who,  rather  than
+     fleeing, remained in  Spain  and  attempted  to  resolve  their  "Parot
+     doctrine" issues there.  The gravamen of Ms Andersons' argument appears
+     in the following extract from her helpful written submissions:
+
+         "There is a clear risk of further resort to false documents if  the
+         Appellant wished to evade the UK authorities on any return  in  the
+         future and the harm from possession  and  use  of  forged  identity
+         documents is unarguably significant  and  sufficient  to  meet  the
+         limited requirement in the EEA context where only the basic  rights
+         apply."
+
+
+
+    In this context Ms Anderson also canvasses  the  possibility  that  the
+    Appellant would continue to provide  assistance  to  ETA  fugitives  to
+    evade the United Kingdom authorities.
+
+
+
+
+ 87. Ms  Anderson  further  submitted  that  belonging  to  or  assisting  a
+     proscribed organisation in itself poses a  threat  to  the  fundamental
+     interests of society.  There is a risk that the Appellant could use his
+     "knowledge and potential access  to  weapons"  in  furtherance  of  his
+     personal  interests  or  those  of  ETA.   Ms  Anderson  condemned   as
+     misconceived any suggestion that the only threat that can be  posed  by
+     the Appellant is engaging in a terrorist campaign in or  affecting  the
+     United Kingdom on behalf of ETA.  She  emphasised  that  the  Appellant
+     qualifies for the minimum level of protection available under  the  EEA
+     Regulations.  Highlighting the Appellant's failure to give evidence  to
+     the  Tribunal,  Ms  Anderson  invoked  section  8  of  the  Asylum  and
+     Immigration (Treatment of Claimants etc) Act 2004,  submitting  that  a
+     refusal to be interviewed and/or  to  give  evidence  belonged  to  the
+     "highest possible end" of conduct warranting  the  drawing  of  adverse
+     inferences.  Finally, Ms Anderson submitted that the lawfulness of  the
+     Secretary of State's deportation decision is  not  dependent  upon  the
+     "Marchon/Bouchereau" principle.
+
+ 88. On behalf of the Appellant Ms Dubinsky advanced four main  submissions.
+     First, there is no evidence that ETA  or  Basque  militants  have  ever
+     posed a threat to the community of  the  United  Kingdom  or  have  any
+     motive for doing so in the future.  Second, there is no  evidence  that
+     ETA or Basque militants pose  any  risk  of  resuming  armed  conflict.
+     Third, there is no evidence that former ETA prisoners pose any risk  of
+     reoffending in  any  form.   Fourth,  the  Appellant's  past  offending
+     cannot, without more, as a matter of law be indicative of a  propensity
+     to reoffend, per Regulation 21(5)(e).
+
+ 89. Ms Dubinsky further submitted that  there  is  no  adequate  evidential
+     basis for the threat attributed to the Appellant in the context of  the
+     Regulation  21(5)(c)  test.   She  developed  this  submission  in  the
+     following way:
+
+     (i)  In a context where the Appellant has  been  extradited  to  Spain,
+         there is no logical basis for believing that he will have resort to
+         the use of false documents in the future.
+
+     (ii) The Appellant's past use and possession of  forged  documents  are
+         insufficient to satisfy the statutory test.
+
+     (iii)    The burden of proof is important because the key  question  of
+         whether the Appellant will  re-offend  in  the  United  Kingdom  is
+         disputed.
+
+     Conclusions
+
+     General
+
+ 90. The critical provision of the EEA Regulations is  Regulation  21(5)(c).
+     The impugned decision of the Secretary of State is sustainable  in  law
+     only if the personal conduct of the Appellant  constitutes  a  genuine,
+     present  and  sufficiently  serious  threat  affecting   one   of   the
+     fundamental interests of the United Kingdom.  Neither the  prism  of  a
+     public inquiry nor that of supervisory judicial review applies to  this
+     Tribunal's determination of this central  issue.   Rather,  this  issue
+     falls to be decided by reference to the burden and  standard  of  proof
+     noted in [81] above.  We note Ms  Andersons'  submission  based  on  JS
+     (Sudan) v SSHD [2013] EWCA Civ 1378 that the burden  of  proof  is  not
+     important in our resolution of this appeal.  We do not agree,  for  the
+     basic reason that the primary facts are very much in issue. The central
+     factual issue is that of the Appellant's threatened  reoffending  at  a
+     prescribed level in the United Kingdom.  This is keenly contested.
+
+ 91. On the other hand, we derive some assistance from  JS  (Sudan)  on  the
+     issue of evaluative judgment.  By virtue of  the  terms  of  regulation
+     21(5)(c) of the EEA Regulations, the task of the Tribunal is to make  a
+     predictive evaluative assessment of future events based on the relevant
+     factual matrix.  This matrix must be  constituted  by  the  Appellant's
+     personal conduct. Drawing the strands together,  the  elements  of  the
+     Appellant's personal conduct under scrutiny are his previous activities
+     as an active ETA  member;  his  convictions  in  Spain  in  respect  of
+     appalling terrorist offences; his  post-release  interaction  with  the
+     Colectivo; his use of forged identity documents to facilitate his entry
+     into the United Kingdom; his  occupation  of  a  Colectivo  house  with
+     another ETA member in this jurisdiction; and his continuing  possession
+     of forged identity  documents  at  the  time  of  his  arrest.   These,
+     properly analysed, are the building blocks of the Secretary of  State's
+     case against the Appellant. It is trite that they must be considered in
+     unison.
+
+ 92. Next, we pose the question of whether the Regulation 21 (5) (c) test is
+     satisfied by any of the other elements identified in [90] above, singly
+     or in combination. While we  shall  consider  each,  by  virtue  of  Ms
+     Anderson's submissions the main focus is  on  the  Appellant's  use  of
+     forged identity documents for the purpose of travelling to and entering
+     the United Kingdom and his continuing possession of documents  of  this
+     nature when apprehended by the police some considerable time later.  In
+     agreement with Ms Andersons' submission, we take as our starting  point
+     the truism that immigration  document  fraud  is  an  offence  of  some
+     gravity, being in conflict with the  maintenance  of  firm  immigration
+     control and the economic interests of society and, in  some  instances,
+     having the potential to threaten public order  and  national  security.
+     The question is whether  the  Appellant's  demonstrated  past  use  and
+     continuing possession  of  forged  identity  documents,  considered  in
+     isolation or in tandem with the  other  ingredients  identified  above,
+     satisfies the statutory test.
+
+ 93. We shall now address seriatim  what  we  consider  to  be  the  central
+     issues.
+
+     The 'Colectivo' Issue
+
+ 94. Having considered the evidence in its totality, we highlight certain of
+     its features only.  We draw  attention  particularly  to  the  evidence
+     pertaining to the "Colectivo de Refugiados" (the  "Colectivo").   There
+     is clear evidence that the Appellant interacted with this  organisation
+     following his release from prison and,  in  this  way,  secured  forged
+     travel documents to facilitate his entry  to  the  United  Kingdom  and
+     benefited from accommodation here, shared with another ETA  beneficiary
+     of the Colectivo's services, LS: see  [10]  -  [19]  supra.   There  is
+     expert evidence that the Colectivo is  a  peaceful  organisation  which
+     operates openly in France where it is not  proscribed.   It  exists  to
+     provide solidarity and support to released ETA prisoners.
+
+ 95. In this  context,  it  is  convenient  to  address  the  topic  of  the
+     Appellant's association with LS  and  the  London  accommodation.   The
+     evidence indicates that LS was already  accommodated  in  the  relevant
+     premises upon the Appellant's arrival.  It cannot be gainsaid that  the
+     two men associated with each other thereafter,  until  the  Appellant's
+     arrest.  However, there is no primary evidence that the  Appellant  was
+     harbouring LS or obstructed justice on this front.   Nor  can  this  be
+     properly  inferred  from  any  primary  evidence.   This  analysis   is
+     fortified by the contents of the EAW: see [15]  -  [16]  above.   While
+     there is mention of LS in the text, there is  no  allegation  that  the
+     Appellant was instrumental in harbouring him.  Indeed, au contraire, it
+     is asserted that LS "lodged" the Appellant in London.
+
+     Risk of Reoffending
+
+ 96. The battleground upon which  the  hearing  of  this  appeal  ultimately
+     unfolded was shaped mainly by the evidence of  Professor  Andrew  Silke
+     (supra).  The expert credentials of this witness were not  in  dispute.
+     In his evidence, both written and oral, he developed an abstract theory
+     in circumstances in which he had neither interviewed nor  attempted  to
+     assess the Appellant.  The central pillar of this theory, insofar as it
+     can be reduced to  a  single  sentence,  is  that  in  a  post-conflict
+     situation a politically motivated offender who has previously committed
+     heinous crimes is unlikely to reoffend in a comparable way or  at  all.
+     Professor Silke's opinion is encapsulated  in  the  following  extracts
+     from his report:
+
+         "Overall, the available elements suggests strongly that reoffending
+         rates for released terrorist prisoners is [sic] low.  The terrorist
+         reoffending  rates  are  certainly  much  lower  than  the   levels
+         typically seen with ordinary, non-terrorist prisoners.  This  trend
+         applies both in the context of releases where a related conflict is
+         still ongoing and  where  the  conflict  has  ended  or  entered  a
+         significant  peace  process.   It  is  important  to   acknowledge,
+         however, that some reoffending does occur, although  the  level  of
+         reoffending is typically much lower than we would  normally  expect
+         with most released prisoners."
+
+ 97. Based on the above analysis we accept Professor Silke's  evidence.   We
+     juxtapose it with the expert evidence of Mr  Woodworth  which,  in  the
+     history  of  the  extradition  and  immigration  appeals  forming   the
+     backgrounds to this hearing, has previously been rehearsed in  extenso.
+     We consider it  unnecessary  to  repeat  any  part  of  these  previous
+     exercises.   Rather  it  suffices  to  highlight  that  Mr  Woodworth's
+     evidence, all of it in written form and none of it  challenged  by  any
+     competing expert evidence, provides significant  complementary  ballast
+     to the thesis of Professor Silke, which we have accepted.
+
+     The Appellant's Terrorist Criminality and ETA
+
+ 98. In our judgment, the exercise of considering the evidence  as  a  whole
+     impels to the following conclusions.  First,  ETA  does  not  pose  any
+     present threat, serious or otherwise, current or predictive, to any  of
+     the fundamental interests of the  United  Kingdom.  Nor  is  there  any
+     realistic prospect of any such threat materialising  in  the  future  -
+     short term, medium term or longer term.  These conclusions apply  fully
+     to the Appellant qua former ETA terrorist. Thus, from this perspective,
+     the past personal conduct of the Appellant in terrorist activities  and
+     active membership of  a  proscribed  organisation  in  Spain  does  not
+     constitute a genuine, present and sufficiently serious threat affecting
+     one of the fundamental interests of the United Kingdom.
+
+ 99. We consider that the correct answer to this question is provided  by  a
+     combination of the context to which the Appellant's  previous  conduct,
+     in  all  of  its  guises,  belonged,  present  realities   and   future
+     probabilities.  All  of  the  elements  of  the   Appellant's   conduct
+     underpinning the impugned deportation  decision  of  the  Secretary  of
+     State belonged to a context which no longer  obtains.   The  proscribed
+     terrorist organisation  ETA  featured  in  all  aspects  of  this  past
+     context.  This organisation, its aims and its ruthless  armed  struggle
+     all lay at the heart of the Appellant's past conduct.   They  were  its
+     raison d'etre.
+
+100. It is, as a minimum, improbable  that  ETA  continues  to  exist.   The
+     evidence establishes that it has not been involved in active  terrorism
+     for several years. It has renounced its struggle and has been  involved
+     in  the  decommissioning  of  weapons.   The  Appellant's  last  active
+     terrorist involvement in ETA terrorism occurred some 30 years ago.  The
+     circumstances and context in which  all  elements  of  the  Appellant's
+     relevant past  conduct  occurred  have  been  extinct  for  some  time.
+     Furthermore, there is no  realistic  prospect  of  their  resurrection.
+     Thus there is no ascertainable reason why,  or  expectation  that,  the
+     Appellant would conduct  himself  in  a  similar  fashion  ever  again.
+     Furthermore, there is no evidence that a resuscitated ETA would conduct
+     terrorist operations in, or affecting, the United Kingdom.
+
+     The Forged Travel Documents
+
+101. Next, we turn to the subject of forged documents.   Based  on  all  the
+     evidence before the Tribunal, we accept Ms Dubinsky's  submission  that
+     the Appellant's initial use of forged identity documents was  motivated
+     by his flight from the real threat  of  further  incarceration  by  the
+     Spanish authorities which, in light of the ECtHR decision  in  Del  Rio
+     Prada, would  have  been  unlawful.  There  was  no  other  conceivable
+     purpose, taking into account the Appellant's history as a whole.
+
+102. We next focus on  the  evidence  bearing  on  the  Appellant's  alleged
+     possession  of  similar  documents  at  the  time  of  his  arrest.  Ms
+     Anderson's submission was that the Appellant possessed  such  documents
+     for the purpose of deceiving the United  Kingdom  authorities.  We  can
+     identify no evidential foundation for  this  submission.  There  is  no
+     primary evidence of such (or any) purpose and none from which this  can
+     reliably be inferred.  Furthermore, and notably, it does not feature in
+     the impugned decision of the Secretary of State: see [6] -  [9]  above.
+     We accept in  principle  that  immigration  document  fraud  could,  in
+     certain circumstances, satisfy, or contribute to satisfying,  the  test
+     enshrined in Regulation 21(5)(c).  Everything would depend upon  scale,
+     impact, motive, context and the relevant prevailing  public  interests,
+     bearing in mind that these are not immutable.
+
+103.  We  make  two  conclusions  in  this  respect.   First,  there  is  no
+     evidential foundation warranting the assessment that by reason  of  the
+     Appellant's past conduct involving the use  and  possession  of  forged
+     identity documents he poses a genuine, present and sufficiently serious
+     threat affecting  one  of  the  fundamental  interests  of  the  United
+     Kingdom.  Based on all the evidence, the most likely future scenario is
+     that the Appellant will have no presence in, interest in or  connection
+     of any kind with the United Kingdom which is not innocuous. If he  were
+     to attempt to enter the United Kingdom or to resume  his  residence  in
+     this jurisdiction, the evidential foundation for  concluding  that  the
+     statutory test is satisfied is, in our view, clearly lacking.
+
+104. The evidence on this issue, neither directly nor  inferentially,  fails
+     to pass muster and the Secretary of State's case,  in  certain  of  its
+     aspects, resorts to  bare  assertion  and  mere  speculation.  This  is
+     exemplified by the suggestion that the Appellant might in  the  future,
+     in the language of counsel's skeleton argument, engage in  "...   using
+     his knowledge and potential  access  to  weapons  to  commit  crime  to
+     finance  further  'legitimate'  or  illegitimate  activities  by   this
+     proscribed  organisation  or  activities  pursuing  his  own   personal
+     interests".  A further illustration of this is the assertion  that  the
+     Appellant  engaged  in  "...    aiding  a  fugitive  to  evade  the  UK
+     authorities".   A third example is provided by the suggestion that  the
+     Appellant predictably would breach  United  Kingdom  laws  if  he  "...
+     considered it  was  in  his  interests  to  [do  so]".   All  of  these
+     suggestions, in addition to constituting bare  assertion,  suffer  from
+     the  further  infirmities  of  neglecting  the  context  in  which  the
+     Appellant's past conduct occurred, the markedly changed  circumstances,
+     the absence of any discernible motive to re-engage in  similar  conduct
+     and the current realities generally.
+
+     The Reluctant Witness
+
+105. The various assessments  and  conclusions  set  forth  above  are  made
+     without reference to the Appellant's  written  evidence.   Ms  Anderson
+     properly highlighted that this has not been tested by cross examination
+     at any stage.  We further take into account that it is more  likely  to
+     be  self-serving  than  not.   The  two  particular  features  of   the
+     Appellant's conduct, in this discrete context, are his failure to  give
+     evidence at any stage of these proceedings and his earlier  refusal  to
+     engage with the Home Office proposal that he be  interviewed.  We  have
+     considered all of the evidence bearing on these two issues. Having done
+     so, we do not consider that any inference adverse to the  Appellant  is
+     appropriate. In particular, in the language of section 8(3)(e)  of  the
+     2004 Act, we are not persuaded that this behaviour  falls  within  "...
+     designed or likely to conceal  information  or  to  mislead".   In  our
+     judgment, this exacting test is  not  satisfied.   This  assessment  is
+     based on our evaluation of the evidence as  a  whole.   It  is  further
+     informed by the factors of strategy (generally), litigation tactics and
+     legal advice.  The evidence, expressly  or  by  inference,  establishes
+     that all of these factors formed part of this discrete equation.
+
+106. We also take into account Ms Andersons' submission relating to what  is
+     not contained in the Appellant's witness statement: no acceptance  that
+     he was  a  terrorist  who  perpetrated  horrendous  offences  that  are
+     inherently unjustifiable; no acceptance of culpability;  no  expression
+     of apology or genuine remorse;  and  no  acknowledgement  of  breaching
+     United Kingdom laws in the matter of  the  forged  identity  documents.
+     This submission is well made. However, it does not deflect us from  our
+     evaluative   assessments   and    conclusions    above.    Furthermore,
+     protestations of this kind would have been scrupulously analysed by the
+     Tribunal through the "possible self-serving" lens and would  have  been
+     unlikely to attract any significant weight.
+
+    The "Bouchereau" Exception
+
+107. At the error of law stage  the  Appellant  argued  that  the  exception
+     established by the Court of Justice in Case 30/77 Bouchereau [1978]  QB
+     732 at �29, which was applied by the  Court  of  Appeal  in  Marchon  v
+     Immigration Appeal Tribunal [1993] Imm AR 384, does not  represent  the
+     current state of EU law having been displaced by  Case  C-340/97  Nazli
+     and the Citizens Directive.  The Appellant further argued that if  this
+     were not considered acte clair, a reference should be made to the Court
+     of Justice.  The Respondent disputed that Bouchereau was a  live  issue
+     or that any reference was necessary and submitted that  the  Bouchereau
+     exception and Ex parte Marchon remained good law. The Tribunal received
+     detailed submissions on these issues.
+
+108.   At the second stage hearing,the parties' submissions  on  this  issue
+     were not repeated in any detail and the  Appellant  invited  the  Upper
+     Tribunal  to  follow  its   intervening   decision   in   SSHD   v   CS
+     (DA/00146/2013,  currently  unreported)  at  [89]  -  [108]).We   refer
+     particularly to [108] of CS:
+
+         "Drawing together the various strands we summarise  our  evaluation
+         of the Bouchereau decision in these terms.  First,  the  conclusion
+         expressed in [29] is prima  facie  irreconcilable  with  the  clear
+         language of Article  3(2)  of  the  1964  Directive.   Second,  the
+         reasoning underpinning the conclusion is sparse and opaque.  Third,
+         the conclusion cannot be readily linked to either the  argument  of
+         the United Kingdom Government  or  the  opinion  of  the  Advocate-
+         General. Fourth, neither the legal regime to which  the  Bouchereau
+         decision belongs nor its modern incarnation has any application  to
+         the expulsion of third country nationals such  as  the  Respondent.
+         Finally, in our judgment, the Bouchereau principle has not survived
+         the advent of Article 20 TFEU and the Citizens'  Directive,  either
+         singly or in combination."
+
+
+
+     We can identify no good reason not to follow CS. Accordingly we resolve
+     this issue in the Appellant's favour.
+
+    Omnibus Conclusion
+
+109. On the grounds and for the reasons elaborated above  the  Secretary  of
+     State has failed to discharge the burden of establishing on the balance
+     of probabilities that the Appellant, by reason of the various  elements
+     of his past conduct identified in [94] above,  considered  individually
+     or as a whole, represents a genuine, present and  sufficiently  serious
+     threat affecting one of the fundamental  interests  of  United  Kingdom
+     society. We consider  that  the  evidence  falls  measurably  short  of
+     satisfying this  exacting  test.  It  follows  that  this  appeal  must
+     succeed.
+
+110. The decision of the FtT has been set aside previously.  We remake  such
+     decision allowing the appeal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               THE HON. MR JUSTICE MCCLOSKEY
+
+          PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+
+
+                                                          Date:  30 May 2017

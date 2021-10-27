@@ -1,0 +1,648 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: HU/14192/2018
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Manchester CJC              |Decision & Reasons Promulgated       |
+|On 29 March 2019                     |On 03 April 2019                     |
+|                                     |                                     |
+
+                                   Before
+
+                        UPPER TRIBUNAL JUDGE PLIMMER
+
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                                     ZK
+                          ANONYMITY DIRECTION MADE
+                                                                  Respondent
+
+
+Representation:
+For the appellant:     Mr Bates, Senior Home Office Presenting Officer
+For the respondent:    Ms Faryl, Counsel
+
+
+                            DECISION AND REASONS
+
+Unless the Upper Tribunal or a Court directs otherwise, no report  of  these
+proceedings or any form of publication thereof shall directly or  indirectly
+identify the appellant.
+
+    1. In a decision sent on 25 January 2019  I  set  out  the  reasons  for
+       deciding that the decision of the First-tier Tribunal ('FTT') dated 9
+       October 2018, in which  it  allowed  the  appeal  of  the  respondent
+       ('ZK'), contains an error of law such that it is set aside.  I  found
+       that  the  FTT's  decision  was  inadequately  reasoned.   I  focused
+       attention upon the FTT's failure to direct itself to  and  apply  the
+       high threshold required by the "unduly harsh" test for  the  purposes
+       of Exception 2, as  contained  in  s.  117C(5)  of  the  Nationality,
+       Immigration and Asylum Act 2002 ('the 2002 Act').
+
+    2. Although I did not expressly refer to  it,  the  FTT's  finding  that
+       Exception  1  in  s.  117C(4)  of  the  2002  Act  applies,  is  also
+       inadequately reasoned.  The FTT failed to explain why  the  obstacles
+       to integration said to exist, can  properly  be  described  as  "very
+       significant".  The FTT referred to the wrong test at  [31],  omitting
+       the word "very".  The FTT  adopted  the  reasoning  in  the  skeleton
+       argument submitted on behalf of ZK, without explaining why  this  was
+       preferred over the detailed submissions in the SSHD's decision letter
+       (see in particular page 8 of the decision) and those made  orally  by
+       the SSHD's representative at the hearing.
+
+    3. I now remake the decision.
+
+    4. At the beginning of the hearing, the representatives agreed the legal
+       issues to be determined and also accepted that the factual matrix  is
+       mainly undisputed.  I first set out a summary of the legal framework.
+         This  assists  in  illustrating  the   legal   issues   the   legal
+       representatives agreed are to be determined by me.
+
+Legal framework
+
+    5. Paragraphs 399 and 399A of the Immigration Rules are reflected within
+       section 117C of the 2002 Act, which provides as follows:-
+
+           "117C Article 8: additional considerations  in  cases  involving
+           foreign criminals
+
+             1) The deportation  of  foreign  criminals  is  in  the  public
+                interest.
+
+           (2)    The more serious  the  offence  committed  by  a  foreign
+                criminal, the greater is the public interest in  deportation
+                of the criminal.
+
+           (3)    In the case of a foreign criminal ("C") who has not  been
+                sentenced to a period of imprisonment of four years or more,
+                the  public  interest  requires   C's   deportation   unless
+                Exception 1 or Exception 2 applies.
+
+           (4)    Exception 1 applies where-
+
+                (a)    C has been lawfully resident in  the  United  Kingdom
+                    for most of C's life,
+
+                (b)    C is socially and culturally integrated in the United
+                    Kingdom, and
+
+                (c)    there would be  very  significant  obstacles  to  C's
+                    integration into the country to which C is  proposed  to
+                    be deported.
+
+           (5)    Exception 2 applies where C has a genuine and  subsisting
+                relationship with a qualifying partner,  or  a  genuine  and
+                subsisting parental relationship with  a  qualifying  child,
+                and the effect of C's deportation on the  partner  or  child
+                would be unduly harsh.
+
+           (6)    In the case of a foreign criminal who has been  sentenced
+                to a period of imprisonment of  at  least  four  years,  the
+                public interest requires deportation unless there  are  very
+                compelling circumstances, over and above those described  in
+                Exceptions 1 and 2.
+
+           (7)    The considerations in subsections (1) to (6)  are  to  be
+                taken into account where a court or tribunal is  considering
+                a decision to deport a foreign criminal only to  the  extent
+                that the reason for the decision was the offence or offences
+                for which the criminal has been convicted."
+
+    6. It is to be noted that the question in s. 117C(5) as to whether "the
+       effect" of C's deportation would be "unduly harsh" is broken down
+       into two parts in paragraph 399, so that it applies where:
+
+           "(a)   it would be unduly harsh for the child to live in the
+           country to which the person is to be deported; and
+
+           (b)    it would be unduly harsh for the child to remain in the
+           UK without the person who is to be deported."
+
+    7. The correct approach to paragraph 399 and s. 117C(5) of the 2002 Act
+       has recently been considered by the Supreme Court in KO Nigeria v
+       SSHD [2018] UKSC 53.   In the only judgment, Lord Carnwath said this
+       at [23]:
+
+           "One is looking for a degree of harshness going beyond what
+           would necessarily be involved for any child faced with the
+           deportation of a parent. What it does not require in my view
+           (and subject to the discussion of the cases in the next section)
+           is a balancing of relative levels of severity of the parent's
+           offence, other than is inherent in the distinction drawn by the
+           section itself by reference to length of sentence."
+
+    8. Lord Carnwath also approved of the following guidance of the term
+       "unduly harsh" at [27]:
+
+           "Authoritative guidance as to the meaning of "unduly harsh" in
+           this context was given by the Upper Tribunal (McCloskey J
+           President and UT Judge Perkins) in MK (Sierra Leone) v Secretary
+           of State for the Home Department [2015] UKUT 223 (IAC), [2015]
+           INLR 563, para 46, a decision given on 15 April 2015. They
+           referred to the "evaluative assessment" required of the
+           tribunal:
+
+                "By way of self-direction, we are mindful that 'unduly
+                harsh' does not equate with uncomfortable, inconvenient,
+                undesirable or merely difficult. Rather, it poses a
+                considerably more elevated threshold. 'Harsh' in this
+                context, denotes something severe, or bleak. It is the
+                antithesis of pleasant or comfortable. Furthermore, the
+                addition of the adverb 'unduly' raises an already elevated
+                standard still higher."
+
+    9. It is therefore now clear from KO Nigeria that the assessment of
+       "unduly harsh" does not require a balancing of the relative level of
+       severity of the parent's offence.   The assessment solely requires a
+       careful consideration of whether the elevated threshold is reached
+       from the point of view of either the child or partner.  If that
+       threshold is met, then deportation would be a breach of Article 8 of
+       the ECHR and no further analysis is required.
+
+   10. In NA (Pakistan) v Home Secretary [2016] EWCA Civ 662, [2017]  1  WLR
+       207, Jackson  LJ,  giving  the  judgment  of  the  Court  of  Appeal,
+       concluded that a medium offender such as ZK can rely upon s. 117C(5),
+       but like other foreign criminals:
+
+           "would need to be able to point to features of  his  case  of  a
+           kind mentioned in Exceptions 1 and 2 (and in paragraphs  399  or
+           399A of  the  2014  rules),  or  features  falling  outside  the
+           circumstances  described   in   those   exceptions   and   those
+           paragraphs, which made his claim based on article  8  especially
+           strong".
+
+   11. It follows that if Exceptions 1 and 2 do not apply,  I must go on to
+       consider all matters in the round and whether viewed cumulatively,
+       these are sufficient to give rise to very compelling circumstances -
+       see the general approach in Hesham Ali v SSHD [2016] UKSC 60 and KE
+       (Nigeria) v SSHD [2017] EWCA Civ 1382, together with SSHD v Garzon
+       [2018] EWCA Civ 1225 at [26].
+
+Issues
+
+   12. As I have recorded above, the factual matrix to the appeal is largely
+       agreed, and can be summarised as follows.  ZK was born in 1994 and is
+       nearly 25.  He is a citizen of Pakistan, having arrived in the United
+       Kingdom ('UK') in 2001 with his mother, when he  was  a  young  child
+       (seven years old).  He was granted ILR in 2008. He has therefore been
+       lawfully present in the UK for most of his life.
+
+   13. ZK married his wife, MI, a British citizen in 2013.  MI was  born  in
+       Pakistan in 1994 and is 25 years old.  She came to the  UK  with  her
+       father and siblings in 2009 when she was about 15.  ZK and MI met  at
+       college and were friends before getting married.
+
+   14.  The couple have two British citizen children, aged four (A) and  two
+       (B).   They all  live  with  ZK's  extended  family  (including  ZK's
+       mother, brother, sister and nephew) in Manchester.  The FTT's factual
+       findings that ZK is a loving father and husband and has  genuine  and
+       subsisting  relationships  with  MI  and  their  two  children,   are
+       preserved.
+
+   15. ZK was sentenced to 12 months imprisonment, having pleaded guilty  to
+       fraud by abuse of position and breach of conditional  discharge.   He
+       was released in November 2018, having served  six  months.   All  the
+       evidence from the probation service indicates that he presents a  low
+       risk of reoffending.
+
+   16. Given the extent of the matters accepted, the representatives  agreed
+       that there are four broad issues in dispute.
+
+        1) Would there be very significant obstacles  to  ZK's  integration
+           into Pakistan for the purposes of Exception 1(c) of s.117C(4) of
+           the 2002 Act? The SSHD accepts that ZK has been lawfully present
+           in the UK for most of his life, and is socially  and  culturally
+           integrated here.  If not;
+
+        2) Would it be unduly harsh for the qualifying children and  MI  to
+           live in Pakistan for the purposes of Exception 2 of  s.  117C(5)
+           of the 2002 Act?  If yes:
+
+        3) Would it be unduly harsh for the qualifying children and  MI  to
+           remain in the UK without ZK for the purposes of Exception  2  of
+           s. 117C(5) of the 2002 Act?  If not;
+
+        4) Are there very compelling circumstances, over  and  above  those
+           described in Exceptions 1 and 2, for the purposes of s.  117C(6)
+           of the 2002 Act?
+
+   17. For the avoidance of any doubt, both representatives agreed that  (2)
+       remains a disputed issue and  the  suggestion  in  my  error  of  law
+       decision at [11] that the SSHD accepted it would be unduly harsh  for
+       the children to live in Pakistan is mistaken.   The  SSHD's  decision
+       letter sets out detailed reasoning (pages 4-5) for his position  that
+       MI and the children can live in Pakistan with ZK,  without  it  being
+       unduly harsh.  I checked with  Ms  Faryl  that  she  was  content  to
+       proceed on this basis and invited her to  take  instructions  if  she
+       considered it  necessary.   She  confirmed  that  she  was  happy  to
+       proceed.  I provided both representatives with a  copy  of  the  four
+       issues in dispute and they both confirmed that they entirely accepted
+       the delineation of the issues as set out above.
+
+   18. If the answer to issues (1), (2) or (3) is positive that is  the  end
+       of the matter, and the appeal must be allowed on Article  8  grounds.
+       If all the answers are negative, then it will be necessary to  go  on
+       to address (4).
+
+Hearing
+
+   19. ZK relied upon a helpful 280-page comprehensive bundle  of  evidence.
+        This includes, inter alia: witness statements from himself, his wife
+       and his extended family  members;  medical  evidence  concerning  the
+       children and MI; and, evidence relevant to the  risk  of  reoffending
+       from the probation service.  Prior to the hearing I read  the  bundle
+       in full.
+
+   20. I heard oral evidence from ZK and MI.  They were both  cross-examined
+       by Mr McVeety.   Mr  McVeety  relied  upon  a  succinct  but  helpful
+       position statement.  He invited me to find  that  each  of  the  four
+       issues demand that a high threshold is met  and  the  evidence  comes
+       nowhere close to meeting the requisite tests.  Ms Faryl relied upon a
+       comprehensive and helpful skeleton argument, and submitted  that  the
+       evidence was sufficient to meet each of the requisite tests.
+
+   21. At the end of the submissions I reserved my  decision,  which  I  now
+       provide with reasons
+
+Findings
+
+   22. In reaching my findings, I have applied the preserved factual
+       findings made by the FTT, but updated these findings in the light of
+       the further evidence available to me.
+
+   23. I note that the FTT regarded MI as an entirely truthful witness.  I
+       am satisfied that she provided mostly truthful evidence before me.
+       She gave straightforward answers to each question but tended to
+       exaggerate the nature and extent of A's need for medical attention.
+       I deal with this in more detail below.  ZK provided mostly truthful
+       evidence but sought to exaggerate the complete lack of any family
+       members in Pakistan.  MI accepted that she has an aunt in Lahore that
+       she visited when they went to Pakistan on honeymoon in 2013.  I
+       accept that MI is not close to this aunt but the couple cannot be
+       said to be completely devoid of family contacts in Pakistan.  That is
+       not surprising given that the couple and both sets of their parents
+       are Pakistan citizens, and MI only left Pakistan in 2009.
+
+   24. ZK may not be able to read and write in Urdu but he can speak Urdu.
+       He speaks English fluently.  He obtained seven GCSEs and a BTEC.  I
+       am confident that within a short period of time he would be able to
+       communicate so as to settle into Pakistani life.  He has grown up
+       immersed in a busy household who share a common dual Pakistani
+       heritage and will be able to navigate the different way of life in
+       Pakistan.
+
+   25. I have no doubt that ZK and MI have a very close and committed
+       relationship and form part of a close and supportive family unit with
+       their two children, as well as the extended family members, with whom
+       they reside in Manchester.   ZK arrived in the UK when he was seven
+       and has plainly lived in the UK for a lengthy period.  MI arrived
+       when she was a teenager, having been born and brought up in Pakistan.
+        The couple began a family when they were both young.  It is clear
+       from the evidence that I have heard that the centre of ZK's life is
+       his family, and vice versa.  It follows that the centre of his life
+       is likely to be where his family is, particularly as his wife is
+       currently pregnant.
+
+   26. ZK's time in prison did not substantially shift the family dynamics.
+       They remained in close contact with daily telephone calls and weekly
+       visits.  I have also seen extensive correspondence between the couple
+       during ZK's imprisonment.  I accept the evidence that although MI had
+       extended family members to assist her, she and the children were
+       profoundly affected by ZK's six months imprisonment.  That included
+       MI seeking psychiatric help and counselling.  A psychiatric report
+       dated 13 August 2018, prepared by Dr Hussain refers to this as a
+       "period of major emotional crisis" in MI's life and she suffered from
+       "free and floating anxiety state".  Her symptoms fulfilled the
+       criteria of mixed anxiety and depressive disorder, such that
+       antidepressants and cognitive behavioural therapy (CBT) were
+       recommended.  In addition, A was adversely affected by her father's
+       absence, which resulted in a delayed start time to her schooling by a
+       year and missed hospital appointments for her eye problems.  Her
+       father now takes her to school and collects her from school.  I
+       accept that these difficulties largely subsided when MK returned to
+       the family home, although difficulties remain given the inevitable
+       uncertainty caused by these proceedings.  This is therefore a family
+       that has demonstrated resilience.  Although it has been difficult,
+       they have with the passage of time been able to cope with ZK's
+       imprisonment.  I note from the psychiatric report that the couple
+       have had to cope with difficult times in the past and have
+       demonstrated an ability to move on successfully.  In 2014/5 there was
+       a short-term breakdown in their relationship but this was resolved
+       with support from social services.  Since then social services have
+       not been involved and their relationship has strengthened.
+
+   27. I do not accept that MI has any current serious medical condition.
+       The letter from the GP dated 1 February 2019 refers to MI having
+       attended self-help counselling.  MI confirmed that the reference to
+       this continuing is a mistake because this stopped in October 2018.
+       The GP refers to MI being stressed and taking medication to assist
+       with sleeping.  The difficulties described by the psychiatrist in
+       August 2019 no longer apply now.  In the directions I gave following
+       the error of law hearing, I suggested an updated psychiatric report
+       would be helpful if considered necessary.  It has not been necessary
+       to do so because as the GP's letter explains the ongoing concerns are
+       limited.  Counselling has come to an end.  MI is no longer on anti-
+       depressants as she is pregnant.  CBT did not commence.  MI simply
+       remains on sleeping tablets.
+
+   28. I do not accept that either of the children have any serious medical
+       condition.  I note that A has been attending hospital appointments
+       for an eye condition and they both have ear problems.  MI gave
+       evidence that A may have to undergo surgery next year but there was
+       no medical evidence available to support this.  Rather, the medical
+       evidence concerning the children mainly consists of appointment
+       letters.  A letter from the eye hospital dated 23 January 2019
+       described improvements including "right visual acuity has improved
+       significantly since last visit".  ZI explained that A no longer had
+       to wear eye patch but did have to place drops in her eyes.
+
+   29. I now go on to address each of the four issues in dispute, and where
+       appropriate consider the evidence in more detail.
+
+Issue 1: Private life / s.117C(4)(c)
+
+   30. The consideration of 399A and section 117C(4) involves three
+       elements.    ZK came to the UK when he was seven.  He is now 24.  He
+       was granted ILR in 2008 but was lawfully present with his mother
+       whilst that application was pending.  In the circumstances he is
+       entitled to be treated as having been lawfully present in the UK for
+       most of his life.  ZK is clearly socially and culturally integrated
+       into the UK given his education, employment and length of residence
+       here.  I now turn to the third and only limb to Exception 1 that is
+       in dispute - would there be very significant obstacles to ZK's
+       integration to Pakistan?
+
+   31. The authorities require a broad evaluative judgement that applies the
+       plain meaning of the words in s.117C(4) (as replicated in 276ADE(1)
+       and 399A of the Immigration Rules) - see SSHD v Kamara [2016] EWCA
+       Civ 813 and Parveen v SSHD [2018] EWCA Civ 932). The phrase "very
+       significant" connotes an elevated threshold which will not be met by
+       mere inconvenience or upheaval.  The idea of "integration" calls for
+       a broad evaluative judgment to determine whether, inter alia, MK will
+       be able to build up within a reasonable time human relationships to
+       give substance to his private and family life.
+
+   32. MK has argued that it shall be extremely difficult to adjust to life
+       in Pakistan as he will return as a stranger to the country given the
+       very young age he left.  I bear in mind the principles set out in
+       Maslov v Austria [2009] INLR 47.
+
+   33. I accept the SSHD's submission that MK shall be well placed to obtain
+       employment.  He has gained school and college qualifications, and has
+       employment experience. He may not be able to read and write in Urdu
+       but his excellent English language skills will compensate for this.
+       Undoubtedly the experience of being imprisoned was difficult for him
+       but MK has demonstrated resilience in coping with enforced absence
+       from his family.  Those traits and that experience can be applied to
+       his advantage in Pakistan, a country that he is not a complete
+       stranger to.  He may have only visited once since he left as a child
+       but he is very familiar with Pakistani culture having grown up in a
+       Pakistani-heritage large household in Manchester.  His wife and her
+       family were born and brought up in Pakistan, albeit they are also
+       British citizens.  I am satisfied that within a reasonable period of
+       time, ZK will be able to enter employment in Pakistan and develop a
+       private life there.
+
+   34. I acknowledge that ZK is a part of a very committed family unit. For
+       reasons I set out below it would not be unduly harsh for his wife and
+       children to return to Pakistan with him.  To the extent that the
+       considerations in Exception 2 inform my approach to Exception 1, it
+       is relevant to take into account that any obstacles cannot properly
+       be described as "very significant" solely because ZK will be leaving
+       his wife and children behind.  They are British citizens and are
+       entitled to remain in the UK.  It is entirely a matter of choice for
+       them whether to go or stay.
+
+   35. There is no reason why, initially at least, ZK should not be
+       supported by his brother and sister in the UK, whilst he settles in.
+       They are both in full-time employment.  MI also has family members in
+       Lahore.  I accept she is not close to them and I acknowledge that
+       MI's ties are not necessary ZK's ties, but there is no reason why
+       they would not be prepared to help during the settling in period.
+
+   36. To summarise, ZK is of Pakistani origin, he speaks Urdu and his
+       English will serve him well, he is young and in good health and had
+       been working in the UK, and that there is no reason why he could not
+       work in Pakistan and in time establish a private life.  It would be
+       open to his wife and children to join him there, should they wish to
+       do so.  Having undertaken a broad evaluative judgment, I am not
+       satisfied that the obstacles to ZK's integration in Pakistan can
+       properly be described as "very significant".
+
+Issue 2: unduly harsh for children / MI to go to Pakistan?
+
+   37. The children's best interests are to be treated as a primary
+       consideration.  I also attach significance to their British
+       citizenship. Their best interests favour remaining in the UK with
+       both parents.  That is the status quo.  However they are both very
+       young and with the love and support of their parents will be able to
+       cope with life in Pakistan.  Both parents were born and brought up
+       within the Pakistani community, and will be well-placed to assist the
+       children in making the necessary adjustments.
+
+   38. I accept that A has been attending regular hospital appointments for
+       her eye condition, a "convergent squint", but I have been taken to no
+       country background evidence to support the contention that the
+       medical attention she needs will be unavailable or unaffordable in
+       Pakistan.  I also accept that both children have problems with their
+       ears and attend hospital appointments for this.   No effort has been
+       made to evidence with any degree of precision the likely medical
+       treatment the children require and its availability in Pakistan, far
+       less how much it would cost there.   I am satisfied that the children
+       will be able to access the medical treatment they require in
+       Pakistan.  Any expenses can be met with the assistance of the
+       extended family members and their parents' employment.
+
+   39. Although A's anxiety may have delayed her school start, this was
+       attributed to the absence of ZK.  Similarly, MI's depression and
+       anxiety as set out in the psychiatric report was linked to ZK's
+       absence from their lives.  MI is still in the early stages of her
+       pregnancy and there is no reason why she would be unable to access
+       medical treatment in Pakistan.  The family will be able to live
+       together in Pakistan.  ZK and MI could be assisted with short-term
+       support from UK-based family members.  Most are in employment with
+       full-time jobs.   There is therefore an absence of any significant
+       medical or other evidence to support the claim that it would be
+       unduly harsh for MI and the children to live in Pakistan.
+
+   40. In case I am wrong about this, I have gone on to consider issue (3).
+
+Issue 3 - unduly harsh for children and MK to remain in the UK without ZK?
+
+   41.  Dr  Hussain  concluded  that  without  her  husband's   support   or
+       antidepressants there may be the risk of worsening of symptoms to the
+       extent that MI would not be able to look after her children  and  may
+       need continuous support of  social  services.   This  assessment  was
+       based on the circumstances that existed in August  2018.   I  do  not
+       accept it  applies  at  present.   MI  coped  when  her  husband  was
+       imprisoned without the need for the intervention of social  services.
+       She undertook counselling but was able to cope.   MI has demonstrated
+       a degree of  resilience  in  coping  without  her  husband.   It  was
+       undoubtedly difficult for her but it was not unduly so.  I note  that
+       MI works part-time.  It is claimed that she would not be able to cope
+       with both employment and childcare without her  husband.   I  do  not
+       accept this.  Many single parents are able to  do  both.   She  lives
+       with the extended family and can turn to them  for  assistance,  even
+       though some work full-time.
+
+   42. Ms Faryl submitted that the family would be devastated and in  severe
+       shock by the loss of ZK and this was sufficient to  meet  the  unduly
+       harsh  test.   I  do  not  accept  this.   The  threshold  is   high.
+       Devastation and shock are insufficient to meet the test, if there  is
+       evidence, as here, that ZI and the children will be able to cope with
+       time and with the support  of  their  extended  family  members.    I
+       entirely accept that the children will  be  devastated  as  they  are
+       particularly close to their father.  However, they will have the love
+       and support of their mother and the extended family members.  I  have
+       no doubt that it will be initially difficult for A and  B,  but  with
+       the love and support around them, they  will  be  able  to  cope.   A
+       refused to attend medical appointments and to go to school  when  her
+       father was in prison.  She was only just 4 and did not understand why
+       her father was absent.  She will shortly be 5 and if  MI  chooses  to
+       remain in the UK with the children, she will need to explain what has
+       happened and why.  Although this will be difficult and  shocking  for
+       A, it does not meet the high threshold required by the  unduly  harsh
+       test.  B is younger and is more likely to be able to  cope  with  the
+       changed circumstances.  With time and support, MI  and  the  children
+       will be able to make sense of and cope with the sudden  loss  of  ZK.
+       I do not accept that  his  deportation  would  involve  a  degree  of
+       harshness going beyond what would necessarily  be  involved  for  any
+       child faced with deportation of a parent.
+
+   43. The impact of ZK's deportation will be harsh upon ZI and the children
+       and they will suffer emotionally.  This will clearly be  contrary  to
+       the children's best interests but with time and support it cannot  be
+       properly said that the effect on them or their mother will be  unduly
+       harsh.
+
+Issue 4 - very compelling circumstances
+
+   44. This is a case in which there are significant factors in ZK's favour.
+        These must however be viewed against all the circumstances of the
+       case.  I have approached issue (4) by undertaking a "balance sheet"
+       approach, but one that considers both sides of the balance sheet,
+       when addressing each relevant issue.  For the avoidance of doubt I
+       have taken into account all the matters set out above before reaching
+       my conclusion.
+
+   45. Firstly, ZK's offending is at the lowest end of the scale for medium
+       offenders (12 months) and at the lower end of the seriousness
+       spectrum - see SSHD v Barry [2018] EWCA Civ 790.  Nevertheless the
+       index offence remains a serious one that included aggravating
+       features: dishonesty and fraud against a vulnerable adult that ZK
+       cared for.
+
+   46. Second, ZK's risk of reoffending has been consistently assessed as
+       low by the probation service.  He was imprisoned in a Category C
+       prison, consistent with his low risk of reoffending.  His behaviour
+       has been good since his arrest, including during his imprisonment and
+       after his release.  Rehabilitation is important, but the Court of
+       Appeal has consistently emphasised that the cases in which it can
+       make a significant contribution to establishing the compelling
+       reasons sufficient to outweigh the public interest in deportation are
+       likely to be rare - see LG (Colombia) v SSHD [2018] EWCA Civ 1225.
+       ZK's immediate and extended family are protective factors to assist
+       in the maintenance of the low risk of offending, albeit they were
+       both present when ZK committed the index offence. ZK has demonstrated
+       resilience in rebuilding his life.  He is clearly committed to and
+       has a close relationship with his family.  These are indicators that
+       demonstrate ZK's clear commitment to living a good and law-abiding
+       life in the UK.  However, he was only released from prison relatively
+       recently in November 2018.  Although ZK was working as a sales
+       representative at the time of his arrest and was provided with a
+       supporting letter from his employer, he has not been able to obtain
+       employment since his release from prison.
+
+   47. Third, ZK came to the UK during his childhood.  This is a factor of
+       some significance in the light of the principles set out in Maslov
+       (supra).  ZK regards himself to be British and may face difficulties
+       in adapting to life in Pakistan.  However he has been brought up
+       immersed in a dual Pakistani and British culture, having lived his
+       entire life with family members born in Pakistan (save for his
+       children and nephew).  Any culture shock in returning to Pakistan is
+       likely to be no more than moderate.  If MI and the children return to
+       Pakistan with him, the culture shock is likely to be even less.  I
+       have already set out above that this will be difficult for them but
+       not unduly harsh.  MI has a greater knowledge of and closer links to
+       Pakistan having left more recently in 2009.  She would be able to
+       assist ZK to navigate and adapt to a different way of life.
+
+   48. Fourth, ZK, MI and the children are particularly close to the wider
+       family, with whom they live.  They will undoubtedly miss living in a
+       busy household.  In addition, ZK is particularly close to his nephew.
+        ZK's brother described the nephew as treating ZK as a father, as his
+       own father is separated from their sister (the nephew's mother).  MI
+       explained that he calls ZK "daddy" and ZK's brother "uncle".  This is
+       to be expected as this is what the other two children in the extended
+       family household do.  I accept that it would be in the nephew's
+       interests for the status quo to remain but with time and support, he
+       will be able to adapt to the changed circumstances.  He is still a
+       young child and will be able to turn to his other uncle for paternal
+       guidance.
+
+   49. Fifth, ZK married his wife at a time when he had ILR and she had a
+       reasonable expectation that she would continue to live in the UK with
+       her husband.  On the other hand, I have found that whilst it may be
+       difficult for MI to return to Pakistan with her children, and it may
+       be contrary to their best interests to do so but they will adapt, and
+       it will not be unduly harsh.
+
+   50. Finally, ZK speaks English very well and between his partner and his
+       own earning potential the family is likely to be financially
+       independent.  These matters are relevant to section 117B of the 2002
+       Act and therefore militate in ZK's favour.
+
+   51. Where a foreign offender receives a custodial sentence of at least 12
+       months I am obliged to give appropriate weight to Parliament's and
+       the Secretary of State's assessments of the strength of the general
+       public interest in deportation and that, where paragraphs 399 and
+       399A of the Rules do not apply, in general "only a claim which is
+       very strong indeed ... will succeed" - see [50] of Hashem Ali.  In
+       the end and notwithstanding the factors in ZK's favour, the present
+       case is not, in my view, of that kind.  ZK appears to pose a low risk
+       but his last conviction was not that long ago.  In any event the
+       significance of rehabilitation is limited by the fact that the risk
+       of reoffending is only one facet of the public interest.  I have
+       considered ZK's arrival in the UK as a child.  It is noteworthy that
+       I have found an absence of "very significant obstacles" to his
+       integration into Pakistan.  Whilst his wife and children will find
+       ZK's deportation difficult and it will be contrary to the children's
+       best interests, it's effect does not meet the threshold required to
+       be unduly harsh.  They, like the extended family members, will cope
+       with time and support.
+
+   52. When all the circumstances are viewed cumulatively, I conclude there
+       were no "very compelling circumstances" outweighing the public
+       interest in deportation.
+
+
+
+Decision
+
+   53. I remake the decision by dismissing ZK's appeal
+
+
+
+Fee award
+
+   54. I decline to make a fee award as I set aside the FTT decision  and  I
+       have dismissed ZK's appeal.
+
+
+Signed:  UTJ Plimmer
+
+Ms M. Plimmer
+Judge of the Upper Tribunal
+
+Date:
+2 April 2019

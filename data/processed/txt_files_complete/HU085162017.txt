@@ -1,0 +1,1315 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: HU/08516/2017
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                 |Decision & Reasons Promulgated       |
+|On 11th March 2019                   |On 11th April 2019                   |
+|                                     |                                     |
+
+
+                                   Before
+
+                        UPPER TRIBUNAL JUDGE JACKSON
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                                     CC
+                          (ANONYMITY DIRECTION MADe)
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr Tufan, Senior Home Office Presenting Officer
+For the Respondent:    Ms A Nnamani of Counsel instructed by Samuel Louis
+Solicitors
+
+
+                            DECISION AND REASONS
+
+
+ 1. CC appeals against the decision  of  First-tier  Tribunal  Judge  Davey
+    promulgated on 5 October 2018 in which his appeal against the  decision
+    to refuse his human rights claim dated 26 July 2017, (in the context of
+    a deportation order made on 25 July 2017, pursuant to section 33 of the
+    UK Borders Act 2007), was allowed.  For ease I continue to refer to the
+    parties as they were before the First-tier Tribunal,  with  CC  as  the
+    Appellant and the Secretary of State as the Respondent.
+
+ 2. For the reasons set out in the decision annexed, I found  an  error  of
+    law in the decision of the First-tier Tribunal, set the decision  aside
+    and listed a further hearing for the re-make of the Appellant's  appeal
+    which came before me on 11 March 2019.  The error of law decision  sets
+    out the factual and procedural background to this appeal which will not
+    be repeated herein save as where relevant or necessary.
+
+The appeal
+
+Applicable law
+
+ 3. The requirements where a person claims that their deportation would  be
+    contrary to the United Kingdom's obligations under  Article  8  of  the
+    European convention on Human rights in so far as they are  set  out  in
+    the Immigration Rules and relate to this appeal are:
+
+         "398. Where  a  person  claims  that  their  deportation  would  be
+         contrary to the UK's obligations  under  Article  8  of  the  Human
+         Rights Convention, and
+
+          a) ...
+          b) the deportation of the person from the UK is conducive to  the
+             public good because they have been convicted of an offence for
+             which they have been sentenced to a period of imprisonment  of
+             less than 4 years but at least 12 months; or
+          c) ... the Secretary  of  State  in  assessing  that  claim  will
+             consider whether paragraph 399 or 399A applies and, if it does
+             not,  the  public  interest  in  deportation  will   only   be
+             outweighed by other factors where there  are  very  compelling
+             circumstances over and above those described in paragraphs 399
+             and 399A.
+
+
+         399.     This paragraph  applies  where  paragraph  398(b)  or  (c)
+applies if -
+
+          a) the person has a genuine and subsisting parental  relationship
+             with a child under the age of 18 years who is in the UK, and
+
+
+                i) the child is a British Citizen; or
+             (ii)     the child has lived in the  UK  continuously  for  at
+                  least the 7 years immediately preceding the  date  of  the
+                  immigration decision; and in either case
+
+
+               a) it would be unduly harsh for the  child  to  live  in  the
+                  country to which the person is to be deported; and
+               b) it would be unduly harsh for the child to remain in the UK
+                  without the person who is to be deported; or
+
+
+          b) the person has a genuine and subsisting  relationship  with  a
+             partner who is in the UK and is a British Citizen  or  settled
+             in the UK, and
+               i) the relationship was formed at  a  time  when  the  person
+                  (deportee) was in the UK lawfully  and  their  immigration
+                  status was not precarious; and
+              ii) it would be unduly harsh for that partner to live  in  the
+                  country to which the person is to be deported, because  of
+                  compelling circumstances over and above those described in
+                  paragraph EX.2 of Appendix FM; and
+             iii) it would be unduly harsh for that partner to remain in the
+                  UK without the person who is to be deported.
+
+         399A. This paragraph applies where paragraph 398(b) or (c)  applies
+if -
+
+          a) the person has been lawfully resident in the UK  for  most  of
+             his life; and
+          b) he is socially and culturally integrated in the UK; and
+          c) there would be very significant obstacles to  his  integration
+             into the country to which it is proposed he is deported."
+
+ 4. By virtue of section 117A of the Nationality,  Immigration  and  Asylum
+    Act 2002, Part V of that Act applies  where  a  court  or  tribunal  is
+    required to determine whether a decision  made  under  the  Immigration
+    Acts breaches Article 8 of the European Convention on Human Rights  and
+    as a result would be unlawful under section 6 of the Human  Rights  Act
+    1998.
+
+ 5. Section 117A applies to the public interest considerations in all cases
+    and section 117C applies additional considerations to  cases  involving
+    foreign criminals.  So far as relevant to  this  appeal,  section  117B
+    sets out factors to be considered  in  all  cases  and  the  additional
+    consideration in cases involving foreign criminals provides as follows:
+
+    "117C. Article 8: additional considerations in cases involving  foreign
+    criminals
+
+      1) The deportation of foreign criminals is in the public interest.
+      2) The more serious the offence committed by a foreign  criminal,  the
+         greater is the public interest in deportation of the criminal.
+      3) In the case of a foreign criminal ("C") who has not been  sentenced
+         to a period of imprisonment of  four  years  or  more,  the  public
+         interest requires C's deportation unless Exception 1 or Exception 2
+         applies.
+      4) Exception 1 applies where -
+          a) C has been lawfully resident in the United Kingdom for most of
+             C's life,
+          b) C is socially and culturally integrated in the United Kingdom,
+             and
+          c) there would be very significant obstacles to  C's  integration
+             into the country to which C is proposed to be deported.
+      5)  Exception  2  applies  where  C  has  a  genuine  and   subsisting
+         relationship with a qualifying partner, or a genuine and subsisting
+         parental relationship with a qualifying child, and  the  effect  of
+         C's deportation on the partner or child would be unduly harsh."
+
+ 6. In KO (Nigeria) v Secretary of State for  the  Home  Department  [2018]
+    UKSC 53, the Supreme Court considered the test for and  factors  to  be
+    taken into account when assessing the  meaning  of  'unduly  harsh'  in
+    paragraph 399A of the Immigration Rules  and  section  117C(5)  of  the
+    Nationality, Immigration and Asylum Act 2002.  In  paragraph  23,  Lord
+    Carnworth held as follows:
+
+          "On the other hand the expression  "unduly  harsh"  seems  clearly
+         intended to introduce a higher hurdle than that of "reasonableness"
+         under section 117B(6), taking account of the public interest in the
+         deportation  of  foreign  criminals.   Further  the  word  "unduly"
+         implies an element of comparison.  It assumes that there is a "due"
+         level of "harshness", that is a level which may  be  acceptable  or
+         justifiable in the relevant context.   "Unduly"  implies  something
+         going beyond that level.  The  relevant  context  is  that  set  by
+         section 117C(1), that is the public interest in the deportation  of
+         foreign criminals.  One is looking for a degree of harshness  going
+         beyond what would necessarily be involved for any child faced  with
+         the deportation of a parent.  What it does not require in  my  view
+         (and subject to the discussion of the cases in the next section) is
+         a balancing of the relative levels  of  severity  of  the  parent's
+         offence, other than is inherent in the  distinction  drawn  by  the
+         section itself by reference to length of sentence.   Nor  (contrary
+         to the view of the Court of Appeal in IT (Jamaica) v  Secretary  of
+         State for the Home Department [2016] EWCA Civ  932,  [2017]  1  WLR
+         240, paras 55, 64) can it be equated with the requirement  to  show
+         "very compelling reasons".  That would be in  effect  to  replicate
+         the additional test applied by  section  117C(6)  with  respect  to
+         sentences of four years or more."
+
+ 7. Within the Supreme Court's consideration of the specific appeal in  KO,
+    further reference is made to the authoritative guidance on the  meaning
+    of unduly harsh given in MK (Sierra Leone) v Secretary of State for the
+    Home Department [2015] UKUT 223 (IAC), which held in paragraph 46:
+
+         "By way of self-direction, we are mindful that 'unduly harsh'  does
+         not equate with uncomfortable, inconvenient, undesirable or  merely
+         difficult.   Rather,  it  poses  a   considerably   more   elevated
+         threshold.  'Harsh' in this context, denotes something more severe,
+         or bleak.  It  is  the  antithesis  of  pleasant  and  comfortable.
+         Furthermore, the addition of the adverb 'unduly' raises an  already
+         elevated standard still higher."
+
+Respondent's reasons for refusal
+
+ 8. The Respondent refused the Appellant's human rights claim on the  basis
+    that none of the exceptions to deportation applied in his case  and  he
+    was subject to the automatic the provisions in section 32(5) of the  UK
+    Borders Act 2007 following his conviction for theft for  which  he  was
+    sentenced to 2 years' imprisonment.  The Respondent accepted  that  the
+    Appellant had a genuine and subsisting relationship with his  wife  and
+    children in the United Kingdom, but did not accept  that  it  would  be
+    unduly harsh either for the family to relocate to Nigeria (the children
+    were young enough to adapt, English is spoken there  and  the  children
+    could continue in education, and medical treatment  was  available)  or
+    for the Appellant's wife and children to remain in the  United  Kingdom
+    without him.  The family had struggled, but managed while the Appellant
+    was in prison.
+
+ 9. In relation to private life, it was accepted  that  the  Appellant  had
+    been in the United Kingdom lawfully, but had not been here for most  of
+    his life and his criminal conviction shows that he was  not  culturally
+    and socially integrated here.  The  Respondent  considered  that  there
+    would be no very significant obstacles to the Appellant's reintegration
+    to Nigeria.  Overall there were no  very  compelling  circumstances  to
+    outweigh the public interest in deportation in this case.
+
+The Appellant's evidence
+
+10. In his first written statement, dated 8 July 2018, the  Appellant  sets
+    out his immigration and family circumstances as well as details of  his
+    criminal offence.  He arrived in the United Kingdom in  May  2005  with
+    entry clearance as the spouse of a  British  Citizen  and  was  granted
+    indefinite leave to remain as such in 2009.  The Appellant states  that
+    during his time in prison, his family broke down.   His  wife  was  not
+    able to cope and only able to do nursing agency work when available and
+    the children were devasted with problems sleeping  and  were  adversely
+    affected in all areas of their lives.
+
+11. The Appellant was the main breadwinner for his family in  the  UK,  his
+    mother and his sister, both of whom passed away in Nigeria when he  was
+    in prison.  The Appellant has no other family remaining in Nigeria  and
+    his  family  in  the  UK  have  only  visited  there  before  when  the
+    Appellant's parents and sister were alive.  The Appellant has  no  home
+    or job in Nigeria and would be concerned as to  his  safety  on  return
+    there.
+
+12. During his time in the United Kingdom, the Appellant has been gainfully
+    employed,   has   contributed   to   his   community   and   charitable
+    organisations.  Whilst in prison he adhered to  the  prison  rules  and
+    never had an  IEP.   The  Appellant  undertook  further  qualifications
+    whilst in prison and has continued since release, but has not been able
+    to work because he  does  not  have  the  correct  identity  documents.
+    Instead, the Appellant's wife works and the Appellant  runs  the  daily
+    family activities.
+
+13. The Appellant has not reoffended, has had  positive  reports  from  the
+    Probation Service and has been assessed as a low risk to the public  in
+    his OASys report.
+
+14. In his second written statement, dated 20 February 2019, the  Appellant
+    refers to his children's educational attainment and emotional wellbeing
+    dropping while he was in prison and absent from the  family  home,  but
+    with  remarkable  improvement  since  his  release  from  prison.   The
+    Appellant's wife has returned to full-time work as a nurse and  depends
+    on the Appellant for child care of their children.
+
+15. The Appellant states that if he is deported to  Nigeria,  it  would  be
+    practically impossible for his wife to bring up their three children by
+    herself and he would not be able to provide for them in Nigeria  as  he
+    has no employment or home there.  The unemployment rate in  Nigeria  is
+    over 23% and the Appellant's wife would have to register there to  work
+    as a nurse which can take 6-18 months.
+
+16. The Appellant attended the oral hearing, adopted his written statements
+    dated 8 July 2018 and 20 February 2019 and gave evidence in English.
+
+17. In cross-examination the Appellant accepted that he  had  received  two
+    cautions in the past, but neither was for ABH.  The cautions were  both
+    related to issues between the Appellant and his wife, but he said  that
+    these were a mistake and he had never been any threat to her.  However,
+    he accepted that on the basis of these cautions,  he  was  recorded  as
+    posing a medium risk of harm to a known adult in the OASys report dated
+    15 May 2018.
+
+18. The Appellant was asked about the OASys report dated 15  May  2018,  in
+    which it was recorded that the Appellant did not accept guilt  for  the
+    criminal offence.  The Appellant said that there have been a number  of
+    OASys reports, including one before he went to prison which contained a
+    number of mistakes and one completed on his release from  prison  which
+    followed completion of a victim awareness course as confirmed by letter
+    from his Probation Officer.  The Appellant does accept  his  guilt  for
+    the criminal offence.
+
+19. The Appellant has three children in the United  Kingdom,  two  of  whom
+    have health issues  with  ongoing  treatment  and/or  planned  surgical
+    procedures.  The Appellant states that his wife would not  be  able  to
+    cope alone during these procedures, he would need to take his  children
+    to the hospital for their operations and it would not be possible for a
+    single  parent  to  do  this,  in  particular  because  of  his  wife's
+    employment and her responsibility for the  mortgage.   The  Appellant's
+    youngest child is also in receipt of speech therapy.
+
+20. Whilst the Appellant was in prison, he stated that it was difficult for
+    his wife who received only a  little  help  from  their  neighbours  in
+    looking after the children.  Everyone was  adversely  affected  by  his
+    imprisonment, his wife was very distressed when she came to  visit  him
+    and the children had been adversely affected at school, which has since
+    improved.
+
+21. In the United Kingdom, the Appellant has two brothers, both of whom are
+    married but neither of them assisted the family during the  Appellant's
+    imprisonment.  He stated that they live too far away and have their own
+    children and family issues.
+
+22. The Appellant's wife suffers from high  blood  pressure  which  is  not
+    always under control and is worse when under stress,  which  can  cause
+    the need  to  attend  hospital  when  medication  doesn't  sufficiently
+    address the problem.  The Appellant's wife is a nurse and  a  qualified
+    solicitor and although attached to a legal firm, does  not  work  as  a
+    solicitor but only refers cases from people to the firm if needed.
+
+23. I asked the Appellant further questions about the cautions he received.
+     He stated that he had forgotten about the details of these because  it
+    was long time ago and only came up again in the  context  of  his  pre-
+    sentence report.  He stated that he was not  aware  that  he  had  been
+    formally cautioned but thought he had just been given  a  warning  from
+    the police when released after being arrested, not do  anything  again.
+    The cautions were in the context  of  family  arguments  and  his  wife
+    called the police who asked him to leave  the  house.   On  the  second
+    occasion, the Appellant stated that  that  his  wife  was  holding  him
+    during a family argument with his brother, he pushed  her  away  having
+    asked her to leave him alone and she said he had hit her with the  back
+    of his hand.  He reiterated  that  this  was  not  a  caution,  only  a
+    warning.  The Appellant was last in  Nigeria  in  2014,  his  immediate
+    family in  the  United  Kingdom  last  having  visited  in  2012.   The
+    Appellant has no remaining family or contacts in Nigeria.
+
+The Appellant's wife's evidence
+
+24. In her first written statement, dated 8 July 2018, the Appellant's wife
+    sets out her immediate family relationships in the United Kingdom,  her
+    employment as a nurse and her support for  the  Appellant's  appeal  to
+    remain in the United Kingdom.
+
+25.  In  her  second  written  statement,  dated  20  February  2019,   the
+    Appellant's wife confirms that one of her daughters has  Aplasia  Cutis
+    and another has been diagnosed with temporomandibular  joint  disorder;
+    and both are in the process of receiving specialist  medical  treatment
+    with further surgery planned for both.   There  are  a  number  of  NHS
+    letters  confirming  the  conditions,  past  treatment   and   upcoming
+    appointments.
+
+26. The Appellant's wife states that if the Appellant were to be  deported,
+    she could not possibly attend all  the  medical  appointments  for  her
+    daughters, work and manage her own blood pressure  at  the  same  time.
+    During the Appellant's imprisonment, she relied on the help of  friends
+    and neighbours, but it was very difficult and  she  does  not  want  to
+    repeat that.  The Appellant's wife is concerned that if  the  Appellant
+    is deported, she would not be able to continue working and  would  have
+    to rely  on  public  funds,  wasting  her  years  of  study,  work  and
+    experience achieved over many years in the United Kingdom.
+
+27. The Appellant's wife attended the oral hearing, adopted her  statements
+    dated 8 July 2018 and 20  February  2019  and  gave  oral  evidence  in
+    English.  The Appellant's wife stated that when the  Appellant  was  in
+    prison, she found it really tough to run her household.  She had worked
+    and trained hard to achieve qualifications in the  United  Kingdom  and
+    during this period was only able to manage her job as a nurse on  night
+    shifts so that she could take the children to school  during  the  day.
+    Neighbours helped look after the children at  night  but  the  children
+    were not happy in this situation.  The family received no support  from
+    the Appellant's brothers or their families.  She describes this  period
+    as only managing to exist, not living and said that she didn't cope and
+    struggled to support her children during this time.
+
+28. The Appellant's wife suffers from high  blood  pressure  following  the
+    birth of her  third  child,  which  is  not  completely  controlled  by
+    medication.
+
+29. In relation to the cautions given to  the  Appellant,  the  Appellant's
+    wife stated that she blamed herself,  that  she  was  selfish  and  she
+    reacted badly during an argument about religion.  She stated the police
+    should never have been involved and she regretted  calling  them.   She
+    was unable to recall the exact circumstances  relating  to  the  second
+    caution but described it as happening after silly things and she called
+    the police but stated again that she shouldn't have got  the  Appellant
+    into that mess.
+
+30. In relation to the Appellant's children, his wife confirmed the current
+    medical treatment that they are under with further planned surgery  and
+    treatment.
+
+31. In cross-examination, the Appellant's wife  confirmed  further  details
+    about the medical treatment in progress for children and stated that it
+    was essential that the Appellant was there for the operations as he has
+    always been there and is the primary carer of the children.
+
+32. If the Appellant were to be deported, his wife stated  that  she  could
+    not rely on friends and neighbours to assist her again.  In particular,
+    circumstances had changed for her next door neighbour who would not  be
+    able to help  now;  there  is  no  wider  family  support  and  is  not
+    anticipated that social services would be able to offer  any  practical
+    support either.
+
+33. The Appellant's wife was last in Nigeria in late 2017  or  early  2018,
+    when she travelled following the death of her mother-in-law and sister-
+    in-law, staying for about seven days during the time when the Appellant
+    was in prison.  Prior to that she last visited in 2012.
+
+Documentary evidence
+
+34. An Independent Social Worker report was prepared by  Stephanie  Prempeh
+    dated 11 July  2018  as  to  the  best  interests  of  the  Appellant's
+    children.  The majority of the report records information given by  the
+    Appellant, his wife and children in interviews with Ms  Prempah  as  to
+    their views and concerns about relocating to Nigeria or remining in the
+    United Kingdom without the Appellant; as well as recording  the  family
+    relationships and responsibilities.
+
+35. In terms of analysis, Ms Prempah sets out the importance of  attachment
+    between children and their parents and the harm that  can  result  from
+    separation, which would occur if  the  Appellant  were  deported.   The
+    Appellant has significant care responsibilities for his children  while
+    his wife is at work and his presence is a stable factor for the family.
+     The potential for the Appellant to gain work in the future would  also
+    help alleviate the  financial  burden  on  the  Appellant's  wife.   Ms
+    Prempah primarily records the family view rather than  determining  for
+    herself that the whole family relocating to Nigeria is not an option.
+
+36. The final conclusion in the Independent Social Worker  report  is  that
+    the Appellant's children's emotional and behavioural development  would
+    be safeguarded and it would be in their best interests if the Appellant
+    were not removed from the United Kingdom.
+
+37. In her  second  report,  dated  4  February  2019,  Stephanie  Prempeh,
+    Independent Social Worker, recorded details of  her  further  interview
+    with the Appellant and his wife  on  16  January  2019  in  which  they
+    expressed significant concern  as  to  the  family  living  in  Nigeria
+    together and the position if  the  Appellant  were  deported.   In  the
+    analysis section of the report,  Ms  Prempeh  describes  the  potential
+    adverse effects on the children of separation  from  the  Appellant  if
+    deported and that his  removal  from  the  family  may  exacerbate  the
+    stressors on the Appellant's wife, including her health,  treatment  of
+    the children's medical conditions and the  family  finances;  which  in
+    turn my have an additional adverse impact on the children.  As  in  the
+    previous report, it was recorded that it was not viable for the  family
+    to relocate together to Nigeria.
+
+38. There are a number of letters from the Appellant's  children  contained
+    in the  bundle.   The  most  recent  is  from  the  Appellant's  eldest
+    daughter, which describes a sad and difficult time for her, her sisters
+    and her mother when the Appellant was in prison and how  this  affected
+    them at school and in their day to day lives.  Since the Appellant  has
+    been released from prison, she describes  a  more  positive  time  with
+    improved performance and behaviour at school.  The Appellant's daughter
+    separately describes being aware of bad things happening in Nigeria and
+    not wanting to go there.
+
+39. The Appellant's OASys assessment dated 15 May 2018 was available within
+    the bundle.  It deals primarily with the index offence but also records
+    details of two cautions received by  the  Appellant  in  2013/2014  for
+    common assault and ABH against his wife.  These events  were  described
+    in detail by the Appellant as domestic arguments, the first about  food
+    and money in which he held on to his wife's  wrist,  witnessed  by  his
+    children and the police were called.  The second incident  was  also  a
+    domestic argument during which it was said that  the  Appellant  pulled
+    away from his wife who was holding on to his  jacket  and  pushed  her,
+    causing her to fall down the stairs.  The Appellant's wife stated  that
+    these were misunderstandings and there was no domestic violence.
+
+40. In relation to the risk  of  reoffending,  the  probability  of  proven
+    reoffending was 24% in year 1 and 51% in year 2,  which  was  a  medium
+    risk.  The probability of proven non-violent  reoffending  was  19%  in
+    year 1 and 30% in year 2, which was a low  risk.   The  probability  of
+    violent-type reoffending was 9% in year 1 and 16% in year 2, which  was
+    a low risk.  The Appellant was also recorded as posing a medium risk of
+    harm to a known adult - his wife, based on the  previous  cautions  for
+    assault and ABH.
+
+41. In terms of risk  of  offending,  it  was  further  recorded  that  the
+    Appellant presents well with probation officers, he  has  a  pro-social
+    attitude, no pro-criminal attitudes, and has been motivated  to  comply
+    with his licence conditions.  However, "In regard to [the  Appellant's]
+    motivation to address his offending behaviour, I have assessed this  as
+    being limited.   [The  Appellant]  has  stated  that  he  has  accepted
+    responsibility for his role in the offence and is motivated to  address
+    how  he  went  against  company  policy  and  procedure.   However,  he
+    continues to deny that he was involved in  the  offence  of  theft  and
+    therefore his motivation to address offending behaviour is limited."
+
+42. The report also contains details of employment, family  and  background
+    information.  It includes reference to the Appellant's younger  brother
+    in Nigeria and his wife working as a solicitor in the  United  Kingdom,
+    providing the household's main income in addition  to  the  jobseeker's
+    allowance the Appellant has received since his release from prison.
+
+43.  The  bundle  also   includes   prison   visit/communication   records;
+    qualification certificates; school certificates; medical  records;  and
+    letters of support from the  Appellant's  local  community  and  church
+    members.
+
+Closing submissions
+
+44. On behalf of the Respondent, Mr Tufan confirmed that the Respondent did
+    not rely on it not being unduly harsh for the entire family to relocate
+    to Nigeria with the Appellant, albeit that would be a matter of  choice
+    for the family if they wish to.  The Respondent's case was  focused  on
+    it not being unduly harsh for the  Appellant's  wife  and  children  to
+    remain in the United Kingdom without  him,  such  that  there  were  no
+    exceptions  to  deportation  applicable  in  paragraph  399A   of   the
+    Immigration Rules or section 117C of the Nationality,  Immigration  and
+    Asylum Act 2002.
+
+45. It was submitted that it  is  clear  that  the  test  of  unduly  harsh
+    contains a very high threshold, which is simply not met on the facts of
+    this case.  The medical conditions of both  the  Appellant's  wife  and
+    children were considered but  treatment  is  available  in  the  United
+    Kingdom and can be proceded with whether or not the Appellant is  here,
+    his presence having at  its  highest  only  a  minimal  impact  on  the
+    treatment.  It was  further  submitted  that  without  undermining  the
+    impact of the medical conditions on those involved, they were  not  the
+    most serious conditions.  Otherwise, the Appellant has  not  identified
+    any circumstances beyond the  normal  effects  of  deportation  on  his
+    family members and there is nothing to suggest social services wouldn't
+    step in to help if needed after his deportation.  In the absence of any
+    of the exceptions being satisfied, the Appellant has not identified any
+    very compelling circumstances over and above them to outweigh the  very
+    significant interest in public deportation in this case.
+
+46. On behalf of the Appellant, Ms Nnamani submitted that  in  the  present
+    case it was clearly in the children's best interests of both parents to
+    remain living together as a family in the United Kingdom  for  them  to
+    continue to  receive  care  from  their  father.   This  would  promote
+    consistency, stability and continuing  care,  which  has  already  been
+    disrupted with a  negative  impact  on  the  children's  education  and
+    behaviour when the Appellant was in prison.  There is medical  evidence
+    in relation to the Appellant's eldest child that assistance was  sought
+    for anxiety and upset while the Appellant was  in  prison  and  similar
+    findings made in the Independent Social Worker's report.
+
+47. It would be unduly harsh for the Appellant's family to  remain  in  the
+    United Kingdom without the Appellant given the severe and bleak set  of
+    circumstances facing the family without him.  Is important to  consider
+    the age of the children, the family circumstances and  how  in  reality
+    the Appellant's wife would cope  as  a  single  parent.   Reliance  was
+    placed on the decision in Siwak v Prosecutor General's  Office,  Poland
+    [2019] EWHC 333 (Admin) which although  concerning  extradition,  shows
+    the relevance of consideration of circumstances  of  children  how  the
+    remaining parent would be able to cope in  the  absence  of  the  other
+    parent.  In the present case there is medical evidence in  relation  to
+    the Appellants wife's long-term medical conditions, anxiety and she has
+    clearly expressed concern for her own future mental health.   The  loss
+    of the Appellant, an active father who has always  been  involved  with
+    his children and supported them  through  medical  treatment  would  be
+    significant and any sporadic contact or  visits  following  deportation
+    would not be comparable to the current situation with day to day direct
+    contact with him.  Further, it was submitted that it was not clear what
+    support social services would or could provide to this family given the
+    need for emotional support, childcare  and  financial  support  if  the
+    Appellant were to be deported.
+
+48. In all the circumstances, it was submitted that the separation  of  the
+    Appellant from his family would lead to negative long-term consequences
+    and effects on his children, with  significant  weight  placed  on  the
+    Independent Social Worker's report.
+
+49. In the alternative, if it is not considered unduly harsh for the family
+    to remain in the United Kingdom without the Appellant, it was submitted
+    that there were in any event very  compelling  circumstances  over  and
+    above the exceptions to outweigh the public interest in deportation  in
+    this case.  The Appellant's conviction and cautions must be taken  into
+    account, including the circumstances of the cautions as set out in  the
+    oral evidence which were given in 2013.  The Appellant  has  undertaken
+    victim awareness courses and professional  training,  he  has  complied
+    with his licence conditions and repaid the value  of  goods  stolen  in
+    full.  There are positive letters about him from the Probation  Service
+    which show no concerns  as  to  a  criminal  lifestyle  or  pattern  of
+    offending, and show evidence of continuing rehabilitation.
+
+50. In addition, the Appellant has lived in the United Kingdom lawfully for
+    more than 12 years, he was granted indefinite leave to remain  and  has
+    fully integrated in society, working and contributing to the community.
+     He has been convicted of a single offence which doesn't reflect a poor
+    lifestyle or pattern of behaviour and  presents  only  a  low  risk  of
+    reoffending with a low risk of harm to the public.  The  Appellant  has
+    undertaken courses and further professional qualifications  to  support
+    continuing rehabilitation in the United Kingdom.  He has strong  family
+    life in the United Kingdom and a lack of connections to  Nigeria.   The
+    impact of deportation on the Appellant's family would be  considerable.
+    Overall therefore the Appellant's rights outweigh the  public  interest
+    in deportation on the facts of this case.
+
+Findings and reasons
+
+ 1. The Appellant was convicted of an offence of theft on 4  November  2016
+    and sentenced to  2  years'  imprisonment,  ordered  to  pay  a  victim
+    surcharge and was also subject to a confiscation order in  the  sum  of
+    �16,000.  This offence triggered the automatic  deportation  provisions
+    contained in section 32 of the UK Borders Act 2007  and  a  Deportation
+    Order was made on 25 July 2017.  The Appellant appeals on human  rights
+    grounds  that  his  deportation  would  breach  his  Convention  Rights
+    (section 33(2) of the UK Borders Act 2007) and  that  he  falls  either
+    within the family life exception in paragraph 399  of  the  Immigration
+    Rules and/or the first exception in section 117C(3) of the Nationality,
+    Immigration and Asylum Act 2002.
+
+ 2. The primary issue in this appeal  is,  pursuant  to  those  provisions,
+    whether the effect on the Appellant's wife and children of remaining in
+    the United Kingdom if he were to  be  deported  to  Nigeria,  would  be
+    unduly harsh.  The Respondent is not relying on any  argument  that  it
+    would not be unduly harsh for the entire family to relocate to Nigeria,
+    albeit it remained a matter of choice for them if they wished to do so.
+
+
+
+ 3.  In  the  alternative,  the  Appellant  submits  that  there  are  very
+    compelling circumstances to outweigh the significant public interest in
+    his deportation from the United Kingdom.  There is no reliance  on  the
+    private life exception to deportation set out in either paragraph  399A
+    of the Immigration Rules and/or section  117C(4)  of  the  Nationality,
+    Immigration and Asylum Act 2002.
+
+ 4. As a starting point, the best interests  of  the  Appellant's  children
+    need to be  determined  to  be  taken  into  account  as  part  of  the
+    assessment of unduly harsh and/or very compelling circumstances.  It is
+    trite to recall that the best interests of a child are normally  to  be
+    with both parents in the same country and that position is affirmed  by
+    the  first  Independent  Social  Worker's  report  which  reaches  that
+    conclusion in relation to the Appellant's three children in this case.
+
+ 5. The Appellant's three children, now aged 8, 11 and 13, are all  British
+    Citizens who were born in the United Kingdom and have  lived  here  for
+    their whole lives as part of the family  unit  with  their  mother  and
+    father, save for the period of the Appellant's imprisonment  when  they
+    lived only with their mother.  The children are all in education and to
+    a greater or lesser extent  are  receiving  specialist  therapy  and/or
+    medical treatment in the United Kingdom, at present and on  an  ongoing
+    basis.  The Appellant's evidence is that he normally takes the children
+    to medical appointments while his wife is at work.
+
+ 6. The Appellant has  a  relatively  close  relationship  with  his  three
+    children, being the day-to-day primary carer  of  them  in  the  United
+    Kingdom while his wife, as the sole breadwinner for the family,  is  at
+    work or sleeping during the day after a  night  shift.   He  maintained
+    regular contact with his children  during  the  time  that  he  was  in
+    prison, with calls and emails  to  and  from  the  family  and  regular
+    visits.
+
+ 7. There is evidence  from  the  Appellant,  his  wife  and  the  children
+    themselves about difficulties the children had while the Appellant  was
+    in prison, including  being  upset,  suffering  from  anxiety  and  not
+    performing or behaving as well at school.   This  is  repeated  in  the
+    Independent Social Worker's report, in which reliance  is  placed  upon
+    letters from the school, the same documents being referred  to  by  the
+    Appellant in his written  statement.   However,  the  letter  from  the
+    school expressly relied upon, the only  one  available  in  the  bundle
+    which deals with the issue of behaviour, relates to a  period  of  time
+    after the Appellant's release from prison and not  during  his  absence
+    from the family home and therefore does not  provide  support  for  the
+    evidence given by the family at all.   Although  there  is  a  lack  of
+    supporting evidence from the schools about the impact on the children's
+    education while the Appellant was in prison, it is a common  occurrence
+    that the type of difficulties described in  this  case  occur  in  such
+    situations and I find it more likely than not that  they  did  in  this
+    case; albeit there is nothing to indicate the issues were  particularly
+    serious or long-term and a repetition with behavioural issues, at least
+    in respect of one of the children after the  Appellant's  release  from
+    prison has resolved.
+
+ 8. In the circumstances already set out, I find that it would  be  in  the
+    best interests of all three children to remain in  the  United  Kingdom
+    with both their mother and father, continuing  with  their  established
+    lives here with both parents.  As is almost always the case, separation
+    from a parent is likely to have an  adverse  impact  on  the  children,
+    however I return to the question below as to whether in this  case  the
+    Appellant's removal would be unduly harsh on the children.
+
+ 9. The Respondent has accepted that the Appellant  is  in  a  genuine  and
+    subsisting marriage with his wife in light of  the  previous  grant  of
+    entry clearance indefinite leave to remain on  that  basis.   There  is
+    evidence of their continuing cohabitation and contact during  the  time
+    the Appellant was in prison and I find  that  they  are  in  a  genuine
+    relationship, albeit the strength of which is somewhat reduced for  the
+    following reasons.  There was a lack of evidence as to the substance of
+    the relationship before the First-tier and  Upper  Tribunal,  the  only
+    aspects of which that were expressly dealt with by either the Appellant
+    or his wife were the Appellant's support in terms of childcare to allow
+    his wife to work and in relation to the cautions for domestic  violence
+    incidents in 2013/2014.
+
+10. As to the cautions, I do not accept that either the  Appellant  or  his
+    wife gave credible evidence in relation to the cautions.  First, for  a
+    caution to be given at all, a person must accept that  an  offence  was
+    committed and a formal process is followed.  The Appellant's suggestion
+    that he was only given a warning from the police not to do it again  is
+    not credible.  Nor  is  the  suggestion  that  two  separate  incidents
+    resulting in a police caution for common assault and ABH were due to  a
+    misunderstanding.  The  Appellant  must  have  expressly  accepted  the
+    offences were committed for a  caution  to  have  been  given  at  all.
+    Secondly, the evidence as to the incidents themselves are  inconsistent
+    between the explanation given by the Appellant recorded  in  the  OASys
+    report, the Appellant's oral evidence and the Appellant's  wife's  oral
+    evidence.  It is also of particular concern that  the  account  in  the
+    OASys report records that the Appellant's children witnessed the  first
+    incident of common  assault  and  that  the  police  attended  on  both
+    occasions to remove the Appellant from the family home.   Thirdly,  the
+    Appellant was assessed in May 2018, some four or five years  after  the
+    cautions, as posing a medium risk of harm to a known adult,  his  wife;
+    such that I do not accept that there was any prior misunderstanding nor
+    no continuing risk or concern.
+
+11. In terms of the family position in the United  Kingdom,  the  Appellant
+    and his wife both state that they have no wider family or other support
+    here and only friends and neighbours gave  limited  support  while  the
+    Appellant was in prison, much of which could not be replicated  in  the
+    future because of the change of circumstances  in  particular  for  the
+    Appellant's next-door neighbour who is said to have  provided  most  of
+    the support.
+
+12. Although I accept that the Appellant's parents and sister are deceased,
+    as is the Appellant's wife's brother, I do not accept as  credible  the
+    evidence from the Appellant and his wife that they have  no  family  or
+    other support in  the  United  Kingdom  nor  any  family  remaining  in
+    Nigeria.  It is clear from the prison  visiting  communication  records
+    that a wide range of people visited the  Appellant  whilst  he  was  in
+    prison and the emails to him from his wife refer on multiple  occasions
+    to contact and visits with 'Aunty' (whether or not  a  blood  relative)
+    and other friends and/or family visiting the household.  There is  also
+    reference in the OASys report (in May 2018) to the Appellant  having  a
+    younger brother in Nigeria and from the Appellants wife's email to  the
+    Appellant in January 2017, that she would  see  the  Appellant's  older
+    brother at home in Nigeria.  I find that this brother  or  brothers  in
+    Nigeria are in addition to  those  in  the  United  Kingdom  given  the
+    Appellant's evidence and his wife's evidence of where they lived in the
+    United Kingdom whilst the Appellant was in prison and now - at least in
+    part to explain why they did not visit or  offer  any  support  to  the
+    Appellant or his family then or now.
+
+13. In addition, there are multiple  statements  from  friends  within  the
+    community, many of whom attended the oral  hearing  in  the  First-tier
+    Tribunal to give evidence on  behalf  of  the  Appellant  and  who  are
+    therefore likely to have provided at least some level of emotional,  if
+    not practical support to the family whilst the Appellant was in  prison
+    and no reason why they would not  do  so  in  the  future.   For  these
+    reasons, I do not accept the Appellant's evidence that he has no family
+    remaining in Nigeria, nor the suggestion that there is no wider  family
+    or community support in the United Kingdom.
+
+14. In light of the above findings,  I  consider  whether  the  Appellant's
+    deportation would be unduly harsh on his wife and children if they were
+    to remain in the United Kingdom.   The  submission  on  behalf  of  the
+    Appellant is that his deportation would be unduly harsh on  his  family
+    by reference to the context and circumstances of this  family  and  the
+    likely impact on them in the event of deportation.  Particular reliance
+    was placed on the children's best interests, the appellant's wife's and
+    children's health conditions; the additional strain on family  finances
+    and the Appellant's  wife's  practical  ability  to  continue  in  paid
+    employment, including due to a lack of wider family or other support.
+
+15. As is almost inevitable in any deportation situation, the removal of  a
+    parent is likely to have an adverse effect on any  children  with  whom
+    they have a genuine parental relationship.  That  is  the  natural  and
+    ordinary consequence of a deportation order on  a  family  and  on  the
+    children in particular, both in emotional and  relationship  terms  but
+    also as a matter of practicality that a family is,  on  a  day  to  day
+    basis, reduced to a single parent.  Although  following  deportation  a
+    person may be able to find  employment  from  their  home  country  and
+    provide some financial assistance to the family remaining in the United
+    Kingdom, it is also almost inevitable that the family finances would be
+    adversely affected  by  the  deportation  of  a  parent.   Further,  in
+    circumstances such as the present case, where one parent is effectively
+    unable to work (or not permitted to do  so  due  to  their  immigration
+    status or pending deportation), it is almost always the case  that  the
+    parent facing deportation  will  have  a  greater  role  in  day-to-day
+    childcare than the  other  parent,  upon  whom  all  of  the  financial
+    responsibility for the family then rests and who is therefore likely to
+    be in employment.
+
+16. Consequences such  as  these  for  the  family,  which  are  likely  to
+    contribute in a wider way to an adverse effect  on  the  children,  are
+    expressly relied upon by the Appellant. He submits  that  he  would  be
+    unable to financially  support  his  family  from  Nigeria  given  poor
+    employment prospects and the high rate of unemployment there  and  that
+    his wife would be unable to continue in her current employment  because
+    of the practical problems of childcare and financial burdens.  However,
+    the Appellant has submitted no evidence at all of his  family  finances
+    to show income or outgoings and it is noted that at present he is  able
+    to contribute little (possibly jobseekers allowance as referred  to  in
+    the OASys report) or nothing, which has been  the  position  since  his
+    imprisonment in late 2016.  There is a lack of evidence  to  show  that
+    the family would not be able to cope financially if  the  Appellant  is
+    deported, given that  they  have  been  managing  without  any  or  any
+    significant contribution from the Appellant or  anyone  else  for  some
+    time, nor that childcare is not affordable such  that  the  Appellant's
+    wife's employment could not continue.  The Appellant's wife is  both  a
+    qualified solicitor and a qualified nurse, with  inconsistent  evidence
+    as to what work she is actually undertaking but both  are  professional
+    roles.  In addition, public funds would be available  if  necessary  to
+    support the family, although I appreciate the  Appellant's  wife  would
+    prefer to work and use her qualifications and  experience  rather  than
+    rely on public funds.
+
+17. The Appellant's wife has expressed concern about her ability to cope in
+    the future, of her ability to manage on health problems and of possible
+    future mental health problems if the Appellant was deported, but  there
+    is no medical evidence in support of that  and  no  history  of  mental
+    health problems.  It is clear that she does have friends and neighbours
+    in the community who are supportive of the family, as well  as  medical
+    support and treatment available for her existing condition as  well  as
+    any possible future mental health problems should they arise.
+
+18. The Independent Social Worker report goes no further  than  identifying
+    the usual consequences of deportation of a parent on  children  of  the
+    family, within the wider context of the potential impact on the  family
+    as a whole.  No specific factors are identified  which  go  beyond  the
+    generally  accepted  position  and  adverse  impact  on   children   in
+    particular in deportation and there is  nothing  in  either  report  to
+    identify any unduly harsh impact on any of the children.
+
+19. As confirmed by the Supreme Court in KO (Nigeria), what is required  by
+    the expression "unduly harsh" in the exceptions  to  deportation  is  a
+    degree of harshness going beyond what would necessarily be involved for
+    any child faced with the deportation of a parent.  It is not  something
+    which is uncomfortable, inconvenient, undesirable or merely  difficult,
+    it is a much higher threshold.  Harsh means something more than  severe
+    or bleak and the  addition  of  "unduly"  raises  an  already  elevated
+    standard still higher.
+
+20. On the facts of the current case, there is little doubt that the impact
+    of the Appellant's deportation  on  his  wife  and  children  would  be
+    adverse, in terms of the impact on  their  emotional,  educational  and
+    financial well-being.  However, the evidence does  not  show  that  the
+    effect of the Appellant's deportation would reach the high threshold of
+    being unduly harsh on any or all of his children or on his wife,  taken
+    individually or as a whole.  The factors relied upon by the  Appellant,
+    even taking into  account  the  medical  conditions  of  his  wife  and
+    children and the likely family situation, do not go beyond  what  would
+    reasonably be expected or necessarily be involved for any  child  faced
+    with the deportation of a parent or wife faced with the deportation  of
+    a husband.  The family situation after deportation would undoubtedly be
+    difficult on a practical as  well  as  emotional  level,  but  that  is
+    insufficient to meet the high threshold  of  deportation  being  unduly
+    harsh on family members to satisfy this exception to deportation.
+
+21.  In  the  alternative,  the  Appellant  submits  that  there  are  very
+    compelling circumstances to outweigh the significant public interest in
+    his deportation, as  set  out  in  section  117C  of  the  Nationality,
+    Immigration and Asylum Act 2002.
+
+22.  The  following  matters  are  relevant  to  the  public  interest   in
+    deportation.  The Appellant has been convicted of theft  for  which  he
+    was  sentenced  to  a  term  of  imprisonment  of   two   years.    The
+    circumstances of the offence were that he was part of a  conspiracy  to
+    steal mainly computer equipment, which involved a breach of trust,  the
+    offence having been carried out in the context of his employment  as  a
+    Parcelforce delivery driver and the estimated value of goods was in the
+    region of �130,000.  This on any view was a serious offence and one for
+    which the Appellant has, at least in the past,  if  not  continuing  to
+    date, not accepted full responsibility.   Although  the  Appellant  has
+    undertaken  a  victim  empathy  course   and   has   obtained   further
+    professional qualifications, doubts have been raised as to the limit to
+    which the Appellant has addressed his offending and he has  still  been
+    assessed as posing a low to medium risk of harm to the public and/or  a
+    known adult (as set out above in the  relatively  recent  OASys  report
+    dated 18 May 2018).  There is in addition the wider public interest  in
+    deterring criminal offences and protecting the public.
+
+23. In the Appellant's favour, the following factors  are  relied  upon  to
+    outweigh the public interest in deportation.  First, the Appellant  has
+    lived in the UK lawfully  for  more  than  12  years  and  was  granted
+    indefinite leave to remain in 2009.  Secondly, he is  fully  integrated
+    in society has worked and contributed to the  community.   Thirdly,  he
+    committed a single isolated offence and has  no  pattern  of  offending
+    behaviour.  Fourthly, the Appellant has  undertaken  awareness  courses
+    and  further  professional   qualifications   showing   rehabilitation.
+    Fifthly, there is a low risk of reoffending.  Sixthly, the Appellant as
+    a British wife and three British children and deportation would have  a
+    considerable adverse impact on his  family,  their  emotional,  health,
+    educational  and  financial  well-being.   Finally,   the   Appellant's
+    connections Nigeria have diminished over time and he has  no  immediate
+    family remaining there.
+
+24. The strongest factor in the Appellant's favour is in  relation  to  his
+    wife and family United Kingdom but I have already found that the impact
+    on them, individually or cumulatively, would not be unduly harsh if the
+    Appellant would be deported.  Even taking into account the current  and
+    future possible health needs of members of the family  and  the  likely
+    position of the family following deportation, even if, contrary  to  my
+    findings above, there is a lack of family or community support  in  the
+    United Kingdom; these matters, even taken together with the Appellant's
+    length of time with leave in the  United  Kingdom  and  his  employment
+    history here and together with only a single criminal offence; does not
+    outweigh the very significant public interest in his deportation.   The
+    Appellant has been unable to identify,  individually  or  cumulatively,
+    any very compelling circumstances over and above the express exceptions
+    to deportation contained in the Immigration Rules and in  section  117C
+    of the Nationality, Immigration and Asylum Act  2002  to  outweigh  the
+    public interest in deportation.  His appeal is therefore  dismissed  on
+    human rights grounds.
+
+Notice of Decision
+
+For the reasons set out in the decision annexed, the making of the  decision
+of the First-tier Tribunal did involve the making of  a  material  error  of
+law.  As such it was necessary to set aside the decision.
+
+The decision is remade as follows:
+The appeal is dismissed on human rights grounds
+
+Direction Regarding Anonymity - Rule 14 of  the  Tribunal  Procedure  (Upper
+Tribunal) Rules 2008
+
+Unless and until a Tribunal or court directs  otherwise,  the  appellant  is
+granted anonymity.   No  report  of  these  proceedings  shall  directly  or
+indirectly identify him or any  member  of  their  family.   This  direction
+applies both to the appellant and to  the  respondent.   Failure  to  comply
+with this direction could lead to contempt of court proceedings.
+
+
+Signed   [pic]             Date     8th April 2019
+
+Upper Tribunal Judge Jackson
+
+
+ANNEX
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: HU/08516/2017
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                          |Decision & Reasons Promulgated|
+|On 3rd January 2019                           |                              |
+|                                              |..............................|
+|                                              |.........                     |
+
+
+                                   Before
+
+                        UPPER TRIBUNAL JUDGE JACKSON
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                                     Cc
+                          (ANONYMITY DIRECTION MADe)
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr E Tufan, Senior Home Office Presenting Officer
+For the Respondent:    Ms A Nnamani of Counsel instructed by Samuel Louis
+Solicitors
+
+
+                            DECISION AND REASONS
+
+ 1. The Secretary of State appeals with permission the decision  of  First-
+    tier Tribunal Judge Davey promulgated on 5 October 2018, in which  CC's
+    appeal against the decision to refuse his human rights claim and make a
+    deportation order pursuant to section 33 of the  UK  Borders  Act  2007
+    dated 26 July 2017 was allowed.  For ease I continue to  refer  to  the
+    parties as they were before the First-tier Tribunal,  with  CC  as  the
+    Appellant and the Secretary of State as the Respondent.
+
+ 2. The Appellant is a national of Nigeria who  first  entered  the  United
+    Kingdom with entry clearance as the spouse of a British citizen  on  21
+    May 2005 and following a further grant of leave to remain on  the  same
+    basis was granted indefinite leave to remain on 23 February 2009.  On 4
+    November 2016, the Appellant  was  convicted  of  theft  (of  computers
+    amounting to approximately  �81,000  from  Royal  Mail  with  whom  the
+    Appellant was employed as a delivery driver) and  was  sentenced  to  2
+    years'  imprisonment.   The  Appellant  did  not  appeal  against   his
+    conviction or sentence.  The Appellant was  served  with  a  notice  of
+    intention to make a  deportation  order  on  14  January  2017  and  he
+    submitted human rights representations in response on 13 February 2017.
+
+ 3. The Respondent refused the human rights claim in a  decision  dated  26
+    July  2017  and  a  Deportation  Order  was  made.   In  summary,   the
+    application was refused on  the  basis  that  although  the  Respondent
+    accepted that the Appellant had family life in the United Kingdom  with
+    his spouse and three daughters, born in 2006, 2007  and  2010,  all  of
+    whom are British citizens; it would not be unduly harsh either for  the
+    family to relocate to Nigeria with the Appellant, or to remain  in  the
+    United Kingdom without him.  In Nigeria, it  was  considered  that  the
+    children would be able to adapt with the assistance of  their  parents,
+    be able to continue their education in English, and  medical  treatment
+    was available to one of the  Appellant's  children  who  has  a  speech
+    impediment.  If the family were to remain in the United  Kingdom,  they
+    would remain a family unit with mother and children in support of  each
+    other, peers and extended family; as well as being able to continue  in
+    their education and maintain  a  relationship  with  the  Appellant  in
+    Nigeria through modern means of communication and visits.  Overall,  it
+    was not accepted that the  Appellant  met  any  of  the  exceptions  to
+    deportation, on the grounds of private or family life and there were no
+    exceptional circumstances to outweigh the  strong  public  interest  in
+    deportation.
+
+ 4. Judge Davey allowed the appeal in a decision promulgated on  5  October
+    2018 under Article 8 of the European Convention  on  Human  Rights.   I
+    return below to the detailed reasons given in  the  decision,  but  for
+    present purposes in summary, it was found that it would be in the  best
+    interests of the children to remain in  the  United  Kingdom  with  the
+    Appellant and it would be unduly harsh for them to remain  without  the
+    Appellant and unduly harsh to relocate to Nigeria with him.  The second
+    exception set out in section 117C of the Nationality,  Immigration  and
+    Asylum Act 2002 applied such that the Appellant's deportation would  be
+    a disproportionate interference with his family life.
+
+The appeal
+
+ 5. The Respondent originally appealed primarily  on  the  basis  that  the
+    First-tier Tribunal had failed to correctly apply the  test  of  unduly
+    harsh consequences in paragraphs 399(a)  and  (b)  of  the  Immigration
+    Rules in accordance with the Court of Appeal's decision in MM  (Uganda)
+    v Secretary of State for the Home Department [2016]  EWCA  Civ  450  by
+    failing to adopt a holistic appraisal  of  all  the  circumstances  and
+    failing to attach the requisite weight to the strong public interest in
+    deportation.  It was however accepted by Mr Tufan at the  oral  hearing
+    that this ground was no longer arguable following the  Supreme  Court's
+    decision in KO (Nigeria) v Secretary of State for the  Home  Department
+    [2018] UKSC  53,  however  the  remainder  of  the  grounds  of  appeal
+    continued to be relied upon,  particularly  in  terms  of  the  outcome
+    sought.  Mr Tufan submitted that it  remains  the  case  that  even  in
+    accordance with KO, the First-tier Tribunal has  failed  to  apply  the
+    correct test of undue harshness.
+
+ 6. The Respondent submits that in relation to the assessment by the First-
+    tier Tribunal of the circumstances of  the  Appellant's  children,  the
+    Judge erred in equating the best interests of  the  children  with  the
+    effect of the deportation of the Appellant being unduly harsh  on  them
+    for the purposes of the exceptions set out in  the  Immigration  Rules.
+    The heavy reliance placed on the social work report  set  out  no  more
+    than the consequences that one would usually expect from the separation
+    of a parent and child and did not identify any effects that would  make
+    either relocation to Nigeria or separation unduly harsh.
+
+ 7. In relation to the First-tier Tribunal's findings on the practicalities
+    of separation of the family, the Respondent claims that the conclusions
+    are not based on any evidence and would appear to  be  speculation,  as
+    well as contrary to the family managing  while  the  Appellant  was  in
+    prison.   In  any  event,  if  changes  were  required  following   the
+    Appellant's  deportation,  they  could  not  amount  to  unduly   harsh
+    conditions.  Similar criticisms are made of the findings  in  paragraph
+    17 of the First-tier Tribunal's decision as to the families'  situation
+    on return to Nigeria, being based on speculation rather than evidence.
+
+ 8. Further, the First-tier Tribunal has failed to adequately identify  and
+    weigh the strong public  interest  in  deportation,  focusing  only  on
+    factors such as rehabilitation and a low risk of reoffending,  relevant
+    only to the prevention of crime rather than the wider  public  interest
+    in deportation and  without  recognition  that  this  is  an  automatic
+    deportation case  triggered  by  a  serious  offence.   Mr  Tufan  also
+    submitted that the First-tier Tribunal had not properly  grappled  with
+    the OASys report which identifies two previous cautions, one conviction
+    and that the Appellant posed a medium risk of harm to adults, with  him
+    displaying controlling behaviour and showing a lack of understanding of
+    others and the consequences of actions.
+
+ 9. Finally, the Respondent challenges the decision  to  allow  the  appeal
+    under  Article  8,  the  context  of  which  seems  to  have   been   a
+    straightforward proportionality assessment by the  First-tier  Tribunal
+    without any reference to the deportation context in this appeal.
+
+10. On behalf of the Appellant, Ms Nnamani submitted  that  the  First-tier
+    Tribunal had made lawful findings on the range of evidence  before  it,
+    not relying solely on the Independent Social Worker report, but also on
+    the witness statements, the OASys report and evidence  in  relation  to
+    the Appellant's conviction,  evidence  from  friends  and  family,  and
+    letters from the Appellant's children.  Further, there was no challenge
+    to the Independent Social  Worker's  report  or  its  findings  by  the
+    Respondent in  the  initial  appeal  and  there  is  no  error  in  the
+    assessment of the best interests of the children being to remain in the
+    United Kingdom with the Appellant, where they have a  stable  life  and
+    home, contrary to the situation in the real world of a family  of  five
+    relocating to Nigeria  without  preparation  for  a  specific  plan  to
+    establish themselves there.
+
+11. Ms Nnamani accepted that the First-tier Tribunal did not expressly  set
+    out the reasons why the consequences of deportation  or  relocation  to
+    Nigeria would be unduly harsh on the family members, but in  paragraphs
+    25 and 26  the  consequences  of  such  relocation  or  separation  are
+    considered.
+
+12. Although is accepted that the decision of the First-tier  Tribunal  was
+    brief, it was submitted that all of the issues had been dealt with,  in
+    paragraph 25 there was a recognition of the difference between  removal
+    being unduly  harsh  and  unreasonable  and  a  lawful  proportionality
+    assessment was made with regard  to  the  public  interest,  which  was
+    outweighed by exceptions deportation having been met and  the  strength
+    of family life.
+
+Findings and reasons
+
+13. In considering the grounds of  appeal,  it  is  necessary  to  turn  in
+    greater detail to the reasons given  by  First-tier  Tribunal  in  this
+    decision allowing the appeal.  The decision itself is relatively  brief
+    for an appeal of this nature and refers to  much  of  the  evidence  by
+    reference rather than setting it out in any detail.  In the early parts
+    of the decision, it is found  to  be  in  the  best  interests  of  the
+    Appellant's children to remain in  the  United  Kingdom  with  him,  by
+    reference to their  close  parental  relationship  (save  when  he  was
+    imprisoned) and the importance of that relationship, in the context  of
+    settled British national children in the United Kingdom.  In paragraphs
+    16 and 17 of the decision, the Judge refers to families moving to other
+    countries  with  children,   but   usually   in   circumstances   where
+    accommodation and employment is already organised, or where there is  a
+    reasonable prospect of the same and contrast this to the  situation  of
+    the  Appellant  and  his  family  who  would  be   jobseekers   without
+    accommodation and the children would have to fit into  the  educational
+    system available.  He concludes at the end of paragraph  17,  "Thus  it
+    was not said that the family cannot relocate but rather it was  not  in
+    the children's best interests and unduly harsh to do so.".
+
+14. The second reference to unduly harsh  comes  in  paragraph  19  of  the
+    decision in which it is said that this issue needs  to  be  taken  into
+    account in terms of the impact of deportation on the children, but  the
+    starting point for the Judge is that family life had  been  established
+    for the purposes of Article 8 and there follows a consideration of  the
+    statutory factors in section 117B of the Nationality,  Immigration  and
+    Asylum  Act  2002;  recognition  that  the  Appellant  has  a   genuine
+    subsisting parental relationship with three qualifying children  and  a
+    qualifying partner who is a British citizen; and recognition  that  the
+    Appellant is a foreign criminal.
+
+15. In paragraph 24 of the decision, the factors in  section  117C  of  the
+    Nationality, Immigration and Asylum Act 2002  are  set  out,  including
+    exception 2 which is said to be the relevant exception which applies to
+    this case.  The decision continues as follows:
+
+         "25.  If the Appellant was not liable to deportation I  would  have
+         found it would not be reasonable to expect the  children  to  leave
+         the UK (Section 117B(6)).  I conclude that unduly harsh is not  the
+         same as unreasonable albeit some factors may be common to both.   I
+         find the impact of  the  interference  in  their  education,  their
+         development, the social life established by them,  their  ages  and
+         the connections that they have  with  family  and  friends  in  the
+         United Kingdom cannot be understated.
+
+         26.  Under Section 117C Exception 2, the effect of the  deportation
+         would, I find, be harsh and unduly so in terms of its impact on the
+         Appellant's wife who would have to change her way of life to reduce
+         the amount of work she could do  for  the  NHS  and  need  to  have
+         recourse to social benefits in order to enable  her  to  make  ends
+         meet.  It would also put a terrific burden on her in terms  of  the
+         general care of the children who are themselves adversely  affected
+         by the absence of the Appellant.   I  find  in  the  light  of  the
+         independent social workers report that the adverse  effect  on  the
+         children's development, given their ages 12, 11 and 7 years, of the
+         absence of their father, who has played such an extensive  role  in
+         their childhood and development, was unarguable.  I  conclude  that
+         the impact of separation through the removal of the Appellant would
+         be unduly harsh.  It would also adversely impact upon four  British
+         citizens who have played  no  part  or  been  responsible  for  the
+         Appellant's  criminality  in  2015/2016.   I  would  also  fail  to
+         recognise his rehabilitation and the limited risk of  re-offending.
+         In those circumstances it seems to me that the public interest does
+         not require deportation, given the identified Exception 2.  I  have
+         already concluded that it would not be the best  interests  of  the
+         children for the Appellant to be separated from the children."
+
+16. The final conclusion in relation to the appeal appears in paragraph  28
+    as follows:
+
+         "For these reasons therefore, I conclude that  not  only  does  the
+         public interest not  require  it,  in  the  sense  contemplated  by
+         Exception 2, but also that the impact  on  the  Appellant's  family
+         would be disproportionate.  In reaching that  view,  I  have  taken
+         into account the OASys assessment of  the  Appellant's  criminality
+         and who might be  at  risk.   What  is  known  is  that  since  the
+         Appellant has been out of prison he  has  not  reoffended  and  not
+         posed a risk to third  parties,  adult  or  otherwise  and  he  has
+         properly performed the probation requirements.  There is nothing to
+         gainsay his  claim  that  he  has  rehabilitated  himself  and  was
+         unlikely  to  reoffend.   The  point  seemed  to  be  an  important
+         consideration for the public to be concerned about just as much  as
+         whether he might, although I found to the contrary, be a burden  on
+         British taxpayers."
+
+17. It can be seen from the passages  quoted  above,  that  the  First-tier
+    Tribunal has not, with any specificity, set  out  the  test  for  undue
+    harshness which is applied.  Although of course the Judge did not  have
+    the benefit of the Supreme Court's decision in KO at the  date  of  the
+    decision, there is in the alternative none  of  the  authority  on  the
+    meaning of unduly harsh that did exist at that time.  The  closest  the
+    First-tier Tribunal comes  to  explaining  what  the  test  is,  is  in
+    paragraph 25, which states only that it is not the same as unreasonable
+    for the purposes of section 117B(6) of the Nationality, Immigration and
+    Asylum Act 2002.  Although the focus of the Supreme Court in KO was the
+    issue of whether or not wider factors beyond the circumstances  of  the
+    child should be  taken  into  account  in  the  assessment  of  whether
+    relocation and/or separation would be unduly harsh for the purposes  of
+    section 117C of the Nationality, Immigration and Asylum Act  (following
+    consideration of the similar provisions in paragraph  276ADE(1)(iv)  of
+    the Immigration Rules and section 117B(6)),  Lord  Carnworth  indicates
+    the meaning of the section in paragraph 23 as follows:
+
+         "On the other hand the  expression  "unduly  harsh"  seems  clearly
+         intended to introduce a higher hurdle than that of "reasonableness"
+         under section 117B(6), taking account of the public interest in the
+         deportation  of  foreign  criminals.   Further  the  word  "unduly"
+         implies an element of comparison.  It assumes that there is a "due"
+         level of "harshness", that is a level which may  be  acceptable  or
+         justifiable in the relevant context.   "Unduly"  implies  something
+         going beyond that level.  The  relevant  context  is  that  set  by
+         section 117C(1), that is the public interest in the deportation  of
+         foreign criminals.  One is looking for a degree of harshness  going
+         beyond what would necessarily be involved for any child faced  with
+         the deportation of a parent.  What it does not require in  my  view
+         (and subject to the discussion of the cases in the next section) is
+         a balancing of the relative levels  of  severity  of  the  parent's
+         offence, other than is inherent in the  distinction  drawn  by  the
+         section itself by reference to length of sentence.   Nor  (contrary
+         to the view of the Court of Appeal in IT (Jamaica) v  Secretary  of
+         State for the Home Department [2016] EWCA Civ  932,  [2017]  1  WLR
+         240, paras 55, 64) can it be equated with the requirement  to  show
+         "very compelling reasons".  That would be in  effect  to  replicate
+         the additional test applied by  section  117C(6)  with  respect  to
+         sentences of four years or more."
+
+18. In the Supreme Court  consideration  of  the  specific  appeal  in  KO,
+    further reference is made to the authoritative guidance on the  meaning
+    of unduly harsh given in MK (Sierra Leone) v Secretary of State for the
+    Home Department [2015] UKUT 223 (IAC), which stated in paragraph 46:
+
+         "By way of self-direction, we are mindful that 'unduly harsh'  does
+         not equate with uncomfortable, inconvenient, undesirable or  merely
+         difficult.   Rather,  it  poses  a   considerably   more   elevated
+         threshold.  'Harsh' in this context, denotes something more severe,
+         or bleak.  It  is  the  antithesis  of  pleasant  and  comfortable.
+         Furthermore, the addition of the adverb 'unduly' raises an  already
+         elevated standard still higher."
+
+19. In the First-tier Tribunal's decision under appeal in the present case,
+    it can be seen from the passages set out above that not  only  was  the
+    test of unduly harsh not specifically set out, but it was  not  in  any
+    event applied.  Counsel for the Appellant accepted that there  were  no
+    express reasons as to why either  scenario  (remaining  in  the  United
+    Kingdom without the Appellant or relocating to Nigeria) would be unduly
+    harsh on either the Appellant's wife or any of  their  three  children.
+    The consideration of possible  practical  consequences  of  deportation
+    fall far short of giving adequate reasons for finding that Exception  2
+    in Section 117C of the Nationality, Immigration  and  Asylum  Act  2002
+    applies.  Further, the matters referred to, primarily in the context of
+    the best interests assessment, including in particular the  Independent
+    Social Worker's report, do not identify anything other than  the  usual
+    consequences on a family of deportation of one of the parents and  fall
+    far short of identifying any  matters  which  could  amount  to  either
+    scenario being 'unduly harsh'.
+
+20. For these reasons, I find that the First-tier Tribunal materially erred
+    in law, in essence applying the wrong test in law by equating the  best
+    interests of the children with satisfaction for Exception 2 in  section
+    117C of the Nationality, Immigration and Asylum Act  of  relocation  or
+    separation being unduly harsh on the children; and also in  failing  to
+    give adequate reasons for the finding in any event.  It is necessary to
+    set aside the decision of the First-tier Tribunal for this reason alone
+    and for the appeal to be remade.  The findings in relation to the  best
+    interests of the children are preserved and the remaking of the  appeal
+    reserved to the Upper Tribunal given that only limited further  finding
+    of facts by way possible updating to the family situation is required.
+
+21. As to the other grounds of appeal from the Respondent, there  is  force
+    in the submission that the First-tier Tribunal  speculated  as  to  the
+    possible situation of  the  family  remaining  in  the  United  Kingdom
+    without the Appellant and their circumstances on relocation to Nigeria,
+    without any evidential basis  being  identified  for  the  findings  in
+    particular in paragraphs 17 and 26 of the decision.  This is a  further
+    error of law, although it is in any event very closely  connected  with
+    the error identified above as to the correct approach to the assessment
+    of unduly harsh and would be required to  be  reconsidered  with  fresh
+    findings made when the appeal is remade.
+
+22. Finally, the First-tier Tribunal's findings in relation to  the  public
+    interest in deportation and the overall assessment under Article 8  are
+    infected by the error errors of law already identified.   However,  the
+    public interest in deportation is only likely to become material if  it
+    is necessary  for  a  Tribunal  to  consider  whether  there  are  very
+    compelling circumstances over and above the exceptions to outweigh  the
+    public interest in deportation, i.e. if it is found that  none  of  the
+    exceptions apply.
+
+Notice of Decision
+
+The making of the decision  of  the  First-tier  Tribunal  did  involve  the
+making of a material error of law.  As such it is  necessary  to  set  aside
+the decision.
+
+I set aside the decision of the First-tier Tribunal.
+
+The appeal is to be relisted before UTJ Jackson on 14 February 2019  with  a
+time estimate of two hours for the re-making of  the  appeal.   Any  further
+evidence to be relied upon by the Appellant must  be  filed  and  served  no
+later than 14 days prior to that hearing, i.e. by 4pm on 31 January 2019.
+
+
+Direction Regarding Anonymity - Rule 14 of  the  Tribunal  Procedure  (Upper
+Tribunal) Rules 2008
+
+Unless and until a Tribunal or court directs  otherwise,  the  appellant  is
+granted anonymity.   No  report  of  these  proceedings  shall  directly  or
+indirectly identify him or any  member  of  their  family.   This  direction
+applies both to the appellant and to  the  respondent.   Failure  to  comply
+with this direction could lead to contempt of court proceedings.
+Signed   [pic]             Date     23rd January 2019
+
+Upper Tribunal Judge Jackson
+
+
+

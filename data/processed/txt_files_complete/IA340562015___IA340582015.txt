@@ -1,0 +1,336 @@
+
+[pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)                            Appeal Numbers:
+IA/34056/2015
+
+                                                      IA/34058/2015
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House                          |Decision & Reasons Promulgated|
+|On 4 September 2017                           |On 25 January 2018            |
+|                                              |                              |
+
+
+                                   Before
+
+                    DEPUTY UPPER TRIBUNAL JUDGE SHERIDAN
+
+                                   Between
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+
+
+                                     and
+
+                                 NIDA SHAHID
+                           MUHAMMAD SHAHID RASHID
+                        (ANONYMITY DIRECTION NOT MADE)
+
+                                                                 Respondents
+Representation
+
+For the Appellant:     Mr E Tufan, Home Office Presenting Officer
+For the Respondents:   Mr S Akhtar, instructed by S Z Solicitors
+
+                            DECISION AND REASONS
+
+
+
+1. The first respondent ("the claimant") is a citizen of Pakistan born on
+   16 September 1983. The second respondent is her husband and dependent.
+
+
+2. The claimant entered the UK as a Tier 4 (General) Student on 23 June
+   2011 with leave until 30 August 2012.
+
+
+3. On 30 August 2012 she applied for leave to remain as a Tier 1
+   (Entrepreneur) Migrant. In support of her application, the claimant
+   submitted, inter alia, a certificate of completion of the test for
+   English for international communication ("TOEIC"). The TOEIC certificate
+   was provided by an entity called Education Testing Service ("ETS"), which
+   conducted the test.
+
+
+4. The Secretary of State rejected the claimant's application for leave to
+   remain on the basis that there was significant evidence that her TOEIC
+   certificate was fraudulently obtained by the use of a proxy test taker
+   and consequently ETS had declared the test she had taken to be "invalid".
+
+
+
+
+5. The claimant maintained that she had taken the test herself and appealed
+   to the First-tier Tribunal where her appeal was heard by Judge Buckwell.
+   In a decision promulgated on 9 January 2017 the judge allowed the appeal.
+
+
+
+
+6. Before Judge Buckwell, in order to establish that the claimant had acted
+   fraudulently through the use of a proxy test taker, the Secretary of
+   State relied upon evidence that has been used in numerous similar cases
+   where it has been alleged that a test conducted by ETS was invalid
+   because a proxy test taker was used ("the generic evidence"). The generic
+   evidence included statements of Mr Millington and Ms Collings (both civil
+   servants) concerning the processes by which fraudulent conduct has been
+   detected at ETS test centres and a report from Professor French on the
+   methodology used by ETS to detect fraudulent activity. In addition, the
+   Secretary of State submitted a print out from a spreadsheet (known as the
+   "look up tool") showing that the claimant's test had been categorised by
+   ETS as invalid.
+
+7. Judge Buckwell found (at paragraph 28) that:
+
+         "Whilst data has been provided with respect to the particular test
+         taken by the [claimant] or in her name there is no specific
+         statement which in my view relates in sufficient detail to the
+         serious allegations made by the [Secretary of State] against the
+         [claimant]. I find the generic evidence to be insufficient to
+         discharge the [Secretary of State]'s burden."
+
+
+8. The Secretary of State appealed the decision of Judge Buckwell. The
+   grounds of appeal argue that the judge failed to adopt the correct
+   approach in respect of the burden of proof by finding that the evidence
+   of the Secretary of State was insufficient to discharge her initial
+   burden thereby shifting the evidential burden onto the claimant to show
+   an innocent explanation.
+
+
+9. Before me, Mr Tufan observed that the approach to the burden of proof in
+   cases where the Secretary of State alleges a proxy test taker was used is
+   well established, as set out in SM & Qadir [2016] EWCA Civ 1167. He
+   argued that the judge erred because that approach was not followed.
+
+
+10. Mr Akhtar argued that because the Secretary of State's evidence did not
+   deal specifically with the claimant it was deficient. He also maintained
+   that the Secretary of State's representative failed to cross examine the
+   claimant at the First-tier Tribunal hearing and if she objected to the
+   claimant's evidence she should have done so.
+
+
+Error of Law
+
+
+11. The burden and standard of proof, where it is alleged that an ETS test
+   is invalid, was discussed in SM and Qadir v SSHD (ETS-Evidence-Burden of
+   Proof) [2016] UKUT 00229), and is as follows:
+
+12. The legal burden of proving that the test taker used deception lies on
+   the Secretary of State albeit that there is a three stage process.
+
+    a) Firstly, the Secretary of State must adduce sufficient evidence to
+       raise the issue of fraud.
+
+
+    b) Secondly, the test taker then has a burden of raising an innocent
+       explanation which satisfies the minimum level of plausibility.
+
+
+    c) Thirdly, if that burden is discharged, the Secretary of State must
+       establish on a balance of probabilities that this innocent
+       explanation is to be rejected.
+
+
+13. There is one civil standard of proof (which is the standard to be
+   applied). The seriousness of the consequences does not require a
+   different standard of proof but flexibility in its application will
+   involve consideration of the strength and quality of the evidence. The
+   more serious the consequence, the stronger must be the evidence adduced
+   for the necessary standard to be reached.
+
+
+14. In SSHD v Shehzad [2016] EWCA Civ 615 the Court of Appeal concluded
+   that the "generic evidence" (comprising in that case of the same
+   statements of Ms Collings and Mr Millington submitted in this appeal)
+   together with the evidence that the test of individual in question has
+   been assessed as "invalid", was sufficient for the Secretary of State to
+   meet the initial evidential burden (the first of the three stages)
+   thereby shifting the evidential burden onto the test taker to raise an
+   innocent explanation (the second of the three stages).  At paragraph 26
+   the Court of Appeal in Shehzad concluded that "the in limine rejection of
+   the Secretary of State's evidence as even sufficient to shift the
+   evidential burden was an error of law".
+
+
+15. In this case, the Secretary of State submitted the statements of Ms
+   Collings and Mr Millington (the generic evidence evaluated in Shehzad)
+   along with evidence showing the claimant's test had been assessed by ETS
+   as invalid. In addition, the Secretary of State submitted a report by
+   Professor French dated 20 April 2016, giving opinion evidence on ETS's
+   methodology for detecting fraud.
+
+
+16. Professor French's expertise was not questioned before the First-tier
+   Tribunal and it is noted that the High Court in Gaogalalwe [2017] EWHC
+   1709 (Admin), considering the same report, described Professor French as
+   a "singularly well qualified expert". Professor French's conclusion was
+   that ETS's error rate in identifying fraud was very low.
+
+17. Having regard to Shehzad, as well as subsequent cases such as
+   Gaogalalwe, it is clear that the evidence submitted in this appeal by the
+   Secretary of State was sufficient to meet the initial evidential burden,
+   thereby shifting the burden to the claimant to raise an innocent
+   explanation.
+
+
+18. In finding that the Secretary of State had not satisfied the initial
+   evidential burden the First-tier Tribunal has made a material error of
+   law.
+
+
+Remade Decision
+
+19. After delivering my decision to set aside the decision of the First-
+   tier Tribunal I invited Mr Akhatar to present the claimant's case for the
+   remaking of the decision. Noting the brevity of the claimant's witness
+   statement and that it did not cover material that might be expected where
+   a party is seeking to establish an innocent explanation, I invited Mr
+   Akhtar to pose questions to her in order to elicit information that may
+   raise an innocent explanation. He declined to do so, and proposed that Mr
+   Tufan should cross examine the claimant.
+
+
+20. Mr Tufan asked the claimant a range of questions about when and where
+   the test was taken. The claimant gave short answers that identified the
+   name of the test centre and when the test was taken, without giving any
+   elaboration or wider explanation. She explicitly denied that she cheated
+   and stated that because of her English language ability at the time the
+   test was taken it was easy for her to take the test. Other than the
+   assertion that she spoke good English at the time of the test, she did
+   not put forward any other explanation, despite being encouraged (and
+   given every opportunity) to do so by Mr Tufan.
+
+21. I posed a few questions to the claimant including how she paid for the
+   test (to which she responded that she paid in cash) and how she travelled
+   to the test centre (to which she said that her husband drove her).
+
+
+22. I asked Mr Akhtar, again, if he wished to ask the claimant any
+   questions. He declined to do so.
+
+
+23. Mr Akhtar handed me a document on headed note paper from "Stratford
+   College of Management" dated 15 May 2012. The document states that the
+   claimant has completed a NQF level 7 Post Graduate Diploma in Business
+   Administration where her attendance was satisfactory. The document does
+   not state if the course was passed, or what grade was obtained. It merely
+   states that course was completed and attendance was satisfactory.
+   Although the document states the course has been completed it also gives
+   a completion date of 23 August 2012, which is over three months after the
+   date of the letter.
+
+24. Mr Akhtar submitted that the claimant is an innocent victim and the
+   evidence shows she took the test herself.
+
+
+25. Mr Tufan submitted that the only innocent explanation the claimant has
+   put forward is that she currently speaks good English (which is not
+   disputed), and that at the time of the test she spoke sufficiently good
+   English to not need to engage a proxy test taker. He argued, firstly,
+   that the case law makes clear that ability in English is not an answer to
+   the accusation of fraud given there could be a range of other reasons to
+   cheat on the test.  Secondly, he argued that the evidence before me did
+   not in any event establish that in 2012 the claimant's English was strong
+   enough to easily have passed the test. The only evidence was the document
+   from Strafford College of Management which told us nothing about the
+   claimant's English ability in 2012.
+
+
+26. For the reasons explained in the error of law decision above, the
+   Secretary of State, through the evidence of Mr Millington, Ms Collings
+   and Professor French taken together with the categorisation of the
+   claimant's test as "invalid", has satisfied the initial evidential
+   burden, thereby shifting the evidential burden onto the claimant.
+
+
+27. The claimant maintains that she satisfies the evidential burden of
+   showing a plausible innocent explanation because at the time she took the
+   test she was taking a management course in the UK and received a diploma
+   from the college confirming she completed the course and her attendance
+   was satisfactory. She also relies on the fact that she currently speaks
+   English at a good level.
+
+
+28. The claimant's current level of English is irrelevant. Approximately
+   five years have elapsed since the test in question was taken, during
+   which time the claimant has been living in the UK. It is not possible to
+   infer anything about the claimant's ability in English in 2012 from her
+   ability in 2017.
+
+
+29. The document from Stratford College of Management is weak evidence to
+   support the contention that the claimant did not use fraud to obtain her
+   test. Despite being encouraged to do so by Mr Tufan (and Mr Akhtar being
+   given every opportunity to pose questions to her) the claimant did not
+   give any detail or elaboration about the course she took, the level of
+   English it required of her, how well she did in it, or any other
+   information that would indicate the level of English the course required
+   in order for her to complete it.
+
+30. Nor did the claimant, either in her written statement or orally before
+   me, give an account that would point to there being an innocent
+   explanation. She did not, for example, elaborate on the factors noted at
+   paragraph 69 of SM and Qadir, such as what she had to gain from being
+   dishonest, what she had to lose, her character, the cultural environment
+   in which she operated, and whether her academic scores make it illogical
+   or unnecessary to cheat.
+
+
+31. Although the evidential burden on the claimant to establish an innocent
+   explanation is low - she need only show the minimal level of plausibility
+   - I am not satisfied that she has met the burden, as the claimant's
+   innocent explanation amounts to no more than an assertion that because of
+   her present ability in English (five years after the test) and that she
+   undertook and completed a management course in 2012 she had no motive to
+   cheat.
+
+32. If I am wrong, and the evidential burden to show an innocent
+   explanation has been met, I find in the alternative that Secretary of
+   State has discharged the legal burden. Balancing the evidence of the
+   Secretary of State (including in particular the expert report of
+   Professor French which was not challenged before me) which points to a
+   conclusion that the claimant's test was taken by a proxy test taker,
+   against the weak evidence of the claimant to show she did not need to
+   cheat, I am satisfied that the Secretary of State has discharged the
+   legal burden of proof.
+
+
+Decision
+
+
+33. The decision of the First-tier Tribunal contains a material error of
+   law and is set aside.
+
+
+34. I remake the decision by dismissing the appeals of the First and Second
+   Respondents against the decision of the Secretary of State dated 2
+   November 2015.
+
+
+
+
+|                                     |                                     |
+|Signed                               |                                     |
+|                                     |                                     |
+|                                     |                                     |
+|                                     |                                     |
+|Deputy Upper Tribunal Judge Sheridan |Dated:  17 September 2017            |
+
+
+
+
+
+
+
+
+
+
+
+
+

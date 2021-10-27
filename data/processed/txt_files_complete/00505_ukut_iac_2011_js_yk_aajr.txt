@@ -1,0 +1,623 @@
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+   R (ota JS) and R (ota YK) v Birmingham City Council (AAJR) [2011] UKUT
+                                 00505 (IAC)
+
+             IN THE MATTER OF AN APPLICATION FOR JUDICIAL REVIEW
+
+
+|Heard at Field House                          |Decision                     |
+|On 5 October 2011                             |                             |
+|                                              |.............................|
+|                                              |..........                   |
+
+                                   Before
+
+                      Mr C M G Ockelton, Vice President
+                          Upper Tribunal Judge Warr
+
+
+
+
+                      The Queen on the application of JS
+                (by his litigation friend THE REFUGEE COUNCIL)
+                                                                    Claimant
+                                                                          -
+   v -
+                           BIRMINGHAM CITY COUNCIL
+                                                                   Defendant
+                                     and
+
+                     The Queen on the application of YK
+                 (by his litigation friend KAMALJIT SANDHU)
+                                                                    Claimant
+                                    - v -
+
+                           BIRMINGHAM CITY COUNCIL
+                                                                   Defendant
+
+Representation:
+
+For the Clamant JS:      Mr Suterwalla, instructed by Bhatia Best
+Solicitors
+For the Claimant YK:   Mr Bedford, instructed by Sultan Lloyd Solicitors
+For the Defendant:        Mr Harrop-Griffiths, instructed by Birmingham
+                  City Council
+
+
+Introduction: The Problem
+
+ 1. Local Authorities owe certain duties to children under the Children Act
+    1989 and other legislation.  As the Supreme Court decided in  R  (A)  v
+    Croydon LBC [2009] UKSC 8, those duties are owed to those  who  are  in
+    fact under the age of eighteen, not only those who the Local  Authority
+    reasonably considers to be under the age of eighteen.
+
+ 2. If the Local Authority refuses to provide benefits to a young person on
+    the ground that he is not a child, the remedy is by  challenge  to  the
+    Local Authority's decision by way of Judicial Review.  In  addition  to
+    the normal grounds  on  which  Judicial  Review  lies,  the  notion  of
+    illegality in this context  encompasses  a  wrong  assessment  of  age.
+    Thus, in a case of this sort, it is open to  a  claimant  to  establish
+    that, as a matter of fact, the Local Authority's assessment was  wrong.
+    The Court has, in other words, the task  of  assessing  the  claimant's
+    age.
+
+ 3. That task is in addition to the other tasks of the  Court  on  Judicial
+    Review.  A Local Authority's  decision  on  age  may,  like  any  other
+    decision of a public body, be unlawful for failure to take into account
+    relevant factors, or for taking into account irrelevant  ones;  it  may
+    simply be irrational.   Considerations  such  as  these  may  assist  a
+    claimant to establish that the Local  Authority's  decision  should  be
+    quashed.  But when the only issue is age, the proceedings are likely to
+    be directed to an assessment of age by the Court, rather than merely to
+    quashing the assessment already made, leaving  the  way  open  for  the
+    Local Authority to make a new one.
+
+ 4. That must be particularly so when the  case  has  reached  an  advanced
+    stage of preparation.  Days of court time will have been set aside  for
+    the hearing of evidence; witnesses will have been  instructed;  lawyers
+    will have devoted considerable energy to preparing a precise case based
+    on the evidence; the claimant seeks a  substantive  resolution  of  the
+    disputed question of his age.  It is very unlikely that at  that  stage
+    the traditional processes  and  remedies  of  administrative  law  will
+    provide an appropriate resolution of the case.   The  hearing  will  be
+    directed not merely to seeing  whether  the  Local  Authority  decision
+    should be displaced, but, if so, to determining what the claimant's age
+    most likely is.
+
+ 5. Age Assessment is, however, an inexact  science.   The  decision  of  a
+    Court may be authoritative but it is not necessarily  for  that  reason
+    more nearly factually correct than an assessment by anybody else.   And
+    litigation should be a last resort: if the claimant can accept a  Local
+    Authority assessment, or if the parties can agree to compromise,  there
+    should be no need for the Court's intervention.   The  Judicial  Review
+    claim will not need to be brought, or, if brought, can  be  settled  by
+    consent.  That is not in any sense a worse outcome than a full hearing,
+    at the end of which the Court makes an  assessment  of  the  claimant's
+    age.  On the contrary, it is likely to be a better outcome.   There  is
+    no "loser"; and a great deal of time and money is saved.
+
+ 6. Unfortunately, however, settlement of the issue  between  the  claimant
+    and the Local Authority may not be the  end  of  the  matter.   Even  a
+    judicial decision on the issue  between  the  claimant  and  the  Local
+    Authority may not be the end of the matter.  The reason for that is  as
+    follows.
+
+ 7. Many, perhaps most, of the young people who  raise  these  issues  have
+    come to the United Kingdom  as  asylum  claimants.   The  issue  arises
+    because they have no documents.  They  make  an  asylum  claim  to  the
+    Secretary of State for the Home  Department.   An  officer  of  the  UK
+    Borders Agency may assess the claimant's age under section 94(7) of the
+    Immigration and Asylum Act 1999, as part of  the  process  of  deciding
+    whether he is entitled to NASS support; or he may simply need  to  take
+    the claimant's age, or claimed age, into account in assessing any  risk
+    he would face on return to his own country.  Further, the Secretary  of
+    State has developed and published policies for the granting of leave to
+    unaccompanied asylum-seeking minors, even if they are not  entitled  to
+    status as refugees.  There may or may not be a negative decision on the
+    asylum claim.  If there is a negative decision, there may or may not be
+    an appeal.  In any case, the decision of the Secretary of  State  or  a
+    judge of the Tribunal may incorporate an assessment or a  judgement  of
+    the claimant's age.  Based on it,  the  claimant  may  be  issued  with
+    status documents giving his age  as  so  ascertained.   And  experience
+    shows that that assessment or judgement  may  be  different,  sometimes
+    very different, from any assessment made by the Local Authority.
+
+ 8. What then?  From being in a position in which the claimant did not know
+    his age, he now has two officially ascertained ages.  If  he  is  asked
+    how old he is, he must respond "it depends who is asking".  And because
+    of the difference in responsibility for the housing  of  asylum-seekers
+    over and under eighteen  years  old,  he  may  find  that  neither  the
+    Secretary of State  (who  operates  the  NASS  System  for  those  over
+    eighteen) nor the Local Authority for the area in which  he  is  (which
+    has duties to those under eighteen) is  prepared  to  house  him.   The
+    Secretary of State refuses,  because  she  accepts  that  he  is  under
+    eighteen; and the Local Authority refuses because it considers that  he
+    is not.
+
+ 9. This is obviously both unsatisfactory  and  unjust.   Unfortunately  in
+    many cases it is not readily capable of satisfactory  resolution,  even
+    on the basis of an Age Assessment by the Court.  An assessment made  by
+    the Court in proceedings against a Local Authority is not  a  judgement
+    in in rem and does not bind the Secretary of State.   If  authority  is
+    needed for that proposition it is to  be  found  in  the  judgement  of
+    Hickinbottom J, in R (PM) v Hertfordshire County  Council  [2010]  EWHC
+    2056 (Admin).  There is  a  further  consequence,  which  is  that  the
+    Secretary of State does not need to be joined as an  interested  party,
+    and perhaps cannot be: she is not a person  directly  affected  by  the
+    proceedings within the meaning of CPR 54.1(2)(f).  Anyway, she will not
+    be joined as a defendant, by a claimant who is prepared to  accept  her
+    assessment, but not that of the Local Authority.  And she will  not  be
+    joined as a defendant by a Local Authority anxious to perform  its  own
+    duties but unconcerned with and not able  to  afford  to  be  concerned
+    with, the actions of another public body whose decisions  do  not  bind
+    it.
+
+10. There is a further, procedural problem.  Following the decision of  the
+    Supreme Court in R (A) v Croydon, a judicial initiative was  developed,
+    allowing transfer of Age  Assessment  Judicial  Reviews  to  the  Upper
+    Tribunal.  Such transfer can take place under section 31A of the Senior
+    Courts Act 1981, as inserted by section 19 of the Tribunals, Courts and
+    Enforcement Act 2007.  It has the sanction of the Court of Appeal in  R
+    (FZ) v Croydon LBC [2011] EWCA Civ 59 at [31],  and  such  business  is
+    assigned to  this  Chamber  by  Article  11(c)(ii)  of  the  First-tier
+    Tribunal and Upper Tribunal (Chambers) Order 2010 (SI  2010/2655).  The
+    Immigration and Asylum Chamber is considered to  have  the  appropriate
+    expertise, because of hearing asylum and other cases in which  the  age
+    of a claimant, particularly a claimant from abroad, is an issue.
+
+11. But the Tribunals, Courts and Enforcement Act 2007 was passed at a time
+    when the  appeals  process  for  immigration  and  asylum  matters  had
+    recently been reformed; and it was no  doubt  considered  inconceivable
+    that such causes would ever come before the new  Tribunals  established
+    by that Act.   A consequence is that  one  of  the  conditions  of  the
+    transfer of a Judicial Review application to the Upper Tribunal is,  as
+    specified in section 31A (7) of the Senior Courts Act 1981:
+
+    "(7) Condition 4 is that the application does not  call  into  question
+    any decision made under -
+               (a)  the Immigration Acts,
+               (b)  the British Nationality Act 1981,
+               (c)  any instrument  having effect under an enactment within
+    paragraph (a) or (b), or
+               (d) any other provision of law for the time being  in  force
+           which   determines   British   citizenship,   British   overseas
+           territories  citizenship,  the  status  of  a  British  national
+           (Overseas) or British Overseas citizenship."
+
+
+12. So if the Secretary of State is joined as a party, the claim cannot  be
+    transferred to the Upper Tribunal, and the benefits of expertise, speed
+    and reduced cost are lost.  And the joinder of the Secretary  of  State
+    after transfer would result in even more waste, if the claim needed  to
+    be transferred back to the High Court.
+
+13. There are thus motives for avoiding the involvement of the Secretary of
+    State.  On the other hand, the background to the  dispute  between  the
+    claimant and the Local Authority may, as we have indicated,  include  a
+    decision by the Secretary of State or a judgement by the  Tribunal,  in
+    each case under the Immigration Acts.  And it may be that one party  or
+    the other seeks to rely on it.
+
+14. It is with those matters in mind that  directions  were  given  in  the
+    present cases to enable the examination, as a preliminary issue, of the
+    impact of decisions already made under the Immigrations  Acts,  on  the
+    course or the outcome of proceedings for Judicial  Review  against  the
+    Local Authority.  In each  of  these  cases  the  Local  Authority  had
+    assessed the claimant as substantially  older  than  the  Secretary  or
+    State and the Immigration Judge had done.
+
+
+         The Claimants
+
+    JS
+
+15. JS comes from the Gardiz Provence of Afghanistan.  He  claims  to  have
+    been born in 1996: that  is  because  he  says  that,  before  he  left
+    Afghanistan in 2008 his mother told him that he was twelve.  He arrived
+    in the United Kingdom in about December 2008.  He  was  encountered  by
+    police in Birmingham and accommodated as a minor.  He  made  an  asylum
+    application and was also assessed  by  Birmingham  City  Council.   The
+    Council estimated his date of birth as 1 January 1990, making him  over
+    nineteen at the date of the assessment.  That assessment was challenged
+    by way of Judicial Review, the proceedings being settled by  way  of  a
+    Consent Order.  A second assessment was carried out by the defendant in
+    July 2009.  That again concluded that, at the date of  the  assessment,
+    the claimant was aged over eighteen.  That is the assessment challenged
+    by the claimant in the present proceedings.
+
+16. Meanwhile, the claimant's application for asylum had been unsuccessful.
+     He appealed to the Asylum and Immigration Tribunal.  Immigration Judge
+    Juss heard the appeal and allowed it.  He also made a finding about the
+    claimant's age, concluding only that the claimant was a  minor  at  the
+    date of his decision in June 2009.  The  Judge's  reasons  appeared  to
+    have been that the assessment which  had  been  made  was  not  Merton-
+    compliant, and that the claimant "certainly looks  more  like  thirteen
+    than nineteen".  The Secretary of State sought reconsideration, and the
+    appeal was eventually reheard before Immigration Judge Robertson in the
+    Upper Tribunal.  She allowed the  Secretary  of  State's  appeal  (thus
+    rejecting the claimant's claim  to  asylum),  but  concluded  that  the
+    claimant was fifteen at  the  time  of  the  assessment  by  Birmingham
+    Council in 2009.  So far as concerned the issue  between  the  claimant
+    and the Secretary of State, therefore, his age has been  determined  as
+    presently under eighteen, and considerably under eighteen at  the  date
+    of both the Secretary of State's original decision and the  defendant's
+    assessments.  We have not seen any subsequent documentation  issued  by
+    the Secretary of State to JS, but we understand from Mr Suterwalla  who
+    represents JS, that such documentation has been issued.
+
+    YK
+
+
+17. YK is also from Afghanistan.  He came to the United Kingdom in May 2010
+    and claimed asylum in June.  He was treated as a child for the purposes
+    of his substantive asylum interview,  but  refused  asylum  on  the  27
+    August 2010.  Birmingham City Council assessed his age as over eighteen
+    on 3 September 2010.  That is the assessment formally  under  challenge
+    in  these  proceedings,  although  the   appellant   has   subsequently
+    undertaken a further review of the claimant's age  and  on  25  January
+    2011 confirmed its view that he is over  eighteen,  with  an  estimated
+    date of birth of 1 January 1992.
+
+18. Meanwhile, the claimant had appealed against the Secretary  of  State's
+    decision in relation to his asylum claim.   His  appeal  was  heard  by
+    Immigration Judge Chohan on 14 October 2010.  He dismissed the  appeal,
+    but considered in full the evidence relating to the claimant's age.  He
+    expressed  concerns  about  the  Secretary  of  State's   reliance   on
+    Birmingham  City  Council's  assessment,   particularly   because   the
+    assessment mentioned in the Secretary of State's decision  letter  only
+    became available after the date of the decision letter.  He found as  a
+    fact that the claimant was born on 1 January 1996,  adding  "certainly,
+    there is nothing to suggest otherwise".
+
+19. The history of the claimant's appeal after that appears to be that  the
+    Upper Tribunal reversed the outcome of the appeal to Judge Chohan,  and
+    there has subsequently been a grant of  permission  to  appeal  to  the
+    Court of Appeal.  But what is important for present purposes  is  that,
+    following the appeal to the First-tier Tribunal, the Secretary of State
+    appears to have accepted Judge Chohan's assessment  of  the  claimant's
+    age, and accordingly issued him with a status document giving 1 January
+    1994 as his date of birth.
+
+20. The result was not entirely to  the  claimant's  benefit,  because  the
+    consequence of the Secretary of State's acceptance  that  the  claimant
+    was a minor was that NASS Support was withdrawn from him,  and  he  was
+    for a short time without any access to accommodation.  The  matter  has
+    been resolved on an interim  basis  pending  the  conclusion  of  these
+    proceedings.
+
+
+         Submissions
+
+21. The two claims  therefore  have  the  following  relevant  features  in
+    common.  First, the defendant's assessment is that the  claimant's  age
+    is substantially more than he  claims.   Secondly,  there  has  been  a
+    judgement by an Immigration Judge  that  the  claimant  is  of  an  age
+    substantially lower than that assessed  by  the  Local  Authority,  and
+    therefore nearer to, or the same as, the claimant claims.  Thirdly, the
+    Judge's assessment has been accepted by the Secretary of State.   These
+    cases do therefore raise the uncomfortable spectacle  of  the  claimant
+    having different ages for different  purposes,  and  in  YK's  case  at
+    least, the consequential difficulty of obtaining benefits.
+
+22. For JS, Mr Suterwalla accepted that the Immigration Judge's finding  as
+    to the claimant's age is not binding on  another  Judge  of  the  Upper
+    Tribunal, or on the parties.  He submitted that it is evidence  in  the
+    case, and that the weight to be attributed to it is a  matter  for  the
+    court determining the claimant's age in these proceedings.  But he also
+    submitted that, in the circumstances, these proceedings inevitably call
+    in to question the decision of the Immigration Judge, a decision  under
+    the  Immigrations  Acts.   These  proceedings  should   therefore,   he
+    submitted, be transferred back to the High Court.
+
+23. Mr Bedford, for YK, raised a different issue which, with respect, we do
+    not think was very fully developed.  He asserted that  the  real  issue
+    was whether the Local Authority was bound by the Secretary  of  State's
+    decision.  His submissions were based on the assertion  that  both  the
+    Secretary of State and the Local Authority are emanations of the  State
+    and that, from  the  point  of  EU  Law,  it  is  the  State  that  has
+    obligations in relation  to  the  reception  and  treatment  of  asylum
+    seekers and the making of status and  other  decisions.   He  suggested
+    that if the matter was not clear, we should refer it to  the  Court  of
+    Justice of the European Union.   Both  Mr  Suterwalla  and  Mr  Harrop-
+    Griffiths,  who  represented  the  defendant,  sought  to  resist  that
+    proposal.  Mr Harrop-Griffiths submitted that  the  transfer  of  these
+    claims to The Upper Tribunal had been unlawful.  He drew  attention  to
+    the fact that in R (FZ) v Croydon LBC, there had been no hearing before
+    the  Tribunal:  where  there  had  been  one,  a  claim  such  as  this
+    necessarily calls the outcome of a decision under the Immigration  Acts
+    into question.  In any event, he  submitted,  the  Secretary  of  State
+    should be made a party to these proceedings,  which  would  necessarily
+    prevent Condition 4 in section 31A (7) of the Senior  Courts  Act  1981
+    from being satisfied.
+
+    Guidance and Protocol
+
+
+24. Mr Harrop-Griffiths did, however, provide us with two  documents  which
+    we regard as of the highest importance in the  circumstances  of  these
+    cases.  They are the UKBA's Guidance  "Assessing  Age",  most  recently
+    amended on 17 June 2011, and a document entitled "Age Assessment: Joint
+    Working Protocol Between Immigration and Nationality Directorate of the
+    Home Office (IND) and  Association  of  Directors  of  Social  Services
+    (ADSS)."  It is not dated although the reference to "IND" shows that it
+    is of some age: IND is the former name of the UKBA.  It is also on  its
+    face, incomplete: section  16  is  marked  "yet  to  be  agreed".   The
+    substantial parts of it, are stated to have been agreed between IND and
+    Local Authorities and Mr Harrop-Griffiths told us that Birmingham  City
+    Council accepted  that  it  formed  part  of  the  Council's  published
+    policies.
+
+25. The UKBA instructions on  assessing  age  recognised,  throughout,  the
+    difficulty of ascertaining the age of a  young  person  whose  date  of
+    birth  is  not  known.   Chapter  5  is  headed  "Local  Authority  Age
+    Assessments".   It  summarises  the  circumstances   in   which   Local
+    Authorities will need to make Age Assessments,  and  notes  that  those
+    assessments may sometimes differ from an assessment made by  UKBA.   It
+    notes that  if  the  Local  Authority's  Age  Assessment  is  the  only
+    information available, it may conclude the question; on the other hand,
+    there may be good reasons for the Secretary of State to differ from it.
+     The Local Authority should be asked to indicate the  reasons  for  the
+    assessment, particularly if the Secretary of State intends to  rely  on
+    the Local Authority's assessment at an appeal hearing.   The  principle
+    of sharing information with Local Authorities  pervades  the  document:
+    for example, Chapter 7 is headed "Sharing Evidence of  Age  with  Local
+    Authorities", and begins:
+
+        "Case owners are reminded that they must liaise closely  and  share
+        information relevant to the applicant's age with Local Authorities"
+
+26. In Chapter 8, "Weighing up Conflicting Evidence of Age", issues arising
+    from different assessments by  different  Local  Authorities,  and  new
+    evidence obtained in the course of an immigration appeal is considered.
+     A Merton-compliant Age Assessment by a Local Authority is to be  given
+    "prominence", but, for example, if the  Secretary  of  State  considers
+    evidence produced for the purposes of  an  appeal  to  be  sufficiently
+    persuasive to give ground  for  displacing  it,  "the  Local  Authority
+    should normally be made aware of the new evidence  and  be  invited  to
+    review their earlier decision.  The Local Authority's  view  should  be
+    considered by the case owner before they  reconsider  the  decision  on
+    age"
+
+27. Section 11 is headed "Immigration Judge Findings on Age".  It begins:
+        "If during the determination of an asylum  appeal  the  Immigration
+        Judge finds the appellant to be a child,  the  Agency  will  accept
+        this outcome in most cases, and proceed to treat the applicant as a
+        child.
+
+
+        Case owners cannot normally expect to depart from  the  Immigration
+        Judge's determination on age unless that decision is appealed. "
+
+28. The text goes on to note that there may be circumstances which  provide
+    exceptions to this general rule, but in any  event  UKBA  must  have  a
+    "sound and rational" reason to  depart  from  the  Immigration  Judge's
+    assessment.  In cases where UKBA think that there is a  reason  not  to
+    implement the  Immigration  Judge's  assessment,  "case  owners  "must"
+    consider  section  7.1  Discussing  Evidence  of  Age  with  the  Local
+    Authority and liaise with their senior case worker".
+
+29. Further,
+
+
+        "Where an Immigration Judge finds the applicant is a child and,  on
+        the particular facts of the case, the Agency intends to give effect
+        to the decision, it is essential that the matter is first discussed
+        with the Local Authority (the Agency's  reason  for  accepting  the
+        Immigration Judge's decision should be put in writing to the  Local
+        Authority).  This gives the Local Authority the chance  to  provide
+        any new, relevant evidence to the  case  owner,  ensures  that  the
+        Local Authority is made aware of the Tribunal's finding on age  and
+        gives the  Local  Authority  the  opportunity  to  re-consider  the
+        assessment.  The Local Authority should  be  asked  to  confirm  in
+        writing whether or not in light of the Immigration Judge's finding,
+        it proposes to accept the applicant as a child and its reasoning".
+
+       There is then a reference to R (PM) v  Hertfordshire  County  Council
+[2010] EWHC 2056
+       (Admin), and the section concludes as follows:
+
+
+        "If  the  Local  Authority  has  good  reason  not  to  accept  the
+        Immigration Judge's decision on age, consideration should be  given
+        to appealing the Tribunal's decision
+
+
+        While these discussions with the Local Authority are taking  place,
+        case  owners  should  notify  the   applicant   and   their   legal
+        representative that the Local Authority  is  currently  considering
+        the Immigration Judge's findings and whether or not to amend  their
+        decision on age".
+
+30. The Age Assessment Joint Working Protocol begins by stating its purpose
+    as to set out "arrangements to support a cooperative  approach  to  Age
+    Assessment" between  IND  (now  UKBA)  and  UK  Local  Authorities  and
+    Statutory Child Care Agencies.  One of the intended outcomes, listed at
+    section 7, is:
+
+        "Clear and agreed determinations on whether asylum  applicants  and
+        other migrant children are over or under  eighteen  years  of  age,
+        where their age is not known or is disputed by a partner agency".
+
+31. Sections 9 to 12 set out the bureaucratic process for determination  of
+    age, according to whether it is a Local Authority or UKBA that is first
+    approached by the claimant.  But section 13 takes the matter further on
+    in time.  It is  headed  "Where  Information  with  a  Bearing  on  Age
+    Assessment Emerges Later in the Asylum Process".  The section begins:
+
+        "There are occasions when IND or the responsible LA  only  receives
+        information bearing on the age or credibility of an applicant  much
+        later in the process.  Where such  new  information  merits  a  re-
+        assessment of age of an asylum seeker, it  is  important  that  the
+        Agencies follow processes consistent  with  those  above  to  avoid
+        applicants being left without appropriate support".
+
+
+32. The section goes on again to deal with process.  Section 14 is  headed:
+    "Conflicting Assessments".   The first half of it deserves  to  be  set
+    out in full:
+
+                 "a.) Between IND and a LA
+           In many cases  it  is  likely  that  IND's  assessment  will  be
+           consistent with that of the LA.  In some cases IND's  assessment
+           will differ from that of the LA; for  example  if  IND  believes
+           that  specific  evidence,  e.g.  a  document,   has   not   been
+           sufficiently taken into account or there are concerns  that  the
+           person presenting to IND is not the same person as seen  by  the
+           LA.
+
+
+           In such a case IND frontline staff should discuss the case  with
+           the named contact at the LA in the first instance.  For  example
+           they should point out contrary evidence that  they  believe  may
+           not have been considered by the LA.
+
+
+           In the event that neither party can persuade the other as to the
+           correctness of their determination the case will be referred  to
+           the Asylum Policy Unit and  a  formal  reconciliation  attempted
+           with the LA within 7 working days.
+
+
+           In the interim, pending reconciliation, the applicant should  be
+           supported in accordance with the LA assessment.
+
+
+           If no agreement is reached through this process the matter  will
+           be referred  for  binding  adjudication  to  a  nominated  third
+           party."
+
+
+    Discussion
+
+33.  These  two  documents  indicate  that   there   should   be   constant
+    communication between a Local Authority and the Secretary of  State  if
+    there is a difference of opinion between them on an  asylum  claimant's
+    age.   The  UKBA  document  indicates  that  the   claimant   and   his
+    representative are to be kept  informed  about  any  disagreement,  and
+    suggests that there will be a positive process  of  persuasion  between
+    agencies, clearly with the intention of achieving a common  view.   The
+    joint working protocol goes further still.  It provides  for  a  formal
+    process of "reconciliation", or reference  to  "binding  adjudication".
+    Mr Harrop-Griffiths told us, in written submissions after the  hearing,
+    that the defendant's position is that no such reference has  ever  been
+    made; but that is not the point.  We began by drawing attention to  the
+    difficulty faced by claimants who have  different  ages  for  different
+    purposes.   The declared public position of the Secretary of State  and
+    Local Authorities is that that will happen only after  there  has  been
+    constant liaison between  them,  discussion,  persuasion,  attempts  to
+    agree,  and  if  necessary  a  process  of  apparently   extra-judicial
+    determination.
+
+34. In the submissions to which we have just referred, Mr  Harrop-Griffiths
+    attempts to minimise the importance of the Age Assessment Joint Working
+    Protocol in particular.   He  says  that  it  needs  and  is  receiving
+    updating in the light of recent decisions of the  courts,  including  R
+    (A) v Croydon LBC.  He suggests  that  the  process  for  referral  for
+    "binding adjudication" is inappropriate in the light of that  decision,
+    unless the "nominated third party" is the Court or the Upper Tribunal.
+
+35. It does not appear to us that  these  documents  can  be  dismissed  so
+    readily.   The clear public position is  that  differences  in  opinion
+    about the claimant's age will be sorted  out  between  the  authorities
+    concerned,  and  will  not,  save  no   doubt   in   most   exceptional
+    circumstances, which do not appear to be  envisaged  by  the  published
+    policies, be a matter for the claimant to have  to  take  up  with  two
+    authorities separately.  Clearly, if he disagrees with the assessed age
+    following the reconciling of difference between the authorities, he may
+    be able to take proceedings by way of Judicial Review.  But there is no
+    suggestion that a claimant would be in  a  position  that  the  present
+    claimants are in.  They  each  have  their  two  assessed  ages.   They
+    challenge the one they do not like, but they run the risk of losing  an
+    advantage that they already have from the Secretary of State.  Even  if
+    that does  not  happen,  they  can  have  no  assurance  that  all  the
+    governmental and quasi-governmental authorities  that  they  deal  with
+    will, as a result of these proceedings, or at all, agree on their  age.
+
+
+
+36. It was for this reason that we raised during the hearing  the  proposal
+    that, in these cases, which have not yet been fully prepared for an Age
+    Assessment hearing on evidence, the appropriate outcome was to be found
+    in traditional  public  law.   In  his  written  skeleton,  Mr  Harrop-
+    Griffiths asserts that, in R (A) v Croydon LBC, the Supreme Court ruled
+    that:
+
+        "A Local Authority's decision that a person was or was not a  child
+        for the purposes of the Children Act 1989 was  not  susceptible  to
+        challenge on ordinary Judicial Review principles but was  a  matter
+        of fact to be decided by a court on an application for  a  Judicial
+        Review."
+
+37. As we have already indicated, we do not think that  is  accurate.   The
+    judgements of the Supreme Court, as we  read  them,  are  that  such  a
+    decision is not only susceptible  to  challenge  on  ordinary  Judicial
+    Review principles: they are not ruled out, but in  addition  the  Local
+    Authority's assessment is susceptible to challenge simply on the  basis
+    that it is in fact wrong.
+
+38. In the present cases, there is little or no trace of the communication,
+    discussion, persuasion and reconciliation that the defendant's policies
+    indicate will take place.  It is in our judgement no answer to say that
+    those  policies  relate  only  to  initial  assessment,  and   not   to
+    reassessment in the light of an Immigration  Judge's  judgement.   Both
+    the UKBA's policy  and  section  13  of  the  protocol  show  that  the
+    principles apply  throughout  the  assessment  process,  including  the
+    taking into account of evidence on appeal, and an  Immigration  Judge's
+    judgement.  In both of the present cases, the Secretary of  State  has,
+    following the judgement of an Immigration Judge, made a new  assessment
+    which is in flat contradiction to that of the Local Authority, with  no
+    attempt to decide whether there was any good reason for preferring  one
+    over the other for the general purposes for the State's  dealings  with
+    the claimant.
+
+39. The policy documents to which we have referred are  commendable.   They
+    indicate a clear and public intention to  avoid  difficulties  such  as
+    arise for the claimants in  the  present  cases.   It  is  best  if  an
+    assessment can be reached which all parties,  including  the  claimant,
+    can accept.  If that cannot be done, it is clearly much better for  the
+    claimant to be challenging only one assessment.  Otherwise, as we  have
+    said, he may for various reasons be in great difficulty.
+
+40. The UKBA document is not the defendant's policy; but the  protocol  is.
+    The defendant appears to us neither to have followed the policy nor  to
+    have given any  good  reason  for  departing  from  it.   Instead,  the
+    defendant simply adopted and maintained  an  Age  Assessment  that  was
+    different from that adopted by the Secretary of State.
+
+41. In these circumstances it appears to us  that  the  proper  outcome  of
+    these proceedings is to quash the defendant's decisions on that  ground
+    alone, leaving the defendant to apply its policy and  differ  from  the
+    Secretary of State's assessment only by following the procedure in  the
+    protocol, in particular section 14(a).   In a case such as this,  where
+    there are what we regard as clear grounds for Judicial  Review  on  the
+    traditional basis, there does not  seem  to  be  any  good  reason  for
+    preparing for a long and expensive hearing which may not need to happen
+    if the claimants are content with an Age Assessment to which  both  the
+    Secretary of State and the Local Authority have subscribed.
+
+42. In any event, determining the proceedings  in  this  way  prevents  the
+    claimants from having to deal separately with the  Secretary  of  State
+    and the Local Authority as respects their age, and prevents them  being
+    prejudiced by the failure of the authorities  of  the  State  to  agree
+    between themselves.
+
+43. We shall therefore quash both the decisions under challenge,  and  make
+    any necessary directions.
+
+
+
+
+
+
+                                                              C M G OCKELTON
+
+VICE PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+                                                      Date: 13 December 2011
+

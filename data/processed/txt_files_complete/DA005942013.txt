@@ -1,0 +1,1225 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: DA/00594/2013
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Columbus House, Newport              |Determination Promulgated    |
+|On 31 July 2013                               |On 21 August 2013            |
+|                                              |                             |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE GRUBB
+
+                                   Between
+
+                                    E O M
+
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr A Joseph, instructed by Turpin & Miller
+Solicitors
+For the Respondent:    Mr I Richards, Home Office Presenting Officer
+
+                          DETERMINATION AND REASONS
+
+ 1. This appeal is subject to an anonymity order by the First-tier Tribunal
+    pursuant to rule  45(4)(i)  of  the  Asylum  and  Immigration  Tribunal
+    (Procedure) Rules 2005 (SI 2005/230).   Neither  party  invited  me  to
+    rescind the order and I continue it pursuant to rule 14 of the Tribunal
+    Procedure (Upper Tribunal) Rules 2008 (SI 2008/2698).
+
+
+
+
+
+The Background
+
+ 2. The appellant is a citizen of Venezuela who was born on 15 March  1993.
+    On 10 January 2011, the appellant was convicted  at  the  Inner  London
+    Crown Court, following a trial, of robbery contrary to s.8 of the Theft
+    Act 1968.  He was sentenced to a term of  six  years'  detention  in  a
+    Youth  Offender  Institution.   At  the  time  of  his  conviction  the
+    appellant was 17 years of age.  On 1 March 2013, the Secretary of State
+    made a decision to make a deportation order against  the  appellant  by
+    virtue of s.3(5)(a) of the Immigration  Act  1971.   The  Secretary  of
+    State concluded that the appellant's deportation was "conducive to  the
+    public good" and there were "no exceptional circumstances" to  outweigh
+    the public interest presumption in para 296 of  the  Immigration  Rules
+    (HC 395 as  amended).   The  Secretary  of  State  concluded  that  the
+    appellant's deportation would not breach Art 8 of the ECHR.
+
+ 3. The appellant appealed to the First-tier Tribunal.  In a  determination
+    promulgated on 29 April 2013, the First-tier Tribunal (Judge  Cresswell
+    and Mr P Bompas) dismissed  the  appellant's  appeal.   The  First-tier
+    Tribunal found that the appellant's deportation would not breach Art 8.
+
+ 4. On 17 May 2013, the  First-tier  Tribunal  (Judge  Froom)  granted  the
+    appellant permission to appeal to the Upper Tribunal.  The reasons  for
+    the grant of permission were as follows:
+
+         "I grant permission to appeal because  it  is  arguable  the  panel
+         misunderstood the decision under appeal.   The  decision  was  made
+         under section 3(5)(a) of  the  Immigration  Act  1971.   The  panel
+         directed themselves in terms of section 32 of the  UK  Borders  Act
+         2007, even though the appellant was under 18 at  the  date  of  his
+         conviction.  In particular, at paragraph  16,  the  panel  recorded
+         that the respondent was obliged to make a deportation order and the
+         appellant was liable to deportation in accordance with section  32.
+         Further argument may be necessary to determine whether  this  error
+         turns out to have been material."
+
+ 5. Thus, the appeal came before me.
+
+The Appellant's Case
+
+ 6. Mr Joseph's submissions on  behalf  of  the  appellant  fell  into  two
+    categories.  First, he submitted that the Tribunal had  been  wrong  to
+    approach the appellant's appeal on the basis that he was subject to the
+    automatic deportation provisions in the UK  Borders  Act  2007.   Those
+    provisions were, he submitted, not  applicable  as  the  appellant  was
+    under the age of 18 at the date of conviction (see s.33(3) of the  2007
+    Act).  As a result, Mr Joseph submitted that the Tribunal had failed to
+    consider whether  the  appellant  was  "liable  to  deportation"  under
+    s.3(5)(a) of the Immigration Act 1971 and whether the  public  interest
+    justified his deportation.  Mr Joseph also submitted  that  this  error
+    spilled over into the Tribunal's Art 8 assessment which could not, as a
+    consequence, stand.
+
+ 7. Secondly, Mr Joseph  made  a  number  of  submissions  challenging  the
+    Tribunal  finding   that   the   appellant's   deportation   would   be
+    proportionate and to dismiss his appeal under Art 8.
+
+The Automatic Deportation Issue
+
+ 8. I begin with Mr Joseph's first submission.
+
+ 9. At para 16 of its determination the Tribunal clearly considered that it
+    was  dealing  with  a  case  governed  by  the  automatic   deportation
+    provisions in the UK Borders Act 2007.  The Tribunal said this:
+
+         "16. The Appellant is not a British citizen and was convicted of an
+             offence of robbery and sentenced to 6 years detention; he is a
+             foreign criminal and the Respondent was obliged  to  make  her
+             deportation order.  He is, therefore, liable to deportation in
+             accordance with Section 32 Borders Act 2007.  We will consider
+             whether an exception applies  on  the  basis  pleaded  by  the
+             Appellant of a breach of his Article 8 rights."
+
+10. Having then considered the application of the Immigration Rules, namely
+    paras 397-399A, the Tribunal at  paras  19-33  considered  whether  the
+    appellant's deportation breached Art 8.  In concluding in para 33  that
+    his deportation was proportionate, the Tribunal concluded:
+
+         "There is here no Exception within Section 33 of the UKBA."
+
+11. The Tribunal was wrong to approach the appellant's appeal on the  basis
+    that it was governed by the automatic deportation provisions in the  UK
+    Borders Act 2007.  Although the appellant was  undoubtedly  a  "foreign
+    criminal" to which, in principle, the 2007 Act applied, he fell  within
+    "Exception 2" in s.33(3) because he was "under the age  of  18  on  the
+    date of conviction".
+
+12. Accepting that error, the crucial  question  is  whether  it  made  any
+    material difference to the Tribunal's decision.  Mr Joseph referred  me
+    to the Upper Tribunal's decision in Bah (EO  (Turkey)  -  liability  to
+    deport) [2012] UKUT 0019 (IAC).  That decision  considered  the  proper
+    approach to be followed in a deportation appeal not falling within s.32
+    of the UK Borders Act 2007.  The three-stage approach identified by the
+    UT is helpfully set out  in  the  italic  words  of  that  decision  as
+    follows:
+
+         "In a deportation appeal not falling within section 32  of  the  UK
+         Borders Act 2007, the sequence of decision making  set  out  in  EO
+         (deportation appeals: scope and process)  Turkey  [2007]  UKAIT  62
+         still applies but the first step is expanded as follows:
+
+         i)   Consider whether the person is liable to be  deported  on  the
+             grounds set out by the Secretary of State.  This will normally
+             involve the judge examining:-
+
+             a.   Whether the material facts alleged by  the  Secretary  of
+                  State are accepted and if not whether they are made out to
+                  the civil standard flexibly applied;
+
+             b.   Whether on the facts established viewed as  a  whole  the
+                  conduct character or associations reach such  a  level  of
+                  seriousness as to justify a decision to deport;
+
+             c.   In considering b) the judge  will  take  account  of  any
+                  lawful policy of the Secretary of State  relevant  to  the
+                  exercise of the  discretion  to  deport  and  whether  the
+                  discretion has been  exercised  in  accordance  with  that
+                  policy;
+
+         ii)  If the person is liable to deportation, then the next question
+             to consider is whether a  human  rights  or  protection  claim
+             precludes deportation.  In cases of private  or  family  life,
+             this will require an assessment of the proportionality of  the
+             measures against the family or private life in question, and a
+             weighing of all relevant factors.
+
+         iii) If the two previous steps are decided against  the  appellant,
+             then the question whether the discretion to  deport  has  been
+             exercised in accordance with the Immigration Rules  applicable
+             is the third step in the process.  The present wording of  the
+             rules assumes that a person who is liable to  deportation  and
+             whose deportation would not be contrary  to  the  law  and  in
+             breach of human rights  should  normally  be  deported  absent
+             exceptional circumstances to be assessed in the light  of  all
+             relevant information placed before the Tribunal."
+
+13. Mr Joseph submitted that the Tribunal had failed to  consider  properly
+    the first step set out in Bah, namely whether the appellant was  liable
+    to be deported on the basis of his criminality.  He submitted that  the
+    Tribunal in para 16 had been wrong to apply s.32(4) that states that:
+
+         "For the purposes of Section 3(5)a of the Immigration Act 1971, the
+         deportation of a foreign criminal is conducive to the public good."
+
+14. Mr Joseph referred me to s.33(7) which stated that:
+
+         "The application of an exception  -
+
+         ....
+
+         (b)  results in its being assumed neither that deportation  of  the
+             person concerned is conducive to the public good nor  that  it
+             is not conducive to the public good; but section 32(4) applies
+             despite the application of Exception 1 or 4."
+
+15. As s.33(7) makes plain, whilst s.32(4) continues to apply and  deem  an
+    individual's deportation to be  "conductive  to  the  public  good"  if
+    Exception  1  (breach  of  Convention  or  Refugee  Convention)  or   4
+    (extradition etc)  applies,  it  does  not  apply  if  Exception  2  is
+    applicable as it is in this appeal.  On the face of it, therefore,  the
+    prior question of whether the appellant  was  "liable  to  deportation"
+    under s.3(5)(a) fell to be decided by the Tribunal  before  considering
+    whether Art 8 prevented the appellant's deportation.  That said,  there
+    are, in my judgment, two reasons why Mr Joseph's  submissions  on  this
+    point cannot succeed.
+
+16. First, there was the stance taken on behalf of the appellant before the
+    First-tier Tribunal.  It was no part of the appellant's case before the
+    First-tier Tribunal that he  was  not  "liable  to  deportation"  under
+    s.3(5)(a) of the Immigration Act 1971 or that, given his offending, his
+    deportation was not justified other than to argue it would  breach  Art
+    8.  The notice of appeal to the First-tier Tribunal relies  exclusively
+    upon Art 8.  Likewise,  the  skeleton  argument  dated  25  April  2013
+    prepared, it would appear, by Counsel also relies exclusively on Art  8
+    and the appellant's private life in the UK.  The Tribunal's  Record  of
+    Proceedings shows that Mr Joseph (who represented the appellant  before
+    the Tribunal) did not seek to expand beyond the grounds of  appeal  and
+    his skeleton argument.  It is clear,  therefore,  that  the  First-tier
+    Tribunal was not invited to find that the appellant was not "liable  to
+    deportation" or that  deportation  was  not  justified  in  the  public
+    interest other than on the basis that his deportation would breach  Art
+    8.  Given that stance, it is difficult to see how the Tribunal's  error
+    could have led it to make a finding on this issue  in  the  appellant's
+    favour since the appellant did not seek such a finding.
+
+17. Secondly, in any event, there is no  realistic  basis  upon  which  the
+    Tribunal could have made such a  finding  in  the  appellant's  favour.
+    When I enquired of Mr Joseph whether he was  now  submitting  that  the
+    appellant's offending did not make him "liable to deportation" as being
+    conducive to the public good, Mr Joseph was not able to summon  up  any
+    argument in the  appellant's  favour.   In  my  judgment,  that  merely
+    reflects the hopeless nature  of  any  argument  that  the  appellant's
+    offending did not make his deportation "conducive to the public  good".
+    The appellant was convicted of robbery  and  sentenced  to  six  years'
+    detention in a YOI.  In her decision letter, the Secretary of State set
+    out her reason for concluding  that  the  appellant's  deportation  was
+    conducive to the public good and that the public interest justified his
+    deportation as follows:
+
+         "Circumstances of the offence
+
+         The Secretary  of  State  regards  as  particularly  serious  those
+         offences involving violence, sex, arson and drugs.  Also taken into
+         account is the sentencing Court's view of the  seriousness  of  the
+         offence, as reflected in the  sentence  imposed,  as  well  as  the
+         effect of that type of crime on the wider community.  The  type  of
+         offence and its seriousness, together with the need to protect  the
+         public from serious crime and its  effects  are  important  factors
+         when considering whether deportation is in the public interest.  In
+         addition to these factors your personal circumstances together with
+         the circumstances of your offence(s) have been carefully looked at.
+
+
+         In your case the sentencing judge made the following comments;
+
+
+         [EOM], would you stand  up,  please.   You  were  convicted  of  an
+         extremely violent robbery back in January in which you, with  other
+         persons, stalked the victim as  he  walked  from  the  Fulham  Road
+         towards Battersea Bridge.  He was drunk, as you  clearly  realised.
+         The CCTV shows that you were following with others and, in my view,
+         waiting for your opportunity to jump him and rob him.   The  moment
+         came when he got to the bottom of Church  Street  and  was  on  the
+         embankment.  The victim's injuries were serious.  They  included  a
+         left shattered cheek bone, his right cheek bone was caved  in.   He
+         had two steel plates inserted on the left side of his face.   There
+         was a manipulation necessary of his cheek  bone.   It  was  a  very
+         painful operation.  He has been left with significant numbness.  He
+         was in hospital for five days and I read, and it has been read out,
+         the victim impact statement from the victim, which you  have  heard
+         as well in this court, which indicates that the  victim  is  living
+         with the permanent consequences of this attack upon him.
+
+
+         You have two previous convictions namely on 18 August 2010 you were
+         convicted  of  using  disorderly  behaviour  and  two   counts   of
+         assaulting a constable, for which you were sentenced  to  one  year
+         youth rehabilitation order;  and  on  23  November  2010  you  were
+         convicted of wounding/inflicting  grievous  bodily  harm  and  were
+         sentenced to a year youth rehabilitation order.
+
+
+
+
+         Presumption in favour of deportation
+
+
+         In view of this, consideration has been given as to whether or  not
+         deportation is the  appropriate  course  in  your  case.   Specific
+         regard has been given to paragraph 396 of the Immigration Rules (as
+         amended).  Paragraph 396 provides that there is a presumption  that
+         the public interest requires the deportation of  a  person  who  is
+         liable to deportation.  In considering whether the  presumption  is
+         outweighed in any particular case all relevant  factors  are  taken
+         into account, including whether the decision  to  take  deportation
+         action would place the United Kingdom  in  breach  of  any  of  its
+         obligations under the European Convention on Human  Rights  (ECHR).
+         Therefore we are obliged in making any decision to consider whether
+         you have any claim to remain which would outweigh  the  presumption
+         to deport.
+
+
+         Your representations have been  taken  into  account  but  for  the
+         reasons stated below it is not considered that they are  sufficient
+         to demonstrate that you should not be removed to Venezuela.  It  is
+         considered there are no exceptional circumstances to  outweigh  the
+         public interest presumption.  It is  therefore  concluded  that  in
+         your case it is appropriate to deport you to Venezuela."
+
+18. The Secretary of State's decision took into  account  the  Crown  Court
+    judge's sentencing remarks concerning the circumstances  of  the  index
+    offence of the appellant.  The decision letter was, of  course,  before
+    the Tribunal which referred to it at paras 6 and the sentencing judge's
+    remarks at para 15(xii)-(xiv).
+
+19. At para 18 of its determination, the Tribunal records the  position  of
+    Mr Joseph on behalf of the appellant in relation to the application  of
+    the 'new Article 8 Rules', namely  paras  399  and  399A.   There,  the
+    Tribunal  notes  that  he  did  not  suggest  that  there  were:   "any
+    exceptional circumstance such that the public interest  in  deportation
+    could be outweighed by other factors." The Tribunal added in  para  18,
+    "We could see none either".
+
+20. In considering the legality  of  the  appellant's  deportation  without
+    reference to Art 8, para 396 of the Rules states that:
+
+         "Where a person is liable to deportation the presumption  shall  be
+         that the public interest requires deportation."
+
+21. Paragraph 397 then goes on to state:
+
+         "Where deportation would not be contrary to [the Refugee Convention
+         or the Human Rights Convention], it will  only  be  in  exceptional
+         circumstances  that  the  public   interest   in   deportation   is
+         outweighed". (my emphasis).
+
+22. In truth, the appellant effectively conceded  that  there  was  nothing
+    "exceptional" about his case that prevented his deportation  under  the
+    Rules.  That concession  was  made  specifically  in  relation  to  the
+    'single Article 8 Rules' in para 398 but  was,  in  truth,  no  less  a
+    statement of the reality in applying para 397.
+
+23. Before the First-tier  Tribunal,  the  appellant  unequivocally  relied
+    exclusively upon Art 8.  He no doubt did so on the basis that he had no
+    prospect of succeeding otherwise.  Although the Tribunal was  wrong  to
+    approach the  appeal  on  the  basis  that  the  automatic  deportation
+    provisions applied, the appellant had no prospect of succeeding on  the
+    basis that his deportation was  not  "conducive  to  the  public  good"
+    (s.3(5)(a)  of  the  1971  Act)  or  that   there   were   "exceptional
+    circumstances"  which  outweighed  the  public   interest   given   his
+    criminality (para 397).  Any error by the Tribunal was not material  to
+    its decision and do not justify setting that decision aside.
+
+24. For these reasons, I reject Mr Joseph's first submission.
+
+The Article 8 Issues
+
+25. I now  turn  to  Mr  Joseph's  submissions  made  in  relation  to  the
+    Tribunal's finding that the appellant's deportation  was  proportionate
+    and not a breach of Art 8.   I  begin,  however,  with  the  Tribunal's
+    reasons which it is helpful to set out in some detail.
+
+     1. The FtT's decision
+
+26. Before the First-tier Tribunal, the appellant relied upon  his  private
+    life in the UK.  He had come to the UK from Venezuela  in  August  2003
+    with his brother and sister to join his father.  At that time he was 10
+    years of age.  He was granted leave to remain and on 21 May 2008 he was
+    granted indefinite leave to remain.  He was, therefore, settled in  the
+    UK.
+
+27. The First-tier Tribunal had before it a body of evidence concerning the
+    appellant's offending  history  and  the  index  offence,  as  well  as
+    evidence about his personal circumstances in  the  UK.   The  appellant
+    also gave oral evidence before  the  First-tier  Tribunal  as  did  his
+    stepmother with whom he had lived on arriving in the UK in  2003  until
+    she left the family home sometime in 2009 when she separated  from  the
+    appellant's father.  Until 2009, the  appellant  also  lived  with  his
+    father and his stepsister.  The Tribunal made detailed findings of fact
+    at para 15(i)-(xxi) as follows:
+
+         "15. We find the following material facts.  We  emphasise  that  we
+             have come to our findings after considering the evidence as  a
+             whole and that the order of  findings  in  this  determination
+             does not indicate the order in which we came to our  findings.
+             We had the benefit of seeing and listening most  carefully  to
+             the Appellant as he gave  his  evidence.   In  coming  to  our
+             conclusions we had regard to all the evidence before us.
+
+             (i)  We start by recording the Appellant's history.  He  first
+                  came to the UK from Venezuela on 6  August  2003  with  is
+                  brother and sister to join his  father.   On  16  December
+                  2003, he was granted leave to remain as a dependant of his
+                  father, which leave was renewed on 27  May  2006  and  was
+                  followed by a grant of indefinite leave to  remain  on  21
+                  May 2008.
+
+             (ii) The Appellant's father married the witness,  [CCP]  ("Mrs
+                  P"), on 5 November 2004.  Mrs P  had  a  daughter  by  her
+                  previous husband, [FLGC] ([L]).
+
+             (iii)    There was disharmony in the home.   Mrs  P  found  it
+                  difficult to get  on  with  the  appellant's  brother  and
+                  sister,  the  brother  being  involved  with  drugs,   and
+                  eventually the brother and sister  returned  to  Venezuela
+                  where their mother had remained.  The brother was in  fact
+                  deported to Venezuela.  The Appellant was not treated well
+                  by his father and there were violent incidents.
+
+             (iv) In 2009, the Appellant moved with his father and Mrs P to
+                  a new address, leaving  L  at  the  old  address.   Mrs  P
+                  discovered that  the  Appellant's  father  was  having  an
+                  affair and that brought her relationship with  him  to  an
+                  end.
+
+             (v)  In June 2009, the  Appellant  committed  the  offence  of
+                  robbery, more details of which we will provide later.   He
+                  was arrested in August 2009 and was then on bail until his
+                  trial and sentence, which we have detailed above.
+
+             (vi) The Appellant has a history of offending.  He  was  first
+                  reprimanded  by  the  Police  on  21  February  2007   for
+                  possessing an offensive weapon on school premises  earlier
+                  that month.  He was then warned on 20 October 2008,  again
+                  by the Police, for theft from a person on  30  July  2008.
+                  As we have indicated above, he then committed the  robbery
+                  on 7 June 2009, which we will return to later.
+
+             (vii)    Having been arrested in August 2009  in  relation  to
+                  the robbery, the Appellant came under  the  assistance  of
+                  the  local  Youth  Offending  Team.   In  July  2010,  Sue
+                  Edwards, a Youth Justice Officer, met him and she provided
+                  him with temporary  accommodation  because  he  could  not
+                  return home to his father because their  relationship  was
+                  so poor.
+
+             (viii)   On 1 August 2010, the Appellant was guilty  of  using
+                  disorderly  behaviour   or   threatening/abusive/insulting
+                  words likely to cause harassment, alarm  or  distress  and
+                  assaulting two constables for which he was sentenced on 18
+                  August 2010  at  Camberwell  Green  Juvenile  Court  to  a
+                  Referral Order for 6 months.
+
+             (ix)  On  30  August  2010,  the  Appellant  wounded/inflicted
+                  grievous bodily  harm  on  a  person,  for  which  he  was
+                  sentenced on 23 November 2010 at Waltham  Forest  Juvenile
+                  Court to a Youth Rehabilitation Order for 1  year  with  a
+                  supervision requirement and for which he  was  ordered  to
+                  pay compensation of �300, the Youth  Rehabilitation  Order
+                  being also substituted for  his  earlier  Referral  Order.
+                  The Pre Sentence Report records that this offence involved
+                  the Appellant biting a relative  on  the  face  during  an
+                  argument at a family gathering, inflicting injuries  which
+                  required stitches.  The Appellant  told  us  that  he  had
+                  bitten the man.
+
+             (x)  The Appellant started a BTEC Level 2 Diploma in Sport  in
+                  September 2010 at Haringey Sixth Form Centre.
+
+             (xi) The Appellant subsequently moved to accommodation at YMCA
+                  in about January 2011.
+
+             (xii)    As we observe from  the  sentencing  remarks  of  His
+                  Honour Judge Bishop, the Appellant was  'convicted  of  an
+                  extremely violent robbery' which involved the stalking  of
+                  a man who was drunk on the embankment of the Thames.   The
+                  appellant and others could be seen on CCTV  following  the
+                  man with the intention of jumping  him  and  robbing  him.
+                  The man's 'injuries were serious.  They  included  a  left
+                  shattered cheekbone, his right cheekbone was caved in.  He
+                  had 2 steel plates inserted on the left side of his  face.
+                  There was a manipulation necessary of his  cheekbone.   It
+                  was a very painful  operation.   He  has  been  left  with
+                  significant numbness.  He was in hospital for 5 days  and'
+                  from the victim  impact  statement  'is  living  with  the
+                  permanent consequences of  this  attack  upon  him'.   The
+                  Appellant was recognised from the CCTV  and  the  victim's
+                  mobile phone was found in the Appellant's room.   He  lied
+                  to the Police about  his  acquisition  of  the  phone  and
+                  clearly lied at his trial as to how  he  had  obtained  it
+                  too.  It is apparent from the Pre Sentence Report that  he
+                  told the author of the report  that  he  told  the  Police
+                  three different stories before finally telling  the  truth
+                  as he remembered it, which was clearly not accepted to  be
+                  the truth by the jury.
+
+             (xiii)   The Judge concluded that the Appellant's  version  of
+                  events given for the Pre Sentence Report was not  truthful
+                  and that he was a full participant in the  violent  attack
+                  upon the man and that he was stalking  the  man  for  that
+                  purpose.
+
+             (xiv)    The Judge took account of the fact that the Appellant
+                  was 16 at the time of the offence and 17 at  the  time  of
+                  sentence and took account also of the difficulties that he
+                  had had in his childhood and noted the improvement in  his
+                  life since he was housed at the YMCA and  his  involvement
+                  with sports  activities  and  his  training  course  as  a
+                  fitness instructor.  The Judge also took  account  of  the
+                  aggravating factors of a group attack, an attack at  night
+                  and the attack being upon  a  vulnerable  person  who  was
+                  stalked.  The Judge concluded that the Appellant  did  not
+                  meet the statutory definition of 'dangerous'.   The  Judge
+                  was able to mitigate a 7-year sentence to one of 6 years.
+
+             (xv) The Appellant has clearly had a history of  violence  and
+                  dishonesty.  We have detailed the nature of his  offences.
+                  Two of the offences involve  dishonesty  in  the  form  of
+                  theft and it is also clear from what we have detailed that
+                  he has not been honest when apprehended in relation to the
+                  robbery. We found him to be a reluctant  witness  and  one
+                  who did not  always  tell  us  the  truth.   To  give  one
+                  example, with some reluctance  he  accepted  that  he  had
+                  spoken to his brother after his brother's  deportation  to
+                  Venezuela; L told us that the Appellant had also spoken to
+                  his brother whilst his brother was in detention.   We  did
+                  not believe the Appellant's evidence to the effect that he
+                  did not know why his brother had been  deported  and  that
+                  the reason for the deportation never came  up  during  the
+                  conversations.
+
+             (xvi)    Indeed, it was clear to us  that  the  Appellant  was
+                  seeking to minimise his connection with Venezuela and  his
+                  family there with a view to 'pulling  the  wool  over  our
+                  eyes'.
+
+             (xvii)   It was clear to us that the Appellant  does  enjoy  a
+                  very good relationship with L.  It was apparent  that  she
+                  had provided him with support over the years that  he  has
+                  been in the UK.  We had no reason to find other than  that
+                  she was a wholly honest  witness.   It  was  she  who  had
+                  represented him at school and when he was  interviewed  in
+                  relation to the robbery, and there was evidence of regular
+                  correspondence between him and her and of her visiting him
+                  in detention.
+
+             (xviii)  The evidence of Mrs P was less convincing.  We  noted
+                  that there was no reference at all to  Mrs  P  within  the
+                  comments which the Appellant made to the author of the Pre
+                  Sentence Report.  Mrs P clearly  does  not  have  a  solid
+                  grasp of the English language and gave her evidence via  a
+                  Spanish interpreter.  Her evidence was to the effect  that
+                  the Appellant would struggle in Venezuela because  he  had
+                  been in a Colombian-speaking household in the  UK.   This,
+                  however, ignored the fact that  he  was  living  with  his
+                  father and for some time his brother and sister.  It  also
+                  ignored  the  fact,  as  she  acknowledged  in  her   oral
+                  evidence, that there is not  a  great  deal  of  variation
+                  between  the  Spanish  spoken  in  Colombia  and  that  in
+                  Venezuela.  We also noted that a letter from a Pastor [JP]
+                  within the Appellant's bundle told us that  the  Appellant
+                  was 'a gifted communicator whose proficiency in conversing
+                  in English and Spanish with our church  members  has  been
+                  exemplary'.
+
+             (xix)    We found it significant  that  the  Appellant  has  a
+                  wider family in Venezuela than was known to  either  L  or
+                  Mrs P.  The Appellant told us that he has uncles and aunts
+                  on his mother's side and upon his father's side too.   The
+                  Pre Sentence Report paints a  different  picture  to  that
+                  which the Appellant has  attempted  to  paint  during  his
+                  appeal.  The author of the report, who saw  the  Appellant
+                  on two occasions, recorded that the  Appellant  could  not
+                  understand why he could  not  live  with  his  mother  and
+                  missed her a great deal.   He  told  the  author  that  he
+                  really missed his  mother  and  would  like  to  establish
+                  contact with her.  He told her that he still  had  a  good
+                  relationship with his brother and that  they  communicated
+                  from abroad and that she advised  the  Appellant  to  seek
+                  contact with his mother via his brother.
+
+             (xx) The Pre Sentence Report placed the Appellant as being  at
+                  a medium risk of re-offending and a medium risk of harm to
+                  the community.  It recorded that alcohol had played a part
+                  in his offending and that he had an inability  to  control
+                  his temper.  The  author  said:  'All  matters  have  been
+                  associated with violence  or  potential  violence  towards
+                  others and this is concerning'.   The  Appellant  told  us
+                  that at one stage he was drinking 2 to 3 bottles of brandy
+                  in a day every few days.  Sue Edwards  recorded  that  the
+                  Appellant was 'an angry young man  when  I  met  him,  but
+                  during our time together we discussed his alcohol use  and
+                  how  this  triggered  his  anger,  and  E  O  M  began  to
+                  understand that his  anger  came  from  how  he  had  been
+                  treated by his father fuelled his anger, and  the  use  of
+                  alcohol to release him from these  feelings  was  actually
+                  making things worse.'   She  recorded  that  whilst  being
+                  supervised the Appellant was attending college, paying his
+                  bills and taking responsibility  for  his  own  behaviour.
+                  She saw him mature and  effect  change  in  his  own  life
+                  during the time she worked with him.
+
+             (xxi)    We do take account of the letters  and  statement  of
+                  support for the appellant within his bundle."
+
+28. Having set out a number of domestic and Strasbourg authorities at paras
+    20-31 of its determination, the Tribunal concluded as follows  at  para
+    32:
+
+         "32. We have considered the provisions of Article 8 and  the  cases
+             to which we have referred and we find that  the  removal  does
+             interfere with private life for the purposes of Article  8(1).
+             In short, we find that there is an interference with the right
+             to  respect  for  private  life;  that  interference   is   in
+             accordance  with  the  law.   However,  we   find   that   the
+             interference  has  legitimate  aims   to   the   extent   that
+             immigration control and the prevention of crime is in itself a
+             legitimate aim."
+
+29. Then, in para 33 the Tribunal went on to consider  the  proportionality
+    of the appellant's deportation as follows:
+
+         33.  Finally, we find that the interference is proportionate  in  a
+             democratic society to the legitimate aim to be  achieved.   We
+             take full account of the Appellant's  circumstances,  that  he
+             has lived in the UK for 10  years  from  the  age  of  10  and
+             attended school where he appears to have done relatively well;
+             that he has a step-mother and step-sister in the UK  who  hold
+             him in regard and affection and came to  support  him  at  the
+             hearing; that there were documents showing support for him and
+             he is likely to have other friends too; that he is  relatively
+             young; that he has had a difficult and  challenging  childhood
+             and has been an  alcohol  abuser.   He  is  still  in  prison,
+             completing his sentence.  We were not told  about  his  future
+             living circumstances.  He has not shown remorse for the brutal
+             offence which had a serious impact  upon  the  victim  and  he
+             continues  to  deny  his  offending  in  that  respect.    The
+             appellant had been in the UK from the age of 10,  which  meant
+             that some of his formative years were spent here; on the other
+             hand, he had reached 10 immersed in the culture  of  Venezuela
+             and had lived with his Venezuelan family  members  of  father,
+             brother and sister in the UK, with his  father  until  only  a
+             year or so before his incarceration, and  his  mother  visited
+             him for some months in 2008, and he has been in  communication
+             with his brother since he was deported,  all  of  which  would
+             have maintained his cultural links.  He has maintained contact
+             with his brother in Venezuela and wanted to renew contact with
+             his mother.  He did commit his offences as a  youth,  but  the
+             offences appeared to have  not  been  simply  the  actions  of
+             immature youth, as they continued as he approached  adulthood.
+             We found it significant that,  after  committing  the  vicious
+             assault  upon  the  robbery  victim,  after  being   initially
+             remanded in custody for that  offence  and  then  remanded  on
+             strict bail conditions, he nevertheless went on to commit  two
+             further incidents of violence in August 2010  and  at  a  time
+             when he was being assisted by both L and the  Youth  Offending
+             Team and when he  was  about  to  start  his  sports  training
+             course.  The Appellant's private life in the UK appears to  be
+             of a shallow nature, with the exception  of  the  relationship
+             with L and his wish to continue his sports studies.   He  told
+             us he would like to continue his sports studies.   There  were
+             no actual plans for future training.  He appears to fit all of
+             the relevant factors outlined in N (Kenya), and we have  taken
+             full account of  the  Boultif  and  Maslov  guidance  and  the
+             guidance in the other cases  to  which  we  have  referred  in
+             concluding as we have.  The Appellant committed a very serious
+             offence followed by a  further  serious  offence  of  unlawful
+             wounding and has a background  of  offences  of  violence  and
+             dishonesty and alcohol abuse.  He spent the  majority  of  his
+             formative years (when his time in detention is discounted)  in
+             Venezuela with his family of mother, brother  and  sister  and
+             those family members  live  there  now.   He  will  not  be  a
+             stranger to the culture or  the  language.   He  can  maintain
+             contact with people in the UK in just the same way he has been
+             able to maintain contact with  his  family  (his  brother)  in
+             Venezuela to date, although we recognise that separation  from
+             L in particular, apart from visits she and Mrs P may  make  to
+             Venezuela, will hit him hard.  He will return as an adult with
+             skills in English and the benefit of a school  education.   We
+             also remind ourselves that the  Appellant  alone  has  brought
+             about his  current  situation;  he  has  committed  a  serious
+             offence despite the assistance he was given by L and Mrs P and
+             carried on committing offences  when  assisted  also  by  YOT.
+             Although he continues to deny the robbery offence, he  clearly
+             knew what he was doing was very wrong and dangerous to  others
+             and took the actions  that  he  did  take  in  committing  the
+             offences of robbery and  later  unlawful  wounding  with  that
+             knowledge.  When we consider the balance that we must,  we  do
+             not find that the deportation prejudices the private  life  of
+             the Appellant in a manner sufficiently serious to amount to  a
+             breach of the fundamental right protected by Article 8.  There
+             is here no Exception within Section 33 of UKBA."
+
+     2. Discusssion
+
+30. First, Mr Joseph submitted that the Tribunal had  been  wrong  to  rely
+    upon the pre-sentence report  prepared  by  the  Waltham  Forest  Youth
+    Offending Team on 21 February 2011.  He submitted that in relying  upon
+    the report's conclusion (at para 15(xx)) that the appellant presented a
+    "medium  risk  of  reoffending  and  a  medium  risk  of  harm  to  the
+    community", the Tribunal had failed  to  take  into  account  that  the
+    report was over two years old.  Mr Joseph did not submit  that  it  was
+    wrong for the Tribunal to have regard to it but it was  wrong  to  take
+    its views at face value given the passage of time.
+
+31. The difficulty with this submission is that no more recent evidence was
+    placed before the Tribunal.  It was, of course, open to  the  appellant
+    to present evidence  that  sought  to  demonstrate  that  his  risk  of
+    offending was other than stated in the PSR.  The Tribunal  referred  to
+    the letter from Sue Edwards, a Youth Justice Officer,  dated  19  April
+    2013 concerning the appellant's circumstances, as she saw them,  during
+    her dealings with him from July 2010 until June 2011.  (The latter date
+    must be an error since  the  appellant  was  sentenced  to  six  years'
+    detention on 3 March 2011).  It was, of course, during this  time  that
+    the appellant was convicted of the s.20 offence.  Mr Joseph was  unable
+    to point to any material which had been placed  before  the  First-tier
+    Tribunal in relation to the  appellant's  conduct,  behaviour  and  any
+    progress during his detention.  In these circumstances, it was properly
+    open to the Tribunal to accept the PSR report's finding as to his  risk
+    of reoffending.
+
+32. Secondly. Mr Joseph also submitted that  in  taking  into  account  the
+    appellant's s.20 offence committed whilst he was on bail for the  index
+    offence, the Tribunal failed to have regard to the circumstances  which
+    led to that offence.  That is unsustainable.  The offence is dealt with
+    on the third page of the PSR as follows:
+
+         "Through further discussion, [the appellant] informed me  that  the
+         circumstances surrounding the wounding with intent matter (sic)  he
+         was  at  a  family  gathering.   This  was  at  a  time  when   his
+         relationship with his father was particularly volatile and  he  got
+         into an argument with a relative who got intense and  he  assaulted
+         the relative by biting the man on his face.  The injuries  required
+         stitches.   [The  appellant]  informed  me  that  he  was   heavily
+         inebriated at the time."
+
+33. In para 15(ix), the Tribunal made specific reference to the PSR and the
+    circumstances of this offence.  It is simply untenable to suggest  that
+    the Tribunal did not have well in mind the circumstances which  led  to
+    the appellant's conviction for the serious violence offence under  s.20
+    of the Offences Against the Person Act  1861,  including  that  he  was
+    "heavily inebriated" at the time.
+
+34. Thirdly, Mr Joseph submitted that the Tribunal had been wrong  to  rely
+    on the PSR in concluding that the appellant had "not shown remorse" for
+    the offence and "continues to deny  his  offending".   This  submission
+    also fails in the face of no reliable evidence being placed before  the
+    Tribunal that the appellant's attitude has changed since the  PSR.   It
+    is not clear whether the appellant expressed any remorse  in  his  oral
+    evidence before the First-tier Tribunal.  But even if he did, which  is
+    doubtful, the Tribunal took a dim  view  of  the  appellant  whom  they
+    described in para 15(xv) as: "a reluctant witness and one who  did  not
+    always tell us the truth."
+
+35. Fourthly, Mr Joseph submitted that  the  Tribunal  had  also  erred  in
+    finding that the appellant  had  maintained  ties  with  Venezuela,  in
+    particular that he was in contact with his brother and that  he  wished
+    to renew contact with his mother  who  lived  there.   The  latter,  Mr
+    Joseph submitted, was again based on the PSR.  I do not understand  why
+    it is said that the PSR is unreliable in  respect  of  the  appellant's
+    intention to renew contact with his  mother.   There  was  no  evidence
+    before the Tribunal to which Mr Joseph directed my attention  that  the
+    appellant's intention had changed since he has been in  detention.   In
+    any event, as I have already referred to, the Tribunal simply  did  not
+    (having heard his evidence) consider the appellant  to  be  a  reliable
+    witness.  At para 15(vi) they stated:
+
+          "... it was clear to us that the appellant was seeking to minimise
+         his connection with Venezuela and his family there with a  view  to
+         'pulling the wool over our eyes'."
+
+36. The Tribunal had the advantage of seeing the appellant and hearing  him
+    give evidence.  There is no conceivable  legal  basis  for  undermining
+    this finding  based  upon  their  assessment  of  the  appellant.   The
+    Tribunal was entitled to find that the appellant  had  maintained  (and
+    wished to further) his links with his family in Venezuela  despite  the
+    fact that he had lived in the UK since 2003.   His  brother  had  lived
+    here previously before being himself deported to Venezuela.
+
+37. Fifthly, Mr Joseph challenged the Tribunal's finding in  para  33  that
+    apart from his  relationship  with  his  stepsister  and  his  wish  to
+    continue his sports studies: "The appellant's private life  in  the  UK
+    appears to be of a shallow nature".  Mr Joseph  drew  my  attention  to
+    evidence at pages 19 and 21 et seq relating to the appellant's life  in
+    the UK and supporting letters.  Mr Joseph submitted that the  appellant
+    had lived here for eight years before  being  detained  and  had  fully
+    integrated into the UK.
+
+38. The Tribunal dealt with the appellant's private life in the latter part
+    of para 33 of its determination.  Although  describing,  with  the  two
+    exceptions, the appellant's private life to be "shallow", the  Tribunal
+    commented that he could maintain contact with his friends and family in
+    the UK  and  particularly  recognised  that  his  separation  from  his
+    stepsister (with whom he had a close relationship) and his  stepmother,
+    "will hit him hard".   The  Tribunal  clearly  had  in  mind  that  the
+    appellant had lived in the UK since the age of 10 and that "some of his
+    formative years were spent here".  In my judgment, it  cannot  be  said
+    that the Tribunal erred in its assessment of the scope  and  nature  of
+    the appellant's private life in the UK.
+
+39. Finally, Mr Joseph submitted that the Tribunal's error in treating  the
+    appellant as being subject to the automatic deportation  provisions  of
+    the 2007 Act had tainted its assessment of proportionality under Art 8.
+    As I understood Mr Joseph's submission it  was  that,  in  effect,  the
+    Tribunal had necessarily given improper weight to the  public  interest
+    because, treating the appeal as one governed  by  the  UK  Borders  Act
+    2007, the Tribunal will have had in mind the  legislative  dictate  set
+    out in s.32(4) of the 2007 Act  that  "the  deportation  of  a  foreign
+    criminal is conducive to the public good."
+
+40. In my judgment, Mr Joseph's submissions on this issue simply do not hit
+    their target.  It is abundantly clear that the legislative  dictate  in
+    s.32(4) has nothing to do with the application of Art 8  itself.   That
+    is made clear by the initial phrase in  s.32(4)  that  the  legislative
+    dictate applies:
+
+         "for the purposes of section 3(5)(a) of the Immigration Act 1971".
+
+41. It is, of course,  clear  also  that  the  deportation  of  a  "foreign
+    criminal" is "conducive to  the  public  good"  even  if  the  "foreign
+    criminal" cannot be deported because that  would  breach  a  Convention
+    right, such as Art 8 and so the individual would fall with in Exception
+    1 in s.33(2) of the 2007 Act.  Section 33(7) makes this clear  when  it
+    states that:
+
+         "The application of an Exception -
+
+         .....
+
+         (b)  results in it being assumed neither that  the  deportation  of
+             the person concerned is conducive to the public good nor  that
+             it is not conducive to the  public  good;  but  section  32(4)
+             applies despite the application of  Exception  1  or  4."  (my
+             emphasis)
+
+42. The point, however, remains that, even in a case where an  individual's
+    deportation  would  breach  Art  8,  the  prerequisite  for  making   a
+    deportation order under s.3(5)(a) of the 1971 Act  nevertheless  exists
+    and, as s.33(7)(a) states, the application of an  Exception  "does  not
+    prevent the making of a deportation  order".   The  order  cannot  have
+    effect or be enforced if it would breach Art 8 of the ECHR to deport an
+    individual but there is, nevertheless, a lawful basis  for  making  the
+    order under ss. 3(5)(a) and 5 of the Immigration Act 1971.
+
+43. In short, therefore, s.32(4) would appear to have no relevance  to  the
+    question of whether an individual's deportation would breach Art 8 and,
+    in particular,  whether  the  legitimate  aim  of  the  "prevention  of
+    disorder or crime" outweighs the individual's right to respect for  his
+    or her private and family life.
+
+44. Further, whether a decision to deport an individual is or is not  based
+    upon the automatic deportation provisions in the UK Borders  Act  2007,
+    it is for the Tribunal (on appeal) to assess the weight to be given  to
+    the public interest reflected in  the  individual's  offending  and  to
+    weigh that against the individual's rights.
+
+45. Prior to the UK Borders Act 2007, the Court of Appeal in  a  series  of
+    cases beginning most prominently with N (Kenya) v SSHD [2004] EWCA  Civ
+    1094 set out the facets of the public interest that had to  be  weighed
+    against  an  individual's  interest,  both  in  deciding  whether   the
+    deportation was in accordance with the  (then)  Immigration  Rules  and
+    also in assessing whether  the  individual's  deportation  would  be  a
+    disproportionate interference with the right to respect for his  family
+    life.  The facets of the public interest were summarised by  Wilson  LJ
+    (as he then was) in OH (Serbia) v SSHD [2008] EWCA Civ 694 at  [15]  in
+    the following terms:
+
+         "(a) The risk of reoffending is one facet of  the  public  interest
+         but, in the case of very serious crimes,  not  the  most  important
+         fact.
+
+
+         (b)  Another important facet is the need to deter foreign nationals
+         from committing serious crimes by leading them to understand  that,
+         whatever the other circumstances, one consequence of them may  well
+         be deportation.
+
+
+         (c)  A further important facet is the role of a  deportation  order
+         as an expression of society's revulsion at serious  crimes  and  in
+         building public confidence in the treatment of foreign citizens who
+         have committed serious crimes.
+
+
+         (d)  Primary responsibility for the public interest, whose view  of
+         it is likely to be  wider  and  better  informed  than  that  of  a
+         tribunal, resides in the  respondent  and  accordingly  a  tribunal
+         hearing an appeal against a decision  to  deport  should  not  only
+         consider for itself all the  facets  of  the  public  interest  but
+         should weigh, as a linked but independent feature, the approach  to
+         them adopted by the respondent in the context of the facts  of  the
+         case."
+
+46. The subsequent case law of the Court of Appeal  makes  plain  that  the
+    public policy factors identified in OH (Serbia) continue  to  apply  in
+    automatic deportation cases.
+
+47. RU (Bangladesh) v SSHD [2011] EWCA Civ 651 is an automatic  deportation
+    case.  At [30]-[35], Aikens LJ (with whose judgment Longmore and  Elias
+    LJJ agreed) summarised the changes brought about by ss.32 and 33 of the
+    2007 Act.  At [36] he continued:
+
+         "36. Because, by statute, the deportation of 'foreign criminals' is
+             deemed to be  conducive  to  the  public  good,  I  think  the
+             constituents of that 'public good' must  continue  to  include
+             those particular facets of 'the public interest summarised  by
+             Wilson  LJ  in  OH  (Serbia)  and  set  out  at  [33]   above.
+             Therefore, if a 'foreign criminal' asserts that removal  by  a
+             deportation order pursuant to section 32(5) of the UKBA  would
+             be a  disproportionate  interference  with  his  Article  8(1)
+             rights, both the SSHD  and  any  reviewing  tribunal  must  be
+             obliged to take those public  interest  factors  into  account
+             when performing the 'proportionality' balancing exercise."
+
+48. At [37], Aikens LJ addressed two  questions.   First,  what  weight  is
+    generally to be attached  to  those  public  interest  factors  in  the
+    proportionality exercise; is it the same  or  more  than  was  accorded
+    under the pre-UKBA regime?;  and  secondly,  whether  any  separate  or
+    additional weight was to be given  to  the  Secretary  of  State's  own
+    judgment on the weight of those factors  as  expressed  in  a  decision
+    letter.  Aikens LJ continued at [37] and [38]:
+
+         "37. .... Both questions were raised, but not answered,  by  Sedley
+             LJ sitting in the Upper Tribunal, in his judgment  in  SSHD  v
+             BK.  The questions were also  raised  by  this  court  in  its
+             recent decision in AP (Trinidad and Tobago) v SSHD.   In  that
+             case counsel for the SSHD had not argued that  the  effect  of
+             the 2008 Act was that greater weight had to be  given  to  the
+             public interest factors in cases where  a  'foreign  criminal'
+             resisted a deportation order on  grounds  that  removal  would
+             infringe his Article 8 rights under the ECHR.  Nor did counsel
+             for the appellant (Mr Chirico) argue that the public  interest
+             factors in favour of deportation  summarised  in  OH  (Serbia)
+             were now less important in such cases.
+
+         38.  At [44] of his judgment in AP (Trinidad and  Tobago)  Carnwath
+             LJ said:
+
+                  '... Although the  executive's  policy  as  such  as  been
+                  superseded, it is readily inferred that the policy factors
+                  identified in OH (Serbia) were impliedly endorsed  and  if
+                  anything   reinforced,   by   Parliament's   intervention.
+                  Indeed, as  I  have  said,  Parliamentary  endorsement  is
+                  arguably a matter which should be taken  into  account  in
+                  giving greater weight to such  factors  when  drawing  the
+                  balance of  proportionality  under  Article  8.   Although
+                  [counsel for the SSHD] did not so argue, it seems a little
+                  surprising  (if  she  is  right)  that   this   apparently
+                  definitive statement by Parliament has made no  difference
+                  in practice, at least where any form of private or  family
+                  life is involved'."
+
+49. At [39], whilst recognising that it was not necessary  to  resolve  the
+    question in RU, Aikens LJ stated that:
+
+         "I respectfully agree with the view expressed by  Carnwath  LJ  ...
+         but these questions will be open for argument if relevant in future
+         cases."
+
+50. At [40], Aikens LJ reiterated that the policy factors identified in  OH
+    (Serbia) continued to apply in automatic deportation  proceedings.   He
+    said this:
+
+         "40. At all events on an  appeal  from  the  SSHD's  decision  that
+             section 32(5) applies in a case where the  'foreign  criminal'
+             has argued that  removal  pursuant  an  automatic  deportation
+             order  would  infringe  his  Article  8(1)   rights   and   be
+             disproportionate,  the  tribunal  or  court   concerned   must
+             recognise and give due weight to all the public policy factors
+             identified in OH (Serbia).  It must acknowledge that the  SSHD
+             is entitled, indeed obliged, to give due weight to them.   The
+             tribunal or court must also acknowledge and give due weight to
+             them when drawing the 'proportionality balance' under  Article
+             8(2)."
+
+51. Those  passages  may  appear  to  give  some  support  to  Mr  Joseph's
+    submissions that, in principle, the weight to be attached to the public
+    interest factor is greater in  an  automatic  deportation  appeal  when
+    carrying  out  the  balancing  exercise  inherent  in  proportionality.
+    Aikens LJ, nevertheless, left the matter open for future argument.
+
+52. As I have already indicated, it is perhaps not immediately apparent why
+    s.32(4), limited as it is  in  its  application  to  s.3(5)(a)  of  the
+    Immigration  Act  1971,  has  any  direct  relevance   when   assessing
+    proportionality under Art  8.   In  any  event,  [40]  of  Aikens  LJ's
+    judgment emphasises, in an automatic deportation case,  the  facets  of
+    public policy identified in OH (Serbia) remain the  essential  features
+    of an assessment of the legitimate aim of preventing disorder or  crime
+    under Art 8.2.  (Subsequently, the basis  principles  and  approach  in
+    automatic deportation cases were drawn together by the  Upper  Tribunal
+    in Masih (deportation - public interest -  basic  principles)  Pakistan
+    [2012] UKUT 00046 (IAC) at [11]).
+
+53. I must refer to two further decisions of  the  Court  of  Appeal.   The
+    first is Rocky Gurung v SSHD [2012] EWCA Civ 62 (Rix and McFarlane  LJJ
+    and Sir Stephen Sedley).   Sir Stephen Sedley (delivering the  judgment
+    of the Court of Appeal), having cited  [37]-[39]  of  the  judgment  of
+    Aikens LJ in RU (Bangladesh), addressed at [11]-[12] the two  questions
+    posed by Aikens LJ as follows:
+
+         "11. ... The answers, in our view, are those advanced  or  accepted
+             by Ms Giovannetti and Mr Chirico in RU and by  Charles  Bourne
+             (for the Home Secretary) and Zane Malik (for Mr Gurung) in the
+             present case.  The public interest is not only to  be  treated
+             as by definition  served,  subject  to  the  United  Kingdom's
+             international obligations, by deporting foreign criminals;  it
+             is  also  among  the  factors   capable   of   affecting   the
+             proportionality of deporting them if this arises.  This  means
+             that, while the public interest  in  deportation  has  already
+             been established by legislation, its content and extent in the
+             particular case have to be separately evaluated, initially  by
+             the  Home  Secretary  and  thereafter  if  necessary  by   the
+             tribunal, if the proportionality  of  deportation  comes  into
+             question.
+
+         12.   The  tribunal  should  accordingly  entertain   both   sides'
+             submissions on the public interest, along with  such  elements
+             as the nature and gravity of the offence; but  the  fact  that
+             one estimation  of  the  public  interest  (or  of  any  other
+             element) is the Home Secretary's, whether leaning  towards  or
+             against  deportation  in  the  particular  case,  commands  no
+             additional weight.  To let it do so - as counsel for the  Home
+             Secretary have implicitly recognised - would be to  upset  the
+             equal footing on which  the  Crown  and  the  individual  come
+             before this country's tribunals and  courts,  not  least  when
+             Parliament has  already  decided  where,  other  things  being
+             equal, the public interest lies.  It would also impinge on the
+             independence and impartiality of the tribunal by requiring  it
+             to defer to one side's judgment of a material question."
+
+54. Rocky Gurung was an automatic deportation case.   Sir  Stephen  Sedley,
+    delivering the judgment  of  the  Court  of  Appeal,  agreed  with  the
+    submission that had been made by both Counsel in RU and by both Counsel
+    in Rocky Gurung that, first the public interest factors  summarised  in
+    OH (Serbia) were no less important in  automatic  deportation  appeals;
+    secondly that the effect of s.32(4) of the 2007 Act made "no difference
+    in practice" in assessing proportionality under Art 8.2; and thirdly, a
+    Tribunal was required to consider, for itself, the "content and extent"
+    of the public interest having regard to  the  public  interest  factors
+    summarised in OH (Serbia).
+
+55. Finally, there is the case of AM v SSHD [2012]  EWCA  Civ  1634  (Ward,
+    Elias and Pitchford LJJ).  That case was also one  concerned  with  the
+    automatic deportation provisions in the 2007 Act.  Pitchford LJ, having
+    cited earlier Court of Appeal case  law  such  as  N  (Kenya),  and  RU
+    (Bangladesh), continued at [29]:
+
+         " ... It follows, as Sir Stephen Sedley  said  at  paragraph  9  of
+         Gurung  v  SSHD  [2012]  EWCA  Civ  62  when  commenting  upon   RU
+         (Bangladesh) that there is no longer any requirement upon the  Home
+         Secretary to form her own view of the public interest in  deporting
+         a foreign criminal who is sentenced to  not  less  than  12  months
+         imprisonment.  She is bound by section 32 (subject to 33)  to  make
+         an order for deportation when the  conditions  of  section  32  are
+         satisfied."
+
+56. Citing [9] of Sir Stephen Sedley's judgment  in  Gurung,  Pitchford  LJ
+    recognised that the effect of s.32(4) was to provide the  lawful  basis
+    (without the need for specific consideration by the Secretary of State)
+    for the making of a deportation order as being conducive to the  public
+    good under s.3(5)(a) and s.5 of the Immigration Act 1971.
+
+57. Having cited, without dissent, [11] and [12] of the judgment in  Gurung
+    (which I set out above), Pitchford LJ set  out  the  facets  of  public
+    policy in Wilson LJ's  judgment  at  [16]  in  OH  (Serbia).   At  [31]
+    Pitchford LJ continued as follows:
+
+         "31. While the landscape  for  qualification  for  deportation  has
+             changed in consequence of the 2007  Act  by  the  creation  of
+             'automatic deportation' of 'foreign criminals',  it  seems  to
+             me, in agreement with Aikens LJ in  RU  (Bangladesh)  and  Sir
+             Stephen  Sedley  in  Gurung,  inevitable  that  in   measuring
+             proportionality  the  public  interest  in  deterrence  is   a
+             material and necessary consideration.  The public interest  is
+             an important component of the balancing exercise  required  to
+             test proportionality (for the  purpose  of  section  33(2)(a))
+             whether or not the Secretary of State expressly says so in her
+             decision letter or in the presenting officer's submissions  to
+             a tribunal.  It is  an  indelible  feature  of  the  balancing
+             exercise that the decision maker weighs  the  consequences  of
+             deportation against the full import of the legitimate  aim  to
+             be achieved."
+
+58. Pitchford LJ continued  to  recognise  the  centrality  of  the  public
+    interest facets summarised in OH (Serbia) and the need for the Tribunal
+    to assess those facets and to weigh them against the  individual  right
+    to respect for his or her private and family life.
+
+59. In a concurring  judgment,  Elias  LJ  (agreeing  with  Pitchford  LJ's
+    reasons)  adopted  the  same  approach.   At  [42]  he  emphasised  the
+    continuing importance  of  N  (Kenya)  and  OH  (Serbia)  in  automatic
+    deportation cases:
+
+         "42.  The  decisions  of  this  court  in  N  (Kenya),  OH  and  RU
+             (Bangladesh) all emphasise the importance of a tribunal giving
+             full weight to these different aspects of the public  interest
+             in the proportionality assessment."
+
+60. Elias LJ went on to analyse the approach of the First-tier Tribunal  in
+    that appeal to Article 8 applying  the  principles  enunciated  by  the
+    Strasbourg Court in its leading  case  law  of  Boultif  v  Switzerland
+    [2002] 33 EHRR 117; �ner v Netherlands [2007] INLR  273  and  Maslov  v
+    Austria [2008] ECHR 508.
+
+61. Ward LJ in  his  concurring  judgment  agreed  with  the  reasoning  of
+    Pitchford and Elias LJJ.
+
+62. Drawing the threads of the Court of Appeal's case law  together,  there
+    is no basis for the premise of Mr Joseph's submission that the Tribunal
+    in this appeal  must  have  approached  the  balancing  exercise  under
+    Article 8.2 wrongly because the legislative dictate in s.32(4) resulted
+    in the Tribunal (necessarily) placing improper weight upon  the  public
+    interest arising in from the appellant's offending.  The case  law,  in
+    particular Gurung, provides  no  basis  for  such  a  submission.   The
+    correct approach remains that summarised in OH (Serbia) and requires  a
+    Tribunal to evaluate for itself the "content and extent" of the  public
+    interest.
+
+63. In this appeal, that is precisely what the Tribunal did.  I  am  in  no
+    doubt that the Tribunal carried out the  balancing  exercise  properly.
+    The Tribunal applied the five-stage approach in Razgar [2004] UKHL  27.
+    At para 32 the Tribunal concluded that Art 8.1 was engaged on the basis
+    that the appellant's deportation interfered with his "private life" and
+    concluded that that interference was in accordance with the law and for
+    a legitimate aim.  None of that is challenged.
+
+64. The Tribunal set out [15] of Wilson LJ's judgment  in  OH  (Serbia)  at
+    para 31 of its determination.  The  Tribunal  also  set  out,  at  some
+    length, extracts from the relevant Strasbourg decisions in  �ner  (para
+    28), Maslov (para 30) and Balogun v UK [2013] 56 EHRR 3 (at  para  29),
+    the latter repeating  the  so-called  Boultif  criteria  and  additions
+    thereto made by the Strasbourg Court in �ner.
+
+65. In para  33,  the  Tribunal  dealt  with  the  serious  nature  of  the
+    appellant's offending and noted, as they were entitled to do, that  the
+    appellant had committed further serious offences whilst on bail for the
+    index offence.  The Tribunal made a number of findings, none  of  which
+    can successfully be challenged,  concerning  the  appellant's  lack  of
+    remorse and his continued denial of the offending.  The  Tribunal  also
+    considered the appellant's circumstances in the UK, in  particular  his
+    relationship with his stepsister and stepmother.  The  Tribunal  found,
+    and  again  this  finding  is  unassailable,  that  the  appellant  had
+    maintained contact with his brother in Venezuela and that  it  was  his
+    wish to renew contact with his mother who lived  there.   The  Tribunal
+    noted that the appellant's index offence of robbery for  which  he  was
+    sentenced to six years' detention, was a "very serious  offence"  which
+    had been followed by a "further serious offence of  unlawful  wounding"
+    and there was a background of offences of violence and dishonesty.  The
+    Tribunal was well aware that the appellant had come to the  UK  at  the
+    age of 10, that he had spent some of his formative years here  but  had
+    maintained  cultural  links,  having  lived  with  "Venezuelan   family
+    members" in the UK.  The Tribunal had well in mind that the appellant's
+    offending had  occurred  as  a  youth  but  noted  that  the  offending
+    continued "as he approached adulthood".  The Tribunal  was  well  aware
+    that the appellant had indefinite leave to remain  which  he  had  been
+    granted in May 2008.  At para  30,  the  Tribunal  cites  the  relevant
+    passage in the Strasbourg Court judgment in Maslov (namely [75]) that:
+
+         "In short, the Court considers that for a settled migrant  who  has
+         lawfully spent all or the major part of his or  her  childhood  and
+         youth in the host country very  serious  reasons  are  required  to
+         justify expulsion.  This is  all  the  more  so  where  the  person
+         concerned committed the offences underlying the  expulsion  measure
+         as a juvenile." (my emphasis)
+
+66. In this appeal, the appellant  could  only  establish  that  he  had  a
+    private life in the UK.  It is not  suggested  that  his  relationships
+    gave rise to "family life".  The proper approach is set out  in  Maslov
+    at [71]-[74] which was  cited  by  the  Tribunal  at  para  30  of  its
+    determination.  At [71], the Strasbourg Court said this:
+
+         "In a case like the present, where the person to be  expelled  s  a
+         young adult who has not yet  founded  a  family  of  his  own,  the
+         relevant criteria are:
+
+
+         -    the nature and seriousness of the  offence  committed  by  the
+             applicant;
+
+
+         -    the length of the applicant's stay in the country  from  which
+             he or she is to be expelled;
+
+
+         -    the time elapsed since  the  offence  was  committed  and  the
+             applicant's conduct during that period;
+
+
+         -    the solidarity of social, cultural and family  ties  with  the
+             host country and with the country of destination."
+
+67. In setting out its findings at para 15 and in assessing proportionality
+    in para 33 of its determination, the Tribunal  fully  considered  these
+    factors and the Strasbourg Court's view  that  "very  serious  reasons"
+    were required to justify expulsion.  Mr Joseph did  not,  in  his  oral
+    submissions, argue that the Tribunal failed to apply  the  approach  in
+    Maslov or that its conclusion  in  assessing  proportionality  was  not
+    properly open to the Tribunal on the basis  of  irrationality.   Given,
+    however, that that is suggested in general  terms  in  para  7  of  the
+    grounds, and given that this appeal concerns the deportation of a young
+    adult who has lived in  the  UK  for  ten  years,  I  have  thought  it
+    appropriate to look beyond Mr Joseph's submissions in this regard.
+
+68. For the reasons I have given above, I am satisfied  that  the  Tribunal
+    fully took into account the appellant's circumstances, both in  the  UK
+    and if deported and, having regard to the nature and seriousness of his
+    offending even though committed as a juvenile, the Tribunal did not err
+    in law in reaching its finding that the appellant's deportation  was  a
+    proportionate interference with his private life in the UK.
+
+Decision
+
+69. The First-tier Tribunal's decision to dismiss the  appeal  stands.  Any
+    error of law by the Tribunal  was  not  material  to  its  decision  to
+    dismiss the appellant's appeal in reliance upon Art 8 of the ECHR.
+
+70. The appellant's appeal to the Upper Tribunal is dismissed.
+
+
+
+
+
+
+                                                                      Signed
+
+                                                                     A Grubb
+                                                 Judge of the Upper Tribunal

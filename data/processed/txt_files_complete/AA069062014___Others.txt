@@ -1,0 +1,2835 @@
+
+[pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)     Appeal Number: AA/06906/2014
+                                                                    & Others
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                          |Decision & Reasons Promulgated|
+|On 27 June 2017                               |On 30 August 2017             |
+|                                              |                              |
+
+                                   Before
+
+                      MR C M G OCKELTON, VICE PRESIDENT
+                        UPPER TRIBUNAL JUDGE O'CONNOR
+                         UPPER TRIBUNAL JUDGE SMITH
+
+
+                                   Between
+
+
+                          MM v SSHD (AA/06906/2014)
+                            EDO AND OTHERS v SSHD
+        (HU/01879/2015; HU/01881/2015; HU/01882/2015; HU/01883/2015)
+                       SSHD v KHATTAB (HU/13552/2015)
+                        SSHD v COMERY (IA/00866/2016)
+                    SSHD v BOATENG-DANSOH (IA/23617/2015)
+                         SSHD v KAUR (IA/30887/2015)
+                      SSHD v BOPOLONGA (IA/31116/2015)
+                 SSHD v BOATENG AND BEMPONG (IA/31918/2015)
+                         SSHD v WANG (IA/32046/2015)
+                        SSHD v OKPALA (IA/32286/2015)
+                        PATEL v SSHD (IA/32901/2015)
+                        ECO v STEPHEN (OA/07779/2015
+                       SSHD v SHINWARI (RP/00104/2016)
+
+
+                            DECISION AND REASONS
+
+INTRODUCTION
+
+ 1. The Tribunal has arranged to hear in the same list a number of  appeals
+    from a single judge, Judge Majid.  This no  doubt  unusual  arrangement
+    has been prompted by the following factors.  First, many  decisions  by
+    judge Majid give rise to  successful  applications  for  permission  to
+    appeal.   Secondly,   the   grounds   of   appeal   have   considerable
+    similarities: they  frequently  include  assertions  that  insufficient
+    reasons are given for even a  well-informed  reader  to  work  out  the
+    reasons for the decision, that there is no reference in the decision to
+    the relevant law or the contested facts, and sometimes that there  were
+    problems of communication or of fairness during the hearing.   Thirdly,
+    the determinations themselves are very short and substantial  parts  of
+    them are word for word the same, or nearly so,  from  determination  to
+    determination, leaving only relatively small  parts  dealing  with  the
+    individual case. Thus, despite the dissimilarities between the  appeals
+    before the First-tier Tribunal that are  determined  by  Judge  Majid's
+    decisions,  the  numerous  appeals  from  them  to  this  Tribunal  are
+    essentially similar and raise similar issues.
+
+ 2. We are aware of the dangers that may be posed by collecting together  a
+    number of appeals in this way.  There is the possibility that  we  will
+    be influenced in making our decision on any appeal by factors  that  do
+    not in truth belong to that appeal.  There is also  the  difficulty  of
+    reputation:  parties  and  judges  may,  whether  consciously  or  not,
+    attribute faults to a judge only for the bad reason  that  there  is  a
+    weight of opinion against him.  On the  other  hand,  when  a  body  of
+    appeals sharing characteristics such as those set out above  are  heard
+    together, we have the advantage of comparison, and in the present  case
+    we have decided that it is necessary in the interests of  justice  that
+    as well as deciding the individual  appeals  on  their  own  merits  we
+    should consider the Judge's work as it appears in these decisions as  a
+    whole.  It is only by making comparisons that it  is  possible  to  say
+    whether a particular paragraph or series of paragraphs is indeed common
+    to several determinations.  It is only by making comparisons that it is
+    possible to say whether a  particular  apparent  error  is  the  result
+    merely of a slip, or whether it pervades a judge's work.
+
+ 3. There is a further factor, which we express with considerable  caution.
+    It is this.  In the Upper Tribunal we hear numerous appeals in which  a
+    single point of error or omission is said to  be  discoverable  in  the
+    determination under appeal.  We have, of course, no duty to the  First-
+    tier Tribunal or its judges, other than perhaps  to  be  clear  in  any
+    guidance we give to them: our duties are to the law,  the  parties  and
+    the interests of justice.  Nevertheless, in undertaking those duties we
+    are likely to make our decisions on the assumption that each appeal  is
+    from a decision of a judge who has been  duly  appointed  and  trained,
+    and, broadly speaking, may be considered to know and do the job with  a
+    degree of skill and competence.  The overwhelming majority of decisions
+    under appeal are capable of giving the reader confidence that  that  is
+    the case.   Where  there  is  an  omission  or  slip  in  an  otherwise
+    apparently wholly competent and careful judgment it may well be that on
+    appeal the proper conclusion is that the judge  did  have  the  correct
+    facts, or law, or principle in mind, and that the point  on  which  the
+    appeal is brought is therefore without  merit.   That  is  one  of  the
+    reasons why any alleged error must be looked at in the context  of  the
+    decision as a whole.  This is the universal  experience  of  those  who
+    take judicial decisions on the work of others,  whether  on  appeal  or
+    review.
+
+ 4. It would, however, be quite wrong for those determining appeals to make
+    assumptions about the merits of a particular  ground  of  appeal  in  a
+    context that does not apply to the judge in question.   If,  therefore,
+    it should be that review of a judge's decisions leads to the conclusion
+    that there is something lacking in the  skill  or  competence  that  he
+    brings to his task, it is right that we should  say  so.   A  suspicion
+    that might arise from examining only  one  case,  as  is  normally  the
+    position on appeal, may be either  confirmed  or  wholly  dispelled  by
+    examining a group of cases.
+
+ 5. We are also aware that Judge Majid has a  physical  disability:  he  is
+    blind.  Indeed, he mentions that expressly or by implication in several
+    of the decisions under appeal. We understand that the statutory duty to
+    make reasonable adjustments is carried  out  by  the  provision  of  an
+    assistant to help him to appreciate the contents of documents.  It  may
+    be wholly unreasonable to expect him to assimilate a complex matter  in
+    writing at short notice.  But it is not, and indeed  cannot  reasonably
+    be, suggested that blindness prevents a  person  learning  or  applying
+    law, or performing the crucial judicial tasks of hearing both sides and
+    reaching, and  expressing,  a  properly  reasoned  conclusion.   It  is
+    failure in these areas that form the  grounds  of  appeal  we  have  to
+    consider.
+
+ 6. We each have considered all the issues raised by each of  the  appeals,
+    and we have each made substantial contributions to  this  decision.  In
+    this general part of our decision (paras [7] - [47]), we consider those
+    issues that appear to us to be common to many or all of  the  decisions
+    under appeal.  It is to be read with the decisions  on  the  individual
+    appeals, which follow.
+
+THE JUDGE'S TASK
+
+ 7. In every one of the decisions under appeal there occurs  the  following
+    paragraph, word for word or very nearly so:
+
+          "I reminded myself of the judgment of Henry J (later  on  promoted
+          to be a Lord Justice) in ex parte Gondolia [1991]  Imm  A.R.  519.
+          It is not incumbent upon me  to  isolate  every  single  piece  of
+          evidence and indicate whether I have  found  it  relevant  to  the
+          issue.  I am only obliged  by  the  superior  precedents  to  give
+          "sufficient and adequate" reasons and I am not  under  a  duty  to
+          refer to each and every piece of evidence and  it  therefore  does
+          not follow that because I have not referred to certain facts, they
+          have not been taken into account."
+
+ 8. It is perhaps worrying that the judge finds it necessary to resist  the
+    hypothetical critic of his decision on the ground of lack of detail; it
+    would in addition be surprising if a sentiment in an extempore judgment
+    on  judicial  review  of  the  Immigration  Appeal  Tribunal   refusing
+    permission to appeal in a primary purpose appeal in the late 1980s were
+    today to be regarded as the locus classicus on the duties of a Judge of
+    the First-tier Tribunal.  In fact, not  merely  does  the  judgment  in
+    Gondolia not appear to contain any such guidance as that cited, but  it
+    is impossible to draw such general wisdom from it either.  The decision
+    of this Tribunal in Kalim v SSHD  (IA/30716/2014)  contains  a  careful
+    examination and analysis of Gondolia by  Deputy  Upper  Tribunal  Judge
+    O'Ryan, which we endorse and adopt with gratitude. That was  an  appeal
+    by an appellant against a decision of Judge Majid, so  although  it  is
+    unreported it is highly likely that  it  was  brought  to  the  Judge's
+    attention.   The appellant complained that  the  Judge  had  failed  to
+    consider  the  relevant  Immigration  Rules,  failed  to  consider  the
+    evidence, failed to make findings of fact, and failed to give  adequate
+    reasons for his conclusion.  The judge found that the  inadequacies  of
+    the determination demanded that it  be  set  aside,  with  no  findings
+    preserved.
+
+ 9. It is difficult to see that there could be  any  good  reason  for  the
+    judge to cite Gondolia.  His doing so, and the  words  surrounding  the
+    citation, suggest not merely that he has not read  (or  has  forgotten)
+    Gondolia itself, but that he  has  also  not  read  any  of  the  other
+    numerous decisions on the duties of a judge in this regard.  Even if he
+    wanted to confine himself to the  era  of  Gondolia,  the  judge's  own
+    research ought to have led him to the words of Schiemann J in R  v  IAT
+    ex p Mohd Khan [1992] Imm AR  367, 374, another primary  purpose  case:
+
+
+
+
+          "In my judgment adjudicators should indicate with some clarity in
+             their decisions:
+             (1) what evidence they accept;
+             (2) what evidence they reject;
+             (3) whether there is any evidence as to which they cannot make
+             up their mind
+                      whether or not they accept it;
+             (4) what, if any, evidence they regard as irrelevant."
+
+10. That view might be regarded as the opposite  extreme,  and  would  have
+    revealed to any inquiring lawyer that Henry J could not be regarded  as
+    having had the last word.  The  Judge  should  also  be  aware  of  the
+    starred judgment of the IAT in Slimani v SSHD (01/TH/00092), binding on
+    him, in which Collins J as President points out that it is wrong to try
+    and follow a checklist, but that it is in all cases necessary  to  give
+    proper reasons.
+
+
+           "7.   ... It is of course  essential  that  proper  reasons  are
+               given by adjudicators and (albeit now only in summary  form)
+               by the tribunal. But it is not necessary to deal  in  detail
+               with every matter; the  reasons  need  only  deal  with  the
+               substantial points which have been raised: see Re  Poyser  &
+               Mills Arbitration [1964] 2 Q.B.  467.  They  must  tell  the
+               losing party why he has lost and enable  him  to  appreciate
+               whether  there  has  been  any  appealable  error.  In  Save
+               Britain's Heritage v Secretary of State for the  Environment
+               [1991] 1 WLR 153, Lord Bridge said this:-
+
+
+                      "The three criteria suggested in the dictum of  Megaw
+                 J [in Re Poyser & Mills Arbitration] are that  the  reasons
+                 should be proper, intelligible and adequate. If the reasons
+                 given are improper  they  will  reveal  some  flaw  in  the
+                 decision-making process which will be open to challenge  on
+                 some ground other than the failure to give reasons. If  the
+                 reasons given are unintelligible, this will  be  equivalent
+                 to giving no reasons  at  all.  The  difficulty  arises  in
+                 determining whether the reasons given are adequate, whether
+                 they deal with the substantial points that have been raised
+                 or enable the reader to know what conclusion the  decision-
+                 maker has reached on the  principal  controversial  issues.
+                 What degree of particularity is required? I  do  not  think
+                 one can safely say more in  general  terms  than  that  the
+                 degree of particularity required will  depend  entirely  on
+                 the nature of the issues falling for decision".
+           ...
+               9.  ...  The observations of Schiemann, J in R v  I.A.T.  ex
+                 p. Amin [1992] Imm AR 367 at 374 are all too often cited as
+                 if they were a  statutory  requirement  and  are  regularly
+                 misunderstood. ...  Those observations were in the  context
+                 of a failure by the adjudicator to  give  adequate  reasons
+                 for her findings  on  primary  purpose  in  relation  to  a
+                 marriage  application  and  the  headnote  in  the   report
+                 correctly refers to the observations  under  that  heading:
+                 see [1992] Imm A.R. 367 Heading 3. They  do  not  mean  nor
+                 could the learned judge have intended that they should mean
+                 that an adjudicator must carry out the  exercise  specified
+                 in them in relation to all the evidence given before him.
+
+
+               10.  But even in  relation  to  specific  issues  which  are
+                 material and which have to be properly  reasoned,  they  go
+                 too far. The reality is that it is quite impossible to  set
+                 out a detailed check list of  what  must  be  done  in  all
+                 cases. It will in many cases be quite  unnecessary  to  set
+                 out evidence  regarded  as  irrelevant;  indeed,  very  few
+                 judges would recognise that as an exercise they  carry  out
+                 in  giving  judgment  following  a  trial.   Equally,   the
+                 circumstances will dictate  whether  there  is  a  need  to
+                 identify the evidence upon which they cannot make up  their
+                 minds, although  in  deciding  on  credibility  it  may  be
+                 necessary to deal with such  evidence.  The  only  guidance
+                 needed is that the conclusions reached  must  be  justified
+                 and  it  must  be  clear  that  any  adverse  findings   in
+                 particular are based on evidence put before the adjudicator
+                 or the tribunal and a proper explanation must be  given  to
+                 show why the conclusions on the issues  of  substance  have
+                 been  reached.  We  have  no  wish  to  encourage   lengthy
+                 decisions. Succinctness  is  a  virtue  provided  that  the
+                 guidance given by Lord Bridge which we have  already  cited
+                 is followed and the decision does show why the findings  of
+                 material fact have been made and the important  conclusions
+                 have been reached."
+
+11. In giving his decision in Kalim, the Deputy Judge referred also to  the
+    decision of this Tribunal, given by the President, in MK (duty to  give
+    reasons) [2013] UKUT 641 (IAC), of which again Judge Majid should  have
+    been aware.  The headnote is as follows:
+               "(1)   It is axiomatic that a determination discloses
+               clearly the reasons for a
+                        tribunal's decision.
+                 (2)  If a tribunal finds oral evidence to be implausible,
+                    incredible or unreliable or a document to be worth no
+                    weight whatsoever, it is necessary to say so in the
+                    determination and for such findings to be supported by
+                    reasons. A bare statement that a witness was not
+                    believed or that a document was afforded no weight is
+                    unlikely to satisfy the requirement to give reasons."
+
+12. The decision itself cites another statement to the same effect, by Lane
+    CJ in R v IAT ex parte Khan [1983] QB 790.
+
+13. The second half of Judge Majid's Gondolia paragraph is a not inaccurate
+    statement of the position that might be taken on an  appeal  against  a
+    First-tier Tribunal decision, but it is odd to find it given as a  sort
+    of excuse.  The truth of the matter is that if there is anything in the
+    judge's  mind  as  something  that  a  party  might   consider   needed
+    mentioning, then it should be mentioned and  dealt  with,  rather  than
+    being omitted with an explanation such as this.
+
+14. Any assurance that the reader of a decision might derive from  what  is
+    said in that paragraph  is,  however,  likely  to  be  put  in  serious
+    question by what follows, again in each case and again word for word or
+    more or less so:
+
+           "I am  concerned  only  with  "dispositive"  reasons  which  are
+           obviously relevant to my  Decision  -  of  course  "dispositive"
+           means that the reason involved enables me to deal with an  issue
+           fairly.  An example of that is if a person is getting the income
+           of �1,000,000 per annum then the "maintenance"  issue  is  dealt
+           with if I have reliable evidence for this datum and I  need  not
+           spend time giving reasons for matters I deem to be "marginal".
+
+15. This is wholly obscure.  The first half of the first  sentence,  before
+    the dash, looks as though it might be intended as a  reference  to  the
+    principle that irrelevant matters usually do not need to be included in
+    a decision, although of course even that is not a universal rule.  Even
+    interpreted  like  this,  however,  the  words  pose   some   problems.
+    'Obviously' does not seem right, because the question  is  whether  the
+    matters are relevant, not whether they  are  obviously  relevant.   The
+    whole phrase beginning 'which' seems to suggest  that  there  are  some
+    '"dispositive" reasons' that are not obviously relevant and so  do  not
+    concern the judge.  And it is far from  clear  exactly  what  'reasons'
+    itself means: in the context it looks as though it is  a  reference  to
+    the facts that might need to be found in order  to  establish  a  legal
+    entitlement, but 'reasons' is not the word for that.  Perhaps it  means
+    the judge's expressed reasons for his findings, but in that  case  what
+    is said seems to become even more obscure.  No light  is  shed  by  the
+    words following the dash.  Nothing in a judge's  consideration  can  be
+    other  than  dealing  with  any  issue  fairly.   If  that  is  what  a
+    dispositive reason means, then it is the whole  of  the  judge's  work.
+    One might have expected that a statement of this  sort  would  indicate
+    that the crucial things that need mentioning are those that  have  been
+    the subject of concern between the parties and (or) those that regulate
+    the outcome of the litigation.  That,  however,  is  clearly  not  what
+    Judge Majid is saying here.
+
+16. There is then the example.  The obscurity  deepens.   If  there  is  an
+    issue as to 'maintenance', the judge will need  to  determine  it,  and
+    give reasons for his conclusion.  It is impossible  to  conceive  of  a
+    case where that would not be true; and the fact that  the  judge  might
+    consider that he had 'reliable  evidence  for  this  datum'  would  not
+    absolve him from the duty of expressing his decision  and  the  reasons
+    for it.  It could not be 'marginal'.   There  is,  however,  a  further
+    concern that arises from this  example.   The  issue  has  always  been
+    whether maintenance is 'adequate'; and it is difficult to see  how  the
+    mere fact that 'a person is getting the income of �1,000,000 per annum'
+    could answer 'the "maintenance" issue.  It would depend what  was  left
+    out  of  that  income,  after  other  commitments,  for  the  requisite
+    maintenance.
+
+17. We are of course aware that a judicial decision is not a  statute,  and
+    is not to be subject to the same process  of  detailed  interpretation.
+    The problem here, however, is that the paragraph in question  does  not
+    appear to be intelligible whatever process of interpretation is applied
+    to it.  We accept that none of the above concerns  would  be  of  great
+    importance if the rest of the decisions showed that whatever he said in
+    these paragraphs the judge was aware of what he needed to do,  and  did
+    it.  Unfortunately, that is not the case.
+
+SUBSTANTIVE LAW
+
+18. In many of the decisions Judge Majid says this:
+
+          'I  cannot  ignore  the   "legal   requirements"   stipulated   by
+          immigration law.  It is incumbent upon me to  advert  to  the  new
+          Rules giving respect to the intention  of  the  House  of  Commons
+          dictated by the supremacy of Parliament.'
+
+19. That is  perhaps  confused  as  an  exposition  of  the  constitutional
+    position, but certainly the judge's job is to apply  the  law.   It  is
+    perhaps a little surprising that this passage seems only to come at the
+    very end of his decisions, almost as an afterthought, and is  sometimes
+    followed immediately, in the next sentence,  by  a  demonstrably  wrong
+    statement of the law to be applied.  We may give examples:
+
+
+          'The Appellant can benefit from the relevant Rules because she  is
+          a genuine student who should be helped' (in a case  in  which  the
+          question was whether the student met the detailed requirements  of
+          the rules and the judge did not find that she had met them; he had
+          no power to 'help' her)."[Kaur: IA/30887/2015]
+
+
+          'The Appellant ought [sic] to  benefit  from  the  relevant  Rules
+          since the compassionate circumstances of the  case  lead  to  that
+          conclusion" (in a  case  where  the  relevant  Rules  are  neither
+          identified nor applied by  the  Judge,  and  do  not  include  any
+          provision  for  compassionate   circumstances).   [Boateng-Dansoh:
+          IA/23617/2015]
+
+
+          "The Appellant should be aware  that  the  current  fiscal  crisis
+          cannot allow judges to permit people to  remain  in  the  UK  when
+          British citizens need jobs" (not surprisingly, this  sentiment  is
+          not found in  any  of  the  law  the  Judge  was  supposed  to  be
+          applying). [EDO and others: HU/01882/2015]
+
+
+          'The Appellant cannot benefit from the relevant Rules because  the
+          evidence he had presented to the Respondent has led it to make the
+          negative decision" (confirming what might otherwise have been only
+          a suspicion from the previous paragraph that  the  judge  did  not
+          appreciate he had to make the decision himself, which is confirmed
+          again at the end of the decision: the "negative decision about the
+          deception is "reasonable" and [the appellant] "is stuck with it").
+          [Patel: IA/32901/2015]
+
+
+          "The Appellant can benefit from the relevant rules and the
+          discretion advocated by the Superior Courts" (in a case in which
+          neither the rules nor discretion was in issue). [Okpala:
+          IA/32286/2015]
+
+20. Many of the cases depend on the application of the  Immigration  Rules.
+    Taken  as  a  whole,  those  rules  are  notoriously  complex,  but  an
+    individual case usually raises a specific issue on the  application  of
+    one or more provisions of the Rules to the facts.  Judge  Majid  refers
+    in general terms to the Rules, but  in  none  of  the  decisions  under
+    appeal does he set out the part of the Rules that is in issue,  and  to
+    be frank, in none of the decisions under appeal does he give the  least
+    reason to suppose that he is aware what the  relevant  requirements  of
+    the Rules are.  The conclusions cited above indicate that; and we  give
+    details in our decisions on  the  individual  appeals.   As  a  result,
+    whoever  wins  the  case  can  have  no  confidence  that  'the  "legal
+    requirements" stipulated by immigration law' have been followed at all.
+     It is not surprising that in a number of the appeals  before  us,  the
+    grounds of appeal focus on the  inadequacy of reasons  given.   Parties
+    to an appeal are entitled to know why they have won or lost.
+
+21. No more than the most basic principles of law are referred  to  in  the
+    decisions, and even these seem to be quite often wrong.  Again, we give
+    examples:
+
+
+          "The burden of proof is upon the Appellant  and  the  standard  of
+          proof is the balance of  probabilities"  (in  an  asylum  appeal).
+          [Shinwari: RP/00104/2016].
+
+
+          "The Appellant ... does not meet the basic  requirement  of  being
+          outside the country from  which  he  is  seeking  protection"  (in
+          another asylum case; the appellant is in the UK and claims that he
+          will be persecuted in Bangladesh). [MM: AA/06906/2014].
+
+
+          "The best interests of the children are involved and that  creates
+          a knockout element" (the opposite of what  the  authorities  say).
+          [Okpala: IA/32286/2015].
+
+
+          "Whenever one feels that the  case  misses  the  point  marginally
+          judicial discretion should help" (there is no judicial  discretion
+          available).[Okpala: IA/32286/2015].
+
+
+          "I  am  willing  to  exercise  my  discretion  in  favour  of  the
+          Appellant's very young children" (different case;  same  problem).
+          [Wang: IA/32046/2015].
+
+
+          "I am happy to exercise "discretion" because one  cannot  overlook
+          the compassionate facets of this case" (different case again: same
+          problem).[Stephen: OA/07779/2015].
+
+
+          "According to the IDI guidance viz paragraph 320, refusal of leave
+          is not permitted  unless  "there  are  aggravating  circumstances"
+          (same case as  the  foregoing;  a  gross  misapprehension  in  the
+          context of a case about whether the appellant met the requirements
+          of the Rules as part of a human rights appeal; the  Rules  provide
+          time after time that leave is to be refused if the requirements of
+          the Rules are not met, and paragraph 320 had no application to the
+          case). [Stephen: OA/07779/2015].
+
+
+          "John Smith, a patrial"  (status  abolished  in  1981).  [Boateng:
+          IA/31918/2015].
+
+
+          "My attention is drawn of the case of the Upper Tier  Tribunal  of
+          the most recent case of Sala (case 00411 of 2016)  and  a  careful
+          perusal of that case has  led  me  to  believe  that  my  negative
+          decision is fully justified bearing in  mind  the  current  fiscal
+          crisis and the  views  announced  in  that  case"  (this  "careful
+          perusal" evidently did not enable the judge to appreciate that the
+          decision, wholly concerned with whether there is a statutory right
+          of appeal in certain EEA cases concerning unmarried partners,  had
+          absolutely nothing to do with the case he was  considering,  which
+          was about a married couple, both  Ghanaian,  and  their  children,
+          both Ghanaian; the 'views announced' in Sala could not do anything
+          to justify his decision, and 'the current fiscal  crisis'  has  of
+          course nothing to do with either Sala or the appeal the Judge  was
+          deciding). [EDO and others: HU/01882/2015].
+
+
+          "The new provision in paragraph 117 of the  Immigration  Act  2014
+          clearly says that there is no "public interest" in a case where  a
+          person has some  things  in  his/her  favour  like  employability,
+          education gained and the English language fluency.  This statutory
+          concept permits the Respondent to reject an  Application  for  any
+          discretionary or other relief by making sure that such  conditions
+          do exist in a particular case" (the provision is question  appears
+          to be section 117B of the 2002 Act; the summary of the  provisions
+          and their effect is inadequate and inaccurate). [EDO  and  others:
+          HU/01882/2015].
+
+22. In our judgment, these errors, and others to be found in Judge  Majid's
+    decisions, are serious.  They give the impression that  the  judge  has
+    very little idea of either his own (limited) powers or the  content  of
+    the law that is in issue in the appeals before him.   The  error  about
+    the standard of proof in an asylum appeal is the sort of thing that the
+    Upper Tribunal might well think was just an unimportant slip of the pen
+    or ill-advised use of a standard paragraph if it occurred in a decision
+    that was in other respects clearly an application  of  the  appropriate
+    law and standard of proof; but in Judge Majid's decisions there  is  so
+    little attention paid to the law or (as we shall show below) the actual
+    facts of the cases that no such allowance can be made. The point  about
+    not being outside the country from which protection is  sought  demands
+    more  detailed  comment.   In  the  case  of  MM  (AA/06906/2014),  the
+    appellant had obtained a visa to travel to the  United  Kingdom  where,
+    after a period of time as a student, he claimed asylum when  threatened
+    with removal as an overstayer.  No doubt issues of  credibility  arise:
+    they are fully discussed in the Secretary of State's decision  and  the
+    basic facts of the applicant's history are rejected.  Judge Majid makes
+    no decision  on  the  applicant's  credibility;  indeed,  he  makes  no
+    reference to  the  reason  the  appellant  claims  to  be  at  fear  of
+    persecution  or  the  evidence  relied  upon  to  support  that  claim.
+    Instead, the Judge  concludes  that  the  appellant  is  excluded  from
+    protection because  of  his  obtaining  a  visa  from  the  Bangladeshi
+    government before he travelled.  The judge heard oral evidence from the
+    Applicant and cannot have thought he was not outside Bangladesh, so  he
+    must think that a history of obtaining a visa removes a person from the
+    Refugee Convention.  That is  a  misconception  so  basic  that  it  is
+    difficult to deal with briefly and coherently: suffice it to  say  that
+    it essentially ignores the terms of  the  Convention,  the  authorities
+    from (at latest) Ravichandran [1996] Imm AR 97 onwards, and the  entire
+    trend of state and judicial status determination.
+
+23. The Judge's impression that he is empowered to allow an appeal  on  the
+    basis of his discretion or dismiss it on the basis of his impression of
+    the economy is similarly a really serious error.   First-tier  Tribunal
+    Judges, Immigration Judges and Adjudicators have never had a  power  to
+    dismiss an appeal on the grounds of a general  feeling  of  justice  or
+    some other factor, when the Appellant meets  the  requirements  of  the
+    relevant Rules.  They have had power to allow appeals if  they  thought
+    that a discretion found within the terms of a Rule should be  exercised
+    differently, but no  general  discretion  to  allow  appeals,  and  the
+    limited power was abolished by the Immigration Act 2014.  A  judge  who
+    expresses himself (and acts) in the way indicated in the examples above
+    is rightly going to be suspected of being ignorant of his jurisdiction,
+    or exceeding it, or both.
+
+24. What makes this feature of the decisions particularly troubling is that
+    it  appears  to  replace,  rather  than  supplementing,  the  necessary
+    consideration of the legal issues actually raised by the  appeals.   So
+    far as the latter are concerned, Judge  Majid's  decisions  are  almost
+    wholly silent.
+
+25. Another difficulty in appreciating what the judge considers his job  to
+    be appears from the following statement, to be found in some form in  a
+    number of the decisions:
+
+          "In reaching my decision I am fully conscious of the fact that the
+          overriding objective of the judicial function guides  that  judges
+          in pursuing expedition and efficiency in disposal of cases  should
+          not sacrifice justice.  Thus I  am  alert  to  the  fact  that  my
+          Decision does not violate any of the  following  legal  principles
+          applicable in this case and coming from binding precedents.  These
+          principles are:-
+
+             (a) I am conducting an appeal and not  a  Judicial  Review  and
+               therefore cannot restrict myself in  conducting  the  proper
+               evaluation of the evidence on the  matters  of  fact;  if  a
+               factual issue is properly raised before the  Respondent  the
+               evidence surrounding that issue can  always  be  taken  into
+               account.  I must say  to  the  Presenting  Officer  that  my
+               consideration of this appeal is not confined  to  points  of
+               "law".  Of course, if I was sitting in an appellate court, I
+               would have to be concerned only with the points of "law"."
+
+26. We have read and re-read this.  We do not know what it means.   As  one
+    of the examples cited above indicates (in relation  to  the  appeal  of
+    Patel: IA/32901/2015), Judge Majid does not always realise that  it  is
+    his task to make  a  decision  on  the  evidence,  rather  than  merely
+    deciding that  the  Secretary  of  State  was  entitled  to  reach  the
+    conclusion she did.  It may  be  that  it  is  intended  to  mean  that
+    evidence, if available, is always  admissible.   Perhaps  that  is  the
+    reason why in another of the cases under appeal the Judge decides  that
+    the Secretary of State was wrong to conclude in September that she  had
+    not provided with the evidence of a relationship that she and the Rules
+    require, because it was provided in late October.  We do not know.  The
+    particular iteration of this  sentiment  is  taken  from  the  case  of
+    Shinwari (RP/00104/2016) where it is preceded by a reference  (avoiding
+    any discussion of the actual law) to a controversy between the parties,
+    and then this:
+
+          "This controversy was fully discussed and the  Presenting  Officer
+          Mr Harvey said the  Home  Office  is  entitled  to  have  its  own
+          interpretation  of  the  revocation  clause.   It  is   not   just
+          background circumstances but individual circumstances that can  be
+          taking into account.  If I may say so Mr Harvey conducted  himself
+          with  special  competence  before  me.   He  was  the  picture  of
+          politeness and I did not outline my contradictory view to him - my
+          view is contained in [the paragraph already cited] below.
+
+27. Again, it is difficult, perhaps impossible,  to  know  what  is  meant.
+    Evidently the judge disagreed  with  the  submission  that  'individual
+    circumstances that can be taking into account' ([18]), but  why  it  is
+    said  that  the   contrast   with   Judicial   Review   provides   this
+    'contradictory  view'  (referring  to  [22(a)]  of  the  decision)   is
+    mystifying.  The conclusion on whether individual  circumstances  could
+    be taken into account would presumably be a decision on a point of law,
+    and the Judge was obviously required to decide it.   Taking  them  into
+    account would then be making a decision not confined to points of  law.
+    So far as we can read  the  decision  the  Judge  decided  neither  the
+    question of law nor the question of fact; as an explanation  for  these
+    failures the passage cited is wholly inadequate.
+
+EVIDENCE AND THE FACTS
+
+28. Specific reference to the facts of cases is  sparse;  in  some  of  the
+    decisions it is even sparser than specific reference to  the  law.   We
+    have already identified two clear errors of law in the third and fourth
+    examples in the second set above (paragraph 21).  Those two  statements
+    come from the same decision (Okpala: IA/32286/2015).  It is a  decision
+    in which, in 30 paragraphs (the decision, running to over seven  pages,
+    is an unusually long one for Judge Majid) the Judge gives  no  hint  at
+    all of what the case is about except to say  that  there  are  children
+    involved and that the appellant depends  on  "the  robust  exercise  of
+    discretion for her children not to be separated from  her",  that  "the
+    Appellant's story has become complicated", and that there is  a  social
+    worker's opinion that "the Appellant does not  pose  a  danger  to  her
+    children any more".  The rest is silence.
+
+29. This is a case in which refusal decisions were made  in  respect  of  a
+    mother and her four children.  The Secretary of State's decision letter
+    runs to 12 pages in small print.  The only available ground  of  appeal
+    was that the decisions breached the Human Rights Act 1998.  There  does
+    not appear to have been any threat that the mother would  be  separated
+    from her children, who were all  (as  we  have  said)  the  subject  of
+    adverse decisions and (if the formal parts of  Judge  Majid's  decision
+    are correct) on whose behalf no  appeal  against  those  decisions  was
+    raised.
+
+30. There is no indication of how the issue of separation  came  to  arise.
+    There is no  indication  of  what  the  trouble  was  that  caused  the
+    appellant to be assessed as a  danger  to  her  children,  how  it  was
+    resolved, or how Judge  Majid  decided  the  issue  (as  distinct  from
+    reciting the view of an unnamed social worker).
+
+31. There is almost no indication of what took place in the hearing, except
+    for what we have already mentioned, and the following.  In  the  middle
+    of a hotchpot of generalities in paragraph 17 is a series of assertions
+    about freedom of speech for academic lecturers and its  recognition  by
+    courts and Tribunals (except apparently the Employment Appeal Tribunal)
+    "in  particular  when  a  postgraduate  research  document   is   being
+    considered".   This  discussion  occupies  nearly  half  a  page  -   a
+    substantial proportion of the decision.  Unlike almost all the rest  of
+    the decision, it is not a paragraph frequently used  by  the  Judge  to
+    give his decisions what bulk they have.  The reader has to assume  that
+    it refers to something that was in the Judge's  mind  as  a  result  of
+    evidence or submissions at the hearing, for there  is  nothing  in  the
+    Secretary of State's decision, or the other  documents  on  file,  that
+    could raise it.  What the issue was, who said what about  it,  what  is
+    the relevance of the judge's observations,  and  how  he  resolved  the
+    issue, all remain matters of speculation.  All that the reader can tell
+    is that there are numerous features of the case that the  judge  needed
+    to decide but did not.
+
+32. A  similar  difficulty  arises  in  another  case  featuring  twice  in
+    paragraph 21 above, citing reference to the "compassionate facets"  and
+    to paragraph 320 (Stephen: OA/07779/2015).  There  is  nothing  in  the
+    facts of the case or elsewhere in the decision that begins to show  why
+    the judge was thinking about paragraph 320 of  the  Immigration  Rules,
+    which largely contains provisions  dealing  with  those  who  would  be
+    successful under the Rules but for some form of misconduct.  We do  not
+    know whether there is a whole aspect of the case that emerged  only  at
+    the hearing and whose only visible relic is this reference, or  whether
+    the judge was simply not attending to what he was  doing.   We  suspect
+    the latter, but in either  event  it  is  a  cause  for  concern.   The
+    reference to the "compassionate facets", on  the  basis  of  which  the
+    appeal was apparently allowed, is entirely unspecific.  It was  crucial
+    to identify what the facts were  that  elevated  this  case  above  the
+    ordinary run of cases governed by the application of  the  Rules.   The
+    appellant applied as a spouse,  there  was  little  evidence  that  the
+    relationship  was  subsisting  and  no  evidence  that  the   financial
+    requirements of the rules could be met.  The  only  factors  detectable
+    from the determination as going in the appellant's favour are that  the
+    parties are married and her husband "has been fully  committed  to  her
+    welfare".  There is no indication of how the facts and evidence  before
+    the judge could lead to an  identification  of  "compassionate  facets"
+    particular to the case before him and sufficiently strong  to  override
+    the rules.
+
+33. Another case, Wang (IA/32046/2015), concerned the partner of a  British
+    citizen; there were, by the time of the  hearing,  two  children.   The
+    Judge refers to them as the appellant's grandchildren: but that is  the
+    least of the factual difficulties in the case.  The respondent  refused
+    the appellant's application for further leave for a number  of  reasons
+    given in detail in the refusal decision.  The first was  that  she  had
+    obtained her existing leave by fraud (this is an ETS case).  The second
+    is that she did not appear to meet the  specific  requirements  of  the
+    rules in relation to income, having  failed  to  evidence  the  minimum
+    level required, and having submitted a  payslip  that  appeared  to  be
+    unreliable in that it was dated after the application to which  it  was
+    attached.  Thirdly, the appellant failed to meet either the suitability
+    or the eligibility requirements of the  parent  route.   Fourthly,  the
+    applicant did not meet the requirements of the rules in relation  to  a
+    grant of leave in recognition of private life: in particular, she was a
+    relatively frequent visitor to her home  country.   Finally,  there  is
+    consideration of the case under  article  8  outside  the  Rules.   The
+    Secretary of State makes a number of observations about the  deception,
+    and concludes that it is so clearly in the  public  interest  that  the
+    appellant be required to leave the United  Kingdom  that  a  separation
+    from her child (then only one) is justified: they can be  looked  after
+    by their father.
+
+34. The grounds of appeal take issue with the  finding  of  deception,  and
+    assert that the appellant's removal would  be  disproportionate.   They
+    make no reference to the Rules.
+
+35. The Judge says in his decision that he has borne every provision of the
+    Rules "in mind meticulously", but does not make any  further  reference
+    to them.  Nor, more alarmingly, does  he  make  any  reference  to  the
+    allegation of deception or the grounds challenging  it.   He  does  not
+    even include his standard paragraph setting out the burden of proof  in
+    cases where deception is alleged  (although  that  paragraph  is  often
+    included in decisions where it can have no relevance).   As  a  result,
+    the appellant is deprived of what she  must  partly  have  sought  -  a
+    judicial finding that  the  deception  was  not  established;  and  the
+    parties are both deprived of any assurance that  the  judge  even  knew
+    that that was a crucially important feature of the challenged decision.
+     The Judge also makes no reference to the appellant's failure  to  meet
+    the income requirements of the Rules.   It  is  trite  law  that  these
+    factors would need to be taken into account even where  a  decision  is
+    sought outside the Rules, because the Rules set out  the  Secretary  of
+    State's understanding of the balance of public interest under article 8
+    and the extent to which the requirements of the rules are met, and  the
+    question whether the  appellant  has  been  guilty  of  deception,  are
+    factors that must feed the proportionality exercise.   Additionally,  s
+    117A of the Nationality, Immigration  and  Asylum  Act  2002  sets  out
+    factors that every court or  tribunal  is  required  to  consider  when
+    undertaking the article 8 balance, some of which  require  findings  of
+    fact.   Dr  Majid  makes  no  reference  to  the  provisions,  to   the
+    requirements, to the relevant facts, or to his  assessment.   All  that
+    can be clear to the reader is that the judge has failed  to  deal  with
+    the contentions of the parties, to apprehend the facts or to apply  the
+    law to them.   This is indeed the case in which the judge  purports  to
+    allow the appeal on the basis of exercising his discretion in favour of
+    the children.
+
+36. As Collins J said in Slimani, there is a virtue in  brevity.   But  the
+    basic requirements of a judicial decision must be met in all cases.  It
+    is necessary to set out sufficient of the facts to give  a  context  to
+    the dispute; sufficient of the evidence and submissions  to  show  what
+    the dispute was; findings on any disputed material fact and  sufficient
+    and adequate reasons for those findings; and adequate reasons  for  the
+    conclusion, derived from the facts and the applicable legal rules.   In
+    the decisions under appeal before us it is not easy to find even one of
+    those basic requirements being met.  The reasons given are not  proper,
+    intelligible or accurate.  The failures amount to errors of law.
+
+OTHER MATTERS
+
+37. Given that Judge Majid makes no detailed reference to facts or to  law,
+    it might be expected that his decisions are short, and indeed they are.
+     Despite that, however, they are full of observations many of which are
+    of dubious correctness, some of which are of dubious relevance,  and  a
+    few of which are wholly inappropriate.
+
+38. The decisions all begin with standard paragraphs.  That is something we
+    do not criticise, although even when using a standard paragraph a judge
+    is of course responsible for ensuring that the  assertions  in  it  are
+    true.  Given the points we have set out above there must be some  doubt
+    of the accuracy of the statements in standard paragraph 2 that "I  have
+    read [the] refusal carefully and have taken into account  its  text  in
+    assessing this case, paying specific attention  to  the  justifications
+    advanced for the negative decision" or that  in  standard  paragraph  3
+    that the Judge has borne in mind all the paragraphs of the  Immigration
+    Rules and the provisions of  the  "recent  Immigration  Act  2014"  (no
+    reference ever seems to be made to previous  legislation).   There  may
+    even be doubt  about  standard  paragraph  6  "To  make  this  Decision
+    comprehensive, I have carefully read all the documents".
+
+39. The next paragraph usually records simply that there was oral  evidence
+    "consistent with the assertions in  the  application".   The  paragraph
+    usually numbered  8,  immediately  preceding  the  Gondolia  paragraph,
+    usually reads as follows or something very similar:
+
+           "I have outlined the evidential elements of the evidence adduced
+           on behalf of the  Appellant  which  are  relevant  to  the  fair
+           disposal of this appeal.  I have taken into account all  of  the
+           documentary and oral evidence in making up my  mind  on  factual
+           issues.  To avoid repetition, I shall refer to some evidence  in
+           my deliberations below."
+
+40. In the light  of  the  preceding  discussion  it  is  clear  that  this
+    assertion is unfulfilled.  In  most  cases,  none  of  the  "evidential
+    elements of the evidence" have been outlined, nor are they going to be,
+    whether or not they are "relevant to the fair disposal of" the  appeal.
+    Not merely is repetition avoided: there is nothing capable of being the
+    subject of repetition.
+
+41. By the end of  the  paragraph  on  "dispositive"  reasons  the  initial
+    standard paragraphs have finished.  Allowing more than half a page  for
+    headings and so on, the determination is at the beginning  of  page  3,
+    and at about paragraph 12.  This is the point where there are, in  most
+    (but not all) the decisions, a few references to a few  of  the  facts,
+    and to one or two matters that occurred at the  hearing.   Usually  the
+    important  references  occupy  less  than  a  page,  often  much  less.
+    Sometimes there is a supplement of irrelevant  matters:  in  one  case,
+    where the sponsor's nationality was not  seriously  in  dispute  (Wang:
+    IA/32046/2015), the Judge took it upon himself to find as a  fact  that
+    the sponsor was a British national because although he did not  produce
+    his passport he recited what he said was the number on  it.   Sometimes
+    the supplementary observations are ill-judged: in the case of  EDO  and
+    others (HU/01882/2015), the Judge  observes  at  some  length  that  he
+    criticised the Presenting Officer, apparently for taking the point that
+    the appellant had been an overstayer for about 14 years before  he  was
+    arrested for fighting; then on another issue in the same case he writes
+    that he "must admire"  the  Presenting  Officer,  "who  should  not  be
+    condemned  for  suspecting  the  Appellants'  credibility";  a  similar
+    observation in another case is cited at para 26 above.
+
+42. After these references to the hearing, the evidence and the facts,  the
+    Judge sets out his observations on the law.  Sometimes the observations
+    are concise; sometimes they are  relevant;  we  have  considered  their
+    accuracy above, and we have also noted that the law relating to  deceit
+    is sometimes mentioned when it is not relevant, or omitted when  it  is
+    relevant.  But much of what appears in this part of  the  decisions  is
+    material that simply should not be there; the Judge makes no attempt to
+    tie  down  as  relevant  to  his  decision  even  those  parts  of  his
+    disquisition that refer to the law.  The following  is  a  particularly
+    egregious example, from the case in which the only  issue  was  whether
+    the Secretary of State was permitted in terms of the Refugee Convention
+    to withdraw the appellant's refugee status (Shinwari: RP/00104/2016).
+
+          "22. In reaching my decision I am fully conscious of the fact that
+          the overriding objective of  the  judicial  function  guides  that
+          judges in pursuing expedition and efficiency in disposal of  cases
+          should sacrifice justice.  Thus I am alert to  the  fact  that  my
+          Decision does not violate any of the  following  legal  principles
+          applicable in this case and coming from binding precedents.  These
+          principles are:-
+
+      a)    [the discussion of Judicial Review set out above]
+
+              b) One must be cautious in applying the  immigration  concepts
+                 since "the Secretary of State holds  all  the  cards.   The
+                 Secretary  of  State  drafts  the  Immigration  Rules;  the
+                 Secretary of State issues IDIs and guidance statements; the
+                 Secretary of State authorises the public statements made by
+                 his/her officials. - Pokhriyal v SSHD [2013] EWCA Civ 1568,
+                 per Jackson LJ.
+
+              c) Mr Justice Turner who is not known  to  be  an  immigration
+                 lawyer  was  handling  an  immigration  case  for  judicial
+                 review.  Subsequent to a lucid  analysis  of  the  relevant
+                 issues  covering   81   paragraphs,   he   announced   that
+                 "immigration" control  should  be  handled  fairly  and  it
+                 should be encouraged when a migrant is good for this nation
+                 and its economy - Case No: CO/11203/2011  [2013]  EWHC  891
+                 (Admin) (18/04/2013).
+
+          23. To make sure that my decision is totally  in  accordance  with
+             the  law  I   have   obeyed   the   following   principles   of
+             interpretation in this case:-
+
+                 (a) if the other party asserts something that the Appellant
+                    is guilty of then the Appellant should be  able  to  say
+                    that the asserting  party  must  prove  that  assertion;
+                    otherwise the Appellant must not  be  saddled  with  the
+                    inference.  I must seek the forgiveness  of  Lord  Woolf
+                    and his supporters for using  the  Latin  tag  for  this
+                    principle; this  rule  of  interpretation  is  known  as
+                    contra   proferentem.    Since   this    principle    of
+                    interpretation is for the  protection  of  a  vulnerable
+                    Appellant I  am  pleased  to  have  it  in  my  judicial
+                    armoury.
+
+                 (b) the "Golden Rule" of interpretation should be used  for
+                    the benefit of the  Appellant.   As  predicated  in  the
+                    Bedford case 1921 even the  expressed  language  of  the
+                    binding statue should be ignored if  the  interpretation
+                    put forward by a particular party  leads  to  an  absurd
+                    decision - in that case it  was  held  by  the  old  CCA
+                    (Criminal Court of Appeal) that the  statutory  language
+                    "on the pavement" could be ignored  where  a  woman  was
+                    asserting that she was not "on the pavement" and she was
+                    standing on the floor of her own flat and tapping on the
+                    window to attract the attention of the people  who  were
+                    on the pavement.
+
+          24. The test of arguability leads to the appeal to the UTT  (Upper
+             Tier Tribunal) against the decision taken by  a  judge  in  the
+             First Tier Tribunal.  Senior trainers with  manifest  expertise
+             in judicial craft have advised me that "arguability" is a  very
+             easy test to meet and permit an appeal.  "First you decide  you
+             do not like a decision taken by a junior judge and  then  worry
+             about the permission on the ground of "arguability" because one
+             can always say something is arguable because  it  is  desirable
+             that any defective decision at the lower level is corrected  on
+             appeal.  Thus the arguability test is "very easy" to meet.
+
+          25.  The  present  Conservative  Government  did  not  succeed  in
+             abolishing the Human Rights Act 1998 making  the  Human  Rights
+             Convention 1950  devoid  of  legislative  effect.   Indeed  the
+             Commission established to  abolish  the  ECHR  (headed  by  the
+             senior civil servant Home Office Permanent Secretary) could not
+             give a report which could justify the abolition of the ECHR  as
+             it was the main objective of this commission.  This  commission
+             was very well put together and included  in  its  members  Lord
+             Lester who is known to  be  the  father  of  the  Human  Rights
+             Convention - obviously Lord Lester was not  in  favour  of  the
+             abolition of the Convention.  The upshot of this background  is
+             that an immigration judge will not be fair to deny  the  relief
+             available under the Convention if Parliament does  not  abolish
+             the 1998 Act which brought into force the ECHR in the municipal
+             jurisdiction of the UK.
+
+          26.  The  Judicial  Committee  of  the  House  of  Lords  was  the
+             predecessor of the present British Supreme Court.  It faced the
+             argument in the case of Pepper v Hart [1993] AC  593  that  the
+             record of the speeches of the MPs in the House of  Commons  was
+             too rambling to allow a person to work out the proper intention
+             of Parliament.  However in this case the HL  held  that  judges
+             may  refer  to  Hansard  as  a  guide  to   interpretation   of
+             legislation.  Now this is  an  established  principle  and  the
+             intention of Parliament can be worked out by referring  to  it.
+             Accordingly referring to the MPs speeches in  Parliament  I  am
+             obliged to note that the Human Rights Convention  and  the  Act
+             bringing it  into  force  (the  HR  Act  1998)  have  not  been
+             abolished and Parliament does not oblige me to  obviate  relief
+             under them."
+
+43. In one of the other decisions  (Comery:  IA/00866/2016)  this  text  is
+    expanded with some memories of a radio interview given by  Lord  Lester
+    of Herne Hill.  In another decision, Wang (IA/32046/2015), the  warning
+    said to be derived from Pokhriyal is changed  to  being  applicable  to
+    working out the best interests of the child (in fact the  consideration
+    is specifically directed by Jackson LJ at to  be  applicable  only  and
+    precisely to prohibiting the Secretary of State from seeking  "to  rely
+    upon extraneous material in order to persuade a court  or  tribunal  to
+    construe the rules more harshly or  to  resolve  an  ambiguity  in  the
+    Government's favour"; none of the decisions under appeal  involves  any
+    detailed or contested interpretation of the wording of the rules).   In
+    another  decision,  Khattab  (HU/13552/2015),  there  is  a   paragraph
+    containing  an  anecdotal  reference  to  an  apparently  extrajudicial
+    observation of Lawton  LJ  cited  (so  far  as  we  understand  it)  as
+    investing the First-tier Tribunal with inherent  power  to  exercise  a
+    discretion to allow appeals.  Nearly all  the  decisions  contain  some
+    material of this sort.  The passage set out  above,  not  one  word  of
+    which appears to be relevant to the case  in  hand,  occupies  about  a
+    third of the entire text of the decision.
+
+44. There are two other matters to which we  should  refer.  The  first  is
+    that, as will have been apparent from some  of  the  passages  we  have
+    quoted; it does not look as though any attempt has been made  to  check
+    the decisions for grammatical or linguistic  error.   The  phrase  "the
+    evidential elements of the evidence" is in a  standard  paragraph.   It
+    ought not to have survived being in one draft.  The  second  factor  is
+    that as well as the principal issue we have to determine,  that  is  to
+    say  whether  the  determinations  display  error  of  law,  there  are
+    allegations of unreasonable and  inappropriate  conduct  by  the  judge
+    during the hearing.  It is very telling that  one  such  allegation  is
+    made by a representative who won his case (Khattab: HU/13552/2015), and
+    so did not need to complain: he has no axe to grind.  He wrote a letter
+    to the President of the First-tier Tribunal.  With the  consent  of  Mr
+    Wilding we gave our permission for its material parts to be  introduced
+    into the hearing as, essentially,  a  late  Rule  24  response  to  the
+    Secretary of State's grounds of appeal.      As so amended, it reads as
+    follows:-
+
+          "Rule 24 Response
+
+                 1. All grounds of  appeal  raised  by  the  Respondent  are
+                    conceded.
+
+          2.  In  addition,  it  is  submitted  that  there  was  procedural
+             unfairness/irregularity on the following basis:
+
+            a) It was extremely  difficult  for  the  participants  in  the
+               hearing (including the court interpreter) to understand what
+               IJ Majid was saying, which caused significant  confusion  on
+               numerous occasions.
+
+            b) His comments and questions were of tangential  relevance  to
+               the case and it was difficult  for  the  witness  and  legal
+               representative to grasp the points he was trying to make.
+
+            c) He became angry with both witnesses and legal representative
+               as a result  of  the  strained  communication  and  frequent
+               misunderstandings.
+
+   d) He was unwilling and/or unable to hear legal submissions.
+
+          I would go so far as to suggest that the nature of the proceedings
+          before IJ Majid were so shambolic as to bring  the  Tribunal  into
+          disrepute and undermine public confidence in an effective judicial
+          system."
+
+45. Another difficulty during the course of the hearing  arose  in  Stephen
+    OA/07779/2015, and is considered below. In that case, we find that  the
+    Secretary of State's grounds are made out.  In the other case,  all  we
+    need to do is record that the points  raised  by  Mr  Moran  caused  us
+    serious concern, particularly as they appear to be endorsed by the note
+    made by the Presenting Officer.  We do not need  to  reach  a  view  on
+    them; we hope that no party to an appeal will ever  feel  it  right  to
+    make such allegations again.
+
+CONCLUSIONS
+
+46. It seems to us that the complaints made about Judge  Majid's  decisions
+    are entirely well-founded.  Nobody reading them could  detect  how  the
+    judge reached the conclusion he did, acting within the law and applying
+    the relevant substantive law to the facts as  found.   That  is  partly
+    because the law and the facts are never the  subject  of  any  detailed
+    reference, disputes on the facts are not identified, and there are next
+    to no findings of relevant fact;  more  seriously  it  is  because  the
+    Judge's statements in his decisions, either by direct assertion  or  by
+    disquisition on the irrelevant, give real reason to suppose that he  is
+    not  even  trying  to  act  within  the  law  and  apply  the  relevant
+    substantive law to the facts as found.
+
+47. We regard the body of his work that we have examined in the  course  of
+    these appeals as wholly failing to meet the standards that are demanded
+    by the office of a judge and expected by the  parties.   As  a  result,
+    every one of the decisions under appeal shows error  of  law,  in  most
+    cases serious error, in most cases multiple  serious  errors.   Whether
+    the decisions are looked at together  or  separately,  they  show  that
+    nobody should assume that Judge Majid has an adequate knowledge of  the
+    law or of his task as a judge.  If his decisions continue to  have  the
+    features we have identified in  the  foregoing  examination,  they  are
+    clearly open to criticism.
+
+48. We turn now to our individual examination of the appeals before us.
+
+
+
+                                AA/06906/2014
+                                     MM
+
+                                     and
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+Representation:
+For the Appellant:     Mr M Aslam, instructed by Chancery solicitors
+For the Respondent:    Mr T Wilding, Senior Home Office Presenting Officer
+
+49. We have in this case made an anonymity order in favour of the Appellant
+    since the appeal concerns a protection claim.   The  Appellant  appeals
+    against a decision of First-Tier Tribunal Judge Majid promulgated on 15
+    November  2016  ("the  Decision")  dismissing  the  Appellant's  appeal
+    against the Secretary  of  State's  decision  dated  9  September  2014
+    refusing his asylum and human rights claims and directing  his  removal
+    under section 10 Immigration and Asylum Act 1999.  The  appeal  against
+    the Decision is on protection and human rights grounds.
+
+
+50. We do not need to set out the facts of this case since those appear  at
+    [22] of our general decision above. By a  Rule  24  response  dated  21
+    February 2017, the Respondent invited the Tribunal  to  set  aside  the
+    Decision and remit the appeal to the First-tier Tribunal for re-making.
+     The concession is in the following terms (so far as relevant):-
+         "2.   Whilst  the  Respondent  considers  that  the  FtTJ  arrived
+           ultimately at the correct  position  it  is  accepted  that  the
+           reader would be  none  the  wiser  as  to  why  the  appeal  was
+           dismissed and arguably demonstrates a lack of anxious  scrutiny,
+           especially given the reference to homosexuality at [10]."
+
+
+51. The Respondent's concession is rightly made.  The issues for the  Judge
+    to determine were, so far as the protection claim is concerned, whether
+    the Appellant has a well-founded fear of persecution  or  would  be  at
+    real risk on return to Bangladesh.  In relation to the claim  based  on
+    his family and private life, the Judge needed to determine whether  the
+    Appellant meets the Immigration Rules and, if not, whether he should be
+    permitted to remain for reasons existing outside the Rules.
+
+
+52. There are some general and largely correct statements of some  features
+    of the law in asylum appeals at [4].  At [2] the judge says he has read
+    the refusal carefully.  At [5] the  judge  notes  that  the  respondent
+    doubts the appellant's credibility, which is right.  At [10] the  judge
+    says that the refusal letter "does not accept that [the appellant] is a
+    homosexual with commonly accepted immutable characteristics which  make
+    him vulnerable to persecution".  Neither the appellant's claim nor  the
+    refusal letter make any reference to homosexuality.  At [8] and [9] the
+    judge appears to indicate that the only issue assigned before  him  was
+    credibility.  Thereafter the  Judge  fundamentally  misunderstands  the
+    facts of the Appellant's case at [11] to  [12]  of  the  Decision.   We
+    assume that the Judge was aware that  the  Appellant  was  outside  his
+    country of origin since he gave evidence in person at the hearing.   It
+    appears therefore that the Judge thought that the Appellant  could  not
+    succeed in his asylum claim because he had obtained a visa to travel to
+    the UK from his home country.  But that visa was as a  family  visitor.
+    Whilst, as we observe at [22] of our decision above, the fact of having
+    come as a visitor and only claiming asylum some  two  years  later  may
+    give rise to some credibility issues, that fact  did  not  prevent  the
+    protection claim succeeding in and of itself.
+
+
+53. That fundamental error then led to the  Judge  making  no  findings  on
+    credibility, the subject of the submissions before him, on the core  of
+    the Appellant's protection claim or whether he would be at real risk on
+    return to his home country.  The Decision plainly cannot be allowed  to
+    stand.   The Judge also made  no  findings  on  the  Appellant's  human
+    rights claims whether under or outside the Rules.
+
+
+54. Whether or not  the  Appellant's  appeal  ultimately  succeeds,  he  is
+    entitled to know the reasons for the outcome.  The  Decision  does  not
+    provide  adequate  findings  or  reasons  for  the  conclusions,  fails
+    properly to consider the claims made or the evidence before  the  Judge
+    and, insofar as the claim is considered at all, fundamentally fails  to
+    understand the facts of the claim.  In consequence, the reasons for the
+    Decision reached were not open to the Judge on  the  evidence  and  the
+    conclusion reached is therefore unsustainable.
+
+
+55. The Decision therefore discloses a material error of law and we set  it
+    aside.    Given the fundamental nature of the errors of law  found  and
+    the Appellant's entitlement to have the facts  of  his  claim  properly
+    determined, we agree with the parties that it  is  necessary  for  this
+    appeal to be remitted to the First-tier Tribunal for redetermination by
+    a Judge other than Judge Majid.
+
+
+
+
+         HU/01879/2015; HU/01881/2015; HU/01882/2015; HU/01883/2015
+
+                               EDO AND OTHERS
+                                     and
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+Representation:
+For the Appellants:    In person
+For the Respondent:    Mr T Wilding, Senior Home Office Presenting Officer
+
+56. We make an anonymity direction in this appeal pursuant to  Rule  14  of
+    the Tribunal Procedure (Upper Tribunal) Rules 2008, given that  two  of
+    the appellants are minors.   Unless  and  until  a  Tribunal  or  court
+    directs otherwise, the appellants herein  are  granted  anonymity.   No
+    report of these proceedings shall directly or indirectly identify  them
+    or any member of their family.  Failure to comply with  this  direction
+    could lead to contempt of court proceedings.
+
+
+57. This is an appeal against  a  decision  of  First-tier  Tribunal  Judge
+    Majid, promulgated on 14 March 2017, dismissing the appellants' appeals
+    against the Secretary of State's decision(s) of 23 June  2015  refusing
+    their human rights claims. The appellants are nationals of  Ghana.  The
+    first and second appellants are husband and  wife  and  the  third  and
+    fourth appellants are their minor children (born in the United  Kingdom
+    on 16 May 2007 and 21 January 2009, respectively).
+
+
+58. At the outset of the hearing  before  the  Upper  Tribunal  Mr  Wilding
+    accepted that: (i) the First-tier Tribunal's  decision  should  be  set
+    aside as a consequence of the numerous material errors of law contained
+    therein; and, (ii) the fundamental nature of such errors  requires  the
+    appeal to be remitted to  the  First-tier  Tribunal  to  be  determined
+    afresh by a different judge. We concur with both  concessions,  as  did
+    the appellants. Although, as a consequence of the concessions  made  by
+    the Mr Wilding, we need not set out in detail the nature of the  errors
+    in the Judge Majid's consideration of the appeal,  we  do  consider  it
+    appropriate to summarise them, if for no other reason  than  to  enable
+    Judge Majid to understand why this particular  decision  has  been  set
+    aside.
+
+
+59. Two passages from the Judge's decision in the instant case are set  out
+    at [21] above, with observations as to the nature of  the  errors  that
+    can be identified therein. We need not repeat those  observations.  The
+    Judge's decision also suffers from  the  frailties  considered  in  our
+    general conclusions above at [7] - [17] and [19] - [20].
+
+
+60. The Judge Majid's overarching conclusion is reflected in the  following
+    paragraph:
+
+
+           "[16] Accordingly, in view of my deliberations in the  preceding
+           paragraphs and having taken into account all  of  the  oral  and
+           documentary evidence as well as the submissions at my  disposal,
+           cognisant of the fact  that  the  burden  of  proof  is  on  the
+           Appellant  and  the  standard  of  proof  is  the   balance   of
+           probabilities, I am persuaded that the Appellants  do  not  come
+           within the relevant Immigration Rules as amended."
+
+
+61. We observe that the appellants challenge to the  Secretary  of  State's
+    decision was limited, by section 84(2) of the Nationality,  Immigration
+    and Asylum Act 2002, to reliance on the ground that, "the  decision  is
+    unlawful under section 6 of the Human Rights Act 1998". If  a  Tribunal
+    concludes that the requirements of the Immigration Rules are not met it
+    is incumbent upon it to complete the task required  of  it  by  statute
+    i.e. to determine whether the  decision  under  challenge  is  unlawful
+    under section 6 of the Human Rights Act 1998. The instant decision does
+    not  disclose  a  discrete  conclusion  on  the  one  ground  that  the
+    appellants  were  entitled  to  pursue  on  appeal;  neither  can  such
+    conclusion be inferred from reading the FtT's decision in the round.
+
+62. Although Judge Majid makes reference to section 117 of the 2002 Act  at
+    [18] of his decision, such reference is not  made  in  the  context  of
+    determining the appeal on human rights grounds outside the confines  of
+    the Rules and in any event it is incomplete, and for the most part  the
+    observations therein are incorrect in law. The failure of  Judge  Majid
+    to reference, or summarise, the effect of section 117B(6) of  the  2002
+    Act, a provision which should be at the heart of any decision  in  this
+    appeal  made  on  Article  8  grounds  outside  the   Rules,   provides
+    significant support for the conclusions that the Judge did not turn his
+    mind to analysis of such ground and that, if he did, he failed to  take
+    cognisance of a material matter.
+
+
+63. In  any  event  the  decision  under  the  Immigration  Rules  is  also
+    fundamentally  flawed.  First,  it  does  not  disclose  which  of  the
+    immigration rules consideration was given to, nor does it  provide  any
+    satisfactory reasons as why the requirements  of  those  (unidentified)
+    rules were not met.
+
+
+64. Insofar as the FtT's decision  purports  to  incorporate  any  reasoned
+    analysis of the issues before it, this is contained at [20]  and  [21].
+    Even superficial scrutiny of this reasoning identifies that Judge Majid
+    failed  to  undertake  a  thorough,  if   any,   examination   of   the
+    circumstances  of  the  minor  appellants,  failed   to   place   those
+    circumstances in their proper legal context (and in particular it is to
+    be observed that one of the children has lived in the United Kingdom at
+    the relevant date for a period in excess of seven years and one  has  a
+    statement of  educational  needs)  and  took  into  account  immaterial
+    matters - such as the current fiscal crisis.
+
+
+65. The losing party is entitled to know the basis upon  which  the  appeal
+    was lost. It is axiomatic that this requires the decision  to  disclose
+    sufficient reasons to enable such an understanding to be garnered  from
+    it.  Judge Majid's decision in the instant case falls a long way  short
+    of adhering to the aforementioned basic tenet of a lawful decision.
+
+66. For the reasons given above, we find that the FtT's decision  discloses
+    an error of law capable of affecting the outcome of the appeal  and  we
+    set it aside. Given the fundamental nature of the errors identified  we
+    conclude that it is necessary for this appeal to be remitted to the FtT
+    to be determined afresh by a judge other than Judge Majid.
+
+
+
+                                HU/13552/2015
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                     and
+                                RAWAN KHATTAB
+
+    Representation:
+     For the Appellant:    Mr  T  Wilding,  Senior  Home  Office  Presenting
+Officer
+    For the Respondent:   Mr A Moran, instructed by Alex Moran Immigration
+& Asylum
+
+
+67.  This  is  an  appeal  by  the  Entry  Clearance  Officer  Amman.   The
+    respondent, whom we shall call 'the claimant', is a national of  Syria.
+    She applied for, and  was  refused,  entry  clearance  to  join  Khalil
+    Alathoub, her husband, who is in the United Kingdom and  is  recognised
+    as a refugee.  The grounds of appeal to the First-tier Tribunal set out
+    the facts and the claimant's case in some detail.  The Entry  Clearance
+    Officer's decision is challenged on the grounds that, contrary to  what
+    he thought, there is ample and persuasive evidence  that  the  marriage
+    between the claimant and  her  husband  is  a  genuine  and  subsisting
+    relationship, dating from before his flight, and that the  requirements
+    of paragraph 352A(iv) (which was the sole ground of refusal)  are  met.
+    Human rights grounds are also raised.
+
+68. Despite Judge Majid's claim to have "adverted to the  main  reasons  in
+    the Refusal  Letter  meticulously",  to  have  "carefully  perused  the
+    Appellant's documents to reach my decision" and (again) that  he  "took
+    into account the reasons in the Refusal Letter", his decision  contains
+    no reference either to paragraph 352A or to the human  rights  grounds.
+    He allows the appeal apparently on the  basis  that  the  claimant  has
+    herself established a claim to asylum, although no evidence of that was
+    led.  He asserts, incorrectly, that the  "Respondent  thinks  that  the
+    option of internal flight within Syria is available to the  Appellant".
+    The decision appears to be contained in the following sentence:
+
+
+           "However I can give the benefit of my judicial discretion in
+           this case because the Appellant cannot be deprived of compassion
+           in the UK even in these hard economic times".
+
+69. The decision contains a number of the other features we have identified
+    above as common to most of Judge Majid's  decisions.   In  addition  at
+    paragraph 7 the judge says that "he  is  alert  to  the  fact  that  my
+    Decision in this case does not violate any of  the  following  specific
+    legal principles".  This assertion and the  specific  legal  principles
+    that follow occupy about one third of the six-page decision.  None  are
+    relevant except a  factual  (not  legal)  observation,  apparently  not
+    founded on evidence in the case under examination,  that  "Syrians  are
+    maltreated by their own president".  Amongst the others are:
+
+           "7. In reaching my Decision I am fully  conscious  of  the  fact
+              that the overriding objective of the judicial function guides
+              that judges in trying to pursue expedition and efficiency  in
+              the disposal of cases should not sacrifice justice.   Thus  I
+              am alert to the fact that my Decision in this case  does  not
+              violate  any  of  the  following  specific  legal  principles
+              applicable in this case and coming from  binding  precedents.
+              These principles are:-
+               ...
+
+               (c) Executive discretion  is  not  noted  by  many  material
+                  executives and in this respect they should be made  aware
+                  of it because it can bring a lot of relief to individuals
+                  who deserve fair exercise of discretion in their favour.
+
+               (d) The celebrated British politician, Mr Tony Benn, in  his
+                  own words, had "100%  success"  in  persuading  President
+                  Saddam Hussain to  release  hostages  in  December  1990.
+                  When the Iraqi Airways chartered plane landed at Gatwick,
+                  applying the  law  literally,  the  Immigration  Officers
+                  (IOs) at the airport, started to check the  passports  of
+                  the hostages to verify whether  they  had  the  right  to
+                  enter the UK.  Using his  executive  discretion,  a  Home
+                  Office Minister (part of the eminent personages  who  had
+                  come to welcome the hostages) stopped IOs  saying,  "They
+                  have already suffered a lot; don't make them stand  in  a
+                  queue  for  this  purpose".   Consequently,  no   further
+                  passport was checked.
+                ...
+
+               (g) The Home Office is rapidly changing the rules  in  every
+                  area and a judge would be unfair if he used  the  changes
+                  to the detriment of a genuine Appellant". [The provisions
+                  the judge  ought  to  have  been  considering  were  last
+                  changed in September 2002].
+
+70. The Entry Clearance Officer's grounds of  appeal  are  that  the  judge
+    completely misapprehended the nature of the appeal, applied  the  wrong
+    standard of proof to the issues he should have  been  determining,  had
+    not addressed the  issues  under  appeal  and  as  a  result  proceeded
+    unfairly, because the parties had no opportunity to address the  issues
+    on which he appears to have decided the case.  Mr  Moran,  in  a  reply
+    which we admitted out of time, conceded the grounds in  full.   In  the
+    letter to which we have referred above, he  described  the  hearing  as
+    "shambolic".
+
+71. Whatever may be the accuracy of that description, we have no hesitation
+    in agreeing with the parties that Judge Majid's decision  wholly  fails
+    to deal with the issues under appeal.  There is almost nothing  in  the
+    substantive parts of the decision that would have appeared in a  proper
+    determination of the issues under appeal, and the decision itself at no
+    point makes any determination of those issues.  We  set  it  aside  for
+    error of law.
+
+72. The parties before us agreed that this was a case in which it would  be
+    appropriate for us to examine the issues ourselves.  We indicated  that
+    we were inclined to agree with Mr Moran that the  evidence  before  the
+    judge was sufficient to establish on the balance of probabilities  that
+    the requirements of  paragraph  352A  were  met  at  the  date  of  the
+    decision.  Mr Wilding did not oppose that view.
+
+73. We therefore allow the appellant's appeal.
+
+
+
+                                IA/00866/2016
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                     and
+                            MARCIA CORRINE COMERY
+
+Representation
+For the Appellant:     Mr T Wilding, Senior Home Office Presenting Officer
+For the Respondent:    Mr L Adenakan, instructed by Morgan Pearce
+    Solicitors
+
+74. This is an appeal by the Secretary of State.  For ease of reference, we
+    refer below to the parties as they were  in  the  First-Tier  Tribunal.
+    The Respondent appeals against a decision of First-Tier Tribunal  Judge
+    Majid promulgated on  14  March  2017  ("the  Decision")  allowing  the
+    Appellant's appeal against the Secretary of State's decision  dated  29
+    January 2016 refusing her human rights claim based on her  relationship
+    with a British citizen and her private life established in the UK.
+
+
+75. The Appellant is a national of Jamaica.  She entered the UK on 24 March
+    2002 as a visitor and obtained further leave to  remain  as  a  student
+    until 31 October  2003.   Thereafter,  she  overstayed.   She  made  an
+    application for leave to remain on 11 May 2010 which was refused on  19
+    February 2011 with no right of appeal.  The Appellant was  served  with
+    notice of removal on 17 March 2015 whereupon she made the human  rights
+    claim which is under consideration in this appeal.
+
+
+76. The central issues in this appeal  were  whether  the  Appellant  could
+    qualify under Appendix  FM  of  the  Immigration  Rules  based  on  her
+    relationship with a partner.  The Respondent did not  accept  that  the
+    relationship was genuine and subsisting and, in  any  event,  concluded
+    that there were no insurmountable obstacles to  the  couple  continuing
+    their relationship in Jamaica.  In relation to her  private  life,  the
+    Appellant has not been in the UK for twenty years  and  the  Respondent
+    did not accept that there was evidence that the  Appellant  would  face
+    "very significant obstacles" to reintegration in Jamaica.  Nor did  she
+    accept that there were any  exceptional  circumstances  justifying  the
+    grant of leave to remain outside the Rules.
+
+
+77. The Decision is largely discursive and, as noted at [43] above contains
+    a lengthy passage bearing distinct similarities to that set out at [42]
+    of our general decision  above.   The  central  reason  why  the  Judge
+    allowed the appeal appears at [28] to  be  that  "the  Appellant  comes
+    within the relevant immigration law as  amended  and  should  have  the
+    benefit of discretion".  As we note at [23] of the Decision,  there  is
+    no power to allow an appeal on the basis of discretion in a  case  such
+    as this; the Appellant either meets the  Rules  or  her  case  must  be
+    assessed under Article 8 ECHR and if appropriate  allowed  outside  the
+    Rules.  The difficulty, as we have previously identified, is  that  the
+    Judge does not specify under what provision the Appellant succeeds  nor
+    why.  It is notable that, although the Judge  refers  to  having  taken
+    account of "all of the oral and documentary evidence  as  well  as  the
+    submissions at my disposal" there are no findings on the central issues
+    whether the Appellant is indeed in a genuine relationship as she claims
+    and  whether  there  would  be   insurmountable   obstacles   to   that
+    relationship continuing in Jamaica.
+
+
+78. The reasons given for concluding in the Appellant's favour are said  to
+    be the Judge's "deliberations in the preceding  paragraphs".   However,
+    for the most part, those paragraphs are general in nature and  have  no
+    bearing on this Appellant's case.  The closest one comes  to  a  reason
+    for finding in her favour is at [10] to [12] of the Decision where  the
+    Judge refers in limited terms to the partner's eye problems  and  notes
+    that that the Appellant gives "crucial help" to her partner.   This  is
+    said to be a "dispositive factor".
+
+
+79. Although Mr Adenakan sought to persuade us that any error of law in the
+    Decision was immaterial, he was unable to direct us to any findings  or
+    reasons which disclosed whether the Appellant's case is  allowed  under
+    the Rules or outside them.  Although  at  [11]  the  Judge  appears  to
+    indicate that the case "comes within the applicable rules", Mr Adenakan
+    was constrained to accept that the Judge  failed  to  consider  whether
+    there would be insurmountable obstacles to family  life  continuing  in
+    Jamaica.  His submission that the Judge's reference  to  the  Appellant
+    offering care to her partner is a finding that she is in a genuine  and
+    subsisting partner relationship with him is unpersuasive.  The  Judge's
+    description of the relationship at [11] and [12] could equally apply to
+    the relationship of carer  and  patient  (as  we  observed  during  the
+    hearing).  The comments made at [14] and [15] of the Decision referring
+    to "elderly dependent relatives" might indeed point in that  direction.
+    Ultimately, we do not know since the Judge has failed to enunciate  his
+    reasons for concluding as he does in the Appellant's favour.
+
+
+80. Equally, if the appeal is allowed outside the Rules (as  the  reference
+    to "discretion" might be intended to indicate),  then  the  Judge  also
+    needed to assess the impact of section 117B,  Nationality,  Immigration
+    and Asylum Act 2002.  He needed to take into account that the Appellant
+    is an overstayer.  There is no such analysis in the Decision.
+
+
+81. There is also reference at [13] of the Decision to there being "special
+    arrangements' in the respect of Jamaica whereby a  person  of  Jamaican
+    background can exceptionally  'switch'  even  though  they  come  as  a
+    visitor".  The Judge does not there refer  to  any  document  and  even
+    indicates that neither the Presenting Officer or anyone else  in  court
+    knew about them.  We confess that we have no idea either  to  what  the
+    Judge intended to allude and Mr Adenakan was unable  to  assist  us  in
+    this regard.  The Appellant is factually  an  overstayer,  contrary  to
+    what the Judge appears to have thought by reference  to  such  "special
+    arrangements".
+
+
+82. The Respondent's sole ground of appeal in this case is that no  reasons
+    have been given for allowing the appeal.  She  says  simply  that  such
+    reasons as are given do not enable her as the losing party to know  why
+    she has lost (nor why the Appellant has won).   She  is  not  alone  in
+    that.  The Respondent's ground is made out.  We are satisfied that  the
+    Judge  failed  properly  to  direct  himself  in  accordance  with  the
+    Immigration Rules, primary legislation  (section  117)  and  case  law.
+    Much of  the  Judge's  reasoning  is  devoted  to  irrelevant,  general
+    political comment which has no bearing on the issues.  He has failed to
+    make findings on the central issues and even where  findings  are  made
+    they are inadequately reasoned.  It is also for the Appellant's benefit
+    that the Decision be set  aside  as   the  basis  on  which  a  Judge's
+    decision is reached in the human rights context may have a  bearing  on
+    the period and route of leave to be granted.
+
+
+83. We find that the Decision discloses a material error of law and we  set
+    it aside.    Given the fundamental nature of the errors  of  law  found
+    and the Appellant's entitlement to have the facts of her claim properly
+    determined, it is necessary for this appeal to be remitted to the First-
+    tier Tribunal for redetermination by a Judge other than Judge Majid.
+
+
+                                IA/23617/2015
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                     and
+                            JONES BOATENG-DANSOH
+
+
+Representation:
+For the Appellant:     Mr T Wilding, Senior Home Office Presenting Officer
+For the  Respondent:     Miss  D  Ofei-Knatia,  instructed  by  Genga  &  Co
+solicitors
+
+84. For ease of reference, we refer below to the parties as  they  were  in
+    the First-Tier Tribunal.
+
+
+85. This is an appeal by the Secretary of State against a decision of First-
+    tier Tribunal Judge Majid, promulgated on 16 September  2016,  allowing
+    the appellant's appeal against the Secretary of State's decision  of  9
+    June 2015 refusing his human rights claim.
+
+86. The appellant is a national of Ghana, born 1 May 1965. He  entered  the
+    United Kingdom on 17 May 1994 and claims to have  continuously  resided
+    here since. He made an asylum clam upon  arrival,  which  he  "did  not
+    pursue" and, subsequently, made an application  for  an  EEA  Residence
+    Card on 2 September 2009, which was refused on a date not disclosed  in
+    the Tribunal's papers. Thereafter the appellant  made  a  human  rights
+    application under cover of a letter dated 1 April 2015. It was asserted
+    therein that he had been in  a  relationship  with  a  British  citizen
+    (Veronica Boakye) between 2000 and 2009,  and  that  there  were  three
+    (British citizen) children born of the relationship,  (in  March  2002,
+    March 2003 and January 2009, respectively). This relationship  had,  as
+    of 1 April 2015, recently rekindled and the 'couple'  were  once  again
+    living with each other.
+
+
+87. In her decision of 9 June 2015, the Secretary  of  State,  inter  alia,
+    concluded:
+
+
+          i)  The  appellant  does  not  have  a  genuine  and   subsisting
+             relationship with a British partner, he  and  Veronica  Boakye
+             not having lived together in a relationship akin  to  marriage
+             for the past 2 years. Therefore, the appellant does  not  meet
+             the requirements of the 'partner route' under Appendix  FM  to
+             the Immigration Rules;
+         ii)  Although  the  appellant  has  a   genuine   and   subsisting
+             relationship with his three children he  does  not  have  sole
+             parental responsibility for them. He claims to live with  them
+             and their mother. He cannot, therefore, meet the  requirements
+             of the 'Parent route' under Appendix FM to the Rules;
+        iii) It is not accepted that the appellant has lived in the  United
+             Kingdom continuously for 20 years. He cannot, therefore,  meet
+             the requirements of paragraph 276ADE(1)(iii) of the Rules;
+         iv) It is not  accepted  that  there  would  be  very  significant
+             obstacles to the appellant integrating into life in Ghana. The
+             requirements of paragraph 276ADE(1)(vi)  are,  therefore,  not
+             met; and
+          v)  It  is  not  accepted  that  there   were   any   exceptional
+             circumstances justifying the grant of leave to remain  outside
+             the Rules.
+
+88. Judge Majid's overarching conclusion  is  reflected  in  the  following
+    passage:
+
+
+         "[16] Accordingly, in view of my deliberations  in  the  preceding
+           paragraphs and having taken into account all  of  the  oral  and
+           documentary evidence as well as the submissions at my  disposal,
+           cognisant of the fact  that  the  burden  of  proof  is  on  the
+           Appellant  and  the  standard  of  proof  is  the   balance   of
+           probabilities, I am persuaded that the  Appellant  comes  within
+           the relevant Immigration Rules as amended."
+
+89. The grant of permission to appeal to the Upper Tribunal identifies  the
+    core challenge thus:
+
+
+           "3. The grounds on which permission to appeal is  sought  submit
+           that the Judge failed to give adequate reasons for finding  that
+           the Appellant satisfied the requirements for leave to remain  as
+           a parent. Arguably the failure to  give  adequate  reasons  goes
+           much wider than this. Arguably there is a failure  to  give  any
+           clear indication of the basis on which the appeal was allowed."
+
+
+90. Although not a point taken by the Secretary  of  State  before  us,  we
+    observe that the appellant's challenge  to  the  Secretary  of  State's
+    decision was limited, by section 84(2) of the Nationality,  Immigration
+    and Asylum Act 2002, to reliance on the ground that  "the  decision  is
+    unlawful under section 6 of the Human Rights Act 1998".
+
+
+91. It maybe that the Secretary of State did not seek to pursue this  point
+    as a consequence of the combination of the appeal having  been  allowed
+    under the Immigration Rules and the Secretary of State's position  that
+    the  Rules  identify  the  public  interest   in   immigration   cases.
+    Nevertheless, even if a Tribunal concludes that the requirements of the
+    Immigration Rules are met it is still incumbent on it to  complete  the
+    task required of it by statute - in this case to determine whether  the
+    decision under challenge is unlawful  under  section  6  of  the  Human
+    Rights Act 1998. The decision made on such issue should be explicit  in
+    the FtT's decision. Judge Majid's decision does not disclose a discrete
+    conclusion on this ground.
+
+
+92. Moving on, given the  terms  of  paragraph  16  of  the  Judge  Majid's
+    decision and terms of the grounds of  challenge,  it  is  necessary  to
+    embark upon an analysis of the reasons  given  by  the  Judge  for  his
+    conclusion that the appellant  "comes  with  the  relevant  Immigration
+    Rules". One would have anticipated, as an irreducible minimum, that the
+    decision would be explicit in its identification as  to  which  of  the
+    numerous immigration rules in play in the instant appeal the  appellant
+    was found to have met. It is not.
+
+
+93. Ms Ofei-Knatia did not seek  to  suggest  that  Judge  Majid  gave  any
+    consideration to the Partner or Private Life Routes under the Rules she
+    submitted,  however,  that  there  was  sufficient  in  Judge   Majid's
+    reasoning to infer that he had allowed the  appeal  under  the  'Parent
+    Route' (paragraph R-LTRPT of Appendix FM) - the appellant, by the  time
+    of the appeal hearing before the FtT, having left the family home.
+
+
+94. The relevant immigration rule (E-LTRPT 2.3): materially  requires  that
+    the appellant demonstrate either that:
+
+
+               i) He has sole  parental  responsibility  for  (one  of)  his
+                  British citizen children; or,
+              ii) That Ms Boakye is not  his  partner  (a  partner  for  the
+                  instant purposes including a person  who  has  been  in  a
+                  relation with the appellant for less than two years  prior
+                  to the date of application).
+
+
+95. If the appellant demonstrates either of  the  aforementioned  he  would
+    also need to meet the requirements  of  paragraph  EX.1  of  the  Rules
+    because of his immigration status (E-LTRPT.3.2.). In the  instant  case
+    the material requirement therein is that:
+
+
+         "(ii) it would not be reasonable to expect the child to  leave  the
+         UK"
+
+
+96. With this in mind we turn back to Judge Majid's decision. Paragraphs  1
+    to 11 thereof are unremarkable - containing a summary  the  appellant's
+    background, the evidence, the parties' submissions as well as a  number
+    of legal self-directions - many of  which  have  been  the  subject  of
+    analysis in our general conclusions above.
+
+97. Judge Majid's 'findings'  begin  at  [12]  -  under  the  heading  "The
+    Proceedings":
+
+
+           "[12] In the documents it is clear that the biological  children
+           of the Appellant need his care and he has left me  in  no  doubt
+           that he is fully willing  to  give  this  to  them.  Their  best
+           interests  alone  can  inspire   discretion   in   his   favour.
+           Furthermore, one cannot overlook the fact that this is a complex
+           case which should come to an end.
+
+
+           [13] The son, [P] is linked to the Appellant.  I  gathered  from
+           the  oral  evidence  that  he  is  fully  benefitting  from  the
+           appellant's father figure status going to football matches."
+
+
+98. These findings are immediately followed, under  the  heading  "Relevant
+    Law", with self-directions as to the applicability of section 55 of the
+    Borders, Citizenship and Immigration Act 2009 [14(a)] and the ratio  of
+    the decision of the Supreme  Court  in  ZH  (Tanzania)  [2011]  UKSC  4
+    [14(b)]. The only further reasoning is to be found in paragraphs  14(c)
+    and 15 of the decision:
+
+
+          "[14(c)] ... The Home Office in this  case  has,  by  issuing  the
+           Children's passports acknowledged  that  they  are  British.  In
+           their case one may raise the rhetoric  question  "To  where  can
+           they be deported?"
+
+
+           [15] I cannot ignore  the  "legal  requirements"  stipulated  by
+           immigration law.  It is incumbent upon me to advert to  the  new
+           Rules giving respect to the intention of the  House  of  Commons
+           dictated by the supremacy of Parliament.  The Appellant ought to
+           benefit  from  the  relevant  Rules  since   the   compassionate
+           circumstances of this case lead to  that  conclusion.  The  best
+           interests of the three children with DNA evidence should not  be
+           undervalued."
+
+
+99. It is uncontroversial that Judge Majid failed to direct himself to  the
+    terms of any of the relevant immigration rules. This is not, of itself,
+    an error but no doubt contributed to the judge's failure  to  identify,
+    or determine, the pertinent issues within each of these rules.
+
+
+100. As we have alluded to above, it is not contended that Judge Majid  made
+    any findings relevant to a consideration of  the  Partner  and  Private
+    Life routes under the Rules. Nor, we find, does  the  judge's  decision
+    disclose any conclusions on the key issues in dispute under the  Parent
+    Route of Appendix FM. In particular, there is nothing  within  [12]  to
+    [16] of Judge Majid's decision which, even  implicitly,  amounts  to  a
+    finding that the appellant either has sole responsibility  for  one  or
+    more of his children, or that Ms Boakye is not his partner for purposes
+    of  the  relevant  immigration   rule.   Furthermore,   there   is   no
+    consideration of whether the requirements of paragraph EX.1  have  been
+    met.
+
+
+101. The losing party, in this case the Secretary of State, is  entitled  to
+    know the basis upon which she has lost the appeal. It is axiomatic that
+    this requires the FtT's decision  to  disclose  sufficient  reasons  to
+    enable such an understanding to be  garnered  from  it.  Judge  Majid's
+    decision does not disclose such reasoning. It is impossible  to  elicit
+    from Judge Majid's decision which of the immigration rules he concluded
+    the appellant  met  the  requirements  of,  the  decision  contains  no
+    findings of fact on relevant issues and, in so far as it does  disclose
+    any reasoning such reasoning could not lawfully lead to the  conclusion
+    reached.
+
+
+102. Consequently, in addition to  the  errors  identified  in  the  general
+    conclusions above - which also pervade the instant  determination,  and
+    irrespective of the fact that Judge Majid did not  determine  the  only
+    permissible ground of challenge before  him  i.e.  whether  the  SSHD's
+    decision leads to a breach of section 6 of the Human  Rights  Act,  the
+    decision is fundamentally flawed by legal error and  falls  well  below
+    the standard one would expect of a First-tier Tribunal judge.
+
+
+103. For the reasons given above, we find that the FtT's decision  discloses
+    an error of law capable of affecting the outcome of the appeal  and  we
+    set it aside. Given the fundamental nature of the errors identified  we
+    conclude that it is necessary for this appeal to be remitted to the FtT
+    to be determined afresh by a judge other than Judge Majid.
+
+
+                                IA/30887/2015
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                     and
+                                AMANDEEP KAUR
+
+Representation:
+For the Appellant:     Mr T Wilding, Senior Home Office Presenting Officer
+For the Respondent:    Mr S Ahmed, instructed by 12 Bridge Solicitors
+
+104. For ease of reference, we refer below to the parties as  they  were  in
+    the First-Tier Tribunal.
+
+105. This is an appeal by the Secretary  of  State  against  a  decision  of
+    First-tier  Tribunal  Judge  Majid,  promulgated  on  5  October  2016,
+    allowing the  appellant's  appeal  against  the  Secretary  of  State's
+    decision of 7 January 2015.
+
+106. The appellant is a national of India, born 3 April  1986.  She  entered
+    the United Kingdom (accompanied by her husband) on 4 February 2011 with
+    leave conferred until 13 March 2012, the date on which she, also,  made
+    an application for further leave, as a Tier 4 Migrant. This application
+    was originally refused in a decision of the 4 May 2012 and on the  same
+    date a decision was made to remove the appellant pursuant to section 47
+    of the Immigration, Asylum and Nationality Act 2006.
+
+
+107.  Thereafter,  First-tier  Tribunal  Judge  McMahon  allowed  an  appeal
+    brought  by  the  appellant  on  the  basis  both  that  she  met   the
+    requirements of the Immigration Rules and that there had been no  basis
+    in law for the Secretary of State to make the removal  decision.  In  a
+    decision of 14 February 2013, the Upper Tribunal (UTJ Jordan  and  DUTJ
+    Lewis) set aside the FtT's decision and, upon re-making it:
+
+
+          i) dismissed the appeal against the decision to  refuse  to  vary
+             leave  -  concluding  that:  (i)  the  requirements   of   the
+             Immigration Rules had not been met and (ii) the  Secretary  of
+             State's decision did not lead to a breach of Article 8  ECHR);
+             and,
+         ii)  allowed  the  appeal  against  the  decision  to  remove  the
+             appellant  on  the  basis  that  such  decision  was  not   in
+             accordance with the law;
+
+108. The next relevant event is the decision under challenge  of  7  January
+    2015, which states that it is  made  in  response  to  the  appellant's
+    application of the 13 March 2012. By way of that decision the Secretary
+    of State purports to "refuse to vary [the appellant's]  leave"  and  to
+    make a "Decision to Remove" the appellant. The decision letter does not
+    identify under the auspices of which legal provision  the  decision  to
+    remove is made, nor does it pay any  regard  to  the  Upper  Tribunal's
+    decision of 14 February 2013, which was, of course,  the  determination
+    of the appellant's appeal against  the  Secretary  of  State's  initial
+    decision refusing to vary her leave.
+
+
+
+
+109. Turning then to the decision of the First-tier  Tribunal.  Judge  Majid
+    proceeded on the basis that the appeal was brought against the decision
+    to refuse to vary  the  appellant's  leave.  This,  though,  cannot  be
+    correct. The appellant's leave was due to expire on 13 March 2012.  Her
+    leave was, however, extended by virtue of section 3C of the Immigration
+    Act 1971 as a consequence of the making  of  the  application  to  vary
+    leave on that date. It was further extended by  the  subsequent  appeal
+    against the refusal of such application i.e. the decision to refuse  to
+    vary leave. The appellant's section 3C leave came to end  on  the  date
+    her appeal rights were initially exhausted, i.e. on or around  the  end
+    of February 2013.
+
+110. It is clear, therefore, the Secretary of State's decision of 7  January
+    2015 'refusing to  vary'  the  appellant's  leave  did  not  bring  the
+    appellant's leave to an end but rather it  was  brought  an  end  as  a
+    consequence of the appeal process (relating to the decision  of  4  May
+    2012) having been exhausted.  There is,  therefore,  no  route,  within
+    section 82 of the Nationality  Immigration  and  Asylum  Act  2002,  or
+    otherwise, providing jurisdiction for the FtT to  determine  an  appeal
+    brought against the decision of 7 January 2015  refusing  to  vary  the
+    appellant's leave.
+
+
+111. This though does not deprive the appellant  of  a  remedy  against  the
+    actions of the Secretary of State. Section 82 of the 2002 Act (prior to
+    its amendment by the Immigration Act 2014)  provided  for  a  right  of
+    appeal against a removal decision.  The  decision  of  7  January  2015
+    identifies that a decision to remove the appellant  was  made  on  that
+    date, although it does not disclose the  legal  basis  upon  which  the
+    Secretary of State purported to make such decision. Unfortunately, none
+    of these issues were raised before, or considered by, Judge Majid,  who
+    proceeded on the incorrect basis that the decision under appeal was the
+    decision of the Secretary of State to refuse to  vary  the  appellant's
+    leave.
+
+
+112. In any event, even if we were to assume (as the Judge Majid  did)  that
+    the decision under appeal was that of the Secretary of  State  refusing
+    to vary the appellant's leave, the decision on that  issue  is  replete
+    with legal errors such that it must be set aside.
+
+
+113. The Secretary of State founded her decision of 7 January  2015  on  the
+    fact that the CAS supplied by the appellant with her application of  13
+    March 2012 did not specify that the course that she  wished  to  pursue
+    represented academic progression from the  course  she  had  previously
+    undertaken. This is exactly the issue that the Upper Tribunal concluded
+    in the Secretary of State's favour in its decision of 14 February 2013.
+
+
+
+
+114. Before Judge Majid the appellant relied upon policy guidance issued  by
+    the Secretary of State on 25 July 2016, headed "Tier 4  of  the  Points
+    Based System", to support the contention that academic  progression  is
+    not restricted to the study of a course of a  higher  level  than  that
+    previously studied, but that it can  also  invoke  consideration  of  a
+    combination of factors, including whether  the  taking  of  the  course
+    supports career aspirations.  Mr Ahmed asserted before us,  in  support
+    of his contention  that  the  Judge  Majid's  decision  should  not  be
+    dislodged, that (i) the Judge  accepted  this  submission,  as  it  was
+    entitled to do, and (ii) that the Judge  thereafter  concluded,  having
+    considered the evidence before him, that the appellant had demonstrated
+    academic progression.
+
+
+115. If this is Judge Majid's reasoning process, then it is far  from  clear
+    from the terms of his decision.  Insofar  as  there  is  any  reasoning
+    disclosed in the Judge Majid's decision it is as follows:
+
+
+          "[20] ... Judges like me should not allow an arbitrary  reason  to
+          obstruct the perfectly  proper  educational  plans  of  a  genuine
+          student - this student as the Appellant's bundle has confirmed has
+          paid  �3000  for  the  qualification  she  is  undertaking  at   a
+          particular college.
+
+
+          [21] I accept the fact that the Upper Tribunal's decision  is  not
+          binding on me. The appeal before me is  in  relation  to  evidence
+          freshly submitted to me and I am free to take any view of  that  -
+          either I accept the cogency of the evidence or reject  it;  it  is
+          convenient for me to say here that all of the evidence leads me to
+          accept the new evidence before me.
+
+
+          [23] I  cannot  ignore  the  "legal  requirements"  stipulated  by
+          immigration law.  It is incumbent upon me to  advert  to  the  new
+          Rules giving respect to the intention  of  the  House  of  Commons
+          dictated by the supremacy of Parliament. The Appellant can benefit
+          from the Rules because she is a  genuine  student  who  should  be
+          helped as articulated above.
+
+
+          [24] Accordingly, in view of my  deliberations  in  the  preceding
+          paragraphs and having taken into  account  all  of  the  oral  and
+          documentary evidence as well as the submissions  at  my  disposal,
+          cognisant of the fact that the burden of proof is on the Appellant
+          and the standard of proof is the balance of  probabilities,  I  am
+          persuaded that the Appellant comes within the relevant Immigration
+          Rules as amended."
+
+
+116. This reasoning, in addition to the errors  identified  in  our  general
+    conclusions above which, for the most part, also pervade this decision,
+    is also brimming with further legal  error,  the  most  significant  of
+    which can be summarised thus:
+
+
+              i)  The  Judge  failed  to  apply  the  starred  decision   in
+                 Devaseelan [2002] UKAIT 00702 to his considerations  (there
+                 had already been  a  decision  by  the  Upper  Tribunal  on
+                 exactly the  issue  that  fell  for  consideration  in  the
+                 instant appeal);
+             ii) The Judge  failed  to  direct  himself  to  the  applicable
+                 requirements of the Immigration Rules,  and  in  particular
+                 the requirements that it was said by the Secretary of State
+                 that the appellant failed to meet;
+            iii) The Judge misdirected himself when stating that because the
+                 appellant 'is a genuine student' she could benefit from the
+                 Rules.  The  Rules  plainly  required  the   appellant   to
+                 demonstrate more than the  fact  that  she  was  a  genuine
+                 student;
+             iv) The Judge erred  in  directing  himself  that  it  was  his
+                 function to 'help'  the  appellant.  His  function  was  to
+                 determine the appeal before him impartially, not to  'help'
+                 one of the parties to the appeal to succeed;
+              v) Insofar as the Judge took account of  the  policy  guidance
+                 identified above, he erred in so doing - such guidance post-
+                 dating the decision under appeal.
+
+117. For all these reasons,  we  find  that  the  FtT's  decision  discloses
+    multiple errors of law capable of affecting the outcome of the  appeal,
+    and we set it  aside.  Given  the  fundamental  nature  of  the  errors
+    identified we conclude that it is  necessary  for  this  appeal  to  be
+    remitted to the FtT to be determined afresh by a judge other than Judge
+    Majid.
+
+                                IA/31116/2015
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                     and
+                              SANDRA BOPOLONGA
+
+
+Representation:
+For the Appellant:     Mr T Wilding, Senior Home Office Presenting Officer
+For the Respondent:    Mr C Mpangi, Respondent's Partner
+
+118. This is an appeal by the Secretary of State.  For  ease  of  reference,
+    we refer below to the parties as they were in the First-Tier  Tribunal.
+    The Respondent appeals against a decision of First-Tier Tribunal  Judge
+    Majid promulgated on 24 October  2016  ("the  Decision")  allowing  the
+    Appellant's appeal against the Secretary of State's decision  dated  10
+    September  2015  refusing  her  human  rights  claim   based   on   her
+    relationship with Mr Mpangi who is a person settled in the UK and their
+    two children and her private life established in the UK.
+
+
+119. The Appellant is a national of DRC.  She entered the UK on  21  January
+    2005 with leave to remain as  a  spouse  until  11  January  2007.   An
+    application made on 12  January  2007  for  indefinite  leave  in  that
+    category was refused on 7 March 2007.  Thereafter, she overstayed.  She
+    made an application for leave to remain on the basis of her family  and
+    private life on 20 February 2015 leading to the decision under appeal.
+
+
+120. The issues which required determination in this appeal are whether  the
+    Appellant can meet Appendix FM of the Immigration Rules  based  on  her
+    relationship with her partner and/or their  children.   The  Respondent
+    rejected the application based on the Appellant's relationship with her
+    partner because she did not accept that it had subsisted for two  years
+    prior to the  application.  In  particular,  she  did  not  accept  the
+    evidence of a marriage said to have taken place in DRC in 2004  because
+    the Appellant did not produce the original certificate.  The Respondent
+    rejected the application based on the Appellant's relationship with her
+    children because the Appellant shares parental responsibility for  them
+    with her partner. The Respondent also  decided,  when  considering  the
+    case outside the Immigration Rules, that the family could  relocate  to
+    DRC.
+
+
+121. The Judge allowed the appeal.  The main reason for doing so appears  at
+    [20] of the Decision where he describes the children's  best  interests
+    as a "knock-out blow".  As we observe at  [21]  above  in  relation  to
+    another appeal, that  is  an  incorrect  statement  of  the  law.   The
+    children's best interests are  a  primary  consideration  but  are  not
+    paramount and are capable of being outweighed by other matters.   Here,
+    the Appellant's overstaying  is  relevant  but  that  factor  finds  no
+    mention in the Decision.
+
+
+122. Mr Mpangi, who spoke on the Appellant's behalf, asked us to uphold  the
+    Decision.  He produced to us the originals of  the  copy  documents  on
+    which the Appellant relied in her application to evidence the  marriage
+    having taken place.  As we observed in the course of the hearing, there
+    may  be  some  issues  in  relation  to  those  documents  but  it   is
+    inappropriate for us to comment further; in  light  of  our  conclusion
+    that this appeal must be remitted, it will be  for  another  First-tier
+    Tribunal Judge to adjudicate on what those show.  As  Mr  Wilding  also
+    pointed out in reply, even if  the  Appellant's  relationship  with  Mr
+    Mpangi is as she  claims,  the  Judge  would  still  need  to  consider
+    paragraph EX.1 of Appendix FM  and  whether  there  are  insurmountable
+    obstacles to family life  continuing  in  DRC.   That  is  because  the
+    Appellant had  no  leave  to  remain  in  the  UK  when  she  made  her
+    application. The Judge made no finding on that issue.
+
+
+123. At [22] of the Decision, the Judge purports to  apply  the  Immigration
+    Rules to the Appellant's case and to find them satisfied.  He does  not
+    cite the rule which he there purports to apply.  Nor  does  the  appeal
+    succeed under the Rules if the children's best interests are the driver
+    for allowing the appeal.  As Mr Wilding pointed out in his submissions,
+    those may be reason to allow the appeal outside the Rules but since the
+    Appellant is not the children's sole carer she cannot succeed under the
+    parent route within the  Rules.   Unfortunately,  due  to  the  Judge's
+    failure to advert to the rule he has in mind, we, as both parties,  are
+    in the dark as to why the Judge thought  that  the  Appellant's  appeal
+    could succeed under the Rules.  As we note  in  our  general  decision,
+    this is a common failing.
+
+
+124. The Respondent's sole ground of appeal alludes to the lack  of  reasons
+    for allowing the appeal.  That ground is  made  out.   It  is  entirely
+    unclear why the Judge allowed  the  appeal.   If  the  children's  best
+    interests are in fact that reason, the Judge has fundamentally erred in
+    his understanding of the importance to be accorded to those  interests.
+    There is no attempt to factor in the public interest.
+
+
+125. The Decision therefore discloses a material error of law and we set  it
+    aside.    Given the fundamental nature of the errors of law  found  and
+    the Appellant's entitlement to have the facts  of  her  claim  properly
+    determined, it is necessary for this appeal to be remitted to the First-
+    tier Tribunal for redetermination by a Judge other than Judge Majid.
+
+                        IA/31918/2015; IA/31924/2015
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                     and
+                  EMELIA BOATENG AND CHARLES NUAMAH BEMPONG
+
+Representation:
+For the Appellant:     Mr T Wilding, Senior Home Office Presenting Officer
+For the Respondents:   Ms M Harris, instructed by Rahman & Co solicitors
+
+126. This is an appeal brought by the  Secretary  of  State.   For  ease  of
+    reference, we refer below to the parties as they were in the First-Tier
+    Tribunal. In a decision promulgated  on  24  October  2016,  First-tier
+    Tribunal Judge Majid allowed appeals against the Secretary  of  State's
+    decisions of 15 September 2015 refusing both  Ms  Boateng  ("the  first
+    appellant") and  Mr  Bempong  ("the  second  appellant")  a  Derivative
+    Residence Card.
+
+
+127. The appellants  are  nationals  of  Ghana  and  assert  that  they  are
+    married. They are the parents of a British citizen child, born in 2004.
+    By the time of the hearing before  the  First-tier  Tribunal  the  core
+    issue in dispute between the parties was that of the responsibility for
+    this child's care, it being asserted that the  appellants  shared  such
+    responsibility equally.
+
+
+128. By regulation 15A(4A) of  the  2006  Regulations  an  applicant  for  a
+    Derivative Residence Card must, inter alia, be the "primary carer" of a
+    British citizen child. Primary carer is defined in regulation 15A(7) as
+    follows:
+
+
+           "(7) P is to be regarded as a "primary carer" of another  person
+           if
+             (a) P is a direct relative or legal guardian of  that  person;
+             and
+             (b) P -
+                (i)  is the person who has primary responsibility  for  that
+             person's care; or
+                (ii) shares equally the  responsibility  for  that  person's
+             care with one other person who is not an exempt person"
+
+
+129. The grounds of appeal to the Upper Tribunal submit,  inter  alia,  that
+    Judge Majid erred in failing  to:  (a)  engage  with  the  reasons  for
+    refusal; (b) make a finding on the core issue of whether either of  the
+    appellants is the primary carer to their child  (or  whether  they  are
+    both primary  carers);  and,  (c)  provide  adequate  reasons  for  his
+    conclusions.
+
+130. The overarching  conclusions  of  Judge  Majid  are  reflected  in  the
+    following paragraphs of his decision:
+
+
+         "[23] I cannot  ignore  the  "legal  requirements"  stipulated  in
+           immigration law. It is incumbent upon me to advert  to  the  new
+           Rules giving respect to the intention of the  House  of  Commons
+           dictated by the  supremacy  of  parliament.  The  Appellant  can
+           benefit from the relevant  Rules  because  the  evidence  at  my
+           disposal inspires me to allow this appeal which is eminently  in
+           the interests of the children and their  parents.  I  can  never
+           forget the fact that it is better  for  children  to  have  both
+           parents living with them and also the evidence  at  my  disposal
+           shows that they have British nationality. With  the  Nationality
+           Act 1981, nationality is conferred upon anyone due to birth  and
+           therefore if the children's father tell me that he is British  I
+           cannot accept this without further legal investigation.
+
+
+         [24] Accordingly, in view of my  deliberations  in  the  preceding
+           paragraphs and having taken into account all  of  the  oral  and
+           documentary evidence as well as the submissions at my  disposal,
+           cognisant of the fact  that  the  burden  of  proof  is  on  the
+           Appellant  and  the  standard  of  proof  is  the   balance   of
+           probabilities, I am persuaded that the  Appellant  comes  within
+           the relevant Immigration Rules as amended."
+
+
+131. Nowhere in these paragraphs does the Judge identify that  the  relevant
+    legal regime underpinning the instant appeals is to  be  found  in  the
+    2006 EEA Regulations; indeed, the only mention of these Regulations  is
+    to be found in paragraph 17 of  his  decision,  in  which  there  is  a
+    criticism of the Presenting Officer's cross-examination.
+
+
+132. Such a failure is not of itself  sufficient  to  demonstrate  that  the
+    Judge did not apply his  mind  to  the  correct  considerations.  When,
+    however, it is taken in conjunction with: (a) the fact that the appeals
+    were allowed on the basis that the appellants came "within the relevant
+    Immigration Rules" and not that they met the requirements of regulation
+    15A of the 2006 Regulations - or some other  kindred  expression;  and,
+    (b) the mis-characterisation of the issue in dispute  at  [16]  of  the
+    Judge's decision (in which it is said that the main issue  "is  whether
+    the husband was the primary carer of the  children  and  therefore  the
+    result of the appeal hangs on the evaluation of their best  interests")
+    we are led inexorably to the conclusion that the Judge failed to  apply
+    the correct legal regime to its considerations.
+
+133. Ms Harris seeks to sweep aside these criticisms by  reminding  us  that
+    the appellants gave evidence, by way of witness statements  and  orally
+    at the hearing before the FtT, as to their respective  responsibilities
+    in the care of their child. She submits that on a proper reading of the
+    Judge Majid's decision the appellants were found to be truthful in that
+    evidence and, consequently, the Judge must have made a finding  to  the
+    effect that the appellants share equally the responsibility  for  their
+    child's care. For this reason, it is said, the decision  to  allow  the
+    appeal cannot be impugned.
+
+
+134. We reject this submission. First, there is no finding  in  the  Judge's
+    decision,  either  explicit  or  implicit,  that  the  appellants  gave
+    truthful evidence in all regards. If there is an argument that positive
+    credibility findings are  implicit  in  Judge  Majid's  decision,  that
+    argument cannot go beyond what was necessary for the Judge to determine
+    the issue that he wrongly thought was before him.
+
+135. In any event, even if we are wrong in this  and  the  Judge  found  the
+    appellants to be credible in the entirety of  their  evidence,  such  a
+    finding does not ineluctably lead to a conclusion that the requirements
+    of regulation 15A(7) of the 2006 Regulations are met. There is still an
+    assessment required, on the accepted evidence, of whether  one  of  the
+    parents had  primary  responsibility  for  the  child's  care  or  that
+    responsibility is "share[d] equally".  That  assessment  has  not  been
+    carried out by Judge Majid.
+
+
+136. There are also numerous other errors  to  be  found  in  Judge  Majid's
+    decision. There is, once  again,  an  inappropriate  reference  to  the
+    decision in Gondolia, observations in relation to  which  have  already
+    been made in our general conclusions above. The Judge also devotes four
+    paragraphs of reasoning to "serious allegations of fraud" made  against
+    the appellants. No such allegations have been made.  The  Secretary  of
+    State's case, as set out in the decision letter, is that the appellants
+    had not produced sufficient evidence to demonstrate that they  met  the
+    requirements of the 2006 EEA Regulations.
+
+
+137. When the decision is read as a whole, and in its proper context, it  is
+    beyond dispute that the losing party, in this  case  the  Secretary  of
+    State, is unable to understand  the  basis  upon  which  she  lost  the
+    appeal. It is plain that Judge Majid did not correctly  understand  the
+    issue that was in dispute between the parties and,  as  a  consequence,
+    his decision provides no reasons as  to  why  such  issue  fell  to  be
+    decided in the appellants' favour.
+
+
+138. For these reasons, we find that the FtT's decision discloses  an  error
+    of law capable of affecting the outcome of the appeal  and  we  set  it
+    aside. Given  the  fundamental  nature  of  the  errors  identified  we
+    conclude that it is necessary for this appeal to be remitted to the FtT
+    to be determined afresh by a judge other than Judge Majid.
+
+
+                                IA/32046/2015
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                     and
+                                XIAOMEI WANG
+
+Representation:
+For the Appellant:     Mr T Wilding, Senior Home Office Presenting Officer
+For the Respondent:    Ms C Record, instructed on a direct access basis
+
+139. This is an appeal by the Secretary of State.  For  ease  of  reference,
+    we refer below to the parties as they were in the First-Tier  Tribunal.
+    The Respondent appeals against a decision of First-Tier Tribunal  Judge
+    Majid promulgated on 11 October  2016  ("the  Decision")  allowing  the
+    Appellant's appeal against the Secretary of State's decision  dated  17
+    September  2015  refusing  her  human  rights  claim   based   on   her
+    relationship with her partner Mr Wen Li who is a person settled in  the
+    UK, and their two children.
+
+
+140. This is the case to which  we  refer  at  [33]  and  following  of  our
+    general decision. It is not therefore necessary for us  to  recite  the
+    facts or the issues with which the Judge needed to grapple.
+
+
+141. As we note at [35] of our general  decision,  the  Judge  has  made  no
+    finding in relation to the alleged deception, this being a  case  where
+    the Respondent asserted that the Appellant  had  obtained  her  English
+    language certificate by use of a proxy test taker.  There  is  also  no
+    reference to the  question  whether  the  Appellant  meets  the  income
+    requirements of the Rules, or finding on it.
+
+
+142. As in other cases, the Judge appears to determine  the  appeal  in  the
+    Appellant's favour  because  of  the  children's  best  interests.   He
+    appears to find at [24] of the Decision, that, because the Appellant is
+    "fully committed to the best interests of her children" she can succeed
+    under the Rules.  In common with other appeals  before  us,  the  Judge
+    fails to give any indication which rule he considers  he  is  applying.
+    As we also observe at [43] of our general decision, the  Judge  wrongly
+    cites Pokhriyal as authority for a  proposition  to  which  it  has  no
+    application.  The Judge's conclusion appears  to  be  that  the  appeal
+    should be allowed  under  the  Rules  based  on  some  unspecified  and
+    unreasoned exercise of his discretion.  The outcome  itself  may  be  a
+    permissible one when the best interests of the  children  are  factored
+    into the equation.  That is though an assessment to be made outside the
+    Rules, not an exercise of discretion.   It  is  therefore  inconsistent
+    with the finding at [24] that the Appellant meets the Rules.  There  is
+    no discretion to be exercised in the application of the Rules.   Either
+    the Appellant meets the Rules or she does not.
+
+
+143. Further, as we observe at [35] of our general decision, if and  insofar
+    as the Judge considered that the appeal should be allowed  outside  the
+    Rules, it was incumbent on him to conduct a  proportionality  exercise.
+    He could not do so without reaching a  finding  whether  deception  had
+    been exercised by the Appellant.  Nor could  he  do  so  without  first
+    determining whether the Appellant could meet the Rules,  in  particular
+    the income threshold.  As we note above, he did not make  any  findings
+    on  those  issues.   Those   matters   would   be   relevant   to   the
+    proportionality assessment, particularly taking  into  account  section
+    117 of the Nationality, Immigration and Asylum Act  2002  to  which  no
+    reference is made (either expressly or implicitly).
+
+
+144. The Respondent's sole ground of appeal is that the Judge  has  provided
+    inadequate reasons for allowing the appeal.  That ground is  made  out.
+    We, like the Respondent, find ourselves unable to discern  whether  the
+    appeal was allowed under the Rules or outside them and, if so, based on
+    what findings or for what reasons.  In this particular case, it  is  of
+    equal importance to the Appellant to have findings  of  fact  made,  in
+    particular in relation to the allegation of deception.  As we noted  in
+    the course of the hearing, if the allegation  of  deception  cannot  be
+    established, it will be also to the Appellant's advantage in the longer
+    term to have a clear finding that this is the case.
+
+
+145. The Decision therefore discloses a material error of law and we set  it
+    aside.    Given the fundamental nature of the errors of law  found  and
+    the Appellant's entitlement to have the facts  of  her  claim  properly
+    determined, it is necessary for this appeal to be remitted to the First-
+    tier Tribunal for redetermination by a Judge other than Judge Majid.
+
+
+                                IA/32286/2015
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                     and
+                            ESTHER YAH-OMA OKPALA
+
+Representation:
+For the Appellant:     Mr T Wilding, Senior Home Office Presenting Officer
+For the Respondent:    Ms  J  Chandrasingh,  of  Royal  College  of  Nursing
+Information
+                  Advice Service
+
+146. This is an appeal brought by the  Secretary  of  State.   For  ease  of
+    reference, we refer below to the parties as they were in the First-Tier
+    Tribunal. In a decision promulgated  on  24  October  2016,  First-tier
+    Tribunal  Judge  Majid  allowed  the  appellant's  appeal  against  the
+    Secretary of  State's  decision  of  21  September  2015  refusing  her
+    application for leave to remain on human rights grounds.
+
+147. The appellant is a national of Nigeria,  born  on  10  June  1974.  She
+    entered the UK in June 2007 as a student and,  it  appears,  has  since
+    remained here lawfully. Her three children reside with her  in  the  UK
+    (born in Nigeria on  19  May  2001,  18  May  2003  and  29  May  2005,
+    respectively). Two  of  these  children  lawfully  entered  the  UK  in
+    February 2010, and the third in July 2010  at  the  same  time  as  the
+    appellant's now estranged husband.
+
+148. By way of the rule 24 response received by the  Upper  Tribunal  on  22
+    June 2017 the appellant accepted that: (i)  the  First-tier  Tribunal's
+    decision should be set aside; and, (ii) the fundamental nature  of  the
+    errors therein required the appeal to be  remitted  to  the  First-tier
+    Tribunal to be determined afresh by a different judge.  We  concur,  as
+    did Mr Wilding.
+
+
+149. Although, as a consequence of the concession made by the appellant,  we
+    need not set out in detail the  nature  of  the  errors  in  the  FtT's
+    consideration of the appeal, we do consider it appropriate to summarise
+    them.
+
+
+150. We have already set out, in our general conclusions above, a number  of
+    passages from Judge Majid's decision  in  this  appeal  (see  [19]  and
+    [21]). The observations made in [28] to [31] above also relate  to  the
+    instant case. We do not repeat these observations here, but  they  form
+    part of our consideration of the lawfulness of the Judge's decision.
+
+
+151. In addition, this is yet another case in which Judge Majid purports  to
+    allow the appeal solely on the  basis  that  the  appellant  meets  the
+    requirements of the Immigration Rules in circumstances where  the  only
+    ground of appeal available to the appellant was that the  Secretary  of
+    State's decision was unlawful under Section 6 of the Human  Rights  Act
+    1998.  There is an even greater irrationality in such a approach in the
+    instant case because the appellant accepted  before  Judge  Majid  (and
+    continues to accept) that she  cannot  meet  the  requirements  of  the
+    Rules.
+
+
+152. The errors that can be  found  in  this  decision  do  not  end  there,
+    however. Given the concession made by the  appellant  that  the  appeal
+    should be remitted to the First-tier  Tribunal,  and  given  the  clear
+    errors we have already identified above, rather than  expend  any  more
+    unnecessary judicial ink  in  providing  a  detailed  analysis  of  the
+    further errors we simply summarise them thus:
+
+
+           i)   Judge Majid erred in directing itself  at  [22],  [29]  and
+              [30] of his decision, that the immigration rules in  play  in
+              the instant appeal contain a discretion which he was entitled
+              to exercise for himself;
+
+
+          ii) Judge Majid misdirected ihimself in paragraph  12(a)  of  his
+              decision by treating the best interests of  the  children  as
+              being a "knock-out" factor. The children's best interests are
+              a primary consideration  but  are  not  paramount.  They  are
+              capable of being outweighed by other matters (see  Zoumbas  v
+              SSHD [2013] UKSC 74 at [10(2)]); and,
+
+         iii) In any event, the Judge's  decision  fails  to  disclose  any
+              lawful analysis of the children's best interests;
+
+
+153. For the reasons given above, we find that the FtT's decision  discloses
+    multiple errors of law capable of affecting the outcome of  the  appeal
+    and we set it  aside.  Given  the  fundamental  nature  of  the  errors
+    identified we conclude that it is  necessary  for  this  appeal  to  be
+    remitted to the FtT to be determined afresh by a judge other than Judge
+    Majid.
+
+
+                                IA/32901/2015
+
+                        SAILESHKUMAR KHANTIBHAI PATEL
+                                     and
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+Representation:
+For the Appellant:     Mr A Otchie, Counsel
+For the Respondent:    Mr T Wilding, Senior Home Office Presenting Officer
+
+154. The Appellant appeals against a decision of First-Tier  Tribunal  Judge
+    Majid promulgated on 4 October 2016  ("the  Decision")  dismissing  the
+    Appellant's appeal against the Secretary of State's decision  dated  14
+    August 2015 refusing him leave to remain as a Tier 2 (General) Migrant.
+
+
+
+
+155. The Appellant is a national of India.  The Appellant entered the UK  as
+    a student on 10 March 2011.  His leave in that category was extended to
+    30 October 2014.  He made an in-time application  on  29  October  2014
+    which was refused by the decision under appeal.  The Respondent refused
+    the application on  the  basis  that  the  Certificate  of  Sponsorship
+    ("COS") on which the Appellant relied in  his  application  was  false.
+    The application was therefore refused under paragraph  322(1A)  of  the
+    Immigration Rules ("the Rules") on the basis  that  the  Appellant  had
+    exercised deception.  As a result, the Appellant was given zero  points
+    for sponsorship, appropriate salary and maintenance and therefore  also
+    failed to satisfy paragraph 245HD of the Rules.  He  was  also  refused
+    because he did not have a relevant qualification for  the  purposes  of
+    paragraph 245HD(d) of the Rules.
+
+
+156. The central issue for the Judge to determine were  accordingly  whether
+    the Appellant had exercised deception.  As  we  note  at  [26]  of  our
+    general decision, the Judge was required to determine  this  issue  for
+    himself based on the evidence before him.  True it is in this case that
+    he does refer to the correct burdens and standards of proof at [15]  of
+    the Decision.  However, when it comes to  determining  the  issue,  the
+    Judge says this:
+
+
+         "[17]    Clear and convincing evidence is required  for  the  Home
+           Office to allege deception or any other moral turpitude  against
+           an Appellant.  Such evidence is available for the Respondent  to
+           make the negative decision in this case and therefore I am bound
+           to dismiss this appeal.
+           [18]   I cannot ignore the "legal requirements" stipulated by
+           immigration law.  It is incumbent on me to advert to the new
+           Rules giving respect to the intention of the House of Commons
+           dictated by the supremacy of Parliament.  The Appellant cannot
+           benefit from the relevant Rules because the evidence he had
+           presented to the Respondent has led it to make the negative
+           decision."
+
+
+157. In relation  to  the  Judge's  prior  consideration  of  the  evidence,
+    paragraph [14] of the Decision is capable of  amounting  to  a  finding
+    that the Respondent has discharged her burden.  Based on  the  evidence
+    recited at [11] of the Decision, that finding  would  be  open  to  the
+    Judge.  However, contrary to  the  self-direction  which  follows,  the
+    Judge fails to take into account at [17] of the Decision, whether  what
+    is said by the Appellant as recorded at [13] satisfies  the  burden  on
+    the  Appellant.   The  Judge  makes  no  finding  as  to  whether   the
+    Appellant's explanation is credible.  He appears to find at  [18]  that
+    deception  has  been  exercised  because  the  Appellant  produced  the
+    evidence on which the Respondent relied (i.e. the COS).   But  that  is
+    not the test.
+
+
+158. The Judge also suggests at [19] in his conclusions that the  burden  is
+    on the Appellant to the standard of a balance of  probabilities.   That
+    is both wrong and contrary to  his  earlier  self-direction  (at  least
+    insofar as deception is concerned).  As  we  observe  at  [22]  of  our
+    general decision, if the  reasoning  in  the  Decision  were  otherwise
+    sound, we might be inclined to view this as an immaterial  error  given
+    the earlier self-direction.  As it is though, although  the  Judge  has
+    earlier directed himself properly in accordance with relevant case  law
+    as to the burdens and standards of proof in a deception case, there  is
+    little sign that the Judge has thereafter applied  the  relevant  test.
+    Certainly, if he has, there is no evidence of his reasoning or findings
+    leading him to the ultimate conclusion that he was bound to dismiss the
+    appeal.
+
+
+159. As Mr Wilding points  out,  even  leaving  aside  the  COS  issue,  the
+    Appellant fails in this case  unless  he  can  provide  evidence  of  a
+    qualification meeting the requirement  of  paragraph  245HD(d)  of  the
+    Rules.  However, the errors of law in  the  Decision  remain  material.
+    The Appellant is entitled to a reasoned determination of the  deception
+    issue not least because that has an impact on applications he may  wish
+    to make in the future, applying paragraph 320(7B) of the Rules.
+
+
+160. The Decision therefore discloses a material error of law and we set  it
+    aside.    Given the fundamental nature of the errors of law  found  and
+    the Appellant's entitlement to have the facts  of  his  claim  properly
+    determined, we agree with the parties that it  is  necessary  for  this
+    appeal to be remitted to the First-tier Tribunal for redetermination by
+    a Judge other than Judge Majid.
+
+
+
+                                OA/07779/2015
+
+                      ENTRY CLEARANCE OFFICER - NIGERIA
+                                     and
+                       ELIZABETH ALAGO OLAIYE STEPHEN
+
+Representation:
+For the Appellant:     Mr T Wilding, Senior Home Office Presenting Officer
+For the Respondent:    No appearance
+
+161. This is an appeal by the Entry  Clearance  Officer  ("the  ECO").   For
+    ease of reference, we refer below to the parties as they  were  in  the
+    First-Tier Tribunal. The Respondent appeals against a decision of First-
+    Tier Tribunal Judge Majid promulgated on 8 August 2016 ("the Decision")
+    allowing the Appellant's appeal against the  ECO's  decision  dated  23
+    March 2015 refusing her entry for settlement with her British  national
+    partner.   The Appellant is a national of Nigeria.
+
+
+162. There were two issues in this appeal for the Judge to  determine.   The
+    first was  whether  the  Appellant  is  in  a  genuine  and  subsisting
+    relationship with her sponsor.  The second was  whether  the  sponsor's
+    income meets the relevant threshold.  If the Appellant did not meet the
+    Rules, then it was also necessary to determine whether her human rights
+    would be breached by the refusal to allow her to enter.
+
+
+163. In this case, one of the Respondent's grounds relates to the  procedure
+    adopted by the Judge at  the  hearing.   It  is  said  that  the  Judge
+    "appeared to sacrifice his  independence".    That  is  a  particularly
+    troubling allegation.  For  that  reason,  by  directions  sent  on  28
+    February 2017, Deputy Upper Tribunal  Judge  Zucker  ordered  that  the
+    parties should produce at  the  hearing  all  notes  and/or  record  of
+    proceedings made by them or their representatives at the hearing before
+    Judge Majid.  The Respondent has produced her notes.  There has been no
+    response from the Appellant or her sponsor.
+
+
+164. By a letter received on 8 June 2017, the sponsor requested a change  of
+    the hearing date on 27 June 2017 on the basis that he lost  his  mother
+    on 20 May 2017 and had to travel to Nigeria for the burial  and  church
+    services afterwards and would not be back in the UK until 6 July  2017.
+     By notice sent on 15 June 2017 ("the Notice"), the  Tribunal  informed
+    the Appellant that the request would be considered only on  receipt  of
+    the booked air tickets for  the  trip  to  Nigeria.   No  response  was
+    received.
+
+
+165. In light of the Appellant's (or sponsor's) failure to comply  with  the
+    Directions or to respond to the Notice, we determined that  it  was  in
+    the interests of justice to proceed in the sponsor's absence.  We  also
+    noted that, if we reached a conclusion that the Decision should be  set
+    aside and the appeal be  remitted,  it  would  be  in  the  Appellant's
+    interests to have that done  as  soon  as  possible  to  facilitate  an
+    earlier redetermination of her appeal.  We therefore indicated that  we
+    would determine the Respondent's appeal based on her  grounds  and  all
+    the materials on file.
+
+166. In relation to the first of those  grounds,  the  legal  representative
+    withdrew from the hearing before Judge  Majid.   That  is  for  reasons
+    recorded at [4] of the Decision.  In short, the  Judge  says  that  the
+    representative "took a dislike" to the Judge and indicated that neither
+    he nor the sponsor could understand the Judge's questions.  There is an
+    issue raised by the Respondent  based  on  her  notes  of  the  hearing
+    whether what the Judge says about the questioning (that he was  not  in
+    fact asking questions) is accurate.  We do not need to reach  any  view
+    about what occurred though since the procedural unfairness relied  upon
+    by the Respondent arises from what happened subsequently.
+
+
+167. Understandably perhaps, the Judge, finding himself left only  with  the
+    sponsor in person, wished to assist  him.   That  is  perfectly  proper
+    within certain bounds.  There is however a line  which  should  not  be
+    crossed between helping a litigant in person to put  forward  his  case
+    and putting forward  his  case  for  him.   In  this  case,  the  Judge
+    indicated at [4] of the Decision that "[his  i.e.  the  Judge's]  legal
+    help to him would become apparent in the  submissions".   That  comment
+    then leads on  to  a  passage  at  [12]  which  is  the  focus  of  the
+    Respondent's complaint where the Judge said "I submitted on  behalf  of
+    the Sponsor as per my promise."
+
+
+168. Taking the side of one of the parties is contrary  to  the  requirement
+    for judicial independence.  Whilst the Judge may not have  intended  to
+    cross the boundary of what is appropriate and what he says occurred may
+    simply  be  badly  expressed  and  contrary  to  his   intention,   the
+    combination of what is said at [4] and [12] of the Decision gives  rise
+    to the inference that  the  Judge  improperly  took  the  side  of  the
+    Appellant and in so doing breached judicial independence.
+
+
+169. That is itself sufficient reason to set aside the  Decision.   However,
+    we also find that ground two is made  out.   The  section  headed  "The
+    Relevant Law" is anything but relevant.  As we  note  at  [32]  of  our
+    general decision, there is reference to "compassionate facets"  without
+    any clarity as to what those "facets" are.  This  is  also  the  appeal
+    incidentally which, at [13], makes reference  to  paragraph  320  which
+    apparently has no relevance to the case at all.  There is reference  to
+    the Forrester case concerning discretion.  Discretion does not arise at
+    all in relation to whether the Appellant meets the Rules.  That was the
+    first issue for the Judge to determine.  He has entirely failed  to  do
+    so.
+
+
+170. The reasons why the  Judge  apparently  concludes  in  the  Appellant's
+    favour appear to be those set out at [15] to [16] of  the  Decision  as
+    follows:-
+
+
+         "[15]     Even  though  immigration  control  is  strict  in  this
+           country, no appellate judge has ever said that  one  should  say
+           goodbye to compassion.  Thus I am minded to give the benefit  of
+           my  judicial  discretion  to  this  Appellant.   If  a   child's
+           relationship with his/her parent can be regarded as a "Number  1
+           family" consideration, a husband's relationship  with  his  wife
+           should also be considered with care.
+         [16] I  cannot  ignore  the  "legal  requirements"  stipulated  by
+           immigration law.  It is incumbent on me to  advert  to  the  new
+           Rules giving respect to the intention of the  House  of  Commons
+           dictated by the supremacy of Parliament.  This Appellant  should
+           be allowed to join her husband who,  going  by  the  content  of
+           documents at my  disposal,  has  been  fully  committed  to  her
+           welfare.  It is to his credit that the Respondent has not raised
+           any objection to the fact that the sponsoring husband meets  the
+           legal requirement of being settled and resident in the UK."
+
+
+171. Whilst the Judge is right to point to the need to have  regard  to  the
+    Rules, he completely fails to remind himself of the provisions of those
+    Rules.  Had he done so, he would have noted that the central issues  in
+    this  case  were  the  genuineness  of  the  relationship  between  the
+    Appellant and her sponsor and whether the sponsor could meet the income
+    threshold requirements.  The Judge's focus on discretion instead of  on
+    the Rules has led him into the error of failing to make any findings on
+    the central issues.  If his focus on discretion is intended to indicate
+    that he allowed the appeal based on Article 8 ECHR,  then  there  is  a
+    failure by the  Judge  to  assess  proportionality  in  the  particular
+    context of a finding about the ability of the sponsor to  maintain  the
+    Appellant.
+
+
+172. As we noted above, the Decision must be set aside based on the  conduct
+    of the hearing in this case.  The Respondent's second ground concerning
+    the substantive consideration is also made out.   The Judge has  failed
+    to make relevant findings and failed to provide  adequate  reasons  for
+    his conclusion.
+
+
+173. The Decision therefore discloses a material error of law and we set  it
+    aside.    Given the fundamental nature of the errors of law  found  and
+    the Appellant's entitlement to have the facts  of  her  claim  properly
+    determined, it is necessary for this appeal to be remitted to the First-
+    tier Tribunal for redetermination by a Judge other than Judge Majid.
+
+
+
+                                RP/00104/2016
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                     and
+                              MANZOOR SHINWARI
+
+Representation:
+For the Appellant:            Mr T Wilding, Senior  Home  Office  Presenting
+Officer
+For  the  Respondent:   Mr  Basharat  Ali,  instructed  by  Aman  Solicitors
+                     Advocates     (London) Ltd
+
+
+174. This is an appeal by the Secretary of State.  The respondent,  whom  we
+    shall call "the claimant", is a national of Afghanistan.  He arrived in
+    the United Kingdom as a minor and claimed asylum   He said that he  was
+    born in 1993 (making him 15 at the date of his claim) and that he had a
+    fear of persecution from the Afghan authorities and  from  the  Taliban
+    because of having run away from the latter and because of his  father's
+    involvement in Hezb-e-Islami  and  subsequent  death.   His  claim  was
+    refused: the Secretary of State did not believe either his story or his
+    claimed age.  He appealed, and the matter came before Judge Herbert  in
+    the Asylum and Immigration Tribunal in January 2010.
+
+175. Judge Herbert heard, and assessed, the  claimant's  evidence.   He  did
+    not believe the claimant's claim as to  his  age:  he  thought  it  was
+    likely that the claimant would attain the age of 18  during  2010.   He
+    was, therefore still a minor, and his evidence had to be assessed  with
+    that in mind.  He did not believe the claimant's story: he thought that
+    the documentation said to support it had been concocted for the purpose
+    of the claim.  He accepted that the claimant's father might  have  been
+    killed by the Taliban, but said there was "serious doubt" about whether
+    he had been a commander as the claimant claimed; he decided  that  even
+    making allowances for the  claimant's  youth  and  applying  the  lower
+    standard of proof applicable in asylum claims,  the  claimant  had  not
+    established a fear of persecution for the reasons he claimed.
+
+176. Bearing in mind, however, his conclusion  as  to  the  claimant's  age,
+    Judge Herbert applied the decision of the AIT in LQ [2008] UKAIT 00005:
+    if the claimant were to be returned at the date of the hearing he would
+    be at risk as a lone minor.  He therefore allowed the appeal  for  that
+    reason alone, indicating that the claimant was entitled  to  protection
+    until he reached his eighteenth birthday.
+
+177. The Secretary of State acted  on  the  determination  and  granted  the
+    claimant refugee status on 17 February 2010.   The  grant  was  due  to
+    expire in January 2015.  We do not know the reason for  the  length  of
+    the grant, but it has to be remembered that the claimant's age had  not
+    been the subject of a full fact-finding determination and no  doubt  it
+    was safer to grant for a period that would certainly cover the whole of
+    the remaining part of the claimant's minority.  It is worth emphasising
+    at this point that there has never  been  a  decision,  either  by  the
+    Secretary of State or by a judge, that the claimant is or ever has been
+    at risk for any reason except as an unaccompanied minor.
+
+178. On 7 January 2015, before the expiry of his leave, the claimant  sought
+    its extension.  That application was refused,  and  in  addition  on  4
+    August 2016 the claimant's refugee status was  revoked  on  the  ground
+    that having reached the age of 18, in the words of  art  1C(5)  of  the
+    Refugee Convention, "the circumstances in connexion with which  he  was
+    recognised as a refugee have ceased to  exist".   It  was  against  the
+    decision revoking his refugee status that the claimant appealed, and it
+    was that decision that Judge Majid  had  to  consider.   The  claimant,
+    assisted by an opinion of the UNHCR, argued through his  representative
+    that a change of circumstances had for these purposes to be a change in
+    the country and could not  be  a  change  in  the  individual,  however
+    durable.
+
+179. In his decision,  although  claiming  to  have  read  the  reasons  for
+    refusal and all  other  documents  with  care,  Judge  Majid  makes  no
+    reference  to  the  issue  requiring  determination,  which   was   the
+    autonomous international meaning (see R v SSHD  ex  parte  Adan  [2000]
+    UKHL 67) of art 1C(5) of the Refugee  Convention;  accompanied  by  the
+    question whether, if  in  principle  the  claimant's  status  could  be
+    revoked, he were now for some reason other than his minority  at  risk,
+    so that he should continue to be treated as a refugee.   The  following
+    rather confused account of the issues appears at paragraph  14  of  his
+    decision:
+
+           "14. Due to Judge Herbert's findings, it is clear that the  Home
+              Office had granted the Appellant refugee status and leave for
+              5 years.  This leave automatically  leads  to  the  permanent
+              indefinite leave to remain (ILR) but the Home Office did  not
+              do this in his case.  That kind of status is withheld if  the
+              Appellant is guilty of some serious misconduct and there is a
+              "fundamental and durable" change in the circumstances of  the
+              Appellant.  In  this  case,  the  Appellant  in  his  Witness
+              statement specifically says that he has committed no  offence
+              and has been a good person in various ways.  The Home  Office
+              cannot point to evidence to show why  this  Appellant  should
+              not be given the usual ILR."
+
+180. There are two serious  mistakes  in  that  paragraph,  the  word  "and"
+    rather than "or" in the third sentence, and  the  last  sentence  which
+    shows that despite his claim to have studied the papers, the judge  had
+    no idea at all what the Secretary of  State's  position  was.   In  the
+    succeeding paragraphs the judge refers  to  the  point  raised  by  the
+    UNHCR, but again  it  is  seriously  misstated:  the  point  about  the
+    difference between personal and  country  changes  is  wholly  omitted;
+    again it is said that the Home Office had no evidence of a "fundamental
+    and durable" change in the claimant's  circumstances,  although  it  is
+    difficult to see that  ceasing  to  be  a  minor  cannot  be  described
+    precisely in that way.  Anyway, the judge seems to make no  attempt  to
+    decide what article 1C(5) means.
+
+181. Then there is this:
+
+          "19. In addition to the dispositive reasons brought to  my  notice
+              by  Judge  Herbert,  I  must  indicate  one  exceptional  and
+              compelling circumstance.  I am sure everyone would admire the
+              Appellant's mother who permitted him to leave Afghanistan  on
+              his own for his survival because the Hezb-e-Islami had killed
+              his father and, as cogent evidence persuades me, this violent
+              group had indicated  that  they  were  now  after  the  young
+              Appellant.  It would not be fair to take a chance with Hezb-e-
+              Islami who are notorious for their misdeeds.
+
+           20.   Having regard to the dictum given in Paragraph  21  I  have
+              good reason to allow this appeal.
+
+           21.  The use of discretion was examined by the  HC  in  the  case
+              Teisha Forrester v SSHD [2008] EWCH 2307.  Sullivan J  (later
+              on promoted to an LJ and Senior President of  all  tribunals)
+              did not dispute the  SSHD's  contention  that  the  decisions
+              accorded with the Rules, technically, but  pointed  out  that
+              that was not the end of the matter because  the  SSHD  had  a
+              discretion which had  to  be  exercised  with  a  modicum  of
+              intelligence, common sense and humanity."
+
+182. The first part of paragraph 19  appears  to  have  no  bearing  on  the
+    claimant's status at all.  The second part  appears  to  incorporate  a
+    finding ('cogent evidence persuades me') that although the claimant was
+    not  at  risk  from  Hezb-e-Islami  at  the  time  of  Judge  Herbert's
+    determination, he is now.  The determination reveals no  trace  of  the
+    evidence supporting that  finding.   Despite  the  fact  that  if  that
+    conclusion  were  sound  the  appeal   would   succeed,   Judge   Majid
+    specifically says that he is allowing the appeal for a wholly different
+    (and unlawful) reason: that the Secretary of State has a discretion  to
+    act outside the Immigration Rules, none of which were in any real sense
+    in issue in this appeal.  This is the decision which contains the  long
+    passage set out above, and also the incorrect statement of the standard
+    of proof in asylum appeals.
+
+183. The Secretary of State's grounds of  appeal,  on  the  basis  of  which
+    permission was granted, assert that the decision fails to deal with the
+    principal point at issue as detailed in the reasons for refusal,  fails
+    to grapple with the fact that the claimant is no longer a minor and (if
+    we may summarise) continues the conclusions of  Judge  Herbert  without
+    relating the facts to the date  of  the  hearing  before  Judge  Majid.
+    There is also a complaint that the judge  expressly  did  not  put  any
+    concerns to the Presenting Officer and (whatever they  were)  does  not
+    appear to have set relevant concerns out in his decision either.
+
+184. On behalf of the claimant Mr Ali did his very best to  persuade  us  to
+    uphold the determination, but there can be no doubt that it is  riddled
+    with errors of law.  It contains no proper discussion of, or answer  to
+    the questions posed by the refusal decision and the  UNHCR's  position,
+    and is written in such a way as to suggest very clearly that the  judge
+    was unaware of this issue.  If the assertion we have set out  above  is
+    supposed to be a finding,  on  evidence  before  the  judge,  that  the
+    claimant is at risk, the reasoning  is  hopelessly  inadequate  in  the
+    light of Judge  Herbert's  decision,  which  Judge  Majid  purports  to
+    follow, that the claimant had failed to establish the factual basis for
+    his claim in 2008.  This is not a case where it would be right  to  say
+    that the errors in the decision do not matter  because  the  result  is
+    correct: there is no basis for a  conclusion  either  that  the  appeal
+    should have been allowed or that it should have been dismissed.
+
+185. We find error of law and set aside the decision of  Judge  Majid.   The
+    question of the interpretation of art 1C(5) of the  Refugee  Convention
+    is appropriate for determination in this Tribunal and we shall  adjourn
+    this appeal for that purpose before deciding what action to take  under
+    s 12(2)(b) of the 2007 Act.
+
+
+
+DECISIONS
+
+KHATTAB: HU/13552/2015
+
+For the reasons set out above and as we announced at the hearing, we set
+aside the decision of Judge Majid promulgated on 23 May 2017.  In this
+case, we re-make the decision allowing the Appellant's appeal.
+
+
+MM: AA/06906/2014
+EDO AND OTHERS: HU/01879/2015; HU/01881/2015; HU/01882/2015; HU/01883/2015
+COMERY: IA/00866/2016
+BOATENG-DANSOH: IA/23617/2015
+KAUR: IA/30887/2015
+BOPOLONGA: IA/31116/2015
+BOATENG AND BEMPONG: IA/31918/2015
+WANG: IA/32046/2015
+OKPALA: IA/32286/2015
+PATEL: IA/32901/2015
+STEPHEN: OA/07779/2015
+
+For the reasons set out in the individual decisions in these cases and in
+our general decision, we set aside each of the decisions of Judge Majid in
+each these cases.  For the reasons given in our individual decisions, these
+appeals are remitted to the First-tier Tribunal for re-hearing before a
+Judge other than Judge Majid.
+
+SHINWARI: RP/00104/2016
+
+For the reasons set out above we set aside the decision of Judge Majid.
+The appeal is adjourned for further consideration in the Upper Tribunal.
+
+
+
+                                                                       [pic]
+
+
+
+                                                           C. M. G. OCKELTON
+                                        VICE PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+                                                        Date: 23 August 2017
+
+
+
+

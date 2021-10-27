@@ -1,0 +1,691 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: PA/00608/2020 (V)
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House via Skype for Business|Decision & Reasons Promulgated  |
+|On Friday 5 March 2021                     |On Friday 26 March 2021         |
+|                                           |                                |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE SMITH
+
+
+                                   Between
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                    -and-
+
+                                    H J A
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Ms A Everett, Senior Home Office Presenting Officer
+For the Respondent:    Ms  M  Niama,  Legal  representative,  Berkshire  Law
+Chamber
+
+
+Anonymity
+Rule 14: The Tribunal Procedure (Upper Tribunal) Rules 2008
+An anonymity order was made by the  First-tier  Tribunal.   As  this  appeal
+involves a protection claim, I consider it is appropriate to  continue  that
+order.  Unless  and  until  a  Tribunal  or  court  directs  otherwise,  the
+Respondent is granted  anonymity.  No  report  of  these  proceedings  shall
+directly or indirectly identify him  or  any  member  of  his  family.  This
+direction applies, amongst others, to both parties. Failure to  comply  with
+this direction could lead to contempt of court proceedings.
+
+
+                            DECISION AND REASONS
+
+BACKGROUND
+
+
+ 1. This is an appeal brought by the Secretary of State.  For ease of
+    reference, I refer to the parties as they were before the First-tier
+    Tribunal.  The Appellant appeals against the decision of First-tier
+    Tribunal Judge Hembrough promulgated on 22 September 2020 ("the
+    Decision"). By the Decision, the Judge dismissed the Appellant's appeal
+    on asylum grounds but allowed it on humanitarian protection and Article
+    8 grounds.
+
+ 2. The Appellant is a national of Iraq.   He arrived in the UK on 11
+    February 2002, aged ten years, with his father who claimed asylum with
+    the Appellant and his siblings as dependents.  They were recognised as
+    refugees and granted indefinite leave to remain. On 7 September 2007,
+    the Appellant was sentenced to four years detention in a young
+    offenders' institution for possession with intent to supply and supply
+    of Class A drugs.  On 28 May 2012, the Respondent notified the
+    Appellant of her intention to cease his refugee status.  He was
+    thereafter served with notice of his deportation.  His appeal against
+    that decision was dismissed in a decision promulgated on 18 March 2013.
+
+ 3. In July 2015, the Appellant applied to remain in the UK based on his
+    private and family life.  That application was initially granted in
+    error, but the grant was withdrawn shortly thereafter.  The application
+    was then treated as an application to revoke the deportation order.
+    That was refused on 16 December 2015.  It appears that the Respondent
+    applied paragraph 353 of the Immigration Rules to the decision and
+    therefore refused to allow a further appeal.  However, following what
+    appears to have been a successful application to judicially review that
+    decision, the Respondent reconsidered the decision and refused to
+    revoke the deportation order on 8 January 2020.  That is the decision
+    under appeal.  The Respondent's decision included a certificate under
+    section 72 of the Nationality, Immigration and Asylum Act 2002 ("the
+    Section 72 Certificate").
+
+ 4. The Judge did not accept that the Appellant continues to present a
+    danger to the community and therefore did not uphold the Section 72
+    Certificate.  Following the limited grant of permission to appeal, the
+    Respondent no longer challenges that finding.  The Judge rejected the
+    Appellant's claim to be at risk in Iraq.  He did not accept that there
+    was any specific or generalised risk to him on return.     The
+    Appellant does not challenge that conclusion and therefore accepts that
+    the appeal was rightly dismissed on asylum grounds.  The Respondent
+    does not challenge the allowing of the appeal on Article 8 grounds as
+    permission was refused on that ground.  The only ground before me
+    following the limited grant of permission therefore relates to the
+    allowing of the appeal on humanitarian protection grounds.
+
+ 5. Permission to appeal was initially refused by Upper Tribunal Judge
+    Martin as a First-tier Tribunal Judge on 6 October 2020 in the
+    following terms so far as relevant:
+
+         "... 3.  The grounds reflect displeasure with the result, because
+         the appellant faced deportation for a sentence of 4 years in a YOI
+         for dealing Class A drugs, rather than identifying an arguable
+         error of law.
+
+
+         4.   The decision is very detailed and carefully reasoned.  The
+         Judge's finding on s.72 was entirely reasonable given that the
+         offence was committed when the appellant was 15 (he is now 28) and
+         he has not offended since his release in 2009.
+
+
+         5.   The judge gave reasons for finding that the appellant, even
+         were he to try, would be unable to obtain a CSID.  While dismissing
+         his asylum appeal, the Judge, on that basis found him entitled to
+         humanitarian protection.  I can discern no arguable error of law in
+         the reasoning.
+
+
+         6.   Further, given the length of time since his offence the Judge
+         was entitled to find the appellant a reformed character and
+         integrated in the UK.
+
+
+         7.   Neither the grounds nor the Decision and Reasons disclose any
+         arguable error of law."
+
+
+ 6. The application for permission to appeal was renewed to this Tribunal
+    and came before Upper Tribunal Judge Canavan.  The challenge to the
+    Section 72 Certificate was rejected by her in the following terms:
+
+         "... 2. It is not arguable that the judge's finding that the
+         appellant did not constitute a danger to the community for the
+         purpose of section 72 of the Nationality, Immigration and Asylum
+         Act 2002 (NIAA 2202) was outside a range of reasonable responses to
+         the evidence.  Section 72 is said to reflect the exception to the
+         principle of non-refoulement outlined in Article 33(2) of the
+         Refugee Convention.  It is not arguable that past offences are
+         enough to justify removal if a refugee, as a matter of fact, does
+         not present a current danger to the community.  It was open to the
+         judge to consider the fact that the appellant was a child when he
+         committed the offence, the passage of time since the offence (13
+         years) and the fact that he had no further convictions.  In any
+         event, the point is immaterial because the judge went on to dismiss
+         the appeal in so far as the appellant relied on the Refugee
+         Convention."
+
+
+ 7. In relation to Article 8 ECHR, Judge Canavan rejected that ground in
+    the following terms:
+
+         "... 3. The ground relating to Article 8 expresses disagreement
+         with the judge's evaluation of the evidence but fails to
+         particularise any arguable errors of law that would have made any
+         material difference to the outcome of the appeal.  The judge
+         referred to the correct legal test and considered all relevant
+         matters.  I note that had the UK Borders Act 2007 been in force at
+         the date of his conviction, even for an offence attracting four
+         years detention, the appellant would have come within the exception
+         to deportation under section 33(3), which exempts a person from
+         deportation if they were a child when convicted.  The statutory
+         scheme as it has stood since 01 August 2008 recognises that a
+         person should not be deported in such circumstances.  It was open
+         to the judge to take into account the fact that the appellant was a
+         child on the date of conviction and that he had not committed any
+         further offences.  The case law of the European Court has always
+         taken into account the issue of whether a person has committed
+         further offences and to that extent the decision in RA (s.117C;
+         'unduly harsh' ; offence; seriousness) Iraq [2019] UKUT 000123 was
+         inconsistent with exhortations from the senior courts to follow
+         Strasbourg principles: now see HA (Iraq) v SSHD [2020] EWCA Civ
+         1176.  The judge considered the First-tier Tribunal decision from
+         2013 [75] but it was open to him to consider how the situation had
+         developed in the intervening seven years.  This approach was
+         consistent with the Devaseelan principles and his obligation to
+         consider the circumstances as they stood at the date of the
+         hearing.  It was open to the judge to consider the cumulative
+         effect of all the appellant's circumstances when considering
+         whether they outweighed the undoubtedly weighty public interest in
+         deportation.  It is not arguable that his findings were outside a
+         range of reasonable responses."
+
+ 8. Judge Canavan accepted however that the humanitarian protection grounds
+    were arguable.  She expressed her conclusion in the following way:
+
+         "... 4.  The grounds also express disagreements with the judge's
+         findings on the evidence relating to identity documentation.  It
+         was open to the judge to conclude that the appellant would not be
+         familiar with his registration details given his young age when he
+         left Iraq and that it was unlikely that his father or sister would
+         be able to assist him given their significant mental health
+         problems.  Having heard evidence from the witnesses it was also
+         open to the judge to conclude that the appellant has no current
+         family connections in Iraq to assist him.  However, it is at least
+         arguable that the judge failed to explain why he concluded that the
+         appellant's inability to obtain a relevant identity document
+         entitled him to humanitarian protection 'as the law presently
+         stands' [74] when nothing in SMO (Article 15(c); identity
+         documents) Iraq CG [2019] UKUT 00400 appears to suggest that the
+         mere fact that a person could not obtain a CSID or INID would found
+         a claim for humanitarian protection.  The judge had already
+         assessed risk on return and concluded that the general conditions
+         would not give rise to an Article 15(c) risk [68].  The judge's
+         subsequent findings were made under the heading of 'Feasibility of
+         Return' [69-74].  The Upper Tribunal in SMO made clear that an
+         international protection claim cannot succeed by reference to any
+         alleged risk of harm arising solely on account of feasibility of
+         return: see HF (Iraq) v SSHD [2013] EWCA Civ 1276.  Although it
+         would have been open to the judge to conduct a 'sliding scale'
+         assessment of all the circumstances, including the impact of the
+         absence of identity documentation, but nothing in his finding at
+         [74] suggests that approach.  It is at least arguable that
+         insufficient reasons were given to explain the finding that the
+         appellant was entitled to humanitarian protection."
+
+
+ 9. Judge Canavan made plain at [5] of her decision that permission was
+    granted only on the humanitarian protection ground and refused on the
+    Refugee Convention and Article 8 grounds.  Although the notice of the
+    decision does not record that this was a limited grant of permission,
+    no point was taken by Ms Everett that the Respondent was entitled to
+    continue to argue the grounds challenging the conclusion about the
+    Section 72 certificate or Article 8 ECHR.  I therefore confine my
+    consideration to the humanitarian protection ground.
+
+10. Judge Canavan directed that the error of law issue should be determined
+    at a remote hearing absent objection from either party.  No such
+    objection was received.  The hearing proceeded without any major
+    technical difficulties.  In accordance with the directions given by
+    Judge Canavan, both parties have filed written submissions expanding
+    upon their cases which were developed in oral submissions.
+
+11. The matter comes before me to determine whether the Decision contains
+    an error of law and, if I so conclude, to either re-make the decision
+    or remit the appeal to the First-tier Tribunal to do so.
+
+DISCUSSION AND CONCLUSIONS
+
+12. Ms Everett pointed out at the outset that the Court of Appeal has
+    remitted the appeal in SMO, KSP & IM (Article 15(c); identity
+    documents) Iraq CG [2019] UKUT 00400 (IAC) ("SMO") by consent.
+    However, Ms Everett confirmed my understanding that the appeal has been
+    remitted on one very narrow point, namely whether the Tribunal was
+    entitled to find that an appellant could be expected to recall the
+    volume and page reference of his entry in the Family Book in Iraq.
+    That is relevant to whether an appellant is able to obtain a
+    replacement CSID (see [13] of the guidance in SMO).  The point does not
+    arise in this appeal as Judge Hembrough did not accept that the
+    Appellant would be able to obtain a CSID ([73] of the Decision).
+    Although that finding of fact was challenged in the grounds of appeal,
+    it was not the reason why permission was granted (understandably in my
+    view since it is merely a disagreement with the finding).  Accordingly,
+    the basis of the remittal of SMO has no bearing on this appeal, and I
+    did not consider it in the interests of justice to adjourn the hearing.
+     Ms Everett did not seek to persuade me otherwise.
+
+13. The Judge's findings, reasoning and conclusion on the humanitarian
+    protection issue appear at [69] to [74] of the Decision.  In order to
+    place in context the submissions made to me, I include the section of
+    the Decision beginning with the Judge's findings and conclusion on the
+    Refugee Convention claim:
+
+         "The Asylum Claim
+
+
+         57.  ...
+
+
+         ...
+
+
+         61.  The Appellant is a Shia Muslim from southern Iraq.  He came to
+             the UK as a 10 year old child.  The circumstances giving rise
+             to the grant of his refugee status namely his father's claimed
+             risk of persecution by reason of his support for the Dawa
+             party have now ceased to exist.
+
+
+         62.  It was recognised in SMO that a person who is westernised and
+             perceived to be wealthy might be at risk.  At paragraph 309
+             the Tribunal had this to say:
+
+
+                  'Whilst we think it unlikely, on the evidence before us,
+                  that a returnee would be perceived as wealthy purely on
+                  account of having been in the UK, we do accept that those
+                  who are or are perceived to be wealthy are more likely to
+                  be at risk of being specifically targeted on that account.
+                   Being wealthy or being perceived as such is therefore a
+                  relevant characteristic for the purposes of the sliding
+                  scale assessment under Article 15(c) QD.'
+
+
+         63.  At paragraph 134 of his report Dr George comments as follows:-
+
+
+                  'In my view however the risk of kidnapping that Mr HJA
+                  could face in Iraq would not be high.  While kidnapping
+                  remains a significant phenomenon it is not as widespread
+                  as it was at the height of the sectarian civil war in 2006-
+                  8; and, in relation to the population as a whole, the
+                  numbers of kidnappings are small.  I would add that while
+                  Mr HJA as a returnee from abroad would be perceived to be
+                  relatively well off, it is unlikely that he would be
+                  mistaken for a person of very substantial wealth.'
+
+
+         64.  Whilst observing that what the Appellant has to establish is a
+             'real risk' and not a 'high risk' that he would be a victim of
+             kidnapping having regard to the findings in SMO and the
+             evidence before me in the round I have not been satisfied that
+             the Appellant as a Shia Muslim would be at risk in Baghdad or
+             in his home area of Diwaniya.
+
+
+         65.  As regards the other risk categories identified in SMO there
+             was no evidence that he had ever lived in any of the
+             previously contested areas or that he or any member of his
+             family had any association with or would be perceived to have
+             had such an association.  Nor was there evidence of political
+             activity in the UK which may put him at risk on return.
+
+
+         66.  I take account of the fact that latterly he has been diagnosed
+             as suffering from depression but clearly he is able to
+             function on a daily basis in the UK and to care for himself,
+             his children and his father and sister.  I find that his
+             condition is not so severe as to put him at risk of adverse
+             attention, nor would it prejudice his integration upon return.
+              There was no evidence to the effect that he would be unable
+             to access Sertraline in Iraq.  I deal with barriers to
+             integration when considering Article 8 below.
+
+
+         67.  I find nothing in Dr George's report that would undermine the
+             core findings in SMO as to risk on return generally and
+             Article 15(c).  The Appellant would be returned to Baghdad
+             which is largely under Shia 'control' and in that regard I
+             note what Dr George says about the prevalence of Shia militias
+             operating in the city.
+
+
+         68.  In sum I have not been satisfied to the requisite standard
+             that on return to Baghdad the Appellant would be perceived as
+             wealthy purely on account of having been in the UK for a
+             protracted period or that he has any other immutable
+             characteristics such as are likely to give rise to a real risk
+             of persecution so as to engage the 1951 Refugee Convention.
+             Nor have I been satisfied that there are substantial grounds
+             for believing that on return to Baghdad, and solely on account
+             of his presence there, he would face a real risk of being
+             subjected to indiscriminate violence amounting to serious harm
+             within the scope of Article 15(c) or that any such risk
+             extends to his home area.
+
+
+         Feasibility of Return
+
+
+         69.  No Iraqi national is returnable to Baghdad without a current
+             or expired passport or a laissez passer.  I accept that the
+             Appellant has none of these documents.  He came to the UK in
+             2002 as a 10 year old child.  I accept his evidence that he
+             has never been in possession of Iraqi identity documentation.
+             His evidence which I accept was that he had travelled on his
+             father's passport.  There was no evidence as to the
+             whereabouts of the same which will be long expired.
+
+
+         70.  Given his age when he left Iraq I accept that the Appellant
+             would not have any recall of the volume and page reference of
+             the entry in the Family Book in Iraq to which reference is
+             made at paragraph 13 of the headnote in SMO, if indeed he even
+             knew of its existence.  I accept the evidence that both his
+             father and his sister have severe mental health issues and I
+             find that these are likely to preclude them from assisting him
+             in establishing his antecedents assume that they would be
+             minded to do so, which cannot be taken as a given.  I was told
+             nothing about his brother but given that all of the family
+             members arrived at the same time it is reasonable to assume
+             that he would also be unable or even unwilling to provide
+             assistance.
+
+
+         71.  The witnesses from whom I heard all seemed to me to be
+             credible people.  All were adamant that the Appellant has no
+             family connection in Iraq.  I also note what was said by Mr HM
+             about his own parents' attempts to verify his Iraqi
+             citizenship in Iraq which had proved fruitless.
+
+
+         72.  Whilst also noting that the Appellant has not made any
+             enquiries of his own with the Iraqi Embassy in the UK, having
+             regard to my experience in dealing with Appellants who have, I
+             accept that his background is such that it would have been
+             something of a 'waste of time'.
+
+
+         73.  In sum I find that the Appellant has no means of obtaining a
+             laissez passer and more importantly a CSID or INID from within
+             the UK using Consular facilities.  Even if it was the case
+             that he could be returned to Baghdad he would have no means of
+             obtaining a CSID or INID there within a reasonable time.  He
+             would have to travel to his home area and he could not do this
+             without a CSID or INID.  I accept that he has no family in
+             Iraq who would be able to assist him in obtaining these
+             documents.
+
+
+         74.  I find that he has no financial resources of his own and there
+             was no evidence that anyone in the UK would be willing or able
+             to assist him financially on return.  He would be unable to
+             work without the CSID or INID.  In such circumstances as the
+             law presently stands he is entitled to humanitarian
+             protection."
+
+14. Although as I have noted, the Court of Appeal has remitted the appeal
+    to the Tribunal in SMO, that is on one narrow issue and does not affect
+    the remainder of the guidance.  I set out the parts of that guidance
+    which are relevant to the issue I have to consider or to which I was
+    taken as follows:
+
+         "A.       INDISCRIMINATE VIOLENCE IN IRAQ: ARTICLE  15(C)  OF  THE
+         QUALIFICATION DIRECTIVE
+
+
+         ...
+
+
+         6.        The living conditions in Iraq as a whole, including  the
+         Formerly Contested Areas, are unlikely to give rise to a breach  of
+         Article 3 ECHR or (therefore) to necessitate subsidiary  protection
+         under Article 15(b) QD.  Where it is  asserted  that  return  to  a
+         particular part of Iraq would give rise to such a breach,  however,
+         it is to be recalled that the minimum level of severity required is
+         relative, according to the personal circumstances of the individual
+         concerned.    Any   such   circumstances   require   individualised
+         assessment in  the  context  of  the  conditions  of  the  area  in
+         question.
+
+
+         B.    DOCUMENTATION AND FEASIBILITY OF RETURN (EXCLUDING IKR)
+
+
+         7.        Return of former residents of the Iraqi  Kurdish  Region
+         (IKR) will be to the IKR and all other Iraqis will be  to  Baghdad.
+         The Iraqi authorities will allow  an  Iraqi  national  (P)  in  the
+         United Kingdom to enter Iraq only  if  P  is  in  possession  of  a
+         current or expired Iraqi passport  relating  to  P,  or  a  Laissez
+         Passer.
+
+
+         8.        No Iraqi national will be returnable to Baghdad if not in
+         possession of one of these documents.
+
+
+         9.        In the light of the Court of  Appeal's  judgment  in HF
+         (Iraq)  and  Others   v   Secretary   of   State   for   the   Home
+         Department [2013] EWCA Civ 1276, an international protection claim
+         made by P cannot succeed by reference to any alleged risk  of  harm
+         arising from an absence of a current or expired Iraqi passport or a
+         Laissez passer, if the  Tribunal  finds  that  P's  return  is  not
+         currently feasible on account of a lack of any of those documents.
+
+
+         10.    Where P is returned to Iraq on a Laissez Passer or  expired
+         passport, P will be at no risk of serious  harm  at  the  point  of
+         return by reason of not having a current passport.
+
+
+         ...
+
+
+         D.   INTERNAL RELOCATION WITHIN GOI-CONTROLLED IRAQ
+
+
+         17.    Where internal relocation is raised in the Iraqi context, it
+         is necessary to consider not only the safety and reasonableness  of
+         relocation but also the feasibility of that  course,  in  light  of
+         sponsorship and residency  requirements  in  operation  in  various
+         parts of the country.  Individuals who seek to relocate within  the
+         country may not be admitted to a potential safe haven or may not be
+         permitted to remain there.
+
+
+         18.    Relocation within the Formerly Contested Areas.  With  the
+         exception of the small area identified in section  A,  the  general
+         conditions within  the Formerly  Contested  Areas do  not  engage
+         Article 15 QD(b) or (c) or Article 3  ECHR  and  relocation  within
+         the Formerly Contested Areas may obviate a risk which exists in an
+         individual's home  area.   Where  relocation  within  the Formerly
+         Contested Areas is under contemplation, however,  the  ethnic  and
+         political composition of the home area and the place of  relocation
+         will be particularly relevant.  In particular,  an  individual  who
+         lived in a former ISIL stronghold for  some  time  may  fall  under
+         suspicion in a place of relocation.  Tribal and ethnic  differences
+         may preclude such relocation, given the  significant  presence  and
+         control of largely Shia militia in these areas.  Even where  it  is
+         safe for an individual to relocate within  the Formerly  Contested
+         Areas, however, it is unlikely to be either feasible or  reasonable
+         without a prior connection to, and a support structure within,  the
+         area in question.
+
+
+         19.    Relocation to  Baghdad.   Baghdad  is  generally  safe  for
+         ordinary civilians but whether it is safe for a particular returnee
+         is a question of fact in the individual case.   There  are  no  on-
+         entry  sponsorship  requirements  for   Baghdad   but   there   are
+         sponsorship requirements for residency.  A documented individual of
+         working age is likely to be able  to  satisfy  those  requirements.
+         Relocation to Baghdad is likely to be reasonable for Arab Shia  and
+         Sunni single, able-bodied men and married couples  of  working  age
+         without  children  and  without  specific  vulnerabilities.   Other
+         individuals are likely to require external support,  ie a  support
+         network of members of his or her family, extended family or  tribe,
+         who are willing and able to provide genuine support.  Whether  such
+         a support network is available is to be considered  with  reference
+         to the collectivist nature of Iraqi society, as considered  in AAH
+         (Iraq).
+
+
+         ..."
+
+
+15. The Respondent's case as put to me orally in short summary is that the
+    Judge's conclusion at [74] of the Decision is contrary to the clear
+    guidance in SMO at [9] of the headnote that a protection claim cannot
+    be allowed on the basis of a lack of feasibility of return.  Having
+    found there to be no specific or generalised risk on return at [61] to
+    [68] of the Decision (which findings are not challenged), the only
+    factor which led the Judge to the conclusion on the humanitarian
+    protection ground at [74] of the Decision can be the lack of
+    documentation meaning that the Appellant cannot feasibly be returned to
+    Iraq at the present time.  The Respondent says that this is not
+    sufficient reason based on the guidance in SMO.
+
+16. The Appellant's written submissions seek to uphold the Decision.  The
+    Appellant points to evidence accepted by the Judge that the Appellant
+    is suffering from depression, has no formal qualifications and no
+    employment history in either the UK or Iraq and has no family in Iraq.
+    The Appellant also points to the uncontested evidence about his
+    relationships with his family members and his own children in the UK.
+    Those latter relationships are in part the reason why his appeal was
+    allowed on Article 8 grounds.  They have no relevance to the
+    humanitarian protection ground.
+
+17. The Appellant also points out that lack of identity documentation is
+    not relevant specifically to the feasibility of return but to the
+    possibility of obtaining employment and services in Iraq.  Without
+    employment or financial support from the UK, Ms Niama points out, the
+    Appellant would not be able to obtain accommodation or have any means
+    of living.  In essence, therefore, the Appellant's case is that what is
+    said at [74] in the context of the finding that the Appellant would not
+    be able to obtain a CSID within a reasonable time and would not have
+    any other available means of support is sufficient reason to allow the
+    appeal on humanitarian protection grounds.
+
+18. The Appellant's written submissions and Ms Niama's oral submissions
+    also focussed on what is said at [18] and [19] of the headnote in SMO.
+    As Ms Everett submitted and I accept, paragraph [18] has no relevance
+    to this case.  The Appellant is from Southern Iraq and there is no
+    suggestion of relocation within the formerly contested areas.
+
+19. Paragraph [19] of the headnote is of greater relevance since it is
+    there said that a "documented individual of working age" would be able
+    to satisfy the sponsorship requirements for residency.  It must be
+    assumed from this statement that the converse also applies, namely that
+    an undocumented individual would not be able to satisfy those
+    requirements.  Whilst I accept that, otherwise, the Appellant would
+    appear to fall within the category of Shia single, able-bodied men, the
+    lack of documentation would, as Ms Niama submits, mean that the
+    Appellant would require other financial support in order to survive.
+
+20. Unfortunately, neither representative took me to be the body of the
+    decision in SMO.  I have referred myself to what is said by the
+    Tribunal in the section dealing with "Article 3 ECHR/ Article 15(b) QD"
+    at [316] and following.
+
+21. Of particular relevance to this appeal is what is said at [317] of the
+    decision as follows:
+
+         "317.     The starting point for our consideration must be the
+         respondent's repetition, at [150] of her closing submissions, of
+         her concession in previous cases that 'it remains the position that
+         a person returning to Iraq without either family connections able
+         to assist him, or the means to obtain a CSID, may be at risk of
+         enduring conditions contrary to Article 3 ECHR'.  This section of
+         our decision is therefore principally relevant to those who have or
+         are able to obtain a CSID (or INID) within a reasonable time or
+         have family members from whom they can secure assistance or
+         support."
+
+
+22. The concession there made is not mentioned by the Respondent in her
+    grounds for reasons which I will come to but there is no subsequent
+    authority so far as I am aware which records that this concession has
+    been withdrawn.  It is highly likely (although not noted by Judge
+    Hembrough) that the finding at [74] of the Decision that "as the law
+    presently stands [the Appellant] is entitled to humanitarian
+    protection" had this concession in mind.
+
+23. Even if I am wrong about this, and having regard to the fact that the
+    concession records only that a person who does not have a CSID and
+    family support "may" be at an Article 3 risk rather than "is at risk",
+    I consider that the same conclusion can be reached in any event on the
+    facts of this case and having regard to the respective positions of the
+    parties.
+
+24. First, the Judge has not allowed the appeal on humanitarian protection
+    grounds based on the infeasibility of return.  As [9] of the SMO
+    guidance makes clear, the feasibility of return is connected to lack of
+    passport or laissez passer.  Second, although the possession of those
+    documents has a bearing on the ability to obtain a CSID, the relevance
+    of possession of a CSID has far wider implications in terms of ability
+    to live day to day in Iraq.  As Ms Niama submitted and I accept, the
+    possession of a CSID enables an individual to access services, to
+    obtain support or employment and therefore to find accommodation (see
+    also [337] of SMO).   Third, if an individual is unable to obtain
+    support via the acquisition of a CSID, it follows that other support
+    will be necessary to allow the individual to support himself, whether
+    that is in his home area or elsewhere in Iraq (see [321] of SMO).
+    Fourth, paragraph [19] makes clear that the reasonableness of
+    relocation to Baghdad discloses the relevance of the documentation
+    factor.  Fifth, finally, therefore, the conclusion of the Judge that
+    the inability to obtain a CSID coupled with the lack of family support
+    is determinative of this aspect of the appeal is one which was
+    undoubtedly open to him.
+
+25. For those reasons, paragraph [74] of the Decision, brief though it is,
+    makes the necessary findings in order to reach the conclusion that the
+    appeal should be allowed on the humanitarian protection ground, namely
+    that the Appellant will not be able to obtain a CSID within a
+    reasonable time and has no family members from whom he can otherwise
+    secure assistance or support.
+
+26. As I have previously indicated, the way in which this ground was
+    pleaded differed substantially from that which was pursued orally, no
+    doubt because of the basis on which permission was granted.  Permission
+    was not granted to argue the points which are raised in the pleadings.
+    However, for completeness and since they are directed to the
+    humanitarian protection ground, I deal with them.
+
+27. The pleaded grounds at [4] to [6] merely argue that the Judge was not
+    entitled to reach the findings he did about inability to obtain
+    documentation and family support.  First, it is said that the Judge was
+    not entitled to find that the Appellant could not obtain a CSID because
+    he had made no efforts to obtain documents from the Embassy.  That is
+    dealt with by the Judge at [72] of the Decision who clearly had that
+    factor in mind when reaching his conclusion.
+
+28. In relation to family support, it is said that the Judge was not
+    entitled to find that the Appellant had no family members who could
+    support him given the findings of the Judge in the 2013 determination
+    of the Appellant's appeal (see [2] above).  That finding is said to be
+    that the Appellant still had family in Iraq.  Whilst I would accept
+    that the Judge does not make reference to the earlier appeal decision
+    (which was not part of the Respondent's bundle in any event), the Judge
+    had evidence recorded at [29] to [48] of the Decision about the current
+    position, not just from the Appellant but also from other family
+    members.  The Judge was entitled to reach the conclusion which he did
+    at [71] of the Decision based on that evidence that the Appellant does
+    not have family members still in Iraq who could assist with the
+    obtaining of documentation.   The Judge dealt with the availability of
+    support from the UK at [74] of the Decision on the basis that there was
+    no evidence that anyone in the UK could financially support the
+    Appellant.  The grounds as pleaded are therefore merely disagreement
+    with the findings made by the Judge which were open to him on the
+    evidence.
+
+29. For the foregoing reasons, I conclude that there is no error of law in
+    the Decision and I uphold it.
+
+    DECISION
+
+    The Decision of First-tier Tribunal Judge Hembrough promulgated on 22
+    September 2020 does not involve the making of an error on a point of
+    law. I therefore uphold the Decision with the consequence that the
+    Appellant's appeal remains allowed on humanitarian protection (and
+    Article 8) grounds.  The appeal remains dismissed on protection
+    (Refugee Convention) grounds.
+
+
+
+   Signed: L K Smith
+
+   Upper Tribunal Judge Smith
+
+   Dated: 18 March 2021
+

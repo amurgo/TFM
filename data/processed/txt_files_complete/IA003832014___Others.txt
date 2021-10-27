@@ -1,0 +1,963 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number: IA/00383/2014
+                                                               IA/00393/2014
+                                                               IA/00397/2014
+                                                               IA/00402/2014
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Birmingham                  |Decision and Reasons Promulgated     |
+|On 23 July 2015                      |On 3 September 2015                  |
+|                                     |                                     |
+
+                                   Before
+
+                          UPPER TRIBUNAL JUDGE PITT
+                     DEPUTY UPPER TRIBUNAL JUDGE SAFFER
+
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                                     MTH
+                                     RS
+                                     MTT
+                                     TZ
+                           (ANONYMITY ORDER MADE)
+                                                                 Respondents
+
+
+Representation:
+For the Appellant:     Mr Smart, Senior Home Office Presenting Officer
+For the Respondents:   Mr Azmi, instructed by Kingswood Legal Ltd
+
+
+                            DECISION AND REASONS
+
+ 1. The appellant before us  was  the  Secretary  of  State  for  the  Home
+    Department. For the sake of consistency with the decision in the First-
+    tier Tribunal we shall refer to her as the respondent and to  MTH,  RS,
+    MTT and TZ as the appellants.
+
+ 2. Pursuant to Rule 14 of the Tribunal Procedure  (Upper  Tribunal)  Rules
+    2008 (SI 2008/269)  we  make  an  anonymity  order.  Unless  the  Upper
+    Tribunal or a Court directs otherwise, no report of  these  proceedings
+    or any  form  of  publication  thereof  shall  directly  or  indirectly
+    identify the original appellants. This direction  applies  to,  amongst
+    others, all parties. Any failure to comply with  this  direction  could
+    give rise to contempt of court  proceedings.  We  do  so  in  order  to
+    preserve the anonymity of the children,  one  of  whom  has  a  serious
+    medical condition.
+
+I. Background
+
+ 3. All of the appellants are nationals  of  Bangladesh.  MTH  and  RS  are
+    father and mother to MTT who is aged 14 and TZ who is aged 6.
+
+ 4. The key facts in this appeal are summarised  in  Upper  Tribunal  Judge
+    Pitt's error of law decision dated 10 June 2015 (appended):
+
+         "4. The appellants are a family from Bangladesh. They came  to  the
+         UK in order for RS to study for an  MSc  at  Birmingham  University
+         which she was subsequently awarded.
+
+         5. The family made an application for further leave  to  remain  on
+         Article 8 grounds as MTT is very unwell. He has tufting enteropathy
+         which is incurable. He is unable to digest food through his stomach
+         and requires parenteral  nutrition.  This  procedure  involves  the
+         insertion of a catheter into a blood  vessel  close  to  his  heart
+         through which he is fed intravenously for  approximately  12  hours
+         each day, seven days a week. The facilities provided in the UK have
+         enabled him to do this whilst he moves around  carrying  a  bag  of
+         nutritional solution. His parents have been trained  to  administer
+         his nutrition.
+
+         6. Prior to coming to the UK, MTT  received  similar  treatment  in
+         Singapore but his parents are concerned about returning  there  for
+         treatment as he was not diagnosed correctly  initially  when  there
+         and caught serious infections twice in the three week  period  that
+         he was treated.
+
+         7. The family  are  also  concerned  that  provision  for  parental
+         nutrition is not available at all in Bangladesh and even if were it
+         would be very difficult to administer as the  nutritional  solution
+         has to be kept between 2 and  8  degrees.  MTT  was  very  ill  and
+         underweight prior to travelling to Singapore and the UK."
+
+ 5. It was common ground before us that the appeal is brought on Article  8
+    ECHR private life grounds and turns on the serious medical condition of
+    MTT.
+
+ 6. The family cannot meet  the  private  life  requirements  of  paragraph
+    276ADE of the Immigration Rules. The parties therefore addressed us  on
+    a second stage Article 8 assessment of the private life of  the  family
+    outside the provisions of the Immigration Rules; MF  (Nigeria)  v  SSHD
+    [2013] EWCA Civ 1192 and SS (Congo) v SSHD [2015] EWCA Civ 387 applied.
+
+
+
+II. Legal Principles to be applied in Second Stage Article 8 Assessment
+
+ 7. We have conducted the second stage Article 8 assessment  in  line  with
+    the well-established principles of R (Razgar) v SSHD [2004] UKHL 27 and
+    Huang v  SSHD [2007] UKHL 11.
+
+ 8. When assessing proportionality, we bore in mind  that,  notwithstanding
+    the provisions of the Immigration Rules which express the  respondent's
+    legitimate view of what will usually amount to a successful  Article  8
+    claims it remains the case, as confirmed in [29] of SS (Congo) that:
+
+         "It is clear, therefore, that it cannot be maintained as a  general
+         proposition that LTR or LTE outside the  Immigration  Rules  should
+         only be granted in exceptional cases."
+
+ 9. However, this is an Article 8 "medical" case and the Court of Appeal in
+    the cases of MM (Zimbabwe) v SSHD [2012] EWCA Civ 279 and GS (India)  v
+    SSHD [2015] EWCA Civ 40  has  also  indicated  that  there  is  a  high
+    threshold for a claim on that basis to succeed.
+
+10. MM dealt with a mentally ill offender, his offending arising  from  his
+    mental ill health. The discussion of how an Article 8  "medical"  claim
+    could succeed is at [16] to [24]:
+
+         "Article 3 and Article 8
+
+      1. The first issue with which this appeal is concerned relates to  the
+         application of Article 3 and Article 8 of the Convention  to  cases
+         where it is sought to compare the availability of medical treatment
+         in the United Kingdom with the country to which it is  proposed  to
+         deport an applicant. The decisions of the House of Lords and of the
+         European Court of Human Rights establish that even where a claimant
+         is suffering from mortal illness such as advanced HIV/Aids and,  if
+         deported, would deteriorate rapidly and suffer an early  death,  no
+         breach of Article 3 is established.
+
+      1. The essential principle is  that  the  ECHR  does  not  impose  any
+         obligation on the contracting states to  provide  those  liable  to
+         deportation  with  medical  treatment  lacking   in   their   "home
+         countries". This principle applies even where the consequence  will
+         be that the deportee's life will be  significantly  shortened  (see
+         Lord Nicholls in N v Home Secretary [2005] 2 AC 296, 304 [15] and N
+         v UK [2008] 47 EHRR 885 (paragraph 44)).
+
+      1. Although that principle was expressed in those cases in relation to
+         Article 3, it is a principle which must  apply  to  Article  8.  It
+         makes no sense to refuse to recognise a "medical  care"  obligation
+         in relation to Article 3, but to  acknowledge  it  in  relation  to
+         Article 8. In N v UK, the ECHR took the view that no separate issue
+         under Article 8 arose [517].
+
+      1. Despite that clear-cut principle, the courts in the United  Kingdom
+         have declined to say that Article 8 can never  be  engaged  by  the
+         health  consequences  of  removal  from  the  United  Kingdom.   In
+         R(Razgar) v Home  Secretary  [2004]  2  AC  368,  the  question  of
+         principle was whether the rights protected by Article  8  could  be
+         engaged by the foreseeable consequences for health  or  welfare  of
+         removal of the United Kingdom pursuant to an immigration  decision,
+         where such removal does not violate Article 3 [1].  Lord  Bingham's
+         answer was that such rights could be  engaged  by  the  foreseeable
+         consequences for health of removal from the  United  Kingdom,  even
+         where such removal does not violate Article 3, "if the facts relied
+         on by the applicant  are  sufficiently  strong"  [10].  Lord  Steyn
+         agreed with Lord Bingham. Lord Walker agreed  with  Lord  Bingham's
+         observation and Lord Carswell considered the question to be whether
+         removal would amount to  a  "flagrant  denial  of  the  appellant's
+         Article 8 rights to the preservation of his mental stability" [74].
+
+
+
+      1. Baroness Hale admitted of the possibility  that  in  a  case  where
+         removal will lead to a violation of a person's convention rights in
+         the country to which he is to be removed (a "foreign case") a  case
+         could fail under Article 3 but succeed under  Article  8.  But  she
+         acknowledged:-
+
+             "Although the possibility cannot be excluded, it is  not  easy
+             to think of a foreign health care case which would fail  under
+             Article 3 but succeed under Article 8. There clearly must be a
+             strong case before the Article is even engaged and then a fair
+             balance must be struck under Article 8(2).  In  striking  that
+             balance, only the most compelling humanitarian  considerations
+             are likely to prevail  over  legitimate  aims  of  immigration
+             control or public safety. The expelling state is  required  to
+             assess the strength of the threat and strike that balance.  It
+             is not required to compare the adequacy  of  the  health  care
+             available in  the  two  countries.  The  question  is  whether
+             removal to  the  foreign  country  will  have  a  sufficiently
+             adverse effect upon the applicant. Nor can the expelling state
+             be required to assume a more  favourable  status  in  its  own
+             territory than the applicant is  currently  entitled  to.  The
+             applicant remains to be treated as someone who  is  liable  to
+             expulsion, not as someone who is entitled to remain." [59]
+
+             None of the other members of the Committee expressly refer  to
+             this passage.
+
+      1. Since Razgar this court has reiterated the principle  expressed  in
+         Bensaid (q.v.  supra)  that  if  removal  would  have  sufficiently
+         adverse effect upon  mental  health,  it  is  capable  of  engaging
+         Article 8 (see AJ (Liberia) v  Secretary  of  State  for  the  Home
+         Department [2006] EWCA Civ 1736 [17]). But again, the court pointed
+         out that legitimate immigration control would ordinarily  meet  the
+         test of necessity under Article 8(2) and decisions taken "bona fide
+         in the exercise of such control would be proportionate in all but a
+         small minority of truly exceptional cases, in which the  imperative
+         of proportionality demands an outcome  in  the  claimant's  favour"
+         [18].
+
+      1. Thus the courts have declined to close the door on the  possibility
+         of establishing a breach of Article 8 but  they  have  never  found
+         such a breach and have not been able to postulate circumstances  in
+         which such a breach is likely to be established. Since  Bensaid  in
+         2001 there has been no example of a successful Article 8 claim in a
+         mental health case. The courts and tribunals have merely been  left
+         with the difficulty of identifying a "flagrant denial" or a  "truly
+         exceptional"  case,  neither  of  which  provide  any  standard  of
+         measurement.
+
+      1. The only cases I can foresee where the absence of adequate  medical
+         treatment in the country to which a person is to be  deported  will
+         be relevant to Article 8, is where it is an additional factor to be
+         weighed in the balance, with  other  factors  which  by  themselves
+         engage  Article  8.  Suppose,  in  this  case,  the  appellant  had
+         established firm family ties in this country, then the availability
+         of continuing medical treatment here, coupled with  his  dependence
+         on the family here for support, together establish  'private  life'
+         under Article 8. That conclusion would  not  involve  a  comparison
+         between medical facilities here  and  those  in  Zimbabwe.  Such  a
+         finding would not offend the principle  expressed  above  that  the
+         United Kingdom is under no Convention obligation to provide medical
+         treatment here when it is not available in the country to which the
+         appellant is to be deported.
+
+      1. But the question remains whether the appellant has established that
+         deportation would infringe his rights enshrined in Article 8."
+
+11. GS (India) v SSHD [2015] EWCA Civ 40 dealt with five appeals where  the
+    applicants had End Stage Kidney Disease and one where the applicant was
+    at an advanced stage of HIV infection.
+
+12. The learning of Laws LJ on Article 8 "medical" claims  is  at  [85]  to
+    [87]:
+
+         "THE ARTICLE 8 CLAIMS
+
+      1. It is common ground  that  in  cases  where  the  claimant  resists
+         removal to another State on health grounds, failure under Article 3
+         does not  necessarily  entail  failure  under  Article  8.  In  her
+         skeleton argument at paragraph 55 Ms Giovanetti for  the  Secretary
+         of State cites JA (Ivory Coast) & ES (Tanzania) v SSHD [2009]  EWCA
+         Civ 1353, in which the  appellants  had  been  given  a  "de  facto
+         commitment" that they would be allowed to  remain  in  the  UK  for
+         treatment. Sedley LJ, with whom Longmore and Aikens LJJ agreed said
+         this at paragraph 17:
+
+             "There is no fixed relationship between Art.  3  and  Art.  8.
+             Typically a finding of a violation of the former  may  make  a
+             decision on the latter unnecessary;  but  the  latter  is  not
+             simply a more easily accessed version of the former. Each  has
+             to be  approached  and  applied  on  its  own  terms,  and  Ms
+             Giovannetti is accordingly right not to suggest that  a  claim
+             of the present kind must come within Art. 3 or fail.  In  this
+             respect, as in  others,  these  claims  are  in  Mr  Knafler's
+             submission distinct from cases such as D and  N,  in  both  of
+             which the appellant's presence and treatment in  the  UK  were
+             owed entirely to their unlawful entry ... ."
+
+         86.      If the Article 3 claim fails (as  I  would  hold  it  does
+         here), Article 8 cannot prosper without some separate or additional
+         factual element which brings the case within the Article 8 paradigm
+         - the capacity to form and enjoy relationships  -  or  a  state  of
+         affairs having some affinity with the paradigm [citing paragraph 23
+         of MM]. "
+
+      1. With great respect this seems to me to be entirely right. It  means
+         that a specific case has to be made under Article 8. It  is  to  be
+         noted that MM (Zimbabwe) also  shows  that  the  rigour  of  the  D
+         exception for the purpose of Article  3  in  such  cases  as  these
+         applies with no less force when the claim is put  under  Article  8
+         [citing paragraphs 17 and 18 MM]."
+
+13. In GS, Underhill LJ also commented at [111] on [23] of MM:
+
+         "... two essential points are being made.  First,  the  absence  or
+         inadequacy of medical treatment, even life-preserving treatment, in
+         the country of return, cannot be relied  on  at  all  as  a  factor
+         engaging article 8: if that is all there is, the claim  must  fail.
+         Secondly, where article 8 is engaged by  other  factors,  the  fact
+         that the claimant is receiving medical treatment  in  this  country
+         which may not be available in the country of return may be a factor
+         in the proportionality exercise; but that factor cannot be  treated
+         as by itself giving rise to a breach since  that  would  contravene
+         the "no obligation to treat" principle."
+
+14. There is the additional factor here that MTT and TZ  children.  Section
+    55 of the Borders, Citizens and Immigration Act 2009 requires us  carry
+    out our task so that it is:
+
+         "... discharged having regard to the need to safeguard and  promote
+         the welfare of children who in the United Kingdom."
+
+15. At [33] of ZH (Tanzania) v SSHD [2011] UKSC 4, Baroness  Hale  provided
+    guidance on to how to apply s.55 in an Article 8 case:
+
+         "In making the proportionality assessment under Article 8, the best
+         interests of the child must be a primary consideration. This  means
+         that they must  be  considered  first.  They  can,  of  course,  be
+         outweighed by the cumulative effect of other considerations."
+
+16. In the case of R (SQ (Pakistan)) v SSHD [2013] EWCA Civ 1251 the  Court
+    of Appeal addressed the question of how to approach  Article  3  and  8
+    "medical" cases concerning a child. At [17], Maurice Kay LJ stated,  in
+    the context of an Article 3 case, that:
+
+         "I accept that there are circumstances in which the threshold  will
+         be reached in relation to a child where it would not be reached  in
+         the case of an adult".
+
+17. At [21], the Court  confirmed  that  "ZH  (Tanzania)  demonstrates  the
+    central role of the best interests of children in an  Article  8  case"
+    and went on to consider the potential impact of the ZH principle  in  a
+    proportionality assessment at [26] and [27]:
+
+         "26.     What  this  case  demonstrates  is  that  in  some  cases,
+         particularly but not only in relation to children,  Article  8  may
+         raise issues separate  from  Article  3.  In  JA  (Ivory  Coast)  v
+         Secretary of State for the Home Department [2009] EWCA Civ 1353, an
+         adult succeeded under Article 8 (but not Article  3)  in  a  health
+         case. Sedley LJ emphasised (at paragraph 17) that each of  the  two
+         Articles "has to be approached and applied in its own  terms".  The
+         leading authorities of D and N  were  distinguished  on  the  basis
+         that, in both of them, the appellants' presence  and  treatment  in
+         this country " were owed entirely to unlawful entry".  JA's  appeal
+         was  allowed  and  her  case  remitted  because  of  the  potential
+         significance of the fact  that,  following  her  lawful  entry  and
+         subsequent  diagnosis  of  HIV+,  she  had  been  granted   further
+         exceptional leave to remain for  treatment.  Although  no  separate
+         Article 8 issue arose in D or N, it plainly did in JA.
+
+      1. I do not intend to predict or seek to influence the outcome of  the
+         present case on remittal. On the one hand, MQ can pray in  aid  his
+         lawful entry and his status as a child with the protection  of  the
+         ZH approach. On the other hand, he arrived with his serious medical
+         conditions at an advanced  stage  and,  although  not  an  unlawful
+         entrant, it will be relevant to consider whether his  arrival  here
+         was a manifestation of "health tourism". If it was, that would fall
+         to be weighed in the balance. After all, this country is  under  no
+         international obligation always to act  as  "the  hospital  of  the
+         world".  The  difficult   question   is   whether   it   would   be
+         disproportionate to remove this child  in  the  light  of  all  the
+         evidence in the case, including  the  medical  evidence  which,  at
+         present, is not as clearly presented as it could be.
+
+18. The approach identified in SQ was confirmed  in  AE  (Algeria)  v  SSHD
+    [2014] EWCA Civ 653, the lead judgement again being  given  by  Maurice
+    Kay LJ. At [2], referring to his earlier decision:
+
+         "2. As in the recent case of R (SQ  (Pakistan))  v  Upper  Tribunal
+         [2013] EWCA Civ 1251, this case is concerned with  the  application
+         of Articles 3 and 8 when it is proposed to remove a very sick child
+         to his or her home country where available healthcare provision  is
+         substantially inferior but where the evidence does not point to the
+         likelihood of an early death. The leading authorities  in  "health"
+         cases concerned adults: D v United Kingdom [1997] 24 EHRR 423; N  v
+         Secretary of State for the Home Department [2004] 2AC 296; and  its
+         sequel in the European Court of Human Rights (ECtHR),  N  v  United
+         Kingdom [2008] 47 EHRR 39. It is well known that these  authorities
+         place a high hurdle in the way of adult applicants in health cases.
+         In SQ, this court accepted that there can be circumstances in which
+         the high threshold can be reached in relation to a child  where  it
+         would not be reached in the case of an  adult  (paragraph  17).  It
+         also accepted that, in the light  of  Article  3.1  of  the  United
+         Nations Convention on the Rights of the Child (UNCRC)  and  section
+         55 of the Borders Citizenship and  Immigration  Act  2009,  special
+         considerations in relation to children arise under Article 8 of the
+         ECHR such that the best interests  of  the  child  are  "a  primary
+         consideration", as explained in ZH (Tanzania) v Secretary of  State
+         for the Home Department [2011]  (UKSC4).  The  submissions  on  the
+         present appeal to a large extent replicate those  advanced  in  SQ.
+         However, the cases are necessarily fact sensitive. In SQ the appeal
+         was dismissed in relation to Article 3  but  was  allowed,  to  the
+         extent of a remittal to the UT, in relation to Article 8."
+
+    and at [7]:
+
+         "7. SQ shows that, particularly in relation to a child,  Article  8
+         may be more protective than Article 3. On the other hand, where  it
+         is engaged, the fact that it concerns a qualified right means  that
+         everything  will  ultimately  depend  on  the  balancing   exercise
+         pursuant to Article 8.2."
+
+19. The case law we  have  considered  requires  "other  factors  which  by
+    themselves engage Article 8" or "some separate  or  additional  factual
+    element which brings the case within the Article 8 paradigm  ...  or  a
+    state of affairs having some affinity with  the  paradigm"  beyond  the
+    medical issues if an Article 8 claim is to succeed where  it  does  not
+    under Article 3. It appeared to us that the approach taken in SQ and AE
+    was that the minority of an appellant had that potential,  Maurice  Kay
+    LJ stating at [24] that "the issue of interference must admit  of  only
+    one answer here".  We  could  not  identify  anything  other  than  the
+    appellants' minority  in  SQ  and  AE  distinguishing  them  from,  for
+    example, N in N v UK or appellant KK in GS who was considered  at  [97]
+    not to have a private life beyond that allowed by his treatment in  the
+    UK. We accepted that the minority of two of the appellants  here  meant
+    that we should follow SQ and AE in finding  Article  8  engaged  and  a
+    proportionality  assessment  of  the  interference  with  private  life
+    required.
+
+20. From this learning of the Supreme Court and Court of  Appeal,  we  take
+    the following principles as  being  of  particular  relevance  to  this
+    appeal:
+
+          a. The threshold in a "medical" case is very  high.  Even  if  an
+             appellant  is  suffering  from  "mortal  illness"  and  "would
+             deteriorate rapidly and suffer an early death"  a  claim  does
+             not succeed ([16] of MM) .
+
+          b. The very high threshold must be applied in  a  "medical"  case
+             brought under Article 3  and  Article  8.   A  case  will  not
+             usually succeed on the same medical evidence under  Article  8
+             where it does not under Article 3 ([16] and [18] of MM ,  [87]
+             of GS).
+
+          c. A "medical" case that does not meet the high  threshold  under
+             Article 3 can only succeed under Article 8 if there are "other
+             factors which by themselves engage Article 8" ([23 of MM])  or
+             "some separate or additional factual element which brings  the
+             case within the Article 8 paradigm ... or a state  of  affairs
+             having some affinity with the paradigm" ([86] of GS).
+
+          d.  The  proportionality  assessment  cannot  turn  solely  on  a
+             comparison between medical treatment  available  here  and  in
+             Bangladesh and the consequences  for  the  appellant  although
+             that will be one of the factors to be taken into  account.  To
+             do  otherwise  would  offend  the  "no  obligation  to   treat
+             principle" ([23] of MM and [111] of GS).
+
+          e. The best interests of a child are to be weighed as  a  primary
+             factor ([33] of ZH).
+
+          f. MTT's minority brings the case within the Article  8  paradigm
+             and is a factor capable of  making  to  return  to  Bangladesh
+             disproportionate when that would not be so for an adult.  That
+             will not necessarily be so  as  it  will  depend  on  all  the
+             factors in play in the balancing exercise ([26] of SQ and  [7]
+             of AE).
+
+          g. The assessment will be fact specific. The case  law  discussed
+             above identifies relevant considerations such as  legal  entry
+             and residence (SQ at  [26]),  entry  where  an  appellant  was
+             already aware of illness (SQ at [27]), de facto assumption  of
+             care ([85] of GS), previous leave being granted  in  order  to
+             remain for treatment (SQ at [26]) and family support on return
+             (AE at [4]) but there is no definitive list or guidance as  to
+             what weight might attract to these factors in different cases.
+
+
+
+21. Before proceeding to assess proportionality we  reminded  ourselves  of
+    the need for "other factors which by themselves engage  Article  8"  or
+    "some separate or additional factual  element  which  brings  the  case
+    within the Article 8 paradigm ... or a state  of  affairs  having  some
+    affinity with the paradigm" beyond the medical issues.  The  discussion
+    in the case law above of an appellant's minority and role of s.55 is in
+    the context of an assessment of proportionality rather  than  the  need
+    identified in MM and GS for there to be "additional factors" within the
+    Article 8 paradigm that might  allow  for  a  different  outcome  under
+    Article 8 than under Article 3.
+
+22. We observed, however, that in SQ the Court  of  Appeal  found  for  the
+    minor appellant as the First-tier Tribunal had decided incorrectly that
+    Article 8 was not engaged as interference with  private  life  had  not
+    been shown. At [24], Maurice  Kay  LJ  indicated  that  "the  issue  of
+    interference must admit of only one  answer  here".  The  feature  that
+    appears to have allowed the Court of Appeal in that case to  find  that
+    an Article 8 case had the potential to  succeed  where  had  not  under
+    Article 3 was that SQ was a child.
+
+23. We are therefore satisfied that Article 8 is engaged here  where  there
+    is a minor appellant and that the respondent's decision  amount  to  an
+    interference with the child's private life, requiring us to proceed  to
+    assess whether the interference is proportionate.
+
+24. We are also required to apply the provisions  of  paragraphs  117A  and
+    117B of the Nationality, Immigration and Asylum Act 2002; Dube (ss117A-
+    117D) [2015] UKUT 90 (IAC) and Forman (ss 117A-C considerations) [2015]
+    UKUT 00412 (IAC) applied. Those provisions are as follows:
+
+         117A Application of this Part
+
+           (1)   This Part applies where a court or tribunal is required to
+                determine whether a decision made under the Immigration Acts-
+
+
+
+                (a)    breaches a person's right to respect for private  and
+                    family life under Article 8, and
+
+                (b)    as a result would be unlawful under section 6 of  the
+                    Human Rights Act 1998.
+
+           (2)   In considering the public interest question, the court  or
+                tribunal must (in particular) have regard-
+
+                (a)    in all cases, to the considerations listed in section
+                    117B, and
+
+                (b)     in  cases  concerning  the  deportation  of  foreign
+                    criminals, to the considerations listed in section 117C.
+
+
+
+           (3)   In subsection (2), "the public  interest  question"  means
+                the question of whether  an  interference  with  a  person's
+                right to respect for private and family  life  is  justified
+                under Article 8(2).
+
+         117B Article 8: public interest considerations  applicable  in  all
+         cases
+
+           (1)   The maintenance of effective immigration  controls  is  in
+                the public interest.
+
+           (2)   It is in the public interest, and  in  particular  in  the
+                interests of the economic well-being of the United  Kingdom,
+                that persons who seek to  enter  or  remain  in  the  United
+                Kingdom are able to speak English, because persons  who  can
+                speak English-
+
+            [pic] [pic]  [pic]
+
+                (a)    are less of a burden on taxpayers, and
+
+                (b)    are better able to integrate into society.
+
+           (3)   It is in the public interest, and  in  particular  in  the
+                interests of the economic well-being of the United  Kingdom,
+                that persons who seek to  enter  or  remain  in  the  United
+                Kingdom are financially independent, because such persons-
+
+                (a)    are not a burden on taxpayers, and
+
+                (b)    are better able to integrate into society.
+
+           (4)   Little weight should be given to-
+
+                (a)    a private life, or
+
+                (b)    a relationship formed with a qualifying partner, that
+                    is established by a person at a time when the person  is
+                    in the United Kingdom unlawfully.
+
+           (5)    Little  weight  should  be  given  to  a   private   life
+                established  by  a  person  at  a  time  when  the  person's
+                immigration status is precarious.
+
+           (6)   In the case of a person who is not liable to  deportation,
+                the public interest does not require  the  person's  removal
+                where-
+
+                (a)    the person has  a  genuine  and  subsisting  parental
+                    relationship with a qualifying child, and
+
+                (b)    it would not be reasonable to  expect  the  child  to
+                    leave the United Kingdom.
+
+III. Medical Evidence
+
+25. MTT's condition is at the centre of  our  consideration  as  it  is  an
+    essential element in the  assessment  of  his  private  life  and  best
+    interests so we start our consideration with the medical evidence  that
+    was before us.
+
+26. We were provided with a number of letters from MTT's  current  treating
+    team at Birmingham Children's Hospital. In a letter dated  10  February
+    2014, Dr Rafeeq Muhammed, Consultant Paediatric Gastroenterologist  and
+    Christine Holden, Head of Nutritional Care, stated:
+
+         "[MTT]  previously  lived  in  Bangladesh  for  10  years  and  was
+         extremely unwell with high risk of dying due to his  complex  bowel
+         problems. When he came to Britain ...  he  was  severely  emaciated
+         .... He is on life saving treatment everyday and would be in severe
+         danger if treatment is stopped. It is not possible for this  to  be
+         undertaken in Bangladesh.
+
+         ...
+
+         Without  parenteral  nutrition  [MTT]  will  have  serious   health
+         problems which could result in his death.  The  prognosis  of  this
+         condition remains poor without parenteral nutrition, however,  with
+         parenteral nutrition children can live into adulthood  and  have  a
+         good quality of life.
+
+         This treatment is  essential  for  [MTT]'s  survival  in  terms  of
+         growth, development, general health and his problem maintaining his
+         body's salt balance. ... I would not recommend long distance travel
+         for [MTT], particularly  in  a  flight,  because  of  the  risk  of
+         dehydration and  infection.  [MTT]  also  receives  treatment  from
+         Rheumatology, Endocrinology and Dental  teams  for  problems  (sic)
+         poor  bone  and  teeth  health  which  are  related  to  his  bowel
+         condition.
+
+         We would hope you would look  sympathetically  at  this  appeal  as
+         [MTT] could die if the specialised treatment cannot be continued."
+
+27. Dr Muhammed and Ms Holden confirm these views  in  a  number  of  other
+    letters. In his most recent letter dated  29  June  2015,  Dr  Muhammed
+    stated:
+
+         "With the treatment  provided  by  the  multidisciplinary  team  in
+         Birmingham Children's Hospital, [MTT]'s quality  of  life  is  very
+         good. [MTT] is also looked after by many other specialists  in  our
+         hospital regarding his bone and dental health, mobility and hearing
+         problems.  We  have  enquired  about  health  care  facilities   in
+         Bangladesh and they do not have  facilities  no  where  (sic)  near
+         which  we  provide  in  the  UK.  I  believe  that  [MTT]'s  health
+         consequences could be so severe that his life could be in danger if
+         he is forced to move back to Bangladesh and discontinue the current
+         treatment."
+
+28. Christine Holden indicated in her most recent letter dated 3 July 2015:
+
+
+
+         "[MTT] is on life saving treatment every day and would be in severe
+         danger if treatment was stopped.
+
+         ...
+
+         Without  parenteral  nutrition  [MTT]  will  have  serious   health
+         problems, which could result in his death.  The  prognosis  of  his
+         condition remains poor without parenteral nutrition,  however  with
+         parenteral nutrition children can live into adulthood and will have
+         a good quality of life.
+
+         I would not recommend long distance travel for [MTT],  particularly
+         a flight, because of the risk of dehydration and infection.
+
+         ...
+
+         In view of all of the above and the needs of [MTT] and  his  family
+         it is imperative they are allowed to  remain  in  this  country.  I
+         would hope you would look sympathetically at this appeal  as  [MTT]
+         could die if treatment does not continue in this country."
+
+29. The evidence was clear as to parenteral nutrition not  being  available
+    at all in Bangladesh. The treatment is complex and relatively rare even
+    in the UK with a range of regular support from hospital  and  community
+    medical teams  required  on  an  ongoing  basis.    The  expertise  and
+    equipment required is not available in Bangladesh with  the  additional
+    difficulties of storage of  the  solution  and  administration  in  the
+    required sterile conditions being very difficult due to the climate and
+    erratic electricity supply.
+
+30. We accept without hesitation that  MTT  has  a  very  serious,  chronic
+    condition. We recognise that this has lead to him being very ill due to
+    undernourishment  and  side-effects  of   treatment   all   his   life.
+    Complications have included weak bones and fractures due to  inadequate
+    nutrition and he has recently experienced hearing loss.
+
+31. What we also take from the evidence  of  Dr  Muhammed  and  Ms  Holden,
+    however, is that on return to Bangladesh without  parenteral  nutrition
+    MTT "could" or "could probably"  or  "would  potentially"  die.   Their
+    evidence was no more specific as to the likelihood of MTT  dying  after
+    return or how limited MTT's life expectancy might be.
+
+32. It appeared to  us  that,  although  very  concerning,  this  prognosis
+    explained why the case did not succeed under Article 3 ECHR before  the
+    First-tier Tribunal and there was no challenge  to  that  part  of  the
+    decision. We reminded ourselves, however, that although  the  threshold
+    remains high in an Article 8 "medical" case, the failure under  Article
+    3 does not mean an Article 8 claim cannot succeed,  particularly  where
+    it concerns children.
+
+33. In addition to the evidence from  the  team  at  Birmingham  Children's
+    Hospital, we also had evidence from  Michelle  Snipe,  Palliative  Care
+    Nurse who cares for MTT in the community. She states in her  letter  of
+    17 February 2014 that:
+
+         "Withdrawal from this treatment package in essence would  be  fatal
+         for [MTT]"
+
+    and in her further letter dated 8 July 2015 that:
+
+         "[MTT] does not have positive memories of his life in Bangladesh as
+         he was unwell  throughout  this  period  of  his  life.  [MTT]  has
+         reported demonstrate  (sic)  anxiety  and  distress  regarding  his
+         future and mortality at the prospect of returning to Bangladesh  as
+         he is acutely aware of the limitations  that  would  challenge  his
+         medical and educational care."
+
+34. Carole Benson, Paediatric Homecare Nurse comments in a letter  dated  7
+    July 2015 that:
+
+         "Without Parenteral Nutrition (PN) [MTT] would not grow up  at  all
+         and would not survive.
+
+         ...
+
+         Again without  PN,  [MTT]  would  have  a  poor  quality  and  fore
+         shortened (sic) existence full  of  pain  and  discomfort  with  no
+         independence or active part to play.
+
+         ...
+
+         By denying permission you are breaching his rights  and  condemning
+         him to a shortened, painful and joyless life with no expectation of
+         contributing to society.
+
+         If he was forced to return to Bangladesh it is a 12 hour flight,  a
+         journey in  total  of  almost  24  hours.  This  journey  would  be
+         detrimental to his health as he would not be  able  to  receive  PN
+         during the journey or after its conclusion."
+
+35. Where Ms Snipe and Ms Benson state that absence of parenteral nutrition
+    "would be fatal" and that MTT "would not survive" we prefer the opinion
+    of MTT's Consultant  and  the  Head  of  Nutrition  at  the  Birmingham
+    Children's Hospital who state only that he "could" be  so  at  risk  on
+    return. We take that view not just on the basis of their  seniority  of
+    Dr Muhammed and Ms Holden but because  their  opinions  are  consistent
+    with the fact of MTT surviving in Bangladesh from birth to the age of 2
+    and then on return from 2004 to 2011 after he returned from Singapore.
+
+36. We had a similar difficulty with the comments as to the risks to  MTT's
+    health and wellbeing if he undertakes the journey  to  Bangladesh.  The
+    evidence is that he flew to  the  UK  after  7  years'  of  sub-optimal
+    treatment in Bangladesh. He has now had 4 years' of treatment that  has
+    improved his  health  to  some  extent.  His  condition  has  now  been
+    definitively diagnosed and it appeared to us that plans can be made  to
+    ameliorate the risk of deterioration in his health during the  journey.
+    If necessary the journey could be undertaken in  stages,  with  breaks,
+    possibly in  countries  that  can  provide  parenteral  nutrition,  his
+    parents indicating in their witness statement, for  example,  that  MTT
+    received this treatment in Singapore when he was a young child.
+
+    Circumstances on Return to Bangladesh
+
+37. We had the evidence set out above from the medical team in  the  UK  on
+    MTT's health and likely circumstances on return to Bangladesh. We  also
+    heard evidence from MTT's father, MTH, about how the family dealt  with
+    MTT's health problems when they were in Bangladesh from 2004  to  2011,
+    those conditions realistically being those he  would  be  returning  to
+    now.
+
+38. We found the dignified and straightforward manner in which MTH gave his
+    evidence on such acutely difficult matters deeply impressive.
+
+39. MTH told us that life in Bangladesh had been a struggle for MTT.  Every
+    week he had to go to hospital for treatment. At  the  hospital  he  was
+    given glucose and protein  lipid  drips  via  a  vein  which  was  very
+    unpleasant. Every two or three days the vein would become  blocked  and
+    other veins used, all of which was very painful for MTT. A  great  deal
+    of MTT's life was staying in bed at home. MTH and RS were both  working
+    in Bangladesh before they came to the UK. Together with RS's mother and
+    a maid who lived in the flat opposite, they cared for MTT.
+
+40. MTH accepted that the family are privileged. They had  enjoyed  a  high
+    standard of living in Bangladesh and could  expect  to  return  to  the
+    same.  MTH  is  a  Deputy  General  Manager  of  the  Central  Bank  of
+    Bangladesh. His wife, RS, works for  the  Bangladesh  Government  as  a
+    senior Assistant Chief in the Ministry of Planning. MTH commented  that
+    her post-graduate degree from the University of Birmingham will  assist
+    her in her furthering her career. In addition. three of MTT's aunts are
+    doctors, two of them Professors, an uncle is in the banking sector, and
+    another uncle is  a  Lieutenant  Colonel  in  the  army.  Relatives  in
+    Bangladesh have been sending money to help the  family.  MTH  confirmed
+    this was for living costs and that the family  had  not  paid  for  the
+    treatment or the education MTT and ZT had accessed in the UK.
+
+41. MTH accepted that the family could recreate the same system of care for
+    MTT on return as had been in place before they left Bangladesh but this
+    was very difficult for them to contemplate.
+
+42. In particular, MTT had spoken to MTH asking him not to allow him to  be
+    returned to Bangladesh as he feared he would die. We noted that that is
+    the view he also expressed to Ms Snipe at  [30],  above.  It  was  also
+    mentioned by MTT's Family Support Worker, Sonia Grant, who wrote  in  a
+    letter dated 26 June 2015 that he is fearful of returning to Bangladesh
+    as he was so unwell when he lived there.
+
+43. We accept that MTT's quality of life in Bangladesh will be  very  poor,
+    that he will once again become mainly house-bound, if  not  often  bed-
+    bound, will not be able to have a life of much  substance  outside  the
+    home and will really only socialise with his  immediate  relatives.  He
+    will have a high level of family support, possibly  more  so  than  now
+    where he has only his parents with him  rather  than  grandparents  and
+    aunts and uncles.
+
+44. We also accept that he will not be able to go to school,  make  friends
+    and socialise as he has here. The family has already  established  that
+    even private schools in Bangladesh would find it difficult  to  address
+    his needs by way of equipment and personal support were he well  enough
+    to attend. His father has indicated that the family can pay for private
+    tuition but this can only provide a limited form of education  compared
+    to that he has been able to access in the UK. Slightly more positively,
+    we noted that his Family Support Worker identified IT  as  a  favourite
+    subject and that he enjoys  TV  and  computer  games,  aspects  of  his
+    current life that could be replicated in his home in Bangladesh.
+
+IV. Article 8 Assessment
+
+    Best Interests
+
+45. It is obvious to us that it must be in MTT's best interests  to  remain
+    in the UK in order  to  continue  with  his  treatment  and  to  remain
+    relatively  well.  If  he  returns  to  Bangladesh  he  will  face  the
+    possibility of  early  mortality  and  the  certainty  of  limited  and
+    unpleasant medical treatment.
+
+46. It is entirely understandable that it is the wish of his parents and of
+    MTT himself that the family remains in  the  UK.  We  place  particular
+    weight on his wishes when assessing his best interests given that he is
+    14 years' old and that although we did not have evidence directly  from
+    him, he has made his view clear to a number of those around him.
+
+47. In addition  to  his  compromised  health,  we  also  accept  that  his
+    educational development and life opportunities  in  the  broader  sense
+    will be hampered by his removal, albeit he can be  tutored  and  access
+    modern media in his home. The quality of life that he has been able  to
+    develop in the UK because of  his  treatment  and  special  educational
+    support is of a much more significant depth and variety  than  that  he
+    had and will have on return to Bangladesh.
+
+48. We also found that  TZ's best interests really run in parallel to those
+    of MTT. Her circumstances on return will be less stark  than  his.  She
+    will be  with  her  parents  and  other  relatives,  has  a  relatively
+    privileged background and will able to attend school, form  friendships
+    and so on. But where her  brother's  life  in  Bangladesh  will  be  so
+    difficult this can only but have  a  negative  impact  on  all  of  the
+    family, however assiduous the parents are in reducing the  consequences
+    for TZ. We accept that it is in her best interest to remain in  the  UK
+    where her brother can be relatively well.
+
+    Proportionality
+
+49. We have accepted that the best interests of both of the  children  here
+    lie in remaining in the UK. That must remain a primary consideration in
+    our assessment regardless of the other factors in play.
+
+50. We have accepted above that the medical evidence shows that  MTT  could
+    die without parenteral nutrition although no indication is given as  to
+    how reduced his life expectancy might be. As above, we could not  avoid
+    the fact that he lived in Bangladesh for 10 years playing a part in our
+    thinking. What is certain is that his quality of life will be  poor  as
+    only limited  and  unpleasant  treatment  will  be  available  to  him,
+    significantly affecting his health and well-being.
+
+51. The impact of MTT's compromised health  and  quality  of  life  on  his
+    parent younger sister is also a significant factor.
+
+52. We took into account  also  that  even  though  they  have   been  here
+    lawfully, the family came with limited leave in order for RS  to  study
+    not for MTT to receive medical treatment. There has  never  been  a  de
+    facto commitment that MTT would be  allowed  to  stay  in  the  UK  for
+    medical treatment or leave granted for that purpose.
+
+53. We are also required to apply the provisions of s. 117B. The family  do
+    not meet the requirements of the  Immigration  Rules  and  that  weighs
+    against them where the maintenance of effective immigration controls is
+    in the public interest. The family speak English  but  that  is  not  a
+    factor that can weigh positively in  their  favour;  see  AM  (S  117B)
+    Malawi [2015] UKUT 0260 (IAC) and Forman.
+
+54. We did not find that the family is financially  independent  given  the
+    reliance on public funds for MTT's medical and educational and  special
+    needs provision and also TZ's education. We have been given no  figures
+    but there must be a very significant burden on the taxpayer  given  the
+    specialist treatment MTT is receiving and the support  he  receives  at
+    his special school. His parents are  unable  to  pay  for  his  medical
+    treatment or education and are not paying for TZ's education. We accept
+    that MTT and RS have otherwise been able  to  maintain  the  family  by
+    working lawfully, obtaining support from family members  in  Bangladesh
+    and being accommodated by friends in the UK.
+
+55. It is our view that the significant burden on the taxpayer now  and  in
+    the future if the family remains in the  UK  is  a  significant  factor
+    weighing against them in the balancing exercise. As at [9] of AE:
+
+         "Moreover, I do not consider that it would be inappropriate for the
+         future cost and duration  of  [M]'s  treatment  and  care  in  this
+         country to play  a  part  in  the  balancing  exercise  as  matters
+         relating to the economic  wellbeing  of  this  country,  given  the
+         strains on the public finances."
+
+56. Section 117B(5) mandates that  little  weight  should  be  given  to  a
+    private life that is established  by  a  person  at  a  time  when  the
+    person's immigration status is precarious. The  case  of  AM  (S  117B)
+    Malawi [2015] UKUT 0260 (IAC) states at paragraph 4 of  the  head  note
+    that:
+
+          "Those who at any given date held a precarious immigration  status
+         must have held at that date an otherwise lawful grant of  leave  to
+         enter or to remain. A person's immigration status  is  "precarious"
+         if their continued presence in the UK will be dependent upon  their
+         obtaining a further grant of leave.
+
+57. As above, it is undisputed that the family here have always been in the
+    UK lawfully. The application  for  further  leave  that  led  to  these
+    proceedings   was   made   in-time   and   so   the   family's   lawful
+    student/dependent leave has been  extended  under  section  3C  of  the
+    Immigration Act 1971.
+
+58. We were unsure whether it was correct to apply here the full  force  of
+    the definition of "precarious" in AM.  Following  ZH,  the  immigration
+    history of the family cannot be used to reduce the fixity of the weight
+    that attracts to the best interests of MTT and TZ. We noted that ZH was
+    decided prior to the introduction of s.117B, however.
+
+59. It appeared to us that the position was as at [52] above,  less  weight
+    attracting to the family's side of the balance where the family entered
+    with limited leave and no expectation that  any  of  the  family  could
+    remain on medical grounds.
+
+V. Conclusion
+
+60. At the outset of MM, Moses LJ stated that it was "a  sad  and  worrying
+    case". We found this appeal to be so, also. However  much  sympathy  we
+    have for MTT, his sister and his parents, however, our judicial duty is
+    to apply the law as we understand it to the facts as we  find  them  to
+    be.
+
+61. We have endeavoured to set out above as clearly as possible our view of
+    the law and our findings so that the family can at least  know  why  we
+    have reached the conclusion that we cannot allow the appeal.
+
+62. No one factor played a definitive part in our decision. We kept in mind
+    at all times the clarity of the  children's  best  interests  being  in
+    remaining in the UK. It remains the case that  the  evidence  does  not
+    show that return to Bangladesh will definitely lead to a  very  reduced
+    life expectancy. The medical evidence is that MTT's life "could" be  in
+    danger in Bangladesh without parenteral nutrition. The evidence is also
+    that he survived in Bangladesh for 10 years, other than a short  period
+    in Singapore, before coming to the UK. We did not find that  the  facts
+    here were sufficiently close  to  the  high  threshold  required  in  a
+    "medical" case, even where we are concerned with  the  futures  of  two
+    children.
+
+63. We know that MTT's life on return to Bangladesh will be very  hard  and
+    unpleasant and that it will be difficult for his  family  where  he  is
+    suffering. Against that, however, we are mandated  to  weigh  the  very
+    significant burden to the taxpayer arising from MTT treatment  and  his
+    and TZ's education.
+
+64. In all the circumstances, we found that it was  proportionate  for  MTT
+    and his family to return to Bangladesh.
+
+Decision:
+
+    We dismiss the Article 8 ECHR appeal.
+
+
+Signed:     [pic]      28 August 2015
+Upper Tribunal Judge Pitt
+
+
+

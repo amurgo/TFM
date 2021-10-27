@@ -1,0 +1,1979 @@
+
+[pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber
+
+R (on the application of Sharif Hussein) v First-Tier  Tribunal  (para  353:
+present scope and effect) IJR [2016] UKUT 00409 (IAC)
+
+
+                                                                Field House,
+                                                            Breams Buildings
+                                                                      London
+                                                                    EC4A 1WR
+
+
+                                       Heard at Field House on:  20 May 2016
+                                      Final written submissions: 9 June 2016
+
+
+                                  The QUEEN
+                           (ON The application OF)
+                             amin sharif hussein
+                                                                   Applicant
+
+                                     and
+
+                             FIRST-TIER TRIBUNAL
+                                                                  Respondent
+
+                 Secretary of State for the Home Department
+
+                                                            Interested Party
+
+                                   Before
+
+                          the hon. mr justice dove
+                 (sitting as a judge OF the upper Tribunal)
+                       Upper Tribunal Judge PETER LANE
+
+                               - - - - - - - -
+
+For the applicant: Mr R Toal, Counsel, instructed by Wilsons Solicitors
+For the interested party: Mr T Fisher, Counsel, instructed by the
+Government Legal Department
+The respondent was not represented
+
+ (1) Lord Neuberger's judgment in R (ZA (Nigeria)) v Secretary of State  for
+the Home Department  [2010] EWCA Civ 926 is an  authoritative  pronouncement
+on the scope of  the  Supreme  Court's  judgments  in  R  (BA  (Nigeria))  v
+Secretary of State for the Home Department [2009] UKSC 7.
+
+(2) Parliament's actions in amending paragraph 353  (fresh  claims)  of  the
+immigration rules in the light of the changes to the appeal regime  made  by
+the Immigration Act 2014, together with its decisions:-
+
+     (i) to  amend,  but  without  bringing  into  force,  the  prospective
+    amendments made in 2006 to the definition of "human  rights  claim"  in
+    section 113 of the Nationality, Immigration and Asylum Act 2002; and
+    (ii) to amend the existing definition of "human rights  claim"  in  the
+    light of the 2014 Act,
+
+ show that Parliament intends paragraph 353 to be used to determine  whether
+further submissions constitute a fresh human rights claim  for  the  purpose
+of "new" section 82 of the 2002 Act.
+
+(3)  If, in the post-2014 Act world, Parliament had intended  paragraph  353
+to apply only to the Secretary  of  State's  certification  decisions,  then
+Parliament would have made this plain. If the applicant  were  correct  that
+paragraph 353 currently has only such a limited ambit, commencing  the  2006
+amendments to section 113 of the 2002 Act would not enable the Secretary  of
+State to make any significantly greater and/or  coherent  use  of  paragraph
+353.
+
+(4) Parliament's decision to leave in place  the  expressions  "submissions"
+and "if rejected" in paragraph 353 are  indicative  that  they  continue  to
+serve the function of permitting the Secretary of State to categorise  cases
+as between those that do not amount to a  claim  at  all  and  those  which,
+though rejected, amount to a fresh human rights claim for  the  purposes  of
+"new" section 82.
+
+(5)  The Secretary of State is not the  sole  arbiter  of  whether,  in  any
+particular case, she has made a decision to refuse a human rights claim,  as
+opposed to refusing to treat submissions as amounting to a fresh claim.
+
+                       - - - - - - - - - - - - - - - -
+                                  JUDGMENT
+                               (8 August 2016)
+                       - - - - - - - - - - - - - - - -
+
+JUDGE PETER LANE:
+
+
+A. Introduction
+
+
+1.   As a result of the amendments made by the Immigration Act 2014  to  the
+    Nationality, Immigration and Asylum Act 2002, Parliament  reduced  from
+    14 to 3 the number of rights of  appeal  under  the  2002  Act  against
+    decisions of the Secretary of State in the immigration field.   Section
+    82 (right of appeal to the Tribunal) now reads as follows:
+
+
+         "(1) A person ("P") may appeal to the Tribunal where -
+
+
+             (a)  the Secretary of State has decided to refuse a protection
+                  claim made by P;
+
+
+             (b)  the Secretary of State has  decided  to  refuse  a  human
+                  rights claim made by P, or
+
+
+             (c)   the  Secretary  of  State  has  decided  to  revoke  P's
+                  protection status.
+
+
+         (2)  For the purposes of this Part -
+
+
+             (a)  a 'protection claim' is a claim made by  a  person  ("P")
+                  that removal of P from the United Kingdom -
+
+
+                  (i)  would breach the United Kingdom's  obligations  under
+                      the Refugee Convention, or
+
+
+                  (ii) would breach  the  United  Kingdom's  obligations  in
+                      relation  to  persons  eligible  for   a   grant   of
+                      humanitarian protection;
+
+
+             (b)  P's protection claim is refused if the Secretary of State
+                  makes one or more of the following decisions -
+
+
+                  (i)  that removal of P from the United Kingdom  would  not
+                      breach the United  Kingdom's  obligations  under  the
+                      Refugee Convention;
+
+
+                  (ii) that removal of P from the United Kingdom  would  not
+                      breach the United Kingdom's obligations  in  relation
+                      to persons  eligible  for  a  grant  of  humanitarian
+                      protection;
+
+
+             (c)  a person has 'protection status' if the person  has  been
+                  granted leave to enter or remain in the United Kingdom  as
+                  a  refugee  or  as  a  person  eligible  for  a  grant  of
+                  humanitarian protection;
+
+
+             (d)   'humanitarian  protection'  is  to   be   construed   in
+                  accordance with the immigration rules;
+
+
+             (e)   'refugee'  has  the  same  meaning  as  in  the  Refugee
+                  Convention.
+
+
+         (3)  The right of appeal under subsection (1)  is  subject  to  the
+             exceptions and limitations specified in this Part."
+
+
+2.   Section 113 (interpretation) of the 2002  Act  contains  the  following
+    definitions:-
+
+
+         "(1) In this part, unless a contrary intention appears -
+
+
+                  'asylum claim' means a claim  made  by  a  person  to  the
+                  Secretary of State at a place designated by the  Secretary
+                  of State that to remove the person from or require him  to
+                  leave the United Kingdom would breach the United Kingdom's
+                  obligations under the Refugee Convention;
+
+
+                  'humanitarian protection' has the meaning given in section
+                  82(2);
+
+
+                  'human rights claim' means a claim made by a person to the
+                  Secretary of State at a place designated by the  Secretary
+                  of State that to remove the person from or require him  to
+                  leave the United Kingdom or to refuse him entry  into  the
+                  United Kingdom[1] would be unlawful under section 6 of the
+                  Human Rights Act 1998 (c.42) (public authority not to  act
+                  contrary to Convention);
+
+
+                   'the Human Rights Convention' has  the  same  meaning  as
+                  'the  Convention'  in  the  Human  Rights  Act  1998   and
+                  'Convention rights' shall be construed in accordance  with
+                  section 1 of that Act;
+
+
+                  'immigration rules' means rules under section 1(4) of  the
+                  Immigration Act 1971 (general immigration rules);
+
+
+                  'protection  claim'  has  the  meaning  given  in  section
+                  82(2);[2]
+
+
+                  'protection status'  has  the  meaning  given  in  section
+                  82(2);[3]
+
+
+                  'the Refugee Convention' means the Convention relating  to
+                  the Status of Refugees done at Geneva on 28 July 1951  and
+                  its Protocol."
+
+
+3.   Section 12 of the Immigration, Asylum and Nationality Act 2006  (asylum
+    and human rights  claims:  definition)  prospectively  amended  section
+    113(1) of the 2002 Act.  If section 12 had been brought into force by a
+    relevant Commencement Order, the  definitions  of  "asylum  claim"  and
+    "human rights claim" would have read as follows:-
+
+
+         "'asylum claim' -
+
+
+         (a)  means a claim made by a person that  to  remove  him  from  or
+             require him to leave  the  United  Kingdom  would  breach  the
+             United Kingdom's obligations under the Refugee Convention, but
+
+
+         (b)  does not include a claim which,  having  regard  to  a  former
+             claim, falls to be disregarded for the purposes of  this  Part
+             in accordance with immigration rules";
+
+
+         'human rights claim' -
+
+
+         (a)  means a claim made by a person that  to  remove  him  from  or
+             require him to leave the  United  Kingdom  would  be  unlawful
+             under section 6 of the Human Rights Act  1998  (c.42)  (public
+             authority  not  to  act  contrary  to  Convention)  as   being
+             incompatible with his Convention rights, but
+
+
+         (b)  does not include a claim which,  having  regard  to  a  former
+             claim, falls to be disregarded for the purposes of  this  Part
+             in accordance with immigration rules."
+
+
+4.   The amendments contained in section 12 of the 2006 Act  have  not  been
+    brought into force.  Instead, the 2014 Act  has  amended  the  existing
+    definition of "human rights claim" in  section  113  by  inserting  the
+    words "or to refuse him entry into the United Kingdom" (see footnote  1
+    to paragraph 2 above) and deleting the  words  "as  being  incompatible
+    with his Convention rights". The 2014 Act  also  made  a  corresponding
+    change to the prospective definition of "human  rights  claim"  in  the
+    2006 Act.[4]
+
+
+5.     The following are the immigration rules that are  relevant  to  these
+    proceedings:
+
+
+         "Procedure and rights of appeal
+
+
+         Fresh claims
+
+         353.  When a human rights or protection claim[5] has  been  refused
+         or withdrawn or treated as withdrawn under paragraph 333C of  these
+         Rules and any appeal relating to that claim is no  longer  pending,
+         the decision maker will consider any further  submissions  and,  if
+         rejected, will then determine whether they amount to a fresh claim.
+         The  submissions  will  amount  to  a  fresh  claim  if  they   are
+         significantly different from the material that has previously  been
+         considered. The submissions will only be significantly different if
+         the content:
+         (i)  had not already been considered; and
+         (ii)  taken  together  with  the  previously  considered  material,
+             created a realistic prospect of success,  notwithstanding  its
+             rejection.  This paragraph  does  not  apply  to  claims  made
+             overseas.
+         353A. Consideration of further submissions shall be subject to  the
+         procedures set out in  these  Rules.  An  applicant  who  has  made
+         further submissions shall not be removed before  the  Secretary  of
+         State  has  considered  the  submissions  under  paragraph  353  or
+         otherwise."
+6.   Although both Counsel had  prepared  for  the  hearing  on  20  May  by
+    reference to the wording of paragraph 353, as it appeared at that  time
+    on the Home Office's website, that wording was incorrect.  As a  result
+    of  the  approval  by  Parliament  of  the  Statement  of  Changes   in
+    Immigration Rules (HC 1025), the word "asylum"  in  paragraph  353  was
+    replaced with effect from 6 April 2015 by the word "protection".
+
+7.   As can be seen from paragraphs 1  and  2  above,  the  purpose  of  the
+    amendment is to reflect the introduction by the 2014 Act into the  2002
+    Act of the expression "protection claim".  The  amended  paragraph  353
+    was the version in force on 26 June 2015, when the Secretary  of  State
+    issued  her  letter,  declining  to  treat  the   applicant's   further
+    submissions as a fresh claim.
+
+
+B.  The issue
+
+
+8.   With that necessarily elaborate legislative exegesis, we can state  the
+    issue in these proceedings as follows: to what extent, if at  all,  can
+    the Secretary of State utilise paragraph 353 of  the  Rules  so  as  to
+    preclude P from appealing to the First-tier Tribunal under  section  82
+    of the 2002 Act?
+
+
+9.     Mr Toal, on behalf of the  applicant,  says  that  the  Secretary  of
+    State may not rely at all  on  paragraph  353  for  this  purpose.   He
+    submits that the position fundamentally changed, as  a  result  of  the
+    changes brought by the 2014 Act.   Mr  Toal  says  the  Upper  Tribunal
+    wrongly decided the cases of R (Waqar) v Secretary  of  State  for  the
+    Home Department (statutory appeals/paragraph  353)  [2015]  UKUT  00169
+    (IAC) and R (Robinson) v Secretary of State  for  the  Home  Department
+    (paragraph 353 - Waqar applied) [2016] UKUT 00133  (IAC),  in  both  of
+    which it was held that paragraph 353 still has a role to  play  in  the
+    post-2014 Act regime.  The Court of Appeal, according to Mr  Toal,  was
+    accordingly wrong to refuse permission in Waqar.
+
+
+10.    For the  Secretary  of  State,  Mr  Fisher  submits  that  Waqar  and
+    Robinson were correctly decided.  Furthermore, although  involving  the
+    immediately preceding  statutory  regime,  Mr  Fisher  says  that  this
+    Tribunal is bound by the judgment of the  Court  of  Appeal  in  R  (ZA
+    (Nigeria)) v Secretary of State  for  the  Home  Department  &  Another
+    [2010] EWCA Civ 926.  Both sides respectively contend that the  correct
+    application  of  principles  of  statutory  interpretation  demands   a
+    decision in their favour.
+
+
+
+
+
+C.  The present proceedings
+
+
+11.  The applicant is a citizen of Somalia who entered  the  United  Kingdom
+    in April 2009.  In August 2011, he was granted humanitarian  protection
+    for a period of five years, expiring on 24 August  2016.   That  status
+    was revoked by the Secretary of State on 19  November  2013,  on  which
+    date the Secretary of State also decided to make a deportation order in
+    respect of the applicant, following his  conviction  for  a  series  of
+    violent and sexual offences.
+
+
+12.  The applicant's appeal against the deportation decision  was  dismissed
+    and on 28 October 2014 the applicant became "appeal  rights  exhausted"
+    in respect of that decision.
+
+
+13.  On 24 June 2015, the applicant made further submissions in  support  of
+    a request to revoke the  deportation  order.   On  26  June  2015,  the
+    Secretary of State rejected those submissions and concluded  that  they
+    did not amount to a fresh claim under paragraph 353 of the  immigration
+    rules.
+
+
+14.  On 1 July 2015, the applicant attempted to  appeal  to  the  respondent
+    against the decision of 26  June.   On  6  July  2015,  the  First-tier
+    Tribunal decided that the decision  against  which  the  applicant  was
+    seeking to appeal was not one against which there  was  an  exercisable
+    right of appeal.  The First-tier Tribunal accordingly  found  that  the
+    appeal was "invalid"  and  that,  pursuant  to  rule  22(2)(a)  of  the
+    Tribunal  Procedure  (First-tier  Tribunal)  (Immigration  and   Asylum
+    Chamber) Rules 2014, the Tribunal  would  take  no  further  action  in
+    relation to it.
+
+
+15.  On 17 September 2015, an application was made  to  apply  for  judicial
+    review  proceedings  to  challenge  the  decision  of  the   First-tier
+    Tribunal.  Permission was granted by Upper Tribunal Judge  Coker  on  1
+    March 2016.
+
+
+
+
+
+D.  The cases
+
+
+16.  In order to engage with the submissions of Mr Toal and  Mr  Fisher,  it
+    is necessary to examine case law extending back some twenty years.
+
+
+
+
+
+R v Home Secretary ex p Onibiyo [1996] QB 768
+
+
+17.   A  Nigerian  national,  who  had  previously  appealed  unsuccessfully
+    against a decision that he was not entitled  to  refugee  status,  made
+    further submissions to the Secretary of State, who  declined  to  treat
+    them as a fresh asylum claim.  The Court of  Appeal  (per  Bingham  MR)
+    held that, although more than one "claim  for  asylum"  could  be  made
+    within the meaning of section 1 of the Asylum and  Immigration  Appeals
+    Act 1993, the Secretary of  State  had  power  to  decide  whether  new
+    submissions amounted to a fresh such claim:
+
+
+         "The first issue argued in this court was whether, as a  matter  of
+         law, a person may during a single uninterrupted stay in the  United
+         Kingdom make more than one  'claim  for  asylum'.   By  'claim  for
+         asylum' is meant a claim falling within the definition in section 1
+         of the Act of 1993.  The applicant argued that after dismissal of a
+         first claim, a fresh claim could in law be made.  The Secretary  of
+         State took a different view: he argued that once a person had  made
+         a 'claim for asylum', been refused by the Secretary  of  State  and
+         unsuccessfully exercised his rights of appeal under  section  8  of
+         the Act of 1993, that exhausted his legal rights.  He could lay new
+         material before the Secretary  of  State  and  the  latter,  if  so
+         advised, could  in  the  exercise  of  his  discretion  refer  such
+         material to a special adjudicator or the tribunal under section  21
+         of the Act of  1971  (applicable  to  asylum  cases  by  virtue  of
+         paragraph  4(2)(d)  of  Schedule  2  to  the  Act  of   1993)   for
+         consideration by that person or body.  But once there had been  one
+         claim for asylum and one appeal, there could be no  further  'claim
+         for asylum' unless the claimant had left  the  United  Kingdom  and
+         returned before making the fresh application.
+
+
+         The judge accepted the Secretary  of  State's  argument.   After  a
+         careful review of the relevant provisions and authorities,  and  of
+         the arguments addressed to him, he said:
+
+
+             'I have therefore come to the conclusion  that  the  statutory
+             scheme of the Act of 1993 envisages a claim for  asylum  which
+             becomes a historical  fact  entitling  the  asylum  seeker  to
+             exercise a  right  of  appeal  under  section  8  against  any
+             relevant  administrative  decision  or  action.   Any  further
+             material submitted or applications made by or on behalf of the
+             asylum seeker are submitted or made in support of the original
+             claim, whether they are made before or after the Secretary  of
+             State has made his decision on the claim or  before  or  after
+             any appeal under section 8.  If the appeal is dismissed,  then
+             the  material  or  applications  will  be  considered  by  the
+             Secretary of State in the exercise of the discretion which  it
+             is accepted that he had, to reconsider his decision, and if he
+             considers it appropriate, to refer any matter arising  out  of
+             those  materials  or  applications  to  an  adjudicator  under
+             section 21 of the Act of 1971.'
+
+
+         I prefer the applicant's argument on this point.  The obligation of
+         the United Kingdom under the Convention is not to return a  refugee
+         (as defined) to a country  where  his  life  or  freedom  would  be
+         threatened for  any  reason  specified  in  the  Convention.   That
+         obligation remains binding until the moment of return.   A  refugee
+         (as defined) has a right not to be returned to such a country,  and
+         a further right not to be returned pending a decision whether he is
+         a refugee (as defined) or not.  It would in my  judgment  undermine
+         the beneficial object of the Convention  and  the  measures  giving
+         effect to it in this country  if  the  making  of  an  unsuccessful
+         application  for  asylum  were  to  be  treated  as  modifying  the
+         obligation of the United Kingdom or depriving a person of the right
+         to make a fresh 'claim for asylum'.  It cannot in my view make  any
+         difference whether the person making the fresh 'claim  for  asylum'
+         has left the country and returned or remained here throughout.
+
+
+         Any other construction would in my  view  be  offensive  to  common
+         sense.  However rarely they may arise in practice, it is  not  hard
+         to imagine cases in which an initial 'claim for  asylum'  might  be
+         made on insubstantial, or  even  bogus,  grounds,  and  be  rightly
+         rejected, but in which circumstances would arise or come  to  light
+         showing a clear and serious threat of  a  kind  recognised  by  the
+         Convention to the life or  freedom  of  the  formerly  unsuccessful
+         applicant.   A  scheme  of  legal  protection   which   could   not
+         accommodate  that  possibility  would  in  my  view  be   seriously
+         defective."
+
+
+         ......
+
+
+         (1)   A fresh claim?
+
+         It was accepted for the applicant that a fresh 'claim  for  asylum'
+         could not be made by advancing an obviously untenable claim  or  by
+         repeating, even with some elaboration or addition, a claim  already
+         made, or by relying on evidence available to the applicant but  not
+         advanced at the time  of  an  earlier  claim.  There  had,  counsel
+         acknowledged,  to  be  a  significant  change  from  the  claim  as
+         previously presented, such  as  might  reasonably  lead  a  special
+         adjudicator to take a different view. If the fresh  claim  depended
+         on new evidence, then it had to satisfy tests, analogous to Ladd  v
+         Marshall  [1954]  1   WLR   1489,   of   previous   unavailability,
+         significance and credibility.
+
+
+         Stuart-Smith L.J. considered this matter  in  the  Manvinder  Singh
+         case (unreported),  8  December  1995,  where  he  said  (with  the
+         agreement of Rose L.J. and Sir John Balcombe):
+             'In my opinion, in deciding whether or not a  fresh  claim  to
+             asylum is made, it  is  necessary  to  analyse  what  are  the
+             essential ingredients of a claim to asylum and see whether any
+             of those ingredients have changed.  A  useful  analogy  is  to
+             consider a cause of action. In order to establish a  cause  of
+             action a plaintiff must  prove  certain  ingredients.  How  he
+             proves them is  a  matter  of  evidence.  If  he  changes  the
+             essential ingredients, he is asserting a  different  cause  of
+             action.  What are the essential ingredients  of  a  claim  for
+             asylum? First, that the applicant has a well-founded  fear  of
+             persecution; secondly, that he has that fear  in  relation  to
+             the country from whence he came; thirdly, that the  source  of
+             the  persecution  is  the  authorities  of  that   state   or,
+             alternatively, some other group or local population where  the
+             actions  of  the  group  are  knowingly   tolerated   by   the
+             authorities, or that the authorities refused or are unable  to
+             offer effective protection (see the  handbook  of  the  United
+             Nations  High  Commissioner  for  Refugees,   paragraph   65);
+             finally, that the persecution is by reason of the  applicant's
+             race, religion, nationality  or  membership  of  a  particular
+             social or political group.  In my view,  it  is  only  if  the
+             applicant  asserts  that  one  or  more  of  these   essential
+             ingredients is different from his earlier claim that it can be
+             said to be a fresh claim.'
+         I agree with this passage, and with the  propositions  accepted  by
+         counsel for the applicant. There is danger in any  form  of  words,
+         which can too easily be regarded  as  a  binding  formula.  In  the
+         Manvinder Singh case [1996] Imm  A.R. 41, Carnwath J  held  that  a
+         change in the character of  the  application  was  required.  I  am
+         content with that statement, provided it is not taken to mean  that
+         there must necessarily be a change in the nature of the persecution
+         said to be feared. The acid test must always be whether,  comparing
+         the new claim with that earlier rejected, and excluding material on
+         which the claimant could reasonably have been expected to  rely  in
+         the earlier claim, the new claim is sufficiently different from the
+         earlier claim to admit of a realistic prospect  that  a  favourable
+         view could be taken of  the  new  claim  despite  the  unfavourable
+         conclusion reached on the earlier claim.
+
+         (2)  Who is to decide?
+
+         It is plain from rule 328 of Statement of  Changes  in  Immigration
+         Rules that all  asylum  applications  will  be  determined  by  the
+         Secretary of State in the first instance.
+
+         (3)  Procedural consequences
+
+         If the Secretary of State decides on a fresh claim to grant asylum,
+         and the claimant is accordingly granted limited leave to enter,  no
+         procedural difficulty is likely to arise.
+
+
+         If the Secretary of State recognises a fresh claim as a 'claim  for
+         asylum', but nonetheless decides that asylum should not be granted,
+         I see no reason why the same consequences should not follow  as  on
+         refusal of an initial claim. The disappointed claimant  can  pursue
+         his right of appeal under section 8.
+
+
+         The  problematical  situation  is  that  in  which,  as  here,  the
+         Secretary of State does not recognise a claim as a fresh 'claim for
+         asylum' and so declines to make any decision or to take or omit  to
+         take any action which would trigger a right of appeal under section
+         8. Neither party  suggested  that  the  asylum-seeker  was  without
+         redress in this situation, and both accepted that redress could  be
+         obtained only by resort to the court. But  there  agreement  ended.
+         The applicant argued that whether or not a fresh 'claim for asylum'
+         had been made was a matter of precedent fact to be decided, in case
+         of dispute, by the court. The Secretary of State  argued  that  the
+         question was one for him and his decision, while  not  immune  from
+         challenge, could be challenged only on  grounds  of  irrationality.
+         The cases already referred  to  contain  tentative  expressions  of
+         opinion both ways.
+
+
+         The judge did not rule on this question, and it  is  not  clear  to
+         what extent it was argued before him. It  was  not  raised  in  the
+         notice of appeal, and not  explored  in  the  applicant's  skeleton
+         argument in this court. No authority was cited to us.  For  reasons
+         given in Section V below,  I  do  not  regard  the  answer  to  the
+         question as determinative of this appeal.  Since the issue  is  one
+         of importance, and also in my opinion of considerable difficulty, I
+         accordingly proffer a tentative answer only.
+
+
+         The role of the court in the immigration field varies, depending on
+         the legislative and administrative context. Where  an  exercise  of
+         administrative power  is  dependent  on  the  establishment  of  an
+         objective precedent fact the court will, if called upon to do so in
+         case of dispute, itself rule whether such fact  is  established  to
+         the requisite standard. Thus, for example, where  power  to  detain
+         and remove is dependent on  a  finding  that  the  detainee  is  an
+         illegal entrant, one who has entered clandestinely or by fraud  and
+         deceit, the court will itself rule whether the evidence is such  as
+         to justify that finding: Reg. v Secretary of  State  for  the  Home
+         Department, EX.1 parte Khawaja [1984] A.C. 74.   By  contrast,  the
+         decision whether an asylum-seeker is a refugee is a question to  be
+         determined by the Secretary of State and the immigration  appellate
+         authorities, whose determinations are susceptible to challenge only
+         on Wednesbury principles:  Reg v Secretary of State  for  the  Home
+         Department, Ex parte Bugdaycay [1987] A.C. 514. I  am  of  opinion,
+         although with some misgivings, that the judgment  whether  a  fresh
+         'claim for asylum' has been made should  be  assimilated  with  the
+         latter, and  not  the  former,  class  of  judgment.  If  the  test
+         propounded in (1) above is correct,  the  answer  to  the  question
+         whether or not a fresh 'claim  for  asylum'  has  been  made,  will
+         depend not on the finding of any objective  fact,  nor  even  on  a
+         literal comparison of the earlier and the later claim,  but  on  an
+         exercise of judgment, and this is a  field  in  which  the  initial
+         judgments are very clearly entrusted to the Secretary of State.  In
+         giving effect, for example, to rule 346 of the Statement of Changes
+         in Immigration Rules, it must be for the Secretary of State and not
+         for the court to rule  whether  the  applicant  can  demonstrate  a
+         relevant and substantial change in circumstances since his  refusal
+         of an earlier application. In a  case  such  as  the  present,  the
+         judgment is not very different from that  which  the  Secretary  of
+         State may make under section 21 of the 1971 Act.
+
+
+         I would accordingly incline to  accept  the  Secretary  of  State's
+         argument on this point, while observing that decisions  reached  by
+         him are susceptible to challenge on any Wednesbury ground, of which
+         irrationality is  only  one:   see  Associated  Provincial  Picture
+         Houses Ltd. V Wednesbury Corporation [1948] 1 KB 223."
+
+
+
+
+
+
+
+ZT (Kosovo) v Secretary of State for the Home Department [2009] UKHL 6
+
+18.   This  case  involved  the  appeals  system  under   the   Nationality,
+    Immigration and Asylum Act 2002,  as  it  stood  before  the  extensive
+    changes made by the 2014 Act.  The House of Lords held  that,  where  P
+    had made asylum and human rights claims that had been  refused  by  the
+    Secretary of State and certified under section 94 of the  2002  Act  as
+    "clearly unfounded" (with the result that  P  could  appeal  only  from
+    outside the United Kingdom), any new submissions made by P whilst still
+    in this country fell to be considered pursuant to  the  procedures  set
+    out in paragraph 353.  The Secretary of State  had,  accordingly,  been
+    wrong merely to maintain the certification of the claims; although  the
+    appeal was dismissed on  the  basis  that  there  was,  in  effect,  no
+    material error of law.  This was because the test for certification was
+    more stringent than that contained in paragraph 353.
+
+
+R (BA (Nigeria)) v Secretary of State for the Home Department  &  Another
+    [2009] UKSC 7
+
+19.  The Supreme Court judgments in BA (Nigeria) are heavily relied upon  by
+    Mr Toal.  BA lost an appeal  against  a  decision  that  he  should  be
+    deported as a result of serious criminal  offending.   BA  subsequently
+    made further submissions as to why he  should  not  be  deported.   The
+    Secretary  of  State  "agreed  to  consider  his  reasons  for  seeking
+    revocation of the deportation order, but she  declined  to  revoke  it"
+    [3].  PE, a citizen  of  Cameroon,  also  lost  his  appeal  against  a
+    decision to deport as a result of criminality.  PE made new submissions
+    and claimed that he had a right of  appeal  against  the  Secretary  of
+    State's refusal to revoke his deportation order.
+
+20.  As in force at the relevant time, section 92 of the 2002  Act,  so  far
+    as relevant, provided as follows:-
+
+         "(1) A person may not appeal under section 82(1) while he is in the
+             United Kingdom unless his appeal is of a kind  to  which  this
+             section applies.
+         .....
+
+
+         (4)  This section also applies to an appeal against an  immigration
+             decision if the appellant -
+
+
+             (a)  has made an asylum claim, or a human rights claim,  while
+                  in the United Kingdom, or
+
+
+             (b)  ......"
+
+
+21.  BA and PE argued that  section  92(4)(a)  conferred  a  suspensive  in-
+    country right of appeal unless the  appeal  had  been  certified  under
+    either section 94 or section 96 of the 2002 Act.  Section  94  entitled
+    the Secretary of State to certify a case as "clearly unfounded",  while
+    section 96 removed a  right  of  appeal  altogether  if  subject  to  a
+    certificate that the issue raised had been, or should have been,  dealt
+    with in an earlier appeal.  At paragraphs 14 to 23  of  the  judgments,
+    Lord  Hope  set  out  the  competing  arguments  in  more  detail.   In
+    particular:-
+
+         "14. For the Secretary of State Miss Laing QC did not dispute  that
+             a right of appeal arises under section 82(1) when  a  decision
+             that is an  immigration  decision  is  taken.   Nor  does  she
+             dispute that the Secretary of State's refusal in  these  cases
+             not  to  revoke  the  deportation  orders   were   immigration
+             decisions within the meaning of section 82(2)(k) of  the  2002
+             Act.  What was in  issue  was  whether  the  right  of  appeal
+             against those decisions was to be exercised  from  within  the
+             United Kingdom.  Her submission was that the words 'an  asylum
+             claim, or a human rights claim' in  section  92(4)(a)  mean  a
+             first asylum or human rights claim or a second  or  subsequent
+             asylum or human rights claim which  has  been  accepted  as  a
+             fresh claim under rule 353 of the Immigration Rules.
+
+
+         15.  She acknowledged that this was not the literal meaning of this
+             provision, as the definitions of  these  expressions  made  no
+             reference to the fact that the claims to which  they  referred
+             had to be a first or a fresh claim.  But she  said  that  they
+             had to be construed in  the  context  of  the  scheme  of  the
+             statute as a whole, and that they had to be read  in  the  way
+             she suggested to avoid an absurdity. She  submitted  that  the
+             authorities also showed that they had to be  read  subject  to
+             this qualification."
+
+
+ 22. Lord Hope rejected the Secretary of State's contentions:-
+
+         "Discussion
+
+
+         24.  I have set out the competing arguments at some length,  partly
+             out  of  respect  for  the  excellent  submissions  that  were
+             advanced by counsel on either side in the Chamber of the House
+             of Lords on the occasion of the last sitting of the  House  in
+             its judicial capacity, and  partly  because  they  demonstrate
+             very clearly the essence of the issue  that  we  must  decide.
+             Miss Laing invites  us  to  follow  Sir  Thomas  Bingham  MR's
+             analysis of the problem in R v Secretary of State for the Home
+             Department, Ex p Onibiyo [1996] QB 768, to hold that the words
+             'an asylum claim, or a human  rights  claim  or  a  second  or
+             subsequent claim which has been accepted by the  Secretary  of
+             State  as  a  'fresh  claim',  and  that  the  procedure   for
+             determining whether or not a second or subsequent claim  is  a
+             fresh claim is to be found in  rule  353  of  the  Immigration
+             Rules.  Mr Husain on the other  hand  invites  us  to  examine
+             those words in the context of the current legislation read  as
+             a whole, taking full account of the progress of thinking since
+             Ex p Onibiyo as to how the problem of repeat claims should  be
+             addressed.  He submits that there is no justification, in  the
+             light of the provisions for dealing with  repeat  claims  that
+             the 2002 Act contains, for enlarging upon the plain  words  of
+             the statute.
+
+
+         25.  The strength of Miss Laing's argument lies in  the  fact  that
+             the definition of the phrase 'claim for asylum' has  remained,
+             in substance, the same since its first appearance in section 1
+             of the 1993 Act where it was said to mean:
+
+
+                  'a claim made by a person (whether  before  or  after  the
+                  coming into force  of  this  section)  that  it  would  be
+                  contrary to the United  Kingdom's  obligations  under  the
+                  Convention for him to be  removed  from,  or  required  to
+                  leave, the United Kingdom.'
+
+
+             The Convention there referred to was, of course,  the  Refugee
+             Convention.  The definition in section 167 of the 1999 Act was
+             in substantially the same terms.  Section 113 of the 2002  Act
+             varies the language a little bit, because it calls  this  kind
+             of claim 'an asylum claim', introduces a requirement for it to
+             be made at a place designated by the Secretary  of  State  (no
+             such place has been  designated)  and  adds  a  definition  in
+             almost  identical  terms  of  'a  human  rights  claim'.   The
+             relevant phrase throughout is 'a claim'.
+
+
+         26.  In R v Secretary of  State  for  the  Home  Department,  Ex  p
+             Onibiyo [1996] QB 768 the Secretary of State's  argument  that
+             once there had been a claim for asylum and  one  appeal  there
+             could be no further 'claim for asylum' unless the claimant had
+             left the United Kingdom and returned before making  the  fresh
+             application was rejected.  It was held that there could  be  a
+             fresh 'claim for asylum' with the same consequences as to  the
+             right of appeal as follow on the refusal of an initial  claim,
+             provided that the Secretary  of  State  recognised  the  fresh
+             claim as a 'claim for asylum'.  If one looks  no  further  and
+             applies what  Bennion  on  Statutory  Interpretation,  5th  ed
+             (2008), section 201 and Part X1V described  as  'the  informed
+             interpretation rule', there is plainly much to be said for the
+             view that the definitions that are set out in section  113  of
+             the 2002 Act should be read in the same  way.   The  procedure
+             for determining whether a repeat claim is or is not  a  'fresh
+             claim' is set out in rule 353 of the  Immigration  Rules,  the
+             effect of which I  attempted  to  explain  in  ZT  (Kosovo)  v
+             Secretary of State for the Home Department [2009] 1  WLR  348,
+             para 33.  It is a short step to conclude that a  repeat  claim
+             which is not held under rule 353 to be a fresh claim falls  to
+             be disregarded as 'an asylum claim', or a 'human rights claim'
+             for the purposes of section 92(4)(a).  Like Lloyd LJ, I  would
+             not draw an inference either way from the amendment of section
+             113 by section 12 of the 2006 Act as it is not yet  in  force.
+
+
+
+         27.  It is an elementary principle, however, that the  words  of  a
+             statute should be construed in the context of  the  scheme  of
+             the statute as a whole.  And it is plain that  the  scheme  of
+             the 2002 Act is not the same as that of the 1993 Act to  which
+             Sir Thomas Bingham MR addressed himself in Ex p Onibiyo [1996]
+             QB 768.  The problem to which he addressed himself was created
+             by the absence of any provision  in  the  statute  to  prevent
+             abuse.  The question was how that gap might  best  be  filled,
+             having regard to the fact that the  blunt  solution  that  was
+             proposed by the Secretary of State would, as the Master of the
+             Rolls pointed out at p 781G, undermine the  beneficial  object
+             of the Convention and the measures giving effect to it in this
+             country.
+
+
+         28.  Parliament might, of course, have stood  still  and  left  the
+             matter to be dealt with under the Immigration Rules.   But  it
+             has not stood still.  The experience of the intervening  years
+             has been taken into account.  First, there were the provisions
+             against abuse in sections 73 to 77 of the 1999 Act.  Now there
+             is a set of entirely new provisions in the 2002 Act.  As  Lord
+             Hoffmann said in A v Hoare [2008] AC 844, para 15, while there
+             is  a  good  deal  of  authority  for  having  regard  in  the
+             construction of a statute to the way a word or phrase has been
+             construed by the court in earlier statues, the value  of  such
+             previous interpretation as a guide to construction  will  vary
+             with the circumstances.  In this case the phrase  in  question
+             has remained, in essence, unchanged.  But the system in  which
+             it must be made to work is very different.  This is  a  factor
+             to which full weight must be given.
+
+
+         29.  The new system contains a range  of  powers  that  enable  the
+             Secretary of State or, as the  case  may  be,  an  immigration
+             officer to deal  with  the  problem  of  repeat  claims.   The
+             Secretary of State's power in section 94(2) of the 2002 Act to
+             certify that a claim is clearly unfounded, if  exercised,  has
+             the effect that the person may not bring his appeal in-country
+             in reliance on section 92(4).  The power in section 96 enables
+             the Secretary of State or an immigration  officer  to  certify
+             that a person who is subject to a new immigration decision has
+             raised an issue which has been dealt with, or  ought  to  have
+             been dealt with, in  an  earlier  appeal  against  a  previous
+             immigration decision, which has the  effect  that  the  person
+             will have no right of appeal against the new decision.  It  is
+             common ground that the present cases are not certifiable under
+             either of  these  two  sections.   Why  then  should  they  be
+             subjected to a further  requirement  which  is  not  mentioned
+             anywhere in the 2002 Act?  It can only be read  into  the  Act
+             by, as Sedley LJ in the Court of Appeal put it,  glossing  the
+             meaning of the words 'a.....claim' so as to exclude a  further
+             claim which has not been held under rule 353  to  be  a  fresh
+             claim: [2009] QB 686, paras 20, 30.  The court had to do  this
+             in Ex p Onibiyo [1996] QB 768.  But there is  no  need  to  do
+             this now.
+
+
+         ......
+
+
+         32.   ....  There  is  obviously  a  balance  to  be  struck.   The
+             immigration appeals system must not be burdened with worthless
+             repeat claims.  On the other hand, procedures that are put  in
+             place  to  address  this  problem  must  respect  the   United
+             Kingdom's  international  obligations.  That   is   what   the
+             legislative scheme does, when section 95 is read together with
+             section 94(9). It preserves the right to maintain in an out of
+             country appeal that the  decision  in  question  has  breached
+             international obligations. I would hold that claims which  are
+             not certified under section 94 or excluded under  section  96,
+             if rejected, should be allowed to proceed to appeal in-country
+             under sections 82 and 92, whether or not they are accepted  by
+             the Secretary of State as fresh claims.
+
+
+         33.  There is no doubt, as I indicated in Z T (Kosovo) v  Secretary
+             of State for the Home Department [2009] 1 WLR  348,  para  33,
+             that rule 353 was drafted on the assumption  that  a  claimant
+             who made further submissions would be at risk of being removed
+             or required to leave immediately if he does not have a  'fresh
+             claim'. That was indeed the case when this rule was originally
+             drafted, as there was no equivalent of section  92(4)  of  the
+             2002 Act.  But Mr Husain's analysis has persuaded me that  the
+             legislative scheme that Parliament has now put in  place  does
+             not have that effect. Its carefully  interlocking  provisions,
+             when read as a whole, set out the complete  code  for  dealing
+             with repeat claims. Rule 353, as  presently  drafted,  has  no
+             part to play in the legislative scheme. As  an  expression  of
+             the will of Parliament, it must take priority over  the  rules
+             formulated by the executive.  Rule  353A  on  the  other  hand
+             remains in place as  necessary  protection  against  premature
+             removal until the further submissions have been considered  by
+             the Secretary of State."
+
+
+
+
+R (ZA (Nigeria)) v Secretary of State for the Home  Department  [2010]  EWCA
+Civ 926
+
+23.  In this case, the  applicants  contended  that,  on  the  basis  of  BA
+    (Nigeria), paragraph 353 could not preclude them from pursuing  an  in-
+    country right of appeal, and that  the  only  means  available  to  the
+    Secretary of State of restricting the applicants' appeal rights was  to
+    certify them as clearly unfounded, with  the  result  that  they  could
+    appeal only once outside the  United  Kingdom.   The  Court  of  Appeal
+    rejected that argument.
+
+24.  At paragraph 1, Lord Neuberger MR described the issue as being:-
+
+         "whether, as the Administrative Court  decided,  the  Secretary  of
+         State is entitled to refrain from making an appealable  immigration
+         decision in response to an asylum claim or  a  human  rights  claim
+         which he reasonably concludes is merely repetition  of  an  earlier
+         claim whose rejection  has  been  unsuccessfully  challenged  in  a
+         concluded appeal".
+
+         ......
+
+         "5.  The contention of the claimants, SM and ZA, on the other  hand
+             is that, irrespective of the weakness or repetitious nature of
+             the renewed purported claims, the Secretary of  State  had  to
+             make a decision on them, and that her duties  with  regard  to
+             them were  governed  by  the  provisions  of  Part  5  of  the
+             Nationality, Immigration and Asylum Act 2002 whose effect  was
+             either impliedly to repeal rule 353 or  to  render  it  of  no
+             further application.
+
+
+         6.   These rival submissions obviously  require  one  carefully  to
+             consider the terms of rule 353 and of certain of the  sections
+             in Part 5  of  the  2002  Act.   However,  they  also  require
+             consideration of the decision of the  House  of  Lords  in  ZT
+             (Kosovo) v Secretary of State for the Home Department [2009] 1
+             WLR 348, and of the  Supreme  Court  in  R  (BA  (Nigeria))  v
+             Secretary of State for the Home Department [2010]  1  AC  444,
+             this  latter  decision  providing  the  main  plank  for   the
+             claimant's argument.
+
+
+         .....
+
+
+         15.  Rule 353 of the Statement  of  Changes  in  Immigration  Rules
+             (1994) (HC 395), as inserted and amended, is concerned with  a
+             case where a person has already made 'a  human  rights  or  an
+             asylum claim' which has been determined,  and  in  respect  of
+             which he makes 'further submissions';  in  such  a  case,  the
+             question  for  the  Secretary  of  State  is   whether   those
+             submissions amount to 'a fresh claim': if it does not, she can
+             refuse to treat it as a claim at all, so there is no  decision
+             which can be appealed under section 82.  Section  94(1)(2)  is
+             concerned with a case where a person makes 'an asylum claim or
+             a human rights claim (or both)',  and  the  question  for  the
+             Secretary  of  State  is  whether  the   claim   is   'clearly
+             unfounded': if it is, then she will dismiss it, and  can  shut
+             out an appeal under section 82 by so certifying.
+
+
+         16.  It is rightly  common  ground  that  there  is  no  difference
+             between 'a human rights or an asylum  claim'  and  'an  asylum
+             claim or a human rights claim (or both)', and  that  what  are
+             described in rule 353 as 'further submissions' could,  subject
+             to the question of whether they raise a new point, amount to a
+             fresh 'claim' capable of  falling  within  the  ambit  of  the
+             sections in Part 5 of the 2002 Act.
+
+
+         17.  The Secretary of State's case is that the two procedures under
+             rule 353 and section 94(1)(2) can and  do  co-exist  perfectly
+             satisfactorily; the  claimants'  case  is  that  they  do  not
+             happily co-exist and that, when Part 5 of the  2002  Act  came
+             into force, rule 353 became of  no  effect  in  practice,  and
+             therefore could not be relied on by the Secretary of State.
+
+
+         18.  At the time when the  2002  Act  was  enacted,  there  was  no
+             attempt to  repeal  or  amend  rule  353,  and  it  has  stood
+             unamended to this day.  Further, in recent legislation (albeit
+             not so far brought into force),  Parliament  appears  to  have
+             assumed that rule 353 still has a part to play.  Section 53 of
+             the Borders, Citizenship and Immigration Act 2009  will  amend
+             section 31A of the Senior Courts Act 1981 to  enable  transfer
+             from the High Court to the Upper Tribunal of  judicial  review
+             applications where -
+
+
+                  'the application calls into question  a  decision  of  the
+                  Secretary of State not to treat submissions as  an  asylum
+                  claim or a human rights claim....wholly or partly  on  the
+                  basis that  they  are  not  significantly  different  from
+                  material that has previously been considered...'.
+
+
+         19.  A rule, indeed even  primary  legislation,  can  be  impliedly
+             repealed or rendered nugatory by later  legislation,  and  the
+             neutering  of  a  rule  by  subsequent  legislation   can   be
+             overlooked by a government  department,  even  when  promoting
+             subsequent legislation.  However, it seems to me  that,  where
+             the rule remains unamended, then at least where the  rule  and
+             the  subsequent  legislation  are  in  pari  materia  and  are
+             promoted or promulgated by  the  same  government  department,
+             there must be a presumption that  the  rule  was  intended  to
+             survive and have effect.  While  this  is  not,  I  accept,  a
+             particularly strong presumption, it is strengthened in a  case
+             such as this where, in a more recent statute,  Parliament  has
+             plainly legislated on the basis that the rule or regulation is
+             in  force;  indeed  section  53  of  the  2009  Act  would  be
+             positively meaningless if rule 353 has no further function.
+
+
+         20.  Having  said  that,  the  two  important  questions  on  these
+             appeals, as it seems to me, are, first, whether in the absence
+             of authority, on a fair reading of the relevant provisions  of
+             Part 5 of the 2002 Act, rule 353 has no function, at least  in
+             cases such as those of SM and  ZA.   The  second  question  is
+             whether the conclusion one would otherwise reach on the  first
+             question  is  undermined,  or  indeed  supported,  by  binding
+             authority.  If the effect of the two relevant authorities  was
+             clear,  it  might  be  inappropriate  to  consider  the  first
+             question, but as there is a sharp difference of view as to the
+             effect of the authorities, it is better to take the  questions
+             in the order which I have indicated.
+
+
+         21.  The first argument raised by the claimants SM and ZA  is  that
+             rule 353 can no longer apply, because a decision to  reject  a
+             claim under the  rule  would  be  a  decision  falling  within
+             section 82, and could therefore be appealed.   That  will  not
+             do, in my opinion.  If rule 353 can be  relied  on,  then,  on
+             receipt of a purported renewed claim (which I shall  refer  to
+             hereafter as 'further submissions'), the  Secretary  of  State
+             can decide that it is not a 'fresh claim', and then decline to
+             make a decision on whether or not to  refuse  leave  to  enter
+             etc; in that event there would be no decision which could give
+             rise to a right of appeal under section 82,  as  explained  in
+             Cakabay v Secretary of State for the Home  Department  (Nos  2
+             and 3) [1999] Imm  AR  176,  180-181,  per  Schiemann  LJ.   A
+             decision under rule 353 is not a decision to refuse the relief
+             which the further submissions seek: it is a decision that  the
+             further submissions do not amount to a fresh claim - i.e. that
+             it is not a claim at all.   The  claimants'  further  argument
+             that it is inherent in section 82 that the Secretary of  State
+             must decide whether to grant or refuse the  relief  sought  in
+             such further submissions involves  circular  reasoning:  there
+             can be no such duty if rule 353 applies.
+
+
+         .....
+
+
+         23.  I accept that  it  is  obviously  right  to  consider  whether
+             sections 94 and 96 render rule 353 valueless: that  indeed  is
+             the central point on the first  issue.   However,  I  consider
+             that SM and ZA put their case on the point too  high.   First,
+             it overlooks  the  fact  that  Parliament  has,  albeit  in  a
+             negative sense, approved subsequent amendments to  the  rules,
+             which do not include the deletion of rule 353.  Further, it is
+             rather paradoxical for the claimants to  invoke  the  will  of
+             Parliament when  the  most  recent  relevant  statute  clearly
+             proceeds on the basis that  rule  353  is  in  force  and  has
+             practical effect: on  the  claimants'  case,  when  Parliament
+             enacted section 53 of the 2009 Act, it was simply beating  the
+             air.
+
+
+         24.  Perhaps more importantly the issue between the parties  should
+             not be determined simply by seeing whether sections 94 and  96
+             can be interpreted  so  as  to  cover  every  application  and
+             purported application falling within rule 353.  It is  equally
+             valid to consider whether they can be  construed  consistently
+             with rule 353 continuing to have an independent effect.
+
+
+         25.  Section 94(2) differs from rule 353 in that  it  is  concerned
+             with hopeless, or 'clearly unfounded' claims, whether original
+             or renewed, whereas rule 353  covers  only  purported  renewed
+             claims, ie further submissions, which merely  repeat  previous
+             rejected claims by  the  same  claimant.   So  section  94(2),
+             unlike rule 353, can apply not only to  a  renewed  claim  (or
+             purported renewed claim) but also to the original  claim  made
+             by a particular claimant.  That, no doubt, is the  reason  why
+             section 94(2) envisages a claim  to  which  it  applies  being
+             treated as a valid, albeit hopeless, claim, which  has  to  be
+             considered on its merits: hence  its  machinery  involves  the
+             Secretary of State certifying that it is clearly unfounded, so
+             as to prevent an appeal.  On the other hand, as  rule  353  is
+             concerned  with  purported  claims   which   repeat   earlier,
+             rejected, claims, it envisages that such purported claims  are
+             not to be considered or treated as claims at all.
+
+
+         26.  Section 94(2) therefore does  not  relieve  the  Secretary  of
+             State from making a decision to refuse leave to enter or entry
+             clearance in respect of a claim  which  she  considers  to  be
+             'clearly unfounded': she must consider it on its  merits  and,
+             having no doubt refused it, she is then entitled, by virtue of
+             section 94(2), to prevent the claimant raising an appeal under
+             section 82 by issuing a certificate.  If  she  could  rely  on
+             rule  353,  however,  and  she  considered  that  the  further
+             submissions she has received raise no issues other than  those
+             already raised by  an  earlier,  rejected,  claim,  she  would
+             neither have to consider its merits nor  formally  refuse  it:
+             she could merely reject the submissions.  Thus rule 353 can be
+             operated as a sort of gatekeeper by the Secretary of State  to
+             prevent further submissions amounting to, or being treated as,
+             a claim, thereby not getting into Part 5 territory at all.
+
+
+         27.  If further submissions on analysis merely repeat a claim which
+             has already been  made,  it  is  a  perfectly  normal  use  of
+             language to say that they do not really amount to a new claim,
+             but should be treated as being no  more  than  an  attempt  to
+             revive a previous unsuccessful claim.  None the less I  accept
+             that the description of a 'clearly unfounded' claim in section
+             94(2) is capable, as a matter of language, of being applied to
+             such further submissions which,  on  analysis,  raise  no  new
+             points over and above a previous, rejected,  claim.   However,
+             given that the 2002 Act was passed at a  time  when  rule  353
+             existed, I would incline to the view that it was not  intended
+             to apply to such further submissions which do not amount to  a
+             fresh claim.
+
+
+         .....
+
+
+         30.  Accordingly, while there is plainly a substantial argument  to
+             the effect that the words of section 94(2) are wide enough  to
+             catch further submissions which do not amount to a fresh claim
+             within rule 353, I would hold, at  least  in  the  absence  of
+             binding authority to the contrary, that it  does  not  do  so.
+             Section 94(2) is concerned to prevent appeals in  relation  to
+             any  claim  (whether  original  or  renewed)  which  has  been
+             considered and refused  by  the  Secretary  of  State  on  its
+             merits, where she concludes that the merits are so  weak  that
+             the claim was 'clearly unfounded'.  Rule 353 is  concerned  to
+             prevent a purported renewed claim having to be  considered  on
+             its merits and refused, where the Secretary of State considers
+             that it is merely a repetition of a claim  which  has  already
+             been made and refused.  As for section 96(1), it is  concerned
+             with a different aspect of renewed claims from rule 353."
+
+
+25.  At paragraph 44, Lord Neuberger noted the contention of the  applicants
+    that the House of Lords in BA (Nigeria) had held that paragraph 353 had
+    "effectively been replaced and neutered by Part 5 of the 2002 Act,  and
+    in particular section 94(2) and that that conclusion is binding on this
+    court....there are a number of observations in the speech of Lord  Hope
+    DPSC which, at any rate if taken at face value, can fairly be  said  to
+    support that proposition."
+
+26.  Lord Neuberger continued:
+
+         "51. Like the Administrative Court, I have not  found  it  entirely
+             easy to resolve the issue of whether  the  Supreme  Court  was
+             saying (a) as the claimants contend, that rule 353 has no part
+             to play at all following the introduction of  Part  5  of  the
+             2002 Act, or (b) as the Secretary of State argues,  that  rule
+             353 has no part to play where there  has  been  an  appealable
+             immigration decision and the only issue is whether the  appeal
+             is of  a  kind  to  which  section  92  applies.   Ultimately,
+             however, again like the Administrative Court, I have  come  to
+             the conclusion that the  Secretary  of  State's  more  limited
+             interpretation is to be preferred.
+
+
+         52.  Mr Tam is plainly  right  in  his  argument  that  the  actual
+             decision in the BA (Nigeria) case is not inconsistent with the
+             ZT (Kosovo) case  or  is  not  determinative  of  the  present
+             appeals in favour of the claimants.  The actual  decision  was
+             that rule 353 had no further part to play for the purposes  of
+             section 92(4) once there was an appeal against an  immigration
+             decision.  The question therefore is whether, in the light  of
+             the passages in the judgment of Lord Hope DPSC  relied  on  by
+             the claimants, we should, as Mr Gill and  Mr  Jacobs  contend,
+             conclude that a wider interpretation of the reasoning  in  the
+             BA (Nigeria) case is appropriate, so that the binding ratio is
+             that rule 353 is effectively a dead letter.   In  my  opinion,
+             that contention,  which  I  might  very  well  otherwise  have
+             accepted, is one which should be rejected on the  ground  that
+             it is plainly inconsistent with the reasoning  and  conclusion
+             of the House of Lords in the ZT (Kosovo)  case  [2009]  1  WLR
+             348.
+
+
+         53.  There is no statement in the judgments  of  the  BA  (Nigeria)
+             case [2010] 1 AC 444 which says in terms that the reasoning in
+             the  ZT  (Kosovo)  case  is  being  effectively  overruled  or
+             departed from, but  that  is  the  effect  of  the  claimants'
+             contention on the present appeals.  I accept, of course,  that
+             the Supreme Court (an expression which  for  present  purposes
+             includes the  House  of  Lords)  can  impliedly,  as  well  as
+             expressly, depart from and effectively overrule  its  previous
+             decisions.  However, in this case I have great difficulty with
+             the notion that the later case  relied  on  by  the  claimants
+             overruled the earlier case.  (i) Both decisions  relate  to  a
+             much litigated issue, and the earlier decision was given  less
+             than a year before the later decision; (ii) the point at issue
+             was directly  addressed  and  decided  in  all  five  reasoned
+             judgments in the earlier decision, and even the  reasoning  of
+             the dissenter would have to be treated as overruled; (iii) the
+             earlier decision is expressly referred to three times  in  the
+             leading  judgment,  and  once  in  the  only  other   reasoned
+             judgment, in the later decision without apparent  disapproval,
+             and both judgments  were  given  by  judges  involved  in  the
+             earlier  decision;  (iv)  the  actual  outcome  in  the  later
+             decision can perfectly easily be reconciled with  the  earlier
+             decision, namely on the  basis  that  the  later  decision  is
+             limited to further submissions which have been  treated  as  a
+             fresh claim; (v) this more limited interpretation of the later
+             decision is consistent with the Court  of  Appeal's  reasoning
+             and conclusion in that case, which was  specifically  approved
+             by the Supreme Court; (vi) this more limited interpretation of
+             the later decision is also consistent with a  recent  statute,
+             whereas  the  wider  interpretation,   which   would   involve
+             overruling the earlier decision, is not.
+        ......
+         57.  ... If the wider interpretation of the BA (Nigeria)  [2010]  1
+             AC 444, overruling ZT (Kosovo)  [2009] 1 WLR 348, is  adopted,
+             rule 353 has had no role to play since the 2002 Act came  into
+             force; on that basis, section 53 of  the  Borders  Citizenship
+             and Immigration Act 2009  would  have  been  misconceived  and
+             pointless legislation. That would not be so  if  the  narrower
+             interpretation is adopted. That factor was not  considered  in
+             BA (Nigeria) [2010] 1 AC 444, nor should it  have  been  given
+             the point actually at issue.  However,  it  should  have  been
+             considered, and presumably would have been considered, if  the
+             Supreme Court was deciding that rule 353 was a dead letter. It
+             is true that in BA (Nigeria) [2010] 1  AC  444  paragraph  26,
+             Lord Hope DPSC rejected an argument relating to rule 353 based
+             on Section 12 of the Immigration, Asylum and  Nationality  Act
+             2006 on the ground that that section had not been brought into
+             force. However, the argument was far less clear, as it is much
+             less apparent from section 12 of the 2006 Act than it is  from
+             section 53 of the 2009  Act  that  rule  353  was  assumed  by
+             Parliament to be effective. Further, with all due respect,  it
+             seems to me that, where  one  is  dealing  with  an  issue  of
+             statutory  interpretation,  one  is   considering   what   the
+             legislature intended or understood, so legislation as  enacted
+             is relevant, whereas the question whether  the  executive  has
+             chosen to bring that legislation into force is not relevant.
+         58.  In all these circumstances, unless it is pellucidly clear from
+             the judgments  in  BA  (Nigeria)  [2010]  1  AC  444,  and  in
+             particular the passages relied on by the claimants,  at  paras
+             29-33, in the judgment of Lord Hope DPSC, as  set  out  above,
+             that the reasoning and conclusion in ZT (Kosovo) [2009] 1  WLR
+             348 was being overruled, it seems to me that we should dismiss
+             this appeal. Those passages (and in  particular  the  words  I
+             have emphasised) undoubtedly give support  to  the  claimants'
+             argument, if read on their own.
+          1. However, as with any observations contained in a judgment, one
+             cannot properly interpret the passages  other  than  in  their
+             factual and juridical context. Given all the  factors  I  have
+             mentioned, I have reached the conclusion that what was said in
+             those passages can, and therefore should at any rate  in  this
+             court, be read as being confined to cases where  there  is  an
+             appealable  immigration  decision.  Once  there  is   such   a
+             decision, the  complete  code  contained  in  the  legislative
+             scheme applies and rule 353 has no part to play.  However,  as
+             decided in ZT (Kosovo) [2009] 1 WLR 348, rule 353 still has 'a
+             part to play': the Secretary of  State  can  decide  that  the
+             further submissions are not a 'fresh claim', in which case one
+             does not enter the territory governed by the  'complete  code'
+             of 'the legislative scheme'."
+
+
+R (Waqar) v Secretary of State for the Home Department [2015] UKUT 00169
+
+27.  Reference has been made to this decision at paragraphs 9 and 10  above.
+    The Upper Tribunal's conclusions were as follows:-
+         "14. Paragraph 353 does not appear and is not  alluded  to  in  the
+             legislative framework. It and its predecessor have never  been
+             alluded to. The two systems exist  alongside  each  other.  It
+             remains in the Rules and, despite the amendment of s82 of  the
+             2002 Act from  20th  October  2014  and  despite  there  being
+             amendments to the Rules since that  date  there  has  been  no
+             amendment to paragraph 353.  Although  Ms  Akinbolu  submitted
+             that the paragraph 353 process still applied  in  for  example
+             asylum cases and therefore the Rules  could  not  be  amended,
+             this is not the case. Had there been  an  intention  that  the
+             paragraph  353  process  would  cease  to  apply  in   certain
+             categories of cases this could and would have been set out  in
+             amendments to the Immigration Rules.
+         15.  Can paragraph 353 co-exist with  the  legislative  scheme?  Ms
+             Akinbolu submits not, because the protections  that  exist  in
+             the statutory scheme mean that  paragraph  353  is  no  longer
+             required and thus the paragraph has been impliedly repealed or
+             is of no effect and should not be utilised.
+         16.  The current appeal scheme enables an appeal against a decision
+             by the SSHD refusing the applicant's human rights claim. There
+             has to be a claim and then a decision in order  to  enable  an
+             appeal. The current scheme no longer enables an appeal against
+             a decision refusing to revoke a deportation  order.  The  SSHD
+             may, having decided to refuse a human rights claim, thereafter
+             decide whether to invoke the certification process. Without  a
+             claim (and without a decision) there is no appeal.
+         17.  The history of paragraph 353 and the jurisprudence is set  out
+             above. BA (Nigeria) was concerned with a decision, not whether
+             there  had  been  a  decision.  ZT  (Kosovo)   concerned   the
+             continuing  responsibility  of  the  respondent  to   consider
+             representations made whilst an applicant remained  in  the  UK
+             even though the initial claim had been refused and certified -
+             again there had been a decision and the issue was what  to  do
+             with submissions. ZA (Nigeria) confirmed that  the  respondent
+             was not obliged to issue an  appealable  immigration  decision
+             whenever further submissions were made.
+         18.  If the applicant is correct and any submission made amounts to
+             a claim, the response to which is an appealable decision, this
+             would result in an  applicant  being  able  to  make  numerous
+             consecutive claims that would result in  numerous  consecutive
+             appeals. Although each of those could be certified,  the  mere
+             existence  of  such  a  scenario  would  result  in  it  being
+             virtually impossible to reach finality. BA  (Nigeria)  is  not
+             authority for the proposition that  submissions  amount  to  a
+             claim and that the response to those submissions is a decision
+             within the meaning of Part 5. The current statutory  framework
+             continues to provide for unmeritorious claims to be certified.
+             There is nothing in this framework that precludes  the  making
+             of a categorisation decision; paragraph 353 remains in force.
+          19. The current statutory appeal context requires a decision to be
+             made on a human rights claim. Without a claim  and  without  a
+             decision there is no appeal. Submissions that purport to be  a
+             human rights claim do not without  more  trigger  a  right  of
+             appeal.  There   has   to   be   an   intermediate   step,   a
+             categorisation, namely 'do the submissions amount to  a  claim
+             at all'. Paragraph 353 of the Rules provides the mechanism  to
+             determine whether they amount to a  claim;  if  not  then  the
+             decision does not amount to  a  decision  to  refuse  a  human
+             rights claim.
+         20.  If an applicant is aggrieved by a decision not  to  categorise
+             submissions as a claim, then s/he has  a  remedy  in  judicial
+             review proceedings. Where a claim has already been determined,
+             submissions made subsequent to that require a decision  as  to
+             whether they amount to a claim. If determined to  be  a  claim
+             the decision to refuse that claim  will  trigger  a  right  of
+             appeal, subject  to  certification.  If  the  submissions  are
+             determined not to be a claim, as here, there  is  no  decision
+             and thus no right of appeal."
+
+
+         The Court of Appeal's  decision  on  the  renewal  application  for
+        permission to appeal against the Tribunal's decision in Waqar
+28.  Although fully aware of the status  of  the  judgment  of  Beatson  LJ,
+    given on 17 November 2015,  both  Counsel  in  the  present  case  made
+    reference to it. The relevant passages are as follows:
+         "6.  The Secretary of State in the submissions before the Tribunal,
+             which were accepted, maintains that paragraph 353 continues to
+             act as a gateway and relies on the decision  of  ZA  (Nigeria)
+             for this.
+
+
+         7.   Miss Akinbolu submits first, that  ZA  (Nigeria)  was  dealing
+             with the previous statutory  regime.   Secondly,  she  submits
+             that its approach contradicts that of the Supreme Court in  BA
+             (Nigeria) that paragraph 353 has no  bearing.   She  maintains
+             that if paragraph 353 is added as a  gloss  to  the  statutory
+             scheme, it removes cases from the control  of  an  independent
+             court.  That matter was a matter which concerned, for example,
+             Lord Brown and Lord Hope in BA (Nigeria).
+
+
+         ......
+
+
+         12.  Permission to appeal was refused by Underhill LJ on 31st July,
+             essentially on the grounds that  ZA  (Nigeria)  had  confirmed
+             that  under  the  pre-2014  regime,  rule  353  permitted  the
+             Secretary of State to decide that  a  purported  human  rights
+             claim was not in fact such a claim but was  no  more  than  an
+             attempt  to  revive  a  previously  unsuccessful  claim   (see
+             paragraph 27).  Underhill LJ stated  that  if  she  did  that,
+             there was  no  immigration  decision  within  the  meaning  of
+             section 82 and that nothing in the changes introduced  by  the
+             2014 Act undermined that reasoning.  He also stated that:
+
+
+                  'If the rejection of  a  claim  under  rule  353  did  not
+                  constitute an 'immigration decision' for the  purposes  of
+                  the old section 82, there  is  no  reason  why  it  should
+                  constitute a 'decision' for the purpose of  the  new  rule
+                  (in fact the relevant word is 'decided',  not  'decision',
+                  but the use of the very rather than the noun is  obviously
+                  immaterial).  It is suggested that it makes  a  difference
+                  that the  old  section  82  used  the  label  'immigration
+                  decision', which was then defined to  cover  a  number  of
+                  specific kinds of refusal, whereas the new section  refers
+                  simply to a 'decision to  refuse';  but  that  is  just  a
+                  matter of drafting technique and connotes no difference of
+                  substance.'
+         ......
+
+
+         15.  There is no longer a right of appeal against a decision  about
+             deportation unless the decision refuses a protection claim  or
+             revokes a protection status.  The case advanced on  behalf  of
+             HW below and today is that if a person makes  a  human  rights
+             claim, then that person has a  right  of  appeal  against  the
+             refusal of that claim and that the definition of human  rights
+             claim is that in section 113.  As amended  by  the  2014  Act,
+             section 113 provides that:
+
+
+                  'human rights claim' means a claim made by a person to the
+                  Secretary of State at a place designated by the  Secretary
+                  of State that to remove the person [from or require him to
+                  leave the United Kingdom or to refuse him entry  into  the
+                  United Kingdom][6] would be unlawful under  section  6  of
+                  the Human Rights Act 1998 (c.42) (public authority not  to
+                  act contrary to Convention)...'
+
+
+         16.  In this case the Upper Tribunal decided (see paragraphs 14 and
+             following of its decision) that the regime in paragraph 353 co-
+             exists with the legislative scheme.  The amendments to section
+             82 do not refer to it  and  there  is  no  indication  in  the
+             statute  that  paragraph  353  would  cease  to  apply.    The
+             legislation is concerned with circumstances in which an appeal
+             will lie against a refusal of a claim to protection.   Part  V
+             of the 2002 Act does not affect what constitutes 'a claim',  a
+             prior question to whether there is a decision refusing what is
+             'a claim'.   The  tribunal  held  that  for  that  reason  the
+             decision in BA (Nigeria) was not of assistance.
+
+
+         ......
+
+
+         20.  ...  My starting point is that it is not  legitimate  to  take
+             isolated statements from BA (Nigeria) out of context.  In that
+             case the context was a situation which, by section 82(2)(k), a
+             decision to revoke a deportation order generated a right to an
+             in-country appeal unless it was certified  under  section  94.
+             Accordingly, it was not in issue that there was an  appealable
+             decision, only the locus of the appeal.   The  right  to  that
+             appeal  existed,  whether  or  not  it  was  repetitious.   BA
+             (Nigeria) was not concerned with whether  a  right  of  appeal
+             should arise at all.  That was what ZA (Nigeria) was concerned
+             with.  This court, in a judgment given by the  Master  of  the
+             Rolls, Lord Neuberger, held that BA (Nigeria) did not  require
+             the Secretary of State  to  issue  an  appealable  immigration
+             decision whenever further submissions were made.  He  gave  BA
+             (Nigeria) a narrow reading: see Lord Neuberger at 21:
+
+
+                  '...the Secretary of State can decide that  it  is  not  a
+                  'fresh claim' and then  decline  to  make  a  decision  on
+                  whether or not to refuse  leave  to  enter  etc;  in  that
+                  event, there would be no decision which could give rise to
+                  a right of appeal under section 82...'.
+
+
+         21.  Secondly, ZA (Nigeria), which  binds  this  court,  recognised
+             that the public interest in not affording scope for repetitive
+             and abusive claims with a second right  of  appeal,  which  is
+             reflected in paragraph 353, applies  notwithstanding  sections
+             94 and 96.  Those provisions do not have the same function  of
+             limiting access to a second right of appeal.
+
+
+         22.  Thirdly, I respectfully  agree  with  Underhill  LJ  that  the
+             difference between the term 'immigration decision' in the  old
+             section 82 Act and 'decided' in the new section 82 is a matter
+             of drafting technique, rather than  reflecting  a  fundamental
+             difference in the nature of the decision.  I do  not  consider
+             that the use of the word 'decision' in the letter assists Miss
+             Akinbolu: it refers  to  not  reversing  the  rejection  of  a
+             previous decision which had been the subject of appeal.
+
+
+         23.  Fourthly, on the  applicant's  submission,  as  Miss  Akinbolu
+             accepted, any person who makes an entirely  repetitive  second
+             claim the day after appeal rights in relation to a first claim
+             are exhausted will be entitled to a further right  of  appeal.
+             I accept the argument that the process of leaving this  matter
+             to a process of certification would not only impose  a  higher
+             administrative burden on  the  Home  Office,  but  would  also
+             completely forestall the ability of the Secretary of State  to
+             decide whether some communication between  a  person  in  this
+             country without status and the Secretary of State qualifies or
+             does not  quality  as  a  relevant  decision.   Although  Miss
+             Akinbolu's submissions about BA (Nigeria) would apply where  a
+             submission purporting to be a  protection  claim  or  a  human
+             rights claim are in fact such, I do not consider  that  it  is
+             arguable that  the  Secretary  of  State  was  precluded  from
+             deciding that submissions do not constitute such a claim.   In
+             short, I do not  consider  that  BA  (Nigeria)  precludes  the
+             Secretary of State from making a categorisation decision about
+             a communication from an individual."
+
+
+
+
+R (Robinson) v Secretary of State for the Home Department [2016] UKUT 00133
+
+29.  It will be apparent that what the Upper Tribunal said at  paragraph  14
+    of Waqar is incorrect, in so far as the Tribunal thought that paragraph
+    353 had not been "alluded to in the legislative framework".  As we have
+    seen,  the  2006  Act,  if  brought  into  force,  would  provide   new
+    definitions of "asylum claim" and "human rights claim",  paragraph  (b)
+    of which is plainly intended to refer to paragraph 353.
+
+30.   In Robinson, the Tribunal addressed this issue:-
+
+         "23. At  this  point  I  must  address  Ms  Robinson's  submissions
+             concerning the amendment to Section 113 of the 2002  Act.   In
+             short she argues that it is implicit in the fact that the  new
+             unimplemented version of the definition of  what  is  a  human
+             rights claim specifically  excludes  from  that  definition  a
+             claim that fails to meet the fresh claims  test  of  paragraph
+             353 that the original version did not do so,  otherwise  there
+             would have been no reason to provide for the exclusion in  the
+             new version.
+
+
+         24.   Mr  Fisher  contends  that  that  is  not  correct.   In  his
+             submission the new version of the definition does no more than
+             to clarify the position that pertained  before.   For  reasons
+             that will be clear from the judgment,  I  do  not  accept  the
+             analysis urged upon me by Ms Robinson.  I have no doubt at all
+             that I should follow the  approach  to  Waqar  taken  by  Lord
+             Justices Underhill and Beatson.  I cannot say  that  Waqar  is
+             wrongly decided  and  in  fact  I  am  confident  that  it  is
+             correctly decided and so will follow it  in  determining  this
+             application.  In any event, as Mr Fisher has submitted,  I  am
+             bound by the decision of the Court of Appeal in  ZA  (Nigeria)
+             and so must accept the narrow reading  of  the  ration  in  BA
+             (Nigeria)."
+
+
+
+
+
+
+
+R (MG) v  First-tier  Tribunal  (Immigration  and  Asylum  Chamber)  ("fresh
+claim"; para 353: no appeal) [2016] UKUT 00283
+
+31.  In this recent case, the Upper Tribunal  (per  Blake  J)  rejected  the
+    submission that, although paragraph 353  remains  operative,  following
+    the changes made by the 2014 Act, the First-tier Tribunal has power  to
+    decide whether the Secretary of State has  lawfully  refused  to  treat
+    submissions as a fresh claim:-
+
+         "10. In fact Mr Mackenzie was at pains to submit  that  his  client
+             took no issue with  the  decision  of  the  UT  in  Waqar  and
+             therefore accepted that for present purposes s.82(2)(a) of the
+             2002 Act should be read as meaning 'a person may appeal to the
+             tribunal where (a) the  Secretary  of  State  has  decided  to
+             refuse a protection claim (that is a fresh  claim  within  the
+             meaning of para 353) made by P'.  He submits that the issue in
+             the present application is who decides whether the claim is  a
+             fresh claim.
+
+
+         11.  Whereas the previous case law is clear that this is a question
+             for the Secretary of  State  subject  to  the  supervision  of
+             judicial review (see R v SSHD, ex parte Onibiyo [1996] QB 768;
+             Cakabay v SSHD (No 2) [1998] Imm  AR  623;  and  ZA  (Nigeria)
+             itself),  Mr  Mackenzie  contends  that   as   a   result   of
+             Parliament's decision to  grant  a  right  of  appeal  from  a
+             refusal  of  a  protection  claim,  then  the  FtT  judge  has
+             jurisdiction to decide whether there had been  a  decision  to
+             refuse a protection claim.
+
+
+         12.  His argument proceeds as follows:-
+
+
+             i.   If there has been a refusal of a protection claim,  there
+                  is  an  appealable  decision.   If  there   has   not,   a
+                  preliminary ruling will conclude that  there  is  no  such
+                  decision and the FtT has no jurisdiction.
+             ii.  As the issue of whether the further representations are a
+                  fresh claim is an integral part of  the  question  whether
+                  there has been a protection claim made and refused, it  is
+                  necessary for the FtT judge to reach a view on that issue.
+             iii. Whether or not the claim for protection is a fresh  claim
+                  is a matter of fact for determination by the FtT judge  in
+                  the same way as is a dispute as to whether a fee had  been
+                  paid and accordingly whether a proper application had been
+                  made is a matter for the FtT judge to decide:  see  Basnet
+                  [2012] UKUT 113 (IAC) and R (Khan) v SSHD [2015] UKUT  353
+                  (IAC).
+
+
+         13.  Attractively as Mr Mackenzie has presented his submissions  to
+             us, we are unable to agree with them.
+
+
+         14.  In our view, notwithstanding the significant  change  in  s.82
+             from a right of appeal against an immigration  decision  on  a
+             protection ground to a right of appeal  against  a  protection
+             decision itself, Parliament can be presumed to have legislated
+             against the background of satisfaction with the  previous  law
+             as declared in ZA (Nigeria).  There is no  indication  in  the
+             amendments  made,   that   it   was   intended   to   transfer
+             responsibility for the categorisation decision  of  whether  a
+             claim is a fresh claim to the FtT.  Indeed the general purpose
+             of  the  2014  amendments  was   to   reduce   the   appellate
+             jurisdiction of the FtT.
+
+
+         15.  Second, we do not  agree  that  an  assessment  of  whether  a
+             protection  claim  is  a  fresh  claim  is   a   question   of
+             jurisdictional fact to be determined by the FtT judge.  In our
+             judgment it remains a matter of assessment and  evaluation  by
+             the SSHD subject to supervision in judicial review.  Both  the
+             High Court and the Court of Appeal decisions in Cakabay are to
+             this effect and nothing in the  legislative  changes  suggests
+             that a new approach must now be taken.  We do not accept  that
+             these decisions are  explained  merely  because  the  judicial
+             review court does not apply  the  approach  of  jurisdictional
+             fact rather than public law review on nationality grounds.
+
+
+         16.  Third, we do not accept that the Secretary of State refused  a
+             protection claim when she rationally concludes that the  claim
+             before her is not a fresh claim.  Mr Mackenzie's  reliance  on
+             the decisions in Basnet and Khan does not avail him.   The  UT
+             subsequently decided in the case of VED [2014] UKUT 150  (IAC)
+             that a decision that no valid application has been made and no
+             immigration decision is required  to  respond  to  it  is  not
+             itself an appealable decision, and there is no jurisdiction in
+             the FtT judge to examine the facts for  himself  and  conclude
+             that as a valid application had in fact been made there  ought
+             to have been an immigration decision in response to it.
+
+
+         17.  Here, the rationality of the Secretary of State's decision  is
+             not in issue.  Mr  Mackenzie  does  not  in  addition  to  the
+             challenge  to  the  FtT  decision  contend  that  the   SSHD's
+             assessment  was  flawed;  the   application   rests   on   the
+             proposition that a new decision can be made by the  FtT  judge
+             on this issue.  We consider that this case falls  on  the  VED
+             side as opposed to the Basnet side of the line as regards  the
+             limits of the  FtT's  ability  to  determine  whether  it  has
+             jurisdiction to determine an appeal.  In our view there can be
+             no  decision  to  refuse  a   protection   claim   where   the
+             representations  are  not  recognised  (rationally)  to  be  a
+             protection claim."
+
+
+
+E.  Discussion
+
+32.   We should begin by saying that we consider the parties  have  provided
+    us with comprehensive submissions on the role of paragraph 353  in  the
+    post-2014 Act world, which delve more deeply and widely than appears to
+    have been the case with the arguments put to the Tribunal in Waqar  and
+    Robinson. We are very grateful to Mr  Toal  and  Mr  Fisher  for  their
+    thoroughness.
+
+33.    Mr Toal  relies  heavily  upon  the  judgment  of  Lord  Hope  in  BA
+    (Nigeria).  He submits that BA (Nigeria) involves  answering  the  same
+    question that faces us: namely, what constitutes a "claim"?   At  [29],
+    Lord Hope agreed with Sedley LJ in the Court of Appeal that there  was,
+    in effect, no longer a need to gloss the words "a ........  claim",  as
+    had been done in ex p Onibiyo because the appeal regime, including  the
+    certification provisions of the 2002 Act, was now a "complete code", in
+    which Parliament had made express provision in the primary  legislation
+    for dealing with unmeritorious claims:
+
+         "I would hold that claims which are not certified under section  94
+         or excluded under section 96, if rejected,  should  be  allowed  to
+         proceed to appeal in-country under sections 82 and 92,  whether  or
+         not they are accepted by the Secretary of State as fresh claims."
+
+34.  This  is,  however,  very  difficult  to  reconcile  with  the  House's
+    judgment in ZT (Kosovo).  In that case, there was  no  suggestion  that
+    "Rule 353, as presently drafted, has no part to play in the legislative
+    scheme" [cf BA (Nigeria)].  On the contrary, the issue in  ZT  (Kosovo)
+    was whether the application of paragraph 353 extended to  cases  within
+    the certification provisions of the legislation.  As we have seen,  the
+    House of Lords held that it did.
+
+35.  The relationship between ZT (Kosovo) and BA (Nigeria) was explained  by
+    Lord Neuberger in ZA (Nigeria).  At paragraph 52 of his judgment,  Lord
+    Neuberger made the crucial finding  that  "the  binding  ratio"  of  BA
+    (Nigeria) is not "that rule 353 is effectively a  dead  letter".   Lord
+    Neuberger held that the contrary contention, "which I might  very  well
+    otherwise have accepted", had to be rejected on the ground that it  was
+    "plainly inconsistent  with  the  reasoning  and  conclusion...  in  ZT
+    (Kosovo)".  Lord Neuberger's conclusion was that  the  decision  in  BA
+    (Nigeria) had turned on the crucial fact that, in each of the  appeals,
+    the Secretary of State had made  an  appealable  immigration  decision;
+    namely, the decision to refuse to revoke a deportation order.  In  that
+    circumstance, paragraph 353 "had no further part to play" [52].   Since
+    paragraph 353 serves as a means of enabling the Secretary of  State  to
+    decide, in certain circumstances, whether submissions from  P,  should,
+    if rejected, be the subject of an immigration decision,  the  Secretary
+    of State's making of an  immigration  decision  placed  matters  firmly
+    within the ambit of the "complete code" of the 2002 Act.
+
+36.  This is made pellucid in paragraph 59 of ZA (Nigeria):-
+
+         "59. ...I have reached the conclusion that what  was  said  in  [BA
+             (Nigeria)] can and therefore should at any rate in this court,
+             be  read  as  being  confined  to  cases  where  there  is  an
+             appealable  immigration  decision.   Once  there  is  such   a
+             decision, the  complete  code  contained  in  the  legislative
+             scheme applies and rule 353 has no part to play.  However,  as
+             decided in ZT (Kosovo) ....rule  353  still  has  a  'part  to
+             play': the Secretary of State  can  decide  that  the  further
+             submissions are not a 'fresh claim', in which  case  one  does
+             not enter the territory governed by the 'complete code' of the
+             legislative scheme."
+
+37.  We are firmly of the view that the  Upper  Tribunal  is  bound  by  the
+    ratio of ZA (Nigeria).  It is not open to the Tribunal to  depart  from
+    that ratio and apply the judgments in BA (Nigeria) to the facts of  the
+    present case, in the way for  which  Mr  Toal  contends.   The  result,
+    therefore, is that the  present  applicant  must  fail  unless  he  can
+    demonstrate that  the  legislative  regime,  as  it  stands  after  the
+    amendments made by the 2014 Act, requires to be interpreted  in  a  way
+    that changes the function of paragraph 353 of the Rules.
+
+38.  In ZA (Nigeria) the Court of Appeal considered  the  issue  of  whether
+    paragraph 353 had, in fact, been rendered  as  a  dead  letter  by  the
+    advent of the 2002 Act, including  its  certification  provisions.   At
+    [19] Lord Neuberger held that where a rule remains unamended  by  later
+    legislation,  "then  at  least  where  the  rule  and  the   subsequent
+    legislation are in pari materia and are promoted or promulgated by  the
+    same government department, there must be a presumption that  the  rule
+    was intended to survive and have effect".
+
+39.  Lord Neuberger  accepted  that  this  was  not  a  particularly  strong
+    presumption.  It was, however, strengthened because in  a  more  recent
+    statute - that is to say section 53 of  the  Borders,  Citizenship  and
+    Immigration Act 2009 - Parliament had amended section 31A of the Senior
+    Courts Act 1981 to enable transfer from the High  Court  to  the  Upper
+    Tribunal of judicial review applications where "the  application  calls
+    into question a decision  of  the  Secretary  of  State  not  to  treat
+    submissions as an asylum claim or a human  rights  claim...  wholly  or
+    partly on the basis that they  are  not  significantly  different  from
+    material that had previously been considered...".  The reference in new
+    section 31A was, unarguably, to what was then (and still is)  paragraph
+    353.
+
+40.  Although section 31A has subsequently been amended so as to  widen  the
+    jurisdiction of the Upper Tribunal in respect of  immigration  judicial
+    review, the fact of that amendment does not, in  our  view,  strengthen
+    the argument that the changes made by  the  2014  Act  have  materially
+    affected the operation of paragraph 353.
+
+41.  It is evident that, in enacting the 2014 Act, Parliament was  intending
+    to reduce the ability of persons faced with adverse  decisions  in  the
+    immigration  field  to  appeal  against  those  decisions.   It   would
+    therefore be strange if the result of those changes has been to  enable
+    repeated claims raising asylum or international  protection  issues  to
+    generate multiple appeals.  This is so, whether  or  not  such  appeals
+    might be certified, with the result that they could be prosecuted  only
+    from outside the United Kingdom.
+
+42.   As can already be seen, despite the changes made by the 2014 Act,  the
+    concept of a "claim" remains central to new section 82.  There  is,  on
+    the face of it, nothing which suggests  that  paragraph  353  does  not
+    apply to the  "categorisation"  issue  of  whether  submissions  are  a
+    "claim" for the purposes of section 82.
+
+43.  Mr Toal submits that the continued presence of  paragraph  353  can  be
+    explained on the basis that, as a result of the  changes  made  by  the
+    2014 Act and in the light of ZT  (Kosovo)  (see  paragraph  18  above),
+    paragraph 353 is now relevant (only) to certification  decisions  under
+    the amended 2002 Act.  We  are  unpersuaded  by  this  submission.   If
+    Parliament had intended paragraph 353 to have such a restricted  ambit,
+    following the changes of the 2014 Act, it is reasonable to suppose that
+    paragraph  353  would  have  been  amended  to  make  it  clear   that,
+    henceforth, it was to apply only in certification cases.
+
+44.  This point is reinforced by the amendment to  paragraph  353,  made  in
+    the wake of the 2014 Act, which ensures that paragraph 353 now  applies
+    to human rights claims and protection  claims  (as  opposed  to  asylum
+    claims): see paragraph  6  above  and  paragraph  47  below.  It  seems
+    particularly strange that Parliament would be concerned  to  make  this
+    amendment in the light of the 2014 Act and yet fail to make it  evident
+    that the amended paragraph 353 was henceforth  to  have  a  drastically
+    reduced ambit. In our view, not only does the amendment made by HC 1025
+    demonstrate that paragraph 353 is intended by the legislature  to  have
+    continued effect; the absence of an amendment limiting the paragraph to
+    certification cases points to the fact  that  no  such  limitation  was
+    intended.
+
+45.  Mr Toal submits that the Secretary of State has  it  in  her  power  to
+    commence the amendments to section 113 of the 2002 Act contained in the
+    2006 Act, so as to  reverse  what  he  says  is  the  present  position
+    concerning the ambit  of  paragraph  353.   The  Secretary  of  State's
+    position, however, is that in the light of the case  law,  particularly
+    ZA (Nigeria), there is no need to  commence  the  2006  Act  amendments
+    because the legal position is sufficiently clear.  Paragraph 353 can be
+    operated by the Secretary of State in such a way as to prevent  certain
+    submissions from being treated as a "human rights claim".
+
+46.  We are unable to accept Mr Toal's submission on this issue.   Far  from
+    the 2014 Act  acting as a catalyst to bring the  2006  amendments  into
+    force, Parliament chose,  in  the  2014  Act,  to  amend  the  existing
+    definition of "human rights claim" (see paragraph 4  above).  The  fact
+    that Parliament had been concerned to amend the definition was noted at
+    paragraph 15 of the judgment of  Beatson  LJ,  refusing  permission  in
+    Waqar (paragraph 23 above). The 2014 Act has inserted the phrase "or to
+    refuse him entry into the United Kingdom" after the phrase "require him
+    to leave the United Kingdom" into the definition, in order to cover the
+    full range of situations in which a human rights claim can now be made.
+    The decision to make  a  corresponding  amendment  to  the  prospective
+    amendment of "human  rights  claim"  shows  beyond  question  that,  in
+    enacting the 2014 Act, Parliament was very much aware of the  2006  Act
+    amendments  and  deliberately  decided  that  nothing   in   that   Act
+    necessitated their commencement.
+
+47.   Furthermore, the 2014 Act has inserted into section 113  of  the  2002
+    Act a definition of "protection claim" by reference  to  section  82(2)
+    (see paragraph 2 above).  This shows that Mr Toal is, in fact, wrong to
+    contend that, merely by commencing the amendments of the 2006 Act,  the
+    Secretary of State can reverse the  effect  of  what  he  says  is  the
+    present limited ambit of paragraph 353. The 2006 amendments are only to
+    the definitions  of  "asylum  claim"  and  "human  rights  claim".   If
+    commenced, they would result in the plainly anomalous position  that  -
+    according to Mr Toal - paragraph 353 would  bite  with  full  force  on
+    submissions purporting to be a human rights  claim  but  not  on  those
+    purporting to be a protection claim, despite the fact that  submissions
+    purporting to be a protection  claim  have  been  specifically  brought
+    within the paragraph 353 regime by the  amendment  in  HC  1025,  which
+    supplanted the previous reference in that paragraph to an asylum claim.
+
+
+
+48.    In short, what Parliament has chosen to do by way of the  2014  Act's
+    amendments to section 113, and by way of the April  2015  amendment  to
+    paragraph 353 of  the  rules,  firmly  indicates  that  that  paragraph
+    operates  as  a  gateway  to  section  82  appeals,  as  well   as   to
+    certification.
+
+49.  The Tribunal directed further written submissions on the  Secretary  of
+    State's decision-making process  under  paragraph  353.   Both  parties
+    complied with that direction.
+
+50.  In his response of 27 May 2016, Mr Fisher  summarises  the  process  as
+    follows:-
+
+         "Stage 1: further submissions are  provided  to  the  Secretary  of
+             State.
+
+
+         Stage 2:  the Secretary of State considers whether the  submissions
+         warrant a grant of leave.  No decision is or needs to  be  made  at
+         this stage as to whether  those  submissions  amount  to  a  'fresh
+         claim'.
+
+
+         Stage 3:  if the submissions are accepted, leave  is  granted.   If
+         the submissions are rejected, however, the Secretary of State  will
+         go on to consider whether those  submissions  amount  to  a  'fresh
+         claim'.  There are then two options:
+
+
+         (i)   if,  as  here,  the  Secretary  of  State   determines   that
+             submissions do not amount to a fresh claim, per ZA  (Nigeria),
+             then the  further  submissions  are  'not  a  claim  at  all'.
+             Accordingly,  there  is  no  'claim'  to  refuse.   In   these
+             circumstances,  because  there  has  been  no  refusal  of   a
+             protection/human rights claim, no appeal right arises;
+
+
+         (ii) if, however,  the  Secretary  of  State  determines  that  the
+             further submissions do constitute a 'fresh  claim',  she  will
+             refuse the claim.  In these  circumstances,  an  appeal  right
+             arises under section 82(1) of the 2002 Act."
+
+51.  Mr Fisher submits that the order of  the  decision-making  process,  as
+    set out above, follows the language of paragraph 353 and is the same as
+    that which applied under the previous appeal regime.  The order  allows
+    the Secretary of State discretion to grant leave to applicants who make
+    entirely repetitious submissions if, on a re-assessment, it is  thought
+    appropriate to do so.
+
+52.  In his submissions of 9 June 2016, Mr  Toal  argues  that,  unless  and
+    until  the  2006  Act  amendments  to  section  113  come  into  force,
+    submissions which rely upon assertions that  removal  from  the  United
+    Kingdom would be unlawful in human rights terms, or would  be  contrary
+    to the United Kingdom's international  protection  obligations,  are  a
+    "claim", the refusal of which is an appealable decision.  At  stage  2,
+    the Secretary of State's consideration precedes a decision whether  the
+    submissions are a fresh claim and so are not contingent upon a  finding
+    that the submissions are such a claim.
+
+53.  According to Mr Toal, the Secretary of  State  acknowledges  that  such
+    consideration takes place even  in  response  to  entirely  repetitious
+    submissions.  Mr Toal says the Secretary of State has to choose between
+    two possible outcomes; namely, the grant of leave or the  rejection  of
+    the applicant's assertion,  and  that  this  choice  involves  deciding
+    whether to grant or  refuse  the  claim.   Only  after  making  such  a
+    decision on the merits can the Secretary  of  State  go  on  to  decide
+    "whether those submissions amount to a fresh claim".  Thus, by the time
+    the Secretary of State turns to the question of whether a  claim  is  a
+    fresh claim, she has already made a decision that is  appealable  under
+    section 82.  This differs from the position under the previous  version
+    of that section, where a decision to reject a claim was not,  as  such,
+    appealable.  There had to be an immigration decision before  an  appeal
+    could arise.
+
+54.  Whilst there is a superficial attraction in Mr Toal's  submission  that
+    the rejection of submissions falls to  be  treated  as  a  decision  to
+    refuse a human rights or protection claim, within the ambit of  section
+    82, we do not consider it to be the correct interpretation.   Paragraph
+    353 is about the process by which the  Secretary  of  State  determines
+    whether particular submissions, although not such as to  give  rise  to
+    the grant  of  leave,  fall  to  be  categorised  as  human  rights  or
+    protection claims, the refusal of which can  trigger  an  appeal  under
+    section 82.  The expressions "submissions" and "if  rejected"  make  it
+    clear that we are, at this point, removed  from  the  language  of  new
+    section 82, which speaks of the Secretary of State having "decided"  to
+    "refuse" a "protection/human rights claim".  Although  the  expressions
+    "submissions" and "if rejected" pre-date the changes made by  the  2014
+    Act, that  they  remain  in  place  is,  we  find,  indicative  of  the
+    legislature's  view  that  they  continue  to  serve  the  function  of
+    permitting the Secretary  of  State  to  categorise  cases  as  between
+    paragraphs (i) and (ii) of stage 3, as set out in paragraph 50 above.
+
+55.  The fact  that  the  Secretary  of  State  may  choose  to  accept  P's
+    submissions, and grant P leave in order to comply with the Secretary of
+    State's international obligations, does not mean the Secretary of State
+    has to be viewed as treating those submissions as a "fresh claim".   On
+    the contrary, under paragraph 353 a "fresh  claim"  is  a  claim  which
+    necessarily  is  refused  by  the  Secretary  of  State;   but   which,
+    importantly,  gives  rise  to   a   right   of   appeal   (subject   to
+    certification).
+
+56.  We are strengthened in our conclusions on this issue by  the  following
+    matter.  If Mr Toal is right, then contrary to what he submits  in  his
+    response of 9 June, the bringing into force of the 2006 Act  amendments
+    to section  113  would  not  assist  the  Secretary  of  State.   Those
+    amendments exclude claims which fall to be  disregarded  in  accordance
+    with immigration rules.  But, on Mr Toal's  construction  of  paragraph
+    353, if the rejection of submissions automatically means that  a  human
+    rights claim has been refused, then a right of appeal  will  have  been
+    generated, irrespective of whether the remaining paragraph 353  process
+    results in the submissions not being  a  fresh  claim.   At  best,  the
+    status of  paragraph  (b)  of  the  2006  definitions  would,  on  this
+    construction, be mired in uncertainty.
+
+57.  It is important to make the following final point. The  fact  that  the
+    Secretary of State can continue to operate paragraph 353 as a "gateway"
+    to section 82 does not mean she is the sole arbiter of whether she has,
+    in fact, made a decision to refuse a human rights claim, as opposed  to
+    refusing to treat submissions as amounting to a fresh claim.
+
+58.   The Secretary of State's letter of 26 June 2015, addressed  to  Wilson
+    Solicitors, refers in various places to the applicant's "claim",  where
+    it would plainly have been preferable to refer  to  his  "submissions".
+    Nevertheless, the first substantive paragraph of the letter  refers  to
+    "your letter of 24 June 2015 in  which  you  made  further  submissions
+    about your client's deportation from the UK".  In the circumstances, we
+    consider that the subsequent references to a claim in the  letter  need
+    to be read as referring to those  submissions.   Overall,  we  consider
+    that the letter of 26 June, properly construed, amounts to  a  decision
+    to refuse to treat  the  applicant's  submissions  as  a  fresh  claim.
+    Paragraph 353 is mentioned in terms in several places  and  the  letter
+    makes it evident that the Secretary of  State  has  asked  herself  the
+    correct questions in terms of WM (DRC) [2006] EWCA Civ  1495,  applying
+    the requisite anxious scrutiny.
+
+
+
+F.  Decision
+
+59.  The application for judicial review  is  refused.   The  Tribunal  will
+    hear Counsels' submissions as to costs, unless  these  can  be  agreed.
+    ~~~~0~~~~
+-----------------------
+[1] Words underlined inserted by Schedule 9, Part 4, paragraph 53(2) to the
+2014 Act: see paragraph 4 below.
+[2] Definition inserted by the 2014 Act (Schedule 9, Part 4).
+[3] Definition inserted by the 2014 Act (Schedule 9, Part 4).
+[4] 2014 Act, Schedule 9, Part 4, paragraph 57(2).
+[5] Formerly "asylum claim": see paragraph 6 below.
+[6] The words in square brackets are correct. The judgment contains a
+typographical error at this point.
+

@@ -1,0 +1,191 @@
+Appeal Number: PA/02313/2017
+
+
+
+
+
+
+
+	Upper Tribunal
+
+	(Immigration and Asylum Chamber)                        Appeal Number: pa/02313/2017
+
+
+
+THE IMMIGRATION ACTS
+
+
+
+Heard at Manchester
+
+Decision & Reasons Promulgated
+
+On 17 April 2018
+
+On 17 May 2018 
+
+
+
+
+
+
+
+Before
+
+
+
+DR H H STOREY
+
+JUDGE OF THE UPPER TRIBUNAL
+
+
+
+Between
+
+
+
+TK
+
+(ANONYMITY DIRECTION made)
+
+Appellant
+
+
+
+and
+
+
+
+THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+Respondent
+
+
+
+
+
+Representation:
+
+
+
+	For the Appellant:	Mr M Karnik, Counsel, instructed by Broudie Jackson & Canter Solicitors
+
+	For the Respondent:	Mr A McVeety, Home Office Presenting Officer 
+
+	
+
+	
+
+	DECISION AND DIRECTIONS
+
+	
+
+	
+
+	1.	The appellant is a national of Georgia.  He arrived in the UK on 14 September 2016 and claimed asylum upon arrival.  The basis of his claim was that if he was returned to Georgia he would be persecuted by the Georgian authorities because he had refused to co-operate with Prosecutor Mikhail Shakulashvili when the latter had sought to retain his services as a hacker in exchange for dropping charges against him in relation to his hacking of The Ministry of Education server.  He also had sensitive information about prominent Georgian people including politicians.  In addition, he feared that gangs connected with the Prosecutor would kill him because he owed them money and he had been filmed disrespecting them.  The appellant also claimed to be an absconder from military service.
+
+	
+
+	2.	In a decision dated 17 February 2017 the respondent refused the appellant’s asylum claim.  The respondent did not find his claim credible.  He appealed.  In a decision sent on 1 August 2017, Judge Smith of the First-tier Tribunal (FtT) dismissed his appeal.  Like the respondent, the judge did not find the appellant’s account credible.
+
+	
+
+	3.	The grounds contend, inter alia, that the judge failed to make material findings or made findings contrary to the evidence and contained material omissions.  The judge was criticised for not taking into account that the appellant was just 18 when his house was raided; for erroneously declining to make a finding about the appellant’s level of computer skills; for treating as a key matter the implausibility of the appellant being able to perform the computer tasks demanded of him by the Prosecutor when his own computer had been confiscated; for relying on her own (lack of) expertise in speculating that placing a video onto a public website so it was untraceable was not a particularly difficult task; for neglecting to note that the appellant had in his possession three separate videos, only two of which had already been posted.  
+
+	
+
+	4.	The grounds took particular issue with the judge wrongly stating that the appellant had made no mention in his asylum interview of being sexually assaulted or of the police being the perpetrators or of gang members being sent by the police.
+
+	
+
+	5.	I heard very helpful submissions from both Mr Karnik and Mr McVeety.
+
+	
+
+	6.	I am acutely conscious in this case that I should only interfere with findings of fact made by a FtT judge if they are infected with material legal error.  This was a complex case in which there were technical issues regarding the types of activities undertaken by hackers and in a country where there was relatively little information about how hackers operated.  For the most part, I consider that the judge applied himself conscientiously to an appraisal of the evidence and the submissions.  However, there was more than one area in which the judge’s reasoning fell short and considering these cumulatively I have concluded the decision is vitiated by material legal error.
+
+	
+
+	7.	The first two difficulties with the judge’s decision relates to the judge’s assessment at para 29 that there were important discrepancies between the appellant’s claim between his screening interview, his asylum interview and his subsequent evidence.  The judge specifically states that “There is no mention in the asylum interview of any sexual assault”.  The judge also states that the appellant had only “now” maintained that the criminal gangs who threatened him were acting on the instructions of the Prosecutor.  The judge was incorrect on both counts.  The appellant did mention being sexually assaulted in his asylum interview: see Qs 86-90 and Q122.  The appellant did mention at Q108 his fear that the gang members had been sent by the Prosecutor.  Further, the appellant provided a letter in advance of the asylum interview explaining why he had not disclosed the sexual assault in his screening interview and the respondent took no issue regarding this.  These errors considerably reduce the force of the judge’s assessment at paragraph 29 that the appellant had been inconsistent as between his different accounts.  
+
+	
+
+	8.	I bear in mind that in light of the appellant’s claim to have been sexually assaulted by police when he was 18, the judge should have given initial consideration when approaching the test of assessing the credibility of the appellant to treating him as a vulnerable witness under the Joint Presidential Guidance of 2010 and considering whether to make a degree of allowance for discrepancies in his evidence accordingly.  There is no indication that the judge did this.  I would note that Mr McVeety conceded that the judge had erred in the two aforementioned respects.
+
+	
+
+	9.	The third difficulty concerns the significant reliance placed by the judge on the implausibility of the appellant’s account in respect of the demands the Prosecutor made of him.  At para 26 the judge wrote:
+
+	
+
+“The appellant has given a detailed account with regard to his arrest and having had all his computer equipment seized.  He maintains that he was asked by MS to upload the video footage of the covert sexual activity.  He maintained that he was not given his computer equipment back.  It seems to me highly unlikely that the prosecutor would expect the appellant to be able to use his specialist computer skills to undertake this task without having any equipment to do it.  The fact that the appellant’s account does not deal with how the prosecutor expected him to perform this task without his computer equipment I consider to be implausible.”
+
+
+
+	10.	The reasoning here is compromised by the fact that the appellant had not said he would use his own computer equipment to undertake the tasks set; by the fact that this supposed implausibility was not one relied on by the respondent nor was it squarely put to the appellant at the hearing (to the extent it was put the appellant, his response was that he continued to have access to computers including at internet cafes); and by the fact that in his witness statement he had also mentioned having access to his uncle’s computer.  In this context the judge’s apparent assumption that a skilled hacker could only operate with his own computer equipment looks tenuous in the extreme.  
+
+	
+
+	11.	In relation to the appellant’s level of computer skills, the judge’s underlying view appears to have been that there was no evidence that he was very skilled beyond his own statements and that in consequence his account of being recruited to help the Prosecutor in hacking activities was not credible.  In point of fact there was an email from the Editor in Chief of Primetime, an independent news agency, stating that they had been paying the appellant for his computer services since February 2015 and that he had managed to restore their website after hackers had deleted it and also gave them advice on security.  On its face that was an important piece of evidence indicating that the appellant had very sophisticated computer skills.
+
+	
+
+	12.	As already intimated Mr McVeety conceded that the judge had erred in making two incorrect statements about the appellant’s lack of consistency (as between his early and later account) in relation to a sexual assault and the identity of his perpetrators.  Mr McVeety submitted that neither mistake was material.  I am unable to agree.  As Mr Karnik correctly pointed out, an error can only be immaterial if a judge must have come to the same conclusion irrespective of the error.  Given the importance the judge attached to these inconsistencies that cannot be said here.  Furthermore, the judge’s treatment of the evidence regarding the appellant’s level of computer skills failed to take into account relevant evidence.
+
+	
+
+	13.	For the above reasons, I set aside the decision of the FtT judge for material error of law and remit the case to the FtT (not before Judge Smith). No findings made by Judge Smith can be preserved, although I notice there was no challenge to the judge’s rejection of the military service aspect of his claim. 
+
+	
+
+	DIRECTION
+
+	
+
+	14.	I note that there is already an expert report from Dr Chenciner produced in support of the appellant’s case.  
+
+	
+
+	15.	Judge Smith made criticisms of that report.  In order to assist the next Tribunal Judge in making findings of fact afresh, I direct that Mr Chenciner be shown those criticisms and asked to prepare a short supplementary report stating his responses to them.  Mr Chenciner is also to be asked to clarify what materials relating to the appellant he had when preparing his report in addition to the witness statement: in particular was he provided with and did he read the respondent’s Reasons for Refusal Letter and the appellant’s screening interview and asylum interview?  This supplementary report is to be submitted to the Tribunal (with copies to the respondent) within 6 weeks of this decision been sent to the parties. 
+
+	
+
+		To conclude:
+
+	
+
+		The decision of the FtT judge is set aside for material error of law.
+
+	
+
+		The case is remitted to the FtT to be decided afresh in light of my direction regarding the expert evidence.  
+
+
+
+
+
+Direction Regarding Anonymity – Rule 14 of the Tribunal Procedure (Upper Tribunal) Rules 2008
+
+
+
+Unless and until a Tribunal or court directs otherwise, the appellant is granted anonymity.  No report of these proceedings shall directly or indirectly identify him or any member of their family.  This direction applies both to the appellant and to the respondent.  Failure to comply with this direction could lead to contempt of court proceedings.
+
+	
+
+
+
+Signed								Date: 3 May 2018
+
+	            
+
+	
+
+	Dr H H Storey
+
+	Judge of the Upper Tribunal 
+
+© CROWN COPYRIGHT 2018
+
+
+
+4

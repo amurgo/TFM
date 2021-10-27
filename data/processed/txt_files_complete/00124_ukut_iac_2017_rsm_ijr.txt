@@ -1,0 +1,2783 @@
+
+
+
+R (on the application of RSM and Another) v Secretary of State for the  Home
+Department (unaccompanied minors - Art  17  Dublin  Regulation  -  remedies)
+[2017] UKUT 00124 (IAC)
+
+
+
+
+
+
+
+
+  The Queen on the application of RSM, a child by his litigation friend ZAM
+                                   and ZAM
+                                                                  Applicants
+                                      v
+
+
+                 Secretary of State for the Home Department
+                                                                  Respondent
+
+                 Before The Hon Mr Justice McCloskey, President
+                          Upper Tribunal Judge Finch
+
+
+
+
+
+
+      I) The question of whether the Secretary of State has made a  decision
+         on the exercise of the discretionary power in  Article  17  of  the
+         Dublin Regulation is one of fact which will be  determined  on  the
+         basis of evidence, direct or inferential.
+
+
+     II) Article  17  is  an  integral  part  of  the  Dublin  regime.   The
+         suggestion that the Article 17 discretion  falls  to  be  exercised
+         only where the family reunification criteria in Article 8  are  not
+         satisfied is misconceived.
+
+
+    III) Article 17 has a role in circumstances where one of the overarching
+         values of the Dublin Regulation, namely expedition,  is  not  being
+         fulfilled in the procedures and systems of the host Member State.
+
+
+     IV) Relevant government policy statements  constitute,  as  a  minimum,
+         material considerations  to  be  taken  into  account  in  deciding
+         whether to exercise the discretionary power  in  Article  17.   The
+         Lumba principle is also engaged.
+
+
+      V) The judicial assessment of the efficacy of the Dublin  systems  and
+         procedures in  the  host  Member  State  will  invariably  be  fact
+         sensitive and will take  into  account  the  overarching  aims  and
+         objectives of the Dublin Regulation, including the  maintenance  of
+         inter-Member  State  solidarity  and  mutual  trust  and   respect,
+         together with expedition.
+
+
+     VI) Expedition has special force in the case of unaccompanied children.
+
+
+
+
+    VII) The discretion to judicially determine essentially academic  issues
+         in judicial review proceedings will normally  be  informed  by  the
+         overriding objective.
+
+                             JUDGMENT
+
+McCloskey J
+
+Introduction
+
+ 1. We emphasise at the outset that both Applicants continue  to  have  the
+    protection  of  anonymity  and  reproduce  below  the  extant  Tribunal
+    Direction.   Accordingly,  no  report  of  these  proceedings  or   any
+    communication whatsoever shall directly or indirectly  identify  either
+    of the Applicants or any member of their family.
+
+ 2. These judicial  review  proceedings  were  conducted  in  two  orthodox
+    phases.  First, there was an inter-partes hearing on 05  December  2016
+    when the issue of permission was determined. By our ex tempore decision
+    and order of the same date (subsequently formalised: see  Appendix  1),
+    we granted the Applicants permission to apply for judicial  review  and
+    made certain directions.
+
+ 3. An inter-partes substantive hearing followed, on 19 December  2016.  By
+    our ex tempore decision  and  order  of  the  same  date  (subsequently
+    formalised -  see  Appendix  2),  the  Applicants  were  held  to  have
+    succeeded.  The order made by the Tribunal against the Respondent,  the
+    Secretary of State for the Home Department (the "Secretary  of  State")
+    was formulated thus:
+
+
+      a) The Secretary of  State  is  hereby  ordered  to  admit  the  first
+         Applicant, RSM, to the United Kingdom.
+
+
+      b) It is hereby  declared  that  there  has  been  a  failure  by  the
+         Secretary of State to lawfully exercise the discretion conferred by
+         Article 17 of the Dublin Regulation.
+
+
+    Most recently, further orders have materialised, under  the  rubric  of
+    liberty to apply: see Postscript.
+
+
+ 4. None of  the  aforementioned  decisions/orders  sets  forth  fully  the
+    Tribunal's reasoning and analysis.  The second decision  in  particular
+    could not be delayed having regard  to  the  facts  and  factors  which
+    underlay the Tribunal's conclusion that the  Applicants  must  succeed.
+    The Tribunal made  clear  to  the  parties  that  it  would  provide  a
+    comprehensive judgment if necessary, particularly in the event  of  the
+    Secretary of State seeking permission to appeal to the Court of Appeal.
+     An application of this kind having materialised, the  Tribunal  hereby
+    honours its commitment.  While this may regrettably entail some  degree
+    of repetition, this seems to us unavoidable.
+
+ 5.  Judicial  review  proceedings  are  frequently,  but  not  invariably,
+    conducted within  a  framework  of  agreed  and/or  uncontroversial  or
+    neutral facts.  This does not always apply  to  cases  of  the  present
+    species, mainly  on  account  of  the  factor  of  expedition  and  the
+    resulting limited opportunity of the Respondent, the Secretary of State
+    for the Home Department  (the  "Secretary  of  State"),  to  carry  out
+    appropriate investigations.  Thus, as in previous cases of  this  kind,
+    we shall  address  infra  the  question  of  whether  the  key  factual
+    ingredients of the  Applicants'  case  have  been  established  to  the
+    requisite degree
+
+ 6. While there was a clear  and  obvious  need  for  expedition  in  these
+    proceedings,  the  Tribunal  was  able  to   devise   case   management
+    mechanisms, both prior to the permission hearing and by creating a post-
+    permission phase in advance of the substantive hearing, which furthered
+    two imperatives.  First, the Applicants and their legal representatives
+    were enabled  to  augment  the  evidence  presented  initially  to  the
+    Tribunal.   Second, the Secretary of State was  afforded  a  reasonable
+    opportunity to make an evidential contribution and, in the event, a not
+    insubstantial contribution materialised.  Notably, at the  final  stage
+    of the proceedings,  namely  the  substantive  hearing,  there  was  no
+    suggestion on behalf of the Secretary of State of unfairness on account
+    of excessive haste.
+
+
+RSM's Background
+
+ 7. It is asserted that the first Applicant, RSM, is a national of Eritrea,
+    aged 14 years and has been residing in Rome since  April  2016,  having
+    fled his country of origin and, subsequently, Yemen with his mother and
+    younger brother who, tragically, lost their lives  (with  many  others)
+    whilst attempting the journey by sea from Egypt to Italy.   The  second
+    main assertion in the Applicants' case is that the second Applicant  is
+    his adult aunt who, having previously been recognised as a refugee  and
+    having acquired British citizenship, lives in the United Kingdom and is
+    willing and able to receive the first Applicant and care for him.
+
+ 8. RSM's case possesses the following additional factual ingredients.   He
+    had an uneventful childhood in his country of  origin,  Eritrea,  where
+    the family unit included his mother and  younger  brother,  during  his
+    first 10 years approximately.  The family fled Eritrea,  travelling  to
+    Yemen where they lived for approximately 3 years.   War  having  broken
+    out in Yemen, they then fled to Sudan and onward to Egypt,  accompanied
+    by an older relative, his father's first cousin.
+
+
+ 9. Following a sojourn of some three months in Egypt, all four arranged to
+    travel by sea to Italy.  A sudden and  unplanned  separation  from  his
+    mother and brother having intervened, RSM and father's cousin made  the
+    hazardous crossing successfully.  Soon thereafter, contact by telephone
+    having been maintained in the  intervening  period,  RSM's  mother  and
+    younger brother died in June 2016 by drowning in undertaking  the  same
+    journey.  They and many others lost their lives in one of  the  refugee
+    maritime tragedies which have, sadly, become so commonplace during  the
+    last couple of years.  This happened some weeks following RSM's arrival
+    in Italy and, inevitably, had a devastating effect on this then 13 year
+    old boy.
+
+10. RSM was initially accommodated in a Rome  refugee  camp  following  his
+    arrival around April 2016.  There he shared a  room  with  an  Eritrean
+    woman and another child, as a short term  measure.   His  status  being
+    that of unaccompanied minor, though not thus  recognised  initially,  a
+    change in his accommodation  arrangements  was  effected  in  September
+    2016.  Since then, he has been accommodated  in  two  State  registered
+    children's homes.  This has been his plight during the last four months
+    approximately.    The   evidence   concerning   his   conditions    and
+    circumstances there is both balanced and well researched.  Furthermore,
+    it is uncontentious and we accept  it.   The  adult  relative  who  had
+    accompanied RSM on his journey by sea from Egypt to Italy remained with
+    him for a period.  Being unplanned, this was a temporary measure.  They
+    were separated when RSM was transferred to the children's home.  In his
+    witness statement the relative  says the following:
+
+
+         "Things have been very difficult for [RSM].  ......   He  has  lost
+         his mother and younger brother and all that he has known. He is now
+         separated from me and is not with family ..... [He] is desperate to
+         be reunited with his aunt and her  family  and  it  is  all  he  is
+         focusing on but as time passes with nothing happening, he is losing
+         hope that this will be achieved. He is  really  suffering.   He  is
+         very upset and confused and he is very unhappy."
+
+    This statement is dated 01 November  2016.   The  intermittent  contact
+    between the  two  ended  in  December  when  the  father's  cousin  was
+    transferred from Italy to Portugal.
+
+11. In the span of several witness statements, the  second  Applicant,  ZAM
+    (RSM's aunt), recounts, inter alia, the four visits she has made to RSM
+    in Italy during the period June to  November  2016.   These  statements
+    provide evidence of very recent vintage.  They confirm the  changes  of
+    accommodation noted above.  In her most evidence,  the  aunt  describes
+    RSM as "even more unhappy and distressed and  is  increasingly  angry",
+    with elaboration.  She states:
+
+         "I am really worried about how he is  coping  with  these  terrible
+         losses.  I believe he needs my direct support every day and that it
+         is really bad for him to be in a children's home in  Italy.  He  is
+         expressing much more anger and I don't know how his  emotions  will
+         continue to change.  I still worry that if he  is  not  transferred
+         quickly he may try to take matters into his own hands ....
+
+
+         While he is happy to see me, when I leave  this  causes  upset  and
+         hurt all over again ....
+
+
+         I am concerned about the long term impact that the  insecurity  and
+         separation will have on RSM and that the longer  it  goes  on,  the
+         more damage the deaths of his mother and brother will cause and the
+         greater the difficulty he will have in settling into life and being
+         a child again in the UK."
+
+
+  12. ZAM's most recent witness statement, composed  just  days  before  the
+      substantive hearing, contains the following:
+
+
+         "I would describe RSM in some senses of [sic] being like a computer
+         ....
+
+
+         When .....  I had first arrived and when I was leaving he was  like
+         the black screen of the computer,  he  was  turned  off  blank  and
+         emotionless ....
+
+
+         It has been almost unbearable for me to understand how much RSM  is
+         suffering when I am not there and being able to do so little  about
+         it ....
+
+
+         It is very hard to explain to a child who is just 14 and after what
+         he has been through why this process should take so long ....
+
+
+         Although RSM has now started to go to school, he tells me he 'hates
+         it' ....  and he gets 'sad memories' of his brother who he went  to
+         school with .... I'm concerned that if he becomes  resentful  about
+         the home that he may decide to run away from it....
+
+
+         Even though he was angry at [his father's cousin] he  knew  he  was
+         there and that he could  see  him.   I  think  it  will  feel  very
+         different to him knowing he is completely alone in Italy ....
+
+
+         It is very well known within the Eritrean community that there is a
+         smuggling route for children and adults to  travel  from  Italy  to
+         France and from there to the UK ...  I am not personally  aware  of
+         anyone who has come to the UK via a lawful  route  from  Italy.   I
+         know that RSM is aware  of  this  and  he  has  asked  directly  if
+         travelling to France and then to the UK is an option  for  him.   I
+         have counselled him against this ......"
+
+
+
+
+13. In other parts of the evidence RSM  is  described  as  "a  particularly
+    vulnerable boy" and is contrasted with more street wise and mature boys
+    of less than his age.  His adult cousin (ZAM's oldest daughter)  states
+    that RSM -
+
+
+         "....  seems even more deeply traumatised ..... he has become  very
+         negative and no longer believes good things will happen to  him.  I
+         think in some respects he has lost his rationality  ....   As  time
+         goes on, he is losing trust and faith in us and we  fear  that  one
+         day RSM, a young adolescent boy, may decide to take matters in  his
+         own hands and abscond."
+
+
+
+
+    In this context, Mr Scott, in his most recent statement, draws  on  his
+    personal experience of unaccompanied migrant children "disengaging from
+    the  legal  process",  adverting  to  factors  including   "conflicting
+    information  from  those  in  the  community  and  smugglers  and  peer
+    pressure" and the propensity of some  teenage  boys  to  take  reckless
+    risks.  These risks were taken by children in the "Jungle"  in  Calais,
+    France in spite of the sustained efforts of community leaders  and  the
+    support  provided   by   charitable   organisations   and   volunteers.
+    Comparable support structures have been absent  from  RSM's  life.   Mr
+    Scott's second witness statement exhibits an Oxfam report published  in
+    September 2016 which states:
+
+
+         ".....   the  Italian  reception  system  has  turned  out  to   be
+         inadequate for protecting lone refugee  and  migrant  children  and
+         their rights.  Even worse, during the first  six  months  of  2016,
+         5,222 unaccompanied children were reported missing, having run away
+         from reception centres.  They become  invisible,  under  the  legal
+         radar and are  therefore  even  more  vulnerable  to  violence  and
+         exploitation."
+
+
+    RSM's Mental Health
+
+14. One of the main evidential planks of RSM's case is  the  report  of  Dr
+    Claire O'Driscoll, a Clinical Psychologist, who travelled to Rome where
+    she assessed RSM on 02 September 2016 at the  offices  of  the  charity
+    Medecins Sans Frontiers.  Dr O'Driscoll  also  engaged  in  discussions
+    with certain other named persons. It is  evident  from  her  curriculum
+    vitae that she  has  experience  and  expertise  in  the  psychological
+    assessment of young people.
+
+15. Dr O'Driscoll's report is thorough and comprehensible.  Dr O'Driscoll's
+    report ranges from the  general  to  the  particular.  As  regards  the
+    former, it contains the following notable passage:
+
+         ".... It is imperative to remember that all children need  shelter,
+         protection, nurturance, sense  of  belonging  and  support.   These
+         needs are regarded as basic; essentials  that  must  be  met  to  a
+         secure platform for developmental  attainment  and  positive  well-
+         being  ....  and  to  protect  against  a  plethora   of   negative
+         psychological, educational and social outcomes."
+
+
+    She opines that children  with  the  kind  of  history  which  RSM  has
+    experienced, with its ingredients of  pre-migration  trauma  and  post-
+    migration tragedy and other life events, are  "....   at  an  increased
+    risk of developing mental health difficulties".
+
+16. Dr O'Driscoll's assessment of RSM is that  he  is  "a  very  vulnerable
+    adolescent".  He satisfies the diagnostic criteria  for  post-traumatic
+    stress  disorder.   There  are   no   indications   of   invention   or
+    exaggeration.  In his current circumstances no provision  is  made  for
+    his emotional and social needs.  His life lacks stability and security.
+     Dr O'Driscoll expresses the following opinion:
+
+         "The  continued  delay  in  resolving  RSM's  immigration  position
+         presents as  a  significant  perpetuating  factor  to  his  current
+         psychiatric disorder.  It also puts him at increased  risk  of  his
+         mental health  deteriorating  further.   Delays  in  resolving  his
+         immigration status will ensure that he will not  receive  the  care
+         and support that he needs as he navigates his  recent  bereavements
+         and endures his mental health symptoms ....
+
+
+         RSM's mental health will deteriorate further the longer he  remains
+         separated  from  his  family,  especially  when  he  moves  to  the
+         accommodation for minors. He needs to join his family in the UK  so
+         that he can begin to process the loss of his mother and brother and
+         establish a new sense of security and normality."
+
+
+17. Dr O'Driscoll  expresses  an  opinion  regarding  the  following  three
+    specific issues (the headings are ours):
+
+      i) RSM's move to children's accommodation:
+
+
+         "....  He will potentially be even more isolated and  receive  less
+         emotional support ....  [and] may be expected to care  for  himself
+         independently, which when one considers his current mental state is
+         beyond what any 13   year old should be expected to do."
+
+
+
+
+     ii) Recovery from his PTSD:
+
+
+         He is "...  at increased risk of his  mental  health  deteriorating
+         further ....  [and] Recovery from his current psychiatric disorders
+         is not possible until he has joined his family."
+
+
+
+
+    iii) Risk of Suicide:
+
+         "Further deteriorations in  his  mental  health  could  impair  his
+         already diminished daily  functioning  or  precipitate  a  suicidal
+         crisis."
+
+
+    The theme that the perpetuation of  RSM's  current  circumstances  will
+    have an adverse impact on his fragile mental health and will delay  his
+    recovery shines brightly in Dr O'Driscoll's report.
+
+18. A further dimension  has  materialised.  Dr  O'Driscoll  was  asked  to
+    comment  on  the  most  recent  of  the  second   Applicant's   witness
+    statements.  She suggests a possible "....  deterioration in his mental
+    health ...  accounted for by an increase in the intensity of  his  PTSD
+    symptoms ... an exacerbation of the negative impact of  the  trauma  on
+    his current  mental  health."   Elaborating,  Dr  O'Driscoll  describes
+    parental death as "one of the most traumatic events that can  occur  in
+    childhood, noting simultaneously the absence of bereavement,  emotional
+    and spiritual support for RSM."  Dr O'Driscoll  emphasises  (in  terms)
+    RSM with  access to psychiatric or psychological assessment and if  and
+    insofar as necessary, a range of treatments:  trauma-focuses  cognitive
+    behavioural therapy  and  narrative  exposure  therapy  in  particular,
+    delivered by a trained mental health  professional.   She  repeats  her
+    concern about the risk of further deterioration in RSM's mental health.
+
+19. The most recent evidence bearing on this discrete subject  is  provided
+    via the witness statements of ZAM and  SA,  digested  in  [11]  -  [13]
+    above.
+
+
+
+
+The Dublin Procedures In Italy
+
+20. The second main tranche of evidence assembled relates  to  the  systems
+    and procedures for the processing of Dublin Regulation claims in  Italy
+    and, more particularly, how these have  been  actually  functioning  in
+    RSM's specific case.  The evidence bearing on this  issue  has  evolved
+    and now includes a significant contribution on behalf of the  Secretary
+    of State (infra).
+
+21. It is convenient to reproduce here the core pleading on this  issue  in
+    the grounds of challenge:
+
+         "[RSM] wishes to claim asylum and is entirely willing  to  register
+         an asylum claim in Italy.  He has, however, been unable to do so to
+         date and all indicators are that there  is  likely  to  be  lengthy
+         further delay ....
+
+
+         Under Italian law, children are not legally competent  to  register
+         an asylum claim and are  unable  to  do  so  until  a  guardian  is
+         appointed.  However, due in particular to the unprecedented refugee
+         crisis, there are extremely lengthy delays in  the  appointment  of
+         guardians in Italy.  There are then two stages to  registering  the
+         claim, which are likely to take several weeks  or  more,  following
+         which a referral might be made to the Dublin III Unit  to  consider
+         making a take charge request to the responsible Member  State.   It
+         is unclear in practice how long the Dublin III  process  will  take
+         once an asylum claim is registered because there are no known cases
+         of  Dublin  III  transfers  of  unaccompanied  minors  to  the  UK.
+         However, indications are that at minimum, the maximum time frame of
+         11 months under Dublin III is likely to be required."
+
+    The sources of this evidence  include  the  Applicants'  solicitor,  Mr
+    Scott, together with several respected and well informed  international
+    organisations - UNCHR and  AIDA  in  particular  -  and  certain  major
+    charities: UNICEF, Save  the  Children  and  the  Refugee  Council.  Mr
+    Scott's sources are,  in  summary,  a  range  of  published  materials,
+    several reputable international organisations  and  certain  identified
+    Italian immigration lawyers.
+
+
+22. We take  the  example  of  UNCHR  (there  are  other  examples).   This
+    organization has described the Dublin Regulation process  in  Italy  as
+    "painfully  slow".   There  is  no  publicly  funded  legal  advice  or
+    assistance.  Italian law requires the appointment of a guardian in  the
+    case of every unaccompanied child.  This can generate delays of  up  to
+    eight months.  Furthermore, the guardians have no specific training  in
+    the asylum field. More fundamentally, the guardianship system in  Italy
+    is creaking under acute pressures in the prevailing refugee crisis  and
+    is widely held to be under funded.
+
+23. The evidence indicates that once the important milestone of  appointing
+    a guardian has been attained, the child's claim for asylum is  compiled
+    and registered.  As the present case illustrates, the gap between these
+    two events can be considerable.  This phase  can  occupy  time  periods
+    ranging from weeks to months.  The next phase consists  of  examination
+    of the asylum claim.  This triggers the three time limits prescribed by
+    the Dublin Regulation, namely any  take  charge  request  addressed  by
+    Italy to the United Kingdom must be transmitted  within  three  months;
+    the United Kingdom must respond thereto within two months or, where the
+    transmitting state so stipulates, one month; and the  acceptance  of  a
+    take charge request gives rise to a further period of  six  months  for
+    effecting transfer to the United Kingdom.
+
+24. At this juncture we record certain landmark dates and events:
+
+
+      i) RSM has been known to the Italian authorities since, at the latest,
+         29 April 2016 when he was assigned to a refugee camp in Rome.
+
+
+     ii) On 03 June 2016 the  tragic  death  of  RSM's  mother  and  younger
+         brother occurred.  Since then the sole aim of RSM and his relatives
+         has been to achieve  unification  with  ZAM  and  her  family,  all
+         lawfully resident in the United Kingdom.
+
+
+    iii) During the initial phase the Italian authorities evidently did  not
+         understand the real nature of the relationship between RSM and  his
+         father's adult cousin.  At  the  beginning  of  the  second  phase,
+         marked by the  aforementioned  tragedy,  there  was  a  failure  to
+         identify RSM as an unaccompanied, orphaned child seeking asylum and
+         striving for unification with his family in the United Kingdom.
+
+
+     iv) A letter dated 11 August 2016 written  by  the  Director  of  RSM's
+         refugee camp and addressed to the Applicants' solicitors (available
+         in Italian only) appears to have played a significant role  in  the
+         correct assessment of RSM and his transfer  to  a  State  home  for
+         children.
+
+
+      v) The first clear recognition by the  Italian  authorities  of  RSM's
+         status  of  unaccompanied  asylum  seeking  child  occurred  on  13
+         September 2016 (some five months after his arrival in the country).
+
+
+     vi) The appointment of a guardian for RSM (the Mayor of Rome)  occurred
+         on 21 October 2016.
+
+
+    vii) On 16 November 2016 RSM's  fingerprints  were  taken,  marking  the
+         first stage of the asylum process.
+
+
+   viii) Then the next stage of the asylum process, involving  an  interview
+         of RSM, was scheduled for 04 January 2017.  This step,  in  theory,
+         would have precipitated the formal  registration  of  RSM's  asylum
+         claim.
+
+
+
+
+  25. On the date when we promulgated our ex tempore judgment,  19  December
+      2016 (see Appendix 2), the state of the Applicants'  evidence  was  as
+      rehearsed above.  In the events which occurred, the Tribunal  remained
+      involved, pursuant to the invocation of liberty to apply on behalf  of
+      the Applicants  and  certain  further  ancillary  orders  ensued.   It
+      suffices to say that a "take charge" request in  respect  of  RSM  was
+      transmitted by the Italian authorities to the Secretary of State, this
+      request was accepted  and,  ultimately,  the  necessary  authorisation
+      order was given by the relevant Italian Court.  The net result  was  a
+      delay of two months between our decision and Order of 19 December 2016
+      and RSM's eventual admission to the  United  Kingdom  on  16  February
+      2017.  We observe only that there are question marks about the acts  -
+      and omissions - of the Secretary of State's officials throughout  this
+      period, including the bewildering  failure  to  send  this  Tribunal's
+      crucial order of 22 December 2016 to the Italian authorities.
+
+
+The Secretary of State's Evidence
+
+26. It is appropriate to preface  the  evidence  filed  on  behalf  of  the
+    Secretary of State with certain  Ministerial  statements  providing  an
+    insight into the United Kingdom Government's published policy  in  this
+    field.  These statements were made in the context of the advance of the
+    Immigration Bill through the two chambers  of  Parliament.   The  first
+    clear policy, statutory in nature,  finds  expression  in  what  became
+    known as the "Dubs Amendment", dating from 21 March 2016:
+
+
+         "Unaccompanied Refugee Children: Relocation and Support
+
+
+          1)     The Secretary of State must, as soon as possible after the
+             passing of this Act, make  arrangements  to  relocate  to  the
+             United  Kingdom  and  support  3,000   unaccompanied   refugee
+             children from other countries in Europe.
+
+
+          2)     The relocation of children under (1) shall be in  addition
+             to the resettlement of children under the  Vulnerable  Persons
+             Relocation Scheme."
+
+
+    This later became section 67 of the Immigration  Act  2016,  though  in
+    modified form, omitting reference to 3,000 children and  requiring  the
+    appropriate number to be determined by the Government after  consulting
+    with local authorities.
+
+
+27. On 21 April 2016 the Minister for Immigration gave a written  statement
+    to Parliament concerning what later became known  as  the  children  at
+    risk resettlement programme which described as the results of -
+
+         " .......... work with UNHCR and informed by  a  round  table  with
+         NGOs, local authorities and devolved administrations to  provide  a
+         resettlement route to the UK, specifically designed  for  'children
+         at risk' from the Middle East and North Africa region ......
+
+
+         This  broad  category  encompasses   unaccompanied   children   and
+         separated children - those  separated  from  their  parents  and/or
+         other family members - as well as other vulnerable children such as
+         child carers and those facing  the  risk  of  child  labour,  child
+         marriage or other forms of neglect, abuse or exploitation ....
+
+
+         We will commit to resettling several  hundred  individuals  in  the
+         first year with a view to resettling up to 3,000  individuals  over
+         the lifetime of this Parliament,  the  majority  of  whom  will  be
+         children."
+
+
+    That Statement also said as follows with regard to  Dublin  III  family
+    reunification:
+
+
+         "It is important to  use  the  tools  available  to  help  children
+         reunite  with  family  wherever  possible.   The   Government   are
+         committed to meeting our obligations under the  Dublin  regulation.
+         We have seconded additional resource to the European Asylum Support
+         Office totally over 1,000 days  of  expert  support  to  Italy  and
+         Greece to implement and streamline the Dublin process, including to
+         quickly identify children who qualify for family reunion.   And  we
+         continue to  work  with  the  French  authorities  to  address  the
+         situation  in  Calais,  including  through  a  permanent  bilateral
+         standing committee to  improve  cooperation  on  Dublin  transfers,
+         particularly family reunion.
+         ....
+
+
+         The recent secondment of a  senior  asylum  expert  to  the  French
+         Interior Ministry to improve  the  process  for  family  cases  has
+         already resulted  in  a  significant  increase  in  the  number  of
+         children being reunited with family in the  UK.  In  the  last  six
+         weeks 24 cases have been accepted  for  transfer  to  the  UK  from
+         France under family unity provisions, more than half of  whom  have
+         already arrived in the UK. Once an asylum claim has been lodged  in
+         another member state we have demonstrated that transfers  can  take
+         place within weeks."
+
+
+
+
+    In the Parliamentary debate which followed on 10 May 2016, the Minister
+    said the following in answer to a question regarding the implementation
+    of the Dubs amendment:
+
+
+         "Clearly, there is a renewed focus given our acceptance of the Dubs
+         amendment to the Immigration Bill.  I absolutely want to  use  that
+         as a means of speeding up and making more effective the  processing
+         of those with links to family in the UK.  Vulnerable  children  can
+         then be reunited with their extended family in the UK, which is  in
+         their best interests, and will no longer  be  isolated  in  France,
+         Italy or Greece."
+
+
+
+
+    The Minister continued:
+
+
+         "As I have said, we want to make rapid progress.   We  are  already
+         taking children with family connections to the United Kingdom  from
+         France and we want to find ways of improving the process further so
+         that, when cases are identified, we can take charge and ensure that
+         those children come  to  the  UK  quickly.   There  are  vulnerable
+         children in Italy and Greece, which is precisely why we are opening
+         a dialogue with those  countries.   We  want  to  understand  their
+         systems properly and join up with them effectively so that  we  can
+         identify such children and act to  enable  them  to  come  to  this
+         country."
+
+
+
+
+28. Government policy is also ascertainable from one of  its  publications,
+    entitled "Immigration Act  2016  Fact  sheet  -  Unaccompanied  Refugee
+    Children (Section 67)", dated July 2016.  This contains inter  alia,  a
+    series of "Key Questions and Answers", including the following:
+
+
+         "How will this work with the Dublin Regulation? .......
+
+
+         The Government will continue to work with other  Member  States  to
+         ensure that the Dublin Regulations,  including  the  provisions  on
+         family unity, can work quickly and effectively.  Over  30  children
+         were accepted for transfer under Dublin from France between January
+         and April this  year  and  there  are  many  more  cases  in  train
+         following  intensification  of  co-operation  between  the  UK  and
+         France, which  included  the  secondment  to  the  France  Interior
+         Ministry of a senior UK expert.  We had a secondee  in  the  Dublin
+         Unit in Italy and are about to send another to the Dublin  Unit  in
+         Greece .....
+
+
+         We expect the Dublin Regulation will provide  the  legal  framework
+         for the transfer from other European Countries of many of the cases
+         that fall under the Act.  Our aim is to  use  whatever  tools  work
+         best for the countries and partners concerned and give us the  best
+         chance of transferring children quickly."
+
+
+    [Our emphasis]
+
+
+    To similar effect is the statement made by the Minister  of  State  for
+    the Home Office in Parliament on 31 October 2016:
+
+
+         "More widely in Europe, we  are  in  active  discussions  with  the
+         UNHCR, other  partner  organisations  and  the  Italian  and  Greek
+         Governments to strengthen and speed up mechanisms to  identify  and
+         assess unaccompanied refugee children and transfer them to  the  UK
+         where that is in their best interests ..... I believe we should  be
+         acting in the best interests of the child and for  that  reason  we
+         are focusing on prioritising family reunion cases."
+
+
+         [Our emphasis.]
+
+
+
+
+    We consider  that  the  witness  statements  filed  on  behalf  of  the
+    Secretary of State fall to be evaluated  by  reference  to  the  policy
+    framework ascertainable from the above quotations.
+
+
+
+
+29. Carl Dangerfield is the author of one of the witness  statements  filed
+    on behalf of the Secretary of State.  He describes himself as the  UKVI
+    Immigration Liaison Officer in Italy, where he has  worked  within  the
+    Italian  Interior  Ministry  since  March  2008.   His  duties  include
+    "enhancing" the effective implementation of the Dublin  Regulation  and
+    promoting "best practice on  asylum  and  immigration".   Recently  his
+    duties  have  focused  particularly  on  asylum  seeking  unaccompanied
+    children.
+
+30. Stimulated by an electronic communication from  a  colleague  dated  27
+    September 2016, Mr Dangerfield, on 10 October 2016, first became  aware
+    of RSM's case and immediately discussed it with an Italian case worker.
+     Enquiries established that RSM had been transferred from the reception
+    centre to a  children's  home  and  an  identified  social  worker  was
+    awaiting judicial authority to  represent  RSM  in  lodging  an  asylum
+    claim.  Mr Dangerfield's subsequent understanding was that the  Italian
+    Dublin Unit was "organising an eventual fast track process" in  respect
+    of RSM.  Some 6 weeks later, on 23 November  2016,  the  social  worker
+    confirmed  to  Mr  Dangerfield  that  she  had  attended  the  "Italian
+    Immigration Office" and had been allocated a formal interview  date  of
+    04 January 2017 for "the next stage of the process".  The following day
+    Mr Dangerfield enquired of the Head of the Italian Dublin Unit  whether
+    the  processing  of  RSM's  asylum  claim  could   be   "speeded   up".
+    Chronologically, Mr Dangerfield's evidential contribution ends at  this
+    point.  His witness statement was made just under one month later.
+
+31. From Mr Dangerfield's witness statement,  one  distils  an  unequivocal
+    acknowledgment of delay in the Italian system in  RSM's  case.   In  an
+    exhibited email, dated 14 October 2016, Mr Dangerfield stated:
+
+
+         "The delay with the case has been with the initial confusion that
+         the minor was accompanied and then the adult stated that the child
+         was unaccompanied."
+
+
+    As the other evidence  summarised  above  demonstrates,  this  discrete
+    period of delay  was  approximately  four  months'  duration.  Judicial
+    intervention, via these proceedings, ultimately  occurred  at  a  stage
+    when RSM had been in Italy for some eight  months.   During  the  first
+    half of this period, his case made no progress whatsoever  through  the
+    Italian system.  We deduce from Mr Dangerfield's clear  statement  that
+    but for the erroneous classification of RSM by the Italian authorities,
+    his case would have begun progressing some four months previously.
+
+
+
+32. This discrete context possesses the following main ingredients:
+
+
+      a) By their first letter to the  Home  Office,  dated  26th  September
+         2016, the Applicant's solicitors provided  a  detailed  outline  of
+         RSM's case, advanced the contention that the United Kingdom  had  a
+         duty to admit RSM under Article 8 ECHR and continued:
+
+
+             "For the avoidance of any doubt our client RSM seeks to  claim
+             asylum and have this claim determined in the UK and the UK has
+             the  power  under  Article  17   of   Dublin   III   to   take
+             responsibility for this case.  We would submit that this power
+             should be exercised now ...."
+
+
+
+
+      b) This was followed by a formal pre-action  protocol  letter  to  the
+         Home Office dated 10  October  2016,  which  attached  the  earlier
+         letter.  It stated in particular:
+
+
+             "By this letter we are asking you for the second time to  take
+             the  necessary  steps  to  facilitate  his  entry  to  the  UK
+             immediately using your discretionary powers to grant leave  to
+             enter and/or pursuant to Article 17 of Dublin III."
+
+
+
+
+      c) The Home Office made no response to either letter.
+
+
+      d) Next, on 02 November 2016, these proceedings were  initiated.   The
+         Claim Form sought the twofold relief of:
+
+
+          i)     A declaration that the Respondent's  refusal  to  consider
+             and to exercise her discretion under Article 17 Dublin III  or
+             otherwise admit [RSM] to the UK is unlawful and
+
+
+         ii)     a mandatory order requiring the Respondent to admit RSM to
+             the United Kingdom forthwith.
+
+
+
+
+      e) On 22 November 2016 the Secretary of  State's  Summary  Grounds  of
+         Defence  were  served  and  filed.   This  does  not  so  much   as
+         acknowledge, much less  respond  to,  the  Applicants'  case  under
+         Article 17 of the Dublin Regulation.
+
+
+
+
+33. This Tribunal was alert to the series of omissions  outlined  above  at
+    the stage of determining the permission  application.   Permission  was
+    granted following an inter - partes hearing on 05  December  2016.   In
+    our decision/order and directions of  the  same  date,  this  Tribunal,
+    inter alia,  explained  its  preference  for  severing  the  permission
+    hearing from the substantive hearing, stating at [9]:
+
+
+         "...  We are not satisfied that the Respondent's  duty  of  candour
+         has been discharged at this stage."
+
+
+    It continued, at [14]:
+
+
+         "(a)     We direct  the  Secretary  of  State  to  file  a  witness
+             statement.  This will be  made  by  a  suitably  informed  and
+             senior official of the Home Office.  It will  address  all  of
+             the issues bearing on the Dublin Regulation process for  [RSM]
+             and, insofar as material, more widely.  It will  also  address
+             the emails and the rather bare recent letter ....
+
+
+         (b)      The witness statement will  further  be  directed  to  the
+             question of the second Applicant: broadly,  the  Secretary  of
+             State's  position  vis-�-vis  the  second  Applicant  and   in
+             particular any steps or enquiries  which  should  properly  be
+             made  on  that  front  at  this  stage  or  any  justification
+             proffered for inertia in this respect ....
+
+
+         (c)       The  witness  statement  will  attach   all   documentary
+             materials which are required in the discharge of the Secretary
+             of State's duty of candour."
+
+
+    In the final paragraph of its decision/order, this Tribunal stated,  at
+    [16]:
+
+
+         "Finally, the absence of any reference to Article 17 of the  Dublin
+         Regulation in the Respondent's case is noted."
+
+
+
+
+34. At this juncture, we  revisit  Ms  Farman's  first  witness  statement.
+    Addressing the issue of the Secretary  of  State's  "discretion"  under
+    Article 17, she states:
+
+
+         "I should point out that other Member States will make take  charge
+         requests to the UK under Article 17  as  well  as  Article  8.   In
+         general   the SSHD would only exercise her discretion under Article
+         17 in a case where an individual had some family links  to  the  UK
+         but where he or she fell outside of  Article  8.   If  Home  Office
+         officials received evidence that there  was  a  close  relationship
+         between the unaccompanied minor and the family  member  in  the  UK
+         which,  although  not  falling  within  Article  8  of  the  Dublin
+         [Regulation] was akin to such a relationship, the SSHD would likely
+         consider using Article 17 to bring the minor to the United  Kingdom
+         ....
+
+
+         I should also explain that with regard to transfers  under  Article
+         17 although they are within the SSHD's discretion,  this  does  not
+         mean that she simply will notify the Member State where  the  minor
+         is that the UK will process the minor's asylum claim and  that  the
+         Home Office will arrange  transportation.   Home  Office  officials
+         would instead enter into a dialogue with the  authorities  of  that
+         Member State given they have custody of the child.  It  would  also
+         be  for  the  transferring  Member  State  to   make   the   travel
+         arrangements for a transfer under Article 17 whether or not a  take
+         charge request had been made under the Article ...
+
+
+         It is difficult without a lengthy  exercise  to  establish  exactly
+         when the SSHD has exercised her discretion to accept a take  charge
+         request under Article 17 as the data is not  easy  to  interrogate.
+         For  example,  a  request  under  Article  8(1)  might  become   an
+         acceptance under Article 17(1).  In the time  available,  the  SSHD
+         has not been able to carry out this process ...
+
+
+         My understanding is that as RSM was being processed under Article 8
+         of the Dublin III Regulation, the SSHD has focused her attention on
+         encouraging the Italians to work through this process  rather  than
+         seeking to try to bring RSM to the United Kingdom  through  Article
+         17.  To have two parallel routes of proceeding would have  confused
+         matters and as per the above, would not have resulted in RSM coming
+         to the United Kingdom any more quickly ....
+
+
+         I would also say more  generally  that  all  Member  States  across
+         Europe understand how the Dublin III Regulation works and what they
+         are required to do when transferring children.  If the SSHD were on
+         a more frequent basis to seek  to  try  and  unilaterally  rely  on
+         Article 17 to transfer children to the UK, especially if they  were
+         already within the auspices of Article 8, in  my  view  this  would
+         cause confusion and take away the true  integrity  and  purpose  of
+         Article 8 family reunification."
+
+
+         [Emphasis added.]
+
+
+
+
+35. The further issue addressed in Ms Farman's  witness  statement  is  the
+    Secretary of State's approach to issues of expedition.  She avers:
+
+
+         "...  The Dublin III  process  works  across  Europe  so  that  the
+         transferring Member State makes the  arrangements.   While  we  can
+         encourage the transferring Member State  to  expedite  matters,  we
+         cannot compel them to do so in respect of particular cases as  this
+         is purely a matter for them ....
+
+
+         It would be inappropriate for the SSHD to seek to interfere in that
+         process as (i) she would be interfering in the sovereign affairs of
+         another Member State and (ii) she is not aware of all the  relevant
+         factors which will have led a particular Member State  to  organise
+         matters in the way that it has."
+
+    With specific reference to RSM's case, Ms Farman avers:
+
+         "The SSHD has sought to expedite RSM's case as  appropriate  taking
+         into account the factors above."
+
+
+    In this context, Ms Farman attaches two letters from the Home Office to
+    the relevant Italian authorities, dated 21  November  and  09  December
+    2016 respectively.  Each of these letters merely  states  that  in  the
+    event of a "take charge" request materialising, this will be considered
+    with expedition in the United  Kingdom.   Neither  letter  requests  or
+    advocates expedition on the part of the Italian authorities.  We  shall
+    revisit this issue infra.
+
+
+    The Dublin Regulation Challenge
+
+
+36. It is convenient to  consider  the  Applicant's  Article  17  challenge
+    first.  As already noted, this limb of the Applicant's challenge  seeks
+    the following relief:
+
+
+         "A declaration that the Respondent's refusal  to  consider  and  to
+         exercise her discretion under Article 17 of Dublin III or otherwise
+         admit [RSM] to the United Kingdom is unlawful."
+
+
+    In the supporting grounds, this is developed by the contention that the
+    Secretary of State has erred in law in failing to consider the exercise
+    of her discretion under Article 17.
+
+
+
+
+37. During recent years, substantial quantities of judicial ink  have  been
+    spilled in addressing the aims, rationale and structures of the  Dublin
+    Regulation in its successive incarnations.  It is unnecessary to add to
+    any of this for present purposes.  Rather, bearing in mind the  present
+    litigation context, it suffices to draw attention to its most important
+    provisions.  We have assembled these in Appendix 3 hereto.
+
+38. The Secretary of State's resistance to the Article 17 relief pursued by
+    the Applicants is predicated firmly on the basis that a decision  under
+    Article 17 has been made in RSM's case.  This decision, it  is  argued,
+    takes the form of a refusal to exercise discretion.  The second element
+    of the Secretary of State's case in this respect is that  this  refusal
+    is lawful.
+
+39. Our conclusion on the first of these issues  is  easily  made.   It  is
+    abundantly clear that prior to the initiation of these proceedings  and
+    pace the pre-action letters written by the Applicant's  solicitors,  no
+    consideration  was  given  to  exercising  the  Secretary  of   State's
+    discretion under Article 17.  This finding is based  on  the  evidence.
+    There is no evidence, direct  or  inferential,  upon  which  any  other
+    finding can reasonably be made.  The second phase to be  considered  in
+    this  context  is  that  which  elapsed  between  the  commencement  of
+    proceedings and the permission  hearing.   Once  again,  based  on  the
+    evidence, there is no dispute that no  Article  17  decision  was  made
+    during this period.  Ultimately, the witness  statement  of  Ms  Farman
+    provided the territory upon which this particular issue was  contested.
+    Mr Ruck-Keene submitted that the Tribunal should construe  Ms  Farman's
+    first statement to the effect that a decision under Article 17 has been
+    impliedly made.
+
+40. We are bound to reject this submission, earnestly though it  was  made.
+    We have reproduced in [35]-[36] above the key passages in  Ms  Farman's
+    main statement.  We are quite unable to construe these  in  the  manner
+    advocated.  We have taken particular note of the  language  and  tenses
+    employed and the synthesis.  We are also alert to the context in  which
+    Ms Farman's witness statement was generated: see [31 - [34] above.  The
+    Secretary of State, via Ms Farman, was gifted a gilt-edged  opportunity
+    to demonstrate in evidence that consideration had in fact been given to
+    exercising the discretion conferred by Article 17.  The evidence  which
+    materialised in consequence falls manifestly short of showing this.  Ms
+    Farman's averments are couched in the most general and  abstract  terms
+    imaginable.  Furthermore, and in any event,  from  the  perspective  of
+    reliability  her  statement  suffers   from   multiple   unsatisfactory
+    references to her  "understanding"  of  various  matters.   Insofar  as
+    certain averments are based on "the documents and records available  to
+    me" (witness  statement,  paragraph  3),  the  materials  attached  are
+    extremely limited and, as regards this issue, irrelevant.  Ms  Farman's
+    evidence suffers from the further infirmity that it was  necessary  for
+    her to make a second witness statement in  order  to  correct  material
+    inaccuracies in the first.
+
+41. It follows inexorably from our analysis above, that the first  limb  of
+    the Applicants' challenge succeeds.  We would add the following,  given
+    the comparative novelty of Article 17 challenges and the quality of the
+    arguments advanced and the clear impression created in the evidence and
+    via counsel's submissions that the Secretary of State views Article  17
+    of the Dublin Regulation through an inappropriately narrow lens.
+
+42. One of the keys to the correct understanding and application of Article
+    17 is that it forms an integral part of the  machinery  established  by
+    the Dublin Regulation.  Accordingly, it is to be understood and applied
+    in a manner which furthers the aims and objectives of  this  instrument
+    of EU legislation. Article 17 in no  way  corrupts  or  undermines  the
+    Dublin Regulation machinery: quite  the  opposite.   The  Secretary  of
+    State evidently considers that the Article 17 discretion  falls  to  be
+    exercised only where the family  reunification  criteria  enshrined  in
+    Article 8 are not satisfied: see [35] above.  This approach is, in  our
+    view, misconceived.  This argument was founded  on  Recitals  (17)  and
+    (18)  [Appendix 3]. However, it overlooks the key words "in particular"
+    in  Recital  (17).   Furthermore,  it  neglects  the  breadth  of   the
+    discretion conferred by the language of  Article  17(1).   It  is  also
+    incompatible with the "in particular" qualification in  Article  17(2).
+    We are further satisfied that the broader construction which we  favour
+    is compatible with the principles of solidarity and  mutual  trust  and
+    respect enshrined in Recital (22) and Article 12  of  the  implementing
+    Regulation.
+
+43. We consider in particular that Article 17 has a role  in  circumstances
+    where one of the overarching values of the  Dublin  Regulation,  namely
+    expedition, is not being fulfilled in the procedures and systems of the
+    host Member State in any given case.  The  present  case,  imbued  with
+    powerful  humanitarian  elements  and  significant  delays  in   Italy,
+    provides a concrete illustration of the potential operation of  Article
+    17.  Beyond this we do not venture since this is not a case in which  a
+    negative decision under Article 17 is subject to the supervisory review
+    of this Tribunal.
+
+44. We also draw attention to the guidance provided by the Court of  Appeal
+    in Secretary of State for the Home Department v ZAT and  Others  [2016]
+    EWCA Civ 810.  While Article 17 did not feature  in  the  challenge  at
+    first instance - see [2016] UKUT 61 (IAC) it  surfaced  at  the  appeal
+    stage in consequence of certain arguments  devised  on  behalf  of  the
+    Secretary of State.  At [85] the court stated:
+
+            "A further reason for rejecting Mr Eadie's  submission  in  its
+           absolutist form is Article 17  of  the  Dublin  III  Regulation.
+           Since the relevant officials in the  second  Member  State  have
+           power to assume responsibility in a case in which the Regulation
+           assigns it to another Member State, it cannot be said that it is
+           never open to an individual to request that state  to  do  that.
+           Mr Eadie suggested, or came  close  to  suggesting,  during  the
+           course of the hearing that a refusal to exercise the power under
+           Article 17 was  not  justiciable.   That,  in  my  judgment,  is
+           unsound  in  principle  and  also  finds  no  support   in   the
+           authorities.  Abdullahi v Bundesasylamt recognised only that the
+           second Member State has a wide margin of discretion in  deciding
+           whether to assume responsibility pursuant to  the  provision  in
+           the Dublin II Regulation that is the equivalent of  Article  17.
+           In a context in which the exercise of power relates to relations
+           between two Member States  as  to  the  operation  of  a  treaty
+           arranging for the allocation  of  responsibility  for  examining
+           applications for asylum between Member States, this  is  clearly
+           correct."
+
+      The court  then  helpfully  illuminated  the  contours  and  scope  of
+      judicial review challenge in this context:
+
+            "There will be a wide range of relevant considerations for  the
+           decision-maker to take into account: see all  the  factors  that
+           the Upper Tribunal stated were relevant  to  the  assessment  of
+           proportionality.  But subject to the effective scope of judicial
+           review being narrower for  this  reason,  the  exercise  by  the
+           Secretary of State of her discretion is subject to the  ordinary
+           public law principles of  propriety  of  purpose,  relevancy  of
+           considerations, and  the  longstop  Wednesbury  unreasonableness
+           category and, because of the engagement of ECHR Article  8,  the
+           intensity of review which is appropriate in  the  assessment  of
+           the proportionality of any interference with Article 8 rights."
+
+45. The reference to "all the factors that the Upper Tribunal  stated  were
+    relevant to  the  assessment  of  proportionality"  is  illuminated  by
+    reference to [37] of the court's judgment:
+
+            "The factors which were said to tip the balance  in  favour  of
+           all or some of the first four Applicants were summarised at [55]
+           as:- age; mental disability;  accrued  psychological  damage;  a
+           clear  likelihood   of   further   psychological   turmoil   and
+           disturbance, a best case scenario involving a  delay  of  almost
+           one year; the previous family life in their  country  of  origin
+           enjoyed by all seven Applicants; the pressing  and  urgent  need
+           for family reunification on the  very  special  facts  of  these
+           cases; the wholly inadequate substitute for family reunification
+           which pursuit of the Dublin Regulation avenue  would  entail  in
+           the short to medium term; the absence of any parent or  parental
+           figure in the lives of the first four Applicants; the  potential
+           that family life would be re-established  very  quickly  if  the
+           first  four  Applicants  were  permitted  to  enter  the  United
+           Kingdom; the availability, willingness and capacity of the  last
+           three Applicants to provide meaningful care and support  to  the
+           first four; and  the  avoidance  of  the  mentally  painful  and
+           debilitating fear, anxiety and uncertainty which the first  four
+           Applicants will, predictably,  suffer  if  swift  entry  to  the
+           United Kingdom cannot be achieved."
+
+      We would add, by way of almost otiose guidance, that every  case  will
+    of course be intensely fact sensitive.  However,  the  significance  of
+    these passages is that all of the factors identified by  this  Tribunal
+    are, in principle, capable  of  being  legitimate  ingredients  in  the
+    proportionality balancing exercise and, independently, are  capable  of
+    having the status of obligatory considerations to be taken into account
+    in the Article 17 context.
+
+
+46. We consider that the Article 17 issue  has  one  further  dimension  of
+    significance.  In [26] - [28] above, we have focused  on  a  series  of
+    ministerial pronouncements which we consider  to  have  the  status  of
+    United Kingdom Government policy statements.  Every discretion  in  law
+    has, in principle, the potential to be exercised within a domain  which
+    includes  an  associated  policy  adopted  by  the   public   authority
+    concerned.  This, in our judgement, is precisely such  a  case.   While
+    the  ministerial  statements  are  couched  in  general  terms,   their
+    orientation is consistent and unmistakable.  Viewed through  the  prism
+    of orthodox  public  law  doctrine,  they  constitute,  as  a  minimum,
+    material  considerations  to  be  taken  into  account  where  relevant
+    discretionary powers fall  to  be  exercised.   On  this  limb  of  the
+    Applicant's case, the discretionary power in play is that contained  in
+    Article 17 of the Dublin Regulation.  All the evidence considered as  a
+    whole, it is clear that no consideration was at any time given  by  the
+    Secretary of State's officials to  the  relevant  published  Government
+    policies.  This is an obvious and free standing vitiating factor.
+
+47. In this context reference to the Lumba principle is  also  appropriate.
+    This was articulated by Lord Dyson in these  terms:
+
+
+           "... A decision maker must follow his published policy (and  not
+           some different unpublished policy) unless there are good reasons
+           for  not  doing  so.   The  principle  that   policy   must   be
+           consistently applied is not in doubt ..."
+
+
+      (Lumba v SSHD [2012] 1 AC 245, per Lord Dyson JSC at [26])
+
+
+
+    It is generally held that this  principle  has  its  roots  in  another
+    hallowed principle, namely the equal implementation of laws, in  tandem
+    with non-discrimination and the avoidance of arbitrariness.
+
+
+
+48. It is convenient at this juncture to  express  our  view  -  obiter  of
+    course - on the effect of a failure of this species in the context of a
+    human rights challenge.  In human rights cases, the  question  for  the
+    court or tribunal concerned is  whether  the  decision  of  the  public
+    authority under challenge infringes the  human  right  engaged.   Where
+    statutory appeals are concerned, the judicial authority must  confront,
+    and answer, this question.  However, where the challenge is pursued via
+    the medium of judicial review, as in this  case,  some  calibration  is
+    required.  All of this was addressed in extenso in the decision of this
+    Tribunal in R (SA) v Secretary of State for the Home Department  [2015]
+    UKUT 536 (IAC), at [17] - [30], considered in the  recent  decision  of
+    the Court of Appeal in R (Caroopen and Myrie) v Secretary of State  for
+    the Home Department [2016] EWCA Civ 1307.
+
+49. Bearing in mind that we did not receive full argument on this issue, we
+    confine ourselves to two propositions,  recognising  that  these  might
+    require reconsideration with the benefit of  more  extensive  argument.
+    The first is that Government policy statements may, in principle, sound
+    on the issue of legitimate aim.  The second is that a  failure  by  the
+    decision maker to  take  into  account  a  relevant  Government  policy
+    statement  may  illuminate  the  judicial  assessment  of  whether  the
+    impugned decision is a proportionate means of furthering the legitimate
+    aim in play.
+
+
+
+
+The Article 8 ECHR Challenge
+
+50. The test to be applied to this limb (the  second)  of  the  Applicant's
+    challenge requires consideration of the decision of the Court of Appeal
+    in ZAT.  At [95] the court stated:
+
+           "I consider that applications such as the  ones  made  by  these
+           respondents  should   only   be   made   in   very   exceptional
+           circumstances where they can show that the system of the  Member
+           State that they do not wish to use,  in  this  case  the  French
+           system, is not capable of responding adequately to their  needs.
+           It will, in my judgment, generally be necessary  for  minors  to
+           institute the process in the country in which they are in  order
+           to find out and be able to show that the  system  there  is  not
+           working in their case.  This is subject to the point that, as  I
+           have stated, these cases  are  intensely  fact-specific.   There
+           will be cases of such urgency or of  such  a  compelling  nature
+           because of the situation of the unaccompanied minor that it  can
+           clearly be shown that the Dublin system  in  the  other  country
+           does not work fast enough.  The case of  the  Syrian  baby  left
+           behind in France when the door of  a  lorry  bound  for  England
+           closed after his mother got onto the lorry  referred  to  in  Mr
+           Scott's fourth statement is an example.  But save in such cases,
+           I consider that those representing persons in  the  position  of
+           the respondents should first seek recourse from the  authorities
+           and the courts of the Member State in which the minor is.   Only
+           after it is demonstrated that  there  is  no  effective  way  of
+           proceeding in that jurisdiction  should  they  to  turn  to  the
+           authorities and the courts in the United Kingdom."
+
+
+    The first part of this guidance is properly understood  only  when  one
+    recognises that none of  the  claimants  in  ZAT  had  made  an  asylum
+    application under the Dublin Regulation.  Those in this  position  must
+    demonstrate "very exceptional circumstances" in order to succeed in  an
+    Article 8 claim brought in this jurisdiction.
+
+
+51. That is not this case since RSM has engaged  with  the  Italian  Dublin
+    Regulation system and has continued to do so up to the  point  of  this
+    Tribunal's intervention.  We consider  it  clear  from  the  final  two
+    sentences of [95] that the Court of Appeal  made  a  clear  distinction
+    between engaging and  non-engaging  immigrants.   RSM  belongs  to  the
+    former category.  In his case, therefore, the main  question  for  this
+    Tribunal is whether it is demonstrated that there is no  effective  way
+    of proceeding in Italy.
+
+52. We have emphasised the word  "effective"  for  the  following  reasons.
+    First, the judicial assessment of  efficacy  will  invariably  be  fact
+    sensitive, intensely so.  Second, efficacy must be measured against the
+    overarching aims and objectives of the Dublin Regulation.  Third, these
+    aims include the maintenance of solidarity and mutual trust and respect
+    among the Member States of the Union.  Fourth, crucially in the present
+    context, the aims and objectives also include the  overarching  aim  of
+    expedition.  Fifth,  expedition  has  special  force  in  the  case  of
+    unaccompanied children in general - in this particular case  expedition
+    is especially acute.
+
+53. We consider it uncontroversial to suggest that RSM's  case  was  crying
+    out for anxious attention and enquiry and maximum expedition  from  the
+    beginning of June 2016, when  the  tragic  deaths  of  his  mother  and
+    younger  brother  became  known  to  all  concerned.   His  erroneously
+    assessed status during the previous two months (the first phase) may be
+    understandable: but this merely served to augment the overall period of
+    inaction and delay.  We recognise that this  Tribunal's  assessment  of
+    the period of almost seven months which have elapsed subsequently  (the
+    second phase) must be cautious, given that there is limited evidence of
+    the reasons why it has taken so  long  to  achieve  so  little  in  the
+    Italian system and, furthermore, the evidence of relevant Italian  laws
+    and procedures is not comprehensive. Caution is also  dictated  by  the
+    notorious fact that Italy is one of two EU Member States (Greece  being
+    the other) which have borne the brunt of the refugee crisis in  Europe.
+    Furthermore,  it  is  no  function  of  this  Tribunal  to  conduct  an
+    exhaustive review of the acts and omissions  of  the  relevant  Italian
+    authorities, including the judicial agencies.
+
+54. Thus we confine ourselves to certain  basic  and  clearly  demonstrated
+    facts.  We consider it appropriate to juxtapose early June 2016 with  a
+    future date (as of the date of the substantive hearing  -  19  December
+    2016) namely 04 January 2017.  In doing so we take into account all  of
+    the other landmark dates and events noted above.  This simple  exercise
+    exposes an unmistakable and glaring reality: RSM's claim for asylum has
+    not yet been registered in Italy and 04  January  2017  represents  the
+    earliest date when this event may occur.  This  is  particularly  clear
+    from Ms Farman's letter of 09 December 2016 to the Italian Dublin  Unit
+    in Rome.  It is equally clear that this crucial  milestone  would  have
+    been attained some months ago but for the erroneous assessment that RSM
+    was not an unaccompanied  child:  see  Mr  Dangerfield's  email  of  14
+    October 2016 to his colleague.  This Tribunal does not sit in judgement
+    of this error. Indeed it readily acknowledges the scope for human error
+    in these cases.  Rather, it takes this into account as one of the facts
+    and  factors,  objectively  demonstrated,  to   be   weighed   in   the
+    proportionality balancing exercise.
+
+55. Next, we turn our attention to the likely post-January  2017  scenario.
+    It is common case that, as a matter of probability, Italy will transmit
+    to the United Kingdom a "take charge" request in respect of  RSM.   The
+    crucial issue in this respect is timescale.  The  evidence  bearing  on
+    this  issue  provides  this  Tribunal  with  no  confidence  that   the
+    expedition required in this particular, fact  sensitive  case  will  be
+    achieved. We elaborate   as follows.
+
+56. First, there is no  evidence  whatsoever  emanating  from  the  Italian
+    authorities: we record this simply as a fact.  Second, the Secretary of
+    State's evidence is vague and non-committal in this respect: see [30] -
+    [36] above.  Third, the evidence of the three concrete cases  in  which
+    Italian "take charge" requests have been accepted by the United Kingdom
+    discloses post-request delays ranging from almost four months  to  just
+    under eight months.  We acknowledge that in two of these cases the take
+    charge request was communicated just  under  one  month  following  the
+    registration of the asylum claim.  In this respect, the data concerning
+    the third of the three concrete cases are not available.
+
+57. In the present case, we take into account that the United  Kingdom  has
+    made no plea to the Italian authorities for expedition in  RSM's  case.
+    We  weigh  also  the  absence  of  any  indication  that  the   Italian
+    authorities   will   proceed   with   any   enhanced   expedition    or
+    prioritisation.  Based on the evidence provided  by  the  Secretary  of
+    State (which we emphasise), while RSM is likely to be the subject of  a
+    "take charge" request directed to the United Kingdom, this, based on an
+    assumption  of  no  supervening  currently   unforeseen   obstacle   or
+    complication, is unlikely to materialise until  the  beginning  of  May
+    2017 (at best) and the beginning of September 2017 (at worst).  This is
+    our balanced forecast   of the probabilities based on all the available
+    evidence.
+
+58. We are mandated to  view  the  best  interests  of  RSM  as  a  primary
+    consideration under both municipal law, via  section  6  of  the  Human
+    Rights Act 1998 (Article 8 ECHR), together with EU law i.e. the  Dublin
+    Regulation.  In our judgement the best interests of  this  child  point
+    unremittingly and incontestably towards  immediate  reunification  with
+    the only family left to him.  This ranks as a primary consideration  in
+    the task we are performing.  In El Ghatet v Switzerland [Application No
+    56971/10], the ECtHR stated recently, at [46]:
+
+
+
+           "The Court has further held that there  is  a  broad  consensus,
+           including in international law, in support of the idea  that  in
+           all decisions concerning children, their best interests must  be
+           paramount (see Neulinger and Shuruk v. Switzerland  [GC],  no.
+           41615/07, � 135, ECHR 2010; M.P.E.V. and Others v.  Switzerland,
+           no. 3910/13, � 52, 8 July 2014; see also Tarakhel v. Switzerland
+           [GC], no. 29217/12, �  99,  ECHR  2014  (extracts)).   For  that
+           purpose, in cases regarding family reunification the Court  pays
+           particular attention to the circumstances of the minor  children
+           concerned,  especially  their  age,  their  situation  in  their
+           country of origin and the extent to which they are dependent  on
+           their parents (see Tuquabo-Tekle and Others, cited above, � 44).
+            While the best interests of the child cannot be a "trump  card"
+           which requires the admission of all children who would be better
+           off  living  in  a  Contracting   State   (I.A.A.   and   Others
+           v. the United Kingdom, cited above, � 46; see  also  Berisha,
+           cited above, �� 60-61), the domestic courts must place the  best
+           interests of the child at the heart of their considerations  and
+           attach crucial weight to it (see, mutatis  mutandis,  Mandet  v.
+           France, no. 30955/12, �� 56-57, 14 January 2016)."
+
+
+
+    Ultimately, our assessment of  RSM's  best  interests  emerges  as  the
+    determinative factor in the proportionality balancing exercise.
+
+
+
+
+59. We juxtapose the pronouncement in El Ghatet  with  what  the  Court  of
+    Appeal stated, in ZAT at [84]:
+
+           "The  need  for  expedition  in  cases  involving   particularly
+           vulnerable persons such as unaccompanied children is  recognised
+           in the Regulation and authorities such as Case  C-648/11  R  (MA
+           (Eritrea)) v Secretary of State for the Home Department [2013] 1
+           WLR 2961 and Manchester City Council v Pinnock [2010]  UKSC  45,
+           [2011] 2 AC 104 at [64].
+           ....
+           I  accept  Ms  Demetriou's  submission  that  the   urgency   of
+           particular circumstances may require a shorter period  than  the
+           periods specified as long stops in the Regulation."
+
+    The court added, at [87]:
+
+           "There will be a need for expedition  in  many  cases  involving
+           unaccompanied minors."
+
+
+    And at [90]:
+
+         "Cases such as these are intensely fact sensitive."
+
+
+    We do not overlook the  imperatives  which  the  court  identified  and
+    balanced in [87]:
+
+           "The  circumstances  of  the  first  four  Respondents'   cases,
+           especially the psychiatric evidence, suggested  in  their  cases
+           there was a particular need for urgency.  But an orderly process
+           is also important in cases of unaccompanied minors.  The need to
+           examine their identity, age and  claimed  relationships  remains
+           and  there  is  a  particular  need  to  guard  against   people
+           trafficking."
+
+
+      We observe that none of these imperatives operates to the detriment of
+      the relief pursued  by  the  Applicants  in  these  proceedings.   The
+      conduct of this litigation and, in particular, the facilities afforded
+      to the Secretary of State  to  address  certain  issues  and  to  file
+      evidence  between  the  permission  and   substantive   stages,   were
+      specifically designed to ensure that the Tribunal would be  adequately
+      informed about issues of this kind.  Furthermore, the order  which  we
+      propose to make accommodates any legitimate concerns about RSM's  best
+      interests and recognizes fully the roles and responsibilities  of  the
+      Italian authorities, judicial and otherwise.
+
+
+
+
+60. We pose again the  question  distilled  from  [95]  of  ZAT:  have  the
+    Applicants demonstrated that RSM's asylum claim which,  at  its  heart,
+    entails a plea to be transferred to the United Kingdom under Article  8
+    of the Dublin Regulation, is not being  efficaciously  processed?   The
+    formulation of  this  question  is  yet  another  illustration  of  the
+    intensely fact sensitive questions to be expected in litigation of this
+    genre.  The answer to this question  requires  a  balanced,  evaluative
+    judgement on the part of the judicial authority concerned.  Every  such
+    evaluative judgement  is  measurable  against  familiar  standards  and
+    criteria: the need to take into account all material facts and factors,
+    the importance of disregarding  the  immaterial  and,  ultimately,  the
+    avoidance of  irrationality.   A  constant  alertness  to  all  of  the
+    governing legal rules and principles which we have  outlined  above  is
+    also fundamental.  We have approached our task in this way.
+
+61. In our summarised, ex tempore decision promulgated on 19 December  2016
+    we addressed the Applicant's  challenge  by  reference  to  the  higher
+    standard of very compelling circumstances.  While, as explained  above,
+    we consider that a somewhat less  onerous  standard  applies  to  those
+    (such as RSM) who have engaged with the Dublin Regulation system of the
+    Member States concerned, this matters not as we  have  determined  this
+    challenge by reference to the higher test.  We stated at [8]:
+
+
+         "We are of the opinion that the Applicants'  challenges  are  well-
+         founded.  The ZAT threshold of  very  compelling  circumstances  is
+         overcome. Stated succinctly, RSM's personal circumstances,  on  any
+         showing, belong towards  the  upper  end  of  the  notional  highly
+         compelling spectrum and, based on the evidence  amassed  (which  we
+         emphasise), the Italian Dublin Regulation system has not served him
+         with the anxious attention, efficacy or expedition  for  which  his
+         unique, highly fact sensitive situation  has  been  pleading  since
+         April 2016 or June 2016 at latest.  Eight months later we  consider
+         judicial intervention appropriate."
+
+    Elaboration  is  neither  appropriate  nor  necessary.   This   passage
+    expresses our evaluative  judgement  on  the  efficacy  issue  in  this
+    intensely fact sensitive context.  It  follows  that,  in  this  unique
+    case, the second limb of RSM's challenge succeeds also.
+
+
+    Order
+
+62. Giving effect to our conclusions above we order as follows:
+
+        a) The Secretary of State is hereby  ordered  to  admit  the  first
+           Applicant, RSM, to the United Kingdom.
+
+        b) It is hereby declared that there  has  been  a  failure  by  the
+           Secretary of State to lawfully exercise the discretion conferred
+           by Article 17 of the Dublin Regulation.
+
+        c) There shall be liberty to apply.
+
+    As regards (a), we decline to impose any time limit  for  admission  as
+    this duly respects  the  roles  and  responsibilities  of  the  Italian
+    authorities and provides a layer of protection for RSM: see [60] above.
+     Furthermore, this species of orders has operated successfully in other
+    cases and the mechanism of liberty to apply, in (c), can be invoked  if
+    necessary.
+
+
+
+Permission to appeal to the Court of Appeal
+
+63. We are minded to grant permission to appeal to the Court of Appeal,  on
+    account of:
+
+        a) The desirability of the Court of Appeal pronouncing  on  whether
+           this Tribunal has erred in law in its approach to the case of  a
+           vulnerable unaccompanied child who has initiated and pursued the
+           Dublin Regulation process  in  the  host  Member  State,  having
+           regard to predictable further  legal  challenges  of  a  similar
+           kind. While the question of whether an error  of  law  has  been
+           committed in the application  of  established  principles  to  a
+           highly fact sensitive matrix is  unlikely  to  qualify  for  the
+           grant of permission to appeal in  many  instances,  we  consider
+           this course appropriate in the present case taking into  account
+           the changing profile of  this  species  of  litigation  and  its
+           progressive escalation.
+
+
+        b) The novelty and importance of the Article 17  Dublin  Regulation
+           issues: the essential question for the Court of Appeal  will  be
+           whether  this  Tribunal  has  erred  in  its  construction   and
+           application of Article 17.  Our consideration of and  conclusion
+           in relation to governmental policy  statements,  in  [47],  will
+           also fall to be considered as a discrete issue.
+
+
+  64. In essence, therefore, we grant permission in  respect  of  the  first
+      three of the Secretary of State's four grounds of appeal.   We  refuse
+      permission relating to the fourth, as it is based on the  demonstrably
+      misconceived premise that this Tribunal made "...  a  mandatory  order
+      requiring the Respondent's immediate admission to the UK  ....."  [our
+      emphasis].  Immediate admission was not ordered: see [62](a)  of  this
+      judgment and order.  Our reasons for  declining  to  impose  any  time
+      limit were explained fully  in  the  immediately  succeeding  passage.
+      The reconfigured species of mandatory order which followed  under  the
+      mechanism of liberty to apply - see  [68]  below  -  occurred  in  the
+      circumstances rehearsed in the transcripts of the ex  tempore  rulings
+      made on the dates noted, 24 January and  09  February  2017.   We  are
+      unable to  identify any arguable error of law of significance in  this
+      Tribunal's exercise of discretion in its selection of the  appropriate
+      public law remedy in the quite different and intensely fact  sensitive
+      circumstances pertaining some considerable time following the grant of
+      the  initial  remedy  -  in  a  context  in  which,  in   the   events
+      materialising, the  initial  remedy  did  not  provide  practical  and
+      effective relief to  the  first  Applicant,  RSM.  Contrast,  in  this
+      respect, R (O) v Secretary of State for  the  Home  Department  [2016]
+      UKSC 16, at [50] especially.
+
+
+  65. While we have taken note of the submissions on behalf of the Applicant
+      relating to the possibility of an appeal to the Supreme Court  in  ZAT
+      and Others providing authoritative guidance on the issues  arising  in
+      these proceedings,  we  cannot  overlook  the  significant  degree  of
+      uncertainty concerning the future of any appeal in that  case  arising
+      out of  the  imponderable  of  the  availability  of  public  funding.
+      Furthermore, the  Article  17  and  policy  issues  arising  in  these
+      proceedings are peculiar to  the  present  case.  Finally,  continuing
+      developments in this Chamber suggest that a not  insubstantial  number
+      of other cases will benefit from the Court  of  Appeal  reviewing  the
+      correctness in law of what we have decided.
+
+
+  66. We are, however, persuaded that there  is  merit  in  the  Applicants'
+      arguments relating to costs, in one respect and we grant permission to
+      appeal subject to the condition that the costs order specified in [67]
+      below will not be stayed.  While we take cognisance  of  the  separate
+      argument advocating a further condition whereby the Respondent  should
+      pay the Applicants' reasonable  costs  on  appeal  in  any  event,  we
+      consider that this is one step too far in  the  circumstances  and  is
+      premature in a context where it would be inappropriate to attempt  any
+      forecast  of  the  outcome  of  any  legal  aid  application  or   any
+      application to the Court of Appeal for a protective costs  order.  The
+      Court of Appeal will be the appropriate forum for the ventilation  and
+      determination of further costs issues of this kind.
+
+
+Costs
+
+67. We order:
+
+        i) the Secretary of State shall pay the Applicants'  costs,  to  be
+           assessed in default of agreement.
+
+
+       ii) the Applicants' costs shall be assessed as their publicly funded
+           status requires.
+
+
+Postscript
+
+68. On 20 January 2017 the mechanism of liberty to  apply  was  invoked  on
+    behalf of RSM as he had not been admitted to the United Kingdom.   This
+    resulted in further listings before the Tribunal on 24 January  and  09
+    February 2107 and delayed the promulgation of this final judgment.  See
+    [25] above.  This gave rise to further mandatory orders of the Tribunal
+    requiring the Secretary of State to admit RSM to the United Kingdom  by
+    a specified date and to equip him with a  travel  document  insofar  as
+    necessary. Ultimately, the Applicant's admission to the United  Kingdom
+    was effected on 16 February 2017. In  the  interests  of  economy,  the
+    "liberty to apply" orders are not appended.
+    .
+69. Finally, during the liberty  to  apply  phase,  the  Applicants'  legal
+    representatives invited the Secretary  of  State's  representatives  to
+    formally concede that the Tribunal's order of 19 December 2016 had been
+    breached.  We construe the Applicants' position to be one of pursuing a
+    further remedy, in the form of a declaratory order, to reflect this. We
+    shall treat this as a discrete, ancillary application.  The  concession
+    sought was not provided.
+
+
+70. It was implicit in our order dated 19 December 2016 that the  Secretary
+    of State should effect the admission of the first  Applicant,  RSM,  to
+    the United Kingdom within  a  reasonable  time.   The  Tribunal  would,
+    clearly, be the arbiter of reasonableness in the event of  an  asserted
+    breach.  During the "liberty to apply" phase, some further evidence was
+    lodged on behalf  of  the  Secretary  of  State.   As  the  Applicants'
+    representatives  acknowledge  in  their  application,   this   may   be
+    incomplete and further evidence may  be  required.   We  consider  that
+    directions for further evidence would indeed be necessary.  This  would
+    inevitably give rise to increased costs and may, ultimately, require  a
+    further hearing in order to determine the issue raised.
+
+
+71.  We  remind  ourselves  that  judicial  review  remedies   are   always
+    discretionary. As we have made clear in [64] above, remedies  in  cases
+    of this genre should provide practical and effective relief. This is  a
+    reflection of the factors of urgency and the plight  of  unaccompanied,
+    isolated and vulnerable teenagers which characterise  this  species  of
+    litigation. Weighing this with our assessment that  further  directions
+    giving rise to further costs  and  delay  would  in  our  judgement  be
+    necessary, we consider that the prolongation of this litigation for the
+    purpose of obtaining a declaratory order which,  in  this  highly  fact
+    sensitive context, would not provide a practical or efficacious  remedy
+    or guidance of utility in other cases is not justified.
+
+
+72. In thus concluding we have taken into account the principle articulated
+    by the House  of  Lords  in  R  v  Secretary  of  State  for  the  Home
+    Department, ex parte Salem [1999] 1AC  450, at  453  per Lord Slynn:
+
+
+         "My Lords, I accept, as both counsel agree, that in a  cause  where
+         there is an issue involving a public authority as to a question  of
+         public law your Lordships have a discretion  to  hear  the  appeal,
+         even if by the time the appeal reaches the House there is no longer
+         a lis to be decided which  will  directly  affect  the  rights  and
+         obligations of the parties inter se ...
+
+
+         The discretion to hear disputes, even in the  area  of  public  law
+         must, however, be exercised with  caution  and  appeals  which  are
+         academic between the parties should not be heard unless there is  a
+         good reason in the public interest for doing  so,  as  for  example
+         (but only by way of example) when a  discrete  point  of  statutory
+         construction arises which does not involve  detailed  consideration
+         of facts and where a large number of similar  cases  exist  or  are
+         anticipated so that the issue will most likely need to be  resolved
+         in the near future."
+
+
+
+
+    We have also had regard to the exercise of the judicial  discretion  in
+    the matter of public law remedies in the more recent  pronouncement  on
+    this subject at the highest level in O (supra).
+
+
+
+
+
+
+
+
+
+
+
+            Signed:
+
+
+                 THE HON. MR JUSTICE MCCLOSKEY
+                 PRESIDENT OF THE UPPER TRIBUNAL
+                 IMMIGRATION AND ASYLUM CHAMBER
+
+
+
+
+      Date: [initial]                   17 February 2017
+      Enlarged and finalised:                 31 March 2017
+
+
+
+Applicant's solicitors:
+Respondent's solicitors:
+Home Office Ref:
+Decision(s) sent to above parties on:
+----------------------------------------------------------------------------
+---------------------------------------------------------------
+ Notification of appeal rights
+
+A decision by the Upper Tribunal on an application for judicial review is  a
+decision that disposes of proceedings.
+
+ A party may appeal against such a decision to the  Court  of  Appeal  on  a
+question of law only. Any party who wishes to appeal  should  apply  to  the
+Upper Tribunal for permission, at the  hearing  at  which  the  decision  is
+given. If no application is made, the Tribunal must nonetheless consider  at
+the hearing whether to give or refuse permission to appeal (rule  44(4B)  of
+the Tribunal Procedure (Upper Tribunal) Rules 2008).
+
+If the Tribunal refuses permission, either in response to an application  or
+by virtue of rule 44(4B), then the party wishing to  appeal  can  apply  for
+permission from the Court of Appeal itself. This must be done by  filing  an
+appellant's notice with the Civil Appeals Office  of  the  Court  of  Appeal
+within 28 days of the date the Tribunal's decision on permission  to  appeal
+was given (Civil Procedure Rules Practice Direction 52D 3.3(2)).
+
+                                 APPENDIX 1
+
+
+
+
+
+                               Upper Tribunal
+                       Immigration and Asylum Chamber
+
+
+                       Judicial Review Decision Notice
+
+
+
+
+
+                 The Queen on the application of RSM and ZAM
+                                                                  Applicants
+                                      v
+
+
+                 Secretary of State for the Home Department
+                                                                  Respondent
+
+
+                                   Before
+
+               The Honourable Mr Justice McCloskey, President
+                       and Upper Tribunal Judge Finch
+
+
+Having considered  all  documents  lodged  and  having  heard  the  parties'
+respective representatives, Mr M Fordham QC and  Ms  M  Knorr,  of  counsel,
+instructed by Bhatt Murphy Solicitors, on behalf of the Applicants and Mr  A
+Henderson, of counsel, instructed by the  Government  Legal  Department,  on
+behalf of the Respondent,  at  a  hearing  at  Field  House,  London  on  05
+December 2016.
+
+
+
+                       DECISION AND ORDER
+
+            (Approved and edited version: given ex tempore on 05/12/16)
+
+McCloskey J
+
+Preface
+
+I emphasise at  the  outset  that  both  Applicants  continue  to  have  the
+protection of anonymity and reproduce below the extant  Tribunal  Direction.
+
+
+
+
+Direction  - Rule 14 of the Tribunal Procedure (Upper Tribunal) Rules 2008
+
+Unless and until a tribunal or court directs otherwise, the  Applicants  are
+granted anonymity.   No  report  of  these  proceedings  shall  directly  or
+indirectly identify them or any member  of  their  family.   This  direction
+applies both to the Applicants and to the  Respondent.   Failure  to  comply
+with this direction could lead to contempt of court proceedings.
+
+ 1) This is a case of some urgency in which the Upper Tribunal has  acceded
+    to the Applicants' request for expedition.  The proceedings  have  been
+    processed and managed accordingly.  We outline in (2) - (5) below their
+    skeletal framework.
+
+ 2) In very brief compass the  first  Applicant,  RSM,  is  a  national  of
+    Eritrea aged 14 years and is currently residing in  Rome,  having  fled
+    his country of origin and  subsequently  the  countries  of  Yemen  and
+    Egypt, accompanied by his mother and younger brother at all times.  RSM
+    was unexpectedly separated from his mother and younger brother  at  the
+    point of departure in Egypt.  From there he  travelled  with  a  family
+    relative to Rome where both lived together in  a  refugee  camp  for  a
+    period of some few months.  During that period  RSM  learned  that  his
+    mother and younger brother had tragically lost their lives,  with  many
+    others, when later attempting the perilous crossing between  Egypt  and
+    Italy.  That, very succinctly, sketches  the  first  chapter  of  RSM's
+    story.
+
+ 3) The second main element of RSM's judicial review challenge  relates  to
+    his living family members.  He has an adult aunt who, having previously
+    been recognised as a refugee in the United  Kingdom,  resides  in  this
+    country and is willing and able to receive and care for him.  This is a
+    fact uncontested and of no little significance.
+
+ 4) The third main element in RSM's case is the  evidence  provided  by  Dr
+    Claire O'Driscoll, a clinical psychologist whose expertise  extends  to
+    teenagers.  Dr O'Driscoll  has  provided  a  comprehensive  report  and
+    supplement.
+
+ 5) Fourth, there is tranche  of  evidence  relating  to  the  systems  and
+    procedures in Italy for the  processing  and  determination  of  asylum
+    claims under the Dublin Regulation generally, coupled with evidence  of
+    how these are functioning in RSM's case.
+
+ 6) At the outset of today's hearing  we  canvassed  tentatively  with  the
+    representatives certain possibilities and  options  for  the  continued
+    conduct of these proceedings.  As the exchanges which materialised will
+    have made clear, the  main  impetus  for  the  Tribunal's  inconclusive
+    observations at this initial stage was the state of  the  Secretary  of
+    State's case.   In  summary,  we  had  difficulty  in  identifying  the
+    evidence (if any) provided by the Secretary of State and  we  expressed
+    surprise at the absence of a witness statement in due discharge of  the
+    Secretary of State's duty of candour.
+
+ 7) The  candid  response  made  by  Mr  Henderson  to  the  questions  and
+    reservations raised by the Tribunal, supported by instructions provided
+    by  the  GLD  solicitor  in  attendance,   confirmed   the   Tribunal's
+    reservations in this respect.  Mr Henderson did not  seriously  contest
+    this discrete issue.  His  submissions,  in  this  context,  were  well
+    judged.
+
+ 8) One of the possibilities which the Tribunal canvassed  tentatively  was
+    that of adjourning today's hearing.  Having heard the  presentation  of
+    the Applicants' case by Mr Fordham who, as he  put  it,  presented  his
+    arguments in full de bene esse, with the Tribunal's approval and in the
+    course of further exchanges  between  Mr  Henderson  and  the  panel  a
+    surprising  development  eventuated,  namely  an  application   by   Mr
+    Henderson for an adjournment.  We rule  without  hesitation  that  this
+    application is ill timed and has no merit in any event.  This is a case
+    involving an unaccompanied 14 year old child whose plight  is,  on  any
+    showing, acute.  It which has been granted expedition by the  Tribunal.
+    That this adjournment application was not foreshadowed in  the  summary
+    grounds of defence or in a formal application or by letter or email  or
+    at the commencement of today's hearing in many ways speaks for  itself.
+
+
+
+ 9) That brings us to the next question.  Mr Fordham's stance is  that  the
+    Tribunal should deal with this case as a rolled up hearing and  proceed
+    to grant the Applicants final relief without more.  The  first  element
+    of this submission has some merit  not  least  because  the  Tribunal's
+    initial directions in this case did indeed list the hearing as a rolled
+    up one.   The  reasons  why  the  Tribunal  began  to  reflect  on  the
+    advisability and propriety of that course of action are the  following.
+    First, the speedy 'rolled up' course seems  to  us  to  have  met  with
+    disapproval in the judgment of the Court of Appeal in ZAT.  Second,  we
+    are not satisfied that  the  Respondent's  duty  of  candour  has  been
+    discharged at this stage.  Third, all of  the  evidence  points  to  an
+    indeterminate and interim state of affairs  in  the  first  Applicant's
+    case.  Fourth, it seems likely that the Applicants' evidence  could  be
+    updated and augmented in certain material respects.
+
+10) In particular, we are alive to the possibility  that  further  material
+    evidence on behalf of the Applicants could be  assembled  and  produced
+    within a very short timeframe.  For  example,  evidence  of  that  kind
+    could make considerably clearer the stage which the  asylum  claim  has
+    actually reached in Italy and what its short term prognosis  is.   Such
+    evidence might  also  provide  us  with  a  clearer  picture  of  RSM's
+    circumstances in what appears to be a state children's home and,  inter
+    alia, whether he is in fact being  educated  there.   Further  evidence
+    might also augment the evidential picture on the risk of absconding not
+    just in general terms but more specifically in his case.  Those are the
+    reasons why we identified certain options  at  the  outset  of  today's
+    proceedings.  The Applicants' preferred course  of  action  is  crystal
+    clear and we have given careful consideration to it.
+
+11) The further ingredient in our approach at this stage of the proceedings
+    arises from the  decision  of  the  Court  of  Appeal  in  ZAT  and  in
+    particular paragraph 95.  That should have been apparent, I trust, from
+    my reference to the evidence bearing upon  the  current  stage  of  the
+    Applicants' asylum claim and the short term prognosis.
+
+12) Following careful probing, we understand  Mr  Henderson's  position  on
+    behalf of the  Secretary  of  State  to  be,  first  of  all,  that  an
+    adjournment is sought and, second  or  alternatively,  that  permission
+    should be refused.  The basis of the latter submission is that based on
+    the summary grounds of defence the Applicants' case does  not  overcome
+    the threshold of arguability.  Mr Henderson has confirmed that any more
+    extensive submissions he may wish to make would be addressed not to the
+    question of arguability but rather  to  the  question  of  whether  the
+    Applicants qualify for the grant of final substantive relief.
+
+13) With some reluctance, we have come to the conclusion that we should not
+    proceed with a rolled up hearing in these circumstances but temper that
+    with  an  injection  of  the  maximum  expedition  which  we   consider
+    appropriate in these circumstances.
+
+    ORDER AND DIRECTIONS
+
+14) We grant the Applicants permission to apply for judicial review.  Their
+    case overcomes the modest threshold of arguability.  To this we add the
+    following directions:
+
+      a. We direct the Secretary of State to file a witness statement.  This
+         will be made by a suitably informed and senior official of the Home
+         Office.  It will address all of the issues bearing  on  the  Dublin
+         Regulation process for this Applicant  and,  insofar  as  material,
+         more widely.  It will address also the emails and the  rather  bare
+         recent letter.
+
+      b. The witness statement will further be directed to the  question  of
+         the second Applicant: broadly, the Secretary  of  State's  position
+         viz-a-viz the second Applicant  and  in  particular  any  steps  or
+         enquiries which should properly be made on that front at this stage
+         or any justification proffered for inertia in this respect.
+
+         We recognise that a witness statement of this kind may legitimately
+         contain hearsay evidence.  However, if it is made by a Home  Office
+         official of suitable seniority and direct involvement  that  should
+         be confined to a minimum.
+
+      c. The witness statement will attach all documentary  materials  which
+         are required in the discharge of the Secretary of State's  duty  of
+         candour.
+
+      d. The witness statement will be served and filed by 4  pm  on  Friday
+         this week, that is 09 December 2016.
+
+      e. The Applicants are at liberty to adduce further evidence.  The time
+         limit for this step is 4 o' clock on 13 December 2016.
+
+      f.    We list the substantive hearing  provisionally  on  19  December
+         2016.
+
+      g. The Applicants' solicitors will provide a full update in writing by
+         16.00 on 15 December 2016
+
+      h. Liberty to apply.
+
+      i.    We reserve costs.
+
+  15)  I elaborate on the liberty to apply provision as follow.  This is  an
+      expedited case which is on a  fast  track.   We  do  not  consider  it
+      appropriate to devise today a more prescriptive  timetable  than  that
+      contained in the directions made.  However,  the  Applicants  will  be
+      able, under the aegis  of  liberty  to  apply,  to  request  that  the
+      substantive hearing be listed at very short notice indeed taking  into
+      account the availability of the Tribunal and the  entitlement  of  the
+      Respondent to be fully heard.
+
+  16) Finally, the absence of any reference to  Article  17  of  the  Dublin
+      Regulation in the Respondent's case is noted.
+
+
+
+
+
+
+
+       Signed:
+                    The Honourable Mr Justice McCloskey
+                    President of the Upper Tribunal
+                    Immigration and Asylum Chamber
+
+
+       Dated:     05 December 2016
+
+
+
+
+
+
+Applicant's solicitors:
+Respondent's solicitors:
+Home Office Ref:
+Decision(s) sent to above parties on:
+----------------------------------------------------------------------------
+--------------------------------------------------------------------
+
+Notification of appeal rights
+
+A decision by the Upper Tribunal on an application for judicial review is  a
+decision that disposes of proceedings.
+
+ A party may appeal against such a decision to the  Court  of  Appeal  on  a
+question of law only. Any party who wishes to appeal  should  apply  to  the
+Upper Tribunal for permission, at the  hearing  at  which  the  decision  is
+given. If no application is made, the Tribunal must nonetheless consider  at
+the hearing whether to give or refuse permission to appeal (rule  44(4B)  of
+the Tribunal Procedure (Upper Tribunal) Rules 2008).
+
+If the Tribunal refuses permission, either in response to an application  or
+by virtue of rule 44(4B), then the party wishing to  appeal  can  apply  for
+permission from the Court of Appeal itself. This must be done by  filing  an
+appellant's notice with the Civil Appeals Office  of  the  Court  of  Appeal
+within 28 days of the date the Tribunal's decision on permission  to  appeal
+was sent (Civil Procedure Rules Practice Direction 52D 3.3).
+
+
+                                 APPENDIX 2
+
+
+
+
+
+                               Upper Tribunal
+                       Immigration and Asylum Chamber
+
+
+                       Judicial Review Decision Notice
+
+
+
+
+
+                 The Queen on the application of RSM and ZAM
+                                                                  Applicants
+                                      v
+
+
+                 Secretary of State for the Home Department
+                                                                  Respondent
+
+                                   Before
+
+               The Honourable Mr Justice McCloskey, President
+                       and Upper Tribunal Judge Finch
+
+
+
+
+Having considered  all  documents  lodged  and  having  heard  the  parties'
+respective representatives, Mr M Fordham QC and  Ms  M  Knorr,  of  counsel,
+instructed by Bhatt Murphy Solicitors, on behalf of the Applicants and Mr  D
+Ruck-Keene, of counsel, instructed by the Government  Legal  Department,  on
+behalf of the Respondent,  at  a  hearing  at  Field  House,  London  on  19
+December 2016.
+
+
+                 APPROVED EX TEMPORE DECISION AND ORDER
+
+
+BOTH APPLICANTS CONTINUE TO HAVE THE PROTECTION OF ANONYMITY.
+
+Direction Regarding Anonymity - Rule 14 of  the  Tribunal  Procedure  (Upper
+Tribunal) Rules 2008
+
+Unless and until a tribunal or court directs otherwise, the  Applicants  are
+granted anonymity.   No  report  of  these  proceedings  shall  directly  or
+indirectly identify them or any member  of  their  family.   This  direction
+applies both to the Applicants and to the  Respondent.   Failure  to  comply
+with this direction could lead to contempt of court proceedings.
+
+    19 December 2016
+
+
+    McCloskey J
+
+ 1)  We  shall  announce  our  decision  in  very  summary  terms  in   the
+    circumstances.  Time is against all of us in this case and  we  do  not
+    have the luxury of delivering  an  extensive  ex  tempore  judgment  or
+    reserving.  What the parties need to know in every  case,  following  a
+    hearing, is the result.  That is particularly true of the present case.
+     What this means is that if a conventional  full  written  judgment  is
+    required it will be provided in due course.
+
+ 2) In very brief compass, there are two Applicants for judicial review.  I
+    take this opportunity to emphasise that  each  has  the  protection  of
+    anonymity with the  result  that  nothing  should  be  disseminated  or
+    published which identifies either Applicant directly or could have  the
+    consequence of identifying them.
+
+ 3)  We have set out in outline in our earlier decision the  background  to
+    these proceedings.  RSM, the first Applicant, is a national of  Eritrea
+    aged 14 years.  He resides in Italy, isolated from family and  friends.
+    He fled his country of origin,  travelling  through  the  countries  of
+    Yemen and Egypt which he fled also.  Up to the point of  his  departure
+    from Egypt he was accompanied by his mother and younger  brother.  They
+    survived their traumatic experiences.  The events which  separated  RSM
+    from his mother and younger  brother  were  unscheduled,  dramatic  and
+    extremely  traumatic  for  him.   Worse,  regrettably,  was  to   come.
+    Following a short sojourn in Italy he learnt of the appallingly  tragic
+    circumstances of the deaths by drowning of his mother  and  sibling  in
+    the course of their attempts to reunite the  three  family  members  in
+    Italy.
+
+ 4)  The second judicial review Applicant is RSM's aunt, ZAM.  She  is  his
+    adult aunt.  She resides in the United Kingdom where she was  initially
+    a recognised refugee and is now a British citizen.   There  is  another
+    family relative of no little importance, namely RSM's cousin who is  of
+    course the daughter of the second Applicant ZAM. SA has,  with  others,
+    made a not insignificant evidential contribution to  these  proceedings
+    during their most recent phase.  SA is the oldest daughter of  ZAM  and
+    she has one younger sister.
+
+ 5) These proceedings have been conducted in two phases.  The  first  phase
+    came to a conclusion with our order of 05 December 2016 at which  stage
+    we granted the Applicants permission to apply for judicial review.   It
+    was quite clear to the Tribunal at that stage that having processed the
+    proceedings on a fast  track  the  evidential  picture  was  incomplete
+    bilaterally.  We addressed this firstly by requiring the  Secretary  of
+    State to file a  witness  statement.   Secondly,  we  acknowledged  the
+    potential further evidence to be provided on behalf of the Applicants.
+
+ 6)  The Tribunal did not of course know what the outcome  of  those  steps
+    might be but, in the briefest of terms, dividing the  proceedings  into
+    these two phases has had the consequence that the Tribunal at this, the
+    conclusion of the second phase, is  considerably  more  fully  informed
+    than at the earlier stage.  The evidence  provided  on  behalf  of  the
+    Secretary of State in the form of both witness statements  and  certain
+    documentary evidence is as important for what it says and  contains  as
+    for what it does not say and does not contain.  On the Applicants' side
+    the additional evidence has provided the Tribunal with a  more  rounded
+    insight into RSM's personal  circumstances  and,  secondly,  into  what
+    emerges as a key question in these proceedings, namely how  the  Dublin
+    Regulation system in Italy has worked for him to date, is  working  for
+    him at the moment and is likely to continue working for him.
+
+ 7)  Time does not permit us to express in extenso our reasons  for  coming
+    to the following conclusion, which we express at this stage.
+
+ 8) We are of the opinion that the Applicants' challenges are well-founded.
+     The ZAT threshold of very compelling circumstances is overcome. Stated
+    succinctly,  RSM's  personal  circumstances,  on  any  showing,  belong
+    towards the upper end of the notional highly compelling  spectrum  and,
+    based on the evidence amassed (which we emphasise), the Italian  Dublin
+    Regulation system has  not  served  him  with  the  anxious  attention,
+    efficacy or expedition for which  his  unique,  highly  fact  sensitive
+    situation has been pleading since April 2016 or June  2016  at  latest.
+    Eight months later we consider judicial intervention appropriate.
+
+ 9) In the circumstances prevailing  we  shall  confine  ourselves  to  one
+    aspect of the relief claimed today.  We consider that a mandatory order
+    should be made addressed to the  Secretary  of  State  in  terms  which
+    mirror what is contained in paragraphs 36 (ii)  and  37  of  the  order
+    dated 11 October 2016 made in the combined challenges  of  SA  and  AA,
+    very recently decided (see SA & AA(R) v SSHD  [2016]  UKUT  (JR)  507).
+    This is the real, practical and effective remedy which it is  essential
+    for the Applicants to have as of today.
+
+10)  We shall reflect a little further on the propriety of acceding to  the
+    Applicants' quest to obtain relief in the second, that is  declaratory,
+    form set forth in their claim  form,  namely  a  declaration  that  the
+    Secretary of State has unlawfully refused to consider and exercise  her
+    discretion under Article 17 of the Dublin Regulation.  All the evidence
+    bearing on that has been of very late advent, as has the  argument  and
+    we would like to consider both at a little further length.
+
+11) The upshot is that we make a mandatory order  in  the  terms  indicated
+    namely the Secretary of State shall admit the first  Applicant  RSM  to
+    the United Kingdom.  The full import and rationale of that order is  as
+    set forth in [37] of SA and AA.  We add and emphasise that there  shall
+    be liberty to apply.  That is a measure which  provides  protection  to
+    both the Applicants and the Secretary of State and achieves even-handed
+    balance.
+
+12) As the present case has (and certain other  recent  cases  have)  shown
+    even more  dramatically  the  lines  of  communication  for  litigation
+    instructions are surprisingly lengthy where the Secretary of  State  is
+    concerned.  Thus we do not require  Mr  Ruck-Keene  to  commit  himself
+    irredeemably today. To do so would be unfair and unreasonable. However,
+    a stringent timescale is imperative. To this end, any  application  for
+    permission to appeal will have to  be  made  on  notice  to  the  other
+    parties by close of business on Wednesday 21 December 2016  viz  within
+    48 hours.  If anything further is required from the  Tribunal,  whether
+    under the aegis of liberty  to  apply  or  otherwise,  that  should  be
+    notified by the relevant party to the Tribunal  within  the  same  time
+    limit.
+
+
+    22 December 2016
+
+
+    Remedy
+
+
+13) The Secretary of State is hereby ordered to admit the first  Applicant,
+    RSM, to the United Kingdom.
+
+    [Final order to follow]
+
+
+
+
+Permission to appeal to the Court of Appeal
+
+14) See final order to follow.
+
+
+
+    Costs
+
+
+     15) (i)      We order the Secretary of State  to  pay  the  Applicants'
+         costs to be assessed in default of agreement.
+
+      (ii)  The Applicants'  costs  shall  be  assessed  as  their  publicly
+         funded status requires.
+
+
+
+
+
+
+
+
+       Signed:
+                    The Honourable Mr Justice McCloskey
+                    President of the Upper Tribunal
+                    Immigration and Asylum Chamber
+
+
+       Dated:     22 December 2016
+
+
+
+
+
+
+
+
+
+
+
+
+Applicant's solicitors:
+Respondent's solicitors:
+Home Office Ref:
+Decision(s) sent to above parties on:
+
+
+Notification of appeal rights
+
+A decision by the Upper Tribunal on an application for judicial review is  a
+decision that disposes of proceedings.
+
+ A party may appeal against such a decision to the  Court  of  Appeal  on  a
+question of law only. Any party who wishes to appeal  should  apply  to  the
+Upper Tribunal for permission, at the  hearing  at  which  the  decision  is
+given. If no application is made, the Tribunal must nonetheless consider  at
+the hearing whether to give or refuse permission to appeal (rule  44(4B)  of
+the Tribunal Procedure (Upper Tribunal) Rules 2008).
+
+If the Tribunal refuses permission, either in response to an application  or
+by virtue of rule 44(4B), then the party wishing to  appeal  can  apply  for
+permission from the Court of Appeal itself. This must be done by  filing  an
+appellant's notice with the Civil Appeals Office  of  the  Court  of  Appeal
+within 28 days of the date the Tribunal's decision on permission  to  appeal
+was sent (Civil Procedure Rules Practice Direction 52D 3.3).
+
+
+
+            APPENDIX 3: THE DUBLIN REGULATION
+
+[1]   We begin by considering certain of  its  recitals.  Per  recital  (4),
+    Dublin III is designed to operate as "a clear and workable  method  for
+    determining the Member State responsible  for  the  examination  of  an
+    asylum application".  Recital (5) states that the mechanisms devised  -
+
+
+
+
+         "...  should, in particular, make it possible to determine  rapidly
+         the Member State responsible, so as to guarantee  effective  access
+         to the procedures for granting international protection and not  to
+         compromise the objective of the rapid  processing  of  applications
+         for international protection."
+
+
+
+
+    By recital (13):
+
+
+         "In accordance with the  1989  United  Nations  Convention  on  the
+         Rights of the Child and with the Charter of Fundamental  Rights  of
+         the European Union, the best interests of the  child  should  be  a
+         primary  consideration  of  Member  States   when   applying   this
+         Regulation.  In assessing the best interests of the  child,  Member
+         States should, in particular,  take  due  account  of  the  minor's
+         wellbeing   and   social   development,   safety    and    security
+         considerations and the views of the minor in accordance with his or
+         her age and maturity, including his or her background."
+
+
+
+
+    Recital (14) states:
+
+
+         "In accordance with the European Convention for the  Protection  of
+         Human Rights and Fundamental  Freedoms  and  with  the  Charter  of
+         Fundamental Rights of the European Union, respect for  family  life
+         should be a primary consideration of Member  States  when  applying
+         this Regulation."
+
+
+
+
+[2]   Recital (16) states, in part:
+
+
+         "When the applicant is an unaccompanied minor, the  presence  of  a
+         family member or relative on the territory of another Member  State
+         who can take care of him  or  her  should  also  become  a  binding
+         responsibility criterion."
+
+
+
+
+    Recital (17) is directly linked to Article 17:
+
+
+         "Any  Member  State  should  be   able   to   derogate   from   the
+         responsibility  criteria,  in  particular   on   humanitarian   and
+         compassionate grounds, in order to bring together  family  members,
+         relatives or any other family relations and examine an  application
+         for international protection lodged with it or with another  Member
+         State, even if such examination is not its responsibility under the
+         binding criteria laid down in this Regulation."
+
+
+      We note also Recital (18):
+
+
+         "A personal interview with the applicant  should  be  organised  in
+         order  to  facilitate  the  determination  of  the   Member   State
+         responsible  for  examining  an   application   for   international
+         protection."
+
+
+
+
+[3]   Turning to the Regulation  proper,  it  is  important  to  absorb  the
+    definition of "unaccompanied minor":
+
+
+         "A  minor  who  arrives  on  the  territory  of  the  Member  State
+         unaccompanied by an adult responsible for him or  her,  whether  by
+         law or by the practice of the Member State concerned,  and  for  as
+         long as he or she is not effectively taken into the care of such an
+         adult ...."
+
+
+
+
+[4]   There are  certain  other  provisions  of  the  Dublin  Regulation  of
+    significance in the present context:
+
+
+    Article 3(1)
+
+         "Member States shall  examine  any  application  for  international
+         protection by a third-country national or a  stateless  person  who
+         applies on the territory of any  one  of  them,  including  at  the
+         border or in the transit zones.  The application shall be  examined
+         by a single Member State, which shall be the one which the criteria
+         set out in Chapter III indicate is responsible."
+
+    Article 5
+
+         "1.      In order to facilitate  the  process  of  determining  the
+             Member State responsible, the determining Member  State  shall
+             conduct a personal interview with the applicant. The interview
+             shall also allow the proper understanding of  the  information
+             supplied to the applicant in accordance with Article 4.
+
+
+         2. The personal interview may be omitted if:
+
+             (a) the applicant has absconded; or
+
+
+             (b) after having  received  the  information  referred  to  in
+                  Article  4,  the  applicant  has  already   provided   the
+                  information  relevant  to  determine  the   Member   State
+                  responsible by other means.  The Member State omitting the
+                  interview shall give  the  applicant  the  opportunity  to
+                  present all  further  information  which  is  relevant  to
+                  correctly determine the Member State responsible before  a
+                  decision is taken to transfer the applicant to the  Member
+                  State responsible pursuant to Article 26(1).
+
+         3. The personal interview shall take place in a timely manner  and,
+             in any event, before any decision is  taken  to  transfer  the
+             applicant to the Member State responsible pursuant to  Article
+             26(1).
+
+
+         4  The personal interview shall be conducted in a language that the
+             applicant understands or is reasonably supposed to  understand
+             and in  which  he  or  she  is  able  to  communicate.   Where
+             necessary, Member States shall have recourse to an interpreter
+             who is able to ensure appropriate  communication  between  the
+             applicant and the person conducting the personal interview.
+
+
+         5. The personal interview shall take place under  conditions  which
+             ensure appropriate confidentiality.  It shall be conducted  by
+             a qualified person under national law.
+
+
+         6. The Member State conducting the personal interview shall make  a
+             written summary thereof which shall contain at least the  main
+             information supplied by the applicant at the interview.   This
+             summary may either take the form of a  report  or  a  standard
+             form.  The Member State shall ensure that the applicant and/or
+             the legal advisor or other counsellor who is representing  the
+             applicant have timely access to the summary."
+
+    Article 6
+
+
+    This prescribes a series of guarantees for children, in  the  following
+    terms:
+
+
+         "(ii)    The best  interests  of  the  child  shall  be  a  primary
+             consideration for Member States with respect to all procedures
+             provided for in this Regulation.
+
+
+         (iv)     For the purpose of applying Article 8,  the  Member  State
+             where  the  unaccompanied  minor  lodged  an  application  for
+             international protection shall,  as  soon  as  possible,  take
+             appropriate action to identify the family members, siblings or
+             relatives of the  unaccompanied  minor  on  the  territory  of
+             Member States, whilst protecting the  best  interests  of  the
+             child.  To that end,  that  Member  State  may  call  for  the
+             assistance of international or other  relevant  organisations,
+             and may facilitate the minor's access to the tracing  services
+             of such organisations."
+
+
+    Article 8
+
+         "1.      Where the applicant is an unaccompanied minor, the  Member
+             State responsible shall be that where a  family  member  or  a
+             sibling  of  the  unaccompanied  minor  is  legally   present,
+             provided that it is in the best interests of the minor.  Where
+             the applicant is a married minor whose spouse is  not  legally
+             present on the territory of  the  Member  States,  the  Member
+             State responsible shall be the Member State where the  father,
+             mother or other adult responsible for the  minor,  whether  by
+             law or by the practice of that Member  State,  or  sibling  is
+             legally present.
+
+
+         2. Where the applicant is an unaccompanied minor who has a relative
+             who is legally present in another Member State and where it is
+             established, based on  an  individual  examination,  that  the
+             relative can take care of him or her, that Member State  shall
+             unite the minor with his or her  relative  and  shall  be  the
+             Member State responsible, provided that  it  is  in  the  best
+             interests of the minor.
+
+
+         3. Where family members, siblings or relatives as  referred  to  in
+             paragraphs 1 and 2, stay in more than one  Member  State,  the
+             Member State responsible shall be decided on the basis of what
+             is in the best interests of the unaccompanied minor.
+
+
+         4. In the absence of a family member, a sibling or  a  relative  as
+             referred  to  in  paragraphs  1  and  2,  the   Member   State
+             responsible shall be that where the  unaccompanied  minor  has
+             lodged his or her application  for  international  protection,
+             provided that it is in the best interests of the minor.
+
+
+         5. The Commission shall be empowered to  adopt  delegated  acts  in
+             accordance with Article 45 concerning  the  identification  of
+             family members, siblings or  relatives  of  the  unaccompanied
+             minor; the criteria for establishing the existence  of  proven
+             family links; the criteria for assessing  the  capacity  of  a
+             relative to take care of the  unaccompanied  minor,  including
+             where  family  members,   siblings   or   relatives   of   the
+             unaccompanied minor stay in more than one  Member  State.   In
+             exercising its powers to adopt delegated acts, the  Commission
+             shall not exceed the scope of the best interests of the  child
+             as provided for under Article 6(3).
+
+
+         6. The Commission shall, by means of implementing  acts,  establish
+             uniform conditions for the consultation and  the  exchange  of
+             information between Member  States.  Those  implementing  acts
+             shall be adopted in accordance with the examination  procedure
+             referred to in Article 44(2)."
+
+
+
+    Article 17
+
+         "1.      By way of derogation from Article 3(1), each Member  State
+             may  decide  to  examine  an  application  for   international
+             protection lodged with it by a  third-country  national  or  a
+             stateless  person,  even  if  such  examination  is  not   its
+             responsibility  under  the  criteria   laid   down   in   this
+             Regulation.
+
+             The Member State which decides to examine an  application  for
+             international protection  pursuant  to  this  paragraph  shall
+             become the Member  State  responsible  and  shall  assume  the
+             obligations  associated  with  that   responsibility.    Where
+             applicable, it shall inform, using the  'DubliNet'  electronic
+             communication network set up under Article  18  of  Regulation
+             (EC) No 1560/2003, the Member  State  previously  responsible,
+             the Member State conducting a procedure  for  determining  the
+             Member State responsible or the Member State  which  has  been
+             requested to take charge of, or to take back, the applicant.
+
+
+             The Member State which becomes responsible  pursuant  to  this
+             paragraph shall forthwith indicate it in Eurodac in accordance
+             with Regulation (EU) No 603/2013 by adding the date  when  the
+             decision to examine the application was taken.
+
+
+         2. The Member State  in  which  an  application  for  international
+             protection is made and which is carrying out  the  process  of
+             determining the Member State responsible, or the Member  State
+             responsible,  may,  at  any  time  before  a  first   decision
+             regarding the substance is taken, request another Member State
+             to take charge of an applicant in order to bring together  any
+             family relations, on humanitarian grounds based in  particular
+             on family or cultural considerations, even  where  that  other
+             Member State is not responsible under the criteria  laid  down
+             in Articles 8 to  11  and  16.   The  persons  concerned  must
+             express their consent in writing
+
+
+             The request to take charge shall contain all the  material  in
+             the possession of the requesting Member  State  to  allow  the
+             requested Member State to assess the situation.
+
+             The requested Member  State  shall  carry  out  any  necessary
+             checks to examine the humanitarian grounds  cited,  and  shall
+             reply to the requesting Member  State  within  two  months  of
+             receipt  of  the  request  using  the  'DubliNet'   electronic
+             communication network set up under Article  18  of  Regulation
+             (EC) No 1560/2003. A reply refusing the  request  shall  state
+             the reasons on which the refusal is based.
+
+             Where  the  requested  Member  State  accepts   the   request,
+             responsibility  for  examining  the   application   shall   be
+             transferred to it. "
+
+    Article 18(1)(a)
+
+         "The Member  State  responsible  under  this  Regulation  shall  be
+         obliged to:
+
+         (a)      take charge, under the conditions laid  down  in  Articles
+             21, 22 and 29, of an applicant who has lodged  an  application
+             in a different Member State . . ."
+
+
+
+    Article 21
+
+
+         "1.      Where  a  Member  State  with  which  an  application  for
+             international  protection  has  been  lodged  considers   that
+             another  Member  State  is  responsible  for   examining   the
+             application, it may, as quickly as possible and in  any  event
+             within three months of the date on which the  application  was
+             lodged within the meaning of Article 20(2), request that other
+             Member State to take charge of the applicant.
+
+             Notwithstanding the first  subparagraph,  in  the  case  of  a
+             Eurodac hit with data  recorded  pursuant  to  Article  14  of
+             Regulation (EU) No 603/2013, the request shall be sent  within
+             two months of receiving that hit pursuant to Article 15(2)  of
+             that Regulation.
+
+             Where the request to take charge of an applicant is  not  made
+             within  the  periods  laid  down  in  the  first  and   second
+             subparagraphs, responsibility for  examining  the  application
+             for international protection shall lie with the  Member  State
+             in which the application was lodged.
+
+
+         2. The requesting Member State may ask for an urgent reply in cases
+             where the application for international protection was  lodged
+             after leave to enter or remain was refused,  after  an  arrest
+             for an unlawful stay or after the service or  execution  of  a
+             removal order.
+
+             The request shall state the reasons warranting an urgent reply
+             and the period within which
+
+
+         3. In the cases referred to in paragraphs 1 and 2, the request that
+             charge be taken by another Member State shall be made using  a
+             standard form and including proof or  circumstantial  evidence
+             as described in the  two  lists  mentioned  in  Article  22(3)
+             and/or  relevant  elements  from  the  applicant's  statement,
+             enabling the authorities of  the  requested  Member  State  to
+             check whether it is responsible on the basis of  the  criteria
+             laid down in this Regulation.
+
+             The Commission shall, by means  of  implementing  acts,  adopt
+             uniform conditions on the preparation and submission  of  take
+             charge requests.  Those implementing acts shall be adopted  in
+             accordance with  the  examination  procedure  referred  to  in
+             Article 44(2)."
+
+
+    Article 22
+
+         "1.      The  requested  Member  State  shall  make  the  necessary
+             checks, and shall give a  decision  on  the  request  to  take
+             charge of an applicant within two months  of  receipt  of  the
+             request.
+
+
+         2. In the procedure for determining the  Member  State  responsible
+             elements of proof and circumstantial evidence shall be used.
+
+
+         3. The Commission shall, by means of implementing acts,  establish,
+             and review periodically, two lists,  indicating  the  relevant
+             elements of proof and circumstantial  evidence  in  accordance
+             with the criteria set out  in  points  (a)  and  (b)  of  this
+             paragraph.  Those  implementing  acts  shall  be  adopted   in
+             accordance with  the  examination  procedure  referred  to  in
+             Article 44(2).
+
+             (a) Proof:
+
+
+                  (i)    this  refers  to  formal  proof  which   determines
+                      responsibility pursuant to this Regulation,  as  long
+                      as it is not refuted by proof to the contrary;
+
+
+                  (ii)   the  Member  States  shall  provide  the  Committee
+                      provided  for  in  Article  44  with  models  of  the
+                      different  types  of  administrative  documents,   in
+                      accordance with the typology established in the  list
+                      of formal proofs;
+
+
+             (b)  Circumstantial evidence:
+
+                  (i)   this refers to indicative elements which while being
+                      refutable  may  be  sufficient,  in  certain   cases,
+                      according to  the  evidentiary  value  attributed  to
+                      them;
+
+
+                  (ii)   their  evidentiary  value,  in  relation   to   the
+                      responsibility  for  examining  the  application  for
+                      international protection shall be assessed on a case-
+                      by-case basis.
+
+
+         4. The requirement of proof should not exceed what is necessary for
+             the proper application of this Regulation.
+
+
+         5. If there is no formal proof, the requested  Member  State  shall
+             acknowledge its responsibility if the circumstantial  evidence
+             is coherent, verifiable and sufficiently detailed to establish
+             responsibility.
+
+
+         6. Where  the  requesting  Member  State  has  pleaded  urgency  in
+             accordance with the provisions of Article 21(2), the requested
+             Member State shall make every effort to comply with  the  time
+             limit  requested.  In  exceptional  cases,  where  it  can  be
+             demonstrated that the examination  of  a  request  for  taking
+             charge of an applicant is particularly complex, the  requested
+             Member  State  may  give  its  reply  after  the  time   limit
+             requested, but  in  any  event  within  one  month.   In  such
+             situations the requested Member  State  must  communicate  its
+             decision to postpone a reply to the  requesting  Member  State
+             within the time limit originally requested.
+
+
+         7.  Failure  to  act  within  the  two-month  period  mentioned  in
+             paragraph 1 and the one-month period mentioned in paragraph  6
+             shall be tantamount to accepting the request, and  entail  the
+             obligation  to  take  charge  of  the  person,  including  the
+             obligation to provide for proper arrangements for arrival."
+
+
+    Article 29
+
+         "1.      The transfer of the applicant  or  of  another  person  as
+             referred to in Article 18(1)(c) or  (d)  from  the  requesting
+             Member State to the Member State responsible shall be  carried
+             out in accordance with the  national  law  of  the  requesting
+             Member State, after consultation  between  the  Member  States
+             concerned, as soon as practically possible, and at the  latest
+             within six months of acceptance  of  the  request  by  another
+             Member State to  take  charge  or  to  take  back  the  person
+             concerned or of the final decision  on  an  appeal  or  review
+             where there is a suspensive effect in accordance with  Article
+             27(3).
+
+             If transfers to the Member State responsible are  carried  out
+             by supervised departure or under escort, Member  States  shall
+             ensure that they are carried out in a humane manner  and  with
+             full respect for fundamental rights and human dignity.
+
+
+             If  necessary,  the  applicant  shall  be  supplied   by   the
+             requesting Member State with a laissez passer. The  Commission
+             shall, by means of implementing acts, establish the design  of
+             the laissez passer. Those implementing acts shall  be  adopted
+             in accordance with the examination procedure  referred  to  in
+             Article 44(2).
+
+             The Member  State  responsible  shall  inform  the  requesting
+             Member State, as appropriate,  of  the  safe  arrival  of  the
+             person concerned or of the fact that he or she did not  appear
+             within the set time limit.
+
+
+         2. Where the transfer does not take place within  the  six  months'
+             time limit, the Member State responsible shall be relieved  of
+             its obligations to take charge or  to  take  back  the  person
+             concerned and responsibility shall then be transferred to  the
+             requesting Member State.  This time limit may be  extended  up
+             to a maximum of one year if the transfer could not be  carried
+             out due to imprisonment of the person concerned  or  up  to  a
+             maximum of eighteen months if the person concerned absconds.
+
+
+         3. If a person has been transferred erroneously or  a  decision  to
+             transfer is overturned on appeal or review after the  transfer
+             has been carried out, the Member State which carried  out  the
+             transfer shall promptly accept that person back.
+
+
+         4.       The Commission  shall,  by  means  of  implementing  acts,
+             establish uniform conditions for the consultation and exchange
+             of information between Member States,  in  particular  in  the
+             event of postponed or delayed transfers,  transfers  following
+             acceptance  by  default,  transfers  of  minors  or  dependent
+             persons, and supervised transfers.   Those  implementing  acts
+             shall be adopted in accordance with the examination  procedure
+             referred to in Article 44(2)."
+
+
+
+[5]   The salient provisions of Commission Regulation 1560/2003, bearing  in
+    mind the present litigation context, are contained in, firstly, Article
+    12:
+
+         "1.      Where the decision to entrust the care of an unaccompanied
+             minor to a relative other than the  mother,  father  or  legal
+             guardian  is  likely   to   cause   particular   difficulties,
+             particularly where the adult  concerned  resides  outside  the
+             jurisdiction of the  Member  State  in  which  the  minor  has
+             applied  for  asylum,  cooperation   between   the   competent
+             authorities  in  the  Member   States,   in   particular   the
+             authorities  or  courts  responsible  for  the  protection  of
+             minors, shall be facilitated and the necessary steps taken  to
+             ensure that those authorities can decide, with full  knowledge
+             of the facts, on the ability of the adult or adults  concerned
+             to take charge of the minor in a way  which  serves  his  best
+             interests
+
+
+             Options now available in the field of cooperation on  judicial
+             and  civil  matters  shall  be  taken  account  of   in   this
+             connection.
+
+
+         2. The fact that the duration of procedures for placing a minor may
+             lead to a failure to observe the time limits  set  in  Article
+             18(1) and (6) and Article 19(4) of Regulation (EC) No 343/2003
+             shall  not  necessarily  be  an  obstacle  to  continuing  the
+             procedure for determining  the  Member  State  responsible  or
+             carrying out a transfer."
+
+
+
+[6]   This is supplemented by a series of provisions,  which  include  those
+    in Annex II detailing various  methods  of  proving  the  existence  of
+    family members and, in other  Annexes,  prescribing  the  forms  to  be
+    employed for requests for information and take charge requests.

@@ -1,0 +1,389 @@
+
+[pic]
+
+UPPER TRIBUNAL
+(Immigration and Asylum Chamber)
+
+R (on the  application  of  Patel)  v  Secretary  of  State  for  the  Home
+Department (s.3C(4): simultaneous application - withdrawal) IJR [2015] UKUT
+0273 (IAC)
+
+
+             IN THE MATTER OF AN APPLICATION FOR JUDICIAL REVIEW
+
+
+                                                                 Field House
+                                                                      London
+
+                                                        Heard: 15 April 2015
+
+                                   Before
+
+                          UPPER TRIBUNAL JUDGE GILL
+
+                      THE QUEEN (ON THE APPLICATION OF
+                           Sonalben Samirkumar Patel)      Applicant
+
+
+                                     and
+
+         THE SECRETARY OF STATE FOR THE HOME DEPARTMENT   Respondent
+
+
+Representation:
+For the Applicant:     No appearance by or on behalf of the applicant.
+For the Respondent:    Ms F Scolding, of Counsel, instructed by the
+                    Government Legal Department.
+
+
+
+S.3C(4) of the Immigration Act 1971 prohibits an application  for  leave  to
+remain that is made on the same day as, and even if said to be  simultaneous
+with, the  applicant's  withdrawal  of  his  appeal  before  the  First-tier
+Tribunal (Immigration and Asylum Chamber).
+
+
+
+                      - - - -- - - - - - - - - - - - -
+
+                                  JUDGMENT
+                          Handed down on 5 May 2015
+
+                      - - - -- - - - - - - - - - - - -
+
+Judge Gill:
+
+Introduction and background facts:
+
+ 1. The applicant is a national of India. By an  order  dated  14  November
+    2014, the Upper Tribunal granted her permission to challenge  a  letter
+    dated 4 January 2014 (hereafter the  "invalidity  decision")  from  the
+    respondent by which the respondent rejected her application of  2  July
+    2013 for leave to remain as a Tier 4 (General) Migrant  on  the  ground
+    that s.3C(4) of the Immigration Act 1971 (the "1971 Act") precluded her
+    from making the application whilst her leave was extended  under  s.3C.
+    The respondent considered that she had made her application of  2  July
+    2013 whilst  she  had  an  outstanding  appeal  before  the  First-tier
+    Tribunal (Immigration  and  Asylum  Chamber)  ("FtT").  The  appeal  in
+    question was an appeal under reference: IA/06726/2013.
+
+ 2. The applicant's case (in summary) is that she withdrew her  appeal  and
+    simultaneously  made  her  application  for  leave  and  therefore  her
+    application was not  precluded  by  s.3C(4).  The  relevant  chronology
+    (insofar as appears from the file) is as follows:
+
+         27 Oct 2009   Applicant  entered  the  U.K.  with  entry  clearance
+                       valid from 27 October 2006 until 25 June  2011  as  a
+                       Tier 4 (General) Migrant
+
+         16 Apr  2011    Application  for  leave  to  remain  as  a  Tier  4
+                       (General) Migrant
+
+         2 Sept 2011   Licence of sponsor-college revoked
+
+         5 Nov 2012    Respondent allowed the applicant a  period  of  leave
+                       of 60 days to find another sponsor-college and submit
+                       a new application
+
+         13 Feb 2013   Application refused with a right of appeal
+
+         28 Feb 2013   Appeal lodged (IA/06726/2013)
+
+         2 July 2013   Email from applicant's representatives to  respondent
+                       timed at 12:40 stating  that  they  had  instructions
+                       from the applicant to withdraw her appeal  which  was
+                       listed for hearing on 3 July 2013 before the FtT
+
+          2  July  2013    Letter  sent  at   15:21   by   the   applicant's
+                       representatives to the FtT, stating:  "...our  client
+                       would like to withdraw this appeal as they wanted  to
+                       make [sic] fresh application to the  UKBA  to  extend
+                       her status as a Tier 4 (G) student ..."
+
+         2 July 2013   Application made for leave to  remain  as  a  Tier  4
+                       (General) Migrant
+
+         4 July 2013   "Notice of Withdrawal" (form IA52) sent  by  the  FtT
+                       to the parties in appeal number: IA/06726/2013
+
+         4 Jan 2014    Date of invalidity decision
+
+ 3. The decision of the Upper  Tribunal  granting  permission  states  that
+    notice of withdrawal was made by email at 12:40  on  2  July  2013.  In
+    fact, this email could not operate as a withdrawal because it was  sent
+    to the respondent. However, the facsimile message sent to the FtT on  2
+    July 2013 at 15:21 did operate as a withdrawal.
+
+Reasons for proceeding in the absence of the applicant
+
+ 4. The applicant sent an email to the respondent on 10 April 2015  stating
+    that she wished to withdraw her claim for judicial review. On 14  April
+    2015, when administrative staff of the Upper Tribunal  telephoned  her,
+    she informed the Upper Tribunal that she wished to withdraw  her  claim
+    and would not be attending the hearing. She was advised  to  submit  an
+    application notice in order to withdraw her claim.  She  said  she  was
+    unable to attend  the  Upper  Tribunal's  fees  office  to  submit  the
+    application notice on the same day. I did not consider  it  appropriate
+    to treat the claim as withdrawn given that there was nothing in writing
+    from the applicant to the Upper Tribunal to that effect.
+
+ 5. On the hearing day, there was no appearance by  or  on  behalf  of  the
+    applicant at 10.00 am nor by 11.00 am. I was satisfied  not  only  that
+    the notice of the hearing had been duly given to the applicant but also
+    that she was aware of the hearing date,  given  the  conversation  that
+    took place between her and a member of the administrative staff of  the
+    Upper Tribunal on 14 April. There was no reason to think that,  if  the
+    hearing were  to  be  adjourned,  the  applicant  might  attend  or  be
+    represented at the next hearing. In all of the circumstances,  and  for
+    the reasons given, I decided to exercise my discretion to proceed  with
+    the hearing. I heard briefly from Ms Scolding.
+
+    The relevant provisions
+
+ 6. The version of s. 3C of the 1971 Act which is relevant in this claim is
+    the version that was in force from 31 August 2006 to 19  October  2014.
+    This provided as follows:
+
+
+        "3C Continuation of leave pending variation decision
+
+
+        (1)  This section applies if-
+
+
+         (a) a person who has limited leave  to  enter  or  remain  in  the
+               United  Kingdom  applies  to  the  Secretary  of  State   for
+               variation of the leave,
+
+
+         (b) the  application  for  variation  is  made  before  the  leave
+        expires, and
+
+
+         (c) the leave expires without the application for variation having
+        been decided.
+
+
+        (2)  The leave is extended by virtue of  this  section  during  any
+        period when-
+
+
+          (a)  the  application  for  variation  is  neither  decided   nor
+        withdrawn,
+
+
+         (b) an appeal under section 82(1) of the Nationality,  Asylum  and
+               Immigration Act 2002 could be brought,  while  the  appellant
+               is  in  the  United  Kingdom  against  the  decision  on  the
+               application for variation (ignoring  any  possibility  of  an
+               appeal out of time with permission), or
+
+
+         (c) an appeal under that section against  that  decision,  brought
+               while the appellant is in  the  United  Kingdom,  is  pending
+               (within the meaning of section 104 of that Act).
+
+
+        (3)  ...
+
+
+        (4)  A person may not make an  application  for  variation  of  his
+             leave to enter or remain in the United Kingdom while that leave
+             is extended by virtue of this section.
+
+
+        (5)  But subsection (4) does  not  prevent  the  variation  of  the
+             application mentioned in subsection (1)(a).
+
+
+        (6)  ..."
+
+ 7. The relevant version of  s.104  of  the  Nationality,  Immigration  and
+    Asylum Act 2002 (the "2002 Act") is the version that was in force  from
+    15 February 2010 until 19 October 2014. This provided as follows:
+
+
+        "104 Pending appeal
+
+
+        (1)  An appeal under section 82(1) is pending during the period-
+
+
+         (a) beginning when it is instituted, and
+
+
+         (b)  ending when it is finally determined, withdrawn  or  abandoned
+                 (or when it lapses under section 99)."
+
+ 8. As at 2 July 2013, rule 17  of  the  Asylum  and  Immigration  Tribunal
+    (Procedure) Rules 2005 (the "FtT Rules") provided (insofar as relevant)
+    as follows:
+
+         "17. Withdrawal of appeal
+              (1) An appellant may withdraw an appeal-
+                  (a) orally, at a hearing; or
+                  (b) at  any  time,  by  filing  written  notice  with  the
+Tribunal.
+              (2) ...
+              (2A)     ...
+              (3) If an appeal is withdrawn or  treated  as  withdrawn,  the
+                 Tribunal must serve on the parties a notice that the appeal
+                 has been recorded as having been withdrawn."
+
+ 9. The version of paras 6 and 34G of  the  Statement  of  Changes  in  the
+    Immigration Rules HC 395 (as amended) (the "IRs") in force as at 2 July
+    2013 provided (insofar as relevant) as follows:
+
+     ""date of application" means the date of application determined in
+         accordance with paragraph 30 or 34G of these rules as appropriate."
+
+         "30  [Not relevant]"
+
+
+        "Determination of the date of an application or claim (or variation
+        of an application or claim) in connection with immigration.
+
+
+        34G  For the  purposes  of  these  rules,  the  date  on  which  an
+             application or claim (or a variation in  accordance  with  para
+             34E) is made is as follows:
+
+
+         (i) where the application form  is  sent  by  post,  the  date  of
+             posting,
+         (ii) ..."
+
+     Assessment
+
+10. In my judgement and for the reasons given below, s.3C(4)  of  the  1971
+    Act prohibits an application for leave to remain that is  made  on  the
+    same day as, and  even  if  said  to  be  contemporaneously  with,  the
+    applicant's withdrawal of his or her appeal before the FtT. I shall now
+    give my reasons.
+
+11. If an individual who has leave  to  remain  makes  an  application  for
+    further leave before the expiry of his leave and a decision is not made
+    before his leave expires, his leave  is  extended  under  s.3C(2).  Any
+    application may be varied as long as any such variation is made  before
+    a decision on the application is made. Once a decision has  been  made,
+    S.3C(4) prohibits any further application for  leave  for  as  long  as
+    leave is extended under s.3C (JH (Zimbabwe) [2009] EWCA Civ  78).  This
+    means that, if an adverse decision attracting an  in-country  right  of
+    appeal is made and an in-time appeal is brought, the individual's leave
+    is extended under s.3C(2) for as long as the appeal is  pending  within
+    the meaning  of  s.104(1)  of  the  2002  Act.  All  of  this  is  well
+    established. A withdrawal of an appeal brings the appeal to an  end  so
+    that it is  no  longer  "pending"  under  s.104(1)  and  therefore  the
+    individual's s.3C leave will come to an end when his or her  appeal  is
+    withdrawn. An application made after an appeal is no longer pending  is
+    not prohibited by s.3C(4). However, as the individual's s.3C leave will
+    have ended, the application will be one that is made at a time when the
+    individual did not have leave. This is not controversial.
+
+12. The  principal  question  in  this  case  is  whether  the  applicant's
+    application of 2 July 2013 was "made" at  a  time  when  she  had  s.3C
+    leave. If so,  her  application  was  prohibited  by  s.3C(4)  and  the
+    respondent did not err in law in rejecting her application as  invalid.
+    The ancillary questions that arise are therefore as follows:
+
+    i.   When did the applicant's s.3C leave end? This requires considering
+        when her withdrawal took effect, whether 4 July 2013 (when the  FtT
+        sent the notice it is obliged to send under rule 17(3)) or  2  July
+        2013 (the date that the letter from the applicant's withdrawing her
+        appeal was sent by facsimile to the FtT).
+
+    ii.  If the latter, whether it can be  said  that  she  had  a  pending
+        appeal up until the precise moment she withdrew her appeal (in this
+        case, up until 15:31 on 2 July 2013).
+
+    iii. When did she "make" her application for leave dated  2  July  2013
+        for the purposes of s.3C(4), i.e. whether it is 2 July 2013 or  the
+        precise moment on 2 July 2013 when she posted her application?
+
+13. In the summary grounds of defence, the respondent referred to the  fact
+    that the FtT only confirmed the withdrawal on 4 July 2013. However, the
+    language of rule 17  of  the  FtT  Rules  does  not  suggest  that  the
+    withdrawal takes effect on the date that the FtT sends the notice  that
+    it is obliged to send pursuant to rule 17(3) as opposed to the date  of
+    the withdrawal. In my view, a withdrawal of an appeal takes effect from
+    the date that the FtT is notified of the withdrawal, whether orally  or
+    by written notice.
+
+14. However, as to question ii, my attention has not been drawn to anything
+    in rule 17 or the FtT Rules or any other provision or any authority  to
+    the effect that for the purposes of s.3C withdrawals take  effect  only
+    from a specified time on a specified day. The mere fact  that  the  FtT
+    Rules are silent on the point does not mean that a  positive  inference
+    can legitimately be drawn that a withdrawal  takes  effect  only  at  a
+    specified time on a specified day. However, the answer to  question  ii
+    is not determinative of this claim.  The  answer  to  question  iii  is
+    determinative.
+
+15. Turning therefore to question iii, there is nothing in para  34G  which
+    provides for an application, if posted, to be taken as being made  only
+    at a specified time on the day of posting. The applicant's argument, if
+    accepted, would entail the Upper Tribunal reading words into  para  34G
+    of the IRs that are simply not there, i.e. that "the date and  time  on
+    which an application or claim .... (i) where the  application  form  is
+    sent by post, at the date and time of posting." It is not open  to  the
+    Upper Tribunal to do so. The IRs must be construed  sensibly  according
+    to the natural meaning of the language employed: Supreme Court in Mahad
+    and others [2009] UKSC 16. In my judgement, para  34G  is  sufficiently
+    clear. An application is to be taken as having been  made,  if  it  was
+    posted, on the day it was posted. It is sufficiently  clear  that  this
+    means the whole of the day in question. If it were otherwise, one would
+    expect to see references to the date and time of posting in the rule.
+
+16. In relation to both questions ii and iii, the reason  why  the  grounds
+    contend that s.3C(4) does not prohibit  an  application  that  is  made
+    contemporaneously with the withdrawal  of  an  appeal  is  that  it  is
+    thought - mistakenly - that s.3C(1) and  (2)  will  apply  to  the  new
+    application so the applicant's leave continues  to  be  extended  under
+    s.3C for as long as her application of 2 July 2013 awaits a decision or
+    (if an adverse decision which gives rise to a right of appeal is  made)
+    for as long as an appeal may be brought or (if an  appeal  is  brought)
+    for as long as the appeal remains pending.
+
+17. However, this would open s.3C to abuse. It would open  the  possibility
+    of a series of applications leading  to  indefinite  extension  of  the
+    original leave. The purpose of s.3C(4), i.e. to prevent a succession of
+    applications for leave leading to indefinite extension of the  original
+    leave, would be defeated (JH (Zimbabwe), para 36).
+
+18. For  all  of  the  above  reasons,  I  conclude  that  the  applicant's
+    application of 2 July 2013 was "made" on 2 July 2013 and that, for  the
+    purposes of s.3C(4), this means that the whole of 2 July 2013 counts as
+    the date of her application. It follows that she made  her  application
+    at a time when her leave was being  extended  under  s.3C  because  her
+    appeal was still pending, even on her own case, until a  moment  before
+    15:31 on 2 July 2013.
+
+19. The above are my reasons for rejecting the applicant's case in relation
+    to s.3C and the reasons I rely upon in dismissing this claim.  However,
+    even if I am wrong in everything I have said, this claim could not have
+    succeeded, given that the applicant has not produced any evidence  that
+    she posted the application of  2  July  2013  simultaneously  with  her
+    withdrawal.
+
+20. The grounds also contend  that  the  respondent  erred  by  failing  to
+    consider Article 8 of the 1950 European Convention for  the  Protection
+    of Human Rights and Fundamental Freedoms. However, there is nothing  to
+    show that the applicant put any case on the basis of Article  8  before
+    the respondent as at the date of the invalidity decision.  Accordingly,
+    the respondent was not obliged to consider Article 8. In any event, the
+    applicant had only been in the United Kingdom for a period of  about  4
+    years as at the date of the invalidity decision. She had only ever  had
+    leave as a student. Article 8 does  not  protect  the  right  to  study
+    (Patel [2013] UKSC 72, at para 57). The Article 8 ground  is  therefore
+    hopeless.
+
+     Decision
+
+     The claim is dismissed.
+
+
+[pic]
+Signed (22 April 2015)
+Upper Tribunal Judge Gill
+
+

@@ -1,0 +1,784 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: PA/01746/2020 (V)
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House via Skype for Business|Decision & Reasons Promulgated  |
+|On Tuesday 4 May 2021                      |On Monday 17 May 2021           |
+|                                           |                                |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE SMITH
+
+
+                                   Between
+
+                                    B R M
+                                                                   Appellant
+                                    -and-
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Mr J Wilson, solicitor, Refugee and Migrant Centre
+For the Respondent:    Ms A Everett, Senior Home Office Presenting Officer
+
+
+Anonymity
+Rule 14: The Tribunal Procedure (Upper Tribunal) Rules 2008
+An anonymity order was made by the  First-tier  Tribunal.   As  this  appeal
+initially involved a protection claim,  I  consider  it  is  appropriate  to
+continue  that  order.   Unless  and  until  a  Tribunal  or  court  directs
+otherwise,  the  Appellant  is  granted  anonymity.  No  report   of   these
+proceedings shall directly or indirectly identify him or any member  of  his
+family. This direction applies, amongst others, to both parties. Failure  to
+comply with this direction could lead to contempt of court proceedings.
+
+
+                            DECISION AND REASONS
+
+BACKGROUND
+
+1. The Appellant appeals against the decision of First-tier Tribunal Judge
+   Sharma promulgated on 10 December 2020 ("the Decision"). By the Decision,
+   the Judge dismissed the Appellant's appeal against the Respondent's
+   decision dated 7 February 2020, refusing his protection and human rights
+   claims.
+
+
+2. The Appellant is a national of Iraq.   He entered the UK clandestinely
+   in August 2006 and claimed asylum on arrival.  His claim was refused and
+   an appeal on that basis was dismissed by Immigration Judge Zucker in a
+   decision dated 9 January 2007. The Appellant then made a series of
+   further submissions in 2009 and 2010 which were all rejected by the
+   Respondent.  However, the Appellant was granted three years'
+   discretionary leave on 13 December 2011, therefore expiring on 13
+   December 2014.  Ms Everett confirmed that this was as a result of a
+   "legacy" review, in other words, a review within the Case Resolution
+   Programme ("CRP") then in existence to deal with the cases of failed
+   asylum seekers whose cases were incomplete as they had not been removed.
+   I will need to say more about the way in which such reviews were
+   conducted later in this decision.
+
+3. The Appellant made an application for further discretionary leave on 8
+   January 2015.  The Respondent refused that application on 25 July 2015.
+   I will need to come to the detail of that refusal in due course as it
+   forms the central core of the Appellant's grounds before me.  For now, it
+   is sufficient to note that the Respondent relied on criminal offences
+   committed between 2011 and 2013 which led to suspended prison sentences
+   (as well as other factors).   The Appellant's appeal against the 2015
+   decision was dismissed first on 20 July 2017 and then, following remittal
+   after a finding of error of law in the first decision, on 17 June 2019 by
+   First-tier Tribunal Judge Borsada.
+
+4. The Appellant then made further submissions on 28 November 2019 which
+   were refused by the Respondent by the decision under challenge but
+   accepted as amounting to a fresh claim. He was therefore given a further
+   right of appeal.
+
+5. The Appellant challenges the Decision on two grounds which can be
+   broadly summarised as follows:
+
+   a) Judge Sharma failed to take into account the medical evidence on which
+      the Appellant relied when considering whether to depart from the
+      previous adverse credibility findings of Judge Zucker ("the Devaseelan
+      issue") ([1] to [3] of the grounds).
+   b) Judge Sharma erred when dealing with the previous refusal of further
+      discretionary leave in the context of Article 8 ECHR.  It is asserted
+      that the Respondent failed to follow her guidance in relation to the
+      grant of further discretionary leave and that both she and the Judge
+      have failed to exercise the discretion required by paragraph 322(5) of
+      the Immigration Rules ("the Rules") ("the discretionary leave issue")
+      ([4] and [5] of the grounds).
+
+6. Permission to appeal was granted on the discretionary leave issue but
+   not on the Devaseelan issue by First-tier Tribunal Judge O'Garro on 22
+   January 2021 in the following terms:
+
+
+    "...3.   Contrary to what is submitted in the grounds, there was no
+    misapplication of the Devaseelan guidelines by the judge.  Even though
+    the judge took the decisions of the earlier judge as his starting point
+    he carefully considered the evidence before him and reached findings
+    properly open to him and gave adequate reasons for doing so.
+    4.   However in relation to paragraph 322(5) which according to Court
+    of Appeal in Balajigari [2019] EWCA Civ 673 involves a two-stage
+    analysis, requiring firstly a decision on whether the paragraph 322(5)
+    applies and secondly whether discretion falls to be considered, it is
+    arguable that the judge fell into error.  Permission to appeal is
+    granted."
+
+
+7. So it is that the matter comes before me to determine whether the
+   Decision contains an error of law and, if I so conclude, to either re-
+   make the decision or remit the appeal to the First-tier Tribunal to do
+   so.  The remote hearing was attended by representatives for both parties.
+   The hearing proceeded with no major technical difficulties.
+
+
+8. I have before me a small (unpaginated) bundle filed by the Appellant
+   which was before Judge Sharma.  I also have the Respondent's bundle of
+   core documents.  Mr Wilson also helpfully provided a skeleton argument
+   for the hearing before me.
+
+DISCUSSION AND CONCLUSIONS
+
+9. Although Judge O'Garro did not expressly refuse permission to appeal on
+   the Devaseelan issue, Mr Wilson indicated that he did not pursue that
+   part of the grounds of appeal.  He was in my view right to do so for the
+   following reasons.
+
+
+10. Judge Sharma considered the previous decision not only of Judge Zucker
+   but also of Judge Borsada.  As the Judge observed at [10] of the
+   Decision, on that appeal the Appellant relied on his health conditions as
+   obstacles to returning to Iraq.  The Judge went on to point out at [12]
+   of the Decision that "[i]n refusing the appeal, Judge Borsada used the
+   decision made by Judge Zucker as his starting point" but that "[i]n
+   considering both that decision and the evidence before him, Judge Borsada
+   made further adverse credibility findings on the appellant's
+   credibility".  As Judge Sharma pointed out at [13] of the Decision, Judge
+   Borsada had before him "copious medical notes" and that the Judge
+   "accepted that there was enough evidence to satisfy him as to the fact
+   that the appellant suffered from the chronic conditions relied upon".
+
+
+11. In the section of the Decision containing Judge Sharma's findings, the
+   following is said:
+
+
+    "52. Dealing with Mr Wilson's submissions then.  He argues that the
+    medical evidence before me undermines Judge Zucker's (and hence Judge
+    Borsada's) conclusions about the appellant's credibility.  I do not
+    agree.  Whilst arguably Judge Zucker found the lack of medical evidence
+    to be a significant matter against the appellant, Judge Borsada plainly
+    accepted that the appellant suffered from the chronic conditions that
+    have been raised before me."
+
+
+12. Judge Sharma properly directed himself on the Devaseelan guidelines at
+   [49] to [51] of the Decision, recognising that they were a starting point
+   and not binding.  Judge Sharma went on to consider the other new evidence
+   in the form of threatening letters and rejected the protection claim
+   based on those letters at [56] of the Decision.  Having rejected any
+   claim to humanitarian protection, Judge Sharma rejected the protection
+   claim as a whole at [58] of the Decision.
+
+
+13. Since, as I have already noted, Mr Wilson did not pursue the grounds of
+   appeal relating to the Devaseelan issue, there is no challenge to the
+   Decision so far as the protection claim is concerned.
+
+
+14. I turn then to the discretionary leave issue.  Before I deal with Mr
+   Wilson's submissions, it is necessary to set out some of the background
+   facts and evidence in this regard.
+
+
+15. I deal first with the relevance of this case being part of the CRP.
+   For ease, I refer to the judgment of Mr Justice King in the cases of
+   Geraldo and others v Secretary of State for the Home Department [2013]
+   EWHC 2763 (Admin) ("Geraldo").  At [39] to [45] of the judgment in
+   Geraldo, King J sets out the background to the CRP and the types of case
+   which fell within it.  As I have already noted that included cases of
+   failed asylum seekers (as this Appellant then was) who had not yet left
+   the UK.  Paragraphs [48] to [56] explain the process followed in relation
+   to the consideration whether to remove the failed asylum seeker applying
+   paragraph 395C of the Rules (later paragraph 353B) and the guidance in
+   Chapter 53 of the Enforcement Instructions and Guidance ("Chapter 53").
+   In such cases, where removal was not considered to be appropriate, leave
+   was granted.  Helpfully, given the issue in the cases of Geraldo, the
+   Judge also sets out at [67] to [73] the changes in the Rules which led to
+   the replacement of paragraph 395C with paragraph 353B (and setting out
+   that paragraph at [68] of the judgment) and the change in the
+   discretionary leave policy which led to the grant of indefinite leave
+   being replaced first with a grant of discretionary leave of three years
+   and later to a grant of thirty months leave.  In this case, since the
+   original grant of discretionary leave was made after July 2011 but before
+   July 2012, the Appellant was granted three years leave following the
+   initial review under the CRP.
+
+
+16. Next, I need to say something about the refusal of further
+   discretionary leave on 25 January 2017.  That appears on the final pages
+   of the Appellant's bundle.  Having set out the Appellant's immigration
+   history, the Respondent's decision records the Appellant's criminal
+   offences in the following way:
+
+
+    "... It is considered that your circumstances do not prevail since that
+    of your previous grant of Discretionary Leave. Security Checks have
+    returned with a positive hit.  You were convicted on 10/07/2012 at
+    Coventry District Magistrates for failing to surrender to custody on
+    the 15/12/2011.  You were given a suspended imprisonment of 2 weeks,
+    wholly suspended for 12 months.  A curfew requirement for 6 months.
+    You were convicted on the 10/07/2010 at Coventry District for
+    possessing a knife blade/sharp pointed article in a public place on
+    01/11/2011.  You were given 10 weeks imprisonment wholly suspended 12
+    months.  Curfew requirement 6 months.
+    You were convicted on 08/01/2013 to fail to comply with the
+    requirements of a community order on the 17/12/2012.  You were given
+    curfew requirement 4 weeks starting on the 11/01/2013 ending
+    07/02/2013.  Electronically monitored with a fine of �50."
+
+
+17. I pause to observe that the PNC check does not appear in any of the
+   bundles.  However, the above record is largely consistent with the
+   Judge's findings at [11] of the Decision save that the conviction for
+   possession of a knife blade/sharp pointed article is 10 July 2012 (not
+   2010 as must be the case based on the date of the offence) and that the
+   Appellant denied the latter offence of failing to comply with a community
+   order so that Judge Borsada who had also considered this matter in the
+   2019 appeal decision had not relied upon it (see [2] of Judge Borsada's
+   decision in the Respondent's bundle).
+
+
+18. The Respondent then considered paragraph 276ADE(1) of the Rules
+   ("Paragraph 276ADE") but concluded that the Appellant could not meet that
+   paragraph based either on his length of residence or obstacles to his
+   integration in Iraq.  The Respondent also considered the Appellant's
+   medical condition.  This is not relevant to the discretionary leave issue
+   and I can therefore skip over this part of the decision.  The Respondent
+   then went on to consider paragraph 353B of the Rules ("Paragraph 353B").
+   As the heading to that section makes clear that consideration was guided
+   in policy terms by Chapter 53. Having set out Paragraph 353B, the
+   Respondent went through the various headings in that paragraph.  The
+   following consideration was carried out:
+
+
+    "The Secretary of State has considered all the relevant factors of your
+    case.  And is content that your removal from the United Kingdom remains
+    appropriate for the following reasons:
+    Character, conduct and associations
+    Consideration has been given to your character, conduct and
+    associations whilst residing in the UK.  As noted above it has become
+    apparent during mandatory security checks that you have spent criminal
+    convictions.
+    In light of the above, it is considered that you have cast doubt upon
+    your character and therefore your character and conduct do not justify
+    a grant of leave to remain in the UK.
+    Compliance
+    Regard has been given to your compliance during your time spent in the
+    UK.  You arrived in the UK 19/08/2006, claiming Asylum the same day.
+    Your asylum application was refused on 15/11/2006. You subsequently
+    lodged an appeal against this decision on 1/12/2006.  Your appeal was
+    dismissed on 10/01/2007.  Your appeal rights became exhausted on
+    23/04/2007.  Following this, you failed to report on the following
+    dates: 05/10/06, 21/12/06, 15/03/07, 12/04/07, 19/04/07, 26/04/07,
+    25/03/10, 26/4/10, 26/5/10, 8/10/10, 7/10/11.  On 13/12/11 you were
+    granted Discretionary Leave to remain in the UK until 12/12/14. It is
+    noted that you submitted a out of time application for further leave to
+    remain on the 08/1/15.
+    It is clear from your immigration and reporting history your compliance
+    is not a desirable fact when considering an exceptional grant of leave
+    under paragraph 353B.
+    Length of time in the United Kingdom accrued for reasons beyond the
+    migrants control
+    Consideration has been given to the length of time that you have spent
+    in the UK that has been outside of your control.  It is considered that
+    all of your applications submitted to the Home Office have been
+    considered in a timely manner. In light of this, you have not been
+    subject to any significant delays which have prolonged your residency
+    within the UK.  You therefore fail to qualify for a grant of leave in
+    the UK due to your length of residence which was outside of your
+    control.
+    Any representations received
+    Consideration has been given to your medical conditions, however you
+    have not provided any evidence to show your medical conditions are life
+    threatening and would breach your human rights in line with caselaw N,
+    it is therefore considered that it would not be unjustifiably harsh to
+    return you to Iraq.
+    Conclusion
+    Regard has been given to your character, conduct and compliance whilst
+    residing in the UK.  You have failed to comply throughout the length of
+    your stay and this evidence weighs against your case.
+    When assessing all aspects of your claim as a whole, it is not
+    considered that there are any significant, compelling factors which
+    would warrant a grant of leave.  Therefore, it is considered that your
+    removal from the UK is appropriate."
+
+
+19. Before moving on, I make two observations about that decision.  First,
+   the Respondent considered whether there were any changes in circumstances
+   since the previous grant of leave and concluded that there were due to
+   the criminal convictions.  Second, having considered the Appellant's
+   private life and medical conditions, the Respondent reconsidered whether
+   there were exceptional circumstances which justified not removing the
+   Appellant under Paragraph 353B applying the Chapter 53 guidance which
+   required an evaluation of all the circumstances. In essence, that was a
+   repeat of the review which had led to the grant of the initial period of
+   discretionary leave but based on the changed circumstances.
+
+
+20. That was the decision which was the subject of the appeal which
+   ultimately came before Judge Borsada.  Judge Borsada dealt with the
+   discretionary leave issue thus:
+
+
+    "[8(vi)] With regard to the reasons for the failure to renew the grant
+    of discretionary leave and his previous period of living in the UK
+    prior to 2013: whilst the appellant disputed the commission of any of
+    the offences he had accepted that he had previous convictions in
+    respect of those matters (all except the failure to comply with the
+    community service order which he did not remember).  Furthermore, the
+    appellant accepted that he was 'out of time' when he applied for
+    further discretionary [leave] such that the respondent exercised its
+    discretion correctly"
+
+
+21. It was argued on the Appellant's behalf at that time that the offences
+   were not sufficiently serious to justify the refusal of further leave and
+   that two of the convictions were prior to the initial grant of
+   discretionary leave ([9a(i)]).  I pause to observe that the latter point
+   is inaccurate.  As I have already noted, Judge Sharma in the Decision
+   corrected what must be an inaccurate date regarding the conviction for
+   having a knife in a public place.  The earliest conviction was therefore
+   July 2012, about seven months after the initial grant of leave.  Judge
+   Borsada dealt with these points at [11] of his decision as follows:
+
+
+    "I note the appellant's representative's claim that the appellant's
+    admission of a drunken episode in 2013 is an indication of his
+    willingness to be truthful.  That one piece of oral evidence however
+    stands in stark contrast with his continued denial that he carried a
+    knife as an offensive weapon and failed to surrender to custody despite
+    his being convicted of those very offences.  With regard to the
+    previous offences, it was unfortunate that the respondent did not
+    provide me with his previous convictions 'print out' (PNC).
+    Nevertheless, I did note that the appellant, in a previous leave
+    application, had accepted of two previous convictions.  I also noted
+    that the failure to surrender to custody charge occurred during the
+    appellant's period of discretionary leave and that this fact coupled
+    with his failure to submit his further discretionary leave application
+    'in time' would certainly have been sufficient reason for the
+    respondent to refuse an application for further discretionary leave.
+    In my view the appellant has not been unfairly treated in respect of
+    the failure to renew his discretionary leave and certainly the failure
+    to renew his leave is not a matter that I consider can now be used to
+    weigh in the balance in the consideration of the article 8
+    proportionality exercise in 2019."
+
+
+22. The next point in the chronology is the further submissions made by the
+   Appellant which led to the decision here under appeal.  Those appear in a
+   form completed by hand, it appears by the Appellant himself.  That
+   appears in the Respondent's bundle.   The Appellant there says that his
+   further submissions are about "[t]hreats from Islamic fundamentalist
+   militants". He refers to "4 documents left in [his] house threatening
+   [his] life" which had been sent to him by his brother.  Those documents
+   are appended to the form.  He said that those documents demonstrate a
+   "risk of being killed by militants".
+
+
+23. Unsurprisingly in light of the content of those further submissions,
+   the Respondent's decision under appeal here focusses on the earlier
+   findings regarding the protection claim in the context of the new
+   documents and the updated country guidance.  In the context of Article 8
+   ECHR, the Respondent considers the Appellant's private life, concluding
+   that he could not meet Paragraph 276ADE on the basis of his length of
+   residence or the situation he would face on return to Iraq. The human
+   rights claim is not rejected on suitability grounds. The Appellant's
+   medical condition is then considered under the headings of "Exceptional
+   circumstances" and "Article 3 (medical)".  Finally, the decision maker
+   returns to the Paragraph 353B issue and concludes that, having regard to
+   the factors set out in that paragraph, removal remains appropriate.
+
+
+24. That then is the context in which the appeal came before Judge Sharma.
+   I make two observations before turning to the Decision.  First, the
+   refusal of further discretionary leave was not the decision under appeal
+   before Judge Sharma.  Second, Judge Sharma took as his starting point, as
+   he was entitled (indeed bound) to do, the findings of Judge Borsada which
+   include the paragraph which I have set out at [21] above.  No new
+   evidence was produced in this regard.  Judge Sharma referred at  [11] of
+   the Decision to the way in which Judge Borsada dealt with the earlier
+   refusal to grant further discretionary leave.  I do not need to set that
+   out as it largely replicates what Judge Borsada said in the passage I
+   have cited.
+
+
+25. Having dealt with the findings about the protection claim and concluded
+   at [56] of the Decision that the Appellant was not "under any kind of
+   threat upon return to his family home" and having rejected also the
+   humanitarian protection claim based on the updated country guidance,
+   Judge Sharma turned to deal with Article 8 ECHR.  He found that there
+   were no very significant obstacles to the Appellant integrating in Iraq
+   (where he still has family).  That finding is not challenged.  The Judge
+   then said this about the discretionary leave point:
+
+
+    "60. I agree with Mr Wilson that, when considering the article 8 claim
+    outside of the Immigration Rules, I should take into consideration
+    together the matters of long residence, health and the refusal of
+    discretionary leave rather than take them one by one.
+    61.  Considering the discretionary leave point, refusal due to the
+    conduct of the appellant clearly falls within the discretionary grounds
+    set out in paragraph 322(5) of the Immigration Rules.  However,
+    regardless of whether or not the application was wrongly considered to
+    be out of time, and even accepting that it was wrongly considered thus,
+    it is nevertheless a justifiable refusal on the grounds of the criminal
+    offending alone.
+    62.  There is nothing amounting to exceptional circumstances in either
+    the private life that has been further established by the appellant's
+    time in the United Kingdom (at a time when his immigration status was
+    precarious) or the fact of his medical conditions.  The consequences of
+    removal to the appellant are not unjustifiably harsh."
+
+
+26. The reference there to Paragraph 322(5) of the Rules ("Paragraph
+   322(5)") is mystifying.  As Mr Wilson accepted, the Respondent has never
+   relied on Paragraph 322(5) to refuse any application made by the
+   Appellant.  As I have already observed, the Respondent did not even
+   refuse the further submissions on this occasion on suitability grounds in
+   spite of the previous convictions.
+
+
+27. The submissions which Mr Wilson made to Judge Sharma as recorded at
+   [37] and [38] of the Decision are therefore equally puzzling.  Those are
+   as follows:
+
+
+    "37. The refusal of extension of leave is significant and has not been
+    properly addressed in the previous decision.  It should be reassessed.
+    The decision that was actually appealed before Judge Borsada (and Judge
+    Lawrence) is that decision.  It is dealt with at paragraph 11 of Judge
+    Borsada's determination.  There are two problems with it.  The first is
+    that the application was made in time (there was a 28 day grace period
+    at the time within which to reapply).  The second is that Judge Borsada
+    does not substantively consider the exercise of the discretion.  Rather
+    than decide that it was within the range of responses open to the
+    respondent, the tribunal should have exercised the discretion itself.
+    38.  In reaching its view, the respondent had not followed its own
+    guidance.  I was referred to paragraph 7 of the skeleton argument
+    which, in summary, argues that the circumstances comprising of the long
+    delay and residence were even more in the appellant's favour than at
+    the time of the initial grant of leave.  As for the criminality
+    threshold, that was not reached as the offence was not punished by a
+    custodial sentence and nor was any harm caused as a result of it.  The
+    relevant grounds were those at paragraphs 322(5) and (5A)."
+
+
+28. It is entirely unclear why Mr Wilson submitted to Judge Sharma that
+   Paragraph 322(5) had any purchase either in the instant appeal or in the
+   appeal before Judge Borsada.  Paragraph 322(5) was not the basis for the
+   refusal of further leave in the decision which Judge Borsada was
+   considering.  As I pointed out to Mr Wilson, the refusal of further
+   discretionary leave was based on a change in circumstances between the
+   grant of initial leave and the application for further leave because the
+   initial grant was on the basis of a review of the factors in Paragraph
+   353B and one of those factors was character and conduct to which the
+   Appellant's intervening criminal offending was of relevance.
+
+
+29. The mistaken apprehension that Paragraph 322(5) is and was of relevance
+   is developed in the grounds challenging the Decision as follows:
+
+
+    "4.  The IJ also errs in dealing with the issue of refusal of
+    discretionary leave to A.  A's criticism of two errors in IJ Borsada's
+    approach is reported at paragraph 37.  The second is that the judge
+    fails to exercise the discretion required by paragraph 322(5).  (The
+    complexity of the discretion involved is indicated by the Home Office
+    guidance to caseworkers on deciding to refuse under para 322(5) in the
+    case of criminal behaviour, which requires reference to a senior
+    caseworker).  In paragraph 61 the conclusion that the decision to
+    refuse to extend discretionary leave was 'a justifiable refusal' falls
+    into the same error.
+    5.   The IJ accepts in para 60 the need to take the issues of long
+    residence, health and refusal of an extension of discretionary leave
+    together in considering the article 8 claim.  However, by disregarding
+    the discretionary leave refusal in para 61 and stating that there is
+    nothing amounting to exceptional circumstances in A's long residence or
+    medical conditions he fails to take these factors together into account
+    in conducting the balancing exercise to assess whether refusal of leave
+    to remain in proportionate."
+
+
+30. Unfortunately, it is the asserted failure of Judge Sharma properly to
+   deal with Paragraph 322(5) which led to the grant of permission to appeal
+   the Decision.  This was and is a red herring.  The case of Balajigari v
+   Secretary of State for the Home Department [2019] EWCA Civ 673
+   (Balajigari") relied upon by Judge O'Garro is of no relevance for that
+   reason.  Neither is the case of R (oao Ngouh) v Secretary of State for
+   the Home Department [2010] EWHC 2218 (Admin) (leaving aside also that Mr
+   Wilson accepted that this was an extreme case on its facts, concerned the
+   refusal of indefinite leave to remain and was a judicial review challenge
+   and not an appeal).
+
+
+31. Due to the inapplicability of Paragraph 322(5) in the Respondent's
+   decision under appeal or indeed any of her previous decisions, I can
+   ignore the submissions made by Mr Wilson in his skeleton argument and
+   orally concerning the "two-stage process" to be adopted where Paragraph
+   322(5) is relied upon.  Paragraph 322(5) is one of the discretionary
+   general grounds of refusal where the exercise of discretion is obviously
+   part of the consideration to be undertaken.  That is not relevant in this
+   case.
+
+
+32. I turn then to the other part of Mr Wilson's argument regarding the
+   discretionary leave issue.  He relies on the Asylum Policy Instruction
+   entitled "Discretionary Leave" ("the API").  Mr Wilson accepted that this
+   document does not appear in the bundle before the Tribunal.  Nor, so far
+   as I can see was it relied upon by the Appellant before Judge Sharma.  I
+   have been unable to find Mr Wilson's skeleton argument before Judge
+   Sharma but the Judge's record of proceedings makes no mention of any
+   reliance placed on this policy.   Nor is there any mention of the API in
+   the grounds of appeal challenging the Decision.
+
+
+33. Notwithstanding that, I have considered Mr Wilson's submissions in this
+   regard.  I should add that, due to his failure to produce that policy, I
+   have only been able to find the version published on 18 August 2015 which
+   post-dates the Respondent's refusal of further discretionary leave by a
+   few weeks.  I will assume however for current purposes that the policy is
+   in the same form so far as relied upon by the Appellant.  It does not
+   appear from the "Document Control" reference at the end of the document
+   that the change to the policy in August 2015 is relevant to the argument
+   Mr Wilson seeks to make.
+
+
+34. The sections of the API concerning consideration of further leave
+   applications so far as relevant to this case are as follows:
+
+
+    "7.1 Considering further DL applications
+    All applications for further DL must be considered in line with this
+    guidance, taking into account all information available at the date of
+    decision, including the contents of the application form, country
+    reports and any other relevant information, including that provided at
+    the time of the original grant of DL...Out of time applications must
+    still be considered on the basis of all the evidence put forward and
+    the fact that the application was late should not, on its own be used
+    as a reason to refuse further leave where the individual otherwise
+    qualifies under the policy.  Those who apply out of time will be unable
+    to accrue continuous leave towards settlement.
+    ...
+    7.4  Refusing further DL
+    Where an application for further DL is considered and it is decided
+    that the individual no longer qualifies for DL, the application should
+    be refused.  There is no automatic right to further leave or settlement
+    and those who apply for further leave must qualify under the policy in
+    force at the time of the decision."
+
+
+35. In short, therefore, the section of the API dealing with further
+   applications guides caseworkers to consider the application against the
+   policy in force at the time of the initial grant.  As I have already
+   pointed out, the basis of the initial grant of discretionary leave was
+   following a review under the CRP and the application of Paragraph 353B.
+   The decision maker made clear that the review was conducted in accordance
+   with Chapter 53.  I have already made reference to the sections of the
+   judgment in Geraldo which explain the Chapter 53 guidance and the
+   Paragraph 353B factors.   That is the exercise which was conducted in
+   this case leading to the refusal of further leave on the basis that the
+   application of the factors to the Appellant's case no longer justified a
+   grant of discretionary leave.
+
+
+36. Mr Wilson relies on the section of the API dealing with criminality.
+   That reads as follows so far as relevant to this case:
+
+
+    "3.6 Exclusion and criminality
+    In all asylum and non-asylum cases caseworkers must consider the impact
+    of an individual's criminal history before granting any leave.
+    ...
+    Where an individual does not fall within the restricted leave policy
+    (for example, where they are not excluded under Article 1F or the
+    criminal sentence was less than 2 years' imprisonment), caseworkers
+    must consider the impact of any criminal history before granting DL,
+    having regard as appropriate to Part 9 (General Grounds for Refusal)
+    and, where an individual is not liable to deportation, paragraph
+    353B(i) of the Immigration Rules.  Criminals or extremists should not
+    normally benefit from leave on a discretionary basis under this policy
+    because it is a Home Office priority to remove them from the UK."
+
+
+37. For the sake of completeness, I also set out the paragraph from Chapter
+   53 dealing with character and conduct which includes reference to
+   criminality.  Chapter 53 was archived in October 2017 but remains
+   available electronically via the archive:
+
+
+    "(i) Character, conduct and associations including any previous
+    criminal record and the nature of any offence of which the applicant
+    has been convicted
+    When considering an individual's character and conduct, regard must be
+    given to whether:
+    ( there is evidence of criminality that meets the criminal casework
+    (CC) threshold
+    ( the individual has been convicted of a particularly serious crime
+    (below the CC threshold) involving violence, a sexual offence, offences
+    against children or a serious drug offence
+    ( there are serious reasons for considering that the individual falls
+    within the asylum exclusion clauses, or
+    ( it is considered undesirable to permit the individual to remain in
+    the UK in light of exceptional circumstances, or in light of their
+    character, conduct or associations, or the fact that they represent a
+    threat to national security.
+    Evidence of criminality or conduct meeting the criteria above will
+    normally mean that an individual cannot benefit from exceptional
+    circumstances."
+
+
+38. Whilst I would accept that the Appellant's offending does not bring him
+   within the first two of those bullet points, the Respondent was entitled
+   to take the view as was said in the 2015 decision that it remains
+   relevant to character and conduct.  Further, the decision that it was
+   appropriate to remove was based not only on the criminal offending but
+   also on the Appellant's immigration history and there being an absence of
+   factors weighing in his favour.  No arguments were addressed to either
+   Judge Borsada or Judge Sharma concerning Chapter 53 and whether the 2015
+   decision was lawful in that regard.  As I have pointed out, there was no
+   new evidence before Judge Sharma in any event and his starting point was
+   therefore rightly the findings of Judge Borsada.
+
+
+39. Mr Wilson's point so far as I understood it is that there is a "two-
+   stage process" when an application for further leave is made, first
+   considering whether the circumstances have changed from those at the time
+   of the initial grant of leave and then, even if they have, whether the
+   criminal history is sufficient to warrant a refusal.  I would accept that
+   the passage I have cited from the API refers to the guidance on the
+   general grounds of refusal (the link to that page is no longer extant in
+   the published API so I cannot refer to it).  However, that is only of
+   relevance where it is appropriate.  It is not said to be relevant where
+   the caseworker is refusing an application on the basis that the
+   individual's circumstances have changed so that discretionary leave is no
+   longer appropriate.  It would or might be relevant where, for example, a
+   person continues to meet the policy which forms the basis for the initial
+   grant of discretionary leave but where a refusal might be appropriate due
+   to criminal conduct.  I observe in passing that the situation of this
+   Appellant is very different from that of the appellants in Balajigari who
+   were entitled to leave to remain under the Rules but for the application
+   of Paragraph 322(5).
+
+40. Moreover, the tenor of that part of the API is not that leave should be
+   granted unless an individual's criminal history is sufficiently serious.
+   As stated in the final sentence of the passage I have quoted, the policy
+   is that criminals should not normally benefit from discretionary leave.
+
+41. I have already set out and explained my view of the way in which
+   criminality is relevant to Paragraph 353B.  In support of my view and for
+   completeness in relation to the operation of Paragraph 353B, I make
+   reference to the cases of Qongwane and others v Secretary of State for
+   the Home Department [2014] EWCA Civ 957. Those were cases in which there
+   was no criminal conduct.  At least one (Singh) was on similar facts to
+   this case (ie a failed asylum seeker who had not been removed).  Although
+   as Sir Stanley Burnton pointed out at [26] of the judgment, Paragraph
+   353B is concerned with whether or not to remove an individual and not
+   whether to grant leave and if so what form of leave, and therefore the
+   Court of Appeal was not seized of that issue, the discretion in Paragraph
+   353B is held to be "a safety valve, pursuant to which the Secretary of
+   State may refrain from removing but only in [exceptional circumstances]
+   which will necessarily be rare" ([24]).   Underhill LJ also made the
+   following observations at [40] about the operation of Paragraph 353B
+   which underline the way in which the review of the factors in that
+   paragraph operates:
+
+    "I only wish to add one point about para. 353B. Ms Anderson submitted
+    that the factors listed at (i)-(iii) were (unlike the much more
+    extensive list in the old para. 395C) all "negative" in character and
+    thus that their intention is to constrain (or at least guide) the
+    exercise of what would otherwise be a general discretion not to remove
+    migrants who had no right to remain under the Rules or the general law.
+    On a literal reading that submission seems wrong: taking the example of
+    head (i), migrants can have good character as well as bad, and a very
+    long period of time spent in the UK for reasons beyond the migrant's
+    control (head (iii)) would surely in principle count in favour of non-
+    removal. But I think that that is too literal. Para. 353B is not very
+    well drafted, but it seems to me clear, reading it as a whole, that its
+    essential purpose is indeed to identify specific points which will
+    weigh in the balance against the exercise of the discretion not to
+    remove a migrant, or to qualify the effect of factors that might
+    otherwise weigh in its favour. Thus the point of heads (i) and (ii) is
+    to make clear that (in short) bad character/conduct and non-compliance
+    with conditions must always count against the exercise of the
+    discretion. As for head (iii), the point surely being made is that time
+    spent in the UK after the adverse immigration decision ought (at least
+    generally) only to count in the migrant's favour if his or her reasons
+    for not leaving were beyond their control. I think this point worth
+    making because I have observed a tendency for migrants or their
+    advisers to treat the facts that they have committed no criminal
+    offences or have complied with all conditions as if that created some
+    kind of presumption in favour of non-removal 'under para. 353B'. That
+    is not the right approach. Para. 353B is not a kind of mandatory check-
+    list of the same character as (albeit less comprehensive than) the old
+    para. 395C. I do not say that good character or compliance with
+    conditions are wholly irrelevant to an exercise of the discretion in
+    question. But it is not the purpose of para. 353B to ensure that they
+    are considered; and they are hardly likely to be significant factors by
+    themselves given the exceptional nature of the discretion as explained
+    by Sir Stanley Burnton at para. 24 of his judgment."
+    [my emphasis]
+
+42. Leaving aside the difficulties faced by the Appellant in making out a
+   challenge relying on an argument which was not apparently made to the
+   Judge below nor referred to in the grounds of appeal, I consider that Mr
+   Wilson's submissions regarding the API are for those reasons misconceived
+   and without merit.
+
+
+43. It is perhaps slightly unfortunate that Judge Sharma was led down the
+   path of considering Paragraph 322(5) where that was not and never had
+   been relied upon by the Respondent.  It is equally unfortunate that the
+   way in which the challenge to the Decision was pleaded on this issue (and
+   therefore the reasons for the grant of permission) bore little
+   resemblance to the way in which the case was argued before me.
+
+
+44. Whilst Ms Everett very fairly accepted that [61] of the Decision is
+   brief in its consideration of the discretionary leave issue, I do not
+   consider that to amount to an error of law for three further reasons.
+   First, the appeal was not against the refusal of further discretionary
+   leave.  Second, and flowing from that, the Appellant already had an
+   appeal against the refusal of further discretionary leave.  That appeal
+   was dismissed by Judge Borsada and the Appellant did not challenge that
+   decision.  Third, and again flowing from that, the starting point for
+   Judge Sharma was the findings of Judge Borsada which stood unchallenged.
+   I add that I do not agree with Judge Sharma's finding that the refusal of
+   further discretionary leave might be unjustified insofar as based on the
+   application being out of time (contrary to the view of Judge Borsada).
+   The application for further discretionary leave was clearly made after
+   the Appellant's discretionary leave had come to an end even if the period
+   between that date and the application fell to be disregarded for the
+   purposes of deciding the application.  However, if anything that finding
+   is unduly generous to the Appellant and makes no difference to the
+   Judge's conclusion.  Judge Sharma, as Judge Borsada, was clearly entitled
+   to reach the conclusion that the refusal of discretionary leave was
+   justified by the Appellant's criminal offending as well as the other
+   matters relied upon following the Respondent's review of his case under
+   Paragraph 353B/Chapter 53 in 2015.
+
+CONCLUSION
+
+
+45. For the foregoing reasons, there is no error of law in the Decision on
+   the discretionary leave issue.  As I have already noted, Mr Wilson did
+   not pursue a challenge to the Decision on the Devaseelan ground.  There
+   is no other challenge to the Decision dismissing the appeal on protection
+   and human rights grounds.  The Decision does not contain any error of
+   law.  I therefore uphold the Decision with the result that the
+   Appellant's appeal remains dismissed on all grounds.
+
+DECISION
+The Decision of First-tier Tribunal Judge Sharma promulgated on 10 December
+2020 does not involve  the making of an error on a point of law. I
+therefore uphold the Decision.   The Appellant's appeal remains dismissed.
+
+
+Signed: L K Smith
+
+Upper Tribunal Judge Smith
+
+Dated:  6 May 2021
+

@@ -1,0 +1,341 @@
+Appeal Number: EA/04989/2017
+
+
+
+
+
+	Upper Tribunal 
+
+	(Immigration and Asylum Chamber)	Appeal Number: ea/04989/2017
+
+
+
+
+
+THE IMMIGRATION ACTS
+
+
+
+
+
+Heard at Manchester Civil Justice Centre
+
+Decision & Reasons Promulgated
+
+On 3 July 2018
+
+On 21 August 2018
+
+
+
+
+
+
+
+Before
+
+
+
+UPPER TRIBUNAL JUDGE GRUBB
+
+UPPER TRIBUNAL JUDGE PLIMMER
+
+
+
+
+
+Between
+
+
+
+JOU
+
+(ANONYMITY DIRECTION MADE)
+
+Appellant
+
+and
+
+
+
+THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+Respondent
+
+
+
+
+
+Representation:
+
+	For the Appellant:	Mr O Atuegbe of R & A Solicitors
+
+	For the Respondent:	Mr A McVeety, Senior Home Office Presenting Officer 
+
+	
+
+
+
+	DECISION AND REASONS
+
+	Pursuant to rule 14 of the Tribunal Procedure (Upper Tribunal) Rules 2008 (SI 2008/2698) we make an anonymity order prohibiting the disclosure or publication of any matter likely to lead to members of the public identifying the appellant.  A failure to comply with this direction could lead to Contempt of Court proceedings.
+
+
+
+Introduction
+
+	The appellant is a citizen of Nigeria who was born on 6 November 1984.  On 31 December 2016, she applied for a derivative residence card under reg 20 (relying on reg 16(2)) of the Immigration (EEA) Regulations 2016 (SI 2016/1052) (“the EEA Regulations 2016”).  The basis of that claim was that her son (“D”), who is a Swedish national, lived in the UK, and that the appellant was his “primary carer”.  
+
+	On 4 May 2017, the Secretary of State refused the appellant’s application.  The Secretary of State was not satisfied that the appellant met the requirements of reg 16(2), namely that D was a “self-sufficient person”.  The Secretary of State was not satisfied that sufficient resources were available to D such that he would not become a burden on the social assistance system in the UK or that he had “comprehensive sickness insurance cover” in the UK.  
+
+The Appeal to the First-tier Tribunal 
+
+	The appellant appealed to the First-tier Tribunal (‘FtT’).  Judge Brunnen dismissed the appellant’s appeal.  He accepted that the appellant was D’s “primary carer”.  However, he was not satisfied that D was “self-sufficient”.  First, he was not satisfied that gifts of money made to the appellant to support D were, in themselves, sufficient to make D “self-sufficient” but that in any event the appellant was no longer in receipt of such gifts.  Further, although the judge accepted that the appellant had been employed since August 2017 and that her earnings were “quantitively sufficient” for D to be self-sufficient, they could not be taken into account as the appellant had “no right to be working in the UK unless she has a derivative right of residence”.  Secondly, in any event, the judge concluded that the appellant’s health insurance did not satisfy the requirement of being “comprehensive sickness insurance” as it did not cover visits to a GP or to an Accident & Emergency Department of a hospital.
+
+The Appeal to the Upper Tribunal 
+
+	The appellant sought permission to appeal to the Upper Tribunal on the basis that the judge had erred in law by not taking into account the appellant’s earnings in assessing whether D was self-sufficient and that her health insurance coverage was “equivalent to comprehensive” insurance.
+
+	On 6 March 2018, the FtT (Judge L Murray) granted the appellant permission to appeal.  The grant of permission was on the following basis:
+
+“The grounds have merit.  Judge arguably erred in the light of the decision in Alokpa v Ministre du Travail Case C-86/12 CJEU (Second Chamber) in which it was held that when considering, for the purposes of Article 7 of the Citizens Directive, whether an EU citizen had sufficient resources it sufficed that such resources were available to the citizen.  There was no requirement as to the origin of the resources and these could be provided by a national of a non-member state.  It is also arguable that the Judge’s finding that comprehensive sickness insurance had to cover visits to the GP and A & E was flawed in the light of the case of Jobcentre Berlin Neukölln v Alimanovic Case C-67/2.”
+
+	Following directions issued by the Upper Tribunal on 30 May 2018, both parties submitted skeleton arguments addressing the EU law issues raised in this appeal.
+
+The EEA Regulations 2016
+
+	The relevant provisions in the EEA Regulations 2016 are found in reg 16(1), (2) and (5) as follows:
+
+		“16.	(1)	A person has a derivative right to reside during any period in which the person—
+
+	(a)	is not an exempt person; and
+
+	(b)	satisfies each of the criteria in one or more of paragraphs (2) to (6).
+
+		(2) 	The criteria in this paragraph are that—
+
+	(a)	the person is the primary carer of an EEA national; and
+
+	(b)	the EEA national—
+
+	(i)	is under the age of 18;
+
+	(ii)	resides in the United Kingdom as a self-sufficient person; and
+
+	(iii)	would be unable to remain in the United Kingdom if the person left the United Kingdom for an indefinite period.
+
+					….
+
+					(5) 	The criteria in this paragraph are that—
+
+	(a)	the person is the primary carer of a British citizen (‘BC’);
+
+	(b)	BC is residing in the United Kingdom; and
+
+	(c)	BC would be unable to reside in the United Kingdom or in another EEA State if the person left the United Kingdom for an indefinite period.”
+
+	For the purposes of reg 16(2) a “self-sufficient person” is defined in reg 4(1)(c) as follows: 
+
+“’self-sufficient person’ means a person who has –
+
+(i)	sufficient resources not to become a burden on the social assistance system of the United Kingdom during the person’s period of residence; and
+
+(ii)	comprehensive sickness insurance cover in the United Kingdom; …”
+
+Discussion
+
+	Before the judge, it is clear that the appellant only relied upon a “derivative right to reside” as set out in reg 16(2).  This provision sets out, in effect, in UK domestic law the effect of the ECJ’s decision in Chen and Zhu (Case C-200/02) [2004] Imm AR 754.
+
+	The crucial issues in dispute are whether the appellant as D’s “primary carer” established that he was a “self-sufficient person” based upon her income derived from employment in the UK and that D had “comprehensive sickness insurance”.
+
+Resources and self-sufficiency
+
+	The judge accepted that the appellant’s income was “quantitatively sufficient” but could not be taken into account in order to establish D’s rights based upon “self-sufficiency” since it produced a “circular argument” because ([26]): 
+
+“I find that reliance cannot be placed on the appellant’s earnings in the UK to establish that [D] is self-sufficient and has a right to reside in the UK.  He has no right from which the appellant claim to derive her own right to be here and to work.”
+
+	In support of that conclusion, the judge relied upon earlier decisions of the Asylum and Immigration Tribunal in GM and AM [2006] UKAIT 59 and MA [2006] UKAIT 90.
+
+	Mr McVeety, who represented the respondent, both in his skeleton argument and oral submissions maintained that the judge was correct.  He submitted that at the date of the appellant’s application, she had no right to work, even though the Secretary of State has subsequently issued the appellant with a Certificate of Application (“COA”) on 13 September 2017 which entitled her to work.  Mr McVeety submitted that account should only be taken of her earnings if she had a prior right to work which was in existence at the date of application, otherwise merely to make an application for a residence card based upon a derived right of residence would, with the issue of a COA, in itself allow an individual to establish the right which they otherwise would not have possessed.  He submitted that that “circular interpretation” was impermissible.  
+
+	Mr McVeety’s submission is undoubtedly based upon the Secretary of State’s policy set out in the current Home Office Policy Guidance, Free Movement Rights: derivative rights of residence (Version 4.0), 27 February 2018 at pp.15-16:
+
+	
+
+“Income from the primary carer
+
+
+
+A child may show that they are self-sufficient by relying upon the income of their primary carer. However, any work undertaken in the UK will only be considered acceptable where this is lawful employment. For example, if the primary carer currently has leave to remain under another part of the Immigration Rules which entitles them to work, they can use any income from those earnings to show they are self-sufficient. 
+
+
+
+Before 16 July 2012, when Chen was given effect under the Immigration (European Economic Area) Regulations 2006 (the 2006 regulations), paragraph 257C of the Immigration Rules did not grant primary carers of EEA self-sufficient children the right to work. 
+
+	
+
+	Since 16 July 2012, the 2006 regulations (as amended) and now the 2016 regulations, enable the primary carer with a derived right of residence to work lawfully in the UK regardless of whether a document has been issued to them in that capacity. This means there may be cases where the primary carer seeks to rely on this work to meet the self-sufficiency requirement when applying for a document. You must, therefore, consider whether the EEA national child was self-sufficient before the primary carer started employment in a Chen capacity. This is because the EEA national child must be self-sufficient first in order for the primary carer to derive a right of residence, and so be able to work lawfully in the UK.
+
+	
+
+In cases where self-sufficiency has already been established (for example, the applicant has already been issued a document under the 2006 regulations or the 2016 regulations on the basis of Chen) and the primary carer has begun working in exercise of their Chen right, then funds from that employment can be relied upon to support a further application on the basis of Chen.” 
+
+	We were not taken to this policy by either party but its content is clear.  The policy recognises, in effect, that there must be a prior right to work – prior that is to any right to work derived from the Chen status of the appellant’s child – before income derived from that employment may be taken into account in establishing ‘self-sufficiency’.  It eschews what might be described as a ‘boot-strapping’ argument which is precisely the argument which Mr McVeety invited us to reject.  
+
+	The Court of Appeal has concluded that some sources of income cannot be utilised to establish self-sufficiency in W(China) and X (China) v SSHD [2006] EWCA Civ 1494 and Liu and others v SSHD [2007] EWCA Civ 1275.  In Liu, the Court of Appeal summarised the position at [12]:
+
+	
+
+“i) 	Applying paragraph 45 of Chen, the right of residence of a minor could only be effectively asserted with the presence and support of a carer or guardian, and that, if the requirements of the Directives are fulfilled, creates a right for the parent to reside with the child, (W (China) [6]); 
+
+
+
+ii) 	All of the minor EU citizen and his non-EU citizen carers have to fulfil the Directive requirements of (a) sickness insurance; (b) sufficiency of means: (W (China) [8]); 
+
+
+
+iii) 	Those conditions are pre-conditions to the existence of the article 18 right in any given case, and thus the right does not exist until those conditions are fulfilled: (W (China) [16]); 
+
+
+
+iv) 	The pre-condition of sufficiency of means cannot be fulfilled by funds derived from employment that is precarious because it is unlawful: (W (China) [14]); 
+
+
+
+	v) 	The member state is under no obligation to adjust its domestic law in order to make available to the EU citizen resources that will enable him to fulfil the pre-condition to the existence of the Article 18 right: (W (China) [16]).” Consequently, another’s earnings - when that individual had no legal right to work - cannot be taken into account (W (China) v SSHD) and income acquired as a result of a right to work derived only from s.3C leave cannot be taken into account (Liu and others v SSHD).  Those decisions remain binding upon us.
+
+The Upper Tribunal considered the case law in Seye (Chen children; employment) [2013] UKUT 00178.  We were unfortunately not taken to Seye by the parties.  The headnote usefully summarises its conclusions as follows:
+
+	
+
+It is clear that income from illegal employment in the host Member State on the part of a parent of a “Chen” child (Case c-200/02 Chen [2004] ECR I-9925) cannot create self-sufficiency for that child (W (China) and X (China) [2006] EWCA Civ 1494).
+
+ 
+
+The proposition in MA & Others (EU national: self-sufficiency; lawful employment) [2006] UKAIT 00090 and ER and Others (EU national; self-sufficiency; illegal employment) [2006] UKAIT 00096 that even lawful employment cannot create such self-sufficiency, where the parent is on limited leave or temporary admission, must be regarded as doubtful, in the light of Metock and Others [2008] EUECJ C-127/08 and Liu and Ors v SSHD [2007] EWCA Civ 1275.
+
+ 
+
+It is, however, part of the binding ratio in Liu that lawful employment undertaken by a parent whose leave has been extended under section 3C of the Immigration Act 1971 cannot create self-sufficiency for the “Chen” child.
+
+	
+
+	19.	The point at issue in the present appeal was, however, left open by the Upper Tribunal although it is fair to say that it considered that the CJEU’s case law made the Secretary of State’s argument, as propounded in this appeal, less likely to be sustainable.  At [51], the Upper Tribunal said this:
+
+	
+
+	“51. It seems to us that the preponderance of argument does not exclude the second position being consistent with either Court of Justice or Court of Appeal authority. However, we do not need in this case to resolve definitively which of the two positions described above is correct. As already explained, even assuming that the second position is the correct one under EU law, the claimants in this case could still not establish their case. Under the second position there remains the question of what type of employment could be considered to demonstrate such self-sufficiency in the Union citizen child. Whilst in our opinion the case law of the Court of Justice and Court of Appeal does not exclude employment on the part of a parent or parents in the host Member State being able to create self-sufficiency for their Union citizen child in some circumstances, it clearly does exclude employment that is illegal employment as well as employment that is lawful purely in the sense that the relevant parent has section 3C leave. That is why the appellants Mrs Wang and Mr and Mrs Ahmed lost in Liu and why the claimants cannot succeed in the appeal before us.”
+
+	We agree with the Upper Tribunal’s ‘inclination’ in Seye as to the proper effect of EU law. We reject Mr McVeety’s submission that income derived from lawful employment (excluding that derived from a right to work during any s.3C leave) cannot be taken into account in establishing ‘self-sufficiency’.  The lawful employment may arise as a result of a ‘prior’ right to work or, as in this case, because of the Secretary of State’s COA which entitled the appellant to work.  Nothing in Liu or W(China) requires us to decide otherwise.  It may be that the respondent was not required to allow the appellant to work and thereby create the conditions whereby the appellant could work and establish that she (and her child) were self-sufficient.  But, by virtue of the COA, the respondent has, in fact, done so.  The reality is that the appellant may lawfully work and, if her income is sufficient, establish that she (and her child) are self-sufficient.  We see no basis in principle or commonsense to disregard the reality of the situation in which the appellant and her child find themselves.
+
+	Most importantly, however, it is clear to us that the CJEU in its decisions post-dating the Court of Appeal decisions has not placed any arbitrary limitation on resources that are available to the EU national (here the Chen-child).  That is illustrated by the decision in Alokpa and Others v Ministre du Travail, de l’Emploi et de l’Immigration (Case C-86/12) (10 October 2013) to which the grant of permission made reference.  There, the CJEU was concerned with a derivative right of residence by a third-country individual who was the mother (and primary carer) of a French national child living in Luxembourg.  Consistent with this earlier case law, the CJEU acknowledged that the Citizens’ Directive (2004/38/EC) was not directly applicable as a parent, in the circumstances, who is dependent upon an EU national child did not fall within the definition of “family member” in Article 2.2 of the Directive.  However, relying upon the decision in Chen and Zhu the CJEU recognised that the third-country national could derive a right from the EU national’s right to reside as a “self-sufficient” person in the host Member State.  The CJEU accepted that, by analogy, the self-sufficiency requirement in Article 7(1)(b) of the Directive applied.  At [27], the CJEU said this:  
+
+“however, in the context of a case such as that at issue in the main proceedings, in which a Union citizen was born in the host Member State and had not made use of the right to free movement, the court has held that the expression ‘have’ sufficient resources in a provision similar to Article 7(1)(b) of Directive 2004/38 must be interpreted as meaning that it suffices that such resources are available to the Union citizens, and that that provision lays down no requirement whatsoever as to their origin, since they could not be provided, inter alia, by a national of a non-Member State, the parent of the citizens who are minor children at issue (see, to that effect, concerning European Union law, instruments pre-dating that Directive, Case C-200/02 Zhu and Chen [2004] ECR I-9925, paragraphs 28 and 30).”
+
+	The CJEU went on to state (at [30]) that a court: 
+
+“must determine whether those children have, on their own or through their mother, sufficient resources and comprehensive sickness insurance cover, within the meaning of Article 7(1)(b) of the Directive 2004/38.”
+
+	As we have already indicated, reg 16(2) of the EEA Regulations 2016 seek to give effect to that EU right.  We see no limitation in what the CJEU refers to as “resources… available to the Union citizens” including from the parent of such citizens so as to exclude lawful earnings of the parent.  There is no doubt that from the date upon which the respondent issued the appellant with a COA on 13 September 2017, she had a right to work and her earnings were lawful.  Mr McVeety was not in a position to inform us why the Secretary of State had a policy of issuing, in cases such as the present, the individual with a COA.  It may or may not be required by EU law.  In any event, the practical reality is that the respondent does issue COAs and, in a case such as the present, it would be wholly unreasonable not to have regard to that income in determining whether the EU national has established that they are “self-sufficient”.  We agree with what was said by the Tribunal in Seye on that point. But we are clearer in our view: the position recognised by the AIT in GM and AM and MA cannot survive the approach of the CJEU.  
+
+	Consequently, the judge was wrong not to take into account the appellant’s lawful earnings in assessing whether D was “self-sufficient”.  Had he done so, the judge was satisfied that they were “quantitatively sufficient”.  
+
+Comprehensive sickness insurance
+
+	In order to be a “self-sufficient” person the EU citizen (and indeed the appellant) must also have “comprehensive sickness insurance” (reg 4(1)(c)).
+
+	Mr Atuegbe, who represented the appellant, did not seek to contend with any vigour that the appellant’s health insurance was “comprehensive”.  He was, in our judgment, right not to do so.  There is no doubt that the requirement to have “comprehensive sickness insurance” is a condition to establishing the EU national’s right of residence as a “self-sufficient” person and of the appellant to establish her derived right of residence as his carer.  The CJEU acknowledged that at [30] of its decision in Alokpa (which we set out above).  
+
+We were briefly referred to the decision of the CJEU in Jobcentre Berlin Neukoll v Alimanovic (Case C-67/1) (15 September 2015). We are not entirely sure to what effect the appellant relied upon this case.  As we understand Mr Atuegbe’s brief submissions (paras 5 and 6 of his skeleton argument), he relied on Alimanovic to disapply the requirement of having “comprehensive health insurance” and, perhaps, to contend that NHS provision sufficed since it is available to British citizens.
+
+In our judgment, Alimanovic does not provide any basis for disregarding the requirement in the EEA Regulations 2016 (derived from the Citizens’ Directive) that the appellant and D must have “comprehensive health insurance”.  That case does not entitle the appellant to rely upon the NHS as provision of “social assistance” equivalent to British citizens.   It does not require that “social assistance”, if NHS treatment is properly so described, be provided (see [74] and [75]).  Further, in W(China), the Court of Appeal affirmed the requirement to have “comprehensive health insurance” and held that NHS treatment that was available did not satisfy that requirement.
+
+Like the judge, we were not referred to any authorities or other source as to the meaning of “comprehensive sickness insurance”.  We note, however, that the respondent’s own guidance in relation to EEA nationals provides at para 1.2.17 (p.30):  
+
+“you can accept an EEA national or their family member as having [comprehensive sickness insurance] if they hold any form of insurance that will cover the cost of the majority of medical treatment they may receive in the UK.
+
+You must take a proportionate approach when you consider if an insurance policy is comprehensive.  For example, a policy may contain certain exemptions but if the policy covers the applicant for medical treatment in the majority of circumstances you can accept it.”
+
+We are content to assume that that is a permissible interpretation of “comprehensive” which cannot reasonably require that every medical treatment or procedure that would otherwise be obtained through the NHS must be covered by the health insurance.  The difficulty for the appellant in this case is that the omissions are significant and include any visits to a GP or to an Accident & Emergency department.  The judge set out the evidence at paras 14 – 15 of his determination as follows:
+
+“14.	However, in the Appellant’s supplementary bundle there is a health insurance policy, valid from 7th December 2017.  This long post-dates the Respondent’s decision but I am able to take account of it pursuant to Section 85(4) of the 2002 Act (above).  This policy covers both the Appellant and Daniel.  The question that arises in respect of it is whether it amounts to “comprehensive sickness insurance”.  Neither party was able to give me any assistance as to the minimum attributes of comprehensive sickness insurance.  I am not aware of any jurisprudence that assists with this issue.  I note that this policy does not cover visits to a GP or to A & E.  Nor does it cover the recurrence within two years of a pre-existing condition suffered in the previous five years.  It does not cover ‘ongoing, recurrent or long term conditions’.  It does not cover routine pregnancy and childbirth.  It only covers up to three specialist consultations a year.
+
+15.	The object of the requirement for comprehensive insurance cover is to avoid the person concerned becoming a burden on the medical services of the host state, in this case the NHS.  The kind of medical services which the Appellant and Daniel are most likely to need are those of a GP or an A & E department.  Since these are not covered by the Appellant’s policy, I am not satisfied that this policy provides comprehensive sickness insurance.”
+
+In our judgment, the judge’s conclusion is legally unassailable.
+
+At paragraph 16, the judge referred to an “upgraded health insurance policy” which the FtT had received after the hearing.  Mr Atuegbe referred us to that policy but, he accepted, it retained very significant omissions in coverage, including any GP or A & E treatment.  He did not contend that it was any more “comprehensive” for the purposes of the EEA Regulations 2016 than was the original policy obtained by the appellant.
+
+It follows, in our judgment, that whilst the judge was wrong to exclude the appellant’s earnings in determining whether D had “sufficient resources” not to be a burden on the social security system in the UK (reg 4(1)(c)(i)); the judge was correct to find that D did not have “comprehensive sickness insurance” cover in the UK as required by reg 4(1)(c)(ii) and consequently the judge was correct to find that D was not a “self-sufficient person” within reg 16(2)(b)(ii) and so the appellant could not derive a right of residence as his primary carer.  The judge was, in our judgment, right to dismiss the appellant’s appeal on this ground.
+
+The Zambrano argument
+
+Before us, Mr Atuegbe advanced a different basis for the appellant’s claimed derived right of residence.  He relied upon the CJEU’s reasoning in Alokpa at [32] – [ 36] where the Court said this:
+
+“32	Concerning, in the second place, Article 20 TFEU, the Court has held that there are very specific situations in which, despite the fact that the secondary law on the right of residence of third-country nationals does not apply and the Union citizen concerned has not made use of his freedom of movement, a right of residence cannot, exceptionally, without undermining the effectiveness of the Union citizenship that citizen enjoys, be refused to a third-country national who is a family member of his if, as a consequence of refusal, that citizen would be obliged in practice to leave the territory of the European Union altogether, thus denying him the genuine enjoyment of the substance of the rights conferred by virtue of the status of citizen of the European Union (see Iida, paragraph 71, and Ymeraga and Ymeraga-Tafarshiku, paragraph 36).
+
+	33	Therefore, if the referring court holds that Article 21 TFEU does not preclude Mrs Alokpa from being refused a right of residence in Luxembourg, that court must still determine whether such a right of residence may nevertheless be granted to her, exceptionally – if the effectiveness of the Union citizenship that her children enjoy is not to be undermined – in light of the fact that, as a consequence of such a refusal, those children would find themselves obliged in practice to leave the territory of the European Union altogether, thus denying them the genuine enjoyment of the substance of the rights conferred by virtue of that status.
+
+	34	In that regard, as the Advocate-General stated in points 55 and 56 of his Opinion, Mrs Alokpa, as the mother of Jarel and Eja Moudoulou and as sole carer of those children since their birth, could have the benefit of a derived right to reside in France.
+
+35	It follows that, in principle, the refusal by the Luxembourg authorities to grant Mrs Alokpa a right of residence cannot result in her children being obliged to leave the territory of the European Union altogether. It is, however, for the referring court to determine whether, in the light of all of the facts of the main proceedings, that is in fact the case.
+
+36	In the light of all of the foregoing considerations, the answer to the question referred is that, in a situation such as that at issue in the main proceedings, Articles 20 TFEU and 21 TFEU must be interpreted as meaning that they do not preclude a Member State from refusing to allow a third-country national to reside in its territory, where that third-country national has sole responsibility for her minor children who are citizens of the European Union, and who have resided with her in that Member State since their birth, without possessing the nationality of that Member State and making use of their right to freedom of movement, in so far as those Union citizens do not satisfy the conditions set out in Directive 2004/38 or such a refusal does not deprive those citizens of effective enjoyment of the substance of the rights conferred by virtue of the status of European Union citizenship, a matter which is to be determined by the referring court.”
+
+This basis of the appellant’s claim is, as we understand it, a claim based upon the line of authority in the CJEU beginning with Ruiz Zambrano v Office National de l’Emploi (Case C-34/09) (8 March 2011) and followed in Dereci and others v Bundesiministerim fur Inneres (Case C-256/11) (15 November 2011).  Relying upon Article 20 TFU, the CJEU recognised that a Union citizen has a right to the genuine enjoyment of the substance of their right to reside in the EU.  Those upon whom they are dependent, may derive a right of residence also if not to do so would deprive the EU citizen of the “substance” of their right of residence.  
+
+The CJEU’s case law was considered by the Court of Appeal in Patel v SSHD [2017] EWCA Civ 2028, including the subsequent decision of the CJEU in Chavez-Vilchez and Others (Case C-133/15) (10 May 2017).  The Court of Appeal recognised that the Zambrano principle applied to confer a right of derived residence upon a primary carer of an EU national (even when that EU national is in his or her own country) if the effect of the primary carer not being allowed to remain in the Member State with the EU national is that the EU national would be “compelled” to leave the EU with their primary carer.  Neither the EU national’s right of residence derived from Article 20 TFEU nor the derived right of residence of the primary carer is contingent upon the EU national being “self-sufficient” either in the sense of having available resources so as to avoid reliance upon the social system or by requiring comprehensive sickness insurance.  Neither requirement was imposed by the CJEU in the principal decisions in Zambrano and Dereci or in Alokpa [32] – [36].  
+
+Mr Atuegbe relied upon this line of authority.  Mr McVeety submitted that the derived right of residence only arose if, in its absence, the EU national (here D) would be required to leave the EU.  He submitted that D was a national of Sweden and there was no evidence in this case to show that he could not live in Sweden with the appellant as his primary carer.  
+
+The Zambrano principle is, at least in part, reflected in reg 16(5) of the EEA Regulations 2016 which we set out above.  That, however, is restricted to the “primary carer of a British citizen”.  In other words, it limits the Zambrano principle to the situation where the EU national is not relying upon a right of free movement and residence upon which the primary carer seeks to derive their own right of residence.  
+
+We were not addressed directly on the scope of the Zambrano principle.  Certainly, in Zambrano itself and in Dereci, the EU national was resident in his or her own country (Member State).  However, that was not the situation in Alokpa.  There, the EU national was a French citizen who was living in Luxembourg and his mother sought to derive a right of residence, inter alia, from his right to reside in the EU under Article 20, TFEU.  The CJEU at [32] – [36] in concluding that that was in principle an available argument to his mother, clearly did not consider that the Zambrano principle can only be relied upon by an EU national (and his or her primary carer) when the EU national is resident in his or her own country.  The CJEU recognised that the EU national’s mother in that case could derive a right of residence in Luxembourg from her son’s right of residence as an EU citizen under Article 20 (TFEU) if the effect of not granting her a right of residence would be that the EU national would be “obliged to leave the territory of the European Union altogether”.  That issue was to be determined, on the facts, by the national authorities and court.
+
+	We see no basis in principle, therefore, why the appellant may not rely upon the Zambrano line of authority even though he is a Swedish national living in the UK and, therefore, not in his own country.  No support for such a limitation can be seen in Alokpa and the EU citizen’s right of residence under Article 20, TFEU is a right of residence in the EU as a whole, and not simply in his or her own country.  That is reflected in the CJEU’s case law, as applied by the Court of Appeal in Patel, that the crucial issue is whether the denial of a right of residence to the primary carer would “compel” or “force” the EU national to leave the EU.  The Zambrano right arises, as it did before the amendment to the earlier Immigration (EEA) Regulations 2006 (SI 2006/1003) on 16 July 2012 (by SI 2012/1547) under EU law which must be directly applied by domestic authorities and courts.
+
+We approach the application of Zambrano in this appeal with some caution.  Before the judge, it does not appear to have been argued by the appellant as a basis for a derived right of residence.  We are unable to find any reliance upon it in the appellant’s grounds lodged with the FtT and the judge makes no reference to it.  Mr Atuegbe did not suggest that reliance had been placed upon it.  Indeed, the grounds upon which permission was sought, and indeed granted, to the Upper Tribunal relates exclusively to the derived rights based upon D being “a self-sufficient person”.  However, Mr Atuegbe in his skeleton argument did place reliance upon the Zambrano basis for a derived right of residence as expressed by the CJEU in Alokpa at [32] – [36].  From the evidence before the FtT, and there was no application to admit any further evidence before us, there was, in our judgement, only one possible outcome to a claim to a derived right on this basis.  It is clear that it was for the appellant to establish the basis of her claimed right (see Patel at [24]).  D is a citizen of Sweden and has a right to reside there, not least as an EU citizen under Article 20, TFEU but undoubtedly under Swedish law.  If, as is the case, the appellant is his primary carer, she would have a derived right of residence to reside in Sweden with him.  Whether or not she could establish that on a Chen basis, namely because D is or would be a “self-sufficient” person in Sweden, she could derive her right directly from D’s right of residence in the EU providing it could be established that, without it, D would be forced to leave the EU.
+
+That issue, in the context of the circumstances in Alokpa, was identified by the CJEU at [34] – [35], on the basis that the EU citizen’s mother might have a derived right of residence in France.  That was a factual matter for the domestic court in Luxembourg in determining whether she could derive a Zambrano right of residence because without such a right of residence in Luxembourg, her children would be “obliged to leave the territory of the European Union altogether”.
+
+Here, in our judgment, the appellant has failed to discharge the burden upon her to show that the effect of not granting her a right of residence in the UK would be that D would be “obliged” or “compelled” to leave the EU as a whole.  We appreciate that this was not a matter raised before the FtT as we have noted above.  However, Mr Atuegbe relied upon it before us and on the basis of the evidence available to us, we are not satisfied that the appellant has shown what the case law clearly requires be established, namely that D would be obliged to leave the EU if the appellant could not reside with him in the UK.  If there is any evidence to suggest that would be the case, and as we have said we were not asked to consider any further evidence, that would properly be a matter for a further application made by the appellant to the Secretary of State.
+
+For all the above reasons, the judge did not materially err in law in dismissing the appellant’s appeal against a refusal to issue a derivative residence card.
+
+Decision
+
+
+
+The decision of the First-tier Tribunal to dismiss the appellant’s appeal did not involve the making of a material error of law.  That decision stands.
+
+
+
+Accordingly, the appellant’s appeal to the Upper Tribunal is dismissed.
+
+
+
+
+
+
+
+Signed
+
+	
+
+	
+
+	
+
+	A Grubb
+
+Judge of the Upper Tribunal
+
+
+
+13, August 2018
+
+
+
+© CROWN COPYRIGHT 2018
+
+5

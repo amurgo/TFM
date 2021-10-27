@@ -1,0 +1,2536 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+Ainte (material deprivation - Art 3 - AM (Zimbabwe)) [2021] UKUT 00203
+(IAC)
+
+                            THE IMMIGRATION ACTS
+
+|At: Field House                      |Decision Promulgated                 |
+|On: 10th-11th March 2021             |10 August 2021                       |
+|                                     |                                     |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE BRUCE
+                      UPPER TRIBUNAL JUDGE O'CALLAGHAN
+
+
+                                   Between
+
+               The Secretary of State for the Home Department
+                                                                   Appellant
+                                     and
+
+                            Mahad Abdullahi Ainte
+                        (no anonymity direction made)
+                                                                  Respondent
+
+
+For the Appellant:     Mr J. Anderson, Counsel instructed by the Government
+                    Legal Department
+For the Respondent:    Mr R. Toal and Mr T. Lay, Counsel, instructed by
+                    Brighton Housing Trust Immigration Legal Services
+
+     i) Said [2016] EWCA  Civ  442  is  not  to  be  read  to  exclude  the
+        possibility that Article 3 ECHR could be engaged by  conditions  of
+        extreme material deprivation. Factors to be considered include  the
+        location where  the  harm  arises,  and  whether  it  results  from
+        deliberate action or omission.
+
+    ii) In cases where the material deprivation is not intentionally caused
+        the threshold is the modified N  test  set  out  in  AM  (Zimbabwe)
+        [2020] UKSC 17. The question will be whether  conditions  are  such
+        that there is a real risk that the  individual  concerned  will  be
+        exposed to intense suffering or a  significant  reduction  in  life
+        expectancy.
+
+   iii)  The  Qualification  Directive  continues  to  have  direct  effect
+        following the UK withdrawal from the EU.
+
+
+                            DECISION AND REASONS
+
+ 1. The Respondent, Mr Ainte (MAA), is a national of Somalia  born  on  the
+    23rd October 1991. He has lived in this  country  since  2008  when  he
+    arrived, aged 16, and sought protection as a refugee.  That  protection
+    was never  granted.  The  Secretary  of  State  was  still  considering
+    submissions when, in November 2011, MAA received his first  conviction,
+    for possessing cannabis. Further convictions followed in  2013  and  in
+    April 2014 he was convicted of possession of a Class A  drug  (cocaine)
+    with intent to supply. He was sent  to  prison  for  4  years.   It  is
+    therefore in the  public  interest  that  MAA  be  deported  from  this
+    country.
+
+ 2. Before the  First-tier  Tribunal  MAA  advanced  two  reasons  why  the
+    'automatic deportation' procedure set out in s32 of the UK Borders  Act
+    2007 should not apply to him.
+
+ 3. First, he submitted that he was entitled to protection  as  a  refugee:
+    s33(2)(b) of the UK Borders Act 2007 applied. Although  the  First-tier
+    Tribunal was satisfied that MAA should not be denied  protection  as  a
+    result of his criminality, it rejected the submission that  MAA  had  a
+    currently well-founded fear of persecution on any of the alternative or
+    cumulative bases advanced by him. The appeal was therefore dismissed on
+    Refugee Convention grounds and MAA was  refused  permission  to  appeal
+    against that decision.
+
+ 4. The second limb of the appeal before the First-tier Tribunal  was  that
+    the removal of MAA to Mogadishu would result in him facing a real  risk
+    of living in conditions of such extreme material  deprivation,  and  so
+    lacking in security, that they would constitute inhuman  and  degrading
+    treatment  under  Article  3  ECHR[1]  and/or  Article  15(b)  of   the
+    Qualification  Directive[2],  and/or   amount   to   "very   compelling
+    circumstances"   establishing   that    deportation    would    be    a
+    disproportionate interference with MAA's Article 8 private life.    The
+    First-tier  Tribunal  found  this  argument  to  be   made   out,   and
+    consequently allowed the appeal on both human rights  and  humanitarian
+    protection grounds.   It was that finding of fact which was the subject
+    of the Secretary of State's appeal to the Upper Tribunal, heard on  the
+    15th October 2020.
+
+ 5. By a decision dated the 25th October 2020 Upper  Tribunal  Judge  Bruce
+    found that the First-tier Tribunal had erred in its approach. Paragraph
+    10 of the 'error of law' decision explains why:
+
+         "The real difficulty with the  decision  is  in  the  gaps  in  the
+         reasoning, and the failure to make clear findings.   At its �39 the
+         Tribunal rehearses the views of [country expert]  Ms  Harper  about
+         what "might" happen to [MAA]  if  he  returned  to  Mogadishu,  but
+         nowhere does the Tribunal  go  on  to  reach  its  own  conclusion,
+         applying the appropriate standard  of  proof  and  considering  the
+         relevance  of  its  own  findings  about  [MAA]  circumstances,  in
+         particular that he is not a member of the Ashraf minority.  As  the
+         Secretary of State points out, Ms Harper  proceeded  on  the  basis
+         that he was, and it was for the Tribunal to determine  whether  the
+         views expressed at paragraph 8.10 of her report, and summarised  at
+         the Tribunal's  �39,  survived  that  rejection.  It  was  entirely
+         possible that they  would,  but  some  findings  had  to  be  made.
+         Insofar as such conclusions are reached at  �40  of  the  decision,
+         these are flawed for lack of reasoning: there was for  instance  no
+         exploration of why [MAA] might find himself without clan support".
+
+ 6. Judge Bruce directed that the decision, insofar as it related to  human
+    rights (Articles 3 & 8) and Article 15 of the Qualification  Directive,
+    be re-made. This is that remade decision, to which both members of  the
+    panel have contributed.  We were referred to a great deal  of  evidence
+    and had the benefit of detailed argument from Counsel about the  proper
+    approach to take in cases involving material deprivation generally, and
+    in the context of Somalia in particular.   We begin by addressing those
+    legal issues, before considering and determining MAA's claim.
+
+
+
+
+    The Legal Framework
+
+ 7. As we are considering protection grounds our starting point must be the
+    applicable country  guidance  on  Somalia.  Although  new  guidance  is
+    shortly to be forthcoming, at the  date  of  this  appeal  the  current
+    country guidance is MOJ & Ors (Return to Mogadishu) Somalia  CG  [2014]
+    UKUT 00442 (IAC). Neither party  has  asked  us  to  depart  from  that
+    guidance. The material part of it, for the purpose of this  appeal,  is
+    set out in the headnote:
+
+       vii) A person returning to Mogadishu after a period of  absence  will
+            look to his nuclear family, if he has one living  in  the  city,
+            for  assistance  in  re-establishing  himself  and  securing   a
+            livelihood. Although a returnee may also  seek  assistance  from
+            his clan members who are not close relatives, such help is  only
+            likely to be forthcoming for majority clan members, as  minority
+            clans may have little to offer.
+
+      viii) The significance of clan membership in  Mogadishu  has  changed.
+            Clans now provide, potentially, social  support  mechanisms  and
+            assist  with  access  to  livelihoods,  performing  less  of   a
+            protection function than previously. There are no clan  militias
+            in Mogadishu, no clan violence, and no clan based discriminatory
+            treatment, even for minority clan members.
+
+        ix) If it is accepted that a person facing  a  return  to  Mogadishu
+            after a period  of  absence  has  no  nuclear  family  or  close
+            relatives in the city to assist him in  re-establishing  himself
+            on return, there will need to be a careful assessment of all  of
+            the circumstances. These considerations will  include,  but  are
+            not limited to:
+
+               . circumstances in Mogadishu before departure;
+
+               . length of absence from Mogadishu;
+
+               . family or clan associations to call upon in Mogadishu;
+
+               . access to financial resources;
+
+               . prospects  of  securing  a  livelihood,  whether  that  be
+                 employment or self employment;
+
+               . availability of remittances from abroad;
+
+               . means of support during  the  time  spent  in  the  United
+                 Kingdom;
+
+               . why his ability to fund the journey to the West no  longer
+                 enables  an  appellant  to  secure  financial  support  on
+                 return.
+
+         x) Put another way, it will be for  the  person  facing  return  to
+            explain why  he  would  not  be  able  to  access  the  economic
+            opportunities that have been  produced  by  the  economic  boom,
+            especially as there is evidence to the effect that returnees are
+            taking jobs at the expense of those who have never been away.
+
+        xi) It will, therefore, only be those with no clan or family support
+            who will not be in receipt of remittances from  abroad  and  who
+            have no real prospect of securing  access  to  a  livelihood  on
+            return who will face the prospect  of  living  in  circumstances
+            falling  below  that  which  is   acceptable   in   humanitarian
+            protection terms.
+
+       xii) The evidence indicates clearly that it is not simply  those  who
+            originate from Mogadishu that may now generally return  to  live
+            in the city without being subjected to an Article 15(c) risk  or
+            facing a real risk of destitution. On the other hand, relocation
+            in Mogadishu for a person of a minority  clan   with  no  former
+            links to the city, no access to funds and no other form of clan,
+            family or social support is unlikely to be realistic as, in  the
+            absence of means to establish a home and some  form  of  ongoing
+            financial support there  will  be  a  real  risk  of  having  no
+            alternative but to live in makeshift accommodation within an IDP
+            camp where there is a real possibility  of  having  to  live  in
+            conditions   that  will  fall  below   acceptable   humanitarian
+            standards.
+
+ 8. It is common ground that this country guidance must now be read in line
+    with the decision in Secretary of State for the Home Department v  Said
+    [2016] EWCA Civ 442, [2016] Imm AR 1084. Said was a Somali national who
+    faced deportation  following  his  conviction  for  rape.  He  resisted
+    deportation on the grounds that upon return to Mogadishu he would  very
+    likely become destitute, and thus be exposed to the risk of  having  to
+    enter an IDP camp, where conditions would be very poor. On  appeal  the
+    Upper Tribunal had held that Said could work, speak Somali,  was  of  a
+    majority clan and that he could benefit from  remittances  from  family
+    members in the UK if necessary. The  'real  question',  identified  the
+    Tribunal, was whether Said's mental health was so poor that he would be
+    unable to cope with relocation to Mogadishu and thus end up in  an  IDP
+    camp, where applying the guidance  set  out  in  the  headnote  of  MOJ
+    (above), it found that conditions would fall so  far  below  acceptable
+    humanitarian standards that the appeal fell to be allowed on Article  3
+    grounds. The Secretary of State appealed to  the  Court  of  Appeal  on
+    perversity grounds; Said defended the decision of UTIAC on the  grounds
+    that the Tribunal had, on the evidence,  been  rationally  entitled  to
+    conclude that he would end up in an IDP camp, and that the  "conclusion
+    that removal would violate Article 3  necessarily  followed"  from  the
+    decision in MOJ.
+
+ 9. In delivering the lead judgment Lord Justice Burnett (as he  then  was)
+    was concerned to make two points. The first was of general application.
+    Having reviewed the caselaw, and in particular  the  judgment  of  Lord
+    Justice Laws in GS (India) v Secretary of State for the Home Department
+    [2015] EWCA Civ 40, [2015] Imm AR 608, he emphasised that claims  based
+    on harms arising from naturally occurring phenomena, such as illness or
+    famine, are not paradigm Article 3 claims. Because the feared harm  was
+    not being intentionally  inflicted  (either  by  omission  or  positive
+    action) the threshold to establish a violation of Article 3 was a  high
+    one. Equating cases involving material deprivation with  health  claims
+    [at �15 and �18] the Court held that the applicable threshold  is  that
+    set out in N v United Kingdom (App. No. 26565/05), [2008]  Imm  AR  657
+    and N v Secretary of State for the  Home  Department  [2005]  UKHL  31,
+    [2005] Imm AR 353.
+
+10. The second point arose specifically from the way in which the  Tribunal
+    had applied the guidance in MOJ to Said's claim. Although this part  of
+    the judgment is obiter - the decision of UTIAC having already been  set
+    aside on perversity grounds - it has been  expressly  endorsed  by  the
+    Court of Appeal in Secretary of State for  the  Home  Department  v  MS
+    (Somalia) [2019] EWCA Civ 1345, [2020] Imm AR  131  and  by  the  Upper
+    Tribunal in SB (refugee revocation: IDP camps) Somalia [2019] UKUT  358
+    (IAC). Burnett LJ  held  that  MOJ  cannot  be  read  as  automatically
+    equating life in an IDP camp to a violation  of  Article  3:    such  a
+    "stark proposition of cause and effect" would be inconsistent with  the
+    Strasbourg jurisprudence to the effect that any potential violation  of
+    Article  3  is  to  be  evaluated  with  reference  to   the   personal
+    characteristics of the individual concerned.  As the  decision  in  MOJ
+    had made clear, it was not uniformly the case that all IDPs in  Somalia
+    were at that time facing inhuman and degrading treatment:  indeed  some
+    had managed to resettle with "'a reasonable standard of  accommodation'
+    and with access to food, remittances  from  abroad  or  an  independent
+    livelihood" [Said at �29]. In Said's case the  Tribunal  had  therefore
+    erred in apparently drawing a line directly between entry into a  camp,
+    and a violation of Article 3. The proper approach was that set out at �
+    422 of MOJ:
+
+         "422. The fact that we have rejected the view that there is a  real
+         risk of persecution or serious harm or ill treatment  to  civilians
+         or returnees in Mogadishu does not mean that no Somali national can
+         succeed in a refugee or humanitarian protection or article 3 claim.
+         Each case will fall to be decided on its  own  facts.  As  we  have
+         observed, there will need to be a careful  assessment  of  all  the
+         circumstances of a particular individual."
+
+11. We know then from the decision in Said that MOJ is not to  be  read  as
+    saying what earlier, undisturbed, Somali  country  guidance  cases  had
+    held. In NM and Others (lone women -Ashraf)  Somalia  CG  [2005]  UKIAT
+    00076 [obiter at �102],  HH  and  Others  (Mogadishu:  armed  conflict:
+    risk)  Somalia  CG  [2008]  UKAIT  00022  [�299]  and  AMM  and  Others
+    (conflict; humanitarian crisis; returnees; FGM) Somalia CG [2011]  UKUT
+    00445 (IAC) [�486] , the Tribunal had found conditions in the camps  to
+    be  so  universally  appalling  and  degrading  that  a  general   risk
+    pertained. At various points during the decades long Somali conflict  a
+    direct line could, on the facts, be drawn between  displacement  and  a
+    violation of Article 3 for any civilian in a given area. Conclusions to
+    a similar effect were reached by European Court of Human Rights in Sufi
+    and Elmi v United Kingdom (App. Nos 8319/07  and  11449/07)  (2012)  54
+    EHRR 9 [at �291]: there the  entire  civilian  population  in  a  large
+    section of Southern Somalia were held to be at such a risk.   By  2014,
+    and the decision in MOJ,  the situation on the ground  in  Somalia  had
+    improved so that this could  no  longer  be  said  to  be  true.  There
+    therefore needed to be a "careful assessment of all the  circumstances"
+    of the particular individual.
+
+12. Before we are able to conduct such an assessment in respect of MAA,  we
+    must address a number of  legal  matters  arising  in  the  submissions
+    before us.
+
+
+
+    Understanding Said
+
+13. The first matter can be shortly dealt with, since it is  uncontentious.
+    It would seem that just as the decision in MOJ has been misconstrued by
+    decision makers, so subsequently has the  decision  in  Said.  Mr  Toal
+    informed us that the decision has been interpreted by some as authority
+    for  the  proposition   that   'naturally   occurring'   socio-economic
+    deprivation can never, as a matter of law, found a claim under  Article
+    3. As Mr  Anderson  readily  accepted,  such  an  interpretation  would
+    plainly be wrong.  It would be contrary to Strasbourg authority[3], the
+    decision in Said itself [at �18 and �31], and we note that a submission
+    to the same effect was  carefully  considered,  and  rejected,  by  the
+    Tribunal in AM and AM (armed conflict: risk categories) Rev  1  Somalia
+    CG [2008] UKAIT 00091 [at �87].  The  N  threshold  is  undoubtedly  an
+    extremely high one, but it is not  insurmountable.   Insofar  as  cases
+    subsequent to Said have been read to the contrary,  such  readings  are
+    inaccurate. We are told, for instance, that the  following  passage  in
+    Secretary of State for the Home Department v MA (Somalia)  [2018]  EWCA
+    Civ 994, [2018] Imm AR  1273  has  been  cited  as  authority  for  the
+    proposition that Article 3 can never be engaged in  instances  of  non-
+    intentional socio-economic deprivation:
+
+         "63. The analysis in Said's case [2016] Imm AR 1084, by which  this
+         court is bound, is that there is  no  violation  of  article  3  by
+         reason only of a person being  returned  to  a  country  for  which
+         economic reasons cannot provide him with  basic  living  standards.
+         ..."
+
+    The key to this passage is the term "only": there should be an analysis
+    of the impact on the individual concerned, and living  conditions  must
+    be bad enough to reach the minimum level of severity required to engage
+    the article.  Neither Said nor MA (Somalia)  close  the  door  on  such
+    cases.
+
+14. Alternatively, we understand, the judgment in Said  has  been  read  as
+    saying that resort to an IDP camp cannot, as a matter  of  fact,  found
+    such a claim.  Again, that is a misunderstanding.   The  higher  courts
+    have repeatedly  emphasised  the  value  of  the  careful  and  intense
+    scrutiny that this Tribunal gives to the evidence in  country  guidance
+    cases[4]: we do not think that Burnett LJ was seeking to displace  that
+    role by conducting his own factual examination  of  the  IDP  camps  in
+    Somalia.  He was  simply  pointing  out  that  on  the  Tribunal's  own
+    analysis of the facts in MOJ, the line of causation could not  at  that
+    time be directly drawn  between  life  in  the  camp  and  inhuman  and
+    degrading conditions.
+
+
+
+
+    The Country Guidance
+
+15. The second matter can also be shortly stated, since it has already been
+    authoritatively addressed by the President, Mr Justice Lane, and  Upper
+    Tribunal Judge Rimington in SB (refugee revocation: IDP camps)  Somalia
+    [2019] UKUT 00358 (IAC).
+
+16. As we have detailed above, for  the  moment  MOJ  remains  the  country
+    guidance on Somalia. Its guidance on the  particular  question  of  the
+    material deprivation faced by IDPs must however be read in light of the
+    judgment in Said.   It is Mr Toal's contention that this  part  of  the
+    decision in MOJ having been set aside,   we  must  as  decision  makers
+    revert to the earlier decision in AMM: as  we  allude  to  above,  this
+    guidance, given in 2011,  was  to  the  effect  that  the  drought  and
+    resulting famine then ravaging southern and central Somalia was of such
+    drastic proportions that the Tribunal could be satisfied that there was
+    a generalised Article 3 risk for any civilian returning to that region.
+
+
+
+17. We do not accept that it would  be  right  to  simply  revert  to  this
+    earlier country guidance. To do so would be  clearly  contrary  to  the
+    stated intentions of the panel in MOJ [at paragraph (i) of the 'country
+    guidance' section of the headnote]:
+
+         "The country guidance issues addressed in  this  determination  are
+         not identical to those engaged with by  the  Tribunal  in  AMM  and
+         others (conflict; humanitarian crisis; returnees; FGM)  Somalia  CG
+         [2011] UKUT 445 (IAC). Therefore, where country guidance  has  been
+         given by the Tribunal in AMM in respect of issues not addressed  in
+         this determination then the guidance provided by AMM shall continue
+         to have effect."
+
+  18. We deduce from this that any issue addressed by both decisions  -  as
+      the socio-economic conditions prevailing in the country plainly  were
+      - the earlier guidance was replaced by the later.  It cannot sensibly
+      be 'reinstated' by default.  The reason for that, as the Presidential
+      panel in SB explain, is that conditions on  the  ground  had  changed
+      between 2011 and 2014:
+
+         "54. Although Mr Toal attempted, with his customary skill, to  rely
+         upon extracts from the country guidance decision in MOJ in order to
+         show that that decision had not,  in  fact,  superseded  the  above
+         findings in AMM, it is, in our view, plain on any full  reading  of
+         MOJ that the Upper Tribunal in that case was well  aware  that  the
+         drought conditions, which had led  to  a  UN-recognised  famine  in
+         rural areas and parts of Mogadishu in 2011,  no  longer  pertained.
+         The nature of the armed struggle was also markedly different.
+
+         55. We therefore agree with Mr Jarvis's submissions on  this  issue
+         and respectfully decline to follow those of Mr  Toal.  The  largely
+         naturally-caused events that led the Upper Tribunal in AMM to  find
+         that the high threshold for Article 3 harm, as  regards  conditions
+         in IDP camps, had been met, no longer applied at the time  of  MOJ.
+         Given that there is nothing in MOJ or anywhere else  that  we  have
+         seen which suggests human agency is responsible for the generalised
+         conditions faced in IDP camps (as opposed to instances of  specific
+         harm), that high threshold needs to be met. Insofar  as  MOJ  might
+         have been read  to  suggest  otherwise,  or  insofar  as  it  might
+         otherwise be read as indicating a generalised  risk  of  Article  3
+         harm, Burnett LJ's judgment cogently explains why  that  is  wrong.
+         Irrespective of whether his judgment is formally binding on us,  it
+         is fully-reasoned and compelling and should  be  followed.  In  our
+         view, it will be an error of law for a judge to refuse to do so."
+
+
+
+
+      Intentional and Non-intentional harm
+
+19. The third issue is whether this appeal is a Said case at all,  that  is
+    to say a claim involving non-intentional or naturally  occurring  harm,
+    where the N threshold should be applied.  There had  hitherto  been  an
+    assumption by the parties that it was: certainly this was the way  that
+    the argument was put before the First-tier Tribunal. Mr Toal  was  not,
+    however, satisfied that this was the case. He pointed to evidence  that
+    the Somali government is itself  complicit  in  actions,  such  as  the
+    forced eviction of  squatter  camps,  which  cause  or  exacerbate  the
+    suffering of the  displaced  population;  the  government  has  further
+    omitted  to  deal  with  abuses  of  power  and   corruption   by   the
+    'Gatekeepers',  those  men   who   control   the   camps.    In   those
+    circumstances, Mr Toal submits, this Tribunal should  find  that  harms
+    feared by MAA are not naturally occurring, and that for that reason the
+    standard to be applied is simply whether there is a real risk  that  he
+    will  face  inhuman  or  degrading  treatment.   In   addressing   this
+    submission we have found it necessary to look in  more  detail  at  the
+    different kinds of cases where material deprivation has  been  held  to
+    engage Article 3.
+
+20. Article 3 reads:
+
+         "No one shall be subjected to torture or to  inhuman  or  degrading
+         treatment or punishment."
+
+21. In GS (India) Lord Justice Laws  expressed  this  uncontroversial  view
+    about the harms that the article was originally conceived, in 1950,  to
+    prevent:
+
+         "In my judgment the language of the Article shows that the paradigm
+         case of a violation is an intentional act which constitutes torture
+         or inhuman or degrading treatment or punishment".
+
+22. As he goes on to explain, however,  the  Convention  has  expanded,  or
+    evolved, so that in 1997 the ECtHR found a violation of Article 3 where
+    the suffering arose not  from  an  intentional  act,  but  from  wholly
+    natural causes. The applicant in D v United Kingdom (App No. 30240/96),
+    (1997) 24 EHRR 423 was a convicted drug smuggler  suffering  from  end-
+    stage AIDS, who asserted that if he were to be deported to  his  native
+    St Kitts, he would face an inhumane and degrading death.  In  assessing
+    D's claim under Article 3 the Court noted that Contracting States  have
+    the right to expel aliens, and take measures to prevent crime, however:
+
+
+
+         "47... in exercising their right to expel such  aliens  Contracting
+         States must have regard to Article 3 of the  Convention  (art.  3),
+         which  enshrines  one  of  the  fundamental  values  of  democratic
+         societies. It is precisely for  this  reason  that  the  Court  has
+         repeatedly  stressed  in  its   line   of   authorities   involving
+         extradition, expulsion  or  deportation  of  individuals  to  third
+         countries that Article 3  (art.  3)  prohibits  in  absolute  terms
+         torture or inhuman or degrading treatment or  punishment  and  that
+         its guarantees apply irrespective of the  reprehensible  nature  of
+         the conduct of the person in question...
+
+         49.  It is true that this principle has so far been applied by the
+         Court in contexts in which the risk  to  the  individual  of  being
+         subjected to any of the proscribed forms of treatment emanates from
+         intentionally inflicted acts  of  the  public  authorities  in  the
+         receiving country or from those of non-State bodies in that country
+         when the authorities there are unable  to  afford  him  appropriate
+         protection...Aside from these situations and given the  fundamental
+         importance of Article 3  in the Convention system, the  Court  must
+         reserve to itself sufficient flexibility to address the application
+         of that Article in other contexts which  might  arise.  It  is  not
+         therefore prevented from scrutinising an  applicant's  claim  under
+         Article 3 where the source of the risk of proscribed  treatment  in
+         the receiving country stems from factors which cannot engage either
+         directly or indirectly the responsibility of the public authorities
+         of that country, or  which,  taken  alone,  do  not  in  themselves
+         infringe the standards of that Article. To limit the application of
+         Article 3 in  this  manner  would  be  to  undermine  the  absolute
+         character of its protection. In any  such  contexts,  however,  the
+         Court must subject all the circumstances surrounding the case to  a
+         rigorous scrutiny, especially the applicant's personal situation in
+         the expelling State."
+
+    [Emphasis added]
+
+23. The Court proceeds to detail the grim fate that awaited D in St  Kitts,
+    before concluding [at �53]: "in view of these exceptional circumstances
+    and bearing in mind the critical stage now reached in  the  applicant's
+    fatal illness" that there would be a violation if the deportation  were
+    to proceed.
+
+24. The introduction of the term "exceptional" in D  was  suggestive  of  a
+    higher threshold  than  the  "minimum  level  of  severity"  ordinarily
+    applied. This was certainly the interpretation adopted by the Court  in
+    Bensaid v United Kingdom (App No. 44599/98),  (2001)  33  EHRR  10  [at
+    �40]:
+
+         "40. ... Having regard, however,  to  the  high  threshold  set  by
+         Article 3,  particularly where the case does not concern the direct
+         responsibility of the Contracting State for the infliction of harm,
+         the Court does not find that there is a sufficiently real risk that
+         the applicant's removal in these circumstances would be contrary to
+         the standards  of  Article  3.  The  case  does  not  disclose  the
+         exceptional circumstances of [D v the United Kingdom] ..."
+
+    [Emphasis added]
+
+25. It was not however until N v United Kingdom  in  2008  that  the  Court
+    elaborated on what might be meant by such "exceptional circumstances":
+
+         "42. In summary, the Court observes  that  since D  v  the  United
+         Kingdom it has  consistently  applied  the  following  principles.
+         Aliens who are subject to expulsion cannot in principle  claim  any
+         entitlement to remain in the territory of a  Contracting  State  in
+         order to continue to benefit from medical, social or other forms of
+         assistance and services provided by the expelling State.  The  fact
+         that the applicant's circumstances, including his life  expectancy,
+         would be significantly reduced if he were to be  removed  from  the
+         Contracting State is not sufficient  in  itself  to  give  rise  to
+         breach of Article 3.  The  decision  to  remove  an  alien  who  is
+         suffering from a serious mental or physical illness  to  a  country
+         where the facilities for the treatment of that illness are inferior
+         to those available in the Contracting  State  may  raise  an  issue
+         under Article 3, but only in a very  exceptional  case,  where  the
+         humanitarian  grounds  against  the  removal  are  compelling.  In
+         the D case the  very  exceptional  circumstances  were  that  the
+         applicant was critically ill and appeared to  be  close  to  death,
+         could not be guaranteed any nursing or medical care in his  country
+         of origin and had no family there willing or able to care  for  him
+         or provide him with even a basic level of food, shelter  or  social
+         support.
+
+         43. The Court does  not  exclude  that  there  may  be  other  very
+         exceptional cases where the humanitarian considerations are equally
+         compelling. However, it considers that it should maintain the  high
+         threshold set in D v the  United  Kingdom and  applied  in  its
+         subsequent case-law, which it  regards  as  correct  in  principle,
+         given that in such cases the alleged future harm would emanate  not
+         from the intentional acts or omissions of public authorities or non-
+         State bodies, but instead from a naturally  occurring  illness  and
+         the lack of sufficient resources to deal with it in  the  receiving
+         country."
+
+    [Emphasis added]
+
+26. The approach taken in D, Bensaid and N to health cases has subsequently
+    been  uncontroversially  applied  to  those  involving  non-intentional
+    material deprivation: for instance by the ECtHR in SHH v United Kingdom
+    (App No. 60367/10), (2013) 57 EHRR 18, and  domestically  in  Said.  In
+    such cases, where the feared harm is  not  caused  by  the  actions  of
+    others, that is to  say  it   is  "naturally  occurring",  outwith  the
+    jurisdiction, applicants are required to demonstrate that theirs  is  a
+    very exceptional case,  where  the  humanitarian  grounds  against  the
+    removal are compelling.
+
+27. A different type of case is where the material deprivation in  question
+    arises within the jurisdiction of a signatory state, and where  it  can
+    to some degree, by its acts or omissions, be held responsible for  that
+    suffering.  In MSS v Belgium and Greece (App No. 30696/09),  (2011)  53
+    EHRR 2 the asylum-seeking applicant had been subject to a third-country
+    removal from Belgium to Greece where he found  himself  living  on  the
+    streets in conditions of extreme and unremitting poverty. Holding  that
+    those conditions were inhuman and degrading the ECtHR  emphasised  that
+    asylum seekers were a "a particularly  underprivileged  and  vulnerable
+    population group in need of special protection"  and  that  Greece  had
+    purposely failed in its legal duties, both domestic and  international,
+    to give them such protection. In these circumstances the threshold  for
+    proving a violation of Article 3 was simply  that  ordinarily  applied:
+    having regard to the personal characteristics of the claimant,  can  it
+    be said that the treatment he suffered was "inhuman and degrading"?
+
+28. A related claim arose in Sufi and  Elmi.  This  too  concerned  extreme
+    poverty, but not in a signatory state: here the feared  harm  arose  in
+    southern Somalia. Accepting that the civilian population were in effect
+    starving en masse, and living in conditions of extreme fearfulness  and
+    insecurity, the ECtHR went on to  examine  why.  It  found  that  those
+    conditions were not naturally occurring, but  arose  from  the  ongoing
+    conflict. For this reason the case was distinguished from N [at �282]:
+
+         "282. If the dire humanitarian conditions in Somalia were solely or
+         even predominantly attributable to poverty or to the  state's  lack
+         of resources to deal with a naturally occurring phenomenon, such as
+         a drought, the test in N  v  United  Kingdom  may  well  have  been
+         considered to be the appropriate one. However,  it  is  clear  that
+         while drought has contributed  to  the  humanitarian  crisis,  that
+         crisis is predominantly due to the direct and indirect  actions  of
+         the parties to the conflict. The reports indicate that all  parties
+         to the conflict have employed indiscriminate methods of warfare  in
+         densely populated urban areas with no regard to the safety  of  the
+         civilian population. This fact alone  has  resulted  in  widespread
+         displacement and the breakdown of social,  political  and  economic
+         infrastructures.  Moreover,  the   situation   has   been   greatly
+         exacerbated by al-Shabaab's refusal  to  permit  international  aid
+         agencies to operate in the areas under  its  control,  despite  the
+         fact that between one-third and one-half of all Somalis are  living
+         in a situation of serious deprivation."
+
+    Consequently it was the ordinary threshold of harm that was applicable.
+    In respect of what factors might be relevant in this context the  ECtHR
+    specifically directed itself to  the  approach  taken  in  MSS:  having
+    "regard to an applicant's ability to cater for his most basic needs,
+    such as food, hygiene and shelter, his vulnerability to ill-treatment
+    and the prospect of his situation improving within a  reasonable  time-
+    frame".
+
+29. Which of these approaches should we take here?
+
+30. Neither party asked us to take the Sufi  and  Elmi  option.  There  the
+    ECtHR had found a clear causal nexus between behaviour of  the  various
+    parties to the conflict and the suffering of  the  population.   As  we
+    have seen[5], developments in Somalia have since changed that calculus.
+    In AMM the Tribunal found the preponderant cause  of  dire  poverty  in
+    Somalia to be the country's  worst  famine  in  60  years.   Today  the
+    objective evidence  points  towards  a  plague  of  locusts  that  have
+    destroyed successive harvests. In common with the panel in AMM, we  are
+    in no doubt that three decades of civil war has some part  to  play  in
+    the lack of resources faced by Somalia, but for  the  purpose  of  this
+    appeal the parties agree that at present it is this plague which is the
+    "preponderant cause". As such Mr Toal did not seek to  persuade  us  to
+    embark on a Sufi and Elmi analysis of the facts.
+
+31. Mr Toal does, however, seek to persuade us that we could properly  find
+    this to be an MSS type case. First, he asks us to equate the  situation
+    of IDPs/returnees in Somalia with that of  asylum  seekers  in  Greece:
+    both are particularly  vulnerable  populations.  Second,  he  draws  an
+    analogy between the failure of the Greek government to meet  its  legal
+    obligations under inter alia the relevant EEA Reception Directive  with
+    those of the Somali government under the African Union  Convention  for
+    the Protection and Assistance of Internally Displaced Persons in Africa
+    ('the Kampala Convention').
+
+32. We think it uncontroversial that Somali IDPs - an umbrella term in this
+    appeal accepted to  include  'returnees'  -  are  in  general  terms  a
+    particularly vulnerable group. Successive country guidance  cases,  and
+    the facts on the ground, would  suggest  it  to  be  so,  as  does  the
+    preamble to the Kampala Convention.
+
+33. We further accept that Somalia is a signatory to the Kampala Convention
+    and that it has undertaken to incorporate the obligations therein  into
+    its domestic law (although we are not told whether it has in fact  done
+    so). Those obligations  include  "meeting  the  basic  needs"  of,  and
+    "providing sufficient protection" to, IDPs.
+
+34. We are not however satisfied that the ratio of MSS can be applied here.
+    MSS was concerned with inhuman and degrading treatment within Europe of
+    a particularly vulnerable individual whom  the  Greek  authorities  had
+    both the ability, and legal duty, to  protect.  That  duty  arose  from
+    Greece's obligations not  only  under  the  ECHR,  but  under  the  EEA
+    treaties and its own domestic legislation.   Nothing  in  the  decision
+    suggests  that  the  same  considerations  would  extend  to  a  feared
+    violation in a non-signatory state. Indeed the ECtHR has expressly held
+    to the contrary. In SHH v United Kingdom it was asked to  consider  the
+    potential for violation of Article 3 in the case of a disabled man whom
+    the United Kingdom proposed to return to Afghanistan.  It  declined  to
+    take the MSS approach in the following terms [at �90]:
+
+         "90. Second, the Court considers  that  the  present  case  can  be
+         distinguished from M.S.S. In  that  case, a  fellow Contracting
+         State, Greece, was found to be in violation of Article 3  of  the
+         Convention through its own inaction and its failure to comply with
+         its    positive    obligations    under    both    European     and
+         domestic legislation to provide  reception  facilities  to  asylum
+         seekers. Central to the Court's conclusion was its finding that the
+         destitution  of  which  the  applicant  in  that  case   complained
+         was linked to his status as an asylum seeker and to the fact  that
+         his asylum application had not yet been  examined  by  the  Greek
+         authorities. The Court was also of the opinion  that,  had  they
+         examined  the  applicant's  asylum  request  promptly,  the   Greek
+         authorities could have substantially alleviated his suffering (see
+         paragraph 262  of  the  judgment).  By  contrast,   the present
+         application  concerns the living  conditions  and  humanitarian
+         situation in Afghanistan, a non-Contracting State, which has  no
+         such    similar     positive     obligations     under     European
+         legislation and cannot be held accountable under  the  Convention
+         for failures to provide adequate welfare assistance to persons with
+         disabilities.  In that regard, it is recalled that  the  Convention
+         does not purport to be a means of requiring Contracting  States  to
+         impose Convention standards on  other  States  (see, as  a  recent
+         authority, Al-Skeini    and    Others     v. the     United
+         Kingdom [GC], no. 55721/07, � 141, 7 July 2011)."
+
+35. We are accordingly satisfied that the MSS approach cannot  be  extended
+    to cover situations in which non-ECHR signatories fail  to  meet  their
+    own regional or international commitments. It follows that the approach
+    to take here is that set out in N, bringing us at last to  the  central
+    legal issue before us: where is the N threshold to be set in such cases
+    today?
+
+
+
+
+      Non-intentional harm and the N threshold: Paposhvili applied?
+
+36. As we have seen, in Said Burnett LJ expressly equated  cases  involving
+    non-intentional material deprivation with those concerning  ill-health:
+    the Court held that it was the high N threshold that must be applied to
+    such claims.  This is also  the  view  taken  by  the  ECtHR,  see  for
+    instance Sufi and Elmi [�282], and by the  Court  of  Appeal,  see  for
+    instance MI (Palestine) v Secretary of State for  the  Home  Department
+    [2018] EWCA Civ 1782, [2019] Imm AR 75 [�16-23].   To  date  there  has
+    never been any suggestion that different approaches should be taken  to
+    these related species of claims. Yet before us this was the case put by
+    Mr Anderson.
+
+37. The reason that the Secretary of State  is  now  concerned  to  draw  a
+    distinction between these two types of 'non-intentional harm' cases  is
+    the modification of the N test introduced by the ECtHR in Paposhvili  v
+    Belgium (App No. 41738/10), [2017] Imm AR 876 and endorsed in  December
+    2020 by the UK Supreme Court in AM (Zimbabwe) v Secretary of State  for
+    the Home Department [2020] UKSC 17, [2020] Imm AR 1167.    Following  N
+    claimants were required to demonstrate circumstances  so  exceptionally
+    appalling that they reached the high threshold  set  in  D:  where  the
+    applicant was critically ill and appeared to be close to  death,  could
+    not be guaranteed any nursing or medical care in his country of  origin
+    and had no family there willing or able to care for him or provide  him
+    with even a basic level of  food,  shelter  or  social  support.   That
+    'deathbed' scenario has now been held to set too high  a  threshold  to
+    properly reflect the values that Article 3 is designed to protect.  The
+    formula posited in Paposhvili was that there must be a real risk of:
+
+         "being exposed to a serious, rapid and irreversible decline in  his
+         or her state of health resulting  in  intense  suffering  or  to  a
+         significant reduction in life expectancy".
+
+    This was the test endorsed by the Court in  AM  (Zimbabwe),  albeit  it
+    that it is properly understood as  a  departure  from,  rather  than  a
+    clarification of, N. It is therefore no longer a  requirement  of  such
+    cases that death be imminent: the focus shifts instead to whether there
+    will be intense suffering in the country of return, or to a significant
+    reduction in life expectancy.
+
+38. For MAA Mr Toal simply asks us to apply this modified N  threshold.  He
+    points out that the Upper Tribunal has already indicated, in KAM  (Nuba
+    - return) Sudan  CG  [2020]  UKUT  00269  (IAC),  that  this  would  be
+    appropriate:
+
+         52. Whilst the case of N v UK (2008) 47 EHRR 39 has  recently  been
+         reconsidered by the Strasbourg Court in Paposhvili v Belgium [2017]
+         Imm AR 867 and adopted by the Supreme Court in AM(Zimbabwe) v  SSHD
+         [2020] UKSC 17 so as to broaden the category of 'exceptional  case'
+         falling within Art 3 in medical/health cases (and here  by  analogy
+         we assume in 'living condition' cases), it remains a rigorous  test
+         requiring serious and immediate suffering reaching the high  Art  3
+         threshold or a significant diminution in life expectancy (see [27]-
+         [31] per Lord Wilson in AM).
+
+39. For the Secretary of State Mr Anderson points out that we are not bound
+    by KAM (Sudan), particularly since the Tribunal does not appear to have
+    heard any argument on the  point.  He  submits  that  contrary  to  the
+    assumption made therein, there are good  reasons  to  distinguish  what
+    that Tribunal refers to as 'living condition'  cases  from  the  health
+    cases discussed in Paposhvili and AM. His argument, skilfully put,  was
+    as follows.
+
+40. In the beginning there was Article 3.  The contracting  parties  wanted
+    to draw a line in the sand about what kind of behaviour was  acceptable
+    in post-war Europe. Torture was  not.  Recalling  the  horrors  of  the
+    concentration camps, nor was inhuman and degrading treatment. Those are
+    the paradigm behaviours that the article prohibits, in absolute terms.
+
+41. It was never intended that  the  Convention  would  be  concerned  with
+    securing rights outside  the  territory  of  the  contracting  parties:
+    indeed Article 1 specifically requires the High Contracting Parties  to
+    secure to "everyone within their jurisdiction the rights  and  freedoms
+    defined in section I".  Then in 1989 came Soering v United Kingdom (App
+    No. 14038/88) (1989) 11 EHRR 439, an American  extradition  case  where
+    the ECtHR was asked to find a real risk of violation in  another  place
+    entirely - in the death row cells of a Virginia penitentiary. The Court
+    embarked on  what  Mr  Anderson  describes  as  the  first  significant
+    extension of the ambit of Article 3 [from �87]:
+
+         "87. In interpreting the Convention  regard  must  be  had  to  its
+         special character as a treaty for  the  collective  enforcement  of
+         human rights and fundamental freedoms. Thus, the object and purpose
+         of the Convention as an instrument for the protection of individual
+         human beings require that its provisions be interpreted and applied
+         so as to make its safeguards practical and effective. In  addition,
+         any interpretation of the rights and freedoms guaranteed has to  be
+         consistent  with  "the  general  spirit  of  the   Convention,   an
+         instrument designed to maintain and promote the ideals  and  values
+         of a democratic society".
+
+         88 ...
+
+         The question remains whether  the  extradition  of  a  fugitive  to
+         another State where he would  be  subjected  or  be  likely  to  be
+         subjected to torture  or  to  inhuman  or  degrading  treatment  or
+         punishment would itself engage the responsibility of a  Contracting
+         State under Article 3.  That the abhorrence  of  torture  has  such
+         implications is recognised in  Article  3  of  the  United  Nations
+         Convention Against Torture and Other Cruel,  Inhuman  or  Degrading
+         Treatment or Punishment, which provides that "no State Party  shall
+         ... extradite a person where  there  are  substantial  grounds  for
+         believing that  he  would  be  in  danger  of  being  subjected  to
+         torture". The fact that a specialised treaty should spell  out  in
+         detail a  specific  obligation  attaching  to  the  prohibition  of
+         torture does not mean that an essentially similar obligation is not
+         already inherent in the general terms of Article 3 of the  European
+         Convention. It would hardly  be  compatible  with  the  underlying
+         values of  the  Convention,  that  "common  heritage  of  political
+         traditions, ideals, freedom and the  rule  of  law"  to  which  the
+         Preamble refers, were a Contracting State knowingly to surrender  a
+         fugitive to another State where there were substantial grounds  for
+         believing that he would be in danger of being subjected to torture,
+         however heinous the crime allegedly committed. Extradition in  such
+         circumstances, while not explicitly referred to in  the  brief  and
+         general wording of Article 3, would  plainly  be  contrary  to  the
+         spirit and intendment of the Article, and in the Court's view  this
+         inherent obligation not to extradite also extends to cases in which
+         the fugitive would be faced in the receiving State by a  real  risk
+         of  exposure  to  inhuman  or  degrading  treatment  or  punishment
+         proscribed by that Article[6]."
+
+         [Emphasis added]
+
+42. Soering was quickly followed by Cruz Varas v Sweden (App No. 15576/89),
+    (1992) 14 EHRR 1, Vilvarajah  v  United  Kingdom  (App  No.  13163/87),
+    (1992) 14 EHRR 248 and Chahal v  United  Kingdom  (App  No.  22414/93),
+    (1996) 23 EHRR 413. Application of  this  'extraterritorial  extension'
+    thereafter became a regular feature of the ECtHR's work.
+
+43. All of these cases were, however, still concerned with harms that  were
+    to be deliberately  inflicted  by  the  authorities  in  the  receiving
+    states.  It was not until 1997 that the ECtHR in  D  v  United  Kingdom
+    found Article 3  to  be  engaged  in  circumstances  where  the  feared
+    degradation and suffering arose naturally.  Mr Anderson identifies this
+    as the second significant extension to the ambit of the  Convention  as
+    it was originally conceived. In D the Court found a violation not  only
+    where the harm occurred outside of the jurisdiction, but where it arose
+    from the Appellant's  naturally  occurring  illness:  D,  and  N  which
+    followed, represented an 'extension of an extension'.
+
+44. Having taken us this  far,  Mr  Anderson  asks  us  to  find  that  the
+    application of the D/N ratio to cases involving material deprivation is
+    an extension further still.  He makes two points  in  support  of  that
+    submission. First, he points out that nowhere in any of  the  judgments
+    in D or N, domestic or European, do the  courts  expressly  contemplate
+    such a leap. More importantly it is clear from the drafting, and indeed
+    the history of the  Convention,  that  its  focus  is  upon  civil  and
+    political rights as opposed to social, cultural and economic rights. In
+    Said type cases, the argument goes, we are dealing with  'an  extension
+    of an extension of an extension': we are pushing at the very limits  of
+    the Convention's protections.  Whilst the Convention may be  a  'living
+    instrument', Mr Anderson submits that  its  boundaries  should  not  be
+    distorted to the point where it would be unrecognisable to the original
+    signatories.   To this end Mr Anderson prays in  aid  the  judgment  of
+    Lord Justice Laws in GS (India) and in particular its approval of  Lord
+    Bingham's speech in Brown v Stott [2003] 1 AC 681 [at �703D-G]:
+
+         "In interpreting  the  Convention,  as  any  other  treaty,  it  is
+         generally to be assumed that the parties have  included  the  terms
+         which they wished to include and on which they were able to  agree,
+         omitting other terms which they did not wish to include or on which
+         they were not able to agree. Thus particular regard must be had and
+         reliance placed on the  express  terms  of  the  Convention,  which
+         define the rights and freedoms which the contracting  parties  have
+         undertaken to secure. This  does  not  mean  that  nothing  can  be
+         implied into the Convention. The language of the Convention is  for
+         the most  part  so  general  that  some  implication  of  terms  is
+         necessary, and the case law of the European Court  shows  that  the
+         court has been willing to imply terms into the Convention  when  it
+         was judged necessary or plainly right to do so. But the process  of
+         implication is one to be carried out with caution, if the  risk  is
+         to be  averted  that  the  contracting  parties  may,  by  judicial
+         interpretation, become bound by  obligations  which  they  did  not
+         expressly accept and might not have been willing to accept.  As  an
+         important constitutional instrument the Convention is to be seen as
+         a 'living tree capable of growth and expansion within  its  natural
+         limits' (Edwards v Attorney General for Canada [1930] AC 124,  136
+         per Lord Sankey LC), but those limits  will  often  call  for  very
+         careful consideration."
+
+45. It is against this background that Mr Anderson urges  the  Tribunal  to
+    proceed with caution: the modification of  the  N  test  introduced  by
+    Paposhvili  and  confirmed  in  AM  (Zimbabwe)   was   a   humanitarian
+    recalibration based very specifically on the circumstances  arising  in
+    medical cases.  Those  judgments  focused  on  the  illogicality  of  a
+    distinction between dying on  arrival  or  dying  within  some  months.
+    Should that relaxation of the standard be extended to  cases  concerned
+    with  material  deprivation,  it  will  in  the  Secretary  of  State's
+    submission be an extension too far. It would risk, as Laws LJ puts  it,
+    binding the contracting parties  to  obligations  which  they  did  not
+    expressly accept [at �38 GS (India)]. For those reasons we are asked to
+    confine the Paposhvili modification to health cases.
+
+46. Impressed as  we  were  with  Mr  Anderson's  argument,  and  his  oral
+    presentation of it, we are unable to accept it.
+
+47. The Secretary of State's case rests on the principle that  the  'living
+    instrument' doctrine should not be so liberally applied that it renders
+    the  protections  of  the  Convention  unrecognisable.  This  was  Lord
+    Bingham's caution, echoed by Lord Justice Laws in GS (India) [at �38]:
+
+         "38. ... So the starting-point is the text, and any implication  or
+         enlargement requires a  careful  avoidance  of  the  imposition  of
+         obligations beyond the  actual  or  assumed  scope  of  the  States
+         parties'  agreement.  But  there   is   at   once   a   difficulty,
+         unacknowledged in these dicta.  How  is  the  "living  instrument"
+         approach to be reconciled with the court's duty to be loyal to  the
+         founders' agreement? The notion  that  the  modern  scope  of  ECHR
+         rights may be resolved by asking whether the States  parties  might
+         have consented to this or that outcome suggested  by  circumstances
+         which were or might have been beyond contemplation  when  the  text
+         was agreed is surely problematic. I think the best one can do is to
+         confine any implication or enlargement  to  situations  which  have
+         some affinity with the paradigm case; situations which are,  so  to
+         speak, within the spirit of the paradigm case, whose identification
+         therefore assumes a considerable importance."
+
+48. As a matter of principle, this is plainly correct, and it accords  with
+    the general rule of interpretation set down in  Article  31(1)  of  the
+    Vienna Convention on the Law  of  Treaties.  Decision  makers  must  be
+    careful not to read into the Convention protections beyond  its  scope,
+    since to do so would be to bind signatories to  obligations  that  they
+    never  agreed  to.  It  would  however  be  equally  wrong  to  take  a
+    restrictive, originalist approach to the text.  The Convention is to be
+    interpreted and applied in a manner which renders its rights  practical
+    and effective, not theoretical and illusory,  and  in  a  manner  which
+    continues to reflect the values of the societies  that  it  serves.   A
+    review of the jurisprudence since 1950 reveals just how  far,  applying
+    those principles, the branches of the tree have already spread.
+
+49. The first  decades  of  the  Convention's  lifespan  saw  little  legal
+    activity  in  Strasbourg:  the  Convention  then  simply  served  as  a
+    declaration of the values and political will  of  post-war  Europe.  In
+    this early period it was seen primarily as a mechanism  by  which  that
+    democratic order  could  be  enforced:   see  for  instance  the  Greek
+    Case[7], in which other members of the Council of  Europe  charged  the
+    fascist junta in Athens with the torture of political  opponents.    It
+    was not in fact until the mid-1960s that the United Kingdom, in  common
+    with other major powers, accepted the right of individual  petition  at
+    all[8].  Having taken that leap, however, the  ECtHR soon accepted that
+    it is the purpose of the Convention which is to be given primacy in its
+    interpretation, taking a teleological approach  in  Wemhoff  v  Federal
+    Republic of Germany (App No 2122/64), (1979-80) 1  EHRR  55,  Golder  v
+    United Kingdom (App No. 4451/70), (1979-80) 1 EHRR 524 and then Tyrer v
+    United Kingdom (App No. 5856/72), (1979-80) 2 EHRR 1 in which the court
+    expressly recognised that this purpose was to be interpreted  in  light
+    of societal developments:
+
+         The Court  must  also  recall  that  the  Convention  is  a  living
+         instrument which, as the  Commission  rightly  stressed,  must  be
+         interpreted in the light of present-day conditions.
+
+50. Applying the 'living instrument' doctrine the  ECtHR  has  since  Tyrer
+    repeatedly enlarged the scope of the  Convention's  protections  beyond
+    scenarios within the contemplation of the signatory  parties  in  1950.
+    In for instance Marckx v Belgium (App No 6833/74), (1980)  2  EHRR  330
+    the ECtHR recognised the Article 8 family life rights of children  born
+    out of wedlock, and in Dudgeon  v  United  Kingdom  (App  No  7525/76),
+    (1981) 4 EHRR 149 the private life rights of gay men.  As Mr Anderson's
+    own chronology demonstrates, the protection of the Convention was  then
+    (in effect) extended outwith the borders of Europe in Soering, and in D
+    to cases far beyond the original paradigm.  As these cases  illustrate,
+    the 'living instrument' doctrine  has  already  yielded  results  which
+    would seventy years ago have been regarded as radical, but in  applying
+    it the  ECtHR has expressly recognised that its decisions must  reflect
+    the prevailing norms in the societies that it serves. As the court  put
+    it in Wemhoff, it is necessary "to  seek  the  interpretation  that  is
+    most appropriate in order to realise the aim and achieve the object of
+    the treaty, not that which would restrict  to  the  greatest  possible
+    degree the obligations undertaken by the Parties".
+
+51. This being so, we find  a  number  of  ECtHR  cases  in  which  social,
+    cultural  and  economic  rights  feature,   either   tangentially,   or
+    centrally, notwithstanding their apparent exclusion by the  signatories
+    in 1950. It is trite history  that  in  this  wholly  western  European
+    project the drafters selected from the Universal Declaration  of  Human
+    Rights only those civil and political rights believed to  best  reflect
+    democratic values: the economic rights  ideologically  vaunted  by  the
+    eastern bloc were deliberately omitted[9].  Yet as early  as  1979  the
+    ECtHR had in Airey v Ireland (App No. 6289/73), (1979-80)  2  EHRR  305
+    cautioned against imagining a "water-tight division"  between  the  two
+    classes of rights. The Court subsequently recognised  the  multifaceted
+    nature of suffering in cases such as Seljuk and Asker v  Turkey  (1998)
+    26 EHRR 477, Bilgin v Turkey (App. No 23819/24) 2000 and Dulas v Turkey
+    (App. No 25801/94) 2001, all applications in which Turkey was found  to
+    be in violation of Article 3 (and 8)  notwithstanding  that  they  were
+    ostensibly concerned with the destruction of property and homelessness.
+      Both Commission and Court have further accepted that dire poverty  is
+    capable of engaging Article 3: see for  instance  Larioshina  v  Russia
+    (App  No.  56869/00)  (23rd  April  2002)  and  then  in  another  case
+    concerning inadequate provision for pensioners,  Budina v Russia  (App.
+    No 45603/05) (18 June 2009). In Budina the Court expressly rejected the
+    Russian submission that it lacked the  jurisdiction  to  consider  such
+    matters[10]:
+
+         "as to compatibility ratione materiae, the Court  reiterates  that
+         the mere fact that an interpretation of the Convention may  extend
+         into the sphere of social and  economic  rights  should  not  be  a
+         decisive factor against such an interpretation".
+
+52.  An  analysis  to  the  same  effect  is  found  in  our  own  domestic
+    jurisprudence in Adam, Limbuela and Tesema v Secretary of State for the
+    Home Department [2005] UKHL 66, [2007] 1 All ER 951 where the House  of
+    Lords was asked to consider whether legislation depriving those who had
+    failed to claim asylum on arrival - "late applicants"  -  of  financial
+    support had given rise to a violation of Article 3.    Their  Lordships
+    expressly  recognised  that  the   Convention   imposes   no   positive
+    obligations  upon  signatory   states   to   guarantee   socio-economic
+    rights[11], but where the lack of them is abject, the  Article  may  be
+    engaged. As Lord Bingham of Cornhill puts it [at �7]:
+
+         "Treatment is inhuman or degrading if, to a  seriously  detrimental
+         extent, it denies the most basic needs of any human  being.  As  in
+         all article 3 cases, the treatment, to be proscribed, must  achieve
+         a minimum standard of severity,  and  I  would  accept  that  in  a
+         context such as this, not involving the  deliberate  infliction  of
+         pain or suffering, the threshold is a high one.  A  general  public
+         duty to house the homeless or provide for the destitute  cannot  be
+         spelled out of article 3. But I have no doubt  that  the  threshold
+         may be crossed if a late applicant with no means and no alternative
+         sources  of  support,  unable  to  support  himself,  is,  by   the
+         deliberate action of the state, denied shelter, food  or  the  most
+         basic necessities of life. It is not necessary that  treatment,  to
+         engage  article  3,  should  merit  the  description  used,  in  an
+         immigration context,  by  Shakespeare  and  others  in Sir  Thomas
+         More when they referred to "your mountainish inhumanity".
+
+53. In all of the cases to which we have been referred,  whether  they  are
+    about poverty, or a lack  of  palliative  care,  or  homelessness,  the
+    'living instrument' approach has enabled the  ECtHR  to  focus  not  on
+    fact that the suffering endured by the claimants is  socio-economic  in
+    nature, but on the suffering itself, and in particular its  assault  on
+    the human dignity of the individuals concerned. There is  no  right  to
+    health care, but it may be a violation if the lack of  it  exposes  the
+    sick to inhuman and degrading conditions: see D v United Kingdom.   Nor
+    is there a right to a minimum level of income, but an  existence  below
+    that subsistence level could engage Article 3  if  it  is  damaging  to
+    physical or mental health, or leaves the individual in "a situation  of
+    degradation incompatible with human dignity": Budina v  Russia.   There
+    is no guarantee under the Convention of a right to housing per se  (see
+    for instance Muslim v Turkey  (App No. 53566/99), (2006)  42  EHRR  16)
+    but there may be a violation of  Article  3  if  the  lack  of  housing
+    fundamentally undermines the dignity of the homeless:   in  Moldavan  v
+    Russia (No 2) (Apps No 41138/98 and 64320/02) the severely  overcrowded
+    and unsanitary conditions endured by the applicants over a long  period
+    was found, in light of the state's indifference  to  their  plight,  to
+    arouse in them feelings of "humiliation and debasement".
+
+54. This focus upon dignity has led the  Court  in  recent  years  to  find
+    violations in some arguably unlikely scenarios.   In  Vinter  &  Ors  v
+    United Kingdom (Apps Nos 66069/09 130/10 and 3896/10) III ECHR 317, for
+    instance, the Court found the hopelessness faced by  prisoners  serving
+    sentences without the prospect of parole to be  incompatible  with  the
+    UK's obligations under Article 3, notwithstanding the  s  ECtHR's  long
+    stated  commitment  to  giving  signatory  states  a  wide  margin   of
+    appreciation when it came to penal policy. In Bouyid v Belgium (App  No
+    23380/09), (2015) ECHR 819  the  facts,  a  single  slap  by  a  police
+    officer, did not at first blush come  close  to  reaching  the  minimum
+    level of severity required: indeed it had been the unanimous verdict of
+    the Chamber that they did not. By  a  substantial  majority  the  Grand
+    Chamber overturned the decision below. Central to the  Grand  Chamber's
+    reasoning was a confirmation that although the word does not feature in
+    Article 3 itself - the Court  lists  no  fewer  than  20  human  rights
+    instruments in which it does  - human dignity is, and always has  been,
+    "the very essence of the Convention"[12] :
+
+         87.  Ill-treatment that attains such a minimum level  of  severity
+         usually involves actual bodily injury or intense physical or mental
+         suffering. However, even in the absence  of  these  aspects,  where
+         treatment humiliates or debases an individual, showing  a  lack  of
+         respect for or diminishing his or her  human  dignity,  or  arouses
+         feelings of fear, anguish or inferiority  capable  of  breaking  an
+         individual's moral and physical resistance, it may be characterised
+         as degrading and also fall within  the  prohibition  set  forth  in
+         Article 3 ...
+
+         89.  The word "dignity" appears in many international and regional
+         texts and instruments (see paragraphs 45-47  above).  Although  the
+         Convention does not  mention  that  concept  -  which  nevertheless
+         appears in the Preamble to  Protocol  No.  13  to  the  Convention,
+         concerning the abolition of the death penalty in all  circumstances
+         - the Court has emphasised that respect for  human  dignity  forms
+         part of the very essence of the Convention.
+
+         90.  Moreover, there is a particularly  strong  link  between  the
+         concepts of "degrading" treatment or punishment within the  meaning
+         of Article 3 of the Convention and respect for "dignity".  In  1973
+         the European Commission  of  Human  Rights  stressed  that  in  the
+         context of Article 3 of the Convention  the  expression  "degrading
+         treatment" showed that the general purpose of that provision was to
+         prevent  particularly  serious  interferences  with  human  dignity
+         (see East African Asians v. the United Kingdom, nos. 4403/70 and 30
+         others, Commission's report of  14  December  1973,  Decisions  and
+         Reports 78-A, p. 56, � 192). The Court,  for  its  part,  made  its
+         first  explicit  reference  to  this  concept   in   the   judgment
+         in Tyrer ...
+
+55. Having had regard to this jurisprudence we are  unable  to  accept  the
+    Secretary of State's submission  that  cases  concerned  with  material
+    deprivation are necessarily at the  very  outer  limits  of  Convention
+    protection and should accordingly be subject to the most  stringent  of
+    standards, the unmodified N test.  Strasbourg has already in a  variety
+    of contexts recognised rights which, although ostensibly socio-economic
+    in nature, arise  in  situations  fundamentally  concerned  with  human
+    dignity and so capable of engaging Article 3. As the decision in Bouyid
+    makes clear, this approach is consistent not only with  the  object  of
+    the Convention itself, but with the wider humanitarian purpose of human
+    rights law as a whole.
+
+56. Furthermore we are unable  to  accept  the  proposition  that  material
+    deprivation cases are a tenuous 'extension' of the health cases at all:
+     on the contrary, we find them to be growth on the same branch.
+
+57. In the health cases what is the factor  that  fundamentally  undermines
+    the dignity of the individuals concerned? It was not the illness of  Mr
+    D, Ms N, nor Mr Paposhvili which led to the cases before the ECtHR:  it
+    was the lack of medical treatment - i.e. material  deprivation  -  that
+    they would face upon expulsion from the host country. This is explained
+    by the Court in Pretty v United Kingdom [at �53]:
+
+         In the present case, it is beyond dispute that the respondent State
+         has not, itself, inflicted any ill-treatment on the applicant.  Nor
+         is there any complaint that the applicant is not receiving adequate
+         care from the State  medical  authorities.  The  situation  of  the
+         applicant is therefore not comparable with that in D. v. the United
+         Kingdom, in which an AIDS sufferer was threatened with removal from
+         the United Kingdom to the island of St  Kitts  where  no  effective
+         medical or palliative treatment for his illness was  available  and
+         he would have been exposed to the risk  of  dying  under  the  most
+         distressing circumstances. The responsibility of  the  State  would
+         have been engaged by its act ("treatment") of removing him in those
+         circumstances. There is no comparable act  or  "treatment"  on  the
+         part of the United Kingdom in the present case.
+
+    [Emphasis added].
+
+58. And in SHH v United Kingdom:
+
+         "74.  In Salah Sheekh v. the Netherlands, cited above, the Court
+         held that socio-economic and humanitarian conditions in  a  country
+         of return did not necessarily have a bearing, and certainly  not  a
+         decisive bearing, on the question of whether the persons concerned
+         would face a real risk of  ill  treatment  within  the  meaning  of
+         Article 3 in those areas (� 141).
+
+         75.  However,  in N. v.  the  United  Kingdom, cited  above,
+         the Court held  that  although  the  Convention  was  essentially
+         directed at the protection  of  civil  and  political  rights, the
+         fundamental importance of Article 3 meant that it was necessary for
+         the Court to retain a degree of flexibility to prevent expulsion in
+         very exceptional cases. Noting that Article 3 did not  place  an
+         obligation on Contracting States to alleviate  disparities  in  the
+         availability of medical treatment in different States through the
+         provision of free and unlimited health care to all aliens without a
+         right    to    stay     within     their     jurisdictions,     the
+         Court nevertheless held that humanitarian conditions  would  give
+         rise to a breach of Article 3 of the Convention in very exceptional
+         cases  where  the  humanitarian  grounds   against   removal   were
+         compelling (�42).
+
+         ...
+
+         89.  The Court finds that the  principles  of N.  v.  the  United
+         Kingdom should apply to the circumstances of the present case for
+         the    following    reasons.  First,    the    Court    recalls
+         that N. concerned the  removal  of  an  HIV-positive  applicant
+         to Uganda, where her lifespan was likely to be reduced on  account
+         of the fact that the treatment facilities there  were  inferior  to
+         those available in the United Kingdom. In reaching its conclusions,
+         the Court noted that the alleged future harm would emanate not from
+         the intentional acts or omission of public authorities or non-State
+         bodies but from a naturally  occurring  illness  and  the  lack  of
+         sufficient resources to deal with it in the receiving country. The
+         Court also stated that Article 3 did not place an obligation on the
+         Contracting State to alleviate disparities in the  availability  of
+         medical treatment between the Contracting State and the country  of
+         origin through the provision of free and unlimited health  care to
+         all   aliens   without    a    right    to    stay    within    its
+         jurisdiction (ibid, � 44). The Court acknowledges that, in  the
+         present case, the applicant's disability cannot be considered to be
+         a "naturally"  occurring  illness and  does  not  require medical
+         treatment. Nevertheless, it is considered to be significant that in
+         both scenarios the  future  harm  would  emanate  from  a  lack  of
+         sufficient resources to provide either medical treatment or welfare
+         provision rather than the intentional acts  or  omissions  of  the
+         authorities of the receiving State."
+
+    [Emphasis added] [13].
+
+59. And in Paposhvili itself:
+
+         183.  The Court considers that the "other very exceptional  cases"
+         within the meaning of the judgment in N. v. the United Kingdom (�
+         43) which may raise an issue under Article 3 should  be  understood
+         to refer to situations involving the removal  of  a  seriously  ill
+         person in which substantial grounds have been shown  for  believing
+         that he or she, although not at imminent risk of dying, would  face
+         a real risk, on account of the absence of appropriate treatment  in
+         the receiving country or the lack of access to such  treatment,  of
+         being exposed to a serious, rapid and irreversible decline  in  his
+         or her state of health resulting  in  intense  suffering  or  to  a
+         significant reduction in life expectancy. The Court points out that
+         these situations correspond to a high threshold for the application
+         of Article 3 of the Convention in cases concerning the  removal  of
+         aliens suffering from serious illness.
+
+    [Emphasis added]
+
+60. As the unfortunate demise of Mr  Paposhvili  illustrates,  the  illness
+    remained a constant, wherever he was: for the purpose  of  the  court's
+    enquiry, it was simply  a  personal  characteristic  that  fell  to  be
+    evaluated as part of the assessment of whether the conditions he  faced
+    on return to Georgia gave rise to a real risk of inhuman and  degrading
+    treatment. In fact in each of the health cases to which  we  have  been
+    referred, a defence of the contracting party has not been to query  the
+    impact  of  the  claimant's  illness,  but  to  argue  that  prevailing
+    circumstances  on  the  ground  are  not  dire   enough   to   find   a
+    violation[14].
+
+61.  Consequently  we  cannot  agree  that  there  is  any  jurisprudential
+    distinction between the health cases and those concerned with  material
+    deprivation:  it  is  no  doubt  for  this  reason  that  none  of  the
+    authorities to which we have been  referred  have  drawn  one.  To  the
+    contrary, the Courts have treated  them  in  the  same  way,  uniformly
+    applying the N test wherever the  feared  harm  arises  from  naturally
+    occurring circumstance.
+
+62. Thus whilst we accept that the Convention has expanded, and  that  each
+    incremental spurt of growth must be carefully  considered,  we  do  not
+    accept that in applying Paposhvili to this case we would materially, or
+    impermissibly, be adding to that growth. We would  simply  be  applying
+    the law within its existing limits.  The N threshold has been  modified
+    by Paposhvili and AM (Zimbabwe) and  it  is  that  less  exacting,  but
+    nevertheless very high, test that we must  apply.   We  are  no  longer
+    concerned with whether there would be an imminence  of  death  for  MAA
+    upon return to Somalia, but  rather  whether  he  will  be  exposed  to
+    conditions resulting in intense suffering or to a significant reduction
+    in his life expectancy such that the  humanitarian  case  for  granting
+    leave is compelling.
+
+
+
+
+    The Qualification Directive
+
+63. MAA relies, in addition  to  Article  3,  upon  Article  15(b)  of  the
+    Qualification Directive:
+
+         Serious harm consists of:
+
+      a) The death penalty or execution; or
+
+      b) Torture or inhuman or  degrading  treatment  or  punishment  of  an
+         applicant in the country of origin; or
+
+    Serious and individual threat to a civilian's life or person by  reason
+    of indiscriminate violence in situations of international  or  internal
+    armed conflict
+
+64. The parties  agreed  that  the  United  Kingdom's  departure  from  the
+    European Union notwithstanding, the Directive continued to have  direct
+    effect, although neither was in a position to articulate  exactly  why.
+    The Supreme Court in G v G [2020] EWCA Civ 1185 certainly proceeded  on
+    the same footing but again without explanation: see [�84].  The  reason
+    is set out at ss2 -4 of the European Union Withdrawal Act 2018:
+
+         2 Saving for EU-derived domestic legislation
+
+
+         (1) EU-derived domestic legislation, as it has effect  in  domestic
+         law immediately before  exit  day,  continues  to  have  effect  in
+         domestic law on and after exit day.
+
+         (2) In this section "EU-derived  domestic  legislation"  means  any
+         enactment so far as-
+
+             (a) made under section 2(2) of, or paragraph 1A of Schedule  2
+             to, the European Communities Act 1972,
+
+             (b) passed or made, or operating, for a purpose  mentioned  in
+             section 2(2)(a) or (b) of that Act,
+
+             (c) relating to anything-
+
+                  (i) which falls within paragraph (a) or (b), or
+
+                  (ii) to which section 3(1) or 4(1) applies, or
+
+             (d) relating otherwise to the EU or the EEA,
+
+         but does not  include  any  enactment  contained  in  the  European
+         Communities Act 1972.
+
+         ...
+
+         3 Incorporation of direct EU legislation
+
+
+         (1) Direct EU legislation, so far as operative  immediately  before
+         exit day, forms part of domestic law on and after exit day.
+
+         (2) In this Act "direct EU legislation" means-
+
+             (a) any EU regulation, EU decision or EU tertiary legislation,
+             as it has effect in EU law immediately before exit day...
+
+         (3) For the purposes of this Act,  any  direct  EU  legislation  is
+         operative immediately before exit day if-
+
+             (a) in the case of  anything  which  comes  into  force  at  a
+             particular time and is stated to apply from a later  time,  it
+             is in force and applies immediately before exit day,
+
+             (b) in the case of a decision which specifies to  whom  it  is
+             addressed, it has been notified to  that  person  before  exit
+             day, and
+
+             (c) in any other case, it is in force immediately before  exit
+             day.
+
+         ...
+
+         4 Saving for rights etc. under section 2(1) of the ECA
+
+
+         (1) Any rights,  powers,  liabilities,  obligations,  restrictions,
+         remedies and procedures which, immediately before exit day-
+
+             (a) are recognised and available in domestic law by virtue  of
+             section 2(1) of the European Communities Act 1972, and
+
+             (b) are enforced, allowed and followed accordingly,
+
+         continue on and after exit day to be recognised  and  available  in
+         domestic  law  (and  to   be   enforced,   allowed   and   followed
+         accordingly).
+
+         ...
+
+65. Prior to the end of the implementation period the relevant parts of the
+    Qualification Directive were implemented domestically by The Refugee or
+    Person in Need of International Protection (Qualification)  Regulations
+    2006, and the Immigration Rules. They continue therefore, by virtue  of
+    s2(1) above, to have direct effect.
+
+66. That having been established, no material discrete  issue  arose  under
+    Article 15: the parties accepted that if MAA is  able  to  make  out  a
+    claim under Article 3, success under Article 15(b)  would  follow,  and
+    vice versa.   The only discussion  about  the  Qualification  Directive
+    before us arose in the context of Mr  Toal's  reply  to  Mr  Anderson's
+    argument about the various enlargements to  the  Convention,  discussed
+    above. As Mr Toal points out the language of Article 15(b) requires the
+    torture, inhuman or degrading treatment or punishment to be faced in an
+    applicant's  "country  of  origin"  thus  expressly  incorporating  the
+    Soering extension into European law. Support, if support is needed, for
+    the contention that  in  human  rights  law,  once  radical  departures
+    eventually become orthodoxy.
+
+67. For the sake of completeness  we  note  that  the  Secretary  of  State
+    accepts that MAA would be entitled to  humanitarian  protection  if  he
+    discharges the burden upon him: he is not excluded by his  criminality,
+    the First-tier  Tribunal  having  quashed  the   Secretary  of  State's
+    certification  under s72 Nationality, Immigration and Asylum Act 2002.
+
+
+
+    Article 8
+
+68. There was no disagreement between the parties  about  the  approach  we
+    must take to Article 8, which we only intend to address should MAA fail
+    to make out his Article 3 protection grounds.  As  a  foreign  criminal
+    who has been sentenced to 4  years  or  more,  MAA  cannot  succeed  on
+    Article 8 grounds on the basis  of  one  of  the  'exceptions'  to  the
+    automatic deportation procedure set out in s33 Borders  Act  2007.   He
+    can only defeat the proposed action if he can  demonstrate  that  there
+    are "very compelling circumstances over and above" those matters.  This
+    very high test is reflective of  the  strong  public  interest  in  the
+    deportation of serious criminals. In making our assessment we must have
+    regard to a wide range of factors which in this context, would  include
+    conditions on the ground in Somalia.
+
+
+
+
+    Article 4
+
+69. Before we turn to make our findings on MAA's appeal, it is  appropriate
+    that we record one submission which we do not intend  to  address.   It
+    was Mr Toal's analysis of the evidence about 'Gatekeepers' - those  who
+    guard and control the IDP camps in and  around  Mogadishu  -  that  the
+    inhabitants of those camps are kept in conditions which mean that  they
+    are, as a matter of law, to be classified as  victims  of  trafficking.
+    In very brief  summary  the  point  made  is  that  the  definition  of
+    trafficking set out at Article 4 of the European Convention  on  Action
+    Against Trafficking in Human Beings (ECAT) includes the "harbouring  or
+    receipt of persons" for the purpose of financial exploitation.    Since
+    there is some evidence of Gatekeepers keeping IDPs  confined  to  their
+    camp, and subjecting those IDPs to unlawful and oppressive 'taxation' -
+    i.e. taking a proportion of their meagre resources - that definition is
+    prima facie met.  As we explained to Mr Toal at the hearing, we are not
+    going to deal with this blanket submission.   This  is  not  a  country
+    guidance case, and it is of no concern to  MAA  whether  or  not  other
+    Somalis find themselves in a trafficking situation.  We  are  concerned
+    only with the potential risks to him.
+
+
+
+    The Facts
+
+    MAA's Life in Somalia
+
+70. MAA arrived in the UK on the 11th April 2008, when he was sixteen years
+    old. We accept the following relevant facts about his life  until  that
+    point.
+
+71. MAA states that he was born in Farhad in the Lower Shabelle but when he
+    was very young his family moved  to  Mogadishu  after  militias  seized
+    their land.  They lived in a district called Hodan, near  30th  Street.
+    MAA attended the Imam Shafi'i school.  There  was  a  period  when  the
+    fighting was too heavy to attend, but on and off he was there for about
+    4 years. MAA was a good student.  He states that security in  Mogadishu
+    at this time was very poor. He details a number of incidents  where  he
+    was attacked or robbed or both, and a  time  when  a  missile  hit  his
+    family home.   He also experienced a lot of bullying  and  difficulties
+    with other boys in the area.
+
+72. When he claimed asylum it was MAA's case that he is from  the  minority
+    Ashraf clan. That claim was rejected by the  First-Tier  Tribunal.   In
+    seeking permission to appeal against that decision MAA made  no  direct
+    challenge to that finding.  Insofar as a challenge could be implied, in
+    the ground that the Tribunal had failed to have regard to his  mother's
+    statement, permission was in any event refused.   MAA did not make  any
+    representations on the issue of his ethnicity by way of a  response  to
+    the Secretary of State's appeal filed in accordance with Rule  24(3)(e)
+    of the Tribunal Procedure (Upper Tribunal) Rules 2008.    Nor  was  the
+    matter raised before Judge Bruce at  the  'error  of  law'  hearing  in
+    October 2020. Before us Mr Toal  nevertheless  sought  to  re-open  the
+    question of whether MAA is from a minority Somali clan.  We declined to
+    hear those  submissions.  Having  had  regard  to  that  chronology  of
+    proceedings thus far we are satisfied that  it  would  not  be  in  the
+    interests of justice to permit  a  challenge  to  be  mounted  to  this
+    finding of fact at such late stage.   The finding that MAA is not of  a
+    minority clan is therefore preserved.
+
+73. MAA states that he has not seen any  member  of  his  immediate  family
+    since 2005. He had gone to school early in  the  morning  but  fighting
+    broke out and so the children were all told to go home.  MAA  tried  to
+    make his way home but there was gunfire so he ran the opposite way.  By
+    the evening he managed to reach the family  home.  He  found  the  door
+    locked.  He went to his neighbour's house and  found  no  adults,  only
+    children. They told him that they had returned home from school to find
+    that their parents,  and  his,  had  fled.   The  children  all  stayed
+    together: MAA, the twin neighbour boys aged 16, and their elder brother
+    Abdi who made a living,  and  supported  them  all,  by  selling  qaat.
+    Sometimes the boys would get leftovers given to them by local cafes and
+    shops. MAA remained with these brothers for about a year. He  continued
+    to attend school: because he had been a good student they did  not  ask
+    for any fees.
+
+74. After some time MAA heard from people in the area that his  family  had
+    fled back to Farhan. He was told that his father was ill. He wanted  to
+    travel to Farhan to find his family but there were two  obstacles.   He
+    did not have any money, and the fighting meant that travel  was  risky.
+    He knew that his paternal grandmother lived just outside  Mogadishu  in
+    Lafoole - it was only about one hour away on  foot  but  once  when  he
+    tried to go there he was attacked in the street so he was afraid to try
+    again for a long time.   It was not until 2006 that he managed to reach
+    his grandmother's house. MAA remembers his grandmother as being "fairly
+    well off". She had a herd of cows and used to  sell  milk.   He  stayed
+    with her for about two months.  She gave him money for another year  of
+    school fees and told him to go back to Mogadishu and carry on with  his
+    education.  She had heard from people travelling from Farhan  that  his
+    parents were there and this was their wish.
+
+75. By the autumn of 2007 MAA had resolved to leave  Somalia.  The  ongoing
+    heavy fighting had meant that he had been unable to attend school for a
+    month  and.  Many  people  left  the  city  -  when  MAA  reached   his
+    grandmother's house in January 2008 he found the  whole  area  full  of
+    refugees. His grandmother sold some of her herd and raised  $10,000  to
+    pay for MAA's journey.  She got a relative to make contact with a well-
+    known agent in Mogadishu, and MAA's  trip  was  arranged.  He  flew  to
+    Somaliland, and then to Djibouti before continuing on to the UK.
+
+
+
+
+    MAA's Family
+
+76. When MAA arrived in the UK he was in possession of a  telephone  number
+    of a lady he had not at that  point  met.   Her  name  is  AH  and  she
+    identifies herself as his paternal cousin - her mother and  his  father
+    were half siblings. AH is the only relative MAA has any  contact  with.
+    Since arriving in this country he has lived with her  on  and  off  and
+    before she lost her job in the pandemic she  had  been  supporting  him
+    financially. We heard  oral  evidence  from  AH.  Not  all  of  it  was
+    particularly helpful - she has been in the UK since 1996 and so much of
+    her evidence about events in Somalia was hearsay.  As we explain below,
+    we are however prepared to place significant weight on what she had  to
+    say about the current whereabouts of members of MAA's family,
+
+77. At the point that he left Somalia MAA had been  living  with  his  next
+    door neighbours for approximately three years. The only  family  member
+    with whom he had had direct contact was  his  grandmother  in  Lafoole.
+    After his arrival in the UK MAA called his neighbour Abdi in  Mogadishu
+    to tell him of his safe arrival and Abdi had  some  exciting  news  for
+    him. His father had returned to the city. He was unwell and had come to
+    try and obtain medical treatment. Abdi told MAA that he  would  arrange
+    for his father to be there when he called back. After a couple of  days
+    this call took place.  MAA's father told him that his two sisters  were
+    living with a maternal uncle in Farhan, and  that  his  three  brothers
+    were placed with another uncle.  Their mother was living with  friends.
+     Mr Anderson asked us to reject the evidence about this telephone  call
+    on the basis that it was  unclear  how  MAA's  father  would  have  had
+    contact with Abdi. We are satisfied that this was quite straightforward
+    - he was the next door neighbour. It is natural that upon returning  to
+    the city MAA's father would go to his  own  house,  and  speak  to  the
+    neighbours. Further,   MAA's  evidence  is   that  his  grandmother  in
+    Lafoole  had  at  least  indirect  contact  with  her  son  in  Farhad,
+    communicated through people who were travelling between the  locations,
+    so it is probable that MAA's family were aware that he had been  living
+    with Abdi and his brothers.
+
+78. It is MAA's case that this was the last time he spoke with his  father.
+    He claims that in 2013 his father was killed in a  bomb  blast  at  the
+    Supreme Court in Mogadishu where he had  got  a  job  working  for  the
+    government. This evidence  was  rejected  by  the  First-tier  Tribunal
+    because it was contradicted by evidence elsewhere that the father  made
+    a living selling farmland and labouring.   Permission  to  appeal  that
+    finding was refused on the 12th  June  2020  by  Upper  Tribunal  Judge
+    Macleman. Undeterred by that, Mr Toal sought before  us  to  argue  the
+    point, calling evidence from AH about her understanding of where  MAA's
+    father had worked and when, and the circumstances of his death.  As  we
+    indicated at hearing, we are not prepared  to  revisit  a  matter  upon
+    which permission has been expressly refused. We would note that even if
+    we had exercised our discretion in MAA's  favour,  it  would  not  have
+    assisted him. That is because the evidence we heard about MAA's  father
+    was even more confused than the evidence already before the  First-tier
+    Tribunal. The previous evidence that  he  died  in  a  bomb  blast  was
+    directly contradicted by the testimony of AH that he was in  fact  shot
+    by an al-Shabaab fighter. The evidence that  he  died  at  the  Supreme
+    Court complex is contradicted by a letter from the  Somali  Embassy  in
+    Kampala that he died at the Benadir District Court.   Had this  been  a
+    matter upon which we could properly replace the finding of  the  First-
+    tier Tribunal, we would have found that the evidence was not capable of
+    discharging the burden of proof, even to the lower  standard.   Finally
+    we would  note  that  the  point  is,  for  the  purpose  of  our  risk
+    assessment, largely moot, since MAA's own expert witness, Mary  Harper,
+    concludes that no additional or discrete risk would attach  to  him  if
+    his father had happened to be killed in a terror attack  on  the  court
+    complex in 2013.
+
+79. The question then arises: where are MAA's family today?
+
+80.  We  are  satisfied  on  the  evidence  before  us  that  his  paternal
+    grandmother resident in Lafoole died in Somalia in 2014. This  was  the
+    evidence of AH, and we have no reason to  doubt  her  evidence  on  the
+    point. AH was not in Somalia at the time but we  accept  that  she  was
+    told, and she  believes,  that  her  grandmother  died  at  that  time.
+    Applying the lower standard of proof, and having  regard  to  the  life
+    expectancy for women in Somalia, we accept that it is reasonably likely
+    that this lady did indeed die in 2014.
+
+81. We are satisfied on the  evidence  before  us  that  MAA's  mother  and
+    siblings are now living in Kenya. This was the  understanding  of  both
+    MAA and AH,  and  their  assertions  were  supported  by  corroborative
+    evidence to which we are prepared to attach significant  weight.     We
+    have before us a signed statement prepared  by  Rosemary  Kate  Jessop,
+    MAA's solicitor at Brighton Housing Trust. Ms Jessop explains  that  on
+    the 31st October 2019 she telephoned a number with a  Nairobi  dialling
+    code and spoke, with the assistance of an interpreter, to a  woman  who
+    identified herself as MAA's mother.   Although the line cut off on  the
+    first few occasions Ms Jessop tried again and  on  the  fourth  attempt
+    managed to speak to the lady for 42 minutes. The  statement  Ms  Jessop
+    took is in the bundle.  The woman told her that she  and  her  children
+    had fled Somalia and they were living in a house in Nairobi with  other
+    Somalis and Muslims from the mosque.   She is unwell and  she  and  the
+    children survive on the charity of others.  Ms Jessop asked  the  woman
+    if she could provide some evidence that she and  the  children  are  in
+    Kenya: she took some photographs and sent them. They show a lady  in  a
+    burqa with a number of children. They have taken the picture  in  front
+    of the sign for the children's school, and in front of the school  bus.
+    In his oral evidence MAA identified the people pictured as  his  mother
+    and siblings. We recognise that it is of  course  possible  that  MAA's
+    mother travelled temporarily to Kenya in order to lie to Ms Jessop  and
+    this Tribunal but we think it unlikely. There  are  a  huge  number  of
+    Somali refugees living in Kenya and given that she is a female head  of
+    a household we find it altogether more likely that she  has  left  that
+    country, where she is - according to the  country  guidance  in  MOJ  -
+    particularly vulnerable.
+
+82. That leaves MAA's father.  It was  the  conclusion  of  the  First-tier
+    Tribunal that he was not killed in 2013, and as we  explain  above,  we
+    are not prepared to interfere  with  that  finding.    We  are  however
+    prepared to accept,  on  the  lower  standard  of  proof,  that  it  is
+    reasonably likely that he is not currently in Somalia. That is  because
+    of the evidence about what he did after MAA left the country  in  2008.
+    It was the wholly credible evidence of AH that at some  point  unknown,
+    MAA's father abandoned his mother and married a second wife.  This  was
+    not talked about or acknowledged within the family for  some  time.  AH
+    told us that she was very shocked when she found out. The  second  wife
+    started calling people in the family in approximately 2014 and  started
+    asking  for  help  and  money  -  she  claimed  that  al-Shabaab   were
+    threatening her.  As far as AH is aware this woman,  and  the  children
+    she had with MAA's father, are all now in Uganda.   Evidence  of  their
+    presence there has been produced in the form of  a  letter  dated  27th
+    November 2014 from the Somali Embassy in Kampala and a Ugandan  refugee
+    identity card.   On the basis of this evidence we  are  satisfied  that
+    wherever MAA's father is, it is reasonably likely that  he  is  not  in
+    Somalia, since both his wives and families are now living elsewhere.
+
+83. We further accept on the lower standard of proof that  it  is  unlikely
+    that any support will be forthcoming from  MAA's  father,  wherever  he
+    might be. It is MAA's evidence that he had  a  very  poor  relationship
+    with his father. When interviewed MAA informed Dr. Bell,  a  Consultant
+    Psychiatrist, that his father beat him regularly as a  child  and  that
+    they were in effect estranged. This appears to be borne out by the fact
+    that as a teenager MAA stayed on his own in Mogadishu for three  years,
+    and then made the journey to Europe, rather  than  reuniting  with  his
+    family in Farhan, a journey that  may  have  been  difficult,  but  was
+    evidently possible, given the information passed by travellers  between
+    MAA's father there and his grandmother in Lafoole.
+
+84. We are therefore prepared to accept, in light of the  above,  that  MAA
+    has no close relatives to whom he could turn living in Mogadishu today.
+     Mr Anderson is quite right to  say  that  he  may  have  more  distant
+    relatives such as cousins or uncles in the city. To make such a finding
+    would however  require  some  speculation  on  our  part,  and  we  are
+    satisfied that it is reasonably likely that if any such individuals  do
+    exist they would be unwilling to offer him any real support: as someone
+    who has been living in the west for 13 years it is difficult to see why
+    he would attract their sympathy and valuable resources.
+
+
+
+
+      MAA's Life in the UK
+
+85. MAA arrived in United Kingdom on  the  11th  April  2008  when  he  was
+    sixteen years old.  He has never had any leave to remain in the  United
+    Kingdom. His asylum claim was refused in 2008; his appeal against  that
+    decision was unattended, and subsequently dismissed.
+
+86. In the first few years that he lived here MAA moved between  AH's  home
+    and the care of the local authority. He found it difficult  to  settle,
+    moving between Littlehampton and Worthing.  MAA  succinctly  summarises
+    his slide into criminality like this:
+
+         "I was initially looked after by  the  Social  Services  under  the
+         leaving care provisions, but I lost their support and accommodation
+         in 2011 and became homeless and had  no  support.  I  started  sofa
+         surfing. I had fallen in with a bad  crowd,  and  started  behaving
+         badly myself, first drinking alcohol and later taking drugs. When I
+         arrived in the UK I had never had any alcohol and  when  I  started
+         drinking I became dependent  on  it  and  could  not  live  without
+         drugs....I did not have any money to buy them. The  dealers  who  I
+         got my drugs from said that I could have drugs if I sold the  drugs
+         for them and gave them money for the drugs and so this  is  what  I
+         did...."
+
+87. He received his first conviction, for  selling  cannabis,  in  November
+    2011. A number of other minor convictions  followed  before  the  index
+    offence of possession of a Class A drug with intent to  supply  led  to
+    the sentence of 4 years, handed down at Chichester Crown Court  on  the
+    19th April 2014.  MAA served  24  months[15].  Although  he  admits  to
+    having tried Spice in prison he states that he has been clean since the
+    beginning of 2015. He worked in the prison's education  department  and
+    claims to have undertaken  some  courses,  although  he  has  lost  the
+    certificates.    Since  his  release  he  has  complied  with  all  his
+    probation requirements and his licence ended in May 2018: he  has  been
+    assessed as being at a low risk of reoffending. He currently spends his
+    time volunteering for a Somali community group in Brixton.  He has been
+    supported by AH but since the pandemic started she has lost her job  in
+    accountancy and is finding it difficult to give him what she once did.
+
+88. Having had regard to the probation materials  and  MAA's  circumstances
+    the First-tier Tribunal was satisfied that he presented a low  risk  of
+    reoffending and accordingly found MAA to have rebutted the  presumption
+    in s72 Nationality, Immigration and Asylum Act 2002 that he is a danger
+    to the community. That finding is  unchallenged  by  the  Secretary  of
+    State.
+
+
+
+    The Medical Evidence
+
+89. MAA relies on the expert assessment of two mental health professionals.
+    We have been provided with a report by Consultant Forensic Psychologist
+    Dr Lisa Davies, dated 20th September 2019, and a report  by  Consultant
+    Psychiatrist Dr DL Bell dated 8th March 2021.  We  are  satisfied  that
+    both Dr Davies and Dr Bell are suitably qualified to give  evidence  in
+    this capacity. We note Mr Anderson's objections to the  late  admission
+    of Dr Bell's evidence, which was not filed and  served  until  the  day
+    before the hearing.  We recognise that this was contrary to directions,
+    but in view of the potential significance of  such  evidence,  and  the
+    fact that Mr Anderson  was  able  to  produce  a  cogent  supplementary
+    skeleton addressing it, we do not consider that the Secretary of  State
+    was so disadvantaged that it would  in  the  interests  of  justice  to
+    exclude it.
+
+90. In 2019 Dr Davies met with MAA for two and half hours  and  interviewed
+    him with the  assistance  of  a  Somali  interpreter.   Her  report  is
+    primarily concerned with whether he presented a risk of reoffending: it
+    was relied upon before the First-tier Tribunal to rebut the presumption
+    that MAA is a danger to the community. Dr Davies does however make some
+    findings of potential relevance to the assessment which  we  must  make
+    today, in respect of MAA's circumstances upon return to Somalia. It was
+    not Dr Davies' view that MAA was suffering from Post- Traumatic  Stress
+    Disorder or depression, but she acknowledged that at some points he had
+    experienced symptoms associated with both, for instance in 2015 when he
+    witnessed the suicide of a peer in prison. MAA reported  to  Dr  Davies
+    that even in these periods he had  not  sought  medical  help  but  had
+    rather managed his symptoms himself by actively socialising and playing
+    football.  Dr  Davies  found  no  indications  of  maladaptive   coping
+    strategies being used to manage the stress MAA faced as a result of his
+    proposed deportation.  There was at the  time  that  she  prepared  her
+    report no evidence of suicidal ideation, nor past engagement in suicide
+    attempts or self-harm, but she did conclude that the  risk  of  suicide
+    "could increase if  deported",  given  his  reported  past  history  of
+    depressed mood. Dr Davies concluded:
+
+         "Deportation would likely result in an exacerbation of symptoms  of
+         depression and trauma should he be exposed to further conflict  and
+         the separation from current supportive relationships  would  likely
+         render him vulnerable to exploitation in his future and  a  relapse
+         of drug and alcohol abuse".
+
+91. This year, very shortly before the hearing, MAA was interviewed  online
+    by Dr Bell.  He observed MAA to be clean and appropriately dressed, and
+    that he did not appear to be  obviously  psychiatrically  unwell.   The
+    history presented to Dr Bell by MAA was that as a young  child  he  was
+    regularly beaten by his father, with whom  he  did  not  enjoy  a  good
+    relationship; thereafter he witnessed many  traumatic  scenes  such  as
+    seeing dead bodies in the street and people  being  killed  or  injured
+    around him. He was separated from his family and after his  arrival  in
+    this country ended up abusing drugs. He then spent time in prison.
+
+92. MAA explained to Dr Bell that he feels depressed  and  ruminates  about
+    his current predicament: he is unable to work, his future is uncertain,
+    and he is filled with feelings of  guilt  and  remorse.   He  tries  to
+    prevent these feelings overwhelming him but sometimes he becomes filled
+    with rage, and when he is very low he cries.  Dr Bell records:
+
+         "he does suffer suicidal ideation wishing he were dead or would not
+         wake, although he has never acted upon this,  that  is  there  have
+         been no suicide attempts. It is clear that he  feels  protected  by
+         his religion beliefs, being a Muslim he believes it to be a sin  to
+         kill himself"
+
+93. MAA told Dr Bell that he has difficulty sleeping, and that sometimes he
+    stays in the same clothes for days without  washing.  Dr  Bell  thought
+    this to be a "very significant degree of self-neglect".   MAA  reported
+    suffering from nightmares once or twice per week,  and  explained  that
+    sometimes the dream continues even after he has woken. Dr  Bell  states
+    this to be typical of traumatic dreams. MAA  said  that  his  days  are
+    unstructured, and his appetite  is  poor;  he  spends  his  days  in  a
+    "profoundly apathetic listless state" and suffers from a high degree of
+    social isolation. Dr Bell records that  before  the  pandemic  MAA  did
+    however play football, went to restaurants with  friends  and  attended
+    mosque.  He feels supported by his friends and although he has not been
+    able to see them over lockdown he has regular  contact  through  social
+    media chatgroups.  MAA reported being much more disturbed by  phenomena
+    of paranoia, flashbacks and noise sensitivity prior to 2018.
+
+94. Having had regard to the answers given to him by MAA, Dr Bell concludes
+    that he is suffering from Depressive Disorder in partial remission, and
+    that he also shows typical features  of  PTSD,  although  he  does  not
+    currently meet the full diagnostic criteria for this condition: Dr Bell
+    explains that it is common for traumatised  states  to  eventuate  into
+    depressive disorder.  Dr Bell writes:
+
+         "It is highly likely that the support provided to him by his cousin
+         and his network of friends, particularly those with whom  he  plays
+         football, has been  of  great  importance  in  terms  of  providing
+         emotional and social support. Disorders such as these  are  however
+         highly context dependent. Any disruption  to  the  current  context
+         will result in a relapse into a more disturbed  psychiatric  state,
+         similar to that which he has encountered previously...
+
+         The prognosis for [MAA] is entirely dependent on the outcome of the
+         immigration proceedings...In the event that a decision is  made  to
+         return him  to  Somalia  there  will  be  a  deterioration  in  his
+         psychiatric state..."
+
+95. Dr Bell  notes  that  although  MAA  does  not  currently  receive  any
+    treatment in  this  country,  given  the  stability  of  a  regularised
+    immigration status his capacity for  further  rehabilitation  would  be
+    improved. By contrast Dr Bell believes that  if  returned  to  Somalia,
+    there will "in all likelihood be a deterioration in his mental  state".
+    Dr Bell bases this prognosis on the following factors:
+
+              i) Any separation from AH and current friends "will  re-ignite
+                 in his mind the  major  trauma  he  suffered  when  he  was
+                 suddenly separated from his family as a teenager"
+
+             ii) He will have no familiarity with Somalia, nor any  familial
+                 or social support of any kind. This will constitute a major
+                 external stressor leading to a further deterioration in his
+                 mental state. "He is likely to become extremely  vulnerable
+                 to exploitation by others"
+
+            iii) Returning to the scene of traumatic events will mean he  is
+                 "very likely to break down" and end up self-medicating with
+                 drugs and alcohol.
+
+96. Mr Anderson has made some cogent criticisms of this  medical  evidence,
+    in particular the evidence of Dr Bell. The Secretary of State  asks  us
+    to note that Dr Bell does not appear to have had access to all  of  the
+    relevant  documentation,  and  that  he   proceeded  on  the  basis  of
+    assertions that have  in  fact  been  rejected  by  the  Tribunal,  for
+    instance the claim that MAA's father was murdered  by  Al-Shabaab.   Dr
+    Bell concludes that MAA  is  socially  isolated  and  is  exhibiting  a
+    "significant degree of  self-neglect"  without  exploring  whether  not
+    seeing people and not getting dressed for days on  end  may  simply  be
+    related to the Covid-19 lockdown: in the context of the pandemic  those
+    reported behaviours are not at all unusual. They are to  be  contrasted
+    with Dr Davies' observations that pre-pandemic MAA had an active social
+    life, regularly playing football, going to caf�s etc. Dr  Bell  himself
+    observed MAA to be cleanly dressed, and did not consider him to display
+    any outward  signs  of  mental  illness,  and  recorded  that  MAA  has
+    continued to have regular social contact with his friends in accordance
+    with public health regulations.
+
+97. We consider much of this criticism of Dr  Bell's  report  to  be  well-
+    founded.  We do not however find much to turn on  it.  It  is  accepted
+    that MAA grew up in Mogadishu during a period in which street to street
+    fighting, shelling and inter-clan violence was  still  commonplace.  He
+    made the journey to this country on his own whilst only 16, and  it  is
+    not contested that he ended up using drugs and in prison, exposing  him
+    to the extreme violence of the narcotics industry.   On those facts  we
+    find it to be unremarkable that he suffers some mental health  sequalae
+    from those successive challenges.  Since his release from prison he has
+    had the threat of deportation hanging over him. He reports being filled
+    with remorse and regret, and  feels  despondent  about  his  situation.
+    Again, none of that is surprising and we see no reason to  reject  that
+    evidence.  Both Dr Bell and Dr Davies believe that  MAA's  symptoms  of
+    depression are likely to worsen should  he  actually  be  deported.  We
+    accept, at least in the short term, that this is likely to be true.  He
+    has his cousin in this country who supports him, and a good  number  of
+    friends. He is actively involved in the Somali community and has spoken
+    of valuing the guidance he receives from the elders.  We  fully  accept
+    that an involuntary dislocation from  all  of  that  is  likely  to  be
+    emotionally difficult, and that MAA will likely experience an  increase
+    in his symptoms of depression.
+
+98. We are not however persuaded that such a deterioration  will  have  any
+    significant impact on the decision that we need to make. First we  note
+    that no issue arises in respect of the lack of  treatment  in  Somalia,
+    for the simple reason that MAA has  not  received  treatment  here.  Dr
+    Davies notes that at the very height of his trauma - in  the  aftermath
+    of witnessing a suicide - MAA was able to deal with it on  his  own  by
+    socialising and playing football.  Dr Davies opines that a worsening in
+    MAA's  mental  health   will   "likely   render   him   vulnerable   to
+    exploitation... and a relapse of drug and alcohol abuse", a  view  with
+    which Dr Bell concurs.  We are unclear about the circumstances in which
+    it is feared that this might arise. We note that in the years since  he
+    was sent to prison MAA has shown admirable strength in recovering  from
+    what he regarded as  a  drug  addiction.  Despite  the  very  difficult
+    circumstances that he currently  finds  himself  in  he  has  made  the
+    conscious  decision  to  avoid  'the  wrong  crowd'  and  any   further
+    involvement in either drugs or alcohol.     We  further  note  that  Dr
+    Bell bases his conclusions in this regard  at  least  in  part  on  the
+    assumption that MAA will have  no  familiarity  with  Somalia:  on  the
+    facts, this is simply incorrect. MAA lived in Somalia until he was  16,
+    for approximately three of those years independently from  his  family.
+    He has retained cultural connections through regular contact  with  the
+    Somali community in this country.  The suggestion that he would somehow
+    be a 'fish out of water' is therefore unfounded.
+
+
+
+
+    The Country Background
+
+99. We are bound to apply the country guidance of MOJ,  and  neither  party
+    asked us to depart from it. We were nevertheless provided  with  almost
+    2500 pages of additional country background evidence.  Whilst  we  have
+    looked at all of that material we do not intend to summarise it in  our
+    analysis below. We shall only refer to  additional  material  where  it
+    either specifically addresses the issues in this appeal  -  as  in  the
+    helpful expert evidence of Ms Mary Harper, BBC Africa Correspondent[16]
+    - or where it post-dates MOJ and materially adds to  what  is  said  in
+    that decision.
+
+
+
+
+    Analysis and Findings
+
+100. MAA is a foreign criminal as defined by s32 of the  Borders  Act  2007.
+    This means that the public interest requires his automatic deportation,
+    unless he can bring himself within one of the 'exceptions' set  out  in
+    s33.   MAA contends that he can bring himself within 'exception  1'  as
+    set out at s33(2)(a) of the 2007  Act:  he  seeks  to  prove  that  his
+    deportation would breach his rights under the  ECHR.   Specifically  he
+    contends that he faces a real risk of enduring  inhuman  and  degrading
+    treatment such that would violate Article 3 ECHR and/or that there  are
+    "very compelling circumstances" such that his deportation  would  be  a
+    disproportionate interference with his Article 8(1) rights.
+
+101. Because MAA raises protection grounds, through the prism of Article  3,
+    we frame our assessment using the country guidance extant at  the  date
+    of hearing, MOJ.  We begin by considering whether MAA faces a real risk
+    of actual physical violence, before going on to assess  whether  it  is
+    reasonably likely that he will find himself  living  in  conditions  of
+    such dire poverty such that he would  face  "intense  suffering"  or  a
+    significant reduction in his life expectancy.
+
+
+
+    Violence
+
+102. Generally, a person who is an ordinary citizen returning  to  Mogadishu
+    will face no real risk of serious harm such as to engage Article  3  of
+    Article 15(c) of the Qualification Directive.    In  MOJ  the  Tribunal
+    specifically considered the risks pertaining to returnees, and rejected
+    the contention that this class of person faces  any  enhanced  risk  of
+    targeting by groups such as al-Shabaab for that reason alone.  Although
+    al-Shabaab continue to pursue a strategy of "asymmetrical  warfare"  by
+    the use of terrorist attacks in the city, the Tribunal in MOJ held that
+    civilians can mitigate any risk by avoiding  areas  and  establishments
+    that are clearly identifiable as likely targets.
+
+103. MAA has been out of Somalia for 13 years. We accept  that  during  that
+    time a lot will have changed in Mogadishu and that to some extent, this
+    will present MAA with a disadvantage.   However it is not  an  obstacle
+    that will be  particularly  difficult  for  him  to  overcome.  As  the
+    Tribunal observed in MOJ, avoiding the places that might be  vulnerable
+    to terrorist attack is a matter of common sense, not specialist insider
+    knowledge. MAA navigated the city when it was ravaged by open fighting:
+    we infer that he therefore has the experience to understand that  today
+    he should not, for instance, linger near an army  checkpoint  or  other
+    location that might be a target.
+
+104. MAA has been candid in his evidence that he  can  still  speak  Somali,
+    and that he has ongoing involvement with the Somali  community  in  the
+    UK. It cannot therefore be said  that  he  is  unfamiliar  with  Somali
+    culture, or would  have  forgotten  'how  things  work'.   In  MOJ  the
+    Tribunal rejected for lack of evidence the supposition that a  returnee
+    might face a risk - from terrorists or  other  criminals  -  simply  by
+    virtue of being someone who has lived in the West:   Mogadishu  has  in
+    recent years attracted returnees from the diaspora on  a  large  scale,
+    and that as a result many accents can be heard  on  the  streets,  from
+    Geordie to Minnesotan. The evidence does not  establish  that  standing
+    out as a former resident of the UK would cause MAA any problems.
+
+105. In so finding we reject the submission of Mr Toal that there is a  real
+    risk that MAA would be targeted for extortion  or  kidnap  by  criminal
+    elements.  This was a matter specifically  addressed  in  MOJ  and  the
+    scant evidence before us on the topic did not provide sufficient  basis
+    upon which to depart from the conclusions in that case.  We were  taken
+    to a 2019 article published by Cornell  University  Law  School[17]  in
+    which the authors analysed reports of Bantu people forcibly returned to
+    Somalia from the United States facing  kidnap  and  ransom  upon  their
+    return. As the authors of that  study  acknowledge,  the  Bantu  are  a
+    distinct group who have suffered particular racial  discrimination  and
+    marginalisation  within  Somalia.  As  such   they   are   particularly
+    vulnerable, not just to attack, but to the state's failure  to  protect
+    them. MAA is not Bantu, and  this  evidence  is  of  no  assistance  in
+    establishing that he would face a similar level of risk.
+
+106. In  her  reports  Ms  Harper  expresses  her  own  concerns  about  the
+    potential risks to MAA's personal security upon return to Somalia.  She
+    states that he "may" encounter problems at the airport  if  he  appears
+    "jittery". We are unclear as to why MAA might appear  jittery  or  what
+    problems he might encounter. Whilst we understand  being  an  obviously
+    non-Somali woman at the airport is probably  a  challenging  experience
+    for Ms Harper, we are unable to understand why MAA might  draw  adverse
+    attention to himself in this way.   Second she suggests that  having  a
+    criminal conviction for drug dealing is a matter which  could  lead  to
+    MAA facing social stigma or rejection. Even if we  accept  Ms  Harper's
+    expert  assessment  that  Somalis  are   "extraordinary   gossips   and
+    communicators" who know each other's business, we have found  that  MAA
+    knows no-one in the city. In those circumstances it is  not  reasonably
+    likely that anyone would come to know that he has criminal  convictions
+    in the UK. We further note the conclusions in MOJ [at �200] that  there
+    is no real evidence of such returnees being shunned.
+
+107. For the sake of completeness we note that the Tribunal in MOJ  rejected
+    the suggestion  that  returnees  would  face  a  real  risk  of  forced
+    recruitment to terrorist groups and nothing in the evidence  before  us
+    leads us to depart from that finding.
+
+108. Having considered all of those matters, we are satisfied that there  is
+    no real risk of MAA being targeted by violence  or  criminality  simply
+    because he is a returnee. We do accept that discrete risks may arise if
+    he finds himself living in insecure living arrangements and  we  return
+    to this matter below.
+
+
+
+
+    Living Conditions
+
+109. In MOJ the Tribunal heard evidence that there is a  broad  spectrum  of
+    circumstances in which people live in Mogadishu.  At  one  extreme  the
+    wealthy live in gated compounds guarded by armed security personnel. At
+    the  other  are  the  dispossessed  who  live  in  makeshift  dwellings
+    described by Mary Harper as "igloos", "made of sticks, cloth,  plastic,
+    metal. Not tents. Dwellings. Crammed  into  patches  of  spare  ground,
+    closely together. Inside there is just sand or cardboard or plastic  on
+    the ground". The Tribunal  accepted  that  life  in  such  a  structure
+    amounted to destitution [�182]  and  could  properly  be  described  as
+    "appalling" [�411].  Where an individual returnee was likely to end  up
+    depended on a number  of  factors,  including  whether  he  had  family
+    connections, was in receipt of remittances or another source of income,
+    and whether he was able to  work  to  support  himself.   The  Tribunal
+    concluded, although it was  not  given  evidence  on  the  point,  that
+    logically there must also be types of dwellings  falling  somewhere  in
+    the middle of this spectrum.
+
+110.  Nothing in the evidence before us indicated  that  this  spectrum,  or
+    the circumstances at its polar extremes, had materially changed.
+
+111. In her two reports Ms Mary Harper confirms that  she  has  visited  IDP
+    camps in and around Mogadishu on several occasions since she  gave  her
+    evidence in MOJ.  She  describes  the  conditions  as  "shocking"  even
+    compared to other refugee camps elsewhere  in  Africa:  "conditions  in
+    most camps are desperate, with inadequate  flimsy  shelters  made  from
+    twigs, cloth and plastic, limited  food,  water  and  sanitation".   In
+    February 2021, Ms Harper received information from an employee  of  the
+    UN Office for  the  Coordination  of  Humanitarian  Affairs  who  works
+    directly with IDPs in Mogadishu. He describes conditions in  the  camps
+    as "dire, very dire". Before us Mr Toal made extensive argument about a
+    further  challenge faced by residents of IDP camps:  predation  by  the
+    'Gatekeepers', which ranges from the diversion of  funds  to  rape  and
+    beatings, as outlined in the Human Rights Watch report cited at �470 of
+    MOJ.
+
+112. Ms Harper reports that for those dispossessed who are  unable  to  gain
+    entry to a camp  an  alternative  living  arrangement  is  to  take  up
+    residence on the streets or by squatting  an  abandoned  building.  She
+    explains that such an arrangement is extremely precarious,  not  simply
+    because of the likely poor quality of the shelter, but because  of  the
+    substantial rise in the number of  evictions  occurring  in  the  city.
+    Evictions were certainly a feature of the evidence before the  Tribunal
+    in MOJ, being reported as a routine hazard  by  organisations  such  as
+    UNHCR and Amnesty International,  but having had regard to the evidence
+    before us, we accept Mr Toal's submission  that  they  appear  to  have
+    increased exponentially in the  intervening  years  in  line  with  the
+    rapidly increasing demand for land.    Today  the  Secretary  of  State
+    accepts that forced evictions are a serious problem  in  Mogadishu.  In
+    the November 2020 Country Policy and Information  Note  Somalia  (South
+    and Central): Security and humanitarian situation the joint  report  of
+    various NGOs is cited as follows:[18]
+
+          'Forced evictions are a huge threat to Mogadishu's IDPs and  urban
+         poor. Benadir is the most affected by evictions: in  2019  so  far,
+         there have been 95,004 evictions in the region.... Most are forced,
+         with only very few lawful evictions  or  evictions  with  dignified
+         relocations. In most cases, evictions are  enforced  by  a  private
+         citizen from his or her property in order to  develop  their  land,
+         where, as often happens, the  residents  had  no  formal  (written)
+         agreement in place with the landlord.'
+
+113. This concern, of eviction  from  private  land  by  landlords  keen  to
+    develop it, is echoed in much of the material  produced  on  behalf  of
+    MAA.  These reports are concerned not just with 'igloo' dwellers  being
+    pushed off a patch of  open  land,  but  squatters  being  forced  from
+    buildings, often damaged or abandoned, where they have made their home,
+    sometimes for extended periods of time; there have also been  instances
+    in which informal camps have been cleared. As in MOJ, the large  influx
+    of people moving into the city is  identified  as  a  driver  of  these
+    evictions, with property prices  having  risen  to  meet  demand.   One
+    aspect of the evidence before us that did not appear to feature in  MOJ
+    was alleged government complicity in these evictions. The CPIN cites  a
+    report by Refugees International (December 2019) to the effect that the
+    "greatest fear" of insecure communities is that  the  "government  will
+    take their land" [�3.10.2]. As  Mr  Toal  stressed,  there  is  now  in
+    addition some evidence of police, soldiers and/or government-affiliated
+    militias assisting in private evictions:
+
+         "The breakneck pace of urbanization has led to price increases  and
+         growing competition for property, against the backdrop  of  a  weak
+         institutional framework. Given that they can  frequently  act  with
+         impunity, landlords are known to employ armed men (including police
+         officers acting in a private capacity)  and  forced  evictions  are
+         common"
+
+    [International Institute for Strategic Studies, May 2020].
+
+114. The evidence before us indicated that for many people living  in  these
+    precarious circumstances access to food remains a regular  concern,  as
+    it was at the time of MOJ.  The Tribunal then found food insecurity  to
+    be a fact of life for many people in Somalia: it was taken to  evidence
+    [at �281] that the number of individuals in this category could  be  as
+    high as 870,000, and that a further 2.3 million were  classed  as  food
+    "stressed".
+
+115. Having had regard to all of this evidence we accept without  hesitation
+    that there are many people in Mogadishu living in conditions  that  can
+    properly be described as inhuman and degrading. If you are  a  resident
+    of a poorly equipped and run camp,  where food supplies are  short  and
+    you are at the mercy of exploitative Gatekeepers who  take  the  meagre
+    aid intended  for  you  for  themselves,  you  risk  facing  daily  the
+    physical and mental harms of hunger, heat, cold, disease and  violence.
+    So too are the 'igloo' dwellers,  perching  precariously  on  illegally
+    squatted land in the city, potentially exposed to such conditions. They
+    now contend with the ever present threat of eviction:  the dispossessed
+    being further dispossessed.   We can accept that even if an eviction is
+    conducted in a calm and non-violent manner, it is  still  a  profoundly
+    challenging life event if you have  nowhere  else  to  go.   Where  the
+    evictions occur without warning, and without mercy, armed  men  turning
+    up without notice to force residents out, it is likely to be  extremely
+    frightening and we accept that it is likely to have a 'knock-on' effect
+    on the individual's ability  to  continue  working,  or  receive  basic
+    humanitarian  supplies  or  other  services  such   as   education   or
+    healthcare.  If your only option is  to  squat  in  another  -  equally
+    insecure - pitch there is  certainly  the  potential  for  inhuman  and
+    degrading circumstances to arise. As Baroness Hale  explained  in  Adan
+    Limbuela and Tesema whether the high threshold is reached  will  depend
+    on the individual concerned, the overall circumstances in which  he  or
+    she finds himself, and crucially whether there is any  hope  of  escape
+    from that predicament:
+
+         "It might be possible to endure rooflessness for some time  without
+         degradation if one had enough to eat and somewhere to wash  oneself
+         and one's clothing. It might be possible to endure cashlessness for
+         some time if one had a roof and basic meals and hygiene  facilities
+         provided. But to have to endure the indefinite  prospect  of  both,
+         unless one is in a place where it is both  possible  and  legal  to
+         live  off  the  land,  is  in  today's  society  both  inhuman  and
+         degrading".
+
+116. Whilst the House of Lords was there considering the position of  asylum
+    seekers under the  care  of  the  British  state,  and  so  applying  a
+    different threshold, the point is a good one.  Hopelessless  undermines
+    dignity, wherever you are.  Sustained and extreme  deprivation  is,  we
+    think uncontroversially, a material  condition  likely  to  lead  to  a
+    "significant reduction in life expectancy".   Even  the  strongest  and
+    most resilient individual  can  experience  "intense  suffering"  where
+    conditions are bad enough.
+
+117. We therefore accept that it is certainly possible that a returnee  from
+    the UK to Somalia may face a real risk of  enduring  living  conditions
+    which would  cumulatively  amount  to  serious  harm  contrary  to  our
+    obligations under Article 3.  To determine whether that  is  reasonably
+    likely to be the fate of MAA, we return to the analysis in MOJ.
+
+118. The country guidance is that a person returning to  Mogadishu  after  a
+    period of absence will look to his nuclear family, if he has one living
+    in the city, for assistance in re-establishing himself and  securing  a
+    livelihood. We accept that it is reasonably  likely  that  MAA  has  no
+    nuclear family remaining in Mogadishu, and no other relatives  to  whom
+    he could turn. We cannot know whether MAA will receive support from his
+    clan, for the simple reason that we do not know what clan he  is  from.
+    We therefore proceed on the assumption that he will  not  be  receiving
+    any support from clan members. Having had regard to the totality of the
+    evidence presented on this point in MOJ  we  accept  that  the  nuclear
+    family has become the primary support mechanism in Somali  society  and
+    that the relevance of clan membership has diminished. MAA is a returnee
+    who has been in the West some 13 years.  We  consider  it  unlikely  in
+    those circumstances that he would be offered material support by anyone
+    simply by virtue of shared lineage.
+
+119. We therefore need to make a careful assessment of MAA's  circumstances.
+    In MOJ the Tribunal identified the relevant considerations to include:
+
+            . circumstances in Mogadishu before departure;
+
+            . length of absence from Mogadishu;
+
+            . family or clan associations to call upon in Mogadishu;
+
+            . access to financial resources;
+
+            . prospects of securing a livelihood, whether that be employment
+              or self employment;
+
+            . availability of remittances from abroad;
+
+            . means of support during the
+
+            . time spent in the United Kingdom;
+
+            . why his ability to fund the journey  to  the  West  no  longer
+              enables an appellant to secure financial support on return.
+
+120. We accept that MAA is likely to face  considerable  difficulties  in  a
+    number of respects.  We  have  already  acknowledged  that  he  has  no
+    relatives or clan associations that he could call upon in the city.  He
+    has been away a long time and as such may not  even  have  any  friends
+    left there, for instance we do not know what  might  have  happened  to
+    Abdi and his brothers.   We accept that it is  reasonably  likely  that
+    MAA will not be in receipt of remittances from abroad. AH has done what
+    she can for him, but having recently lost her job is not in a  position
+    to carry on funding him.  MAA's remaining family members are living  as
+    refugees in neighbouring countries and we see no reason to reject their
+    evidence that they are living in impoverished circumstances themselves.
+     Mr Anderson asked us to note that at the time of his  departure  MAA's
+    grandmother had managed to sell enough cows to fund a $10,000  one  way
+    trip: applying the guidance in MOJ he asked us to find  that  a  family
+    with that kind of resource is likely to  still  have  it.  We  are  not
+    prepared to make that finding. We  have  already  accepted  that  MAA's
+    grandmother has since died. We have no means of knowing  what  happened
+    to her herd of cattle, nor indeed any other  property  she  might  have
+    had. She apparently had many grandchildren, and a family who have  been
+    dispersed  both  within  Somalia  and  internationally.  We   find   it
+    impossible, in those circumstances, to draw any certain  conclusion  on
+    what might have happened to her estate. We  can  however  be  satisfied
+    that it is at least reasonably likely that  MAA  will  not  derive  any
+    material benefit from his deceased grandmother's estate today.
+
+121. We note that before us there was some debate about whether  MAA  would,
+    upon departure, qualify for any kind of payment from the UK  government
+    or other body. The Secretary  of  State  submitted  that  he  would  be
+    entitled to a payment of �750 under the Facilitated Returns Scheme,  so
+    long as he signed a disclaimer confirming that he  had  no  outstanding
+    submissions or claim: he may in  addition  be  entitled  to  a  further
+    discretionary payment of �500. These payments  would  be  made  on  the
+    point of departure, and are paid in cash.
+
+122. We have had regard to the Secretary of  State's  published  policy  The
+    Facilitated Return Scheme (FRS) (Version 8.0, 3rd  October  2016).  The
+    introduction explains that it  exists  to  "promote  and  assist  early
+    removals by encouraging full compliance and cooperation  from  eligible
+    foreign national offenders (FNOs) willing to return to their country of
+    origin voluntarily".    The payment is intended to assist deportees  in
+    reintegrating in their countries of origin, and the  document  suggests
+    that the money could be used  for  things  such  as  setting  up  small
+    businesses etc. It would therefore obviously be of  some  relevance  to
+    the decision we need to make in this case. Further reading reveals that
+    the policy, and the FRS, will however be of no  assistance  at  all  to
+    MAA.  Contrary to the Secretary of State's submission it  appears  from
+    the policy that MAA would be expressly excluded from the scheme,  since
+    he received a sentence of more than four years:
+
+         Applicants ineligible for FRS
+
+         Certain categories of  foreign  national  offender  (FNO)  are  not
+         within the scope of the Facilitated Return Scheme (FRS) and if they
+         apply will be rejected. These are where the applicant:
+
+          . was given a custodial sentence of 4 years or more
+
+          . was given a custodial  sentence  of  under  4years  but  for  an
+         offence listed at 'Convictions for serious offences' below
+
+         . committed their  first  criminal  offence  within  12  months  of
+         arrival in the UK
+
+         . has pursued an immigration appeal beyond the first-tier  tribunal
+         or its earlier equivalents in the past
+
+123. We therefore proceed on the basis that MAA will be returned to  Somalia
+    without the benefit of any grant under the scheme.    It is unclear why
+    the Secretary of State made submissions  to  the  contrary,  given  the
+    clear terms in which the policy is expressed.
+
+124. We  further  note  that  Ms  Harper's  respondents  appear  unanimously
+    pessimistic about the likelihood of MAA obtaining any kind  of  regular
+    humanitarian relief once he lands  in  Somalia.   Successive  stressors
+    currently faced by the aid community mean that basic supplies, and  the
+    means to distribute them, are under severe pressure.   One  NGO  worker
+    she spoke to in November 2020 said that for a lone male like  MAA  "the
+    likelihood of him getting NGO support is zero":  what  resources  there
+    are would be given to the most vulnerable first, for instance the sick,
+    children, women or the elderly.
+
+125. We are therefore satisfied that MAA will, when it comes to  income,  be
+    on his own.  It is reasonably likely  that  he  will  find  himself  in
+    Mogadishu with no 'return grant', no contacts, no access to remittances
+    or NGO aid.  The ultimate question posed by MOJ is however  whether  it
+    is reasonably likely that MAA, an able bodied young man unencumbered by
+    dependents, will be unable to fend for himself by obtaining employment.
+
+
+
+126. In MOJ the Tribunal found that Mogadishu was  undergoing  an  "economic
+    boom" and that  there  are  considerable  opportunities  in  the  city,
+    particularly for returnees, who are taking jobs at the expense of those
+    who had never been away. The country guidance on employment is set  out
+    at �344-352 of MOJ.   There the Tribunal describe the post-war economic
+    revival of Mogadishu as "remarkable":
+
+         345. It is beyond doubt that there has been huge inward investment,
+         large-scale construction projects and  vibrant  business  activity.
+         Land values are said to be "rocketing" and entrepreneurial  members
+         of the diaspora with access to funding are returning in significant
+         numbers  in  the  confident  expectation  of  launching  successful
+         business projects. The question to be addressed is  what,  if  any,
+         benefit does this deliver for so called  "ordinary  returnees"  who
+         are  not  themselves  wealthy   businessmen   or   highly   skilled
+         professionals employed by such people.
+
+127. In answer to its own question  the  Tribunal  rejected  the  suggestion
+    that it was only a tiny elite who might benefit from the economic boom.
+    In the period leading up to the appeal in MOJ huge  numbers  of  people
+    had  returned  to  the  city;  the  Tribunal  heard  evidence  about  a
+    resurgence of the hospitality industry as well as taxi businesses,  bus
+    services, drycleaners, electronics stores and so on:
+
+         349......The  evidence  speaks   of   construction   projects   and
+         improvements in the city's infrastructure such as the  installation
+         of some solar powered street lighting. It does not,  perhaps,  need
+         much in the way of direct evidence to conclude that  jobs  such  as
+         working as building labourers, waiters or drivers or assistants  in
+         retail outlets are unlikely to be filled by the tiny minority  that
+         represents "the elite".
+
+128. As to the evidence to the effect that returnees from the West may  have
+    an advantage in the job market:  "this  is  said  to  be  because  such
+    returnees  are  likely  to  be  better  educated  and  considered  more
+    resourceful and  therefore  more  attractive  as  potential  employees,
+    especially where the employer himself or herself has returned from  the
+    diaspora to invest in a new business" [�351].
+
+129. Mr Toal asked us to  read  that  guidance  in  the  light  of  evidence
+    showing that today, for young people in  particular,  the  unemployment
+    rate  is  extremely  high.   An  August  2020  report  by  the  Finnish
+    Immigration Service[19], based on a fact finding mission  conducted  in
+    March of that year found that:
+
+         "Mogadishu offers limited business  and  employment  opportunities.
+         There is hardly any work on offer and the  best  jobs  are  usually
+         taken. The labour market in Somalia is very narrow, as the  country
+         has  no  industry  that  would  employ  a  significant  number   of
+         people.... There are no precise statistics on unemployment, but the
+         figure is estimated to be high. Youth unemployment  is  also  at  a
+         high level"
+
+130. The youth unemployment figures we were shown from sources  dated  2017-
+    2021 varied, but averaged at a rate of about 65%. We note that  similar
+    figures appeared in the evidence before the Tribunal in  MOJ  [see  for
+    instance �287]. In fact the recent Finnish report  concurred  with  the
+    conclusions in MOJ in two other respects. It  agreed  that  individuals
+    coming from the diaspora have an advantage  in  the  jobs  market,  and
+    found that the high rate of youth unemployment  notwithstanding,  there
+    are particular sectors of the economy where work can be found:
+
+         "Mogadishu's  lively  diaspora-funded  reconstruction  offers  work
+         experience at building sites as a carrier,  for  instance.  However
+         there is a lot of labour on offer and work  at  construction  sites
+         does not pay much. Wages can be approximately US$100 per month.  In
+         addition,  members  of  the  majority  population   have   negative
+         attitudes towards construction work and do not want to do it. Those
+         who work at building sites are usually members of marginal groups.
+
+         The  port  of  Mogadishu  provides  some  job  opportunities.  Non-
+         governmental organisations  and  the  Somali  government  have  few
+         employees, security forces such as the police and military  provide
+         slightly more jobs. Many people earn their living from small  scale
+         sales at markets or  by  working  at  restaurants  and  tea  shops.
+         However the job of a waitress is one of low esteem and most  people
+         do not want to work as one"
+
+131. Whilst we appreciate that low status,  or  physically  demanding,  jobs
+    may not be attractive to a wide pool of  applicants,  it  appears  from
+    this recent evidence that the position  remains  as  it  was  when  the
+    Tribunal  heard  MOJ.    There  is  a  high   rate   of   unemployment,
+    particularly for the young, but the diaspora-driven boom  of  the  past
+    decade continues to provide work for those who are prepared to  do  it,
+    particularly in  the  construction  and  hospitality  sectors.   It  is
+    logical to assume that those who are rejecting such work do so  because
+    they have other  income  to  fall  back  upon:  presumably  the  stigma
+    attached to being a waiter is not so great  that  people  would  rather
+    face destitution. This evidently leaves opportunities  for  those  like
+    MAA, who do not have the support of extended family  or  clan  to  fall
+    back upon, and who cannot afford to  have  such  misgivings  about  the
+    'status' of such occupations.
+
+132. The burden rests on MAA to demonstrate that  it  is  reasonably  likely
+    that he will not  be  able  to  secure  a  livelihood  for  himself  in
+    Mogadishu. On the evidence before us we are  not  satisfied  that  this
+    burden has been discharged, even to the lower standard.   Having  heard
+    his live evidence we concur with the view expressed, amongst others  by
+    AH, that he is  a  socially  able  and  personable  man.  Although  his
+    difficult  life  experiences  have  left  him  with  symptoms  of  both
+    depression and trauma he has shown real fortitude in  addressing  these
+    issues and  does  not  present  as  mentally  unwell.   He  is  clearly
+    intelligent: he was top of his class whilst still  in  Somalia  and  in
+    effect continued to study on a scholarship as a result.  He  has  shown
+    resilience and willing. He has addressed his own mental  health  issues
+    by exercise and socialising, and by utilising social media  during  the
+    difficult, isolating days of the pandemic. We accept that he has worked
+    hard to escape the pull of drug culture  and  rehabilitate  himself  by
+    undertaking  education  courses  in  prison.   Even  in   his   current
+    predicament he is continuing  to  seek  to  improve  his  situation  by
+    volunteering with a Somali community group.
+
+133. We have also placed considerable weight on the striking  fact  that  at
+    the time that MAA left Somalia in 2008 he had been living independently
+    of his family for between 2-3 years.   Despite being a  young  teenager
+    at the time he was able to utilise social connections  (with  Abdi  and
+    the twins), access education (he continued  to  attend  school  for  at
+    least a year), and travel within Somalia to visit his  grandmother.  We
+    do not underestimate how difficult these years were for MAA.  Mogadishu
+    was at the time the scene of inter-clan violence and street  to  street
+    fighting was still liable to erupt at any  time,  as  MAA  has  himself
+    described.  He no doubt felt lonely and distressed that his family left
+    him behind. And yet he managed not only to live and attend school,  but
+    to organise, with the assistance of his grandmother, his own  departure
+    from the country. We do not accept that as a grown man of 30 years  old
+    MAA will somehow have lost the skills that enabled him  to  do  all  of
+    that.
+
+134. Today he returns as a mature adult with spoken English and Somali,  and
+    a strong imperative to find employment.  Whilst we  see  no  reason  to
+    reject the concurring medical evidence that MAA's mental health will be
+    negatively impacted by his deportation, we are not satisfied that  this
+    will prevent him from obtaining the work that he needs to  rebuild  his
+    life.  Accordingly we are not satisfied that it  is  reasonably  likely
+    that he will remain unemployed for long.
+
+135. We accept, having had regard to the caselaw, the findings  in  MOJ  and
+    the evidence before us, that  it  is  entirely  possible  that  someone
+    returning to Somalia  from  the  UK  will  find  themselves  living  in
+    conditions that are inhuman and degrading such that would place the  UK
+    in breach of its obligations  under  Article  3.    Even  applying  the
+    modified N test, the threshold is a high one, but on  the  evidence  of
+    the situation faced by those living at the 'wrong end' of the spectrum,
+    we are wholly satisfied that it could be made out.
+
+136. On the facts in this particular case, however, it is not.  We  are  not
+    satisfied that it is reasonably  likely  that  MAA  will  find  himself
+    living in  inhuman  or  degrading  circumstances  such  that  his  life
+    expectancy will be significant reduced,  or  that  he  will  experience
+    intense suffering of the kind envisaged by the jurisprudence.  He  does
+    not have family, nor the hope of remittances from abroad. He  will,  we
+    accept,  find in difficult to readjust back to life  back  in  Somalia.
+    He is nevertheless a fit and able  bodied  young  man  who  has  proved
+    himself  capable  of  living  in  Mogadishu  in  far  more  challenging
+    circumstances than those he faces today.  He will be able to find work,
+    albeit that it may be of low quality or low status, and that work  will
+    enable him to find and pay for accommodation somewhere in the middle of
+    the spectrum identified in MOJ.    It may be  basic,  but  it  will  be
+    secure. It  follows  that  we  need  not  consider  further  the  risks
+    attendant with life at the 'lower end' of the spectrum that featured in
+    so much of the evidence presented by Mr Toal.  He has the social skills
+    and resilience to found a new private, and in due course a  new  family
+    life, for himself.  We accordingly dismiss the appeal with reference to
+    Article 3/ Article 15(b) of the Qualification Directive.
+
+137. Mr Toal made no discrete submissions on Article 8, save  to  point  out
+    that failure under Article 3 would not  automatically  translate  to  a
+    failure under Article 8, applying the test set out at s117C(6)  of  the
+    Nationality, Immigration and Asylum Act 2002. We accept,  as  does  the
+    Secretary of State, that  this  must  be  right.  If  "very  compelling
+    circumstances" was a benchmark intended to be equated with  Article  3,
+    the Act would have said so. It is nevertheless a  very  exacting  test,
+    which on the facts before us is not made out.
+
+138. We have found that upon  return  to  Somalia  MAA  is  likely  to  face
+    considerable difficulties. They are not however difficulties  which  he
+    will be unable to overcome. He will be able to find work,  and  a  roof
+    over his head, and in time he will start to make  his  own  connections
+    and build a private life. The evidence indicates that he  will  face  a
+    deterioration in his mental health, and we see nothing controversial in
+    that - he has  however  faced  such  a  deterioration  before,  and  as
+    detailed by Dr Davies, has managed to overcome it. We would accept that
+    MAA has built a private life for himself in this country and that he is
+    socially and culturally integrated here. He has friends, his cousin and
+    is active in his community.  He has managed to build this,  what  might
+    be termed his 'legitimate' private life, apart from and  in  spite  of,
+    his previous association with criminals.  It is to his credit  that  he
+    has done  so.   It  is  nevertheless  a  private  life  that  has  been
+    established at a time when he had no status, and as such it is one that
+    attracts only a little weight in the balancing exercise. We have  taken
+    into account his young age on arrival, and the fact that he has faced a
+    series of very difficult life events.   We have no reason to doubt  the
+    assessment  of  the  probation  service,  accepted  by  the  First-tier
+    Tribunal, that he presents a low risk of reoffending. We  have  weighed
+    all of these matters cumulatively against the strong public interest in
+    deporting serious criminals. Having done so we are satisfied  that  MAA
+    has not established that there are  very  compelling  circumstances  in
+    this  case,  or  that  his  deportation  would  be  a  disproportionate
+    interference with his Article 8(1) rights. The  appeal  is  accordingly
+    dismissed on Article 8 grounds.
+
+
+
+    Decisions
+
+139. The appeal is dismissed on all grounds.
+
+140. There is no anonymity order.
+
+
+
+
+
+                                                                Gaenor Bruce
+
+
+                                                  Upper Tribunal Judge Bruce
+                                                              12th July 2021
+                                                     -----------------------
+[1] European Convention for the Protection of Human Rights and Fundamental
+Freedoms, Rome 4.XI.1950
+[2] Council Directive 2004/83/EC of 29 April 2004 on minimum standards for
+the qualification and status of third country nationals or stateless
+persons as refugees or as persons who otherwise need international
+protection and the content of the protection granted
+[3] See below at �26
+[4] See for instance Secretary of State for the Home Department v AH
+(Sudan) [2007] UKHL 49, [2007] Imm AR 584, per Baroness Hale [at �30]
+[5] See our �11 above
+[6] References in original text removed
+[7] Denmark v Greece (App No 3321/67), Norway v Greece (App No 3322/67),
+Sweden v Greece (App No 3323/67), The Netherlands v Greece (App No 3324/67)
+[8] See for instance Bates, E. The Evolution of the European Convention on
+Human Rights: from its Inception to the Creation of a Permanent Court of
+Human Rights (Oxford, 2010)
+[9] For an alternative view see Harris, DJ, O'Boyle M, Warbrick, C Law of
+the European Convention on Human Rights (London, 1995) [page 4]: "This was
+a matter of priorities and tactics. While it was not disputed that
+economic, social and cultural rights required protection too, the immediate
+need was for a short, non-confrontational text which governments could
+accept at once, while the tide for human rights was strong"
+[10] See also Panchenko v Latvia (App. No 40772/98)
+[11] See in particular the speech of Lord Scott of Foscote [at �66]
+[12] Pretty v United Kingdom [at �65]
+[13] Sheekh v Netherlands (2007) 45 EHRR 50 is referred to in similar terms
+at [�278] of Sufi and Elmi v United Kingdom (supra)
+[14] An argument which has repeatedly succeeded. See for instance Tanko v
+Finland (App No 23634/94),   NADC v Switzerland (46553/99) and SCC v Sweden
+(9384/81): all health cases which failed because the material conditions in
+the receiving countries were held not to reach the minimum level of
+severity.
+[15] He served an additional three weeks in immigration detention.
+[16] We have been provided with two reports by Ms Mary Harper relating
+specifically to this appeal. The first is dated 9th January 2020, the
+second the 28th February 2021.
+
+[17] Removals to Somalia in Light of the Convention against Torture: Recent
+Evidence from Somali Bantu Deportees Van Lehman, Daniel and McKee, Estelle
+M. 33 Georgetown Immigration Law Journal 357 (2019)
+[18] Joint Report by the IIED, Econvalue Consult, SDI Kenya, SDDirect and
+Tana
+[19] Somalia: Fact Finding Mission to Mogadishu in March 2020 Security
+situation and humanitarian conditions in Mogadishu 7th August 2020 Finnish
+Immigration Service Country Information Service
+

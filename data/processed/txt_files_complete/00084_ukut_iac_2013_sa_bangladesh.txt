@@ -1,0 +1,941 @@
+
+[pic]
+
+
+
+
+UPPER TRIBUNAL
+(IMMIGRATION AND ASYLUM CHAMBER)
+
+     Ahmed (benefits: proof of receipt; evidence) [2013] UKUT 00084(IAC)
+
+
+                            THE IMMIGRATION ACTS
+
+
+Heard at Field House                         Determination promulgated
+On 19 June 2012
+
+....................................
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE STOREY
+                       UPPER TRIBUNAL JUDGE PETER LANE
+                          UPPER TRIBUNAL JUDGE WARD
+
+                                   Between
+
+                       ENTRY CLEARANCE OFFICER, DHAKA
+                                                                   Appellant
+                                     and
+
+                                SOHAIL AHMED
+                                                                  Respondent
+
+Representation:
+
+Appellant:             Mr G Saunders, Senior Home Office Presenting Officer
+
+
+Respondent:            Mr T Shah, Solicitor, Taj Solicitors
+
+(1)  In  an  entry  clearance  case  involving  the  issue  of  adequacy  of
+maintenance, it will in  general  assist  the  First-tier  Tribunal  or,  on
+appeal, the Upper Tribunal if, as part of the submission, a  calculation  is
+supplied  which  reflects  the  comparison  between  the   applicant's   and
+sponsor's combined projected income if the  applicant  for  entry  clearance
+were in the United Kingdom on the one hand and, on  the  other,  the  amount
+required to provide the maintenance at a level that can properly  be  called
+adequate.
+
+   2) Income  received  and  the  projection  for  the  figures  which  the
+      applicant and sponsor have to be able to find should be expressed  on
+      a consistent and arithmetically accurate basis.  Benefit  is  usually
+      calculated  on  a  weekly  basis  but  is  often   paid   fortnightly
+      (employment support allowance  and  income  support)  or  four-weekly
+      (child benefit), while tax credits are calculated on a  daily  figure
+      and paid in general weekly (child tax credit) or fortnightly (working
+      tax credit). A month under the Gregorian calendar is not the same  as
+      four weeks and  wrongly  taking  a  four-week  period  of  income  as
+      equating to a month risks a potentially significant detriment  to  an
+      applicant for entry clearance.
+
+(3)  It is always  essential  that  regard  is  had  to  the  benefit  rates
+applicable at relevant times; eg in entry  clearance  cases,  the  rates  in
+force at the date of decision. The  calculation  of  the  benefit  threshold
+figure is an academic  exercise,  but  establishing  the  benefits  which  a
+sponsor and the applicant will actually  be  receiving  on  the  applicant's
+arrival is far from it. The most compelling evidence of  receipt  of  income
+by way of social security is likely to be proof of receipt of funds  into  a
+person's bank account. Notices of award  are  intrinsically  less  reliable.
+The position of tax credits is particularly complex.
+
+(4)  It would assist if entry clearance application forms  were  to  include
+questions  designed  to  elicit  the  information  described  above  and  if
+decisions of entry clearance officers included a  calculation  described  in
+(1) above.
+
+
+
+                          DETERMINATION AND REASONS
+
+1.    This is the determination of the Tribunal, to  which  each  member  of
+the panel has contributed.
+
+2.    The respondent is a citizen of Bangladesh.  On 30 December 2010  the
+appellant (hereafter "ECO") refused his application for entry  clearance  to
+join his wife and two children in the  UK.   The  respondent's  appeal  came
+before Immigration Judge Majid, who allowed it by a determination  sent  on
+5 August 2011.
+
+3.    The ECO's subsequent appeal to the Upper Tribunal was successful,  in
+that Upper Tribunal Judge Storey, at that point sitting  alone,  set  aside
+the determination of Judge Majid, with the result that the decision  in  the
+respondent's appeal needs to be re-made by  the  Upper  Tribunal.   The  two
+issues requiring to be determined in that regard are the  accommodation  and
+the maintenance requirements in paras 281(iv) and 281(v)  of  Statement  of
+Changes in Immigration Rules, HC 395 (as amended) by which it is  necessary
+to show:
+
+      (by (iv)) that "there will be adequate accommodation for  the  parties
+and any     dependants without recourse to  public  funds  in  accommodation
+which they own or      occupy exclusively"; and
+      (by (v)) that "the parties will be able  to  maintain  themselves  and
+any dependants   adequately without recourse to public funds."
+
+4.     Here  reference  should  be  made  to  paras 6A  to   6C   of   the
+Immigration Rules as they were in force with  effect  from  31  March  2009
+which provide:
+
+      "6A For the purpose of these Rules, a person (P) is not to be regarded
+      as having (or potentially having) recourse to public funds  because P
+      is (or will be) reliant in whole or in part on public  funds  provided
+      to  P's  sponsor  unless,  as  a  result  of  P's  presence   in   the
+      United Kingdom, the sponsor is (or would be) entitled to increased or
+      additional public funds (save where such entitlement to  increased  or
+      additional public funds is by virtue of  P  and  the  sponsor's  joint
+      entitlement  to  benefits  under  the  regulations  referred   to   in
+      paragraph 6B).
+
+      6B Subject to paragraph 6C, a person (P) shall  not  be  regarded  as
+      having recourse to public funds if P is entitled to benefits specified
+      under section 115 of the Immigration and Asylum Act 1999 by virtue of
+      regulations made under sub-sections (3) and (4) of  that  section  or
+      section 42 of the Tax Credits Act 2002.
+
+      6C A person (P) making an application from outside the United Kingdom
+      will be regarded as having recourse to public  funds  where  P  relies
+      upon the future entitlement to any public funds that would be  payable
+      to  P  or  to  P's  sponsor  as  a  result  of  P's  presence  in  the
+      United Kingdom, (including those benefits to which P or  the  sponsor
+      would be entitled as a result of P's presence in  the  United Kingdom
+      under the regulations referred to in paragraph 6B)."
+
+5.    A sponsor is thus entitled to rely on  his  or  her  own  recourse  to
+public funds to the extent that paragraphs 6A to 6C of the Rules provide.
+
+6.    The re-making decision was  directed  to  be  listed  before  a  panel
+comprising judges of  both  the  Immigration  and  Asylum  Chamber  and  the
+Administrative Appeals Chamber of the Upper Tribunal, as  particularly  the
+latter Chamber deals with matters of social security.  It was hoped that  as
+well as dealing with the present case, this  might  enable  guidance  to  be
+given which would be useful to members of the public in a  similar  position
+to the respondent, those who advise them, the  UKBA  and  others.   As  will
+become apparent, there are limits to the extent of  guidance  which  can  be
+given in this case.  The complexity of the social security  system  is  such
+that there is scope for points to arise on which it would not be  right  for
+this Tribunal, without the benefit of  argument  from  persons  affected  by
+them, to express a  view.   Nonetheless,  some  practical  guidance  can  be
+given.
+
+7.    Further, after this hearing was set up  and  following  proposals  set
+out in June 2012  in  "Statement  of  intent:  Family  Migration"  the  Home
+Secretary introduced new Immigration Rules to take effect  in  relation  to,
+in general, any application made on or after 9 July 2012: see HC194 (9 July
+2012) and subsequent amendments.  Under the new rules, for  some  categories
+of applicant, in assessing maintenance a number of the sources of income  to
+which reference is made in the present  decision,  such  as  child  benefit,
+working tax credit and child tax credit, will no longer be  eligible  to  be
+taken  into  account.   However,  for  other  categories   the   maintenance
+requirements  are  unchanged.    Further,   the   process   of   determining
+applications lodged before 9 July 2012 and appeals  in  relation  to  them
+means  that  primary   decision-makers,   the   First-tier Tribunal,   the
+Upper Tribunal and others are likely to be  concerned  with  the  practical
+application of the existing rule for a while yet.
+
+8.    As this  was  an  appeal  under  section 82(1)  of  the  Nationality,
+Immigration and Asylum Act 2002  against  a  refusal  of  entry  clearance,
+section 85(5)  of  that  Act  applied  and  the  Tribunal  (and  hence  the
+Upper Tribunal re-making a decision on appeal)  was  required  to  consider
+only the circumstances appertaining at the time of the decision  to  refuse.
+(It would of course be different in the case of a decision made  in-country,
+where the matter would fall to be addressed as at the date of hearing.)
+
+9.    As regards accommodation, that matter had already  been  addressed  by
+Judge Storey.  In his determination of 4 April 2012 he indicated that  he
+was satisfied that the accommodation requirement was met.  Mr Saunders does
+not seek to challenge that conclusion.  In those circumstances we  need  say
+no more about it, save to note (as it is relevant to the calculations  which
+appear below) that the sponsor (the respondent's wife)  had  been  paying  a
+sum  variously  expressed  at  �50  per  week  or  �200  per  month  to  the
+respondent's uncle by way of rent.
+
+10.    The  authorities  concerning  adequacy  of  resources  were  recently
+reviewed by the Upper Tribunal in  Yarce  (adequate  maintenance:  benefits)
+[2012] UKUT 00425 (IAC).  The correct approach is that set  out  in  KA  and
+Others (Adequacy of Maintenance) Pakistan [2006] UKAIT 00065, referring  to
+the earlier decision in Uvovo (00 TH 01450), namely:
+
+      "The appropriate method of calculation for comparative purposes is, as
+      explained in Uvovo, to separate maintenance from accommodation, and to
+      look first to see whether the accommodation  would  be  adequate,  and
+      then to see  whether  the  income  available  to  the  Appellants  for
+      maintenance is equivalent to the amount that would be available  to  a
+      similar family on income support once they have dealt with the  costs
+      of their accommodation."
+
+
+What the Tribunal in Uvovo - and the Tribunal in KA - seeks here to  require
+focus on (and what paras 6A-C require focus  on)  is  the  actual  financial
+position on arrival, i.e. income  that  is  or  will  be  available  to  the
+applicant and his sponsor upon his arrival in the UK  (in  the  language  of
+para 6, "as a result of [the applicant's] presence in the UK"). Because  the
+calculation is therefore a projection forward to  what  the  income  of  the
+applicant and his sponsor is or will be on  arrival,  we  shall  employ  the
+expression "projected income".
+
+
+
+11.   As adequacy of accommodation was out  of  the  picture  following  the
+earlier  decision,  the  present  hearing  was  concerned  solely  with  the
+maintenance  requirement.   Expressed  mathematically,  the  formula  to  be
+fulfilled is
+
+      A - B ? C[1]
+
+where:
+
+A is the projected income
+B what needs to be spent on accommodation and
+C the income support (or equivalent) figure (which we term in this  decision
+"the benefit threshold")
+
+12.   Before turning to whether this formula was fulfilled  in  the  present
+case, whilst we did not receive any argument on the point, in  our  view  we
+need to address how paragraphs 6A to 6C apply to a case such  as  this.   In
+doing so, we are mindful that, as  was  said  in  Mahad  v  Entry  Clearance
+Officer [2009] UKSC 16:
+
+      "The Rules are not to be construed with all the strictness  applicable
+to the construction    of a statute or a statutory instrument but,  instead,
+sensibly according to the natural and   ordinary meaning of the words  used,
+recognising  that  they  are  statements  of  the   Secretary   of   State's
+administrative policy."
+
+13.   The first question is what does the proviso "save where"  in  para  6A
+apply to?  As we read para  6A,  it  is  saying  that  all  that  counts  as
+recourse to public funds is increased benefit as a result  of  P's  presence
+and even that does not count if it arises  as  the  result  of  the  matters
+referred to in para 6B (which includes joint applications for tax credit  of
+the type with which we are concerned, the relevant  regulations  being  made
+under section 42 of the Tax Credits  Act  2002  ("TCA")).   The  alternative
+approach is to say that the joint entitlement cases are carved out from  the
+general rule that only increases in benefit are caught.  We can think of  no
+sensible reason for such an interpretation, which appears to go against  the
+structure of s115 of Immigration and Asylum Act 1999  ("IAA")  and  that  of
+TCA s42.
+
+14.   Para 6B then exempts claims by P (as opposed to P's  sponsor)  to  the
+specified benefits where there is joint  entitlement  (thus  confirming  the
+impression  that  IAA1999  s115  and  TCA2002  s42  have,  if  anything,   a
+liberalising role  and  that  the  first  rather  than  the  second  of  the
+interpretations of para 6A above is likely  to  be  the  correct  one.)   In
+principle, where para 6B applies, it appears to allow  not  only  the  joint
+claim at the same amount but, as regards P, a joint  claim  resulting  in  a
+higher amount than would previously have been  paid  to  the  sponsor  alone
+(even though, as regards the sponsor, an increase in her  entitlement  under
+the (now) joint claim would not be  permitted  by  para  6A  if  the  second
+interpretation above were to prevail.)  It  would  be  nonsense  (acting  in
+vain) for para 6B to grant something which as regards a joint claim would  -
+on the second interpretation - be ruled out by para 6A.
+
+15.   What then is the effect of para 6C?   This  applies  only  to  persons
+making an application from outside the UK (as is  the  present  case).   The
+question is whether para 6C is  concerned  only  with  additional  funds  or
+whether it also bites where  the  level  of  funds  remains  the  same,  but
+because of the joint claim provisions - such as the tax  credit  one  -  the
+applicant for entry clearance will, when s/he comes to  the  UK,  inevitably
+be involved in the claim and to that extent it will be "paid as a result  of
+P's presence in the United Kingdom"?  Para 6C appears to provide  a  partial
+disapplication of para 6B, so that  whereas  para  6B  allows  increases  in
+benefit under the provisions (even though they  would  otherwise  have  been
+caught by para 6A) this does not hold good in the case of applications  from
+outside the UK.  An example of a situation which would be caught by para  6C
+would be a spouse and child coming  from  abroad  which  would  (unlike  the
+present situation where the children are already here) lead to  an  increase
+in the amount claimed and so be precluded by para 6C.   Indeed,  it  may  be
+that  para  6C  is  confined  to  cases  where  there  are  at  present   no
+entitlements to benefits, which may be the case so  far  as  a  hypothetical
+applicant is concerned in an out of country case (though not necessarily  of
+course where there is a United Kingdom sponsor.)  The explanatory  notes  to
+HC 314, which inserted paras 6A to 6C into the Rules in 2009, speak at  para
+7.19 of 6C concerning "anticipated entitlement to public funds".
+
+
+
+Income
+
+16.   As in Yarce, the present case requires an examination in the light  of
+the above principles of the effect, if any, of the arrival of  an  applicant
+for entry clearance upon a sponsor's entitlement to claim benefits and  thus
+on the resources available.  We are satisfied that as at  30 December 2010
+(the date of decision), the sponsor's income ("A" in the  formula  in  [11])
+was (employing standard rounding principles) as follows:
+
+|Income source          |Interval received      |Equivalent weekly      |
+|                       |                       |amount                 |
+|Net salary from        |Weekly                 |�161.30                |
+|employment             |                       |                       |
+|Working Tax Credit     |�364.71 every four     |�  91.18               |
+|                       |weeks Divided by 4=    |                       |
+|Child Tax Credit       |Weekly                 |�  93.99               |
+|Child Benefit          |�134.80 every four     |�  33.70               |
+|                       |weeks Divided by 4 =   |                       |
+|Total                  |                       |�380.17                |
+
+17.   We are further satisfied that, as at that date, there  was  no  reason
+to suppose that the sponsor's employment was other than  permanent  or  that
+her salary was not likely to continue at at least that level.   While  there
+are changes in benefit and tax credit rates from time to time,  we  consider
+that it will  in  general  be  appropriate  to  apply  rates  that  were  in
+existence at the date of decision, though the point may need  to  be  looked
+at further in a case where a party contends for a different  rate  to  apply
+(compatibly with section 85(5):[8] above).
+
+18.   Turning to  the  effect  on  the  sponsor's  benefit  income,  if  the
+respondent had notionally been here as at 30 December 2010,  the  answer  is
+that there would have been none.  Let us set this out in more detail.
+
+Tax credits
+
+19.   If the respondent were here, the sponsor and he, as a married  couple,
+would have been entitled to make  a  joint  claim  for  tax  credits.   Even
+though the respondent would have  been  a  "person  subject  to  immigration
+control" (as defined by section  115  of  the  Immigration  and  Asylum  Act
+1999), the couple's entitlement to tax credits would, so  far  as  relevant,
+fall to be determined as if the respondent had not notionally  been  subject
+to  such  control:  see  Tax  Credits  (Immigration)  Regulations  2003,  SI
+2003/653, reg 3(2).
+
+Child tax credit
+
+20.   We can see no reason on the facts of this  case  (and  none  has  been
+suggested) why  the  amount  of  child  tax  credit  should  have  been  any
+different if the respondent had been in the  UK.   Without  limitation,  the
+"family element" within the child tax credit calculation  is  unaffected  by
+whether a person is claiming as a single  parent  (including  because  their
+spouse is abroad) or as one of a couple.
+
+Working tax credit
+
+21.   Similarly, in relation to working tax  credit,  the  sponsor  claiming
+alone was entitled to have taken into account in calculating the  amount  of
+working tax  credit  payable  to  her  the  "lone  parent  element".   On  a
+hypothetical  joint  claim  made  on  30  December  2010,  the  sponsor  and
+respondent would instead have been entitled to the couple or "second  adult"
+element.  This would be so despite the respondent being  a  "person  subject
+to immigration control", as the sponsor and respondent would be  responsible
+for a child or qualifying young person: see Working Tax Credit  (Entitlement
+and Maximum Rate) Regulations 2002 SI 2002/2005.  As the value of  the  lone
+parent element and that of the second  adult  element  were  the  same,  the
+notional arrival of the respondent at the decision date would not have  made
+any difference  to  the  amount  of  tax  credits  the  sponsor  would  have
+continued to receive.
+
+Child benefit
+
+22.   Nor would there have been any change in the amount  of  child  benefit
+she would have continued to receive, which is determined by  the  number  of
+children (or qualifying young persons) for whom a person is responsible  and
+not by the number of adults in the family unit.
+
+23.   It follows that the  figures  in  the  table  above  would  have  been
+unaffected by the arrival  of  the  respondent  and,  on  the  circumstances
+prevailing at 30 December 2010, were set fair to be provided on  an  assured
+basis (cf. Mahad (Ethiopia) v Entry Clearance Officer [2009] UKSC 16.)
+
+Accommodation Costs
+
+24.   On the unchallenged evidence, the sponsor had to  pay  �50  weekly  on
+rent and nothing on council tax, thus the figure arrived at for "A -  B"  in
+the formula is �330.17 (i.e. �380.17-�50).
+
+Housing and Council Tax Benefit
+
+25.   Although housing benefit and council tax benefit may  require  careful
+consideration in other cases (see the discussion in Yarce at [57]  -  [61]),
+they are not relevant in the  present  case,  as  the  sponsor  was  not  in
+receipt of them.
+
+The Benefit Threshold
+
+26.   The calculation of the benefit  threshold  derived  from  figures  put
+forward by the respondent's  solicitor  was  as  follows  (all  figures  for
+benefits are, correctly, those for 2010/11,  in  which  the  decision  under
+appeal was taken):
+
+|Element                |Interval               |Amount                 |
+|Income Support Rate for|Weekly                 |�102.75                |
+|a couple               |                       |                       |
+|Each dependent child   |Weekly                 |�115.14                |
+|from birth to age of   |                       |                       |
+|20, �57.57 x 2         |                       |                       |
+|Family premium         |Weekly                 |�  17.40               |
+|Total                  |Weekly                 |�235.29                |
+
+27.    This  calculation  in  the  form  put  forward  is  not  without  its
+conceptual difficulties, though they may  be  more  theoretical  than  real.
+The system of support for families on  benefit  with  children  has  largely
+moved on and will continue to do so.  The calculations as  submitted  to  us
+are sufficiently consistent  with  KA  for  present  purposes,  and  we  are
+satisfied  that  other,  more  contemporary,   ways   of   approaching   the
+calculation (such as using child tax credit figures) would  not  lead  to  a
+materially  different  outcome  when  considering  the  benefit   threshold.
+However, while we are satisfied that the present method of carrying out  the
+calculation is a valid one in the circumstances of this  case,  we  are  not
+intending to hold it  out  as  a  model  or  to  exclude  other  methods  of
+calculation  which  respect  the  KA  principle  while  perhaps  being  more
+consistent with the reality of the benefit system as it  now  is  or  indeed
+with how it may evolve in the  future.   The  aim  always  is  to  effect  a
+comparison between the applicant's and sponsor's combined  projected  income
+if the applicant for entry clearance were in the UK on the one hand and,  on
+the other, the amount required to provide the maintenance "at a level  which
+can  properly  be  called  adequate"  (KA,   para 6)   by   reference   to
+income support levels or, where applicable, other aspects  of  the  benefit
+system which may have taken its place (i.e. the benefit threshold).
+
+28.   In para 17 of  the  decision  in  KA,  the  Tribunal  alluded  to  the
+potential for other costs to fall to be taken into account  because  of  the
+"passporting" effect of income support, such as the  cost  of  prescriptions
+which might fall to be provided by the National Health Service and the cost
+of other benefits such as free school  meals.   In  the  present  case,  the
+children of the respondent and sponsor were aged 1 and  3  at  the  date  of
+decision, so the latter is not applicable.  No specific  point  about  these
+or other costs has been raised on behalf of the ECO. Further, we  note  that
+the definition of "public funds" (see para 6 of the Immigration Rules)  does
+not, in terms, refer to advantages  to  which  income  support  might  be  a
+passport.  Suffice it in the present case to say that we are satisfied  that
+at the relevant date, the sponsor had sufficient resources  to  be  able  to
+maintain her  family,  including  the  respondent,  using  only  such  State
+resources as the Immigration Rules in force at the material time  permitted
+to be used.  Even if other factors such  as  prescription  charges  were  to
+fall to be taken into account, the difference in the  present  case  (around
+�95 per week to the good)  between  the  sponsor's  income  and  what  would
+otherwise  be  the  benefit  threshold  is  on  any  view  likely  to  prove
+sufficient and no suggestion has been made otherwise by Mr Saunders.
+
+29.   From the above it will  be  clear  that  we  are  satisfied  that  the
+respondent's projected income, net of accommodation costs, of  �330.17  will
+be greater than the benefits  threshold  relevant  to  his  case  (�235.29).
+Accordingly we are satisfied that the respondent merits the benefit  of  the
+Immigration Rules HC395 (as amended).
+
+Submissions in cases of this type
+
+30.   The experience of Judges Storey  and  Lane,  whose  home  jurisdiction
+this is, is that parties may be assisted by guidance as to how evidence  and
+submissions in appeals raising these questions might be presented so  as  to
+assist the First-tier and Upper Tribunals.  In an immigration appeal  it  is
+of course the party who seeks to claim the benefit of the Immigration  Rules
+on whom the burden rests of proving, on the balance of  probabilities,  that
+the relevant requirements are met.  As we observed in Yarce at [46]:
+
+      "It seems to us that, since these issues involve mixed fact  and  law,
+    an appellant in an immigration appeal must be able  to  demonstrate  to
+    the judicial fact-finder, either that the actual financial position  on
+    arrival will be such as to make it unnecessary to rely upon benefits in
+    order to provide a standard of living equivalent to that  available  on
+    means  tested  benefits,  or  that  the  relevant  law  bears  on   the
+    circumstances of the family, in such  a  way  that  there  will  be  no
+    additional recourse to public funds in doing so."
+
+31.   It will in general assist a First-tier Tribunal, or  on  appeal,  the
+Upper Tribunal if as part of a submission a calculation is  supplied  which
+reflects the comparison summarised in [27] above.  Income received  and  the
+projection for the figures which the appellant and sponsor have to  be  able
+to find should be expressed on  a  consistent  and  arithmetically  accurate
+basis.  It should not be for the  Tribunal  to  have  to  do  the  necessary
+calculations to achieve this.  Benefit is usually  calculated  on  a  weekly
+basis but  at  present  is  often  paid  fortnightly  (generally  employment
+support allowance and income support) or four-weekly (child benefit)  while
+tax credits are calculated on a daily figures and  paid  in  general  weekly
+(child tax credit) or four-weekly (working tax credit).  A month  under  the
+Gregorian calendar is not the same as four weeks and wrongly taking a  four-
+week  period  of  income  as  equating  to  a  month  risks  a   potentially
+significant detriment to an applicant for entry clearance  (as  occurred  in
+the present case, although on the facts it did not affect the result).
+
+32.   Information  on  benefit  rates,  including  historic  rates,  can  be
+obtained from a variety of sources.  Those who practise in  social  security
+or who have colleagues who do will already be aware of the Welfare  Benefits
+and Tax Credits Handbook published  by  Child  Poverty  Action  Group  which
+contains (among much other useful material) a table of such figures  at  the
+beginning  and  which  is  published  annually,  while  a  table  of  rates,
+including for past years, is available online at  www.rightsnet.org.uk.   It
+is always essential, of course, that regard is  had  to  the  benefit  rates
+applicable at the relevant times, i.e. in entry clearance cases,  the  rates
+in force at the date of decision, but in in-country appeal cases,  those  in
+force at the date of hearing.
+
+33.   The calculation  of  the  benefit  threshold  figure  is  an  academic
+exercise, but establishing the benefits which a sponsor and  applicant  will
+actually be receiving on the applicant's arrival is far from it.   In  terms
+of the evidence to prove receipt of income by way of  social  security,  the
+most compelling evidence is likely to be proof of the receipt of funds  into
+a person's bank account.  Most, though not all, payments are made in such  a
+way.  Payments from DWP and HMRC, so far as we are aware, are identified  as
+such on bank statements.  Notices of award, while they may have some  value,
+are intrinsically less reliable, because of the wide  ranging  powers  which
+the Secretary of State for Work and  Pensions  and  in  the  non-tax  credit
+context HMRC  have  to  change  decisions  by  processes  of  "revision"  or
+"supersession" and because of the scope for  a  decision  to  be  changed  -
+sometimes against a person claiming benefits - on  appeal,  thus  any  given
+decision notice may not be the last one in the sequence.   The  position  of
+tax credits is a particularly complex one in  decision-making  terms,  which
+may involve the use of estimated amounts and  sums  paid  on  a  provisional
+basis, followed by a process of reconciliation and final decision after  the
+end of the tax year.
+
+34. Finally, as for the reasons above it is necessary to establish  whether,
+at the date of the decision under appeal, there would be any effect  on  the
+sponsor's entitlement to benefit if he or she  were  to  be  joined  by  the
+applicant for entry clearance, it is our view  that  application  forms  for
+entry clearance should include questions designed to elicit the  information
+we have described above and that ECO decisions should include a  calculation
+utilising the heads of calculation which we have outlined. In  addition,  in
+the context of appeals submissions  should,  accordingly,  include  a  legal
+analysis addressed to these matters.
+
+Decision
+
+35. The determination of the First-tier Tribunal having been set  aside,  we
+hereby re-make the decision as follows:
+The respondent's appeal against the decision of the entry clearance  officer
+is allowed.
+
+
+                                             C G Ward
+                                             Judge  of  the  Upper  Tribunal
+                                  Date: 30 January 2013
+
+
+ANNEX
+
+
+                                    [pic]
+Upper Tribunal
+(Immigration and Asylum Chamber)  Appeal Number: OA/06682/2011
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                       |Determination Promulgated   |
+|On 10 February 2012                        |                            |
+|                                           |............................|
+|                                           |...........                 |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE STOREY
+
+
+                                   Between
+
+                       ENTRY CLEARANCE OFFICER, DHAKA
+
+                                                                   Appellant
+                                     And
+
+                               MR SOHAIL AHMED
+                                                                  Respondent
+
+
+Representation
+For the appellant/ECO:   Mr  N Bramble, Home Office Presenting Officer
+For the respondent/claimant:    Mr T Shah, Solicitors, Taj Solicitors
+
+                           DECISION AND DIRECTIONS
+
+1.       The  respondent  (hereafter  "the  claimant")  is  a   citizen   of
+    Bangladesh. On 30 December 2010 the appellant (hereafter "ECO") refused
+    his application for entry clearance to join his wife and  two  children
+    in the UK. The ECO considered (1) that he fell foul of para 320(7A)  of
+    Statement of Changes in Immigration Rules, HC395 as amended for failing
+    to disclose his previous immigration history; (2) that he did not  meet
+    the requirements of the substantive immigration rule (paras 281(iv) and
+    281(v) of HC395 as amended) by virtue of the fact that it had not  been
+    shown that adequate accommodation would be genuinely available or  that
+    there would be adequate maintenance. The ECO also found that to  refuse
+    him entry clearance would not violate his  Article  8  ECHR  rights.  I
+    should clarify that the claimant had been the  subject  of  a  previous
+    refusal  of  entry  clearance  as  a  spouse  which  he  had   appealed
+    unsuccessfully.
+
+2.      The claimant's appeal came before First-tier  Tribunal  (FTT)  Judge
+    Majid. There was no representation from the  ECO.  In  a  determination
+    sent on 5  August  2011  Judge  Majid  allowed  the  appeal  under  the
+    Immigration Rules.
+
+3.     In grounds seeking permission to appeal the ECO did not  dispute  the
+    judge's rejection of the para 320(7A) basis for refusal.  Nor  did  she
+    challenge the judge's primary findings of fact (he found  the  claimant
+    and sponsor credible and genuine). Her challenge was  confined  to  the
+    FTT  judge's  reasons  for  concluding  that  the  claimant   met   the
+    accommodation   and   maintenance   requirements.   In   relation    to
+    accommodation, it was contended that the judge had wrongly  taken  into
+    account post-decision evidence given at the hearing that  the  claimant
+    had now moved to a three bedroom flat.
+
+4.      I have no hesitation in  deciding  that  the  FTT  judge  materially
+    erred in law. In relation to the accommodation requirement, he gave  no
+    reasons whatsoever for his conclusion at para 26 that the accommodation
+    requirement was "fulfilled". In refusing the claimant's application the
+    ECO had considered the sponsor's evidence that  she  had  a  new  three
+    bedroom flat for which she was required to pay �200 per month in  rent,
+    but had concluded that he had failed to provide evidence to demonstrate
+    that the rental commitments were being met. It was also noted that  the
+    claimant had failed to address  adequately  the  concerns  relating  to
+    accommodation expressed by the previous immigration judge. Against this
+    background it was clearly insufficient simply for the FTT judge to find
+    that the accommodation requirement was met because what she  said,  she
+    said "credibly". That failed to address the respondent's concern at the
+    lack of any evidence to demonstrate that the  rental  commitments  were
+    being met  or  that  she  had  indeed  moved  as  claimed  to  the  new
+    accommodation. (an address in Headley Drive, Ilford, Essex). As regards
+    maintenance, whilst in this regard the FTT judge did  give  some  brief
+    reasoning, it simply amounts to his  finding  without  any  explanation
+    that as she received an increase in her salary in April 2011,  so  that
+    it went up from �161.30 p.w. to �167.80 p.w.,  the  claimant's  arrival
+    was not going to cost anything to public funds (see  paras  1-20,  26).
+    Taken together these failed amount to a material error of law and cause
+    me to set aside the FTT decision.
+
+   5.    In seeking to re-make the only two issues  before  me  concern  the
+      accommodation and maintenance requirements.
+
+
+   Accommodation
+   6.    In relation to  the  accommodation  requirement,  the  ECO  in  the
+      refusal letter stated that the claimant had "provided no evidence that
+      the rental commitments are being met". But in point of fact  (although
+      the FTT judge did not touch upon it) the ECO was wrong about that.  In
+      his application the claimant had identified the three bedroom  address
+      in Headly  Drive  as  the  proposed  accommodation  and  he  had  also
+      submitted a letter from the claimant's uncle, Mr K H Masud, confirming
+      that he was the owner of this address and that the  sponsor  had  been
+      living at this address with her two children paying �200 per month  in
+      rent. The  sponsor  had  also  submitted  a  house  inspection  report
+      confirming that the property would be suitable for a couple with three
+      children. The sponsor had also stated in her  sponsorship  declaration
+      that she lived at the three-bedroom property, that Mr  Masud  was  the
+      owner of this property and that the rent she paid was �200 per  month.
+      Nothing said at  the  hearing  before  the  FTT  cast  doubt  on  this
+      evidence. Mr Bramble before me sought at one point to raise  the  fact
+      that the house inspection report described Mr Masud as a landlord, but
+      there was nothing  inconsistent  with  this  gentleman  being  both  a
+      landlord and the owner and this was not a point that had  been  relied
+      upon by the respondent either in the refusal or  the  grounds  seeking
+      permission.  Accordingly  I  am  satisfied  that   the   accommodation
+      requirement was met.
+
+
+   Maintenance
+   7.   In relation to the maintenance requirement, however, things are less
+      straightforward. In her grounds seeking permission to appeal  the  ECO
+      raised a new point not relied upon in her the refusal  decision;  that
+      new point related to the level of the  sponsor's  reliance  on  public
+      funds. However, given that the claimant was put on  notice  of  it  in
+      advance of the hearing I do not consider there has been any procedural
+      unfairness and, the new point relates to a  mandatory  requirement  of
+      the Immigration Rules, I am obliged to determine it.
+
+   8.    In more detail the new point had two limbs. First it was  contended
+      that it would be wrong to take into account  (as  the  FTT  judge  had
+      done) the post-decision level of earnings of the sponsor,  which  were
+      167.80 per week. Rather the relevant figure was  the  amount  she  was
+      earning at the date of decision in December 2010,  which  was  �161.30
+      per week. Second, it was argued that even  if  the  new  salary  level
+      from April 2011 (of �167.80)  was treated as the correct figure,  that
+      was still not sufficient., as the income support level  for  a  couple
+      with two children (of relevant ages) was �235.29 per week.
+
+
+   9.   In his skeleton argument Mr Shah submitted that  the  ECO's  grounds
+      for permission failed to factor in the matter  that  at  the  date  of
+      decision  the  claimant  was  in  receipt  of  (1)  child  benefit(CB)
+      totalling �34.37 per week  and (2) Child Tax Credits (CTCs)  totalling
+      �107.66. He referred to p.11 of his bundle which stated that  "as  the
+      couple  rate  [for  income  support]  was  �459.12.12  [�105.95  x  52
+      weeks)/12 months] per month, therefore I have  a  monthly  savings  of
+      �532.13 per month. It can be noted that I have sufficient  savings  in
+      my bank account which clearly demonstrates that I can accommodate  and
+      maintain the [claimant] without further recourse to public funds".
+
+
+  10.    He cited in support the cases of Mahad(Ethiopia) v ECO [2009]  UKSC
+      16 and  Jahanara Begum  and  Others  (Maintenance-savings)  Bangladesh
+      [2011] UKUT 00246 (IAC) which he said showed that benefits such as  CB
+      and CTC were to be disregarded.
+
+   The applicable law
+
+
+   A. Benefits legislation
+  11. Section 115 of the Immigration and Asylum  Act  1999  sets  out  which
+      benefits cannot be legally  claimed  by  people  who  are  subject  to
+      immigration control.
+
+
+  12. Child and Working Tax Credits were included in s.115 on 1  April  2003
+      but were not added to the definition of public funds (see below) until
+      15 March 2005.
+
+
+B. Immigration provisions
+  13. Paragraphs 6 of the Statement of Changes  in  the  Immigration  Rules,
+      HC395 as amended defines public funds as follows:
+         "public funds" means
+         (a) housing under Part VI or VII of the Housing Act 1996 and  under
+         Part II of the Housing Act 1985,  Part  I  or  II  of  the  Housing
+         (Scotland) Act 1987, Part II  of  the  Housing  (Northern  Ireland)
+         Order 1981 or Part II of the Housing (Northern Ireland) Order 1988;
+
+
+         (b) attendance allowance,  severe  disablement  allowance,  carer's
+         allowance and disability living allowance under  Part  III  of  the
+         Social  Security  Contribution  and  Benefits  Act  1992;,   income
+         support, council tax benefit and housing benefit under Part VII  of
+         that Act; a social fund payment under Part VIII of that Act;  child
+         benefit under  Part  IX  of  that  Act;  income  based  jobseeker's
+         allowance under the Jobseekers Act 1995, income  related  allowance
+         under Part 1 of the Welfare Reform Act 2007 (employment and support
+         allowance) state pension credit under the State Pension Credit  Act
+         2002; or child tax credit and working tax credit under  Part  1  of
+         the Tax Credits Act 2002.
+         (c) attendance allowance,  severe  disablement  allowance,  carer's
+         allowance and disability living allowance under  Part  III  of  the
+         Social Security Contribution and Benefits  (Northern  Ireland)  Act
+         1992;, income support, council tax  benefit  and,  housing  benefit
+         under Part VII of that Act; a social fund payment under  Part  VIII
+         of that Act; child benefit under Part IX of that Act; income  based
+         jobseeker's allowance under the Jobseekers (Northern Ireland) Order
+         1995 or income related allowance under Part 1 of the Welfare Reform
+         Act (Northern Ireland) 2007.
+  14. Paras 6A-C of the Immigration Rules explain what the position is  when
+      an applicant is not claiming public funds themselves but their sponsor
+      relies on public funds. With effect from 21 December 2010 [this is the
+      relevant set of Rules because the decision was made in this case on 30
+      December 2010] the  relevant provisions read:
+         "6A. For the purpose of these Rules, a person  (P)  is  not  to  be
+         regarded as having (or potentially having) recourse to public funds
+         merely because P is (or will be) reliant in whole  or  in  part  on
+         public funds provided to P's sponsor unless, as  a  result  of  P's
+         presence in the United  Kingdom,  the  sponsor  is  (or  would  be)
+         entitled to increased or additional public funds (save  where  such
+         entitlement to increased or additional public funds is by virtue of
+         P and  the  sponsor's  joint  entitlement  to  benefits  under  the
+         regulations referred to in paragraph 6B).
+         6B. Subject to paragraph 6C, a person (P) shall not be regarded  as
+         having recourse to public  funds  if  P  is  entitled  to  benefits
+         specified under section 115 of the Immigration and Asylum Act  1999
+         by virtue of regulations made under sub-sections  (3)  and  (4)  of
+         that section or section 42 of the Tax Credits Act 2002.
+
+         6C. A person (P) making an  application  from  outside  the  United
+         Kingdom will be regarded as having recourse to public funds where P
+         relies upon the future entitlement to any public funds  that  would
+         be payable to P or to P's sponsor as a result of  P's  presence  in
+         the United Kingdom, (including those benefits to  which  P  or  the
+         sponsor would be entitled as a result of P's presence in the United
+         Kingdom under the regulations referred to in to paragraph 6B)".
+  15. Complementing the Immigration Rules, there are Immigration Directorate
+      Instructions (IDIs). I only have these in version 5,  19  August  2011
+      but I am not aware that insofar as they cover benefit issues they were
+      any different in December 2011. These reiterate:
+
+
+         (i) that benefits that are not considered as public funds  include:
+         contribution based  jobseeker's  allowance,  guardian's  allowance,
+         incapacity benefit, contributory  related  employment  and  support
+         allowance (ESA), maternity allowance, retirement pension, statutory
+         maternity pay, widow's benefit and bereavement benefit.
+         (ii) that a person subject to immigration control is not considered
+         as accessing public funds if it is their partner who  is  receiving
+         the funds that they are entitled to.
+         (iii) that child and working tax credits  are  claimed  jointly  by
+         couples. If only one member of a couple is subject  to  immigration
+         control, then for tax credits  purposes,  neither  are  treated  as
+         being subject to immigration control.
+         (iv) that child benefit is a  tax-free,  regular  payment  made  to
+         anyone bringing up a child or young person. It  is  paid  for  each
+         child that qualifies and is not affected by income or  savings,  so
+         most people bringing up a child can get it.
+         (v)That Child Tax Credit (CTC)  is  a  means-tested  allowance  for
+         parents and carers of children or young people  who  are  still  in
+         full-time, non advanced education or approved  training.  A  person
+         claiming this benefit does not have to be the child's parent to  be
+         eligible but they must be the main  person  responsible  for  them.
+         Child tax credit can be claimed jointly as a couple but  will  only
+         be paid to one member of the couple.
+         (vi) that Working Tax Credit is a payment to top us the earnings of
+         low paid working people.
+         (vi) it is further stated that if a sponsor  needs  to  claim  more
+         public funds to support the applicant, [the  decision-maker]  under
+         Guidance -Public funds - v5.0, Valid from 19 August 2011 must:
+
+
+            "refuse the application. For  example,  if  the  sponsor  claims
+            income-based jobseeker's allowance and this  would  increase  if
+            their dependant was granted leave as their spouse. .."
+
+
+       and that:
+
+
+            "If the sponsor needs to claim more public funds to support the
+            applicant but these are funds that the  sponsor  and  dependant
+            would  be  jointly  entitled  to  you  must  not   refuse   the
+            application. For example, if the increased funds fall under the
+            tax credits regulations, such as Working or Child Tax  Credits,
+            then you must not  regard  the  applicant  as  having  accessed
+            public funds. "
+
+
+Relevant case law
+
+  16. KA and Others (Adequacy of Maintenance) Pakistan  [2006]  UKAIT  00065
+      establishes  that  it  is  appropriate  to  consider  savings  in  the
+      calculation.  It has also been established in Mahad (Ethiopia)  v  ECO
+      [2009] UKSC 16 the Supreme Court observed that the  Immigration  Rules
+      are not to be construed with all  the  strictness  applicable  to  the
+      construction  of  a  statute  or  statutory  instrument  but  sensibly
+      according to the natural and ordinary meaning of the words used.  They
+      noted that other forms of  assistance  and  other  funds  besides  the
+      provision of accommodation were accepted to be legitimately  available
+      to the parties in satisfying the maintenance requirement, such as DLA,
+      which the settled relative could use as he or  she  liked.  The  Court
+      concluded that the natural meaning of the words  was  in  effect  that
+      there was a  requirement  that  the  family  would  be  able  to  cope
+      financially.
+
+
+My assessment
+
+  17. Having considered the evidence presently before me,  I  have  resolved
+      that I am not in a position to decide the issue of maintenance  -  the
+      only outstanding issue. It is not in dispute  that  the  baseline  for
+      assessing adequacy of maintenance is income  support.  Nor  is  it  in
+      dispute that  the  relevant  income  support  figure  for  the  couple
+      involved in this appeal was �235.29 per week. However, there  are  two
+      conflicting views that have been presented as to what this entails for
+      this appeal. The ECO's view, as presented by Mr Bramble  is  that  the
+      maintenance requirement was not met because the sponsor was  not  able
+      to show that her earnings came up to the �235.29 level bearing in mind
+      that some or all of the benefits she received constituted recourse  to
+      pubic funds. The claimant's view is that although the sponsor only had
+      earnings of �161.30 at the date of decision all three of the  benefits
+      she received, albeit within the para 6  definition  of  public  funds,
+      fell to be disregarded by operation of paras 6A-C of  the  Immigration
+      Rules; the arrival of the claimant, it was submitted, would  not  have
+      resulted in any "additional" recourse to public funds.
+
+
+  18. Whilst if the claimant is correct and all three of  the  benefits  she
+      received fell to be disregarded as public funds, there is insufficient
+      evidence before me to establish that they should have been disregarded
+      or if so, what were the precise figures involved.
+
+  19. It is said that she received:
+
+
+   �161.30 In earnings
+   �107.66 in Child Tax Credit (CTC)/Working Tax Credit (WTC)
+   � 34.37 in Child Benefit (CB)
+
+  20. However, on the basis  of   information  to  hand  regarding  benefits
+      (which may or may not be correct):
+
+
+    a. whereas it would appear that CB and CTC are  unaffected  by  whether
+       the family has one or  two  adults,  the  calculation  for  WTC  has
+       distinct figures;
+
+
+    b. the applicable CTC figure would appear  to have  been  only  �98.94,
+       unless one of the couple was disabled;
+
+
+    c. it is not entirely clear what the amount in rent  the  couple  would
+       pay. It would seem that the figure of �200 was in  relation  to  the
+       sponsor's previous accommodation. She says in  her  undated  witness
+       statement that at the new accommodation that she pays �325  a  month
+       [�81.23 per week?];
+
+    d. it is not clear whether the sponsor's living  arrangements  amounted
+       to a common  household;  the  sponsor's  undated  witness  statement
+       describes it as  "shared  accommodation  with  Mr  Saful  Alam  [her
+       husband's uncle]", with each paying half each of the utility bills.
+
+    e. It is not sufficiently  clear  what  the  position  was  as  regards
+       housing benefit/ council tax benefit. It  would  appear  that  as  a
+       single adult the sponsor was or would have been entitled  to  a  25%
+       discount on council tax. With  the arrival,  however,  of  a  second
+       adult (which is the relevant scenario here) the actual  council  tax
+       liability would be higher (by a third);
+
+
+    f. the evidence in the file relating to the sponsor's savings refer  to
+       a Barclays bank account showing figures  consistently  below  �6,000
+       but it is not confirmed whether at the date of decision the  sponsor
+       had any other savings. If she  did,  they  might  impact  on  income
+       support levels;
+
+
+    g. the above points illustrate perhaps that the task of  assessing  the
+       relevant income support levels for  the  purposes  of  deciding  the
+       adequacy of maintenance as at the date of decision is not  a  simple
+       matter of reading off the figures for income support  for  a  couple
+       (with  children)  and  that  the  Tribunal  needs  assistance   with
+       establishing the complete range of relevant variables and figures.
+
+
+  21. In order to reach a decision on the maintenance issue,  therefore,  it
+      is necessary to hold a further hearing. The case will be  heard  by  a
+      senior panel  that  will  include  an  Upper  Tribunal  Judge  of  the
+      Administrative Appeals Chamber.
+
+
+  22.  It  is  directed  that  in  accordance   with   Tribunal   directions
+      accompanying the notice of hearing (which will follow shortly) prepare
+      written submissions addressing  the  matters  identified  in  para  20
+      above.
+
+
+
+
+
+
+                               Signed
+                                   Date
+
+
+
+
+                                Judge of the Upper Tribunal
+
+-----------------------
+[1] That is to say: A minus B is greater than, or equal to, C
+

@@ -1,0 +1,1068 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: HU/11405/2019
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                 |Decision & Reasons Promulgated       |
+|On 5 October 2020                    |On 26 October 2020                   |
+|                                     |                                     |
+
+                                   Before
+
+                     UPPER TRIBUNAL JUDGE NORTON-TAYLOR
+
+
+                                   Between
+
+                                     m a
+                         (anonymity directioN MADE)
+                                                                   Appellant
+                                     and
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+    Pursuant to Rule 14 of the Tribunal Procedure  (Upper  Tribunal)  Rules
+    2008, I make an anonymity order. Unless the Upper Tribunal or  a  Court
+    directs otherwise, no report  of  these  proceedings  or  any  form  of
+    publication thereof shall directly or indirectly identify the appellant
+    or members of his family. This direction applies  to,  amongst  others,
+    all parties. Any failure to comply with this direction could give  rise
+    to contempt of court proceedings.
+
+
+Representation:
+For the appellant:     Mr M Marziano, legal representative from Westkin
+Associates
+For the respondent:    Mr S Whitwell, Senior Home Office Presenting Officer
+
+
+                            DECISION AND REASONS
+
+
+
+Introduction
+
+ 1. This is  the  remaking  of  the  decision  in  the  appellant's  appeal
+    following  my  previous  conclusion  that  the  First-tier   Tribunal's
+    decision dismissing the appeal should be set  aside  by  virtue  of  an
+    error of law.  My earlier decision, promulgated on 26 February 2020, is
+    appended to this remaking decision.
+
+ 2. In summary, I found that the First-tier Tribunal's  assessment  of  the
+    unduly  harsh  issue  under  section  117C(5)   of   the   Nationality,
+    Immigration and Asylum Act 2002 ("NIAA 2002"),  as  amended,  had  been
+    erroneously predicated upon the law as it  was  understood  before  the
+    judgment of the Supreme Court in KO (Nigeria) [2018] UKSC 53; [2018]  1
+    WLR 5273.
+
+ 3. Although I set aside the First-tier Tribunal's  decision,  I  preserved
+    the following conclusions as a starting point for my remaking decision:
+
+         i.   the appellant has a genuine and subsisting  relationship  with
+         his partner, R, and a genuine and subsisting parental  relationship
+         with the four relevant children;
+
+         ii.  R and the four children are all "qualifying" for the  purposes
+         of section 117C(5) NIAA 2002;
+
+         iii. it would be "unduly harsh" for R and the four children  to  go
+         and live in Nigeria;
+
+         iv.  the appellant cannot rely on the private life exception  under
+         section 117C(4) NIAA 2002;
+
+         v.   the appellant cannot show "very compelling circumstances  over
+         and above" those described in the two exceptions.
+
+ 4. Neither party has suggested that any of the above matters should now be
+    revisited.
+
+ 5. The issue in this appeal is therefore a narrow one: would it be  unduly
+    harsh on the four children  and/or  R  if  the  appellant  were  to  be
+    deported to Nigeria and they remained in the United Kingdom?
+
+The relevant legal framework
+
+ 6. The overarching authoritative statement of the law is contained  within
+    the well-known passage of Lord Carnwath's judgment in KO (Nigeria),  at
+    paragraph 23:
+
+         "23. On the other hand the expression "unduly harsh" seems  clearly
+         intended to introduce a higher hurdle than that of "reasonableness"
+         under section 117B(6), taking account of the public interest in the
+         deportation of foreign criminals. Further the word "unduly" implies
+         an element of comparison. It assumes that there is a "due" level of
+         "harshness", that is a level which may be acceptable or justifiable
+         in the relevant context. "Unduly" implies  something  going  beyond
+         that level. The relevant context is that set  by  section  117C(1),
+         that  is  the  public  interest  in  the  deportation  of   foreign
+         criminals. One is looking for a degree of  harshness  going  beyond
+         what would necessarily be involved for any  child  faced  with  the
+         deportation of a parent. What it does not require in my  view  (and
+         subject to the discussion of the cases in the next  section)  is  a
+         balancing of relative levels of severity of the  parent's  offence,
+         other than is inherent in the  distinction  drawn  by  the  section
+         itself by reference to length of sentence.  Nor  (contrary  to  the
+         view of the Court of Appeal in IT (Jamaica) v  Secretary  of  State
+         for the Home Department [2016] EWCA Civ 932,  [2017]  1  WLR  240,
+         paras 55, 64) can it be equated with a requirement  to  show  "very
+         compelling reasons". That would  be  in  effect  to  replicate  the
+         additional  test  applied  by  section  117C(6)  with  respect   to
+         sentences of four years or more."
+
+ 7. At paragraph 26, there was approval of the Upper Tribunal's guidance as
+    to the meaning of "unduly harsh", with reference to paragraph 46 of  MK
+    (Sierra Leone) [2015] UKUT 223 (IAC):
+
+         "46. By way of self-direction, we are mindful that  'unduly  harsh'
+         does not equate with uncomfortable,  inconvenient,  undesirable  or
+         merely difficult. Rather, it poses  a  considerably  more  elevated
+         threshold. 'Harsh' in this context, denotes  something  severe,  or
+         bleak.  It  is  the  antithesis   of   pleasant   or   comfortable.
+         Furthermore, the addition of the adverb 'unduly' raises an  already
+         elevated standard still higher."
+
+ 8. A large number of judgments of the Court of Appeal followed in the wake
+    of KO (Nigeria), many of them dealing with whether, on  the  particular
+    facts, it had been open to either the First-tier Tribunal or the  Upper
+    Tribunal to conclude that it would be unduly harsh on  children  to  be
+    separated from a parent.  Then, on 4 September 2020, the  Court  handed
+    down its judgment in HA (Iraq) [2020] EWCA  Civ  1176.   This  provided
+    clarification as to the correct approach to  the  unduly  harsh  issue.
+    For the purposes  of  the  present  case,  the  following  passages  of
+    Underhill LJ's judgment are relevant:
+
+         "44. In order to establish that the word "unduly" was not  directed
+         to the  relative  seriousness  issue  it  was  necessary  for  Lord
+         Carnwath to say to what it was in fact directed. That  is  what  he
+         does in the first part of the paragraph. The effect of what he says
+         is that "unduly" is directed to the degree of  harshness  required:
+         some level of  harshness  is  to  be  regarded  as  "acceptable  or
+         justifiable"  in  the  context  of  the  public  interest  in   the
+         deportation of foreign criminals, and  what  "unduly"  does  is  to
+         provide that Exception 2 will only apply where the  harshness  goes
+         beyond that level. Lord Carnwath's focus is not primarily on how to
+         define the "acceptable" level of harshness.  It  is  true  that  he
+         refers  to  a  degree  of  harshness  "going  beyond   what   would
+         necessarily be involved for any child faced with the deportation of
+         a parent", but that cannot be read entirely literally: it  is  hard
+         to see how one would define  the  level  of  harshness  that  would
+         "necessarily" be suffered by "any" child (indeed  one  can  imagine
+         unusual cases where the  deportation  of  a  parent  would  not  be
+         "harsh" for the child at all, even where there was  a  genuine  and
+         subsisting relationship). The underlying concept is clearly  of  an
+         enhanced degree of harshness  sufficient  to  outweigh  the  public
+         interest in the deportation of  foreign  criminals  in  the  medium
+         offender category.
+
+         ...
+
+         51.  The essential point is that the criterion of  undue  harshness
+         sets a bar  which  is  "elevated"  and  carries  a  "much  stronger
+         emphasis" than mere undesirability: see para. 27 of Lord Carnwath's
+         judgment, approving the UT's self-direction in MK  (Sierra  Leone),
+         and para. 35. The UT's self-direction uses a  battery  of  synonyms
+         and antonyms: although these should not  be  allowed  to  become  a
+         substitute for the statutory language, tribunals may find  them  of
+         some assistance as a reminder of the elevated nature of  the  test.
+         The reason why some degree of harshness is acceptable is that there
+         is a strong public interest in the deportation of foreign criminals
+         (including medium offenders): see para. 23. The underlying question
+         for tribunals is whether the harshness which the  deportation  will
+         cause for the partner and/or child is of  a  sufficiently  elevated
+         degree to outweigh that public interest.
+
+         52.  However,  while  recognising  the  "elevated"  nature  of  the
+         statutory test, it is important not to lose sight of the fact  that
+         the hurdle which it sets is not as high as that set by the test  of
+         "very compelling  circumstances"  in  section  117C  (6).  As  Lord
+         Carnwath points out in the second part of para. 23 of his judgment,
+         disapproving IT (Jamaica), if that were so the position  of  medium
+         offenders and their families  would  be  no  better  than  that  of
+         serious offenders. It follows that the observations in the case-law
+         to the effect that it will be rare for the test of "very compelling
+         circumstances" to be satisfied have no application in this  context
+         (I have already  made  this  point  -  see  para.  34  above).  The
+         statutory intention is evidently that the hurdle  representing  the
+         unacceptable impact on a partner or child should be  set  somewhere
+         between the (low) level applying in the case  of  persons  who  are
+         liable  to  ordinary  immigration  removal  (see  Lord   Carnwath's
+         reference to section 117B (6) at the start of  para.  23)  and  the
+         (very high) level applying to serious offenders.
+
+         53.  Observations of that kind  are,  I  hope,  helpful,  but  they
+         cannot identify an objectively measurable standard. It is  inherent
+         in the nature of an exercise of the kind required by  section  117C
+         (5) that Parliament intended that tribunals  should  in  each  case
+         make an informed evaluative assessment of whether the effect of the
+         deportation of the parent or partner  on  their  child  or  partner
+         would be "unduly  harsh"  in  the  context  of  the  strong  public
+         interest in the  deportation  of  foreign  criminals;  and  further
+         exposition of that phrase will never be of more than limited value.
+
+         ...
+
+         56.  The second point focuses on what are said to be the  risks  of
+         treating KO as establishing a touchstone of whether the degree of
+         harshness goes beyond "that which is  ordinarily  expected  by  the
+         deportation of a parent". Lord Carnwath does not in fact  use  that
+         phrase, but a reference to "nothing out of the ordinary" appears in
+         UTJ  Southern's  decision.  I  see  rather  more  force   in   this
+         submission. As explained above, the test  under  section  117C  (5)
+         does indeed require an appellant to establish a degree of harshness
+         going beyond a threshold "acceptable" level. It is not  necessarily
+         wrong to describe that as an "ordinary" level of harshness,  and  I
+         note that Lord Carnwath did not jib at UTJ Southern's use  of  that
+         term. However, I think the Appellants are right to point  out  that
+         it may be misleading if used incautiously. There seem to me  to  be
+         two  (related)  risks.  First,  "ordinary"  is  capable  of   being
+         understood as meaning anything which is not exceptional, or in  any
+         event rare. That is not the correct approach: see para.  52  above.
+         There is no reason in principle why cases of "undue" harshness  may
+         not  occur  quite  commonly.  Secondly,  if  tribunals  treat   the
+         essential question as being "is this level of harshness out of  the
+         ordinary?" they may be tempted to find that Exception  2  does  not
+         apply simply on  the  basis  that  the  situation  fits  into  some
+         commonly-encountered pattern. That would be dangerous. How a  child
+         will be affected by a parent's deportation will depend on an almost
+         infinitely variable range of circumstances and it is  not  possible
+         to identify a baseline of "ordinariness". Simply by way of example,
+         the degree of harshness of  the  impact  may  be  affected  by  the
+         child's age; by whether the parent  lives  with  them  (NB  that  a
+         divorced  or  separated  father  may  still  have  a  genuine   and
+         subsisting relationship with a child who lives with the mother); by
+         the degree of the child's emotional dependence on  the  parent;  by
+         the financial consequences of his deportation; by the  availability
+         of emotional and financial support  from  a  remaining  parent  and
+         other family  members;  by  the  practicability  of  maintaining  a
+         relationship with the deported parent; and of  course  by  all  the
+         individual characteristics of the child.
+
+         57.   I  make  those  points  in  response   to   the   Appellants'
+         submissions. But I am anxious to avoid setting off a further  chain
+         of  exposition.  Tribunals  considering  the  parent   case   under
+         Exception 2 should not err in law if in each  case  they  carefully
+         evaluate the likely effect  of  the  parent's  deportation  on  the
+         particular child and then decide whether that effect is not  merely
+         harsh but unduly harsh applying KO (Nigeria) in accordance with the
+         guidance at paras. 50-53 above."
+
+ 9. Since the hearing in the present appeal, the Court of Appeal has handed
+    down a further judgment on the issue  of  deportation  and  the  unduly
+    harsh issue.  Having considered AA (Nigeria) [2020] EWCA  Civ  1236,  I
+    did not find it necessary to seek further written submissions from  the
+    parties.  The judgment adds nothing over and above what is said  in  HA
+    (Iraq) and both representatives made  full  submissions  on  that  case
+    before me.  The  clarificatory  aspects  of  HA  (Iraq)  are  hopefully
+    summarised at paragraph 12 of AA (Nigeria):
+
+         "12. As explained in HA (Iraq) at [44] and [50] to [53], this  does
+         not posit some objectively measurable standard of  harshness  which
+         is acceptable, but sets a bar which  is  more  elevated  than  mere
+         undesirability  but  not  as   high   as   the   "very   compelling
+         circumstances" test in s.117C(6). Beyond that,  further  exposition
+         of the phrase "unduly harsh" is of limited value. Moreover, as made
+         clear at [56]-[57], it is potentially misleading and  dangerous  to
+         seek  to  identify  some  "ordinary"  level  of  harshness  as   an
+         acceptable level by reference to what may be  commonly  encountered
+         circumstances: there is no reason in principle why cases  of  undue
+         hardship may not occur quite commonly; and  how  a  child  will  be
+         affected by a parent's  deportation  will  depend  upon  an  almost
+         infinitely variable range of circumstances. It is not  possible  to
+         identify a baseline of "ordinariness"."
+
+10. In the carrying out my assessment of the unduly  harsh  issue,  I  have
+    directed myself in line with all of the guidance set out above.
+
+The evidence
+
+11. By way of documentary evidence, I have considered the following:
+
+      i. the respondent's original appeal  bundle,  under  cover  of  letter
+         dated 21 August 2019;
+
+     ii.  the  appellant's  first  bundle,  which  is  neither  indexed  nor
+         paginated.  It includes a variety  of  documents  relating  to  the
+         appellant's health, his immigration history, and the  education  of
+         his eldest son;
+
+    iii. the appellant's second bundle, indexed and  paginated  1-47.   This
+         includes witness statements for the appellant,  R,  his  mother,  a
+         report from an Independent  Social  Worker,  and  medical  evidence
+         relating to the appellant's significant mental health conditions;
+
+     iv. an email from Mr M Flanagan, Consultant Nurse and Clinical Lead  at
+         i-Access Drug and Alcohol Service, dated 28 September 2020
+
+12. The appellant, R, and his mother, all attended the resumed hearing  and
+    gave oral evidence, a full record of which is contained in  the  record
+    of proceedings.  I do not propose to set that evidence out here in  any
+    detail.  In summary, the appellant provided an account of his  life  in
+    the United Kingdom from his arrival at the age of  seven,  through  his
+    education, and into his use of drugs, his diagnosis  of  HIV,  criminal
+    behaviour, and mental health problems.  He gave details of a medication
+    programme which aims to keep him drug-free.  He explained that he plays
+    an important role in the lives  of  his  children,  with  a  particular
+    emphasis on the two older boys, J and N.  He does not believe that  any
+    external support would be a proper substitute for his presence  in  the
+    children's lives.  He has concerns about his partner's ability to  cope
+    if he were deported.  He told me that he did not believe his sister  or
+    brother would be able to provide very much additional help  if  he  was
+    not in this country as they have their own lives and responsibilities.
+
+13. R provided a history of their relationship and the  difficulties  faced
+    as result of the appellant's drug addiction,  criminality,  and  mental
+    health problems.  She has acknowledged the support provided to  her  by
+    the appellant's mother over the course of time, particularly whilst  he
+    was in prison.  She currently  works  as  a  Teaching  Assistant  in  a
+    primary school and has found it a real struggle to continue to do so as
+    well as caring for  children  and  dealing  with  the  appellant's  own
+    difficulties.  Notwithstanding that, she has emphasised the  importance
+    of the appellant's role in the lives of  the  children,  in  particular
+    that of their eldest, J.  She has concerns about J's wellbeing  at  the
+    moment and believed things  would  get  worse  if  the  appellant  were
+    removed.  J has been aware of the appellant's  precarious  position  in
+    this country for some time and has displayed anger  and  aggression  at
+    school.
+
+14. The appellant's mother confirmed that she has done  all  she  could  to
+    provide practical support at appropriate times, particularly whilst the
+    appellant was in prison.  She works full-time as a cleaner and a carer,
+    whereas she was only  working  on  a  part-time  basis  when  providing
+    additional help for the family some time ago.  She confirmed  that  she
+    would offer to do all she could in the future.
+
+Submissions
+
+15. Mr Whitwell relied on his skeleton argument, dated 5 October 2020.   He
+    acknowledged  that  splitting  up  the  family  unit  may  have   harsh
+    consequences for R and the children, but submitted that it would not be
+    unduly harsh,  having  regard  to  KO  (Nigeria)  and  HA  (Iraq).   He
+    submitted that the possibility of social services providing  input  for
+    the family unit could be considered and the fact that there had been no
+    such assistance to date was indicative of R's ability to  cope  without
+    the appellant.  He noted that R was not  receiving  any  treatment  for
+    depression or anxiety at the moment.  There were other  family  members
+    in  the  United  Kingdom  who  have  and  would  continue  to   provide
+    assistance.  J did not have an Education Health Care Plan, nor  had  he
+    been diagnosed with any conditions.  With  reference  to  the  case  of
+    Imran (section 117C(5); children, unduly harsh) [2020] UKUT  83  (IAC),
+    Mr Whitwell submitted that the evidence in the  present  case  did  not
+    disclose anything "more" than simply the importance of the appellant in
+    the lives of his children, or their emotional  attachment  to  him,  or
+    indeed  the  emotional  harm  that  would  be  likely  to  result  from
+    separation.
+
+16. Mr Marziano relied on his skeleton argument.  There was no  dispute  as
+    to the appropriate legal framework.  He relied upon the conclusions  of
+    the  Independent  Social  Worker,  but  acknowledged   that   emotional
+    detriment to the children  that  might  be  expected  as  a  result  of
+    separation was not, by itself, sufficient for the appellant to succeed.
+     However, he submitted that there  were  additional  features  in  this
+    case.  He submitted that the R's evidence had been both impassioned and
+    cogent.  This family unit had, he submitted, experienced a good deal of
+    difficulty over time.  The appellant had been addicted to drugs and had
+    committed crimes as result.  In addition to  this  he  had  significant
+    mental health problems and HIV.  R herself had suffered from depression
+    and anxiety, although it was accepted that he  she  was  not  currently
+    under treatment.  Despite  this,  the  couple  were  bringing  up  four
+    children together.  Mr Marziano emphasise the position of  J,  who  was
+    aware of his father's difficult position and  was  displaying  worrying
+    signs at  school,  as  evidenced  by  letters  from  that  institution.
+    Practical help from other family members may  be  available,  but  that
+    could not replace the appellant's role in the children's lives.  It was
+    submitted that if social services had to  get  involved,  it  would  be
+    indicative of the fact that the  position  had  already  become  unduly
+    harsh for the children.  In summary, it was  submitted  that  when  the
+    situation of this family unit was placed in  its  proper  context,  the
+    unduly harsh test was met.
+
+Findings of fact
+
+17. There is little, if any, dispute as to much of the  factual  matrix  in
+    this case.  The appellant arrived in United Kingdom at the age of seven
+    and has resided here ever since.  He has accumulated 20 convictions  in
+    relation to 43 offences.  The  convictions  have  ranged  from  driving
+    offences, to burglary, to  possession  of  Class  A  and  B  drugs,  to
+    possession of offensive weapons, and affray.   I  find  that  the  last
+    convictions occurred on 8  July  2019  and  that  the  last  period  of
+    imprisonment was for two weeks in May 2017  I accept that the offending
+    took place when he was addicted to various drugs, a  problem  that  the
+    appellant has suffered from since the age of 15 or 16.  In 2018 he  was
+    sectioned under the Mental Health Act as result of a  suicide  attempt,
+    and he has been under the care of mental health  services  ever  since.
+    On the basis of the undisputed evidence contained  in  the  appellant's
+    second bundle, I find that the appellant has been  diagnosed  with  the
+    following conditions:
+
+      i. mental and behavioural disorder due to use of opioids;
+
+     ii. mental and behavioural disorder due to use of cocaine;
+
+    iii. mental and behavioural disorder due to use of cannabinoids.
+
+18. The most recent report on  the  appellant's  mental  health  conditions
+    indicates that the situation remains fragile.  There is said  to  be  a
+    medium-high risk to self, a medium-high risk to others,  and  a  medium
+    risk from others.  R and the children are said to be protective factors
+    (with R being described as "extremely supportive"), and it is  reported
+    that his mother has provided additional practical support.
+
+19. As a result of the substance  misuse,  the  appellant  has  been  on  a
+    medicated treatment programme since August 2019.   I  accept  that  the
+    appellant has in fact been drug-free since that time  and  that  he  is
+    engaging well with the programme.  A letter from the relevant Substance
+    Misuse Specialist, dated  20  February  2020,  contains  the  following
+    passage:
+
+         "As  stated,  he  remains  abstinent  from  illicit  drugs  and  is
+         improving with regard to his mental health.  However, should  these
+         current services not be available to Mr [MA], the likely  prognosis
+         would be a sudden relapse back to illicit opiates as  he  would  be
+         withdrawing quite heavily and more than  likely  he  would  have  a
+         severe downturn in his mental health, possibly leading to  suicidal
+         ideation and even suicide attempts."
+
+20. The appellant's current drug-free status and the risks to  his  overall
+    mental health as result of being removed from  protective  factors  and
+    the current treatment regime is also emphasised in the  email  from  Mr
+    Flanagan.  Deportation would, it is said, have a  "devastating  impact"
+    on the appellant and the other family members.  I find that  to  be  an
+    opinion honestly provided and in keeping with other sources.
+
+21. The evidence shows that the appellant was diagnosed with  HIV  in  2018
+    and has been on relevant treatment ever since.
+
+22. I find that the appellant began his relationship with R in 2006.  It is
+    quite clear that they have a very strong relationship.  As Mr  Marziano
+    fairly put it, "they have been through a lot together."  I find that  R
+    has indeed been "extremely supportive" of the appellant notwithstanding
+    the stress and anxiety that his offending and  mental  health  problems
+    must undoubtedly have caused her.  I say this in  the  context  of  the
+    fact that the couple's four children were born between August 2008  and
+    April 2016, a period in which the appellant was  accruing  convictions,
+    spending some time in prison, and is likely to have been suffering from
+    mental health problems as result of his substance misuse.
+
+23. I find that without the protective factors of R and his children, it is
+    highly likely that the appellant would,  as  the  documentary  evidence
+    suggests,  relapse  quickly  into  a  state   of   drugs   misuse   and
+    deteriorating mental health.  I find that R  is  fully  aware  of  this
+    possibility: it would be wholly artificial to conclude otherwise.
+
+24. I find that R is not currently  under  treatment  for  specific  mental
+    health conditions.  However, I found her to be a  generally  impressive
+    witness and I accept that she has been under treatment in the past  for
+    depression and anxiety.  The absence of treatment  now  does  not  mean
+    that an individual is not suffering from  relevant  symptoms,  or  that
+    their mental health would not deteriorate if  certain  trigger  factors
+    came to pass.  Here, I accept the combined evidence from R herself, the
+    Independent Social Worker, and the appellant's mother,  to  the  effect
+    that  she  (R)  had  significantly  struggled,  at   the   very   least
+    emotionally, when the appellant  was  last  in  prison,  and  that  the
+    current situation was placing a lot of stress on her.  In her words, it
+    was "driving me mad".  I find that the  appellant's  deportation  would
+    result in a very real deterioration in R's  mental;  wellbeing.  It  is
+    likely that she would need to seek treatment for her mental health.
+
+25.  I find that R is currently working as a full-time  Teaching  Assistant
+    in a primary school.
+
+26. I find that the children are healthy.
+
+27. The evidence  clearly  establishes  that  the  appellant  has  a  close
+    relationship with all of them.  The Independent Social Worker's report,
+    upon which I attach significant weight, suggests  that  the  two  older
+    children in particular enjoy a very good father/son bond, and that they
+    would not only miss him if he were to be deported, but would also worry
+    about his wellbeing.
+
+28. I find it to be more  likely  than  not  that  the  appellant  has  the
+    strongest connection with his eldest child, J.  The evidence shows that
+    in addition to the usual day-to-day interactions, football is a  source
+    of particular importance for them both, with the appellant taking J  to
+    football at weekends, as well as providing emotional support.
+
+29. Both the appellant and R have given evidence that J  has  struggled  as
+    result of the uncertainty surrounding  his  father's  position  in  the
+    United Kingdom. R has said that he is not  doing  well  at  school,  is
+    angry, and that trust has become a problem for him.  J has said that he
+    is afraid of the current situation.  She confirmed  that  he  has  been
+    aware of his father's status and these  deportation  proceedings  since
+    Year 6.  She described J as being difficult now and posed the  question
+    of what would happen to him if the appellant were deported.  The  clear
+    implication is that, in her view, things would get worse.  I accept her
+    evidence as being reliable.  In my view, she is  very  well  placed  to
+    speak about her own son's situation.
+
+30. In addition, what R has said fits in with  evidence  from  J's  primary
+    school in the form of two letters, dated  5  April  and  28  June  2019
+    (contained in the appellant's first bundle).  The former addresses  the
+    impact of the appellant's mental health problems and precarious  status
+    in this country on J and his younger brother, N.  The school was of the
+    view that the boys required  ongoing  support,  that  N  was  receiving
+    counselling funded by  the  school,  and  that  there  was  a  risk  of
+    exclusion in respect of them both.  The second letter focuses on J (who
+    was then in Year 6).  It records an escalation in his poor behaviour at
+    school, resulting in a Fixed Period Exclusion.  It  is  appropriate  to
+    quote directly from the letter:
+
+         "As a school, we  continue  to  believe  that  [J's]  behaviour  is
+         stemming from the trauma he  continues  to  experience  around  the
+         possibility of his father being deported.  [J]  has  understandably
+         developed a sense of injustice and has made comments such as,  "You
+         must have to be white to stay in  this  country."   Whilst  [J]  is
+         surrounded by a loving family and  supported  teachers  at  school,
+         this is faced with the reality of losing regular contact  with  his
+         father and growing up without a father figure.
+
+         ... Since my last letter, [J] is now receiving  weekly  counselling
+         sessions funded by the school, due to his stress and  anger  around
+         his family situation. [J] remains in a state of crisis and is  very
+         much  at  risk  of  permanent  exclusion,  which  is  exceptionally
+         worrying at a time when he is transitioning to secondary school."
+
+31. I find that these passages are an accurate reflection of J's  behaviour
+    and his perception of his situation at that time.
+
+32. J is now in Year 8.  It would have been of assistance to have a  letter
+    from his current school.  However, taking the evidence as  a  whole,  I
+    find that R's evidence is reliable in respect of how matters now stand.
+     I find that J continues to be "very  angry"  and  is  fearful  of  the
+    family's situation.  An example of this was a recent fight  at  school.
+    I accept that he is receiving support from his school, but not  through
+    external agencies such as CAMHS.
+
+33. I accept the evidence from the appellant's mother  that  when  he  (the
+    appellant) was last in prison, she visited the house regularly to  help
+    out.  She recalled, reliably in my view, that J was crying and  missing
+    his father at that time.  I take this evidence in the  context  of  R's
+    explanation that she had told J and N that their father had  gone  away
+    temporarily as a punishment for doing wrong things.
+
+34. On the basis of his mother's  reliable  evidence,  I  find  that  N  is
+    receiving 1:1 support in  Year  6  on  the  basis  of  his  behavioural
+    difficulties.  As with his older brother, there is no outside input  or
+    any diagnosed conditions.
+
+35. I turn to the issue of support from other family members in the  United
+    Kingdom.  I  find  that  the  appellant's  mother  did  provide  fairly
+    significant practical  support  in  the  past,  particularly  when  the
+    appellant was in prison.  There is clearly a good relationship  between
+    her and the family unit.  I accept that, as a  single  mother  herself,
+    she does not want to see R in the same position  that  she  experienced
+    when bringing up the appellant and his siblings.  I find that when  she
+    was providing the previous assistance, she was working  part-time,  but
+    is now working full-time and that her capacity  to  provide  a  similar
+    level of  practical  help  is  more  limited,  although  not  precluded
+    altogether.
+
+36. I find that the appellant does have a brother and a sister residing  in
+    this country.  Although there was a degree of inconsistency between the
+    evidence of the appellant and that of his mother, on balance  I  accept
+    that there is not a strong relationship with the brother  and  that  he
+    has not either provided or offered to provide practical  assistance  in
+    the past or now.  In respect of the appellant's sister, I find that she
+    is a single mother of two.  Whilst  I  accept  that  she  may  well  be
+    willing to provide some assistance, it is more  likely  than  not  that
+    this will, by virtue of her own circumstances, limited in scope.
+
+37. There is a discrepancy between the evidence of the appellant and  R  as
+    to the latter's relationship with her mother.  The appellant said  that
+    it was "good", whilst R said it was "turbulent".  I have found R to  be
+    a credible witness and, taking the evidence as a whole,  I  prefer  her
+    evidence on this particular point to that of the appellant.   I  accept
+    that the relationship has been difficult  over  the  years.   It  would
+    certainly be wrong to say that there was  no  current  relationship  at
+    all.  It is the case that there is a much better relationship between R
+    and her father.  I find that both  the  parents  work  on  a  full-time
+    basis.  I accept that they have helped out financially in the past  and
+    would seek to do so in the future if necessary.  I find that  R  has  a
+    sister who is married and has two children.  There is  no  evidence  to
+    indicate that she has ever been  in  a  position  to  provide  material
+    assistance.
+
+38. It is a fact that there has to  date  been  no  involvement  by  social
+    services with the family unit.
+
+Conclusions
+
+39. The factual matrix set out above now falls  to  be  placed  within  the
+    relevant legal framework.  The question is whether the  impact  of  the
+    appellant being taken out of lives  of  his  partner  and/or  the  four
+    children would be unduly harsh such as to violate his Article 8  rights
+    and therefore be unlawful under section 6 of the Human Rights Act 1998.
+     The focus is on this partner and these children.  The threshold to  be
+    met by the  appellant  is  undoubtedly  an  elevated  one,  this  begin
+    reflective of the very significant public interest in  the  deportation
+    of foreign criminals.
+
+40. I begin by stating my assessment of the children's best interests.   In
+    short, these lie overwhelmingly with a  continuation  of  the  children
+    within a loving family unit with both of their parents.  the  Appellant
+    plays an integral role in the lives of all four  children,  and  has  a
+    strong bond with the two older boys and J in particular.  The  evidence
+    from the appellant and R,  combined  with  that  from  the  Independent
+    Social Worker and the two older children's primary school points in one
+    direction only: all four children  would  face  a  significant  adverse
+    impact on their overall wellbeing if  their  father  was  removed  from
+    their lives.  In light of the undisputed  conclusion  that  the  family
+    unit cannot go and  live  in  Nigeria  together,  the  children's  best
+    interests could only be served by the appellant remaining in the United
+    Kingdom.
+
+41. My best interests assessment forms an integral part of the unduly harsh
+    evaluation, but it is not of course a determinative factor.
+
+42. As the eldest, it is perhaps unsurprising that J is the  child  who  is
+    most "in the picture" in respect of  his  father's  circumstances.   He
+    knows that his father has  suffered,  and  continues  to  suffer,  from
+    mental health problems.  He is  also  aware  that  his  father  may  be
+    deported.  Whether J is aware of the underlying  reasons  for  this  is
+    rather beside the point.  It is J's perception and reaction that is all-
+    important.  I have found that J has manifested problematic behaviour at
+    school, and it is  likely  that  this  is  connected  with  his  father
+    situation.  The way in which J deals with  his  emotions  and  displays
+    anger and aggression as a vent for  this  is  specific  to  him:  other
+    children may react quite differently to similar circumstances.   It  is
+    not contingent upon the existence of any diagnosed condition and it may
+    arise out of his strong bond with his father  (deriving,  for  example,
+    from the regular football events), or he may react in the same  way  if
+    there were no particular elements to that relationship.   Again,  I  am
+    concerned with an individualised evaluative assessment of  this  child,
+    and comparisons with others would be unhelpful and indeed artificial.
+
+43. It is the case that R, her parents, and the appellant's  mother,  would
+    wish to provide practical and emotional support to J  to  the  best  of
+    their abilities.  However,  I  have  found  that,  notwithstanding  the
+    support given by the appellant's mother last time  his  father  was  in
+    prison, J was very  upset  then  despite  the  separation  being  of  a
+    temporary nature.  If the appellant were now to be deported, J will  be
+    fully aware that the separation is highly likely to be very  long-term.
+    It is significant that J has stated to be worried about his father,  an
+    emotion which indicates not simply an appreciation of the mental health
+    problems and what might be in store in Nigeria, but  also  a  long-term
+    concern over and above the sadness of being separated.   The  prospects
+    of visits by the family to Nigeria are, I conclude, very  slim  indeed.
+    In any event, infrequent and relatively short visits would, in my view,
+    have very little ameliorative impact on J.  The  same  applies  to  the
+    argument that contact could be maintained on a meaningful basis through
+    "modern means of communication".
+
+44. On the practical side of things, it may be the case  that  J  could  be
+    taken to his football events and other activities by  R  or  relatives.
+    Yet on an emotional level, I conclude that it is  the  absence  of  the
+    appellant which constitutes the relevant  consideration  here.   In  my
+    assessment, substitutes are unlikely to mitigate the  way  in  which  J
+    will feel and react to his father's removal.
+
+45. Mr Whitwell submitted that, if necessary, social services could step in
+    and provide assistance to the family unit in the  appellant's  absence.
+    Unfortunately, I have not been provided with  any  evidence  about  the
+    duties of social services towards  families  in  need  of  support.   I
+    appreciate that it is for the appellant to make out his  case,  but  as
+    the respondent relying on this point, it would be  useful  for  her  to
+    make reference to relevant statutory  provisions  and/or  guidance.   I
+    have certainly not been referred to any sort of programme  or  guidance
+    in respect of assistance from social services to children whose  parent
+    has been deported.
+
+46. In the event, and as a general reference point, I have  had  regard  to
+    section 17 of the Children Act 1989.   Sub-section  (1)  provides  that
+    there is a general duty upon a local authority to safeguard and promote
+    the welfare of children within their area who are in need by  providing
+    relevant services appropriate to those children's  needs.   Sub-section
+    (10) provides that a child is in need if:
+
+         "(a) he is  unlikely  to  achieve  or  maintain,  or  to  have  the
+         opportunity of achieving or maintaining, a reasonable  standard  of
+         health or development without the provision for him of services  by
+         a local authority under this Part;
+
+         (b)  his health  or  development  is  likely  to  be  significantly
+         impaired, or further impaired, without the  provision  for  him  of
+         such services
+
+         ..."
+
+47. I appreciate that this is not a comprehensive view of all circumstances
+    in which social services may become involved with a particular  family.
+    However, it does lend solid support to Mr  Marziano's  submission  that
+    the intervention of social services may be an indication  that  matters
+    have already progressed to a very poor state of affairs, which in  turn
+    supports the argument that the impact on J would,  at  that  stage,  be
+    unduly harsh.  On the facts of this particular case, my  assessment  is
+    that the immediate significant emotional impact on J arising  from  the
+    appellant's deportation is unlikely  to  be  mitigated  by  generalised
+    social services input, even if that were put  in  place  prior  to  him
+    becoming a child in need.
+
+48. In summary, with the focus on J and not on what  might  be  "ordinarily
+    expected" in a separation scenario, my evaluative  assessment  is  that
+    there is indeed something "more" in this case (to  use  the  term  from
+    Imran, a decision which of course must be read in light of HA  (Iraq)),
+    to what the respondent acknowledges would  be  a  harsh  impact.   This
+    young boy is currently struggling with the prospect of a separation,  a
+    struggle which has manifested itself in anger and  physical  aggression
+    at school.  If separation were to materialise, I conclude  that  it  is
+    likely  that  J's   behaviour   and   wellbeing   would   significantly
+    deteriorate, and what has been manifested already is likely to get much
+    worse. His current fear for his father's prospects will be  exacerbated
+    and prolonged.  Evaluating matters  on  the  basis  of  his  particular
+    characteristics, the impact on J's  life  would  go  beyond  bleakness.
+    Forms of emotional and practical support  from  other  family  members,
+    whilst perhaps of some utility, not take off the sharp edges  of  that.
+    Ultimately, I conclude that the appellant's deportation would be unduly
+    harsh on J.
+
+49. I turn now to the position of R, which must be seen in the  context  of
+    her  experiences  during  the  course  of  her  relationship  with  the
+    appellant, together with her current and prospective circumstances.  It
+    is clear that she has persevered with her relationship through troubled
+    times brought about by the appellant's offending and mental health.   I
+    have found that she has become a protective factor  for  the  appellant
+    and she will be aware of this.  Conversely, the appellant has  remained
+    committed to their  relationship  and  been  a  good  father  to  their
+    children.  The prospect of losing him is highly  likely  to  cause  her
+    very significant distress.  She would lose her  partner  and  become  a
+    single mother of four overnight.
+
+50. She would, as has occurred in the past, be able to turn to other family
+    members for some support.  This would no doubt help.   However,  in  my
+    assessment, that would only go so far.
+
+51. On the particular facts of this case, four factors lead me to  conclude
+    that the impact on R would not simply be harsh, but would be unduly so.
+     First, that the relationship has, as I have indicated above,  involved
+    significant difficulties and, to use the phrase employed by Mr Marziano
+    in submissions, a degree of "co-dependency"  has  evolved.   Separation
+    would obviously rupture this.  Second, and following on from the  first
+    matter, it is highly likely that R will hold a  genuine  fear  for  the
+    appellant's health if he were deported to Nigeria, as reported  by  the
+    Independent Social Worker.  She is well aware  of  his  past  substance
+    misuse, his fragile mental health, and his HIV, and has  expressed  her
+    fear that there would be a risk to his life in that country.   As  with
+    J, this fear is  likely  to  be  an  ongoing  feature.   Third,  it  is
+    inevitable that she will be confronted by the distress of her  children
+    losing their father and it is likely that this will  in  turn  have  an
+    impact on her.  Over and above the general impact of this, R  will  see
+    the effects on J. For the reasons set out above, I have concluded  that
+    it would be unduly harsh on J of his father were  to  be  deported.  In
+    turn, this conclusion would have a very significant impact on R.   Even
+    if the elevated threshold were not met in respect of J,  his  suffering
+    would, when seen in combination with  the  first  and  second  factors,
+    nonetheless constitute an important factor when assessing the impact on
+    R. Fourth, R's ability to cope when the appellant was  last  in  prison
+    was not, on the evidence, robust and she did  receive  assistance  from
+    the appellant's mother.  That was in the context of what she  knew  was
+    only a temporary  separation.   Deportation  would  be  another  matter
+    altogether. I have found that she is likely to face a deterioration  in
+    her mental wellbeing, whether treatment would be required or not.
+
+52. As result of my conclusions on J and R,  the  exception  under  section
+    117C(5) is satisfied and the appellant succeeds in his appeal.
+
+Anonymity
+
+53. I maintain the anonymity direction given previously.  I do  so  on  the
+    basis not simply of the presence of minor children, but also  the  fact
+    that the Appellant suffers from health conditions including HIV.
+
+
+
+Notice of Decision
+
+54. The making of the decision of the First-tier Tribunal did  involve  the
+    making of an error on a point of  law.   That  decision  has  been  set
+    aside.
+
+55. I remake the decision by allowing the appeal.
+
+
+Signed: H Norton-Taylor    Date: 20 October 2020
+
+Upper Tribunal Judge Norton-Taylor
+
+
+
+TO THE RESPONDENT
+FEE AWARD
+
+As I have allowed the appeal and because a fee has been paid or is  payable,
+I have considered making a fee award and have decided to make a reduced  fee
+award of �40.00 on the basis that whilst the appellant has  succeeded,  much
+of my reasoning in this case has been based upon  evidence  post-dating  the
+respondent's refusal of the human rights claim.
+
+
+Signed: H Norton-Taylor    Date:  20 October 2020
+
+Upper Tribunal Judge Norton-Taylor
+
+
+APPENDIX: ERROR OF LAW
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: HU/11405/2019
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                          |Decision & Reasons Promulgated|
+|On 18 February 2020                           |                              |
+|Extempore                                     |..............................|
+|                                              |.........                     |
+
+
+                                   Before
+
+                     UPPER TRIBUNAL JUDGE NORTON-TAYLOR
+
+                                   Between
+
+                                     m a
+                         (ANONYMITY DIRECTION made)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+Direction Regarding Anonymity - Rule 14 of  the  Tribunal  Procedure  (Upper
+Tribunal) Rules 2008
+Unless and until a Tribunal or court directs otherwise, the Appellant is
+granted anonymity.  No report of these proceedings shall directly or
+indirectly identify him or any member of their family.  This direction
+applies both to the Appellant and to the Respondent.  Failure to comply
+with this direction could lead to contempt of court proceedings.
+
+
+Representation:
+For the Appellant:     Mr M Marziano, Counsel, instructed by Westkin
+Associates
+For the Respondent:    Mr C Avery, Senior Home Office Presenting Officer
+
+
+                            DECISION AND REASONS
+
+Introduction
+
+ 1. The Appellant appeals against the decision of First-tier Tribunal Judge
+    Graves ("the judge"), promulgated on 24 September 2019,  by  which  she
+    dismissed the Appellant's appeal against the Respondent's  decision  of
+    13 June 2019, refusing his human rights claim, a claim that was made in
+    the context of  deportation  proceedings  based  upon  the  Appellant's
+    significant criminal history.
+
+ 2. Importantly for the purposes of the present appeal, the  Appellant  had
+    had a previous appeal before the First-tier Tribunal  in  2018.   By  a
+    decision  promulgated  on  22  June  2018,  First-tier  Tribunal  Judge
+    Nightingale dismissed the Appellant's appeal against a previous refusal
+    of a human rights claim by the Respondent.  Again, this claim had  been
+    made  in  the  context  of  deportation  action.    Judge   Nightingale
+    considered  the  Appellant's  case  in  the  context  of  the  relevant
+    statutory framework including in  particular  section  117C(5)  of  the
+    Nationality, Immigration and Asylum Act 2002,  as  amended  ("the  2002
+    Act").  She found that the Appellant was in a  genuine  and  subsisting
+    relationship with  a  partner  and  with  four  children  (although  my
+    understanding is that the Appellant has six children in total,  two  of
+    whom are not relevant for present purposes and were not relevant in the
+    case before Judge Nightingale) and that  it  would  have  been  "unduly
+    harsh" for the children to go and  live  in  Nigeria.   In  considering
+    section 117C(5) of the 2002 Act, the judge was applying the law  as  it
+    was then understood to be, prior to the judgment of the  Supreme  Court
+    in KO (Nigeria) [2018] UKSC 53; [2018] 1 WLR 5273  (a  judgment  handed
+    down on 24 October 2018).
+
+ 3. Thus, when Judge Nightingale concluded that it  would  not  be  "unduly
+    harsh" for the Appellant to be separated from his partner, and  perhaps
+    more importantly the relevant children, she was doing so on  the  basis
+    that his criminal conduct  was  part  and  parcel  of  that  assessment
+    following the judgment of the Court of Appeal  in  MM  (Uganda)  [2016]
+    EWCA Civ 617.  This much is clear enough in light of  paragraph  58  of
+    the judge's decision which I now quote in full:
+
+         "In view of this Appellant's history,  the  type  of  offending  in
+         which he has engaged,  his  continued  offending  and  the  risk  I
+         consider he presents of further offending in  the  future,  I  find
+         that it would not be unduly harsh for his children to remain in the
+         United   Kingdom   following   his    deportation    to    Nigeria.
+         Notwithstanding the effect of that deportation upon his children, I
+         find that weight to be given to the Respondent's lawful aim here is
+         such that the exception found in the Immigration Rules and also, at
+         Section 117C does not apply."
+
+    Judge Nightingale's decision was the  subject  of  an  application  for
+    permission to appeal.
+
+ 4. By a decision dated 3 December 2018, Deputy Upper Tribunal Judge Jordan
+    refused permission.  In paragraph 2 of that decision he stated:
+
+         "The crucial issue is whether it was unduly harsh upon the children
+         to require  the  Appellant's  removal.   There  was  little  or  no
+         evidence to suggest it was unduly harsh.  Paragraphs 55  to  58  of
+         the determination set out clear reasons for the judge's  decision."
+
+
+
+ 5. It is in my judgment clear enough from Judge Jordan's decision that his
+    view of the  merits  of  the  purported  challenge  was  assessed  with
+    reference to the material part of Judge Nightingale's decision which  I
+    have referred to above.   It  is  also  apparent  from  Judge  Jordan's
+    decision that the  advent  of  the  judgment  in  KO  (Nigeria),  which
+    predated his decision by two months, or so was not raised at any  stage
+    and was not considered by him as what is  commonly  referred  to  as  a
+    "Robinson obvious" point.
+
+The decision of the First-tier Tribunal
+
+ 6. When Judge Graves came to consider the  Appellant's  subsequent  appeal
+    (which had arisen following  the  Respondent's  acceptance  of  further
+    representations as a fresh claim under paragraph 353 of the Immigration
+    Rules), she clearly placed significant reliance upon  the  decision  of
+    Judge Nightingale (see paragraphs 41 through  to  48).   Of  particular
+    significance is what is said in paragraph 48:
+
+         "The Appellant says there is  good  reason  to  depart  from  Judge
+         Nightingale's assessment of whether it would be  unduly  harsh  for
+         the children to be expected to remain here, once  he  is  deported.
+         He relies on letters from the children's school, which  raise  very
+         real concerns about the impact on the two older boys, knowing their
+         father is to be returned to Nigeria.  It was previously found  that
+         it would usually be in the best interests of  the  children  to  be
+         raised with both parents, but this finding was  outweighed  by  the
+         serious and persistent nature of the Appellant's  offending.   That
+         finding was specifically upheld by the Upper Tribunal."
+
+ 7. In the following paragraph the judge goes on  to  comment  on  evidence
+    from the children's school and raises a concern that  that  institution
+    appeared to be unaware of certain aspects of the Appellant's behaviour.
+     The judge was of the view that if the school had been apprised of this
+    a different view might have been taken as to the possible impact of his
+    deportation on the children.
+
+ 8. In the following paragraph the judge assesses  the  Appellant's  health
+    conditions and essentially concludes that these did not represent "very
+    compelling circumstances over and above" those described in  either  of
+    the two exceptions set out in the 2002 Act or the relevant Rules.
+
+The grounds of appeal and grant of permission
+
+ 9. The succinct grounds of appeal assert that the judge erred  in  placing
+    significant reliance upon the decision of Judge Nightingale, a decision
+    that was in a material respect flawed in light of KO (Nigeria).  It  is
+    said that this error infected Judge Graves' assessment of  the  "unduly
+    harsh" issue.
+
+10. Permission to appeal was granted by Upper Tribunal Judge Sheridan on  8
+    January 2020.
+
+The hearing
+
+11. At the hearing before me Mr Marziano relied upon the  grounds  and  his
+    helpful skeleton argument.  He submitted that  the  judge's  error  was
+    material because she had made no  separate  assessment  of  either  the
+    children's best interests or the "unduly  harsh"  test  that  could  be
+    properly removed from the reliance upon Judge  Nightingale's  decision.
+    He acknowledged that there was no challenge to the  judge's  conclusion
+    on very compelling circumstances.
+
+12. Mr Avery acknowledged that there was an error by the judge  as  regards
+    the "unduly harsh" test, but submitted that this was immaterial on  the
+    basis that there simply had not been sufficient  evidence  provided  to
+    show that the relevant threshold could possibly have been met.
+
+Decision on error of law
+
+13. I conclude that the judge has erred  in  law  and  that  the  error  is
+    material.
+
+14. It is clear that Judge Graves placed  considerable  reliance  upon  the
+    decision of Judge Nightingale, including her conclusions on the "unduly
+    harsh" issue.  As has been discussed  previously,  Judge  Nightingale's
+    assessment on that question  was  flawed  in  light  of  KO  (Nigeria).
+    Following  the  Supreme  Court's  judgment,  the  Appellant's  criminal
+    conduct was not relevant to the question of whether it would be "unduly
+    harsh" for the children to be separated from him.
+
+15. Judge Graves' reference to Judge Nightingale's decision being upheld by
+    the Upper Tribunal, whilst factually correct, does not cure the  error.
+    Judge Jordan was, for whatever reason, not apprised of the KO (Nigeria)
+    point at the time at which he refused permission in December 2018.   It
+    cannot properly be said that he was specifically concluding that  Judge
+    Nightingale had erred but that error was not arguably material in light
+    of the evidence.
+
+16. Judge Graves' error in relying on what Judge Nightingale had previously
+    said is material for the following reasons.  First,  I  agree  with  Mr
+    Marziano's submission that she has  not  undertaken  a  best  interests
+    assessment or indeed an assessment of the "unduly harsh" test which can
+    properly be said to be separable from the flawed  reliance  upon  Judge
+    Nightingale's assessment.  Second, as I read paragraph 49, there are no
+    actual findings of fact (as opposed to concerns about particular  items
+    of evidence) and therefore it cannot be said that on the  face  of  the
+    decision, and but for the  flawed  reliance  upon  Judge  Nightingale's
+    decision, the conclusion on the "unduly harsh" test was inevitable.
+
+17. In light of the above the judge's decision must be set aside.
+
+Disposal
+
+18. This appeal shall be retained in  the  Upper  Tribunal  for  a  resumed
+    hearing to take  place  in  due  course.  The  following  findings  are
+    preserved as a starting point for the remaking decision in this appeal:
+
+      i. The Appellant has a genuine and subsisting  relationship  with  his
+         partner and a genuine and subsisting parental relationship with the
+         four relevant children;
+
+     ii. The Appellant's partner and the four children are all  "qualifying"
+         for the purposes of sub-sections 117C(5) and (6) of the 2002 Act;
+
+    iii. It would be "unduly harsh" for the four children to go and live  in
+         Nigeria;
+
+     iv. The Appellant cannot rely  on  the  private  life  exception  under
+         section 117C(4) of the 2002 Act;
+
+      v. The Appellant cannot show "very compelling circumstances  over  and
+         above" those described in the two exceptions.
+
+
+
+Notice of Decision
+
+The making of the decision  of  the  First-tier  Tribunal  did  involve  the
+making of an error on a point of law.
+
+The decision of the First-tier Tribunal is set aside.
+
+The appeal is adjourned and shall be listed for a  resumed  hearing  in  the
+Upper Tribunal
+
+
+
+Directions to the parties
+
+      1) Any further evidence relied upon by either party shall be filed and
+         served no later than 14 days before the resumed hearing;
+
+      2) Oral evidence from the Appellant and his partner will be  permitted
+         at the resumed hearing but only if updated witness  statements  are
+         provided in accordance with direction 1;
+
+      3) Both parties are to file and serve skeleton arguments no later than
+         five days before the resumed hearing.
+
+
+Signed   [pic]    Date: 24 February 2020
+Upper Tribunal Judge Norton-Taylor
+

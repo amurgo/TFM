@@ -1,0 +1,2850 @@
+
+[pic]
+
+
+Upper Tribunal
+(Immigration and Asylum Chamber)
+
+  MT (Article 1F (a) - aiding and abetting) Zimbabwe [2012] UKUT 00015(IAC)
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House                 |Determination Promulgated   |
+|On 11 October 2011                   |                            |
+|                                     |............................|
+|                                     |...........                 |
+
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE STOREY
+                        UPER TRIBUNAL JUDGE P R LANE
+                                   Between
+
+                                     MT
+
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                                  Respondent
+
+
+   In the context of exclusion under  Article  1F(a)  of  the  1951  Refugee
+   Convention (Article 12(2)(a) of  2004/83/EC  (the  Refugee  Qualification
+   Directive)):
+
+
+        i)  The requirement set out at Article 7(1)  of  the  International
+           Criminal Court Statute (ICC Statute) that acts be  "...committed
+           as part of a widespread or systematic  attack  directed  against
+           any civilian population  with  knowledge  of  the  attack"  (the
+           "chapeau requirement") is an essential element in the definition
+           of a crime against humanity.
+
+
+      ii)    In principle the question of whether acts are '...committed  as
+           part of a widespread or systematic attacks directed against  any
+           civilian population' is a matter that could  be  dealt  with  in
+           future country guidance cases; although the question of  whether
+           there exist acts with such a nexus must ultimately be decided on
+           a case-by-case basis.
+
+      iii)   Commission of a crime against humanity or other excludable  act
+           can take the form of commission as an aider and  abettor,  as  a
+           subsidiary (or non-principal) form of participation. Drawing  on
+           international criminal law jurisprudence (as enjoined by R  (JS)
+           (Sri Lanka) v SSHD [2010] UKSC 15), aiding and abetting in  this
+           context encompasses any assistance, physical  or  psychological,
+           that has a substantial effect on the commission  of  the  crime,
+           i.e. the contribution should  facilitate  the  commission  of  a
+           crime in some significant way.
+
+      iv)   The fact that the Article 7(1)(a)-(g)list  of  acts  capable  of
+           being crimes against humanity does not include the "cover-up" of
+           murders, whilst a surprising lacuna, should  not  be  filled  by
+           judicial interpretation.
+
+
+      v)     Duress is a defence to  international  criminal  responsibility
+           (see Article 31(1)(d) of the ICC  Statute).  Again,  drawing  on
+           international criminal law jurisprudence,   such  a  defence  is
+           confined to situations where the defendant's freedom of will and
+           decision is so severely limited  that  there  is  eventually  no
+           moral  choice  of  counter  activity  available.  It  has   four
+           components: the threat must be of imminent death  or  continuing
+           or imminent serious bodily  harm;  the  threat  must  result  in
+           duress causing the crime; a threat results in duress only if  it
+           is  otherwise  avoidable  (i.e.  if  a  reasonable   person   in
+           comparable circumstances would have  submitted  and  would  have
+           been driven to the  relevant  criminal  conduct);  and  the  act
+           directed at avoiding the threat must be necessary in terms of no
+           other means being available  and  reasonable  for  reaching  the
+           desired effect.
+
+Representation:
+
+For the Appellant:     Mr M Symes, Counsel, instructed by Birnberg Peirce &
+Partners
+For the Respondent:    Mr S Ouseley, Home Office Presenting Officer
+
+
+
+
+                          DETERMINATION AND REASONS
+
+
+1. The appellant is a national of Zimbabwe.  She arrived in  the  UK  on  13
+August 2007 and claimed asylum on 25 March 2009. The basis of her claim  was
+that in Zimbabwe she  had  been  a  police  officer  stationed  at  Bulawayo
+between 2000 - 2007. In 2007 she found  herself   under  pressure  from  her
+superiors to participate in various  acts  against  political  opponents  of
+ZANU  PF,  including  attendance  at  MDC  rallies  where  police  beat  MDC
+supporters with batons, two incidents  in  which  torture  was  used  (  the
+"Stephen  Mhlanga  incident"  in  February  2007  and  the  "Gibson  Sibanda
+incident" in April 2007) and in March 2007 she had also been ordered  to  go
+to a village near Plumtree, where  30  people  had  been  killed  the  night
+before by ZANU PF supporters, and bury the bodies  in  shallow  graves  (the
+"Plumtree incident"). Despite the risks she had been able in  mid-July  2007
+to desert and travel to Sudan, returning for a brief period  in  the  second
+half of September in order to try, unsuccessfully, to  get  a  passport  for
+her daughter. She had then travelled, via South Africa, to the UK.
+
+2. On 18 January 2010 the respondent decided to remove  her  as  an  illegal
+entrant  having  refused  to  grant  her  asylum.   At  the  same  time  the
+respondent certified her claim under s.55 of  the  Immigration,  Asylum  and
+Nationality Act 2006 because it was considered that Article  1F(a)  and  (c)
+of the Refugee Convention operated so as to exclude her from the  protection
+of  the  Refugee  Convention  because  there  were   serious   reasons   for
+considering she had committed crimes against humanity.  Article  1F  of  the
+Refugee Convention is as follows:
+
+    "The provisions of this Convention shall not apply to any  person  with
+    respect to whom there are serious reasons for considering that:
+
+
+       (a)  He has committed a crime against peace, a war crime, or a crime
+             against humanity, as defined in the  international  instruments
+             drawn up to make provision in respect of such crimes;
+       (b)  He has committed a  serious  non-political  crime  outside  the
+             country of refuge prior to his admission to that country  as  a
+             refugee;
+       (c)  He has been  guilty  of  acts  contrary  to  the  purposes  and
+             principles of the United Nations."
+
+
+3. In R(JS) (Sri Lanka) v SSHD [2010] UKSC 15  Lord  Brown  said  that  when
+considering whether an applicant is disqualified from asylum  by  virtue  of
+Article 1F(a)  the  starting  point  should  be  the  Rome  Statute  of  the
+International Criminal Court  ("the  ICC  Statute").  Article  7(1)  of  the
+Statute defines crimes against humanity as follows:
+
+
+    "1.    For the purpose of this Statute 'crime against  humanity'  means
+         any of the following acts when committed as part of a widespread or
+         systematic attack directed against any  civilian  population,  with
+         knowledge of the attack:
+
+         (a)      Murder;
+         (b)      Extermination;
+         (c)      Enslavement;
+         (d)      Deportation or forcible transfer of population;
+         (e)      Imprisonment  or  other  severe  deprivation  of  physical
+             liberty in violation of  fundamental  rules  of  international
+             law;
+         (f)      Torture
+         (g)       Rape,  sexual  slavery,  enforced  prostitution,   forced
+             pregnancy, enforced sterilization, or any other form of sexual
+             violence of comparable gravity;
+         (h)      Persecution against any identifiable group or collectivity
+             on political, racial, national, ethnic,  cultural,  religious,
+             gender as defined in paragraph 3, on other  grounds  that  are
+             universally recognized as  impermissible  under  international
+             law, in connection with any act referred to in this  paragraph
+             or any crime within the jurisdiction of the Court;
+         (i)      Enforced disappearance of persons;
+         (j)      The crime of apartheid;
+         (k)      Other inhumane acts of a similar  character  intentionally
+             causing great suffering, or  serious  injury  to  body  or  to
+             mental or physical health."
+
+The first sentence of Art 7(1) comprises what  is  known  as  the  "chapeau"
+requirement. ("Chapeau", we would observe, is used in this context  to  mean
+"hat"/"covering" or text that prefaces particular provisions.)
+
+4. The respondent also considered that her claim to  be  a  police  deserter
+was not credible and that  she  would  face  risk  of  being  persecuted  on
+return. Her appeal  against  this  decision  was  heard  by  the  First-tier
+Tribunal (FTT) (Judge Pirotta) who in a determination notified  on  7  April
+2010  upheld  the  certificate  and  dismissed  the  appeal.  Judge  Pirotta
+considered that the respondent had shown that the  appellant  had  committed
+crimes against humanity and so fell to be excluded under  Article  1F(a)  of
+the Refugee Convention and that in any event she had  not  established  that
+she was a police deserter or that the Zimbabwe authorities  would  view  her
+adversely. The appellant was successful in obtaining a grant  of  permission
+to appeal to the Upper Tribunal.  In a response  dated  30  March  2011  the
+respondent said she agreed with the contention  in  the  grounds  of  appeal
+that the FTT judge had materially erred in law by failing  to  consider  the
+issue of whether the appellant was entitled to  rely  upon  the  defence  of
+duress in respect of the s.55(1)(a) certificate.  In a decision made  on  19
+April 2011, the Upper Tribunal (UTJ Storey) decided that the FIT had made  a
+material error of law as just described and set  aside  its  decision.   The
+appeal now comes before this panel for us to re-make  the  decision.   In  a
+case in which a certificate has been made in relation to an  asylum  appeal,
+as here, the Upper Tribunal "must begin  substantive  deliberations  on  the
+asylum appeal by considering the statements  in  the  Secretary  of  State's
+certificate" and, if in agreement with the  certificate,  must  dismiss  the
+asylum dimensions of  the  appeal  without  considering  any  of  its  other
+aspects (s.12(2)(b) of the  Tribunals,  Courts  and  Enforcement  Act  2007;
+s.55(5A) and s.55(4) of the 2006 Act).
+
+5. In the decision finding a material error of law there was a clear  ruling
+as to the material scope of the appellant's appeal.  It was noted  that  the
+respondent had not sought to dispute before the FTT  judge  the  appellant's
+evidence that she was a member of the police force in Zimbabwe between  2000
+and September 2007 and that accordingly the present  hearing  would  proceed
+to treat this much of her evidence as established.
+
+6. Before proceeding further we should record our  thanks  to  both  parties
+for  their  assiduous  preparation  and  helpful  skeleton   arguments   and
+submissions.  With the agreement of both parties we made an anonymity  order
+pursuant to rule 14 of the Tribunal Procedure (Upper  Tribunal)  Rules  2008
+whose contents included an order that all references  to  certain  specified
+witnesses should be anonymised.
+
+7. At the hearing we heard from a witness, W1, and from  the  appellant.  W1
+is a person whom the Tribunal has accepted previously as an  expert  witness
+on country conditions in Zimbabwe.   It  is  convenient  if  we  set  out  a
+summary of W1's evidence when dealing with the expert evidence below.
+
+The appellant
+
+8. In her evidence to us the appellant  confirmed  that  her  ethnicity  was
+Shona and her religion was Christian  (Roman  Catholic).   She  had  been  a
+police officer in Bulawayo in the duty uniform branch.  She  had  not  voted
+in any elections before joining the police, and police in Zimbabwe were  not
+allowed to vote (she added later that no one in her family was  involved  in
+politics).
+
+9. In cross-examination the appellant was asked why, if she was  now  saying
+she was just a uniformed  duty  officer,  she  had  said  in  her  screening
+interview that she was a police  detective  and  submitted  a  January  2007
+payslip describing her as being in criminal investigations.   She  said  she
+had only been assigned to criminal investigations for  three  months,  being
+trained during that time in fingerprint techniques and scene  of  the  crime
+work.  (Later she added that during this time she had also  attended  courts
+to present the police cases).  She said she had joined  the  police  because
+she had been inspired by their crime-prevention role.  Until  2007  she  had
+not come to understand that the police  force  had  a  record  of  brutality
+against political opponents and others.  She  had  not  seen  anything  else
+herself to suggest that this was the case before then, except when  it  came
+to the Riot Squad.
+
+10. Asked if she was not aware that the police  had  used  violence  in  the
+2002 elections, she said she knew about that to some extent but she and  her
+colleagues always believed the  MDC  were  making  up  claims  about  police
+brutality.  She and  her  colleagues  did  not  discuss  political  matters.
+Asked if she had ever witnessed ZANU-PF youth militia  being  "attached"  to
+her police station, she said she had not although  she  had  seen  the  Riot
+Squad being involved in dealing with riots and demonstrations.  Her work  in
+the charge office meant she saw persons when they were  brought  in  to  the
+police station for questioning and also afterwards when, and if,  they  were
+charged/released.  She had seen MDC  activists  brought  in  to  the  police
+station and being arrested and charged for public order  offences,  but  she
+had never seen any of them  being  ill-treated.   The  questioning  of  such
+people was done by the CID.  If someone who had been in  a  cell  complained
+that they had been beaten, she and her colleagues told them  to  fill  in  a
+form and raise the matter in court.  In her time as a police  officer,  only
+one or two people had done that.  In the course of a year probably  no  more
+than 4% of suspects had injuries when brought into custody.   Such  injuries
+could be for pub fights and the like.  She had never  seen  someone  injured
+after having been put in the cells.  She described her police station  as  a
+ground floor building having 8 rooms comprising  a  main  office,  a  charge
+office, an administration office, a CID room, a briefing room and a  general
+kitchen.  At the back there were four cells.  She estimated that on  average
+her station dealt with three detainees a day, 60-80 per month.
+
+11.  Asked  if  she  had  heard  about  police  officers  being  sacked   or
+disciplined for political reasons  in  2005-2006,  she  said  this  had  not
+happened in her station but she had heard about it in 2006 over  the  police
+radio and through  police  circulars.   She  was  also  aware  of  a  Police
+Commissioner's  Directive  giving  instructions  about   the   transfer   of
+political suspects.  She did not think that to be a police officer  she  had
+to support ZANU-PF; she had been neutral; she did  not  support  any  party.
+She had heard however that a police commissioner had said all police  should
+be ZANU-PF.
+
+12. Asked if she had ever arrested  any  ZANU-PF  supporters  she  said  she
+never had.  When she first  became  aware  of  police  mistreatment  of  MDC
+supporters in February 2007 she never thought  to  question  her  orders  as
+this would have caused her superiors to think she supported  the  MDC.   She
+did not know the political affiliation of  her  immediate  superior.   There
+had only  been  two  occasions  when  she  had  been  asked  to  arrest  MDC
+supporters.  On a third occasion she had feigned  illness.   She  was  never
+suspended.
+
+The Stephen Mhlanga incident, February 2007
+
+13. The appellant then  described  the  first  incident  in  which  she  was
+involved  in  such  an  arrest,  in  mid-February  2007,  involving  Stephen
+Mhlanga.  She was with five other police who raided his house, arrested  him
+and, en route back to the police station, took him to  a  bushy  area  by  a
+river,  where  he  was  questioned  for  about  two  hours  about  his   MDC
+connections.  She was the most junior officer there and her  role  was  just
+taking notes.  Some of the  officers  there  were  verbally  aggressive  and
+poked him and threatened to throw him in the river.   He  was  very  scared.
+He gave them the information they wanted.  After they had taken him  to  the
+police station he was put in the cells. She did not inquire if they had ill-
+treated him there, although she knew he was released the next day.  She  did
+not protest to her superiors about his  ill-treatment  as  they  would,  she
+said, have labelled her as an MDC sympathiser.
+
+The Gibson Sibanda incident April 2007
+
+14. The next MDC arrest incident in which she was involved was  at  the  end
+of April 2007, involving Gibson  Sibanda.   She  was  one  of  seven  police
+officers present on a raid on his house.  Others had hit  him  with  batons,
+but she had only slapped him.  She did not think  he  had  been  offered  or
+received any medical treatment for his injuries.  After  the  interrogation,
+conduct of his case was left to the detectives.  She saw him the  next  day.
+She did not notice any new injuries.
+
+15. She said that in 2007 she had  been  involved  in  policing  eleven  MDC
+rallies/demonstrations.  She and her  colleagues  had  been  deployed  as  a
+second  line  behind  the  Riot  Squad,  helping  chase  and  disperse   the
+demonstrators.  Excessive  force  had  only  been  used  on  some  of  these
+occasions.  The Riot Squad used tear gas and  batons;  they  needed  to  use
+force against the MDC mob.  She did not participate in any beatings-up;  she
+used her baton just as a form of prodding to encourage people  to  disperse.
+Very few ZANU-PF supporters turned up or became confrontational towards  the
+police.
+
+The Plumtree incident, March 2007
+
+16. The appellant was asked about the Plumtree incident which she  said  had
+happened in March 2007 (i.e. after the Stephen Mhlanga incident  but  before
+the Gibson Sibanda incident).  ZANU-PF supporters  had  gone  to  a  village
+near Plumtree in the evening and set fire to houses of MDC supporters.  Some
+30 were killed, including children.  When she got  there  it  was  the  next
+morning and the village was deserted.  No one knew  where  the  perpetrators
+had gone.  The CID officers present told her and others to bury  the  bodies
+in shallow graves.  She was traumatised and shocked.  She did  not  try  and
+quit the police straight afterwards because she was scared.
+
+17. The appellant was then asked why, having travelled to Sudan on  13  July
+2007, she had returned to Zimbabwe on 16 September.  Her  main  reason,  she
+said was to try and get a passport for her daughter, and  also  to  see  her
+mother.  She knew she was taking a risk but from what  she  had  heard  from
+police colleagues that she had met by chance in Sudan, she  counted  on  her
+employers not yet realising she had in fact deserted.  She had not told  her
+employers she was going to leave.  She travelled on  a  passport  issued  in
+Zimbabwe.
+
+18. Asked why, after arrival in the UK  in October  2007  (and  even  before
+she had claimed asylum on 25 March  2009)  she  had  gone  to  the  Zimbabwe
+Embassy in London to renew her passport, she said she had  done  so  because
+that was the only way of getting ID.  She believed it  was  safe  to  do  so
+because she was in the UK. She was also asked why she had not gone  to  UKBA
+to claim asylum earlier.  Initially she did not reply but went on to say  it
+was because she thought her visa was still valid.  She agreed she  had  lied
+to the supermarket company, Asda, when she had applied for a job  from  them
+as in fact she knew her passport was not (as she had told  Asda),  with  the
+Home Office.  She had not claimed asylum until she had been  arrested  while
+working.  She had been told in Zimbabwe not to claim asylum as the CIO  back
+in Zimbabwe would learn about that.
+
+19. In reply to questions from the panel the appellant said that during  the
+arrest of Gibson Sibanda she was one of two present who had not been  issued
+with a baton.  It was in 2007 when  she  had  first  seen  circulars  giving
+details of officers alleged to be MDC supporters.  Even before  seeing  them
+she knew that it would be  risky  for  any  police  officer  to  question  a
+beating-up of a suspect by the police.  Further, "a bell"  had  started  "to
+ring" with  her  about  the  true  nature  of  police  mistreatment  of  MDC
+supporters in early 2007 when she began  feigning  illness.   Once  she  had
+used the sickness excuse one or two times, she thought she  should  not  use
+it again.
+
+20. Asked further about the Plumtree incident in March 2007  she  said  that
+the police had tried to  carry  out  an  investigation  into  who  had  been
+responsible for the killings. Her clear information when she went there  was
+that it was ZANU-PF supporters who were responsible.   She  and  others  had
+been  told  to  go  there  to  investigate  but  they  were  not  given  the
+opportunity (she asked about taking photos, but was told there was not  much
+point).  She agreed that burying bodies was a way  of  assisting  a  "cover-
+up".  She knew she was "covering up" serious crimes.
+
+21. She said that when she had left for Sudan in  July  2007,  she  believed
+the ban on police resignations was still in place.
+
+22. We heard oral submissions from the parties which  are  summarised  below
+at  paras 58-73. At the end of the hearing we directed that the parties  had
+permission to submit further case  law  and  submissions  dealing  with  the
+possible crimes against humanity dimension of the appellant's  role  in  the
+Plumtree incident in March 2007. We duly received further  submissions  from
+both parties.
+
+Background Evidence
+
+23. It is not intended that we summarise each and every item  of  background
+material; these are listed in Appendix C. It will  assist,  however,  if  we
+summarise key parts of this  evidence  relating  to  police  activities  and
+conduct in Zimbabwe in general and in Bulawayo in particular. These  furnish
+a useful prologue to our summary of the expert evidence, which follow  them.
+
+
+The Republic of Zimbabwe Police (ZRP)
+24. In its  November  2005  report  the  Zimbabwe  Human  Rights  NGO  Forum
+described the police as being divided into  specialised  units,  namely  the
+Duty Uniform Branch (DUB), the Police Protection  Unit  (PPU);  the  Support
+Unit (a paramilitary branch), Criminal Investigation Department  (CID),  the
+Staff Branch and the Technicians Branch.  It describes the police  force  as
+dominated by a "culture of impunity". The  March  2003  report  by  Zimbabwe
+Human Rights NGO Forum on Torture by State Agents in  Zimbabwe,  June  2001-
+April 2002  noted  that  in  2002  the  percentage  of  police  perpetrators
+identified by victims  was  12%  (ZANU-PF  supporters  accounted  for  46%).
+Numerous reports highlight the  fact  that  during  Operation  Murambatsvina
+(Restore Order or Clean up  Filth)  in  May  2005,  which  according  to  UN
+estimates left 700,000 people without homes  or  livelihoods,  most  of  the
+widespread demolition of urban markets and homes had  been  carried  out  by
+the police, with help from the army and National Youth  Service.  The  Human
+Rights Watch report of May 2007 ("Bashing dissent") stated that  the  police
+routinely used unnecessary force to disrupt peaceful  protests  and  subject
+activists to severe beating and other mistreatment in police  custody.   The
+culture of impunity within  the  police  is  also  the  main  theme  of  the
+September 2009  Amnesty  International  document:  "Zimbabwe:  the  toll  of
+impunity".
+
+Bulawayo
+
+25. According to the US State Department Report for 2002, in  November  2001
+hundreds  of  war  veterans  and  ZANU-PF  supporters   attacked   shoppers,
+schoolchildren and other persons in  Bulawayo,  causing  numerous  injuries.
+No arrests were made.  A Human Rights Watch  Report  for  2009  ("Video  and
+Shadow") notes that  in  2002  the  presence  of  youth  militia  increased,
+particularly  in  Harare  and  Bulawayo.  A   "Zimbabwe:   Post-Presidential
+Election Report" of May  2002  by  Physicians  for  Human  Rights,  Denmark,
+documents an incident that year in Bulawayo  in  which  youth  militia  beat
+nine people.  Initially uniformed police from the Support  Unit  watched  on
+and did not intervene although they did later move in to rescue the nine.
+
+26. Physicians for Human Rights Denmark in a 17 April 2003  report  entitled
+"Peaceful Protest and Police Torture in the city of Bulawayo 24  February  -
+25 March 2003" chronicle the detention of civilians at Queen's  Club  Sports
+Ground during the above dates when Zimbabwe played  overseas  teams  in  the
+World Cup cricket competition. It is stated that "the  current  authors  are
+aware of 15 detainees in relation to the first  match  in  Bulawayo,  of  42
+detainees in relation to the second and of 23 detainees in relation  to  the
+third. All those detained have reported torture or  serious  ill-treatment".
+The report went on to note that all the  interviewees  reported  that  their
+abuse took place at least in part at Bulawayo Central Police  Station.   The
+interrogators were said to be from the Law and Order section of  the  police
+and those inflicting beatings being the CID.
+
+27. A US State Department Report February 2005 says that at  this  match  80
+persons were arrested.  This report also describes four women's  account  of
+ill-treatment by police at Central Police Station, Bulawayo on 8 March  2003
+following 21  arrests  at  an  international  women's  rally  demonstration.
+There  were  similar  reports  of  police  ill-treatment  at  several  other
+stations  in  Bulawayo,  including  the  Nkulumare  Police   Station   which
+concerned the detention of seven civilians  on  18-19  February  2003.  This
+report also notes that, in order to  put  pressure  on  the  church  not  to
+criticise Mugabe, the government had charged the Catholic diocese  of  Hwnge
+and the Catholic Mater Dei  Hospital  in  Bulawayo  for  allegedly  handling
+foreign exchange illegally.
+
+28. The 2006 Freedom House Report noted that Operation  Murambatsvira  began
+on 19 May 2005 in  Harare  and  soon  spread  to  almost  every  urban  area
+including Killney and Ngozi Mine (both suburbs of Bulawayo).   The  Zimbabwe
+Human Rights NGO Forum  Political  Violence  Report  2005  records  that  in
+September 2005 thirteen members of  Women  of  Zimbabwe  Arise  (WOZA)  were
+arrested at a demonstration and spent the night in the cells.
+
+29. The US State Department report of February 2007 records that on  16  May
+2006 in Bulawayo three church  leaders  from  the  Christian  Alliance  were
+briefly held accused of planning nationwide demonstrations in  commemoration
+of the first anniversary of Operation Murambatsvina.  On 29  November  2006,
+also in Bulawayo,  57  WOZA  demonstrators  were  arrested  for  holding  an
+illegal demonstration and it was reported  some  were  assaulted  whilst  in
+detention.
+
+30. The Zimbabwean Human Rights NGO  Forum  Political  Violence  report  for
+July 2006 notes demonstrations by students in March and by students and  the
+Bulawayo Residents Association in June  2006.   The  Zimbabwe  Human  Rights
+Forum report of December 2006 "Who  Guards  the  Guards?",  which  documents
+reports of police human rights violations in that  period,  noted  that  the
+majority were  from  Harare  and  that  there  were  "very  few  cases  from
+Bulawayo" (although press reports  for  Bulawayo  were  nearly  10%  of  the
+total).  A table in this report lists  five  names  of  police  perpetrators
+from Bulawayo (the highest was from Harare: 27).
+
+31.  The  Human  Rights  Watch  report  for  May  2007  ("Bashing  dissent")
+documents mass  arrests  following  an  aborted  prayer  meeting  in  March,
+including in Bulawayo.  The Zimbabwe Human Rights NGO Forum  in  a  December
+2007 political violence report notes that in April 2007 82 members  of  WOZA
+were arrested for protesting against incessant government cuts in 2007.   In
+the course of the same series of incidents 6 members  of  WOZA  in  Bulawayo
+were allegedly taken by force from their various  homes  by  the  police  in
+vehicles bearing South African number plates to a secluded area 40  km  away
+from Bulawayo.  They were questioned  about  the  whereabouts  of  the  WOZA
+leaders.  They were not released until the next day.  Also in  2007,  on  19
+April two National University of  Science  and  Technology  (NUST)  students
+were  reportedly  abducted  and  tortured  by  suspected  CIO  operating  in
+Bulawayo.  In May police dispersed students at NUST in Bulawayo.  In  August
+at NUST a student representative  was  arrested  and  tortured  at  Bulawayo
+Central Police Station. In October of the  same  year  police  arrested  158
+members of WOZA in Bulawayo for protesting.
+
+Expert Witnesses
+
+32. The  appellant's  representatives  produced  written  reports  from  two
+witnesses, W1 and W2.  In view of the anonymity order  it  is  inappropriate
+to give any further particulars about them save to  say  that  both  parties
+accepted they had relevant expertise based in part  on  their  own  contacts
+within Zimbabwe with a wide range of actors.
+
+W1: written reports
+
+33. There were three reports from W1, the most relevant being that dated  14
+April 2011, which set out his understanding of the  events  since  2007  and
+the latest political situation in Zimbabwe.   Given  that  W1  in  his  oral
+evidence and Mr Symes in his submissions did not seek  to  argue  that  this
+evidence disclosed a greater degree of  risk  to  failed  asylum-seekers  on
+return  than  identified  in  current  Tribunal  country  guidance,  it   is
+unnecessary  to  say  anything  more  about  those  parts  of  this   report
+addressing this aspect.
+
+34. As to the earlier political history of Zimbabwe, W1 states in his  April
+2011 report that in the last nine years  an  estimated  25,000  people  have
+been the  victims  of  human  rights  abuses,  including:  endemic  torture,
+beatings, murders and disappearances An estimated 200,000  became  displaced
+persons.  Operation Murambatsvina in May 2005 saw widespread  demolition  of
+urban markets and homes, most of them carried out by the  police  with  help
+from the army and National Youth Service, and, according  to  UN  estimates,
+left 700,000 people without homes or  livelihoods.   MDC  members  were  the
+prime  targets.   The  state-sponsored  violence  was  compounded  by  total
+impunity for state forces and their non-state surrogates.  A key feature  of
+the ZANU style is the demand for overt loyalty.
+
+35. As regards the police, from early 2000  there  was  evidence  of  police
+refusal to  enforce  the  law  when  it  came  to  on-the-ground  operations
+conducted by the youth militia.  One of W1's sources (cited  at  para  8.82)
+said that the general public and low-level police were only mildly aware  of
+police 'misdemeanours' prior to 2000, during the time when the police had  a
+reasonably professional image.  But since 2000 all  senior  police  officers
+have made plain their allegiance to ZANU-PF on a number of occasions.
+
+36. In 2007 there had been attacks on police stations and a passenger  train
+which the regime blamed on the MDC.
+
+37. W1 cites one of his sources (his report para 84) stating that  it  would
+be very unusual for someone working in the ZRP in the years  after  2000  to
+have access to any media  other  than  pro-ZANU-PF  sources.   If  a  normal
+police officer had no social  networks  (church,  family  or  other)  or  no
+direct personal experiences of police misbehaviour, it was  highly  unlikely
+he or she  would  have  reason  not  to  believe  the  propaganda  supplied.
+Further, political tension was less in Matebeleland (of which  Bulawayo  was
+a part) and there was a more limited ZANU-PF presence, with the result  that
+much policing activity was devoted to  dealing  with  ordinary  criminality.
+Being a serving police officer would mean that fellow  churchgoers  critical
+of ZANU-PF were likely not to raise political matters with you.
+
+38. A recent estimate was that since 2000  some  20,000  former  police  and
+army staff from  all  levels  have  left  Zimbabwe  having  quit  government
+service.  Many more may have left the services without being able  to  leave
+Zimbabwe.  Overall, current staffing levels of the police are  about  30,000
+and  the  army  about  35,000.   Thus  at  least  a  third   of   relatively
+professional staff have  left  and  been  replaced  by  graduates  from  the
+National Youth Service.
+
+39. According to one of W1's sources (his report,  para  88)  there  were  a
+number of periods when police  resignations  were  banned:  2001,  2002  and
+following the 2005 election.  In 2002-2004 the problem of deserters had  led
+to the creation of  a  "Commissioner's  pool"  to  retain,  but  quarantine,
+senior officers suspected of insufficient loyalty.
+
+40. The appellant's account of the AWOL procedures applied in her  case  was
+found by one of W1's sources to be plausible.  It was  plausible  also  that
+in 2007 someone with sufficient funds would have been able  to  sort  out  a
+passport for a minor Zimbabwe national.  The legal requirement  was  that  -
+assuming the parents were both in Zimbabwe - at least one should  attend  at
+the passport office when applying or  otherwise  someone  with  a  power  of
+attorney to act on their behalf.  Should an internal  police  procedure  for
+an officer being AWOL be carried out, this would not  necessarily  interfere
+with the Registrar General's procedure in issuing a passport, but since  the
+passport office would be one of the first agencies to  be  told  of  someone
+being AWOL, it would be advisable to avoid it.
+
+41. In 2007, writes W1, Zimbabwe's border with Botswana was porous.
+
+W1: emails etc.
+42. W1 also produced copies of a number of emails and a "Note" from  one  of
+his principal sources dated 7 October 2011 which described: 'youth  militia'
+presence at police stations in Zimbabwe as being 'commonplace';  during  the
+2005 elections violence being more limited in  Bulawayo;  and  during  2006-
+2009 there being a significant shakeup of the  police  resulting  in  a  new
+round of witch-hunting by  the  police  for  opposition  supporters.   A  10
+October 2011 note from the same  source  stated  that  bringing  a  case  of
+desertion from the police to court might result in imprisonment of not  more
+than two years.  "However, other measures, non-judicial, are possible,  such
+as harassment about housing, or debts real or alleged".
+
+W1: oral evidence
+
+43. W1 reminded the Tribunal that  his  report  produced  for  this  hearing
+dated 10 March 2011 had been written before the Tribunal  had  reported  its
+country guidance case EM and others (Returnees) Zimbabwe CG [2011]  UKUT  98
+(IAC) on 14 March 2011; but he did not consider that  for  the  purposes  of
+this appeal anything turned on any differences between the  views  expressed
+in his report and the assessment made in EM.
+
+44. Asked about developments in Zimbabwe post-EM, WI said that  ZANU-PF  had
+sought to make political capital out of the events of  the  Arab  Spring  by
+organising a petition against UN sanctions imposed on  the  Gadhafi  regime:
+these sanctions were portrayed as a "western plot" and Mugabe  continued  to
+voice  support  for  Gadhafi.  ZANU-PF  were   continuing   to   press   for
+presidential elections this year rather than in 2012  and  had  been  behind
+increased incidents of violence, particularly in Harare.
+
+45. W1 said that from the very  beginning  of  Zimbabwe  as  an  independent
+state the police force has been aligned with ZANU-PF.  Its ranks were  drawn
+heavily from former liberation fighters but its politicisation  had  been  a
+gradual process.  From 2000 the police had become more  involved  in  direct
+violence against the MDC and had developed closer links with  ZANU-PF  youth
+militia.  Youth training had started in 2003 and induction of youth  militia
+into the police sped up in 2005.   At  the  same  time  there  had  been  an
+ongoing struggle between those in  the  police  who  saw  their  role  as  a
+professional body devoted to upholding law and order and  those  who  wanted
+it to be a political tool of ZANU-PF.  The  picture  nationally  was  mixed,
+with the police in some areas being able to maintain a  professional  ethos.
+Attempts by some NGOs to provide human rights training  to  the  police  had
+ceased in 1998/99.  The process of  politicisation  went  through  different
+phases: very pronounced in 2002 around the elections that  year;  marked  by
+less violence during the 2005 elections; in full  swing  during  2007.   The
+high point was 2008 when there  were  increased  numbers  of  ZANU-PF  youth
+militia who became police.
+
+46. Mr Ouseley asked W1 about mention in his report that there were  various
+periods when the government banned police resignations.  W1  said  that  the
+ban on resignations was accompanied by  a  procedure  for  putting  officers
+whose loyalty was suspect on watch; the numbers involved had  been  as  many
+as  several  thousand.   He  confirmed  that  given  the  high   levels   of
+bureaucratic  inefficiency,  it  was  quite  possible  that   the   Zimbabwe
+authorities could take over 90 days  to  identify  certain  persons  in  the
+police as deserters to the border and airport authorities.
+
+47. Asked about levels of political violence  in  Bulawayo  since  2000,  W1
+said that although in 2000-2002 there had  been  incidents  of  violence  in
+that town, the fact that it was used as a commercial site by  white  farmers
+and had been more sympathetic to the MDC position on most issues meant  that
+ZANU-PF had accepted it would not win political control of  this  area.   He
+did not accept that levels of police violence in Bulawayo had been  as  high
+as in other areas.  He agreed  that  Zimbabwe-wide  the  great  majority  of
+those in the police force and other areas of the security  sector  would  be
+pro-ZANU-PF supporters.  He accepted that nevertheless  police  in  Bulawayo
+would generally act under orders from the higher echelons of  the  ZRP.   It
+was likely that all serving police would have been aware of statements  from
+some senior government officials that all  police  should  support  ZANU-PF,
+but statements from other senior officials had not been on the  same  lines.
+It was also important to  bear  in  mind  that  there  were  differences  in
+approach from different parts of the police, e.g. between those  responsible
+for riot control and law and order on the one hand and those doing  ordinary
+criminal investigation or traffic control work on the other.
+
+48. W1 said he accepted that police officers in  Bulawayo  would  have  been
+aware that there were police abuses  against  MDC  members  and  supporters,
+especially during the policing of MDC  rallies;  but  sometimes,  especially
+when it came to whites, they preferred to leave it to the youth militias  to
+do the beating up.  Police virtually never arrested ZANU-PF members  or,  if
+they did, the latter were released very quickly  without  follow-up.   After
+the  2008  elections  there  were  general  amnesties  for   known   ZANU-PF
+supporters.  From 2006 onwards there had been  an  increasing  incidence  of
+ZANU-PF militia  being  "attached"  to  police  stations  to  help  them  in
+policing MDC  rallies  etc.   Serving  police  officers  working  in  police
+stations would have been told about this.
+
+49. In reply to questions from the panel, W1 said that  up  until  2007  the
+media in Bulawayo was very much monopolised by ZANU-PF papers  and  radio/tv
+stations.  In 2007 there was a  well-known  incident  involving  a  Catholic
+Archbishop speaking out against the Mugabe regime  and  youth  militia  were
+deployed to try and obstruct his dissemination of pastoral messages.
+
+W2
+50. In a report dated 25 March 2010  W2  described  the  ZRP  as  comprising
+various departments including the uniformed police,  Criminal  Investigation
+Department (CID); Traffic police;  and  specialised  units  such  as  Police
+Internal Security and Intelligence Unit (PISI) and the Riot Police.
+
+51.  The  ZRP  has  a  "dual  tradition  of  following  professional  police
+procedure in some instances and  abandoning  this  and  following  political
+directions in others".  W2 described  2000-2002  as  a  transitional  period
+which saw the most experienced policemen leaving and being replaced in  many
+instances by former members of the youth brigades,  resulting  in  increased
+levels of violence against criminals and political suspects by  the  police,
+and a return to the utility of 1980s-style  state-sponsored  violence  as  a
+political tool.
+
+52. W2 said he was aware that in 2006 there  was  a  ZRP  directive  banning
+resignations.  W2 said that for a member of the ZRP to refuse to  take  part
+in  an  interrogation  if  called  upon  to  do  so  would  be  treated   as
+insubordination, - the penalties for which would  range  generally  speaking
+from a verbal or written warning,  to  a  forcible  transfer  or  dismissal;
+there   can   also   be   harder   penalties,   including   a   fine,    and
+arrest/imprisonment.  "If the person continued to refuse to  participate  in
+interrogation they would presumably  be  suspected  of  having  a  political
+agenda  and  supporting  the  opposition.   This   could   result   in   the
+"defaulters" being arrested and imprisoned/tortured themselves".
+
+53. W2 said that mass desertions and resignations of army and police  during
+the last decade had led to the authorities clamping down on those trying  to
+leave legally.   "If  MT  had  tried  to  resign,  it  is  likely  that  her
+resignation would  have  been  blocked/rejected  and  she  would  have  been
+questioned as to why she wanted to resign.  Her  political  loyalties  would
+have been questioned, and she  would  have  had  to  'prove'  her  political
+allegiance  by  participating  in  more  political   interrogations/violence
+against opposition activists".
+
+54. W2 assessed that  in  2000  and  2002  the  levels  of  police  violence
+associated with the elections was just as high in Bulawayo as compared  with
+other areas.  Around the 2005 elections  however,  Bulawayo  had  much  less
+violence than the rest of the country.
+
+55. W2 did not find it implausible that MT had only been asked  in  2007  to
+get involved in violence against MDC activists.
+
+56.  For  police  who  went  absent  without  leave  (AWOL),  W2  said   his
+understanding  was  that  there  would  first  be  a  letter  sent  by   the
+individual's branch/depot.  If that received no response, there  might  then
+be a follow-up letter from a senior commanding officer, copied  to  all  the
+main police depots in Zimbabwe advising them that the subject is AWOL.   The
+family of the subject would also be notified.  In some instances, a  warrant
+of arrest may be issued for desertion of duty.
+
+57. W2 also dealt with risks the appellant was likely to face on  the  basis
+she was a deserter.
+
+
+Submissions
+
+58. Mr Ouseley addressed us first on the issue of credibility.  He asked  us
+to find that whilst it was accepted the appellant had been a member  of  the
+ZRP from 2000-2007, she had not been able to give a credible account of  her
+role whilst serving there.  She had only claimed asylum  after  having  been
+arrested for illegally working.  She had given inconsistent  evidence  about
+whether she was a duty officer (constable) or a detective  and  whether  she
+had  seen  any  MDC  supporters  transferred  from  her  police  station  as
+political suspects.  Her  account  of  having  no  awareness  of  the  close
+interconnection between the police and ZANU-PF until early 2007  was  simply
+not plausible.  To the extent  that  she  had  admitted  to  involvement  in
+certain incidents involving mistreatment of MDC supporters, she had  clearly
+sought to minimise her own level  of  participation  and  complicity  beyond
+what was credible.  Only under questioning had she admitted  that  her  role
+in the Plumtree incident was essentially to help "cover up" a  mass  murder.
+On the strength of W1's evidence, it was not plausible she could  have  been
+as unaware as she claimed of the long-standing political policy of  the  ZRP
+to harass MDC supporters and of  the  significant  number  of  incidents  in
+which police used unacceptable levels of violence  against  MDC  supporters.
+W1's report had described an increasing  politicisation  of  the  Zimbabwean
+police since 2000.  The police force had  been  staffed  from  its  creation
+with war veterans and the police had  acquired  a  reputation  early  on  as
+undisciplined, violent and corrupt.  Even those  who  tried  to  be  neutral
+professionals would have known they had many colleagues who were not.
+
+59.As to the letters the appellant had produced  from  the  Zimbabwe  police
+saying that she was being treated as a deserter,  Mr  Ouseley  asked  us  to
+find that they were not genuine and had been produced to  help  provide  the
+appellant with a cover story.  For a genuine deserter to have gone  back  to
+Zimbabwe within a few weeks of deserting would have been bizarre and  highly
+risky.  On her own evidence she had no "Plan B" or story ready to  tell  the
+Zimbabwe authorities if they had stopped her  at  the  point  of  return  or
+subsequently - that was something which, if her account were true, she  must
+have worried might happen.  Her attempt to explain why she had felt it  safe
+to go to the Zimbabwe Embassy in London to renew her passport, when she  was
+saying the authorities of that  country  would  have  classified  her  as  a
+deserter, did not ring true; especially as  she  would  plainly  have  known
+that some Zimbabwean CIO were active in the UK.
+
+60. According to W2, Bulawayo had witnessed its share of  violence  used  by
+the police and ZANU-PF  against  MDC  supporters  in  2000-2002  and,  at  a
+reduced level, in 2005.  On the appellant's evidence most of  the  cases  of
+arrests of MDC supporters in Bulawayo must have passed  through  her  police
+station, yet she said she had seen nothing wrong except in two  cases.   The
+truth was far more likely to  be  that  she  was  a  front-line  pro-ZANU-PF
+police officer in an MDC stronghold.  The picture  she  sought  to  present,
+that neither she nor her colleagues  ever  talked  about  politics  and  the
+conflict between ZANU-PF and the MDC, was far-fetched.
+
+61. As regards the appellant's attempts to say she had tried  to  desert  as
+soon as she reasonably could, she would in  truth  have  known  well  before
+2007 that she was working in a force that routinely ill-treated MDC  members
+and from early 2007 would have had plenty of opportunity to  desert  earlier
+than she said she did.  Regarding the first incident involving  maltreatment
+of Stephen Mhlanga, even if it were accepted she  was  just  a  note  taker,
+that was not a minimal role and her  presence  there  lent  support  to  the
+torture used.  Similarly, even if during the  Gibson  Sibanda  incident  she
+only slapped him, that was still behaviour that must  have  put,  or  helped
+keep, that gentleman in a state of fear.  She was a team  player.   She  was
+complicit.  She was there, voluntarily, participating in breaches  of  basic
+human rights.
+
+62. As regards whether the appellant's crimes  amounted  to  crimes  against
+humanity, Mr  Ouseley  asked  us  to  regard  the  police  as  part  of  the
+repressive apparatus of Mugabe's essentially one-party state which  from  an
+early time had been used as a political tool to punish dissent from  ZANU-PF
+policies.  There had been a targeting of many in the civilian population  on
+a country-wide scale since 1988 and the level of impunity within the  police
+and other security services was widespread and systematic.   The  background
+evidence clearly established that the crimes committed against the  civilian
+population  included  murder,  rape,  enslavement,  forcible   transfer   of
+population and torture.
+
+63. Turning to the issue of whether the appellant had a defence  of  duress,
+Mr Ouseley accepted that this was a defence provided by the ICC  Statute  to
+exclusion under Article 1F(a).
+
+64. As regards mens rea, it was clear  from  R(JS)  (Sri  Lanka)  and  other
+cases that mere membership of an organisation - in this  case  the  Bulawayo
+branch of the ZRP  - was not enough.  But the appellant's  involvement  with
+police abuses in Bulawayo went well beyond that.  To  have  been  called  to
+attend at two torture scenes,  11  demonstrations  and  the  Plumtree  crime
+scene, shows she must have  been  trusted  to  be  loyal.   She  voluntarily
+joined a brutal police force, she had personal involvement  in  the  "cover-
+up" of a mass murder and in two incidents of torture.  The  test  of  duress
+is a high one requiring a person to show that not to  follow  an  order  put
+them in grave and imminent peril.  Yet even after these  incidents  she  did
+not leave immediately.
+
+65. With  respect  to  the  Tribunal's  request  to  know  the  respondent's
+position on Article 1F(b), Mr Ouseley said that clearly the crimes  she  had
+been involved in  were  serious  and  the  context  was  non-political.   As
+regards Article 1F(c), Mr Ouseley relied on  the  respondent's  Reasons  for
+Refusal letter.
+
+66. The thrust of Mr Symes' submissions was as follows.  We should find  the
+appellant a credible witness.   She  had  afforded  viable  explanations  of
+difficult points in her evidence.  The expert evidence of  W1  and  W2  bore
+out that in Bulawayo even in 2002 and 2005 the number of  violent  incidents
+directed against MDC or other opposition to ZANU-PF were  on  a  much  lower
+level than in Harare.  Despite Mr Ouseley's attempts to re-characterise  it,
+W1's evidence was that the politicisation of the  Zimbabwean  police  was  a
+gradual process, and the struggle  between  professional  elements  and  the
+more ZANU-PF- minded officers varied in nature  and  balance  from  area  to
+area.  In Bulawayo the police could very  well  have  been  predominantly  a
+body performing a public service.  W1 had said  it  was  entirely  plausible
+that it might take  several  months  for  the  bureaucracy-prone  police  to
+notify border posts about suspected or known  deserters  and  the  appellant
+had a strong family motivation: to see her  mother  for  possibly  the  last
+time and to try and help her daughter.  When assessing her  credibility,  it
+had to be borne in mind that her  asylum  interview  had  failed  to  follow
+proper procedures for suspected exclusion cases.  She  had  not  been  given
+the  opportunity  to  detail  relevant   incidents   and   the   surrounding
+circumstances.
+
+67. As regards risk on return, it was entirely credible that she would  face
+persecution   for  having  deserted,  being  liable  not  just  to  criminal
+punishment under the Zimbabwean Police Act but also  adverse  treatment  for
+having been disloyal.  Given the evidence that there was a  blanket  ban  on
+resignations from the police force when she left Zimbabwe in  2007,  it  was
+inevitable she would be classified as a deserter.  She  would  face  second-
+stage interrogation on return and would  thus  experience  ill-treatment  at
+the airport: see AA (Risk for  involuntary  returnees)  Zimbabwe  CG  [2006]
+UKAIT 00061 and HS (Returning  asylum  seekers)  Zimbabwe  CG  [2007]  UKAIT
+00094.  She could not be expected to lie.  By analogy with  Article  9(2)(a)
+of 2004/83/EC  (the  Qualification  Directive),  she  was  someone  who  had
+refused for legitimate reasons of conscience to  perform  acts  contrary  to
+international  law.   If  W1's  figures  were  right,  there  had   been   a
+significant number of  police  who  had  left  the  force  by  resigning  or
+deserting when they could, and so this would be a sensitive point  with  the
+Zimbabwe authorities, who would want to be seen to be cracking down.
+
+68. Turning to exclusion and first of all  Article  1F(a),  Mr  Symes  first
+submitted that the evidence clearly did not  establish  that  the  appellant
+had been a (co-)principal in commission of  any  of  the  crimes  listed  in
+Article 7 of the Rome Statute (for full  text  see  Appendix  A).   She  was
+effectively  a  bystander  or  someone  with  only   minor   or   incidental
+involvement.  She had not inflicted any significant  suffering.   There  was
+neither actus reus nor mens rea for any torture.  The offence of aiding  and
+abetting needed specific intent and that was lacking.  She had not  intended
+to carry out torture or "cover up" evidence  of  murder.   At  Plumtree  she
+arrived at the last minute  and  only  carried  out  orders.   She  was  not
+reckless; she had done all she could to minimise her  own  involvement.   By
+contrast with the appellant in SK (Article 1F(a) exclusion) Zimbabwe  [2010]
+UKUT 327 (IAC), who had a high level of involvement in the  attacks  against
+white farmers, the appellant in this case was in a very lowly position  with
+limited  knowledge  of  wider  patterns  of  police   abuses   and   limited
+involvement in any wrongdoings.
+
+69. Clearly, following the guidance given by  the  Supreme  Court  in  R(JS)
+(Sri Lanka) the respondent  could  not  deduce  her  complicity  as  a  non-
+principal from the mere fact she was a serving police officer.   So  far  as
+concerns whether she was involved in a joint criminal enterprise, the  legal
+test was that she had contributed in a significant way.  That  was  not  the
+case here.  As regards aiding and abetting, Mr Symes   added,  it  was  even
+clearer that the legal test  here  required  a  "substantial  contribution".
+Again that was not  the  case  here.   Her  involvement  was  low-level  and
+involved no command responsibility.  She had decent motives for joining  the
+police force and serving in it.  In the context of events  that  arose  from
+early 2007 she did her best to minimise her role. She was unable  safely  to
+extricate herself earlier than she did especially given that to have  spoken
+out at any stage would  have  risked  making  herself  the  target  of  ill-
+treatment as a traitor.  She had explained that after the Plumtree  incident
+it had taken her some time to track down the details of her cousin,  so  she
+could arrange exit to Sudan.
+
+70. Also relevant were background factors such as the dominance in  Zimbabwe
+media of ZANU-PF versions of events portraying MDC supporters  as  thugs  or
+persons who falsely alleged police violence; and the evidence  showing  that
+Bulawayo was relatively quiet in 2005 and  until  2007.   It  was  wrong  to
+overlook that the vast majority of human  rights  abuses  committed  by  the
+Zimbabwe regime  were  committed  by  the  Riot  Police  and  ZANU-PF  youth
+militia, not the ordinary uniformed police.
+
+71. The Court of Justice ruling in Cases C-101/09 and 57/09 known as  B  and
+D v Germany (Area of Freedom, Security and Justice)  [2010]  EUECJ  C-101/09
+(09 November 2010) disclosed that there was no high test of duress; para  97
+suggested a lighter test.  In any event under the ICC Statute  she  met  the
+test.  She suffered from ongoing threats.
+
+72. Concerning Article  1F(c),  it  was  clear  from  the  Court  of  Appeal
+judgment in Al-Sirri [2009] EWCA Civ 222 that for this sub-paragraph  to  be
+engaged there had to be an international element; that was entirely  lacking
+here.
+
+73. As regards Article 1F(b), it was clearly perceived both under  the  1951
+Convention and under Article 12 of the QD, that  only  very  serious  crimes
+were covered.  Regarding the  exemption  in  the  latter  for  "particularly
+cruel actions", it could not be said that any  of  the  appellant's  actions
+fell into that category, which  envisaged  malice  and  personal  desire  to
+harm.  Arguably when 1F(b) was involved the decision-maker had to take  into
+account a wider range of factors than  under  1F(a).   Under  the  latter  a
+crime had to be a listed crime.  Further and in  any  event,  the  case  law
+made clear that when state actors were  involved  in  a  political  struggle
+with other organised groups, their actions were covered by  the  "political"
+proviso: see Lord Mustill in T [1996] 2 All ER 443.  Significantly the  Rome
+Statute  only  dealt  with  politically  motivated  crime  as  a  crime   of
+persecution.
+
+Our Assessment
+
+ Credibility
+
+74. In examining the appellant's account we have looked at the  evidence  in
+the round including the expert and  background  evidence,  and  applied  the
+requisite standard of  proof,  bearing  in  mind  that  the  burden  on  the
+appellant to prove entitlement to  international  protection  but  that  the
+respondent bears the  burden  of  showing  that  the  relevant  exclusionary
+provisions apply. In  addition  to  that  which  she  gave  before  us,  the
+appellant's  evidence  is  contained  in  an   undated,   unsigned   initial
+statement, her screening interview record  of  28  March  2009,  her  asylum
+interview of 21 July 2009, her witness statement  of  20  August  2009,  her
+witness statement of 10 March 2010; and the record of the evidence she  gave
+before Judge Pirotta in the same month (on 23 March 2010).  We bear in  mind
+that the record of her asylum interview does not show that she was given  as
+full an opportunity as is envisaged in Asylum Policy Instructions to  answer
+questions relating to her possible involvement in crimes  against  humanity.
+At the same time, she was offered a break and took one  (see  Q84)  and  the
+interview was plainly not rushed, taking a little over two hours.   We  also
+bear in mind that in a case in which an appellant  gives  oral  and  written
+evidence on different occasions stretching over a period of a  year  or  so,
+one cannot expect total consistency of recall.  In this regard  it  is  fair
+to say that  in  significant  (but  not  all)  parts  of  her  evidence  the
+appellant has been broadly consistent in the story she has  given,  and,  in
+relation to the bare fact that she had been  a  serving  police  officer  in
+Bulawayo between 2000-2007, we consider that her description of  the  layout
+of rooms and cells and similar details was  given  unhesitatingly  and  with
+significant grasp of detail.
+
+75. Notwithstanding such considerations,  we  are  not  satisfied  that  the
+appellant has given us a wholly credible account.
+
+76. Central to the appellant's account at interview, in her  latest  witness
+statement and before the FTT judge, was that during her period as  a  police
+officer at Bulawayo Central Station she was just a police  constable.   That
+is not, however, how she described herself at  her  screening  interview  in
+March 2009 when she stated that  she  was  a  police  detective  serving  in
+Bulawayo and Harare.  A police detective, we are informed, is at  least  two
+ranks above a police constable.  Nor is it the impression given by  the  ZRP
+pay advice slip  dated  January  2007  which  refers  to  her  as  being  in
+"Criminal  Investigation".   When  Mr  Ouseley  asked  her  about  this  the
+appellant said, for the first time, that she had been  "attached"/(seconded)
+to Criminal Investigations Department (CID) but only for three months.   She
+was unable to explain to our satisfaction why she had not mentioned this  in
+her asylum interview or her March 2010 witness statement or in her  evidence
+before the FTT judge, on  each  occasion  when  she  had  said  without  any
+qualification that she was a police constable.
+
+77.  We  found  particularly  unsatisfactory  her  evidence  regarding   the
+circumstances of her July 2007 trip and her return to Zimbabwe in  September
+2007.  She said in her March 2009 statement that whilst  she  was  in  Sudan
+the ZRP had written to her mother enquiring about her absence, but that  she
+did not know they had done so until she arrived back at her mother's  house.
+ (In her 2010 statement she said the ZRP letter was dated 9 August  and  had
+been received in the second week of August).  However, she  also  said  that
+immediately before she left Sudan she had asked her mother by phone  whether
+the police had come looking for her and her mother had said 'no' (paras  12-
+13).  If that were correct, she is asking us  to  believe  that  her  mother
+neglected to tell her that there was in fact a letter addressed  to  her  as
+the appellant's next-of-kin from the police, despite  the  appellant  having
+specifically asked her mother a question about police interest.
+
+78. One of the points of evidence on which the appellant has sought to  rely
+in explanation of why she  felt  it  was  sufficiently  safe  to  return  to
+Zimbabwe from the Sudan was  that  she  had  been  told  by  police  officer
+colleagues she had by chance met there that it  would  take  quite  a  while
+before they classified her as a deserter and notified  the  Zimbabwe  border
+authorities of the same.  Indeed in her statement of 25 March  2010  and  in
+her evidence  before  the  FTT  judge  she  sought  to  suggest  that  these
+colleagues did not even tell her flatly that she was being  suspected  as  a
+deserter ("...[the fellow officer] said he hoped she was not a  deserter  as
+many had come to Sudan").  She said she understood him to  be  hinting  that
+he knew she was being sought.  She placed this chance encounter  during  the
+period when she first arrived in  Sudan  (para  49).   Yet  in  her  witness
+statement earlier that month she described this chance encounter  as  taking
+place in October 2007, i.e. after she had  returned  from  Zimbabwe  to  the
+Sudan (para 10).  Not only is there an inconsistency in the timing  of  this
+chance encounter, but what the appellant said about it in 2010  is  markedly
+different from what she said in 2009.  In her asylum interview in  2009  she
+was quite definite that this colleague had "highlighted to me he knew I  was
+wanted as I had deserted Zimbabwe" (Q82) and, asked what her  response  was,
+she replied "I panicked and I knew I was no longer safe in Sudan  because  I
+did not know who was going to tell the  authorities  they  had  seen  me  in
+Sudan" (Q88).  When asked whether she did not therefore feel  at  risk  when
+she decided nevertheless to return to Zimbabwe, she said she had  considered
+the matter "but I know that the system is very slow to inform  border  posts
+and airport to publish my name as a deserter so I  just  took  advantage  of
+that".  We fail to see how, if  she  truly  thought  the  authorities  would
+learn from her colleagues in July, August or early September 2007  that  she
+had actually left Zimbabwe and would straightaway take steps to  pursue  her
+in the Sudan, she could have genuinely believed they would not at  the  same
+time take immediate action to notify all relevant authorities in Zimbabwe.
+
+79. In addition, there is also the chronology of this aspect of her  account
+to consider.  She had left Zimbabwe for Sudan on the first  occasion  on  13
+July 2007, returning on 16 September 2007.  That is over 8 weeks.   In  most
+of her evidence the appellant has said that  she  counted  on  the  Zimbabwe
+authorities being likely to take up to 3 months to alert border controls  of
+her desertion.  She described the police  procedure  being  to  classify  an
+officer  as  AWOL  after  an  initial  21  days  of  absence,  with  further
+procedures taking another 90 days.  However, on the appellant's own  account
+her own station had already put her on watch after she  had  submitted  five
+sick notes early in 2007 in  order  to  avoid  carrying  out  police  duties
+involving harassment of  MDC  supporters  and  so  her  station  was  likely
+therefore to see her AWOL status as immediately confirming their  suspicions
+that she was pro-MDC.  On her own account they did not in any event wait  90
+days (or 111 days if one counts 90 days plus 21).  When  she  went  back  in
+mid-September, i.e. around 56 days later, she said in her  asylum  interview
+that she did not go to the passport office because the police  were  looking
+for her.
+
+80. We would also observe that if in fact the appellant knew  she  had  been
+classified as a deserter but was simply counting on  the  tardiness  of  the
+Zimbabwe authorities in notifying border controls of this, we do  not  think
+she would have sought  to  give  the  additional  explanation  she  advanced
+earlier in her screening interview.  After saying in Q2 that  she  had  been
+led to believe colleagues in the police force in Zimbabwe had come  to  know
+that she was in Sudan and so she felt she could  not  stay  there,  she  was
+then asked why she had returned to Zimbabwe on 16 September.   She  replied:
+"I just went there to check on my daughter.  I thought maybe  the  situation
+may have settled.  However, it was still there so I went back  to  Sudan  on
+27 September 2007".  If as she claimed, the clock was  running  down  before
+police procedures resulted in her name  being  given  to  border  posts  and
+immigration controls as a deserter, then it is difficult to  understand  how
+she could have believed the situation may have been "settled".
+
+81. There are also difficulties about what the appellant  said  she  did  on
+return to Zimbabwe.  On her own account her principal reason for going  back
+was to check on her daughter and sort out a passport for her.  Why  she  did
+not take steps to sort out her  daughter's  passport  before  she  had  left
+Zimbabwe the first time (she said  she  had  decided  to  leave  immediately
+after the Plumptree incident in March 2007) or  why  she  did  not  consider
+trying to sort out such problems whilst in the Sudan, using  trusted  family
+as intermediaries, is unexplained.  The evidence given to W1  by  a  trusted
+source was that a power of attorney could be  used  in  such  circumstances.
+Moreover in her initial evidence she was adamant that when back in  Zimbabwe
+she had not sought to hide.  At Q95 of her asylum  interview  she  said  she
+had stayed for about 10 days and during this time she was able  to  go  out.
+That is difficult to square with her evidence  later  on  in  the  interview
+where she said she had not felt able to go to the passport  office  to  sort
+out a passport for her daughter "after I heard that police were looking  for
+me".  She had said she had learnt the police were looking for  her  the  day
+she arrived back.
+
+82. In her second statement the appellant's evidence  was  different  again.
+She said she had not gone out except when taking the  trip  to  Botswana  to
+get food for the family.  In addition she said that from 19 to 26  September
+2007 (i.e. 3 days after her return)  she had gone to  a  friend's  house  in
+Marondera (para 8).  In her earlier evidence by contrast  she  said  nothing
+to suggest that during her 10 days back  she  stayed  anywhere  in  Zimbabwe
+except at her mother's house.
+
+83. As to the trip to Botswana in September 2007, we also find her  evidence
+wanting.  On her  own  account  the  Zimbabwean  authorities  (at  least  in
+Bulawayo) knew by then that she was a deserter  and  she  would  have  known
+that by leaving Zimbabwe and returning again she would have to pass  through
+border controls for a second time within a  few  weeks.   This  prompts  the
+question as to why in such circumstances, even assuming there was an  urgent
+need to buy food (to help the family cope with the food crisis),  she  would
+not have tried to get someone else to go.  In her March 2010  statement  the
+reason she gave for going herself was because her mother  was  too  old  and
+did not drive, but on her own evidence she had  a  sister  and  other  close
+family and  we  find  it  surprising  that  she  has  never  suggested  that
+consideration had been given to finding someone else.  Mr Symes  has  sought
+to highlight evidence that the Botswana border was 'porous'; that may be  so
+but it was not suggested by the appellant that she knew or counted on that.
+
+84. A further dimension of difficulty is that her account of the  extent  of
+her involvement in police  mistreatment  of  MDC  supporters  has  not  been
+consistent;  over  time  she  had  sought  to  qualify   and   minimise   it
+significantly.  In her asylum interview in July 2009 she was asked a  number
+of questions that arose out of her screening interview  statement  that  she
+was "asked to go and beat people and torture people which I  did  not  agree
+with".  At Q49 she was asked  whether  she  had  been  involved  in  beating
+anyone.  She replied, "Yes we used to beat  up  people".   At  Q50  she  was
+asked whether she could remember any specific incidents of this and gave  as
+an example in reply the White City rally in February 2007 she had  mentioned
+earlier.  Asked if she had beaten up any known MDC activists, she said  that
+at rallies people were mixed "so you  didn't  know  who  you  are  beating".
+When asked about whether she had been involved in torturing anyone she  gave
+as an example the incident in  February  2007  [involving  Stephen  Mhlanga]
+stating that she had been involved in torturing as part  of  a  group.   She
+then described  Mhlanga  being  blindfolded  and  tortured.   Whilst  it  is
+perfectly true that in  these  answers  the  appellant  does  not  expressly
+confirm that she personally had done the  blindfolding  and  torturing,  she
+said nothing to suggest she had not been  involved  in  doing  so  and  gave
+these examples in reply to specific questions about whether  she  personally
+had beaten people and tortured them.  In subsequent accounts,  by  contrast,
+she was adamant, in relation to the White City rally that "I  did  not  beat
+anyone" (para 7, 25 March 2010 statement).  Similarly, in  relation  to  the
+Stephen Mhlanga incident her subsequent accounts portray her role  as  being
+confined to taking notes and  saying  a  few  bad  words  to  him.   In  her
+evidence before the FTT judge she said she did ask Mhlanga a few  aggressive
+questions but her body language was  not  threatening  (para  49).   Leaving
+aside that it is not immediately clear how, if  this  man  was  blindfolded,
+her body language would be known to  him,  we  consider  that  this  revised
+account, if true, was one she could and should have  given  earlier  in  her
+asylum interview or August 2009 witness statement.
+
+85. The appellant's consistent evidence as to the  state  of  her  knowledge
+about Zimbabwe police mistreating political opponents was that  it  was  not
+until 2007 that she realised this.  In her March  2010  statement  she  said
+that up until that  date  she  perceived  the  police  to  be  generally  an
+impartial law-enforcement body.  In submissions on behalf of  the  appellant
+Mr Symes sought to argue that this account was  credible  and  supported  by
+the background country evidence.  In particular he sought to  highlight  the
+fact that in Bulawayo the evidence indicated that  the  police  there  until
+2007 were  relatively  well-disciplined  and  relatively  professional.   He
+highlighted her evidence that even though she knew that  there  had  been  a
+significant number of violent incidents (stating  that  she  knew  the  2005
+elections "had been very violent"), she believed  that  insofar  as  any  of
+these were alleged  to  involve  police  brutality,  "the  MDC  were  making
+incidents up" and she just accepted  the  government's  version.   She  also
+said that she and  her  police  colleagues  did  not  discuss  the  violence
+between themselves, nor did she hear  talk  about  it  at  church  or  other
+community events (paras 2-5, statement of 10 March 2010).
+
+86. We have several reactions to that submission.   First,  the  appellant's
+evidence has been for the most part that her  understanding  of  the  police
+role pre-2007 related to their role  in  Zimbabwe  generally,  not  only  or
+specifically in Bulawayo; and  in  relation  to  the  national  picture,  we
+cannot accept that anyone serving in the Zimbabwe police  at  the  country's
+second largest police station would not have known that pre-2007  there  had
+been a significant number of  incidents  in  which  police  encounters  with
+political opponents of ZANU-PF had involved a notable use of force.
+
+87. Second, whilst we can accept  that  she  may  have  thought  the  police
+violence was a legitimate use  of  force  in  the  course  of  public  order
+enforcement, we cannot accept that she was unaware that  such  violence  had
+been inflicted by the police.
+
+88. We are also unable to accept  her  claim  that  her  awareness  both  of
+police abuse and her own  level  of  disagreement  with  it  was  a  gradual
+process of disassociation which did not  crystallise  sufficiently  for  her
+to decide to desert until mid-2007 (eg  para  15  of  her  statement  of  20
+August 2009).  On her own account, even before the Stephen Mhlanga  incident
+in mid-February 2007, her own unhappiness at being asked  to  take  part  in
+operations involving violence towards MDC supporters,  had led her to  feign
+illness on five occasions and to have been told by someone that as a  result
+she had been placed under scrutiny.  That is to say, even before she  became
+involved in the Mhlanga, Sibanda and Plumtree incidents,  her  evidence  was
+that she felt disquiet: in her own words  to  us  (even  at  that  stage)  a
+"bell" had "rung".  Further, on her  own  account,  despite  perceiving  the
+most serious incident of all to be the Plumtree incident in March  2007  (in
+her  witness  statement  for  March  2010  she  said  this  was  "the   most
+traumatising and disturbing experience I have had  in  the  police  force  -
+digging graves for unknown bodies and  burying  them  all  in  the  name  of
+trying to cover up for ZANU-PF acts" (para 10),   she  continued  to  go  to
+work normally and in the next month to take part in police dispersal of  the
+MDC during a rally.
+
+89. Part of our concerns about this aspect of her evidence  relates  to  her
+own account of what she witnessed during her period  of  duty  in  Bulawayo.
+In the course of her evidence she confirmed that she worked  at  the  city's
+largest police station (the second largest in Zimbabwe) and that she  worked
+in the charge office,  regularly  having  responsibility  for  dealing  with
+arrested suspects when they were brought into the station or also when  they
+were charged.  She also said in her witness statement of  August  2009  that
+she had been instructed to  take  Mhlanga  to  the  cells,  leaving  further
+interrogation to the CID.  Yet at the same time she  was  insistent  in  her
+evidence before us that in her 7 years as a police officer at  this  station
+(leaving aside the Stephen Mhlanga and Gibson Sibanda cases)  she  had  only
+received a complaint from a suspect on one or two occasions  that  they  had
+been ill-treated whilst in police custody  or  detention  and  she  did  not
+suggest these were MDC-related.  This covered the  time  in  2007  when  the
+police had attacked MDC supporters at the White City rally.   Even  allowing
+for the fact that the two country experts who have written reports  for  her
+case were not wholly ad idem about the level of police mistreatment  of  MDC
+supporters in Bulawayo, we note that both they and other background  sources
+(for the latter see paras 25-31 above) are clear that over  this  period  of
+time there were significant incidents in which police used violence  against
+MDC supporters and we do not find it credible she knew of none.
+
+
+90. We  shall  need  to  consider  below  the  implications  for  our  above
+assessment of her evidence for the issues of participation  and  complicity;
+but our concern here is simply  to  make  clear  that  her  own  account  of
+gradual realisation and gradual dissociation crystallising  in  mid-2007  is
+not borne out by her own  narrative:  in  particular  by  the  time  of  the
+Plumtree incident in March she could scarcely have had  a  higher  level  of
+knowledge of the extent of police abuses or of repugnance to it,  yet  after
+that she remained serving in the police and at the end of April went  on  to
+participate  in  the   Sibanda   torture   incident   (albeit,   she   said,
+reluctantly).
+
+91. A further shortcoming in her evidence concerns the explanation she  gave
+for why she felt able shortly after arrival in the UK to go to the  Zimbabwe
+Embassy  in  London  to  renew  her  passport.   On  her  own  evidence  her
+understanding at that time was that the Zimbabwe CIO was active in  the  UK,
+indeed she had said she had avoided claiming asylum because  she  had  heard
+there were Zimbabwe CIO patrolling UK airports.  She further  accepted  that
+in  order  to  complete  particulars  to  obtain  a  passport  renewal,  the
+Zimbabwean authorities needed to, and did, send a  form  to  her  sister  in
+Zimbabwe (FTT determination, para 52).  We doubt  she  would  have  involved
+her sister if she genuinely  believed  that  the  Zimbabwe  authorities  had
+classified her as a deserter.  By this  time  it  had  been  several  months
+since she had deserted.
+
+92. A further concern we have relates to her explanation  for  why  she  had
+not claimed asylum on arrival in September 2007.  On her  own  evidence  she
+was clearly aware when she came that MDC members from Zimbabwe  had  claimed
+asylum in the UK.  She said her reason for not claiming  was  not  ignorance
+but fear  -  fear  that  the  Zimbabwean  CIO  kept  a  close  watch  on  UK
+immigration controls and so would learn about her desertion.   If  she  felt
+confident enough to visit the Zimbabwe Embassy in person we cannot see  that
+she could genuinely have feared that contacting  the  UK  authorities  would
+put her at risk.  The appellant clearly had time to plan her departure  from
+Zimbabwe and particularly given her claimed realisation  by  early  to  mid-
+2007 that MDC supporters were being persecuted, we do not accept  she  would
+have lacked confidence that claiming asylum in the  UK  was  a  confidential
+process.  Furthermore, we are quite satisfied she would have known that  her
+UK visa had expired on 3 March 2008 and that in order to avoid  becoming  an
+overstayer, she would need to make an application of  some  kind  to  secure
+stay.
+
+93. In considering the appellant's account in the light of the  evidence  as
+a whole (and applying Tanveer Ahmed principles) we are not  able  to  accept
+that the letters she produced from the Bulawayo police - one dated 9  August
+2007 addressed to the appellant's mother and  signed  by  "N  Nsingo,  Chief
+Inspector, Bulawayo Central Police Station",  the  other  dated  10  October
+2007 addressed to  the  appellant  and  signed  by  "T  Gunguwo,  Inspector,
+Administration, Bulawayo Central Police Station" - are reliable. We bear  in
+mind that false documents can be obtained in Zimbabwe relatively easily  and
+that in any event the appellant is likely to have colleagues  in  her  local
+police station prepared to assist with such documentation. We  are  prepared
+to accept, however, that the January 2007 pay advice  slip  is  genuine  and
+indeed neither party sought to persuade us otherwise.
+
+94. For all the above reasons (1)  we  consider  that  her  account  of  her
+precise  role  as  a  serving  police  officer   between   2000-2007   lacks
+credibility; and (2) we are fully satisfied that she  was  a  detective  and
+that her involvement in police mistreatment of MDC  supporters  was  greater
+than she claimed.  The matter of  the  timing  and  extent  of  her  greater
+involvement  is  one  to  which  we  shall  turn,   when   considering   the
+implications of our findings of fact for her legal position under  the  1951
+Convention,  the Directive 2004/83/EC (the Refugee Qualification  Directive)
+and Article 3 ECHR.
+
+Application of the exclusion clauses
+
+95. Our principal task is to decide whether there are "serious  reasons  for
+considering" that the appellant has committed an  act  contrary  to  Article
+1F: see Yasser Al_Sirri [2009] EWCA Civ 222 and R(JS) (Sri Lanka)  para  39.
+In the 13 January 2010 Reasons for  Refusal  letter  the  respondent  stated
+that there were serious reasons  for  considering  that  the  appellant  was
+complicit in the crimes against humanity committed by  the  ZRP  during  her
+period of service and she thereby stood to  be  excluded  from  the  Refugee
+Convention under: (i) Article 1F(a)  of  the  1951  Convention  as  she  had
+committed crimes against humanity as part of  a  joint  criminal  enterprise
+and as an aider and abettor; and  (ii) Article 1F(c) because  she  had  been
+guilty of acts contrary  to  the  purposes  and  principles  of  the  United
+Nations.  The thrust of the  appellant's  appeal  is  that  neither  Article
+1F(a) nor Article 1F(c) apply to her,  and  that  she  is  a  refugee  under
+Article 1A(2).
+
+Article 1F(b)
+
+96. At the outset of the hearing we raised with the  parties  the  issue  of
+whether  the  appellant  fell  (additionally  or   otherwise)   within   the
+exclusionary scope of Article 1F(b): we had previously issued directions  to
+ensure the parties made submissions as to the implications of the  Court  of
+Justice ruling in B and D v Germany (Area of Freedom, Security and  Justice)
+[2010] EUECJ C-101/09 (9 November 2010), which concerned Article  1F(b)  and
+the equivalent provision of the Qualification Directive,  Article  12(2)(b).
+In response, both parties made submissions, Mr Symes arguing that we  should
+find that the appellant was not caught by Article  1F(b)  (we  have  already
+noted his submissions on this at para 73) and Mr Ouseley arguing  we  should
+find the opposite.
+
+97. Neither party sought to submit that  it  was  impermissible  for  us  to
+extend our inquiry to embrace Article 1F(b).   We  are  conscious,  however,
+that in MH (Syria) DS (Afghanistan) [2009] EWCA Civ 226 the Court of  Appeal
+was faced with a case in which the Secretary of State had sought to rely  as
+a ground of appeal in the case of DS on the  contention  that  the  Tribunal
+had erred in failing to consider categories of exclusion  under  Article  1F
+other than crimes against humanity.  Richards LJ dealt with this  ground  as
+follows:
+
+    "74.   Despite the position taken by the Home Office Presenting Officer
+         before the senior immigration judge, Mr Sheldon pursued  the  point
+         before us.  He submitted that the immigration  judge  was  under  a
+         duty to consider, in the light of her findings,  whether  the  case
+         fell within Article 1F(b) or (c).   Where  Article  1F  issues  are
+         obvious in the Robinson sense they must be taken  by  the  tribunal
+         even if not raised by the parties: see Gurung paras 38, 47 and  92;
+         Secretary of State for the Home Department v A (Iraq)  [2005]  EWCA
+         Civ 1438, paras 27-30; and GH (Afghanistan) v  Secretary  of  State
+         for the Home Department [2005] EWCA Civ 1603, para 16.   What  made
+         the existence of an issue under Article 1F(b)  or  (c)  obvious  in
+         this case was that DS was a member of an  organisation  engaged  in
+         large-scale torture and that he was found to have known  about  the
+         abuses.  The immigration judge was under an obligation to  consider
+         the issue even though  the  Secretary  of  State's  case  had  been
+         limited to Article 1F(a) and therefore, on the immigration  judge's
+         findings, pitched too high.  Had she considered it, she  must  have
+         concluded that the exclusion under Article  1F(c),  at  least,  was
+         engaged.  Her failure to take the point of her own  motion  was  an
+         error of law, and the senior immigration judge was  wrong  to  find
+         otherwise.
+
+
+    75.    I readily accept that the Secretary of State might  have  had  a
+         case against DS under Article 1F(b) or (c)  had  the  evidence  and
+         argument been presented in that way.  But that  was  not  the  case
+         advanced.  The case was put squarely  on  participation  in  crimes
+         against humanity, within Article 1F(a).  That was the basis of  the
+         Secretary of State's original decision and of her case  before  the
+         immigration judge.  That was the issue to which  the  evidence  and
+         submissions on behalf of DS were addressed.  In order to  pursue  a
+         case under Article 1F(b) or (c), the Secretary of State would  have
+         had to give notice of the precise way in which the  case  was  put,
+         and DS would  have  had  to  be  given  an  opportunity  to  obtain
+         additional expert evidence and make further submissions.  That  was
+         not done.  The issues arising  under  article  1F  are  potentially
+         complex and the immigration judge could not sensibly reach  a  view
+         on the application of Article 1F(b) or (c) simply on the  basis  of
+         evidence and submissions directed to Article  1F(a).   If,  despite
+         the way in which  the  Secretary  of  State's  case  was  put,  the
+         immigration judge considered that Article 1F(b) or (c) ought to  be
+         considered, it would have been open to her to invite the parties to
+         deal with the issues, granting an appropriate adjournment  for  the
+         purpose.  But it cannot be said that she was required  to  go  down
+         that line, let alone that she was required to  determine  the  case
+         under Article 1F(b) or (c) on the basis of the  existing  material.
+         Even if the Secretary of State is entitled to rely on the  Robinson
+         principle in relation to  an  issue  such  as  this,  which  it  is
+         unnecessary to decide, the applicability of Article 1F(b)  and  (c)
+         was not an obvious point (one with a strong  prospect  of  success)
+         such as to engage the principle  and  to  require  the  immigration
+         judge to take the point for herself.
+
+
+    76.    Accordingly, the immigration judge did not fall into legal error
+         by failing to take the point."
+
+
+98. We are left in some doubt as to how this analysis applies  to  the  case
+in hand.  Whilst Richards LJ states that in order to  pursue  a  case  under
+one or more of the exclusion subcategories, the respondent  "would  have  to
+give notice of the precise way in which the case was put",  he  went  on  to
+accept that it would have been open to the tribunal judge in  any  event  to
+invite the parties to deal with the issue, albeit "it  cannot  be  said  she
+was required to go down that line..."  His Lordship added that even  if  the
+respondent was entitled to rely on the Robinson  principle  in  relation  to
+such an issue, the  applicability  of  the  two  further  subcategories  the
+respondent sought to raise in the DS case was not obvious because there  was
+no strong prospect of success.  In the  appellant's  case  by  contrast,  we
+invited the parties to deal with the issue  and  both  were  given  adequate
+time to address it.  Further, the Article 1F(b) point in her  case  was  one
+which we viewed potentially as having strong prospects of success.   In  the
+event, because of the conclusion we go on to reach in  relation  to  Article
+1F(a) it is not necessary to reach a  definitive  decision  on  this  issue;
+although we will address the appellant's position under 1F(b) on  an  obiter
+basis.  We would, however, observe that  subject  to  issues  of  procedural
+fairness and of real prospects of success, we  doubt  that  a  judge  tasked
+with deciding whether mandatory exclusion clauses apply can fail to reach  a
+decision on each of them, particularly in a case in which  the  only  reason
+for finding that an appellant was not caught by Article  1F(a)  was  because
+he or she failed to meet the chapeau requirements of the  latter  (viz.  the
+requirement that acts falling with  Article  7(1)(a)-(k)  be  "committed  as
+part of a widespread or systematic  attack  directed  against  any  civilian
+population, with knowledge of the attack"). An  alternative  approach  would
+run the risk of exempting from exclusion even a person who had  committed  a
+crime  that  was  patently  a  serious  non-political  crime,  e.g.  murder,
+torture, rape. On this  issue  we  regard  Gurung,  paras  38,  47,  92  and
+Secretary of State for the Home Department v A (Iraq) [2005] EWCA Civ  1438,
+paras 27-30 as being still good law.
+
+Article 1F(c)
+
+99. It is convenient next to dispose  of  the  other  exclusion  subcategory
+involved in this case - Article 1F(c).  As already noted, this  was  one  of
+two Article 1F subcategories expressly applied  by  the  respondent  in  the
+reasons for refusal decision.  In relation to cases  falling  under  Article
+1F(c) the principal UK authority is Al-Sirri [2009] EWCA  Civ  307.   Sedley
+LJ, whilst rejecting the appellant's contention that  this  subcategory  was
+confined to persons deploying state power, also considered that in order  to
+give effect to the "purposes and  principles"  requirement  the  case  would
+need to have an international dimension: see paras 32, 51.  In  the  absence
+of further argument from the parties  we  incline  to  the  same  view.  (We
+observe that very recently  in SS (Libya) v Secretary of State for the  Home
+Department [2011] Civ 1547 Carnwath LJ noted that on the  issue  of  whether
+Article 1F(c) imports an international dimension requirement, Sedley  LJ  in
+Al Sirri "did not need to express a definitive view for the purpose  of  the
+case before him"; but the same  is  true  of  Carnwath  LJ's  own  expressed
+doubts in SS (Libya) about there being such a requirement; and,  we  further
+observe,  submissions before his court on the issue centred chiefly  on  the
+discrete matter of whether such a requirement was a necessary  part  of  the
+definition of terrorism: see paras 16, 27.) There  has  been  no  suggestion
+that in Zimbabwe cases  there  is  the  requisite  international  dimension.
+Accordingly we conclude that  Article  1F(c)  has  no  application  to  this
+appellant.
+
+100. Subject to what we have said above regarding Article  1F(b)  this  case
+turns, therefore, on Article 1F(a).
+
+Specific observations on legal framework and case law
+
+101. With limited exceptions, we do not propose to set out in  the  body  of
+the decision either the relevant legislative materials or the  most  salient
+principles identified in case law; although purely for  the  convenience  of
+the reader we include these in Appendices.   We  take  the  view  that  when
+dealing with exclusion cases tribunal judges  should  take  these  materials
+and that guidance as an essential starting point.  After  a  lengthy  period
+following the reporting of  Gurung  (IG  (Exclusion,  Risk,  Maoists)  Nepal
+[2002] UKIAT 04870) on 14 October 2002,  the Supreme  Court  in  R(JS)  (Sri
+Lanka) has now settled most of the issues about which there was  uncertainty
+and it is unnecessary to set out their guidance in  the  main  body  of  the
+determination. As already noted,  this  guidance  clearly  directs  that  we
+should treat the source of applicable norms when applying Article  1F(a)  of
+the 1951 Convention as being those set out in  the  ICC  Statute:  in  R(JS)
+(Sri Lanka), the Supreme Court regarded  Art  12(3)  of  the  Qualification
+Directive as offering no more than a shortened  version  of  the  provisions
+found in Art 25(3) of the ICC Statute: see e.g.  Lord Brown at para  33.  In
+what follows we need only deal with the more specific legal  issues  arising
+in this case (which as we shall see turn mainly on  criminal  responsibility
+in the form of aiding and abetting and not, as in R(JS)(Sri Lanka) on  joint
+criminal enterprise). In that regard we should mention that  we  made  clear
+to the parties at the end of the hearing that to  assist  us  in  evaluating
+their submissions (which in Mr Symes' case included  extensive  citation  of
+the case law of the various  international  criminal  tribunals),  we  would
+have regard to academic authority; and in what follows we refer  in  several
+places  (without  identifying  the  authors  of  particular   chapters   and
+sections), to the leading textbook by Otto Triffterer  (ed),  Commentary  on
+the Rome Statute of the International Criminal Court, 2nd  ed,  2008.  There
+is first of all, however, one general matter concerning the  guidance  given
+in R(JS) (Sri Lanka) that needs emphasising.
+
+B and D v Germany
+
+102. In the Appendices we include extracts from the judgment  of  the  Court
+of Justice in B and D v  Germany.   Although  that  considered  two  Article
+1F(b) (Article 12(2)(b)) cases it sought to give guidance  relating  to  key
+elements of the international crimes encompassed by Article 1F as  a  whole.
+Unlike a judgment of the European Court of Human Rights,  judgments  of  the
+Court of Justice are binding on us and so, if  there  were  any  significant
+differences between the guidance given in R(JS) (Sri Lanka) and B and D,  we
+would have to follow the latter.
+
+103.  Further,  as  Sedley  LJ  acknowledged  in  Al-Sirri  and  Lord  Brown
+acknowledged in R(JS) (Sri Lanka), as a result of the coming into  force  of
+the Qualification Directive, the legal rules we must  apply  are  those  set
+out  in  Article  12  of  the  Qualification  Directive  (Article  11  where
+exclusion from subsidiary protection is concerned).  The  Supreme  Court  in
+R(JS) (Sri Lanka) formulated their reasons without the benefit of the  Court
+of Justice ruling now to hand.  Now we have  that  ruling  it  is  essential
+that we apply it and the simplest way to do that is to  draw  directly  upon
+its formulation of the relevant legal tests, although we would note that  we
+see no significant difference between its guidance and that given  in  R(JS)
+(Sri Lanka). We turn therefore to consider the principal legal  issues  that
+we need to address in this case.
+
+Duress
+
+104. The basis of the appellant's appeal is two-limbed.   Mr  Symes  submits
+that she did not participate in crimes against humanity so as  to  meet  the
+requirements of criminal liability within the meaning of  the  ICC  Statute,
+but that even if she did, she  had  a  ground  for  excluding  her  criminal
+responsibility, namely a defence of duress. It is convenient to address  the
+duress issue first and in  this  context  we  shall  set  out  the  relevant
+statutory provisions in the main body of the determination.  Article  31  of
+the ICC Statute in its relevant parts provides:
+
+    "Article 31
+    Grounds for excluding criminal responsibility
+
+    (1)     In  addition  to   other   grounds   for   excluding   criminal
+         responsibility provided for in this Statute, a person shall not  be
+         criminally responsible if, at the time of that person's conduct:
+              ...
+         (d)      The conduct which is alleged to constitute a crime  within
+             the jurisdiction of  the  Court  has  been  caused  by  duress
+             resulting from a threat of imminent death or of continuing  or
+             imminent serious bodily harm against that  person  or  another
+             person, and the person  acts  necessarily  and  reasonably  to
+             avoid this threat, provided that the person does not intend to
+             cause a greater harm than the one sought to be avoided.   Such
+             a threat may either be:
+
+
+             (i) made by other persons; or
+             (ii)       constituted  by  other  circumstances  beyond  that
+                  person's control.
+
+
+    (2)    The Court shall determine the applicability of the  grounds  for
+         excluding criminal responsibility provided for in this  Statute  to
+         the case before it.
+
+
+    (3)    At trial, the Court may consider a ground for excluding criminal
+         responsibility other than those referred to in  paragraph  1  where
+         such a ground is derived  from  applicable  law  as  set  forth  in
+         Article 21.  The procedures relating to the consideration of such a
+         ground shall  be  provided  for  in  the  Rules  of  Procedure  and
+         Evidence."
+
+
+105. As regards duress, the appellant accepted that she could  not  rely  on
+the "only following orders" defence under Article 33 of the ICC Statute,  as
+orders to commit genocide and crimes  against  humanity  are  by  reason  of
+their subject matter deemed  "manifestly unlawful".  Rather,  her  case  was
+that the context in which she operated constituted  a  threat  of  at  least
+serious bodily harm against her, she being  a  mother  with  a  daughter  to
+think about; that in this context  she  acted  proportionately  (failing  to
+beat people at demonstrations, slapping  rather  than  beating  a  detainee,
+recording events rather than  taking  a  more  active  role)  and  that  the
+consequences were not greater than the risk avoidance  for  her  (she  would
+have been branded as a traitor and be at risk of ill-treatment herself).
+
+106. We believe we can dispose  of  the  duress  claim  relatively  briefly.
+Article 31(1)(d) of the ICC  Statute  makes  clear  that  duress  can  be  a
+defence to  international  criminal  responsibility..  In  draft  Article  9
+(dealing  with  'Exceptions  to  the  principle  of   responsibility')   the
+International Law Commission (ILC) UN  GAOR  Supp.No.10:  UN  doc.  A/42/10/
+(1987) at 18 noted that for 'coercion to be considered as an exception,  the
+perpetrator of the incriminating act must be able  to  show  that  he  would
+have placed himself in grave imminent  and  irremediable  peril  if  he  had
+offered any resistance'. Whether it is a complete  defence  and  whether  it
+can apply in all types of cases remains unsettled:  see  the  Trial  Chamber
+discussions in Prosecutor v Endermovic (IT-96-22) 7 June 1997 (a case,  like
+all the other overseas cases to which we refer elsewhere  in  this  decision
+-unless otherwise specified- decided by the International Criminal  Tribunal
+for the Former Yugoslavia or ICTFY). It  appears  uncontroversial,  however,
+that such a defence is confined to situations where the defendant's  freedom
+of will and decision is so severely limited  that  there  is  eventually  no
+moral  choice  of  counter  activity  available;  and  that  it   has   four
+components: the threat must be of imminent death or continuing  or  imminent
+serious bodily harm; the threat must result in duress causing the  crime;  a
+threat results in duress only if  it  is  otherwise  avoidable  (i.e.  if  a
+reasonable person in  comparable  circumstances  would  have  submitted  and
+would have been driven to  the  relevant  criminal  conduct);  and  the  act
+directed at avoiding the threat must be  necessary  in  terms  of  no  other
+means being available and reasonable for reaching the desired effect.
+
+107. Assuming for the moment that  the  appellant  did  participate  in  the
+crimes against humanity alleged by the respondent, we consider the  evidence
+to demonstrate that at no point was the appellant in a situation of  duress.
+First of all, we find that at no point  was  she  faced  with  a  threat  of
+imminent death or of  continuing  or  imminent  serious  bodily  harm.   The
+background evidence does not show  that  police  officers  who  resigned  or
+deserted - and there were very significant numbers of them - ordinarily  met
+with threats of ill-treatment and, even assuming that a small  number  were,
+that such threats faced by them were imminent.  Both experts  described  the
+likely reaction by the authorities to desertions  as  likely  to  vary  from
+judicial (prosecution and imprisonment) to other non-judicial measures  such
+as quarantining and harassment about  housing  and/or  debts.  Both  experts
+also described the police procedure in relation to those who  went  AWOL  as
+allowing 21 days before any step was taken, then  a  further  period  of  90
+days to complete other  steps.   Whilst  neither  ruled  out  that  possible
+reactions to desertion could include ill-treatment, neither  suggested  that
+the evidence demonstrated that was a real risk for the generality of  police
+deserters or that even if ill-treatment would be carried out,  it  would  be
+immediate.  Nor did the appellant herself suggest that she  was  aware  that
+police deserters had faced imminent repercussions.
+
+108. Secondly, and in  any  event,  for  the  appellant's  account  to  have
+established duress it would have been necessary to  postulate  that  if  she
+had taken any kind of avoidance action during  the  torture  of  Mhlanga  or
+Sibanda (or  at  Plumtree)  (e.g.  feigning  sick,  pointing  out  that  the
+Zimbabwean Police Act proscribed such conduct, saying  she  felt  unable  to
+participate), that she would immediately have faced  a  threat  of  imminent
+harm.  Far more likely is that she would have been suspended  or  threatened
+with disciplinary action and at  some  later  stage  difficulties  may  have
+worsened. The evidence simply does not support the idea that  the  immediate
+or short-term reaction would have been imminent harm.
+
+109.  As  we  have  already  emphasised  when  assessing   the   appellant's
+credibility, we are not able to accept that there was a  significant  period
+of time during 2007 when the appellant was unaware that she was taking  part
+in police actions that were abusive and that it was only  in  mid-July  that
+she was in a position  to  make  a  moral  choice  not  to  participate  any
+further. In our judgment she  must  have  known  from  early  2007  (if  not
+before) that she was engaged in abusive conduct and  had  had  available  to
+her for some time means for avoiding such  conduct.  On  our  findings,  the
+plain fact of the matter is that she  never  turned  her  mind  to  possible
+avoidance of participation in abusive conduct.
+
+Crimes against humanity: the chapeau requirement
+
+110. In the Reasons  for  Refusal  letter  and  submissions  the  respondent
+identified background country evidence  that  supported  her  view  that  in
+Zimbabwe during the period relevant to the appellant's case (2000-2007)  the
+state authorities, including the police, were engaged in acts as defined  in
+Article  7(1)(a)-(k)  of  the  Rome  Statute  "...committed  as  part  of  a
+widespread or systematic attack directed  against  any  civilian  population
+with knowledge of the attack".  Indeed Mr Ouseley  maintained  that  such  a
+pattern of attacks had been occurring since Mugabe came  to  power  in  1980
+and he pointed to the  violent  action  taken  by  the  Zimbabwean  military
+against  the  Ndebele  ethnic  group  in  Matabeleland   between   1983-1987
+resulting in the deaths of between 10,000-20,000 civilians.  He  also  cited
+the Tribunal case of SK (Article 1F(a) exclusion) Zimbabwe [2010] UKUT  327,
+in  which  Ouseley  J  followed  Mitting  J  (and  the  latter's  order  for
+reconsideration) in regarding it as "beyond doubt" that the Mugabe  regime's
+attacks on white farmers and their workers constituted  an  attack  directed
+against the civilian population so as to meet  the  Article  7(1)  "chapeau"
+requirement (paras 4, 12, 35-39). Given that  the  respondent  identified  a
+considerable body of background country evidence in support of its  position
+and that Mr Symes expressly eschewed arguing that  the  chapeau  requirement
+was not met in this case, we do not consider there is any need in this  case
+to conduct any further examination of this issue.  Two general  observations
+are, however, in order.
+
+111.  First,  the  chapeau  requirement  is  an  essential  element  in  the
+definition of a crime against humanity and if not met the acts specified  in
+Article  7(1)(a)-(k)  do  not  constitute  such  a  crime,  no  matter   how
+reprehensible they may be.  As stated in Triffterer, p.168, the  chapeau  of
+paragraph 1 establishes the  jurisdictional  threshold  of  the  Court  over
+crimes against humanity under the Statute.  Article  7(1)  has  to  be  read
+together with the Elements of Crimes  document  which  the  ICC  adopted  in
+September 2002 and which under Article 21 of the  Statute  is  part  of  the
+first rank of legal sources to which that court shall have regard.
+
+112. Second, in  the  nature  of  such  a  requirement,  background  country
+evidence will play a critical part in deciding whether it  is  met.   It  is
+clear from decisions of the International Criminal  Court  -  see  e.g.  the
+decision on post-election violence in Kenya (Situation  in  the  Repubic  of
+Kenya  (Decision  Pursuant  to  Article  15  of  the  Rome  Statute  on  the
+Authorisation of an Investigation into the  Situation  in  the  Republic  of
+Kenya (ICC-01/09; 31  March  2010))  -  and  other  international  tribunals
+dealing with international criminal  liability  that  the  fact-finder  will
+need to make specific findings not only on intention and knowledge but  also
+on the temporal and geographical scope of such crimes and  (in  relation  to
+their material scope) identify why in particular it is considered that:  (i)
+there is an attack on the civilian population (or part  of  it);  (ii)  that
+the  attack  consists  in  a  course  of  conduct  involving  the   multiple
+commission of crimes against humanity; (iii) there is a plan  or  policy  of
+the State or  organisation  involved;  (iv)  that  the  state  has  actively
+promoted or encouraged such an attack; (v) that there  is  a  widespread  or
+systematic attack where the perpetrators knew this, or intended the  conduct
+to be part of such an attack.  These are  not  considerations  to  be  taken
+lightly: the international  community  through  treaties  such  as  the  ICC
+Statute has not seen it as appropriate to designate discrete  acts  such  as
+torture and rape as "crimes against humanity" per se.  It has reserved  this
+designation  for  "macro-crimes"  in  which  the  actors  concerned  possess
+resources on a large scale and use them  to  humanity's  detriment.  At  the
+same time, case law has established that crimes against humanity  can  occur
+even in the absence of an armed conflict and it is not  required  that  each
+act listed in Article 7(1) occurring within  the  attack  be  widespread  or
+systematic, providing that the acts form  part  of  an  attack,  with  these
+characteristics. Additionally, the commission of a single act,  e.g.  murder
+or torture, in the context  of  a  broader  campaign  against  the  civilian
+population, can constitute a crime against humanity  (Tadic  Trial  Chamber,
+IT-94-T, 7 May 1997, para 649). In view of what we go on  to  say  below  at
+paras 123- 125, it is important to  emphasise  as  well  that  for  a  crime
+against humanity to arise under the ICC Statute there must also  be  an  act
+within the listed acts specified in Article 7(1)(a)-(f).
+
+113.  In  several  cases  that  have  already  come  before  UK  courts  and
+tribunals, there has been an issue of whether the  chapeau  requirement  was
+met, see e.g. in MH (Syria) [2009] EWCA Civ 226 the Court  of  Appeal  found
+that there was a sufficient  evidential  basis  to  justify  an  Immigration
+Judge in finding it had been  met  in  relation  to  the  role  of  KhaD  in
+Afghanistan, particularly during  the  1980s.   In  Azimi-Rad  (Art.1F(a)  -
+complicity - Arts 7 and 25 ICC Statute)  Iran  [2011]  UKUT  339  (IAC)  the
+Upper Tribunal was satisfied that it was reasonably open to the  immigration
+judge on the background evidence before her to conclude that  the  Basij  in
+Iran had in the relevant period committed multiple crimes against  humanity.
+ However, in such cases the challenge  was  confined  to  an  error  of  law
+challenge and the issue was not whether the tribunal would have reached  the
+same conclusion had they been themselves the fact-finder.   By  contrast,  a
+tribunal judge who has a  fact-finding  role  will  need  to  apply  anxious
+scrutiny to assess for  himself  whether  the  background  country  evidence
+establishes the chapeau requirement,  even  if  the  parties  agree  between
+themselves that it is established.
+
+114. Third, in principle the question of whether acts are  '...committed  as
+part of a widespread or systematic attacks  directed  against  any  civilian
+population' (the Article 7(1) chapeau requirement) is a  matter  that  could
+be dealt with in future country guidance cases;  although  the  question  of
+whether there exist acts with such a nexus must always be decided on a case-
+by-case basis. (Although not a decisive consideration, we  would  also  note
+that because assessing Article  1F(a)  criminal  responsibility  necessarily
+involves assessment of evidence of past  events,  there  is  not  the  added
+difficulty often confronted in country guidance cases of assessing  risk  of
+such events happening in the future.)
+
+International criminal responsibility
+
+115. In the appellant's case the three  issues  relating  to  her  potential
+liability for a crime or crimes against humanity under Article 7(1)  of  the
+ICC Statute are threefold:
+
+    (i)     Has she committed any excludable acts as a (co-) principal?
+
+
+    (ii)    If not excludable as a (co-) principal, has she  committed  any
+        excludable acts as a non-principal (as an aider or abettor)?
+
+
+    (iii)   In any event, does she have a defence of duress?
+
+
+116. We have already dealt with (iii).
+
+117. In relation to (i), it is important to bear in mind  that  Article  25,
+which   encapsulates   the   basic   concepts   of    individual    criminal
+responsibility, refers to three forms of perpetration: on one's  own,  as  a
+co-perpetrator or through another person (perpetration by means): see  R(JS)
+(Sri Lanka), paras 16-19. Plainly  in  the  appellant's  case  we  are  only
+concerned with co-perpetration. So far as co-perpetration is concerned,  the
+Tadic Appeals Chamber in Prosecutor v Tadic, 15 July  1999,  (1999)  9  IHRR
+1051 distinguished three categories of  collective  criminality:  the  basic
+form (where the participants act on the basis of a common design  or  common
+enterprise and with a common intention); the  systemic  form  (where  crimes
+are committed by units on the basis of a common plan -  viz.  the  so-called
+concentration camp cases) and the extended joint enterprise  (where  one  of
+the co-perpetrators actually engages  in acts going beyond the  common  plan
+but  still  constituting  a  natural  and  foreseeable  consequence  of  the
+realisation of the plan). Again, on the facts of  the  appellant's  case  we
+are only concerned with the basic form of co-perpetration.
+
+118. R(JS) (Sri Lanka) is, of course,  primarily  a  case  about  the  basic
+form, known as "joint criminal enterprise" (jce), which Lord Brown  at  para
+34 noted is wider in scope than any recognised basis  for  joint  enterprise
+criminal liability under domestic law. For there to be jce there must  be  a
+plurality of persons who act on an  explicit  or  implicit  common  plan  or
+purpose, and  the  accused  must  take  part  in  this  plan,  at  least  by
+supporting or aiding its realisation. There must be a shared intent  on  the
+part of the co-perpetrators. On the basis of leading  cases,  in  particular
+Prosecutor v Kordic and Cerkez Trial  Chamber  (IT-95-14/2),   Prosecutor  v
+Krnojelac Trial Chamber (IT-97-25-A, 15 March 2002)  and  the  Prosecutor  v
+Krstic Trial Chamber (IT-98-33) cases, responsibility  as  a  co-perpetrator
+requires being more than a mere accomplice and requires participation of  an
+extremely significant nature and at a leadership level.
+
+119. Art 12(3) of the Qualification Directive  provides  that,  inter  alia,
+Article 1F(a) applies  not  only  to  those  who  personally  commit  crimes
+against humanity but also those "who instigate or otherwise  participate  in
+the commission of [crimes against humanity]". This is consistent  with  the
+approach adopted in the ICC Statute. Art 25(3)(a)-(d) of  this  Statute  lay
+down, in effect, in descending  order  the  level  of  involvement  that  an
+individual must have to be criminally responsible.   Article  25(3)(b)  sets
+out the different forms of participation and  Article  25(3)(c)  establishes
+individual criminal responsibility if a person  "aids,  abets  or  otherwise
+assists..." as a subsidiary form of participation. (It is not  necessary  in
+the context of this case to seek to address the meaning  of   "or  otherwise
+assists" as a form of participation.).  Aiding  and  abetting  differs  from
+joint criminal responsibility (jce) in  that  whilst  the  former  generally
+only requires the knowledge that the  assistance  contributes  to  the  main
+crime,  participation  in  jce  requires  both  a  common  purpose  and   an
+intentional contribution of the participant (Triffterer, pp. 756-758)  to  a
+group crime. Aiding and abetting encompasses  any  assistance,  physical  or
+psychological, that has a  substantial  effect  on  the  commission  of  the
+crime. Article 2 para 3(d) of the 1996 Draft Code requires that  aiding  and
+abetting should be "direct and substantial", i.e.  the  contribution  should
+facilitate the commission of a crime in "some significant  way".  The  Trial
+Chamber in Tadic II, the Trial Chamber in the  Prosecutor  v  Naletilic  and
+Martinovic (IT-98-34) cases and the Appeal Chamber in Prosecutor  v  Akeyesu
+(Case No. IT-95-14/l-T), paras 484, 706) interpreted "substantial"  to  mean
+that the contribution has an effect  on  the  commission,  that  is  have  a
+causal relationship with the result and it included within the concept  "all
+acts of assistance by words or acts that lend encouragement or support".  In
+Prosecutor v Furundzija (IT-95-17/1-T, 10 December 1998),  paras  199,  232,
+273-4,  the Trial Chamber said that assistance need not be tangible:  "moral
+support and encouragement" can suffice, albeit it must "make  a  significant
+difference to the commission of the criminal  act  by  the  principal":  see
+also Prosecutor v Brdanin (IT-99-36-A, Appeal Chamber,  3  April  2007)  and
+Prosecutor  v  Perisic  (IT-04-81-T,  6  September  2011).   The   requisite
+knowledge may be inferred from all relevant circumstances, i.e.  it  may  be
+proven by circumstantial evidence (Prosecutor v Tadic, para 689;  Prosecutor
+v Akeyesu para 498). With these  essential  elements  in  mind  we  turn  to
+consider what is said in this case as to whether the  appellant  was  a  co-
+perpetrator in a jce and/or as an aider or abettor.
+
+ Joint criminal enterprise (jce) and aiding and abetting
+120. It is not wholly clear whether the respondent seeks to  argue  in  this
+case that the appellant can be excluded on the basis of any  acts  committed
+by her as an aider and abettor only or also as a co-principal.  In  para  69
+of the Reasons for Refusal  letter  the  respondent  does  allege  that  the
+appellant has  committed  crimes  against  humanity  "as  part  of  a  Joint
+Criminal Enterprise", but the reasoning leading up  to  this  allegation  is
+equally consistent with the appellant being merely  an  aider  and  abettor.
+Paragraphs 66-69 state:
+
+
+    "66.   You did not specify what role you held when you were involved in
+         torturing people as a group, however you have portrayed yourself as
+         a willing individual.  It is considered that you were at  the  very
+         least acquiescing to the international crimes committed during this
+         period by the Zimbabwean Republic Police, and that  you  aided  and
+         abetted in the commission of such crimes by  arresting  people  and
+         being involved in their torture, as well as raiding people's  homes
+         on  the  basis  of  their  political  views.   Furthermore,  it  is
+         considered that you took  part  in  such  activities  without  much
+         difficulty in terms of your conscience as you stated that following
+         torturing an individual 'we taken them back to the cells and  knock
+         off duty and continue what you are doing' (AIR Q60).
+
+
+    67.    Your admittance [sic] that you took  part  in  the  beating  and
+         intimidation of MDC supporters and disrupted anything  to  do  with
+         MDC (AIR Q25) relates to your role as a police officer in  the  ZRP
+         between February 2000 and June 2007.  You describe  being  directly
+         involved in physical attacks against opposition supporters and have
+         been involved in torture as part of a group (AIR  Q53).   You  have
+         admitted your involvement in disrupting MDC  rallies  using  batons
+         (AIR Q32).  You also coherently and  consistently  described  being
+         told to beat up MDC supporters, raid their houses and disrupt their
+         rallies.
+
+
+    68.    It is considered that you were complicit because you had been  a
+         participating and knowing member of the Zimbabwean Republic Police.
+          You  participated  in  a  number  of  police  raids,  beating  and
+         incidents of torture.  It is noted that, despite claiming that  you
+         did not approve of participating in such activities,  it  took  you
+         seven years to disassociate yourself from such activities.  On  the
+         basis of your own evidence and the  available  objective  evidence,
+         there are serious reasons for  considering  that  between  February
+         2000 and June 2007, you were  individually  criminally  responsible
+         for the crimes against humanity of torture and other inhumane  acts
+         of a similar character intentionally causing  great  suffering,  or
+         serious  injury  to  body  or  to  mental  or  physical  health  in
+         accordance with Article 25  of  the  International  Criminal  Court
+         Statute.
+
+
+    69.    Accordingly, there are serious reasons for considering that  you
+         were complicit in the crimes  against  humanity  committed  by  the
+         Zimbabwe Republic Police during your period of service and in  turn
+         it is considered  that  you  warrant  exclusion  from  the  Refugee
+         Convention  under  Article  1F(a)  of  the  1951   United   Nations
+         Convention and there are serious reasons for considering  that  you
+         have committed crimes against humanity as part of a Joint  Criminal
+         Enterprise."
+
+121. Whilst Mr Ouseley did not resile as such from the same position  during
+the  proceedings  before  the  Upper  Tribunal,  the  main  burden  of   his
+submissions was that the appellant was guilty of an Article 1F(a)  crime  as
+an aider and abettor, not as a participant in a jce.  Bearing  in  mind  the
+emphasis in leading cases on the need for co-principals to have  some  level
+of leadership role, we have reached the conclusion that in relation  to  the
+appellant the allegation of co-perpetration cannot be  made  out  as  it  is
+common ground that, even if she was  in  fact  a  detective  rather  than  a
+constable, she could not be said to have  held  any  significant  leadership
+role and her own accounts, even keeping in mind that in  our  judgement  she
+has sought to downplay her own role, do not  suggest  that  in  any  of  the
+incidents in which she was involved that potentially qualify as  acts  under
+Article 7(1)(a)-(k),  she  played  a  leading  role.  Accordingly  we  shall
+proceed on the basis that Article 1F(a) can  only  be  applied  against  the
+appellant if it is shown that she was  an  aider  and  abettor.  As  already
+noted, for a person to be an aider  and  abettor  it  is  not  necessary  to
+establish a common purpose.
+
+Excludable acts
+122. It was  common  ground  between  the  parties  that  there  were  three
+possible types of acts capable of  constituting  a  crime  against  humanity
+engaged by the facts of the appellant's  case:  Article  7(1)(f)  (torture);
+Article 7(1)(b) (persecution) and Article 7(1)(k) (other inhumane acts of  a
+similar character intentionally causing great suffering, or  serious  injury
+to body or to mental or physical health).
+
+123. We would only note here  that  in  seeking  to  identify  the  possible
+events in which it could be said the appellant may have committed such  acts
+as principal  or  aider  and  abettor,  Mr  Symes'  skeleton  argument  list
+enumerated beatings, torture, violent disruption of around 11  MDC  rallies;
+arrest and ill-treatment of Stephen Mhlanga and Gibson Sibanda; and  general
+actions of the police.  There was no  mention  of  her  involvement  in  the
+Plumtree incident, notwithstanding that she  herself  described  it  as  the
+worst incident she had experienced.  It was partly with a view  to  ensuring
+that our inquiry extended to consider the possible status of  this  incident
+as a crime against humanity that we  sought  further  submissions  from  the
+appellant's  representatives  (with  provision  for  a  respondent's  reply)
+regarding relevant case  law/academic  authority  on  "cover  ups"  of  mass
+murder. In response Mr Symes referred us to  case  law,  in  particular  the
+case of Prosecutor v Blagojovic (IT-02-60-T,  17  January  2005),  which  he
+submitted  established  that  it  was  not  possible   to   categorise   the
+appellant's participation in  the  Plumtree  incident  as  a  crime  against
+humanity, as the only relevant act was murder; whereas it was  not  possible
+for there to be "ex post facto" aiding and abetting of  murder.  He  pointed
+out, correctly, that the respondent had never  alleged  that  the  appellant
+was party to the plan formed by the group of persons,  whom  she  understood
+to be ZANU-PF  members,  who  murdered  the  villagers  near  Plumtree.  Her
+wrongdoing could only consist in her involvement in the "cover-up" of  those
+murders. Mr Ouseley did not add any observations on this matter.
+
+124. We are bound to say, leaving aside for the moment the issue of  whether
+the appellant  possessed  some  form  of  criminal  responsibility  for  her
+actions at  Plumtree,  that  we  are  somewhat  bemused  to  find  that  the
+enumerated list of excludable acts in Article 7(1)(a)-(k) does  not  include
+any crimes that have any obvious relationship to  the  "covering  up"  of  a
+murder (e.g. conspiracy to pervert the course  of  justice,  destruction  of
+evidence, suppression of evidence, unlawful handling of bodies). We did  not
+find much assistance from any of the case law so far as we  could  learn  of
+it from standard textbooks such as Triffterer. To our mind  there  are  only
+two alternatives: either acts relating to "cover-up" of a murder are  to  be
+seen as falling within the definition of "persecution"  or  "other  inhumane
+acts" or they are not included. Our reason for considering there to be  such
+a dichotomy is based primarily on Article 22(2) of the  ICC  Statute,  which
+enjoins  that  criminal  law  provisions  may  not  be  interpreted  to  the
+detriment of an accused and extended  by  analogy  and  on  the  fact  that,
+according to Triffterer, p.536: "Theoretically, the development  of  changes
+in humanitarian law, for instance defining crimes  against  humanity  -  not
+yet falling within the jurisdiction of the Court, cannot be blocked  by  the
+Statute. However, from the practical point of view, it can be expected  that
+on subject matters the Statute deals with in a  comprehensive  way,  such  a
+progressive development outside the possibilities provided for by review  or
+an amendment of the Statute appears improbable".  As  glaring  a  lacuna  as
+the "cover-up" of mass murder appears to us to  be,  we  cannot  contemplate
+seeking to extend the list of crimes by judicial interpretation.
+
+125. Turning to the former possibility, regarding "cover-up" of mass  murder
+as either persecution or an ("other) inhumane acts...", we do  not  consider
+the respondent has furnished enough evidence for us  to  be  satisfied  that
+the role played by the appellant and the other police called  to  the  scene
+amounted to persecution within the Article 7(1)(b)  definition.  So  far  as
+the subjects  of  harm  are  concerned,  the  persons  murdered  were  self-
+evidently already dead and it is not clear that burying  them  could  easily
+be described as cruel infliction of harm or  suffering.  We  have  no  doubt
+that  such  actions,  even  if  not  witnessed,  must  have   been   acutely
+distressing for the victim's loved ones, but the act  of  burial  in  itself
+may even be said to have a humane element, in ensuring bodies are  not  left
+to flies and carrion. In  the  absence  of  either  fuller  evidence  and/or
+clearer submissions from the respondent  responding  to  Mr  Symes'  further
+submissions on this matter, we are not persuaded that we  should  categorise
+the appellant's involvement in the Plumtree incident as being  in  itself  a
+crime against humanity. The mass murder which took place there plainly  was,
+but not the appellant's involvement in it.  The fact that it took place  and
+the appellant participated in it in the way she described  remains  relevant
+to our assessment of the general nature  of  her  participation  in  various
+incidents between February and July 2007. It  is  also  a  matter  we  shall
+return to when dealing with Article 1F(b) on an obiter  basis.  However,  it
+cannot in itself constitute a crime against humanity.  Given  this  finding,
+we would only  reiterate  our  surprise  that  the  ICC  Statute's  list  of
+excludable acts that  are  necessary  (but  not  sufficient)  to  constitute
+crimes against humanity should not include ones expressly dealing  with  the
+"cover-up" of mass murder. Indeed, more generally  we  know  only  too  well
+from history that repressive regimes will sometime go to  great  lengths  to
+destroy, suppress or otherwise "cover up" evidence of their perpetration  of
+evil acts.
+
+ Aiding and abetting
+126. Mr Symes sought to persuade us that the  appellant's  participation  in
+the two incidents  of  torture  (the  Stephen  Mhlanga  and  Gibson  Sibanda
+incidents) and in 11 rallies in Bulawayo in the  first  half  of  2007   was
+only ever at a level of participation falling short of aiding and  abetting.
+In our judgment, however, the evidence firmly establishes that  she  was  an
+aider and abettor.
+
+127. In general terms we  are  first  of  all  satisfied  that  (so  far  as
+concerns her level of involvement) in 2007 the appellant held  the  rank  of
+detective rather than constable. That was the way  she  described  her  rank
+when she filled in the  SEF  form  and  her  pay  advice  slip  she  herself
+submitted corroborated that. We make no finding on  for  how  long,  by  the
+beginning of 2007, she had held this rank, but we reject her claim that  she
+held this post only on a temporary basis  for  three  months.  We  are  also
+satisfied that throughout 2007 the appellant in fact  knew  full  well  that
+the ZRP of which she was a part  played an active part  in  abusive  conduct
+towards the MDC and other opponents of ZANU PF and  the  Mugabe  leadership.
+We do not accept that the appellant did not become  aware  of  this  in  her
+early years as a police officer (she joined in 2000). In  particular  we  do
+not accept that the sizeable degree of state control over  the  media  would
+have meant she was unaware that  the  ZRP  was  involved  in  a  significant
+number of incidents in various parts of Zimbabwe in which the police  played
+an oppressive role. We do not, for example, consider  that  she  would  have
+been unaware of the background supporting role played by the  police  during
+Operation Murambatsvina in 2005. We note that she herself had  said  in  the
+course of her different accounts that the 2005 elections  were  violent  and
+we do not find it credible  that  she  believed  the  MDC  were,  routinely,
+falsely portraying the police as being responsible for the violence.
+
+128. We also reject the appellant's claim that by virtue of being a  serving
+police officer in Bulawayo she understood her role,  and  the  role  of  her
+fellow police officers in that city more generally,  to  be  merely  one  of
+impartial law-enforcement. We  do  not  doubt  that  much  of  her  function
+between 2000-2007 was routine police work involving protection of the  local
+population against crime etc. However, we do not accept that  her  role  did
+not also involve participation in police harassment and the use of  violence
+against MDC and other political opponents of Mugabe and ZANU  PF.  As  noted
+earlier, it is clear that although the  number  of  incidents  was  less  in
+Bulawayo than in Harare, it remains that during the  period  prior  to  2007
+there were a number of recorded  incidents  in  which  the  police  took  an
+active part in arresting and detaining opposition supporters, including  the
+very high-profile World Cup cricket  incidents  which  took  place  in  late
+February/early March  2003 at Queen's Club Sports ground  in  Bulawayo  when
+police  made  arrests  of  a  very  significant  number  of   demonstrators,
+significant numbers of whom were detained and ill-treated whilst  in  police
+detention. We remind ourselves of the evidence recorded at para 26 above  in
+the form of the Physicians for Human Rights Denmark  17  April  2003  report
+entitled "Peaceful Protest and Police Torture in the  city  of  Bulawayo  24
+February - 25 March 2003" whose findings on  these  arrests  specified  that
+all the detainees interviewed by them reported  being  ill-treated  and  all
+said that their abuse took place  at  least  in  part  at  Bulawayo  Central
+Police Station.  In this regard we note that throughout this period she  was
+stationed at the main police station in Bulawayo  and  on  her  own  account
+worked for much of that time in the charge office; so that in our  judgement
+she would have known of the comings and  goings  of  a  great  many  of  the
+persons arrested and detained.
+
+ 129. Moving to the events of 2007, bearing in mind our earlier findings  on
+the appellant's credibility, we are  quite  satisfied  in  relation  to  the
+Stephen Mhlanga incident which occurred in mid-February 2007  that  she  was
+herself present at the  scene  and   was  someone  along  with  her  fellow-
+officers in a position of authority and that, whether or not  her  principal
+job during this incident was taking notes, she  was  fully  aware  that  her
+colleagues were inflicting ill treatment  on  this  man:  she  herself  made
+threats to him whilst he was blindfolded and  her threats, along with  those
+made by her colleagues, put him in fear that he was going to be thrown  into
+the river to drown if he did not co-operate  with  them  in  giving  certain
+information. In this regard we attach significant weight to  the  fact  that
+in her asylum interview she did not seek to distance herself from  the  ill-
+treatment inflicted on this man and at no  point  sought  to  say  that  the
+collective "we" did not include herself: e.g. at Q49. In our  judgement  her
+conduct during this incident amounted to facilitation of the  commission  of
+the crime of torture in a significant way. We  are  further  satisfied  that
+her involvement in this incident was  with  specific  intent  to  contribute
+substantially to it and  that  her  role  assisted  the  common  purpose  of
+putting this man in fear of his life.
+
+130.  For  reasons  given  earlier  we  leave  aside  in  this  context  the
+appellant's involvement in the Plumtree incident.
+
+131. As regards the Gibson Sibanda incident, which took place at the end  of
+April 2007, we do not accept the appellant's claim that she did not carry  a
+baton at the time or that her role in this  incident  was  merely  slapping.
+Once again we attach significant weight to  the  fact  that  in  her  asylum
+interview she did not seek to qualify her reference to her being part  of  a
+number of police officers who beat this man. On  her  own  account  she  was
+present at the incident, was one of a number of police officers there  in  a
+position of authority and was fully aware that what  was  being  visited  on
+this man by the officers present, including  herself,  amounted  to  serious
+harm. In our judgement it is incontrovertible that her actions  during  this
+incident had a substantial effect on the commission of the crime of  torture
+which took place. We are entirely satisfied that her participation  in  this
+incident amounted to the aiding and abetting of a crime against humanity.
+
+132. Bearing in mind Mr Symes' citation in the course  of  his  response  to
+our request for further submissions (see  above  para  123)  of  two  recent
+cases  dealing  with  aiding  and  abetting,   Prosecutor  v   Perisic   and
+Prosecutor v  Brdanin,  ,  we  should  also  record  that  we  are  entirely
+satisfied that our finding that during both the Stephen Mhlanga  and  Gibson
+Sibanda incidents the appellant aided and abetted the commission of a  crime
+against  humanity,  is  entirely  consistent  with  these  and  other  cases
+referred to earlier.
+
+133. In light of the above it is unnecessary for us to  decide  whether  the
+appellant's involvement in an estimated 11 rallies in  Bulawayo  during  the
+course of the first half of 2007 also amounted to aiding and abetting  of  a
+crime (or crimes) against humanity. We would record, however, that  here  we
+find once again that the account she gave at her asylum  interview  gives  a
+more accurate portrayal than her later versions (in which she sought to  say
+that she was merely prodding demonstrators to move them on).  We  note  that
+at more than one of these rallies the evidence  indicates  that  the  police
+used a significant amount of violence  against  demonstrators.  On  her  own
+account in her asylum interview the police role in the White City  rally  in
+February  2007  involved  beating  people  (Q50).  We  do  not  accept   the
+appellant's later accounts that the police violence used was committed  only
+by the Riot Squad: on her own account she  came  into  direct  contact  with
+demonstrators and was not simply in lines behind the Riot Squad.
+
+Article 1F(b)
+134. Although it is unnecessary for us to decide, we may say  that  we   are
+also satisfied on that the above acts, taken together with  the  appellant's
+involvement in the Plumtree  incident,  amounted  to  serious  non-political
+crimes falling within Article 1F(b) of the 1951 Convention.  We  agree  with
+Mr Symes'  submission  that  in  assessing  what  constitutes  a  '...  non-
+political crime' we must apply (albeit in this context only) a principle  of
+proportionality, but we cannot accept his  analysis  of  what  that  concept
+entails in the present case. In particular we do not accept  his  contention
+that we should regard the appellant's excludable acts as  political  crimes.
+Even if he is right in asserting that as state  actors  the  ZRP  should  be
+seen as playing a political role in relation to those  they  harmed  in  the
+ways specified (see  above  para  73),  we  note  that  the  acts  concerned
+involved, inter alia, participation in acts of torture  and  ill  treatment.
+Such acts are contrary to peremptory norms of international law and  in  our
+judgement they cannot for that reason be  regarded  as  proportionate,  non-
+political, enforcement of the law.
+
+135. In this regard we have taken account of Mr Symes' submission  that  the
+appellant's acts should not be regarded as non-political  because  they  did
+not  fall  within  the  description  given  in  Article  12(2)(b)   of   the
+Qualification Directive, namely "particularly cruel actions".  It  seems  to
+us that the latter reference is  essentially  a  gloss  on  the  meaning  of
+"serious" and we have no doubt that torture falls into  that  category;  but
+in any event we do not understand Article 12(2)(b) to contain an  exhaustive
+definition of non-political crimes. The essence of  any  definition  of  the
+"non-political"  category  must  have  regard  to  whether  any  purportedly
+political  act  is  proportionate.  In   our   judgement   the   appellant's
+involvement in two incidents of torture does not  meet  the  proportionality
+standard.
+
+Decision on the certificate
+
+136. For the above reasons  we  agree  the  statement  in  the  respondent's
+certificate that  the  appellant  committed  excludable  acts  falling  with
+Article IF(a). There are serious reasons for considering she did  so  as  an
+aider and abettor. Accordingly we must dismiss the asylum dimensions of  the
+appeal without considering any other aspect of the case (s.12(2)(b)  of  the
+Tribunals, Courts and Enforcement Act 2007;  s.55(5A)  and  s.55(4)  of  the
+2006 Act).
+
+137. Even had we found that the appellant did not fall  within  any  of  the
+exclusion clauses and had accordingly not agreed the s. 55  certificate,  we
+do not find that she faced a real risk of persecution. Likewise  we  do  not
+find that the appellant faces a real risk of serious harm (under Article  15
+of  2004/83/EC,  the  Refugee  Qualification  Directive)  or  of   treatment
+proscribed by Article 3 of the ECHR. On the basis of our  findings  of  fact
+she is a person who was a serving police officer in  Zimbabwe  and  she  has
+failed to show that she left that service in  adverse  circumstances  either
+by deserting or otherwise showing disloyalty to the regime. We consider  her
+subsequent  conduct,  returning  to  Bulawayo,   Zimbabwe   from   adjoining
+countries on two occasions and then, once in the UK going personally to  the
+Zimbabwe Embassy in London to  renew  her  passport,  confirms  us  in  that
+opinion. It also follows from our assessment that even if she  was  required
+to prove loyalty to ZANU PF  and  the  Mugabe  regime,  she  would  have  no
+difficulty in doing so. Applying the guidance given  in  EM  (Zimbabwe),  we
+find that she would not be at risk on return. There is nothing  to  indicate
+that her involvement in crimes against humanity will result  in  any  action
+being taken against her in Zimbabwe in the future.
+
+138. The evidence relating to the appellant's personal circumstances do  not
+disclose that her removal would breach her Article 8 right  to  respect  for
+family or private life.
+
+139. For the above reasons:
+
+The First-tier Tribunal materially erred in law  and  its  decision  is  set
+aside.
+
+The  decision  we  re-make  is  to  agree  the  Secretary  of  State's  s.55
+certificate.
+
+The appellant's appeal is dismissed on asylum, humanitarian  protection  and
+human rights grounds.
+
+
+
+
+Signed                                             Date
+
+
+Upper Tribunal Judge Storey
+
+           Appendices
+
+
+   Appendix A. Legal provisions
+
+
+   Refugee Convention
+
+
+   The Refugee Convention sets out:
+
+
+           "Article 1
+           ...
+           F. The provisions of this Convention  shall  not  apply  to  any
+              person with respect to whom there  are  serious  reasons  for
+              considering that:
+
+
+              (a)            He has committed a crime against peace, a  war
+                    crime, or a crime against humanity, as  defined  in  the
+                    international instruments drawn up to make provision  in
+                    respect of such crimes;
+              (b)            He has committed a serious non-political crime
+                    outside the country of refuge prior to his admission  to
+                    that country as a refugee;
+              (c)            He has been guilty of  acts  contrary  to  the
+                    purposes and principles of the United Nations."
+
+
+   Domestic Regulations
+   The Refugee or Person in Need of International Protection (Qualification)
+   Regulations 2006 provides:
+
+
+           "Exclusion
+           7.-
+           (1)         A person is not a refugee, if he  falls  within  the
+                 scope of Article 1 D, 1E or 1F of the Geneva Convention.
+           (2)         In the construction and application of Article 1F(b)
+                 of the Geneva Convention:
+                 (a)   the reference to serious non-political crime includes
+                       a particularly cruel action, even if it is  committed
+                       with an allegedly political objective;
+                 (b)   the reference to the crime  being  committed  outside
+                       the country of refuge prior to  his  admission  as  a
+                       refugee shall be taken to mean the  time  up  to  and
+                       including the day on  which  a  residence  permit  is
+                       issued.
+           (3)         Article 1F(a) and (b) of the Geneva Convention shall
+                 apply to a person who instigates or otherwise  participates
+                 in the commission of the crimes or acts specified in  those
+                 provisions."
+
+
+   Qualification Directive
+   The Qualification Directive (Directive 2004/83) sets out at Article 12:
+
+
+           "Article 12
+           ...
+           2.          A third country national or a  stateless  person  is
+                 excluded from being  a  refugee  where  there  are  serious
+                 reasons for considering that:
+                 (a)   he or she has committed a crime against peace, a war
+                     crime, or a crime against humanity, as defined in  the
+                     international instruments drawn up to  make  provision
+                     in respect of such crimes;
+                 (b)   he or she  has  committed  a  serious  non-political
+                     crime outside the country of refuge prior  to  his  or
+                     her admission as a refugee; which means  the  time  of
+                     issuing a residence permit based on  the  granting  of
+                     refugee status; particularly cruel  actions,  even  if
+                     committed with an allegedly political  objective,  may
+                     be classified as serious non-political crimes;
+                 (c)   he or she has been guilty of acts  contrary  to  the
+                     purposes and principles of the United Nations  as  set
+                     out in the Preamble  and  Articles  1  and  2  of  the
+                     Charter of the United Nations.
+
+
+        3. Paragraph 2  applies  to  persons  who  instigate  or  otherwise
+              participate in the commission of the crimes or acts mentioned
+              therein."
+      ICC Statute
+    Relevant provisions from the ICC Statute  and  the  Elements  of  Crime
+    document adopted in 2002 include the following:
+           "Article 21
+           Applicable law
+           1.         The Court shall apply:
+                 (a)    In the first place, this Statute, Elements of Crimes
+                     and its Rules of Procedure and Evidence;
+                 (b)   In the second place,  where  appropriate,  applicable
+                     treaties and the principles and rules of international
+                     law,  including  the  established  principles  of  the
+                     international law of armed conflict;
+                 (c)    Failing that, general principles of law  derived  by
+                     the Court from national laws of legal systems  of  the
+                     world including, as appropriate, the national laws  of
+                     States that would normally exercise jurisdiction  over
+                     the crime, provided  that  those  principles  are  not
+                     inconsistent with this Statute and with  international
+                     law   and   internationally   recognized   norms   and
+                     standards.
+           ...
+           Article 22
+           Nullum crimen sine lege
+           1. A person shall  not  be  criminally  responsible  under  this
+           Statute unless the conduct in question constitutes, at the  time
+           it takes place, a crime within the jurisdiction of the Court.
+           2. The definition of a crime shall  be  strictly  construed  and
+           shall not be extended by analogy.  In  case  of  ambiguity,  the
+           definition shall be interpreted in favour of  the  person  being
+           investigated, prosecuted or convicted.
+           3. This article shall not affect  the  characterization  of  any
+           conduct as criminal under  international  law  independently  of
+           this Statute."
+
+"Crimes against humanity" (Art 7)
+
+Article 7 of the ICC Statute defines  a  "crime  against  humanity"  in  the
+following terms:
+
+         "Article 7
+
+         Crimes against humanity
+
+         1.       For the purpose of this Statute 'crime  against  humanity'
+             means any of the following acts when committed as  part  of  a
+             widespread or systematic attack directed against any  civilian
+             population, with knowledge of the attack:
+
+             (a)       Murder;
+             (b)       Extermination;
+             (c)       Enslavement;
+             (d)       Deportation or forcible transfer of population;
+             (e)       Imprisonment or other severe deprivation of physical
+                  liberty in violation of fundamental rules of international
+                  law;
+             (f)       Torture
+             (g)  Rape,  sexual  slavery,  enforced  prostitution,   forced
+                  pregnancy, enforced sterilization, or any  other  form  of
+                  sexual violence of comparable gravity;
+             (h) Persecution against any identifiable group or collectivity
+                  on  political,   racial,   national,   ethnic,   cultural,
+                  religious, gender as defined  in  paragraph  3,  on  other
+                  grounds that are universally recognized  as  impermissible
+                  under  international  law,  in  connection  with  any  act
+                  referred to in this paragraph  or  any  crime  within  the
+                  jurisdiction of the Court;
+             (i)       Enforced disappearance of persons;
+             (j)       The crime of apartheid;
+             (k) Other inhumane acts of a similar  character  intentionally
+                  causing great suffering, or serious injury to body  or  to
+                  mental or physical health.
+
+         2.  For the purpose of paragraph 1:
+
+             (a)       'Attack directed against  any  civilian  population'
+                  means  a  course  of  conduct   involving   the   multiple
+                  commission of acts referred to in paragraph 1 against  any
+                  civilian population, pursuant to or in  furtherance  of  a
+                  State or organizational policy to commit such attack; ...
+             (e)       'Torture' means the intentional infliction of severe
+                  pain or suffering, whether  physical  or  mental,  upon  a
+                  person in the custody or under the control of the accused;
+                  except that torture shall not include  pain  or  suffering
+                  arising only from, inherent in or  incidental  to,  lawful
+                  sanctions; ...
+             (g)        'Persecution'  means  the  intentional  and  severe
+                  deprivation   of   fundamental    rights    contrary    to
+                  international law by reason of the identity of  the  group
+                  or collectivity ..."
+
+
+   Elements of Crime document
+
+
+   The ICC adopted its Elements of Crime document in September  2002  (which
+   under Article 21 of the Rome Statute is part of the first rank  of  legal
+   sources to which that Court shall have regard). It sets out:
+
+
+          a) The provisions are to be strictly construed (7.1);
+
+
+          b) The requirement of knowledge  of  an  attack  on  the  civilian
+             population should not be taken  as  requiring  proof  that  the
+             perpetrator had knowledge of all characteristics of the  attack
+             or the precise details of the plan or policy of  the  State  or
+             organization (7.2);
+
+          c)  Throughout  the  "Elements"  provided,  that  the  conduct  be
+             committed as part of a widespread or systematic attack directed
+             against a civilian population where the perpetrator knew  this,
+             or intended the conduct to be part of such an attack;
+
+
+          d)  As  to  intent,  the  "mental  element  is  satisfied  if  the
+             perpetrator intended to further such an attack." (7.3);
+
+
+          e) 'Attack directed against a civilian population' in this context
+             means a course of conduct involving the multiple commission  of
+             crimes against humanity against any civilian population,  where
+             the State actively promoted or encouraged such an attack;
+
+
+          f) As to the crime of torture:
+
+             -    Persons were "in the custody or under the control  of  the
+                 perpetrator": 7(1)(f);
+
+
+            -    Such pain or suffering did not arise only  from,  and  was
+                 not  inherent  in  or  incidental  to,  lawful   sanctions:
+                 7(1)(f)."
+
+          g) As to the crime of persecution:
+
+             -      The   perpetrator   severely   deprived,   contrary   to
+                 international law,  one  or  more  persons  of  fundamental
+                 rights: 7(1)(h);
+
+
+             -    The perpetrator targeted such person or persons by  reason
+                 of the identity of a group or collectivity or targeted  the
+                 group or collectivity as such: 7(1)(h);
+
+
+             -    Such targeting was based on political,  racial,  national,
+                 ethnic, cultural, religious, gender, or other grounds  that
+                 are   universally   recognized   as   impermissible   under
+                 international law: 7(1)(h);
+
+
+             -    The conduct was  committed  in  connection  with  any  act
+                 referred to in article 7, paragraph 1, of  the  Statute  or
+                 any crime within the jurisdiction of the Court: 7(1)(h).
+
+
+          h) As to the crime of other inhumane acts:
+
+
+             - The perpetrator inflicted great suffering, or serious injury
+               to body or to mental or physical  health,  by  means  of  an
+               inhumane act: 7(1)(k);
+
+
+             - Such act was  of  a  character  similar  to  any  other  act
+               referred to in article  7,  paragraph  1,  of  the  Statute:
+               7(1)(k);
+
+             - The perpetrator was aware of the factual circumstances  that
+               established the character of the act: 7(1)(h).
+
+
+ "Criminal responsibility" (Art 25)
+
+Article 25 sets  out  the  circumstances  in  which  an  individual  may  be
+"criminally responsible" for a crime against  humanity  falling  within  Art
+7.  It provides as follows:
+
+         Article 25
+
+         Individual criminal responsibility
+
+         1. The Court shall have jurisdiction over natural persons  pursuant
+             to this Statute:
+
+         2.       A person who commits a crime within  the  jurisdiction  of
+             the Court shall be individually  responsible  and  liable  for
+             punishment in accordance with this Statute.
+
+         3.       In  accordance  with  this  Statute,  a  person  shall  be
+             criminally responsible and liable for punishment for  a  crime
+             within the jurisdiction of the Court if that person:
+
+             (a)       Commits such a  crime,  whether  as  an  individual,
+                  jointly with another or through another person, regardless
+                  of whether that other person is criminally responsible;
+             (b)       Orders, solicits or induces the commission of such a
+                  crime which in fact occurs or is attempted;
+             (c)       For the purpose of facilitating  the  commission  of
+                  such a crime, aids, abets  or  otherwise  assists  in  its
+                  commission  or   its   attempted   commission,   including
+                  providing the means for its commission;
+             (d)       In any other way contributes to  the  commission  or
+                  attempted commission of such a crime by a group of persons
+                  acting with a common purpose.  Such contribution shall  be
+                  intentional and shall either:
+
+                  (i)  Be made with  the  aim  of  furthering  the  criminal
+                      activity or criminal purpose of the group, where such
+                      activity or purpose  involves  the  commission  of  a
+                      crime within the jurisdiction of the Court; or
+                  (ii)       Be made in the knowledge of  the  intention  of
+                      the group to commit the crime ..."
+
+Mental element
+
+Article 30 deals with the mental element:
+
+         Mental element
+
+         1.       Unless otherwise provided, a person  shall  be  criminally
+             responsible and liable for punishment for a crime  within  the
+             jurisdiction of the Court only if the  material  elements  are
+             committed with intent and knowledge.
+
+         2.       For the purposes of this  article,  a  person  has  intent
+             where:
+
+             (a)       In relation to conduct, that person means to  engage
+                  in the conduct;
+             (b)       In relation to a consequence, that person  means  to
+                  cause that consequence or is aware that it will  occur  in
+                  the ordinary course of events.
+
+         3.       For  the  purposes  of  this  article,  'knowledge'  means
+             awareness that a circumstance  exists  or  a  consequence  will
+             occur in the ordinary course of events. 'Know' and  'knowingly'
+             shall be construed accordingly."
+
+
+
+Grounds for excluding criminal responsibility (including duress)
+
+Article 31 of the ICC Statute provides:
+
+           "Article 31
+           Grounds for excluding criminal responsibility
+           1.  In  addition  to  other  grounds  for   excluding   criminal
+           responsibility provided for in this Statute, a person shall  not
+           be criminally responsible if,  at  the  time  of  that  person's
+           conduct:
+           ...
+           (d)   The conduct which is alleged to constitute a crime  within
+                 the jurisdiction of the Court has  been  caused  by  duress
+                 resulting from a threat of imminent death or of  continuing
+                 or imminent serious bodily  harm  against  that  person  or
+                 another  person,  and  the  person  acts  necessarily   and
+                 reasonably to avoid this threat, provided that  the  person
+                 does not intend to cause a greater harm than the one sought
+                 to be avoided. Such a threat may either be:
+                 (i) Made by other persons; or
+                 (ii)  Constituted  by  other  circumstances   beyond   that
+                 person's control.
+
+
+           2.    The Court shall determine the applicability of the grounds
+               for excluding criminal responsibility provided for  in  this
+               Statute to the case before it.
+           3.    At trial, the Court may consider a  ground  for  excluding
+               criminal responsibility other  than  those  referred  to  in
+               paragraph 1 where such a ground is derived  from  applicable
+               law as set forth in article 21. The procedures  relating  to
+               the consideration of such a ground shall be provided for  in
+               the Rules of Procedure and Evidence."
+
+
+
+
+
+
+Appendix B: Relevant Case Law
+
+R(JS) (Sri Lanka) [2010] UKSC 15 (17 March 2010)
+
+In R(JS) (Sri Lanka) Lord Brown stated:
+   1. (3) The correct approach to article 1F
+     1. There can be no doubt, as indeed article 12(3) of the Qualification
+        Directive provides, that article 1F disqualifies not  merely  those
+        who personally commit war crimes but also those "who  instigate  or
+        otherwise participate in the commission of [such] crimes".  Article
+        12(3) does not, of course, enlarge the application of  article  1F;
+        it merely gives expression to what is already  well  understood  in
+        international law. This is true too of paragraphs (b), (c) and  (d)
+        of article 25(3) of the ICC Statute, each of which recognises  that
+        criminal responsibility is engaged by persons other than the person
+        actually committing the crime (by pulling the trigger, planting the
+        bomb or whatever) who himself,  of  course,  falls  within  article
+        25(3)(a). Paragraph (b) encompasses those  who  order,  solicit  or
+        induce  (in  the  language  of  article  12(3)  of  the  Directive,
+        "instigate") the commission of the crime; paragraph (c)  those  who
+        aid,  abet,  or  otherwise  assist  in  its  commission  (including
+        providing the means for this); paragraph (d) those who in any other
+        way intentionally contribute to its commission (paras (c)  and  (d)
+        together  equating,  in  the  language  of  article  12(3)  of  the
+        Directive, to "otherwise participat[ing]" in the commission of  the
+        crime).
+     1. All  these  ways  of  attracting  criminal  liability  are  brought
+        together in the ICTY Statute [see para  129  of  JS]  by  according
+        individual criminal responsibility under article 7(1) to anyone who
+        "planned, instigated, ordered, committed  or  otherwise  aided  and
+        abetted in the planning, preparation or execution" of the  relevant
+        crime. The language  of  all  these  provisions  is  notably  wide,
+        appreciably wider than any recognised basis  for  joint  enterprise
+        criminal liability under domestic law. That, it  seems  to  me,  is
+        what the German court was saying, at para 21 of the BverwG judgment
+        (cited at para 14 above) when holding that  the  exclusion  "covers
+        not only active terrorists and participants in the criminal  sense,
+        but also persons who perform advance acts in support  of  terrorist
+        activities."
+     1. It must surely be  correct  to  say,  as  was  also  said  in  that
+        paragraph,  that  article  1F  disqualifies  those  who   make   "a
+        substantial contribution to" the crime, knowing that their acts  or
+        omissions will facilitate it. It seems to  me,  moreover,  that  Mr
+        Schilling, the UNHCR Representative, was similarly correct  to  say
+        in his recent letter that article 1F responsibility will attach  to
+        anyone "in control of the funds" of an  organisation  known  to  be
+        "dedicated to achieving its aims through such violent crimes",  and
+        anyone  contributing  to  the  commission  of   such   crimes   "by
+        substantially assisting the organisation to  continue  to  function
+        effectively  in  pursuance  of  its  aims".  This  approach  chimes
+        precisely with that taken by the Ninth  Circuit  in  McMullen  (see
+        para 106 of Gurung cited above): "[Article  1F]  encompasses  those
+        who provide [the gunmen etc] with the physical, logistical  support
+        that enable modern, terrorist groups to operate."
+     1. Of course, criminal responsibility would only attach to those  with
+        the necessary mens rea (mental element). But, as article 30 of  the
+        ICC Statute makes plain, if a person is aware that in the  ordinary
+        course of events a particular  consequence  will  follow  from  his
+        actions, he is taken to have acted with both knowledge and  intent.
+        (I would for this reason reject the respondent's criticism  of  the
+        omission from paragraph 21 of the German court's  judgment  of  any
+        separate  reference  to  intent;  that   ingredient   of   criminal
+        responsibility is already encompassed within the  Court's  existing
+        formulation).
+     1. Similarly, and I think consistently with this, the ICTY Chamber  in
+        Tadic defines mens rea in a way which  recognises  that,  when  the
+        accused is participating in  (in  the  sense  of  assisting  in  or
+        contributing to) a common  plan  or  purpose,  not  necessarily  to
+        commit any specific  or  identifiable  crime  but  to  further  the
+        organisation's aims by committing article 1F crimes  generally,  no
+        more need  be  established  than  that  the  accused  had  personal
+        knowledge  of  such  aims  and  intended  to  contribute  to  their
+        commission.
+     1. Returning to the judgment below with these considerations in  mind,
+        I have to say that paragraph 119  does  seem  to  me  too  narrowly
+        drawn, appearing to confine article  1F  liability  essentially  to
+        just the same sort of joint criminal enterprises as would result in
+        convictions under domestic law.  Certainly  para  119  is  all  too
+        easily read as  being  directed  to  specific  identifiable  crimes
+        rather than, as to my mind it should be, wider concepts  of  common
+        design, such as the accomplishment of an organisation's purpose  by
+        whatever means  are  necessary  including  the  commission  of  war
+        crimes. Put simply, I would  hold  an  accused  disqualified  under
+        article 1F  if  there  are  serious  reasons  for  considering  him
+        voluntarily to  have  contributed  in  a  significant  way  to  the
+        organisation's ability to pursue  its  purpose  of  committing  war
+        crimes, aware  that  his  assistance  will  in  fact  further  that
+        purpose.
+     1. It would not, I think, be helpful to expatiate  upon  article  1F's
+        reference to there being  "serious  reasons  for  considering"  the
+        asylum-seeker to have committed a war crime. Clearly  the  Tribunal
+        in Gurung (at the end of para 109)  was  right  to  highlight  "the
+        lower standard of proof applicable in  exclusion  clause  cases"  -
+        lower than that applicable in actual war crimes trials. That  said,
+        "serious reasons for considering" obviously imports a  higher  test
+        for exclusion than  would,  say,  an  expression  like  "reasonable
+        grounds  for  suspecting".  "Considering"  approximates  rather  to
+        "believing" than to "suspecting". I am inclined to agree with  what
+        Sedley LJ said in Yasser Al-Sirri v Secretary of State for the Home
+        Department [2009] EWCA Civ 222, para 33: "[the phrase used] sets  a
+        standard above mere suspicion. Beyond this, it is a mistake to  try
+        to paraphrase the straightforward language of  the  Convention:  it
+        has to be treated as meaning what it says."
+     1. In the result I would dismiss this appeal but vary the order  below
+        to  provide  that  in  re-determining   the   respondent's   asylum
+        application, the  Secretary  of  State  should  direct  himself  in
+        accordance with this Court's judgments, not those of the  Court  of
+        Appeal."
+B and D v Germany
+
+The Court of Justice of the European Union has  considered  exclusion  on  a
+single occasion, in B and D v Germany  (C-57/09  and  C-101/09;  9  November
+2010). It found that:
+
+        a)  International  terrorist  acts  are  generally   speaking   and
+           irrespective  of  any  State  participation,  contrary  to   the
+           purposes and principles of the United Nations;
+
+
+        b) Exclusion cannot occur until an  individual  assessment  of  the
+           specific facts of each case has taken place;
+
+
+        c) The mere fact of membership of an organisation which features on
+           a  Common  Position  or  a  Framework  Decision  unconnected  to
+           Directive 2004/83 cannot automatically  mean  that  that  person
+           must  be  excluded  from  refugee  status  pursuant   to   those
+           provisions;
+
+
+        d) Inclusion in a  Common  Position  indicates  that  a  group  has
+           committed  acts  falling  within  the  scope  of  the  exclusion
+           provisions;
+
+
+        e) For exclusion to operate, it must be  possible  to  attribute  a
+           share of the  responsibility  for  the  acts  committed  by  the
+           organisation to the individual whilst they were a member [95];
+
+
+        f) Relevant  factors  are  the  true  role  played  by  the  person
+           concerned in the perpetration  of  the  acts  in  question,  his
+           position within the organisation, the  extent  of  knowledge  he
+           had, or was deemed to have, of its activities, any  pressure  to
+           which  he  was  exposed,  and  other  factors  likely  to   have
+           influenced his conduct [97];
+
+
+        g) Article 12(b) and (c) of Directive 2004/83  are  intended  as  a
+           penalty for acts committed in the past;
+
+
+        h) Exclusion from refugee status is not conditional on an existence
+           of a present danger to the host State;
+
+
+        i)  Exclusion  from  refugee  status  is  not  conditional  on   an
+           assessment of proportionality  in  relation  to  the  particular
+           case."
+
+
+
+                         Appendix C: LIST OF DOCUMENTATION CONSIDERED
+
+|     |Document                                           |Date          |
+|Item |                                                   |              |
+|1    |Amnesty International, "Zimbabwe: Fear for safety  |20 April 2000 |
+|     |of farming communities and opposition political    |              |
+|     |activists in rural areas"                          |              |
+|2    |Amnesty International, "Zimbabwe: Terror tactics in|8 June 2000   |
+|     |the run-up to parliamentary elections, June 2000"  |              |
+|3    |Zimbabwe Human Rights NGO Forum, "Report on        |29 July 2000  |
+|     |political violence in Bulawayo, Harare, Manicaland,|              |
+|     |Mashonaland West, Masvingo, Matabeleland North,    |              |
+|     |Matabeleland South and Midlands"                   |              |
+|4    |Amnesty International, "Amnesty International      |2001          |
+|     |Report 2001: Zimbabwe"                             |              |
+|5    |US Department of State, "Country Reports on Human  |4 March 2002  |
+|     |Rights Practices: Zimbabwe"                        |              |
+|6    |Physicians for Human Rights, Denmark, "Zimbabwe:   |21 May 2002   |
+|     |Post Presidential Election March to May 2002:      |              |
+|     |"We'll make them run""                             |              |
+|7    |Amnesty International, "Zimbabwe: The toll of      |25 June 2002  |
+|     |impunity"                                          |              |
+|8    |Mashonaland Programme of the AMANI Trust, "Beating |25 June 2002  |
+|     |your opposition. Torture during the 2002           |              |
+|     |Presidential campaign in Zimbabwe"                 |              |
+|9    |Zimbabwe Human Rights NGO Forum, "Organised        |June 2002     |
+|     |Violence and Torture (OVT)" Human Rights Monitor   |              |
+|     |No. 27                                             |              |
+|10   |Zimbabwe Human Rights NGO Forum, "Torture by State |March 2003    |
+|     |Agents in Zimbabwe: January 2001 to August 2002"   |              |
+|11   |The Solidarity Peace Trust, "Peaceful protest and  |17 April 2003 |
+|     |police torture in the City of Bulawayo: 24 February|              |
+|     |to 25 March 2003"                                  |              |
+|12   |America.gov / US Department of State, "U.S. Sternly|5 June 2003   |
+|     |Rebukes Zimbabwe's Brutality Toward Protesting     |              |
+|     |Citizens"                                          |              |
+|13   |Human Rights Watch, "Under a Shadow: Civil and     |6 June 2003   |
+|     |Political Rights in Zimbabwe"                      |              |
+|14   |The Zimbabwe Situation, "Annan voices concern about|June 2003     |
+|     |reports of possible violence in Zimbabwe (UN News  |              |
+|     |Centre)" "Mugabe crushes protest marches           |              |
+|     |(Telegraph)" "Zimbabwe situation catastrophic:     |              |
+|     |Downer (ABC News Australia)" "Zimbabwe opposition  |              |
+|     |vows to push on with protests (Reuters)" "Mugabe's |              |
+|     |forces fire on student protesters (The Times)"     |              |
+|15   |Amnesty International, "Zimbabwe: Southern African |21 August 2003|
+|     |leaders must forcefully condemn human rights       |              |
+|     |abuses"                                            |              |
+|16   |Amnesty International, "Zimbabwe: Unfair trial of  |24 December   |
+|     |Roy Bennet, MP"                                    |2004          |
+|17   |US Department of State, "Country Reports on Human  |28 February   |
+|     |Rights Practices: Zimbabwe "                       |2005          |
+|18   |The Redress Trust / AMANI Trust, "Torture in       |June 2005     |
+|     |Zimbabwe, Past and Present: Prevention, Punishment,|              |
+|     |Reparation?"                                       |              |
+|19   |The Guardian, "Monster of the moment"              |1 July 2005   |
+|20   |Zimbabwe Human Rights NGO Forum, "Political        |14 November   |
+|     |Violence Report - September 2005"                  |2005          |
+|21   |Human Rights Watch, "Zimbabwe: Evicted and         |30 November   |
+|     |Forsaken"                                          |2005          |
+|22   |Zimbabwe Human Rights NGO Forum, "Zimbabwe: Facts  |November 2005 |
+|     |and Fictions: An Audit of the Recommendations of   |              |
+|     |the Fact-Finding Mission of the African Commission |              |
+|     |on Human and People's Rights"                      |              |
+|23   |Immigration and Refugee Board of Canada, "Zimbabwe:|22 June 2006  |
+|     |The National Youth Service (NYS) training program; |              |
+|     |the type of training involved; age of participants;|              |
+|     |whether the training program is mandatory; whether |              |
+|     |there are exemptions; and the penalty for refusing |              |
+|     |to serve or for desertion (2001-2006)"             |              |
+|24   |Zimbabwe Human Rights NGO Forum, "Political        |14 July 2006  |
+|     |Violence Report - May 2006"                        |              |
+|25   |Zimbabwe Human Rights NGO Forum, "Political        |11 September  |
+|     |Violence Report - July 2006"                       |2006          |
+|26   |Human Rights Watch, ""You Will Be Thoroughly       |November 2006 |
+|     |Beaten" - The Brutal Suppression of Dissent in     |              |
+|     |Zimbabwe"                                          |              |
+|27   |Mail & Guardian, "Report slams Zimbabwe police     |14 December   |
+|     |torture"                                           |2006          |
+|28   |Zimbabwe Human Rights NGO Forum, "Who guards the   |December 2006 |
+|     |guards? - Violations by Law Enforcement Agencies in|              |
+|     |Zimbabwe, 2000 to 2006"                            |              |
+|29   |Freedom House, "Zimbabwe"                          |2006          |
+|30   |Zimbabwe Human Rights NGO Forum, "Political        |23 January    |
+|     |Violence Report - November 2006"                   |2007          |
+|31   |The Zimbabwean, "CIO flood Jozi to spy on          |15 February   |
+|     |deserters"                                         |2007          |
+|32   |Human Rights Watch, "Zimbabwe: Security Forces     |28 March 2007 |
+|     |Extend Crackdown to Public"                        |              |
+|33   |Amnesty International, "Zimbabwe: Fear of torture" |5 April 2007  |
+|34   |GlobalResearch.ca, "The Battle over Zimbabwe's     |13 April 2007 |
+|     |Future"                                            |              |
+|35   |Human Rights Watch, "Bashing Dissent - Escalating  |May 2007      |
+|     |Violence and State Repression in Zimbabwe"         |              |
+|36   |Zimbabwe Human Rights NGO Forum, "At Best a        |August 2007   |
+|     |Falsehood, at Worst a Lie"                         |              |
+|37   |Reuters, "Zimbabwe police torture women activists" |10 October    |
+|     |                                                   |2007          |
+|38   |Mail & Guardian, "Zim dismisses MDC violence claims|25 October    |
+|     |as 'hearsay'"                                      |2007          |
+|39   |Zimbabwe Human Rights NGO Forum, "Political        |13 February   |
+|     |Violence Report - December 2007"                   |2008          |
+|40   |Maravi blog, "(Herald) UN publicly fingers MDC-T   |1 May 2008    |
+|     |for violence"                                      |              |
+|41   |Thaindian News, "Zimbabway's ruling party says     |1 May 2008    |
+|     |presidential run-off vote necessary"               |              |
+|42   |Institute for War and Peace Reporting (UK),        |13 May 2008   |
+|     |"ZANU-PF Sees Police as Captive Vote"              |              |
+|43   |The Telegraph, "Mugabe regime to rig parliament    |9 June 2008   |
+|     |with arrests"                                      |              |
+|44   |Gowans blog, "Violence in Zimbabwe and the MDC and |25 June 2008  |
+|     |its Social Imperialist Supporters"                 |              |
+|45   |Maravi blog, "(Herald) MDC-T violence claims       |9 July 2008   |
+|     |dismissed"                                         |              |
+|46   |War Resisters' International (UK), "Zimbabwe army  |2 March 2009  |
+|     |starts recruitment drive among rural youths after  |              |
+|     |one-third of soldiers deserted"                    |              |
+|47   |Hatnews, "MDC official detained over violence"     |16 March 2009 |
+|47   |Jane's Sentinel, "Security Assessment - Southern   |22 April 2009 |
+|     |Africa"                                            |              |
+|48   |NewZimbabwe.com, "CIO grills Mandaza over          |11 December   |
+|     |Murambatsvina"                                     |2009          |
+|49   |NewZimbabwe.com, "MDC accused of lying over cause  |11 December   |
+|     |of Tsvangirai aide's death"                        |2009          |
+|50   |Zimbabwe Broadcasting Corporation, "MDC-T violence |3 February    |
+|     |threats a fantasy: ZRP"                            |2011          |
+|51   |The Zimbabwe Mail, "Zanu PF: MDC started violence" |9 February    |
+|     |                                                   |2011          |
+|52   |The Herald, "MDC's election manifesto synonymous   |10 February   |
+|     |with violence"                                     |2011          |
+|53   |AllAfrica.com / The Herald, "Zimbabwe: MDC-T       |15 February   |
+|     |Accused of Peddling Falsehoods Over Political      |2011          |
+|     |Violence"                                          |              |
+|54   |Email to W1                                        |15 April 2011 |
+|55   |Foreign and Commonwealth Office, "Human Rights in  |30 June 2011  |
+|     |Countries of Concern: Quarterly Update on Zimbabwe,|              |
+|     |June 2011"                                         |              |
+|56   |Email to W1                                        |10 October    |
+|     |                                                   |2011          |
+|57   |Email to W1                                        |10 October    |
+|     |                                                   |2011          |
+|58   |African Commission on Human and Peoples Rights,    |Undated       |
+|     |"Executive Summary of the Report of the            |              |
+|     |Fact-finding Mission to Zimbabwe 24th to 28th June |              |
+|     |2002"                                              |              |
+|59   |United Nations, "Report of the Fact-Finding Mission|Undated       |
+|     |to Zimbabwe to assess the Scope and Impact of      |              |
+|     |Operation Murambatsvina by the UN Special Envoy on |              |
+|     |Human Settlement Issues in Zimbabwe, Mrs Anna      |              |
+|     |Kajumulo Tibaijuka""                               |              |
+|60   |Zimbabwe Human Rights NGO Forum, "Political        |Undated       |
+|     |Violence Report - 1-31 March 2003"                 |              |
+|61   |Zimbabwe Human Rights NGO Forum, "Political        |Undated       |
+|     |Violence Report - 1-30 April 2003"                 |              |
+
+
+
+
+
+
+

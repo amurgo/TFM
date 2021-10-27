@@ -1,0 +1,650 @@
+
+[pic]
+
+|Upper Tribunal Appeal No.  aplno   |Appeal Number: IA/24767/2014       |
+|                                   |IA/24768/2014                      |
+|(Immigration and Asylum Chamber)   |                                   |
+
+
+                            THE IMMIGRATION ACTS
+
+|Heard at Field House               |Determination Promulgated           |
+|On 14th May 2015                   |     On 24th June 2015              |
+|                                   |                                    |
+|                                                                        |
+|Before                                                                  |
+|                                                                        |
+|THE HONOURABLE LORD MATTHEWS                                            |
+|UPPER TRIBUNAL JUDGE DAWSON                                             |
+|DEPUTY UPPER TRIBUNAL JUDGE SAINI                                       |
+|                                                                        |
+|Between                                                                 |
+|                                                                        |
+|MR TAE HEE LEE                                                          |
+|MRS HYELIN CHOI                                                         |
+|Appellants                                                              |
+|and                                                                     |
+|SECRETARY OF STATE FOR THE HOME DEPARTMENT                              |
+|Respondent                                                              |
+|                                                                        |
+|Representation:                                                         |
+|                                                                        |
+|For the Appellant:      Mr D Magne, Magne & Co Solicitors               |
+|For the Respondent:  Mr S Whitwell, Senior Home Office Presenting       |
+|Officer                                                                 |
+
+
+                            DECISION AND REASONS
+
+Introduction and Background
+
+ 1. The Appellants are citizens of South Korea. They are  husband  and  wife
+    whose dates  of  birth  are  15  October  1975  and  30  September  1974
+    respectively. The Appellants applied for further leave to  remain  as  a
+    Tier 1 Entrepreneur and dependent spouse under the Points  Based  Scheme
+    on 1 May 2014. An immigration decision was made on 28 May 2014  refusing
+    the Appellants' applications and proposing to remove them.
+ 2. Their appeal was heard before Judge Powell of the  First-tier  Tribunal,
+    who, in a determination promulgated on 27 January  2015,  dismissed  the
+    appeals on immigration and on human rights grounds.
+
+
+ 3. This matter comes before the panel for consideration as  to  whether  or
+    not there was a material error of law in the First-tier Tribunal Judge's
+    determination
+
+Grounds for Permission to Appeal
+
+ 4. The Appellants submitted grounds  for  reconsideration.  The  Appellants
+    submitted that the First-tier misunderstood  the  nature  of  the  rules
+    relating to specified  documents  when  they  assessed  those  documents
+    submitted at the time of the application.
+
+
+ 5. The grounds may be summarised as follows:
+
+
+        a. Regarding paragraph 15 of the Determination, the Appellants  had
+           produced an electronic bank statement duly endorsed by the  bank
+           which met the provisions of  paragraph  41-SD(c)(ii)(7)  of  the
+           Immigration Rules;
+        b. Regarding paragraph 16 of the Determination, the judge erred  in
+           assessing  the  requirement  to  provide  accounts   that   were
+           statutorily compliant and which turned on an  interpretation  of
+           section 226A of the Companies Act 1985;
+        c. Regarding paragraph 17 of the Determination, the entrepreneurial
+           activity does not involve trading online and therefore there was
+           no need to adduce ownership of the domain  under  paragraph  41-
+           SD(e)(iii)(1);
+        d. Regarding paragraph 18 of the Determination, the judge erred  in
+           finding that the Appellants needed to provide  a  contract  'for
+           services' as the relevant rule only required  a  'contract'  and
+           the lease provided described  the  general  nature  of  services
+           provided. It limited use of premises to D2 use as defined by the
+           Town and Country Planning  (Use  Classes)  Order  1987  and  the
+           Appellant's business is an entertainment business and the  lease
+           confirms the type of business he offers.
+
+Permission to Appeal
+
+ 6. In a decision dated 19 March 2015,  First-tier  Tribunal  Judge  Simpson
+    granted permission to appeal for the following reasons:
+
+
+    The Appellant's application was made on 1 May 2014 and the decision made
+    on 28 May 2014. It is not immediately clear however which version of the
+    Immigration Rules was referred to by the decision maker and/or the Judge
+    and whilst it is acknowledged that Paragraph 41-SD  is  quite  specific,
+    i.e. all the required documents must be submitted with the  application,
+    which documents are required, and  in  what  form,  can  vary  from  one
+    version to another. It is arguable that the version that ought  to  have
+    been used given the date of application was not the version referred  to
+    in preparation of this decision.
+
+Rule 24 Response
+
+
+ 7. The respondent opposed the appeal by way of a response  dated  30  March
+    2015  which  states  that  the  First-tier  Tribunal  "directed   itself
+    appropriately" and "properly considered the version of  the  Immigration
+    Rules in force at the date of decision [paragraph 6, First-tier Tribunal
+    determination]: Odelola v Secretary of State  for  the  Home  Department
+    [2009] UKHL 25 (20 May 2009)". The respondent requested an oral hearing.
+
+Immigration Rules
+
+ 8. The immigration rules,  so  far  as  relevant,  state  as  follows  (the
+    following excerpts of the rules reflect how they would have appeared  on
+    13 May 2014 when captured for the National Archive database):
+
+
+    Investment: notes
+
+
+    41-SD. The  specified  documents  in  Table  4  and  paragraph  41,  and
+    associated definitions, are as follows:
+      ...
+
+
+      (c) The specified documents to show evidence of the funding  available
+      to invest, whether from the applicant's own funds or from one or  more
+      third parties, are one or more of the following specified documents:
+           (i) A letter from each financial institution holding the  funds,
+           to confirm the amount of money available. Each letter must:
+                (1) be an original document and not a copy,
+                (2) be on the institution's headed paper,
+                (3) have been issued  by  an  authorised  official  of  that
+                institution,
+                (4) have been produced within the three  months  immediately
+                before the date of application,
+                (5)  confirm  that  the  institution  is  regulated  by  the
+                appropriate body,
+                (6) state the applicant's name, and his team partner's  name
+                where relevant,
+                (7) show the account number and,
+                (8) state the date of the document,
+                (9)  confirm  the  amount  of  money  available   from   the
+                applicant's own funds (if applicable) that are held in  that
+                institution,
+                (10)  for  money  available  from  any   third   party   (if
+                applicable) that is held in that institution,  confirm  that
+                the third party has informed the institution of  the  amount
+                of  money  it  intends  to  make  available,  and  that  the
+                institution is not aware of the third party having  promised
+                to make that money available to any other person,
+                (11) confirm the name of each third party and their  contact
+                details, including their full address including postal code,
+                and where available landline  phone  number  and  any  email
+                address, and
+                (12) confirm that if the money  is  not  in  an  institution
+                regulated by the Financial Conduct Authority (FCA)  and  the
+                Prudential Regulation Authority  (PRA),  the  money  can  be
+                transferred into the UK; or
+           (ii) For money held in the UK only, a recent  personal  bank  or
+           building society statement from each  UK  financial  institution
+           holding the funds, which confirms the amount of money available.
+           Each statement must satisfy the following requirements:
+                (1) the  statements  must  be  original  documents  and  not
+                copies;
+                (2) the bank or building society holding the money  must  be
+                based in the UK and regulated by the Financial Conduct
+                Authority (FCA)  and  the  Prudential  Regulation  Authority
+                (PRA);
+                (3) the money must be in cash in the account, not Individual
+                Savings Accounts or assets such as stocks and shares;
+                (4) the account must be in the applicant's own name only (or
+                both names for an entrepreneurial team), not in the name  of
+                a business or third party;
+                (5) each statement must be  on  the  institution's  official
+                stationery showing the  institution's  name  and  logo,  and
+                confirm the  applicant's  name  (and,  where  relevant,  the
+                applicant's  entrepreneurial  team  partner's   name),   the
+                account number and the date of the statement;
+                (6) each statement must have been issued  by  an  authorised
+                official of that institution and produced within  the  three
+                months immediately before the date of the application; and
+                (7)  if  the  statements   are   printouts   of   electronic
+                statements, they must either be accompanied by a  supporting
+                letter from the bank, on the bank's headed paper, confirming
+                the authenticity of the statements,  or  bear  the  official
+                stamp of the bank in question on each page of the  statement
+
+
+      ...
+
+
+      (e) If the applicant is applying under the provisions in (d) in  Table
+      4, he must also provide:
+           (i) his job title,
+           (ii) the Standard Occupational Classification (SOC) code of  the
+           occupation that the applicant is working in, which  must  appear
+           on the list of occupations skilled  to  National  Qualifications
+           Framework level 4 or above, as stated in the Codes  of  Practice
+           in Appendix J,
+           (iii) one or more of the following specified documents:
+                (1) advertising or marketing material,  including  printouts
+                of online advertising, that has been  published  locally  or
+                nationally, showing the applicant's name (and  the  name  of
+                the business  if  applicable)  together  with  the  business
+                activity  or,  where  his  business   is   trading   online,
+                confirmation of his ownership of  the  domain  name  of  the
+                business's website,
+                (2) article(s) or online links to article(s) in a  newspaper
+                or other publication showing the applicant's name  (and  the
+                name of  the  business  if  applicable)  together  with  the
+                business activity,
+                (3) information from a trade fair, at  which  the  applicant
+                has had a stand  or  given  a  presentation  to  market  his
+                business, showing the applicant's name (and the name of  the
+                business if applicable) together with the business activity,
+                or
+                (4) personal registration with a UK trade body linked to the
+                applicant's occupation; and
+           (iv) one or more of the following documents showing trading:
+                (1) a contract.  If  a  contract  is  not  an  original  the
+                applicant must sign each page. The contract must show:
+                       (_a)  the  applicant's  name  and  the  name  of  the
+                 business,
+                       (_b)  the  service  provided   by   the   applicant's
+                 business; and
+                       (_c) the name of the other party or parties  involved
+                       in the contract and their contact details,  including
+                       their full address, postal code and, where available,
+                       landline phone number and any email address; or
+                (2)  an  original  letter  from  a  UK-regulated   financial
+                institution with which the applicant  has  a  business  bank
+                account, on the institution's headed paper, confirming  that
+                the business is trading
+      ...
+
+    Investment and business activity: notes
+
+
+    46. Documentary evidence must be provided in all  cases.  The  specified
+    documents in paragraph  46-SD  must  be  provided  as  evidence  of  any
+    investment and business activity that took place when the applicant  had
+    leave as a Tier 1 (Entrepreneur) Migrant or a Tier 1  (Post-Study  Work)
+    Migrant, and any investment made no more than 12 months (or 24 months if
+    the applicant was last granted leave as a Tier 1 (Graduate Entrepreneur)
+    Migrant) before the date of the application for which the  applicant  is
+    claiming points.
+
+
+    46-SD. The specified documents in paragraphs 45 and 46 are as follows:
+      (a) The applicant must provide all the appropriate specified documents
+      needed to establish the amount of  money  he  has  invested  from  the
+      following list:
+           (i) If the applicant's business is a registered company that  is
+           required to produce audited accounts, the audited accounts  must
+           be provided;
+           (ii) If the applicant's business  is  not  required  to  produce
+           audited accounts, unaudited accounts and an accounts compilation
+           report must be provided from an accountant who is a member of  a
+           UK Recognised Supervisory Body (as defined in the Companies  Act
+           2006);
+           (iii) If the applicant has made the investment in the form of  a
+           director's loan, it  must  be  shown  in  the  relevant  set  of
+           accounts provided, and the applicant must also provide  a  legal
+           agreement, between the applicant (in the name  that  appears  on
+           his application) and the company, showing:
+                 (1) the terms of the loan,
+                 (2) any interest that is payable,
+                 (3) the period of the loan, and
+                 (4) that the loan is unsecured and subordinated  in  favour
+                 of third-party creditors.
+           (iv) If the applicant is claiming points for  investing  �50,000
+           from a Venture Capital firm,  Seed  Funding  Competition  or  UK
+           Government Department, and has not  been  awarded  points  in  a
+           previous application for having those funds available,  he  must
+           provide a letter as specified in paragraph 41-SD(c)(iii) (except
+           that the letter does not need to have been produced  within  the
+           three months immediately before the date of the application)  as
+           evidence of the source of those funds.
+      (b) Audited or unaudited accounts must show the  investment  in  money
+      made directly by the applicant, in his own name or on his behalf  (and
+      showing his name). If he has invested by  way  of  share  capital  the
+      business accounts must show the shareholders, the amount and value  of
+      the shares (on the date of purchase) in the  applicant's  name  as  it
+      appears on his application. If the  value  of  the  applicant's  share
+      capital is not shown in the accounts, then share certificates must  be
+      submitted as documentary evidence. The accounts must clearly show  the
+      name of the accountant, the date the accounts were produced,  and  how
+      much the applicant has invested in the business. The accounts must  be
+      prepared and signed off in accordance with statutory requirements,
+
+Error of Law hearing
+
+Submissions
+
+ 9. Prior to the hearing a bundle was submitted on behalf of the  Appellants
+    dated 4 May 2015. The bundle contained a Skeleton Argument and contained
+    53 pages of evidence and tabulated analysis of that evidence.  Mr  Magne
+    sought permission to adduce that bundle of evidence  and  explained  its
+    tardiness was due to his being abroad and only discovering recently, via
+    a subject access request, that part of the  evidence  submitted  by  the
+    Appellants to the Home Office with their application was lost. Mr  Magne
+    submitted that  due  to  these  facts,  the  appeal  should  be  allowed
+    outright. Mr Magne further sought permission to  amend  his  grounds  to
+    raise this point as the subject access bundle arrived on 28  March  2015
+    after the grounds of appeal were filed on 9 February 2015. We shall come
+    to this later.
+
+
+10. Mr Magne relied on his grounds of  appeal  and  enlarged  upon  them  as
+    follows.
+
+
+11. Regarding paragraph 15 of  the  Determination,  he  submitted  that  the
+    judge erred in considering the bank letter, as the letter submitted  met
+    the terms of  rule  41-SD(c)(ii)(7)  (the  version  extant  at  date  of
+    decision on 26/06/14). In reply to our query, he confirmed that the bank
+    letter did not meet rule 41-SD(c)(ii)(4).
+
+
+12. Regarding paragraph 16  of  the  Determination,  he  accepted  that  the
+    Appellants must meet rules 41 and 46  if  the  funds  are  invested.  He
+    further accepted that rule 46-SD(b) requires that audited  or  unaudited
+    accounts be provided which must be prepared and signed off in accordance
+    with statutory requirements but the Appellants had not done so. Mr Magne
+    submitted that this omission was understandable due to  section  396  of
+    the Companies Act 2006, which required that individual accounts comprise
+    a balance sheet as at the last day of the financial year  and  a  profit
+    and loss account. Mr Magne did not seek to take us to section 226 of the
+    Companies Act 1985 referred to in the grounds of appeal  (presumably  as
+    that section of the 1985 Act was repealed by the Companies Act 2006 on 6
+    April 2008). He submitted that  section  396  dictates  that  a  company
+    accounts require a balance sheet and a profit and  loss  account,  which
+    cannot be met by the Appellants because the business had not completed a
+    year at the time of  the  application  and  consequently  the  rule  was
+    impossible  to  meet  and  could  not  therefore  be  imposed  upon  the
+    Appellant. He also accepted, however, that  there  may  be  pre-existing
+    companies which have existed for over a financial year  which  would  be
+    able to submit such accounts.
+
+
+13. Regarding paragraph 17 of the Determination in relation  to  advertising
+    he submitted that rule 41-SD(e)(iii)(1) states  that  one  must  provide
+    confirmation of ownership of a  domain  name  only  if  one  is  trading
+    online; however, as the Appellant proposed to run a dance company,  this
+    requirement did not apply to him. Mr Magne expanded upon his grounds and
+    submitted that the  advertising  material  provided  by  the  Appellants
+    consisted of a letter containing a screen capture of a single page  from
+    the Appellant's website (the "About Us" page) which had been pasted into
+    the body of the letter. Mr Magne highlighted that answer G25 on the Tier
+    1 application form showed the Standard Occupational Code applied for was
+    "3414 Dancers and choreographers". He submitted that the screen  capture
+    demonstrated that the Appellant had  written  a  musical  and  that  the
+    screen capture showed links at the top of the website  to  pages  marked
+    "Academy" which also suffice to meet  the  advertising  requirement.  He
+    further noted that the Respondent's Refusal Letter  commented  that  the
+    website was not live but submitted that no evidence  had  been  provided
+    that this was so.
+
+
+14. Regarding paragraph 18 of the Determination,  Mr  Magne  submitted  that
+    the lease contract should be analysed against rule  41-SD(e)(iv)(1),  as
+    it was at the date of decision. He alleged that the judge had  erred  in
+    considering the rules at the  date  of  hearing,  not  at  the  date  of
+    decision. It was submitted that the rule at date of hearing  required  a
+    "contract of service" whereas the rule at the date  of  decision  merely
+    asks for a "contract". Pursuant to that issue,  he  submitted  that  the
+    lease submitted covered trading as one of  the  primary  purposes  of  a
+    small business is a lease and thus leasing premises constitutes trading.
+    He referred to the terms of the sub-lease, specifically  page  6,  which
+    mention the terms of "Permitted Use" for an entertainment  establishment
+    and according to class D2(d) of  the  Town  and  Country  Planning  (Use
+    Classes) Order 1987, a dance hall is amongst those permitted uses.
+
+
+15. In response to our queries, he confirmed that  the  bank  card  for  the
+    company account submitted showed both the name of the applicant and  the
+    company and that it met the  rules.  Mr  Magne  submitted  that  if  the
+    account was in the Appellants' name, he would not need to show the funds
+    were invested, as he is the Director, but would still need to meet  rule
+    46. He went on to say that rule  45  governs  46-SD  and  whether  those
+    requirements are met and that if rule 46-SD  fell  aside  the  Appellant
+    would still need to meet the requirements of paragraph 41.
+
+
+16.  Mr  Whitwell  submitted  that  paragraph  14   of   the   Determination
+    demonstrated that the judge had spent a great deal of  time  determining
+    what documentation was submitted. He submitted that the Appellants  were
+    attempting to re-argue the appeal.
+
+
+17. Regarding paragraph 15 of  the  Determination,  he  submitted  that  the
+    Appellant had already conceded  that  he  did  not  meet  the  rule.  Mr
+    Whitwell submitted that the bank statement was insufficient to meet rule
+    41-SD(c)(i) as the judge found.
+
+
+18. He submitted inter alia that the Appellant's  submissions  took  a  very
+    wide view of the rules, trading and business activity.
+
+
+19. Regarding paragraph 16 of  the  Determination,  he  submitted  that  the
+    Companies Act referred to accounts that were to be submitted at the  end
+    of the financial year, as opposed to full year accounts. He acknowledged
+    that the company was incorporated a few months earlier in  January  2014
+    before the application.
+
+
+20. Regarding paragraph 17 of  the  Determination,  he  submitted  that  the
+    website screen capture did not provide details of  a  dance  school  and
+    teaching but referred to shows and musicals that the Appellant  puts  on
+    and that the webpage was merely a  biography.  He  suggested  that  from
+    reading the website one would not infer one  could  take  dance  classes
+    from the Appellant. He accepted that there was no evidence to show  that
+    the website gateway was faulty or unavailable and that consequently this
+    criticism of the webpage could only be taken so far.
+
+
+21. Regarding paragraph 18 of the Determination, Mr Whitwell submitted  that
+    it was not clear that the judge was applying the rules at  the  date  of
+    hearing as opposed to the date of application.  He  submitted  that  the
+    contract provided was in  fact  a  sub-lease  which  simply  showed  the
+    relationship between landlord and tenant. It did not purport to show the
+    level of trading or that the Appellant had an ongoing  client  base.  He
+    further submitted that the Town and Country Planning (Use Classes) Order
+    1987 did not assist the Appellant as it shows that the premises  can  be
+    used for any of the permitted uses, which includes  an  ice  rink  or  a
+    cinema also.
+
+
+22. He submitted that even if the Appellant were able to establish that  the
+    bank account statement met the rules he would still  need  to  meet  the
+    advertising and trading requirements, which he could not do.
+
+
+23. Regarding the allegation that  Home  Office  had  lost  the  Appellant's
+    documentation, he contended that simply because  the  Appellant  alleges
+    documents were sent which do not appear in the respondent's  bundle,  it
+    does not necessarily mean they were ever sent in  the  first  place.  He
+    did, however, acknowledge that one document allegedly submitted  by  the
+    Appellant was mentioned in an internal GCID note, which contradicted his
+    stance, but none of the other documents were mentioned in that note  and
+    on balance, it had not been  shown  that  the  documents  were  in  fact
+    submitted.
+
+
+24. In reply to our query regarding rule  41-SD  SD(e)(iii)(1)  and  whether
+    the Appellant needed to submit confirmation  of  his  ownership  of  the
+    domain name, Mr Whitwell conceded that as the  business  did  not  trade
+    online the judge had erred in this regard.
+
+
+25. In reply, Mr Magne submitted that rule  41-SD(c)(i)  was  not  the  sole
+    path to success as one could meet 41-SD(c)(ii) in the alternative.
+
+Discussion and Reasons
+
+26. At the end of the hearing we indicated that we  reserved  our  decision,
+    which we now give along with reasons.
+
+
+27. We heard submissions from both representatives on the issue of error  of
+    law in the First-tier Tribunal Judge's Determination. We have  read  the
+    Determination prepared by First-tier Tribunal Judge  Powell  with  great
+    care  and  in  great  detail.  We  are  however   satisfied   that   the
+    Determination must stand as it is  not  infected  by  error  that  would
+    materially affect the outcome of the appeal for the following reasons.
+
+
+28. Regarding paragraph 15 of  the  Determination,  rule  41-SD(c)  requires
+    evidence of funding  available  to  invest  to  be  evidenced  in  three
+    alternate ways listed in sub-paragraphs (i)-(iii). It is clear that  the
+    Appellant cannot meet 41-SD(c)(i) as a letter was not filed as the judge
+    observed. However, it is true to note that the judge failed to note  the
+    alternative methods  by  which  the  Appellant  could  evidence  funding
+    available to him under 41-SD(c)(ii) or (iii). We consider those  matters
+    ourselves. Rule 41-SD(c)(iii) is not applicable in this  scenario.  Rule
+    41-SD(c)(ii) might conceivably have been relevant however Mr  Magne  did
+    not seek to  persuade  us  that  the  bank  statement  submitted  was  a
+    "personal" one and accepted that the statement was that of the  company.
+    Consequently, the Appellant is unable to meet the terms of rule 41-SD(c)
+    regarding evidence of funding  available  to  invest  and  there  is  no
+    material error found within this section of the Determination.
+
+29. Regarding paragraph 16 of  the  Determination,  rule  46-SD(b)  requires
+    that audited or unaudited accounts be provided which  must  be  prepared
+    and signed off in accordance with statutory requirements, which Mr Magne
+    confirmed had not been  done.  It  is  true  that  section  396  of  the
+    Companies Act 2006 requires individual  accounts  comprising  a  balance
+    sheet as at the last day of the financial year and  a  profit  and  loss
+    account; however section 394 concerning the duty to  prepare  individual
+    accounts states inter alia that "The directors  of  every  company  must
+    prepare accounts for the company for each of its financial years...". We
+    understand from this that company accounts must be prepared at  the  end
+    of each financial year. In short, if the  company  was  incorporated  in
+    January 2014 and it had not completed a financial year, there cannot  be
+    a statutory compliant account that could be submitted. Consequently,  we
+    do not read rule 46-SD(b) as requiring a newly established company  that
+    has been in existence for  less  than  one  financial  year  to  provide
+    accounts which could be statutorily compliant.
+
+
+30. As a matter of judicial notice, we observe that  small  private  limited
+    companies, similar to that of the Appellant, do not  need  undertake  an
+    audit of their annual accounts unless the articles of association or the
+    shareholders require it. We have not been shown  any  evidence  to  that
+    effect and consequently, we find that the Appellant's company is not one
+    that is required to produce audited  accounts  under  rule  46-SD(a)(i).
+    However, given that conclusion, the Appellant equally has  not  supplied
+    unaudited accounts and an accounts compilation report as  both  required
+    by rule 46-SD(a)(ii), as observed by the judge at paragraph  16  of  the
+    Determination. Consequently, no material error  arises  in  relation  to
+    this ground.
+
+
+31. Regarding paragraph 17 of the Determination, Mr Whitwell  was  right  to
+    concede that the Appellant was not required to produce  confirmation  of
+    ownership  of  the  domain  name  for  his  business  under   rule   41-
+    SD(e)(iii)(1) as it does not trade online. Mr Magne was right to address
+    us concerning the business activity of the Appellant because whilst  the
+    judge accepted that the website screen  capture  stated  the  Appellants
+    name and business address the advertising material also needs  to  state
+    the  business  activity.  We  were  given  the  original  copy  of   the
+    advertising material which was on the Home Office's file  and  which  is
+    legible. The information given on the Appellant's  application  form  at
+    question G25 is that the standard occupational classification (SOC) code
+    that most closely fits the work he intends to do is that of Dancers  and
+    Choreographers (3414). Mr  Whitwell  is  correct  to  suggest  that  the
+    webpage screen capture reads as a biography. This is  true  and  natural
+    given that the webpage printed is an "About Us" page. Mr  Magne  submits
+    that the Appellant has written a musical for the stage. This is true and
+    quite a commendable achievement. What Mr Magne failed  to  draw  to  our
+    attention was the following passage which appears in the webpage: "...it
+    is Mr Lees' intention to...open this new show on stages in the  UK".  It
+    appears to us that this does state the Appellant's business activity, in
+    terms which match the SOC code for Dancers and choreographers as  stated
+    in the application form. After all, writing a musical for the stage  and
+    opening that  show  on  stage  would  involve  dance  and  choreography.
+    Therefore, although the judge did not have the benefit of a legible copy
+    of the advertising material, we observe that  it  does  just  manage  to
+    refer to the relevant business activity for this entertainment company.
+
+
+32. Regarding paragraph 18 of the Determination, we agree with  Mr  Whitwell
+    that it does not appear from that that the judge  was  referring  to  an
+    incorrect version of the rule, particularly  given  the  affirmation  at
+    paragraph 6 of the Determination that the rules at the date of  decision
+    are those to be applied. We note that the contract provided was in a sub-
+    lease which in truth simply shows the relationship  between  a  landlord
+    and tenant. We do not think that the level  of  trading  or  an  ongoing
+    client base are necessary or minimal requirements for a contract to show
+    trading. As stated at rule 41-SD(e)(iv)(1)(b), the  contract  must  show
+    "the service provided by the applicant's business".
+
+
+33. We do not find that the Town and Country Planning  (Use  Classes)  Order
+    1987 assists the Appellant at all. It shows the types of use  for  which
+    the premises leased may be used, but this use is not confined to a dance
+    hall and can also include a cinema, concert hall, bingo hall or  casino,
+    or even a swimming bath or skating rink. This clearly is insufficient as
+    a contract to demonstrate trading because it does  not  demonstrate  any
+    service provided by the applicant's business other than payment of  rent
+    for premises rented for a class D2 purpose.
+
+
+34. Consequently, we find that the judge erred in his consideration  of  the
+    bank statement (at  paragraph  15)  and  in  his  consideration  of  the
+    requirement for confirmation of ownership of the  domain  name  for  the
+    advertising material (at paragraph 17).
+
+
+35. However, we do  not  find  that  the  judge  erred  in  respect  of  his
+    consideration of the failure to submit unaudited accounts given that the
+    rules required those documents be submitted  (at  paragraph  16)  or  in
+    respect of the assessment of the sub-lease as  contractual  evidence  of
+    trading given that it does not  specify  the  services  offered  by  the
+    Appellant (at paragraph 18).
+
+
+36. In relation to the Mr Magne's application seeking  permission  to  amend
+    the grounds to raise the  issue  of  documents  allegedly  lost  by  the
+    Respondent, we decline to entertain the application it in  view  of  its
+    lateness. However, even had we considered the application we  would  not
+    have been persuaded by the material in any event. The reasons  for  this
+    are that we agree with Mr  Whitwell's  submission  that  simply  because
+    documents do  not  appear  in  the  Respondent's  bundle,  it  does  not
+    necessarily follow that the documents were  sent  in  the  first  place.
+    Although one document allegedly submitted was mentioned in  an  internal
+    GCID note, no other  documents  were  mentioned  in  that  note  and  on
+    balance, we do not find that the Appellant has discharged the burden  of
+    proving that the documents were in fact submitted. Even if we are  wrong
+    in finding that the documents were not shown to be sent,  we  find  that
+    the documents themselves taken at face value do not assist the Appellant
+    in his argument that the rules were met in their entirety at the time of
+    application.
+
+
+37.  In  conclusion,  although  we  have  found  an  error  in  the  judge's
+    assessment at paragraph 17 of the Determination; it is not  material  to
+    the outcome of the appeal given the  failure  to  meet  the  Immigration
+    Rules identified at paragraphs 15, 16 and 18 of the Determination.
+
+
+38. Consequently, the decision concerned did not involve the  making  of  an
+    error on a point of law such that it should be set aside  under  section
+    12 of the Tribunals, Courts and Enforcement Act 2007.
+
+
+39. We observe in postscript that it is of course open to the Appellants  to
+    lodge a fresh application, armed with  the  correct  specified  evidence
+    (should they be so advised) after their statutorily extended leave under
+    section 3C of the Immigration Act 1971 has expired  in  accordance  with
+    the  analysis  of  Upper  Tribunal  Judge  Gill  in  Patel,  R  (on  the
+    application of) v Secretary of State for the Home  Department  (s.3C(4):
+    simultaneous application - withdrawal) (IJR) [2015] UKUT 273 (IAC).
+
+
+40. Such an application from the  Appellants,  even  though  they  would  be
+    overstayers, would nonetheless be considered substantively should it  be
+    lodged within a 28-day period of overstaying calculated from the end  of
+    any extension of their leave under sections 3C or 3D of the  Immigration
+    Act 1971 in accordance with the immigration rules.
+
+Notice of Decision
+
+41. We therefore dismiss the appeal.
+
+
+42. The Determination shall stand.
+
+Anonymity
+
+The First-tier Tribunal made no  anonymity  direction.  There  has  been  no
+request for anonymity and the Upper Tribunal makes no anonymity order.
+
+TO THE APPELLANT/RESPONDENT
+FEE AWARD
+
+The appeal is dismissed. There is no fee award.
+
+
+|                                   |                                   |
+|Signed                             |                                   |
+|Lord Matthews                      |                                   |
+|Upper Tribunal Judge Jordan        |                                   |
+|Deputy Upper Tribunal Judge Saini  |                                   |
+

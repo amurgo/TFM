@@ -1,0 +1,2841 @@
+
+
+
+                                             Asylum and Immigration Tribunal
+
+   LG and CC (EEA Regs: residence; imprisonment; removal) Italy [2009] UKAIT
+                                                                       00024
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Taylor House                         |                             |
+|On 22 and 23 April 2009                       |                             |
+|                                              |                             |
+
+
+                                   Before
+
+                   LORD JUSTICE CARNWATH, SENIOR PRESIDENT
+                       SENIOR IMMIGRATION JUDGE ALLEN
+                      SENIOR IMMIGRATION JUDGE P R LANE
+
+                                   Between
+
+                                     LG
+                                     CC
+                                                                  Appellants
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+
+                                                          Secretary of State
+
+
+Representation:
+
+For Appellant LG:            Ms C. Hulse, Counsel, instructed by Messrs
+Duncan Moghal
+For Appellant CC:            Mr M. Karnik, Counsel, instructed by Messrs
+Paragon Law
+For the Secretary of State:  Mr T. Eicke, Counsel, instructed by the
+Treasury Solicitor
+
+
+Time spent in prison does not count towards the acquisition of the level  of
+protection  afforded  to  an  EEA  national  by  regulation  21(4)  of   the
+Immigration (European Economic Area) Regulations 2006,  even  for  a  person
+who has a right of permanent residence in the United Kingdom.
+
+A clear distinction is required to be drawn  between  the  three  levels  of
+protection against removal introduced in the 2006  Regulations,  each  level
+being intended to be more stringent and narrower than the immediately  lower
+test.
+
+
+
+
+
+
+                          DETERMINATION AND REASONS
+
+
+Introduction
+
+1.    LG and CC are EEA nationals who the Secretary  of  State  has  decided
+    should be deported from the United Kingdom.  Their  cases  come  before
+    this Tribunal on  the  reconsideration  of  earlier  determinations  to
+    dismiss their respective  appeals  against  the  Secretary  of  State's
+    decisions.
+
+2.    Both of the appeals raise issues  concerning  the  interpretation  and
+    application of Directive 2004/38/EC of 29 April 2004 ("the  Directive")
+    and the Immigration (European Economic  Area)  Regulations  2006  ("the
+    Regulations"): specifically, what constitutes residence for the purpose
+    of establishing a right of permanent residence in a host  Member  State
+    (here, the United Kingdom); what constitutes residence for the  purpose
+    of being able to invoke the protection against  expulsion  provided  by
+    regulation  21(4)(a);  and  generally  as  to  the  correct  means   of
+    undertaking the procedures laid down in regulation 21 in  the  case  of
+    the expulsion of EEA nationals. We have set out the relevant  parts  of
+    the  Directive  and  the  Regulations   in   the   Appendix   to   this
+    determination. To avoid duplication, we have  found  it  convenient  to
+    refer generally to the provisions and terminology of  the  Regulations,
+    except where the nature of the  discussion  focuses  attention  on  the
+    Directive.
+
+3.    The appeal in the case of LG was remitted  to  this  Tribunal  by  the
+    Court of Appeal in LG (Italy) v Secretary of State [2008] EWCA Civ 190.
+    The issues before the Court of Appeal were first, whether, on the basis
+    that, as found  by  the  AIT,  LG  satisfied  the  ten  year  residence
+    criterion under the 2006 Regulations, the AIT had been entitled in  law
+    to hold that there were 'imperative grounds'  of  public  security  for
+    removing him; and secondly under a respondent's notice, whether the AIT
+    erred in law in holding  that  LG  satisfied  the  ten  year  residence
+    criterion in view of the fact that for the preceding seven years he had
+    been in prison.
+
+ 4.   At paragraph 14 Carnwath LJ noted the following:
+
+        "14.     As appears from the emphasised words above  in  Regulation
+             21(1)-(4), the 2006 Regulations have introduced a new hierarchy
+             of levels  of  protection,  based  on  criteria  of  increasing
+             stringency:
+
+
+             (1)  A general criterion that removal may be justified 'on  the
+                 grounds  of  public  policy,  public  security  or   public
+                 health';
+
+
+             (2)  A  more  specific  criterion,  applicable  to  those  with
+                 permanent rights of residence, that they may not be removed
+                 'except on serious  grounds  of  public  policy  or  public
+                 security';
+
+
+             (3)  The most stringent criterion, applicable to a person  'who
+                 has resided in the United Kingdom for a  continuous  period
+                 of at least ten years prior to the relevant decision',  who
+                 may not be removed except on 'imperative grounds of  public
+                 security'.
+
+
+             The Regulations provide no further guidance on the  meaning  of
+             these expressions."
+
+5.    At paragraph  31,  Carnwath  LJ  stated  that  on  the  basis  of  the
+    relatively limited arguments that had been  heard  he  would  not  feel
+    confident in attempting to lay down any definitive guidance  and  would
+    not in any event wish to do so until the Secretary of State had reached
+    a more settled view both of the legal interpretation  of  the  relevant
+    provisions and the policy considerations governing their application in
+    practice. The case was remitted to enable that to happen. CC's case has
+    been listed at the same hearing, since it raises issues which overlap.
+
+6.    Some further insight into the legislative history  of  Article  28  of
+    the Directive is to be found in the  Common  Position  (EC)  No  6/2004
+    adopted by the Council on 5 December 2003.  There was a  difference  of
+    view between the  Council  and  the  Commission  as  to  the  level  of
+    protection that was appropriate, as appears from the following comment:-
+
+
+
+        "Article 8: The Council is almost unanimously against the  absolute
+        protection against expulsion, although it has accepted an increased
+        protection for Union citizens who have been  residing  for  a  long
+        period in the host Member State.   After  the  acquisition  of  the
+        right of permanent residence, Union citizens may be  expelled  only
+        on serious grounds of public policy or public security."
+
+
+7.    The background was explained by the Commission  in  its  communication
+    to the European Parliament of 30 December 2003:-
+
+        "Article 28(2): The Member States were almost  unanimously  opposed
+        to absolute protection against expulsion for Union citizens and the
+        members of their families who have acquired the right of  permanent
+        residence in the host Member State.  However,  they  did  agree  to
+        increased protection for Union citizens who have lived for a number
+        of years in the host Member  State.   Consequently  the  compromise
+        included in  the  common  position  takes  the  form  of  increased
+        protection depending on the length of residence in the territory of
+        the host Member State.
+
+
+        Once they have acquired the right of permanent residence,  citizens
+        of the Union and the members of their families may be expelled only
+        for  particularly  serious  reasons  of  public  policy  or  public
+        security.
+
+
+        After ten years of  residence  in  the  host  Member  State,  Union
+        citizens can  be  expelled  only  for  overriding  public  security
+        reasons...."
+
+
+8.    The fact that the final text represented  a  compromise  may  help  to
+    explain some of the difficulties in the drafting, but  provides  little
+    help in resolving them.
+
+9.    We have been referred to the Commission's 2008 report to  the  Council
+    and Parliament on the working of the Directive, to which we will return
+    below (paragraph 53). At this stage, we note the following comment:-
+
+      "Member States remain competent to define and modify the  notions  of
+         public policy and public security.  However, implementation may not
+         trivialise the difference between the scope of  Article  28(2)  and
+         Article 28(3), or extend the concept of public security to measures
+         which should be covered by public policy."
+
+
+
+
+
+Facts and appeal histories
+
+LG
+
+10.   LG is a citizen of Italy who was born on  18  October  1969.   He  has
+    lived in the United Kingdom since at least 1987.  On 9 October 2001  LG
+    was convicted at Leicester Crown Court of robbery and  grievous  bodily
+    harm with intent.  He was  sentenced  to  twelve  years'  imprisonment,
+    reduced on appeal to a term of nine years.  On  10  November  2005  the
+    Secretary of State decided that, in view of  this  conviction,  it  was
+    conducive to the public good to make a deportation order in respect  of
+    LG.  The basic facts of these offences were that, in the early hours of
+    Saturday 29 January 2000, LG had followed a 66 year old retired man and
+    attacked him from behind, inflicting serious head and facial  injuries,
+    including a fracture of the skull.  LG robbed the victim of his wallet,
+    leaving him lying in the road.
+
+11.   The sentencing judge described LG's offences as "a brutal,  senseless,
+    cowardly attack upon an elderly gentleman" and told the appellant  that
+    "you are a thoroughly dangerous man...I don't  think  for  offences  of
+    robbery of this type it gets much worse".
+
+12.   LG's criminal history had begun in August 1996, when he was  convicted
+    of obtaining property by deception and  ordered  to  pay  compensation.
+    The following month, he  was  convicted  on  two  counts  of  obtaining
+    services by deception and ordered  to  pay  a  fine,  compensation  and
+    costs.  A month after this, he was convicted of two counts of obtaining
+    property by deception, for which he was  ordered  to  pay  a  fine  and
+    compensation.  In August 1997, LG was convicted on two counts of  theft
+    and one count of robbery, receiving a sentence of three  years  and  28
+    days' imprisonment.
+
+13.   LG appealed against the decision to make  a  deportation  order.   His
+    appeal was heard at Newport on 15 December 2005 by the  Tribunal  ("the
+    first Tribunal").  His appeal was dismissed.   Reconsideration  of  the
+    first Tribunal's  decision  was  ordered  under  section  103A  of  the
+    Nationality, Immigration and Asylum Act 2002 and, on 8  December  2006,
+    it was found that the first Tribunal had materially erred in law.   The
+    reconsideration hearing was adjourned in order for findings of fact  to
+    be made and a fresh decision taken, whether to  allow  or  dismiss  the
+    appeal.
+
+14.   The adjourned hearing took place at Newport on 5 January  2007  before
+    an Immigration Judge and a non-legal member ("the second Tribunal"). In
+    the determination which followed  that  hearing,  the  second  Tribunal
+    accepted "on the balance of the evidence" that LG had  had  ten  years'
+    continuous residence in the United Kingdom  for  the  purposes  of  the
+    appeal (paragraph 56).  Accordingly, pursuant to  regulation  21(4)(a),
+    the decision that the appellant should be deported could not  be  taken
+    "except on imperative grounds of public security".
+
+15.   At paragraph 67, the second Tribunal found that LG:
+
+      "... has been convicted of  grave  offences  and  we  find  that  the
+         appellant has not shown that he does not pose  a  risk  of  further
+         harm to the public by way of further offending and, moreover,  that
+         the evidence before us suggests that this  appellant  does  pose  a
+         continuing risk particularly when he does not appear to accept that
+         he committed the grave offence of grievous bodily harm with  intent
+         on this 66 year old man in the circumstances which were  proved  at
+         the Crown Court".
+
+16.   The Tribunal concluded, at paragraph 69:
+
+      "... that the Secretary of State has met  the  evidential  burden  of
+         showing that there are imperative grounds of  public  security  for
+         removing this appellant from the United Kingdom to Italy".
+
+17.   On appeal to the Court of Appeal (see above), the Court held that  the
+    second Tribunal had erred in law in relation to  its  approach  to  the
+    issue of whether, if the "ten  year  test"  applied,  the  decision  to
+    remove LG could properly be said to be on imperative grounds of  public
+    security.  The Court accordingly remitted the appeal to  the  Tribunal.
+    In doing so, however, it expressly left open the  question,  raised  by
+    the Secretary of State for the first time before the Court  of  Appeal,
+    whether the second Tribunal had been right to conclude that  the  level
+    of protection based on ten years' residence  applied  at  all  in  this
+    case.
+
+18.   We will need to return in more detail to the  evidence  in  LG's  case
+    when we have considered the legal issues.
+
+
+CC
+
+19.   CC is a citizen of Portugal born on 15 November  2004.   All  that  is
+    known about his arrival in the United Kingdom is that  he  is  said  to
+    have come here at some time in 2002.  He was said to be  seeking  work.
+    According to the Secretary of State's letter of 20  September  2007  to
+    CC, the latter claimed that he had mostly  been  in  full-time  factory
+    work since  arriving  in  the  United  Kingdom.   However,  documentary
+    evidence of CC's employment in the  United  Kingdom,  in  the  form  of
+    payslips and P45 forms, commences only on 6 May  2004  and  ends  on  1
+    September 2006.  National insurance records for 2006/2007 record CC  as
+    being unemployed from 11 September  2006.   According  to  a  Probation
+    Service report filed on 15  February  2007,  CC  had  appeared  in  the
+    criminal courts on a total  of  eleven  occasions  since  2003,  for  a
+    variety of offences including  theft,  possession  of  Class  A  drugs,
+    damaging property,  breach  of  a  community  order,  being  drunk  and
+    disorderly, being in possession of an  offensive  weapon  and  using  a
+    false  instrument.   This  offending  had  been  dealt  with  by  means
+    including   conditional   discharge,   probation   and   three    days'
+    imprisonment.   On  26  July  2006  CC  was   convicted   at   Grantham
+    Magistrates' Court of exposure, sexual assault on a female  and  common
+    assault.  He was  sentenced  at  Lincoln  Crown  Court  to  22  months'
+    imprisonment.  The order for CC's imprisonment  is  dated  16  February
+    2007, although Mr Karnik's skeleton argument states that  CC  had  been
+    detained since January 2007.  He was released on 17 October 2007.
+
+20.   On 20 September  2007  the  Secretary  of  State  decided  to  make  a
+    deportation order in respect of CC.  He appealed against that  decision
+    and his appeal was heard at Nottingham by the Tribunal  ("the  original
+    Tribunal") on 22 November 2007.  The original Tribunal  dismissed  CC's
+    appeal.  In its  determination,  the  original  Tribunal  addressed  Mr
+    Karnik's submission that CC could be deported only on  serious  grounds
+    of public policy or public security (regulation 21(3)) because  CC  had
+    acquired a right of permanent residence under regulation 15(1)(a); that
+    is to say, by residing in the United Kingdom for a continuous period of
+    five years.  Even leaving aside the problem of when CC arrived  in  the
+    United Kingdom, it can immediately be seen that Mr Karnik's  submission
+    to the original Tribunal (and to us) stands or  falls  on  whether  the
+    period of imprisonment spent by CC, following his convictions  in  July
+    2006, is to be taken into account in calculating  the  period  of  five
+    years mentioned in regulation 15(1)(a).
+
+21.   It is relevant to observe that,  before  the  original  Tribunal,  the
+    argument appears to have been advanced that CC was a "worker  or  self-
+    employed person  who  has  ceased  activity",  so  as  to  fall  within
+    regulation 15(1)(c).  The original Tribunal rejected  that  submission,
+    which was not advanced before us; rightly so, since it is plain that CC
+    could not fall within the definition of "worker or self-employed person
+    who has ceased activity", as defined in regulation 5.
+
+22.   The original Tribunal rejected the submission that CC had  acquired  a
+    right of permanent residence  in  the  United  Kingdom.   The  original
+    Tribunal found that "at best, the appellant has an  extended  right  of
+    residence in terms of Regulation 14 which like Regulation 15 is subject
+    to Regulation 19(3)(b) which provides that the appellant  can  only  be
+    removed if justified on the grounds (as  opposed  to  serious  grounds)
+    under Regulation 21(3) of public  policy,  public  security  or  public
+    health" (paragraph 28 of the determination).  It was on that basis that
+    the original Tribunal assessed the position of CC.  Notwithstanding the
+    fact that CC had entered what the original Tribunal considered to be an
+    apparently stable relationship with a female British citizen,  and  had
+    not committed any further offence since his release  from  prison,  the
+    original Tribunal was troubled by CC's failure to accept responsibility
+    for the offences that had caused his imprisonment for 22  months.   The
+    original Tribunal did not  accept  that  he  had  given  up  drugs  and
+    drinking to excess (paragraph 35).   It  did  not  consider  that  CC's
+    relationship with his  present  partner  had  removed  or  reduced  his
+    propensity to re-offend, particularly bearing in mind that the offences
+    were committed when CC was already in that relationship (paragraph 32).
+     The original Tribunal concluded that  CC  represented  a  genuine  and
+    sufficiently serious threat such as to justify  his  deportation  under
+    regulation 21.  CC's "past  and  escalating  behaviour  does  in  these
+    particular circumstances establish a future risk to society such as  to
+    justify   his   deportation   which   is   proportionate   given    the
+    circumstances".
+
+23.   So far as Article 8 of the ECHR was concerned, the  original  Tribunal
+    accepted at paragraph 40 that CC enjoyed family life with  his  partner
+    but took into account the fact that the partner had told  the  original
+    Tribunal "that if necessary, she would  go  to  Portugal  to  join  the
+    appellant there, following her surgery for removal of an ovarian  cyst.
+    [The partner] is  epileptic,  however  there  was  no  suggestion  that
+    whatever medication and treatment she requires will not be available in
+    Portugal."  The original Tribunal concluded that CC's removal would not
+    be disproportionate, either by reference to  regulation  21(5)  or,  if
+    different, by reference to Article 8.
+
+24.    The  Tribunal  refused  to  order  reconsideration  of  the  original
+    Tribunal's decision but on 4 February  2008  such  reconsideration  was
+    ordered by Wyn Williams J. Unfortunately, the judge did not explain his
+    reasons for finding a material error of law. This  is  the  basis  upon
+    which CC's appeal comes before us.
+
+
+The issues
+
+25.   We now summarise the issues which arise  under  the  Regulations.   Ms
+    Hulse, on behalf of LG, submitted that the second Tribunal was right to
+    find that he could be deported only on "imperative  grounds  of  public
+    security" (regulation 21(4)), but that the second  Tribunal  materially
+    erred in law in the way it approached that test.  On behalf of  CC,  Mr
+    Karnik submitted that the original Tribunal erred in law in  concluding
+    that CC had not acquired a right of permanent residence  and  therefore
+    failed to consider whether there were "serious grounds of public policy
+    or public security", which required his deportation (regulation 21(3)).
+     For the Secretary of State, Mr Eicke submitted that neither LG nor  CC
+    had acquired a right of permanent residence and that LG had also failed
+    to show ten years' residence for the purposes of regulation 21(4).
+
+26.   The following questions are therefore posed:-
+
+        (a) What constitutes  residence  for  the  purposes  of  regulation
+             15(1)(a) - right  of  permanent  residence  after  five  years'
+             "legal" residence in the United Kingdom?
+
+
+        (b) What constitutes residence for the purposes of regulation 21(4)
+             -  protection  from  expulsion  where  there  is   ten   years'
+             residence?
+
+
+        (c) What is the correct meaning and  application  of  the  test  of
+             serious grounds of public  policy  and  public  security  under
+             regulation 21(3)?
+
+
+        (d) What is the correct meaning and  application  of  the  test  of
+             imperative  grounds  of  public   security   under   regulation
+             21(4)(a)?
+
+
+      The word "legal" in question (a) is taken from  Article  16.  We  will
+    need to discuss further below (paragraphs 46ff) the precise content  of
+    that term.
+
+27.   Questions (a)  and  (b)  both  have  what  might  be  described  as  a
+    qualitative and a temporal aspect.  The qualitative aspect  relates  to
+    the nature of the residence needed to be  shown.   In  particular,  the
+    question arises as to whether  time  spent  in  prison  in  the  United
+    Kingdom following conviction for an offence can count towards the  five
+    year and ten year periods.
+
+28.   The temporal aspect raises two  issues:  first,  in  relation  to  the
+    right of residence, the question  of  commencement,  and  secondly,  in
+    relation to the 10-year period, the  end-date.  The  first  relates  to
+    whether and to what extent regard is to be had to any period before  30
+    April 2006, when the Regulations came into  force,  or  to  any  period
+    before 2 October 2000, when the Immigration  (European  Economic  Area)
+    Regulations 2000  came  into  force.   The  significance  of  the  2000
+    Regulations  arises  from  paragraph  6  of  Schedule  4  to  the  2006
+    Regulations (see Appendix A).
+
+29.   However, even if regard can be had to periods before those dates,  the
+    further question arises as to whether the right of permanent  residence
+    created by the Directive is one that can arise  only  on  or  after  30
+    April 2006.  In OP (EEA; permanent rights of residence) Colombia [2008]
+    UKAIT 00074, the Tribunal decided that question in the affirmative.
+
+30.   Before returning to the four questions, it is convenient to deal  with
+    two very recent authorities, which have narrowed the  issues  which  we
+    have to decide.
+
+
+Two recent Court of Appeal authorities
+
+Lassal - commencement date
+
+31.   The commencement  issue  has  in  the  event  been  resolved  for  the
+    purposes of this appeal by a concession  by  the  Secretary  of  State,
+    following a recent Court of Appeal judgment,  Secretary  of  State  for
+    Work and Pensions v Lassal [2009] EWCA Civ 157.
+
+32.    Mr  Eicke's  initial  stance  was  that  the  five  year  period  for
+    establishing a right of permanent residence  could  not  begin  to  run
+    until the coming into force of the 2000 Regulations. This itself was by
+    reason of what he categorised as  a  domestic  "concession",  by  which
+    activity or residence in the United Kingdom in accordance with the 2000
+    Regulations  fell  to  be  counted  for  the  purposes  of   the   2006
+    Regulations. (2006 Regulations Schedule 4,  paragraph  6).  Applying  a
+    similar approach to the ten year period, he would have  submitted  that
+    it was necessary to show residence in the United Kingdom for ten  years
+    starting with the coming into  force  of  the  2000  Regulations  on  2
+    October 2000, and that therefore that provision could have no relevance
+    until at earliest October 2010.
+
+33.   So far as concerns the five year period, Mr Eicke's  initial  approach
+    was consistent with the decision of the Tribunal in OP (EEA;  permanent
+    right of residence) Colombia [2008] UKAIT  00074.  There  the  Tribunal
+    held that, since  the  right  of  permanent  residence  is  a  specific
+    creature of the Directive, that right can crystallise only on or  after
+    30 April 2006, even though the effect of paragraph 6 of Schedule  4  to
+    the 2006 Regulations is to enable residence in the  United  Kingdom  in
+    accordance  with  the  2000  Regulations  to  count  as  residence   in
+    accordance with the 2006 Regulations.
+
+34.   On the second day of the hearings,  Mr  Eicke  informed  the  Tribunal
+    that the Secretary of State could not sustain these positions,  in  the
+    light of the judgment of the Court of Appeal in  Lassal.  Although  the
+    decision in that case was to refer certain issues to the European Court
+    of Justice, the Court made clear its view on the issue of commencement.
+
+
+
+35.   The case concerned a French national, Miss Lassal, who had resided  in
+    the United Kingdom as a worker  since  September  1999,  save  for  ten
+    months commencing February 2005 when she had  returned  to  France  for
+    personal reasons. The question was whether she had acquired a permanent
+    right to reside in the United Kingdom, having regard to the  fact  that
+    she had not completed five years' continuous residence on or  after  30
+    April 2006. Arden LJ gave the judgment  of  the  Court  explaining  the
+    reasons for making the reference. In so doing she gave the Court's view
+    of the Secretary of State's submissions as to commencement:-
+
+        "3.      The SSWP argues that the new right of permanent  residence
+             which art 16 confers applies only where a person has  completed
+             five years' continuous residence on or after the implementation
+             date.  The SSWP fears that, if a person can qualify  under  art
+             16 through residence wholly before the implementation date, art
+             16(4) would not apply. If art 16(4) does not apply,  she  could
+             acquire permanent residence even if, subsequent  to  completion
+             of five years' continuous residence, she had been  outside  the
+             United Kingdom for two years or more.
+             We would reject the  SSWP's  interpretation  of  art  16.   The
+             object of  the  Citizenship  Directive  is  to  facilitate  the
+             integration into the host member state of  workers  and  others
+             having strong links through residence with it.  To achieve that
+             aim, it is necessary to interpret art 16 so that the  right  of
+             permanent residence can be acquired on the implementation  date
+             in reliance on residence before that date.  This does not  make
+             art 16 impermissibly  retrospective.   Moreover,  if  the  five
+             years' residence has to be completed after that  date,  workers
+             who  may  have  built  up  many  years'  residence  before  the
+             implementation date will be unable to take advantage of art  16
+             until (in the case of  United  Kingdom)  30  April  2011.   The
+             SSWP's interpretation would weaken rather than  strengthen  the
+             right of  residence  of  Union  citizens,  as  the  Citizenship
+             Directive intends.  As to art 16(4), we consider that this must
+             apply consistently whether a person  completes  her  qualifying
+             period  of  continuous  residence  before,  on  or  after   the
+             implementation date.  Accordingly, in our judgment,  art  16(4)
+             must be interpreted so  that  it  applies  to  both  groups  of
+             persons." (emphasis added)
+
+
+36.   She went on to explain  that  the  Court  felt  it  right  to  make  a
+    reference, because some of the issues related to  those  considered  by
+    the House of Lords in McCarthy v SSHD [2008] EWCA Civ 641, in  which  a
+    reference had been made and which was  currently  before  the  European
+    Court (see paragraph 52 below), and  because the Court of Appeal  "does
+    not consider the question  of  the  temporal  scope  of  the  right  of
+    permanent residence to be acte claire" (paragraph 4 of the  Reason  for
+    Making a Reference). Mr Eicke submitted that  the  judgment  in  Lassal
+    should be treated as binding this Tribunal on the  commencement  issue.
+    He accordingly conceded that, consistently with that  judgment,  regard
+    could be had to periods before  the  coming  into  force  of  the  2000
+    Regulations.
+
+37.   Whether this Tribunal is formally bound by the judgment in Lassal  is,
+    perhaps, a moot point, given that the Court  of  Appeal  in  that  case
+    stayed the proceedings until the European Court of Justice has given  a
+    preliminary ruling on the question referred  to  it  by  the  Court  of
+    Appeal. However, at the very least such a formal expression of view  by
+    the Court of Appeal is  of  great  persuasive  force.  We  are  content
+    therefore to accept the Secretary of State's concession. This means, by
+    implication,  that  for  the  purposes  of  the  present  appeals,  the
+    Secretary of State has effectively conceded that, on this issue, OP  is
+    wrong.  We proceed on that basis.
+
+HR (Portugal) v SSHD [2009] EWCA Civ 371
+
+38.   After the hearings on 22 and 23 April, the Court of  Appeal  delivered
+    its judgments in HR (Portugal) [2009] EWCA  Civ  371.  We  invited  the
+    parties to make written submissions as to the significance of this case
+    for LG and CC. Mr Karnik and Mr Eicke have each supplied us with  their
+    submissions. Ms Hulse did not consider it necessary for her to  do  so.
+    We have taken the submissions into account and will address them in due
+    course. At this point it is unnecessary to do more  than  set  out  the
+    essential facts and the conclusion of the Court.
+
+39.    HR was a citizen of Portugal who claimed to have come to  the  United
+    Kingdom in 1992. Although in possession of a national insurance number,
+    there was no evidence that he had worked in this country. By  contrast,
+    his criminal record was both long and serious. It was contended on  his
+    behalf that, because he had been in the United Kingdom  for  ten  years
+    (albeit much of the time in prison),  HR  could  be  deported  only  on
+    imperative grounds of public security, as required by Article  28.3(a).
+    The Court of Appeal rejected that submission. HR's time in prison could
+    not count for that purpose. We shall return to his case in due course.
+
+40.   It is important for present purposes to  note  the  relatively  narrow
+    basis on which the case proceeded. The Court of Appeal approached  HR's
+    case on the basis that he was a person who "has never worked  here  and
+    has evidently devoted his life to crime"  (paragraph  44;  Sedley  LJ).
+    Further, Counsel for HR accepted that his  time  in  prison  would  not
+    count for the purpose of establishing a right of  permanent  residence,
+    which had to  be  "legal",  that  is  "for  the  purposes  of  availing
+    themselves of the rights and freedoms conferred by the Treaty". Indeed,
+    he accepted the AIT's finding that HR never did satisfy that condition,
+    even when not in prison (paragraph 31, Elias LJ). The case advanced  on
+    behalf of HR was that the 10-year period was different,  since  Article
+    28.3(a)  was  not  expressly  subject  to  a  similar  requirement   of
+    lawfulness; accordingly, for that purpose residence in Article  28.3(a)
+    meant no more than ten years' physical presence, even if a  significant
+    part of that time had been spent in prison.
+
+41.   This  interpretation  was  rejected  by  the  Court.  In  the  leading
+    judgment, which held that the same requirement of  "legality"  governed
+    both periods. Stanley Burnton LJ said:
+
+         "21. Recital 23 is implemented in Articles 16 and 28.2; recital 24
+        is implemented in Article 28.3. What is significant in  recital  24
+        is, first, the linkage with recital 23, signalled by  "Accordingly"
+        and the comparative adjective "greater" applied  to  "integration".
+        "Integration" itself is explained in  recital  23.  It  relates  to
+        "persons who, having availed themselves of the rights and  freedoms
+        conferred on them by the Treaty, have become  genuinely  integrated
+        into the host Member State". These  recitals  show  that  what  was
+        intended was  a  progression  in  the  restrictions  on  expulsion,
+        depending on the degree of integration of a person in  the  country
+        in which he is present as  demonstrated  by  the  duration  of  his
+        residence in the exercise of Treaty rights. In my view  it  follows
+        that the Member States did not intend the restriction on  expulsion
+        envisaged in recital 24 to be applicable to someone  who  does  not
+        qualify for the protection envisaged by recital  23.  It  is  clear
+        from recital 24 that the reason for the restriction on the right of
+        the state to expel someone who has been in this  country  for  many
+        years is his integration into this country.  Recital  24  does  not
+        envisage that the restriction  on  expulsion  to  which  it  refers
+        should be applicable to a person who has not availed himself of the
+        rights and freedoms conferred on him by the Treaty,  but  has  been
+        compulsorily detained in this country.
+
+
+         22. If I read Article 28.3 literally, and  assume  that"  resided"
+        means no more than "been present in", there is no qualification  to
+        the period of his presence in this country, and no  link  with  the
+        requirements of Article 16 that he  should  have  resided  in  this
+        country "legally". It is clear from recital 23  that  "legally"  in
+        Article 16 means "in  the  exercise  of  the  rights  and  freedoms
+        conferred on them by the Treaty, as was held by the Tribunal in  GN
+        (EEA Regulations:  Five  years'  residence)  Hungary  [2007]  UKAIT
+        00073. If the appellant's submission is well-founded, a person  who
+        has been in this country for 11 years, of which  8  were  spent  in
+        prison, is not entitled to the right of permanent residence, and is
+        therefore not protected by Article  [28.2],  but  is  protected  by
+        Article [28.3], and cannot be removed except on imperative  grounds
+        of public security. The consequence is manifestly inconsistent with
+        recitals 23 and 24. So  is  the  fact  that  it  is  impossible  to
+        consider the Appellant to have been integrated into this country as
+        envisaged by recitals 23 and 24."
+
+42.   Thus the ratio of the decision is that, in respect of the  quality  of
+    residence, no distinction is to be drawn between the five year and  ten
+    year periods, notwithstanding the absence from the latter of an express
+    reference to the need for it to be "legal". That accords with the  view
+    we had reached before seeing the judgments.
+
+43.   As to whether time spent in prison can ever count towards  the  period
+    of residence for either purpose, the judgments are more  equivocal.  In
+    view of the concession made by counsel for HR, this  question  did  not
+    need  to  be  decided.  Elias  LJ  placed  particular  weight  on  that
+    concession (paragraph 31), although he agreed  generally  with  Stanley
+    Burnton LJ. Sedley LJ expressed  more  doubt  as  to  the  question  of
+    interpretation but commented that:
+
+      "... the facts of the present case can fall only on one side  of  the
+         line, wherever it is drawn, since HR has never worked here and  has
+         evidently devoted his life to crime." (paragraph 44)
+
+44.   Therefore, we think that the case must  be  read  as  to  some  extent
+    turning on its own facts and the submissions made. Furthermore, as will
+    be seen, the Court was not referred to  a  line  of  European  case-law
+    which is potentially relevant, a least in relation to  a  claimant  who
+    (unlike  HR)  had  qualified  as  a  worker  before   his   period   of
+    imprisonment. Accordingly,  while  acknowledging  the  guidance  to  be
+    gained from the Court of Appeal judgments, we cannot avoid the need  to
+    reconsider the issues for ourselves.
+
+45.   We now turn to the four questions summarised above,  to  be  addressed
+    as questions of principle, before applying the answers to the facts  of
+    the two cases before us.
+
+
+Question (a) - What constitutes residence for  the  purposes  of  regulation
+15(1)(a) - right of permanent residence after five  years'  legal  residence
+in the United Kingdom?
+
+"Legal" residence
+
+46.    As already noted, we have used the expression  "legal  residence"  in
+    question (a) because  Article  16.1  accords  the  right  of  permanent
+    residence to "Union citizens who have resided legally for a  continuous
+    period of five years in the host  Member  State".  Regulation  15(1)(a)
+    does not use that or any equivalent term, but requires the five  years'
+    residence in the  United  Kingdom  to  be  "in  accordance  with  these
+    Regulations". It is necessary to consider whether there is any material
+    difference between the two expressions.
+
+47.   The Secretary of State's position is that there is no difference.   In
+    order to  acquire  a  right  of  permanent  residence,  a  person  must
+    demonstrate that, during any period upon which it is sought to rely for
+    the purpose of establishing the requisite five years' residence, he  or
+    she was in the United Kingdom, exercising a Treaty right;  that  is  to
+    say as a "qualified person" within the meaning of regulation 6 (e.g.  a
+    job seeker, worker or student) or as a relevant family member of such a
+    person (within the scope of the Regulations). The  expression  used  by
+    the Regulations is consistent with recital 17 of the  Preamble  to  the
+    Directive which speaks in the same context of five years residence  "in
+    compliance with the conditions laid down in this Directive".
+
+48.   Ms Hulse and Mr  Karnik,  on  the  other  hand,  contended  that  this
+    interpretation is too narrow.   Although  neither  submitted  expressly
+    that mere physical  presence  in  this  country  was  sufficient,  both
+    contended that rights of residence in host Member States, deriving from
+    the Treaty, were wider in nature and that, even if a person  could  not
+    at any particular point in time be described as  a  "qualified  person"
+    etc., he or she might nevertheless be lawfully in  the  United  Kingdom
+    for the purposes of the Directive and the Regulations.
+
+49.   This issue in our view must now be regarded as settled,  at  least  up
+    to the Court of Appeal. We have  already  noted  Stanley  Burnton  LJ's
+    statement in HR (Portugal) that:
+
+      "it is clear from recital 23 that 'legally' in Article 16  means  'in
+         the exercise of the rights and freedoms conferred on  them  by  the
+         Treaty', as was held by the Tribunal in GN (EEA  Regulations:  five
+         years' residence) Hungary [2007] UKAIT 00073" (paragraph 22).
+
+50.   The quotation from recital  23  is  taken  from  the  passage  dealing
+    generally with integration, and is arguably wider than the  formula  in
+    recital 16, which relates to the right  of  permanent  residence.  That
+    refers specifically to compliance with the conditions of the  Directive
+    rather than to rights under the Treaty. However, since  the  point  had
+    been conceded, and nothing turned on the different wording,  there  was
+    no need for the Court to discuss it in any detail.
+
+51.   The same point was also addressed by the Court of Appeal  in  McCarthy
+    v SSHD [2008] EWCA Civ  641.   The  appellant  was  a  citizen  of  the
+    Republic of Ireland and a British citizen.  Whilst accepting  that  she
+    was not a "qualified person" within the meaning of the Regulations, the
+    appellant asserted that she had acquired a right of permanent residence
+    under regulation 15 as an EEA national who had resided lawfully in  the
+    United Kingdom for a continuous period of five years.  The Secretary of
+    State refused her application for a residence permit and  she  appealed
+    to the Asylum and Immigration Tribunal.  Her appeal  was  dismissed  on
+    reconsideration.  At paragraph 31 of the judgment, Pill LJ held:-
+
+            "I agree with the conclusions of the  Tribunal.   The  Directive
+             creates and regulates rights of  movement  and  residence  for
+             Union citizens.  The lawful residence contemplated in  article
+             16 is residence which complies with community law requirements
+             specified in the Directive and does not cover residence lawful
+             under domestic law by reason of  United  Kingdom  nationality.
+             Article 3 provides in terms  that  the  Directive  applies  to
+             Union citizens who reside in a Member State 'other  than  that
+             of which  they  are  a  national'.   The  expression  'resided
+             legally'  in  article  16  should,  in  my   view,   be   read
+             consistently with, and in the sense, of  preamble  17  of  the
+             Directive,  that  is  residence  'in   compliance   with   the
+             conditions laid down in this Directive'.  The repeated use  in
+             the Directive of the expression 'host Member  State'  supports
+             that conclusion.  It indicates rights to be enjoyed in  Member
+             States  other  than  that  of  nationality;  the  word  'host'
+             suggests that the Union citizen is a 'guest', an inappropriate
+             expression for persons in the state of their own nationality."
+
+52.   That passage confirms the position taken by  the  Secretary  of  State
+    before us. It is necessary to observe that, on appeal to the  House  of
+    Lords, a reference was made to the European Court  of  Justice  ("ECJ")
+    under Article 234 of the Treaty.  The nature of the reference, however,
+    makes it plain that the position of Mrs McCarthy, as a dual  Irish  and
+    United  Kingdom  national,  was  considered   to   be   of   particular
+    significance.  The first question referred relates to  whether  such  a
+    person who has resided in the United Kingdom for her entire life can be
+    said to be "a beneficiary" within the  meaning  of  Article  3  of  the
+    Directive.  The second question is whether "such a person" has  resided
+    legally within the United Kingdom for the purpose of Article 16 of  the
+    Directive.  However, those points do not detract in our view  from  the
+    authority of McCarthy, on the construction of the  term  "legally"  for
+    our purposes.
+
+53.   We should add  for  completeness  that  in  the  2008  Report  of  the
+    Commission, to which we  have  already  referred,  the  only  criticism
+    levelled at the United Kingdom in respect of the implementation of  the
+    right of permanent residence (paragraph 3.7)  relates  to  whether  the
+    government should have taken account of periods of  residence  acquired
+    by EU citizens before the UK acceded to  the  EU.   Immediately  before
+    that passage we find  that  "Hungary  makes  [the  right  of  permanent
+    residence] incorrectly conditional upon conditions related to the right
+    of residence".  Exactly  what  Hungary  has  done  in  this  regard  is
+    unclear; but it would appear to involve making  the  retention  of  the
+    right of permanent residence, once acquired, dependent  upon  continued
+    compliance with the conditions that relate to the enjoyment of  an  EEA
+    right of residence under Article 6 or Article 7 of the  Directive  (ie.
+    precisely the rights contained in regulations 13 and 14). Article  16.4
+    expressly  provides  that,  once  acquired,  the  right  of   permanent
+    residence shall be lost "only through  absence  from  the  host  Member
+    State for a period exceeding two consecutive years".  Article  16.4  is
+    exactly transposed by regulation 15(2).
+
+54.   In the circumstances, had the Commission been  in  any  way  concerned
+    with the wording of regulation 15(1)(a), one would have  expected  them
+    to have said so in their Report.  The fact that they have not  done  so
+    provides some reassurance for the Secretary of State's interpretation.
+
+Imprisonment following period of work
+
+55.   It is necessary now to deal with a number of authorities of  the  ECJ,
+    which are relied upon by LG and CC in support of the  proposition  that
+    imprisonment following criminal conviction may constitute residence for
+    present purposes, at least in  relation  to  a  person  who,  prior  to
+    imprisonment, was a worker within the meaning  of  Article  39  of  the
+    Treaty. As already noted, these authorities were not cited to the Court
+    in HR (Portugal), and were not relevant on the facts of that case.
+
+56.   The first material case, Nazli [2000] ECR I-957, was concerned with  a
+    particular context, that of Turkish nationals under the  special  rules
+    (under the EEC Turkey Association Agreement) providing for their access
+    to employment in Member States.  However,  as  will  be  seen,  it  was
+    treated in later cases as of general application under Article 39.  The
+    relevant provision was Article 6(1) of Decision  No  1/80  of  the  EC-
+    Turkey Association Council, which provides:
+
+        "Subject to Article 7 on free access to employment for  members  of
+        his family, a Turkish worker duly registered as  belonging  to  the
+        labour force of the Member State:
+
+
+           -     shall be entitled in that Member State, after  one  year's
+               legal employment, to the renewal of his permit to  work  for
+               the same employer, if a job is available;
+
+
+           -     shall be entitled in that Member State after  three  years
+               of legal employment and subject to the priority to be  given
+               to workers of Member States of the Community, to respond  to
+               another offer of employment, with an employer of his choice,
+               made  under  normal  conditions  and  registered  under  the
+               employment services of that State, for the same occupation;
+
+
+           -     shall  enjoy  free  access  in  that  State  to  any  paid
+               employment  of  his  choice,  after  four  years  of   legal
+               employment" [the "third indent"].
+
+57.   Mr Nazli, a Turkish national, had been in continuous  paid  employment
+    in Germany since 1979, and from May 1989 he  had  held  a  work  permit
+    unlimited in duration and  entirely  unconditional.   In  1992  he  was
+    implicated in a case  of  drug  trafficking  in  Germany  and  detained
+    pending trial from December 1992 to January 1994. In April 1994, he was
+    sentenced to a term of imprisonment of 21 months, which  was  suspended
+    in full because the offence had been an isolated one and Mr  Nazli  was
+    well-integrated socially and had found work again immediately after his
+    release. However, his application for an  extension  of  his  residence
+    permit was later rejected by the department responsible for the control
+    of  aliens,  which  also  simultaneously  ordered  his  expulsion  from
+    Germany.
+
+58.   Amongst  the  questions  referred  to  the  ECJ  was  whether,  having
+    achieved the legal status conferred by  the  third  indent  of  Article
+    6(1), a Turkish worker should forfeit that status subsequently if he is
+    detained on suspicion of having committed  a  crime  for  which  he  is
+    ultimately convicted and given a suspended prison sentence.  The  Court
+    answered that question in the negative, holding that he  did  not  lose
+    his status as a worker during his imprisonment, provided he found a new
+    job within  a  reasonable  period  after  his  release.  The  essential
+    reasoning appears from the following passage of the judgment:
+
+        "38.     ...Article 6 of Decision No 1/80 relates not only  to  the
+             situation where a Turkish worker is in  active  employment  but
+             also to the situation  where  he  is  incapacitated  for  work,
+             provided that his incapacity is only temporary, that is to  say
+             it does not affect his fitness to continue exercising his right
+             to  employment  granted  by  that  decision,  albeit  after   a
+             temporary break in his employment relationship...
+
+
+        39. Thus, while the right of residence as a corollary of a right to
+             join the labour force  and  to  be  actually  employed  is  not
+             unlimited, the rights granted by Article 6(1)  of  Decision  No
+             1/80 are necessarily lost only if the worker's inactive  status
+             is permanent.
+
+
+        40. In particular, while  legal  employment  for  an  uninterrupted
+             period  of  one,  three,  or  four  years  respectively  is  in
+             principle required in order for the rights provided for in  the
+             three indents of Article 6(1)  to  be  established,  the  third
+             indent of that provision  implies  the  right  for  the  worker
+             concerned, who is already duly integrated into the labour force
+             of the host Member State, to take a temporary break from  work.
+             Such a worker thus continues to be duly registered as belonging
+             to the labour force of that State providing  that  he  actually
+             finds another job within a  reasonable  period,  and  therefore
+             enjoys a right to reside there during that period.
+
+
+        41. It follows from the foregoing considerations that the temporary
+             break in the period of active employment of  a  Turkish  worker
+             such as Mr Nazli while he is detained pending trial is  not  in
+             itself capable of causing him to forfeit the  rights  which  he
+             derived directly from the  third  indent  of  Article  6(1)  of
+             Decision  No  1/80  provided  he  finds  a  new  job  within  a
+             reasonable period after his release.
+
+
+        42. A person's temporary absence as a result of detention  of  that
+             kind does not in any way  call  into  question  his  subsequent
+             participation in working life, as is moreover  demonstrated  by
+             the main proceedings, where Mr Nazli looked for work and indeed
+             found a steady job after his release..."
+
+59.   In Orfanopoulos and Oliveri  [2004]  ECR  I-5257,  the  same  line  of
+    reasoning was applied to the question of deportation  of  nationals  of
+    Member States. The Court was  concerned  with  the  cases  of  a  Greek
+    national and an Italian national, both of whom lived  in  Germany.   Mr
+    Orfanopoulos had been in that  country  for  almost  30  years,  having
+    arrived  as  a  teenager.   Mr  Oliveri  had  been  born   there.    Mr
+    Orfanopoulos had been refused an extension  of  his  residence  permit.
+    His employment in Germany had been interrupted by periods of  prolonged
+    unemployment, including periods of imprisonment and hospitalisation  as
+    a result of drug addiction. In 2001  his  expulsion  from  Germany  was
+    ordered and he was informed that he would be deported at the end of his
+    latest sentence of imprisonment.  Mr  Oliveri  also  had  been  a  drug
+    addict and had committed numerous offences, in respect of some of which
+    he had been  imprisoned.   In  2000  his  expulsion  from  Germany  was
+    ordered.
+
+60.   A number of questions were posed to the ECJ by the German  courts,  in
+    respect of both cases.  Much of the ECJ's judgment is taken up with the
+    issue of whether deportation of  a  national  of  a  Member  State  can
+    properly be based on reasons of a general preventative nature  and,  in
+    particular,  whether  automatic  deportation   following   a   criminal
+    conviction is compatible with Community  law.   The  Court  found  that
+    general  prevention  could  not  be  relied  upon,  particularly  where
+    deportation was,  under  national  law,  an  automatic  consequence  of
+    conviction (paragraph 68, citing Nazli).
+
+61.   However, the Court also addressed  the  effect  of  their  periods  of
+    imprisonment on their status as workers, in the context of  the  rights
+    derived from Articles 18 and 39 of the Treaty. In the following passage
+    Nazli was treated as applicable:-
+
+        "49.     So far as concerns migrant workers who are nationals of  a
+             Member State, their  right  of  residence  is  subject  to  the
+             condition that the person remains a worker or, where  relevant,
+             a person seeking employment  (see  to  that  effect,  KC-292/89
+             Antonissen [1991] ECR I-745, paragraph 22), unless they  derive
+             that right from other provisions of Community law...
+
+
+        50. Moreover, in respect more particularly of  prisoners  who  were
+             employed before their imprisonment, the fact  that  the  person
+             concerned was not available on  the  employment  market  during
+             such imprisonment does not mean, as a general rule, that he did
+             not continue to be duly registered as belonging to  the  labour
+             force of the host Member State  during  that  period,  provided
+             that he actually finds another job  within  a  reasonable  time
+             after his release (see, to that effect, KC-340/97 Nazli  [2000]
+             ECR I-957, paragraph 40).
+
+
+        51. It is clear that Mr Orfanopoulos has made use of the  right  to
+             freedom  of  movement  for  workers  and  has  pursued  several
+             activities  as  an  employed  person  in  Germany.   In   those
+             circumstances, it must be held that Article 39 EC and Directive
+             64/221 apply  in  circumstances  such  as  those  of  the  main
+             proceedings in KC-482/01..."
+
+
+62.   In the case of Mr Oliveri there was insufficient information  for  the
+    Court to determine the issue.
+
+63.   Dogan [2005] ECR  I-6237  was  another  case  relating  to  a  Turkish
+    national who, after four years of  legal  employment  in  Austria,  had
+    acquired the right of free access to any paid employment of his  choice
+    under the third indent of Article 6(1). It was held  that  he  did  not
+    forfeit that right solely because of a period of imprisonment, even for
+    several years. It was a strong case, because he had  lived  in  Austria
+    for some 27 years and had been legally employed there "for many  years"
+    (paragraph 7 of the judgment).  His family had been authorised to  join
+    him in Austria in 1975 or 1976.  The case arose from the fact that,  in
+    March 1999,  he  was  sentenced  to  three  years'  imprisonment.   The
+    judgment is significant because it was confirmed both  that  the  Nazli
+    principle was of general effect, and that  it  applied  following  even
+    relatively lengthy terms of imprisonment. The court said:-
+
+        "22.     As is  clear  from  joined  cases  C-482/01  and  C-493/01
+             Orfanopoulos and Oliveri [2004] ECR I-5257, paragraph  50,  the
+             reasoning in Nazli cannot  therefore  be  understood  as  being
+             limited to the particular circumstances of that case, depending
+             on the fact that the  worker  in  question  had  been  detained
+             pending trial for more than a year and then given  a  suspended
+             sentence.  On the contrary, the same reasoning is applicable in
+             its entirety, for the same reasons, to a temporary absence from
+             the labour force due to the completion of  a  prison  sentence.
+             More particularly, the fact that the imprisonment prevents  the
+             person concerned from working,  even  for  a  long  period,  is
+             irrelevant if it does not preclude  his  subsequent  return  to
+             working life...."
+
+64.   We accept that this line of authorities is of potential importance  in
+    the present context. It shows that in certain  circumstances  a  person
+    who has acquired rights of  free  movement  under  Article  39  in  his
+    capacity as a "worker" will not lose that status merely  because  of  a
+    period during which he is forcibly  deprived  by  imprisonment  of  the
+    ability to work. The same approach should arguably be applicable to the
+    definition of a "worker" under the instant Directive.  Imprisonment  in
+    itself would not mean that residence ceases to  be  "legal",  and  thus
+    falls to be disregarded  for  the  purposes  of  deciding  whether  the
+    necessary periods of residence have been achieved.
+
+65.   However, none of the cases was, or could be, directly  concerned  with
+    the means of establishing a right of permanent residence under the 2004
+    Directive, which was not in force at the time.  Nazli  and  Dogan  were
+    concerned with the Turkey Association Agreement, under which  a  worker
+    who satisfies the four year requirement acquires an accrued right. That
+    seems closely analogous to the right of permanent residence  which  can
+    now be acquired by EEA nationals under Article  16  of  the  Directive.
+    One can readily understand why a Turkish worker who has such an accrued
+    right should not have that  right  automatically  extinguished  by  any
+    period of imprisonment. Indeed, such a failure to differentiate between
+    accrued and conditional rights appears to be  precisely  the  criticism
+    made by the Commission of Hungary's  implementation  of  the  Directive
+    (see paragraph 53 above).
+
+66.   In Orfanopoulos and Oliveri, the same reasoning  was  applied  in  the
+    context of  the  Treaty  to  EEA  nationals  who  had  been  imprisoned
+    following conviction.  Although the right of  permanent  residence  did
+    not then exist, Mr Orfanopoulos had been living and working in  Germany
+    for a far longer period than would have been necessary to satisfy  that
+    test. It is not surprising that the Court in effect  decided  that  his
+    status was sufficiently settled not to  be  disrupted  by  three  years
+    imprisonment. However, as Mr Eicke says, the case  was  concerned  with
+    whether the individuals were at the relevant time  wholly  outside  the
+    remit of EU law, and the  protection  against  removal  on  grounds  of
+    public policy, public security or public health, and not  whether  they
+    had acquired some enhanced status by reason of past residence.
+
+67.   It does not in our view  follow  that  the  same  approach  is  to  be
+    applied to the acquisition of the new  right  of  residence  under  the
+    Directive. For that purpose it becomes particularly important that  the
+    quality of residence required during the five years is such as to  meet
+    the objective of the Directive to  recognise  genuine  integration  and
+    enables the test to be applied with certainty. The criterion adopted in
+    Orfanopoulos would be difficult to apply as a test for deciding whether
+    a period of imprisonment counts towards the five year period in Article
+    16 of the Directive.  The deciding authority would in each case have to
+    wait until  "a  reasonable  time"  after  the  release  of  the  person
+    concerned (whatever that might be),  before  establishing  whether  the
+    period of imprisonment counted towards the five years. The effect would
+    be to impede the ability of Member States to take  expulsion  decisions
+    in the cases  of  persons  whose  crimes  resulted  in  imprisonment  -
+    precisely the category of persons in respect of whom expulsion  may  be
+    most necessary.
+
+68.   There is a further consideration which argues  against  treating  this
+    line of cases as relevant to  the  test  for  the  right  of  permanent
+    residence.  The approach of the Directive is to review and  codify  the
+    existing Community legislation on the rights of movement and residence.
+    That is plain from its Preamble.  Article 7.1 defines  those  having  a
+    right of residence for more than three months. Article 7.3  contains  a
+    list of circumstances in which a person who is "no longer a worker"  is
+    to retain the status of worker (implemented in the  United  Kingdom  by
+    regulations 5 and 15(1)(c)). They include, for example, (a) the case of
+    a person "temporarily unable to work as the result  of  an  illness  or
+    accident", and (b) that of a person in "involuntary unemployment" after
+    having been employed for more than a year who is registered as  a  job-
+    seeker". They do not include a person who is  prevented  from  work  by
+    imprisonment.  These  specific  definitions  and  protections  make  it
+    potentially misleading to rely on more  general  concepts  of  "worker"
+    used in other contexts. Conversely, as Mr Eicke submits, if it had been
+    intended that a person who had previously been a worker, but  was  then
+    imprisoned, should nevertheless retain the status of  a  worker  during
+    his imprisonment, one would expect to see  express  provision  to  that
+    effect in Article 7.3.
+
+69.   For these reasons, we conclude that there is nothing in this  line  of
+    cases which would justify us departing from  the  principle  which  was
+    conceded  and  formed  the  starting-point  for  the  decision  in   HR
+    (Portugal).  We proceed on the basis therefore that time in prison does
+    not count towards the  five  year  period  of  residence  required  for
+    acquisition of a permanent right.
+
+Alternative arguments for CC
+
+Council of Europe Convention on the Transfer of Convicted Persons
+
+70.   It is convenient at this point to  note,  in  order  to  dismiss,  two
+    alternative arguments of Mr Karnik. The first relied upon  the  Council
+    of Europe's Convention on the Transfer of Sentenced Persons  (21  March
+    1983) in support of the proposition that  an  EEA  national  serving  a
+    sentence of imprisonment in the United  Kingdom  is  lawfully  resident
+    within the scope of Article 16.1 of the Directive. We do  not  see  how
+    any rights under this Convention can be  relevant  to  legal  residence
+    under Article 16.1, which as already made  clear,  means  residence  in
+    accordance with a right described in the Directive.
+
+71.   In any event, it  is  not  possible  to  infer  from  this  Convention
+    anything that can be properly categorised as a right  of  residence  by
+    reason of imprisonment.  The Convention provides a mechanism whereby  a
+    person sentenced in the territory of a party to the Convention  may  be
+    transferred to the  territory  of  another  party,  if  the  States  in
+    question agree and the sentenced person consents.  Mr Karnik  submitted
+    that the requirement of the prisoner's consent indicated a right of the
+    prisoner to reside in the State that had imprisoned  him.   We  do  not
+    agree.  A person who has no right to be in the United Kingdom, but  who
+    is serving a sentence of  imprisonment  here,  remains  in  the  United
+    Kingdom not because of any right that he has but, rather, as  a  result
+    of the right of the host State to punish him for his crime.   The  fact
+    that such a prisoner may not be regarded as being in the United Kingdom
+    unlawfully in no sense means that his  presence  in  prison  is  to  be
+    regarded as lawful for other purposes (see Abdirahman [2007]  EWCA  Civ
+    657).
+
+Regulation 19(3)
+
+72.   Secondly, Mr Karnik argued that the logic of the Secretary of  State's
+    submissions regarding the position of serving prisoners was  that  such
+    persons should be removable under regulation 19(3)(a), since  they  had
+    no right  to  reside  under  the  Regulations  once  they  began  their
+    sentences.  However, in both of the present cases the decision to  make
+    the deportation order was specifically taken under regulation 19(3)(b),
+    which applies where the person concerned:-
+
+      "would otherwise be entitled to reside in the  United  Kingdom  under
+         these Regulations but the Secretary of State has decided  that  his
+         removal is justified  on  the  grounds  of  public  policy,  public
+         security or public health in accordance with regulation 21".
+
+73.   It is true that the deportation  decisions  in  both  of  the  present
+    cases were made at a time when each of the appellants was still serving
+    his sentence and when, on the basis of the Secretary of State's stance,
+    neither was exercising a right of residence under the Directive or  the
+    Regulations.  We do  not,  however,  consider  that  the  Secretary  of
+    State's  decision  to  proceed  under  regulation  19(3)(b)  shows  her
+    interpretation of regulation 15(1)(a) to be incorrect.  We have already
+    seen how, in the case of a person who was, for example, a worker  prior
+    to imprisonment, the use of regulation 19(3)(b) produces a result which
+    is in accordance with ECJ case law, by ensuring  that  the  deportation
+    decision is subject to the relevant general principles in Article 27 of
+    the Directive.  The Tribunal is also aware that the Secretary of  State
+    regularly resorts to deportation, where a person is in  theory  subject
+    to administrative removal under  section  10  of  the  Immigration  and
+    Asylum Act 1999. In short, the fact that the  Secretary  of  State  has
+    used regulation 19(3)(b) does not compel the conclusion Mr Karnik urged
+    us to draw.
+
+
+Question (b) - What constitutes residence for  the  purposes  of  regulation
+21(4)(a):  protection  from  expulsion  where  there  has  been  ten  years'
+residence?
+
+The effect of imprisonment
+
+74.   As has been seen, at least part of the answer  to  this  question  has
+    been provided by the decision of the Court of Appeal in HR  (Portugal).
+    That establishes that, at least in relation to a  person  who  has  not
+    worked in this country and who has not acquired a  right  to  permanent
+    residence, time spent in prison does not count  towards  the  ten  year
+    period required. That is not, however, because during that time  he  is
+    not "resident" in the UK, but because it is not  "relevant  residence":
+    that is, residence in exercise of the rights and freedoms conferred  in
+    the Treaty (paragraph 23 Stanley Burnton LJ, paragraphs 35-7 Elias LJ).
+
+
+
+75.   However, we have found it less easy to apply the reasoning to a  case,
+    in which a person has already lived and worked in this country for five
+    years before his imprisonment,  so  as  to  acquire  here  a  right  of
+    permanent residence. Once that right has been  acquired,  it  could  be
+    argued, there is no reason to regard time spent in prison as ceasing to
+    be residence in pursuance of that right. It is therefore residence  "in
+    accordance with the rights of residence as set out in  the  Directive",
+    and should in principle count for  the  purposes  of  establishing  ten
+    years' residence.  As Recital (18) says:
+
+        "(18)    In order to be a genuine vehicle for integration into  the
+             society of the host Member State in  which  the  Union  citizen
+             resides, the  right  of  permanent  residence,  once  obtained,
+             should not be subject to any conditions."
+
+                 76.   On  the  other  hand,  even  if  time  in  prison  is
+    accepted as continuing to be pursuant to the right of residence, it can
+    hardly be said to be an exercise of "the rights and freedoms" conferred
+    by the Treaty, or as contributing  in  any  way  to  the  objective  of
+    integration. The argument would also have surprising results. A  person
+    who, one month after acquiring the permanent right, is then  imprisoned
+    for five years, would become automatically entitled to the higher level
+    of protection at  the  end  of  his  sentence,  without  his  level  of
+    integration having in any way improved since he acquired the  permanent
+    right.  Accordingly,  although   there   are   arguable   grounds   for
+    distinguishing such a case from the facts of HR  (Portugal),  we  think
+    they are insufficient to justify us adopting a different approach, with
+    the result that time in prison does not count towards  the  acquisition
+    of the higher level of protection, even for someone who has a right  of
+    permanent residence.
+
+ The correct "end date" for the ten year period in regulation 21(4)(a)
+
+77.   The question whether prison counts also  has  relevance  to  the  last
+    aspect of this question which we have to consider, relating to the  end
+    date for the 10 year period. Article 28 of the  Directive  concerns  an
+    expulsion decision.  Article 28.3(a) applies the most  stringent  test,
+    of imperative grounds of public security, in the case of those (adults)
+    who "have resided in the host Member State for the previous ten years".
+     Regulation 21(4)(a) implements this by referring to the  EEA  national
+    as having "resided in the United Kingdom for a continuous period of  at
+    least ten years prior to the relevant decision" (our emphases).
+
+78.   Thus it is clear that the period of residence that gives rise  to  the
+    test of imperative grounds runs backwards in time from the date of  the
+    expulsion decision.  This temporal requirement does not  apply  to  the
+    five year test. It is not clear from the contemporary materials or  the
+    Preamble why this difference  was  made  between  the  two  tests.  The
+    Commission's report treats the two tests as differing only in length of
+    time. The Preamble to the Directive refers simply  to  "Union  citizens
+    who have resided for many years in the territory  of  the  host  Member
+    State", without mentioning an end-date.
+
+79.   One can understand the reason for having some  link  between  the  ten
+    year period and the date of decision. Otherwise, for example, a  person
+    who had been lawfully resident for ten years in the United Kingdom  and
+    then absent for 20 years, before returning here for a brief period  and
+    committing a serious criminal offence,  for  which  he  is  imprisoned,
+    would be able to enjoy the highest degree of protection from expulsion,
+    even though his degree of integration in the United Kingdom was (in the
+    light of his long absence) very limited.
+
+80.   On the other hand the end-date requirement  may  also  have  anomalous
+    and harsh results. Since most expulsion decisions of this kind will  be
+    taken in respect of persons  who  have  been  imprisoned  for  criminal
+    offences, the consequence of not treating time in prison  as  residence
+    for the purposes of Article 28.3, even for those who have  a  right  of
+    permanent residence, may mean that its practical value is much reduced.
+    It would mean that such a person would be  unable  to  demonstrate  the
+    requisite ten years' residence, however long and blameless his previous
+    residence in the United Kingdom, and however short his time in prison.
+
+81.   However, these potentially harsh  results  may  be  mitigated  if  the
+    specific temporal rules are seen in context. Once a permanent right  of
+    residence has been acquired it is not lost as a result of imprisonment.
+    Expulsion must be justified by "serious grounds" of public security  or
+    public policy. Furthermore the decision must  be  consistent  with  the
+    principle of proportionality and have regard to:
+
+      "the person's length of residence in the United Kingdom, the person's
+         social and cultural integration into the  United  Kingdom  and  the
+         extent of the person's links with his country of origin."
+
+82.   Thus, even if the highest level of protection is not  available  as  a
+    matter of right, a person's period of residence is  still  relevant  in
+    deciding whether his expulsion would be disproportionate on  the  facts
+    of his case. Where a person  has  become  fully  integrated  into  this
+    country by more than  ten  years  residence,  particularly  if  he  has
+    severed any links with his country of origin, it  would  be  consistent
+    with the purpose of the Directive (as stated in the Preamble) to  apply
+    a  stringent  test,  which  may  be  equivalent  in  practice  to   the
+    "imperative grounds" test.
+
+ 83.  There is also the  following  point.  Article  33  prevents  expulsion
+    orders being issued as a penalty or legal consequence  of  a  custodial
+    penalty, unless they conform to Articles 27 to 29. If such an expulsion
+    order is enforced more than two years after it is  issued,  the  Member
+    State must check that the individual  "is  currently  and  genuinely  a
+    threat to public policy or public security" and  must  assess  "whether
+    there has been  a  material  change  in  the  circumstances  since  the
+    expulsion order was issued". The existence of  this  provision  in  the
+    Directive suggests that, at least where the decision to  deport  arises
+    as a  result  of  a  recommendation  from  the  sentencing  court,  the
+    Secretary of State should make that decision as close  as  possible  to
+    the beginning of any custodial sentence for the offence. In the case of
+    a person who has 10 years or more relevant residence before  committing
+    an offence which causes a decision to deport, such an  approach  should
+    enable the person to invoke the protection of regulation 21(4)(a).
+
+The application of our conclusions to the facts of LG and CC
+
+84.   Before turning to questions (c) and (d), we must  first  consider  how
+    our conclusions as to the interpretation of the residence  requirements
+    apply in the two cases  before  us,  in  order  to  determine  on  what
+    criteria the decision to deport either of them should be based.
+
+LG
+
+85.    It is clear that LG has lived in the United Kingdom  since  at  least
+    1987.  In fact, LG's evidence to the  first  Tribunal  and  the  second
+    Tribunal was that he had been in the United Kingdom since  1985.   LG's
+    account, which has not been challenged by the Secretary  of  State,  is
+    that his parents died whilst he was  a  child  and  that,  following  a
+    period when he was looked after by a relative in Italy, he came to  the
+    United Kingdom to be looked after by his  aunt.   The  second  Tribunal
+    recorded at paragraph 32 of its determination that LG had been  granted
+    a residence permit in 1990, valid until 1995,  and  that  he  "did  not
+    obtain another document after this because he was told that it was  not
+    necessary  once  five  years  had  expired".   The  second   Tribunal's
+    reference to national insurance records relates to  the  material  sent
+    under cover of a fax of 4 January 2007 from  HM  Revenue  and  Customs.
+    These records extend back to the tax year 1985-1986.  They  demonstrate
+    that LG was in paid employment in each of the tax years beginning  with
+    1987-1988 and ending 1993-1994.  There was further economic activity in
+    1996-1997, 1998-1999  and  1999-2000.   The  first  Tribunal  found  at
+    paragraph 15(6) of its determination that:-
+
+        "The appellant claims to have been a postman from 1990 to 1991;  he
+        was employed  by  Next  plc  from  1991  to  1993;  owned  his  own
+        restaurant from 1994 to 1996; and worked for a  marketing  company,
+        FDS Ltd from 1997  to  1998.   No  evidence  has  been  adduced  to
+        contradict that employment record and so I (sic)  find  on  balance
+        that the appellant was so employed."
+
+86.   At some point LG married in the United Kingdom  but  was  divorced  in
+    1996.  Although there was a child of the marriage, LG has not seen  his
+    son since 1999.  LG asserts that his criminality began at a  time  when
+    both his business and  his  marriage  were  in  difficulties.   He  was
+    released from prison in the summer of 2007.
+
+87.   The circumstances of LG's arrival as a  minor  orphan  in  the  United
+    Kingdom, the  issue  to  him  of  a  residence  permit,  and  his  pre-
+    imprisonment  employment  record,  not  challenged  before  the   first
+    Tribunal and the second Tribunal, show on the balance of  probabilities
+    that (given the retrospective reach of the Regulations as  conceded  by
+    the Secretary of State) LG had acquired what the Regulations require us
+    to  recognise  as  a  right  of  permanent  residence  before  he   was
+    imprisoned. We find further that he had been  resident  here  for  more
+    than ten years before his first imprisonment.
+
+88.   Although, during his term of imprisonment, LG did not enjoy,  and  was
+    not exercising, any of what can be called  the  conditional  rights  of
+    residence, he did not lose his right of permanent  residence.  However,
+    for the reasons we have given, his time in prison did not count for the
+    purpose of establishing ten years' residence  prior  to  the  expulsion
+    decision. Accordingly he was not entitled as of right  to  the  highest
+    level of protection, represented by the "imperative grounds" test.  For
+    that reason we do not agree with the conclusion of the second  Tribunal
+    on this issue.
+
+89.   However, he retained his right to  the  second  level  of  protection,
+    which required "serious grounds of public policy or security". Further,
+    the decision to remove had to be proportionate, having  regard  to  the
+    extent of his ties with this country and his lack of ties  with  Italy.
+    We shall return to that issue.
+
+
+CC
+
+90.   The decision to deport CC was made on 20 September 2007.   CC  asserts
+    that he arrived in the United Kingdom in 2002.  He has not put  forward
+    any evidence as to when in that year he might  have  arrived.   CC  has
+    failed on balance to show that, as at the date of decision, he had been
+    physically present in the United Kingdom for a period  of  five  years.
+    For that reason alone, CC cannot show he acquired a right of  permanent
+    residence in the United Kingdom.
+
+91.   However, even if that were otherwise, on the view  we  have  taken  of
+    the relevant provisions, CC's period of  imprisonment,  in  respect  of
+    offences for which he was convicted, cannot count towards the  relevant
+    five year period.
+
+92.   On any view, therefore, CC had no entitlement  to  invoke  the  second
+    level of protection  against  expulsion  ("serious  grounds  of  public
+    policy or public security") contained in regulation 21(3).
+
+93.    The Secretary of State was, accordingly, justified  in  deporting  CC
+    by reference to the ordinary test, that is, if she  could  show  simply
+    that there were grounds of public policy,  public  security  or  public
+    health (regulation 21(1), (2), (5) and (6)).  That is  the  basis  upon
+    which the original Tribunal proceeded  to  consider  CC's  appeal.   We
+    consider  below  whether  the  original  Tribunal  erred  in   law   in
+    approaching this issue.
+
+
+Questions  (c)  and  (d)  -  the  meaning  of  the  "serious  grounds"   and
+    "imperative grounds" tests.
+
+94.   We now turn to the content of  the  tests  at  the  second  and  third
+    level, and the difference between them.
+
+95.   The  starting-point  for  our  consideration  of  that  issue  is  the
+    judgment of the Court of Appeal, by which the case was remitted to this
+    Tribunal. In the leading judgment, at paragraph 31, Carnwath LJ  stated
+    that on the basis of the relatively limited  arguments  that  had  been
+    heard he would not  feel  confident  in  attempting  to  lay  down  any
+    definitive guidance and would not in any event wish to do so until  the
+    Secretary of State had reached a more settled view both  of  the  legal
+    interpretation of the relevant provisions and the policy considerations
+    governing their application in practice.   However,  he  set  out  some
+    relevant considerations, including comments on the guidance give in the
+    then current version of the Department's manual:
+
+        "32.     The following points should be taken into account:
+
+
+             1)   Weight must be given to different  tests  within  the  new
+                 hierarchy.   The  words  'imperative  grounds   of   public
+                 security' at the third level are clearly intended to embody
+                 a test which is both more stringent and narrower  in  scope
+                 than 'serious grounds of public policy or public  security'
+                 at the second level.
+
+
+             2)   'Public security' is a familiar expression,  but  it  does
+                 not appear to have been subject of judicial definition.   I
+                 see no reason to equate it with 'national security'.   That
+                 expression was discussed in Secretary  of  State  v  Rehman
+                 [2001] UKHL 47, where Lord Slynn said:
+
+
+                    'There must be some possibility of risk or danger to the
+                    security or well-being of the nation which the Secretary
+                    of State considers makes it  desirable  for  the  public
+                    good  that  the  individual   should   be   deported...'
+                    (paragraph 15)
+
+
+                 'Public security' to my mind is  a  broader  concept.   The
+                 earlier version of the manual referred in  this  connection
+                 to -
+
+
+                    '... national security matters, or crimes  that  pose  a
+                    particularly serious risk to the safety of the public or
+                    a section of the public'.
+
+
+                 The words 'risk to the safety of the public or a section of
+                 the public' seem  to  me  reasonably  consistent  with  the
+                 ordinary understanding of 'public security'.  In the latest
+                 version of the manual, the utility of that  description  is
+                 reduced, because it is used for the second  level,  'public
+                 policy or public security', without distinction between the
+                 two parts.
+
+
+             3)   The word 'imperative', as a distinguishing feature of  the
+                 third level, seems to me to connote a very high  threshold.
+                 The earlier version of the manual treats it  as  equivalent
+                 to 'particularly serious'.   In  the  latest  version,  the
+                 expression 'particularly serious  risk'  is  used  for  the
+                 second level.  The difference between the two levels,  that
+                 is, between 'serious' and 'imperative', is said to be  'one
+                 of severity', but there is no indication why  the  severity
+                 of  the  offence  in  itself  is  enough  to  make  removal
+                 'imperative'.
+
+
+             4)   The same thinking is reflected in the examples of offences
+                 given in the manual.  Both levels require a serious offence
+                 linked to a propensity to re-offend.  The second  'serious'
+                 level encompasses 'a violent  offence  carrying  a  maximum
+                 penalty of 10 years'; the third 'imperative' level requires
+                 not only a maximum penalty of 10 years but also  an  actual
+                 sentence of at least five years.  It is not clear  why  the
+                 mere fact that a five year sentence has been imposed should
+                 make removal 'imperative'.
+
+
+             5)   Neither version of the Manual seems to me to give adequate
+                 weight to the distinction between levels two and three,  or
+                 to the force of the word 'imperative'.  To my mind there is
+                 not simply  a  difference  of  degree,  but  a  qualitative
+                 difference: in  other  words,  level  three  requires,  not
+                 simply a serious matter of public  policy,  but  an  actual
+                 risk to public security, so compelling  that  it  justifies
+                 the exceptional course of  removing  someone  who  (in  the
+                 language of the  Preamble  to  the  Directive)  has  become
+                 'integrated' by 'many years' residence in the host state."
+
+96.   At paragraph 40 of the judgment, he said that it  would  be  difficult
+    for the Tribunal or the  Court  to  give  clearer  guidance  until  the
+    Secretary of State, who has primary responsibility under the  Directive
+    for determining issues  of  public  policy  and  public  security,  had
+    herself reached "a coherent and settled view".
+
+97.   Steps have  since  been  taken  by  those  acting  on  behalf  of  the
+    Secretary of State, to address the concerns of the Court of Appeal  and
+    enable the Secretary of State to reach an informed view on the relevant
+    issues.  These steps and the resulting conclusions are described  in  a
+    witness statement made by Seonaid Webb of the UK Border  Agency,  dated
+    15 August 2008. (We  understand  that  this  statement  was  also  made
+    available to the Court of Appeal in HR (Portugal).)
+
+98.   The Secretary of State caused to be sent out a detailed  questionnaire
+    about the legislation and practice of other Member States in  order  to
+    see  whether  there  was  any  consensus  about  the  construction  and
+    permissible limits of the relevant provisions  of  the  Directive.   We
+    have been provided with a copy of the questionnaire.  As at the date of
+    the witness statement, some 12 of the 27 Member States had responded to
+    the questionnaire.  Ms Webb states at paragraph 15 that in  considering
+    the responses it had become clear that there was no  commonly  accepted
+    understanding as to the issues  in  the  case  either  as  regards  the
+    residence  requirement,  which  we  deal   with   elsewhere,   or   the
+    construction of the terms "serious grounds of public policy  or  public
+    security" and "imperative grounds of public security".
+
+99.   It seems that only three of the Member States  who  responded  to  the
+    questionnaire have defined any of these terms in legislation or  policy
+    instructions:
+
+     - In Austria, a "long term resident - EU"  may  only  be  expelled  if
+       continued residence would constitute a  "serious  threat  to  public
+       order or security", which is "deemed to exist" following  conviction
+       for certain defined crimes. "Imperative grounds of public  security"
+       arise where the  individual's  continued  residence  "constitutes  a
+       sustainable and serious threat to public order or  security  of  the
+       Republic of Austria."
+
+     - Finland has not defined "serious grounds of public policy or  public
+       security" but has defined "imperative grounds of public security" in
+       its forthcoming Aliens Act (due to enter into force in the spring of
+       2009) at section 168(5) thus:
+
+         "Imperative grounds as laid  down  in  sub-Sections  3  and  4  are
+         considered to exist when an EU citizen is guilty of an act which is
+         punishable by no less than one year of imprisonment, and  where  he
+         or she, on grounds of the seriousness of the crime or of  continued
+         criminal activity, is considered a danger to  public  security,  or
+         where there are grounds for suspecting that he or she is  seriously
+         endangering the national security of Finland or another state."
+
+     - Germany also has no definition of "serious grounds of public  policy
+       or public security" but "imperative grounds of public security"  are
+       equated with "compelling grounds of public safety", subject  to  the
+       following definition:
+
+         "Compelling grounds of public safety can only apply if  the  person
+         concerned has been unappealably sentenced to a  prison  term  or  a
+         term of youth custody of at  least  five  years  for  one  or  more
+         intentionally committed offences or preventive detention  has  been
+         ordered  in  connection  with  the  most  recent   and   appealable
+         conviction, the security of the  Federal  Republic  of  Germany  is
+         affected or the person concerned poses a terrorist threat  [Section
+         6(5)  of  the  Gesetz  �ber  die   allgemeine   Freiz�gigkeit   von
+         Unionsb�rgern (Act on  the  general  freedom  of  movement  for  EU
+         citizens)]."
+
+100.  Ms Webb comments that these definitions are thought to  be  consistent
+    with the approach adopted by the Secretary of State in her policy,  and
+    that generally the thresholds adopted,  at  least  in  the  context  of
+    imperative grounds of public security,  are  significantly  lower  than
+    those adopted by the Secretary of State. It does not appear that any of
+    this legislation has been interpreted in any of the national courts  of
+    the three countries in question, or  that  elsewhere  in  the  national
+    courts of those  or  other  Member  States  there  have  been  judicial
+    decisions which provide any guidance on the  meaning  of  the  relevant
+    terms.
+
+101.  Ms Webb confirms that the Secretary of State's "coherent  and  settled
+    view" on the issues in the appeal is as currently formulated in the  UK
+    Border  Agency's  Criminal  Casework  Directorate  Case  Owner  Process
+    Instructions (the Instructions) at 2.2.2 under the heading "Stage One".
+     The relevant parts  of  this  are  set  out  at  Appendix  B  to  this
+    determination. Ms Webb explains  that  this  has  been  revised  taking
+    account of the Court of Appeal's guidance  in  LG  (Italy),  which  the
+    Secretary of State accepts.  In particular, there is agreement with the
+    conclusion of Carnwath LJ that the word "imperative"  denotes  a  "very
+    high  threshold",  being  limited  to  EC  nationals  "who  have  taken
+    advantage of the freedom of movement under the Treaty to  become  fully
+    integrated into the host country".
+
+102.  We are grateful to Ms Webb and  her  colleagues  for  undertaking  the
+    researches set out above and for  providing  us  with  the  conclusions
+    which  the  Secretary  of   State   reached   following   her   further
+    consideration. This material is of some assistance,  even  if  only  as
+    showing  that  there  appears  to  be   no   consistent   approach   to
+    interpretation  of  these  provisions  in  other  Member  States.   The
+    Secretary of State has a margin of appreciation in  the  interpretation
+    of the relevant provisions, but at the  end  of  the  day  we  have  to
+    interpret them in light of our understanding of Community  Law,  taking
+    account of her views.
+
+103.  We return to the hierarchy of levels of protection summarised  by  the
+    Court of Appeal (as quoted at the outset of  this  determination).   It
+    has been clear, at least since the decision of the Court of  Appeal  in
+    Bouchereau [1981] 2 All  ER  924  that  the  notion  of  public  policy
+    presupposes the existence of a genuine and sufficiently serious  threat
+    to the requirements of public policy affecting one of  the  fundamental
+    interests of society.   In  Orfanopoulos  and  Oliveri,  the  Court  of
+    Justice emphasised (at paragraph 67) that:
+
+        "The existence of a previous criminal  conviction  can  justify  an
+        expulsion only insofar as the circumstances which gave rise to that
+        conviction are evidence of personal conduct constituting a  present
+        threat to the requirements of public policy."
+
+
+104.  This, then is the test in what might be called  the  lowest  level  of
+    case (level 1).  We are clear that, as it was put at paragraph 32(1) in
+    LG, "weight must be given to different tests within the new hierarchy",
+    and that each level is intended to be more stringent  and  narrower  in
+    scope than the immediately lower test.  The Secretary of State was  not
+    asked to provide her view of level one, though it can be seen from  the
+    Instructions that it is defined in terms  requiring  the  Case  Owner's
+    satisfaction that the person's conduct represents  a  genuine,  present
+    and sufficiently  serious  threat  affecting  one  of  the  fundamental
+    interests of  society,  echoing  the  wording  of  Article  27  of  the
+    Directive, and that any offence meeting the criteria for  consideration
+    for deportation might constitute a crime within  the  scope  of  public
+    policy or public security.
+
+105.  Even at this lowest level of the hierarchy it is necessary to bear  in
+    mind the requirement set out at Article 27(2)  of  the  Directive  that
+    measures taken on grounds of public  policy  or  public  security  must
+    comply with the principle of  proportionality  and   be  based  on  the
+    personal conduct of the individual concerned. Regard must also  be  had
+    to the considerations referred  to  in  Article  28(1),  including  the
+    length of time the individual has  resided  in  the  territory  of  the
+    Member State,  his/her  age,  state  of  health,  family  and  economic
+    situation, social and cultural integration into the host  Member  State
+    and the extent of his/her links with the country of origin.
+
+106.  The threat in the "serious grounds" category (level 2) requires to  be
+    differentiated from that posed in a level 1 case, bearing in mind  that
+    a level 2 person has acquired a permanent right  of  residence  in  the
+    United Kingdom.  We can  see  from  the  section  of  the  Instructions
+    concerning level 2 that a conviction for any  of  a  number  of  listed
+    offences might constitute "serious grounds".  We see merit to the  list
+    of offences as a means of differentiating between level 1 and level  2,
+    but it must be emphasised that it is  the  present  risk  arising  from
+    conviction for the offence in question that must be established. As the
+    Instructions recognise, the list of offences represents guidance rather
+    than  prescription,  but  properly  represents  a   higher   level   of
+    seriousness.  One can imagine, for example, a serial  shoplifter  being
+    properly removable under level 1, but being unlikely to  represent  the
+    level of risk that is required to be posed in the case of a person with
+    a right of permanent residence.
+
+107.  Turning to the third level ("imperative grounds"), the  relevant  part
+    of the guidance (see Appendix B) reads as follows:
+
+        "If an EEA national with permanent residence has resided in the  UK
+        for a continuous period of at least ten years prior to  a  decision
+        to deport (not including time spent in custody),  he  may  only  be
+        deported on imperative grounds of public security...
+
+
+        Imperative  grounds  of  public  security  will  involve   national
+        security matters, or crimes that pose a particularly  serious  risk
+        to the safety of the public or a section of the public.  Imperative
+        grounds in  this  respect  might  be  where  the  person  has  been
+        convicted of murder, a terrorism  offence...,  a  drug  trafficking
+        offence..., a serious immigration offence..., or a  serious  sexual
+        or violent offence carrying a  maximum  penalty  of  ten  years  or
+        more... and been sentenced to five years or more..."
+
+108.  It is to be noted that the list of offences is the  same  as  that  in
+    respect of serious grounds of public policy  or  public  security,  the
+    difference between them being that in the case of imperative grounds of
+    public security the person in question will have been  sentenced  to  a
+    custodial sentence of five years or more.   The  other  distinction  is
+    that "imperative grounds of public  security",  are  said  to  "involve
+    national security matters or crimes that pose  a  particularly  serious
+    risk to the safety of the public or a  section  of  the  public".  This
+    follows the formula used in an earlier version of the  guidance,  which
+    was accepted by Carnwath LJ as "reasonably consistent with the ordinary
+    understanding of 'public security'" (see paragraph 95 above).
+
+109.  We observe, first, that notwithstanding  our  conclusion  on  question
+    (b), the unqualified exclusion of "time spent in custody" probably goes
+    too far. As Sedley LJ indicated  at  paragraph  45  of  HR  (Portugal),
+    "acquittals following remands  in  custody"  will  require  "judge-made
+    adjustments" to the principle that time spent in prison is not relevant
+    residence.
+
+110.  Secondly, we cannot accept the elevation of  offences  to  "imperative
+    grounds" purely on the basis of a custodial sentence of five  years  or
+    more being imposed.  As was said by Carnwath LJ in  LG  (see  paragraph
+    32(3)), there is no indication why  the  severity  of  the  offence  in
+    itself is enough to make  removal  "imperative"  in  the  interests  of
+    public security.  Such  an  offence  may  be  the  starting  point  for
+    consideration, but there must be something more, in scale or  kind,  to
+    justify the  conclusion  that  the  individual  poses  "a  particularly
+    serious risk to the safety of the public or a section of  the  public".
+    Terrorism  offences  or  threats  to  national  security  are   obvious
+    examples, but not  exclusive.  Serial  or  targeted  criminality  of  a
+    sufficiently serious kind may also meet the test. However, there  needs
+    to be some threat to the public or a definable section  of  the  public
+    sufficiently serious to make  expulsion  "imperative"  and  not  merely
+    desirable as a matter of policy,  in  order  to  ensure  the  necessary
+    differentiation from the second level.
+
+111.  It is instructive to compare  this  approach  to  that  of  the  three
+    Member States whose stated practices have been noted above:
+
+     - The Austrian legislation appears to set an even higher threshold  in
+       that it requires a threat  to  "public  order  or  security  of  the
+       Republic  of  Austria".  As  Carnwath  LJ  observed  in  LG  (Italy)
+       (paragraph 95 above) "public security"  is  not  necessarily  to  be
+       equated with "national security".
+
+
+     -  The  Finnish  test  links  the  offence  to  the  duration  of  the
+       imprisonment but also requires that the person, on  grounds  of  the
+       seriousness of the crime, or  of  continued  criminal  activity,  is
+       considered "a danger to public security" or that there  are  grounds
+       for suspecting that he or she is "seriously endangering the national
+       security of Finland or another state".  This is consistent with  our
+       approach, in that the  criminal  conviction  is  not  sufficient  in
+       itself, but the statute gives no further guidance as to the  meaning
+       of "public security".
+
+
+     - The German test substitutes the term "compelling grounds  of  public
+       safety", which  it  appears  to  equate  with  either  a  conviction
+       carrying a sentence of at least five years, or  something  affecting
+       the security of the Federal Republic or a terrorist threat. If  this
+       is intended to have the effect that  the  conviction  is  enough  in
+       itself, that would not be consistent with our approach.
+
+
+The application of our findings to the facts in the cases of LG and CC
+
+LG
+
+112.  As noted earlier, the second Tribunal found that LG had  acquired  the
+    requisite ten years' residence as at the date of the decision to deport
+    him, and accordingly could only be deported on  imperative  grounds  of
+    public security.  Even applying that test, it determined that that LG's
+    expulsion was permitted by the Directive.  It  agreed  with  the  trial
+    judge that LG was a dangerous man.  A probation report dated 17  August
+    2006 stated that:
+
+      "in respect of controlling anger and aggression, [LG] does  not  seem
+         to have made any further progress in reducing the unacceptable risk
+         of re-offending which was identified".
+
+113.  The second Tribunal concluded that LG continued to pose  a  continuing
+    risk of harm to the public (paragraph 67). It found that LG:
+
+      "has been convicted of grave offences and we find that the  appellant
+         has not shown that he does not pose a risk of further harm  to  the
+         public by way of further offending and, moreover, that the evidence
+         before us suggests that this appellant does pose a continuing  risk
+         particularly when he does not appear to accept  that  he  committed
+         the grave offence of grievous bodily harm with intent  on  this  66
+         year old man in the circumstances which were proved  at  the  Crown
+         Court".
+
+114.  The Tribunal accordingly concluded, at paragraph 69:
+
+      "... that the Secretary of State has met  the  evidential  burden  of
+         showing that there are imperative grounds of  public  security  for
+         removing this appellant from the United Kingdom to Italy".
+
+115.  The Court of Appeal did not in terms make a positive ruling that  this
+    aspect of the Tribunal's reasoning was itself  erroneous  in  law.  The
+    legal deficiency which justified allowing the appeal lay in the failure
+    of the Secretary of State to provide a coherent policy  foundation  for
+    considering  the  issue.  However,  it  is  implicit  that  the  second
+    Tribunal's decision was erroneous for the same reason. If necessary, we
+    would hold that there was a material error of  law  in  the  Tribunal's
+    failure to explain its jump from the risk of potentially  serious  harm
+    from further offending, to the conclusion that there were  "imperative"
+    grounds of public security to justify removal.
+
+116.  On the view we have taken, the second Tribunal was wrong to apply  the
+    highest  level  of  protection.  However,  even  if  one  judges  their
+    reasoning by reference to the second level of protection, which  arises
+    because of LG's  position  as  a  person  with  a  right  of  permanent
+    residence (a factor the second Tribunal did not appreciate), they erred
+    in our view in failing to consider the particular circumstances of LG's
+    position, his long residence in this country, including more  than  ten
+    years' residence before any offences were committed, and  his  lack  of
+    links with Italy.
+
+117.  This  failure  meant  that  the  second   Tribunal's   assessment   of
+    proportionality was fatally flawed. In our view, even acknowledging the
+    seriousness of the offence in  2000,  and  the  possible  risk  of  re-
+    offending, we do not think that expulsion is a  proportionate  response
+    for someone who came here as a child, has acquired a right of permanent
+    residence in this country, has lived here for some 15 years before  the
+    crime was committed, and has no significant links with Italy. In such a
+    case we think that public policy  considerations  should  carry  little
+    weight. As to public security, in one sense, of  course,  any  risk  of
+    further offences as brutal as  that  committed  in  2000  represents  a
+    threat to public safety, but that threat is no different in  kind  than
+    is presented, unfortunately, by many other offenders for whom expulsion
+    is not an available response. For these reasons we do  not  think  that
+    the decision to deport LG was justifiable. On the facts as at the  date
+    of the hearing in January 2007, LG  was  entitled  to  succeed  in  his
+    appeal.
+
+118. Since there is no suggestion that LG  currently  presents  any  greater
+    societal threat than he did at that date, we see no need to adjourn  to
+    make any further findings  of  fact.  LG's  appeal  thus  falls  to  be
+    allowed.
+
+CC
+
+119.  CC may not be deported unless there  are  grounds  of  public  policy,
+    public security or public health  precluding  his  removal,  he  having
+    failed to establish that he had been in the  United  Kingdom  for  five
+    years at the date of decision in his case and since, in any event,  his
+    periods of imprisonment could not be counted as legal residence for the
+    purposes of regulation 15(1)(a).
+
+120.   The  original  Tribunal  was  concerned  by  his  failure  to  accept
+    responsibility for the offences that had caused him  to  be  imprisoned
+    for 22 months, did not accept that he had given up drugs  and  drinking
+    to excess and did not consider that his relationship with  his  present
+    partner had removed  or  reduced  his  propensity  to  re-offend.   The
+    Tribunal concluded that  he  represented  a  genuine  and  sufficiently
+    serious threat such as to justify his deportation under regulation  21.
+    Mr Karnik argued that  this  conclusion  was  flawed,  given  that  the
+    reference to "medium risk" in  the  OASys  report  indicates  that  re-
+    offending is "unlikely unless there is a change  of  circumstances"  as
+    defined in National Probation Service Circular 10/2005.  He also argued
+    that the assessment of proportionality by the Tribunal was  flawed,  in
+    failing to give proper weight to a published policy of the Secretary of
+    State indicating that normally a sentence  of  two  years  would  be  a
+    prerequisite for deportation proceedings to be considered.  It was also
+    contended that reliance was placed  by  the  Tribunal  upon  sentencing
+    remarks in  respect  of  a  sentence  that  was  passed  in  error  and
+    subsequently  rescinded  as   recorded   at   paragraph   30   of   the
+    determination.
+
+121.  We note, however, that in February 2007  CC's  Probation  Officer  had
+    concerns regarding his insight into his behaviour,  acceptance  of  his
+    behaviour and attitude towards women.  Bearing that in  mind,  together
+    with the Tribunal's concerns set out above, we do not consider that any
+    of the matters raised by Mr Karnik amount to  material  omissions  from
+    the Tribunal's  reasoning.   The  original  Tribunal  was  entitled  to
+    conclude that CC's past and escalating behaviour represented  a  future
+    risk to society, and a  sufficiently  serious  threat  to  justify  his
+    deportation, and hence to dismiss his  appeal  under  the  Regulations.
+    The decision in that regard is free from material legal error.
+
+
+Article 8
+
+122.  The original Tribunal accepted that CC enjoys  family  life  with  his
+    partner.  It took into account that  she  said  in  evidence  that,  if
+    necessary, she would go to Portugal to join  CC  there,  following  her
+    surgery for removal of an ovarian cyst.  The Tribunal  noted  that  his
+    partner is  epileptic,  but  there  was  no  suggestion  that  whatever
+    medication and  treatment  she  required  would  not  be  available  in
+    Portugal.  In assessing the Article 8 claim, the Tribunal also bore  in
+    mind the factors it had taken into account in  assessing  the  relevant
+    issues under regulation 21(5).
+
+123.  In his skeleton argument, elaborated in oral  submissions,  Mr  Karnik
+    argued that the rights of CC's partner had not been taken into  account
+    in the Article 8 assessment.  She had lived in the  UK  for  30  years,
+    with family and relatives here, and there was no  indication  that  any
+    equivalent to the disability benefit she receives in the  UK  would  be
+    available in Portugal.
+
+124.  Nevertheless we consider the Tribunal was entitled  to  attach  weight
+    to the fact that CC's partner said that if necessary she  would  go  to
+    join him in Portugal, following her operation.  Taking account of  that
+    factor and the other material, we consider that the assessment  of  the
+    Article 8 claim at paragraphs 40 and 41 of the determination  was  open
+    to the Tribunal,  and  that  no  error  of  law  in  its  reasoning  or
+    conclusions has been identified.  It follows that the determination  of
+    the original Tribunal, dismissing  CC's  appeal,  does  not  contain  a
+    material error of law, and accordingly we order that it shall stand.
+
+References to the European Court of Justice
+
+125.  We referred earlier  to  the  references  to  the  European  Court  of
+    Justice made by the House of Lords in McCarthy and the Court of  Appeal
+    in Lassal.  Although neither party has requested a reference,  we  have
+    considered whether there is anything in the proceedings before us  that
+    calls for the Tribunal to make such a reference, or otherwise to  delay
+    deciding the consideration of either of the appeals, pending  responses
+    from the European Court on the references that have already been made.
+
+126.  We have concluded that it is unnecessary for us, of  our  own  motion,
+    to make any reference or to delay  completion  of  the  reconsideration
+    process in  either  appeal.   So  far  as  the  qualitative  nature  of
+    questions (a) and (b) above is concerned, we have benefited  from  very
+    full submissions from Counsel, together with relevant  materials.   Our
+    findings are generally in accordance with the judgments in McCarthy and
+    HR (Portugal). We also take note of the fact that in  the  latter  case
+    the Court of Appeal felt able to decide the matter without the need for
+    a reference.
+
+127.  As for the reference made in Lassal, we have been  able  to  base  our
+    decision on the concession which the Secretary of State was prepared to
+    make without waiting for the decision of the ECJ.  Accordingly  it  has
+    not been necessary for us to determine that issue, or to wait  for  any
+    ECJ judgment before doing so.
+
+128.  In the case of CC,  his  failure  to  show  on  balance  that  he  was
+    physically present in the United Kingdom  for  five  years  before  the
+    decision to deport means that he cannot in any event  demonstrate  that
+    he has a right of permanent residence, entitling him to the application
+    of the test of serious grounds of public  policy  or  public  security.
+    This would not make this a suitable case for the ECJ to consider any of
+    the issues which have been raised regarding the interpretation  of  the
+    second or third level tests.
+
+
+Funding
+
+129. The Tribunal hereby orders that the appellants'  costs  in  respect  of
+    the  applications   for   reconsideration,   and   of   the   resulting
+    reconsiderations (including the preparation  therefor)  shall  in  each
+    case be paid out of the relevant fund, within the meaning of rule 33 of
+    the Asylum and Immigration Tribunal (Procedure) Rules 2005.
+
+                                 Appendix A
+
+                               The legislation
+
+
+The EU Treaty
+
+      The  following  Articles  of  the  Treaty  establishing  the  European
+    Community are relevant:-
+
+        "Article 18
+
+
+        1.       Every citizen of the Union shall have the  right  to  move
+             and reside freely within the territory of  the  Member  States,
+             subject to the limitations and conditions  laid  down  in  this
+             Treaty and by the measures adopted to give it effect....
+
+
+
+
+        Article 39
+
+
+        1.       Freedom of movement for workers shall  be  secured  within
+             the Community.
+
+
+        2.       Such freedom of movement shall entail the abolition of any
+             discrimination based on  nationality  between  workers  of  the
+             Member States as regards  employment,  remuneration  and  other
+             conditions of work and employment.
+
+
+        3.        It  shall  entail  the  right,  subject  to   limitations
+             justified on grounds  of  public  policy,  public  security  or
+             public health:
+
+
+             (a)  to accept offers of employment actually made;
+
+
+             (b)  to move freely within the territory of Member  States  for
+                 this purpose;
+
+
+             (c)  to stay in a Member State for the purpose of employment in
+                 accordance with the provisions governing the employment  of
+                 nationals of that State laid down  by  law,  regulation  or
+                 administrative action;
+
+
+             (d)  to remain in the territory of a Member State after  having
+                 been employed in that State, subject  to  conditions  which
+                 shall be embodied in implementing regulations to  be  drawn
+                 up by the Commission.
+
+
+        4.        The  provisions  of  this  article  shall  not  apply  to
+             employment in the public service."
+
+Directive 2004/38/EC
+
+The relevant parts of the Preamble to the Directive are the following:-
+
+        "(1)     Citizenship of the Union confers on every citizen  of  the
+             Union a primary and individual right to move and reside  freely
+             within the territory of  the  Member  States,  subject  to  the
+             limitations and conditions laid down in the Treaty and  to  the
+             measures adopted to give it effect....
+
+
+        ...
+
+
+        (17)     Enjoyment of permanent residence  by  Union  citizens  who
+             have chosen to settle long term in the host Member State  would
+             strengthen the feeling  of  Union  citizenship  and  is  a  key
+             element in promoting social  cohesion,  which  is  one  of  the
+             fundamental objectives of the  Union.   A  right  of  permanent
+             residence should therefore be laid down for all Union  citizens
+             and their family members who have resided in  the  host  Member
+             State in compliance with  the  conditions  laid  down  in  this
+             Directive during a continuous  period  of  five  years  without
+             becoming to subject to an expulsion measure.
+
+
+        (18)     In order to be a genuine vehicle for integration into  the
+             society of the host Member State in  which  the  Union  citizen
+             resides, the  right  of  permanent  residence,  once  obtained,
+             should not be subject to any conditions.
+
+
+        ...
+
+
+        (23)     Expulsion of Union citizens and their  family  members  on
+             grounds of public policy or public security is a  measure  that
+             can seriously harm persons who, having  availed  themselves  of
+             the rights and freedoms conferred on them by the  Treaty,  have
+             become genuinely integrated into the host  Member  State.   The
+             scope  for  such  measures  should  therefore  be  limited   in
+             accordance  with  the  principle  of  proportionality  to  take
+             account of the degree of integration of the persons  concerned,
+             the length of their residence in the host Member  State,  their
+             age, state of health, family and  economic  situation  and  the
+             links with their country of origin.
+
+
+        (24)     Accordingly, the greater  the  degree  of  integration  of
+             Union citizens and their family  members  in  the  host  Member
+             State, the greater the degree of protection  against  expulsion
+             should be.  Only in exceptional circumstances, where there  are
+             imperative grounds of  public  security,  should  an  expulsion
+             measure be taken against Union citizens who  have  resided  for
+             many years in the  territory  of  the  host  Member  State,  in
+             particular  when  they  were  born  and  have   resided   there
+             throughout  their  life.    In   addition,   such   exceptional
+             circumstances should also apply to an expulsion  measure  taken
+             against minors, in order to  protect  their  links  with  their
+             family, in accordance with the United Nations Convention on the
+             Rights of the Child, of 20 November 1989."
+
+      The relevant provisions of the Directive itself are:-
+
+        "Article 1
+
+
+        Subject
+
+
+        This Directive lays down:
+
+
+        (a) the conditions governing the exercise  of  the  right  of  free
+             movement and residence  within  the  territory  of  the  Member
+             States by Union citizens and their family members;
+
+
+        (b) the right of permanent residence in the territory of the Member
+             States for Union citizens and their family members;
+
+
+        (c) the limits placed on the rights set  out  in  (a)  and  (b)  on
+             grounds of public policy, public security or public health.
+
+
+        ...
+
+
+
+
+        Article 7
+
+
+        Right of residence for more than three months
+
+
+        1.  All Union citizens shall have the right  of  residence  on  the
+             territory of another Member State  for  a  period  longer  than
+             three months if they:
+
+
+            (a)  are workers or self-employed persons in  the  host  Member
+                 State; or
+
+
+            ...
+
+
+        3. For the purposes of paragraph 1(a), a Union citizen  who  is  no
+             longer a worker or self-employed person shall retain the status
+             of  worker   or   self-employed   person   in   the   following
+             circumstances:
+
+
+             (a)  he/she is temporarily unable to work as the result  of  an
+                 illness or accident;
+
+
+             (b)  he/she is in duly recorded involuntary unemployment  after
+                 having been  employed  for  more  than  one  year  and  has
+                 registered as a job-seeker  with  the  relevant  employment
+                 office;
+
+
+             (c)  he/she is in duly recorded involuntary unemployment  after
+                 completing a fixed-term employment contract of less than  a
+                 year or after having become involuntarily unemployed during
+                 the first twelve months and has registered as a  job-seeker
+                 with the relevant employment office.   In  this  case,  the
+                 status of worker shall be retained for  no  less  than  six
+                 months;
+
+
+             (d)  he/she embarks on vocational training.  Unless  he/she  is
+                 involuntarily unemployed, the retention of  the  status  of
+                 worker shall require the training  to  be  related  to  the
+                 previous employment.
+
+
+        4. By way of derogation from paragraphs 1(d) and 2 above, only  the
+             spouse, the registered partner provided for in Article  2(2)(b)
+             and dependent children shall have the  right  of  residence  as
+             family members of a Union citizen meeting the conditions  under
+             1(c) above.  Article 3(2)  shall  apply  to  his/her  dependent
+             direct relatives in the ascending lines and  those  of  his/her
+             spouse or registered partner.
+
+
+        Article 16
+
+
+        General rule for Union citizens and their family members
+
+
+        1. Union citizens who have resided legally for a continuous  period
+             of five years in the host Member State shall have the right  of
+             permanent residence there.  This right shall not be subject  to
+             the conditions provided for in Chapter III.
+
+
+        ...
+
+
+        3. Continuity of residence  shall  not  be  affected  by  temporary
+             absences not exceeding a total of six  months  a  year,  or  by
+             absences of a longer duration for compulsory military  service,
+             or by one absence of a maximum of twelve consecutive months for
+             important reasons such as  pregnancy  and  childbirth,  serious
+             illness, study or vocational training, or a posting in  another
+             Member State or a third country.
+
+
+        4. Once acquired, the right of permanent residence  shall  be  lost
+             only through absence from the host Member State  for  a  period
+             exceeding two consecutive years.
+
+
+        ...
+
+
+                                 CHAPTER VI
+             RESTRICTIONS ON THE RIGHT OF ENTRY AND THE RIGHT OF
+                RESIDENCE ON GROUNDS OF PUBLIC POLICY, PUBLIC
+                          SECURITY OR PUBLIC HEALTH
+
+
+        Article 27
+
+
+        General principles
+
+
+        1. Subject to the provisions of this  Chapter,  Member  States  may
+             restrict  the  freedom  of  movement  and  residence  of  Union
+             citizens and their family members, irrespective of nationality,
+             on grounds of public policy, public security or public  health.
+             These grounds shall not be invoked to serve economic ends.
+
+
+        2. Measures taken on grounds of public policy  or  public  security
+             shall comply with the principle of proportionality and shall be
+             based exclusively on the personal  conduct  of  the  individual
+             concerned.   Previous  criminal  convictions   shall   not   in
+             themselves constitute grounds for taking such measures.
+
+
+           The personal conduct of the individual concerned must  represent
+             a genuine, present and sufficiently  serious  threat  affecting
+             one of the fundamental interests  of  society.   Justifications
+             that are isolated from the particulars of the case or that rely
+             on considerations of general prevention shall not be accepted.
+
+
+        ...
+        Article 28
+
+
+        Protection against expulsion
+
+
+        1.       Before taking an expulsion decision on grounds  of  public
+             policy or public security, the host  Member  State  shall  take
+             account of considerations  such  as  how  long  the  individual
+             concerned has resided on its territory, his/her age,  state  of
+             health, family and  economic  situation,  social  and  cultural
+             integration into the  host  Member  State  and  the  extent  of
+             his/her links with the country of origin.
+
+
+        2.       The host Member State may not take an  expulsion  decision
+             against Union citizens or their family members, irrespective of
+             nationality, who have the right of permanent residence  on  its
+             territory, except on serious grounds of public policy or public
+             security.
+
+
+        3. An expulsion decision may not be taken against  Union  citizens,
+             except if the decision is based on imperative grounds of public
+             security, as defined by Member States, if they:
+
+             (a)  have resided in the host Member State for the previous  10
+                 years; or
+
+
+             (b)  are a minor, except if the expulsion is necessary for  the
+                 best interests of the child, as provided for in the  United
+                 Nations Convention  on  the  Rights  of  the  Child  of  20
+                 November 1989.
+
+
+         Article 33
+
+
+         Expulsion as a penalty or legal consequence
+
+
+         1. Expulsion orders may not be issued by the host Member State as a
+             penalty or legal consequence of a  custodial  penalty,  unless
+             they conform to the requirements of Articles 27, 28 and 29.
+
+         2. If an expulsion order,  as  provided  for  in  paragraph  1,  is
+             enforced more than two years after it was issued,  the  Member
+             state Shall check that the individual concerned  is  currently
+             and genuinely a threat to public policy or public security and
+             shall assess whether there has been any material change in the
+             circumstances since the expulsion order was issued.
+
+
+Immigration (European Economic Area) Regulations 2006
+
+      The relevant provisions of the Regulations are as follows:-
+
+        "General interpretation
+
+
+        2. -(1) In these Regulations-
+
+        "EEA decision" means a decision under these Regulations that
+        concerns a person's-
+
+
+             ...
+
+
+             (c) removal from the United Kingdom;
+
+
+             ...
+
+
+        "EEA national" means a national of an EEA State;
+
+
+        "EEA State" means-
+
+
+             (a)  a member State, other than the United Kingdom;
+
+
+             (b)  Norway, Iceland or Liechtenstein; or
+
+
+             (c)  Switzerland;
+
+
+        ...
+
+
+        Continuity of residence
+
+        .3. -(1) This regulation applies for  the  purpose  of  calculating
+             periods of continuous residence in  the  United  Kingdom  under
+             regulation 5(1) and regulation 15.
+
+        (2)      Continuity of residence is not affected by -
+
+
+             (a)  periods of absence from the United Kingdom  which  do  not
+                 exceed six months in total in any year;
+
+
+             (b)  periods of absence from the  United  Kingdom  on  military
+                 service; or
+
+
+             (c)  any one absence from  the  United  Kingdom  not  exceeding
+                 twelve months for an important reason such as pregnancy and
+                 childbirth, serious illness, study or  vocational  training
+                 or an overseas posting.
+
+
+        (3)      But continuity of residence  is  broken  if  a  person  is
+             removed from the United Kingdom under regulation 19(3).
+
+
+        ...
+
+
+        'Worker or self employed person who has ceased activity'
+
+
+        5.       -(1) In these Regulations, "worker or self-employed person
+             who has ceased activity" means an EEA national  who  satisfies
+             the conditions in paragraph (2), (3), (4) or (5).
+
+
+        (2)      A person satisfies the conditions in this paragraph if  he
+             -
+
+
+             (a)       terminates his activity as a worker or  self-employed
+                 person and -
+
+
+                  (i)  has reached the age at which  he  is  entitled  to  a
+                      state pension on the date on which he  terminates  his
+                      activity; or
+
+
+                  (ii) in the case of a worker, ceases working to take early
+                      retirement;
+
+
+             (b) pursued his activity as a worker or  self-employed  person
+                  in the United Kingdom for at least twelve months prior  to
+                  the termination; and
+
+
+             (c) resided in the United Kingdom continuously for  more  than
+                  three years prior to the termination.
+
+
+         (3)      A person satisfies the conditions in this paragraph if -
+
+
+             (a) he terminates his activity in  the  United  Kingdom  as  a
+                 worker or self-employed person as a result of a  permanent
+                 incapacity to work; and
+
+
+             (b) either -
+
+
+                  (i)  he resided in the  United  Kingdom  continuously  for
+                      more than two years prior to the termination; or
+
+
+                  (iii)      the incapacity is the result of an accident  at
+                      work or an occupational disease that entitles him  to
+                      a  pension  payable  in  full  or  in  part   by   an
+                      institution in the United Kingdom.
+
+
+         (4)      A person satisfies the conditions in this paragraph if -
+
+
+             (a) he is active as a worker or self-employed person in an EEA
+                 State but retains his place of  residence  in  the  United
+                 Kingdom, to which he returns as a rule  at  least  once  a
+                 week; and
+
+
+             (b) prior to becoming so active in that EEA State, he had been
+                 continuously resident and continuously active as a  worker
+                 or self-employed person in the United Kingdom for at least
+                 three years.
+
+
+         (5)      A person who satisfies the condition in  paragraph  (4)(a)
+             but not the condition  in  paragraph  (4)(b)  shall,  for  the
+             purposes of paragraphs (2) and (3), be treated as being active
+             and resident in the United Kingdom during any period in  which
+             he is working or self-employed in the EEA state.
+
+
+         (6)      The conditions in paragraph (2) and (3) as  to  length  of
+             residence and activity as a  worker  or  self-employed  person
+             shall not apply in relation to a person whose spouse or  civil
+             partner is a United Kingdom national.
+
+
+         (7)      For the purposes of this regulation -
+
+
+             (a) periods of inactivity for reasons not of the person's  own
+                 making;
+
+
+             (b) periods of inactivity due to illness or accident; and
+
+
+             (c)  in  the  case  of  a  worker,  periods   of   involuntary
+                  unemployment duly  recorded  by  the  relevant  employment
+                  office,
+
+
+             shall be treated as periods of activity as a worker  or  self-
+             employed person, as the case may be.
+
+
+
+
+        'Qualified person'
+
+
+        .6. -(1) In these Regulations, "qualified person"  means  a  person
+             who is an EEA national and in the United Kingdom as-
+
+
+             (a)  a jobseeker;
+
+
+             (b)  a worker;
+
+
+             ...
+
+
+        (2)      A person who is no longer working shall not  cease  to  be
+             treated as a worker for the purpose of paragraph (1)(b) if-
+
+
+             (a)  he is temporarily unable to  work  as  the  result  of  an
+                 illness or accident;
+
+
+             (b)  he is in  duly  recorded  involuntary  unemployment  after
+                 having been employed in the United Kingdom,  provided  that
+                 he  has  registered  as  a  jobseeker  with  the   relevant
+                 employment office and-
+
+
+                 (i)   he was employed for one year or more before  becoming
+                     unemployed;
+
+
+                 (ii)  he has been unemployed for no more than  six  months;
+                     or
+
+
+                 (iii)       he can provide  evidence  that  he  is  seeking
+                     employment in the United Kingdom  and  has  a  genuine
+                     chance of being engaged;
+
+
+             (c)   he  is  involuntarily  unemployed  and  has  embarked  on
+                 vocational training; or
+
+
+             (d)   he  has  voluntarily  ceased  working  and  embarked   on
+                 vocational  training  that  is  related  to  his   previous
+                 employment.
+
+
+        ...
+
+
+        (4)      For the purpose of paragraph (1)(a), 'jobseeker'  means  a
+             person  who  enters  the  United  Kingdom  in  order  to   seek
+             employment  and  can  provide  evidence  that  he  is   seeking
+             employment and has a genuine chance of being engaged.
+
+
+        ...
+
+
+                                   PART 2
+
+
+                                 EEA RIGHTS
+
+        Right of admission to the United Kingdom
+
+
+        .11. -(1) An EEA national must be admitted to the United Kingdom if
+             he produces on  arrival  a  valid  national  identity  card  or
+             passport issued by an EEA State.
+
+
+        ...
+        ...
+
+
+        Initial right of residence
+
+
+        .13. -(1) An EEA national is  entitled  to  reside  in  the  United
+             Kingdom for a period not exceeding three  months  beginning  on
+             the date on which he is admitted to the United Kingdom provided
+             that he holds a valid national identity card or passport issued
+             by an EEA State.
+
+
+        ...
+
+
+        Extended right of residence
+
+
+        .14. -(1) A qualified person is entitled to reside  in  the  United
+             Kingdom for so long as he remains a qualified person.
+
+
+        ...
+
+
+
+
+        Permanent right of residence
+
+
+        .15.-(1) The following persons shall acquire the right to reside in
+             the United Kingdom permanently-
+
+
+             (a)  an EEA national who has resided in the United  Kingdom  in
+                 accordance with these Regulations for a  continuous  period
+                 of five years;
+
+
+             (b)  a family member of an EEA national who is not  himself  an
+                 EEA national but who has resided in the United Kingdom with
+                 the EEA national in accordance with these Regulations for a
+                 continuous period of five years;
+
+
+             (c)  a worker or self-employed person who has ceased activity;
+
+
+             (d)  the family member of a worker or self-employed person  who
+                 has ceased activity;
+
+
+             (e)  a person who was the family member of a  worker  or  self-
+                 employed person where-
+
+
+                 (i)   the worker or self-employed person has died;
+
+
+                 (ii)  the family member resided with him immediately before
+                     his death; and
+
+
+                 (iii)       the worker or self-employed person had  resided
+                     continuously in the United Kingdom for  at  least  the
+                     two years immediately before his death  or  the  death
+                     was  the  result  of  an  accident  at  work   or   an
+                     occupational disease;
+
+
+             (f)  a person who-
+
+
+                 (i)   has resided in the United Kingdom in accordance  with
+                     these Regulations for  a  continuous  period  of  five
+                     years; and
+
+
+                 (ii)  was, at the end of that period, a family  member  who
+                     has retained the right of residence.
+
+
+        (2)      Once acquired, the right of permanent residence under this
+             regulation shall be lost only through absence from  the  United
+             Kingdom for a period exceeding two consecutive years.
+
+
+        (3)      But this regulation is subject to regulation 19(3)(b).
+
+
+        ...
+
+
+
+
+                                   PART 4
+
+
+                    REFUSAL OF ADMISSION AND REMOVAL ETC
+
+        Exclusion and removal from the United Kingdom
+
+
+        .19. -(1) A person is not entitled to be  admitted  to  the  United
+             Kingdom  by  virtue  of  regulation  11  if  his  exclusion  is
+             justified on grounds  of  public  policy,  public  security  or
+             public health in accordance with regulation 21.
+        ......
+        ...
+
+
+        (3)      Subject to paragraphs (4) and (5), a person who  has  been
+             admitted to, or acquired a  right  to  reside  in,  the  United
+             Kingdom under these Regulations may be removed from the  United
+             Kingdom if-
+
+
+             (a)  he does not have or ceases to have a right to reside under
+                 these Regulations; or
+
+
+             (b)  he would otherwise be entitled to  reside  in  the  United
+                 Kingdom under these Regulations but the Secretary of  State
+                 has decided that his removal is justified on the grounds of
+                 public  policy,  public  security  or  public   health   in
+                 accordance with regulation 21.
+
+
+
+
+
+
+        ...
+
+
+        Decisions taken on public policy, public security and public health
+             grounds
+
+
+        .21. -(1) In this regulation a "relevant  decision"  means  an  EEA
+             decision taken on the grounds of public policy, public security
+             or public health.
+
+
+        (2)      A relevant decision may not be  taken  to  serve  economic
+             ends.
+
+
+        (3)      A relevant decision may not  be  taken  in  respect  of  a
+             person with a permanent right of residence under regulation  15
+             except on serious grounds of public policy or public security.
+
+
+        (4)      A relevant decision may not be taken except on  imperative
+             grounds of public security in respect of an EEA national who-
+
+
+             (a)  has resided in the United Kingdom for a continuous  period
+                 of at least ten years prior to the relevant decision; or
+
+
+             (b)  is under the age of 18, unless the  relevant  decision  is
+                 necessary in his best interests, as  provided  for  in  the
+                 Convention on the  Rights  of  the  Child  adopted  by  the
+                 General Assembly of the United  Nations  on  20th  November
+                 1989.
+
+
+        (5)      Where a relevant decision is taken on  grounds  of  public
+             policy or public security it shall, in  addition  to  complying
+             with the preceding paragraphs of this regulation, be  taken  in
+             accordance with the following principles-
+
+
+             (a)   the  decision  must  comply   with   the   principle   of
+                 proportionality;
+
+
+             (b)  the decision must be based  exclusively  on  the  personal
+                 conduct of the person concerned;
+
+
+             (c)   the  personal  conduct  of  the  person  concerned   must
+                 represent  a  genuine,  present  and  sufficiently  serious
+                 threat  affecting  one  of  the  fundamental  interests  of
+                 society;
+
+
+             (d)  matters isolated from the particulars of the case or which
+                 relate to  considerations  of  general  prevention  do  not
+                 justify the decision;
+
+
+             (e)   a  person's  previous  criminal  convictions  do  not  in
+                 themselves justify the decision.
+
+
+        (6)      Before taking a relevant decision on the grounds of public
+             policy or public security  in  relation  to  a  person  who  is
+             resident in the United Kingdom the  decision  maker  must  take
+             account of considerations such as the  age,  state  of  health,
+             family and economic  situation  of  the  person,  the  person's
+             length of residence in the United Kingdom, the person's  social
+             and cultural integration into the United Kingdom and the extent
+             of the person's links with his country of origin.
+
+
+
+
+        ...
+
+
+        ...
+
+
+        ...
+
+
+                                 SCHEDULE 4
+
+
+                           TRANSITIONAL PROVISIONS
+
+
+        Interpretation
+
+
+        .1.      In this Schedule-
+
+
+             (a)  the '2000 Regulations'  means  the  Immigration  (European
+                 Economic Area) Regulations 2000...
+
+
+        ...
+
+
+        Periods of residence under the 2000 Regulations
+
+
+        .6. -(1) Any period during which a person carried out  an  activity
+             or was resident in the United Kingdom in  accordance  with  the
+             2000 Regulations shall be treated as a period during which  the
+             person carried out that activity or was resident in the  United
+             Kingdom in accordance with these Regulations for the purpose of
+             calculating periods  of  activity  and  residence  under  these
+             Regulations."
+
+
+
+
+                                 Appendix B
+
+
+                     UKBA Criminal Casework Directorate
+                       Case Owner Process Instructions
+
+
+        "Stage one.
+
+
+        2.2.2 In considering whether to deport  a  person  who  is  an  EEA
+        national, Case Owners must consider whether  deportation  would  be
+        compatible with EU  law  (see  regulation  21  of  the  Immigration
+        (European Economic Area) Regulations 2006 and the  associated  case
+        law.  For more detailed guidance refer to the ECI on deportation of
+        EEA nationals).
+
+
+        Under EU law, a decision to deport must be taken on the grounds  of
+        public policy, public security or public health.
+
+
+        To determine whether a person can be deported on grounds of  public
+        health  Case  Owners  should  refer  to   the   European   Casework
+        Instructions on the deportation of  EEA  nationals.   This  can  be
+        found on the Horizon website using  the  following  link:  European
+        Casework Instructions - IND Horizon.
+
+
+        To determine whether a person can be deported on grounds of  public
+        policy or public security, Case Owners must be satisfied  that  the
+        person's conduct represents a  genuine,  present  and  sufficiently
+        serious threat  affecting  one  of  the  fundamental  interests  of
+        society.
+
+
+        Any offence meeting the criteria for consideration for  deportation
+        might constitute a crime within  the  scope  of  public  policy  or
+        public security.  Public security will  involve  national  security
+        matters, but may also involve crimes that pose a wider risk to  the
+        safety of the public or a section of the public.
+
+
+        Case Owners should then look at whether the person has a  permanent
+        right of residence in the UK.  If they have,  then  there  must  be
+        serious grounds of public policy or public security.
+
+
+        A conviction for murder, a terrorism offence [footnote 3:  offences
+        committed under the Terrorism Act 2000, the  Anti-Terrorism,  Crime
+        and Security Act 2001, the Prevention of Terrorism Act 2005 and the
+        Terrorism  Act  2006.   Where  any  of  these  offences  have  been
+        committed, Case Owners should check circumstances  with  SSCU.],  a
+        drug trafficking offence [footnote 4: as set out in Schedule 2 para
+        1 of the Proceeds of Crime Act 2002], a serious immigration offence
+        [footnote  5:  Section  25,  Section  25A,  Section  25B   of   the
+        Immigration Act 1971 and Section 4 of the  Asylum  and  Immigration
+        (Treatment of Claimants) Act 2004], or a serious sexual or  violent
+        offence carrying a maximum penalty of ten years or  more  [footnote
+        6: offences in Schedule 15 of the Criminal Justice  Act  2003  that
+        are defined as serious in  Section  224  of  the  same  Act]  might
+        constitute serious grounds of public policy or public security.
+
+
+        If an EEA national with permanent residence has resided in  the  UK
+        for a continuous period of at least ten years prior to  a  decision
+        to deport (not including time spent in custody),  he  may  only  be
+        deported on imperative grounds of public security.
+
+
+        An EEA national under the age of 18 may also only  be  deported  on
+        imperative grounds of public security  unless  [sic]  in  the  best
+        interests of the child (as provided for in the UN Convention on the
+        Rights of the Child 1989).
+
+
+        Imperative  grounds  of  public  security  will  involve   national
+        security matters, or crimes that pose a particularly  serious  risk
+        to the safety of the public or a section of the public.  Imperative
+        grounds in  this  respect  might  be  where  the  person  has  been
+        convicted of murder, a terrorism offence [footnote 3 as  above],  a
+        drug  trafficking  offence  [footnote  4  as  above],   a   serious
+        immigration offence [footnote 5 as above], or a serious  sexual  or
+        violent offence carrying a maximum penalty of  ten  years  or  more
+        [footnote 6 as above] and been sentenced to five years or more.
+
+
+        In  all  cases  the  person's  conduct  must  also  demonstrate   a
+        propensity to re-offend.  While previous convictions  and  criminal
+        history may be taken  into  account  when  considering  a  person's
+        propensity to re-offend they should not be looked at  in  isolation
+        [footnote 8: Although in general a finding of a present  threat  to
+        public policy implies the existence in the individual concerned  of
+        a propensity to act in the same way in the future  it  is  possible
+        that following a particularly heinous crime past conduct alone  may
+        constitute a present threat to the requirements of  public  policy.
+        Where Case Owners consider that they are faced  with  such  a  case
+        they should consult senior caseworkers].
+
+
+        Evidence demonstrating a propensity to re-offend could be found in:
+
+
+        1. Court reports
+
+
+        2. Risk of harm or  re-offending  assessments,  including  Offender
+             Assessment System.
+
+
+        3. Parole board reports.
+
+
+        4. Statements by prison, probation or police officers.
+
+
+        5. Medical reports.
+
+
+        Where the person is under the supervision of an Offender Manager in
+        the National Offender Management Service (NOMS), then the  offender
+        manager should be consulted about evidence regarding propensity  to
+        re-offend.
+
+
+        Once it is established that the threat posed by a person is
+        sufficient in principle to justify his deportation on grounds of
+        public policy or security under EU law, then there will be a
+        presumption that the public interest requires deportation.

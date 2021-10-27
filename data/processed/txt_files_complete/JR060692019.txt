@@ -1,0 +1,1556 @@
+
+|[pic]         |In the Upper Tribunal                        |JR/6069/2019  |
+|              |(Immigration and Asylum Chamber)             |              |
+|              |Judicial Review                              |              |
+|                                                                           |
+|In the matter of an application for Judicial Review                        |
+|                                                                           |
+|              |The Queen on the application of AI           |              |
+|              |(a child by his litigation friend IN)        |              |
+|              |                                             |Applicant     |
+|              |Versus                                       |              |
+|              |                                             |              |
+|              |Secretary of State for the Home Department   |              |
+|              |                                             |Respondent    |
+|                                                                           |
+|ORDER                                                                      |
+|              |                                             |              |
+
+
+BEFORE Upper Tribunal Judge Frances
+
+HAVING considered all documents lodged and having heard Ms C Kilroy Q.C.
+and Ms V Laughton of counsel, instructed by Simpsons Millar, for the
+applicant and Mr Pennington- Benton of counsel, instructed by GLD, for the
+respondent at a remote hearing on 9 November 2020 which has been consented
+to by the parties. The form of the remote hearing was video by Skype. A
+face to face hearing was not held because it was not practicable and all
+issues could be determined in a remote hearing.
+
+UPON the Respondent having conceded that the delay from 14 July 2019  to  28
+July 2020 comprised unlawful delay in breach of Dublin III.
+
+AND UPON judgment being handed down on 10 May 2021.
+
+IT IS ORDERED THAT:
+
+    1) The application for judicial review is allowed in so far as there has
+       been unlawful delay in transferring the applicant to the UK in breach
+       of Dublin III.
+
+
+    2) The applicant's claim that the respondent breached his Article 8 ECHR
+       rights is dismissed for the reasons given in the attached judgment.
+
+
+    3) The applicant's claim for damages for breach of Regulation (EU) No
+       604/2013 is dismissed.
+
+
+    4) Permission to appeal is refused because there is no arguable error of
+       law in the decision dismissing the applicant's claims for breach of
+       Article 8 ECHR and damages for the reasons given at [104] and [105]
+       of the judgment.
+
+   Costs
+
+    5) The respondent conceded at the start of the hearing on 9 November
+       2020 that there had been an unlawful delay of over 12 months in
+       breach of Dublin III. The applicant succeeded in that respect. The
+       applicant's claim for breach of Article 8 ECHR and his claim for
+       Francovich damages was dismissed.
+
+    6) The respondent to pay the applicant's reasonable costs prior to and
+       including the hearing on 9 November 2020, subject to detailed
+       assessment if not agreed. The cost of the hearing had already been
+       incurred at the time of the concession and could have been reduced or
+       avoided if the respondent had notified the applicant of the
+       concession prior to the hearing.
+
+    7) The applicant to pay the respondent's reasonable costs from 10
+       November 2020 to date, subject to the costs protection pursuant to
+       section 26(1) of the Legal Aid, Sentencing and Punishment of
+       Offenders Act 2012 and Reg. 12 of the Civil Legal Aid (Costs)
+       Regulations 2013.
+
+    8) There be a detailed assessment of  the  applicant's  publicly  funded
+       costs.
+
+
+
+
+      Signed:          J Frances
+
+
+                 Upper Tribunal Judge Frances
+
+
+      Dated:           10 May 2021
+
+
+The date on which this order was sent is given below
+
+
+For completion by the Upper Tribunal Immigration and Asylum Chamber
+
+Sent / Handed to the applicant, respondent and any interested  party  /  the
+applicant's, respondent's and any interested party's solicitors  on  (date):
+12 May 2021
+
+Solicitors:
+Ref  No.
+Home Office Ref:
+
+
+Notification of appeal rights
+
+A decision by the Upper Tribunal on an application for judicial review is  a
+decision that disposes of proceedings.
+
+A party may appeal against such a decision to  the  Court  of  Appeal  on  a
+point of law only. Any party who wishes to appeal should apply to the  Upper
+Tribunal for permission, at the hearing at which the decision is  given.  If
+no application is made,  the  Tribunal  must  nonetheless  consider  at  the
+hearing whether to give or refuse permission to appeal (rule 44(4B)  of  the
+Tribunal Procedure (Upper Tribunal) Rules 2008).
+
+If the Tribunal refuses permission, either in response to an application  or
+by virtue of rule 44(4B), then the party wishing to  appeal  can  apply  for
+permission from the Court of Appeal itself. This must be done by  filing  an
+appellant's notice with the Civil Appeals Office  of  the  Court  of  Appeal
+within 28 days of the date the Tribunal's decision on permission  to  appeal
+was sent (Civil Procedure Rules Practice Direction 52D 3.3).
+
+
+                                    [pic]
+
+                                                       Case No: JR/6069/2019
+IN THE UPPER TRIBUNAL
+(IMMIGRATION AND ASYLUM CHAMBER)
+
+                                                                Field House,
+                                                            Breams Buildings
+                                                            London, EC4A 1WR
+
+                                                               10th May 2021
+                                   Before:
+
+
+                        UPPER TRIBUNAL JUDGE FRANCES
+
+                   - - - - - - - - - - - - - - - - - - - -
+
+                                  Between:
+
+
+                                  THE QUEEN
+                          on the application of AI
+                    (a child by his litigation friend IN)
+                                                                   Applicant
+
+                                   - and -
+
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+                   - - - - - - - - - - - - - - - - - - - -
+
+
+                     Ms C Kilroy Q.C. and Ms V Laughton
+              (instructed by Simpson Millar) for the applicant
+
+                           Mr R Pennington-Benton
+     (instructed by the Government Legal Department) for the respondent
+
+                       Hearing date: 9th November 2020
+
+                   - - - - - - - - - - - - - - - - - - - -
+
+                               J U D G M E N T
+
+                   - - - - - - - - - - - - - - - - - - - -
+
+
+
+
+
+Judge FRANCES:
+
+ 1. The applicant challenges the respondent's refusals, dated 16 January
+    2019 and 22 July 2019, of a take charge request [TCR] made on 14
+    November 2018 and the delay in transferring the applicant to the UK
+    under Article 8.2 of EU Regulation 604/2013 [Dublin III]. The applicant
+    was transferred to the UK on 28 July 2020.
+
+
+ 2. It is the applicant's case that the refusals were unlawful and the
+    respondent was in breach of her investigative duties. The delay in
+    transferring the applicant to the UK was unlawful and in breach of the
+    Dublin III time limits. Further, the unlawful delay breached the
+    applicant's rights under Article 8 of the European Convention of Human
+    Rights [ECHR] and Article 7 of the EU Charter of Fundamental Rights
+    [CFR] informed by the Convention on the Rights of the Child [CRC]. The
+    applicant seeks declarations and damages.
+
+Facts
+
+
+ 3. The applicant is a national of Burundi who arrived in Greece in June
+    2018 and registered a claim for asylum on 6 September 2018 when he was
+    16 years old. On 14 November 2018, Greece made a TCR, on the basis that
+    the applicant's uncle [IN] lived in the UK and the applicant wished to
+    join him. Greece sent a 'best interests assessment' [BIA] on 3 December
+    2018 and the respondent sent a letter and a pro-forma family
+    undertaking form [proforma] to IN on 10 December 2018. IN responded on
+    19 December 2018 and the respondent received the proforma on 24
+    December 2018. Greece sent additional documents (an untranslated birth
+    certificate and father's identity document) on 9 January 2019. The time
+    limit for accepting the TCR expired on 14 January 2019.
+
+
+ 4. The respondent refused the TCR on 16 January 2019 on the basis that
+    there was insufficient evidence to demonstrate a family link. Greece
+    made a re-examination request on 6 February 2019 stating that DNA tests
+    would be taken and the results sent to the respondent. On 7 February
+    2019, Greece sent a family document (untranslated) confirming the
+    family link and asked the respondent if DNA tests were still required.
+
+ 5. On 3 June 2019, Greece sought an update from the respondent. By letter
+    dated 22 July 2019 (sent on 30 July 2019), the respondent refused the
+    TCR (re-examination request), maintaining there was insufficient
+    evidence to establish the claimed family link and stating that a
+    translation was required. On 14 August 2019, Greece sent a further re-
+    examination request with translated documents. This application for
+    judicial review was filed on 6 December 2019. On 27 December 2019, the
+    respondent advised Greece that the family link had been established and
+    a new TCR, under Article 17.2 of Dublin III, should be made. Greece
+    made a second TCR on 10 January 2020.
+
+
+
+ 6. On 22 January 2020, the respondent requested a family assessment from
+    the local authority [LA]. The respondent sent two further letters to
+    the LA chasing the family assessment on 17 February 2020 and 4 March
+    2020. Permission to apply for judicial review was granted on 11 March
+    2020. The LA expressed concerns about the welfare of other children in
+    IN's household and requested further details of the applicant. On 23
+    March 2020, the respondent sent the BIA to the LA. On 26 March 2020,
+    Greece informed the respondent that all flights were suspended due to
+    the outbreak of Covid 19 and the Dublin unit would resume transfers as
+    soon as restrictions were lifted. The respondent received the LA
+    assessment on 30 March 2020 and accepted the TCR on 1 April 2020. The
+    applicant was transferred to the UK on 28 July 2020.
+
+ 7. On 22 October 2020, the respondent applied to stay the proceedings
+    pending hand down of the judgment of the Court of Appeal in Secretary
+    of State for the Home Department v R (FwF and FrF) (JR/1626/2019). I
+    refused the application on the grounds that, on the information before
+    me, the respondent had failed to demonstrate that the Court of Appeal's
+    judgment would have a critical impact on the applicant's claim: AB
+    (Sudan) v SSHD [2013] EWCA Civ 921 at [30],[32]. Whether there was an
+    interference with the applicant's rights under Article 8 is a fact
+    specific exercise.
+
+Relevant legal provisions
+
+ 8. The relevant articles of Dublin III, the Implementing Regulation
+    1506/2003 as amended by Regulation 118/2014 [IR] and Home Office Policy
+    are set out in Annex A. To satisfy the Article 8.2 Dublin III criteria
+    it must be established that:
+
+
+       a) The relative and child are related;
+       b) The relative can take care of the child; and
+       c) Reunification is in the child's best interests.
+
+ 9. A decision on the TCR must be made within two months. A failure to act
+    within the two month period is tantamount to accepting the request
+    [deemed acceptance] giving rise to the obligation to take charge and
+    provide for proper arrangements for arrival. The transfer should take
+    place as soon as possible and at the latest within six months of
+    acceptance or deemed acceptance. The failure to observe the time limits
+    for placing a minor shall not necessarily be an obstacle to continuing
+    the procedure for determining responsibility or carrying out a
+    transfer.
+
+
+10. The following Dublin III cases were referred to in legal argument:
+
+
+       i) FA & Others v SSHD (JR/5523/2018, JR/5405/2018, JR/5406/2018)
+      ii) KF v SSHD (JR/1642/2019)
+     iii) HN & MN v SSHD (JR/4719/2019)
+      iv) R (MK, IK and HK) v SSHD [2016] UKUT 00231 (IAC)
+       v) R (MS) v SSHD (Dublin III; duty to investigate) [2019] UKUT 00009
+          (IAC)
+      vi) BAA and TAA v SSHD [2020] UKUT 00227 (IAC)
+
+
+Respondent's concession
+
+  11. By letter dated 9 November 2020, received on the morning of the
+      hearing by email, the respondent made the following concession:
+
+
+      "1.   The following concession applies to this case only. The
+           Secretary of State concedes that the overall delay between the
+           transfer request and the Applicant's arrival in the UK was in
+           breach of the longstop limit of 8 months (FA and KF) under
+           Regulation (EU) No 604/2013 ('Dublin III'). The period of delay
+           beyond 14 July 2019 comprised unlawful delay in breach of Dublin
+           III. The Secretary of State maintains that this did not
+           compromise a breach of the ECHR, CFR or common law process
+           rights. Entitlement to damages is denied.
+
+
+        2. We do not rely on Article 29 of Dublin III or Article 10 or
+           12(2) of the Implementing Regulation either to extend time under
+           Article 12(1) or to argue that the delay was lawful. We accept
+           that the overall delay over 8 months was unlawful. We rely on
+           article 12(2) in so far as we say that it confirms that the
+           Secretary of State was entitled to continue to consider whether
+           the family link was established, the care position and best
+           interests.
+
+
+        3. The decisions of 16 January and 30 July 2019 were nullities in
+           as much as they purported to reject responsibility when it had
+           already passed. However, we rely on the contents of those
+           communications as a valid part of the ongoing exchanges of
+           information about the family link, care position and best
+           interests.
+
+
+        4. The Secretary of State does not concede that the period of delay
+           constituted a breach of common law process rights. Even though
+           it is accepted that the overall delay was unlawful, it is not
+           accepted that each and every (sic) of the failures along the way
+           were in themselves unlawful or in themselves constituted an
+           unlawful application of Dublin III. We will hear the argument
+           and respond in the usual way.
+
+
+        5. The only point being conceded is that the overall period of
+           delay was unlawful being beyond the 8-month long stop. As to the
+           individual reasons for that delay and whether they themselves
+           give rise to liability these matters remain for the Applicant to
+           persuade the court."
+
+  12. In relation to the concession, Mr Pennington-Benton submitted the
+      decisions of 16 January 2019 and 22 July 2019 (sent on 30 July 2019)
+      could not do what they purported to do. He had to accept the decisions
+      were wrong and unlawful. However, overall, those failures did not
+      amount to a breach of Dublin III. What was being conceded was delay
+      caused by administrative failures. The delay was far too long, over 12
+      months, and amounted to an unlawful application of Dublin III.
+      However, each failure was not enough, in itself, to breach Dublin III.
+
+
+  13. Mr Pennington-Benton accepted the respondent was not entitled to
+      refuse the TCR subject to continuing to assess the question of best
+      interests. He accepted that the UK was deemed to be responsible from
+      14 January 2019 and responsibility remained with the UK since that
+      date. The respondent was not relying on Article 29. The respondent
+      should have accepted the UK was responsible but stated that she was
+      continuing to question the family link and the applicant's best
+      interests. Mr Pennington-Benton accepted there was unlawful delay from
+      14 July 2019 to 28 July 2020.
+
+
+Applicant's submissions
+
+  14. Ms Kilroy agreed that the respondent was not entitled to rely on
+      Article 12(2) IR as a basis to refuse responsibility and submitted
+      that the applicant's case on all those points in the grounds should be
+      accepted. The matters in issue were breach of investigative duty and
+      breach of Article 8 ECHR.
+
+
+  15. Ms Kilroy relied on her skeleton argument dated 18 October 2020 and
+      submitted that applying KF, the refusals to accept the TCR were
+      unlawful and the delay was in breach of Dublin III. Ms Kilroy
+      submitted that this case was 'on all fours' with KF save that the
+      length of interference was longer. She submitted that, in KF, the
+      Tribunal found the respondent's failure to contact the LA, to request
+      translations and to notify the applicant of the respondent's concerns
+      amounted to a breach of her investigative duties under Dublin III.
+      There was a common law duty to make reasonable enquiries and there
+      were procedural requirements under Article 8 (R (MK, IK and HK and R
+      (MS)). The decision maker had to comply with procedural fairness and
+      give the applicant an opportunity to participate.
+
+
+  16. The Tribunal in KF applied this case law to the same failures which
+      existed in that applicant's case. The time frame was similar. The
+      respondent did not give the applicant an opportunity to comment and
+      failed to contact the LA until after the family link was established.
+      There was a pattern of conduct which impacted differently in each
+      case. In this applicant's case, the respondent refused the TCR after
+      the time limit because she did not accept the family link. This had a
+      massive impact on children. Ms Kilroy submitted there was no evidence
+      from the respondent and no explanation for the delay. The applicant's
+      evidence and the psychiatric evidence was undisputed.
+
+  17. Ms Kilroy summarised the facts which led to the applicant travelling
+      to Greece and submitted, on 7 February 2019, the respondent had all
+      the information which she ultimately relied on in accepting the TCR.
+      HN & MN could be distinguished. After the purported refusal on 16
+      January 2019, the Greek authorities responded with new material which
+      ultimately proved the family link. There were lengthy delays by the
+      respondent and no evidence that she had considered the best interests
+      of the applicant. There was no 'best interests' argument to explain or
+      justify the delay by the respondent.
+
+  18. The BIA from Greece strongly supported reunification and this was
+      accepted by the respondent in her email dated 23 March 2020 (at page
+      533 of the trial bundle). The BIA should have been sent to the LA
+      sooner. The respondent had all the information she needed to accept
+      the TCR and she failed to do so until 20 January 2020. The position
+      was clear from the untranslated document provided on 7 February 2019.
+      Ms Kilroy relied on [40]- [45] of her skeleton argument.
+
+  19. Ms Kilroy submitted Recitals 5 and 13 to 16 of Dublin III were
+      relevant to the assessment of Article 8. The purpose of Dublin III was
+      to achieve family unity (Recital 17 and Article 12 IR). Ms Kilroy
+      submitted that in R (MA (Eritrea) v SSHD (ECJ) (C-648/11)[2013] 1 WLR
+      2961, the court confirmed the muscularity of the 'best interests'
+      principle and how it worked. The issue in this case was whether the
+      delay and breaches of Dublin III amounted to a breach of Article 8.
+      The respondent submitted there was no family life and no interference
+      with private life because the threshold was high and the delay was not
+      significant. Ms Kilroy submitted the justification for a decision must
+      show that the child's substantive right to have his best interests
+      assessed as a primary consideration had been explicitly taken into
+      account (Mathieson v Secretary of State for Work and Pensions [2015]
+      UKSC 47).
+
+  20. In relation to the duty to investigate and procedural fairness, Ms
+      Kilroy referred to R (MK, IK and HK) at [20] to [27] and [38], R
+      (Citizens UK) at [68] to [84] and R (MS) at [120] to [125], [134] to
+      [137], [171] and [202] to [208]. She submitted this approach was
+      confirmed by the Court of Appeal in SSHD v MS  [2019] EWCA Civ 1340 at
+      [51] to [64] and ZT (Syria) v SSHD [2016] EWCA Civ 810 did not apply.
+
+  21. Ms Kilroy submitted that BAA was the most recent authority and the
+      Tribunal adopted the same approach as KF. The respondent should
+      involve the LA and the applicant should be given an opportunity to
+      address the reasons for refusal. The Tribunal should decide the matter
+      for itself (BAA at [76] to [82], [170], [176] and [177] and KF [77] to
+      [82] [84] [85]).
+
+  22. In relation to Article 8, Ms Kilroy submitted that Kugathas concerned
+      family life between adults and had no application in this situation.
+      She submitted that the potential for the development of family life
+      was relevant to whether family live existed and this was not confined
+      to cases involving children and natural parents. She relied on Singh v
+      Entry Clearance Officer [2004] EWCA Civ 1075 at [1], [2], [26] to [29]
+      in which there was an informal adoption by cousins that was not
+      recognised in UK. Reference was made to Pini v Romania (App No.
+      78028/01 and 78030/01) in which the children had not met their
+      adoptive parents and had been picked out from photographs. The
+      relationship arising from a lawful adoption could be considered
+      sufficient to warrant the respect required by Article 8.
+
+
+
+  23. Ms Kilroy submitted Dublin III was a system set up by international
+      treaty to reunify family members. The fact that the parties had not
+      met did not mean Article 8 was not engaged. This applicant will not
+      have a family life without reunification. Ms Kilroy submitted that
+      family life must be extended to the potential relationship which may
+      develop and cohabitation was likely to play a less significant role in
+      assessing family life between uncles and nephews: Singh  at [33],
+      [34], [38], [56], [76] and [77].
+
+  24. Ms Kilroy submitted the existence of family life was fact sensitive
+      and must include an assessment of the best interests of the child. The
+      court in Pini concluded that orphans picked out from photographs was
+      enough to engage Article 8. Dublin III recognised the importance of
+      other family members to take care of children who did not live with
+      their parents. She submitted the state should refrain from inhibiting
+      the development of a real family life in the future: R (Ahmadi) v SSHD
+      [2005] EWCA Civ 1721 at [18].
+
+  25. Ms Kilroy submitted the CRC should be taken into account : R (SG) v
+      Secretary of State for Work and Pensions [2015] UKSC 16 at [116] to
+      [121], [217] and [257]. She submitted that, in Mathieson at [39] to
+      [44], the court recognised the relevance of General Comment No.14 on
+      the rights of a child to have his or her best interests taken into
+      account as a primary consideration. The right to reunification and the
+      child's best interests ran throughout the CRC. The best interests of
+      the child were a threefold concept and should be a primary
+      consideration. The preservation of the family environment encompassed
+      the preservation of the child's 'ties' in a wider sense. These 'ties'
+      applied to extended family such as grandparents, aunts, uncles and
+      friends.
+
+  26. Ms Kilroy submitted the Applicant was an orphan trying to reunite with
+      his uncle. The need to preserve that family link is required by Dublin
+      III and other international instruments. The Applicant had established
+      family life. A decision deciding reunification had to engage Article
+      8.
+
+  27. Ms Kilroy referred to [71] to [77] of her skeleton argument and
+      submitted the respondent failed to contact IN to ask him to explain
+      the discrepancies in surnames. If the family document had been
+      translated and the local authority had been contacted, it would have
+      made a difference. The LA assessment was relevant to the requirement
+      to take care of the applicant under Article 8.2 Dublin III. It was
+      necessary for the LA to visit the family. The request should have been
+      made when the TCR was received. DNA was not required in this case, but
+      if the respondent thought it was necessary, she should have indicated
+      this to the Greek authorities and she did not. The delay that followed
+      was worse than that in KF. There was a long delay after translations
+      were provided and nothing was done for months.
+
+  28. In response to a question from me, Ms Kilroy submitted there was no
+      need for a second TCR because the respondent was not relying on
+      Article 29. The respondent accepted she unlawfully refused the TCR and
+      to ask for another one under Article 17.2 was obviously unlawful
+      because there was no basis for it. The delay was not as a result of
+      any investigation into the applicant's best interests under Article
+      12(2) IR. The delay in this case was wholly unnecessary. The decisions
+      were unlawful. The respondent's breach of her investigative duties and
+      unreasonable conduct was not in compliance with Dublin III.
+
+  29. In relation to Article 8, there was evidence of the relationship in
+      the witness statements of the applicant and IN. Since August/September
+      2018 they had spoken on a regular basis on the telephone and via
+      WhatsApp. The social worker was one of the authors of the BIA and she
+      stated that the applicant had already built a loving relationship with
+      IN by November 2018. The applicant was feeling isolated and IN really
+      cared about progressing matters. The psychiatric report at [16, 35,
+      38, 62, 63] demonstrated the delay was relevant to the interference
+      caused. The BIA demonstrated the importance of the bond between the
+      applicant and IN. There was ample evidence that it was in the
+      applicant's best interests to be reunited with IN in the UK, his only
+      family member.
+
+  30. Ms Kilroy submitted that the bonds built up while the applicant was
+      awaiting reunification and IN's commitment to the applicant as his
+      future carer demonstrated a strong emotional dependency. The applicant
+      was part of IN's biological family and was an unaccompanied minor
+      separated from his parents. On a proper application of international
+      law, Article 8 was engaged. The applicant's private life was essential
+      to his future development.
+
+  31. Ms Kilroy referred to R (Mambakasa) v SSHD [2003] EWHC 319 (Admin) at
+      [65],[107], [110] [115] and [116]. Richards J found that the delay of
+      six months in granting asylum was unreasonable. In this case there was
+      a delay of one year in which the respondent did nothing at all. She
+      made no attempt to move matters on in a case where there was a need
+      for expedition. The delay in this case was more than the longstop
+      provided for under Dublin III. It clearly met the high threshold
+      envisaged in ZT (Syria).
+
+  32. Ms Kilroy submitted the delay was unlawful and the respondent was in
+      breach of her investigative duties. This conduct was sufficient to
+      engage Article 8 ECHR and Article 7 CFR. The respondent's decisions
+      were unlawful and not in accordance with the law. There was no
+      evidence from the respondent to justify the decisions. The
+      interference could not be justified and was disproportionate. Ms
+      Kilroy submitted that applying KF, BAA and R(MS) , the applicant
+      succeeded on the two remaining issues.
+
+Respondent's submissions
+
+  33. Mr Pennington-Benton accepted that responsibility for the applicant's
+      asylum claim had shifted to the respondent and she was wrong to
+      purport to decline the TCR outside the two month time limit. However,
+      relying on FA the respondent's failure to do what needed to be done
+      within the relevant two month period was not unlawful and did not give
+      rise to a breach of Dublin III. Following KF, the default position was
+      that the UK was responsible. The failure to contact the LA, in breach
+      of Home Office Policy, did not amount to an unlawful application of
+      Dublin III. The applicant had to show the failures gave rise to an
+      independent and self-standing breach of Dublin III.
+
+
+  34. Mr Pennington-Benton submitted the failure to contact the LA, or to
+      notify the applicant of the case against him were common law failures
+      which did not amount to an unlawful application of Dublin III.
+      Further, he relied on [34] to [46] of the respondent's skeleton
+      argument and submitted that, on the facts, these individual
+      allegations were denied.
+
+  35. The respondent sent a proforma to IN asking him to provide detailed
+      information to demonstrate the family link and this was taken into
+      account prior to the decision to refuse the TCR. Thereafter, the Greek
+      authorities sent further information, but this was still insufficient
+      to establish the family link. Mr Pennington-Benton submitted the
+      respondent acted reasonably and in good faith even though the
+      responses were dilatory. The delay was unacceptable because there were
+      periods which were unexplained. The respondent had to be satisfied the
+      Article 8.2 Dublin III criteria were met and considered the best
+      interests of the applicant. The process was right and proper but too
+      slow. The Tribunal should focus on the delay.
+
+  36. The applicant had a Greek lawyer, a social worker and regular contact
+      with IN. The concerns about the family link were communicated and the
+      applicant and IN would have been aware of the need to provide
+      translated documents. The LA assessment was relevant to whether IN
+      could take care of the applicant, not to establish the family link.
+      The only breach of Dublin III was the failure to make decisions and
+      transfer the applicant within the time limit. The reasons for the
+      delay were not relevant because it was conceded the delay breached
+      Dublin III. Following FA, there would be no unlawful application of
+      Dublin III if the time limits had been complied with.
+
+  37. Mr Pennington-Benton submitted that Dublin III did not give rights to
+      migrate on a permanent basis and did not assist in the interpretation
+      of family life. Dublin III assigned responsibility for determining an
+      asylum claim. It did not determine family reunification and had
+      nothing to do with adoption or marriage. If the applicant's asylum
+      claim was refused, he may have no basis to remain in the UK. It was
+      unhelpful to view the engagement of Article 8 through the lens of
+      Singh and Pini. These cases were concerned with a recognised adoption
+      process and were fundamentally different. In the applicant's case
+      there was recognition of a temporary requirement to transfer him to
+      the UK to have his asylum claim considered. Dublin III was not
+      concerned with long term familial commitment and it was inappropriate
+      to compare the applicant's case with cases about adoption. The
+      applicant's position was a wholly transitory form of engagement of
+      Article 8 and could be distinguished from Mambakasa on its facts.
+      There was no question of IN replacing the applicant's missing parents
+      save for a temporary period.
+
+  38. Mr Pennington-Benton submitted that, in Mambakasa, Richards J was
+      wrong to conclude that the unlawful delay would preclude the
+      respondent's successful reliance on Article 8(2) ECHR because any
+      breach of the claimant's rights under Article 8(1) could not be said
+      to have been wholly 'in accordance with the law'. Article 8 was
+      concerned with a positive interference by the state. In cases of delay
+      there was a failure to make a decision. It was inappropriate to assess
+      whether the delay was not 'in accordance with the law'. The Tribunal
+      should adopt the same approach as in a case of maladministration in
+      assessing the delay under Dublin III. The issue was whether the
+      maladministration under Dublin III was sufficiently egregious to
+      amount to a disproportionate interference with the applicant's Article
+      8 rights.
+
+  39. Mr Pennington-Benton submitted the Tribunal had failed to adopt the
+      correct approach in FwF. If Ms Kilroy's submission was correct then
+      any unlawful delay would render a decision not 'in accordance with the
+      law'. That proposition could not be correct. Mr Pennington-Benton
+      submitted the Tribunal should adopt the same approach as in Anufrijeva
+      v Southwark LBC [2004] EWCA Civ 1406. There was a legal obligation to
+      transfer the applicant but it was exercised too slowly. The issue was
+      whether the delay amounted to a disproportionate interference with
+      Article 8. It was not appropriate to consider the question of 'in
+      accordance with the law' when there was no appropriate measure.
+
+  40. Alternatively, the transfer decision could be treated as the
+      interfering measure and it had been made too late. There was a legal
+      and valid decision which was 'in accordance with the law'. The issue
+      was whether the delay was disproportionate. In this case, however,
+      there was no family life or it was of such a minimal and transitory
+      nature that the delay could not lead to a breach of Article 8. The
+      applicant had never met IN and there was no pre-existing family life
+      or dependency. The applicant's relationship with IN was formed within
+      two months of claiming asylum when he was housed in reasonable
+      conditions and his basic needs provided for. The applicant had the
+      assistance of a lawyer, a social worker and a UK legal team. He had
+      regular contact with IN and had received psychiatric assistance for
+      his difficulties. He had spent one year longer in Greece than he
+      should have done. This did not amount to a breach of Article 8.
+
+Applicant's response
+
+  41. Ms Kilroy submitted there was no distinction between positive and
+      negative obligation cases when considering the issue of 'in accordance
+      with the law'. The central issue was whether a fair balance had been
+      struck between the interests of the family in maintaining family life
+      and the public interest in immigration control: R (MM Lebanon) v SSHD
+      [2017] UKSC 10 at [43]. Ms Kilroy submitted 'in accordance with the
+      law' was a useful analytical tool relevant to justification and
+      proportionality. Whether the interference was 'in accordance with the
+      law' was a necessary part of the analysis relevant to whether a fair
+      balance is struck: R (Quila) v SSHD [2011] UKSC 45.
+  42. Ms Kilroy submitted Dublin III was adopted to comply with Article 8
+      and was concerned with the best interests of children and family
+      reunification. It could not be said that the respondent had struck a
+      fair balance when she failed to comply with the requirements of Dublin
+      III and in doing so the respondent failed to respect the applicant's
+      Article 8 rights for that period of time: BAA at [177]. It was
+      apparent from ZT (Syria) that Dublin III is compliant with Article 8
+      because only a compelling case would justify circumvention of Dublin
+      III requirements. If Dublin III obligations are met, the member
+      state's actions will comply with Article 8. If not, there will be a
+      breach. That was the case here.
+
+  43. Ms Kilroy submitted that family life can be engaged even when the
+      parties have not met because of the potential to develop family life.
+      In this case there was evidence of a strong bond between the applicant
+      and IN, and evidence that the applicant's best interests had not been
+      taken into account. Family life had been found to exist in all the
+      previous Dublin III cases save for HN & MN and none of the cases
+      concluded that Article 8 was not engaged. There was clearly family
+      life in the applicant's case and a failure to comply with Dublin III
+      was likely to result in a breach of Article 8.
+
+  44. Ms Kilroy submitted there was no justification for the delay in this
+      case. The respondent had taken double the amount of time to transfer
+      the applicant. There was a very strict timetable aimed at protecting
+      the rights of children. The applicant was 16 years old when he claimed
+      asylum. In Mambakasa there was unintentional delay as a result of
+      administrative failures. In this case there was a deliberate refusal
+      of family reunification which was unlawful under Dublin III. The
+      respondent unlawfully refused the TCR and failed to comply with her
+      investigative obligations. These were not just common law failings but
+      breaches of Dublin III and the ECHR: KF and BAA at [76] [80] and
+      [117].
+
+  45. Ms Kilroy submitted the letters refusing the TCR's could not be viewed
+      as requests for further information or notice of the respondent's
+      concerns. The respondent requested a new TCR under Article 17.2
+      because there was no valid reconsideration request outstanding. The
+      respondent's argument that the letters were part of a dialogue should
+      not be entertained given the late abandonment of the argument under
+      Article 29.
+
+  46. In response to a question from me, Ms Kilroy submitted that once
+      responsibility had passed to the UK, on 14 January 2019, the
+      respondent was not entitled to continue to consider the requirements
+      of Article 8.2 Dublin III. This was contrary to the findings in HN &
+      MN, FA and KF. Member states must collaborate. Where the respondent
+      was responsible, only if there was a positive risk of harm to the
+      applicant could his best interests result in a refusal of his transfer
+      to the UK. In this case, where there was automatic acceptance of
+      responsibility, establishing the family link was relevant to the
+      applicant's best interests not to the application of the Article 8.2
+      Dublin III criteria. The respondent could only refuse to accept the
+      transfer of the applicant if there were strong reasons that it was not
+      in his best interests to be transferred to the UK. The fact that the
+      applicant may not be related as claimed did not preclude transfer.
+  47. Ms Kilroy accepted it was appropriate for the respondent to continue
+      to establish the family link, but she did not accept that the
+      respondent was entitled to refuse the transfer because the applicant
+      did not qualify under Article 8.2 Dublin III. She submitted that from
+      7 February 2019 there was information before the respondent to
+      establish the family link.
+
+  48. The respondent accepted she did not comply with her obligations under
+      Dublin III. Ms Kilroy submitted the respondent breached her
+      investigative duties which had contributed to the delay. The refusals
+      of the TCR were unlawful because the respondent had failed to act as
+      soon as she received the TCR and she accepted she could not lawfully
+      refuse the TCR after the expiry of the two-month time limit. If the
+      respondent could not make a decision within two months, she could have
+      refused the TCR on the basis there was not enough information. She did
+      not do so. The respondent did not tell IN the information she already
+      had nor did she take reasonable steps to inform IN of what information
+      she required. The proforma sent to IN on 10 December 2018 was
+      insufficient to comply with the respondent's investigative duties: R
+      (MK, IK and HK). The respondent did not notify IN of her concerns
+      about the discrepancies in names and there was no onus on the
+      applicant to prove the relationship.
+
+  49. Ms Kilroy submitted there was no reference to the applicant's best
+      interests in any of the respondent's evidence. The respondent's policy
+      accepts that re- establishment of family links would normally be
+      regarded as being in accordance with the section 55 duties, but this
+      may not always be the case, and gives a non-exhaustive list of
+      examples. None of those considerations applied in this case. The
+      respondent could not refuse the transfer under Article 12(2) IR: HN &
+      MN at [86] and [87].  The issue of damages could be resolved in
+      further written submissions.
+
+Conclusions and reasons
+
+  50. The following matters are not in dispute. Default acceptance of the
+      TCR occurred on 14 January 2019 and the applicant should have been
+      transferred to the UK by 14 July 2019. The transfer was not effected
+      until 28 July 2020. The respondent did not rely on Article 29 Dublin
+      III or Articles 10 or 12(2) IR to extend time or argue that the delay
+      was lawful. The respondent accepted there had been an unlawful delay
+      of just over one year in breach of Dublin III.
+
+  51. In his oral submissions, in relation to the concession, Mr Pennington-
+      Benton accepted the decisions refusing the TCR were unlawful. However,
+      if I have understood his position correctly, these unlawful decisions
+      would not have breached Dublin III if the time limits had been
+      complied with. Since the respondent did not seek to derogate from her
+      responsibility and accepted an unlawful delay of just over one year,
+      the legality of the decisions refusing the TCR was not material to the
+      breach of Dublin III on the facts of this case.
+
+  52. In any event, I agree with the Panel's conclusions at [77] of HN & MN
+      that Article 12 IR operates in parallel with deemed acceptance of the
+      TCR. The respondent was not bound to accept the transfer of the
+      applicant under any circumstances and there was scope for the
+      disapplication of time limits, provided it was in the applicant's best
+      interests. The respondent's duty of investigation was not extinguished
+      once responsibility was accepted explicitly in a decision or deemed
+      under Article 22(7). If it was established (after deemed acceptance of
+      responsibility) that the minor was not related to the claimed
+      relative, it was unlikely to be in the minor's best interests to be
+      united with that claimed relative in the UK. The decisions of 14
+      January 2019 and 22 July 2019 were not unlawful simply by reason of
+      deemed acceptance of responsibility (HN & MN at [86]).
+
+  53. I am not persuaded by Ms Kilroy's submission that the respondent is
+      not entitled to consider the requirements of Article 8.2 Dublin III
+      once there is deemed acceptance of responsibility. In any event, the
+      distinction she makes is not material. It is hard to envisage a
+      situation where it would be in the best interests of an unaccompanied
+      minor to be transferred to another country where he/she has no
+      relatives nor an asserted family and private life within Article 8
+      ECHR.
+
+  54. Ms Kilroy accepted that there were two matters in issue before me:
+
+
+        i) Breach of investigative duty and procedural fairness
+           obligations; and
+       ii) Breach of Article 8 ECHR/Article 7 CFR. I shall treat these two
+           Articles as equivalent.
+
+Investigative duties and procedural fairness
+
+  55. The respondent has a duty to investigative the basis upon which the
+      TCR is made and whether the requirements of Dublin III are met. The
+      duty is to act reasonably and take reasonable steps. Fairness requires
+      that the applicant must know the gist of what is being said against
+      him and he must have an opportunity to make representations on issues
+      and material being relied on: R(MS) and BAA.
+
+  56. The respondent sent a letter and proforma request for information to
+      IN on 10 December 2018. The letter made it clear to provide as much
+      detail as possible and to provide all the evidence or information to
+      prove the relationship. IN responded stating that he was the younger
+      brother of the applicant's father. IN did not disclose the name of the
+      applicant's father or the names of his parents. The applicant and IN
+      were aware that they had to prove the family link and they were given
+      an opportunity to do so.
+
+  57. At the time the respondent sent the letter and proforma to IN, she was
+      not in possession of the birth certificate or identity document and
+      therefore she was not in a position to notify IN of any discrepancies
+      or lack of translation. These documents were sent to the respondent on
+      9 January 2019, five days before the two month time limit expired. The
+      material before the respondent on 16 January 2019 was very limited.
+      The applicant's birth certificate and father's identity document, even
+      if translated, were insufficient to establish the claimed family link.
+      The respondent's conclusion that the family link was not established
+      was open to her on the evidence before her.
+
+  58. On the facts of this case, the respondent's failure to contact IN
+      prior to the refusal of the TCR was not procedurally unfair and did
+      not amount to a failure to take reasonable steps. The applicant and IN
+      knew the 'gist' of the case against them and had not been denied the
+      opportunity to meet the respondent's concerns. The respondent
+      considered the information in the proforma before refusing the TCR on
+      the basis the family link was not established. This case differs from
+      KF in this respect.
+
+  59. The letter of 16 January 2019 notified the Greek authorities of the
+      discrepancies and the lack of translation. It was accepted, in the
+      factual and procedural summary to the applicant's skeleton argument,
+      that the Greek authorities provided a brief summary to the applicant's
+      Greek lawyer. The applicant submitted his Greek lawyer was not
+      informed that translated copies of the documents were required. In my
+      view, the letter of 16 January 2019 was sufficient to show that the
+      respondent informed the applicant of the gist of the case against him
+      and the need to provide translated documents. The respondent cannot be
+      held responsible for the actions of the Greek authorities.
+
+  60. The family document establishing the family link was sent to the
+      respondent on 7 February 2019, but the translation was not sent until
+      14 August 2019. I agree with Upper Tribunal Judge Blum in KF that the
+      duty to take 'reasonable steps' did not extend to translating
+      documents. The letter of 22 July 2019 maintaining the family link was
+      not established was not irrational and there was no procedural
+      unfairness in the decision making process.
+
+
+  61. However, the respondent failed to comply with her investigative duties
+      under Dublin III. There were periods of unexplained delay from 7
+      February 2019 to 22 July 2019 and 14 August 2019 to 27 December 2019.
+      The respondent could not be said to be taking all reasonable steps to
+      investigate the TCR during this time. The respondent failed to liaise
+      with the Greek authorities in relation to whether the documentation
+      was sufficient or a DNA test was required. There was no explanation
+      for why the family link was not accepted soon after receipt of the
+      translated document on 14 August 2019. This unreasonable delay
+      contributed to the respondent's failure to transfer the applicant to
+      the UK within the Dublin III time limit.
+
+
+  62. In addition, the respondent failed to notify the LA when the TCR was
+      received in November 2018 and did not do so until 22 January 2020. The
+      failure to contact the LA was in breach of the respondent's policy and
+      could have assisted in establishing the family link (BAA at [80]). The
+      failure to contact the LA until January 2020 contributed to the delay
+      in transferring the applicant to the UK. The family link was accepted
+      on 27 December 2019, but the TCR was not accepted until 1 April 2020.
+      By this time all transfers had been suspended due to the global
+      pandemic.
+
+  63. Responsibility for the applicant's asylum claim passed to the UK on 14
+      January 2019 and remained with the UK since then. The respondent was
+      entitled to continue to assess the family link after deemed acceptance
+      had taken place. Once the family link was established, on the facts of
+      this case, there were no best interests reasons for not effecting the
+      transfer to the UK.
+
+  64. The respondent's failure to comply with her investigative duties
+      contributed to the delay. It did not, and could not, give rise to a
+      further breach of Dublin III because the time limits provided for the
+      consequences of such a failure. The unlawful delay prevented the
+      arrangements that should have been made in the transfer period from
+      taking place within the time limit in Article 29. The respondent has
+      rightly conceded there had been an unlawful delay of just over one
+      year in breach of Dublin III.
+
+Article 8
+
+  65. The existence of family life is a fact sensitive exercise and the best
+      interests of the child are relevant to the extent to which respect
+      should be given to family life or whether interference with family
+      life is justified. I accept it is possible for Article 8 to be engaged
+      where the parties have not met or do not live together. The potential
+      for development of family life is relevant and is not confined to
+      cases involving children and their natural parents. However, in Singh
+      at [38] Dyson LJ acknowledged that, unless some degree of family life
+      is already established, the claim to family life will fail and will
+      not be saved by the fact that at some point in the future it could
+      flower into a full blown family life or that the applicant has a
+      genuine wish to bring this about.
+
+  66. A BIA was conducted on 29 November 2018 and sent to the respondent on
+      3 December 2018. It states that the shelter [the Four Seasons Hotel,
+      Thessaloniki] provides a hospitable and secure environment for the
+      applicant and he feels safe there. The assessors considered that "the
+      only thing that gives [the applicant] hope and a sense of happiness is
+      his only relative, his uncle [IN], as he thinks that he is the only
+      one who can understand him due to the common memories of his father
+      and his family. He thinks of [IN] as they share a strong bond. In
+      conclusion, it seems the only possible way to soothe the stressful
+      symptoms of his (sic) and therefore to achieve a life of security and
+      positive thinking for the future, is if he proceeds with the
+      reunification with his uncle." The assessors concluded that if the
+      applicant did not go "directly to a secure environment, his mental
+      health and emotional health will be at high risk" and that he was "in
+      severe need of being with a person that he trusts, loves and feels
+      secure". The assessor emphasised the "need to act without further
+      delay for his bests interests."
+
+  67. The applicant expressed his views in the BIA as follows: "My uncle is
+      the only family I have. We talk very often, and I know that he has a
+      good life in England with his family. I have never met his children,
+      but I am looking forward to be a part of their life. I need his
+      support and I know that, with him, I will live in a supportive and
+      secure environment. I cannot imagine starting a new life away from
+      him. Greece is a good country that welcomed me. Many people here
+      helped me, but my greatest desire always was and remains to be able to
+      reunify with my uncle."
+
+  68. In his witness statement dated 6 December 2019, the applicant stated
+      that he thought he had met IN as a baby or as a small child, but since
+      IN had left Burundi in 1995, he could not have met him. His parents
+      talked about uncle IN so he thought he had met him. The applicant
+      talked to IN over the telephone when he was 'a kid'. The applicant was
+      able to contact IN when he got to Greece because he had his number on
+      a piece of paper which his mother had given him. The applicant spoke
+      to IN by telephone a few days after he arrived in Greece. He initially
+      spoke to him on a daily basis and then on a weekly basis. The
+      applicant also spoke with his aunt Mariam in Burundi by WhatsApp once
+      a week at the weekends. The applicant stated, "This has been going on
+      for so long now and I just want to start making a life in the UK with
+      uncle [IN]."
+
+  69. In the BIA, IN expressed his views as follows: "I love my nephew and I
+      care for him. I feel responsible for him because he is a member of my
+      family and I knew him when he was a baby. I don't want him to suffer
+      anymore, struggling for the basics while at the same time I can offer
+      him a safe haven. I can offer him the necessary living conditions." In
+      his statement, IN stated that he contacted his sister Mariam in
+      Burundi who sent the applicant's birth certificate, his father's
+      identity document and the family composition document to him by
+      WhatsApp and IN sent them to the applicant. IN has spoken to the
+      applicant regularly over the telephone. They speak frequently about
+      the applicant coming to live in IN's home. IN states, "as he is my
+      blood and I have grown very close to him, I want nothing more than to
+      look after him as my own son here in the UK."
+
+  70. In his interview with Dr Hillen on 16 December 2019, the applicant
+      stated that the staff in the shelter in Thessaloniki were treating him
+      well, but he still felt unhappy because there was nothing for him to
+      do and he wanted to live with members of his family in England. The
+      applicant reported to Dr Hillen that he was talking to them almost
+      daily on the telephone and that he had developed a close relationship
+      even though he had never met them in person. He was talking not only
+      to his uncle, but to his uncle's wife and children. He felt
+      comfortable talking to them even though his cousins only spoke
+      English. The applicant said his uncle often gave helpful advice and
+      encouragement and helped him to "put things into perspective and
+      tolerate waiting." The applicant became upset and agitated when he was
+      asked what he would do if he was not allowed to join IN.
+
+  71. Dr Hillen was of the opinion that the applicant suffered from PTSD and
+      a moderate depressive episode. His symptoms were present before he
+      entered Greece and there had been a marked worsening in the autumn of
+      2019. The applicant had no complaints about his treatment by
+      professionals supporting him in Greece, however, the denial of his
+      relationship with IN and the delay were further negative life events
+      which undermined any remaining trust in the world as a safe place and
+      the benevolence of people in any position of authority. The applicant
+      had lost two friends at the shelter. One was involved in a fight and
+      moved to another provision. The other friend left to be reunited with
+      his family. This aggravated the applicant's sense of isolation and not
+      mattering to anyone.
+
+
+  72. The applicant had started to form a relationship with IN in his own
+      mind when he left Burundi and was making his dangerous and protracted
+      journey to Europe. The applicant's hopes for finding someone who would
+      be willing to take him in and see him as one of their own was
+      fulfilled when the applicant established telephone contact with IN.
+      The applicant had formed a close and supportive relationship with IN.
+      Members of the same family can quickly form strong emotional bonds,
+      even if they had not met before.
+
+  73. The delay and ongoing separation from IN were significant factors
+      responsible for the maintaining and worsening of the applicant's PTSD.
+      The worsening of the applicant's presentation included the emergence
+      of suicidal ideation. The current moderate suicide risk would increase
+      to severe if the applicant received further negative decisions from
+      the Home Office. The damage caused fell into the moderate (sic) severe
+      category of psychiatric damage.
+
+  74. Dr Hillen was of the opinion that joining IN in the UK would afford
+      the applicant many development opportunities and allow him to make up
+      for the lack of support which he experienced during his early
+      adolescence. However, joining a new family at his age would be a
+      complex and testing process which may require access to support and
+      professional help. The risk of breakdown of this family placement
+      could be significantly reduced if help was offered early on.
+
+  75. Ms Kilroy submitted the applicant and IN have established family life
+      by virtue of their biological relationship, their regular contact, the
+      care and affection that already exists and the future potential for
+      family life. The applicant was an orphan and his only chance of family
+      life was with IN. To suggest this did not amount to family life was
+      inconsistent with Article 8 ECHR read in the light of the CRC.
+
+  76. I am not persuaded by Ms Kilroy's submission and conclude, on the
+      particular facts of this case, the applicant has not established
+      family life with IN sufficient to engage Article 8. My reasons are set
+      out at below. In coming to this conclusion I have taken into account
+      the following matters. The applicant's best interests are a primary
+      consideration and it was in his best interests to join IN in the UK.
+      Any unlawful action on the part of the respondent did not prevent the
+      eventual transfer. The unlawful delay of just over one year resulted
+      in the applicant having lost the opportunity to have been united with
+      IN sooner.
+
+  77. The applicant was 17 years old at the date of default acceptance and
+      18 years old when he was transferred to the UK. IN is his uncle and
+      they had never met. Their relationship started in June 2018, at the
+      earliest, and they have had regular contact by telephone and WhatsApp
+      since then. There was no pre-existing family life (Ahmadi and Singh).
+      There was a genuine desire to develop family life and a potential for
+      family life at some point in the future.
+  78. On the totality of the evidence, the relationship between the
+      applicant and IN (described by Dr Hillen in his report and in the BIA)
+      was insufficient to establish real, committed or effective support.
+      The concern and affection associated with blood ties was not enough to
+      establish family life under Article 8 ECHR or Article 7 CFR read in
+      the light of the CRC.
+
+  79. In any event, there was no interference with the applicant's Article 8
+      rights. The delay in transferring the applicant to the UK did not
+      interfere with the relationship he had developed with IN since June
+      2018. The applicant had regular contact with IN which continued until
+      he was transferred to the UK.
+
+  80. There was no interference with the applicant's private life because
+      the applicant had accommodation and support at the shelter, he was
+      able to maintain contact with IN, he could function on a daily basis
+      and he was transferred to the UK on 28 July 2020. Although the
+      professionals supporting the applicant were concerned for his mental
+      well-being, the applicant did not self-harm. The delay did not result
+      in the applicant being unable to achieve a basic quality of private
+      life. The consequences of the delay were not sufficiently serious so
+      as to engage Article 8.
+
+
+  81. The applicant's case can be distinguished from HN & MN. In that case,
+      the applicants were not living in a safe, stable or healthy
+      environment suitable for two vulnerable teenage boys and there was an
+      ongoing delay in making the arrangements for transfer which was
+      detrimental to the applicants' physical and moral integrity. In this
+      case, the unlawful delay did not prevent transfer, the applicant had
+      professional support in Greece and he considered himself to be well
+      cared for by staff at the shelter. He had contact via telephone and
+      WhatsApp with IN in the UK and his aunt Mariam in Burundi. On the
+      facts of this case, there was no lack of respect for the applicant's
+      family or private life (physical and moral integrity).
+
+  82. Further and alternatively, even if I accept that there has been an
+      interference with the applicant's Article 8 rights (for the reasons
+      given at [73] above), the unlawful delay of one year was proportionate
+      in the circumstances. The quality and nature of the applicant's family
+      life has remained the same notwithstanding the delay. The
+      interference, if accepted, amounted to a delay in uniting the
+      applicant with IN, his uncle whom he had never met. During the period
+      of unlawful delay, the applicant was living in the Four Seasons Hotel
+      in Thessaloniki where he was supported and well cared for. The
+      applicant suffered significant trauma prior to his arrival in Greece
+      and was suffering from PTSD. The delay resulted in the maintaining and
+      worsening of his PTSD and the development of suicide ideation.
+      Fortunately, the applicant did not harm himself. He had support from
+      two psychologists in Greece and regular contact with IN.
+
+  83. Establishing the family link with IN was in the applicant's best
+      interests. This was a legitimate aim. However, the process took longer
+      than it should have done. The unlawful delay did not prevent the
+      applicant from joining IN in the UK, but it did postpone unification.
+      I accept the delay has impacted on the applicant's mental health.
+      However, the applicant's relationship with IN, established while the
+      applicant was in Greece, was able to continue until his transfer and
+      IN has provided encouragement and support during this time. The
+      applicant was living in a safe and stable environment with adequate
+      support for his mental health until he was transferred to the UK. On
+      the totality of the evidence, a fair balance had been struck. The
+      delay in transferring the applicant to the UK did not amount to a
+      disproportionate interference with his right to family and private
+      life.
+
+  84. Given my findings above, I shall deal with the remaining points in Ms
+      Kilroy's submissions very briefly. I am not persuaded by the argument
+      that having conceded unlawful delay under Dublin III, the respondent's
+      actions were not 'in accordance with the law' and the interference
+      could not be justified. This point was considered in SSHD v R(FwF)
+      [2021] EWCA Civ 88 which was handed down on 28 January 2021. I invited
+      written submissions from the parties and have considered those
+      submissions in coming to the following conclusions.
+
+  85. I am not persuaded by Ms Kilroy's written submission that the judgment
+      has no application in cases where the Secretary of State has not
+      complied with Dublin III time limits. Laing LJ. came to reasoned
+      conclusions relevant to the application of Dublin III and Article 8
+      ECHR which were of general application and not limited by compliance
+      with the Dublin III overall time limit.
+
+  86. The principles which can be distilled from the judgment of Laing LJ.
+      in FwF are:
+
+
+        i) The obligations imposed by Dublin III are not a mirror image of
+           the obligations imposed by Article 8 [137].
+       ii) A breach of Dublin III was not ipso facto a breach of Article 8
+           [139].
+      iii) The mere engagement of Article 8 was not enough to mean that any
+           breach of the provisions of Dublin III, or any incidental
+           unlawfulness, amounts to a breach of Article 8 [143].
+       iv) If Article 8 applies, it can at most impose a positive
+           obligation on the Secretary of State [143].
+        v) The 'in accordance with the law' criterion was not applicable in
+           positive obligation cases: MM (Lebanon) [143].
+       vi) Absent Dublin III, it could not be argued that, in failing to
+           admit an unaccompanied minor to the UK the Secretary of State
+           was interfering with his/her Article 8 rights because he/she had
+           no right to be in the UK [144].
+
+  87. The decisions of 16 January 2019 and 22 July 2019 refusing to accept
+      the TCR were unlawful but had no legal effect. This 'incidental
+      unlawfulness' did not amount to a breach of the respondent's positive
+      obligation under Article 8 ECHR. Absent Dublin III, the applicant had
+      no right to be in the UK. The unlawful delay of one year did not
+      breach the respondent's positive duty to admit the applicant and a
+      fair balance had been struck for the reasons given above.
+
+  88. In summary, the unlawful delay, in breach of Dublin III did not breach
+      Article 8 ECHR or Article 7 CFR. I decline to make a declaration.
+      There is no need to issue a declaration that the respondent has
+      breached Dublin III because the respondent conceded the point.
+
+Damages
+
+  89. Having concluded there was no breach of Article 8 ECHR, the claim for
+      damages is only in respect of the respondent's failure to comply with
+      the time limits in breach of Dublin III. I have considered the written
+      submissions of the applicant dated 25 April 2021. It is the
+      respondent's position that no question of damages arises because the
+      claim failed.
+
+
+  90. Ms Kilroy submitted that Francovich damages are clearly appropriate
+      because Articles 3.1, 6, 8, 18.1(a) and 22 Dublin III and Article 3(2)
+      IR give rise to individual rights and those rights were breached.
+      Moreover, the breach of EU law adversely affected the individual
+      enforceable rights of family reunification of unaccompanied minors
+      which are given the highest priority by Dublin III. The breach was
+      'sufficiently serious' and caused delay in reunification and access to
+      asylum procedures, impacting on the applicant's mental health and well-
+      being, for which he was entitled to compensation. Ms Kilroy submitted
+      that exemplary damages were appropriate given the respondent's ongoing
+      failure to accept responsibility for the applicant's claim.
+
+  91. Ms Kilroy submitted the three conditions in Francovich were satisfied:
+
+
+           1) The rule of EU law that has been infringed was intended to
+              confer rights on individuals;
+           2) The breach of EU law was sufficiently serious; and
+           3) There was a direct causal link between the breach and the
+              damage sustained.
+
+  92. Ms Kilroy submitted the damages judgment in KF (18 September 2020)
+      could be distinguished and was not binding. She submitted the
+      respondent's unlawful decisions breached Article 8.2 Dublin III
+      because the applicant was not transferred pursuant to Article 8.2
+      Dublin III but following a further TCR under Article 17.2 Dublin III
+      and the breach of the longstop provisions was much longer in this
+      case. Alternatively, KF was wrongly decided and should not be followed
+      because an applicant could only claim damages if the breach was not
+      corrected by legal proceedings. Further, the existence of prescribed
+      consequences for failing to make a decision within the relevant time
+      period did not mean the applicant could not claim damages because
+      those prescribed consequences were not complied with in this case. The
+      respondent issued decisions refusing to accept the TCR after deemed
+      acceptance had taken place which prevented the transfer of the
+      applicant. A remedy was only obtained through a legal challenge under
+      Article 27 Dublin III which led to the respondent conceding these
+      issues.
+
+
+  93. Further and/or alternatively, Ms Kilroy submitted the breach of
+      investigatory duty contained in Articles 6, 8 and 22 Dublin III
+      amounted to breaches of rights conferred on individuals. These duties
+      were neither imprecise nor unclear and the Tribunal in KF was wrong to
+      conclude otherwise, and to distinguish between substantive and
+      procedural rights. The procedural safeguards that ensure the rights
+      are effective were also intended to confer rights on individuals.
+      Checks had to be conducted properly and within the timescales or the
+      rights, arising from Article 8 Dublin III, would not be effective or
+      compatible with the speedy allocation of claims or the protection of
+      the child's best interests.
+
+  94. Condition 2 was satisfied because Dublin III was directly applicable
+      and the provisions relevant to this case were mandatory. The applicant
+      was entitled to have his reunification claim investigated with basic
+      standards of procedural fairness and to have his asylum claim
+      determined in the UK. The respondent's unlawful actions led to an
+      unlawful delay of over 12 months amounting to a clear and admitted
+      breach of Dublin III. The infringement was a sufficiently serious
+      breach of EU law. The Factotame test was also met.
+
+  95. Condition 3 was met because the delay deprived the applicant of the
+      swift determination of responsibility and access to asylum procedures
+      to which he was entitled under Dublin III, delay in family
+      reunification of over 12 months and associated instability which
+      caused psychiatric harm and distress. The applicant was entitled to
+      compensatory damages.
+
+  96. Ms Kilroy submitted that exemplary damages were also appropriate
+      because of the respondent's sustained failure to give effect to the
+      applicant's EU rights over an extended period. The respondent's
+      unlawful conduct frustrated the objective of rapid allocation of
+      asylum claims and the reunification of an unaccompanied minor. A
+      punitive response was appropriate given the respondent's breach of her
+      investigative duties in defiance of a series of binding judgments. The
+      respondent failed to acknowledge responsibility for the applicant's
+      asylum claim until after legal proceedings were brought and the
+      applicant's transfer was further delayed by the respondent's unlawful
+      actions in defence of the refusal of the TCR.
+
+Conclusions on damages
+
+  97. There is no dispute that responsibility for the applicant's asylum
+      claim passed to the UK on 14 January 2019 and remained with the UK
+      since then. I found at [64] that the respondent's failure to comply
+      with her investigative duties contributed to the delay, but did not
+      give rise to a further breach of Dublin III. The respondent's unlawful
+      delay of just over one year breached the long stop time limits in
+      Articles 22 and 29 Dublin III.
+
+
+  98. I am not persuaded that Dublin III confers a right to actually be
+      transferred within the long stop time limit and therefore condition 1
+      of Francovich is not satisfied. I agree with Judge Blum's conclusion
+      at [46] of KF. My reasons are as follows.
+
+
+  99. I am not persuaded that the decision in KF was wrong and should not be
+      followed. The applicant's claim for damages was not contingent upon
+      the applicant issuing proceedings but upon whether the conditions in
+      Francovich are satisfied. The submission that a remedy was only
+      obtained through a legal challenge had no foundation in fact and did
+      not demonstrate an error in the application of Francovich. The
+      respondent's breach of her investigative duty did not give rise to a
+      further breach of Dublin III. In any event, those rights are too
+      imprecise to be capable of conferring rights on individuals sufficient
+      to give rise to a claim for Francovich damages. The points made by Ms
+      Kilroy do not establish an error in the decision of KF.
+
+ 100. I am not persuaded by Ms Kilroy's submission that KF can be
+      distinguished.  The applicant was transferred to the UK on 28 July
+      2020. On the facts of this case, it was accepted responsibility passed
+      to the UK on 14 January 2019 and remained with the UK thereafter. The
+      respondent did not argue that responsibility had reverted to Greece.
+      In any event, it was irrelevant whether the transfer was made in
+      response to a TCR under Article 8.2 or Article 17.2 Dublin III. There
+      was no breach of Article 8.2 or 17.2 Dublin III in this case. The
+      transfer was made in breach of the time limits as in KF. The length of
+      the unlawful delay was not a basis upon which to distinguish the case.
+
+
+
+ 101. The time limits in Dublin III reflect the aim of ensuring rapid
+      processing of asylum applications and the consequences for the failure
+      to comply with time limits is provided for within Dublin III. The
+      failure to comply with those time limits was not intended to confer
+      rights on individuals. Dublin III is concerned with the actions of
+      member states. The applicant had a right under Article 8.2 to have his
+      asylum claim determined in the UK. That right has been delayed but not
+      denied.
+
+ 102. Accordingly, I conclude that condition 1 of Francovich is not
+      satisfied and the applicant has failed to establish he is entitled to
+      damages. Exemplary damages are not appropriate in the circumstances.
+
+Permission to appeal
+
+ 103. The applicant applies for permission to appeal on five grounds. The
+      Upper Tribunal erred in finding that:
+
+
+        a. The decision of 22 July 2019 was not procedurally flawed;
+        b. There was no family life sufficient to engage Article 8;
+        c. There was no interference/breach of positive obligation under
+           Article 8 given the accepted unlawful delay and the damage to
+           the applicant's mental health which significantly inhibited the
+           applicant's relationship with his uncle and his ability to
+           develop and enjoy family life;
+        d. The respondent's admitted unlawful actions were proportionate
+           and struck a fair balance; and
+        e. The UT's findings were inconsistent with HN.
+
+ 104. I refuse permission to appeal for the following reasons. The
+      respondent's decision of 22 July 2019 was not procedurally flawed. The
+      applicant was aware of the need to provide translations and failed to
+      do so until 14 August 2019. In any event, this finding was not
+      material because any procedural unfairness did not give rise to a
+      separate breach of Article 8 ECHR. The unlawful delay was conceded.
+
+
+ 105. There was no arguable error of law my assessment of Article 8. On the
+      facts, there was no family life, but in any event, there was no
+      interference with the Applicant's family and private life because the
+      status quo was maintained notwithstanding the unlawful delay. Given
+      the nature and quality of the applicant's family and private life, if
+      accepted, and taking into account all relevant circumstances, the
+      delay was proportionate. HN could be distinguished on its facts and
+      was not binding.
+
+Costs
+
+ 106. The applicant has succeeded in establishing unlawful delay. The
+      respondent conceded this issue on the day of the hearing. Thereafter
+      the applicant's claims were dismissed. The respondent's breach of her
+      investigative duties contributed to the delay and did not give rise to
+      a separate breach of Dublin III. Accordingly, the applicant is
+      entitled to his reasonable costs up to and including the day of
+      hearing on 9 November 2020. The cost of the hearing having already
+      been incurred by the time of the concession. The applicant to pay the
+      respondent's reasonable costs from 10 November 2020 to date.
+
+
+Direction Regarding Anonymity - Rule 14 of the Tribunal Procedure (Upper
+Tribunal) Rules 2008
+
+Unless and until a Tribunal or court directs otherwise, the Appellant is
+granted anonymity.  No report of these proceedings shall directly or
+indirectly identify her or any member of her family.  This direction
+applies both to the Appellant and to the Respondent.  Failure to comply
+with this direction could lead to contempt of court proceedings.
+
+                                  J Frances
+            Signed:
+
+
+                                Upper Tribunal Judge Frances
+ANNEX A
+
+
+
+Dublin III
+
+
+
+Article 2 (h) - A relative for the purposes of Article 8.2 includes an
+uncle
+
+
+
+Article 8 - Minors
+
+1.    Where the applicant is an unaccompanied minor, the Member State
+      responsible shall be that where a family member or a sibling of the
+      unaccompanied minor is legally present, provided that it is in the
+      best interests of the minor. Where the applicant is a married minor
+      whose spouse is not legally present on the territory of the Member
+      States, the Member State responsible shall be the Member State where
+      the father, mother or other adult responsible for the minor, whether
+      by law or by the practice of that Member State, or sibling is legally
+      present.
+
+2.    Where the applicant is an unaccompanied minor who has a relative who
+      is legally present in another Member State and where it is
+      established, based on an individual examination, that the relative can
+      take care of him or her, that Member State shall unite the minor with
+      his or her relative and shall be the Member State responsible,
+      provided that it is in the best interests of the minor.
+
+
+
+Article 21 - Submitting a take-charge request
+
+1.    Where a Member State with which an application for international
+      protection has been lodged considers that another Member State is
+      responsible for examining the application, it may, as quickly as
+      possible and in any event within three months of the date on which the
+      application was lodged within the meaning of Article 20(2), request
+      that other Member State to take charge of the Applicant
+
+      Notwithstanding the first sub-paragraph, in the case of a Eurodac hit
+      with data recorded pursuant to Article 14 of Regulation (EU) No
+      603/2013, the request shall be sent within two months of receiving
+      that hit pursuant to Article 15(2) of that Regulation.
+
+      Where the request to take charge of an applicant is not made within
+      the periods laid down in the first and second subparagraphs,
+      responsibility for examining the application for international
+      protection shall lie with the Member State in which the application
+      was lodged.
+
+2.    The requesting Member State may ask for an urgent reply in cases
+      where the application for international protection was lodged after
+      leave to enter or remain was refused, after an arrest for an unlawful
+      stay or after the service or execution of a removal order. The request
+      shall state the reasons warranting an urgent reply and the period
+      within which a reply is expected. That period shall be at least one
+      week.
+
+
+
+
+
+Article 22 - Replying to a take charge request
+
+1.    The requested Member State shall make the necessary checks, and shall
+      give a decision on the request to take charge of an applicant within
+      two months of receipt of the request.
+
+      ...
+
+4.    The requirement of proof should not exceed what is necessary for the
+      proper application of this Regulation.
+
+5.    If there is no formal proof, the requested Member State shall
+      acknowledge its responsibility if the circumstantial evidence is
+      coherent, verifiable and sufficiently detailed to establish
+      responsibility.
+
+6.    Where the requesting Member State has pleaded urgency in accordance
+      with the provisions of Article 21(2), the requested Member State shall
+      make every effort to comply with the time limit requested. In
+      exceptional cases, where it can be demonstrated that the examination
+      of a request for taking charge of an applicant is particularly
+      complex, the requested Member State may give its reply after the time
+      limit requested, but in any event within one month. In such situations
+      the requested Member State must communicate its decision to postpone a
+      reply to the requesting Member State within the time limit originally
+      requested.
+
+7.    Failure to act within the two-month period mentioned in paragraph 1
+      and the one-month period mentioned in paragraph 6 shall be tantamount
+      to accepting the request, and entail the obligation to take charge of
+      the person, including the obligation to provide for proper
+      arrangements for arrival.
+
+
+
+Article 29 - Modalities and time limits
+
+1.    The transfer of the applicant or of another person as referred to in
+      Article 18(1)(c) or (d) from the requesting Member State to the Member
+      State responsible shall be carried out in accordance with the national
+      law of the requesting Member State, after consultation between the
+      Member States concerned, as soon as practically possible, and at the
+      latest within six months of acceptance of the request by another
+      Member State to take charge or to take back the person concerned or of
+      the final decision on an appeal or review where there is a suspensive
+      effect in accordance with Article 27(3).
+
+2.    Where the transfer does not take place within the six months' time
+      limit, the Member State responsible shall be relieved of its
+      obligations to take charge or to take back the person concerned, and
+      responsibility shall then be transferred to the requesting Member
+      State. This time limit may be extended up to a maximum of one year if
+      the transfer could not be carried out due to imprisonment of the
+      person concerned or up to a maximum of eighteen months if the person
+      concerned absconds.
+
+
+
+
+
+The relevant provisions of the Implementing Regulation 1560/2003 (as
+amended by Regulation 118/2014)
+
+Article 8(1) - Co-operation on transfers
+
+It is the obligation of the Member State responsible to allow the asylum
+seeker's transfer to take place and to ensure that no obstacles are put in
+his way.
+
+Article 10 - Transfer following default acceptance
+
+   1) Where... the requested Member State is deemed to have accepted a
+      request to take charge ... the requesting Member State shall initiate
+      consultations needed to organise transfer.
+
+   2) If asked to do so by the Member State, the Member State must confirm
+      in writing, without delay, that it acknowledges its responsibility as
+      a result of its failure to reply within the time limit. The Member
+      State responsible shall take the necessary steps to determine the
+      asylum seeker's place of arrival as quickly as possible and, where
+      applicable, agree with the requesting Member State the time of arrival
+      and the practical details of the handover to the competent
+      authorities.
+
+Article 12 - Unaccompanied minors
+
+(2)   The fact that the duration of procedures for placing a minor may lead
+      to a failure to observe the time limits set in Article 22(1) and (6)
+      and 29(2) of [Dublin III] shall not necessarily be an obstacle to
+      continuing the procedure for determining the Member State responsible
+      for carrying out a transfer.
+
+(6)   The requested Member State shall endeavour to reply within four weeks
+      from the receipt of the request [to exchange information]. Where
+      compelling evidence indicates that further investigations would lead
+      to more relevant information, the requested Member State will inform
+      the requesting Member State that two additional weeks are needed. The
+      request for information shall be carried out ensuring full compliance
+      with the deadlines in Article 21(1), 22(1) etc of Dublin III.
+
+
+
+Home Office Policy on Dublin III (November 2017)
+
+Unaccompanied children: notifying local authorities and or social services
+
+You must ensure that both local authority children's social services at the
+child's point of entry and where the child's family member, sibling or
+relative reside are notified of the transfer request under the Dublin III
+Regulation. This must be done as soon as possible after the formal request
+to take charge is received from the requesting State.
+
+You must engage the local authorities' children's social services
+throughout the process, seeking their advice in every case.
+
+

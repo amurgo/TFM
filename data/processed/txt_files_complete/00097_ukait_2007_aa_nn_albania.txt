@@ -1,0 +1,457 @@
+
+
+
+|ASYLUM AND IMMIGRATION TRIBUNAL                                   |
+|                                                                  |
+|                                   |                             |
+|AN and NN (s.83 - asylum grounds only) Albania [2007] UKAIT 00097 |
+|                                                                  |
+|THE IMMIGRATION ACTS                                              |
+|                                                                  |
+|                                |                                |
+|Heard at: Field House on 8      |                                |
+|November  2007                  |                                |
+|                                                                  |
+|                                                                  |
+|                                                                  |
+|                                                                  |
+|Before                                                            |
+| SENIOR IMMIGRATION JUDGE STOREY                                  |
+|Between                                                           |
+|                                                                  |
+|                                                                  |
+|                                                                  |
+|Appellant                                                         |
+|And                                                               |
+|SECRETARY OF STATE FOR THE HOME DEPARTMENT                        |
+|                           |        |                            |
+|                           |        |Respondent                  |
+
+
+Representation
+For the appellants: Mr N O'Brien of Counsel instructed by Barnes  Harild  &
+Dyer Solicitors
+For the respondent: Mr J Gulvin, Home Office Presenting Officer
+
+JM v Secretary of State for the Home Department [2007] EWCA Civ 1402 has no
+impact on the scope of s. 83. As is clear from the relevant legislation and
+Immigration Rules, in an appeal under s.83 of the 2002 Act the Tribunal has
+no jurisdiction to consider  non-asylum  grounds;  and,  if  an  appeal  is
+allowed on asylum grounds, it cannot be allowed on humanitarian  protection
+grounds.
+
+                          DETERMINATION AND REASONS
+
+1. The appellants, both nationals of Albania, are twins born on 9 May  1991.
+On 15 January 2007 the Secretary of State had refused to grant them  asylum,
+although he had gone on to grant each of them limited leave to remain  until
+8 May 2009 (when they turn 18). In determinations notified on 21 March  2007
+Immigration Judge Entwhistle allowed their appeals, stating that:
+
+
+        "DECISION
+         I allow the appeal on asylum grounds
+        I allow the appeal on Human Rights grounds
+        I allow the appeal on Humanitarian Protection grounds"
+
+
+ 2. The respondent was successful in obtaining an order for  reconsideration
+and so the matter comes before me.
+
+3.  There  are  two  obvious  errors  of  law  in  the  immigration  judge's
+determinations. The first is that he wrongly  considered  that  the  appeals
+before him were capable of being  brought on one or more of the grounds  set
+out in s.84 (1) of the Nationality, Immigration and Asylum  Act  2002  ("the
+2002 Act")  so as to cover  "[h]uman  rights  grounds"  and  "[h]umanitarian
+protection grounds". For that to have been the case they would  have  needed
+to be appeals against an immigration decision as  defined  by  s.82(2)  They
+were not. The decision in each case - to refuse to grant asylum -  does  not
+fall within the definition of "immigration decision" contained  in  s.82(2).
+The decisions not falling within s.  82(2),  there  could  be  no  right  of
+appeal against them under s.82(1). Their appeals could not be ones to  which
+s.84(1) applied either, as the latter's list of grounds on which  an  appeal
+must be brought is confined to appeals under section 82(1). Nor could  their
+appeals  be  ones  in  which  any  matter  raised  in  a   s.120   statement
+constituting a ground of appeal could be  considered,  as  s.85(2)  confines
+any such matter to grounds of appeal "of a kind listed in s.84(1)".
+
+4. That is not to say the appellants possessed no right of appeal  nor  that
+their appeals could not be brought on any grounds. They  each  had,  as  the
+decision letter stated, a s.83  appeal.  Section  83  is  in  the  following
+terms:
+
+      "(1) This section applies where a person has made an asylum claim  and
+      -
+         a) his claim has been rejected by the Secretary of State, but
+         b) he has been granted leave to  enter  or  remain  in  the  United
+            Kingdom  for  a  period  exceeding  one  year  (or  for  periods
+            exceeding one year in aggregate).
+        (2) The person may appeal to the Tribunal against the  rejection  of
+      his asylum claim."
+
+5. Section 84(3) specifies that:
+
+      "An appeal under section 83  must  be  brought  on  the  grounds  that
+      removal of the appellant from the  United  Kingdom  would  breach  the
+      United Kingdom's obligations under the Refugee Convention".
+
+
+6. The appellants' appeals fell squarely  within  s.83:  they  had  made  an
+asylum claim; it had been rejected by the Secretary of State; they had  each
+been granted leave to remain for a period exceeding one year; and  they  had
+appealed against the rejection of their asylum claim  on  the  grounds  that
+removal would breach the United  Kingdom's  obligations  under  the  Refugee
+Convention.
+
+7. Since both representatives were agreed that in allowing  the  appeals  on
+non-asylum (as well as on asylum grounds) the immigration judge went  beyond
+his jurisdiction, I would not normally need to add anything further to  what
+has just  been  said.  However,  both  asked  that  I  clarify  the  correct
+position, as to their knowledge the approach taken by the immigration  judge
+in considering he had jurisdiction to decide these "s. 83 appeals"  on  non-
+asylum as well as asylum grounds was not an isolated example. It  was  their
+understanding, they said, that a number of immigration  judges  were  taking
+the view that they were indeed obliged in this type of appeal to  deal  with
+non-asylum grounds as a result of what had been decided in  JM  v  Secretary
+of State for the Home Department [2007] EWCA Civ 1402.
+
+8. JM has no impact on the scope of s.83.  JM was solely concerned with  the
+proper construction of s.82 and s.84(1)(g) of the  2002  Act.  The  Tribunal
+had concluded in JM (Rule 62(7); human rights unarguable) Liberia  *  [2006]
+UKAIT 00009 that a human rights claim was not justiciable on a variation  of
+leave appeal because  in  such  a  case  the  appellant's  removal  was  not
+imminent, and the case was not within section 84(1)(g)  which conferred  the
+relevant jurisdiction on the Tribunal.  Overruling  the  Tribunal,  Laws  LJ
+held that the case was within s.84(1)(g) and that as a result  the  Tribunal
+should have concluded that it was obliged to determine  the  matter  of  the
+human rights claim which had been raised as a ground of appeal.
+
+9. The Court of  Appeal  in  JM  was  not  concerned,  therefore,  with  the
+situation where there is no immigration decision as defined by  s.82(2)  and
+where the only right of appeal conferred by statute  is  confined  expressly
+to an appeal "against the  rejection  of  his  asylum  claim".  Nor  was  it
+concerned with an appeal outside the scope of s.84(1). Furthermore, as  Laws
+LJ emphasised in JM,  the  Tribunal  is  a  creature  of  statute  and  thus
+possesses only the jurisdiction which statute has conferred upon it.
+
+10. The only possible argument for considering  that  an  immigration  judge
+in a s.83 case could  or  must  determine  non-asylum  grounds  rests  on  a
+particular reading of the wording of s. 86.  So  far  as  is  relevant  this
+section states:
+
+   "This section applies on an appeal under section 82(1), 83 or 83A.
+     1) The Tribunal must determine -
+           (a) any matter raised as a ground of appeal (whether or  not  by
+           virtue of section 85(1)), and
+           (b) any matter which s.85 requires it to consider..."
+
+11. It might be argued that since s.86 expressly includes  an  appeal  under
+s.83 as well as under s.82(1) within its scope,  the  Tribunal,  even  in  a
+s.83 appeal, must determine  "any  matter  raised  as  a  ground  of  appeal
+(whether or not by virtue of s.85(1))", including human rights matters.  But
+the inclusion of s.83 within the scope of s.86 cannot  extend  what  can  be
+determined in a s.83  appeal  beyond  the  only  grounds  that  the  statute
+provides - i.e. asylum grounds.
+
+12. The inclusion of a s.83 appeal within the scope of s.86(1) serves  other
+purposes. It ensures, for example, that the Tribunal must allow  the  appeal
+if it thinks  that  a  decision  to  refuse  to  grant  asylum  was  not  in
+accordance with the law  (including  immigration  rules)  (s.86(3)(a)),  but
+must otherwise dismiss  it  (s.86(5)).  It  also  obliges  the  Tribunal  to
+determine matters that can be raised and to determine them in certain  ways.
+There is an obligation on the Tribunal in such an appeal  to  determine  any
+matter which s.85 requires it to consider (s.86(2)(b)). By  this  means  the
+Tribunal may, in an appeal  under  s.83(2)  consider  any  matter  which  it
+thinks relevant to the substance of the decision, including  evidence  which
+concerns a matter arising after the date of the decision (s.85(4)). By  this
+means the "Ravichandran" principle is applied to a s.83 appeal (as  well  as
+to appeals raising asylum grounds brought under s.82).
+
+13. The above reading of s.83 in no way  offends  the  "one-stop"  principle
+highlighted by the Court of  Appeal in  JM,  since  a  person  with  limited
+leave to remain will have the ability to apply for a variation of  leave  on
+any grounds before expiry of that limited  leave.  If  that  application  is
+refused, an appeal will lie under s.82.
+
+14. I note at this point that as a result of an amendment introduced by  the
+Immigration, Asylum and Nationality Act 2006 there is  now  a  s.83A,  which
+affects decisions made on or after 31 August 2006,  but  that  amendment  is
+solely concerned with persons who have been granted limited leave to  remain
+as a refugee and who then receive a decision that they are not  refugees.  I
+am concerned here with s.83 only.
+
+15. The second  obvious  error  on  the  face  of  the  immigration  judge's
+determination is that despite allowing the  appeal  on  asylum  grounds,  he
+also sought to allow it, not just on human  rights  grounds,  but  also  "on
+Humanitarian Protection grounds". That was  to  try  and  square  a  circle.
+Paragraph 339C of HC395 (as amended) states in its first part that:
+
+            "Grant of humanitarian protection
+      339C. A person will be granted humanitarian protection in  the  United
+      Kingdom if the Secretary of State is satisfied that:
+      (i) he is in the United Kingdom or has arrived at a port of  entry  in
+      the United Kingdom;
+      (ii) he does not qualify as a refugee as defined in  regulation  2  of
+      The  Refugee  or  Person   in   Need   of   International   Protection
+      (Qualification) Regulations 2006;
+      (iii) substantial grounds have  been  shown  for  believing  that  the
+      person concerned, if he returned to the country of return, would  face
+      a real risk of suffering serious harm and is unable, or, owing to such
+      risk, unwilling to avail himself of the protection  of  that  country;
+      and
+      (iv) he is not excluded from a grant of humanitarian protection".
+      ..."
+
+
+16. Manifestly, therefore,  a  grant  of  humanitarian  protection  is  only
+possible if a person "does not qualify as a refugee..." (339C(ii)).
+
+17. Nevertheless the legal errors  so  far  identified  in  the  immigration
+judge's determinations were not material in relation to the only appeals  he
+had jurisdiction to decide: the s. 83 asylum appeals.  I  can  only  find  a
+material error of law if it is  an  error  which  "affected  the  Tribunal's
+decision  upon  the  appeal"  (Rule  31,  Asylum  and  Immigration  Tribunal
+(Procedure) Rules 2005.
+
+18. The respondent's grounds base the contention  that  there  was  such  an
+error of law on  the  following  four  arguments.  The  first  is  that  the
+immigration judge failed to take into account all the matters identified  by
+the Tribunal in Koci [2003] EWCA Civ 1507 as affirmed in  TB  (blood  feuds-
+relevant risk) CG Albania [2004] UKIAT 00158 as follows:
+
+
+      "35.  In the light of the  Court  of  Appeal  judgment  in  Koci,  the
+      blanket 'negative' assessment in Brozi  on  the  issue  of  the  state
+      protection in Albanian blood feuds must be seen to be as wrong as  was
+      the blanket 'positive' assessment in Koci at Tribunal level.   As  the
+      Court of Appeal emphasises 'Every case has to  be  considered  on  its
+      merits'. Merely because a finding of fact has been made that  a  blood
+      feud exists, it cannot automatically be  assumed  that  the  appellant
+      will be at real risk if returned to Albania.
+
+
+      Building upon Longmore LJ's suggested list of important circumstances,
+      the Tribunal finds that the following  matters  will  be  relevant  in
+      determining the nature of the risk on return:
+
+
+           (a) whether the dispute can be characterised as a  'blood  feud'
+           at all;
+
+
+           (b) even if  it  can,  the  extent  to  which  its  origins  and
+           development (if any) are to be regarded by Albanian  society  as
+           falling within the classic principles of the Kanun;
+
+
+           (c)  the history of the feud, including  the  notoriety  of  the
+           original killings and numbers killed;
+
+
+           (d) the past and likely future attitude of the police and  other
+           authorities towards the feud;
+
+
+           (e) the degree  of  commitment  shown  by  the  opposing  family
+           towards prosecuting the feud;
+
+
+           (f) the time that has elapsed since the last killing;
+
+
+           (g) the ability of the opposing family  to  locate  the  alleged
+           potential victim  anywhere in Albania;
+
+
+           (h) that person's profile as a potential target  for  the  blood
+           feud; and
+
+
+           (i) the prospects for eliminating the feud, whether by  recourse
+           to the  payment  of  money,  a  reconciliation  organisation  or
+           otherwise... "
+
+
+   19. Secondly, the grounds allege, he fell into error in failing to  make
+   any finding on whether the latest incident the  appellants'  family  had
+   faced demonstrated that they were among the actual targets of the killer
+   and in this way he wrongly based himself on mere speculation  about  the
+   risk the appellants would face on return. Thirdly, it is contended  that
+   when assessing the issue of sufficiency of protection,  the  immigration
+   judge failed to take adequately into account that the police had  agreed
+   to investigate the latest incident when the appellants' brother was shot
+   and he had wrongly failed to attach weight to the lack  of  evidence  of
+   the appellants' family attempting to  approach  an  agency  providing  a
+   reconciliation service. Finally it is  submitted  that  the  immigration
+   judge failed to make any findings on  the  ability  of  the  appellants'
+   family to locate the appellants in parts of  Albania  other  than  their
+   home area.
+
+   20. I  remind  myself  that  my  task  is  not  to  decide  whether  the
+   immigration judge made the correct decision but only whether his was one
+   which contained a material error of law.
+
+   21. In my view the principal start point for deciding this case must  be
+   the fact that the respondent has accepted  the  appellants'  account  of
+   their family having become involved in a blood feud with  the  K  family
+   since 1993 as true without qualification. That is clear from the reasons
+   for refusal letter. Furthermore  and  in  any  event,  the  grounds  for
+   reconsideration raise no challenge to the  immigration  judge's  finding
+   that the account they gave of the blood feud and  its  consequences  for
+   their family was correct.
+
+   22.  As  I  will  return  to  when  addressing  the  issue  of  internal
+   relocation, this acceptance of the appellants'  story  has  considerable
+   importance for my consideration of this case.
+
+   23. So far as the first argument is concerned, it is  difficult  to  see
+   that the immigration judge failed  to  take  into  account  any  of  the
+   factors specified in TB.  As Mr Gulvin agreed, the only possible  factor
+   which TB identified which the immigration judge could be  said  to  have
+   overlooked was 37 (g). I shall deal with that when considering  internal
+   relocation.
+
+   24. As regards the second argument, which Mr Gulvin also accepted lacked
+   cogency, I fail to see that the immigration judge did not  consider  the
+   issue of whether the  evidence  showed  that  the  appellants  had  been
+   targeted. That assessment was not based on mere speculation  but  rather
+   on  inferences  based  on  the  evidence  as  a  whole,  including   the
+   appellants'  own  evidence,  the  newspaper  article,  other  items   of
+   documentary  evidence  and  the   background   country   evidence.   The
+   immigration judge noted that  since  the  blood  feud  between  the  two
+   families had begun in 1993, five people had been killed:  3  members  of
+   the K family and 2 members of the appellants'  family.  The  immigration
+   judge  properly  noted  that  according  to  the   background   evidence
+   concerning blood feuds in Albania, significant lapses  of  time  between
+   killings of family members was  not  unusual.  It  cannot  seriously  be
+   suggested that the immigration judge could only  reasonably  have  found
+   that the attack on 3 May 2005 was merely a random shooting by  a  crazed
+   killer. On the available evidence it was open to the  immigration  judge
+   to conclude that the appellants' family had become and remained a target
+   for adverse treatment from members of the K family.
+
+   25. That brings me to  the  issue  of  sufficiency  of  protection.  The
+   grounds are quite correct to emphasise the need for an immigration judge
+   when considering this issue to examine what steps  have  been  taken  by
+   those concerned to avail themselves of protection from  the  authorities
+   and other agencies. However, the  immigration  judge  plainly  did  give
+   careful consideration to the evidence regarding  this  matter.  I  would
+   accept that read in isolation the sentence in para 22(c) is  capable  of
+   being read as suggesting that the immigration judge overlooked the  onus
+   on the appellants' family to take  active  steps  to  obtain  protection
+   ("The police officer said they would try and investigate the matter  but
+   they did not hear from the police again"). However, this observation has
+   to be read in the context of  the  determination  as  a  whole  and  the
+   accepted factual matrix. Elsewhere (para 22(d))  the  immigration  judge
+   noted that the police had failed effectively to  investigate  the  first
+   killing of the appellants' grandfather in 1997. In that context for  the
+   police to fail to contact the family after their initial response on the
+   day of the killing in 2005 of another  family  member,  the  appellants'
+   brother, was properly seen as of some significance. Furthermore, it  was
+   the appellants' unchallenged  evidence  that  after  this  incident  the
+   appellant's father and uncles remained in hiding and  only  occasionally
+   came back to the house because they considered that the police would not
+   be able to prevent further attacks against them. Clearly at the time  of
+   the killing of the appellants' brother the  police  would  have  had  to
+   consider whether to provide specific protection to the family. They  had
+   not provided such protection.
+
+
+   26. The immigration  judge  also  noted,  in  relation  to  the  related
+   question of whether the appellants' family had taken steps to go to  any
+   of  the  agencies  which  provide  reconciliation  services,  that   the
+   appellants were not quite 14 when their brother was killed and  may  not
+   have been aware of any approaches to  reconciliation  agencies  made  by
+   their elders. By the same token their age may well have meant they  were
+   not aware of efforts made  by  their  elders  to  communicate  with  the
+   police. I consider that the immigration  judge  was  quite  entitled  to
+   treat these surrounding circumstances as indicating that: "The  evidence
+   of this family's experience is that they have  not  received  protection
+   from the police since members of their  family  have  been  killed".  As
+   regards the issue of approaches to reconciliation agencies, I have  just
+   noted that the immigration judge addressed this and  decided  that  this
+   was something of which the appellants may not have had knowledge. In any
+   event, as Mr O'Brien correctly observed,  the  police  report  indicated
+   that the K family was hostile to any idea of reconciliation.
+
+
+   27. The immigration judge's assessment of what the police  were  willing
+   and able to do and what had happened in relation to  reconciliation  was
+   entirely sustainable.
+
+   28. The respondent's final argument was that the immigration  judge  had
+   failed to address the issue of internal  relocation.  In  my  view  that
+   argument is somewhat weakened by the fact that the  respondent  had  not
+   raised it in the reasons for refusal, notwithstanding acceptance therein
+   of the appellant's account. Nor, despite the appellant's  representative
+   at the hearing (Mr O'Brien, who represented there as well)  raising  the
+   internal relocation issue expressly, did the respondent's representative
+   raise it. Mr Gulvin contends that these  failures  did  not  excuse  the
+   immigration judge from having to address the matter. If what he meant by
+   this argument was that the immigration judge was not  entitled  to  find
+   that the appellants faced a real risk of  persecution  unless  satisfied
+   also that there was no viable internal relocation option, I must  agree.
+   But the failure of the respondent to raise or  pursue  the  matter  does
+   mean that the  focus  now  has  to  be,  not  so  much  on  whether  the
+   immigration judge expressly dealt with (non-existent) arguments based on
+   internal relocation, but rather on whether his findings were  consistent
+   with the evidence and submissions which were before  him.  Mr  O'Brien's
+   submission at the hearing before the immigration judge was that (para 17
+   (c)) according to the country evidence internal flight  was  very  often
+   not an option, that the K family was a large one, that  the  Directorate
+   of the Police themselves considered the feud to be  an  "aggressive  and
+   unpredictable one" and that therefore the appellants would not  be  safe
+   anywhere in Albania.
+
+   29. It is at this point that the respondent's lack of challenge  to  the
+   appellants' evidence becomes very  significant.  It  was  accepted  that
+   members of the appellant's family, including their father, were still in
+   hiding. That was strong evidence that other members of  the  family  had
+   not been able to internally relocate: as Mr Gulvin properly accepted, if
+   a person has to live in hiding, that  cannot  be  said  to  satisfy  the
+   safety requirement which forms one of the two necessary  conditions  for
+   the existence of a viable internal relocation option: see  para  3390(a)
+   of HC395 as amended. Furthermore, in the appellants' case there was also
+   evidence that the family had sought to move them out of  harm's  way  by
+   placing them in a boarding school. That had  proved  impossible  as  the
+   school concerned had decided that it would be too risky. Mr O'Brien  had
+   submitted before the immigration judge that in  these  circumstances  it
+   was the appellants' "last resort" to be sent out of  the  country.  That
+   was clearly another factor which the immigration judge  weighed  in  the
+   balance: see para 22(b).
+
+   30. Hence, although I would agree that the immigration judge nowhere  in
+   his own  "Conclusions"   addressed  the  internal  relocation  issue  in
+   specific or express terms, I am satisfied that his assessment that there
+   would be an insufficiency of protection for the appellants on return  to
+   Albania can be taken  to  incorporate  a  finding  on  this  issue.  His
+   references to the fact that other members of the family  were  still  in
+   hiding and to the unsuccessful  attempts  to  place  the  appellants  in
+   boarding school indicate that he did consider in substance the  relevant
+   factors. It must also be borne in mind that the  immigration  judge  had
+   before him two appellants who were minors and who had already  witnessed
+   a fatal attack on their older brother on their way to school  and  that,
+   in the absence of having them placed in a boarding school, the  evidence
+   was they would have to remain in  hiding,  either  in  the  family  home
+   (where they lived in fear of reprisal until they left Albania in October
+   2005) or with other relatives elsewhere.
+
+   31. For the above reasons I conclude that the immigration judge did  not
+   materially err in law in finding that the appellants faced a  real  risk
+   on return of persecution. As was conceded by Mr Gulvin at the outset, if
+   the immigration judge was entitled to find that there was real  risk  of
+   persecution, it can be accepted, following the House of  Lords  judgment
+   in K and Fornah [2007] UKHL 46, that there was, in addition,  a  Refugee
+   Convention reason for this risk by  reason  of  the  appellant's  family
+   being a particular social group.
+
+   32. Having found that the immigration judge did not  materially  err  in
+   law I conclude that his decision to allow the appeal on  asylum  grounds
+   must stand.
+
+
+Signed:
+
+               DR H H Storey (Senior Immigration Judge)
+
+

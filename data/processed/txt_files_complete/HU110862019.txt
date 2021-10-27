@@ -1,0 +1,777 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: HU/11086/2019
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard remotely at Field House        |Decision & Reasons Promulgated       |
+|On 13 January 2021 via Skype for     |On 28 January 2021                   |
+|Business                             |                                     |
+|                                     |                                     |
+
+                                   Before
+
+                     UPPER TRIBUNAL JUDGE STEPHEN SMITH
+
+
+                                   Between
+
+                            Mrs Jasvir Kaur Brar
+                       (ANONYMITY DIRECTION not made)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Mr R. Rai, Counsel, instructed by Robinson Ravani &
+                    Co. Solicitors
+For the Respondent:    Mr E. Tufan, Senior Home Office Presenting Officer
+
+
+                          DECISION AND REASONS (V)
+
+This has been a remote hearing which has been consented to  /  not  objected
+to by the parties.  The form of remote hearing was  V  (video).  A  face  to
+face hearing was not held because it was  not  practicable  and  all  issues
+could be determined in a remote hearing.
+
+The documents that I was referred to were the original bundles prepared  for
+the hearing before the  First-tier  Tribunal,  a  supplementary  authorities
+bundle submitted by Mr Rai on the day of the hearing, and the Report of  the
+[All Party Parliamentary Group] on TOEIC dated 18 July  2019,  the  contents
+of which I have recorded.
+
+The order made is described at the end of these reasons.
+
+The parties said  this  about  the  process:  they  were  content  that  the
+proceedings had been conducted fairly in remote form.
+
+ 1. This is an appeal against a decision of the Secretary of State dated 12
+    June 2019 to refuse a human rights  claim  made  by  the  appellant,  a
+    citizen of India born in 1989.
+
+ 2. The appeal was originally heard by First-tier Tribunal Judge Page  who,
+    in a decision promulgated on 9 December 2019, dismissed the appeal.  On
+    9 October 2020, I found that the decision of Judge  Page  involved  the
+    making of an error of law, and set it aside, with certain  findings  of
+    fact preserved.  I set aside the judge's decision to the extent that it
+    concerned findings that the appellant had relied on a proxy test  taker
+    in an English language test.  The judge found that  the  appellant  did
+    not meet the  requirements  of  the  private  life  provisions  in  the
+    Immigration Rules and that there were no reasons outside the rules  for
+    the appeal to be allowed, as matters stood at the time of  the  hearing
+    before the First-tier Tribunal on 19 November 2019. I  preserved  those
+    findings, observing at [15]  that  a  contemporary  assessment  of  the
+    Article 8 rights would be required.
+
+ 3. As I directed at [14] of my earlier decision, the primary focus of  the
+    resumed hearing was to determine whether the appellant engaged  in  the
+    alleged use of a proxy test taker at her English speaking  and  writing
+    tests on 1 May 2013.
+
+ 4. The respondent's case is based  upon  the  generic  evidence  regularly
+    relied upon by  the  Secretary  of  State  when  seeking  to  establish
+    allegations of deception in the context of English language tests,  and
+    evidence specific to  this  appellant  said  to  demonstrate  that  she
+    engaged in the alleged deception.  The specific evidence is in the form
+    of what is often termed the "ETS lookup tool".  ETS is the acronym  for
+    Educational  Testing  Services,  an  organisation  contracted  by   the
+    respondent to provide secure  English  language  testing  services  for
+    immigration purposes.
+
+ 5. The appellant's case is that she attended the tests and did not  use  a
+    proxy test taker.  Mr Rai submits that if I find the  appellant  to  be
+    innocent of the allegations, she should be returned to the position she
+    would have been in had the allegations not been made.   Although  Judge
+    Page's findings that there were no  Article  8-based  reasons  for  the
+    appellant to succeed were preserved, Mr Rai submits that those findings
+    were reached against the backdrop of the judge being satisfied that the
+    appellant engaged in the  alleged  deception,  and  would  need  to  be
+    revisited in the event that I accept the appellant's account.   Mr  Rai
+    accepts that the tribunal  no  longer  has  the  power  to  direct  the
+    Secretary of State to take particular steps consequential to an allowed
+    appeal, but nevertheless submits that the appeal should be  allowed  on
+    human rights grounds.
+
+Documentary evidence
+
+ 6. The appellant relied on the bundle prepared for the proceedings  before
+    the First-tier Tribunal, and the report of the All Party  Parliamentary
+    Group on TOEIC [Test of English for International Communication]  dated
+    18 July 2019 ("the APPG Report").  Although Mr  Rai  had  not  complied
+    with the direction at [19] of my error  of  law  decision  to  make  an
+    application  under  rule  15(2A)  of  the  Tribunal  Procedure   (Upper
+    Tribunal) Rules 2008 within 14 days of being  sent  that  decision,  Mr
+    Tufan did not object to the  admission  of  that  document.   Mr  Tufan
+    observed that he was familiar with the APPG Report, and would  be  able
+    to respond to any submissions advanced in relation to it.
+
+Legal framework
+
+ 7. This appeal is brought under Article 8 of the  European  Convention  on
+    Human Rights.  The essential issue for my consideration is  whether  it
+    would  be  proportionate  under  the  terms  of  Article  8(2)  of  the
+    Convention for the appellant to be removed, in the light of the  family
+    and private life she claims to have established here.  This issue is to
+    be addressed primarily through the lens of the respondent's Immigration
+    Rules and by reference to the requirements of Article 8  directly,  see
+    Razgar [2004] UKHL 27 at [17].  The relevant  rules  are  contained  in
+    paragraph 276ADE.
+
+Burden and standard of proof
+
+ 8. The burden of proof is on the appellant to establish that, at the  date
+    of the hearing, she has established  private  or  family  life  in  the
+    United Kingdom.  The appellant would then have to demonstrate that  her
+    removal from the United Kingdom would interfere with her  rights  under
+    Article 8 of the ECHR.  The appellant would  have  to  establish  these
+    matters to the balance of probabilities standard.  It is then  for  the
+    respondent to justify any interference to those rights within the terms
+    of Article 8(2) of the ECHR.
+
+ 9. In the present matter, the respondent alleges deception.  The burden is
+    on  the  respondent  to  establish  deception,  to   the   balance   of
+    probabilities standard There is an evidential burden on the  respondent
+    in the first instance; if he provides evidence demonstrating there  are
+    reasonable grounds to conclude that the appellant used  deception,  the
+    burden shifts onto  the  appellant  to  provide  a  plausible  innocent
+    explanation.  If the appellant does so, the burden "shifts back" to the
+    respondent to demonstrate  how,  in  light  of  that  explanation,  the
+    allegation of deception is made out, to the  balance  of  probabilities
+    standard.  See Secretary of State for the Home Department v Shehzad and
+    Chowdury [2016] EWCA Civ 615 at [3].
+
+10. The Secretary of State's decision quotes the summary of  this  position
+    given by William Davis J in Abbas v Secretary of  State  for  the  Home
+    Department [2017] EWHC 78 (Admin) at [7]: it does not differ  from  the
+    Shehzad and Chowdury approach in any material respect.  It is merely  a
+    case-specific example of the Court of Appeal's approach in action.
+
+11. In view of the gravity and consequences of an allegation of  deception,
+    stronger evidence is likely to be  required  to  meet  the  balance  of
+    probabilities standard that the allegation is made out.  But  there  is
+    only  one  standard  of  proof,  and  that  is  to   the   balance   of
+    probabilities.
+
+The hearing
+
+12. The appellant gave evidence in English and adopted her statements dated
+    18 August 2018 and 2 October 2019.  She  was  cross-examined.   I  will
+    outline the salient aspects of her evidence to the extent necessary  to
+    give reasons for my findings.
+
+Findings
+
+13. I reached the following findings having considered the entirety of  the
+    evidence, in the round, and the submissions made by each applicant.
+
+ETS allegations
+
+14. First, I will address the respondent's allegations that  the  appellant
+    engaged in deception at her speaking and writing tests on 1 May 2013.
+
+15. I find that the generic evidence, when taken with the "ETS Lookup Tool"
+    which  records  the  appellant's  ETS  certificate  as  "invalid",   is
+    sufficient for the  respondent  to  discharge  the  initial  evidential
+    burden necessary when seeking to establish a charge of deception.   The
+    respondent relies on a December 2016 internal report  into  New  London
+    College, which records at [4] that voice  analysis  of  speaking  tests
+    suggest that 74% of such test results were obtained by  the  use  of  a
+    proxy test-taker.  Candidates at the New  London  College,  opines  the
+    report, demonstrated English language abilities that were significantly
+    greater than candidates assessed under secure conditions.  On  the  day
+    the appellant took her  test,  93%  of  the  results  were  classed  as
+    invalid.
+
+16. In Majumder and Qadir v Secretary of  State  for  the  Home  Department
+    [2016] EWCA Civ 1167 Beatson LJ considered  whether  the  Secretary  of
+    State's evidence adduced  in  cases  of  this  nature  was  capable  of
+    discharging the legal burden  for  deception.   At  [27]  His  Lordship
+    endorsed the decision of this Tribunal in the same case at  [102]  that
+    each case will be fact-sensitive, with the outcome  determined  on  the
+    basis of the evidence adduced by the parties.  In  practical  terms,  I
+    find that  that  means  the  Secretary  of  State's  generic  evidence,
+    combined with the specific material said to link that generic  evidence
+    to the conduct of an appellant, will rarely, if ever, automatically  be
+    able to lead to a finding  of  deception  regardless  of  the  innocent
+    explanation proffered by the appellant.  In human rights cases a  case-
+    specific assessment will always be required.
+
+17. I approach the reported high incidence of "invalid" test results on the
+    1 May 2013 with a degree of caution.  According to the respondent,  93%
+    of tests were invalid, namely 52 out of 56.  None was valid.  I  recall
+    that the allegations against  ETS  have  demonstrated  that  many  test
+    centres' operations were corrupt to the core.  Many staff were  clearly
+    complicit.  On conventional credibility grounds,  it  is  difficult  to
+    have any degree of confidence that corrupt staff facilitating  the  use
+    of proxy test takers may be trusted to perform the remainder  of  their
+    functions well, such that the 93% figure is accurate,  especially  when
+    one bears in mind the extensive criticisms  in,  for  example,  SM  and
+    Qadir (ETS - Evidence - Burden of Proof) [2016] UKUT 229.   There,  the
+    Upper Tribunal considered a report from a Dr Harrison  which  concluded
+    that the generic evidence relied upon by the  Secretary  of  State  was
+    flawed in a number of material respects.  The Upper Tribunal summarised
+    its concerns  at  [63]:  neither  of  her  witnesses  had  any  special
+    qualifications or expertise in  the  matters  they  purported  to  give
+    evidence about; the Respondent was entirely  dependent  on  information
+    provided by ETS; the Respondent had accepted everything reported by ETS
+    "uncritically"; The decision featured a number of other  criticisms  of
+    the Secretary of State's evidence.  The Upper Tribunal  held  at  [102]
+    that every ETS case will invariably be  fact  sensitive;  every  appeal
+    falls to be determined on the basis of  the  evidence  adduced  by  the
+    parties.
+
+18. In this respect, nothing turns on the APPG report; my task is to assess
+    the credibility of the appellant's account on the evidence before me.
+
+19. By way of a preliminary observation, I note that the  test  took  place
+    almost eight years ago.  The appellant is being asked to recall  events
+    which, at the time, she would have had no reason to suspect  she  would
+    be challenged about in 2021.
+
+20. In response to the respondent's allegations, the  appellant's  evidence
+    is simply that she attended the test, took it herself without  the  use
+    of a proxy test-taker, and that she did  not  notice  any  unlawful  or
+    otherwise irregular activity at the test centre.  In  her  written  and
+    oral evidence she provided an account of paying for the test  in  cash,
+    paying approximately �120-�150, and the process she was  taken  through
+    on the day itself in order to sit the tests. She describes how  her  ID
+    documents were checked at different  points  on  the  day  itself.  The
+    accounts she provided in her written statements  were  consistent  with
+    the account she provided in her evidence before me.
+
+21. The appellant also relies on her general  proficiency  in  the  English
+    language. She gave evidence in fluent English before me.  The  evidence
+    suggests that she has been competent in the language for some time.  In
+    May 2009, she obtained an International English Language Testing System
+    (IELTS") certificate.  IELTS  tests  have  not  been  impugned  by  the
+    respondent.  The certificate records the appellant as having scored 5.0
+    overall.  In August 2014, the appellant scored 6.0 on a  further  IELTS
+    test.  I know from my special expertise in  this  tribunal  that  IELTS
+    tests are usually scored out of 9.  A score  of  6  usually  denotes  a
+    competent grasp of English; by August 2014, the appellant was  assessed
+    by IELTS as having a competent grasp of English.  That was  a  marginal
+    improvement from her score some of 5  some  five  years  earlier.   The
+    higher score is broadly commensurate with a high scoring level B2 under
+    the Common European Framework of Reference  for  Languages;  the  lower
+    score, in 2009, is on  the  cusp  between  B1  and  B2.   Although  the
+    appellant's claimed ETS scores are high, they are consistent  with  her
+    IELTS-assessed proficiency the next year.  While it could be said  that
+    the appellant had enjoyed, by August 2014, some 15 months in  which  to
+    improve her linguistic skills, the 2009 test demonstrates that she  was
+    proficient, albeit to a slightly lower level, five years earlier.  This
+    is not a case of a marked increase in  competence  in  the  years  that
+    followed the exam.
+
+22. In addition, in 2016 the appellant obtained an MBA from  Angela  Ruskin
+    University.  The course was taught in English.
+
+23. That the appellant spoke good English at the time is a  factor  in  her
+    favour.   Mr Tufan submits that people cheat for a variety of  reasons,
+    as noted by this tribunal in MA (ETS - TOEIC testing) [2016]  UKUT  450
+    (IAC).  That is,  of  course,  correct.   However,  in  MA,  the  Upper
+    Tribunal set out many paragraphs of detailed  credibility  concerns  in
+    relation to the appellant in those proceedings  before  dismissing  the
+    possibility that the credibility concerns that  had  been  outlined  in
+    extensive depth could be undermined by virtue of the simple  fact  that
+    the appellant would be able to speak  English,  and  therefore  had  no
+    basis to cheat.  It does not necessarily follow that competence in  the
+    English language is an irrelevant factor.  In contrast to the  tribunal
+    in MA, I have no separate credibility concerns about the appellant  and
+    found her to be a credible and honest witness.
+
+24. Under cross-examination, Mr Tufan asked the  appellant  about  how  she
+    booked and paid for the test. She said she had been informed by friends
+    that there were vacant slots at the test centre, and was able to  check
+    online. She did not need to book  the  test  online,  nor  pay  for  it
+    electronically, she said, as she was aware that payment could  be  made
+    on the day if there were vacant slots,  and  she  was  able  simply  to
+    arrive at 8 AM. Mr Tufan put  it  to  the  appellant,  and  highlighted
+    during submissions, that it was not  plausible  or  realistic  for  the
+    appellant simply to have turned up at the  test  centre  in  that  way,
+    rather than having booked in advance. Further, he contends,  paying  in
+    cash as described by the appellant is at odds with how one would expect
+    an important test to be booked and arranged.
+
+25. Mr Tufan also highlights the fact that the appellant has  not  provided
+    the voice recordings  of  the  speaking  test  to  the  tribunal.   The
+    appellant writes in her second statement at [12] that she had  obtained
+    the recordings, but that they had not been analysed by a  professional.
+    Under cross examination, she explained that she received a  quote  from
+    Professor French, the expert engaged by the respondent, for over �3,000
+    and she was unable to afford the fees.
+
+26. Drawing the above factors together,  I  find  that  the  appellant  has
+    provided an "innocent explanation" which satisfies the  "minimum  level
+    of plausibility" (see, for example,  Muhandiramge  (section  S-LTR.1.7)
+    [2015] UKUT 675 (IAC) at [10.b]).  While  the  appellant's  payment  in
+    cash and arrival at the test centre without a pre-booked slot may raise
+    some eyebrows in 2021, I recall that systems in place in 2013 were  not
+    necessarily as advanced as they are today.  There is no  evidence  from
+    the Secretary of State that the  New  London  College  did  not  accept
+    bookings on the day in cash.
+
+27. Thus the evidential pendulum swings back to the Secretary of  State  to
+    refute the "innocent explanation".  The strongest point Mr Tufan has in
+    response is that the  appellant  has  not  made  the  voice  recordings
+    available to the tribunal.  He described the omission as  "curious"  in
+    submissions, although  he  did  not  directly  put  to  her  in  cross-
+    examination the allegation that she had  not  produced  the  recordings
+    because they would reveal that she did  not  take  the  tests  herself,
+    which was the implication of his submission.  He left unchallenged  the
+    appellant's response that she could  not  commission  Professor  French
+    because he was too costly, at around �3,200.  That figure accords  with
+    a written estimate from French and Associates dated 18 November 2019.
+
+28. Correctly understood, Mr Tufan's submission concerning the  absence  of
+    the voice recordings fails to engage with the fact the burden  lies  on
+    the Secretary of State to prove deception,  not  on  the  appellant  to
+    disprove deception.  The absence of evidence on  this  point  from  the
+    appellant does not amount  to  positive  proof  in  the  hands  of  the
+    Secretary of State, especially considering the fact that Mr  Tufan  did
+    not put to the appellant the allegation that the  reason  she  had  not
+    brought the recordings was because they would reveal that she  had  not
+    taken the test herself.   Inferences arising from unchallenged evidence
+    are not a basis for concluding the appellant has engaged in deception.
+
+29. Considering the allegations in the round, I find that the Secretary  of
+    State has not established deception to  the  balance  of  probabilities
+    standard.  I find the appellant did not use a proxy test-taker  in  the
+    speaking and writing test she took on 1 May 2013.
+
+30. The appellant therefore presents no suitability-based concerns.
+
+Private life
+
+31. In my error of law decision, I preserved Judge Page's findings relating
+    to the appellant's Article 8 private life rights, in  so  far  as  they
+    represented the position at the date of  the  hearing  on  25  November
+    2019.  They were brief, but there was no reason to interfere with  them
+    at that stage.  The relevant findings were at [25]:
+
+         "[The presenting officer] was correct to say that regardless of the
+         refusal made on suitability grounds the appellant has been  in  the
+         UK without leave to remain since 2014 and has no  basis  to  remain
+         and that there are no exceptional circumstances to consider outside
+         the rules."
+
+32. Judge Page's summary finding  that  the  appellant  "has  no  basis  to
+    remain" was shorthand for his findings that there was  no  basis  under
+    the Immigration Rules' private life provisions  for  the  appellant  to
+    remain here.  The appellant did not challenge  those  findings  in  her
+    original appeal against the First-tier  Tribunal's  decision.   As  the
+    appellant confirmed under cross-examination, there has been  no  change
+    to her circumstances since that decision.  She writes in her  statement
+    of the tragic loss of an unborn child, but that is a matter  pre-dating
+    the judge's findings.  The  appellant  is  married  to  another  Indian
+    national, whose leave is dependent upon hers, and they would be able to
+    return to India together.   Mr Rai did not submit  that  the  appellant
+    should now be viewed  as  facing  very  significant  obstacles  to  her
+    integration in India, or that there would insurmountable  obstacles  to
+    the marital relationship continuing in India.
+
+33. Mr Rai's focus was on the impact  of  the  Secretary  of  State  having
+    incorrectly accused the appellant of relying on  a  proxy  test  taker.
+    His submission in this respect was twofold.
+
+34. First, he submitted that Judge  Page's  findings  that  there  were  no
+    exceptional circumstances in the appellant's private life were  reached
+    in the context of his findings that the appellant  had  relied  upon  a
+    proxy test taker.   If I accepted the  appellant's  evidence  that  she
+    took the test herself, he submitted, a different  approach  was  called
+    for.  What may not necessarily be exceptional in the case of a  migrant
+    who relied on deception should be revisited in the event the allegation
+    of deception was  wrongly  made.  In  addition,  submits  Mr  Rai,  the
+    appellant's  immigration  trajectory  was  wrongly  forced   onto   the
+    incorrect course  as  a  result  of  the  unsubstantiated  allegations.
+    Although he did not use the term, I understand Mr Rai to refer to  what
+    was termed "historical injustice" in Patel  (historic  injustice;  NIAA
+    Part 5A) [2020] UKUT 00351 (IAC).
+
+35. There is some force to this limb of Mr Rai's  submission,  and  I  will
+    return to it when conducting my overall proportionality assessment.
+
+36. Secondly, Mr Rai relied on the approach of the Secretary  of  State  to
+    implementing appeals where, as here, an appellant has been found not to
+    have cheated in an English language test, having refuted allegations to
+    the contrary.  He relied upon Khan & Others v Secretary  of  State  for
+    the Home Department [2018] EWCA Civ 1684 at [37], where  the  Secretary
+    of State's undertaking to the  Court  of  Appeal  in  relation  to  ETS
+    matters was set out.  The judgment outlines part of a note to the court
+    provided by the Secretary of State, which provided, where relevant:
+
+             "(ii) For those whose leave has been curtailed, and where  the
+             leave would in any event  have  expired  without  any  further
+             application being made, the Respondent will provide a  further
+             opportunity for the  individuals  to  obtain  leave  with  the
+             safeguards in paragraph (iii) below.
+
+         For those whose leave had expired, and who  had  made  an  in  time
+         application for further leave to remain which was  refused  on  ETS
+         grounds, the effect of an  FTT  determination  that  there  was  no
+         deception would  be  that  the  refusal  would  be  withdrawn.  The
+         applicant in question would still have an  outstanding  application
+         for leave to remain and the Respondent will  provide  them  with  a
+         reasonable  opportunity  to  make  any  further  changes  to  their
+         application which would be considered on  the  basis  of  them  not
+         having employed any deception  in  the  obtaining  of  their  TOEIC
+         certificate, and they would in  no  way  be  disadvantaged  in  any
+         future application they chose to make.
+
+             (iii) In all cases, the Respondent confirms that in making any
+             future decision he will not hold any  previous  gap  in  leave
+             caused by any erroneous decision in relation  to  ETS  against
+             the relevant applicant, and will have to take into account all
+             the circumstances of each case."
+
+37. The difficulty with Mr Rai's reliance on [37] of Khan arises  from  the
+    fact that this tribunal has no power to direct the Secretary  of  State
+    to adopt a particular course of action.  It is  for  the  Secretary  of
+    State to implement appeals from this  tribunal,  which  may  either  be
+    allowed or dismissed.  The passages in  Khan  relied  upon  by  Mr  Rai
+    concern the way the Secretary of State undertook to the Court of Appeal
+    to resolve cases, and does  not  directly  affect  the  proportionality
+    assessment conducted by this Tribunal.  However, that the Secretary  of
+    State seeks to return  those  wrongly  accused  of  ETS  fraud  to  the
+    position they would have been in, had the allegations not been  raised,
+    is a factor which attracts weight.
+
+38. Factors in favour of the removal of the appellant include:
+
+        a. The public interest in the maintenance of effective  immigration
+           controls.
+
+        b. The appellant does not meet  any  of  the  requirements  of  the
+           Immigration Rules.
+
+        c. The appellant last held leave to remain over five years ago.
+
+39. Factors militating in favour of the appellant not being removed are  as
+    follows:
+
+        a. She was wrongly accused of using a proxy  test  taker,  and  has
+           been unable to regularise her position since.
+
+        b.  The  ETS  allegations  resulted  in  an  effective   in-country
+           prohibition on  the  appellant  ever  regularising  her  status,
+           thereby  contributing  significantly  to,  if  not   being   the
+           predominant cause of,  her  status  as  an  overstayer,  thereby
+           reducing the weight to be ascribed to the public interest in the
+           maintenance of immigration controls on the facts of this matter.
+
+        c. The appellant attributes the stress arising from the allegations
+           and the consequential uncertainty of her immigration  status  to
+           being the cause of a miscarriage.
+
+40. I find it would be disproportionate for the appellant to be removed, at
+    least until she has had the opportunity to attempt  to  regularise  her
+    status with the benefit of having had her name cleared.  The respondent
+    incorrectly accused  the  appellant  of  deception,  resulting  in  the
+    curtailment of her leave and her subsequent  inability  to  attempt  to
+    secure extensions to her leave or residence in another  capacity.   The
+    appellant has suffered as a result of the  wrongful  operation  by  the
+    respondent of her immigration functions.  It follows that the appellant
+    should enjoy a period of leave, to be determined by the  respondent  in
+    accordance with her undertakings to the Court of Appeal in Khan and her
+    published policy, in which she can attempt to  regularise  her  status.
+    Until the appellant has enjoyed at least that opportunity, it would  be
+    disproportionate for her to be removed.
+
+41. This appeal is allowed.
+
+Notice of Decision
+
+The appeal is allowed on human rights grounds.
+
+No anonymity direction is made.
+
+
+Signed Stephen H Smith                  Date 18 January 2021
+Upper Tribunal Judge Stephen Smith
+
+
+TO THE RESPONDENT
+FEE AWARD
+As I have allowed the appeal and because a fee has been paid or is payable,
+I have considered making a fee award and have decided to make a fee award
+of �140.  The appellant was successful in the proceedings, having refuted
+the allegations of deception.
+
+
+Signed Stephen H Smith                  Date 18 January 2021
+Upper Tribunal Judge Stephen Smith
+
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: HU/11086/2019
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard remotely at Field House                 |Decision & Reasons Promulgated|
+|On 22 September 2020 via Skype for Business   |                              |
+|                                              |..............................|
+|                                              |.........                     |
+
+
+                                   Before
+
+                     UPPER TRIBUNAL JUDGE STEPHEN SMITH
+
+                                   Between
+
+                            Mrs Jasvir Kaur Brar
+                       (ANONYMITY DIRECTION not made)
+                                                                   Appellant
+                                     and
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellant:     Mr R. Rai, Counsel, instructed by Robinson Ravani &
+Co. Solicitors
+For the Respondent:    Mr E. Tufan, Senior Home Office Presenting Officer
+
+
+                          DECISION AND REASONS (V)
+
+This has been a remote hearing which has been consented to  /  not  objected
+to by the parties.  The form of remote hearing was  V  (video).  A  face  to
+face hearing was not held because it was  not  practicable  and  all  issues
+could be determined in a remote hearing.
+
+The documents that I was referred to were the appellant's  and  respondent's
+bundles from the  First-tier  Tribunal,  the  grounds  of  appeal,  and  the
+decision of the First-tier Tribunal under appeal, the contents  of  which  I
+have recorded.
+The order made is described at the end of these reasons.
+
+The parties said this about the process: they were content that it had  been
+conducted fairly in its remote form.
+
+ 1. This is an appeal against the decision  of  First-tier  Tribunal  Judge
+    Page promulgated on 9 December 2019, dismissing an  appeal  brought  by
+    the appellant against a decision of the respondent dated 12 June  2019,
+    refusing her application for leave  to  remain  on  the  basis  of  her
+    private life.
+
+Factual background
+
+ 2. The appellant is Jasvir Kaur Brar, a citizen of India,  born  in  1989.
+    She arrived in the United Kingdom in October 2010 as a student, and had
+    her leave extended until 6 April 2015. However, on 11  September  2014,
+    she was served with enforcement  papers  requiring  her  to  leave  the
+    country.  Her leave had been curtailed on the basis that she had used a
+    proxy test taker in an English language test at  New  College,  London,
+    conducted on 1 May 2013. Although she attempted to appeal against  that
+    decision at the time, her appeal was struck out. Thereafter, she made a
+    number of EEA residence documentation applications, all of  which  were
+    unsuccessful.  On 21 March 2019, she applied for leave to remain  based
+    on her private life. That application was  refused,  and  it  was  that
+    refusal decision which was under appeal before Judge Page.
+
+ 3. Judge Page found that the appellant was unable to satisfy  any  of  the
+    private life provisions of the rules, and there has been  no  challenge
+    to those findings.
+
+ 4. The focus of this appeal lies in the  findings  reached  by  the  judge
+    concerning the respondent's allegations that the appellant  had  relied
+    on a proxy test taker at a New College, London on 1 May 2013. The judge
+    rejected the appellant's account of having taken the test  in  her  own
+    capacity.
+
+ 5. The appellant  contends  that  the  judge's  credibility  analysis  was
+    flawed, and that she has not had a fair assessment of whether she  did,
+    in fact, use a proxy for the English language test. Her  case  is  that
+    she did not use a proxy, and wishes to challenge the  judicial  finding
+    of dishonesty which has been made against her.
+
+ 6. The judge's reasoning concerning  the  appellant's  account  of  having
+    attended the test may be found at [23].  The judge noted that,  of  the
+    56 people who attended the test centre that day, only four had not  had
+    their test  cancelled  as  "invalid"  by  Educational  Testing  Service
+    ("ETS"), the company  to  which  the  respondent  had  outsourced  some
+    English language testing. The judge was concerned  that  the  appellant
+    purported not to have seen anyone else cheating that day.  He  rejected
+    that aspect of her case as not being credible. The judge then made  the
+    following observation about the fact the appellant's case was that  she
+    paid for the test in cash:
+
+         "Cash payments on arrival were more likely to be required from  all
+         those who are  to  use  a  proxy  test  taker,  as  cash  would  be
+         untraceable in any criminal investigation of bank statements etc."
+
+     Later in the same paragraph, the judge accepted that the appellant  had
+    attended the test centre on 1 May 2013, but that she had paid  in  cash
+    for a proxy to take the test on her behalf.
+
+Permission to appeal
+
+ 7. Permission to appeal was granted by Upper Tribunal  Judge  Sheridan  on
+    the basis that it was arguable that there was  no  logical  reason,  or
+    reason that could be discerned from any of the evidence that  had  been
+    before the judge, as to why an individual cheating in  the  test  would
+    not want their payment to the test centre to be traced, in contrast  to
+    the  likely  position  in  relation  to  the  person  or   organisation
+    responsible for the fraud. Secondly, it was  arguable  that  the  judge
+    failed to  consider,  when  finding  it  damaging  to  the  appellant's
+    credibility that she did not observe suspicious activity  on  the  day,
+    that a person who had no reason to be interested in the conduct of test
+    takers may not have noticed, or  paid  attention,  to  what  they  were
+    doing.
+
+Discussion
+
+ 8. This is a case  which  concerns  allegations  of  widespread  fraud  at
+    English language testing centres administered by or on behalf of ETS. A
+    considerable amount  of  jurisprudence  has  developed  concerning  the
+    respondent's approach to such allegations. For  present  purposes,  the
+    relevant principles are not in issue. It  is  common  ground  that  the
+    respondent provided the appellant with sufficient  evidence  so  as  to
+    shift the evidential burden to her,  such  that  she  was  expected  to
+    provide  an  "innocent  explanation"  in   response   to   refute   the
+    allegations. This case concerns the judge's  factual  analysis  of  the
+    "innocent explanation" proffered by the appellant.
+
+ 9. It was common ground at the Upper Tribunal hearing that the  judge  had
+    no evidential basis upon which to conclude that the appellant's payment
+    in cash for the test was  more  likely  to  have  meant  that  she  had
+    deployed, or relied upon, a proxy test taker. While there were a number
+    of summaries of the criminal investigations conducted on behalf of  the
+    respondent into the allegations of  widespread  teaching  at  ETS  test
+    centres that had been provided to the judge, none  of  those  summaries
+    said anything concerning the link between cash payments made by a  test
+    taker and the  use  of  proxy  test  takers.   The  supposed  link  was
+    speculation on the part of the judge.
+
+10. Accordingly, the judge  gave  weight  to  an  immaterial  matter.   The
+    judge's analysis concerning the use of cash was also  irrational.   The
+    appellant herself would, by definition, have no desire for her  payment
+    to the test centre or identity to be concealed.  The  test  certificate
+    was issued to her, in her name. The judge also accepted the appellant's
+    account that she attended the test  centre  on  the  day  in  question,
+    meaning that the judge could not have been attempting  to  refer  to  a
+    situation where he found that the appellant had not  attended  at  all,
+    and had sent an impostor on her behalf.
+
+11. Mr Tufan realistically conceded that the judge fell into error  on  the
+    above issue, and that the entire  credibility  assessment  was  flawed.
+    That was  an  appropriate  concession.   While  appeals  to  the  Upper
+    Tribunal lie only on a point of  fact  rather  than  a  point  of  law,
+    pursuant to R (Iran) v Secretary  of  State  for  the  Home  Department
+    [2005] EWCA Civ 982 at [9]  certain  errors  of  fact  are  capable  of
+    amounting to an error of law.  The errors  identified  above  are  such
+    errors, in that the judge reached a perverse finding, not supported  by
+    the evidence.
+
+12. Although the  unchallenged  findings  of  the  judge  relating  to  the
+    appellant's private life mean that  this  was  an  appeal  which  would
+    always fall to be dismissed, the  appellant  has  been  found  to  have
+    engaged in dishonest conduct on the basis of a flawed assessment by the
+    First-tier Tribunal. Such a finding has the potential to carry with  it
+    profound consequences, affecting the appellant for many years to  come.
+    It is necessary, therefore, for this tribunal to rehear the appellant's
+    evidence concerning her claimed "innocent explanation" in  response  to
+    the respondent's evidence that  she  cheated,  in  order  for  a  fresh
+    assessment to take place.
+
+13. I preserve the judge's unchallenged findings that the appellant did not
+    meet the requirements of the private life provisions of the Immigration
+    Rules, nor that there were any reasons outside the rules for the appeal
+    to be allowed, at  the  time  of  the  hearing  before  the  First-tier
+    Tribunal on 19 November 2019.
+
+14. The matter will be re-determined in the Upper Tribunal in order  for  a
+    fresh assessment to be conducted of the respondent's  allegations  that
+    the appellant used a proxy test taker in a test at New College,  London
+    on 1 May 2013.
+
+15. In GM (Sri Lanka) v Secretary of State for the Home  Department  [2019]
+    EWCA Civ 1630 at [7], the Court of Appeal said:
+
+         "...if an appellate court finds that  a  lower  court  or  tribunal
+         acted lawfully by reference to the  evidence  before  it  but  that
+         based upon the facts now known to the appeal court  to  uphold  the
+         decision would violate fundamental norms, then the appellate  court
+         must ensure that the decision it takes is compliant with the law."
+
+    Although Judge Page's findings  concerning  the  applicability  of  the
+    private life provisions of the Immigration Rules to the appellant  have
+    not been challenged, it will still be necessary at the resumed  hearing
+    to perform a contemporary assessment of those issues.
+
+Postscript
+
+16. Ideally, the appellant's evidence concerning the test  on  1  May  2013
+    would have been re-heard at the hearing on 22 September 2020.  However,
+    the appellant was not in attendance.  Mr Rai informed me  that  he  had
+    advised the appellant that it was not necessary  to  attend.   That  is
+    surprising, as the Directions issued by the Upper  Tribunal  upon  this
+    matter being listed stated, at [4]:
+
+         "There is a presumption that, in the event of the Tribunal deciding
+         that the decision of the FTT is to be set  aside  as  erroneous  in
+         law, the re-making of the decision will  take  place  at  the  same
+         hearing. The fresh decision will normally be based on the  evidence
+         before the FTT and any further evidence  admitted  (see  [5]  below
+         [concerning rule 15(2A)], together with the parties' arguments. The
+         parties must be prepared accordingly in every case."
+
+17. At my direction, efforts were made during the hearing  to  see  if  the
+    appellant would be able to participate via a remote  video  link.   She
+    was unable to do so. I was told that, understandably, she was taken  by
+    surprise at the suggestion that she would have to give evidence. By the
+    time her solicitors managed to speak to her, she was  travelling  in  a
+    car. She had  not  had  the  opportunity  to  read  her  statement,  or
+    otherwise prepare for the appeal. I decided that it would not  be  fair
+    to  attempt  to  secure  the  appellant's  participation  under   those
+    conditions, and as such directed that the matter be resumed on  another
+    occasion to hear her evidence.
+
+18. My provisional view  is  that  the  hearing  will  be  suitable  to  be
+    conducted remotely.  Either party may make reasoned submissions to  the
+    contrary within 14 days of being sent this decision.
+
+19. There has been no application to reduce  further  evidence  under  rule
+    15(2A) of the Tribunal Procedure (Upper Tribunal) Rules 2008.   If  the
+    appellant wishes to make such an application, she must do so within  14
+    days of being sent this decision.
+
+Notice of Decision
+
+The decision of Judge Page involved the making of an error  of  law  and  is
+set aside.  His findings at [25] that "the appellant  has  been  in  the  UK
+without leave to remain since 2014 and has  no  basis  to  remain  and  that
+there are no exceptional circumstances to consider outside  the  rules"  are
+preserved, in so far as that finding related to the position as at the  date
+of the hearing before the First-tier Tribunal on 25 November 2019.
+
+The decision will be remade in  the  Upper  Tribunal.   The  appellant  must
+attend.
+
+My provisional view is that the hearing will be  suitable  to  be  conducted
+remotely.  Either party  may  make  reasoned  submissions  to  the  contrary
+within 14 days of being sent this decision.
+
+Any application for further evidence  under  rule  15(2A)  of  the  Tribunal
+Procedure (Upper Tribunal) Rules 2008 must be made within 14 days  of  being
+sent this decision.
+
+No anonymity direction is made.
+
+
+Signed   Stephen H Smith                              Date 1 October 2020
+
+Upper Tribunal Judge Stephen Smith

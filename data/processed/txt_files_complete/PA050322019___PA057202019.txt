@@ -1,0 +1,1053 @@
+
+                                    [pic]
+
+Upper Tribunal
+(Immigration and Asylum Chamber)    Appeal Number: PA/05032/2019 (V)
+                                                           PA/05720/2019 (V)
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Field House via Microsoft   |Decision & Reasons Promulgated       |
+|Teams                                |                                     |
+|On Thursday 27 May 2021              |On Friday 25 June 2021               |
+|                                     |                                     |
+
+                                   Before
+
+                         UPPER TRIBUNAL JUDGE SMITH
+
+
+                                   Between
+
+     (1) WC
+     (2) BC
+                         [ANONYMITY DIRECTION MADE]
+                                                                  Appellants
+                                    -and-
+
+                 SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                  Respondent
+
+
+Representation:
+For the Appellants:    Ms S Khan, Counsel instructed by Legal Justice
+solicitors
+For the Respondent:    Mr E Tufan, Senior Home Office Presenting Officer
+
+
+Anonymity
+Rule 14: The Tribunal Procedure (Upper Tribunal) Rules 2008
+An anonymity order was made by the  First-tier  Tribunal.   As  this  appeal
+involves a protection claim, I consider it is appropriate to  continue  that
+order.  Unless  and  until  a  Tribunal  or  court  directs  otherwise,  the
+Appellants are granted anonymity.  No  report  of  these  proceedings  shall
+directly or indirectly identify them or any member  of  their  family.  This
+direction applies, amongst others, to both parties. Failure to  comply  with
+this direction could lead to contempt of court proceedings.
+
+
+                            DECISION AND REASONS
+
+BACKGROUND
+
+ 1. The Appellants appeal against the decision of First-tier Tribunal Judge
+    Chapman promulgated on 8 August 2019 ("the Decision"). By the Decision,
+    the Judge dismissed the Appellants' appeals against the Respondent's
+    decisions dated 16 May 2019 refusing their protection and human rights
+    claims.
+
+ 2. The Appellants are nationals of Afghanistan.  They are a father and
+    son.  They are both Sikhs as are their family members who are dependent
+    on their claims.  They have made an individualised claim for asylum
+    based on an attack which they said occurred on 25 January 2019.  They
+    say that the Taliban demanded money from the family and when they said
+    they could not pay, the First Appellant's daughter, [K], was taken by
+    force and later said to have been killed.  The asylum claim is also
+    based on the Appellants' position as Afghan Sikhs more generally.
+
+ 3. The Judge did not accept as credible the individualised claim.  The
+    reasoning is based in large part on documents produced by the
+    Respondent showing that, at the date when the attack is said to have
+    taken place, the family was in fact in France.  The Appellants now say
+    that they were mistaken about the date and the mistake occurred when
+    the date was recalculated from the Afghan to the English calendar.  The
+    Judge also did not accept that the family was at risk based only on
+    their religion and ethnicity.  In reaching that conclusion, the Judge
+    had regard to the country guidance case of TG and others (Afghan Sikhs
+    persecuted) Afghanistan CG [2015] UKUT 00595 (IAC) ("TG and others").
+    The Judge also concluded that there were no very significant obstacles
+    to the family's integration in Afghanistan.
+
+ 4. The grounds of appeal can be summarised as follows:
+
+      1) A challenge to the credibility findings (paragraphs [1] to [5] of
+         the grounds).
+
+      2) An assertion that the Judge erred by not having regard to the UNHCR
+         report concerning internal relocation to Kabul (paragraph [6] of
+         the grounds).
+
+      3) A challenge to the findings relating to the family's position as
+         Afghan Sikhs (paragraphs [7] and [8] of the grounds).
+
+      4) A challenge for the same reasons to the rejection of the human
+         rights claim based on there being very significant obstacles to
+         integration in Afghanistan (paragraph [9] of the grounds).
+
+ 5. Permission to appeal was granted by Designated First-tier Tribunal
+    Judge Shaerf on 28 January 2020 in the following terms so far as
+    relevant:
+
+         "... The Judge had before him the recent judgment in AS
+         (Afghanistan) v SSHD [2019] EWCA Civ 873 which expressly dealt with
+         risks to members of the Sikh and Hindu communities and which at
+         paragraph 82 made reference to recent guidelines issued by UNHCR.
+         The Judge made no reference to any of these.
+
+         The grounds for appeal disclose arguable errors of law and
+         permission is granted in respect of all of them."
+
+ 6. By a Notice and Directions dated 20 January 2021, Upper Tribunal Judge
+    Kebede directed that the error of law issue should be determined at a
+    remote hearing absent objections from the parties.  Neither party
+    objected.  So it was that the matter came before me to determine
+    whether the Decision contains an error of law and, if I so conclude, to
+    either re-make the decision or remit the appeal to the First-tier
+    Tribunal to do so.  The hearing was conducted via Microsoft Teams.
+    There were no technical issues affecting the conduct of the
+    proceedings.  I had before me a core bundle of documents relating to
+    the appeal including the Respondent's bundle (hereafter referred to as
+    [RB/x]), the Appellant's bundle as before the First-tier Tribunal
+    (referred to hereafter as [AB/xx]), and as loose documents the
+    documents to which I refer at [3] above which consist of the biometrics
+    of the family as taken by the authorities in France in January and
+    February 2019.  I refer to those documents hereafter as the "French
+    Documents".
+
+DISCUSSION AND CONCLUSIONS
+
+ 7. I can dispose very shortly of the ground which I have summarised as (2)
+    above.  As Ms Khan pointed out, the family come from Kabul and there is
+    therefore no issue of internal relocation.  I observe however that this
+    ground may have led Judge Shaerf to grant permission.  As Mr Tufan
+    pointed out, although there is no reference to risk to the Sikh
+    community (or at least none I can find) in the Court of Appeal's
+    judgment in AS (Afghanistan) as referenced in the permission grant, the
+    UNHCR guidelines might have been relevant to the Appellants' position
+    on return if internal relocation (with which AS (Afghanistan) was
+    solely concerned) was at issue.  However, as Ms Khan conceded before
+    me, it was not. I observe that, in any event, the basis for the grant
+    of permission on this point is overtaken by the Tribunal's later
+    decision in AS (Safety of Kabul) Afghanistan CG [2020] UKUT 130 where
+    those guidelines were considered.  That later decision has since been
+    upheld by the Court of Appeal ([2021] EWCA Civ 195).
+
+ 8. I turn then to the ground summarised as (1) above concerning the
+    credibility findings.  I begin with the findings made by the Judge
+    which are challenged which read as follows:
+
+         "48. The Appellants claimed asylum in this country with a clear and
+         unambiguous account of what happened to them in Afghanistan and the
+         dates on which it happened.  The timelines they consistently gave
+         in their screening and asylum interviews were that: [K] was
+         kidnapped on 25 January 2019; two days later (27 January 2019), the
+         Taliban rejected their offer of $10,000; two days later (29 January
+         2019) they received the letter and [K]'s belongings; the next day
+         (30 January 2019) they arranged an agent to help them lave; they
+         stayed with the agent for ten days in Kabul (until 10 February
+         2019); they travelled via an Arab country by plane and then spent
+         fifteen days before arriving in the United Kingdom on 25 February
+         2019.  In the asylum interview, they were asked several times about
+         these dates, and they both confirmed the accuracy of these
+         timelines on several occasions in answer to several questions
+         during the interviews.
+
+         49.  It was not only the Appellants who gave these timelines.  When
+         their wives were also screened and asked about their journeys to
+         the United Kingdom, they gave similar timelines.  Indeed, the words
+         used by all four in the screening interviews were so remarkably
+         similar as to suggest that they had discussed the days between them
+         and had colluded in giving their answers.
+
+         50.  Had it not been for the fact that they had been encountered by
+         the French immigration authorities, these timelines could not have,
+         and most likely would not have been, challenged, and the
+         credibility of their accounts would have been assessed on the basis
+         of a consistent, plausible timeline.
+
+         51.  Yet, even without reliance on the undermining evidence from
+         France, there are aspects of their accounts which create suspicion
+         about their credibility.
+
+         52.  Firstly, for example, there is the discrepancy (in both
+         screening and asylum interviews) about the number of men who came
+         to the property and kidnapped [K].  The First Appellant said three,
+         and the Second Appellant said four.  This inconsistency is not
+         explained by them, or by the nature of the event in question.  I
+         would have thought this to be a detail about which they would both
+         be consistent given that both claimed to be present when the event
+         occurred, and it is not explained by their illiteracy which both
+         referred to on several occasions when giving oral evidence.
+
+         53.  Secondly, the letter from the Taliban has not been produced.
+         Again, their illiteracy does not explain this because the
+         importance of the letter was known to them when it was read to them
+         and was the cause of them leaving the country due to the threats
+         contained in it.  I would have thought it reasonable that, having
+         decided to claim asylum in another country, this letter would have
+         been retained as evidence of what they said happened to them.
+
+         54.  Thirdly, the Appellants claim that they decided to leave the
+         country the day after receiving the letter and the bag containing
+         [K]'s belongings, and they then went into hiding for ten days
+         before doing so.  Yet, they do not refer to any efforts to wait to
+         see if [K] resurfaced either alive or dead, or any efforts to try
+         to locate her or her body.  In the light of their religion,
+         illiteracy, and the objective evidence, I can just accept as
+         plausible that they might not have thought it worthwhile to report
+         the matter to the Afghan authorities, but I do not find it credible
+         that they would not make any effort to try to find their daughter
+         or seek to renegotiate her return with the Taliban.  Further, I
+         note that the Appellants have not provided any evidence to confirm
+         that they even had a daughter/sister, and I am left in some doubt
+         as to whether or not she actually existed.
+
+         55.  However, even setting these matters aside, the evidence which
+         significantly undermines the credibility of the Appellant's
+         accounts is that they were photographed and fingerprinted by the
+         French authorities on 24 January 2019, namely before the events
+         they describe occurred, and that they denied that this had occurred
+         when the asylum interviews took place.
+
+         56.  With regard to their denials, the Appellants' explanations in
+         oral evidence were that they did not know, given their levels of
+         literacy, that they were in France, and they did not know they had
+         been fingerprinted.  I can accept that their literacy levels may be
+         such that they did not recognise the French language or that they
+         were in France.  It may even be plausible that they did not
+         understand what they were being asked to do in placing their hands
+         on a glass tablet was giving their fingerprints, although they were
+         unable to explain in oral evidence what they did think was
+         happening.  I do not, however, find credible that they did not know
+         they were being photographed as they were each directly facing the
+         camera when the photographs were taken, and so I do not find it
+         credible that they did not know they were being encountered by
+         officials in a country to which they did not belong on 24 January
+         2019.
+
+         57.  This meant that when they were asked about this in interview,
+         their denials are not credible.  They denied that anything had
+         happened at all, when a credible answer might have been to accept
+         that something had occurred even if they were not sure what.  That
+         they both denied in the same way an event which so clearly did
+         occur, after both had given detailed accounts of their experiences
+         in Afghanistan, suggests that they had colluded about what to say
+         in the event that they were asked about it, and that their answers
+         were designed to 'buy time' before deciding what to do about the
+         undermining material.  I find that the Appellants were attempting
+         to conceal information from the Home Office.  This damages their
+         credibility by statute but also in fact.
+
+         58.  I pause to consider the Appellants' level of literacy, which
+         they offered as a reason on several occasions in oral evidence when
+         they were challenged about some of their answers.  I can accept
+         that they may not have had significant educations, but I note that
+         both Appellants have set up and managed businesses in Kabul which
+         must have involved the ability to plan and organise their
+         businesses as well as manage stocks and finances.  The Second
+         Appellant, for example, was able to find the money to leave the
+         country, and both Appellants were literate enough to explain the
+         Afghan calendar in oral evidence.  They both showed knowledge of
+         their country and religion when asked about these in interview.
+         Overall, albeit they might not be able to read and write, I do not
+         find their illiteracy to be a credible explanation for their
+         failure to recall events or dates accurately.  Instead, I
+         considered it to be more of an attempted shield deployed by them
+         when responding to questions that significantly challenged their
+         versions of events.
+
+         59.  With regards to the dates, the Appellants now say that the
+         events occurred in Afghanistan earlier than they had previously
+         claimed.  They were forced to do this because they have had to
+         accept that they were encountered in France after receiving the
+         refusal letters.  In their statements, they say that this was
+         because the First Appellant wrongly converted the dates on which
+         things actually occurred, and they tried to clarify what they meant
+         in their oral evidence at the hearing.  Yet, their explanations
+         were confusing (as conceded by Mr Dixon in his submissions) and did
+         not provide a coherent timeline especially when coupled with their
+         oral evidence that they had spent six weeks at the house in France
+         rather than the fifteen days claimed by them and their wives in the
+         screening interviews.  They were also inconsistent with the several
+         questions and answers in interview about the dates and their
+         repeated confirmation in interview that the original dates they had
+         given were accurate.
+
+         60.  I might have been helped by some expert or objective evidence
+         about conversions from the Afghan calendar to the Gregorian
+         calendar but this was not available to me.  Instead, fearing that
+         an otherwise credible account might be deemed incredible only
+         because of the date issue, I spent a considerable amount of time
+         during the hearing trying to understand why the confusion might
+         have arisen, but I was unable to do so.
+
+         61.  I find that I am left with confusing and incoherent accounts
+         about dates, which has only arisen because the Appellants' original
+         account has been found wanting by the intervention of the French
+         authorities, and that the confusion arises only because of the
+         Appellants' attempts to undo the damage to their credibility caused
+         by that intervention when compared with the original accounts.
+
+         62.  I find myself satisfied, notwithstanding my attempts to
+         comprehend the Appellant's amended accounts, that what they, and
+         their wives, all said contemporaneously when they first entered the
+         country is more likely to be nearer the truth than their amended
+         accounts.  Those accounts included (what appeared then to be) a
+         coherent timeline that the events which formed the basis of their
+         claim started on 25 January 2019, that they left the country on 10
+         February 2019, and that they spent fifteen days at a house in
+         France before arriving in the United Kingdom.  I find therefore
+         that the events which they claimed to have occurred on 25 January
+         2019 could not have occurred on that date because they were in
+         France at the time.
+
+         63.  In other words, for all the above reasons (which include my
+         doubts about the events themselves as well as about the dates), I
+         do not find the Appellant's accounts credible.  I find it more
+         likely than not that they have colluded between themselves and
+         their wives to fabricate accounts of events in order to establish
+         an asylum claim in this country.  I find that they have not
+         discharged the burden upon them of showing that they are at risk
+         from the Taliban in Kabul."
+
+ 9. The grounds as pleaded point to the explanation given for the
+    discrepancy as to dates as being a mistaken conversion between
+    calendars.  They say also that the findings at [53] and [54] of the
+    Decision are in error because it was plausible that the Appellants
+    would not realise that they needed to bring the Taliban letter and that
+    their account about the kidnap of [K] was consistent.  In relation to
+    the findings at [56] of the Decision, the Appellants say that no
+    evidence has been produced about the way in which the photographs in
+    the French Documents were taken.  It is suggested that they might have
+    been taken with a mobile phone without the Appellants' knowledge.  It
+    is also said that the Judge, at [57] of the Decision, wrongly found
+    that the Appellants had denied the encounter during interview when they
+    had not done so.
+
+10. I deal with that last short point first.  Question 143 of the Second
+    Appellant's interview reads as follows:
+
+         "Q: And you are telling me that you were not encountered,
+         fingerprinted and photographed in France on 24 January 2019 is that
+         correct:
+
+         A: No."
+
+11. Taken alone, I accept that the answer may be ambiguous.  It is not
+    clear whether the Second Appellant is denying the encounter or
+    indicating that what is there said was not what the Second Appellant
+    was saying.  That answer however has to be read in the context of the
+    questions and answers which precede it as follows:
+
+         "Q140: The Home Office has a record of you, your wife and your
+         daughter being fingerprinted in Coquilles in France on 24 January
+         2019, the day before you claim your sister had been kidnapped.  Can
+         you explain this to me?
+
+         A140:     No, we were not fingerprinted.
+
+         Q141:    We have a record of your fingerprints and your photographs
+         being taken on this date the 24/01/2019, and you gave different
+         dates of birth for each of you, along with giving your daughter's
+         name as [P] and not [J].
+
+         A141: We were not fingerprinted.
+
+         Q142: Were you ever encountered by any authorities other than those
+         at airports when you flew? [Rephrased] Apart from having to pass
+         through airport security with passports given to you by the agent,
+         did you encounter any authorities on your journey to the UK?
+
+         A142: No."
+
+12. Read in the context of those answers, the Judge was entitled to read
+    the answer to question 143 as being a flat denial of the encounter.
+    The corresponding part of the First Appellant's interview is similarly
+    a clear denial.  It reads as follows:
+
+         "Q147: You said that your daughter was taken on 25 January 2019,
+         however the Home Office has information which says that your
+         fingerprints were taken by UK officials in Coquelles in France on
+         24 January 2019 can you please explain?
+
+         A147: No that's wrong.
+
+         Q148: Your photograph was taken and you gave a different name and
+         DOB, it is you and it was in France.
+
+         A148: We have not given anything.
+
+         Q149: Are you saying the prints taken in France which match you and
+         the photo taken which is yours, along with the other members of
+         your family who were also photographed in France on 24 January 2019
+         are not your's?
+
+         A149: No."
+
+13. Dealing then with the points made about the photographs and how those
+    were taken, Ms Khan had not seen the French Documents. I therefore held
+    those up to the camera during the hearing to allow her to see them.
+    She did not thereafter press a point that the Appellants could have
+    been unaware of how those were being taken.  As the Judge said, they
+    are taken facing the camera and the Appellants could not have been
+    unaware of the photograph being taken, whether it was taken on a mobile
+    phone or a more official device. As the Judge also pointed out, even if
+    the Appellants did not realise what the authorities were doing when
+    their fingerprints were taken, they must have known that something
+    official was occurring.  The Judge was entitled to find as damaging to
+    their credibility their initial stance regarding the French Documents
+    that the encounter did not happen.
+
+14. I turn then to the point about the conversion of the dates.  I accept
+    of course that, in Afghanistan, a calendar which is not that used in
+    the UK is generally adopted.  In the screening interview, a specific
+    date was not given in either calendar.  That interview took place on 25
+    February 2019 and, when asked about the date, the Appellants said that
+    it was "[o]ne month ago on a Friday".  The Appellants were not then
+    interviewed substantively until nearly three months later, on 8 May
+    2019.  They had in the interim instructed their solicitors.  Although I
+    accept that their solicitors were not funded to attend the interview
+    with them, those solicitors wrote a lengthy letter two days prior to
+    the asylum interview setting out the general case on risk to Sikhs
+    ([RB/D]).  I accept that this letter does not include any information
+    about the individual claim.  However, the Appellants had the benefit of
+    legal advice and the opportunity to explain the details of the claim to
+    those solicitors. That would include the opportunity to explain the
+    dates and work out the correct conversion if they were in any doubt.
+
+15. It is also worthy of note that when challenged during the substantive
+    interview about the timelines in light of the French Documents, they
+    did not say that they might be mistaken about the dates due to a
+    mistaken conversion.  They simply denied what the French Documents
+    showed.
+
+16. It was not until the statements for the appeal that they raised a
+    mistaken conversion as an explanation.  The First Appellant said this
+    ([AB/1-2]):
+
+         "1.  In response to Paragraphs 24-26 I wish to clarify that we are
+         Afghans and we normally use the Afghan calendar.  However, I was
+         trying to convert this to the UK calendar.  I told them in the
+         interview that I arrived in the UK on the first month and 25th day
+         of 2019.  However, I got confused in converting the dates in my
+         mind.  If you listen to the recording I am sure that you will hear
+         some confusion between me and the interpreter when I was trying to
+         give him the date.
+
+         2.   It may help if I give the dates in the Afghan calendar.  We
+         were attacked on the 4 Jaddi 1397 and my daughter was taken.  On
+         the 6 Jaddi 1937 we went to meet the Taliban to pay some of the
+         ransom.  We could not raise the whole amount but had 10000 US
+         Dollars.  On 8 Jaddi 1397, my son found the bloody cloths and
+         jewellery outside in a black back [sic] with a note.  They
+         threatened to take his wife if we did not pay up.  He had the note
+         read by the shop keeper.  The following day we left house with the
+         agent and stayed there for 10 days.  You will note the interpreter
+         did not mention the months in the interview.  He was trying to
+         explain by saying this month and that month.  He did not mention
+         January to me.  We left Afghanistan on 19/20 Jaddi 1397."
+
+17. The Second Appellant's statement ([AB/5-6] says this:
+
+         "1.  In response to Paragraphs 24-26 I wish to clarify that we are
+         Afghans and we normally use the Afghan calendar.  However, I was
+         trying to convert this to the UK calendar.  I told them in the
+         interview that I arrived in the UK on the first month and 25th day
+         of 2019.  However, I got confused in converting the dates in my
+         mind. My father and I were informed we would be asked about the
+         dates. So when we were at home we thought we would go through the
+         dates in our mind.  If listen to the recording of my father we are
+         sure that you will hear some confusion between him and the
+         interpreter when he was trying to give him the dates. I have not
+         received a copy of my recording.
+
+         ...
+
+         3. We got to the UK on 06 Hout 1397 which is 25.02.2019.  We
+         claimed asylum on the same day ..."
+
+18. The supposed confusion regarding dates during the interview is not
+    borne out when one reads the record of those interviews.  When the
+    First Appellant was asked the date of the incident at question 57, he
+    answered that it occurred on "25 January 2019".  He confirmed that this
+    was the correct date at question 60.  The record does not show that he
+    had any doubts or tried to give the date according to the Afghan
+    calendar as well in case he had made any mistake.  The Second
+    Appellant's interview is even starker.  When asked when the incident
+    happened at question 9, he replied "[i]t was Friday 25 January 2019. I
+    remember it like today".  There is no confusion reflected in the
+    answer.  Ms Khan suggested that not everything might have been written
+    down and that there might have been some confusion not reflected in
+    that answer.  Whilst I accept that the written record might not be
+    verbatim, it is difficult to read the answer as indicating any
+    confusion given particularly in light of the second sentence.  It is
+    difficult to see how difficulties surrounding interpretation of dates
+    could have infected two separate interviews.
+
+19. Ms Khan sought to suggest that the Judge erred by suggesting that
+    expert evidence might have been obtained.  She submitted that it was
+    not clear what an expert could have said.  I disagree that there is any
+    error in this regard.  An interpreter for example might have explained
+    the difference between the dates in the Afghan calendar as asserted in
+    the statements and what the dates would have been if the original dates
+    were adopted.  That might have explained some of the confusion.  The
+    methodology of conversion might have been explained.  As it was, the
+    Appellants tried to give this explanation themselves.  As appears at
+    [59] of the Decision, the attempts to explain the mistaken conversion
+    made matters worse.
+
+20. The Judge was entitled to rely on the inconsistency in dates.  As I
+    have already pointed out, the Appellants had ample time and even the
+    benefit of legal advice prior to the substantive interviews.  When
+    challenged about the dates at interview, they could have said (but did
+    not) that they might have converted the dates wrongly.  They could have
+    given the dates in the Afghan calendar as well as the Gregorian
+    calendar, but they did not do so.  Their continued insistence that they
+    had not been encountered by the authorities in France as they very
+    evidently had been merely served to damage their credibility further.
+
+21. The other points raised in the grounds concerning the failure to bring
+    the Taliban letter or the implausibility that the Appellants would have
+    left Afghanistan without knowing what had befallen [K] are merely
+    disagreement with the findings made.  The Judge was entitled to rely on
+    these points having considered the evidence.  In any event, once the
+    credibility of the incident is undermined by the evidence concerning
+    dates, the Judge did not need to give any further reasons.
+
+22. For those reasons, I am satisfied that no error is disclosed by
+    paragraphs [1] to [5] of the grounds which I have summarised above as
+    ground (1).
+
+23. I turn then to what I have summarised as ground (3) concerning the
+    general risk to Sikhs in Afghanistan.  Two points are made in the
+    pleaded grounds.  The first concerns the position of the Appellants'
+    female family members and their ability to practise their religion
+    openly.  The second concerns the Judge's reasoning based on TG and
+    Others.  I start with the second part of the ground as that is
+    concerned with the situation for Afghan Sikhs more generally.
+
+24. The ground of challenge to the Decision in this regard is, on its face,
+    broadly a disagreement with the Judge's finding that there is not a
+    general risk to Afghan Sikhs on return.  Paragraph [8] of the grounds
+    repeats the point which Ms Khan accepted to be misconceived, that the
+    Appellants should not be expected to relocate internally within
+    Afghanistan and that internal relocation would be unduly harsh.
+    However, Ms Khan sought to develop the point pleaded at [7] regarding
+    the Judge's findings based on TG and Others.  She submitted that the
+    Judge should have considered whether to depart from TG and Others based
+    on the background evidence of the current situation for Afghan Sikhs
+    which he had before him.  Mr Tufan did not object to the development of
+    the ground in this way.
+
+25. Ms Khan pointed out that the conclusion regarding general risk in TG
+    and Others was based on an insufficiency of evidence regarding
+    incidents of violence.  That conclusion in turn was based in part on
+    the historic nature of the incidents reported in those cases by Dr
+    Giustozzi (see record of the incidents relied upon at [40] of the
+    decision and what is said at [48] of the decision in that regard).  The
+    Tribunal in those cases also had the Respondent's Operational Guidance
+    Note ("OGN") dated June 2013 which is cited at [50] of the decision.
+
+26. Based on that material, the Tribunal made the following observations:
+
+         "78.         It is not disputed before us that historically members
+         of the Sikh and Hindu community in Afghanistan have been subjected
+         to what may be perceived as acts of persecution by both state and
+         non-state actors. The material we have been asked to consider
+         demonstrates that the number of such incidents has reduced (but
+         this might be explained by the reduction in the Sikh and Hindu
+         population) and there is currently little material to support a
+         claim of official state sponsored persecution. The material does
+         support a finding that there is ongoing harassment of and
+         discrimination against some members of the Sikh and Hindu community
+         in Afghanistan, as set out above, but the evidence includes very
+         few examples of recent acts of harm or threats of harm sufficient
+         to satisfy the necessary test. We bear in mind Dr Giustozzi's point
+         that this is an area that has not been prioritised by the media for
+         reporting but when we consider all the material available to us, we
+         find it of note that there is little to suggest that there have
+         been continuing recent incidents of harm toward Sikhs/Hindus.
+         Although Dr Giustozzi has described a picture of 'intensive
+         harassment' at page 12 of his report, he has not supported this by
+         drawing attention to specific examples of individuals being
+         repeatedly harassed. Expropriation has been said to have almost
+         stopped because the most valuable properties have already been
+         taken away. Under the heading 'post-2005 violence and harassment'
+         Dr Giustozzi focuses on examples of violence up to 2010 and
+         references to more recent years are vague and generalised . This is
+         notwithstanding the fact that Dr Giustozzi's researcher carried out
+         three interviews in December 2013-January 2014 with senior members
+         of Sikh and Hindu communities. We accept that whilst the subject
+         group diminishes in size opportunities to inflict harm may also
+         decrease and note that the small number of Sikhs and Hindus who
+         remain in Afghanistan have been reported to be even more vulnerable
+         to abuse (see UNHCR report 2013), but the lack of evidence of such
+         ongoing issues is a relevant consideration. Perhaps the best
+         evidence in support of the existence of a current real risk from
+         the perspective of the appellants is to be found in the Respondents
+         OGN of 2013 which we set out above."
+
+27. Against that background, Judge Chapman in these appeals had before him
+    the following evidence:
+
+      a) A report of the murder of a Sikh shopkeeper in Kabul in May 2019
+         ([AB/25-26]).  The Afghan police are reported to have arrested the
+         alleged murderers.
+
+      b) A letter from Dr Jasjit Singh, FHEA to the Minister of State for
+         Immigration dated 6 January 2019 ([AB/27-30]).  It appears that he
+         is a researcher at the University of Leeds.  His letter refers to
+         his involvement in fourteen immigration cases which involved
+         interviewing fourteen families about their lives in Afghanistan,
+         journeys to the UK and religious beliefs.  It appears that these
+         cases concerned families who were not believed about their Sikh
+         faith.  Mr Singh says that all fourteen families reported a fear of
+         persecution and threats.  Some of the specific accounts given are
+         not dissimilar to the account in this case which was disbelieved in
+         these appeals.  Mr Singh does not report any direct knowledge of
+         the situation in Afghanistan.  The letter makes reference to an
+         attack in July 2018.  It is said that there have since then been 17
+         other terror attacks, but it is not said that those targeted Sikhs
+         specifically.
+
+      c) A newspaper report about one individual returned to Afghanistan by
+         the UK and who was brought back to the UK by the British
+         Government.  It is claimed that the individual concerned was forced
+         to say that he had converted to Islam.  The Guardian report at
+         [AB/32-34] is largely concerned with the operation of the justice
+         system in Afghanistan.
+
+      d) A report of the shooting of the Head of the Sikh Community in
+         Kunduz in December 2016 ([AB/35-36].
+
+      e) A report of general abuses against Sikhs dated June 2016 ([AB/37-
+         40]).
+
+      f) Accounts of a suicide bombing in Jalalabad in July 2018 (being the
+         attack referred to by Dr Singh above).  This killed "at least 13
+         members of the [Sikh] community" although another of the accounts
+         (and the UNHCR guidelines referred to below) report that "17 of the
+         dead were Sikhs and Hindus" ([AB/41-47]) (the distinction perhaps
+         explained by a difference between Sikhs and Sikhs and Hindus taken
+         together).
+
+      g) The Respondent's Country Policy and Information Note ("CPIN") dated
+         May 2019 at [AB/50-55] provides details of the position of Afghan
+         Sikhs generally including some incidents of harassment and threats
+         and including the July 2018 attack.
+
+      h) The UNHCR guidelines from August 2018 at [AB/56-105] report that
+         non-Muslim minority groups suffer general discrimination, "societal
+         harassment and in some cases violence".
+
+      i) An OHCHR report at [AB/106-] dated 5 September 2018 also refers to
+         the July 2018 attack and other discrimination and harassment based
+         largely on historic events.
+
+28. I turn then to the way in which Judge Chapman dealt with the general
+    risk, beginning at [64] of the Decision.  He summarised the Appellants'
+    case in that regard at [64] and [65] of the Decision as follows:
+
+         "64. Mr Dixon presented the appeal on the basis that even if the
+         Appellants are found to be not credible with regard to their core
+         claim and are not at risk from the Taliban, they are at risk of
+         persecution because of their religion in Afghanistan.  I now
+         consider this aspect of the appeal.
+
+         65.  In doing so, I disregard my adverse credibility findings
+         regarding the events concerning the Taliban because the claim is
+         that, even without these events occurring, the Appellants are at
+         risk of persecution on the basis of their religion and ethnicity
+         alone.  My credibility findings are such that I find that I must
+         treat with some caution the Appellants' evidence about their likely
+         circumstances on return but I have been able to rely on the
+         objective evidence presented in the appeal which has not been
+         disputed.  I take into account that, taking away their evidence
+         about the Taliban, this leaves open the possibility that the sole
+         reason for them leaving the country is that subjectively they feel
+         that circumstances there are now so bad that they felt obliged to
+         leave, and that they have felt obliged to fabricate a claim in
+         order to do so."
+
+29. As the Judge rightly recorded at [66] of the Decision (and as is
+    recorded as being agreed), the starting point for his consideration was
+    the guidance given in TG and Others.  The Judge set out the factors
+    which required assessment in accordance with that guidance.  In order
+    to assess the Appellants' evidence regarding the general risk, the
+    Judge made the following findings about their profile at [69] to [70]
+    of the Decision:
+
+         "69. The Appellants, their wives, and the Second Appellant's
+         daughter lived together in a family unit in a district of Kabul
+         where there are eighty to ninety Sikh families living as well as
+         people from other, mixed, religions.  They have lived there for
+         many years and have established themselves there.  Objective
+         evidence shows that most Sikh families in Afghanistan live in Kabul
+         because intolerance towards them there is not as acute as in other
+         parts of the country.  The First Appellant used to own a business
+         selling footwear but the family now maintains itself from income
+         from the Second Appellant's business selling children's toys.  He
+         travels daily to Kabul city to run the business.  He was able to
+         put his hands at short notice on the considerable sum of $10,000
+         from the business to pay the Taliban and the agent to leave the
+         country (he confirmed in evidence that this was one amount of
+         $10,000 only because the Taliban did not take it when offered to
+         him).  They describe themselves as being above average in terms of
+         wealth.  The family attends the local Gurdwara, which is close to
+         their home.  The daughter has received an education in Kabul.
+
+         70.  The Appellants confirm that they have been insulted and
+         harassed as a result of their religion even though they are not
+         from the part of the religion which wears Turbans and that they
+         have suffered discrimination.  This is consistent with the
+         objective evidence, and not disputed by the Respondent.  I note
+         that, although I have left open the possibility that they have left
+         the country because of conditions for Sikhs there, this is not what
+         the Appellants have claimed.  Their claim was originally based only
+         on the events concerning the Taliban which I have not found
+         credible."
+
+30. The Judge then assessed the profile as he had found it to be against
+    the factors appearing in the guidance in TG and Others and, at [71] of
+    the Decision, expressed himself to be satisfied that the claims would,
+    following that guidance, be refused as none of the factors applied.
+    The factors were broadly the position of women if unprotected by a male
+    family member, financial situation, access to religion and access to
+    education for any minor children.  The Judge summarised his conclusion
+    as follows:
+
+         "... Although I accept they are likely to suffer discrimination,
+         they are of above average wealth, have shown that they can manage
+         businesses, and there is nothing in their past to show that the
+         discrimination they have suffered is over and above that suffered
+         by the Sikh community in Kabul generally, which, according to TG
+         and others does not pass the required threshold."
+
+31. The Judge nonetheless went on to consider the other background material
+    before him.  He did so on the basis of the submission made by the
+    Appellants' representative that he should consider whether to depart
+    from TG and others.  In other words, he addressed the self-same
+    submission as Ms Khan made to me.  At [72] to [74] of the Decision he
+    summarised the other background evidence.  I do not repeat what is
+    there said as Ms Khan did not suggest that any of that was an
+    inaccurate summary of the evidence he had.
+
+32. Having summarised that material, he went on to reach his findings on
+    that submission at [75] to [79] of the Decision as follows:
+
+         "75. The CPIN concludes, as did the Upper Tribunal, that, in
+         general, Sikhs and Hindus are not at risk of persecution or serious
+         harm from the state, and that, in general, there are not very
+         currently very strong grounds supported by cogent evidence to
+         depart from the conclusions reached in TG and others.
+
+         76.  I must follow the country guidance case unless there are very
+         strong grounds, supported by cogent evidence, to justify departing
+         from it, applying (SG (Iraq) v SSHD [2012] EWCA Civ 940 (paragraph
+         47).
+
+         77.  I have weighed all of the above evidence very carefully.  It
+         demonstrates that Sikhs continue to face significant problems in
+         Afghanistan but that this was the case in 2015 when TG and others
+         was decided.  There have been some specific incidents of violence
+         involving Sikhs since then but, in my judgement, they provide the
+         same limited evidence that was described in TG and others (in the
+         part of the judgement referred to me by Mr Dixon and which I have
+         cited in noting his submissions above).
+
+         78.  I find the most compelling feature of the updated evidence to
+         be that the numbers of Sikhs continue to dwindle, but this was also
+         a feature of the evidence before the Upper Tribunal in 2015.
+         Although the evidence suggests that numbers have continued to
+         reduce, the assessment of risk is not simply a matter of numbers,
+         and, balanced against this, there is evidence of efforts being made
+         by the authorities to provide protection and new facilities to
+         those that remain.  The declining numbers of Sikhs living [in]
+         Afghanistan may be a reflection of more and more choosing to leave
+         merely because they are fewer in number than because of greater
+         persecution, and I am not sufficiently satisfied, on the evidence
+         before me that the latter is the case.
+
+         79.  For these reasons, I find that there is insufficient evidence
+         to satisfy me that I should depart from the country guidance in TG
+         and others.  Having considered the Appellants profiles and that of
+         their family members, I am not satisfied that they are at risk of
+         persecution, harm or ill-treatment which crosses the threshold to
+         entitle them to protection in the United Kingdom."
+
+33. I asked Ms Khan what the Judge had got wrong in addressing what was in
+    effect the submission she had made to me.  She said only that due to
+    the levels of violence, there was cogent evidence of durable change.
+    That, as the pleaded ground in this regard, is merely a disagreement
+    with the conclusions of the Judge reached on the evidence before him.
+    It does not disclose any error of law.
+
+34. I turn then to the first part of the ground which I summarised above as
+    (3) dealing with the position of the Second Appellant's wife and what
+    is said about the risk to her and modification of her behaviour.
+
+35. The Second Appellant's wife in her statement at [AB/9-10] says that she
+    is unable to live "a safe life where [she] can practice [her] religion
+    safely".  She says that as a woman in Afghanistan she is "confined to
+    [her] home" and "a prisoner in [her] own home".  She does not say why
+    that is so or that she has individually suffered any attacks or threats
+    on account of either her sex or religious beliefs.
+
+36. Ms Khan directed my attention to [40] of the Decision which summarises
+    the submission made by the Appellants' Counsel on this point as
+    follows:
+
+         "A further aspect of these considerations is the risk to women.  Mr
+         Dixon referred me to the Home Office Country Policy and Information
+         Note ('CPIN'), dated May 2019, which refers to 'Sikh women don't
+         have a good life here.  They can't go outside they can't dress as
+         their culture, and can't go outside for sightseeing with their
+         families'.  Mr Dixon submitted that these were all factors to also
+         take into account when considering the claim on human rights
+         grounds because they amount to very significant obstacles to
+         integration under paragraph 276ADE(1)(vi) of the immigration rules
+         such that Article 8 is also engaged..."
+
+37. The pleaded ground is to the effect that the Judge has failed to take
+    into account why the Second Appellant's wife would modify her behaviour
+    and whether that would be to avoid persecution.  That is not the way in
+    which the case was put to Judge Chapman (as set out above) and the
+    Judge cannot be faulted for not considering it in that way.
+    Nonetheless, I go on to consider it.  The pleaded ground is based on
+    the Supreme Court's judgment in HJ (Iran) v Secretary of State for the
+    Home Department [2010] UKSC 31 ("HJ (Iran)") and in particular the
+    stages for consideration by a Tribunal or Court at [35] of the judgment
+    as follows (so far as relevant with my emphasis added):
+
+         "(a) The first  stage,  of  course,  is  to  consider  whether  the
+         applicant is indeed gay. Unless he can establish that he is of that
+         orientation he will not be entitled to be treated as  a  member  of
+         the particular social group. But I would regard this  part  of  the
+         test as having been satisfied if the applicant's case is that he is
+         at risk of persecution because he is suspected of being gay, if his
+         past history shows that this is in fact the case.
+
+         (b) The next stage is to examine a group  of  questions  which  are
+         directed to what his situation will be on return. This part of  the
+         inquiry is directed to what will  happen  in  the  future.....  The
+         question is  how  each  applicant,  looked  at  individually,  will
+         conduct himself if returned and how others will react  to  what  he
+         does. Those others will include everyone with whom he will come  in
+         contact, in private as well as  in  public.  The  way  he  conducts
+         himself may vary  from  one  situation  to  another,  with  varying
+         degrees of risk. But he cannot and must not be expected to  conceal
+         aspects of his sexual orientation which he is unwilling to conceal,
+         even from those whom he knows may disapprove of  it.  If  he  fears
+         persecution as a result and that fear is well-founded, he  will  be
+         entitled to asylum however unreasonable his refusal  to  resort  to
+         concealment may be. The question what is reasonably  tolerable  has
+         no part in this inquiry.
+
+         (c) On the other hand, the fact that the applicant will not be able
+         to do in the country of his nationality everything that he  can  do
+         openly in the country whose protection he seeks is not the test. As
+         I said earlier (see para 15), the Convention was  not  directed  to
+         reforming the level of rights in the country of origin. So it would
+         be wrong to approach the issue on the basis that the purpose of the
+         Convention is to guarantee to an applicant who is gay that  he  can
+         live as freely and as openly as a gay person as he would be able to
+         do if he were not returned. It does not guarantee to  everyone  the
+         human rights standards that are applied by  the  receiving  country
+         within its own territory. The focus throughout must be on what will
+         happen in the country of origin.
+
+         (d) The next stage, if it is found that the applicant will in  fact
+         conceal aspects of  his  sexual  orientation  if  returned,  is  to
+         consider why he will do so. If this will simply be in  response  to
+         social pressures or for cultural or religious reasons  of  his  own
+         choosing and not because of a fear of persecution,  his  claim  for
+         asylum must be rejected. But if the reason why he  will  resort  to
+         concealment is that he genuinely fears that otherwise  he  will  be
+         persecuted, it will be necessary to consider whether that  fear  is
+         well founded.
+
+         (e) This is the final and conclusive question: does he have a well-
+         founded fear that he will be persecuted? If he has,  the  causative
+         condition that Lord Bingham referred to in Januzi v  Secretary  of
+         State for the Home Department [2006] 2 AC 426, para  5  will  have
+         been established. The applicant will be entitled to asylum."
+
+38. Those stages are set out in HJ (Iran) in the context of an asylum claim
+    based on sexual orientation, but the same stages may be applied by
+    analogy to a situation where a person is required to modify the
+    practice of his or her religion in order to avoid persecution or, for
+    example, to adopt conduct which he or she would otherwise not follow in
+    order to avoid persecution on grounds of sex.
+
+39. Ms Khan drew my attention to [91] to [93] of TG and Others which dealt
+    with the position of Sikh women in Afghanistan (again with my emphasis
+    added):
+
+         "Women
+
+         91.  In relation to the role of women it is noted in the Rawan News
+         article dated 11th July 2013 and headed  'Tough  Times  for  Afghan
+         Hindus and Sikhs' that it is alleged that Sikh women cannot go  out
+         of their houses. Dr Giustozzi in his evidence refers to the fact he
+         has never seen a single Sikh woman, identifiable as  such,  on  the
+         streets in Afghanistan and would not expect to do so. The  role  of
+         women within Hindu and Sikh families within Afghanistan appears  to
+         be based around the home and family life.
+
+         92.  Dr Giustozzi also referred to Sikh and Hindu women not leaving
+         the house unless properly covered, as with most if not all women in
+         Afghanistan, in order to avoid an  adverse  reaction  amongst  some
+         members of the Muslim community. We accept that  a  Sikh  or  Hindu
+         woman  not  'properly  attired'  may  be  subjected  to  abuse  and
+         harassment on the streets in Afghanistan but the  evidence  clearly
+         indicates that this is the  same  for  all  women,  whatever  their
+         religious persuasion, including Muslim women. It was submitted that
+         such a requirement may give rise to an HJ (Iran) issue. Whilst our
+         attention was not drawn to Y&Z by the parties we can confirm that
+         we have considered the application of the HJ (Iran) issue to  the
+         religious  context although this  argument  was  not  adequately
+         developed before us and fails to  distinguish  between  members  of
+         these religious groups who choose not to go out alone or covered as
+         that is the way they ordinarily behave and those that may be forced
+         to  hide  a  fundamental  element  of  their  belief(s)  to   avoid
+         persecution.
+
+         93.  Nevertheless we do consider that a Sikh or Hindu single  woman
+         without family protection from a husband, other male member of  the
+         family, or within a family unit in which there is no male member of
+         the household able to provide effective protection, may be entitled
+         to international protection based upon threats and related acts  as
+         a result of their perceived vulnerability as a member of a minority
+         religious group with no form of available protection against  such.
+         In this respect we note the evidence regarding abductions of  women
+         and female children  and  forced  conversions  to  Islam.  Credible
+         threats of any form of violence or serious harm  (including  forced
+         marriage involving  forced  conversion  or  not),  where  there  is
+         inadequate protection should entitle that  person  to  a  grant  of
+         international protection."
+
+    Ms Khan accepted that the Tribunal in TG and Others had left the "HJ
+    (Iran)" point open.  The finding made at [93] of the decision is to be
+    found in the guidance provided but is not relevant to these appeals as
+    the female members of the family have the protection of the male
+    members.  The Tribunal's guidance expressly did not say however that
+    women were at risk of persecution on account of a combination of their
+    sex and Sikh religious identity.
+
+40. Mr Tufan drew my attention to the current Country Information and
+    Policy Note ("CPIN") from March 2021 (Version 6.0) concerning Hindus
+    and Sikhs in Afghanistan which sets out an interview with an Afghan
+    Sikh female MP.  She indicated, in response to the question whether a
+    Sikh female could go out alone and whether they are required to cover
+    themselves, that female Sikhs wear traditional scarfs and did not
+    consider that there would be an issue in Kabul.  I accept of course
+    that this could not have influenced the Judge's thinking as it was not
+    published at that time and therefore not before him.
+
+41. There was however an earlier CPIN dated May 2019, excerpts of which
+    were before the Judge at [AB/50-55].  That deals with the position of
+    women in Afghanistan more generally, many of whom reported harassment
+    due to their attire.  It is said that "[a]lmost all women reported
+    wearing some form of head covering.  Some women said they did so by
+    personal choice, but many said they did so due to societal pressure and
+    a desire to avoid harassment and increase their security in public."
+    It is there reported that "Sikh women do not have a good life in
+    Afghanistan because they were unable to go outside or dress in
+    accordance with their culture."
+
+42. I accept that the Judge did not make any express finding stemming from
+    this evidence regarding the female dependents in these appeals.
+    However, the starting point for the Tribunal on this issue was whether
+    there would be treatment amounting to persecution which would or might
+    require an individual to modify his or her behaviour. The Judge made
+    findings that the Appellants were not at general risk of persecution.
+    There was evidence of potential harassment due to the combined factors
+    of sex and religion but, importantly, there was no evidence that Afghan
+    Sikh women face persecution on that account. The Second Appellant's
+    wife's evidence was that she stayed at home, but it is notable as the
+    Judge observed that their daughter attended education. The Second
+    Appellant's wife did not say that she had been attacked in the past or
+    even threatened due to the combined factors of her sex and religion.
+    Importantly, the Judge also noted that the Appellants' claim was not
+    primarily concerned with the risk to Afghan Sikhs generally.  Having
+    reached the conclusion he did regarding the lack of a well-founded fear
+    of persecution based on the Appellants' general position as Afghan
+    Sikhs, any failure to make a finding in relation to the risk to the
+    Second Appellant's wife specifically, particularly given the way in
+    which the appeals were presented, could make no difference to the
+    outcome.
+
+43. Finally, the grounds raise as summarised at (4) above a point regarding
+    obstacles to integration in Afghanistan under paragraph 276ADE(1)(vi)
+    of the Immigration Rules ("Paragraph 276ADE(1)(vi)").  The ground as
+    pleaded is that the claim in this regard is made out "for the same
+    reasons as that for the protection claim but the threshold for proving
+    the same is much lower since you do not have to show a real risk of
+    persecution or serious harm and the IJ has failed to consider this".
+    Ms Khan did not press this ground.  She was right not to do so.
+
+44. The Judge considered the issue at [82] of the Decision as follows:
+
+         "I incorporate into my consideration of this issue my above
+         findings.  I acknowledge that the Appellants are part of a small
+         minority community in Afghanistan but they have always been part of
+         that small community.  I acknowledge that they have given up what
+         they had in order to seek a new life in the United Kingdom, and
+         that re-establishing themselves will not come without some
+         difficulty.  However, they have done this in the past and I do not
+         consider that they will be unable to do so if returned.  They will
+         be returned as a family unit, and will have support from others in
+         their community.  They are not without the means, skills and
+         qualities to be able to do so again without there being the sort of
+         very significant obstacles envisaged by paragraph 276ADE(1)(vi)".
+
+45. The issue for consideration under Paragraph 276ADE(1) is whether the
+    Appellants are able to integrate in Afghanistan.  As the Court of
+    Appeal said in Secretary of State for the Home Department v Kamara
+    [2016] EWCA Civ 813 (to which judgment Judge Chapman had regard), this
+    "calls for a broad evaluative judgment to be made as to whether the
+    individual will be enough of an insider in terms of understanding how
+    life in the society in that other country is carried on and a capacity
+    to participate in it".  The task for the Judge is not, as the pleaded
+    ground appears to suggest, merely a reconsideration of the protection
+    claim but with a lower threshold.  In any event, Judge Chapman took
+    into account his earlier findings in relation to the protection claim.
+    The Judge properly directed himself as to the test which applies.
+    Applying that test to the facts and evidence here, he was entitled to
+    reach the findings he did for the reasons he gave.  There is no error
+    of law in this regard.
+
+46. For the foregoing reasons, there is no error of law in the Decision.  I
+    therefore uphold the Decision with the consequence that the Appellants'
+    appeals remain dismissed.
+
+
+
+DECISION
+
+The Decision of First-tier Tribunal Judge Chapman promulgated on 8 August
+2019 does not involve the making of an error on a point of law.  I
+therefore uphold that decision with the consequence that the Appellants'
+appeals remain dismissed.
+
+
+Signed: L K Smith
+
+Upper Tribunal Judge Smith
+
+Dated: 24 June 2021
+
+
+

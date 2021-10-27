@@ -1,0 +1,656 @@
+
+                                    [pic]
+IAC-FH-CK-V1
+
+Upper Tribunal
+(Immigration and Asylum Chamber)      Appeal Number: HU/09588/2019 (V)
+
+
+                            THE IMMIGRATION ACTS
+
+
+|Heard at Manchester CJC via Skype            |Decision & Reasons           |
+|                                             |Promulgated                  |
+|On 2 December 2020                           |On 21 December 2020          |
+|                                             |                             |
+
+
+                                   Before
+
+                        UPPER TRIBUNAL JUDGE PLIMMER
+
+                                   Between
+
+               THE SECRETARY OF STATE FOR THE HOME DEPARTMENT
+                                                                   Appellant
+                                     and
+
+                                 Mr Jean [K]
+                                                                  Respondent
+
+
+Representation:
+
+For the Appellant:     Mr Z Malik, Counsel
+For the Respondent:    Mr D Bazini, Counsel
+
+                          DECISION AND REASONS (V)
+                              Given ex tempore
+
+The Secretary of State for the Home Department ('the SSHD') has appealed
+against a decision of the First-tier Tribunal ('FtT') promulgated on 17
+June 2020, in which it allowed the respondent's appeal on human rights
+grounds (Article 8 of the ECHR).  I shall refer to the respondent during
+the course of this decision as K.
+
+The FtT did not make an anonymity direction and one has not been sought
+before me.  There has been no application for international protection and
+although K has four children, all born in the United Kingdom ('UK') between
+2008 and 2019, I make little reference to them.
+
+Background
+
+K is a citizen of the Democratic Republic of Congo ('the DRC').  He married
+his wife, also a citizen of the DRC, in 2007, when they were both living in
+the DRC.  I have been told that she was granted refugee status in 2010 in
+the UK, at a time when K worked as a lawyer in the International Criminal
+Court ('ICC') in The Hague.  He took a position as a case manager in the
+defence team of Jean-Pierre Bemba.   K's wife and children resided in the
+UK whilst he worked in The Hague.
+
+K was charged in November 2013 with offences relating to the Rome Statute,
+detained and bailed.  In December 2014 he entered the UK, having been
+granted entry clearance to join his family members here, whilst dealing
+with the charges against him under the Rome Statute.  The skeleton argument
+submitted on behalf of K before the FtT states that the reason given for
+granting K entry clearance outside the Immigration Rules ('the Rules') was
+as follows: "separation from your family for an indeterminate period is on
+the balance of probabilities unjustified."
+
+The SSHD's summary of K's immigration history is set out in the covering
+page to the SSHD's bundle before the FtT.  Just pausing there, it is
+regrettable that during the course of these proceedings there has been no
+comprehensive chronology prepared by either party.  I have done my best to
+piece one together from the various documents before me.  I note that there
+must have been some delay in the international criminal proceedings because
+there was no final conviction until 17 September 2018.  Between 2014 and
+2018 K made a number of applications to remain outside of the Rules, which
+were all granted.  He therefore benefitted from rolling six-month periods
+of leave up until his leave was curtailed in a decision dated 30 November
+2018.  In that decision the SSHD noted that K had been granted leave
+outside of the Rules since December 2014 and more recently on 30 July 2018,
+but that he was found guilty on 17 September 2018 of nine counts of giving
+false testimony when under obligation to tell the truth and 12 counts of
+corruptly influencing a witness, obstructing or interfering with the
+attendance or testimony of a witness, retaliating against a witness for
+giving testimony or destroying, tampering with or interfering with the
+collection of evidence.  He was, however, found not guilty of presenting
+evidence that the party knows to be false or forged.  He was sentenced to
+eleven months of imprisonment but that was deemed to have been served
+whilst he was in pre-trial detention.  The SSHD therefore considered that
+the requirements of the concession which K had hitherto benefitted from
+ceased to apply upon his conviction and said this:
+
+"In the particular circumstances of your case it has been concluded that
+the need to maintain the integrity of the immigration laws outweighs the
+possible effect on you that might result from you having to re-establish
+family life outside the UK.  It is noted that prior to your grant of
+limited leave outside of the Rules you lived for a substantial period of
+time away from your family whilst working at The Hague in the Netherlands.
+It is considered that you have previously voluntarily chosen to live and
+work away from your family and therefore given the severity of the offences
+for which you have been found guilty at the ICC it remains that the need to
+maintain the integrity of the immigration laws outweighs the prospect of
+you re-establishing family life outside of the UK."
+
+That meant that K's leave was curtailed with immediate effect on 30
+November 2018.  However, he had an outstanding application to remain on the
+basis of family reunion.  Different dates are given for this application in
+the papers but it appears that it was dated 30 November 2017 and received
+by the SSHD on 11 December 2017.  I shall refer to this as the 2017
+application.  The 2017 application was refused in a decision dated 3 May
+2019.  In that decision the SSHD made it clear that K's application for
+family reunion in the UK was refused and gave three reasons in bullet
+points.  The first bullet point states that K had ceased to meet the legal
+requirements of the concession, bearing in mind his conviction at the ICC.
+The second bullet point refers to section 55 of the Borders, Citizenship
+and Immigration Act 2009 concerning the best interests of the children and
+repeats the point that was made in the notice of curtailment that K had
+previously voluntarily chosen to live and work away from his family and
+could do so again.  The third bullet point says this:
+
+"Your background, behaviour, character, conduct or associations shows you
+should not be granted entry clearance or leave to enter or remain in the UK
+for one or more of the grounds set out in paragraphs 320 and 322 of the
+Immigration Rules."
+
+Procedural History
+
+K appealed the decision dated 3 May 2019 refusing his application for
+limited leave to remain as the partner of a person granted refugee status
+pursuant to Rule 352A, to the FtT.  This appeal has a lengthy and rather
+unhappy procedural history, as summarised within the FtT's decision at [3]
+to [8].  It is relevant to note that there were at least two Case
+Management Review ('CMR') hearings before the FtT and it also a 'for
+mention' hearing before those CMRs.  At the for mention hearing on 12
+August 2019 the SSHD's representative indicated that although the SSHD's
+bundle had been issued on 9 August 2019, she remained without it and
+decisions needed to be made as to whether the matter would be remaining
+with the Presenting Officers' Unit or Treasury Counsel might be instructed.
+
+
+At a CMR on 9 September 2019 the Presenting Officer representing the SSHD
+indicated that the decision under appeal dated 3 May 2019 was brief and in
+his view deficient but he had no authority to withdraw it.  He indicated
+that there was a need to give a rational decision which properly
+particularised the SSHD's position as to K's position vis-�-vis his wife
+and children, the children's best interests and Article 8.  He therefore
+requested an adjournment of the listed hearing date.  K's representative,
+Mr Cole, did not object to this and directions were given accordingly.  The
+FtT noted at [6] of its decision that the SSHD "would within three weeks
+consider supplementing or withdrawing their decision [dated] 3 May 2019".
+
+On 25 October 2019 a second CMR was held.  Again Mr Cole appeared on behalf
+of K and another Presenting Officer, Mr Spence appeared on behalf of the
+SSHD.  The SSHD's representative relied upon a further letter dated 25
+September 2019 which says this:
+
+"Further to the direction issued on 10 September I write on behalf of the
+Secretary of State to confirm that the decision dated 3 May 2019 is
+maintained, supplemented by the additional information annexed to this
+letter.  To further clarify, paragraph 322(1C)(iii) of the Immigration
+Rules is relied upon.  The Secretary of State has today been notified of
+the birth to the appellant's wife on [xxx] of a child who may be entitled
+to British citizenship.  The birth of this child does not outweigh the
+substantial reasons for refusal as set out in the letter of 3 May 2019 and
+the additional information annexed to this letter.  This matter will be
+fully argued at the substantive hearing."
+
+On behalf of the appellant Mr Cole indicated that he was in a position to
+serve the relevant evidence and a skeleton argument in response to this
+further letter from the SSHD and directions were made to that effect.  At
+this CMR, Mr Cole queried whether Treasury Solicitors would be instructed
+as this was raised as a possibility at the 'for mention' hearing, but Mr
+Spence, the presenting officer who appeared on behalf of the SSHD,
+confirmed that the Presenting Officers' Unit in Leeds would be dealing with
+the matter.  Directions were made for the parties to comply with.
+
+On the Friday before the hearing (6 March 2000), Mr Spence applied (by way
+of email) for an adjournment of the hearing which had been listed for
+Monday 9 March 2020.  That referred to Mr Cole having submitted a skeleton
+late in breach of directions and the SSHD needing further time to fully
+consider the position and arguments in response and that had not been
+possible within the short timeframe.    That email is stamped as having
+been received by the Tribunal on 9 March, which was the date of the
+hearing.  It therefore went before the FtT Judge who heard the appeal.  The
+judge referred to the application for an adjournment at [12] of the
+decision - this makes it clear that Mr Spence no longer sought an
+adjournment and said that work had been done in London over the weekend and
+they were ready to proceed, save that the FtT was invited to mark the file
+as the SSHD having withdrawn her decision.
+
+FtT Hearing and Decision
+
+The FtT recorded Mr Spence's application to mark the file as the SSHD
+having withdrawn the decision under appeal in the following terms at [14]:
+
+             "Mr Spence requested that the matter should be marked
+             withdrawn as the Secretary of State would like to revisit the
+             file and give further consideration to her decision,
+             particularly as regards the children where case law may have
+             further developed of late.  It is not the Secretary of State's
+             position that she is asking for the matter to be marked
+             withdrawn because this is with a view to the grant of limited
+             or discretionary leave to remain.  It is simply so the
+             Secretary of State can revisit this matter once more."
+
+The FtT then recorded Mr Cole's objections to that application at [16] to
+[21], which I will turn to later on in this decision.  Suffice it to say
+for now, the FtT did not consent to treating the decision as withdrawn.
+After a decision was made on this, Mr Spence resurrected the application
+for an adjournment which had been made on the papers.  That was objected to
+by Mr Cole and refused by the FtT.  The FtT referred to the earlier
+indication at the beginning of the hearing that the SSHD was ready to
+proceed - see [32] to [36] of the FtT's decision.  The decision to refuse
+the adjournment has not been the subject of an appeal and I need say no
+more about it.
+
+The FtT then summarised the evidence, noting that the SSHD's representative
+did not cross-examine K or his wife and made no submissions.  The FtT then
+set out its findings of fact by reference to two particular parts of the
+relevant legal framework.  The FtT first accepted that K met all the
+relevant requirements of Rule 352A, i.e. as a person seeking leave to
+remain in the UK as a partner of a person granted refugee status.  The only
+matter that had been raised on behalf of the SSHD to dispute this related
+to paragraph 322(1C)(iii) of the Rules, as relied upon in her letter dated
+25 September 2019.  I need not say much more about this because it has been
+accepted on behalf of the SSHD that 322(1C)(iii) only applies to persons
+seeking indefinite leave to enter or remain ('ILR') and K was seeking
+limited leave to remain.  It follows that the only reason relied upon by
+the SSHD in support of the position that K did not meet the requirements of
+the Rule 352A fell away.  It followed that the FtT found that K met the
+requirements of Rule 352A and that was prima facie sufficient to allow his
+appeal on human rights grounds - see TZ (Pakistan) and PG (India) v SSHD
+[2018] EWCA Civ 1109.
+
+The FtT nevertheless went on to consider the appeal by reference to section
+117B of the Nationality, Immigration and Asylum Act 2002 ('the 2002 Act')
+and found that on the undisputed factual matrix, both provisions within sub-
+section (6) applied to this case i.e. K had a genuine and subsisting
+parental relationship with his minor "qualifying" children and it would not
+be reasonable to expect them to leave the UK.  The appeal was therefore
+allowed on Article 8, ECHR grounds.
+
+Appeal to the Upper Tribunal ('UT')
+
+The SSHD submitted an application seeking permission to appeal to the UT in
+grounds dated 17 August 2020.  Those grounds were lodged 47 days late but
+it was submitted that there was a significant public interest in this case
+because K had been convicted in the ICC and the UK should not be a safe
+haven for such individuals.  The grounds relied upon were three-fold.  The
+first ground challenged the FtT's approach to the withdrawal of the
+decision under appeal.  The grounds submitted that the FtT failed to direct
+itself and apply ZEI & Ors (Decision withdrawn - FtT Rule 17 -
+considerations: Palestine) [2017] UKUT 292 (IAC) ('ZEI').  Ground 1
+submitted that had the Tribunal considered the position lawfully and in
+accordance with ZEI, its analysis of whether there was good reason for the
+appeal not to be treated as withdrawn would have been different.
+
+The second ground of appeal related to the FtT's approach to Rule 352A.
+Two points are made.  It was first contended that Rule 352A did not apply
+because of the wife being a British citizen.  That has been abandoned as
+this was based upon a mistaken belief that the wife was a British citizen
+when she has been a refugee at all material times.  The second point was
+that the FtT should have considered Article 1F even though that was not
+explicitly raised within the decision under appeal or the further September
+2019 letter or by the SSHD when arguing the matter before the FtT.  The
+third ground of appeal submitted that the FtT was wrong to find that
+section 117B(6) benefitted K, without considering the remainder of the
+factors set out in Part 5A of the 2002 Act.
+
+FtT Judge Parkes granted permission to appeal and extended time.  He
+observed:
+
+"Although the judge referred to Rule 17(2) it is arguable that he
+approached the obligation to treat the decision as withdrawn from the wrong
+angle and erred in having regard to the appellant's wife's citizenship and
+the appellant's own conviction at the ICC."
+
+K submitted a reply in response to the grounds of appeal that was drafted
+by Mr Bazini, who has appeared on behalf of K before me.  I shall turn to
+the contents of that reply in more detail in due course.
+
+At the hearing before me Mr Malik relied upon a comprehensive skeleton
+argument in which he submitted that the FtT erred in law in its approach to
+the withdrawal issue and this was a material error of law.  Mr Malik no
+longer placed any reliance upon the matters contained in the remainder of
+the pleaded grounds of appeal.  He was correct to do so.  K's wife has
+never been a British citizen.  As to the Article 1F point, it is very
+difficult to see how the FtT could be said to have erred in law when
+Article 1F was not raised in any shape or form within the decision under
+appeal, that is to say the decision dated 3 May 2019, and then when the
+SSHD was given the opportunity to clarify her case and produce an
+additional letter of 25 September 2019 or at the hearing.  As to section
+117B(6), Mr Malik accepted that the factual matrix that underpinned this
+conclusion was not in dispute and was entirely open to the FtT.
+
+It follows that I need only address ground 1 - the FtT's approach to the
+withdrawal of the SSHD's decision.
+
+Legal Framework
+
+Procedure Rules
+
+Rule 17 of the Tribunal Procedure (First-tier Tribunal) (Immigration and
+Asylum Chamber) Rules 2014 ('the 2014 Rules') provides as follows at sub-
+section (2):
+
+"The Tribunal must (save for good reason) treat an appeal as withdrawn if
+the respondent notifies the Tribunal and each other party that the decision
+(or, where the appeal relates to more than one decision, all of the
+decisions) to which the appeal relates has been withdrawn and specifies the
+reasons for the withdrawal of the decision."
+
+Rule 17(2) has been considered by a panel of the UT consisting of the Vice
+President in ZEI and the headnote of the decision summarises its contents
+as follows:
+"Rule 17 clearly envisages that in general the appeal is to be treated as
+withdrawn.  It will continue only if a good reason is identified for
+allowing it to proceed despite being an appeal against a decision that will
+not have effect in any event.  The appellant needs the opportunity to
+advance a case why he considers an appeal should not be treated as
+withdrawn and the SSHD needs the opportunity to respond.  The Tribunal has
+no power to require the Secretary of State to give or even to have a good
+reason for her decision.  The list below cannot and should not be regarded
+as a comprehensive account of all reasons that might be urged on judges but
+we trust that as well as giving guidance on the arguments discussed the
+reasoning may be adapted to other cases.
+
+(i)  The following are not likely to be considered good reasons:
+The parties wish the appeal to proceed.
+The applicant is legally aided and if he has to appeal against a new
+decision, he will not (or will probably not) be legally aided because the
+legal aid regime has changed.
+The withdrawal is for reasons the judge considers inappropriate is very
+unlikely to be a good reason to proceed.  An example is that of a
+Presenting Officer who seeks adjournment of a hearing and when that is
+refused, withdraws the decision.
+The witnesses are ready to be heard and can only with difficulty or expense
+be gathered again.
+
+
+(ii) The following are likely to be capable of being a good reason.
+                   0. The appeal regime has changed since the first
+                      decision, so that if a new decision is made in the
+                      same sense, the rights of appeal will be reduced.
+                   0. Undue delay by the respondent.
+                   0. The appeal turns on a pure point of law that the
+                      judge thinks that even after argument is certainly or
+                      almost certainly to be decided in the appellant's
+                      favour.
+                   0. If there has already been a considerable delay in a
+                      decision the appellant is entitled to expect, the
+                      fact that children are affected."
+
+Part 5A of the 2002 Act
+
+The introduction of Part 5A into the 2002 Act imposes a statutory duty upon
+a court or tribunal to pay regard to the considerations listed in section
+117B.  They include in summary, the public interest in "the maintenance of
+effective immigration controls" (subsection (1)); the public interest in
+those seeking to enter being able to speak English (subsection (2)), and be
+financially independent (subsection (3)); the little weight to be accorded
+to private life or relationships established when a person was in the
+country unlawfully (subsection (4)), or when immigration status was
+precarious (subsection (5)); and sub-section (6), which states:
+
+             "In the case of a person who is not liable to deportation, the
+             public interest does not require the person's removal where -
+
+                  (a)       the person has a genuine and subsisting parental
+                  relationship with a qualifying child, and
+
+                  (b)       it would not be reasonable to expect  the  child
+                  to leave the United Kingdom."
+
+    24.  In cases concerning the deportation of 'foreign criminals', a
+         heightened burden is placed upon those seeking to avoid removal in
+         the form of additional considerations set out in section 117C of
+         the 2002 Act. The effect of the additional criteria in section 117C
+         is to add additional weight to the public interest question and
+         thereby to reduce the relative weight that is to be attached to any
+         private or family life that the appellant has acquired.  A foreign
+         criminal is defined at section 117D(2).  The SSHD has at all
+         material times accepted that K was not a 'foreign criminal' and not
+         'liable to deportation' for the purposes of the 2002 Act, and in
+         the premises, reliance upon section 117B(6) was open to him.
+
+Discussion
+
+During the course of the hearing before me I indicated a provisional view
+to Mr Bazini that the FtT had made a clear misdirection in law in its
+application of Rule 17 and in failing to follow the guidance in ZEI.  It
+seemed to me, as I said to Mr Bazini, that the appeal rather turned on the
+materiality of that error of law.  Mr Bazini maintained that when the FtT's
+decision was read as a whole there was no error of law.  I deal firstly
+with whether or not the FtT erred in law before turning to materiality.
+
+I accept Mr Malik's submission that the FtT's reasoning for declining to
+treat the decision under appeal as withdrawn contains an error of law.
+That is very clear from a straightforward reading of [27], in which the FtT
+said this:
+
+"The reasons given at the hearing (not in writing) by the respondent, I
+found, were not 'for good reason'.  I prefer the reasons and arguments as
+put forward by Mr Cole, as to the chronology, attendance of parties ready
+to proceed and lack of good reason sitting behind the respondent's
+application today."
+
+I agree with Mr Malik that the error of law in that reasoning is obvious -
+the FtT proceeded on the basis that the issue before it was whether the
+reasons for withdrawal provided by the SSHD constituted a good reason, when
+Rule 17 does not require the SSHD to establish that the withdrawal is for
+good reason.  Rather, as the panel pointed out in ZEI at [15], the Tribunal
+had no power to require the SSHD to give (or even to have) a good reason
+for her decision.  As the panel stated at [17] of ZEI:
+
+"Thus, the task before the FtT is not to consider whether there is a "valid
+reason" for withdrawal but instead whether is a "good reason" why the
+mandatory effect of Rule 17(2) should not apply when application has been
+made by the appellant for the appeal not to be treated as withdrawn."
+
+         In my judgment the FtT misdirected itself in law by inverting the
+         proper approach to Rule 17 and therefore erred in law.  Mr Bazini
+         invited me to find that the decision read as a whole did not
+         disclose an error of law because what the FtT was in fact doing was
+         accepting the good reasons for continuing as offered by Mr Cole.
+         The difficulty with that submission is that it was not altogether
+         clear that Mr Cole was offering any specific good reason for
+         proceeding as opposed to objecting to the approach adopted by the
+         SSHD.  Mr Cole provided reasons why the SSHD's approach was the
+         wrong one.  When the decision is read as a whole I do not consider
+         it to be tolerably clear that the FtT properly directed itself to
+         the burden resting upon K to establish a good reason for the appeal
+         not to be treated as withdrawn as opposed to the SSHD establishing
+         a good reason to withdraw.
+
+I now turn to materiality which, as I indicated to the representatives
+during the course of the hearing, was the matter that troubled me the most.
+ I heard detailed submissions from both representatives on the point.  Mr
+Malik invited me to find that the matters that were put forward on the part
+of Mr Cole could not be said to be good reasons when ZEI was properly
+considered.  He went through each of the reasons at [16] to [21] of the
+FtT's decision to make his point.
+
+Mr Bazini invited me to find that even if ZEI was applied the FtT would
+have reached the same conclusion.  In other words, there was no material
+error of law because the conclusion to proceed with the hearing and not
+accept the appeal as withdrawn was an inevitable one, on the FtT's
+findings.  Mr Bazini submitted that the particular (undisputed) facts
+disclosed three 'good reasons' not to treat the appeal as withdrawn: delay;
+the impact on the children and; the fact that this appeal involved a 'slam
+dunk' for K, in other words, it was inevitably to be allowed and was
+equivalent to there being a 'pure point of law'.  As set out above, the
+panel in ZEI considered each of these factors as "likely to be capable of
+being a good reason".  I acknowledge that does not mean that a Tribunal
+must inevitably find a good reason where any of these exist.  I shall deal
+with what was inevitable in this case later on but I first turn to each of
+the factors, and what was said about them in ZEI.
+
+As to delay, the panel said this at [19(d)] of ZEI:
+
+"There has already been undue delay by the respondent.  This may be a good
+reason or it may not.  It is capable of being a good reason in cases where
+the appellant has, by proper process, sought a decision on an application.
+The most obvious example is a paid-for application duly made.  If there has
+been a long delay, which will be lengthened further by awaiting a new
+decision, that may be a good reason to proceed with an appeal against the
+withdrawn decision.  But this argument cannot be a good reason if the
+decision is one the timing of which is wholly for the respondent.  The most
+obvious example is a removal or deportation decision, whether or not
+combined (as it would now have to be in order to carry a right of appeal)
+with a human rights or protection decision."
+
+Mr Malik submitted that there had not been undue delay on the part of the
+SSHD.  He invited me to consider both the length of delay since the 2017
+application as well as the nature of the case itself.  As Mr Malik
+indicated, the final conviction was not recorded until 17 September 2018
+and that would explain why there was a delay from the 2017 application -
+the outcome of the criminal proceedings was a matter that the SSHD was
+entitled to await before determining the family reunion application.  Mr
+Bazini asked me to note that the conviction had actually accrued in 2016
+and therefore the SSHD was well aware of the court processes for a much
+longer period even though the conviction was not finalised as a result of
+the appeals process until September 2018.  I note in that respect that the
+skeleton argument before the FtT relied upon by K set out that he was
+finally convicted on 17 September 2018.  No reference was made to any
+previous conviction in 2016.  In any event, whether K was convicted in 2016
+or he was convicted in 2018 after a final appeal process, it does not seem
+to me to matter much, because there remained an explanation for the delay
+up until September 2018.
+
+Then one comes to the decision of May 2019, which was about just under
+three quarter of a year after the 2018 conviction.  Within a few months the
+matter was listed for mention and the FtT clearly case-managed the matter
+with a degree of vigour - the FtT reviewed the matter in August 2019,
+September 2019 and October 2019.  At each of these stages the SSHD had an
+opportunity to clarify, amend or withdraw her decision against K.  After
+the CMR in September 2019, the SSHD gave express consideration to
+withdrawal and amendment.  The decision dated 25 September 2019 contains a
+clear and unambiguous confirmation of reliance upon the initial decision
+with supplementary reasoning added.  The matter then came before the FtT
+for a full hearing on 9 March 2020.
+
+When considering the issue of delay one must bear in mind that by the time
+of the hearing the SSHD had been given numerous opportunities to review the
+case and update her position, yet on the day of the hearing it was being
+contended that this process needed to continue.  Mr Malik invited me to
+find that this was a complex matter involving a conviction at the ICC and
+that what probably happened here was that there was an insufficient grasp
+of the complexity of the case at an early stage.  That might well be right
+but what it does not do is explain the nature and extent of the delay in
+the SSHD clarifying her case when there were so many opportunities to do
+so.  The presenting officer's unit was clearly alive to the possibility of
+seeking assistance from the Government Legal Service (who used to be known
+as 'Treasury Solicitors').  The complexities of the case were well known
+for a lengthy period: the appellant was given entry clearance and then
+rolling periods of leave pending the ICC proceedings.  This was not the
+type of situation where for the first time a party identified the
+complexity of the case or a change of circumstances at the FtT final
+hearing.  Here, the SSHD was given many opportunities to clarify her case
+over a relatively lengthy period.
+
+I also note that this was not a removal case.  This was an application that
+was made by K and the timing therefore cannot be said to be akin to a
+removal or deportation case.  Although there may not have been a good
+explanation for the delay in clarifying the case or finalising the position
+up until the date of conviction and for a reasonable period beyond that,
+i.e. up to the decision of May 2019, the SSHD clearly acted with undue
+delay after that point in failing to clarify which aspect of the Rules she
+relied upon in order to refuse the application that had been made.
+Although the overall delay itself cannot be said to be very lengthy, the
+delay in clarifying the SSHD's position given the particular procedural
+history was significant.  That was the overall effect of Mr Cole's
+submissions, and was accepted by the FtT.  At [27] the FtT accepted the
+chronology outlined by Mr Cole.  That chronology inevitably involved the
+delay in clarifying the SSHD's position I have summarised above.  Although
+the FtT did not specifically state in the terms suggested in ZEI that there
+had been 'undue delay', I am satisfied that that is in fact what the FtT
+accepted.
+
+That delay needs to be viewed together with the fact that there are four
+children in this case, who were each born in the UK and spent the entirety
+of their lives in lawfully residing in the UK.  The panel said this about
+children at [19(h)] of ZEI:
+
+"Children are affected by the decision, the appeal, the withdrawal and the
+wait for a new decision.  This is a special case of (d) above.  If there
+has already been a considerable delay in a decision the appellant is
+entitled to expect, the fact that children are affected may make a good
+reason better.  But if the decision is one that the appellant has no right
+to timetable, particularly if the appellant is already in breach if
+immigration law, the effect on children is unlikely to make very much
+difference, it being remembered that the context is still that the
+withdrawn decision will not itself have any effect at all."
+
+I note that K's wife drew attention to the adverse impact of delay upon the
+children in her witness statement.  The good reason of undue delay in the
+clarification of the SSHD's case was made better because four children were
+affected by it.  In addition, K remained at all material times lawfully in
+the UK: he was granted entry clearance, rolling periods of leave and
+although his leave was curtailed, he continued to have the benefit of an in-
+time application to remain pursuant to Rule 352A.
+
+I now turn to Mr Bazini's third and in my view most significant and
+attractive point.  Had the FtT directed itself to the proper test as
+explained in ZEI, it would have inevitably concluded that there was a clear
+and straightforward good reason why the matter should not be treated as
+withdrawn - K's appeal had to be allowed on Article 8 grounds because the
+undisputed factual matrix before the FTT pointed in one direction: (i) he
+met the requirements of Rule 352A and in any event, (ii) he met the
+requirements of section 117B(6) of the 2002 Act.  Mr Malik accepted that
+the facts were not in dispute in relation to those two matters.  It is
+helpful to illustrate this by reference to the proper approach to section
+117B(6).  Section 117C does not apply here because it is undisputed that K
+is not a 'foreign criminal', as defined at section 117D.  In addition, K's
+criminal conduct played no role here, as it was not contended that he was a
+person 'liable to deportation'.  Although Mr Malik's skeleton argument
+before me indicated that the SSHD "is minded to make a decision to deport"
+K on the basis that "his criminal conduct proven at the ICC is conducive to
+the public good", that was not the position before the FtT.  Instead, in
+the full knowledge of K's 2018 convictions, the SSHD opted to treat him as
+a person not liable to deportation from the date of the initial May 2019
+decision refusing the 2017 application and again after being given the
+opportunity to clarify her case in September 2019.  It followed that for
+the entirety of the FtT proceedings, section 117B(6) applied and on the
+undisputed factual matrix K met its requirements.  The SSHD has not
+maintained reliance upon the challenge in the written grounds of appeal
+that the FtT erred in not applying the remainder of Part 5A of the 2002
+Act, having found that the requirements of section 117B were met.  That
+submission is plainly erroneous in law because section 117B was to be
+treated as a 'self-contained' provision - see KO (Nigeria) v SSHD [2018]
+UKSC 53; [2018] 1 WLR 5273 at [17] as applied in Younas (section 117B (6)
+(b); Chikwamba; Zambrano) Pakistan [2020] UKUT 129 (IAC) at [108] to [110].
+
+In these circumstances, I invited Mr Malik to accept that the appeal before
+the FtT was bound to succeed on the undisputed facts and that this was a
+situation akin to the 'pure point of law' referred to at [19(e)] of ZEI,
+when the panel said this:
+
+             "...It seems to us that the appellant's expectation of success
+             may be a good reason if, but only if, the appeal turns on a
+             pure point of law that the judge thinks that even after
+             argument is certainly or almost certainly to be decided in the
+             appellant's favour."
+
+The appeal before the FtT did not turn on a 'pure point of law'.  The
+applicable law was not in dispute and remains undisputed.  The application
+of the undisputed facts to that framework was also undisputed.  However as
+the panel noted in ZEI, the list of categories should not be regarded as a
+comprehensive account and this was a case that was certainly to be decided
+in K's favour under the Rules and pursuant to section 117B(6).  That in my
+view gave rise to a 'slam dunk' good reason, as submitted by Mr Bazini,
+irrespective of the delay point.  Mr Malik asked me to note that the panel
+in ZEI could not have been considering a factual matrix such as this which
+involved a person who has been convicted at the ICC to a not insignificant
+sentence of eleven months.  That misses the point that notwithstanding his
+criminal offending, K met the Rules and section 117B(6).
+
+At the FtT hearing, Mr Spence on behalf of the SSHD opted not to cross-
+examine K and his wife and not to make any submissions.  That approach
+seems to be contrary to the SSHD's own policy on what Presenting Officers
+should do in circumstances where an appeal is not treated as withdrawn -
+see [12] of ZEI, which refers to the relevant Home Office policy document,
+Withdrawing decisions and conceding appeals (Home Office, 4 June 2015),
+that states that "where an appeal is not treated as withdrawn, a HOPO
+should participate in the appeal as normal".  That may well have been
+updated but that was the SSHD's position as it was before ZEI.
+
+Drawing all these matters together, although I accept the FtT clearly erred
+in law at [27] of its decision and clearly failed to apply the guidance in
+ZEI that error of law is not material because given the way in which the
+SSHD chose to run her case and given the three factors taken together, that
+is delay, delay involving children and this being a matter with no factual
+disputes that was bound to succeed, had the FtT applied the guidance in ZEI
+it was inevitable that it would have reached the decision that there was
+indeed a good reason not to accept the withdrawal.  That good reason may
+not have been as clearly articulated by Mr Cole in the submissions as
+recorded by the FtT, but when the decision is read as a whole and when the
+undisputed evidence available to the FtT is considered holistically, I am
+of the clear view that on a proper application of ZEI, the FtT would have
+only reached one decision - there were good reasons to allow the appeal to
+proceed.  Although generally speaking, when requested by the SSHD, an
+appeal is to be treated as withdrawn, in the circumstances of this case the
+FTT's findings were such that, it would have inevitably identified good
+reasons for the matter to proceed.
+
+Decision
+
+It follows that the SSHD has not made out ground 1, the only ground that
+she has sought to maintain, and her appeal against the FtT's decision is
+dismissed.
+
+
+Signed: Ms M Plimmer                             Dated: 14 December 2020
+Upper Tribunal Judge Plimmer
+

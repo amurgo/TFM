@@ -1,0 +1,2409 @@
+
+
+
+
+
+
+
+
+
+R (on the application of Mohibullah) v  Secretary  of  State  for  the  Home
+Department
+(TOEIC - ETS - judicial review principles) [2016] UKUT 00561 (IAC)
+
+                               Upper Tribunal
+                       Immigration and Asylum Chamber
+
+
+                               Judicial Review
+
+
+
+
+             The Queen on the application of Mohammad Mohibullah
+
+                                                                   Applicant
+                                      v
+
+                 Secretary of State for the Home Department
+                                                                  Respondent
+
+
+
+
+          Before The Honourable Mr Justice McCloskey, President and
+                        Upper Tribunal Judge Rintoul
+
+
+Having considered all  documents  lodged  and  having  also  considered  the
+submissions  of  Mr  N  Armstrong,  of  Counsel,  instructed   by   Bindmans
+solicitors on behalf of the Applicant Mr S Kovats QC and Mr  C  Thomann,  of
+Counsel, instructed by the Government Legal  Department  on  behalf  of  the
+Respondent at a hearing conducted on 01, 02,  04  and  15  August  2016  and
+having considered the further written submissions on behalf of both  parties
+completed on 01 November 2016.
+
+
+   i) Where there is a multiplicity  of  decision  making  mechanisms,  some
+      generating a right of appeal and others not, there  is  a  public  law
+      duty on the decision maker to be aware of the options and to take same
+      into account when opting for a particular mechanism.
+
+
+  ii)  Where  a  Tier  4  Student  is  considered   to   have   made   false
+      representations, thereby being liable to discretionary curtailment  of
+      leave and has been withdrawn from a course, thereby  being  liable  to
+      mandatory curtailment action there is a duty on the Secretary of State
+      to consider both of the corresponding sections in the "Curtailment  of
+      Leave" policy guidance.
+
+
+ iii) A failure to give effect to policy guidance without  justification  is
+      in breach of the Lumba principle  and  renders  the  ensuing  decision
+      vulnerable to being quashed.
+
+
+  iv) Where a curtailment of leave decision is underpinned by the  Secretary
+      of State's  decision  that  leave  to  remain  had  been  procured  by
+      deception, the  appropriate  standard  of  review  is  the  Wednesbury
+      principle rather than proof of the precedent fact of deception.
+
+
+   v) A decision which has a conspicuously unfair impact on the subject  may
+      qualify  for  condemnation  as   unreasonable,   or   irrational,   in
+      contravention of the Wednesbury principle.
+
+
+  vi) The student's knowledge of an allegation by ETS that he  has  procured
+      his TOEIC certificate by deception will normally suffice to convey the
+      gist of the case against  him,  thereby  rendering  the  Secretary  of
+      State's decision making process (in this respect) procedurally fair.
+
+
+                             DECISION AND ORDER
+
+McCLOSKEY J
+
+
+                                    INDEX
+
+Chapter Number         Subject                           Para Number
+
+I                Introduction                                 (1) - (2)
+II               The Broader Canvas                           (3) - (4)
+III              This Applicant's Challenge                   (5) - (8)
+IV               The Impugned Decision                   (9) - (10)
+V                The Blakehall College Issue             (11) - (31)
+VI               First Ground of Challenge                    (32) - (75)
+VII              Second Ground of Challenge              (76) - (84)
+
+VIII             Delay                                        (85) - (88)
+
+IX               A Footnote                              (89) - (92)
+
+X                Omnibus Conclusion and Relief                      (93)
+
+
+
+                             APPENDICES
+
+Appendix 1:      Ruling on reception of evidence, dated 04 August 2016
+
+Appendix 2:      Further reception of evidence ruling, dated 05 August  2016
+
+
+Appendix 3:      Post - hearing Directions to the parties
+
+
+
+
+                                  GLOSSARY
+
+"CAS":         Confirmation of acceptance for studies.
+
+"ETS":      Educational Testing Services - the US corporation contracted  to
+           the Home Office to provide various services relating to  English
+           language testing and certificates.
+
+"HTS":       Highly trusted sponsor status  (from  6  April  2015,  "Tier  4
+           sponsor status"), an accreditation given by the Home  Office  to
+           certain approved institutions providing  full  time  educational
+           courses.
+
+"IELTS":    International English Language Testing System.
+
+"SELT":     Secure English Language Test.
+
+"TOEIC":    Test of English for International Communication.
+
+"UKVI":     United Kingdom Visas and Immigration,  an  agency  of  the  Home
+           Office.
+
+
+
+I     INTRODUCTION
+
+ 1) The hearing of this application for judicial review was conjoined  with
+    the related case of Saha (JR/10845/2015) and the  statutory  appeal  in
+    the case of MA v Secretary of State for the Home Department [2016] UKUT
+    450 (IAC) [39899/2014] as all three  cases  were  considered  to  raise
+    certain common issues. Judgment has been given in MA. On the date  when
+    judgment was to be promulgated in Saha,  an  unwelcome  and  unexpected
+    evidential development on behalf of the Secretary of  State  intervened
+    and, regrettably, those proceedings are not  yet  completed,  and  this
+    judgment was delayed, in consequence: see further [92] infra.
+
+
+ 2) In the course of the hearing it became necessary for  the  Tribunal  to
+    make certain  rulings  ex  tempore  and,  post-hearing,  to  promulgate
+    certain directions. All are contained in the Appendices hereto.
+
+
+II    THE BROADER CANVAS
+
+ 3) The background to the growing number of judicial review challenges  and
+    statutory appeals in the field to  which  these  two  cases  belong  in
+    relation to action taken on behalf of the Respondent, the Secretary  of
+    State for the Home Department (the "Secretary of State"), frequently in
+    the form of refusing to extend leave or cancellation of leave, relating
+    to the scores purportedly obtained by some 30,000 foreign  students  in
+    "TOEIC" English language proficiency tests.  It is set out  in  extenso
+    in SM and Qadir (ETS Evidence Burden of Proof) [2016]  UKUT  229  (IAC)
+    and in general terms in R (Gazi) v Secretary  of  State  for  the  Home
+    Department (ETS-Judicial Review) (IJR) [2015] UKUT 327 (IAC) at  [2]  -
+    [4], which need not be reproduced here.
+
+ 4) As explained  in  R  (Mahmood)  v  Secretary  of  State  for  the  Home
+    Department [2014] UKUT 439  (IAC),  at  [1]  cases  belonging  to  this
+    sphere:
+
+
+         "... have gained much currency during recent months, stimulated  by
+         action taken on behalf of the ......   Secretary of State ....   in
+         the wake of the BBC "Panorama" programme broadcast on  10  February
+         2014."
+
+
+    As further explained in  Mahmood,  "ETS"  denotes  Educational  Testing
+    Services, which is -
+
+
+         "... a global agency  contracted  to  provide  certain  educational
+         testing and assessment services to the Secretary of State".
+
+
+    In all of these cases the impugned decision of the Secretary  of  State
+    is based upon an assessment that the TOEIC Certificate  of  the  person
+    concerned was procured by deception.
+
+
+III   THIS APPLICANT'S CHALLENGE
+
+
+ 5) Mr Mohibullah is challenging the Secretary of State's  decision,  dated
+    18 December 2014, to curtail his leave to remain in the United Kingdom.
+     This  decision  was  made  under  paragraph  323A  (a)(ii)(2)  of  the
+    Immigration Rules (the "Rules").  His case is that  this  decision  was
+    impelled and dictated  by  the  anterior  decision,  some  four  months
+    previously, of the third level  educational  establishment  where  this
+    Applicant was studying, Blakehall College, to  withdraw  him  from  his
+    course consequential upon a communication from the Secretary of State's
+    agents that he had procured his TOEIC Certificate by fraud.
+
+ 6) The first limb of this Applicant's ensuing legal challenge is that  the
+    Secretary of State's decision was unlawful as it evaded  the  statutory
+    scheme under Section 10 of the Immigration and  Asylum  Act  1999  (the
+    "1999 Act") and/or paragraphs 321A and 323 of the  Rules.  In  outline,
+    the Applicant  complains  that  the  procedural  protections  enshrined
+    within these provisions, including rights of  appeal,  were  unlawfully
+    circumvented by the course taken by the Secretary  of  State  and  were
+    also in breach of the prevailing  policy.   The  second  limb  of  this
+    Applicant's challenge is that the Secretary of State erred  in  law  in
+    concluding that he had engaged in deception  on  the  ground  that  the
+    precedent fact of deception had not been  established.  It  is  further
+    contended that the decision was vitiated by procedural unfairness.
+
+ 7) At the outset we draw attention to one important agreed  fact.   It  is
+    accepted by the Applicant that  the  voice  which  is  audible  on  the
+    computerised voice files generated  at  the  time  when  he  supposedly
+    underwent the speaking element of his TOEIC test is not his.
+
+ 8) The central elements of the Secretary of State's case are,  first,  the
+    contention that the Wednesbury principle, rather than  precedent  fact,
+    is the appropriate standard of review and that  the  impugned  decision
+    withstands this  species  of  challenge;   second,  that  the  impugned
+    decision is not vitiated by procedural unfairness;  third,  that  there
+    was no improper purpose in the communication with  MM's  college;  and,
+    finally, there was no illegality  in  pursuing  the  selected  decision
+    making course rather than making a curtailment of leave decision  under
+    the Immigration Acts  and/or  the  Rules  (both  of  which  would  have
+    attracted a right of appeal).  The  final  limb  of  the  Secretary  of
+    State's case is that this Applicant's challenge is defeated by delay.
+
+
+IV    THE IMPUGNED DECISION
+
+ 9) The impugned decision of the Secretary  of  State  is  contained  in  a
+    letter dated 18 December 2014.  The operative passage  therein  is  the
+    following:
+
+
+         "This decision has been made in line with the Immigration Rules and
+         the Tier 4 policy guidance.  You were granted leave to remain as  a
+         Tier 4 (General) student until 30 May 2015 in order to  complete  a
+         course of study at Blakehall College.  However, the Home Office was
+         informed by Blakehall College on 13 August  2014  that  you  ceased
+         studying with them.  Home Office  records  have  been  checked  and
+         there is no evidence that you have made an  application  to  change
+         your sponsor or made a fresh application for entry clearance, leave
+         to enter or leave to remain in the United Kingdom in any  capacity.
+         Therefore, as you have been excluded, or withdrawn from your course
+         of studies, as notified by your  Tier  4  sponsor,  your  leave  is
+         curtailed under paragraph 323A(a)(ii)(2) of the  Immigration  Rules
+         until 21 February 2014."
+
+    This letter was the impetus for  these  proceedings,  which  were  duly
+    initiated on 20 February 2015.
+
+
+
+
+10) The Applicant is a national of Bangladesh, aged 28 years. He  has  been
+    lawfully present in the United Kingdom since 25 October 2009, following
+    which he undertook  various  courses  of  study.   In  2012  it  became
+    necessary for him  to  secure  a  TOEIC  English  Language  Proficiency
+    Certificate.  This was directly related to his application for  further
+    leave to remain in the United Kingdom, dated 13 April  2012.   He  duly
+    arranged to undertake the  test  at  one  of  the  accredited  centres,
+    Synergy Business College of London.  Two TOEIC certificates, which  lie
+    at  the  heart  of   these   proceedings,   were   generated.    These,
+    respectively, certify the following:
+
+
+      i) On 13 April 2012 the Applicant underwent the listening and  reading
+         elements of the test, obtaining scores of 495/495 and 415/495.
+
+
+     ii) On 17 April 2012 the Applicant undertook the speaking  and  writing
+         limbs  of  the  test,  obtaining  scores  of  170/200  and  190/200
+         respectively.
+
+
+    It is common case that  the  two  certificates  specify  correctly  the
+    Applicant's name and date of birth.
+
+
+V     THE BLAKEHALL COLLEGE ISSUE
+
+
+11) The Secretary of State's decision is  expressly  based  upon  a  letter
+    dated 13 August 2014 from Blakehall College to the Applicant.  This  is
+    the third level educational institution  at  which  the  Applicant  was
+    enrolled at the material time.  The letter is in these terms:
+
+
+         "It has been identified by  UKV  and  I  that  you  have  submitted
+         fraudulent [sic] ETS Certificate prior to  admission  at  Blakehall
+         College, therefore you have failed to meet UKV and I  requirements.
+         Your registration at this college is now terminated ...
+
+
+         Your sponsorship will be withdrawn and UKV and I will  be  informed
+         accordingly.  You have no right to appeal against this decision."
+
+
+    [Hereinafter  described  as  "the  withdrawal  letter".   "UKV  and  I"
+    (hereinafter "UKVI") denotes United Kingdom Visas and  Immigration,  an
+    agency of the Home Office.]
+
+12) The withdrawal letter was preceded by a letter dated 24 June 2014  from
+    the Sponsor Compliance Unit of UKVI addressed to Mr Gardner, proprietor
+    of Blakehall College.  This states, in material part:
+
+
+         "(1)     As you will be aware, Educational Testing  Services  (ETS)
+             have recently  withdrawn  a  high  volume  of  Secure  English
+             Language Test (SELT) results from students who have taken  its
+             Test of English for International Communication (TOEIC)  tests
+             at some of their approved centres.  They have informed us that
+             some of these certificates have been obtained fraudulently and
+             this may have involved either someone taking the test for  the
+             student or the student being provided with the answers.   Such
+             widescale organised abuse of the system is  unprecedented  and
+             will not be tolerated by the Home Office. .....
+
+
+         (ii)     According to the information we have  received,  you  have
+             assigned 67 CAS to students who have  had  TOEIC  certificates
+             withdrawn by  ETS  (annexe  A).   Since  these  students  have
+             directly  and  deliberately  posed  a  threat  to  immigration
+             control, we are extremely concerned that  you  have  sponsored
+             these students ......
+
+
+         We consider this to be a breach of your sponsor duties ....
+
+
+         (iii)    Since this activity has resulted in widespread immigration
+             abuse, we have suspended your sponsor license  with  immediate
+             effect."
+
+
+         [Emphasis supplied - hereinafter "the suspension letter"]
+
+
+    Continuing, the suspension letter states that "in addition" UKVI has  a
+    concern:
+
+         "...  that for some students you have failed to  adequately  assess
+         whether there is genuine academic progression prior to sponsoring a
+         student already in the UK."
+
+    Finally, the letter informed Mr Gardner that  the  UKVI  investigations
+    were  continuing  and  alerted  him  to  his  right  to  make   written
+    representations and to provide evidence.
+
+
+13) Some two weeks later, Mr Gardner received a further letter  from  UKVI,
+    dated 11   July 2014.  This enclosed two lists.   The  first  of  these
+    contained the names of 147 students at Blakehall  College  whose  TOEIC
+    test scores had been assessed by ETS as  "invalid".   The  second  list
+    contained the names of 71 Blakehall College students whose  TOEIC  test
+    scores had been assessed by ETS  as  "questionable".   Each  list  also
+    contained the date of birth and registration number  of  each  student.
+    The Applicant's name was one of those on the "invalid" list.
+
+14) The UKVI letter of 11 July 2014 to Mr Gardner  contains  the  following
+    material passages:
+
+
+         "At some point each of the students listed have [sic] directly  and
+         deliberately circumvented immigration control.  Whether as part  of
+         an application to study with you,  or  with  an  earlier  or  later
+         sponsor.  We  are  extremely  concerned  that  you  have  sponsored
+         students who would be prepared  to  take  part  in  such  dishonest
+         activity ....  We believe that each of the students  listed,  along
+         with your institution since you were prepared to sponsor them,  has
+         contributed to this unprecedented  threat  to  immigration  control
+         ....
+
+
+         Before assigning a CAS to a student, you should be making a  robust
+         assessment of their ability and intention to follow the  course  of
+         study; this would include fully assessing  their  English  language
+         ability.  You are not obliged to accept any  student,  particularly
+         if you have  identified  concerns  about  their  language  ability,
+         regardless of what their SELT score may show ....
+
+
+         Since the majority of the students you recruit are already  in  the
+         UK and therefore could have been interviewed in person, we  believe
+         such disparities would have been apparent."
+
+
+    This letter also expressed the concern  of  UKVI  in  relation  to  one
+    further issue,  namely  "Attendance  monitoring  and  management",  the
+    suggestion being that the college had, from 2012, become  lax  in  this
+    respect, citing four individual cases of students with unacceptably low
+    attendance.
+
+
+15) On 14 July 2014 Blakehall College submitted its comprehensive  response
+    to  the  UKVI  suspension  letter.   This  contained,  inter  alia,  Mr
+    Gardner's assurance of full co-operation  in  the  UKVI  investigation,
+    together with his assertion that:
+
+
+         "Blakehall College is a bona fide educational institution  and  was
+         unaware of any fraudulent activity under ETS, TOEIC or elsewhere."
+
+
+    An individual response was made in respect of each of the 218  students
+    listed in the UKVI  schedules.   This  described  the  Applicant  as  a
+    student of BA (Hons) Business Studies who had completed two of the four
+    modules and whose English language proficiency had been demonstrated in
+    an IELTS (denoting "International  English  Language  Testing  System")
+    Certificate.
+
+
+
+
+16) The Blakehall College response to the UKVI suspension letter  coincided
+    with a meeting of both parties held on the same  date,  14  July  2014.
+    The brief minutes of  this  meeting  attributed  to  one  of  the  UKVI
+    officials include the following passages:
+         "[Mr Gardner] stated that Blakehall College want to work with  UKVI
+         to help resolve this issue and restore the  college's  licence  and
+         that he hopes this meeting today proves  they  want  to  take  this
+         matter seriously also as he believes that Blakehall  College  is  a
+         good college who have always tried to abide by the Rules ....
+
+
+         [A UKVI official] said he understood this and can see that this was
+         not a deliberate attempt to abuse the immigration system  which  is
+         why he has agreed to this meeting today.  But the fact still stands
+         that you do have ETS cheats studying at your college."
+
+
+    Certain action points were noted.  No other  issue  of  concern,  other
+    than the "ETS issue" is documented in the minutes.
+
+
+17) This meeting was followed by a further UKVI letter to Mr Gardner, dated
+    08 August  2014.   This  notified  the  continuing  suspension  of  the
+    college's licence.  The first reason  given  was  explained  under  the
+    rubric of "ETS issues".  The second concern expressed  related  to  the
+    assignation of a CAS to four  named  students  and,  specifically,  the
+    evidence upon which these students were assessed as having the  ability
+    to follow their chosen course of study.  The third matter raised in the
+    letter was that of "academic  progression"  in  respect  of  one  named
+    student. Fourth, the issue of "attendance monitoring  and  management",
+    raised in a previous letter, was reiterated, in relation to three named
+    students.   The  letter,  finally,  indicated  that  Mr  Gardner  could
+    continue to make representations and provide evidence  in  response  to
+    the concerns expressed.
+
+18) This letter was followed by a second meeting between the parties,  held
+    on 13 August 2014.  One of the UKVI  officials  in  attendance  was  Mr
+    Turner, described as "Senior Sponsor Compliance Manager".   The  record
+    of this meeting indicates that, from the  outset,  the  ETS  issue  was
+    prominent.  After Mr Gardner had provided an overview, Mr  Turner,  per
+    the record:
+
+         "....  reiterated our continuing areas of concern, as per our
+         letter of 08/08/14, highlighted that the ETS issue is of major
+         concern."
+
+
+         [Emphasis added.]
+
+
+    Those in attendance were informed that 33 students had been "withdrawn"
+    by the college.   Our  construction  of  the  record  of  the  meeting,
+    unaffected and unchallenged by the evidence of Mr  Turner  (infra),  is
+    that the ETS issue was the only matter of concern addressed.   This  is
+    reinforced by the four action points noted at the end  of  the  record,
+    all of which relate exclusively to this issue.
+
+
+
+
+19) Paragraph [10] of the UKVI letter of 08 August 2014 stated:
+
+
+         "We do not believe that  you  have  effectively  responded  to  our
+         concerns regarding 60 of your  students'  cohort  who  continue  to
+         study with you.  You have failed to explain what  action,  if  any,
+         you intend to take with these  students  who  obtained  a  SELT  by
+         deception."
+
+
+    As the record indicates, this issue was specifically ventilated  during
+    the meeting held five days later.  Mr Gardner's concern to address this
+    issue is evident from the exchange of emails on the eve of the meeting,
+    in the course of which one of the UKVI officials stated:
+
+
+         "The 60 students quoted in our letter of 08 August  refers  to  the
+         student list provided  with  your  representations,  which  was  in
+         response to the students listed as  a  concern  in  our  Annexe  A.
+         There are 60 students on your list that you state are continuing to
+         study with you."
+
+
+    In short, as of 13 August 2014, the Home Office position was  that  the
+    college's response to the suspension of its licence  had  consisted  of
+    the "withdrawal" of 158 (only) of the 218 students  in  the  UKVI  list
+    (supra).
+
+
+
+
+20) As the exchanges between the college and  UKVI  continued,  Mr  Gardner
+    asserted (inter alia) that, with regard  to  a  discrete  group  of  41
+    students whose TOEIC  scores  had  been  declared  "invalid",  28  were
+    withdrawn within 24 hours of  the  relevant  notification.   Withdrawal
+    action was not taken against the remaining 13  students  on  the  basis
+    that their admission to  the  college  had  not  been  based  on  TOEIC
+    certificates.  Mr Gardner expressed his belief  that,  in  consequence,
+    this gave rise to a group of 13 students arranged under the umbrella of
+    "unable to take further action".  A  similar  assessment  was  made  in
+    respect of 9 students belonging to the "questionable" category.
+
+
+21) Notably, in the immediate aftermath of the inter partes meeting held on
+    13 August 2014, one of the UKVI officials directly  involved,  and  who
+    had attended the meeting,  sent the following email to Mr Gardner later
+    on the same date:
+
+
+         "Thank you for your time today.  As discussed, the  number  of  ETS
+         students of concern detailed in our  letter  of  08/08/14  was  60.
+         However, this was incorrect as 33 of the students had already  been
+         withdrawn from  their  studies  by  you  and  reported  by  SMS  on
+         15/07/14.  The students who continue to study  with  [sic]  and  of
+         concern are ....   13 students with  invalid  ETS  scores  ....   9
+         students with questionable ETS score [sic] ...
+
+
+         I have attached a list of the 22 students.   We  will  provide  you
+         with further advice on the 9 students with questionable scores once
+         James [Mr Turner] has sought advice on this point."
+
+
+         [Emphasis added.]
+
+
+    The college's withdrawal decision was communicated to the Applicant the
+    following day, 14 August 2014.
+
+22) We deal  briefly  with  the  succeeding  events.  By  letter  dated  11
+    September  2014  UKVI  confirmed  the  continuing  suspension  of   the
+    college's licence, based on "new information" which had emerged.   None
+    of this relates  directly  to  the  "ETS  issue".  Mr  Gardner  replied
+    accordingly.  This was followed by a further (third) meeting,  held  on
+    18 September 2014.  Within the minutes of  this  meeting  one  finds  a
+    clear acknowledgement  by  the  senior  UKVI  official  (with  emphasis
+    added):
+
+
+         "GS  acknowledged  the  commitments  made  by  [the  college],  the
+         implementation of additional process and the withdrawal of the  ETS
+         students."
+
+
+         [Our emphasis.]
+
+
+    The particulars of the "remaining concerns" in the  record  of  meeting
+    confirm that the ETS issue was no longer a live one.
+
+
+23)  Soon afterwards, the UKVI decision to revoke the licence of  Blakehall
+    College was communicated to Mr Gardner, by a letter  dated  03  October
+    2014.  Of the six issues identified  in  this  letter,  the  ETS  issue
+    received the least treatment, being addressed in the past  tense.   The
+    following passages are of particular note:
+
+
+         "We explained in our earlier letter that you had assigned  147  CAS
+         linked to TOEIC certificates identified as invalid and a further 71
+         CAS to students with questionable scores.  Of  these,  41  students
+         with invalid  scores  and  14  students  with  questionable  scores
+         continued to study at your institution at the  time  of  suspension
+         ....
+
+
+         Following our meetings with you  on  14  July  and  13  August  and
+         subsequent correspondence we have received, we  are  now  satisfied
+         that these students have been expelled from  your  institution  and
+         reported appropriately to the Home Office."
+
+
+         [Our emphasis.]
+
+
+    The specific misdemeanour attributed to the  college,  again  belonging
+    exclusively to the past, was an asserted failure to "thoroughly  assess
+    their ability, intentions and previous academic progress" at  the  time
+    of deciding to assign a CAS to each of the students concerned.
+
+
+24) As contemplated  by  the  order  of  Green  J  at  an  interim  hearing
+    postdating the grant of permission, we  received,  unconventionally  in
+    this sphere of litigation, a quantity of  oral  evidence  addressed  to
+    certain discrete issues.  This included evidence from Mr  Gardner.   In
+    this context we begin with the official record of Mr Gardner's evidence
+    to the House of Commons Home Affairs Committee (the "HOC Committee") on
+    20 July 2016.   Mr  Gardner  was  questioned  about,  inter  alia,  the
+    withdrawal of all of the students on the UKVI list.  The thrust of  the
+    questioning was whether it had been implied to him that  a  failure  to
+    take this action would result in the loss of the college's  sponsorship
+    licence.  Mr Gardner replied:
+
+
+         "It was never said, but it was implied all  the  time.   After  the
+         first visit, we got a list of students who were  so-called  frauds.
+         In fact, on the train down, I did what we believed they required of
+         us, which is we got in touch with  the  college  and  we  suspended
+         those students or curtailed their classes with immediate effect. We
+         were commended by the Home Office at that time for making  progress
+         in the right sort of direction, but they were at pains to say to us
+         that we needed to understand that they never instructed  us  to  do
+         this. They still commended the fact that we actually did it."
+
+
+    The ensuing questioning reveals the statistic  that  approximately  one
+    third of the Blakehall College student population  had  obtained  TOEIC
+    certificates.
+
+
+25) The evidence included two witness statements of  Mr  Gardner.   In  the
+    first of these, he describes a meeting  with  UKVI  representatives  in
+    July 2014 - see [ 16] above - during which he and his colleague were:
+
+
+         "....  repeatedly asked by George Shirley (Director UKVI) 'what  we
+         were going to do' about these students ....
+
+
+         It was our understanding that if we withdrew sponsorship from these
+         students that would certainly count towards an early  reinstatement
+         of our HTS status.  We then withdrew sponsorship from this group of
+         students, based on what we were told by the UKVI."
+
+
+    ("HTS" denotes "Highly Trusted Sponsor".)
+
+
+
+
+    In a second witness statement, Mr Gardner avers, with reference to  the
+    exchange of communications with UKVI in mid-August 2014:
+
+
+         "As can be seen, the Home Office witness statements  were  appended
+         to  the  email  and  we  were  informed   by   [the   Home   Office
+         correspondent] that we could  'use  them',  the  intention  clearly
+         being  that  they  could  be  used  as  justification  to  withdraw
+         sponsorship from the further 22 students.   In  other  words,  when
+         this list was provided, it was clearly  understood  that  the  Home
+         Office wanted us to do with those students what we  had  done  with
+         the other  students  (ie  withdraw  them).   The  Applicant's  name
+         appears on this list."
+
+
+    This evidence may be juxtaposed with what  we  have  digested  in  [16]
+    -[20] above.
+
+
+26) As noted above, Mr Gardner gave evidence to this Tribunal.   He  was  a
+    demonstrably thoughtful, balanced and credible witness.   His  evidence
+    was understated, containing no hint of invention or  exaggeration.   It
+    was in all material respects consistent with his written statements. He
+    was entirely unshaken in cross examination.
+
+27) The final evidence bearing on this subject was that of Mr  Turner,  one
+    of the senior Home Office  employees  directly  involved  in  the  UKVI
+    interaction  with  Blakehall  College,  beginning  with   the   licence
+    suspension decision and culminating  in  the  decision  to  revoke  the
+    college's licence.  As with Mr Gardner, we had the benefit of assessing
+    Mr Turner in the witness box. For  the  reasons  elaborated  below,  we
+    found him a wholly unimpressive witness.
+
+
+28) Mr Turner affirmed that he had no knowledge of  the  decision  of  this
+    Tribunal in Gazi.  When asked about the decision in SM and  Qadir,  his
+    response was that he had heard of it but  had  never  read  it.   These
+    aspects of his evidence were symptomatic  of  the  consistent  lack  of
+    depth and conviction which characterised his testimony throughout.   At
+    the outset of his cross examination, Mr  Turner  was  asked  about  the
+    identical format and near identical content of  his  witness  statement
+    and that of another Home Office employee,  Mr  Evans.    It  was  quite
+    obvious that  Mr  Turner's  statement  was  modelled  on  that  of  his
+    colleague.  However, Mr Turner refused to acknowledge this  inescapable
+    reality.  His protestation that he had prepared his  statement  without
+    any reference whatsoever to the other was utterly implausible.
+
+
+29) Mr Turner's claims as to  how  the  letters  and  minutes  of  meetings
+    examined above should be properly construed and understood were  simply
+    unsustainable.  Digging an  increasingly  deep  hole  for  himself,  he
+    sought unconvincingly to blame colleagues for their actions in agreeing
+    to meetings (one of which he himself  attended)  and  the  contents  of
+    letters and minutes of meetings.  Finding himself, thus, at a point  of
+    virtually no return  he  sought  refuge  in  the  manifestly  untenable
+    suggestion  that  the  relevant  UKVI  guidance  erects   an   absolute
+    prohibition to  meetings  with  representatives  of  licensed  colleges
+    during  the  twilight  period  between   suspension   and   revocation.
+    Throughout his evidence  Mr  Turner  failed  to  engage  directly  with
+    certain pertinent questions and made a series of sweeping,  generalised
+    and unsupported assertions.
+
+
+30) We have no hesitation in preferring the evidence of Mr Gardner to  that
+    of Mr Turner. Our evaluation of Mr Gardner's testimony is  as  follows.
+    During the period in question, June to October 2014, Mr  Gardner  found
+    himself in increasingly  desperate  straits.   The  reputations  of  Mr
+    Gardner, his college and those involved in it  were  at  stake.   Their
+    livelihood was under serious threat.  Mr Gardner  found  himself  in  a
+    progressively weak and desperate position.  Having  considered  all  of
+    the evidence in the round we find, without doubt, that Mr  Gardner  was
+    pressurised by UKVI  officials  into  expelling  the  218  students  in
+    question.  This cohort included the Applicant.  We consider that he was
+    given  no  choice.   Based  on  his  evidence,  which  we  accept,  the
+    requirement that he expel all of these students from Blakehall  College
+    was conveyed to him explicitly by a senior Home Office official.   This
+    duress is also readily to be inferred from the contemporaneous  letters
+    and records of meetings.  The threat is not, of course,  documented  in
+    any of the latter.  However, we attach no weight to this consideration,
+    given that, having regard to Mr Turner's evidence, UKVI has  evinced  a
+    clear  policy  of  disassociation  and  innocence  as  regards  student
+    withdrawals and, therefore, selected its written words with caution.
+
+
+31) In summary, the Secretary of State's evidence on the issues relating to
+    Blakehall College shrinks and withers  to  the  extent  that,  for  the
+    reasons given, we reject it in all material  respects.   We  shall  now
+    relate this omnibus finding to the Applicant's grounds of challenge.
+
+
+VI    FIRST GROUND OF CHALLENGE
+
+32) The gist of this ground is that the Secretary of State acted unlawfully
+    in electing to take action against the Applicant under  paragraph  323A
+    of the Rules, thereby circumventing the statutory scheme under  Section
+    10 of the 1999 Act and paragraphs 321A  and  323  of  the  Rules.   The
+    Applicant's fundamental complaint is  that  the  Secretary  of  State's
+    choice of decision making route deprived him of a  statutory  right  of
+    appeal.  The question for  the  Tribunal  is  whether  any  public  law
+    misdemeanour of the various types canvassed is demonstrated.  The nexus
+    between this ground of challenge and the issue which we have  addressed
+    in extenso in [10] - [30] above is formed by  the  Applicant's  omnibus
+    contention that having regard to the events relating to the  revocation
+    of the licence of Blakehall College the impugned decision is tainted in
+    several inter-related ways.
+
+
+    Immigration Rules and Statutory Framework
+
+
+33) At this juncture, reference to the statutory  framework  is  essential.
+    There are three provisions of the Immigration  Rules  of  significance.
+    Each is contained in  Part  9,  a  discrete  regime  entitled  "General
+    grounds for the refusal of entry clearance, leave to enter or variation
+    of leave to enter or remain in the United Kingdom".  From  30  December
+    2013 (at latest) paragraph 321A of the Rules has provided:
+
+         "321A.   The following grounds for the cancellation of  a  person's
+                leave to enter or remain which is in force  on  his  arrival
+                in, or whilst he is outside, the United Kingdom apply;
+
+
+                (1)     there has been such a change in the circumstances of
+                    that person's case since the leave was  given,  that  it
+                    should be cancelled; or
+
+
+                (2)     false representations were made or  false  documents
+                    were  submitted  (whether  or  not   material   to   the
+                    application,  and  whether  or  not  to   the   holder's
+                    knowledge), or material facts  were  not  disclosed,  in
+                    relation to the application for leave; or  in  order  to
+                    obtain documents from the Secretary of State or a  third
+                    party required in support of the application or,
+
+
+                (3)     save in relation to a person settled in  the  United
+                    Kingdom  or  where  the  Immigration  Officer   or   the
+                    Secretary of State is satisfied that  there  are  strong
+                    compassionate reasons justifying admission, where it  is
+                    apparent that, for medical reasons, it is undesirable to
+                    admit that person to the United Kingdom;  or  (4)  where
+                    the Secretary of State has personally directed that  the
+                    exclusion of that person  from  the  United  Kingdom  is
+                    conducive to the public good; or
+
+
+                (4A)    Grounds which would have  led  to  a  refusal  under
+                    paragraphs 320(2), 320(6), 320(18A), 320(18B) or 320(19)
+                    if the person concerned were making  a  new  application
+                    for leave to enter or remain  (except  where  this  sub-
+                    paragraph applies in respect of leave to enter or remain
+                    granted under Appendix Armed Forces it is to be read  as
+                    if for paragraphs 320(2), 320(6), 320(18A), 320(18B)  or
+                    320(19)" it said "paragraph 8(a), (b), (c)  or  (g)  and
+                    paragraph 9(d)"); or
+
+
+                (5)    The Immigration Officer or  the  Secretary  of  State
+                    deems the  exclusion  of  the  person  from  the  United
+                    Kingdom to be conducive to the public good. For example,
+                    because  the  person's  conduct  (including  convictions
+                    which do not fall within paragraph  320(2)),  character,
+                    associations, or other reasons, make it  undesirable  to
+                    grant them leave to enter the United Kingdom; or
+
+
+                (6)     where that person is  outside  the  United  Kingdom,
+                    failure  by  that  person  to  supply  any  information,
+                    documents, copy documents or medical report requested by
+                    an Immigration Officer or the Secretary of State."
+
+
+
+    The Appellant's case in principle fell within paragraph 321A(2).
+
+
+   34)  Paragraph 323 of the Rules prescribes various circumstances in which
+       leave to remain in the United Kingdom may be curtailed (discretionary
+       curtailment).  Throughout the period under  scrutiny  and   until  06
+       April 2015 it provided:
+
+         "323     A person's leave to enter or remain may be curtailed:
+
+
+                (i)     on any of the grounds set out in  paragraph  322(2)-
+                    (5A) above  (except  where  this  paragraph  applies  in
+                    respect of a person granted leave under  Appendix  Armed
+                    Forces "paragraph 322(2)-(5A) above" is to read as if it
+                    said "paragraph 322(2) and (3) above and paragraph  8(e)
+                    and (g) of Appendix Armed Forces"); or
+
+
+                (ia)     if  he   uses   deception   in   seeking   (whether
+                    successfully or not) leave to remain or a  variation  of
+                    leave to remain; or
+
+
+                (ii)    if he ceases to meet the requirements of  the  Rules
+                    under which his leave to enter or remain was granted; or
+
+
+
+
+                (iii)   if he is the  dependant,  or  is  seeking  leave  to
+                    remain as the dependant, of an  asylum  applicant  whose
+                    claim  has  been  refused  and  whose  leave  has   been
+                    curtailed under section 7 of the 1993 Act, and  he  does
+                    not qualify for leave to remain in his own right, or
+
+
+                (iv)    on any of the grounds set out in paragraph 339A (i)-
+                    (vi) and paragraph 339G (i)-(vi), or
+
+
+                (v)     where a person has, within the  first  6  months  of
+                    being granted leave to enter, committed an  offence  for
+                    which they are subsequently sentenced  to  a  period  of
+                    imprisonment, or
+
+
+                (vi)    if he was granted his current period of leave as the
+                    dependent of a person ("P") and P's leave  to  enter  or
+                    remain is being, or has been, curtailed."
+
+    The Appellant's case in principle fell within paragraph 323 (ia).
+
+
+
+
+   35) Next, Rule 323A(a), in force from 06 April 2012 to  date,  introduced
+       certain grounds for mandatory curtailment  of  leave  in  respect  of
+       Tiers 2, 4 and 5 migrants.  It provided:
+
+
+         "In addition to the grounds specified in paragraph 323,  the  leave
+         to enter or remain of a Tier 2 Migrant, a Tier 4 Migrant or a  Tier
+         5 Migrant:
+
+
+               a) is to be curtailed if:
+
+
+        i) in the case of a Tier 2 Migrant or a Tier 5 Migrant:
+
+
+                     1)     the migrant fails to commence, or
+
+
+                     2)     the migrant ceases, or will cease,  before  the
+                        end date recorded on the Certificate of Sponsorship
+                        Checking  Service,  the  employment,  volunteering,
+                        training or job shadowing (as the case may be) that
+                        the migrant has been sponsored to do.
+
+
+                ii) in the case of a Tier 4 Migrant:
+
+
+                     1)     the migrant fails to commence studying with the
+                        Sponsor, or
+
+
+                     2)     the  Sponsor  has  excluded  or  withdrawn  the
+                        migrant, or the migrant  has  withdrawn,  from  the
+                        course of studies, or
+
+
+                    (2A)      the migrant's course of study has  ceased,  or
+                        will cease, before the end  date  recorded  on  the
+                        Certificate of Sponsorship Checking Service, or
+
+
+                     3)     the Sponsor withdraws their  sponsorship  of  a
+                        migrant on the doctorate extension scheme, or
+
+
+                     4)     the Sponsor withdraws their  sponsorship  of  a
+                        migrant  who,  having  completed  a   pre-sessional
+                        course as  provided  in  paragraph  120(b)  (i)  of
+                        Appendix A, does not have a  knowledge  of  English
+                        equivalent to level B2 of the Council  of  Europe's
+                        Common European Framework for Language Learning  in
+                        all four components (reading, writing, speaking and
+                        listening) or above."
+
+
+    The impugned  decision  of  the  Secretary  of  State  was  made  under
+    paragraph 323A
+    (a)(ii)(2).
+
+
+36) We turn to consider the  relevant  primary  legislation.  Prior  to  20
+    October 2014, section 10(1) of the 1999 Act provided:
+
+         "A person who is not a British citizen  may  be  removed  from  the
+         United  Kingdom,  in  accordance  with  directions  given   by   an
+         immigration officer, if - (a) having only a limited leave to  enter
+         or remain, he does not observe a condition attached to the leave or
+         remains beyond the time limited by the leave; (b) he  has  obtained
+         leave  to  remain  by  deception  or  (c)  directions  ("the  first
+         directions") have been given for the removal, under  this  section,
+         of a person ("the other person") to whose family he belongs."
+
+
+    By virtue of Section  82(2)(g)  of  the  Nationality,  Immigration  and
+    Asylum Act 2002 previously in force, there was  a  statutory  right  of
+    appeal against decisions made under Section 10 of  the  1999  Act.   An
+    appeal of this genre had to be pursued  out  of  country,  per  Section
+    92(2).  This appeal right would have availed the Appellant, per section
+    10(1)(b), had he been the subject of a decision there under at any time
+    from the beginning of the saga in mid -  June  2014  until  20  October
+    2014, when significant changes, including the abolition of this  appeal
+    right, were effected by SI 2014/2771, commencing certain provisions  of
+    the Immigration Act 2014.
+
+
+
+
+    Policy Guidance
+
+
+37) The provisions of statute and the Rules outlined above do not exist  in
+    a vacuum.  Rather, they are to be considered in conjunction with one of
+    the Secretary of State's  published  policies  which  featured  in  the
+    evidence, namely the publication "Curtailment of Leave", effective from
+    31 July 2014. This states, firstly [at page 11]:
+
+
+         "This  page  tells  caseworkers  about  considering  curtailing   a
+         migrant's leave when they have made false representations or failed
+         to disclose material facts in a previous application for leave.
+
+
+         You  must  consider  curtailment  under  paragraph  323(i)  of  the
+         Immigration Rules with reference to paragraph 322(2), if  you  find
+         that in a previous application for leave to enter or  remain  under
+         the Immigration Rules, a migrant:
+
+
+               . has made a false representation, such as providing a  false
+                 document, or
+               .  did  not  disclose  information  that  they  should   have
+                 provided.
+
+
+         In this context a 'previous application' means one that has already
+         been considered and decided, rather  than  one  that  is  currently
+         being considered and has not yet been decided.
+
+
+         You  must  consider  curtailment  under  paragraph  323(i)  of  the
+         Immigration Rules with reference to paragraph 322(2A), if you  find
+         that, in a current or previous  application  for  a  document  that
+         indicates the person has a right to reside in the UK, a migrant:
+
+
+               . has made a false representation, such as falsely stating on
+                 the  application  form   that   they   have   no   criminal
+                 convictions, or
+               . did not disclose  information  that  was  material  to  the
+                 application."
+    It continues [at page 12]:
+
+         "Check whether the case should be treated as a removal rather than
+         curtailment
+
+
+         You must consider whether to curtail a migrant's leave if they have
+         made false representations or failed to  disclose  material  facts.
+         Before you curtail, you must first consult the  local  immigration,
+         compliance and engagement (ICE) team to see  if  the  case  can  be
+         treated as a removal under Section 10 of the Immigration and Asylum
+         Act 1999 (on grounds of deception).
+           The ICE team will assess most of these cases to see if they can
+           be considered for:
+
+
+               . administrative removal, or
+               . removal for illegal entry in the case of leave to enter."
+
+    Within the same section the following statement appears [at page 13]:
+
+         "False representations or failure to disclose material facts in a
+         current application
+
+
+         You may find that a  migrant  has  made  false  representations  or
+         failed to disclose material facts in the current  application  that
+         you are considering and the migrant will still have leave remaining
+         after you have refused the  application.  You  cannot  curtail  the
+         remaining leave in these circumstances. This is  because  paragraph
+         322(2) relates to false  representations  or  failure  to  disclose
+         material facts for the purpose of obtaining leave  to  enter  or  a
+         previous  application  to  vary  leave,  rather  than  the  current
+         application.
+
+
+         Therefore, when refusing a current application on these grounds you
+         must refuse under paragraph 322(1A) of the Rules. If you refuse the
+         application on this basis, you must then  refer  the  case  to  the
+         appropriate ICE team  to  consider  making  a  Section  10  removal
+         decision (on the grounds of deception), instead of  curtailing  any
+         remaining  leave.  If  a  removal  decision  is  made,  this   will
+         invalidate any existing leave."
+
+
+    At page 49 one finds  under  the  rubric  "Mandatory  Curtailment"  the
+    following passage:
+
+
+           "Exclusion or withdrawal from studies
+
+
+           If the sponsor has excluded or withdrawn  the  migrant,  or  the
+           migrant has withdrawn, from the  course  of  studies,  you  must
+           curtail  their  leave  under  paragraph  323A(a)(ii)(2)  of  the
+           rules."
+
+
+    The Secretary of State's policy guidance in vogue at the material  time
+    included the "Enforcement Instructions and  Guidance"  ("EIG").   This,
+    under the rubric "Curtailment of current leave", states,  at  paragraph
+    50.8:
+
+
+         "Although a  person's  leave  can  be  curtailed  where  they  have
+         breached their conditions of stay by, for example,  working  whilst
+         here as a student in excess of the hours permitted under the Rules,
+         it is normally more appropriate to consider Section  10  action  in
+         such  cases  where  a  person  has  come  to  attention  during  an
+         enforcement visit."
+
+
+The Competing Arguments In Outline
+
+38) Mr Armstrong submitted that the scheme of the 1999 Act and the Rules is
+    as follows:
+      a) In cases where Section 10 of the 1999 Act was available, it  should
+         be utilised.  The main procedural protection thereby triggered  was
+         an out of country appeal.
+
+
+      b) In cases where Section 10 could not be  utilised,  the  appropriate
+         course was to invoke  the  curtailment  provisions  of  the  Rules,
+         namely Rule 323, rather than Rule 323A,  with  the  consequence  of
+         either an in country right of appeal  or  the  ability  to  make  a
+         further immigration application.
+
+
+      c) The exercise of the mandatory curtailment power enshrined  in  Rule
+         323A was designed to be confined  to  cases  where  a  student  had
+         withdrawn from the relevant course for educational reasons.
+
+
+
+39)  Developing  his  argument,  Mr  Armstrong  submitted  that,  from  the
+    Secretary of State's perspective this  was  at  all  times  a  case  of
+    alleged deception on the  part  of  the  Applicant,  thereby  rendering
+    resort to a decision under Rule  323A  unsustainable  in  law.  It  was
+    argued that the decision of  the  Secretary  of  State  frustrated  the
+    legislative purpose;  alternatively,  deprived  the  Applicant  of  the
+    procedural protections which both of the  alternative  decision  making
+    mechanisms would have provided; and further,  or  in  the  alternative,
+    fails to withstand review by reference to the  established  public  law
+    standard of anxious scrutiny, fairness and discharge  of  the  Tameside
+    duty of enquiry (see Secretary of State for  Science  and  Education  v
+    Tameside Metropolitan Borough Council [1977] AC  1014).   Mr  Armstrong
+    further submitted that the impugned decision was made in  disregard  of
+    or, alternatively,  in  breach  of  the  Secretary  of  State's  policy
+    guidance (supra).  Finally, Mr Armstrong submitted that  having  regard
+    to the factor of deception, the appropriate standard  of  review  in  a
+    challenge of this kind is that of precedent fact.
+
+40) We distil the core of the riposte of Mr Kovats QC to be the  following.
+    The Applicant's challenge to the impugned decision of the Secretary  of
+    State can be advanced only on the ground that it was unfair not to make
+    an appealable immigration decision.   Furthermore,  properly  analysed,
+    this is not a challenge to the  Secretary  of  State's  curtailment  of
+    leave  decision,  the  real  target  being  the  college's   withdrawal
+    decision.   Nor  does  any  question  of  precedent  fact  arise.   The
+    Applicant had the opportunity to make representations to the  Secretary
+    of State's agents following the termination of his registration at  the
+    college on 13 August 2014.  While ETS assessed  the  Applicant's  TOEIC
+    test scores to be invalid, this did not form the basis of the  decision
+    under challenge.  As a result, the evidence of the Applicant, including
+    the expert evidence of Professor Sommer on which he relies, as  to  the
+    reliability of the test results is irrelevant and, though  admitted  de
+    bene  esse  by  the  Tribunal,  should,  at  this  stage,  strictly  be
+    considered inadmissible.
+
+
+
+
+41) The submissions of Mr Kovats also laid emphasis on the  fact  that  the
+    only decision under challenge is that of the Secretary  of  State  and,
+    further, that it is not the function of this Tribunal to make  findings
+    of fact relating to the events surrounding the TOEIC  tests  which  the
+    Applicant claims to have undertaken.  It was further submitted that the
+    Secretary of State's decision is vulnerable to challenge  only  on  the
+    basis  of  Wednesbury  principles.   Mr  Kovats'  submissions   further
+    highlighted that the revocation of the Blakehall College licence is not
+    under challenge in these proceedings and was, in any  event,  based  on
+    several grounds  extending  beyond  the  "ETS/TOEIC"  issue.   Finally,
+    submitting that the Applicant's challenge  is  defeated  by  delay,  Mr
+    Kovats highlighted the absence of any challenge to the actions  of  the
+    Secretary of State's agents  relating  to  the  college's  decision  to
+    withdraw the Applicant from  his  course,  with  the  result  that  the
+    present challenge, which attacks the Secretary of  State's  curtailment
+    of leave decision of 18 December 2014, is "a device to obscure the fact
+    that [the Applicant] has not only fired his shot too late, he has aimed
+    at the wrong target".
+
+
+42) Post-hearing the Tribunal invited further submissions from the  parties
+    on the following issues relating to the  Secretary  of  State's  policy
+    guidance (supra):
+
+
+      a) The Secretary of State's stance on whether  either  of  the  policy
+         guidance instruments invoked by the Applicant was applicable.
+
+
+      b) The factual question of whether the Secretary of  State's  decision
+         maker took into account either or both of these instruments.
+
+
+      c) The factual question of whether the Secretary of  State's  decision
+         maker took into account the multiplicity of decision making  routes
+         available in the Applicant's case.
+
+
+    [See Appendix 3 hereto]
+
+
+    In a further submission, it was accepted on behalf of the Secretary  of
+    State that the "Curtailment of Leave"  guidance  was  applicable.   The
+    submission did not address the second ("EIG") instrument  of  guidance.
+    Next, the submission acknowledged, in substance, that the Secretary  of
+    State could adduce  no  evidence  bearing  on  either  of  the  factual
+    questions  ventilated.   The  Tribunal's  post-hearing  Notice  to  the
+    parties'  representatives  also   invited   argument   on   the   legal
+    consequences which would flow from (a) a finding that the Secretary  of
+    State had failed to take into account, or give  effect  to,  either  or
+    both of the policy guidance instrument  and  (b)  a  finding  that  the
+    Secretary of State had failed to take into account the multiplicity  of
+    decision making routes available.  The further submission on behalf  of
+    the Secretary of State did not address either of these issues.
+
+
+    The Choice of Decision Making Mechanism
+
+
+43) In our judgement there are two main competing approaches to this issue.
+    The first involves focussing on what the Secretary of  State,  formally
+    and expressly, stated in the decision under challenge.  It is necessary
+    to identify the following separate stages in the sequence of events:
+
+
+
+      i) At the first stage, ETS communicated to the Secretary of State  its
+         assessment that the Applicant had  procured  his  English  language
+         proficiency certificates by deception, via the use of a proxy  test
+         taker.
+
+
+     ii)  At  the  second  stage,  the  Secretary  of  State  relayed   this
+         information to Blakehall College.
+
+
+    iii)  The Secretary of State's agents  then  pressurised  the  college's
+         proprietor into withdrawing the Applicant  and  all  other  student
+         members of the same cohort from  the  course  of  study  they  were
+         pursuing. This conduct was based exclusively upon their  conviction
+         that the Applicant (and others) had committed fraud.
+
+
+     iv) At the next stage, the college made withdrawal decisions in respect
+         of the Applicant and other students
+
+
+      v) At the final stage, the Secretary of State decided to  curtail  the
+         Applicant's leave to remain in the United Kingdom  under  paragraph
+         323A(a)(ii)(2) of the Rules.
+
+
+
+
+    The Decision in Giri
+
+44) At this juncture we consider the decision in R (Giri)  v  Secretary  of
+    State for  the  Home  Department  [2015]  EWCA  Civ  784.   There,  the
+    Secretary of State refused the timeous application of a Tier 4  student
+    migrant for further  leave  to  remain  in  the  United  Kingdom  under
+    paragraph 322(1A) of the Rules on the ground of  false  representations
+    or information. As the Applicant's extant leave remained intact,  there
+    was no appealable  immigration  decision,  with  the  result  that  the
+    ensuing challenge proceeded via judicial review.
+
+
+45) The Court of Appeal, having noted that the  crucial  question  for  the
+    Secretary of State was whether the student had  engaged  in  deception,
+    categorised this as a question of  fact  requiring  a  finding  by  the
+    decision maker in deciding whether to grant or refuse  entry  clearance
+    or leave to enter or remain. It was held that the role of the court  is
+    to review the ensuing decision on Wednesbury principles.  Richards  LJ,
+    delivering the unanimous judgment of the Court, stated at [32]:
+
+
+         "I accept that a finding that deception has  been  used  should  be
+         scrutinised very carefully but I do not accept  that  the  relevant
+         question is anything other than whether it was reasonably  open  to
+         the decision maker, on  the  material  before  him,  to  find  that
+         deception had been used.  The finding in question is one of fact."
+
+
+    In the remaining passages of its judgment,  the  Court  reiterated  the
+    well  established    principles that  the  onus  of  proving  deception
+    rests on the Secretary of State  and  the  standard  of  proof  is  the
+    balance of probabilities.
+
+    General
+
+46) Our evaluation of the submissions of the  parties'  respective  counsel
+    gives rise to the following analysis and conclusions.  We take  as  our
+    starting point some elementary dogma.  This is not a challenge  to  the
+    merits of the Secretary of State's decision to curtail the  Applicant's
+    leave to remain in the United Kingdom.  Furthermore,  this  is  not  an
+    immigration appeal.  Rather, by this challenge, the  Applicant  invokes
+    the supervisory jurisdiction of this Tribunal
+
+
+
+47) The only prerequisite to a decision under this Rule (in  this  context)
+    is that the sponsor college has withdrawn the migrant from  his  course
+    of studies.  Analysed in this way, the Secretary  of  State's  decision
+    did not involve a finding that the Applicant had engaged  in  deception
+    in the manner suggested by ETS.  The decision did not involve, and  was
+    not dependent upon, a finding of deception.  Rather, for  the  purposes
+    of the Rule invoked, the critical fact involved  in  the  decision  was
+    that the Applicant had been withdrawn from his course of study  by  the
+    sponsor college.
+
+
+
+
+48) The alternative, competing  approach  is  somewhat  wider.  It  entails
+    focussing on the reality and substance of the impugned decision.   This
+    involves scrutinising the conduct of the Secretary  of  State's  agents
+    throughout  the  period  under  scrutiny   and   sustained   underlying
+    motivation. It is clear  beyond  peradventure  that  the  Secretary  of
+    State's agents did not merely suspect, or believe, that  the  Applicant
+    had engaged in deception in the relevant  manner.   Rather,  they  were
+    plainly convinced of this fact.  As recorded in the  judgment  of  this
+    Tribunal in Gazi, at [15]:
+
+
+         "The  Home  Office  invariably  accepts  the  deception  assessment
+         provided by ETS, without more".
+
+
+    See also SM and Qadir at [20].  The thrust of Mr Turner's  evidence  to
+    this Tribunal was unambiguously  in  these  terms.   Furthermore,  from
+    start to finish of the material period the Secretary of State's  agents
+    adhered relentlessly to the position that the Applicant  had  practised
+    deception and had to be penalised accordingly.   Notwithstanding,  they
+    ultimately  had  recourse  to  a  decision-making  mechanism  in  which
+    deception does not feature.
+
+
+49) What is the effect of this analysis?  It is tempting to conclude simply
+    that the Secretary of State had a choice of decision making  routes  at
+    her disposal.  However unsatisfactory this multiplicity of choice might
+    appear in the abstract, this was the legal effect of  the  co-existence
+    of the several legal mechanisms all duly made and  adopted  and  having
+    the requisite parliamentary scrutiny.  So it was  simply  a  matter  of
+    picking from the menu. But is  this  apparently  simplistic  assessment
+    correct in law?
+
+50) We take as our point of departure that, in  principle,  where  multiple
+    decision-making mechanisms are available to any  public  authority  the
+    decision to invoke one of these rather than any of the  others  entails
+    the  exercise  of  discretion  and  is  susceptible  to  challenge   on
+    conventional public law grounds.
+
+51) Given the crucial importance of context, it is appropriate to highlight
+    certain features of  the  situation  prevailing  at  the  time  of  the
+    Secretary of State's impugned decision.  At this stage,  the  Applicant
+    had been in limbo during a period of some four months, consequent  upon
+    the termination of his registration at Blakehall College:  [10]  supra.
+    During this period his situation remained static, with no  amelioration
+    or,  indeed,  any  type  of  material  development.   We   accept   the
+    Applicant's evidence that following receipt of the  withdrawal  letter,
+    he went to the college seeking further  information  and  clarification
+    and was informed that he could expect a letter from  the  Home  Office.
+    We accept his further evidence that  this  triggered  a  period  during
+    which his stance was one of  awaiting  the  expected  letter  prior  to
+    taking any kind of action.  There was no  suggestion  from  any  source
+    that he should proactively contact the Home Office and, of  course,  he
+    had not experienced previously a  comparable  plight.  He  received  no
+    warning of what was in the pipeline, he was not informed in any  detail
+    of the case being built against him and he  was  not  invited  to  make
+    representations on any issue.
+
+
+52) In the circumstances just noted,  the  Secretary  of  State's  decision
+    maker had a choice of the three  separate  decision  making  mechanisms
+    outlined above.  In simple public law terms, there was a discretion  to
+    be exercised in the matter of identifying the selected route.  Properly
+    analysed, the Applicant is challenging the exercise of this discretion.
+     We consider  that  that  whereas  the  formal  driver  propelling  the
+    impugned decision was the withdrawal by the sponsor  of  the  Applicant
+    from the college, the real rationale was the ETS  assessment  that  the
+    Applicant had procured his qualification by deception and the Secretary
+    of State's acceptance thereof. Having regard to certain undisputed  (or
+    indisputable) facts  and  our  findings  (see  Chapter  V  above)  this
+    diagnosis is inescapable. We consider that this  alleged  deception  on
+    the part of the  Applicant  was  the  omnipresent  and  dominant  force
+    throughout  the  sequence  of  events  in   question.    Formally   and
+    technically, the withdrawal of the Applicant by the  college  from  the
+    course was the underpinning of the Secretary of State's curtailment  of
+    leave decision.  However, in substance and reality, the assessment that
+    the  Applicant  had  practiced  deception  in   procuring   his   TOEIC
+    qualification was the essential underpinning  of  the  conduct  of  the
+    Secretary of State's officials from the beginning to  the  end  of  the
+    period under  scrutiny,  culminating  in    the  impugned  decision  in
+    December 2014.
+
+
+53) Turning to scrutinise the actions of the Secretary of State's  decision
+    maker, we note firstly the absence of any evidence of alertness that  a
+    discretion fell to be exercised.  The evidence adduced on behalf of the
+    Sectary  of  State  contains  no  indication,  either  express  or   by
+    reasonable implication, that the decision maker was aware of, and  duly
+    gave consideration to, the three decision making routes available.  The
+    finding that there was no real exercise of discretion, is readily made.
+     Applying orthodox public law doctrine, this invites the analysis  that
+    material considerations were disregarded by the decision maker and that
+    the discretion in play was fettered.  The  other  two  decision  making
+    routes were material factors for the reasons that they provided options
+    lawfully available in the circumstances and they entailed significantly
+    different consequences for the Applicant, namely the  triggering  of  a
+    statutory right of appeal. Had they been considered a  quite  different
+    species of decision could have materialised. Thus  the  requirement  of
+    materiality is clearly satisfied.
+
+
+54) We consider that the duty imposed on the  Secretary  of  State  was  to
+    identify the multiplicity of  decision  making  routes  available  and,
+    having  done  so,  to  conscientiously  consider  the  alternatives  in
+    accordance with normal public law standards.  The question  of  whether
+    this duty was  discharged  is  one  of  fact.   The  evidence,  in  our
+    judgement, points clearly to the finding that it was not.   The  public
+    law misdemeanour  thereby  committed  was  the  disregard  of  material
+    considerations.  We conclude that the impugned decision of the  Sectary
+    of State is vitiated on this ground alone.
+
+
+    The Policy Guidance Issue
+
+
+55) At this juncture we turn  to  examine  the  impugned  decision  from  a
+    different perspective.  The two decision making routes contained in the
+    Rules, together with the single statutory decision  making  alternative
+    did not exist in a vacuum.  Rather, they co-existed with the  Secretary
+    of State's policy guidance.  We have outlined the salient  features  of
+    this in [35] above.  Mr Kovats was correct in his submission  regarding
+    the status of this  instrument,  namely  it  ranks  as  mere  guidance.
+    However, it is policy guidance bearing  directly  on  the  question  of
+    selection of the decision making route. Furthermore, we are mindful  in
+    the principle enunciated by Lord Dyson JSC  in  Lumba  v  Secretary  of
+    State for the Home Department [2011] UKSC  12 at [26]:
+
+
+         "...a decision maker must follow  his  published  policy  .........
+         unless there are good reasons for not doing so
+           . "
+
+56) As noted in [42] above, the applicability of the "Curtailment of Leave"
+    guidance is not disputed.  Within this publication there  are  separate
+    sections entitled "Curtailment of Leave - False Representations  (etc)"
+    and "Curtailment of Leave - Tier 4 Mandatory  Curtailment".  Mr  Kovats
+    submitted, in effect,  that  these  belong  to  separate,  hermetically
+    sealed compartments. We reject this  submission.   The  guidance  is  a
+    single, indivisible instrument.  It must  be  considered  as  a  whole.
+    Furthermore, it is not to be construed with the rigours appropriate  to
+    an exercise in statutory interpretation or the construction of  a  deed
+    or contract.  Rather,  given  its  nature  and  status,  it  is  to  be
+    approached more broadly and flexibly. We consider all  of  this  to  be
+    orthodox dogma. The final ingredient  in  this  analysis  is  that  the
+    Applicant's case belonged to overlapping, or multiple, categories.
+
+
+57) We consider that both sections of the guidance fell to be considered by
+    the decision maker. This is unremarkable, given the overlapping  nature
+    of certain of the material provisions in Part 9 of  the  Rules  coupled
+    with the multiplicity  of  decision  making  routes  available  in  the
+    circumstances. As regards the first of the two sections of the guidance
+    under scrutiny, the simple fact is  that  the  Applicant  was,  at  the
+    material  time,  a  person  who  was  considered  to  have  made  false
+    representations and  who  was  liable  to  have  his  leave  to  remain
+    curtailed in consequence.  As regards the second section, the Applicant
+    was also a Tier 4 Student  who  was,  on  paper,  liable  to  mandatory
+    curtailment  action.  We  add  that  while  the   "Tier   4   Mandatory
+    Curtailment" section of  the  guidance  purports  by  its  language  to
+    prescribe rigid instructions to case workers, we consider  that,  as  a
+    matter of elementary principle,  these  are  not  to  be  construed  as
+    extinguishing the discretion to have resort to other options. Moreover,
+    "rules" of  this  species  must  be  construed  and  applied  with  the
+    flexibility required by the British Oxygen principle (British Oxygen  v
+    Board of Trade [1971] AC 610).
+
+58) The materiality of the guidance was not - and could  not  have  been  -
+    contested.  Accordingly, there was a duty on the decision maker to take
+    it into account.  If the decision maker had done so,  this  would  have
+    entailed, as a matter of obligation (given the terms of the  guidance),
+    weighing the options available and, specifically, considering whether a
+    removal decision under Section 10 of the 1999 Act  should  be  made  in
+    preference  to  a  curtailment  of  leave  decision  under  the  Rules.
+    Furthermore, again as a matter of obligation, the  decision  maker  was
+    bound by unambiguous instruction ("You must  ......")  to  consult  the
+    "local immigration, compliance and engagement  (ICE)  team"  in  making
+    this choice. The evident  purpose  of  this  step  is  to  provide  the
+    caseworker concerned with advice, information and guidance.
+
+
+59) The first - and elementary -  question  is  whether  the  Secretary  of
+    State's decision maker had regard to the aforementioned guidance.  This
+    is a question of fact.  Having considered all the  evidence,  including
+    the response on behalf of the Secretary of State to the Tribunal's post-
+    hearing Notice,  we  conclude  without  hesitation  that  the  impugned
+    decision was made without any reference to the  guidance.   It  follows
+    inexorably that there was a  failure  to  have  regard  to  a  material
+    consideration.
+
+
+60) It further follows that none of the steps specified  in  the  guidance,
+    outlined briefly in [58]  above,  was  taken.  Nor  were  the  optional
+    courses of action considered. As a result the impugned decision of  the
+    Secretary of State failed to give effect to the  policy  guidance.   No
+    explanation of, or justification for, this failure was proffered in the
+    evidence.  The  conclusion  that  there  was  a  breach  of  the  Lumba
+    principle follows inexorably.  To summarise, our consideration  of  the
+    issue relating to the first instrument of guidance in play  yields  the
+    conclusion that the Secretary of State's decision is  vitiated  by  the
+    aforementioned public law misdemeanours. We are satisfied that  neither
+    this conclusion nor that in [55] above is precluded by Daley-Murdock  v
+    Secretary of State for the Home Department [2015] EWCA Civ 161,  [6]  -
+    [9], on which Mr Kovats relied, which concerned a different species  of
+    legal challenge.
+
+
+61) The second instrument of policy guidance of the Secretary of State upon
+    which the  Applicant  relies  is  Chapter  50  of  the  EIG.   We  have
+    reproduced in [37] above the provision - paragraph 50.8  -  invoked  by
+    the Applicant.  The gist of this is that in cases  where  a  person  is
+    considered to have "breached their conditions  of  stay"  action  under
+    Section 10 of the 1999 Act  is  usually  the  appropriate  course.   We
+    consider that this does not avail  the  Applicant  for  the  elementary
+    reason that this is not a case of breach of conditions of stay. Indeed,
+    the conditions upon which the Applicant  was  permitted  to  enter  and
+    remain in the United Kingdom did not form part of the evidence adduced.
+     We find it unsurprising that neither  party  addressed  this  discrete
+    issue in the further submissions invited.
+
+    Wednesbury irrationality or proof of the precedent fact of deception?
+
+
+62) Which of these is the appropriate standard  of  review?   This  is  the
+    stark choice to  be  confronted,  bearing  in  mind  our  analysis  and
+    conclusion above that in substance and reality the curtailment of leave
+    action taken against the Applicant was underpinned by the Secretary  of
+    State's unshakeable and unwavering conviction that he  had  engaged  in
+    deception in procuring his TOEIC English language  qualification.   The
+    Applicant argues  that  his  judicial  review  challenge  falls  to  be
+    determined by reference to  the  standard  of  the  precedent  fact  of
+    deception.  We consider that he Appellant's argument  founders  on  the
+    rock of the Giri decision, which points firmly to the  conclusion  that
+    the Wednesbury principle, rather than proof of the  precedent  fact  of
+    deception, provides the appropriate standard of review in this context.
+
+
+
+
+63) The next question, logically, is whether the impugned decision  of  the
+    Secretary  of  State  is  vitiated  by  Wednesbury  irrationality?   As
+    emphasised in recent Supreme Court decisions such as Keyu  v  Secretary
+    of State for  the  Home  Department  [2015]  UKSC  69,  the  Wednesbury
+    principle, in cases not involving the assertion of fundamental  rights,
+    continues to entail an acutely elevated  threshold.   It  has  a  heavy
+    emphasis on (merely) supervisory judicial review. Applying the  formula
+    adopted by Richards LJ in Giri,  we  are  satisfied  following  careful
+    scrutiny that while the information available to the Secretary of State
+    was far from abundant, and bearing in mind when the  impugned  decision
+    was made viz it preceded the significant developments  (evidential  and
+    otherwise) in the "ETS saga" heralded by the decisions in Gazi  and  SM
+    and Qadir, the assessment that the Applicant had engaged  in  deception
+    based on the notification from ETS  lay within the spectrum of rational
+    decisions open to the hypothetical reasonable decision maker.
+
+    Conspicuous Unfairness
+
+
+64) From Mr  Armstrong's  quiver  next  emerged  the  submission  that  the
+    Tribunal should apply  the  prism  of  conspicuous  unfairness  to  the
+    decision making route selected by the Secretary of State.  The  factual
+    ingredients in this discrete argument are that this is the  only  known
+    case to date in which this curtailment of leave provision in Rule  323A
+    has been deployed by the Secretary of State (which is  not  contested);
+    the conditions under which resort to this decision making power  became
+    possible were orchestrated by the dubious  conduct of the Secretary  of
+    State's agents in  exercising  improper  pressure  on  the  college  to
+    withdraw the Applicant from his course;  and  the  Applicant  has  been
+    treated differently than  other  suspected  TOEIC  fraudsters,  without
+    adequate explanation or good reason. The other key ingredient  in  this
+    equation is, of course, that each of the other  two  possible  decision
+    making routes   generated a statutory right of appeal.
+
+
+65) "Conspicuous unfairness" is a term  which  has  gained  currency  in  a
+    number of reported cases during recent years.  It denotes  fairness  of
+    the substantive,  rather  than  procedural,  variety.   It  focuses  on
+    harshness of impact and outcome.  The concept features, for example, in
+    Rashid v Secretary of State for the Home Department [2005] EWCA Civ 744
+    where the issue concerned a failure by the  Home  Office  to  apply  an
+    internal relocation policy when refusing the asylum application  of  an
+    Iraqi Kurd.  Delivering the main judgment of the Court of Appeal,  Pill
+    LJ stated, at [34]:
+
+
+         "It is ...  a claim of unfairness amounting to an abuse  of  power,
+         of which legitimate expectation is only one application.  The abuse
+         is based on an expectation that a general policy for  dealing  with
+         asylum applications will be applied and will be applied  uniformly.
+         Serious errors  of  administration  have  resulted  in  conspicuous
+         unfairness to the claimant."
+      [Emphasis added.]
+
+
+    Other elements in this analysis were the persistence of  the  offending
+    conduct and the absence of any explanation: [36].
+
+
+66) In a concurring judgment, Dyson LJ described the central issue  in  the
+    case as one of "justice  and  fairness":  [44].   He  too  adopted  the
+    "conspicuous unfairness" standard, at [52].  Both judgments contain  an
+    acknowledgement  that  the  concept  of  "conspicuous  unfairness"   is
+    traceable to the judgment of Simon Brown LJ in  R  v  Commissioners  of
+    Inland Revenue, ex parte Unilever [1996] STC 681,  a  decision  of  the
+    Court of  Appeal  which,  by  reason  of  more  recent  jurisprudential
+    developments, has come to be recognised as  a  seminal  development  in
+    modern public law.  We are  at  a  loss  to  understand  the  insistent
+    argument on behalf of the Secretary of State that the  Supreme  Court's
+    subsequent disagreement with the substantive outcome of Rashid,  in  TN
+    (Afghanistan) v SSHD [2015] UKSC 40 somehow reversed also  the  Court's
+    exposition of the principle which we are here addressing. Our reasoning
+    is entirely independent of the result in Rashid.
+
+67) While Mr Armstrong's argument also prayed in aid the decision  of  R  v
+    Liverpool County Court, ex parte Baby Products Association  [2000]  LGR
+    171, we are inclined to view this as a routine illustration of a  first
+    instance decision in which a public authority was held  to  have  acted
+    unlawfully as it had, in effect, acted ultra vires and, further,  in  a
+    manner which  improperly  circumvented  and  frustrated  the  statutory
+    scheme in question.
+
+
+68) Our attention was also drawn to R (London Borough of  Lewisham)  v  AQA
+    and Others [2013] EWHC 211 (Admin).   This  requires  some  reflection.
+    There Elias LJ,  delivering  the  judgment  of  the  Divisional  Court,
+    offered the following thesis, at [111]:
+
+
+         "Logically, if there is a doctrine of conspicuous unfairness  as  a
+         substantive head of judicial review which is to  be  treated  as  a
+         distinct form of abuse of power, it must be for the court to decide
+         whether in any particular case  the  decision-maker  has  infringed
+         that principle since the court must decide whether power  has  been
+         abused. It is no different from a court deciding  that  a  decision
+         has been exercised for an improper purpose or  that  an  irrelevant
+         consideration has been taken into account. But  I  do  not  believe
+         that Unilever has formulated a fresh head of review  conferring  on
+         the  court  a  wide  discretion  to  substitute  its  view  of  the
+         substantive merits for the decision-maker. In order  to  constitute
+         conspicuous unfairness, the decision must be immoral  or  illogical
+         or attract similar opprobrium, and it necessarily follows  that  it
+         will be irrational. I  would  treat  this  concept  of  conspicuous
+         unfairness as a particular  and  distinct  form  of  irrationality,
+         which in essence is how it was viewed  by  Sir  Thomas  Bingham  in
+         Unilever. There are no doubt cases, of which Unilever is one, where
+         the  concept  of  fairness,  and  an  allegation   of   conspicuous
+         unfairness, better captures the particular nuance of the  complaint
+         being advanced than the concept of irrationality. Indeed,  I  think
+         that is typically so in any case  where  the  alleged  unreasonable
+         behaviour involves  a  sudden  change  of  policy  or  inconsistent
+         treatment. It is more natural  and  appropriate  to  describe  such
+         conduct as unfair rather than unreasonable. But in my  view  it  is
+         only if a reasonable body  could  not  fairly  have  acted  as  the
+         defendants have that their conduct  trespasses  into  the  area  of
+         conspicuous unfairness amounting to abuse  of  power.  The  court's
+         role remains supervisory."
+
+    The last sentence in this passage is of self-evident importance,  being
+    preceded by an emphatic reiteration of the root principle that even  in
+    cases where conspicuous unfairness is canvassed, it is not the function
+    of the reviewing court  to  substitute  its  view  of  the  substantive
+    merits.  Elias LJ, ultimately,  applied  the  prism  of  reasonableness
+    which, of course, was, historically, the term habitually used  in  this
+    field (see Council of Civil Service Unions v  Minister  for  the  Civil
+    Service [1985] AC 374 at [407] - [413] ( per  Lord  Diplock)  until  it
+    became more fashionable to speak of  rationality  and  its  antithesis,
+    irrationality.  Notably, Elias LJ linked  this  to  what  is  generally
+    recognised as the ultimate touchstone in judicial review, namely  abuse
+    of state power.
+
+
+69) While recognising that there may not be judicial or academic  unanimity
+    on this interesting issue, we consider that, doctrinally, the  approach
+    in AQA is the correct one. The emergence of the concept of  conspicuous
+    unfairness may be viewed as a natural development, or  elaboration,  of
+    the Wednesbury principles.  The concept was somewhat dormant  during  a
+    period of approximately two  decades.   However,  its  re-emergence  is
+    probably attributable to the development of the doctrine of substantive
+    legitimate expectations, duly driven by the organic power of the common
+    law.  A decision which results in a conspicuously unfair  outcome  for,
+    or impact upon, the claimant has  the  potential  to  qualify  for  the
+    condemnation of irrationality.  The ultimate question  is  whether  the
+    decision under scrutiny is so unfair and/or unreasonable as  to  amount
+    to an abuse of power. Stated succinctly, the exercise  of  governmental
+    power with conspicuously unfair or unreasonable  results  violates  the
+    Wednesbury principle.
+
+70) Reverting to the  present  case,  the  most  important  effect  of  the
+    Secretary of State's selection of decision making route  was  to  leave
+    the Applicant bereft of an appeal to a tribunal.  As our analysis above
+    makes clear, the only form of legal redress available to him, namely an
+    application for judicial review, is quite different  from  a  statutory
+    appeal.  This was recognised, with some emphasis, in  the  decision  of
+    this Tribunal in R (Gazi) v Secretary of State for the Home  Department
+    [2015] UKUT 327 (IAC), duly endorsed  by  the  Court  of  Appeal  in  R
+    (Mehmood and Ali) v Secretary of State for the Home  Department  [2015]
+    EWCA Civ 744.   In  Gazi,  this  Tribunal  emphasised,  at  [40],  that
+    judicial review is an unsuitable litigation mechanism in cases of  this
+    kind, continuing:
+
+         "...Secondly,  the  present  case  illustrates  that   every   case
+         belonging to this field will be unavoidably  fact  sensitive.  Each
+         litigant  will  put  forward  his  or   her   individual   disputed
+         assertions, agreed facts, considerations and  circumstances.  These
+         will be evaluated by a fact finding tribunal, to be contrasted with
+         a court or tribunal of supervisory jurisdiction. This analysis  is,
+         in my view, amply confirmed by the growing number of FtT  decisions
+         in this sphere. Within these one finds emphasis  on  self-evidently
+         important issues such as the appellant's evident  English  language
+         ability, demeanour and previous life  events.  Furthermore,  it  is
+         trite  that  the  assessment  of  each  appellant's  demeanour  and
+         credibility will be carried out on a case by case basis."
+
+    In SM and Qadir, this Tribunal observed at [102]:
+
+
+         "The hearing of these appeals has demonstrated beyond  peradventure
+         that judicial  review  is  an  entirely  unsatisfactory  litigation
+         vehicle for the determination of disputes of this kind".
+
+
+71) It is, of course, correct, that, exceptionally, features of the hearing
+    in the present case  included  oral  evidence  and  cross  examination.
+    However, these were confined to specific issues  and  these  mechanisms
+    did not, and were not designed to, convert these  proceedings  into  an
+    appeal on the merits.  Rather,  what  emerged,  under  strict  judicial
+    supervision, was a  hybrid  of  sorts.   To  this  must  be  added  the
+    conclusion which we have reached above that  this  is  not  a  judicial
+    review challenge in which deception on the part of the Applicant has to
+    be established as a precedent fact.
+
+
+72) To summarise, the Secretary of State's  selection  of  decision  making
+    mechanism had the effect of depriving the Applicant of a judicial forum
+    in which all of the evidence bearing upon the question  of  whether  he
+    had procured his English language proficiency certificates by deception
+    could be fully ventilated and explored, resulting in a judicial finding
+    on the issue.  As we have already observed, the question of whether the
+    Applicant practised deception is the key, dominant one in  the  overall
+    matrix.   By confining the  Applicant  to  pursuing  the  inferior  and
+    limited remedy of judicial review against the background  and  findings
+    detailed above, the Secretary of State, in  our  judgment,  acted  with
+    singular and manifest unfairness.  The evidence contains no explanation
+    of why one of the other two available decision making  routes  was  not
+    adopted.  Nor is there any  explanation  of  why  the  decision  making
+    routes adopted in all of the other cases known to, and brought  to  the
+    attention of, this Tribunal in this case  and  earlier  ones  were  not
+    invoked in this case.  As decisions such as AQA make clear,  these  are
+    relevant  considerations.   The  factors  of  both  an  unexpected  and
+    unexplained change of policy and unreasoned inconsistent treatment  are
+    discernible.
+
+
+73) What is the effect of this  analysis?   In  our  judgment,  it  adds  a
+    further, discrete dimension to the Applicant's  challenge.  It  invites
+    the conclusion (to borrow the language of Elias LJ) that  a  reasonable
+    public authority could not fairly have  deprived  the  Applicant  of  a
+    statutory right of appeal in the context and circumstances in question.
+     Drawing the various strands together, the conduct of the Secretary  of
+    State's  agents  in  their  interaction   with   the   proprietor   and
+    representatives of Blakehall College attracts  the  opprobrium  of  our
+    analysis and findings in [25] - [29] above; the  Secretary  of  State's
+    ability to invoke the mandatory and unappealable curtailment  of  leave
+    decision making route was a direct  result  of  the  improper  conduct,
+    consisting in essence of duress and manipulation, which we have  found;
+    the Applicant was left in the dark  as  to  the  Secretary  of  State's
+    intentions at all material times; the college was the only  source  and
+    conduit of information to him; no invitation  to  make  representations
+    about decision  making  routes  was  afforded  to  him;  there  was  no
+    communication with him during a critical period; and,  ultimately,  the
+    Applicant was driven to pursuing a legal remedy which is markedly  less
+    suitable than an appeal on the merits .  We conclude that these various
+    factors combine to yield the conclusion that the Secretary  of  State's
+    decision was so unfair and unreasonable as to amount  to  an  abuse  of
+    power.
+
+
+74) The Secretary of State had ample opportunity  to  address  evidentially
+    the issue of the decision making  route  selected  in  this  particular
+    student's case. No evidence bearing on this issue was presented. It  is
+    trite to add that all cases are decided on the basis  of  agreed  facts
+    and/or the judicial resolution of contested  factual  issues.  Notably,
+    the  Secretary's  hopelessly  belated  and  truly  forlorn  attempt  to
+    introduce still further evidence many weeks following the completion of
+    the hearing and remote from the questions raised in the Tribunal's post
+    - hearing Notice (see Appendix 3]  did  not  extend  to  this  discrete
+    issue.
+
+75) On the assorted grounds and reasons elaborated above we  conclude  that
+    the Applicant's first ground  of  challenge,  with  its  multi-facetted
+    ingredients, succeeds.
+
+VII   SECOND GROUND OF CHALLENGE: PROCEDURAL UNFAIRNESS
+
+76) This operates as a free  standing  ground  of  challenge.  Its  factual
+    matrix is uncomplicated and uncontentious.  In summary,  the  Secretary
+    of State's officials played a  leading  and  influential  role  in  the
+    decision of Blakehall  College  to  withdraw  the  Applicant  from  his
+    studies there; a hiatus of some  four  months  duration  followed;  the
+    Applicant interacted with  the  college,  but  not  UKVI,  during  this
+    period; UKVI engaged in no form of communication with the Applicant; in
+    particular, he was not informed of the detailed case against  him;  and
+    he was not invited to make representations  on  the  central  issue  of
+    alleged TOEIC fraud. We have considered the other  procedural  features
+    of the impugned decision making process under the rubric of conspicuous
+    unfairness above.
+
+
+77) In evaluating this ground of  challenge,  we  are  not  concerned  with
+    unfairness of the conspicuous, or substantive, variety explored  above.
+    Rather, the focus  here  is  on  the  hallowed  principles  of  natural
+    justice, specifically the  audi  alteram  partem  rule  in  its  modern
+    incarnation as expounded by Lord Mustill in his seminal speech in  R  v
+    Secretary of State for the Home Department, ex parte Doody  and  Others
+    [1994] 1AC 531, at 560 especially.  While it is correct  that  the  six
+    precepts of procedural fairness formulated by Lord Mustill  began  with
+    the question of what fairness required in that  case,  which  concerned
+    decisions  by  the  Secretary  of  State  on  the  minimum   terms   of
+    imprisonment to be served by mandatory life prisoners, what follows was
+    clearly of general application. Furthermore,  Lord  Mustill  formulated
+    the principle that there is a presumption that a statutory  power  will
+    be exercised fairly (in the procedural sense).  We can conceive  of  no
+    reason why a similar approach should not be applied to powers enshrined
+    in the Immigration Rules: and  none  was  advanced  on  behalf  of  the
+    Secretary of State.  Indeed, the submissions on behalf of the Secretary
+    of State were based on the premise that the Doody principles applied to
+    the decision making process under scrutiny.
+
+
+78) For completeness, we add the following. It is trite that  the  decision
+    making context is all important: see, for example, R (L) v West  London
+    Trust [2014] EWCA Civ 47 at [67], [76], [78] and [96]  especially,  per
+    Beatson LJ.  In the fields of immigration and asylum, it has been  held
+    that the basic principles  of  procedural  fairness  apply  to  certain
+    decision making contexts: see  Miah  [2014]  UKUT  00515  (IAC)  and  R
+    (Mushtaq) v Entry Clearance Officer of Islamabad, Pakistan [2015]  UKUT
+    00224 (IAC). If necessary for our decision, we would  hold  that  these
+    principles apply presumptively to all decision making contexts  in  the
+    field of immigration  and  asylum  law.   In  R  (Mehmood  and  Ali)  v
+    Secretary of State for the Home Department [2015] EWCA Civ 744 at [72],
+    Beatson LJ, while noting that a person in the position of the Applicant
+    is at liberty to  make  representations  or  provide  evidence  to  the
+    Secretary of State, acknowledged  (in  the  context  of  a  Section  10
+    decision) the duty to provide the migrant concerned with "at least  the
+    gist of the evidence" upon which the removal decision is made.
+
+
+79) We do not identify in the submissions of Mr Kovats any suggestion  that
+    the repercussions of the Secretary of State's decision  were,  for  the
+    Applicant, anything other than grave.  In brief compass, this  decision
+    effectively branded the Applicant a fraudster, a person who had  abused
+    immigration laws and control; required him to leave the United Kingdom,
+    where he had been established for several years; blighted his  academic
+    and  career  prospects;  rendered  null   the   substantial   financial
+    investment which he had made in his studies in the United Kingdom;  and
+    blacklisted him with regard to future immigration decisions.
+
+
+80)  We  recognise  that  in  theory  the   Applicant   could   have   made
+    representations to the Secretary of State after  communication  of  the
+    impugned decision.  However, it is far from clear that the Secretary of
+    State would have been either willing or,  more  fundamentally,  legally
+    empowered  to  revoke  the  decision.    Furthermore,  there   is   the
+    inescapable and prosaic reality highlighted by Simon Brown LJ  in  R  v
+    Secretary of State for the Home Department,  ex  parte  Hickey  (No  2)
+    [1995] 1 WLR 734, at 744, echoed by Hooper LJ  in  SP  v  Secretary  of
+    State for the Home Department [2004] EWCA Civ 1750, at [58],  that  the
+    exercise of post-decision representations, in the real world, may  well
+    be an arid one. This had already  been  expressly  recognised  by  Lord
+    Mustill (supra). This has a clear resonance in the present case,  given
+    that the Secretary of State's agents were implacably and, in our  view,
+    irrevocably committed to the view  that  the  Applicant  had  practised
+    deception.
+
+
+81) The riposte of Mr Kovats to this ground highlighted the  large  numbers
+    of students perceived to have  engaged  in  deception  and  the  UKVI's
+    interaction with persons and agencies other than  the  Applicant  -  in
+    particular ETS and Blakehall College.  Mr  Kovats'  written  submission
+    contains the following passage:
+
+
+         "To  have  approached  all  students  individually  to  seek  their
+         comments and representations before approaching the colleges  would
+         have caused inordinate delay and inordinate administrative  burden,
+         further prejudicing effective immigration control."
+    This submission addresses the wrong target. The Applicant's case is not
+    that he should have been given the opportunity  to  make  informed  and
+    considered representations in advance of the August  2014  decision  of
+    the college to withdraw him from his course.  Rather, the sole focus of
+    the  Applicant's  challenge  is  the   decision   impugned   in   these
+    proceedings, which was made on behalf of the Secretary  of  State  some
+    four months later. Furthermore, we consider  that  procedural  fairness
+    cannot be sacrificed on the altar of Government volume. The main  focus
+    of Mr Kovats' closing submission was the  Blakehall  College  decision.
+    His only submission relating to the Secretary of  State's  decision  is
+    that the Applicant  could  have  made  representations  on  that  front
+    between August and December 2014.
+
+82) It is common case that during a period of some  four  months  preceding
+    the impugned decision of the Secretary  of  State,  the  Applicant  was
+    aware of the allegation that  he  had  procured  his  English  Language
+    qualification by deception.  Second, he was aware that the Secretary of
+    State was the source of this allegation.   Third,  he  knew  that  this
+    allegation was the reason for the withdrawal action taken  against  him
+    by the college where he was studying.  Fourth,  he  knew  that  further
+    action on behalf of the Secretary of State could follow.   True  it  is
+    that he was not aware of the details of the case against him.  However,
+    the contours and substance of the case which  he  had  to  answer  were
+    known to him. The gist was apparent. He  was,  therefore,  equipped  to
+    make representations in his defence.  He was in no  way  disabled  from
+    making his case.  However, his position  throughout  the  period  under
+    scrutiny was one of inertia.
+
+83) As Lord Mustill stated, memorably, what fairness demands in  any  given
+    case is dependent upon the particular context.  Based on  the  analysis
+    in [79] above, we conclude that the impugned decision was  procedurally
+    fair.  The Applicant had a very clear target at  which  he  could  aim,
+    mustering all his ammunition and resources, during a reasonable  period
+    of time.   He  did  not  do  so.   He  cannot  complain  of  procedural
+    unfairness in consequence.
+
+
+84) We have emphasised in (65) above the  fundamental  distinction  between
+    substantive unfairness and procedural unfairness. We consider that  our
+    conclusion that the impugned decision was procedurally  fair  does  not
+    undermine our anterior conclusion  that  there  was  a  breach  of  the
+    Wednesbury principle.
+
+
+VIII  DELAY
+
+
+85) Rule 28(2) of the Tribunal Procedure (Upper Tribunal)  Rules  2008,  as
+    amended, provides:
+
+
+         "Subject to paragraph (3), an application under paragraph (1)  must
+         be made promptly  and,  unless  any  other  enactment  specifies  a
+         shorter time limit, must be sent or delivered to the Upper Tribunal
+         so that it is received no later than 3 months after the date of the
+         decision  [,  action  or  omission]  1  to  which  the  application
+         relates."
+    As noted in the submissions of Mr Kovats, this  Rule  differs  slightly
+    from its equivalent in the High Court regime, CPR 52.5.  Neither  party
+    submitted, correctly in our estimation that anything of substance turns
+    on this difference.  Common to both regimes is the power to extend this
+    time limit: as regards the Upper  Tribunal,  see  Rule  5(3)(a).   This
+    power must be exercised in accordance  with  the  overriding  objective
+    enshrined in Rule 2, by virtue of  Rule  2  (3).   We  understand  this
+    analysis to be uncontroversial.
+
+
+86) The two key dates are 18 December 2014, when the impugned  decision  of
+    the Secretary of State was  made  and  20  February  2015,  when  these
+    proceedings were initiated (followed by an amended claim form dated  16
+    March 2015).  In the order granting permission to  apply  for  judicial
+    review, the issue of delay was not addressed, notwithstanding  that  it
+    had been raised in the  Secretary  of  State's  pleading.   Substantial
+    quantities of water have flowed under the notional bridge  since  these
+    early litigation events.
+
+
+87) We reject unreservedly Mr  Kovats'  central  submission  on  the  delay
+    issue, namely that the real target of the Applicant's challenge is  the
+    Blakehall College withdrawal decision of August 2014.  This  submission
+    effectively  airbrushes  the  factual  and  juridical  reality  of  the
+    Secretary of State's decision some four  months  later  and  the  legal
+    effects and consequences thereof.  Secondly, the Secretary  of  State's
+    submissions do not engage with the evidence bearing on and  surrounding
+    the impugned decision  and  the  timing  of  the  registration  of  the
+    challenge thereto.  Thirdly, Mr Kovats' submission ignores the  reality
+    that the detailed involvement of the Secretary of State's officials  in
+    the college's withdrawal decision of August 2014 did not  emerge  until
+    an advanced stage of these proceedings, following the  industrious  and
+    diligent endeavours of the Applicant's solicitors.
+
+88) Given our rejection of the centrepiece  of  Mr  Kovats'  argument,  the
+    issue of delay falls away.  There was no alternative submission that by
+    reason of the elapse of  some  two  months  between  the  Secretary  of
+    State's decision and the lodgement of the Applicant's  challenge  these
+    proceedings were not initiated "promptly".  We make clear that we would
+    have rejected such argument in any event.  There are no indications  of
+    indolent inactivity during this period.  Nor is there any suggestion of
+    a misuse of this Tribunal's process.  Had it been necessary to do so we
+    would also have  taken  into  account  the  (apparently)  unprecedented
+    nature of the Secretary of State's  recourse  to  the  decision  making
+    route of paragraph 323A(a)(ii)(2) of the Rules; the resulting  features
+    of this challenge which distinguish it from all others in this Tribunal
+    to date;  the educative function and value  of  judicial  review;   the
+    legal merits of the Applicant's challenge; the gravity of the stigma of
+    cheating, which the Applicant cannot legally challenge by any mechanism
+    other than these proceedings; and, finally, the illumination which this
+    decision may provide in some  of  the  large  numbers  of  other  cases
+    pending in the two tiers of this Chamber, the Administrative Court  and
+    the Court of Appeal.
+
+IX    A Footnote
+
+89) We would observe that the forum of an in-country statutory appeal would
+    be clearly superior to the hybrid model adopted  in  these  proceedings
+    for the full exploration and consideration of all the evidence and,  in
+    particular, the finding of whether the Applicant engaged  in  deception
+    as alleged.  This  sounds  on  our  conclusion  concerning  conspicuous
+    substantive unfairness. The suitability of an out-of-country appeal  in
+    this sphere of litigation - and, indeed, in others - has  not  yet  (to
+    our knowledge) been fully tested at either tier and,  thus,  remains  a
+    moot question. In this context, we draw attention to what this Tribunal
+    stated in SM and Qadir, at [104 ]:
+
+         "We are conscious that some future appeals may be of  the  'out  of
+         country' species.  It is our understanding that neither the FtT nor
+         this Tribunal has experience of an out of country  appeal  of  this
+         kind, whether  through  the  medium  of  video  link  or  Skype  or
+         otherwise.  The question of whether mechanisms  of  this  kind  are
+         satisfactory and, in particular, the legal question of whether they
+         provide an appellant with a  fair  hearing  will  depend  upon  the
+         particular context and circumstances of the individual case.  This,
+         predictably,  is  an  issue  which  may  require  future   judicial
+         determination".
+
+    The Upper Tribunal now has experience of a broad range  of  "ETS/TOEIC"
+    hearings:  error  of  law  hearings,  remaking  hearings,  conventional
+    judicial review hearings and the hybrid judicial review  model  adopted
+    in this case.  In SM and Qadir this Tribunal observed, at [102]:
+
+         "Furthermore, the hearing of these appeals has demonstrated  beyond
+         peradventure that judicial review  is  an  entirely  unsatisfactory
+         litigation vehicle for the determination of disputes of  this  kind
+         ...".
+
+    The words "of this kind" refer to cases such as SM and Qadir and MA  in
+    which the facts  relating  to  the  relevant  events  are  of  critical
+    importance and,  in  consequence,  the  evidence  requires  penetrating
+    examination.
+
+
+90)  Experience has demonstrated that in such cases  detailed  scrutiny  of
+    the demeanour and general presentation of parties and  witnesses  is  a
+    highly important factor. So too is close quarters assessment of how the
+    proceedings are being conducted - for example, unscheduled requests for
+    the production of further documents, the response thereto, the  conduct
+    of all present in the courtroom, the taking of further instructions  in
+    the heat of  battle  and  related  matters.  These  examples  could  be
+    multiplied. I have found the mechanism of evidence by video link to  be
+    quite unsatisfactory in other contexts, both civil and criminal. It  is
+    not clear whether the aforementioned essential judicial exercises could
+    be conducted satisfactorily in an out of country appeal.   Furthermore,
+    there would be a loss of judicial control and supervision of events  in
+    the distant, remote location, with associated potential for  misuse  of
+    the judicial process. The conventional  video  link  bail  hearing,  at
+    which the subject is virtually present but making little or  no  active
+    contribution, is to be contrasted.
+
+91)  For the avoidance of any doubt, we add that with the exception of  the
+    reception of limited oral evidence, the present challenge  was  of  the
+    classic judicial review variety and proved to be ideally suited to this
+    species of legal challenge - without prejudice to (a) our  comments  in
+    Gazi concerning the overall adequacy of this remedy in  cases  of  this
+    genre and (b) the further observation that the crucial issue of whether
+    the Applicant engaged in deception in procuring his TOEIC  certificates
+    remains unresolved judicially.
+
+92) The promulgation of this judgment was initially scheduled  to  coincide
+    with those in the related cases of MA  and  Saha.   However,  this  was
+    frustrated by certain wholly unsatisfactory post-hearing  developments,
+    attributable to the Secretary of State's conduct of the proceedings  in
+    Saha.  Some further delay was caused by the Tribunal's decision to seek
+    further written submissions from the parties on discrete  issues.   The
+    Applicant's representatives duly responded, having sought,  and  having
+    been granted, a brief extension of time.  On behalf of the Secretary of
+    State, what emerged was a delayed response  to  the  Tribunal's  formal
+    Notice which was neither preceded  nor  accompanied  by  a  request  to
+    extend time.  By this response the Secretary of State  also  sought  to
+    adduce new evidence, both within and outwith  the  submission,  without
+    having applied for this facility: see Appendix 3.  We regret to observe
+    that these developments  were  symptomatic  of  the  conduct  of  these
+    conjoined cases on behalf of the Secretary of State.
+
+
+X     OMNIBUS CONCLUSION AND RELIEF
+
+93) On the grounds and for the reasons elaborated  above,  the  Applicant's
+    challenge succeeds in the following terms:
+
+
+      a) The Secretary of State's decision maker failed  to  appreciate  the
+         multiplicity  of  decision  making   routes   available   and,   in
+         consequence, failed to lawfully  exercise  the  discretion  thereby
+         engaged by disregarding material considerations.
+
+
+      b) The Secretary of State's decision maker failed to take into account
+         the relevant policy guidance.
+
+
+      c) The Secretary of State's  decision-maker  failed  unjustifiably  to
+         give effect to the relevant policy guidance.
+
+
+      d)  The  Secretary  of  State's  decision  infringes  the   Wednesbury
+         principle on account of conspicuous unfairness.
+
+
+
+FOR THE REASONS SET OUT ABOVE and UPON THE RESPONDENT HAVING AGREED:
+
+ i) that if the Applicant makes a further application for leave  to  remain
+    by 17 February 2017, the Respondent shall  treat  that  application  as
+    having been made at a time when the Applicant had leave  to  remain  in
+    the UK;
+
+ii) should the Respondent refuse that  further  application,  on  the  sole
+    ground that the Applicant obtained his 2012 TOEIC  by  deception,  then
+    that will not be taken into  account  in  relation  to  the  sponsoring
+    university's refusal rate for the purposes of the  Tier  4  sponsorship
+    requirements; and
+
+
+iii) the Respondent shall moreover not refuse any future application by  the
+    Applicant for leave to remain in the UK  by  reason  only  of  his  not
+    having had leave to remain between 21 February  2015  and  17  February
+    2017
+
+
+
+IT IS ORDERED THAT
+
+
+ 1. The Respondent's decision of 18 December 2014 is quashed.
+
+ 2. Permission to appeal is refused, as the  Respondent's  grounds  do  not
+    raise an arguable case of material  error  of  law  in  the  Tribunal's
+    judgment.
+
+ 3. The Respondent's application for  the  reception  of  further  evidence
+    lodged some four months following the  completion  of  the  hearing  is
+    refused [see Appendix 3].
+
+
+ 4. The Respondent shall pay the Applicant's  costs,  to  be  subjected  to
+    detailed assessment if not agreed.
+
+ 5. Within 14 days of receipt of an estimate of the Applicant's costs,  and
+    subject to having liberty to apply to the Upper Tribunal within that 14
+    day period, the Defendant shall pay 60% of  the  sum  plus  VAT  on  an
+    interim basis without prejudice to the outcome of  detailed  assessment
+    proceedings or settlement.
+
+ 6. There shall be detailed assessment of the Applicant's  publicly  funded
+    costs.
+
+ 7. Liberty to apply.
+
+
+                                                                       [pic]
+                                               THE HON. MR JUSTICE MCCLOSKEY
+                                             PRESIDENT OF THE UPPER TRIBUNAL
+                                              IMMIGRATION AND ASYLUM CHAMBER
+
+                                                     Date:  21 December 2016
+
+                                 APPENDICES
+
+
+                          APPENDIX 1: Ruling 04/08/16
+
+
+ 1) We shall deal with these two interlocutory  matters  in  the  following
+    way.  First, there is an application on behalf  of  the  Respondent  to
+    adduce further evidence.  The further evidence  takes  the  form  of  a
+    second witness statement of one of the Respondent's deponents, Mr James
+    Turner.  It is represented to the Tribunal by Mr Kovats  QC  that  this
+    further evidence is designed to establish as a fact that Mr  Mohibullah
+    has previously attended a number of educational establishments    which
+    have been the subject of, inter alia, licence  revocation.   We  refuse
+    this application for the following reasons.
+
+ 2) First of all, if this evidence had been relevant it would have  had  to
+    form part of the Secretary of State's response, ideally  initially  but
+    at the latest during the several subsequent  phases  of  these  heavily
+    case managed proceedings in the discharge of the Secretary  of  State's
+    duty of candour. Why it did not do so is not explained,  adequately  or
+    at all. Second there is absolutely no evidence before us that this  new
+    evidence was taken into account by the decision maker.  Third this  new
+    evidence has not been put to the Applicant Mr Mohibullah. We could,  of
+    course,  devise  a  mechanism  for  dealing  with  this  problem.   The
+    difficulty with that is that  the  disruption  and  delay  which  would
+    inevitably result in these exhaustively orchestrated and  now  somewhat
+    elderly  proceedings,  involving  three  conjoined  cases,   would   be
+    disproportionate and inimical to the overriding  objective.   For  this
+    combination of reasons we refuse the application.
+
+ 3) Second, we rule on the Respondent's objection to the witness  statement
+    of Ms Patel.  This witness statement is dated  26  July  2016  and  was
+    served in advance of the hearing.  She is a paralegal in  the  firm  of
+    solicitors representing  the  Applicant  Mr  Mohibullah.   Her  witness
+    statement contains certain averments relating to the layout of  a  room
+    in premises which are of relevance to these proceedings. Objection  has
+    been taken on the ground that this purports to be expert evidence  and,
+    secondly, has not been adduced in accordance with the  requirements  of
+    evidence of that category.
+
+ 4) We acknowledge firstly that the issue to which the witness statement is
+    addressed is a relevant issue in  the  proceedings.   Furthermore,  the
+    author of the witness statement does  not  have  the  expertise  of  an
+    architect or engineer.  However,  evidence  of  this  species,  in  our
+    judgment, does not necessarily require expertise of this kind  and  the
+    main question from our perspective will be the weight to be attached to
+    it.   We  take  into  account  further  that  these  are   public   law
+    proceedings, there is no prejudice to the Respondent and no  suggestion
+    of inappropriate timing, ambush or being taken by surprise.
+
+ 5) We shall admit this evidence and, in due course, shall form a  view  on
+    the weight, if any, which it merits.
+
+                         APPENDIX 2: Ruling 05/08/16
+
+
+
+   1) There has been much pre-trial activity in these combined  proceedings.
+      Today's application has as its main focus the issue of  disclosure  of
+      documents  from  both  the  Secretary  of  State  and  also  ETS,  the
+      interested party whose  activities  form  an  important  part  of  the
+      factual framework. At this stage of the combined  hearing,  namely  at
+      the beginning of the hearing of  the  two  conjoined  judicial  review
+      applications, we are required to rule on a discrete issue relating  to
+      the reception of oral evidence.
+
+   2) The origins of this issue can be traced to the  order  of  Mr  Justice
+      Green in the High Court dated 21 March 2016.   His  Lordship  ordered,
+      inter alia, in paragraph 3 that the  parties  shall  prepare  for  the
+      final hearing on the basis that there will be oral evidence and cross-
+      examination of the Applicant, Mr Gardner,  Roxanna  Cram  and  Bernard
+      Evans, while it should be a matter for the trial  Judge  whether  such
+      oral evidence is required.
+
+   3) This wise and pragmatic order has had the consequence that we are in a
+      position to deal with the question of the reception of  oral  evidence
+      without any unwelcome obstruction of or delay in  the  transaction  of
+      this hearing.
+
+   4) The reception of oral evidence in judicial  review  is  undoubtedly  a
+      comparatively  unusual  occurrence,  just  as   an   application   for
+      permission to cross-examine any party or witness.  These are, however,
+      unusual proceedings.  Furthermore, as a matter of general principle it
+      may be said that in the contemporary  world  of  judicial  review  the
+      reception of oral evidence and the phenomenon of cross-examination are
+      likely to be approached a little more broadly and flexibly  than  they
+      would have been during a previous era.
+
+   5)  Hence when it is stated by the Divisional Court in the case of Harris
+      (at pages 596 to 597) that the principles for the  reception  of  oral
+      evidence in judicial review are  "the  following"  (and  the  relevant
+      passage then ensues) we incline to construe this passage as rehearsing
+      applicable principles  which  were  not  necessarily  intended  to  be
+      exhaustive and indeed do not have that effect.
+
+   6) We have considered the written submission of Mr Armstrong on behalf of
+      the applicant Mohammad Mohibullah  and  the  helpful  response  of  Mr
+      Kovats on behalf  of  the  Respondent.   These  challenges  have  been
+      organic.  The organic dimension of these proceedings may  not  yet  be
+      exhausted and we are particularly conscious that this  is  the  second
+      set of combined hearings in this jurisdiction which are likely to have
+      an impact on a substantial quantity of other cases.
+
+   7) Adopting this approach and bearing in mind that without the aid  of  a
+      crystal ball we cannot hope to predict precisely the course which  the
+      admission of oral evidence is likely to take, we propose to accede  to
+      the application.  We shall not do so in rigid terms. Any oral evidence
+      adduced will be received de bene esse.  We shall receive the  evidence
+      and in the usual way shall then decide, following such argument as may
+      be advanced, what weight should properly and rationally be attached to
+      it.
+
+   8) We must make abundantly clear that as in previous instances where oral
+      evidence has been adduced in the forum of judicial review it will have
+      a very narrow focus.  Witnesses will not be giving evidence  at  large
+      and in an open-ended manner and we shall identify clearly  in  advance
+      of each witness testifying the proposed scope of  any  examination-in-
+      chief.
+
+
+
+
+
+
+
+                                                           APPENDIX 3
+
+
+
+
+                            Notice to the Parties
+
+
+
+
+ 1) In apparent and purported response to the Tribunal's Directions dated
+    12/10/16 [appended below], the Secretary of State's representative has
+    filed a written submission signed by counsel.
+
+ 2) The further submission has been served out of time. It is neither
+    preceded by the Tribunal's permission to extend time nor accompanied by
+    an application to extend time.
+
+ 3) At [5] - [9] and [11] - [12] (second sentence) counsel purport to give
+    evidence about certain matters.
+
+ 4) In addition to [3], the further submission is accompanied by new
+    documentary evidence which was not invited or directed by the Tribunal,
+    is not the subject of an application for permission to adduce fresh
+    evidence** and has not been addressed in inter - partes adversarial
+    argument.
+
+ 5) The further submission does not address issues 1(b), 3 5 or 6 in the
+    Tribunal's Directions.
+
+ 6) The Tribunal's embargoed judgment will be transmitted to the parties'
+    representatives on 24/11/16, on the usual strict terms.
+
+ 7) The parties' representatives will communicate any spelling errors,
+    misquotes (etc) to the Tribunal by 16.00 on 28/11/16 at latest.
+
+ 8) The case will be listed for handing down of judgment and determination
+    of costs, permission to appeal and any other ancillary issue at 09.45
+    on 01/12/16.
+
+
+    ** This was re-emphasised by the Tribunal during the embargoed judgment
+    phase of communications. This stimulated an application by the
+    Respondent to have new evidence admitted, almost four months post-
+    hearing. At the hand down stage, Mr Thomann confirmed that he was
+    pursuing this application "formally. Refusing the application, the
+    Tribunal observed that it was as a minimum highly ambitious and, given
+    its timing, was bound to fail.
+
+
+
+
+
+
+
+
+
+                        APPENDED: DIRECTIONS 12/10/16
+
+
+
+
+The parties are invited to provide further submissions, in writing and by
+28 October 2016, addressing the following issues:
+
+
+
+ 1) The applicability of:
+
+      a)  the Home Office guidance "Curtailment of  Leave"  (valid  from  31
+         July 2014); and
+
+      b) Chapter 50 of the Home Office Enforcement Instructions and Guidance
+         (Section 10 - "Non EEA" especially) to the impugned decision of the
+         Secretary of State dated 18 December 2014.
+
+ 2) The factual question of whether the Secretary of State's decision maker
+    took into account either (or both) of the above instruments,  including
+    the evidence bearing on this discrete issue.
+
+ 3) The legal consequences which would flow from a finding by the  Tribunal
+    that the Secretary of  State's  decision  maker  failed  to  take  into
+    account either (or both) of the above instruments.
+
+ 4) The factual question of whether the Secretary of State's decision maker
+    was aware of, and took into  account,  the  multiplicity  of  decision-
+    making routes available in the case of the Applicant.
+
+ 5) The legal consequences which would flow from a finding by the  Tribunal
+    that the Secretary of  State's  decision  maker  failed  to  take  into
+    account the multiplicity of decision-making routes available.
+
+ 6) Whether it is contended on behalf of the Secretary of  State  that  the
+    basic principles of procedural fairness did not apply to  the  impugned
+    decision and the preceding decision-making process of the Secretary  of
+    State, together with any other issue, factual  or  legal,  said  to  be
+    directly related thereto.
+
+
+
+                                                   Dated: 12 October 2016
+
+
+
+
+
+
+
+
+
+       Signed:
+                    The Honourable Mr Justice McCloskey
+                    President of the Upper Tribunal
+                    Immigration and Asylum Chamber
+
+
