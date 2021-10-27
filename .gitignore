@@ -1,5 +1,6 @@
 # Ignore data folders
-/Users/albertamurgopacheco/Documents/GitHub/TFM/data
+/Users/albertamurgopacheco/Documents/GitHub/TFM/data/raw
+/Users/albertamurgopacheco/Documents/GitHub/TFM/data/processed
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
