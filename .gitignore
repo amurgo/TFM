@@ -1,6 +1,3 @@
-# Data folders
-/Users/albertamurgopacheco/Documents/GitHub/TFM/data/raw
-/Users/albertamurgopacheco/Documents/GitHub/TFM/data/processed/txt_files
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
