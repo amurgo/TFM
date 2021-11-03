@@ -159,11 +159,19 @@ dependencies:
     - click==7.1.2
     - conllu==4.4.1
     - cymem==2.0.5
+    - emoji==1.6.1
     - en-blackstone-proto==0.0.1
+    - en-core-web-sm==3.1.0
     - fastapi==0.68.2
+    - funcy==1.16
+    - future==0.18.2
+    - gensim==4.1.2
     - h11==0.12.0
     - imapclient==2.1.0
+    - joblib==1.1.0
     - murmurhash==1.0.5
+    - nltk==3.6.5
+    - numexpr==2.7.3
     - numpy==1.21.2
     - pandas==1.3.2
     - pathy==0.6.0
@@ -172,19 +180,28 @@ dependencies:
     - plac==1.1.3
     - preshed==3.0.5
     - prodigy==1.11.4
+    - protobuf==3.19.1
     - pycryptodome==3.11.0
     - pydantic==1.8.2
     - pyjwt==2.2.0
+    - pyldavis==3.3.1
+    - regex==2021.10.23
+    - scikit-learn==1.0.1
+    - scipy==1.7.1
     - six==1.12.0
+    - sklearn==0.0
     - smart-open==5.2.1
     - sortedcontainers==2.4.0
-    - spacy==3.1.3
+    - spacy==3.1.4
     - spacy-legacy==3.0.8
     - speechrecognition==3.8.1
     - srsly==2.4.1
+    - stanza==1.3.0
     - starlette==0.14.2
-    - thinc==8.0.10
+    - thinc==8.0.12
+    - threadpoolctl==3.0.0
     - toolz==0.11.1
+    - torch==1.10.0
     - tqdm==4.62.2
     - typer==0.4.0
     - typing-extensions==3.10.0.2
